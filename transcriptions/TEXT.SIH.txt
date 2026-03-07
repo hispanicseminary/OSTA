@@ -1,0 +1,1963 @@
+{RMK: HSMS-0431.}
+{RMK: Juan de Mena.}
+{RMK: [SIH] Sumas de la Ilíada de Homero.}
+{RMK: Valladolid | Arnaldo Guillén de Brocar | 1519-04-23.}
+{RMK: Barcelona | Biblioteca de Catalunya | Res 31-12º.}
+{RMK: Francisco Gago Jover.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0431-0001: Carta al señor don Hernando Enríquez.} {MIN.}
+{RUB. Esta es la yliada de home-
+ro en roma<n>ce. Traduzida por
+Juan de mena.}}
+[fol. 1v]
+{CB1.
+% El presente libro se nombra la ylia-
+da de homero historiador muy antiguo padre y princi-
+pio delos poetas. Traduzida del griego y latin en len-
+gua vulgar castellana: por el famoso poeta castellano
+Juan de mena embiola el licenciado Alonso rodriguez
+de[ ]tudela al illustre & muy magnifico sen~or el sen~or don
+Hernando enrriquez con la presente carta.
+{RUB. % Jllustre y muy
+magnifico sen~or.}
+{IN11. {MIN.}} SEntencia es de aq<ue>l
+diuino platon padre dela phi-
+losophia en vn libro que de re
+publica hizo que ento<n>ces los
+reynos y republicas floresce<n>
+y se pueden llamar bienauen-
+turadas quando los que las
+gouiernan y mandan con se-
+n~orio de subjecion son sabios
+y amadores de scie<n>cias y aco-
+stu<m>bran leer libros ((que se d(z)i[z]en fieles amigos)) porque
+el consejo que los grandes sen~ores han de tomar ha de
+ser de sus criados y personas que biue<n> en sus casas y lle-
+uan sus dineros/ los quales no tiene<n> osadia para les de-
+zir libremente lo que sienten/ mas comu<n> mente andan a
+sabor de paladar y les aco<n>sejan aq<ue>llo que conoscen que
+han mas gana no les querie<n>do auisar no les osando re-
+prehender van conellos al amor del agua. De manera
+que los mas delos q<ue> comunican con los altos estados.}
+[fol. 2r]
+{CB1.
+acostu<m>bra<n> traer libreas de lisonjas: y por esto se duda q<u><<a>>l
+es mejor vida la delos altos y grandes estados/ o la de
+los baxos y pequen~os y concluye<n> los mas y co<n> razon q<ue>
+el estado delos vulgares tenie<n>do medianame<n>te lo que
+han menester es el mas seguro: vida mas quieta y mas
+descansada y de menos descontentamie<n>tos y es estado
+donde se hallan fieles consejeros y verdaderos amigos
+lo q<ue> los grandes sen~ores no pueden tener. Y ansi ay tan
+gran falta donde ay necessidad de mayor abundancia:
+y por esto han menester buscar socorro y sea delos libros
+que no saben mentir: y an que todos los auctores q<ue> tra-
+tan delos estudios dela humanidad trayan prouecho a
+los que los siguen los historiadores son mas prouecho-
+sos: porque encomendaron ala immortalidad delas le-
+tras los claros hechos delos passados/ los quales ani-
+man y esfuerc'an alos que los leen a otros semejantes /
+y por esta causa me parescio embiar a v<uest>ra sen~oria este li-
+bro que se llama la yliada de homero que fue poeta & hi-
+storiador muy excelente/ el qual escriue y cuenta los he-
+chos y grandes hazan~as acaescidas enel cerco de troya
+Como quiera que esta historia aya sido escrita por algu-
+nos hystoriadores antiguos y mas nueuos que en al-
+gunas cosas fuero<n> lexos dela verdad/ los vnos porque
+trasladaron delos historiadores troyanos/ los quales
+quisieron fauorescer su patria/ otros por lisonjear alos
+emperadores romanos/ los quales se[ ]jatan venir delos
+mismos: & ansi colocaron las cosas de su partido. Supli-
+co a vuestra sen~oria reciba este pequen~o seruicio con la
+mucha voluntad que siempre tuue de seruir a v<uest>ra illu-
+stre sen~oria cuyo estado n<uest>ro sen~or acresciente por lue<n>gos
+tiempos que sera a su seruicio.}
+{SG. a ij}
+[fol. 2v]
+{CB1.
+{RMK: HSMS-0431-0002: Proemio al rey don Juan el segundo.} {RUB. % Comie<n>c'a la yliada de homero: tra-
+duzida en le<n>gua vulgar por el famoso poeta castellano
+Juan de mena.}
+{RUB. % Prohemio de Juan de mena
+al rey don Juan el segundo.}
+{IN11. {MIN.}} EL muy alto & muy
+poderoso principe & muy hu-
+mano sen~or don Juan el se-
+gundo: por aspiracion dela
+diuinal gr<aci>a muy digno rey
+delos reynos de Castilla y
+de leon &c. U<uest>ro muy humil-
+de y natural sieruo Jua<n> de
+mena/ las rodillas en tierra
+beso v<uest>ras manos y me reco-
+miendo en v<uest>ra alteza y sen~oria. Muy alto y muy bien
+aue<n>turado rey por esso los hechos marauillosos a buel-
+tas con los q($u)[u]e los fallan se gozaron jamas ocurrir ala
+excelencia de real dignidad: porq<ue> alli son las cosas pue-
+stas en rico precio y proueydas de deuido no<m>bre y mesu-
+rado acatamiento donde mejor son especuladas y cono-
+cidas. Por esto los rieptos & desafios ante la sacra ma-
+jestad delos reyes se dema<n>da<n>/ porq<ue> los buenos q<ue> su vir-
+tud offrescen al riguroso examen delas armas/ esperen
+dela real casa corona de meritos en aprobracio<n> de su opi-
+nion/ assi como aq<ue>lla que es estudio de prophanas y se-
+glares virtudes. E avn esta virtuosa ocasio<n> rey muy po-
+deroso trae ala v<uest>ra real casa toda via las ge<n>tes estrange-
+ros con diuersos presentes y dones. Uienen los vaga-mundos}
+[fol. 3r]
+{CB1.
+afforros q<ue> con los napales y casas mouedizas
+se cobijan desde los fines d<e>la arenosa libia dexa<n>do a sus
+espaldas el monte atalante a vos presentar leones yra-
+cundos. Uiene<n> los de garama<n>tris y los pobres araxes
+concordes en color co<n> los Etiopes por ser vezinos dela
+adusta & muy calie<n>te zona a vos ofrecer las trigres odo-
+riferas. Uienen los que moran cerca del nicornemonte
+bromio y acechan los quemados espiraculos delas bo-
+cas cirreas poluorientas dela ceniza de feton pensando
+saber los secretos delos tripodas & fuella<n> la deseada te-
+bas/ a vos traer espingos bestias questiona<n>tes. Traen
+a. v<uestra>. a<lteza>. los orientales judios los elefantes mansos con
+las argollas de oro cargados de linaloes/ los quales
+la cresciente delos quatro rios por grandes aluuiones
+de alla donde manan destorpa y somueue.
+Traen vos estos mismos los relumbrantes paropos/
+los nubiferos acates/ los duros diamantes / los claros
+rubis/ y otros linajes de piedras las quales la circun-
+dancia delos solares rayos en aquella tierra mas bru-
+(n)[n~]e(~) y clarifica. Uienen los de syria gente amarilla de es-
+codrin~ar el tibar que es fino oro a vos presentar lo que
+escaruan y trabajan. Traen vos muy excelente rey los
+frios septentrionales que beuen las aguas del ancho(n)
+danubio/ & a( )vn del elado reno y sienten primero el bo-
+real viento qua<n>do se comienc'an a mouer los blandos
+armin~os y las finas martas y otras pieles de bestias di-
+uersas/ las quales la muy secreta sagacidad dela na-
+turaleza por guardarlas dela gran intemperancia del
+frior en aq<ue>llas partes de mas espesso y mejor pelo pue-
+bla y prouee.
+Uengo yo vuestro humil sieruo y natural a v<uest>ra clemen-
+cia benigna/ no de ethiopia con relumbrantes piedras/}
+{SG. a iij}
+[fol. 3v]
+{CB1.
+no de Syria con oro fino/ ni de Affrica con bestias mon-
+struosas y fieras/ mas de aquella v<uest>ra cauallerosa cor-
+doua: y como quier que de Cordoua/ no con aquellos
+dones ni sembla<n>tes de aquellos que los mayores y an-
+tiguos padres de aq<ue>lla/ alos gloriosos principes vue-
+stros antecessores/ & alos que agora son y avn despues
+seran bastaro<n> a offrecer y presentar. Como si dixessemos
+de Seneca el moral: de Lucano su sobrino: de Aben-
+rruyz/ de Auicena y otros no pocos/ los quales temor
+de causar fastidio mas que mengua de multitud me de-
+uieda los sus nombres explicar. Ca estos rey muy ma-
+gnifico presentauan lo que suyo era/ y delos sus inge-
+nios emanaua & nascia: bien como hazen los gusanos
+que la seda que offresce<n> alos que los crian/ delas sus en-
+tran~as la sacan y traen. Pero yo a. v<uestra> a<lteza>. siruo agora por
+el contrario ca presento lo que mio no es/ bien como las
+abejas roban la sustancia delas melifluas delos huer-
+tos agenos y la traen aquestas y la ent[r]epone<n> a su mae-
+stra Bien assi yo muy poderoso rey vso en aqueste don y
+presente/ ca estas flores que a. v<uestra>. sen~oria aparejo presen-
+tar del huerto del gran Homero monarcha dela vniuer-
+al poesia son. E aquesta consideracion ante leuando,
+gran don es el que yo trayo/ si el mi fructo y rapina no
+lo viciare: y avn la osadia temeraria & atreuida ((es a sa-
+ber)) de traduzir & interpretar vna tanto seraphica obra/
+com(a)[o] la yliada de Homero de griego sacada en latin/ y
+de latin enla nuestra materna y castellana lengua vul-
+garizar. La qual obra apenas pudo toda la gramati-
+ca y avn eloquencia latina comprehender y ensi recebir
+los heroycos cantares del vaticinante poeta Homero.
+Pues quanto mas hara el rudo y desierto romance.
+Acaescera por esta causa ala homerica yliada como a-las}
+[fol. 4r]
+{CB1.
+dulces & sabrosas frutas en fin del verano que ala
+primera agua se dan~a/ y ala segunda se pierden. E assi
+esta obra recebira dos agrauios: el vno enla traducion
+latina/ y el mas dan~oso & mayor enla interpretacion del
+romance que tiento y pr(u)[e]sumo de le dar. E por esta ra-
+zon muy prepotente sen~or dispuse de no interpretar de
+veynte y quatro libros que son enel volumen dela ylia-
+da/ saluo la suma breuemente dellos: no como homero
+palabra por palabra lo cuenta/ ni con aquellas poeti-
+cas estensiones ni ornacio<n> de materias: ca si alli se ouie-
+se de escreuir gran aparato y compendio se hiziera: mas
+escriue homero delas esculturas solas y varias figuras
+que eran enel escudo de Achilles de compendio/ que ay
+en aqueste todo volumen. E avn dexe lo de hazer por
+no dan~ar ni offender del todo alta obra traye<n>do gela
+enla humilde y baxa lengua del romance: mayormen-
+te no auiendo para esto v<uest>ro regio mandamiento. Y
+avn porque sera<n> a. v<uestra> a<lteza>. estas sumas como las muestras
+alos que quieren en finos pan~os acertar. Assi rey muy
+excelente estara en vuestra real mano y mandamiento
+vistas aquestas sumas o muestras mandar/ o vedar to-
+(y)[d]a la otra plenaria/ o estensa interpretacion traduzir/ o
+dexar en su estado primero. E porque aquella fama o
+memoria sobre la qual han rodado siglos de grande an-
+tiguedad es mas comendable y de loar/ si despues de
+muchos tiempos/ a fuer de cosa immortal es perpetua-
+da y conualesce. Por ende muy temido sen~or/ noto en
+este pefacio las altercaciones que los autores sintiero<n>
+delos tiempos en que homero aya seydo. Eusebio y al-
+gunos otros enlas sus coronicas escriuen Homero a-
+uer florescido en grecia en tiempo del rey Melanto de-
+cimo sexto rey delos athenienses. Mas avn qua<n>ta di-sonancia}
+{SG. a iiij}
+[fol. 4v]
+{CB1.
+y desacuerdo acerca delos antiguos sobre ho-
+mero aya estado manifestar se puede por lo siguiente.
+Ca dizen otros con los quales es Socrates que ouiesse
+seydo Homero ante dela decendida delos Eraclitas.
+Aristotiles dize que fue cien an~os despues dela jouica
+transmigracion. Philocorro recue<n>ta que fue enel tiem-
+[po] mesmo dela jouica transmigracion: enlos tiempos de
+Arc'ispo magistrato de athenienses/ despues de toma-
+da Troya. c. lxxx. an~os. Apolodoro dize que dozientos
+y quarenta an~os despues dela destrucion de Troya. E
+fueron otros conlos quales Artilogio quiere dezir que
+fue veynte y dos an~os despues dela introducio<n> del jue-
+go olimpiada/ y cinco an~os despues que Troya fue de-
+struyda. Otros dizen que fue en tiempo del rey Lanete
+quarto rey delos lacedonios/ enel quarto an~o de su rey-
+nado/ assi homero como esiodo. E por aqui puede. v<uestra>. a<lteza>.
+considerar en quanto precio los philosophos y hystorio-
+graphos al Homero tengan/ y quantas vigilias ayan
+padecido por[ ]saber avn si quiera los tiempos de su con-
+curso y nascimiento/ & por argumento dela mayor opi-
+nion delos mas que del nascimiento de Homero saber
+procuraro<n>/ fue en tal tiempo que bien pudo ser informa-
+do de vista delos que enla tr(a)[o]yana captiuidad y destru-
+cion se pudieron acaescer. Pues que atreuimiento sin
+freno cego a Guido de colunis medico d<e> pisa/ para que
+tentasse como de nueuo de se boluer & ordenar los casos
+dela gran Troya en coronica copilando/ mayormente
+que no concurrio este sino enel tiempo del bienauentu-
+rado don Alonso de gloriosa & rica memoria que dios
+aya vuestro muy digno y claro trasuisahuelo. E no sola-
+mente tento aqueste de escreuir siniestras cosas enla tal
+obra: mas avn lo que peor es oyr/ muchas vezes en}
+[fol. 5r]
+{CB1.
+ella reprouando y acusando al monarcha padre delos
+p(e)o[e]tas Homero. y que supiera Guido ni avn todas los
+otros de quie<n> el rebusco para escreuir si ouo seydo troya:
+si por la seraphica y quasi diuinal obra de Homero co-
+mo de original no lo ouiesse auido. Ca no fue mas desa-
+strada la postremeria de Priamo/ de quanto Homero
+quiso/ ni Hetor mas llorado/ ni mas enamorado Pa-
+ris/ ni Achiles mas famoso/ ni mas prudente Nestor/
+ni Ulixes mas astuto/ ni Ajas mas osado/ ni el Ylion
+mas hermoso/ ni los puertos mas llenos de fustas/ ni
+de tiendas los reales/ ni los templos de sacrificios/ de
+quanto la rica pluma de Homero/ por sabia mano mi-
+nistrada quiso moderar y perpetuar. E pongamos que
+estos hechos fueron assi o mas allende/ o mas allende
+de quanto assi. Pudieran mas durar de quanto natu-
+raleza la sostuuo? cierto no si el claro ingenio de Home-
+ro no los desnudara delas ciegas tinieblas de oluidan-
+c'a/ alas quales la antiguedad tenia offrecidos/ dando
+a todos estos lo que por naturaleza a todos negado es
+((es a saber)) la biua y perpetua immort(i)[a]lidad. Pode-
+mos dezir que en otra manera al mantuano virgilio y
+con boca mas llen~a & ingenio mas agudo estudiaua en
+hazer loores a Homero que Guido de colunis enlo re-
+prouar. El qual Uirgilio por algunos imbidiosos esti-
+mulado q<ue> la su obra delas Eneydas por la mayor par-
+te fuesse hurtada y su[s]btrayda del Homero. Uergilio res-
+pondia. {LAT. Nunquid et parum est clanam a manu hercu-
+lis eripe.} Quiere dezir. Como pequen~a cosa es te<n>tar de
+sacar la mac'a dela mano de hercules? haziendo Uirgi-
+lio de si el tentador y hercules de Homero. E ouidio de
+si mesmo/ el qual no supo mejor Ioar a Uirgilio que fa-
+ziendole remedador y contrahazedor enestas palabras.}
+[fol. 5v]
+{CB1.
+{LAT. Uirgilius magno quantum concessit homero: tantum
+ego virgilio cognosco poeta meo.} Que quiere dezir.
+Quanta ventaja conoscio Uirgilio al grande Home-
+ro tanta conosco yo Ouidio a Uirgilio el mi poeta. En
+otra parte escriuiendo Comacro hystoriographo a su a-
+migo/ no supo con q<ue> mas loarlo/ saluo deziendole q<ue> el es-
+criuia delos casos de Troya lo que el perdurable Ho-
+mero dexara por escreuir. Estas son sus palabras. {LAT. Cum
+cauis eterno quidquid restabat homero: ne careant su-
+ma troica bella manu.} Quiere dezir. Tu macro cantas
+aquello si en algo podemos dezir que dexo por cantar
+el perdurable Homero: porque las batallas troyanas
+de alta mano de escreuidores no carezcan: & las impe-
+riales leyes por los juris consultos con madura vigilia
+especuladas con Homero alegan: y muchos loores en
+lugares diuersos le hazen. El primer libro delas sus[ ]pan-
+detas enel prohemio cerca de fin/ padre de toda virtud
+le llaman enestas palabras. {LAT. Apud homerun patrem
+omnis virtutis.} Enel libro delas instituciones enel ti-
+tulo del derecho natural por mas excelente delos poe-
+tas dizen quele entendamos. Pues que se puede dezir
+de Homero quando siete cibdades en grecia litigauan
+diziendo cada vna: Homero fue de nuestra cibdad. So-
+bre la qual altercacion no ouieron pequen~a guerra. Y
+el philosopho no oluida de alegar en muchos lugares a
+Homero y traelo en prueua delo que dize. Pues dexa-
+dos los philosophos y cientes/ no fue en pequen~o pre-
+cio tenida la boz de Hom(o)[e]ro/ antes en tanto gra<n>de que
+Alexandre hijo de Philipo venido sobre el sepulcro de
+las cenizas do Achiles yazia/ & hazie<n>dole honores y fu-
+nerarias obsequias / leyo el epithaphio de su sepulcro: el
+qual Homero ditara/ & dixo alli que seria bien contento}
+[fol. 6r]
+{CB1.
+de trocar la prosperidad que los dioses le tenian apare-
+jada & partir mano dela parte que los dioses enel cielo
+le pudiessen dar por auer vn tan sumo & alto actor de sus
+fechos como Achiles auia auido en Homero.
+Assi he dilatado mi pluma muy bienauenturado sen~or
+hasta aqui en loores de Homero a dos fines: por dan~ar
+y destruyr si pudiese los dichos que Guido escriuio en
+offensa de Homero: & avn lo mas principal por causar
+alos lectores nueuo amor y deuocion con las altas o-
+bras deste auctor. Opinion fue de muchos que Home-
+ro fuesse ciego & avn ouiesse nascido assi/ y que fuesse de
+luenga vida y que passo numero de cien an~os segun es-
+criue Ualeri(a)[o] maximo enel titulo d<e>las muertes no vul-
+gares do<n>de an~ade como fenescio por no saber soltar vna
+question a el puesta por vnos pescadores/ lo q<u><<a>>l yo mas
+dudo que creo.
+Los libros que del se hallan son esta yliada que contie-
+ne en si veynte y quatro libros. E llamo la yliada de
+ylio<n> que fue nombre dela propia cibdad de Troya: hi-
+zo otros veynte y quatro libros delos yerros y casos. de
+Ulixes despues que partio de troya. ala qual obra mu-
+cho remeda Uirgilio enel tercio d<e>las Eneydas donde
+escriue los yerros q<ue> hizo Eneas desde troya fasta venir
+en cartago. E llamola Odisea porque odises dizen los
+griegos por vlixes. Hizo otra pequen~a obra de buelas
+que en griego es dicha {GRK. bratachoni/ o machia:} y en latin
+se puede llamar. {LAT. Ranaru<m> muriu<m>q<ue> pugna.} Otras algu-
+nos obras atribuyen a el/ pero dudase por muchas ra-
+zones que Homero la hiziesse. Presuponer se deue assi
+mesmo que Homero enesta obra no recuenta/ saluo los
+hechos que acaescieron enlas guerras de Troya enel
+an~o noueno despues que fueron comenc'adas hasta el}
+[fol. 6v]
+{CB1.
+an~o dezeno que se fenescieron/ porque los mayores he-
+chos fueron en aquellos dos an~os/ y todos los ocho a-
+n~os de antes hazian dan~o los griegos enlos reynos y
+prouincias de troya: no empero que tuuiessen sitio ni se
+acostassen ala cibdad/ & por ende todo lo otro traspassa y
+pone atras homero. E assi mesmo es de saber que vna
+cibdad era cerca de troya que se dezia Crisia/ & auia en
+ella vn obispo/ o sacerdote antiguo del templo/ tenido
+por los obispos en grande acatamiento de religion/ el
+qual se llamaua Crisis: y tenia vna hija donzella que se
+llamaua Crisida: los griegos tanto estuuiero<n> sobre esta
+cibdad que la entraron por fuerc'a. Entre las otras co-
+sas que metieron a saca mano/ tomaron aquella donze-
+la Cris(a)[i]da. Porque a voto delos mas delos griegos
+por la gran fama dela religon desu padre y por la hone-
+stad grande que enla donzella se mostraua quisieran la
+dexar/ mas por ser tan esmerada en hermosura contra
+grado de todos el rey Agamenon la manda retener
+& guardar para si. Y aquesta es la razon que aqui al co-
+(co)menc'o introduze Homero/ porque el dios Phebo se
+ensan~o contra los griegos.
+% Pues agora muy esclarecido rey & sen~or hare algu-
+nos titulos sobre ciertos capitulos en que departi estas
+sumas: avn que todos los poetas segun la soberuia de
+su alteza procedan sin titulos: pero an~aderlos he yo por
+hazer mas clara la obra alos que en roma<n>ce la leyeren.
+{RMK: HSMS-0431-0003: Sumas de la Ilíada de Homero.} {RUB. % Capitulo primero enel
+qual Homero exclama la sentencia/ &
+assigna en summa la causa dela gran pe-
+stilencia.}}
+[fol. 7r]
+{CB1.
+{IN6. {MIN.}} DJuinal musa canta comigo la yra del so-
+beruio hijo d<e> peleo el q<u><<a>>l traxo mortajas
+tristes alos miserables troyanos: & assi
+mesmo dio al infernal huerco las a<n>i<m>as
+fuertes delos sen~ores/ trayendolos mie<m>-
+bros sin sangre de aq<ue>llos alos rostros de
+las aues ladra<n>tes/ y los sus huessos al lugar sin sepultu-
+ra. Aq<ue>sto fazia la sente<n>cia del sumo rey Jupiter despues
+q<ue> el ceptrigero atrides agamenon tenedor del tal cetro
+greciano sembro por a<n>i<m>o discorde questiones de guerra
+a bueltas co<n> Achiles claro por batalla: qual dios fue a-
+quel que mando aquestos contender en yra triste: qual
+dios implo(c)[r]o/ o inficiono los cuerpos delos griegos de
+graue mal moribundo y pestilencial.
+{RUB. % Capitulo .ij. com(e)[o] el sacerdote Crisis rue-
+ga con dones a Agamenon que le buelua su
+hija/ y como Agamemo<n> menosprecia los do-
+nes y palabras y le manda yr sin la hija.}
+{IN4.} CA en otro tie<m>po Crisis sacerdote de phebo to-
+cado del amito y sole<m>ne velo lloro los solazes
+dela su rapinada hija por Agamenon toma-
+da por fuerc'a: y todos dias y todos tiempos
+dela noche que priuado se fallaua dela filial vista llora-
+ua Crisis como si co<n> lagrimas ouiesse de redemir el des-
+seo en llena<n>do los ayres de cotidianas querellas: Des-
+pues q<ue> dia ninguno de lagrimas no apartaua el su ani-
+mo/ ni solazes ningunos ama<n>sauan los llantos pater-
+nos: fuese Crisis alos reales delos griegos & inclinado
+en hinojos ante Agamemo<n> comienc'a el miserable viejo
+de orarle por los dioses por la honor delos sus reynos }
+[fol. 7v]
+{CB1.
+mandasse dar a el su hija causa dela salud de su vejes/ a
+bueltas dela oracion offreciendole dones gra<n>des. Los
+mirmidones que estauan a esta proposicion fueron ven-
+cidos por las lame<n>taciones de aquel sintian & disponia<n>
+que deuia ser dada Crisida a su padre: pero Agameno<n>
+negaua/ no queria aquesto: antes mando al viejo Cri-
+sis salir d<e>los palacios en despecho de toda piedad/ a ma-
+nera de fiero y cruel/ q<ue> tenia los amores de aq<ue>lla array-
+gados enel profundo d<e> sus huessos: en tal manera que
+la luxuria dan~osa le hazia menosp<re>ciar en tal caso todos
+ruegos y plegarias.
+{RUB. % Capitulo. iij. Como haze Crisis gran llan-
+to enel templo de phebo por su hija que no le
+bueluen: y como se querella a phebo.}
+{IN4. {MIN.}} QUando el sacerdote Crisis se vido menospre-
+ciado de Agameno<n> socorriose al te<m>plo de phe-
+bo/ enel qual con v(n)[n~]as enfiestas comenc'o de
+rasgar sus fazes inflamadas de yra/ despeda-
+c'ando y messando sus bla<n>cas barbas y cabellos. E lue-
+go a gemidos lanc'ados lagrimas se requieren/ a buel-
+tas delas quales con bozes co<m>pelia y hazia inclinar las
+sacras orejas del fatidico phebo/ y de aquellas bozes for-
+maua tales palabras. Que aprouecha a mi auer ho<n>ra-
+do la tu dignidad d<e>l rico phebo/ o auer traydo y por mu-
+chos an~os guardado vida limpia y casta. Que ayuda
+a mi auer puesto fuegos sagrados enlos tus altares/ pu-
+es yo sacerdote tuyo fuy men(e)[o]spreciado y baldonado d<e>
+Agameno<n> enemigo forense. Estos son phebo los galar-
+dones que tu me das enla postremeria dela mi desierta,
+vejez? assi soy de ti agradecido? o assi me tienes debaxo}
+[fol. 8r]
+{CB1.
+de tu juyzio seguro? Por ventura si yo ygnorante come-
+ti crimen alguno en que te offendiste/ porque cessa la tu
+diestra de passar contra mi por pena? Por que no dema<n>-
+das los tus arcos sagrados ni enderec'as contra mi tus
+frechas/ & assi eras autor dela mi muerte. Y viendo tu
+dios aqui al mereciente padre: porque razon perdonas
+a mi y te plaze que la hija padezca por los paternos pe-
+cados? la q<u><<a>>l digna de recebir misericordia esforc'ada a
+padecer lesion yazija de cruel enemigo.
+{RUB. % Capitulo. iiij. Como ouo gran pestilencia
+enel real delos griegos: & como Colcas supo
+delos dioses que esta pestilencia venia por la
+hija de Crisis que tenia Agamenon forc'ada
+& como los griegos forc'aro<n> a Agameno<n> q<ue> la
+embiase al su padre: & como fue lleuada por
+vlixes.}
+{IN4. {MIN.}} AQuestas palabras enarraua el sacerdote cri-
+sis/ quando phebo mouido por las crueles q<ue>-
+rellas de su hijo Crisis/ enemistose co<n>tra los
+griegos y embio pestile<n>cia por todos los sus
+pueblos / comenc'o de caer por muerte el vulgo dellos/
+en ta<n>ta manera que apenas quedo la casa del rey sana
+& tanto fue grande la mortandad/ q<ue> por pocas no le vie-
+ra parte del ayre vazio delos fuegos en que la multitud
+delos cuerpos se quemauan: ni se hallaua ca<m>po sano pa-
+ra los sepulcros. Esta pestilencia duro por nueue dias/
+& quando el decimo fue demostrado al mundo el claro
+Achiles co<n>uoco alos proceres & gra<n>des hombres delos
+dan~os en consejo/ & amonesto a ellos q<ue> deuian pugnar
+por saber delos dioses la causa de aquella maluada pe-
+stilencia. Alli embiaron a Colcas el q<u><<a>>l aconsejado con}
+[fol. 8v]
+{CB1.
+las deidades delos dioses hallo las causas d<e> aquellos
+males: pero auia verguenc'a y temor delos hablar por
+miedo de agameno<n>: mas assegurado enel fauor de achi-
+les/ aquestas palabras propone. Amansemos las dei-
+dades d<e>l san~oso phebo y retornemos la casta Crisida al
+piadoso padre/ si nosotros griegos queremos entrar en
+puertos de salud. Dixera colcas aq<ue>stas palabras quan-
+do la viole<n>cia y san~a del rey agameno<n> exardecio & luego
+a Colcas testorides por dichos amargos me<n>tiroso lo lla-
+ma y de alli incuso el grande Achiles: pero todos fuero<n>
+ensan~ados los griegos contra agameno<n>. Ala fin dexa-
+do el clamor sobre esto mouido fue compelido Agame-
+non a dexar los amores forc'osos y ser dada Crisida sin
+ser tan~ida de Agamenon al su piadoso padre y muchos
+dones co<n>ella. La q<u><<a>>l vlixes mas eloque<n>te y mas fabla-
+do que todos puesta en vna naueta lle($u)[u]o enlas pater-
+nas regiones/ y despues que alla la dexo retorno sus ve-
+las alas flotas delos griegos.
+{RUB. % Capitulo. v. Como cesso la pestilencia des-
+pues que Crisida fue a su padre restituyda: &
+como agameno<n> y achiles ouieron question.}
+{IN4.} LUego que aquesto fue hecho/ fue amansada
+la deidad del san~oso phebo / y las fuerc'as de
+los griegos ya cerca destruydas fuero<n> restau-
+radas: no empero se aparto de Agamenon el
+ardor de Crisida: antes por muchos dias. lloro los sus
+perdidos amores/ & luego mando priuar al gran Achi-
+les de Brisida/ assi como Achiles auia hecho a el de Cri-
+sida y con solo los fuegos de sus ardores co<n> los ajenos
+Y el fiero nieto de Achiles eaco luego conel espada des-nuda}
+[fol. 9r]
+{CB1.
+se vino contra Agamenon por san~a de aqueste he-
+cho amenazandole muy cruelmente si le no diesse a Bri-
+sida: ni Agamenon se aparejo menos contra este defen-
+derse por espada. E si la casta mano de Palas tenido
+no ouiesse a achiles el ciego amor le ouiere hecho dexar
+turpe y desonesta fama enel siglo alas ge<n>tes argolicas.
+Menopreciadas por achiles las bozes y amenazas in-
+uoco la deidad d<e>la su equorea madre Tetis deesa dela
+mar/ & q<ue> no padezca este fecho & sin ve<n>ga<n>c'a por ruegos fi-
+liales le suplica. E tetis la plegaria oyda del hijo desam-
+paro las aguas y fue leua<n>tada respla<n>decie<n>do por etere-
+os ayres bolo por los castillos delos mermidones y fue
+trayda fata arriba entre las doradas estrellas. Enton-
+ces en ynojos hincada ante Jupiter rey celestial esparzi-
+dos los cabellos p<ro>puso por tales palabras. yo madre
+por mi hijo Achiles vine humilde ala deidad de ti alto
+padre ve<n>ga a mi tu ayuda de mi hijo de atrides Agame-
+non: ca si es consentido a el que dan~asse por batalla los
+amores de mi Achiles/ turpeme<n>te fenescieria la virtud
+dela luxuria sobrada y vencida. Jupiter contra esta di-
+xo. O deesa del gra<n> mar depon y aparta estas querellas
+tristes & aqueste trabajo yo lo terne acerca & comigo que
+dara y consuela alla el meresciente corac'on de tu hijo.
+Dixo jupiter aquello y Tetis deleznada por los ayres
+ligeros vino & abaxose ala riuera paterna y alas gratas
+ondas delas sus hermanas. Offendida quedo Juno &
+dixo contra Jupiter. O marido muy bueno y tanto va-
+le tu griega hija/ & tanto es deuido a Achiles como a mi
+que soy dicha muger tuya & q<ue> trayo dulce no<m>bre de her-
+mana contigo: quieres tu esparzir por intestina batalla
+y muerte de vnos con otros los amados por ti griegos
+& renouar las fuerc'as delos troyanos enlas batallas.}
+{SG. b}
+[fol. 9v]
+{CB1.
+Y assi das estos dones a nos? como y assi soy yo amada
+de ti. Por tales dichos incusaua la yrada Juno al to-
+nante Jupiter y padescia del repuestas no menguan-
+tes de semeja<n>tes contumelias & yrias. Pero entrepue-
+sto el todo poderoso Jupiter alas batallas sobre seyero<n>
+por treguas y embio desde el alto cielo el padre Jupiter
+consejo entre aquestas cosas. El sol inclinado descaual-
+go dela olimpial trayendo la noche: y los griegos cura<n>
+sus cuerpos con ma<n>jares largos y de ay dema<n>dan los
+lechos gozosos dones de descanso.
+{RUB. % Capitulo. vj. Como jupiter embio de no-
+che al dios del suen~o a Agamenon con men-
+saje que se aparejasse para dar batalla alos
+troyanos.}
+{IN4.} LA noche venida assi que las estrellas resplan-
+descian por todo el cielo la folga<n>c'a delos dio-
+ses tenia (a)[o]cupado al humano linaje. Enton-
+ces el omnip[o]tente padre Jupiter al dios del
+suen~o llama y assi le fabla. Ue faz por los tiernos ayres
+tu muy presto d<e>los dioses con bolada ligera. Pide los
+del duque argolico en tanto que dormido lo hallaras y
+ocupado del tu peso dulce/ estos mis mensajeros o ma<n>-
+dados le recuenta como el dia claro atraxere la man~a-
+na de cras y la noche ouiere afuyentado que el llame a
+las armas y ocupe y acometa a sus enemigos que des-
+cuydados & incautos estaran. Oydo el mensaje la tar-
+danc'a no detuuo al mensajero et suen~o se va remando
+por los ayres co<n> plumas ligeras fasta que bolo dentro
+enlos talamos o lecho de Agamemo<n>. El qual hallo que
+auia derribado el no desnudado cuerpo por contentar
+al ligero suen~o sobre el lecho/ el qual lauador delos cuy-dados}
+[fol. 10r]
+{CB1.
+y obras diuinas assi propone. O atrides rey de
+los danaos vela y los mandados del tonante Jupiter
+que yo mensajero te trayo del cielo recibe. Quando el sol
+primero se ascondiere so las aguas manda a tus compa-
+(pa)n~as y gentes guarnecer sus fuertes brac'os y atauiar
+se de habitos batallarosos & con las tus gentes y guar-
+nida caualleria pida & demanda los campos yliacos.
+Dichas por el suen~o a Agamenon estas palabras bol-
+uiose repitiendo luego aquellos ayres mesmos porque
+viniera.
+{RUB. % Capitulo. vij. Como todos los capitanes
+delos griegos se offrescieron a Agameno<n> pa-
+ra la batalla/ & como tersides dezia que no le
+diesse & fizieron el consejo de nestor.}
+{IN4.} ENtre aq<ue>stas el claror dela man~ana abrio las
+alas dela luz. El sen~or Agamenon espanta-
+do delas municiones y suen~os d<e>la noche pas-
+sada hizo conuocar a los duques y capitanes
+de su hueste/ y todas las palabras & visiones a el en sue-
+n~os demostradas por orden les manifiesta/ las quales
+cosas oydas todos le prometan para la pelea las sus
+compan~eras fuerc'as/ y esfuerc'an al duque Agamenon
+ala batalla y el rey co<n>loa por sus dichos los sus corac'o-
+nes fuertes dando a todos gracias yguales. Mas solo
+Terlites q<ue> p<ar>a menos en armas ni peor razonador de le<n>-
+gua no<n> viniera ninguno ala batalla troyana: aqueste
+nego y no consentia que la batalla se diesse: antes amo-
+nestaua a todos que boluiessen el camino alas regiones
+de sus tierras de grecia. Al qual el illustre en consejo vli-
+xes baldono con dichos & firio co<n> vn cetro eburneo que
+enla mano por ventura tenia. Desde alli ardia ya el
+concebimiento dela batalla por fuyr y apressuramie<n>to}
+{SG. b ij}
+[fol. 10v]
+{CB1.
+de yra enlos corac'ones delos griegos todos. Apenas
+hallaras griega mano que de armas caresciesse y el cla-
+mor fasta las estrellas leua<n>tauan. Ala fin la prudencia
+de Nestor solerto por edad de antiguo siglo con manso
+y sabio corac'o<n> disimulaua & ascondia los secretos delas
+empresas de aquesta guerra/ & amonesto alos duques
+recordandoles por dichos las repuestas del tie<m>po suyo
+enla q<u><<a>>l fue vista vna culebra en vn arbol sobir & tragar
+enel nido ocho hijos y encima dellos a su madre/ la q<u><<a>>l li-
+diaua con fuerte corac'on & vn~as agudas por defender
+los. Ento<n>ces dixo assi el viejo Nestor. Amonesta nos a-
+quella vision griegos que fasta el decimo an~o el trabajo
+es. Ca aquel Colcas ouo interpretado aquella vision:
+enel qual an~o caeria el ylion por vigor delas ve<n>cedoras
+armas delos griegos . A todos plugo dela habla de ne-
+tor alaba<n>do el sano seso dela antigua vejez: la habla de-
+xada mando el duque Agamenon ser tornadas las ar-
+mas & atauiar y tener prestos los animos & pechos ala
+pelea. Despues que vino la man~ana & que la luz diur-
+na alc'o de encima dela tierra las calladas sombras de
+la fusca noche: y que el replandesciente sol co<n> sus rayos
+se demostro fuera delas aguas y del insano emisperio/
+mando incontinenti Agameno<n> agroe armas ser arma-
+da toda la su co<m>pan~a greciana ca queria demandar con
+guarnida caualleria y entrar por los ca<m>pos troyanos.
+{RUB. % Capitulo .viij. dela exclamacion que
+haze Homero alas musas.}
+{IN4.} O Musas agora vosotras membrad a mi Ho-
+mero los claros nombres delos duques gre-
+cianos/ & los claros padres q<ue> sobre Troya vi-
+nieron. que cosa es aquella que por orde<n> no}
+[fol. 11r]
+{CB1.
+conocistes vosotras/ y recordad a mi las dulces tierras
+de aquellos: mayormente que aquestas son deidades
+v<uest>ras y officios que a vosotras pertenesce hazer. Pues
+digamos con qua<n>tas naues cada vno vino ala batalla,
+& fenezcamos la comenc'ada obra: & sea tambien Apolo
+autor de aquella & aspire de buenamente & influya la su
+gracia por cada parte de n<uest>ra obra.
+{RUB. % Capitulo .ix. delos principes que viniero<n>
+sobre troya: & las fustas que traxeron.}
+{IN4.} UJno el principe peneleo y lercio agro por ba-
+talla/ y el atroce archisilao y Protenor y Ele-
+no y Hoetes: los quales t[r]axeron numero de
+diez vezes cinco naos con fuertes remos to-
+cando las fincadas & soberuias ondas. Ende vino aga-
+menon nascido dentro delos adarues de mic'enas: el q<u><<a>>l
+escogio la batalladora grecia enesta demanda por rey &
+capitan. Este hizo su venida con cien naues llenas de
+armada caualleria: al qual seguia Menelao co<n> dos ve-
+zes treynta naos. Otras tantas traxo la yra f(o)[e]roce de a-
+ga(p)[m]eno<n>: cerca delos quales venia el fiel Nestor de ani-
+no solerto y poderoso de co<n>sejo con dos hijo suyos con
+tres vezes treynta naues. Uenia astlepio potente por
+virtudes & Pistropo el grande. Estos dos eran gloria
+delos mirmidones: dos cuerpos de mancebos fuertes
+y de gran batalla. Aquestos tan~ero<n> los mares largos /
+con tres vezes treynta naues. Uinieron Polibetes y
+Leonetes con dos vezes veynte naues guarnida[s] y car-
+gadas de fuerte caualleria: y vinieron los duques Eu-
+ripilio y Esteneleo & Diomedes y titides fuerte en ar-
+mas feriendo el mar con fuerc'a de remos con dos vezes}
+{SG. b iij}
+[fol. 11v]
+{CB1.
+quarenta naues cargadas de caualleria. Uinieron el
+poderoso Estalafo y el agro Talamonio/ cada vno co<m>-
+pliero<n> de fuertes remos de traer treynta naos: y el muy
+fuerte Ajas guarnecio dos vezes veynte naos: Uino
+el hijo de Antenor co<n> otras tantas. dos mancebos pre-
+ciados a cerca delos griegos: alos quales acompan~a-
+ua el duro Achiles traydo por mares maternos con cin-
+cuenta fustas. yvan assi mesmo Pidipo y Antiopo ma<n>-
+cebos de Tesallia firiendo ala alta mar con treynta na-
+ues. yua Tritolomo rompiendo las mares de tanerida
+con tres grandes naues: y Rodio con nueue fustas: los
+quales ameleo agro de fuerc'a leuando vna nao menos
+de otras tantas quantas traxo el salamino ajas hijo de
+Telamon. Uino astropio hijo del gran testor: emboeas
+y alpenor nascido de grande y generosa progenie. Di-
+lucio y Mejes animosos nobles en armas. y Toante
+hijo de Andremon claro por linaje: todos aquestos tra-
+xeron vna quarentena de naues. Traxo mas la soler-
+cia de Ulixes doze naues/ al qual con otras ta<n>tas sigue
+Ajas talamonio potente y Egregio por virtud. Tenta-
+ua allende Fineo yr con veynte y dos naues guarni-
+das de armas horribles. Uinieron ydomeneo y Oteo
+cada vno destos guarnidos/ leuaua<n> dos quarentenas
+de naues. E otras tantas naues conduxo Ateneo el de
+la clara gente de menetes: alos quales con sus fuerc'as
+Achiles se acerca. Uinieron Anfimaco el feroce y Alpi-
+mo hijos de Elido y Poligemo claro por virtud & dio-
+res. Aquestos todos otorgaron de caualleria dos vezes
+veynte naues. E vinieron Protesalao y el fuerte Po-
+daraces con tantas fustas guarnidas como traxo Ajas
+olixo. Uino el hijo de Feconte con siete fustas armadas
+al qual seguian a cerca Poliderio & Mochao<n>/ y tan~en-do}
+[fol. 12r]
+{CB1.
+la alta mar con treynta fustas. Aquestos duques y
+las griegas fustas arribaron alas riberas Troyanas
+assi que llegaron por todos dos vezes siete menos que
+mill y dozientas.
+{RUB. % Capitulo .x. Delos principes y capitanes
+que auia en Troya para defenderla.}
+{IN4.} YA a llegaron las sabidas flotas por los cam-
+pos de Troya la greciana ge<n>te se tendia qua<n>-
+do el padre Saturno embio ala mensajera
+Yris a Priamo para que le denu<n>ciasse auer
+venido los fuertes griegos alas batallas. Aquello de-
+nuncio sin ninguna tarda<n>c'a/ y luego co<n>tinuo a este ma<n>-
+dado el primero. Hetor tomo las armas del padre & ma<n>-
+do aquexar a todos los mancebos Troyanos alas pe-
+leas/ ordenando sus gentes las puertas abiertas/ al q<u><<a>>l
+Hetor el yelmo fulgente por oro cobria de toda parte la
+su juuenil cabec'a y los pechos estauan guarnidos del
+torante/ y el escudo enla yzquierda nano/ y la su diestra
+decorada por hasta ligera: afeytaua la mutronica espa-
+da el lado suyo: y assi mesmo las sus altas piernas van
+cubiertas de muy resplandescientes quixotes & can~ille-
+res/ tales quales para Hetor conuenian. A hetor sigue
+Paris causa dela batalla amortajada & triste cayda de
+su tierra/ cauallero fuerte en armas/ y en forma de cuer-
+po mas hermoso que su hermano Hetor. Uan y siguen
+a Hetor Deifebo y Heleno de consuno y el fuerte Po-
+lites/ y el santo Eneas muy cierto hijo de Uenus y Ar-
+chiloco & Atamante el feroce criados por Antenor. E
+yua assi mesmo Pandaro muy generoso hijo de Li-
+caon y Glacon hombre de muy gran virtud en armas}
+{SG. b iiij}
+[fol. 12v]
+{CB1.
+y Ansion & adasto<n> y Ansio & fialtes: y van Anfimaco y
+manchio cada vno noble de aquestos y duque de gran
+corac'on: y Rodio y Pistropio el grande & Jnfuno el fe-
+roc'e/ y con aquestos yua Pireo & Cronio y Elnomio
+hijos de Ansio varones e(m)[n]tramos de edad floresciente
+Alos quales seguio el fuerte Escanio & conel Sarpedo<n>
+inclito hijo de Jupiter y coreuo nascido de clara genera-
+cion & tierra. Con aquestos duques se denfendio la ne-
+ptunia troya: los quales ouieran vencido los engan~os
+delos griegos silos fados no les ouiessen estorbado.
+{RUB. Capitulo .xj. De como Paris huyo
+de Menelao: & como Hetor le rep<re>hen-
+de por ello: y Paris se escusa.}
+{IN4.} YA estauan las hazes guarnidas de resplan-
+descientes armas quando paris funes(c)[t]a fla-
+ma & destruction delos troyanos acata a me-
+nelao enla aduersa batalla/ y el espantado &
+sin acuerdo como el que subito vee la serpiente recogese
+a sus compan~eros. El qual despues que torpemente he-
+tor lo vee ferido de temor increpolo por tales palabras.
+O desonor perdurable de nuestra tierra & infamia y de-
+nuesto de nuestro linaje. Espaldas buelues? tu no du-
+daras en otro tiempo expugnar & violar los lechos de a-
+quel huesp(u)ede Menelao/ del qual agora fuyes sus ar-
+mas fuerc'a temes a donde son fuerc'as/ mayormente
+que assi deuria<n> ser conoscidas de nos & no recelar las fu-
+erc'as delos griegos como enlos theatros en tiempo de
+paz no recelamos los juegos. Pues aqui te muestra
+ser animoso/ ca no ayuda nada alas armas la nobleza
+dela forma antes la batalla conel duro batallador se go-za.}
+[fol. 13r]
+{CB1.
+Y que quieres tu que mientra que tu yazieres enlos
+tus amores co<n> Helena que nosotros trayamos y faga-
+mos las batallas derramando enlos enemigos la san-
+gre nuestra. Mas ygual cosa es q<ue> el impigero atrides
+o menelao concurra enlas aduersas armas contigo y q<ue>
+el pueblo delos griegos y troyanos desarmado este aca-
+tando a vosotros/ & vosotros entramos por voto junto
+dad a[ ]quistion las v<uest>ras aduersas manos deparad y exa-
+minad aquesta dema<n>da por fierro. Dixo hetor aquestas
+palabras contra el qual el priamo sen~or breuemente res-
+ponde. O hermano honor dela nuestra tierra/ avn que
+(que) Helena no es poco amada de mi: pero mas es la
+honrra desseada delas virtudes/ porende no recuso yo
+de entrar la diestra ni la fuerc'a del varon Menelao/ en
+manera que agora a Helena siga en paz a qualquier
+de nosotros que fuere el ve<n>cedor. Esta respuesta de Pa-
+ris conto Hetor alos griegos y alos troyanos/ & plugo
+alos griegos de aquesta sentencia.
+{RUB. % Capitulo .xij. Como entraro<n> en cam-
+po Menelao y Paris solos por Hele-
+na: & como venciera Men(a)[e]lao.}
+{IN4.} LUego apercebido priamo y sus sacrificios a-
+cabos/ las treguas fueron ayuntadas de en-
+tramas partes que estuuiesse el campo segu-
+ro/ mientra Paris entraua en campo co<n> me-
+nelao. Despues de aquesto cada vno delos pueblos an-
+si troyanos como griegos se retraxeron a cada parte hi-
+zieron plac'a/ y el campo quedo desembargado/ y lue-
+go mouio el hermoso Paris Alixandre dela vna par-
+te de toda la gente delos troyanos en armas insignes}
+[fol. 13v]
+{CB1.
+guarnido de hermoso escudo y hermosa lanc'a: contra el
+qual mouio y estuuo Menelao resplandesciente en ar-
+mas yguales & dixo contra paris. Contigo es a mi bue-
+na la batalla que no te alegraras por luengo tiempo co<n>
+n<uest>ra muger/ la qual tu a mi el rey Menelao rapinaste/ y
+tan solamente sea Jupiter presente. Dichas estas pala-
+bras fuese agramente contra el aduerso enemigo. Pa-
+ris al varon venie<n>te alc'o de si por fuerte golpe y en aque-
+xada nanera y recibiose ensi mesmo: y dende alc'o con-
+tra Menelao vna hasta muy sonosa/ la qual esquiuo &
+no empecio a Menelao: y la la<n>c'a embiada por Paris
+ouiera traspassado el cuerpo de Menelao/ si el fuerte pe-
+cho del varon no estuuiesse texido y conseruado por la
+ferrea loriga & por el escudo cubierto de cuero de siete do-
+blezes. E luego a cerca desto el clamor siguia de ambas
+las partes. Entonces el vno y el otro estuuiero<n> quedos
+y el yelmo del vno espanta al yelmo del otro: y el pie del
+vno ala planta del otro esta llegado: y la espada del vno
+se falla y retiene enla resplandeciente espada del otro: pe-
+ro los cuerpos de cada vno son conseruados delas feri-
+das por estar cubiertos de armas resplandescientes: no
+en otra manera peleaua/ saluo como los toros quando
+haze<n> pelea sobr(a)[e] la luzia y hermosa vaca/ hinchie<n>do los
+ayres con grandes mugidos. De aquesta manera des-
+seaua el vno el cuerpo del otro con fuerc'a de duro fierro.
+E como a Menelao le venia ala memoria la su roba-
+da muger/ la fuerc'a le crescia y apremio al dardanio ma<n>-
+cebo por golpes: y luego como Menelao cobdicio ferir
+con la rezia espada al ma<n>cebo Paris que contra atras
+se yua retrayendo. La resplandida como firio enel cerco
+y enlas finales partes del yelmo de Paris/ salto fuera
+dela mano de Menelao y ouo causa de mas se encen-der/}
+[fol. 14r]
+{CB1.
+avn que la su mano de espada carescia/ y fuesse el
+vencedor Menelao contra el moc'o Paris y arrebato
+lo por el penacho del yelmo y derribolo a tierra y preso
+lo traxera assi los griegos sus compan~eros/ sino fuera
+porque la citarea Uenus entretexo nuues en derredor
+del mancebo de ciega escuridad. Las correas de yel-
+mo de Paris que estauan ligadas fondon dela su bar-
+ua por fuertes nudos Menelao las rompio: aquel dia
+ouiera sido postrimero dela vida de Paris. Pero me-
+nelao lleuo consigo el yelmo resplandesciente de oro. E
+como ardiente cauallero fuesse a poner en medio delos
+proceres & ricos hombres de grecia. Otra vez como de
+comenc'o recurio y con fuerc'as valientes arrojo la gran-
+de hasta enel estrago de rigia o Paris/ al qual Uenus
+libro delas armas de Menelao su enemigo y conserua-
+do lo lleuo alos talamos de Helena/ & hizo venir a He-
+lena delos muros altos do era acatando alos amores
+de Paris dardanio.
+{RUB. % Capitulo .xiij. De como Helena se razono
+con Paris y dela respuesta de paris.}
+{IN4.} DEspues que Elena acato & vido venir a Pa-
+ris por tal boz le hablaua. Ueniste paris lla-
+ma delos mis amores sobrepujado y venci-
+do delas armas de mi marido el antiguo/ la
+qual pelea delos muros yo vi/ & avergonc'eme auer lo
+visto como te ouiesse derribado el viole<n>t(e)[o] Menelao/ en-
+suziando & trayendo por el ylico poluo las tus crines y
+cabellos: alli temi yo mezquina que la dolica espada d<e>
+Menelao apartasse los n<uest>ros dulces besos: entonces to-do}
+[fol. 14v]
+{CB1.
+el color fuyera dela mi cara la voluntad a mi dexada
+& la mi sangre desamparo los mis mie<m>bros. Quien ma<n>-
+da a ti Paris contender conel cruel Menelao? y como
+la gran fama dela virtud de aquel varon/ avn no ha ve-
+nido alas orejas tuyas. Amonesto yo a ti pues que de
+aqui adelante no quieras tu cometer los tus fados ala
+iniqua & maluada diestra de aquel. Dixo elena aque-
+stas palabras & rego la su cara con largos lloros. Ento<n>-
+ces Alexandre dixo. O ardor mio no sobrepujo a mi ni
+vencio Menelao/ mas la yra dela cauta y sabia palas
+pero agora luego veras aquel caer feamente so las nue-
+stras armas y la citarea venus sera comigo enla mi fa-
+tiga. Despues de aquestas cosas ayuntaro<n> los sus cuer-
+pos tomando el vno del otro dulces abrac'ados.
+{RUB. % Capitulo .xiiij. Como estando las bata-
+llas en tregua Pa<n>daro firio de vna frecha
+a Menelao.}
+{IN4.} ENtre aquestas cosas Menelao anda por to-
+da la hueste delos troyanos buscando a Pa-
+ris alexandre/ & como vencedor anda aca y
+alla: al qual el hermano Agamenon ayuda
+aguzando enla batalla las sus co<m>pan~eras gentes/ y por
+fuerte boca increpa alos la<n>c'ados frigianos o troyanos
+& manda guardar a ellos la ya puesta ley & a Elena de
+demanda. Entre tanto que entresi los ricos hombres se
+allegan ala co<n>tienda el omnipotente reynador de olim-
+po touo consejo/ y Pandaro conel arco tendido dispa-
+ro la frecha por la qual turbo la tregua que avn duraua
+enel campo/ por la qual frecha firio a ti Menelao/ y el
+bolatile dardo traspasso el tu lado armado de tunica/ o
+de corac'as. Alli dexo y salio dela lid Menelao gemi-bundo}
+[fol. 15r]
+{CB1.
+& q<ue>xose/ & fue demanda<n>do castillo seguros al su
+real do se retraxesse: al qual Menelao cura su llaga el
+mancebo Polidario doctor enel arte paterna del medi-
+[ci]nar con las peonias yeruas. E otra vegada la yra de
+Agamenon armo & hizo armar alos fuertes pelanigos
+& venir en la horrible y mortal pelea/ y el dolor del patio
+no guardado a todos traya enla pugna o lid.
+{RUB. % Capitulo .xv. De como los griegos
+y los troyanos ouieron batalla.}
+{IN4. {MIN.}} ALli comenc'o a nacer la batalla ingente y de
+la vna parte y dela otra mucha sangre se de-
+rramaua /& por todos los campos van caye<n>-
+do los cuerpos delos muertos. E agora cae
+gran caterua delos troyanos & agora delos griegos/ ni
+se dauan de ninguna parte folganc'a ni vagar alos va-
+rones batallantes: antes de todas partes la monarcia/
+o batalladora gente resuena/ & la lluuia delos dardos &
+delas frechas bolatiles ya buela de todas partes. E alli
+muere antiloco dep<r><<i>>mido so las sombras mortales por
+la rezia espada lisiado desamparando la desseada lum-
+bre de biuir. E alli ocupo el (c)[t]alamonio Ajas por fuerte
+mano la vida del hijo de atemion atrauessando los pe-
+chos por fuerc'a del duro fierro. Y aquel vomita el alma
+purpurea a bueltas co<n> la sangre/ dela qual se riega la ca-
+ra del muriente. Y ese hijo de antemio<n> cargaua de fuer-
+tes golpes muchas vezes las espaldas delos griegos.
+Entonces el gran Antipo despertando las fuerc'as de
+su cuerpo todo torciendolo contra la aduersa hasta con-
+tra Ajas. pero la lanc'a erro de aquel enemigo/ ca de a-
+quel golpe hizo caer al desuenturado lenton derribado}
+[fol. 15v]
+{CB1.
+por crueza & fuerte llaga/ y desque en tierra cayo comen-
+c'o moriendo de morder co<n> los dientes y despedac'ar las
+yeruas verdes. Ento<n>ces el no perezoso Agameno<n> que
+vido a este morir/ como vido el desastrado caso de su a-
+migo pidio a Dimochon traspassando las sus sienes co<n>
+la lanc'a trabalo guarnida de fuerte hasta/ & Dimochon
+espantado de mortal golpe libro su espada de su [v]ayna/ y
+el espada sacada cayo muriente boca arriba sobre sus ar-
+mas/ y con rabia dela muerte comenc'ose de tender & fe-
+rir la tierra. Aquesto mesmo el impigero vmbrasidis fi-
+rio a Egeo por golpe de vn sillar y diolo alas callantes
+sombras. E mientra el goloso matador aparejaua de ti-
+rar el despojo al muerto mancebo/ vino de arriba una
+hasta esgremida por la mano del gran tronador Jupi-
+ter: la q<u><<a>>l atrauesso las espaldas & los animosos pechos
+del virtuoso despojador/ y aquel cayo muerto sobre la
+su cara la caliente sangre vomitando/ y derribado mu-
+riendo estaua palpita<n>do las sus armas. Ya dela sangre
+delos murientes de cada parte manauan los campos
+dardanios/ manauan los rios ensangrentados/ y los
+exercitos y huestes de entramas las partes ardian las
+mezcladas armas. E agora cresce la virtud a los troya-
+nos agora a los griegos: y el alegre vitoria assi la van pi-
+diendo por caso varios & inciertos.
+{RUB. % Capitulo .xvj. Como agamenon mato a
+anteson/ & como Paris fiere a (c)[e]uripilo: & co-
+mo fuyen los griegos.}
+{IN4.} DEspues que Diomedes hijo de Tideo vido
+aqui de lexos morir y caer las fazes d<e>los grie-
+gos y acrecentarse el fincado mars/ entonces
+entro/ o se mezclo en medio delas hazes este
+can mucho enemigo & comenc'o de derribar por muerte}
+[fol. 16r]
+{CB1.
+las aduersas falang(a)[e]s o compan~as de pie/ andando fe-
+roce y espantable por espada cruel/ y por la hasta delos
+troyanos corruscante aca y alla. Entonces palas belli-
+ca se presenta a este y le ayuda con armas fragrantes res-
+plandecientes de fuego/ y al mancebo Diomedes mini-
+stra corac'on & acrescienta sus fuerc'as. E aquel assi como
+la cruel leona ala qual estimula & fiere la jeiuna ham-
+bre/ vista la grey delas vacas se dexa yr contra la com-
+pan~a dellas & mata con agudo diente las que derriba
+por valentia del cuerpo: de aquella manera se yua & la<n>-
+c'aua por medio d<e>los enemigos el sen~or calidonio o dio-
+medes assegurando enlos dones & mandamientos dela
+armigera o Palas virgen. Ento<n>ces los troyanos buel-
+tas dan las espaldas ala fuyda: & aqui Diomedes esta
+quedo matando delos fuyentes mientras se ens(e)[a]n~aua
+mata<n>do delos varones: ahe do viene a Frigeo y Aegro
+hijos de Daretes esta<n>tes de co<n>suno enla batalla. Dio-
+medes furibundo apressurada arroja a Frigeo la agu-
+da lanc'a: pero el fuerte escudo desechola: y el fierro que
+del escudo recudio fincose y estuuo enel suelo: sin ta(n)[r]-
+danc'a Diomedes torcio y embio la gran hasta con sus fuer-
+c'as todas la qual traspasso el pecho del varon: y parte
+dela lanc'a quedo paresciendo ante el pecho del ferido:
+y parte dela punta parescio de parte delas foradas es-
+paldas. E quando el hermano acato aqueste que esta-
+ua derramando el caliente rio de sangre/ y como caydo
+estaua boluiendo los ojos: vomitando el anima por la
+boca/ muy aquexado bolo con el espada enla mano des-
+nuda cobdiciando ser vengador dela frionda muerte
+de su hermano. Pero no pudo sostener la gran fuerc'a
+del cruel Diomedes ni las sus fuertes armas. Pero
+tentauase de defenderse contra aquel/ assi como el aue}
+[fol. 16v]
+{CB1.
+vee al falco<n> tomar & despedac'ar el cuerpo de su hijo/ & ni
+puede darle ayuda ni sofrir el dolor & ansia del hijo des-
+pedac'ado: pero delo que puede pla<n>gelo sus pechos bo-
+lando en contor($n)[n]o del matador bolando co<n> pendolas
+ligeras. Assi egeo acata co<n> ojos atroces al soberuio ene-
+migo de su muerto hermano y no puede socorrer al mez-
+quino hermano. E sino le ouiesse dado lugar por la mes-
+ma diestra que su hermano acabo el auria caydo. Ni el
+agro Agamenon menos se ensan~a por armas enlos o-
+tros troyanos: & sigue a todas las hazes mezclando por
+fierro a todas partes. Y el desuenturado Rodio traydo
+por fado iniquo ocurrio encontrable a este/ al qual por
+golpes de gran lanc'a Diomedes muerto derribo/ atra-
+uesando las sus espaldas por fuerte hasta: & de aq<u><<i>> se va
+adelante & demanda a Ydomeneo hijo de Merion/ el
+q<u><<a>> estaua enla aduersa faz delos troyanos: y alegre dio-
+medes despues que mato a este al hijo de Astrepio alas
+estigias embio. Y megas ferio con lanc'a esgremida a
+Fideo moc'o de Merion/ enlas grandes armas mato
+a espada al fuyente Erpodomo y al muerto mancebo
+despojo juntamente dela vida y delas armas.
+{RUB. % Capitulo .xvij.}
+{IN4.} DEla otra parte delos troyanos anda Pa<n>da-
+ro co<n>el su arco corbado busca<n>do con los ojos
+por la immensa batalla a diomedes: al qual
+despues q<ue> vido matando y derribando cuer-
+pos delos troyanos/ enderec'o contra el la espa<n>table fre-
+cha brega<n>do por fuerte brac'o el espalda d<e>l arco del cuer-
+no/ y con la frecha aparto las altas partes d<e>[l] hombro de
+Diomedes. Entonces se encendio la yra del mancebo
+calidonio Diomedes: & dexo yr por medio delas fazes}
+[fol. 17r]
+{CB1.
+a man<er>a de leon animoso/ & alli llago a muerte a Anstro-
+nio y al Peneral grande. Al vno derribo por ferida de
+espada dela vna parte/ y (o)[a]l otro por llaga de lanc'a dela
+otra. Deprimio a pelidon & abaten mortalmente ferien-
+dolos de fuerte fierro: & mato Axa<n>to cauallero muy do-
+to en guerra/ y al fuerte Doante. E despues de aquesto
+perturbo por muerte a Tromio y a Estemo<n> firiendolos
+por dardo enemigo & ligero/ alos quales juntamente a
+los infernos embia. Assi mesmo mueres alli tu desaue<n>-
+turado Pa<n>daro derribado por la diestra de Diomedes
+por la qual triste llaga recebiste. Ca la espada tidea apar-
+to la parte de tu cabec'a por aq<ue>l lugar que la nariz se jun-
+ta con la frente y el celebro co<n> los fuertes huesos q<ue> enel
+se conjuntan con la parte d<e>l yelmo sobre las espaldas te
+trastorna. E aqui Eneas y el calidonio sen~or dieron de
+consuno sus manos ala pelea a[ ]lanc'adas vno co<n>tra otro
+las lanc'as/ & comenc'aron de maltraer los sus cuerpos
+por golpes de enemigo fierro: & agora se fazian a fuera y
+se retrayan contra atras/ & otra vegada se dexaua venir
+assi y se llegauan. E despues q<ue> por grande piec'a assi estu-
+uieron/ como Diomedes no veya como pudiesse empe-
+cer por plaga d<e> enemiga espada a Eneas/ alc'o de tierra
+vn gran sillar el qual por ve<n>tura yazia eneste campo do
+ellos se combatian tanto ingente y pesado q<ue> a penas do-
+ze mancebos alegres lo mouer pudieran. El qual ca<n>to
+con gra<n>de atreuimiento Diomedes embio a Eneas su
+enemigo: & aquel cayo del golpe en tierra derribado co<n>
+sus fuertes armas. Al q<u><<a>>l Eneas la madre Uenus lue-
+go veniendo por los etereos ayres recebio. Y el cuerpo
+suyo infusco en derredor d<e> vna nuue/ o negra escuridad:
+pero el corac'on de Diomedes no sufrio de no dema<n>dar
+a su enemigo: y entro por medio de aq<ue>llas nieblas: mas}
+{SG. C}
+[fol. 17v]
+{CB1.
+no hallo ante si a quien pidiesse por fierro: pero lanc'o vn
+golpe del qual ferio a Uenus con las sus repla<n>descien-
+tes armas/ & la celestial mano de venus fue llagada por
+hasta de ho<m>bre mortal. E venus despues que llagada
+subiose al cielo dexando la tierra ado<n>de fasta oy son me-
+dicinadas sus llagas del desiderio mars. Mas al dar-
+danio eneas guarda el troyano Apolo/ y luego Eneas
+retorno ence<n>didos los sus esfuerc'os y de entramas par-
+tes ya se co<n>surgia<n> las hazes y el cielo no se veya del pol-
+uo/ y el ayre se resonaua por clamores espantables & au-
+llidos delos murientes. E aqui cayan agora algunos:
+delos carros arrebatados/ los quales en tierra era<n> falla-
+dos delos pies d<e>los veloces cab(e)[a]llos. Otros auia que
+sus cuerpos traspassados delas volatiles saetas se tra-
+stornauan por las espaldas delos quadrupedales caua-
+llos. E agora corrian las cabec'as apartadas a lexos de
+las ceruizes delos vnos por golpe de espada dura. E a
+otra parte yazen otros medio sin anima inclinados los
+feridos celebros sobre las sangrientas armas/ atanto q<ue>
+la tierra ya manaua por sangre/ y los campos eran mo-
+jados del sudor delos batalladores. Entre aquestos res-
+plandescia el muy hermoso hijo de venus Eneas. Ro<m>-
+piendo las espesas hazes delos griegos & firiendo con
+ancha espada/ las desnudas espadas delos fuyentes/ y
+mezclaua entre aquestos funesta y mortal pelea: ni tan
+poco el muy fuerte Hetor vna esperanc'a delos troya-
+nos no cessaua de derriuar por muerte d<e>los griegos va-
+rones y reboluer la escuridad dela greciana gente/ assi
+como quando el lobo vee el pecudeo ganado tendido
+enlos campos abiertos. Al qual ni espanta el pastor de
+la grey/ ni la horrible turba delos canes/ mas hambrie<n>-
+to deprime y menosprecia a todos/ & por medio delas}
+[fol. 18r]
+{CB1.
+greyes como goloso entra y se lanc'a/ no menos Hetor
+hazia entre los griegos espanta<n>dolos con la espada san-
+grienta/ tanto que fallescian las hazes delos griegos/ y
+los troyanos mas agramente justaua<n> y sostenian la pe-
+lea: & alc'an y esfuerc'a<n> los sus corac'ones y la victoria les
+acrescienta fuerc'as.
+{RUB. Capitulo .xviij.}
+{IN4.} ASi como Agamenon rey delos griegos vi-
+do a sus compan~eros caer sobrados por ba-
+talla/ bol(l)o en alto cauallo en contorno de to-
+das sus escuadras amonesta<n>do alos sus du-
+ques y capitanes/ & firmando y poniendo esfuerc'o con-
+tra la pelea enlos corac'ones de aquellos. E luego este
+rey osado enemigo se la<n>c'o por medio dellos/ & alas opo-
+sitas y contrarias hazes acuchilla con espada estrecha/
+bien como quando por ventura el libico leon vee de le-
+xos el busco alegre delas vacas andar quedo/ a quedo
+por las v<er>des yeruas/ & alc'a la ceruiz cobdicioso de abre-
+uar la sed en bouina sangre/ y dexale yr con iracundo pe-
+cho por medio d<e> todas. De aquesta manera el fiero atri-
+des es traydo y anda por medio d<e>los sus en(i)(e)migos ad-
+uersos por punta de aguda lanc'a las compan~as delos
+co<n>ualescientes delos de frigia/ y la clara virtud del duq<ue>
+Agameno<n> comenc'o de encender las fuerc'as delos grie-
+gos/ & la espera<n>c'a dela vitoria aguzo las armas ya enfla-
+quescidas delos griegos ental manera q<ue> boluiero<n> a ser
+esp<ar>zidos los troyanos: & los griegos come<n>c'aro<n> de auer
+alegria. Adela<n>te cato agam(o)[e]no<n> & vido a Eneas andar
+pelea<n>do metido de<n>tro d<e> vn carro y aparejado de ocurrir
+a el con estrecho fierro: la<n>c'o el dardo con ta<n>tas fuerc'as
+como essa san~a le podia mouer & ministrar/ mas fue erra-do}
+{SG. C ij}
+[fol. 18v]
+{CB1.
+de Eneas & firio enel pecho d<e>l carretero & trapassole
+el estomago alto/ y el ferido cayo entre medias d<e>las rue-
+das d<e>l carro de Eneas. Entre las quales se andaua co<n>-
+boluienclo fasta que embio la vida a bueltas d<e>la sangre
+caliente. Quando el animoso Eneas vido morir a este
+gimio & condoliose del desde el alto carro: desde el qual
+firio por valiente golpe a Treceon & a Tersileo. El ven-
+cedor Eneas despues dela muerte de aq<ue>stos/ mato por
+armas al duque de Menelao & a Milon & a Antiloco.
+E despues de aquestos Sarpedon inclito hijo de Jupi-
+ter sometiose alas batallas mezclando funesta y mortal
+pelea: contra el qual se mostro resplandeciente avn que
+en armas no yguales el desue<n>turado Terpolomo hijo
+del gran Hercules. Pero ni guardaron a este las fuer-
+c'as de su padre ni lo conseruar pudieron los sus tan-
+tos trabajos que vio cayese/ dexa<n>do de su cuerpo la tier-
+na vida. Aqui salio Sarpedon llagado de en medio de
+la priessa dela batalla. En lugar del qual entro Ulixes
+astuto fabricador de fraudule<n>cias. Aqui lidio Hetor el
+batallador saluacio<n> dela troyana gente. E alli Diome-
+des hijo de tideo: y de cada parte derribados y caydos
+por los campos cuerpos de varones: en tal grado que
+los prados son regados dela sangre delos llagados.
+Alli lidiaua el vellipotente mas co<n> la casta Palas mo-
+uido el egideo escudo: el qual la mineruica sancta vira-
+go hiziera. E mas ferido dela postrimera punta retraxo
+se dela batalla espauorido: al qual essa Palas forc'o de-
+mandar el cielo alto por su vida.
+{RUB. % Capitulo .xix.}
+{IN4. {MIN.}} ANte aquestas cosas Ajas el grande de fuer-
+c'as/ mato a Tamante: & veyendo los grie-
+gos los triumphos que auian de sus enemi-gos}
+[fol. 19r]
+{CB1.
+estauan quedos & haziense contra atras. La troya-
+na juuentud cubriendo enla su fuyda por temor delos
+griegos (p)[g]olpes las espaldas desnudas. Aqui sintio he-
+tor el batallador los dioses lidiar & hazer la batalla por
+los griegos. y las grandes fuerc'as delos suyos conocio
+ser amenguadas & subtraydas por la secreta sanctidad
+dela virgen armigera. E por esso luego en contino pidio
+Hetor los muros & ma<n>do llamar a Ecuba madre suya
+E despues de venida amonestole que hiziesse placar y a-
+ma<n>sar por sacrificios la sanctidad yrada dela diuina pa-
+las. Luego las yliades se fueron alos armados te<m>plos
+dela junita Palas y honrraron & co<m>pusieron los sus al-
+tares de fiesta. Y mataron a honor delos sus te<m>plos oue-
+jas sagradas y nueuas de dos dientes. Ento<n>ces la ma-
+dre Ecuba humilme<n>te yfunde plegarias alos templos
+de Minerua por sus amados hijos & marido. Y entre[ ]ta<n>-
+to apareja glanco examinar batalla por fierro con Dio-
+medes enla pelea: y tentaua de embiar el hasta con sus
+grandes fuerc'as a Diomedes q<ue> estaua rogando que le
+dixesse su no<m>bre y su linaje de que estirpe desce<n>dia/ y la su
+genealogia de quales abuelos emanase. E glanco ten-
+taua de embiar el hasta co<n>tra el con gra<n>des fuerc'as ma<n>-
+dada. Contra el qual tentador el sen~or Diomedes excla-
+ma diziendo. Que voluntad te aquexa de caer desam-
+parado/ & aceleradame<n>te como furioso quieres co<n>currir
+comigo en armas no pares: vee aqui mis armas foren-
+ses por las quales heri por llaga la diestra de Uenus/ q<ue>
+ve<n>cio por alta lid a mars. Pues depon & mitiga los tus
+animos crueles/ y mezcla comigo por paz las enemi-
+gas armas. Despues de aquestas palabras depusieron
+& apartaron de entresi la co<n>tienda dela pelea & tiraronle
+los escudos y dan de si alas enemigas peleas.}
+{SG. C iij}
+[fol. 19v]
+{CB1.
+{RUB. % Capitulo .xx.}
+{IN4.} ENtre aq<ue>stas cosas andromaca muy fiel mu-
+ger de Hetor demando coloquio a Hetor. Y
+hetor pidio alli que le traxessen el hijo peque-
+n~o anastianes: el qual por aquellos dias era
+alos pechos dela que lo criaua. Y en tanto que el muy
+gran Hetor tomaua los besos pequen~os d<e>la boca de su
+tierno hijo: subitamente espantado y con temor el infan-
+te/ boluio las temerosas fazes contra los maternos pe-
+chos de su madre: ca fuya & auia temor de Hetor como
+estaua armado/ y del terrible a el yelmo entestado de pe-
+nacho con cola. E despues Hetor descubriose d<e>l yelmo
+dorado & luego abrac'o al infante e<n>tre sus brac'os amos
+& alc'andolo en sus manos dixo tales palabras. Ruego
+te yo otra vez. Yo ruego a ti muy buen Jupiter q<ue> aque-
+ste mi hijo/ por el q<u><<a>>l yo las tus sanctidades adoro/ las
+virtudes paternas remede & sigua desde estos sus p<r><<i>>me-
+ros an~os. Aquestas palabras dichas el agro Hetor pi-
+dio las hazes delos griegos por las puertas abiertas/ y
+con el de co<n>suno su hermano Paris. E despues que fue-
+ron en la batalla luego procedio el muy gran Hetor en
+medio de todos/ prouoca<n>do alos duques d<e>los griegos
+alas por ellos temidas armas. E sin tardanc'a p<re>cediero<n>
+co<n>tinua & juntame<n>te vlixes come<n>tador de fraudilencia
+y el fiero ydomeneo/ y merion noto & conoscido dela ge<n>-
+te paterna: y con aquestos el agro Agameno<n> duque de
+los griegos/ y los dos Ajas/ y Euripilo cauallero espa-
+cioso enlas claras armas: & Toante hijo d<e>l gra<n> Andro-
+non. E aquel que violara la sancta mano de Uenus de
+llaga triste. Yua ta<m>bien conellos Achiles espanto delos
+troyanos: el qual auia ya amansado los amores delos
+dioses por armonia de dulce cithara. E alli procedia el
+grande Ajas despues delas hastas embiadas cubierto}
+[fol. 20r]
+{CB1.
+de yelmo dorado/ el q<u><<a>>l le diera el gran rey Agam(a)[e]no<n>/ y
+cometiero<n> las peleas sacando luego las rezias espadas
+& comenc'aro<n> de examinar las fuerc'as de entramas par-
+tes/ por vale<n>tia de fuertes escudos los duros golpes de
+sus enemigos y el gra<n> clamor y bozeria delos batallan-
+tes hasta las estrellas se leuanta & allega a tanto q<ue> el ay-
+re se enllena de varias bozes & crueles: ni aguza<n> assi las
+sus yras los setigeros puercos del mo<n>te no: ni con feruo-
+res a tales qua<n>do co<n> crueles pechos el vno co<n>tra el otro
+se arrem[e]te<n> y aprieta<n> co<n> colmillos agudos/ agora co<n>[ ]vn~as
+despedac'andose con alteruas feridas y llagas crueles
+se mezclando premie<n>do los espinazos fuertes/ espuma<n>-
+do la boca de cada vno alanc'ando de si nuues famosas
+y espessos relampagos delos ojos/ reuerberando enesta
+manera son elle($n)[n]adas de gran roydo aq<ue>llas seluas do<n>-
+de se ministra<n> las armas: y tal andaua el hijo de priamo
+Hetor: & tal Achiles & assi mostraua<n> los sus corac'ones.
+{RUB. % Capitulo .xxj.}
+{IN4. {MIN.}} AQui se mostro Ajas talamonio pidiendo co<n>
+espada batallosa a Hetor el hermoso por ar-
+mas/ y guardando vna parte d<e>la ceruiz del
+varon hetoreo que desnuda de armas se mo-
+straua/ & contra aquella parte enderec'o por golpe de es-
+pada respla<n>desciente. Pero aquel entendido golpe pro-
+ueyo al golpe del fierro/ anteponiendo aquexadamen-
+te el escudo por desechar el golpe y en coge<n>do detras de
+aquel la parte del cuerpo & la espada ligera vinose delez-
+nando por las partes sinales del escudo hasta la ceruiz:
+la qual amanzillo por ferida pequen~a. Alli mas agra-
+mente el priameo Hetor consurgio en la pugnante bata-
+lla contra el su enemigo: ni ya no quiso pedir por fierro
+al hijo de Talamon: mas por golpe de gran sillar.}
+{SG. C. iiij}
+[fol. 20v]
+{CB1.
+Pero el fiero Ajas desecho de si el fuerte golpe por inter-
+posicion que hizo conel escudo de siete doblezes. E con
+aquel mesmo canto derribo Ajas al mancebo ferido: al
+qual leuanto librado Apolo enemigo delos griegos: re-
+staura<n>do las sus fuerc'as en integridad de animo. E ya
+como de comien<n>c'o le boluian a ayuntar enlas armas me-
+neando por valientes manos las espadas crueles/ qua<n>-
+do el ca<n>sado Febo come<n>c'ara a insometer los sus carros
+agniferos/ fondon delas oceanas ondas: y la noche al
+polo se sometia. Entonces se metieron de amas partes
+quien apartasse dela vista muerte alos varones. Ento<n>-
+ces Hetor varon maximo por batalla contra Ajas efun-
+dia tales palabras. Dime varo<n> que padre o que tierra
+te engendraron: ca por tus valentias bien te muestras
+de estirpe inclita y generosa. Contra hetor se apareja de
+respuesta el talamonio Ajas enla siguiente manera.
+Uees aqui ante ti a vn hijo de Talamon y dela madre
+Ensiona/ noble es la nuestra fama y casa y generosa la
+estirpe de nuestros abuelos. Hetor como oyo el nombre
+de Ens[i]on(i)a/ recordando los casos de sus progenitores
+((obsistamos dize)) que la sangre comun es de nosotros
+ambos. Alli primeramente Hetor dadiuo a Ajas vna
+espada dorada.
+{RUB. % Capitulo .xxij.}
+{IN4.} DEspues desto las cateruas/ o batallas delos
+troyanos & griegos se apartan de batallar/ y
+la escura noche escondio la luz por tinieblas
+y los vnos y los otros se hinchieron de man-
+jares largos/ y del licor de baco de plazentero suen~o.
+Despues otro dia quando vino la man~ana afuyentan-
+do las estrellas de oriente/ los troyanos ayuntados/ el}
+[fol. 21r]
+{CB1.
+muy gran Hetor memorando co<n> sus compan~eros los
+estragos dela derribante muerte/ & las mortajas de tan-
+tos como muria<n>. Amonesta y requiere a todos q<ue> Hele-
+na sea retornada alos griegos/ porque el tal robo buel-
+ua a falagar los fuegos duros de Menelao. Aqueste
+plugo a todos/ entonces ydeo embiado lleuo este man-
+dado al cruel atrides o menelao. El q<u><<a>>l ni por esto se ani-
+mo al recebir dela tal prea/ ni avn dio alos tales dichos
+orejas: antes mando a ydeo orador d<e>la embaxada que
+saliesse luego fuera delos sus reales. El qual obedecien-
+do alas sus moniciones/ boluiose alos reales de troya/
+haziendo saber alos troyanos el menosprecio que halla-
+ra en el su duro enemigo.
+{RUB. % Capitulo .xxiij.}
+{IN4.} COmo otro dia el relu<m>brante sol los sus rayos
+hizo al mu<n>do patentes/ co<n>uoco Jupiter alos
+celestiales moradores en su compan~ia. E co-
+mo los dioses en aquel diuinal consejo con-
+gregados/ no quisiessen co<n>tender contra los sus dichos
+aqueste Jupiter deleznauase por los etereos ayres del
+cielo y assentose a bueltas conellos enlos montes som-
+brosos dela yda selua/ desde donde vee las sus yliacas
+o troyanos/ y con poderosa diestra come<n>c'o a sostener en
+ygual peso las doradas bala<n>c'as/ y prepondero con gra-
+ues armas los duros hechos d<e>los de frigia & los casos.
+O infortunios delos achiuos & las muertes delos grie-
+gos. Entre aquesto Hetor el primero concitador de yra
+ingente alos griegos faze aspera batalla/ & como graue
+y batallaroso a todos aparece y se antepone con las du-
+ras armas. Aquel claro Hetor vn cierto honor delos}
+[fol. 21v]
+{CB1.
+troyanos a tanto q<ue> son turbados los griegos y los sus
+doricos reales son enllenados de gran roydo y bozeria.
+Entonces agamenon amonestaua a su co<m>pan~era gen-
+te dentro de los sus palenques inclus(o)[a] y encerr(o)[a]da afir-
+mandolos enlas batallas con animosos dichos/ los en-
+flaquescientes corac'ones delos mancebos sus compa-
+n~eros. Alli el principe tideo o Diomedes resplandecia
+en armas ardientes & yua por medio delos enemigos:
+aqui ocurrio contra este Egeo de malos fados acompa-
+n~ado/ esblandiendo enla derecha mano la gran lanc'a:
+al qual el maximo sen~or Diomedes ocupo por muerte/
+atrauessandolo con mortal llaga por medio con yra for-
+c'osa y espada dura. Pero hetor turbado y san~oso a toda
+parte se acostaua/ maltrayendo las aduersas hazes con
+punta de duro fierro/ hasta que otras vezes como de co-
+mienc'o los griegos turbados por la muerte que Hetor
+hazia enlos sus reales/ aquexando fuyda ligera/ & assi
+todas las sus cateruas confuyan: y cerraron las puer-
+tas de sus palenques sobre si con fuerc'a & clausuras.
+Los troyanos cercaron & comenc'aron a combatir los
+inclusos griegos y depremir alos varones. En ta<n>to la
+gran parte dela troyana juuentud acostaua los sus can-
+sados cuerpos por los campos/ perdona<n>do alos puros
+animos & quitando de si cansancios & cuydados.
+{RUB. % Capitulo .xxiiij.}
+{IN4.} EStando los proceres y los nobles delos
+griegos de tantos despartados inconue-
+nientes y desastres: ni dauan sus cuerpos
+alos manjares/ ni turauan con reposo los
+sus corac'ones/ mas gemian los sus fados
+como miserables: y la<n>c'ados de si lo mas que podian}
+[fol. 22r]
+{CB1.
+sus enemigos embiaron alas naues oradores/ y llega-
+gados a Achiles amonestandole la su diestra: rogando-
+le que quisiesse dar auxilio alos mezquinos griegos/
+offreciendole muy grandes dones. Pero ni las orejas
+de Achiles q<u><<i>>siero<n> co<n>cebir las tales plegarias: ni sus ma-
+nos ser abiertas a ningunos dones del rey Agamenon
+ni quiso: ni concibio: ni la intacta Briseyda no lo mouio
+ni la codicia de su hermoso cuerpo. E los legados se bol-
+uieron recontando alos griegos las breues responsio-
+nes de Achiles: y alli curaron con menjares y con man-
+so suen~o los sus debilitados animos.
+{RUB. % Capitulo .xxv.}
+{IN4.} E La noche adelante quando las estrellas ro-
+dantes flamejauan entre la tarda niebla ala
+hora q<ue> avn restaua por andar la tercera par-
+te dela callada noche/ quando salio el Eto-
+lio sen~or delos reales delos griegos: y escogio en aque-
+lla jornada por compan~ero consigo al valiente Ulixes
+el qual le ayudasse a bueltas a escodrin~ar por chancella
+estudiosa entre la su lustra sombra dela callada noche
+que fiuzia fuesse delos troyanos: y a esculcar que hizie-
+sen alas fuerc'as de aquellos quantas peleas apare-
+jassen. Ya quando estos pauorosos de miedo no men-
+guados/ este horrible camino preseguian/ ahe do viene
+Dolon el qual la troyana juuentud por esculca assi mes-
+mo embiaua a que con animo muy ind($u)[u]strioso y soler-
+to acatasse las fuerc'as delos griegos/ y las cosas que a-
+quellos duques hazian y deponian/ y lo que hallasse &
+sintiesse al troyano pu(o)[e]blo lo narrasse. Al qual como lo
+vido venir Ulixes a bueltas co<n> su co<m>pan~ero Diomedes}
+[fol. 22v]
+{CB1.
+ascondieron los sus cuerpos furtiblemente entre los ci-
+pressos arboles y frutales que alli eran. En tanto que el
+troyano Dolon engan~(o)[a]do de vna esperanc'a de espiar/
+allende passasse dellos/ porque por ventura pudiera re-
+traerse con ligera corrida alos reales delos troyanos/ si
+antes que dellos passara fuera acometido. E los varo-
+nes fuertes de mano y de corac'on/ callaron tanto fasta
+que en aparejo conellos el mancebo Dolon. El q<u><<a>>l pue-
+sto que tentase de fuyr dellos por ligereza/ despues con
+esso todo lo alcanc'aron/ & comenc'aron de le hazer ame-
+nazas de fierro y de mano. Y aquel espantado de temor
+dixo contra estos tales palabras. Dado vosotros a mi
+la vida/ lo q<u><<a>>l hareys si dela que tengo no me despojays:
+& assaz es esta vna sola cosa/ que si en yra de me matar
+cayeredes/ pensad que premeritos de honor ni de glo-
+ria ganareys. E si me dezis que por ganar la tal honor
+me matays. Respondo vos que la gloria tal no se gana
+mata<n>do dos vn enemigo solo salteado a furto entre las
+calladas sombras dela noche. Alo que a mi hizo estar
+captiuo entre vosotros fue/ porq<ue> la gran Troya prome-
+tio a mi el carro de Achiles con todos sus jaezes si el to-
+masse las v<uest>ras riq<ue>zas. Agora ha me seguido dones ata-
+les q<ue> sea catiuo entre vosotros/ puesta en casos dudosos
+la vida de mi desauenturado en manos enemigas cay-
+do. Agora vos co<n>juro por la immensa sanctidad delos
+dioses por los mares y por las escuras ondas d<e>la lagu-
+na de Ditis/ vosotros no querades arrebatar de mi por
+muerte cruel aquesta tribulada alma/ & por la tal salud
+por vosotros otorgada vos regraciare estos dones. Co<n>-
+tar vos he por orde<n> todo el secreto co<n>sejo d<e>l rey Priamo
+y todas las cosas que las sus ge<n>tes ordena<n>: las quales
+vos espedire por breues dichos. Despues q<ue> vlixes & dio-medes}
+[fol. 23r]
+{CB1.
+conoscieron & se informaro<n> de aquel de todo lo q<ue>
+troya aparejaua con espada & mano arrebatada aparta-
+ron del pescuec'o las quixadas de aquel nueuamente
+captiuado mancebo. E despues que ouieron muerto a
+este entraron calladame<n>te enlas tiendas de Reso y ma-
+taron & despedac'aro<n> a este el qual en s($u)[u]en~o & biuo halla-
+ron sepultado. E despojaron alos varones que estauan
+tendidos durmie<n>do por los prados/ & sacaron el anima
+a muchos co<m>pan~eros del muerto reso. Despues desta tri-
+ste mortandad por estos acabada cargaron sus ho<m>bros
+de rica prea & grande/ y rapinando cauallos tracianos
+bla<n>cos y respla<n>desciente[s] de claro & niueo candor: delos
+quales ta<n>ta era su ligereza/ que ni les passaria en correr
+aquel vie<n>to Euro/ ni los podria por corrida sobrepujar
+la bolatile saeta. Desde alli con estas cosas se boluieron
+alas argolicas flotas so el tiempo d<e>la primera luz: alos
+quales Nestor el lo<n>geuo por edad recebio & dio las puer-
+tas delos reales. Despues q($u)[u]e dentro fueron contaron
+las sus andanc'as buenas al rey Agamenon. Los qua-
+les fechos loo el Pelopeo sen~or/ & despues d<e>la fabla die-
+ron los sus miembros ala alegre folganc'a.
+{RUB. % Capitulo .xxvj.}
+{IN4.} ($N)[N]Ascida ya la luz dela siguie<n>te man~ana los va-
+rones fuertes fuero<n> retornados como de pri-
+mero enlas batallas y enfortalecian los sus
+corac'ones los duq<ue>s troyanos & griegos con
+la recrescida caualleria enla venidera pelea/ ya colaua
+de toda parte la nuue delos dardos & fierros con fierros
+resuena. E las espa(l)das mezcladas a todas p<ar>tes vnas
+con otras se hallan & retiene<n>. E las espessas hazes de to-
+das partes estan & se muestra<n> firmes a pelear/ y el sudor}
+[fol. 23v]
+{CB1.
+con sangre mezclado ya delezna por los cuerpos delos
+batallantes. Ala fin el rey delos griegos ferido de yra
+san~osa mata a Antifon derribado por llaga cruel y gran-
+de. Entonces se mete Hetor ala lid con ardor de agra
+yra & faze feridos de toda p<ar>te alos griegos: ni cessa Pa-
+ris assi mesmo de derribar por muerte las hostiles com-
+pan~as. y llaga entre aquellos el muslo de Euripilio con
+frecha bola<n>te/ librada de arco gouernado por mano me-
+nos sabia que poderosa. E ta<n>to dura la pelea fasta que
+los troyanos fazen alos griegos fuyr enlos castillos de
+sus reales.
+{RUB. % Capitulo .xxvij.}
+{IN4.} ALli ministra Neptuno dios delas aguas do-
+lor & fuerc'a alos griegos/ & come<n>c'a nascer en-
+tre ellos gra<n>de batalla: & aqui & alli se demue-
+stra el enemigo soberuio y brauo por fechos
+san~osos. Alli cayo Asio por la diestra de Ydomeneo & de-
+rribo muerto al cruel Ampunaco. E assi mesmo cayo
+muerto sobre las sus armas Aleatones yerno de anchi-
+ses: al q<u><<a>>l mato a espada Retro duque de gran corac'on.
+Entonces el hermoso Deifebo firio con cruda lanc'a a
+Astalafo hasta lo someter so sombras mortales. Mas
+Hetor muy fiero a toda parte con animo muy osado se
+muestra cruel. Al qual Hetor ferido de gruessa piedra/
+firio el grande Ajas todo su cuerpo por tierra trastorna-
+do. Alli concurrio la troyana mano y al mancebo He-
+tor vomitante las ondas dela sangre libraron y enla de-
+leznante agua de xanco lauaron & alimpiaron. Desde
+alli otra vez bueluen ala pelea y de ambas partes se ha-
+ze gran mortandad & mana la tierra regada de sangre.
+E alli fiere Polidamas por fuerte golpe a Protenor/ &}
+[fol. 24r]
+{CB1.
+Ajas talamo<n> mato a Anfimaco y al hijo de Antenor. y
+atana<n>te mato a Richeon. Y la diestra del cruel Mene-
+lao derribo por muerte a Promato: & desde alli comen-
+c'aua a caer la juuentud priamea.
+{RUB. % Capitulo .xxviij.}
+{IN4.} PEro alli mas agramente bueluen sobre si & se
+leuantan con los troyanos enla griega bata-
+lla/ y entre estos buela Hetor su presa espan-
+to delos griegos fasta en tanto que haze con:
+fuyr otra vez alas flotas: las alas delas escuadras de a-
+gameno<n> desde a donde prepeuan y desechaua<n> de si por
+fuerc'as aduersas alos troyanos enemigos & hazese gra<n>
+batalla entre las naues. A todas partes se haze sentir el
+cruel Hetor batallador/ tanto que demanda fuego y a-
+pareja deles quemar toda la flota. Aqui dela otra parte
+resiste con valerosas fuerc'a s Ajas los crueles fuegos
+por Hetor alanc'ados: y estando firme enla delantera
+naue/ todos los fuegos el solo sostiene y en su escudo re-
+cibe/ ta<n>to que se puede dezir q<ue> por vn solo Ajas fuero<n> a-
+quel dia mil naues defendidas. Alli lanc'auan los grie-
+gos las hastas armadas de aguda y fuerte punta. De-
+sta otra parte los troyanos las theas ardie<n>tes y los fue-
+gos mas biuos embian: & tanto afana<n> los cuerpos enel
+batallar que el sudor les va corriendo y delezna<n>dose de
+toda parte por los cansados miembros.
+{RUB. % Capitulo .xxix.}
+{IN4. {MIN.}} NO pudo Patroculo ayo de achiles mas alle<n>-
+de sostener ni soffrir la cladea mortandad de
+los suyos sin lo socorrer: subito guarnecio-
+se de las armas de achiles/ & armado bolo en}
+[fol. 24v]
+{CB1.
+la batalla & comenc'o a espantar con ymagen falsa alos
+troyanos/ ca todos presumian aquel fuesse Achiles. E
+aquestos troyanos q<ue> agora enante turbauan alos grie-
+gos y con sus grandes corac'ones les hazia<n> espanto/ ya
+trepita<n>do fuya<n>. E patroculo a todos los fuye<n>tes troya-
+nos aparece & se antepone/ y como fiero batallador tur-
+ba las troyanas hazes: & anda matando por las compa-
+n~as gra<n>des delos troyanos batalladores. donde derri-
+bo por muerte ferido de llaga grande a Sarpedon. E
+lleno Patroculo de ardor caualleroso/ agora traspassa
+por estos/ agora por aquellos otros y buelue gra<n>des pe-
+leas temido so la ymagen del espa<n>table Achiles. E des-
+pues que el hermoso Hetor acato a este como andaua
+mezclando muertos & turbando las hazes delas sus co<m>-
+pan~eras batallas Hetor muy fiero y espantable leuan-
+to las sus animosas fuerc'as & ocurrio co<n>tra aquel guar-
+nido de armas defensiuas & avn crueles/ maltrayendo
+lo con boca grande vso contra el de tales bozes. Aca faz
+aca buelue esse tu soberuio sembla<n>te tu muy fuerte Achi-
+les/ si quiera conosceras la vengadora diestra troyana/
+quanto es aquello que podra & qua<n>to el muy fuerte he-
+tor enla batalla podra valer. Y que esse mars dios d<e>las
+peleas te defense con las sus armas/ co<n>tra voluntad de
+aqueste dios batall[ad]or/ aquesta diestra te acabara por ba-
+talla. A estas hetoreas palabras/ aquel Potroculo no
+rompe el silencio/ mas calla y menosprecia las amena-
+za & los animosos dichos: porque pues el faze de Achi-
+les & mintrosamente lo finge callando/ faga entender y
+sea creydo ser Achiles verdadero. Ento<n>ces el dardanio
+Hetor primeramente con sus fuerc'as rugadas lanc'o co<n>-
+tra aquel la lanc'a. La qual Patroculo aparto de si por
+golpe ap<er>cebido/ y boluio co<n>tra Hetor las bozes atales}
+[fol. 25r]
+{CB1.
+y lanc'andole los semejantes dones con sus fuerc'as to-
+das/ el dardo temblando embio contra Hetor su enemi-
+go/ y tras el dardo vna gra<n> piedra embiada por fuerc'a
+muy grande/ la qual piedra por Hetor conel escudo des-
+echada enel verde prado reparo & fizo hoyo & assiento.
+Ento<n>ces desnudan las rezias espadas y mezclan entre
+si pelea desmesurada/ hasta que el troyano manifesto la
+mentida cara de Patroculo/ achiles fasta ento<n>ces fen-
+gido & simulado. E despues que el muy gran Hetor co-
+nocio a Patroculo vestido de falsas y adulterinas ar-
+mas/ desnudo dellas al batalla<n>te varon: y el desnuda-
+do pecho de Patroculo por fierro muy llagado embio
+a tierra. Y el vencedor Hetor despojole todas las achi-
+leas armas. Ajas talamo<n> que vido muerto trabaja de
+le alli vengar firiendo enlos troyanos/ & cubrio el cuer-
+po muerto co<n>el su escudo fasta lo sacar dela pelea. Y ala
+juuentud delos troyanos se goza por alegria grande/ y
+los griegos lloran sus mortales perdidas.
+{RUB. % Capitulo .xxx.}
+{IN4.} ENtre aquestos hechos el hijo de Nestor co<n>la
+triste compan~ia delos suyos/ lleuo el misera-
+ble cuerpo de Patroculo alos reales delos
+griegos. Ento<n>ces assi como la espa<n>tosa muer-
+te de aqueste/ firio las orejas del hijo de Peleo: desnu-
+dole el desuenturado mancebo Achiles a tanto que el
+calor fuyo y desamparo los huessos a bueltas co<n>los mie<m>-
+bros frios/ & llorando vistiose dela vestidura materna q<ue>
+son lagrimas/ y plan~endo la triste muerte del compan~e-
+ro Patroculo con las vn~as desfaze las sus fazes/ & to-
+dos los sus cabellos conel poluo desfea: y rompe desde
+el pecho las sus altas vestiduras/ lanc'ando de si crueles}
+{SG. d}
+[fol. 25v]
+{CB1.
+dichos y querellas/ derribado sobre los miembros del
+muerto compan~ero muchos besos por la boca y cara le
+fincando. Luego como depuso los quexos y las lagri-
+mas folgaron/ dixo tales palabras. No te alegraras tu
+Hetor sin batalla dela muerte de mi compan~ero/ antes
+pagaras penas crueles al mi grande & violento dolor. y
+en aquestas armas en que tu ve<n>cedor agora te alegras
+en aquestas mismas morras a mis manos derrama<n>do
+la sangre. Despues de aquestas cosas Achiles de furias
+encendido ocurrio al mar & humilmente ruega a su ma-
+dre Tetis deesa d<e>las aguas que busque fuertes armas
+la q<u><<a>>l dexadas las marinas ondas luego suplica a Uul-
+cano dios delos herreros el su socorro. E aq<ue>l falagador
+del fierro co<n>descendio por los ruegos de Tetis/ despier-
+ta de fuego flamejante los fuegos adneos con vigor de
+fornazas calientes/ y con flamas grandes & valerosas
+doma el relumbrante oro para la massa dela armas.
+Dio fin & traxo las armas perfetas & obradas por arte
+& diuinas manos. y Tetis bolo co<n>ellas/ las quales des-
+pues que vistio aquel Achiles boluio sus hazes en sem-
+blantes espantables/ conel escudo delas quales armas
+el omnipote<n>te Uulcano esculpiera/ o de eleuadas yma-
+gines entallara toda la machina y fechura mundana a
+bueltas conel alto firmamento & cielo sembrado de va-
+rias y luminosas estrellas. E pi<n>tara las ninfas deesas
+delas aguas con guirnaldas verdes. Alli hiziera las
+deesas neridas por arte marauillosa: y el gran mar am-
+phitrite con los brac'os del mar nereo/ o mediterraneo.
+E alli pintara las vezes delos an~os & los tiempos dela
+noche & la su no ygual medida. Entallara mas las qua-
+tro plagas/ o partes del mundo. E quando distaua ar-
+cos de lanfiro: & quanto se apartaua ocidente dela clara}
+[fol. 26r]
+{CB1.
+y resplandesciente parte oriental. Pintara mas de don-
+de el luzero & donde hesperus aquella otra estrella que
+parece en poniente/ donde espan~a tomo nombre/ & ca-
+da vna destas se leua<n>tassen y nasciessen con los sus qua-
+drupedales cauallos. Figurara mas quanto traspassa-
+ra la cana luna enel su orbe y cerco: y quanto cielo por
+resplandesciente claror aquesta luna podia alumbrar.
+E figurara mas an~adiendo alos mares las sus deida-
+des/ pintando al viejo oceano. E al gran nereo con los
+fierros teytones & con la ninfa/ o donzella prota/ ama-
+dora jamas delas marinas riberas. Y enlas espaldas
+del escudo figurara Uulcano los bosques & las seluas/
+y los fieros monstruosos/ y los rios deleznables/ y los
+sombrosos montes con los castillos guarnidos de mu-
+ros altos/ enlos quales los litigamtes pueblos vsan &
+dan leyes & los animosos & justos derechos. E alli en-
+tallara al ygual juez como se assienta entre las partes
+amas & como difine & concluye la quistion co<n> serena ca-
+ra. Enla otra parte era entallado como los corros d<e>las
+moc'as castas & virgines sonauan las harpas/ los tim-
+panos y panderos/ concordandolos con las bozes phe-
+beas ca<n>ciones introduziendo & firiendo co<n> la diestra las
+cuerdas dela lirial harpa & con pulgar estendido corrie<n>-
+dolas toda(&)[s]/ modulando por siete rie<n>das los modos to-
+dos. E co<m>poniendo los cantares q<ue> al mu<n>do fazen razo-
+nar co<n> aquexado mouimie<n>to. Otrosi auia pintado enel
+escudo como labraua<n> enlas aldeas co<n> los nueuos noui-
+llos. E como asurcaua<n> co<n>el arado los graues y pesados
+ca<m>pos. E como el rebusco segador cortaua las cort(i)[a]das
+espigas ya despues q<ue> mostraua<n> las bla<n>cas aristas. E co-
+mo se gozaua el imu<n>do o no li<m>pio pisa vuas da<n>do ac'otes
+enlos maduros razimos. Era mas figurado en<e>l escudo.}
+{SG. d ij}
+[fol. 26v]
+{CB1.
+como las greyes/ o manadas delos ganados tendian
+los prados verdes: & como las cabras se colgauan & sal-
+tauan por los pen~aredos. En medio de aquestas figu-
+ras estaua el dorado Mars dios delas batallas enta-
+llado con sus fuertes armas: cerca del qual era assenta-
+da la diuina poesia & todas las otras tristes deesas que
+filan/ texen & cortan la vida delos mortales / esparzidos
+sus sangrientos cabellos/ las quales eran Cloto & La(r)[c]-
+hesis: y entre aquellas estaua Atropos tercera deesa.
+{RUB. % Capitulo .xxxj.}
+{IN4.} COn tales dones & armas guarnido el sen~or
+Achiles se va en medio delas hazes assi co-
+mo rayo fuerte & no tratable/ al qual fauore-
+cian & dauan fuerc'as Juno a[ ]bueltas con la
+casta Palas. E ponian firme corac'on al gran ma<n>cebo
+Achiles. Y en medio dela batalla ocurrio a este varon
+el sen~or citareo o Eneas/ mas en fuerc'as yguales ni q<ue>
+fuesse atal en forma de cuerpo como Achiles/ mas for-
+c'o la yra tentar las armas & las no vencidas fuerc'a s de
+Achiles. Al qual Eneas si Neptuno el regidor delas
+grandes aguas guardado no lo ouiesse para que fuydi-
+zo reparasse a Troya en otras tales armas y gentes: &
+para q<ue> nasciesse el claro linaje delos Augustos empera-
+dores romanos & quien de muros cin~ese la gran roma:
+& quien despues fuese entre las claras estrellas assenta-
+do: no ouiera quedado generacion de aquella inclita &
+clara troya en otras tales armas. Desde alli hizo Achi-
+les muertes enlos troyanos con punta de lanc'a san~osa
+y embia a tierra por muerte gran numero de varones/
+como aquel que andaua san~oso y sediento dela hetorea
+sangre: E los troyanos ma<n>cebos por Achiles assi aque-xados}
+[fol. 27r]
+{CB1.
+co<n>fuyan alas apressuradas ondas del rio xanco
+pidiendo ayuda y socorro del diuino rio. Y aquel Achi-
+les alos fuyentes se antepone batallando con ellos en
+medio delas ondas/ tanto q<ue>la yra le daua fuerc'as ma-
+yores/ y dela sangre d<e>los muertos se ten~ian ya las ribe-
+ras/ & los cuerpos delos muertos se van co<m>boluiendo &
+bolca<n>do con las ondas todas.
+{RUB. % Capitulo .xxxij.}
+{IN4.} ALli la juuentud troyana a bueltas con Apo-
+lo su tutor y defensor/ hiziero<n> por fuerc'a leua<n>-
+tar las sus soberuias ondas contra los grie-
+gos/ porq<ue> las tales aguas cayesen sobre achi-
+les mezclador con diestra terrible de ta<n>tas peleas: y por
+que cercado d<e> todas partes de aguas por los troyanos
+pudiesse ser muerto y acabado. Pues luego fue el rio
+con gran soberuia co<m>boluio & bulto en Achiles/ tanto q<ue>
+las rugentes aguas le dauan ya estoruo/ mas Achiles
+conlas fuerc'as de su cuerpo todo contrapugna alas a-
+guas y rompe alos contrarios impedimentos/ y agora
+lanc'a de si las ondas con fuerc'a de anchos ombros/ a-
+gora co<n> valentia de poderoso pecho. Fauoresciale pero
+la sabia y proueyda Juno: ca no pugnaran poco entre
+si las santas deidades delos dioses por guarecer a achi-
+les de aquellas aguas. Pues delibrado comenc'o el es-
+pantable Achiles como de comie<n>c'o a aquexar por gran
+mortandad las troyanas gentes & quadrillas/ retorna<n>-
+do enel ardor del batallar: y mezclaua peleas horribles
+tanto que fazia mortajas tristes por las hazes que tras-
+passaua. Al qual ni haze temor ninguna fuerc'a de sus
+enemigos / ni le espantaua<n> los crueles corac'ones delos
+que contra el batallauan: antes la continuacion del ba-tallar}
+{SG. d iij}
+[fol. 27v]
+{CB1.
+semejaua que mas fuerc'as le acrescentasse. Los
+troyanos assi feridos con trepidante miedo dubdan &
+confuyen para dentro delos sus muros para librar de
+pena la su salud. E firman las sus puertas con firmes
+cerraduras & grandes.
+{RUB. % Capitulo .xxxiij.}
+{IN4.} ENeste termino reposaua la batalla / quando
+euos alli venir vn Hetor/ enel qual la salud
+delos troyanos estaua/ al qual no pudieron
+detener el temor dela dura muerte que de to-
+das partes se offrecia y deuia temer/ ni las plegarias de
+su padre ni los ruegos delos de su tierra que no fuesse
+al encuentro y que contender no quisiesse conel grande
+Achiles/ al qual despues que Hetor vido de lexos cu-
+bierto d<e> celestiales armas/ subito se antepuso & fue vista
+ante los ojos de Hetor la tritonia Palas & touo miedo:
+y el sin ventura comenc'o a fuyr en contorno delos sus
+adarues & hallaua las puertas cerradas y seguia Achi-
+les/ assi como la yra entre suen~os parece despertar alos
+corac'ones: y aquel que figura el que duerme sie<m>pre pa-
+rece perseguidor y el que lo suen~a nunca cessar de huyr.
+En esta manera aquexauan amos las sus salidas/ tan-
+to que este trabajo se detarda segun los comienc'os insi-
+stir podian alternos peligros & ninguna folganc'a se da-
+uan: antes el temor de todas partes despierta las yras.
+{RUB. % Capitulo .xxxiiij.}
+{IN4.} ESta pelea con Hetor & Achiles esta<n> acatando
+desde los muros los mezquinos padres Pria-
+amo y Ecuba y veen amarillo y temeroso al su}
+[fol. 28r]
+{CB1.
+hijo enel cabo & final tiempo dela su vida: la qual aquel
+estremo dia con los postrimeros apremia. Y temen & co<n>-
+duelense los antiguos viejos/ mayormente vie<n>do que
+Palas passaua las s($u)[u]s fauorables deidades alos grie-
+gos: mas los iniquos mancebos Hetor & Achiles con-
+currian contra si lanc'ando las sus dan~osas hastas. E a-
+gora enbia el vno contra el otro las desnudas y crueles
+armas agora el otro por escudo apercebido las desecha
+& los fieros y grandes golpes assi se mudan entre ellos
+por alter($n)[n]os acometimie<n>tos/ a tanto que el sudor hazia
+enellos rios: y la espantable espada del vno espanta la
+espada del otro. E tantos eran ya los animosos denue-
+dos/ que el pie del vno se ayunta y llega conel pie del
+otro: & la diestra vna se acerca ala diestra otra. Enton-
+ces Achiles amago conel espada la cabeza de Hetor/
+despues boluiola de reues/ y embio vn muy fuerte y en-
+gan~oso golpe cobdiciando ferir la pierna siniestra de he-
+tor que estaua delantera y contrapassada. Pero el lige-
+ro y caliente Hetor desecho de si el golpe & furto la pier-
+na/ y co<n> espada esgremida firio a Achiles de golpe muy
+valiente sobre las vulcanas armas. Pero el golpe no
+hallo donde empecer: antes se inclino enel duro y dora-
+do azero. E otra vez concurrieron contra si fuertemente
+enlas armas desuia<n>do de si lo mas que podian los gol-
+pes delas espadas duras. Pero Hetor ya no pudo mas
+allende sofrir el instante & continuo esfuerc'o de Achiles
+salteado de desastrada & postrimera suerte y de sus fuer-
+c'as grandes negadas y fallescidas. E como se retraxo
+atras aparesciole la deesa palas como fauorescia & ayu-
+daua a Achiles. Ento<n>ces vido Hetor los engan~os ma-
+nifiestos y presente salud no ninguna. Que faria enton-
+c'es Hetor? que deidades humilme<n>te inuocaria: ya to-das}
+[fol. 28v]
+{CB1.
+las fuerc'as de su cuerpo se enflaquescia<n>/ y le me<n>gua
+virtud & socorro/ a tanta q<ue> apenas la diestra puede soste-
+ner el espada: y la enemiga noche dela muerte le comie<n>-
+c'a a cobrir los ojos & ningun socorro se offresce o socorre
+al que assi bien se es defendido/ mas muribundo com-
+bate: y se defiende apremiando el buen corac'on con ge-
+midos altos & gra<n>des. Pero achiles siempre esta firme
+deprimiendo al ya turbado Hetor/ y lanc'o vn golpe co<n>-
+tra Hetor/ & con la rezia punta del espada traspasso por
+la media cara las hazes de Hetor. Alli se alegran los
+griegos que aquel golpe veen. Y los troyanos plan~en
+los sus mortales fados. Entonces el sin ventura Hetor
+perdidas ya las fuerc'as prorompe & habla contra Achi-
+les assi. Da o achiles los mis miembros despues que
+muerto me ouieres alos mezquinos padre & madre mi-
+os/ los quales el mi desauenturado padre se que te mer-
+cara por gran suma de oro/ & tu auras deste fecho victo-
+ria y dones: mayormente que el hijo de Priamo te lo
+ruega agora. E a ti temera de aqui adelante aq<ue>l Pria-
+mo duque delos duques de troya/ solo al qual la gran
+grecia solia temer. E sino eres mouido por plegarias ni
+dones/ ni por lagrimas del mezquino vencido/ ni por
+piedad de tan clara ge<n>te/ mueue y amercendeate de mi
+aflicionado padre: & mueua el tu corac'on a ti pensando
+en Peleo tu padre por Priamo: y por el nuestro cuer-
+po mueua a ti tu hijo Pirro. De tales cosas era fiado
+el hijo de Priamo/ contra el qual el duro Achiles signi-
+fica y responde tales palabras. A que tientas Hetor
+de inclinar el mi anino con dichos humildes/ ca po-
+dria yo derechamente afuer dela costumbre delas fie-
+ras bestias/ si la naturaleza no lo vedasse de despedac'ar-
+te & comerte a pedac'os/ por los grandes males que tu}
+[fol. 29r]
+{CB1.
+a mi has causado. pero seas seguro tu que las tristes fie-
+ras & las aues todas q<ue> dela humana carne son golosas
+y se c'euan y los canes hambrientos/ despedac'aran las
+entran~as tuyas: & alomenos estos gozos tomaran las
+animas de mi ayo Patr(i)[o]culo que tu mataste si las som-
+bas & animas que enlos infiernos son/ tales gozos ha<n>
+lic(ic)encia d(<e>)e tomar. E mientra que el gran Achiles con
+cruel boca lanc'aua tales palabra[s]. Hetor el miserable es-
+piro & dio la vida. Achiles no harto ni contento dela su
+muerte/ ato a su carro delos pies los mie<m>bros ya sin san-
+gre y muerto cuerpo de Hetor/ y tres vegadas el mas
+alto vencedor Achiles le traxo assi en torno y en derre-
+dor de aquestos troyanos muros. Despues lleuo & dio
+alos griegos el cuerpo ensuziado de poluo y crueles lla-
+gas/ alegraronse los griegos. E plan~en las sus morta-
+les miserias los troyanos tristes & a bueltas lloran & la-
+mentan los catiuos que enlos reales delos griegos era<n>
+aquella enemiga & amarga muerte.
+{RUB. % Capitulo .xxxv.}
+{IN6. {MIN.}} DEspues desto el vencedor Achiles dio
+al sepulcro el cuerpo d<e> su amigo ayo pa-
+troculo/ induziendo pompas & honores
+en aq<ue>llas funerarias (a)[o]bsequias. E tres
+vegadas a cerca del monume<n>to de Pa-
+troculo arrebato los mezquinos miem-
+bros Hetor y tales los dio ala tierra. Despues introdu-
+xo varios y diuersos honores d<e> juegos alas cenizas de
+Patroculo/ segun era costu<m>bre de cerimonias entre los
+gra<n>des enlas obsequias. Alli diomedes sobre( )passo en
+correr a Tirses: & a Merion ligero de pies: & Ajas fue}
+[fol. 29v]
+{CB1.
+alli vencido luchando. Pero engan~o y vencio con astu-
+cia y arte man~osa las fuerc'a s de Ajas en la lucha.
+{RUB. % Capitulo .xxxvj.}
+{IN4. {MIN.}} ALa fin los honores fenescidos diero<n> de ma-
+no alos juegos/ & achiles retornose en sus ca-
+stillos acompan~ado de gran juuentud gre-
+ciana. Mas los mezquinos troyanos llora-
+uan el perdido Hetor/ tanto que toda troya era a bozes
+despertada. Enella resuena miseranda/ embia de si llan-
+tos y querellas. y la desue<n>turada Ecuba con vn~as crue-
+les/ su rostro y cara deshaze. Andromaca rompe las sus
+vestiduras desde los pechos fasta la tierra: guay d<e>la biu-
+da que de vn tanto varon se falla despojada: y toda cau-
+sa de dolor delos troyanos cae en planto de vn solo He-
+tor. E la vejes miserable de su afligido padre alli cayo:
+al qual ni su muger ni la gran multitud de sus hijos/ ni
+la gloria de su gran reyno pudieron ni bastaron para le
+tener que no fuesse desarmado la vida oluidando & solo
+se diese alos reales d<e>los sus iniquos enemigos. E ma-
+rauillaro<n>se los nobles y los gra<n>des delos griegos qua<n>-
+do lo vieron assi venir: & marauillose esse Achiles del co-
+rac'o<n> del mezquino viejo Priamo inclinado en hinojos,
+tendiendo contra los cielos las sus tremulas manos: &
+dixo estas palabras. O achiles muy fuerte dela griega
+gente. O enemigo delos reynos mios/ el pueblo troya-
+no parece ve<n>cido de ti solo/ a ti ha sentido la n<uest>ra vez por
+muy cruel: pues agora ya no te ruego q<ue> seas muy man-
+so/ mas co<n>duele & aue dolor delos hinojos afligidos d<e>l
+rogante: & ruegote q<ue> tomes estos dones que te yo trayo
+por el cuerpo del mi mezquino hijo. E si fueres ta<n> cruel
+que ni te quieres inclinar por oro/ ni por las plegarias
+mias/ la tu diestra mano se encruelezca agora luego en}
+[fol. 30r ]
+{CB1.
+los mis postrimeros & antiguos an~os: alomenos acom-
+pan~are yo padre las crueles mortajas de mi hijo. E no
+te ruego que des a mi vida ni honores grandes/ mas es-
+quiua y cruel mortaja: amercendeate Achiles delos pa-
+dres/ aprende enel mi cuerpo ser padre manso: ca enla
+muerte de Hetor venciste los reynos troyanos/ ve<n>ciste
+a Priamo: pues mie<m>bra te vencedor enlas tales virtu-
+des d<e>la humana suerte & acata las desuariadas caydas
+que muchas vezes se offrece<n> alos duques y ve<n>cedores.
+Alla fin por estas plegarias mouido el gra<n>dino Achiles
+leuanto de tierra Hetereo cuerpo menguado de vida
+& sangre & diole al padre priamo. E leuo Priamo estos
+tristes dones en troya & hizo tristes obsequias afuer del
+rito & costumbre delos suyos. Lleuo el cuerpo de Hetor
+enlas postrimeras honrras/ y fue ordenado el pireo ata-
+hud: para el qual lleuar se llegaron doze cuerpos de ma<n>-
+cebos delos griegos: y dos quadr(a)[u]pedales cauallos q<ue>
+el carro tiraua<n> en q<ue> auian de yr las andas: sobre los qua-
+les pusiero<n> el escudo de Hetor/ y el su esta<n>darte/ y la tro<m>-
+pa y el yelmo cauado/ & los dorados arginos. E con aq<ue>-
+stas cosas co<n> vn gemido muy gra<n>de fue repuesto hetor.
+E ya estauan alli enderredor las madres troyanas ro<m>-
+pie<n>do co<n> sus delicadas manos los cabellos hermosos: &
+rasga<n>do y ferie<n>do sus pechos. y para qua<n>do assi diero<n> el
+cuerpo de Hetor al fuego p<ar>a lo q<ue>mar/ cada vna pe<n>saua
+enla muerte de su hijo. E assi mesmo se leua<n>taua el cla-
+mor delos ma<n>cebos co<n> murmurio muy gra<n>de: & yua assi
+el cuerpo d<e> hetor no menos ardido q<ue> llorado. Entre los
+gemidos a ta<n>tos de toda troya/ alli se la<n>c'o su muger an-
+dromaca faziendo su cuerpo pedac'os & profia<n>do meter
+se en los fuegos: teniendo enlos brac'os al pequen~o hijo
+Anastianes: p<er>o arrebataro<n> la d<e> alli la co<m>pan~a d<e>los troya-nos}
+[fol. 30v]
+{CB1.
+suyos/ & avn que profiaua toda via y resistia alos
+que la querian de alli lleuar/ hasta ta<n>to que cayeron las
+fuerc'as de fuego & llamas. E assi fue ydo & bolado d<e> en-
+tre nosotros el cuerpo de vn tanto duque/ tornado lige-
+ras centellas y cenizas.
+{RUB. % Aqui se acaba la yliada de homero historiador
+muy excele<n>te. Traduzida del griego y latin en len-
+gua vulgar por el poeta castellano Juan de mena
+Embiola el licenciado Alonso rodriguez de tude-
+la al illustre & muy magnifico sen~or do<n> Her-
+nando enrriquez para en q<ue> lean sus hijos los que
+ha<n> de exercitar la disciplina y acto militar. Fue im-
+primida enla villa de Ualladolid/ por Arnao gui-
+llen de brocar a .xxiij. dias del mes de Abril. An~o
+de mil & quinientos diez y nueue an~os.}}

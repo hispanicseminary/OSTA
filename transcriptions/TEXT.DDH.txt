@@ -1,0 +1,846 @@
+{RMK: HSMS-0213.}
+{RMK: Antonio de Nebrija.}
+{RMK: [DDH] Tabla de la diversidad de los días y horas.}
+{RMK: Alcalá de Henares [?] | Arnaldo Guillén de Brocar | 1517 [?].}
+{RMK: Nueva York | Hispanic Society of America.}
+{RMK: John O'Neill.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0213-0001: Tabla de la diversidad de los días y horas.} {RUB. Tabla dela diuersidad delos dias y horas y partes
+de hora en las ciudades villas y lugares de Espan~a
+y otros de europa: q<ue> les respo<n>den por sus paralelos.
+Compuesta por el Maestro Antonio de Nebrissa.}}
+[fol. 1v]
+{CB1.
+{RUB. {IN3.} PRologo en que el maestro Antonio de nebrissa habla co<n> los lectores
+cerca dela tabla que hizo y publico dela diuersidad delas horas y par-
+tes de hora enlas ciudades villas y lugares de toda Espan~a y por co<n>-
+siguiente de todos los otros que les responden por sus paralelos.}
+{IN5. {MIN=.}} MUchas cosas estan puestas en la comun opinio<n> del pueblo igno-
+rante: que la razon & artificio muestran ser de otra manera. Co-
+mo aquello que todos comunmente piensan que el crecer & me<n>-
+guar delos dias se hace igualmente: y porque enlos seys meses
+del an~o crecen: & enlos otros seys menguan: piensan que tenien-
+do el menor dia del an~o nueue horas & quinze el mayor como en toledo: que
+por esso los dias crecera<n> vna hora en cada mes. & por el co<n>trario enlos otros
+seys meses menguaran otra hora en cada mes: como ala uerdad en solo el
+mes de marzo crezcan tanto quanto crecieron enel mes de enero & hebrero
+passados: & los ueynte dias de deziembre despues que come<n>zaron a crecer.
+Y por el contrario tanto menguan en solo el mes de setiembre quanto men-
+guaron en Julio & Agosto & los ueynte de Junio despues que comenzaron
+a menguar. Esso mesmo aquello que porque el an~o se parte en quatro par-
+tes. La primera desde el solsticio del inuierno que es el menor dia del an~o:
+hasta q<ue> enel mes de marzo ygualan las noches con los dias: que es el equi-
+nocio del uerano: la segunda desde alli hasta el solsticio del estio: que es el
+mayor dia del an~o. la tercera desde aquel solsticio hasta q<ue> otra uez enel mes
+de Setiembre igual an las noches con los dias: que es el equinocio del oto-
+n~o: la quarta desde este equinocio hasta el otro solsticio del inuierno: q<ue> es
+el menor dia del an~o: todos piensan que tanto tiempo hai desde el solsticio d<e>l
+inuierno hasta el equinocio del uerano: que es la primera quarta como des-
+de este equinocio hasta el solsticio del estio que es la segunda quarta. Y tan-
+bien que tanto hai desde el solsticio del estio hasta el equinocio del oton~o:
+que es la tercera quarta: como desde este equinoctio hasta el solsticio del in-
+uierno: que es la ultima quarta: seyendo otra la uerdad. Porque como quie-
+ra q<ue> los dias del an~o crezcan ciento & ochenta & dos dias & medio & tres ho-
+ras: & menguen otro ta<n>to tiempo: enla primera quarta q<ue> es desde el solsticio
+del inuierno hasta el equinocio del uerano hai dos dias & quinze horas me-
+nos q<ue> enla segunda quarta: que es desde el dicho equinocio hasta el solsti-
+cio del estio. Y tambie<n> enla tercera quarta del an~o que es desde este solsticio
+hasta el equinoctio del oton~o: hai otros dos dias & quinze horas mas q<ue> enla
+otra ultima quarta del an~o: q<ue> es desde este equinocio hasta el solsticio del in-
+uierno. Esso mesmo aq<ue>llo q<ue> parece q<ue> no es de creer: q<ue> el mayor dia del an~o
+co<n> su noche sea mayor q<ue> el menor dia co<n> la suya: seyendo la uerdad que el dia
+mayor del estio es algun tanto mayor que el menor dia del inuierno co<n> su no-
+che. Pero todo lo sobredicho ligeramente se prueua enlas scie<n>cias: a quien
+p<er>tenece tratar de semeiantes cosas: como quiera que el uulgo que no iuzga
+sino por el sentido: piense otra cosa conel qual agora nos queremos confor-
+mar en lo que no hay mucha differencia & el error es poco. Es otro no}
+[fol. 2r]
+{CB1.
+menos error que los passados: que enla cabeza de todos los meses enlos
+kalendarios esta escripto como por titulo: que tiene el dia ciertas horas & ci-
+ertas la noche. No pudo ponerse cosa de mayor desuario. porque ni las par-
+tes del mes tienen entresi igualdad: ni el numero de las horas de cada dia es
+uno en todos los lugares. Porque enlas canarias el mayor dia del an~o es d<e>
+treze horas & la noche de onze. & por el contrario el menor dia del an~o es de
+onze horas e la noche de treze. En Ta<n>jar e arzilla ciudades de africa el ma-
+yor dia del an~o tiene quatorze horas & una duodecima & la noche diez horas
+menos aquella duodecima parte de hora. En Seuilla el mayor dia del an~o
+tiene quatorze horas & una tercia parte de hora: & la noche diez horas me-
+nos aquella tercia. Y porque no nos apartemos del exemplo que pone Pto-
+lemeo: enla uilla dela Corun~a que fue lugar de conuento & jurisdicio<n> de Ro-
+manos: el mayor dia del an~o tiene quinze horas & una octaua decima parte
+de hora: & la noche nueue horas menos aquella octaua decima parte. Y assi
+procediendo de medio dia(|) a setentrion por Francia Aleman~a Bohemia.
+Nuruega e Roxia hasta llegar a tierra donde el mayor dia es de ueynte &
+quatro horas: & la noche no tiene sino un momento de hora. & llamo yo ago-
+ra dia despues que nace la meytad del cuerpo del sol: hasta que se pone la o-
+tra meytad: & todo lo otro noche. Item quando dezimos aqui horas o par-
+tes de hora: no entendemos por la duodecima parte del dia o dela noche: si-
+no por estas uulgares del relox que por otro nombre se llama<n> equinociales:
+porque en cada una dellas nacen quinze grados del equinocial. Y porque
+los dias passados un Religioso que tenia cargo de concertar el relox de su
+casa me demando que en tanta uariedad le diesse alguna certidumbre & re-
+glas para cumplir con su cargo: ordene una tabla sacada por la declinacio<n> de
+los signos & grados desde el equinocial: porque segun aquella se haze la di-
+uersidad delos dias & noches en todo el mu<n>do. & porque otros algunos uer-
+nan enla mesma dubda que aquel religioso: rogue a Arnao Guillen Broca-
+rio impressor de libros que la multiplicasse por impression: porque si otro al-
+guno me preguntasse lo mesmo: touiesse adonde lo embiar sin me auer otra
+uez de romper la cabeza.}
+[fol. 2v]
+{CB1.
+{RUB. Tabla para saber quantas horas & partes de hora hai en cada
+vn dia del an~o enlas cibdades villas y lugares de espan~a. & por
+consiguiente en todos los otros lugares de europa que les res-
+ponden por sus paralelos.}}
+{CB7.
+Grados del
+anchura.
+Meses.
+xiiii. Sep<tiembre>.
+xvii.
+xx.
+xxviii.
+xxvi.
+xxix.
+ii. Oct<ubre>.
+v.
+viii.
+xi.
+xiiii.
+xvii.
+xx.
+xxiii.
+xxvi.
+xxix.
+j. Nou<iembre>.
+iiii.
+vii.
+x.
+xiii.
+xvi.
+xix.
+xxii.
+xxv.
+xxviii.
+xxx.
+iii. Dez<iembre>.
+vi.
+ix.
+xii.}
+{CB7.
+xi. Mar<zo>.
+xiiii.
+xvii.
+xx.
+xxiii.
+xxvi.
+xxix.
+j. Abr<il>.
+iiii.
+vii.
+xx.
+xxiii.
+xvi.
+xx.
+xxiii.
+xxvi.
+xxix.
+ii. Ma<yo>.
+v.
+ix.
+xii.
+xv.
+xviii.
+xxi.
+xxiiii.
+xxvii.
+xxxi.
+iii. Jun<io>.
+vi.
+ix.
+xii.}
+{CB7.
+xxxvi.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iii.
+vi .vii.
+vi .x.
+vi .xiiii.
+vi .xvii.
+vi .xxi.
+vi .xxiiii.
+vi .xxvii.
+vi .xxx.
+vi .xxxiii.
+vi .xxxvii.
+vi .xl.
+vi .xliii.
+vi .xlvi.
+vi .xlix.
+vi .lii.
+vi .lv.
+vi .lvii.
+vii .o.
+vii .ii.
+vii .iiii.
+vii .vi.
+vii .viii.
+vii .ix.
+vii .xi.
+vii .xii.
+vii .xii.
+vii .xiii.
+vii .xiii.
+vii .xiiii.}
+{CB7.
+xxxvii.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .vii.
+vi .xi.
+vi .xiiii.
+vi .xviii.
+vi .xxii.
+vi .xxv.
+vi .xxviii.
+vi .xxxii.
+vi .xxxv.
+vi .xxxix.
+vi .xlii.
+vi .xlv.
+vi .xlviii.
+vi .li.
+vi .liiii.
+vi .lvii.
+vii .o.
+vii .ii.
+vii .iiii.
+vii .vii.
+vii .ix.
+vii .x.
+vii .xii.
+vii .xiii.
+vii .xiiii.
+vii .xv.
+vii .xvi.
+vii .xvi.
+vii .xvii.}
+{CB7.
+xxxviii.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .viii.
+vi .xxi.
+vi .xv.
+vi .ix.
+vi .xxii.
+vi .xxvi.
+vi .xxx.
+vi .xxxiii.
+vi .xxxvii.
+vi .xl.
+vi .xliii.
+vi .lvii.
+vi .l.
+vi .liii.
+vi .lvi.
+vi .lix.
+vii .ii.
+vii .iiii.
+vii .vii.
+vii .ix.
+vii .xi.
+vii .xiii.
+vii .xv.
+vii .xvi.
+vii .xvii.
+vii .xviii.
+vii .xix.
+vii .xix.
+vii .xix.}
+{CB7.
+xxxix.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .viii.
+vi .xii.
+vi .xv.
+vi .xix.
+vi .xxiii.
+vi .xxvii.
+vi .xxxi.
+vi .xxxiiii.
+vi .xxxviii.
+vi .xli.
+vi .xlv.
+vi .xlviii.
+vi .lii.
+vi .lv.
+vi .lviii.
+vii .i.
+vii .iiii.
+vii .vii.
+vii .ix.
+vii .xii.
+vii .xiiii.
+vii .xvi.
+vii .xvii.
+vii .xix.
+vii .xx.
+vii .xxi.
+vii .xxii.
+vii .xxii.
+vii .xxii.}
+{CB7.
+xl.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .viii.
+vi .xii.
+vi .xvi.
+vi .xx.
+vi .xxiiii.
+vi .xxviii.
+vi .xxxii.
+vi .xxxvi.
+vi .xxxix.
+vi .xliii.
+vi .xlvii.
+vi .li.
+vi .liiii.
+vi .lvii.
+vii .o.
+vii .iii.
+vii .vi.
+vii .ix.
+vii .xii.
+vii .xiiii.
+vii .xvi.
+vii .xvii.
+vii .xix.
+vii .xx.
+vii .xxi.
+vii .xxi.
+vii .xxii.
+vii .xxii.
+vii .xxii.}
+[fol. 3r]
+{CB1.
+{RUB. Lo restante desta tabla dela quantidad delas horas y partes de hora
+que sirue alos otros seys meses y alos otros cinco grados de anchu-
+ra que son desde quarenta y vno hasta quarenta y cinco grados.}}
+{CB7.
+xli.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .viii.
+vi .xii.
+vi .xvii.
+vi .xxii.
+vi .xxv.
+vi .xxix.
+vi .xxxiii.
+vi .xxxvii.
+vi .xli.
+vi .xlv.
+vi .xlviii.
+vi .lii.
+vi .lvi.
+vi .lix.
+vii .iii.
+vii .vi.
+vii .ix.
+vii .xii.
+vii .xv.
+vii .xvii.
+vii .xix.
+vii .xxi.
+vii .xxiii.
+vii .xxv.
+vii .xxvi.
+vii .xxvii.
+vii .xxviii.
+vii .xxix.
+vii .xxx.}
+{CB7.
+xlii.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .ix.
+vi .xiii.
+vi .xvii.
+vi .xxi.
+vi .xxvi.
+vi .xxx.
+vi .xxxiiii.
+vi .xxxviii.
+vi .xlii.
+vi .xlvi.
+vi .l.
+vi .liiii.
+vi .lviii.
+vii .i.
+vii .v.
+vii .viii.
+vii .xi.
+vii .xv.
+vii .xvii.
+vii .xx.
+vii .xxiii.
+vii .xxv.
+vii .xxvii.
+vii .xxviii.
+vii .xxx.
+vii .xxxi.
+vii .xxxii.
+vii .xxxiii.
+vii .xxxiii.}
+{CB7.
+xliii.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .iiii.
+vi .ix.
+vi .xiii.
+vi .xviii.
+vi .xxii.
+vi .xxvii.
+vi .xxxi.
+vi .xxv.
+vi .xl.
+vi .xliiii.
+vi .xlviii.
+vi .lii.
+vi .lvi.
+vii .o.
+vii .iiii.
+vii .vii.
+vii .xi.
+vii .xiiii.
+vii .xvii.
+vii .xx.
+vii .xxiii.
+vii .xxvi.
+vii .xxviii.
+vii .xxx.
+vii .xxxii.
+vii .xxxiii.
+vii .xxxiiii.
+vii .xxxv.
+vii .xxxv.
+vii .xxxvi.}
+{CB7.
+xliiii.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .v.
+vi .ix.
+vi .xiiii.
+vi .xviii.
+vi .xxiii.
+vi .xxvii.
+vi .xxxii.
+vi .xxxvi.
+vi .xli.
+vi .xlv.
+vi .l.
+vi .liiii.
+vi .lviii.
+vii .ii.
+vii .vi.
+vii .x.
+vii .xiii.
+vii .xvii.
+vii .xx.
+vii .xxiii.
+vii .xxvi.
+vii .xxix.
+vii .xxxi.
+vii .xxxiii.
+vii .xxxv.
+vii .xxxvii.
+vii .xxxviii.
+vii .xxix.
+vii .xxxix.
+vii .xxxix.}
+{CB7.
+xlv.
+Ho<ras>. Min<utos>.
+vi .o.
+vi .v.
+vi .x.
+vi .xiiii.
+vi .xix.
+vi .xxiiii.
+vi .xxix.
+vi .xxxiii.
+vi .xxxviii.
+vi .xliii.
+vi .xlvii.
+vi .li.
+vi .lvi.
+vii .o.
+vii .iiii.
+vii .viii.
+vii .xii.
+vii .xvi.
+vii .xx.
+vii .xxiii.
+vii .xxvi.
+vii .xix.
+vii .xxxii.
+vii .xxxv.
+vii .xxxvii.
+vii .xxxix.
+vii .xl.
+vii .xlii.
+vii .xlii.
+vii .xliii.
+vii .xliii.}
+{CB7.
+Meses.
+xiiii.
+xi.
+viii.
+v.
+i. Sep<tiembre>.
+xxix.
+xxvi.
+xxiii.
+xx.
+xvii.
+xiiii.
+xi.
+viii.
+v.
+ii. Aug<ust>o.
+xxix.
+xxvi.
+xxiii.
+xx.
+xvii.
+xiiii.
+xi.
+viii.
+iiii.
+i. Juli<o>.
+xxviii.
+xxv.
+xxii.
+xix.
+xv.
+xii. Jun<io>.}
+{CB7.
+xxi.
+viii.
+v.
+ii. Mar<zo>.
+xxvii.
+xxiiii.
+xxi.
+xviii.
+xv.
+xii.
+ix.
+vi.
+iii. Feb<rero>
+xxxi.
+xxviii.
+xxv.
+xxii.
+xix.
+xvi.
+xiii.
+x.
+vii.
+iiii.
+i. Jan<uario>.
+xxx.
+xxvii.
+xxiiii.
+xxi.
+xviii.
+xv.
+xii. Dez<iembre>.}
+[fol. 3v]
+{CB1.
+{RUB. Declaracion de algunos uocablos de que aqui usa el auctor.}
+{IN5. {MIN=.}} ANtes que uengas al uso destas dos tablas: es menester que se-
+pas la declaracion de algunas palabras de que usan los astrolo-
+(lo)gos que desto hablan. & primeramente que cosa es grado del
+anchura. Todo cerco que se sen~ala enel cielo o enla tierra o en
+otro qualquiera cuerpo redondo: en su primera diuision se re-
+parte en trezientos e sesenta grados que los latinos llama<n> partes & los grie-
+gos meridas. Despues cada un grado o parte de aquellas se parte en sesen-
+ta minutos. & cada minuto en sesenta segundos & assi procediendo adelante
+hasta uenir a qua<n>tidad de cuerpo o tiempo que no se pueda juzgar por el se<n>-
+tido. & a esta diuision los astrologos llaman physica dela qual usan assi enel
+mouimiento delos planetas & estrellas fixas como enlos tiempos por don-
+de se miden aquellos mouimientos. & assi agora enla primera tabla usamos
+della partiendo la hora en sesenta minutos. & porque aqui no procedemos si-
+no hasta satisfazer al sentido popular: no curamos agora de minutos segun-
+dos e terceros. Anchura se llama en comparacion dela longura. porque assi
+enel cielo como enla tierra longura se llama de oriente a occidente. & anchu-
+ra de septentrion a medio dia. & porque enel cielo la distancia desde occiden-
+te a oriente se toma comenzando desde el principio del signo de aries hasta
+tornar al mesmo punto que son como diximos trezientos e sesenta grados:
+& la distantia de medio dia a septentrion se toma desde el equinocial hasta el
+norte que son nouenta grados: que es una quarta del cerco: por esso llama-
+mos aquella longura & a esta anchura. Esso mesmo enla tierra porque la di-
+stancia de occidente a oriente se toma comenzando del meridiano que passa
+por las islas canarias hasta tornar al mesmo meridiano que son otros .ccclx.
+grados: & la distancia desde medio dia al septentrion se toma desde el equino-
+cial hasta el norte: que son nouenta grados: por esso tanbien llamamos aque-
+lla longura & aquesta anchura. E assi Ptolemeo para monstrar el sitio de
+las ciudades uillas & lugares puso la longura & anchura dellas por grados
+& partes de grado. & donde se encontraua la una conla otra: alli ponia aquel
+lugar. & assi agora pusimos aqui la tabla delas anchuras que sirue para el p<re>-
+sente negocio. porque la delas longuras es para saber quantas horas antes
+nace el sol en los lugares orientales que enlos occidentales. Queda de de-
+clarar porque se llaman solsticio & equinocio. en quatro quartas se parte el
+an~o las quales se distinguen por quatro terminos dos solsticios uno del in-
+uierno enel menor dia del an~o. & otro del estio enel mayor dia del an~o. & dos
+equinocios uno del uerano quando enel mes de marzo igualan las noches
+con los dias. & otro enel oton~o quando enel mes de setiembre otra uez igua-
+lan las noches con los dias. & llamanse solsticios porque enel mes de dizie<m>-
+bre & de junio quando ellos acontecen el sol no hace notable mudanza enel
+lugar donde nace & se pone. ni enel numero delas horas & partes del dia.
+Pero ser un dia mayor que otro esta en ser el lugar situado mas o menos di-
+stante del equinocial & allegarse mas o menos al septentrion.}
+[fol. 4r]
+{CB1.
+{RUB. Canon para el uso de la tabla principal.}
+{IN5. {MIN=.}} SI quieres saber las horas & partes de hora que hai desde que
+sale el sol hasta el medio dia en alguna ciudad uilla o lugar de es-
+pan~a o delos otros lugares de europa que les responden por
+sus paralelos: busca enla tabla delas anchuras delas ciudades
+aquel lugar para do<n>de quieres saber aquesto o el mas cercano
+del. & toma el grado dela anchura que le respo<n>de & aquel buscalo enla tabla
+dela diuersidad delas horas & minutos de hora enla linea primera que pro-
+cede dela mano siniestra ala diestra desde treynta & seys hasta quarenta & cin-
+co. & despues desto mira las dos primeras lineas & las otras dos ultimas de-
+sta tabla las q<u><<a>>les siruen alas q<u><<a>>tro q<u><<a>>rtas del an~o. & enla primera que d<e>sce<n>die<n>-
+do comienza a quatorze dias de setiembre quando enel oton~o igualan las
+noches con los dias hallaras lo restante de setiembre & al mes de octo( )bre
+& nouiembre hasta doze de dezie<m>bre: en que los dias son menores que las
+noches. Enla segunda que tanbien descendiendo comienza a onze dias de
+marzo quando enel verano otra uez igualan las noches con los dias halla-
+ras lo restante de marzo & abril & mayo hasta doze de junio: en que los dias
+son mayores que las noches. Enla ultima que subiendo de abaxo arriba
+comienza a doze dias de deziembre quando enel solsticio del inuierno es el
+menor dia & mayor noche del an~o: hallaras lo restante de deziembre con los
+meses enero & hebrero hasta quatorze dias de marzo en que diximos que
+igualauan las noches con los dias. Enla penultima linea que subiendo esso
+mesmo de abaxo arriba comien(c)[c']a a doze dias de junio quando enel solsticio
+del estio es el mayor dia & la menor noche del an~o hallaras lo restante de ju-
+nio con los meses julio & agosto hasta quatorze dias de setienbre: en que di-
+ximos que otra uez igualauan las noches con los dias. Despues que halla-
+ste en alguna destas quatro lineas el mes & dia mas cercano al tuyo en que
+quieres obrar: mira donde se encue<n>tra conel grado del anchura: & lo que alli
+hallares de horas & minutos: si[ ]es enla primera & ultima linea son la meitad
+dela noche. & si enla segunda & penultima: son la meitad del dia. Y alli dobla<n>-
+do aquella meitad tenemos la quantidad entera dela noche o del dia. & por
+aqui podras concertar tu relox.
+{IN2.} PAra la pratica desta regla: pongo tal exemplo. oy primero dia de agosto
+estoy enlos santos villa y camara del Arzobispo de toledo. Quiero sa-
+ber quantas horas y partes de hora hay eneste dia enel lugar donde estoy.
+buscolo enla tabla delos lugares: y no lo hallo. pero hallo la villa de Alcala
+que esta de aqui dos leguas hazia el poniente: y hallo la ciudad de Guadala-
+jara que esta tres hazia el leuante. las quales por estar enel mesmo paralelo
+por lo que dicho auemos: no hazen diuersidad alguna. quanto mas que aun
+que estuuieran atrauessadas no hizieran diferencia notable. hallo que todos
+estos tres lugares tienen de anchura quarenta grados. buscolos enla tabla
+dela diuersidad delas horas. y por otra parte busco el mes de agosto y hallo-
+lo enla linea penultima dela mesma tabla: p<er>o no hallo primero dia sino dos
+dias: porque la tabla procede haziendo salto de quatro en quatro dias. y por}
+[fol. 4v]
+{CB1.
+esso tomo el numero mas cercano que es dos. y donde se encuentra el gra-
+do del anchura con los dos dias de agosto: hallo seys horas y cinquenta y
+quatro minutos. y tanto hai desque sale el sol hasta el medio dia. doblo aque-
+llo: y salenme treze horas y quarenta y ocho minutos: que son quatro quin-
+tas de hora. El qual dia es ygual a veynte y tres de abril: porque son entram-
+bos dela quarta segunda y tercera del an~o. y son esso mesmo yguales alas no-
+ches de veynte seys dias de otubre y de veynte y ocho de hebrero: por que
+son entrambos dela primera y vltima quarta del an~o. Assi que vn mesmo nu-
+mero sirue a todas las quatro quartas del an~o.
+{RUB. Tabla del anchura delos lugares.}}
+{CB5.
+xxxvj.
+Arzila.
+Tanjar.
+Alcazar.
+Septa.
+Trapana.
+Palermo.
+xxxvij.
+Tarifa.
+Gibraltar.
+Marbella.
+Estepona.
+Calez.
+Xerez.
+San lucar.
+Arcos.
+Lebrixa.
+Malaga.
+Uelez malaga.
+Salobren~a.
+Antequera.
+Almeria.
+Cartagena.
+Zaragoza.
+Ana de sicilia.
+xxxviij.
+Cabo de. s<an>. vic<ente>.
+Lepe ayamo<n>te
+Lagos.
+Frexenal.
+Seuilla.
+Carmona.
+Ecija.}
+{CB5.
+Ossuna.
+Andujar.
+Baeza.
+Jaen.
+Alcala real.
+Cazorla.
+Alcaraz.
+Uillena.
+Denia de arag<on>.
+Cerden~a.
+Catan~a.
+Mecina.
+Lentin.
+xxxix.
+Faro portogal.
+Setubal.
+Yelues.
+Badajoz.
+Merida.
+Medellin.
+Belalcazar.
+Guadalupe.
+Ciudad real.
+Almagro
+Cuenca.
+Monuiedro.
+Ualenc[ia].
+Xatiua.
+xl.
+Lisbona.
+Alcantara.
+Coria.
+Plasencia.}
+{CB5.
+Trogillo.
+Talauera.
+Toledo.
+Madrid.
+Alcala he<n>ares.
+Guadalajara.
+Moya.
+Tortosa.
+Taragona.
+Corcega isla.
+Salerno.
+Taranto.
+Brundizo.
+Otranto.
+xli.
+Lamego.
+Ciudad rodri<go>.
+Salamanca.
+Madrigal.
+Areualo.
+Auila.
+Segouia.
+Ciguenza.
+Barzelona.
+Capua.
+Napoles.
+xlii.
+Puerto porto.
+Mira<n>da duero
+Zamora.
+Benauente.
+Toro.
+Medina.}
+{CB5.
+Tordesillas.
+Ualladolid.
+Olmedo.
+Osma.
+Soria.
+Almazan.
+Calatayut.
+Daroca.
+Zaragoza.
+Girona.
+Barcelona.
+Lerida.
+Genoua.
+Pisa.
+Roma.
+xliii.
+Braga.
+Astorga.
+Palencia.
+Burgos.
+Najara.
+Logron~o.
+Calahorra.
+Agreda.
+Tarazona.
+Cabo de cruz.
+Perpin~an.
+Monpeslier.
+Marsella.
+Bolon~a.
+Cesena.
+Forliuio.
+Florencia.}
+{CB5.
+xliiij.
+El padron.
+Po<n>te de limia.
+Leo<n> de espan~a
+Uitoria.
+Media nauara
+Pamplona.
+Pertusa.
+Huesca.
+Nimis.
+Auin~on.
+Mantua.
+Arimino.
+Rauena.
+Ancona.
+xlv.
+Finis[+]terre.
+Santiago.
+La corun~a.
+Santa marta.
+Biuero.
+Lugo.
+Gijon.
+Ouiedo.
+Santander.
+Laredo.
+Bermeo.
+Burdeos.
+Leo<n> su la rona.
+Aquilea
+Uenecia.
+Padua.
+Milan.}

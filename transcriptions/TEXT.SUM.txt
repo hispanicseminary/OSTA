@@ -1,0 +1,5200 @@
+{RMK: HSMS-0116.}
+{RMK: Francisco López de Villalobos.}
+{RMK: [SUM] Sumario de la medicina.}
+{RMK: Salamanca | Juan de Porras | 1498.}
+{RMK: Madrid | Biblioteca Nacional de España | INC/1350.}
+{RMK: María Nieves Sánchez.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0116-0001: Sumario de la medicina.} {RUB. El Sumario de la medicina en romanc'e trouado por el licenciado
+de Uillalobos estudiante en el estudio de Salama<n>ca. hecho a co<n>templacion del
+muy magnifi-
+co y Ylustre sen~or el marques de Astorga segundo al qual dize.}
+% Muy magnifico y ylustre sen~or mucha gana tenia. v<uest>ra ylustre sen~oria q<ue> yo sacasse el trasu<n>to
+de algu<n>os libros de medecina d<e> la le<n>gua latina en roma<n>c'e. porq<ue> en su tierra ay muchos fisicos
+bie<n> exp<er>tos y letrados en ella q<ue> la estudiaro<n> en otra le<n>gua. y como esta fuese destos reynos y p<ro>ui<n>-
+cias rematada q<ue>daro<n>se los dichos fisicos co<n> la scie<n>cia en la volu<n>tad y en pote<n>cia no mas falta<n>-
+doles el p<ri>ncipal instrume<n>to co<n> q<ue> la pudiesse manifestar y reduzir en acto y dexomelo d<e> ma<n>dar
+v. y. s. conocie<n>do q<ue> de solo este p<ro>uecho se podria<n> muchos y no peq<ue>n<n>os inco<n>uenie<n>tes conseguir.
+porq<ue> vista la scie<n>cia en roma<n>c'e no solame<n>te la vsaria<n> los q<ue> co<n> justa razo<n> y titulo pudiesse<n> esta<n>do
+bie<n> introduzidos y p<ri>ncipiados en ella mas avn otros muchos cobraria<n> osadia de la vsurpar y ti-
+ranizar pe<n>sando q<ue> no era necessario p<ar>a praticar el arte y poderse ap<ro>uechar della mas de ver aq<ue>-
+llos libros q<ue> co<n>tiene<n> todas las enfermedades y las curas d<e>llas por estilo asaz claro y ma<n>ifiesto
+% Gra<n>dissimo error verdaderame<n>te seria de quie<n> muchos y mas peligrosos errores sucederi-
+an. porq<ue> la mayor p<ar>te de n<uest>ra scie<n>cia en sus p<ri>ncipios co<n>siste. q<ue> son como el conoc'imie<n>to d<e>las co<n>-
+plexio<n>es de los humores de los mie<n>bros y sus p<ri>ncipados hechuras y anatomias y el conocimie<n>-
+to de las pote<n>cias espritos y operaciones y la noticia de las enfermedades y sus sen~ales co<n> pul-
+sos y horinas y otras muchas y muy graues cosas cuja noticia solame<n>te se alca<n>c'a en los estu-
+dios co<n> gra<n> trabajo y exercicio q<ue> como podria saber por aq<ue>llos libros curar la fiebre de humor}
+{SG. a ij}
+[fol. 1v]
+{CB1.
+quien no supiesse primero q<ue> cosa es humor & sus especies y todas las otras cosas cuia p<re>scie<n>cia
+se requiere las quales muchas diuersidades y co<n>trouersias hazen en las curas tanto que vna
+misma passion por ser en co<m>plexiones diuersas y varios tiempos requiere curas quasi co<n>trari-
+as por ende fueme forc'ado de buscar medio con que no se incurriese en los dichos inco<n>uenie<n>tes
+y. v. y. s. fuese seruido en lo que tenia voluntad.
+% Hize vn sumario q<ue> co<n>prende todas las enfermedades vniuersales y particulares segun q<ue>
+las puso Auicena con el qual ligeramente podra quien quiera q<ue> en la dicha sciencia tenga p<ri>n-
+cipios. Acordarse de las pesquisas que deue hazer en qualquiera enfermedad y de las formas
+con que la cure. tras esto cada vno de los fisicos de .v. s. sabra buscar medecinas simples y co<m>-
+puestas appropiadas al intento tomando exemplo y semejanc'a de algunas q<ue> alli vera espresa-
+das puesto que no tuuiessen libro alguno. qua<n>to mas que los tiene<n> avn que no perfectos. vie<n>-
+do asi mismo por alli las significaciones de los terminos y nombres de enfermedades con po-
+co que en el latin se les trasluza sabra<n> buscar qualquier capitulo y entendello y dende co<n>seguir
+libremente su effecto.
+% Ite<n> aprouechara el dicho sumario a todos los fisicos nouelos y algunos de los ancianos q<ue>
+cura<n> sin auer bien p<er>tratado y passado los libros de la practica de Auicena y Galieno y los o-
+tros de manera que primero veen las enfermedades en los pacie<n>tes que en los libros con este
+ternan vna noticia y memorial de todas para que por alli se acuerden de lo q<ue> aculla se escriue
+exte<n>samente y sepan dar cuenta y razonar de qualquier passion en prompto y sin estudio sabra<n>
+asi mismo la orden de los capitulos de Auicena y acordarseles a qual viene tras qual y q<ue> se co<n>-
+tiene en aquel. singular prouecho es este y gra<n> estimulo para traelles a estudiar aquello que la
+suma les significa.
+% Otrosi es muy vtile y prouechoso para los sen~ores y para letrados de otras facultades q<ue>
+quieren saber algo en la medecina para hablar co<n> los medicos preguntar y esperementar y ta<m>-
+bien si estos deprenden a entender el dicho sumario alcanc'ara<n> harto y avn se podra<n> por algu-
+nos dias aprouechar en tanto que viene el fisico do vuiere falta del.
+% Resciba pues .v .y .s. esta obra que si ella buena no fuere bien sabe que el fundamen-
+to suio que es la voluntad y gana co<n> que le siruo es tal que solo a dios deue lo que della falta el
+qual plega de co<n>seruar y prosperar el muy magnifico estado de .v. y. s. con lue<n>gua vida por lar-
+gos tiempos.
+{RUB. Comienc'a la obra trouada}}
+{CB2.
+% Con mucha instancia el marq<ue>s mi sen~or
+aquel tan ylustre y real cauallero
+se muestra auer gana da questa labor
+adonde se coja lo mas de la flor
+dela medecina en estilo ligero
+por esto mouido a estudiar en la sciencia
+me hallo afrontado en tan aspera via
+mas todos sabores y toda osadia
+que quita la rustica y ruda ynoscencia
+me pone el seruicio de su sen~oria
+% Que en ver yo vn sen~or y de ta<n>ta excele<n>cia
+mandarme vna cosa por graue que sea
+la gruessa rudeza se torna en sapiencia
+la cruda pereza en muy gran diligencia
+y el muy peruertido q<ue>rer ya desea
+porquel del mayor y mejor rey cristiano}
+{CB2.
+es su carnal primo segund que sabemos
+aqueste es osorio que a puesto la mano
+contra hombres y diablos y todo tirano
+y nunca sus armas sin sangre las vemos
+% Bien basta q<ue> mire el q<ue> quiere sus dan~os
+para que le otorgue la mas alta ley
+que siendo nin~ito de solos doze an~os
+con sus lobos vino arramando reban~os
+armado en seruicio de su propio rey
+y tal dan~o diero<n> al otro pastor
+que entraua a hurtar en los hatos agenos
+que no siendo injusto el estoriador
+dira marauillas daqueste sen~or
+por este y por otros mill hechos tan buenos.
+% Que si el es en cargo a su rey natural}
+[fol. 2r]
+{CB2.
+por altas mercedes que del rescibio
+su rey les en cargo porque es muy leal
+y en siempre guardar la corona real
+afruentas y gloria y mercedes gano
+y callen con este otros muchos sen~ores
+y en toda lealtad le conoscan ventaja
+y dengela en armas y en antecessores
+y en antiguedad de los sus seruidores
+tan finos que siempre leuantan la paja
+% O quantos hidalgos su casa sostiene
+que todos son suyos de padres y aguelos
+pues mire<n> la casa que siempre mantiene
+y miren los antecessores do viene
+que su gloria y fama penetra los cielos
+avn hasta en los fisicos ay tal concierto
+que son de su casa por linea y succeso
+mi aguelo del suyo fue fisico experto
+mi padre del suyo y avn suyo es por cierto
+yo estoy reseruado a seguir tal processo
+% Es tan liberal y assi sabe tratallos
+a todos los hombres de suma y de cuenta
+que siempre les da de vestir y cauallos
+iaezes y mulas y plata y vasallos
+despues a si mismo se pone en afruenta
+no quiero volar mas por tan grande altura
+que faltan mis alas y quemome yo
+remito este caso a su propia escritura
+yo quiero tornarme a hazer con gran cura
+aquello que su sen~oria mando.
+% Por ende la gracia diuina yo imploro
+y a aquel de quie<n> mana suplico humilmente
+que como alquemista que haze tesoro
+de piec'as de plomo tornandolas oro
+asi mi juizio co<n>uierta en prudente
+y haga que en poca y estrecha escritura
+co<m>prenda las sumas daquesta dotrina
+pues tan general y tan gran medicina
+metio en aquel vientre de tanta estrechura
+daquella su madre gloriosa diuina
+% Despues a esculapio q<ue> fue el primer seno
+do en la medecina principio se ordena
+despues a ypocras aquel claro y sereno
+despues archigenes despues galieno
+despues el rasis y despues auicena}
+{CB2.
+suplico me den su fauor y razon
+para proceder nel comienc'o que e dado
+y en sus escrituras me muestren el vado
+por donde no halle muy hondo el hondon
+y pueda passarme sin ser ahogado
+{RUB. Diffinicion de la medecina}
+% y digo primero que la medecina
+es sciencia por quien todas disposiciones
+del cuerpo del hombre te muestran ayna
+de parte que sana o que enferma dotrina
+y ensen~a por senso y por claras razones
+que la sanidad se deue guardar
+y como se guarde nos muestra cautela
+y de lo contrario se auisa y recela
+diziendo que aquesto se deue apartar
+y como se aparte descubre y reuela.
+{RUB. De complexione}
+% Aquesta nos dize que la co<m>plexion
+es tal qualidad la qual viene y procede
+daquella renzilla y accion y passion
+de las qualidades que contrarias son
+quando entre las tales muy poco se excede
+asi que do quiera que en este comedio
+se topan y encuentran los quatro elementos
+quebrantan sus fuerc'as y aguzamientos
+y la qualidad que asi queda en el medio
+es la co<m>plexion y los temperamentos.
+{RUB. ix. miembros de co<m>plexion.}
+% Pero como sea impossible de ser
+la tal qualidad ygual totalmente
+auezes se halla mas humedescer
+y a uezes mas seca se puede hazer
+y a uezes mas fria tanbien mas caliente
+y a uezes mas humida y fria acontesce
+tanbien fria y seca se puede hallar
+y seca y caliente podra resultar
+y humida y calida a uezes paresce.
+y a uezes ygual que es la mas singular
+{RUB. Quatro humores y sus co<m>plexiones}
+% Ta<n>bien aq<ue>sta arte nos muestra y nos guja
+y da la noticia de nuestros humores
+de colera y flema y de melancolia
+y sangre que nutre y en su co<m>pan~ia
+se mezclan los otros y son accessores
+y destos la colora es calida y seca
+la sangre es caliente con mucha humidad
+es humido el flema y de gran frialdad
+la malenconia como tierra peca}
+{SG. a iij}
+[fol. 2v]
+{CB2.
+pues que es fria y seca de su qualidad
+{RUB. Quatro humidades.}
+% Mas antes que passe la sangre a nutrir
+se muda primero en las quatro humidades
+primero se muda queriendo salir
+de las venas chicas para se infundir
+por todos los miembros y porosidades
+segundo se muda desques infundida
+por los dichos miembros para humedecellos
+tercero se muda desque dentro en ellos
+en los lugarejos do ay parte perdida
+se mete a cobralla para sostenellos.
+{RUB. Prosigue y diuide otra vez los hu<mores>.}
+% y quarto se muda desque en tal lugar
+se enbeue en el mie<m>bro y se torna como el
+esto es por cobrar y por restaurar
+aquello que hizo el calor ya gastar
+y el ayre y mudanc'as del mundo cruel
+y a uezes son sanos y son naturales
+aquestos humores de quien he hablado
+y a uezes alguno es corrupto y dan~ado
+por las mutaciones de los animales
+ta<n>bien por el ayre corrupto espirado
+{RUB. El miembro y los principales}
+% y dize que el mie<m>bro es vn cuerpo tal
+co<m>puesto de humores por su comistion
+y deste son muchos nel cuerpo humanal
+mas digo que entre ellos el mas principal
+segun el filosofo es el corac'on
+tras este el celebro do estan los sentidos
+al qual sigue el higado en su perfection
+tras este los mie<m>bros de generacion
+asi que son quatro los mas escogidos
+que guardan los biuos con su operacion
+{RUB. Co<m>plexio<n>es de los p<ri>ncipales y d<e>l cuerpo todo}
+% Mas el corac'on es muy seco y caliente
+es frio el celebro y de humido a nombre
+el higado es calido y humedesciente
+y asi co<m>pensados se queda excediente
+en calido y humido el cuerpo del hombre
+por quanto en los dos ay excesso en calura
+y solo en ell uno es pujante frialdad
+ite<n> en dos ay sobrada humidad
+y solo en ell uno ay excesso en secura
+que sobra humidad y calor ya es verdad
+{RUB. Uirtudes.}
+% y aq<ue>stos son casas y mas principales
+do las tres virtudes estan perfectiuas
+que en el corac'on estan las vitales}
+{CB2.
+celebro es la casa de las animales
+el higado es casa de las nutritiuas
+vital es aquella por quien nos beuimos
+y por la nutribile nos mantenemos
+por la otra sentimos tanbie<n> nos mouemos
+y qualquiera destas despues diuidimos
+en otras especias que aqui callaremos
+{RUB. Esprito y calor natural}
+% y destas virtudes su propio instrumento
+y aquel que las trae es esprito y calor
+lesprito es vn cuerpo delgado y vapor
+que en el corac'on tiene hecho su asiento
+nel vientre siniestro mas noble y mejor
+este es el que pulsa en los pulsos y venas
+este es el que haze alentar y beuir
+este es el que haze mouer y sentir
+este es el que trae el calor en cadenas
+a todos los mie<m>bros para digerir.
+{RUB. Enfermedades}
+% ya puede occurrir qualquiera enfermedad
+al cuerpo por vna de dos intenciones
+que o puede venir en la simplicidad
+de sola vna especie de malignidad
+o ay muchas especies en co<m>posiciones
+la simple diuidola en tres generales
+que o es por malicia de la co<m>plexion
+o es por malicia de co<m>posicion
+o es de apartarse los mie<m>bros yguales
+y hazerse diuisa su continuacion
+{RUB. De las enfermedades compuestas}
+% Co<m>puesta es aquella la qual se co<m>puso
+daquestas especies o de algunas dellas
+de son q<ue> en vn mie<m>bro o en vn cuerpo nos puso
+el dan~o o la causa q<ue> a ello dispuso
+dos destas especies o tres que son ellas
+enxe<m>plo si en mano o en cabec'a o en pie
+nasc'io vn apostema aqueste en verdad
+peco en solucion de la continuidad
+y en la co<m>plexion gran malicia alli fue
+y en co<m>posicion ta<n>bien vuo maldad
+{RUB. Diuide la malicia de la co<m>plexion}
+% y luego me fundo sobre esta razon
+primero que hable de mal ni dolor
+que toda malicia de la co<m>plexion
+por quien viene dan~o a la operacion
+o es sin humor o sera con humor
+asi que el celebro si es co<n>calescido
+de alguna calor que alli les impidiente
+o es sola calor la que alli le a enpescido}
+[fol. 3r]
+{CB2.
+o es por humor alla dentro metido
+que haze apostema o dolor o accidente
+{RUB. Las sen~ales d<e>l celebro calie<n>te y frio y d<e> su cura}
+% Si ay calor nel celebro su conoscimiento
+esta en velle ardor y no verle encargado
+vigilia y congoxa ay en su pensamiento
+y siente/ en lo frio muy gran iuuamento
+y piensa mill cosas y es presto ayrado
+pero si esta frio podrase alcanc'ar
+por otras sen~ales co<n>trarias daquesto
+la cura por cierto no es mas que aplicar
+las cosas contrarias que puedan templar
+el frio o calor que alli esta manifiesto
+{RUB. Sen~ales y cura del celebro humido o seco}
+% Pero si el celebro vuo excesso en secura
+veraslo en el poco dormir del paciente
+si tiene humidad abra luego holgura
+de<n>trar en vn suen~o que mucho le tura
+la cura es como esta que esta precedente
+mas si este tal dan~o en la su co<m>plexion
+esta duplicado de dos calidades
+la cura y sen~ales es co<m>posicion
+de la cura y sen~ales que ya dichas son
+y estan aplicadas a simplicidades
+{RUB. Sen~ales de la co<m>ple<xion>. d<e>l celebro co<n> humor.}
+% y si el dicho dan~o procede de humor
+y es como colora o sangre caliente
+ay poca graueza y ay muy grande ardor
+gran sed y secura y cetrino el color
+y siendo de sangre es mas graue la fruente
+pero si el humor fuere frio a natura
+sen~ales contrarias abras de notar
+y si ay apostema en el dicho lugar
+caliente. veras graueza y quexura
+dolor cale<n>tura y agudo pulsar
+{RUB. Sen~ales de apostema frio del celebro
+y de su cura en general.}
+% Si fuere flematico ay suen~o y oluido
+y el pulso es vndoso y graueza mayor
+y si es malenconico el seso es perdido
+cabec'a pesada pulso endurescido
+la cura daquestos es deste tenor
+primero si sangre te dan~a y enpide
+de parte contraria le haz la sangria
+de vena cefalica al caso se pide
+y en esto el capitulo no se toluide
+nel libro primero de flobotomia.
+{RUB. Prosigue.}
+% y si otra materia fue aqui malignante}
+{CB2.
+y el dan~o no fuere sino en la cabec'a
+aquesta se purgue con propio euacuante
+mas si en todo el cuerpo el humor es pecante
+en todo aya cura no en sola vna piec'a
+primero aplicando lo que es lenitiuo
+segundo purgando tercero emplastrando
+y vsar en los cibos el que es digestiuo
+que haga buen chilo no euaporatiuo
+y en tiempos diuersos diuersificando
+{RUB. De soda}
+% La soda es por cierto dolor capital
+causado por causas que auemos nombrado
+su cura y sen~ales dire en general
+pero si lo quieres ver mas especial
+enel auicena lo abras espresado
+si/ es por qualidad su maldad contrariar
+con potos y cibos y emplastros y vnciones
+si es sangre atraer ventosar y sangrar
+si humor o vapor digerir y purgar
+y en esto no quiero alargar de razones
+{RUB. De emigranea y de su cura}
+% Emigranea es en media cabec'a vn dolor
+de dentro del craneo o en la tela de fuera
+el qual a las vezes se causa de humor
+o ventosidades o de algun vapor
+que sube de miembros daquella ladera
+la cura es sangria segun que as sabido
+y mas en la fruente si vees que conuuiene
+y purgalo al tiempo que abras conoscido
+que quiere venir el dolor tan crescido
+y/ vnta y enplastrale al tiempo que viene
+{RUB. De sirsen o frenesis.}
+% Frenesis/ o sirsen nel celebro es furor
+su causa fue colora o h(n)[u]mor muy caliente
+y es vn apostema en la parte anterior
+da fiebre continua y secura y dolor
+y/ es blanca la vrina y muy loco el paciente
+euacua el humor que azalli le ocurrio
+despues repercute resfria y mitiga
+el fuerte accidente y dolor que causo
+despues le resuelue el humor que quedo
+y en fin esforc'arle el celebro se siga
+{RUB. De litargia}
+% Litargia nel celebro es vn frio apostema
+questa entre los cascos y sesos nascido
+su causa son crudos humores y flema
+da fiebre continua que mucho no quema
+y echa gran suen~o pereza y oluido}
+{SG. a iiij}
+[fol. 3v]
+{CB2.
+primero le sangren si no ay impidientes
+segundo clisteres agudos le den
+tercero le embroque<n> con repercucientes
+despues le resueluan con calefacientes
+y en fin le digeran y purguen muy bien
+{RUB. De congelacion}
+% La congelacion es q<ue> algu<n>o esta elado
+sin senso y sin moto espantado adormido
+los ojos abiertos como hombre pintado
+ni oye ni vee y asi trasportado
+que piensa la gente que al cielo es ya ydo
+la causa es secura y muy gran frialdad
+en cuerpo y humor y grosseza desprito
+por do no se mueue con agilidad
+y asi falta el moto y la sensualidad
+y en la litargia su cura e escrito
+{RUB. De subeth sahari.}
+% Subeth sahari es co<m>posicion
+de la frenesis y de la litargia
+y es vn apostema que tiene mistion
+de colora y flema y los desta passion
+no duermen ni velan la noche ni el dia
+y asi se interpreta subeth sahari
+ques suen~o que vela y por quanto es co<m>puesta
+su cura y sen~ales ya las escreui
+en la litargia y en el frenesi
+la cura daquellos mesclada en aquesta
+{RUB. De subeth}
+% Subeth es vn suen~o que no es natural
+y viene de gran henchimiento de humores
+los quales retraen la virtud animal
+y dan a la parte anterior capital
+flematicos y otros copiosos vapores
+y aquestos si suben de miembros vezinos
+deveyslos purgar el celebro esforc'ando
+primero sangrando si fueren sanguinos
+haziendo ruido y clamores continos
+y ponga<n>le olores y estenle enbrocando
+{RUB. De vigilia y sahara.}
+% vigilia es defecto de suen~o que tura
+que/ o viene de gran congoxa y cuidado
+o viene al celebro do excede secura
+o de indigestion que tiene natura
+o de capritioso vapor eleuado
+si es sin humor es mala qualidad
+aplica el contrario como as ya sabido
+y si es con humor es tal enfermedad
+euacua y emplastra aplicando humidad
+al seco celebro questa enflaquecido}
+{CB2.
+{RUB. De memoria corrupta.}
+% Memoria corrupta es vna enfermedad
+con quien la memoria oluida lo que era
+y viene al celebro de alguna frialdad
+co<m>puesta con humido o con sequedad
+de humor o sin el en la parte trasera
+si su causa fue sequedad y calor
+o qualquier qualidad ya tu sabes la cura
+pero si conosces flematico humor
+xarab de cantueso digere mejor
+despues con cochias purgalle procura
+{RUB. De manja y melancolia}
+% La manja es locura que espritos llamaron
+do piensan que hablan almas estrangeras
+y vino este yerro porquellos miraron
+que algunos manjacos ya profetizaron
+las cosas presentes y las venideras
+la melancolia desta es apartada
+porquesta de colora adusta se haze
+mas la otra de flema o de sangre quemada
+y la frenesis no es entre estas contada
+por qua<n>to en aquella muy grand fiebre yaze
+{RUB. De cura.}
+% Desque este el humor con xarabes digesto
+y ayudas do entren epitimo y sen
+con pildoras indias le purguen muy presto
+o de fumoterre y enbroquen tras esto
+con leche de hembra al paciente muy bien
+reprendanle siempre su loca porfia
+manjares calientes le den a comer
+y denle cordiales plazer y alegria
+a auisese el fisico en no dar sangria
+y mas nel maniaco sin gran menester
+{RUB. Del mal de amores q<ue> auicena llamo ilisci
+y los griegos le llaman hereos}
+% Amor hereos segu<n> nuestros autores
+es vna corrupta imaginacion
+por quien algun hombre se aquexa de amores
+y en este ques hito de los trouadores
+sin ser lisongero dire mi razon
+sabed por muy cierto quel entendimiento
+jamas no se mescla en aquestas pendencias
+la imaginatiua y bestial pensamiento
+como es gran potencia y padec'e el torme<n>to
+engan~a consigo a las otras potencias.
+{RUB. Prosigue}
+% Esta es la que mueue los otros sentidos
+para que no tiren si no en este puesto
+memoria y deseos y ojos/ y oydos}
+[fol. 4r]
+{CB2.
+a todos los tiene ya tan conuertidos
+que todos se ocupan en no mas daquesto
+que el tal pensamiento vencido del gesto
+a todos los otros sentidos informa
+ser lindo y gracioso y ornado y honesto
+do alguna esperanc'a se muestra tras esto
+por do en adquerirlo se deue dar forma
+{RUB. Prosigue}
+% y/ el entendimiento despues que alla entro
+por falsos testigos tan falsa sentencia
+la qual por injusta contino aprobo
+perdio su juyzio sus fuerc'as perdio
+perdio su razon su consejo y prudencia
+helos todos ciegos a causa de vn ciego
+ques el pensamiento y la imaginatiua
+que dio al corac'on tan maldito sosiego
+metiendole dentro ardentissimo fuego
+do siempre el deseo lo atyza y lo abiua
+{RUB. Delas sen~ales que se muestran quan-
+do alguno esta enamorado}
+% Uerasle al paciente perder sus continos
+negocios y suen~os comer y beuer
+congoxas sospiros y mill desatinos
+desear soledades y lloros mesquinos
+que no ay quien le valga ni pueda valer
+perdida la fuerc'a perdido el color
+y quando le hablan damor luego llora
+y el pulso es sin orden y mucho menor
+y/ nunca se esfuerc'a y se haze mayor
+sino quando puede mirar su sen~ora
+{RUB. Dela cura.}
+% El medio daquesto no esta contenido
+sino en distraelle daquesta locura
+de su pensamiento questa corro<m>pido
+y aquesto en diez partes sera repartido
+y en ellas se pone co<m>plida la cura
+primero mandando que vaya a cac'ar
+segundo que pesque do ay muchos pescados
+tercero que siempre se ocupe en jugar
+y quarto ante muchos le hagan estar
+y quinto que vaya a espaciarse a los prados
+{RUB. Prosigue}
+% y sesto que amigos y nobles parientes
+y hombres prudentes y de autoridad
+con sus ortaciones le hagan presentes
+los muchos peligros los inco<n>uenientes
+y ac'oten y aflijan su carnalidad}
+{CB2.
+seteno le pongan en muy gran pendencia
+de tratos de suma y en mucho cuidado
+octauo le aparten con gran diligencia
+daquella sen~ora como en pestilencia
+se apartan los hombres del ayre dan~ado
+{RUB. Prosigue.}
+% Noueno alcahuetes le hagan querer
+a otras sen~oras por mas distraello
+dezeno le hagan casar con muger
+despues vejezuelas le deuen traer
+a que le desliguen que bien saben dello
+y denle a comer vn sabroso manjar
+en quien mucha sangre y sustancia senc'ierra
+y tinto con blanco le deuen aguar
+que siempre emos visto del enborrachar
+caer los amantes y amores en tierra
+{RUB. Uertigo}
+% vertigo no es otro sino vn remolino
+y es que ay nel celebro vn vapor retorcido
+o sube de abaxo como vn torbellino
+y asi lo que vee el paciente contino
+en el derredor es mouido y traydo
+la cura es sangrar la cefalica vena
+si sangre y edad y virtud le sintieres
+despues nel pescuec'o ventosa es muy buena
+y si ay otro humor digestiuos le ordena
+despues purgatiuos y mas no lo esperes
+{RUB. De incubo o strangulator.}
+% El incubo digo ques vna passion
+con quien el paciente e<n>magina en su suen~o
+que alguna persona le da cargazon
+la qual le quebranta y le ahoga en tal son
+que piensan el vulgo ques trasgo q<ue>s duen~o
+la causa es subir algun gruesso vapor
+quen los principales enc'ierra el esprito
+y asi estan los miembros sin senso y calor
+quebrados cansados que no ay mouedor
+la cura sabras por aquello que e escrito
+{RUB. De epilensia.}
+% La epilensia es la gota coral
+causada de gruesso y flematico humor
+que cierra las vjas y aquella canal
+por do la motiua virtud y animal
+les viene a los miembros del mas superior
+y en ser tan contrario el humor y dan~ado
+le huie el celebro y se atropa y se encierra
+y asi queda el cuerpo sin senso y finado}
+[fol. 4v]
+{CB2.
+y supito cae en la tierra su estado
+y espuma le sale en la tal cruda guerra
+{RUB. Dela cura.}
+% Primero sa<n>grar si ay de sangre e<n>chimie<n>to
+y echarle/ en el muslo y pescuec'o ventosas
+y en el oximel esquilitico siento
+hazer digestion y hazer abrimiento
+en estas materias muy gruessas viscosas
+las pildoras fetidas suelen purgar
+aquestas materias despues de digestas
+las de lapislazuli deues de dar
+do humor malenconico vieres estar
+y huye del apio en passiones como estas
+{RUB. De apoplexia}
+% Mas la apoplexia es el mal de fuera
+y aquesta difiere de la antepassada
+porquesta es aguda y mas fuerte y mas fiera
+que mas quita el senso y el moto do quiera
+questa colocada y esta confirmada
+muy gran voz alc'ando se cae el paciente
+quando esta passion venirle veras
+ni oye ni vee ni entiende ni siente
+de agudas agujas picarse consiente
+asi que difieren en menos y mas
+{RUB. De cura.}
+% Como en la passada le sangra primero
+si alguna abundancia de sangre sintieres
+y ambas cefalicas ro<m>pa el barbero
+despues las sofenas y aquesto profiero
+do gran enchimiento y virtud conoscieres
+despues le administren agudo clister
+do este coloquintida epitimo y gera
+y en el paroxismo deueis proueer
+de hazer fregaciones y emplastros poner
+en ese celebro que esfuerc'e y no muera
+{RUB. Fen .ij. de las passiones de los ner-
+uios y primero de parlesia}
+% Paralisis es ser algun mie<m>bro tollido
+do no va el esprito sensual ni motiuo
+por opilacion que entrel vuo venido
+y la parte trasera del miembro subido
+humor frio y humido es desto efectiuo
+despues que hizieres alguna apercion
+doze o treze dias con sus digestiuos
+con sus apropiades haz euacuacion
+despues con el oleo costino haz vncion
+despues haz que sude con calefactiuos
+{RUB. De spasmo y tethano}
+% Spasmus nel mie<m>bro es vn encogimiento}
+{CB2.
+el qual le ocurrio de la parte neruosa
+do el neruio sencoge aza su nascimiento
+por gran sequedad o por resfriamiento
+o gran replecion de materia viscosa
+y qua<n>do sencoge adelante y atras
+es thetano dicho y es spasmo perfecto
+mas si aza vna parte sencoge no mas
+spasmo se llama y su cura sabras
+por lo sobredicho si fueres discreto
+{RUB. De tremor.}
+Tremor es temblar algun mie<m>bro adesora
+con miedo o flaqueza daquella potencia
+que del mouimiento nos es regidora
+y aquesta sera porquel mie<m>bro a la hora
+terna grauedad segun es su impotencia
+a uezes luxuria su causa sera
+y el mucho beuer y tanbien gruesso humor
+alo primitiuo el contrario hara
+en flema xarab de cantueso valdra
+las pildoras fetidas son de valor
+{RUB. De stupor.}
+% Stupor es estar algu<n> mie<m>bro entomido
+con falta de senso y a uezes de moto
+frialdad sera causa o veneno tan~ido
+o gran sequedad o humor enbeuido
+que opilan el miembro y desprito es remoto
+si fuere de sangre es muy buena sangria
+de parte contraria despues de la suia
+despues digestion si otro humor alli cria
+y como en tremor a este tal curaria
+si es causa exterior mandaras que la huia
+{RUB. De tortura}
+% Tortura es torcerse el gesto aza vn lado
+tirandose vn cuero y el otro encogendo
+porque en sus lacertos ay pasmo causado
+que boca y vn ojo aza tras lo a tornado
+las causas de spasmo aqui no repitiendo
+no mueuas humor hasta el dia seteno
+mas si ay sequedad con ayuda le ablanda
+despues digerir y purgarle es lo bueno
+y fregarle el rostro segun galieno
+y como all espasmo curarse le manda
+{RUB. De salto que se llama jectigacion.}
+% El salto si quiera la jectigacion
+es vn mouimiento en lacertos y cuero
+de encogimiento y de dilatacion
+y tal mouimiento es porque ay replecion
+de humor o de viento o vapor muy grossero
+apartale el ocio y ventoso manjar}
+[fol. 5r]
+{CB2.
+asi como nabos legumbres y habas
+despues de purgado le haze vaporar
+con ruda y castoreos que es muy singular
+ventosas le pon si con otro no acabas
+{RUB. Fen .iij. de las disposiciones de los ojos y p<ri>-
+mero de dolor y mala co<m>plexion en los ojos}
+% De humo y de viento les viene dolor
+o de calidad con materia y sin ella
+si ay sangre esta rubeo con algun tumor
+citrino es si ay colora y rubio y ardor
+si de causa exterior es apartale della
+do ay sangre sangrar la cefalica vena
+y pon defensiuo en maxillas y fruente
+y si ay otro humor dale purga muy buena
+con c'umo de hinojo les laua auicena
+vnguento alcamusa y diz q<ue> es excelente
+{RUB. De optalmia.}
+% La vera optalmia vn apostema es
+nascido en la tunica ques conjuntiua
+que haze que corra del ojo despues
+humor y lagan~a que clara veres
+y haze dolor y la vista declina
+la causa daquesta es algun mal humor
+que por su color y dolor se vera
+y la que no es vera no da tal dolor
+por quanto se haze de causa exterior
+mas perturbacion en la vista hara
+{RUB. De cura.}
+% La no verdadera si es causa caliente
+curarsa apartandole lo primitiuo
+con agua rosada se laue el paciente
+y el albo colirio en tal caso es potente
+y el c'umo de hinojo es resolutiuo
+curarsa la vera con grande abstinencia
+poniendo al principio sus repercusiuos
+sangrando do ay sangre con gran dilige<n>c'ia
+purgando el humor de quien es la dolencia
+guardando los tiempos y crises y cibos
+{RUB. De botor en la co<n>ju<n>tina o blanco del ojo}
+% Botor son vexigas nel blanco nascidas
+del ojo de humores que alli an resudado
+y a uezes aquestas estan contenidas
+en la conjuntina y a uezes metidas
+estan en la cornea lugar mas guardado
+con mucha estrecheza sea este curado
+do ay sangre sangrar la cefalica vena
+y desque ya este del humor relaxado
+con agua declaras de hueuos lauado
+sea el ojo co<n>tino y tutia es muy buena.}
+{CB2.
+{RUB. De vlceras y exituras en el ojo y la cornea}
+% La vlcera o sanie si quier exitura
+nel ojo de s[y]e(y)te maneras contesce
+humor pungitiuo apostema y rotura
+son causa de todas y en todas la cura
+es vna en especie segun me paresce
+en purga y sangria como en la obtalmia
+despues alimpiar desecar le conuiene
+cerusa lauada ematistes tutia
+en poluo o colirio le pon cada dia
+preuistas las causas del mal que alli tiene
+{RUB. Dela cornea y sus passiones}
+% La cornea despues de lo blanco paresce
+y es vna telilla so la conjuntiua
+y en aquello escuro do aquesta fallesce
+la cornea lo cubre y al senso se offrec'e
+y en esta hay passiones y ay medecina
+aquesta padec'e primera passion
+que son las vexigas si quiera viruelas
+el licio ac'afran y acacia le so<n>
+buenos al principio y quando ay mas razo<n>
+con purga y sangria salud le reuelas
+{RUB. De rotura en la cornea y de cancer}
+% Segundo padec'e la cornea rotura
+en todas o algunas de sus pielezitas
+la qual le da turpe y inflada figura
+segun me parec'e administra la cura
+de vlceras dichas en las coplas escritas
+tercero padec'e la cancer la qual
+es vn apostema de adustos humores
+con pildoras indias euacue este mal
+y en los lauatorios su cura es ygual
+con las de las lagas seguid sus tenores
+{RUB. De algarab en el lagrimal}
+% Algarab es fistula en el lagrimal
+causada dalgun apostema rompido
+del qual fue la causa por cierto humoral
+mayormente fria mas su cura es tal
+qual la de optalmia q<ue> arriba as leydo
+y cura la fistula ya conoscida
+con agua y vnguentos mundificatiuos
+miel y armoniac les es cosa escogida
+y ruda y balostias y psidia heruida
+y otros colirios de incarnatinos
+{RUB. De adicion y diminucion de carne
+en los lagrimales & de altarfati}
+% En ellos ay carne menguada o crescida
+por falta o por sobra de sangre y de humores
+cauterio incision quando fuere an~adida}
+[fol. 5v]
+{CB2.
+aloes y memita quando es diminuida
+y otros colirios de incarnadores
+el altarfati es vna manchuela
+nel ojo nascida vermeja o negrita
+despues de purgado y sangrado tu pela
+dell ala vn palomo y echa en la tela
+la sangre del cabo de aquella plumita
+{RUB. De las lagrimas que corren del ojo}
+% Las lagrimas vienen por enfermedad
+sudando en el ojo sus venas locales
+por descendimiento de aguosidad
+y a uezes es calida su calidad
+y a uezes es fria segun sus sen~ales
+despues de sangrado si sangre le empece
+purgalle de aq<ue>lla humidad co<n> cochias
+tras esto los desecatiuos le ofrece
+y en su regimiento el paciente se endresce
+huiendo del vino humidad maluasias
+{RUB. De albugen y sebel}
+Albugen que es nube en la cornea procede
+de humores subtiles quando ella es delgada
+ta<n>bien cicatriz de apostema ser puede
+con agua caliente ablandar se concede
+y el poluo muscino les cosa prouada
+sebel es paniculo en la conjuntina
+de rubio color que a la cornea alcanc'a
+la causa daqueste es materia sanguina
+purgado el humor de sangrar determina
+tras esto colirios y vnguentos de lanc'a
+{RUB. De vngula}
+% La vngula es vna telilla cresciente
+nel ojo y es fecha de muchas maneras
+de humor gruesso y mucho es aqueste accide<n>te
+cochias le purguen tras el digerente
+despues hazle vnguentos si sanallo esperas
+esta so la cornia la vuea y es tela
+que sobre la vista esta continente
+y haze agujero por do la nin~uela
+se muestra y traspare y por do se reuela
+al ojo la cosa que tiene presente
+{RUB. Las enfermedades de la nin~uela y pri-
+mero de la dilatacion della q<ue> se llama.
+en arauigo alintisar.}
+% Aquesta contesce destar dilatada
+por quanto a la vuea crescio su agujero
+la mucha albuginea la tiene ensa<n>chada
+o humor o calor que la hizo estirada
+por donde rescibe gran dan~o el luzero
+desqueste purgado le da vna sangria}
+{CB2.
+do gran henchimiento de humores le vieres
+con agua salada memita y tutya
+le laua con esta asi mismo lesfria
+sin purga si sola calor conoscieres
+{RUB. De la constricion de la pupila o nin~uela d<e>l
+ojo y del estraboso o tuerto}
+% Estrechase a causa de alguna secura
+o sobre la vuea es humor co<m>primente
+si es sequedat esta clara su cura
+y si es henchimiento purgarle segura
+y el poluo muscino en tal caso es valiente
+straboso es el tuerto que tiene encogido
+vn lacerto del ojo y el otro estirado
+si es nin~o hazelle mirar lo luzido
+en parte contraria y si es ombre crescido
+curadle aquel ojo por miembro espasmado
+{RUB. De los ojos salidos y de las lien-
+dres de las pestan~as}
+% A uezes se salen los ojos a fuera
+por puxo o humor o inflacio<n> o flaqueza
+despues de sangrado purgadle con gera
+si peca de flema y con venda ligera
+se ligue y el cibo le dad a escaseza
+criar las pestan~as las liendres bien cabe
+por materia putrida al cuero espelida
+digesta y purgada los parpados laue
+con agua de alumbre y de sal desque acabe
+davelle espulgado vna moc'a garrida
+{RUB. De silac y de pestan~as bueltas}
+% Silac en el parpado es vna gordura
+muy seca de humor y materia nitrosa
+sangrarle y purgarle y ban~arle es su cura
+tras esto templar su adustion y calura
+lauando los ojos con agua de rosa
+a uezes los parpados son trastornados
+conuiene a saber lo de dentro haza fuera
+las causas y cura es como en los passados
+y sean en cada semana purgados
+y hazles colirios daquella manera
+{RUB. De la flaqueza de la vista}
+Flaqueza de vista vendra por humores
+o por calidades o malos vezinos
+alas calidades sus contraditores
+a humores sus propios euacuadores
+y si es por vejez buenos cibos y vinos
+con agua caliente ablandar cada dia
+do ouiere secura de humor o sin el
+y en causa caliente es muy buena tutia
+la ruda y hinojo en la causa que es fria}
+[fol. 6r]
+{CB2.
+y en humida causa es muy buena la hiel
+{RUB. De noctilupa.}
+% Noctilupa es vista de noche perdida
+podiendo con ella de dia bien ver
+por gruesa sustancia y endurescida
+del ojo o de humores de fuera venida
+que el sol solo haze diafana ser
+si sangre pecare dale vna sangria
+y purga con aurees flematico humor
+las pildoras yndias en malenconia
+y tome triaca con vino algun dia
+colirio de miel y de hiel es mejor
+{RUB. De encogimie<n>to d<e> los p<ar>pados y d<e>la catarata}
+% A uezes los parpad(e)[o]s son encogidos
+por pasmo o gordura de carne o flaqueza
+los secos cibados y humedecidos
+pero los pasmados y los regordidos
+en los sobredichos su cura se reza
+es la catarata humidad o nublado
+questa entre la cornea y pupila metida
+impide la vista si esta confirmado
+mosquitas o pelos o el ayre turbado
+vee el ojo al comienc'o quel mal le a venido
+{RUB. De la cura de la catarata.}
+% Con la gera pigra al principio purgar
+y dar subtiliantes tanbien digerentes
+pero si la vista comienc'a a turbar
+purgar muchas vezes mengualle el ma<n>jar
+de vino y mugeres le huya<n> las mientes
+huyr cosa humida y cosa cozida
+la hiel en tal caso se halla aprouada
+y quando esperanc'a ya fuere perdida
+sacar la materia que alli esta metida
+con punta daguja en lo blanco lanc'ada
+{RUB. De las otras passiones de las pestan~as}
+% y otras passiones suelen padescer
+las quales tan breues pone el auicena
+que mas breuedad no les puedo poner
+en el reportorio y aquerdo a hazer
+su cuenta y dexallas como el las ordena
+padescen gese que es dificultad
+de abrir y cerrar por humor seco y gruesso
+tanbien inflacion por vapor y humidad
+padescen gordura de vntuosidad
+padescen berruga en dos modos por eso
+{RUB. Prosigue}
+% Padescen tanbien la co<n>glutinacion
+y es que se pegan los parpados a vna
+padescen prurito que es la comezon}
+{CB2.
+padescen pelarse y es depilacion
+por agudo humor o por sarna alguna
+padescen tanbien las pestan~as crespura
+boluiendo hazal ojo y topando con el
+y padesce el parpado llaga y fisura
+y padesce grando que es vna infladura
+como vn granezito questa puesto en el
+{RUB. Prosigue}
+Padescen ordeolo y es vna inchazon
+que dun lagrimal hasta el otro alcanc'a
+como vn grano de ordio es su comparacion
+y en todas aquestas comun curacion
+es dar la sangria si ay sangre en pujanc'a
+tras esto hazer digestion al humor
+mirando quien es y de que calidad
+cochias y aureas segun el autor
+euacuan la flema y tras este tenor
+azeytes y vnguentos y enplastos le dad
+{RUB. Fen .iiij. de las passiones de los oy-
+dos y primero de la sordeza}
+% Por flacos vezinos ensorda el oydo
+por cris por flaqueza o por su co<m>plexion
+o por grueso humor en la entrada tenido
+o esta en aquel neruio do/ vienel sentido
+las mas vezes frio es desto ocasion
+aloes coloquintida pueden purgar
+y pildoras aureas el flema digesto
+do ay colora c'umo de rosas mezclar
+y con gera pigra es bien gargarizar
+y azeyte estilar nel oydo tras esto
+{RUB. Del dolor de oydos}
+% ya suele venir al oydo dolor
+por frio o calor sin materia o con ella
+o por apostema o coquito o tumor
+y si es de frialdad halla bueno el calor
+y si es con materia ay graueza con ella
+despues de purgado o sangrado al sanguino
+estila al oido en la causa que es fria
+azeyte de ruda y azeyte nardino
+euforbio y castoreo en azeyte costino
+el mijo y la sal donde viento se cria
+{RUB. Prosigue y propone}
+En causa caliente el azeyte rosado
+y leche de duen~a que hembra pario
+con canfora y sandalo sea enplastrado
+debaxo el oydo y en mal muy sobrado
+en su cura pongo narcoticos yo
+de purga y sangria en aquestas passiones
+yo quiero vna regla poner general}
+[fol. 6v]
+{CB2.
+por quanto no andemos doblando razones
+en lo venidero mas por conclusiones
+sepamos purgar y sangrar qualquier mal
+{RUB. De la forma de purgar y/ sangrar
+en qualquier mal de oydos}
+% Cefalica vena do sangre abundare
+nel mal del oydo se manda sangrar
+oximel desquila do flema dan~are
+sera el digestiuo y si se mezclare
+con el de cantueso podran mas obrar
+cochias y aureas geralogodion
+euacuan la flema/ y en simplicidad
+turbit coloquintida y garico son
+sus purgas mas propias y so esta intencio<n>
+co<m>prendo crudeza y la ventosidad.
+{RUB. Prosigue}
+% A colora el c'umo de rosas depone
+ruibarbo y los mirabolanos citrinos
+si de anbos humores el mal se co<m>pone
+conpon tu la purga pues q<ue> aqui se pone
+el simple y co<m>puesto para ambos caminos
+yten do esta melanconico humor
+xarabe de epitimo es buen digestiuo
+eleboro negro es el su purgador
+epitimo y pildoras yndias mejor
+las de lapislazuli es buen purgatiuo
+{RUB. Del tinito y sonido que
+viene a los oydos.}
+% Tinito y ruido contece all oyr
+como es de molinos o de aues pardales
+humores ventosos le hazen rugir
+de golpe o flaqueza podra prouenir
+y de todos estos ay claras sen~ales
+tras purga y sangria si vuiere lugar
+el cibo estrechando donde ay enchimiento
+azeyte de almendras deueys destillar
+dentro del oydo y despues sahumar
+con betonica ysopo laurel calamento
+{RUB. Dela sanie y/ podre que mana del oydo.}
+% La sanies o podre al oydo acontece
+de llaga apostema y agudos humores
+si es roto apostema la fiebre descrece
+si purga el celebro ya mengua ya cresce
+si es llaga o si es sarna no ay fuertes dolores
+pimienta y mostac'a hara estornudar
+despues de purgado y estrecha dieta
+castoreo y encienso es bie<n> puluerizar
+y trosciscos de andronio en xarab desatar}
+{CB2.
+y echar nel oydo es la cura perfecta
+{RUB. Del fluxo de sangre del oydo
+y de la opilacion del.}
+Si fluxo de sangre viniere al oydo
+por sangre abundante y por vena resgada
+sangrarsa del lado que no esta empescido
+acacia lanceola y llanten esprimido
+echad nel oydo co<n> agua rosada
+contesce al oydo destar opilado
+por todas las causas que viene sordeza
+en ella y tinito esta este curado
+pero si esta dentro gusano lanc'ado
+matalle y sacalle con mucha destreza.
+{RUB. De apostema en la rayz de la oreja.}
+% Por vno de los quatro humores que son
+detras de la oreja prouiene apostema
+vermejo es agudo y con inflamacion
+si es colora o sangre y es dura passion
+si es melancolia y es muelle si es flema
+tras la euacuacion no pornas defensiuos
+no tienda el humor a lo mas principal
+enxu<n>dias y azeytes pon mitigatiuos
+pon manduratiuos y resolutiuos
+y al frio mas fuerte le pon esto tal
+{RUB. Fen .v. de las passiones de las narizes
+y primero de los dan~os del odorato}
+% Altera y corrompe y avn priua el oler
+estar opilado su propio instrumento
+en menos y mas es su diferec'er
+pero el buen olor por horrible tener
+es que ay dentro cancer o algun podrimiento
+como en la sordeza haz purga o sangria
+y los gargarismos frequenta contino
+y en causa caliente en aquel can~o embia
+azeyte violado pero en causa fria
+disuelue castoreo en azeyte costino
+{RUB. Del fluxo de sangre de narizes}
+% El fluxo de sangre de narizes viene
+por gran henchimiento en el/ higado y venas
+o tal subtileza la sangre en si tiene
+o de tal dolor y passion le prouiene
+que rasga las venas del naso ya llenas
+sangrias pequen~as y muchas/ nel dia
+le haz en la parte contraria y ventosas
+despues la cabec'a y la fruente resfria
+engruessa la sangre y consuelda la via
+y dale trosciscos y estipticas cosas
+{RUB. Del romadizo o catarro.}}
+[fol. 7r]
+{CB2.
+% La reuma y catarro es vn fluxo de humor
+q<ue> a n<uest>ras narizes de arriba desciende
+coriza le llaman tanbien el autor
+por flaco celebro que atrae el vapor
+y algunas materias que bien no dispende
+qua<n>do es de humor calido siente amargura
+y ardor en la fruente y en/ eso que sale
+y si es de humor frio. frialdad y espesura
+esta en el humor y graueza en natura
+y dan~ale el frio el calor mas le vale.
+{RUB. De su cura.}
+% Xarab de papauer en causa caliente
+engruesa el humor y le da digestion
+cefalica ro<m>pe do ay sangre creciente
+con c'umo de rosas se purgue el paciente
+la colora y hazle alguna enbrocacion
+con hojas de salze nenufar violetas
+y beua agua tepida yendo a dormir
+en flema son pildoras aureas perfectas
+despues gargarismo estornudos tabletas
+sahumerios triaca le hazen guarrir.
+{RUB. De las vlceras de las narizes y
+de las emoroydes y polipo.}
+% Contescen las vlceras muchas vegadas
+de humor muy agudo: o catarro: o apostema
+la purga y sangria en tu arbitrio dexadas
+con oleos y gomas sean molificadas
+con psilio y nenufar sesfrie do quema
+kbemorroydes y polipo al naso acontesce
+y es q<ue> ay dentro del vna carne an~adida
+q<ue> a uezes es blanda y dolor nunca offresce
+otra es dura y negra que cancer paresce
+y a uezes por cancer es esta tenida.
+{RUB. De las causas y cura de
+las emorroydes y polipo.}
+% La bla<n>da es de flema en q<ue> no ay corrupcio<n>
+o de sangre aguoso mas la otra prouiene
+de sangre dan~ado y corrupta mistion
+pero en los humores ay mala adustion
+y malenconia do el cancer ya viene
+la blanda se corte y echalde despues
+del poluo de afrodilos en lo que queda
+pero a la segunda cauterio hares
+despues con vnguento egipciaco vntares
+y la euacuacion a esto preceda
+{RUB. Fen .vj. de las disposiciones d<e> la len-
+gua y la boca en sus enfermedades}}
+{CB2.
+{RUB. De los dan~os de la lengua
+enel/ gusto o en la habla}
+% La lengua ya pierde ya mengua el gustar
+o gusta en la cosa contrario sabor
+y habla muy mal: o no puede hablar
+todo esto: o le viene de otro lugar
+o en/ sy misma tiene apostema o humor
+si fuere apostema por tal le curad
+y si es por humor desque fuere sacado
+en causa caliente le gargarizad
+con c'umo de cidra y granada o echad
+majorana y saluia do flema a pecado.
+{RUB. De spasmo y de perlesia en la
+lengua y del tartamudo.}
+% Aquestos le hazen hablar grauemente
+de alguna hynchazo<n>: o apostema prouiene
+o de litargia que el neruio mouiente
+le spasma y le dan~a que no le consiente
+su lengua mouer co<n> humor q<ue> alli tiene
+como en perlesia sea su regimiento
+o asi como en pasmo sera su remedio
+y el gargarizar mas enesta consiento
+tanbien tartamudo ay de su nascimiento
+y deste no curo que no lleua medio.
+{RUB. De la grandeza de la lengua y de
+la postema della ranula o ranilla.}
+% A uezes las lenguas se hazen mayores
+por sangre o por flema subtil y es muy nota
+tanbien se apotema<n> por los quatro humores
+y crian ranilla por gruessos vapores
+que alli haze<n> vulto como vna auellota
+en todas despues de lo que es general
+les haz gargarismos y haz fregaciones
+y mira el humor de que peca este mal
+y en el apostema su cura es ygual
+de los apostemas de otras regiones.
+{RUB. De alcola y vlceras de la lengua.}
+% Alcola es vlcera en lengua y en boca
+de agudos humores y agudo manjar
+si colora peca amargor le prouoca
+la llaga es vermeja do sangre le toca
+si es flema no hay sed y blancaza a destar.
+laualde la boca si no ay replecion
+con c'umo de rosa buglosa y llanten
+de psidia y balostias hazed decocion
+y do esto no basta hazed purgacion
+despues abla<n>dalda y laualda muy bien
+{RUB. Del hedor de la boca.}}
+[fol. 7v]
+{CB2.
+% Las causas de auer en la boca hedor
+es dientes o enzias podrido y dan~ado
+o auer en el estomago putrido humor
+o hazerlo llaga o dan~ado calor
+o de las narizes sea participado
+qua<n>do es de otro mie<m>bro curalde primero
+pero si estuuiere la enzia podrida
+sangrar y purgar el humor por entero
+si es diente dan~ado arrancalle y postrero
+lauar con pelitre en vinagre heruida
+{RUB. Fen .vij. de las passiones de los
+dientes & primo del dolor.}
+% Por causas estrinsecas duelen los die<n>tes
+asi como frio o calor o porrada
+por frios humores: o humores calientes
+por ventosidad o apostema eminentes
+o porque la/ enzia es corrupta y dan~ada
+la sangre les haze el dolor pulsatiuo
+la flema mas manso y con mucha humidad
+la colora agudo y mordicatiuo
+la malencolia seco y grauatiuo
+mouible y pulsante la ventosidad.
+{RUB. Dela cura.}
+% Con pan~os calientes do frio enpeciere
+y azeytes de ruda de been y castor
+se cure pero do calor el sintiere
+con oleo de salze y rosado requiere
+y aquesto es do no ay apostema o humor
+do ay sangre sangrar y despues ventosar
+purgar los humores como as ya sabido
+si apostema es defender madurar
+y con gargarismo y fregando gastar
+la causa del dan~o que alli esta metido.
+{RUB. Del diente que se mueue y de su
+podrimiento y corrosion}
+% Los die<n>tes se mueue<n> por mucha humidad
+que afloxa los neruios y los ligamentos
+si sangre abundare primero sangrad
+despues con cochias la flema purgad
+despues con estiptico hazer fregamientos
+podrescense y roense a uezes los dientes
+materias podridas son causa daquestas
+desque euacuardes las antecedentes
+deueys preseruar de los putrefacientes
+con mirra y encienso y otras como estas.
+{RUB. De todas las otras passiones de
+los dientes y enzias y labios en su-
+ma cuias curas de lo dicho se en-tienden.}}
+{CB2.
+% Tanbien les contescen trocar su color
+en verde amarillo o en negros y fedos
+alargase el diente y se haze mayor
+y cria dentera si quiera estupor
+a causa de humor o manjares azedos
+ta<n>bien a los dientes les viene estridor
+que rugen y rumian de noche durmiendo
+por flaco lacerto/ el qual es mouedor
+daquellas maxillas o hizolo humor
+o viene a los nin~os lo<m>brizes teniendo
+{RUB. Prosigue.}
+% Y a uezes se tardan en el su nascer
+por flaca virtud o materia impidiente
+ta<n>bien nascen mas de los q<ue> es menester
+como en muchos ho<m>bres solemos ya ver
+nascerles colmillo encima del diente
+ta<n>bien las enzias padescen passiones
+de muelles y flacas y diminuidas
+y vlceras llagas y apostemaciones
+los labios padescen ta<n>bien inflaciones
+fisuras ta<n>bien emorroydes crescidas.
+{RUB. Fen .ix. de las passiones del
+gutur o garguero.}
+% Suele atrauesarse en el n<uest>ro garguero
+do esta la trachea y ta<n>bien el meri
+espina o pagita sacalda primero
+con mano o tragando arrope grossero
+asi mismo vomitos valen aqui
+y si sanguisuela en aqueste lugar
+se entro conoscerlas en el escaruamiento
+y en la biua sangre contino manar
+con buena assafetida gargarizar
+vinagre y mostac'a beuerle consiento.
+{RUB. De squinancia que es sufocacion.}
+% Squina<n>cia por cierto es vn mal apostema
+que inpide el aliento o el tragar o las dos
+da fiebre que a uezes es fuerte que quema
+sus causas son sangre o colora o flema
+y gran enchimiento de reuma y de tos
+no tarde el sangrar si le quieres ver biuo
+cefalica luego y despues de la lengua
+y haz gargarismo que sea desfensiuo
+mezclando con el algun resolutiuo
+asi como miel a do flema no mengua
+{RUB. Prosigue la cura.}
+% c'umo de cortezas de nuez diamoron
+es buen gargarismo y c'umo de llanten}
+[fol. 8r]
+{CB2.
+despues dale ayudas de fuerte atracion
+ventosas nel cuello y despues purgacion
+mirando el humor que alli peca muy bien
+y con lana suzia de fuera emplastar
+y azeyte de oliua o de manc'anilla
+despues del principio deueys madurar
+abrir assi mesmo y mundificar
+padesca gran hambre si puede sufrilla
+{RUB. Del apostema de la vua y del ca-
+so o relaxacion della.}
+% La vuilla padesce apostema y padec'e
+caerse y llamamoslo relaxacion
+donde ay apostema dolor se recrec'e
+pero si es cayda dolor no se offrec'e
+sino impidimiento/ de su operacion
+en esta conuiene purgar la humidad
+despues de sangrado do sangre se tema
+y quando es cayda el lugar le lauad
+con c'umos y poluos destipticidad
+la otra curalda como vn apostema
+{RUB. Fen .x. de las passiones del pulmon y
+pecho y primero de asma.}
+% La asma es passion con quien el paciente
+no puede escusar el aliento ahogoso
+como (p)[h]ombre corrido y cansado assi siente
+salir el aliento y de entrar no es potente
+o entra y no sale sino trabajoso
+algun apostema o alguna inflacion
+o ventosidades o gruessos humores
+impiden el moto del pecho y pulmon
+y cierran las venas y poros que son
+para rescebir aquel ayre y vapores
+{RUB. De la cura.}
+% De los paroxismos se deue guardar
+purgando vna vez o dos en el mes
+xarabe de squila para madurar
+la flema y con garico puede purgar
+& diacalme<n>to tras esto vsares
+mirar bie<n> la causa do esta prouiene
+y vsar el contrario en el cibo y dieta
+y si desquinancia o de otro mal viene
+aqueste se cure y en lo otro esta tiene
+la cura de tos alli ved su recebta.
+{RUB. De la ronqueza de la voz.}
+% Ronqueza de voz de clamor de secura
+de humor de catarro y de sangre procede
+de apostema en pecho y pulmon o abertura
+o de qualidad que perturba y obscura}
+{CB2.
+la voz y el lacerto mouerse no puede
+si de otra passion mas primera ha venido
+aquella se cure y despues la ronqueza
+pero si es humor nel lacerto metido
+con propios xarabes sera digerido
+y desque digesto purgar sin pereza.
+{RUB. Prosigue la cura.}
+% En calido y seco xarope violado
+regaliza y/ goma draganto alquetira
+en flema aprouecha xarope esquilado
+triaca diaprasio despues de purgado
+y purgue mas vezes sino se le tira
+darle has can~afistola y c'umo de rosas
+y los tamarindios do colera veas
+despues diadraganto y similes cosas
+las cenas dexadas le son prouechosas
+no beua/ agua cruda si bien le desseas.
+{RUB. De la tos}
+% De azedo y salado y de humor y de viento
+y de quantas causas ronqueza prouiene
+procede la tos la qual es mouimiento
+del pecho y pulmon por hazer lanc'amiento
+del dan~o y flematico humor que alli tiene
+si viene del cibo vsar lo contrario
+huyendo la causa que hizo tosser
+y aquello que he dicho en ronq<ue>za en sumario
+en cura de tos tanbien es necessario
+y en ambas passi(e)[o]nes se deue hazer
+{RUB. Del fluxo de sangre en escupo
+que llaman emoptoyca.}
+% Emoptoyca es vn fluxo de sangre venal
+que sale en escupo arrancando y tossiendo
+por ser mucha sangre y aguda no ygual
+que vena ha rompido en miembro espritual
+y tiene otras causas a que no me estiendo
+tu de la sofena le sangra primero
+y de la basilica dende a tres horas
+con aspera cuerda o con hilo grossero
+le ate las manos y pies el baruero
+y el pecho aya vnciones muy restren~idoras
+{RUB. Del pleuresis.}
+% Es el pleuresis el dolor de costado
+y es vn apostema sobre las costillas
+mas vezes de colora o sangre es causado
+con aguda fiebre y aliento apretado
+y agudo dolor en aquellas telillas
+la tos muy continua y el pulso serrino
+y desordenado y espeso y muy duro}
+{SG. b}
+[fol. 8v]
+{CB2.
+que fiebre ni tos no la tiene contino
+de tal dolor falso al presente no curo
+{RUB. De la cura.}
+De parte contraria le da vna sangria
+despues en la parte paciente si vieres
+questa confirmado en el tercero dia
+con lenes ayudas le ablanda y resfria
+y purga si mas enchimiento sintieres
+la purga sea lene y do no ay gran calor
+y dale xarope que ablande y madure
+de capilliveneris o otro mejor
+y emplastra despues de aliuiado el humor
+y beua vrdiate y del vino no cure
+{RUB. De periplemonia.}
+Periplemonia apostema es caliente
+de sangre flematico y es nel pulmon
+da fiebre terrible su aliento es frequente
+como que se ahoga y contino se siente
+dolor en el pecho con inflamacion
+cargados los pechos y gran vermejura
+tiene en la maxillas su lengua es quemada
+si colora peca mayor ahogura
+y mayores congoxas padesce natura
+assi en el dolor como en fiebre sobrada
+{RUB. De la cura.}
+% Como el pleuresis sera este curado
+pero los saquitos y emplastros y vnciones
+mas fuertes seran quen dolor de costado
+porqueste apostema esta mas apartado
+no vayan quebradas las operaciones
+iten si del pleuresis ha venido
+por via de termino aquesta passion
+no sangre si vieres questa enflaquecido
+& si ardor y fiebre no esta muy crescido
+ventosas sin sangre do duele le pon
+{RUB. De las llagas del pulmon de las
+quales se pone la ptisica}
+% La ptisica es llaga en pulmon a la qual
+acompan~a etica & gran sequedad
+de ajo y pimienta y de carnes de sal
+de humor corrosiuo y putredinal
+de tos y catarro viene esta maldad
+verasle al paciente los ojos sumidos
+y agudas narizes con ruynes quexadas
+la tos no le dexa ni escupos podridos
+y sobre comer los calores crecidos
+la fiebre es mansica en las otras vegadas
+{RUB. Pronostico & cura.}}
+{CB2.
+% Galieno nos dize auicenna le embida
+quel ombre que tiene los hombros alc'ados
+y el pecho estrechuelo & garganta salida
+el cuello crescido & la pierna torcida
+a tisica cierta le embian los hados
+su cura es la llaga bien mundificar
+y de las materias hazer expulsion
+despues desecar y el catarro estoruar
+tras esto ayudalle a consolidar
+si fuere curable la dicha passion.
+{RUB. Prosigue la cura.}
+% Sangra<n>do & purga<n>do al principio si viere
+que ay necessidad y virtud nel paciente
+y deue ser poco el manjar que comiere
+& muy nutritiuo que assi se requiere
+a estomago flaco en muy seco doliente
+xarabes y emplastros & gran diligencia
+haran desecar a la llaga si sana
+en fiebre ni en tos no es de echar negligencia
+son muy singulares en esta dolencia
+la leche aguamiel y la buena ptisana
+{RUB. De empima.}
+% La empima es vn escupo podrido
+que sale del pecho o pulmon porque ay llaga
+o algun apostema que ya esta rompido
+o humores podridos que alli an descendido
+de alguna esquinanc'ia que ya se deshaga
+si fuere apostema sangrar & purgar
+despues madurar & tanbien resoluer
+tras esto a la llaga es de mundificar
+despues la virtud restaurar confortar
+y buen regimiento en el cibo tener
+{RUB. Fen vndecima de las disposicio-
+nes y passiones del corac'o<n> y pri-
+mero pone aquellas cosas de q<u><<i>>-
+en se toma noticia de la conplexi-
+on del corac'on.}
+% El rey de los miembros do cuelga la vida
+es el corac'on y el mas preeminente
+y su complexion general ya es sabida
+y en particular sera bien conoscida
+por estas sen~ales del metro siguiente
+hechura de pecho y por pulso y aliento
+y por aquel vello que nasce en el pecho
+tambien por el cuero tomandole el tiento
+por fuerc'a y costumbres y por pensamiento
+se alcanc'a qual es y tanbien como es hecho.
+{RUB. Del tremor d<e>l corac'o<n> q<ue> se llama cardiaca.}}
+[fol. 9r]
+{CB2.
+% Aqueste padece cardiaca o tremor
+y es quando se siente temblar o saltar
+como que quisiesse alanc'ar el humor
+o las qualidades o algun mal vapor
+que llega a su casa a quererle dan~ar
+y aquesto o le viene por su condicion
+o por algun miembro que le es mal vezino
+assi como estomago o pecho o pulmon
+celebro o el higado y en conclusion
+de otro o de si aqueste dan~o le vino.
+{RUB. De las sen~ales.}
+% Sen~ales si aquesta passion fuere cierta
+seran que anda el pulso muy desordenado
+la sangre o vapor las mas vezes se acierta
+de ser causa desto y con ellos concierta
+espesa la vrina y el pulso inflamado
+si humor melanconico el dan~o hiziere
+sera el pulso duro y terna gran tristeza
+ardor demasiado si colora fuere
+y mucha humidad quando flema enpeciere
+como que nadasse y hay mucha flaqueza.
+{RUB. Prosigue las sen~ales
+y pone la cura.}
+% Si fuere apostema o es llaga o rotura
+muy presta denuncian la muerte al paciente
+si fueren lombrizes veras su letura
+si fuere ponc'on~a ay desmayo y quexura
+y si es calidad mostrarlo ha su accidente
+la diestra basilica ma<n>dan sangrar
+si sangre enpeciere pero si es vapor
+sera la siniestra por mas appropiar
+despues medicinas cordiales le dar
+conserua de rosa y buglosa es mejor.
+{RUB. Prosigue.}
+la gera rofini si es malenconia
+le purgue despues que estuuiere digesto
+si fuere de colora esfuerc'a y resfria
+y sus propiedades al caso le embia
+y assi en cada humor segun es manifiesto
+y desque sacada la causa humoral
+templar el destemple de su calidad
+y siempre le da medicina cordial
+diamargariton es al caso especial
+confectio alkermes es estremo en bondad
+{RUB. De sincopi.}
+% El sincopis es vn desmayo & cayda
+de nuestras virtudes que subito altera
+porque aquel esprito que trae la vida.}
+{CB2.
+se gasta y resuelue o no tiene salida
+por do passa al cuerpo desde su minera
+o tanbien sera causa la gran corrupcion
+de ayre dan~ado o bocado rabioso
+resuelue al sprito la euacuacion
+opilase a causa de gran replecion
+retraese huyendo el vapor poc'on~oso.
+{RUB. De cura.}
+% Si es por calidad que ya esta confirmada
+no tiene remedio: mas si es de enchimiento
+su cura se reza en el antepassada
+e la ynanicion sera restaurada
+y en cosas cordiales se haga el c'imiento
+& si por ponc'on~a el desmayo ha venido
+triaca diamusco y el buen metridato
+& si es por vapor que de miembro ha subido
+aquel cura luego y esfuerc'a el caydo
+porque no reciba el vapor cada rato.
+{RUB. Prosigue la cura quanto al
+tiempo del paroxismo.}
+% Y en la hora que tiene el desmayo echarlas
+nel rostro agua fria moscada o de rosas
+que cierre la boca y narizes haras
+y los pies y brac'os ansi ligaras
+que las ligaciones seran dolorosas
+y hazle comer buenas sopas en vino
+fregar pies y manos tan rezio que sude
+y en su nariz entre algun poluo muscino
+o ambar o almizque que sea muy fino
+y poluos de euforbio para que estornude.
+{RUB. Fen .xij. de las passiones de las tetas
+& priemro de la minoracio<n> d<e> la leche en
+las tetas y de su cura.}
+% A las tetas falta la leche por quanto
+ternan calidad de secura o calor
+o porque la sangre y gouierno no es tanto
+o/ en la digestion hay flaqueza y quebranto
+o porquel infante no es buen chupador
+primero se purgue el humor corrompido
+tanbien rectifiquese la digestion
+gallinas perdizes y hueuo soruido
+seran sus manjares y el miembro guarido
+sera con emplastro y con embrocacion.
+{RUB. De la exuberacion y multitud de la le-
+che y de su cura & de la corrupcion de-
+la leche.}
+% Y si ay mucha leche y por mucha es dan~osa
+sangrar la sofena y mengualle el manjar.}
+{SG. b ij}
+[fol. 9v]
+{CB2.
+embrocar con vinagre y azeite de rosa
+y el armoniac dizen que es buena cosa
+disuelto en vinagre para desecar
+no sobra ni mengua pero hase dan~ado
+por mala materia que alli se mezclo
+conoscese en essa color que le ha dado
+a tal como a esta despues de purgado
+con muy buen gouierno auicena curo
+{RUB. De la caseacion de la leche.}
+% La leche en las tetas contec'e cuajarse
+por mucho calor que deseca la leche
+tambien frialdad la hara congelarse
+y qualquiera destas conuiene ablandarse
+con cosa contraria que a ello aproueche
+assi como azeite violado con cera
+o con verdolagas en causa caliente
+y si es causa fria enbrocar por de fuera
+con vino y con agua do hierua si quiera
+ysopo y eneldo & alguna simiente.
+{RUB. De los apostemas de las tetas}
+% Apostema en tetas de humores prouiene
+y el nombre le da aquel humor que le cria
+erisipila es si de colora viene
+y zimia si es flema y flemon si le tiene
+de sangre y es cancer si es melancolia
+si es sangre primero sangrar la sofena
+despues la basilica en necessidad
+la repercussion en lo calido es buena
+despues maduralle y quitalle la pena
+abrilde despues y tras esto encarnad
+{RUB. Prosigue la cura & pone
+capitulo de vlceras.}
+% Y si es de otro humor digerille primero
+purgarle despues y despues madurar
+y en los apostemas hablar me profiero
+la cura daquestos y en suma no quiero
+en esto al presente mas metros gastar
+si no es apostema y vlcera es
+con yema y con miel deue<n> mundificalle
+despues las agallas y nuez de cipres
+c'umaque y balostias en vino echares
+y desque heruido con esto laualle
+{RUB. Fen .xiij. de las passiones del me-
+ri y del estomago y primero pone
+todas las enfermedades d<e>l meri.}
+% Meri o el ysophago es el tragadero
+y aqueste no puede tragar por secura
+o que ay apostema en aquel agujero.}
+{CB2.
+o que hay gran flaqueza & no puede ligero
+mouerse el lacerto o que hay llaga y rotura
+quando es de secura daras al paciente
+xarab de nenufar xarab violado
+& vnte el pescuec'o con violado vnguente
+y si es de flaqueza esforc'ar el doliente
+y con diamoron sera gargarizado
+{RUB. Prosigue.}
+% Y si es de frialdad o humidad apliq<ue>mos
+sus propios contrarios vntando & beuiendo
+curar los estremos con otros estremos
+& si ay apostema este tal curaremos
+primero euacuando y repercutiendo
+si vlceras tiene deuemos curarlas
+con cosas estipticas glutinatiuas
+y deue el paciente de gargarizarlas
+y muy de vagar le conuiene tragarlas
+que paren y obren y esten permansiuas.
+{RUB. De las enfermedades del estomago}
+% Incurre el estomago en muchas passiones
+comunes y similes y officiales
+las similes son las malas complexiones
+que son diez y seys por las sus diuisiones
+entre materiales y no materiales
+comunes seran solucion y rotura
+que a todos los mie<m>bros venir son possibles
+pero la official es pecante en figura
+en sitio y gra<n>deza y en plasma y hechura
+que trae a natura passiones sensibles.
+{RUB. De las sen~ales de las complexi-
+ones y de las qua<n>tidades.}
+% Los fumos y sed significan calor
+y la indigestion y azedia frialdad
+& si hay humidad el escupo es mayor
+la sed y apetito es con esta menor
+la sed y aspereza mostro sequedad
+& si es con materia el sabor sentira
+de qualquiera humor o vapor q<ue> se apan~a
+graueza y hastio y vomito avra
+pero si es en plasma el sentido dira
+qual es de los generos el que le dan~a
+{RUB. De la cura.}
+% Aplica el contrario si dan~o humeroso
+con las qualidades alli no se assienta
+si es calido dale xarabe acetoso
+xarabe de asensios es muy prouechoso
+do hay frio y emplastros de asensios y menta
+al humido y seco de suyo se entienda}
+[fol. 10r]
+{CB2.
+& donde hay materia digesta te sea
+& purga la flema que cria o desciende
+con turbit & garico y pildoras dende
+ruibarbo en la colora y escamonea
+{RUB. Prosigue.}
+% Eleboro negro y epitimo y sen
+de malenconia seran purgatiuos
+despues de purgado esforc'alde muy bien
+y su lectuario apropiado le den
+emplastros trosciscos & confortatiuos
+si en dos qualidades su excesso pujo
+conponles la cura por lo sobrescrito
+pero si all estomago llaga occurrio
+o algun apostema se alli contropo
+en su lugar propio dire otro poquito.
+{RUB. De la flaqueza del estomago y apetito.}
+% Flaqueza de estomago en su apetito
+verna de las causas que ya dichas son
+y en lo sobredicho su cura he escrito
+los vomitos son vn remedio bendito
+quando esta flaqueza causo replecion
+tambien seran causa daquesta passion
+pren~ez o lombrizes o mucha tristura
+curad la tristeza con consolacion
+y con los manjares de confortacion
+las otras curadlas con su propia cura
+{RUB. De la corrupcio<n> del apetito.}
+% A vezes el nuestro apetito enflaqueze
+tambien se corrompe y dessea carbones
+de humor muy dan~ado y podrido recrece
+mayormente frio y quien esto padece
+comience por vomito y por digestiones
+y aquesto con vn oximel se hara
+y vse estomaticas pildoras este
+despues la triaca le descoxara
+y confortatiuos tras esto hara
+lo calido estiptico es bueno en aqueste
+{RUB. Del apetito canino.}
+% Canino apetito es vn mal dessear
+de siempre tragar y comer como perro
+la causa es gran frio que atropa el manjar
+o humor malenconico azedo al gustar
+o flema acetoso de azedo de hierro
+si es frio en ayunas le deuen dar vino
+ya sabes purgar el humor que dan~are
+y coma manjar vntuoso contino
+el buen diarrodon para este es muy fino
+y es mal si lo azedo y lo pontico vsare.}
+{CB2.
+{RUB. De bolismo.}
+% Bolism<us> es ha<m>bre que<n> mie<m>bros a entrado
+estando el estomago en mucha hartura
+la causa es tener el sentido enbotado
+de/ algunos humores en que esta forrado
+o de qualidades de estran~a natura
+curalde con cosa caliente olorosa
+como ambar y espica y xilaloes
+el vino oloroso diz ques buena cosa
+y purguese aquella materia viscosa
+y en causa caliente contrario hares.
+{RUB. De la hambre sincopal.}
+% La sincopal hambre es vn mal y passion
+con quien no comiendo desmaya el paciente
+la causa daquesta es buena razon
+flaqueza destomago y gran sensacion
+la cura es como esta questa precedente
+y cata no tardes de dalle el manjar
+quando el lo pidiere con su vino aguado
+en causa caliente esforc'ar y esfriar.
+y quando desmaya en su propio lugar
+te he dicho la cura del ques desmayado
+{RUB. De la sed.}
+% La sed quando vieres que no es natural
+de sol de cansancio y de vino procede
+tambien de secura y calor desigual
+tambien de materia ques putredinal
+colerica o salsa que de ambas ser puede
+tu purga la colora o flema salada
+que a hecho digesta el xarabe acetoso
+lo humido y frio lechuga y granada
+azeyte violado y ptisana colada
+y el buen vino aguado les es prouechoso.
+{RUB. De la flaqueza y corrupci-
+on de la digestion.}
+% Apocase y quitase la digestion
+tambien se corrompe dan~ando el manjar
+difieren segun remission y intension
+la causa daquesto es la gran replecion
+que nuestro calor haze mortificar
+tanbien calidades seran causa destas
+gastando o matando la dicha calor
+materias o ventosidad alli puestas
+comer muchas vezes no estando digestas
+las viandas passadas ni hechas humor
+{RUB. De la cura.}
+% Obserua las reglas questan contenidas
+en la fen tercera en el su regimiento}
+{SG. b iij}
+[fol. 10v]
+{CB2.
+si son calidades seran remouidas
+y siendo materias seran resoluidas
+en siendo digestas queste es el cimiento
+xarabe de ysopo y el de calamento
+para digestion de la flema daras
+y con diaturbit purgaras con buen tiento
+y estiptico azeite le pon en vnguento
+y emplastros de almastiga y ambar haras.
+{RUB. Prosigue.}
+en colora el vomito es gran medicina
+y su digestion con xarab de granadas
+y en suero de cabras desaten ayna
+de c'umo de rosa o diaprunis muy fina
+y su can~afistola bien preparada
+y denle triasandalos para templar
+o ac'ucar rosado que esfuerc'a y consuela
+y en causa flematica deuenle dar
+alguna triaca despues del purgar
+y diacalamento y gengibre y canela.
+{RUB. De la dureza del estomago.}
+% A vezes dureza all estomago viene
+de humor malenconico o de frialdad
+quando es por humor azedia alli tiene
+y si es solo frio que en el se contiene
+el tacto le siente y descierne en verdad
+hazelde purgar desque bien se digera
+con cosas que purguen humor tan nociuo
+despues trementina y enxundias y cera
+bedelio y spica & los desta manera
+le hagan emplastro mollificatiuo
+{RUB. De eructuacion}
+% La eructuacion es rehueldo y es cosa
+de ventosidad que el estomago alanc'a
+por indigestion y materia ventosa
+por gran replecion o por flema viscosa
+pero su sen~al el sentido la alcanc'a
+si ay dan~os estrinsecos sean remouidos
+y denle muy poco manjar no ventoso
+los frios humores seran digeridos
+y con gera o garico bien resoluidos
+despues diacimino es marauilloso.
+{RUB. De los apostemas del estomago.}
+% Padesce el estomago por mal humor
+algun apostema o frio o caliente
+si es calido punge con fuerte dolor
+da fiebre y angustia congoxas y ardor
+si es frio es mas manso qualquier acidente
+y alli donde duele muy duro se siente}
+{CB2.
+y quando sospira el dolor mas le crece
+y donde le duele tentar no consiente
+por miedo del dedo que no le atormente
+tan fuerte dolor a los neruios se offrece
+{RUB. Dela cura.}
+% Dan~osa al principio es la euacuacion
+y es buena sangria en la causa caliente
+y con cosas frias la repercussion
+despues ablandar y esforc'ar la region
+despues aplicalle algun buen resoluiente
+si es frio xarabe de asensios digera
+y con gera pigra sea mundificado
+y no le maduren en otra manera
+sino confortando al principio siquiera
+despues con dialtea sea molificado
+{RUB. De las vlceras del estomago.}
+% De alguna apostema que no se seco
+o humores colericos mordicatiuos
+lestomago de vlcera y llaga enfermo
+tanbien podra ser que manjar lo causo
+que oruga y mostaza son vlceratiuos
+daquestas proceden intensos dolores
+y mas quando come manjar acetoso
+dar luego aguamiel y mundificadores
+despues los trosciscos y desecadores
+y purga que ablande les muy prouechoso
+{RUB. De la inflamacion del estomago.}
+% Tanbien all estomago viene inflacion
+por gruesso vapor o de ventosidad
+la qual se engendro por ser flaca la accion
+del calor natural y tanbien cibacion
+de cibo ventoso & superfluidad
+por quanto de ventosidad se cimienta
+la cura de eructuacion le consiento
+& gasten la ventosisad que le afruenta
+anis y hinojo y oregano y menta
+y dalde buen vino y diacalamento.
+{RUB. Del vomito & nausea.}
+% En nausea y en gomito essa diferencia
+que nausea es arcadas sin que aya expulsion
+y el gomito expele sin mas resistencia
+sus causas nespecia tendran conueniencia
+pero en mas y menos es su diuision
+el mucho beuer y la muy gran comida
+& sobre comer la pelota jugar
+gran frio o calor o ponc'on~a o herida
+y colora o flema all estomago yda
+podran ser las causas sin mas alargar.}
+[fol. 11r]
+{CB2.
+{RUB. De cura.}
+% La nausea es curada assi como flaqueza
+y el vomito quando es de mucho comer
+dexalde salir que natura os abeza
+que no quiere carga de tanta graueza
+y que otra vez no lo deueys de hazer
+pero quando fue de abundancia de humor
+y vierdes que no senflaquec'e natura
+dexalde salir que aquello es lo mejor
+mas si es mucho y trae flaqueza y dolor
+estiptico cibo y emplastro le cura.
+{RUB. Prosigue.}
+% En causa caliente violetas y rosa
+membrillos y peras coral boloarmeno
+balostias y psidia azedera arnoglosa
+todo hecho en emplastro sera buena cosa
+tanbien vn bebrajo daquestas es bueno
+pero en causa fria vn emplastro hares
+de almastiga encienso espinarde y canela
+asensios y menta & de nuez de cipres
+y tales manjares y emplastros dares
+si del henchimiento ya no se rec'ela.
+{RUB. De singulto.}
+% Singulto es solloc'o el qual es contraccion
+que estomago haze con frio o calor
+tanbien le procede de mordicacion
+que hazen humores por cuya expulsion
+natura se mueue daqueste tenor
+darleys a comer quando es por vacuidad
+mouelde los vomitos si ay enchimiento
+y desque digesto y purgado esforc'ad
+& al frio castoreo nel vino le dad
+y de oleo de asensios le hazed vn vnguento
+{RUB. Fen .xiiij. de las passiones del higado &
+primero d<e> la malicia de su conplexion.}
+% El higado enferma en la su conplexion
+por fria o caliente. por humida o seca
+la calida viene de calefacion
+de sol de trabajos o de cibacion
+de ajo y pimienta y de quien assi peca
+& de sus contrarios vendra frialdad
+como es de la nieue y holgura & pescados
+de humidas cosas le viene humidad
+y de sus contrarias verna sequedad
+y desto esta mucho en los metros passados.
+{RUB. De las sen~ales.}
+% El poco apetito es sen~al de calor
+colericos vomitos sed y amargura}
+{CB2.
+de cosas calientes su dan~o es mayor
+contrario daquestas y blanco color
+o verde a las vezes demuestran friura
+muy seca egestion y en el pulso dureza
+& sed y amargor sequedad certifican
+& mas quando vieres de sangre pobreza
+y rarefacion en el cuerpo y flaqueza
+contrarios daquesto. humidad significan.
+{RUB. De la cura.}
+% A las calidades deueys contrastar
+pero si materia sanguina es aquesta
+alguna sangria le deuen de dar
+endiuia y triasandalos deue tomar
+xarabe acetoso oxizacra conpuesta
+si es colora pura el sangrar dexaran
+mas con tamarindios templarse conuiene
+en flema xarab de cantueso daran
+iten con garico le purgaran
+y aquesto quienquiera sabido lo tiene.
+{RUB. De la flaqueza del higado
+que llaman epatica.}
+% Flaqueza en el higado es de opilacion
+o fluxo o flaqueza de miembro vezino
+o de qualidades que ya dichas son
+y desta flaqueza la demostracion
+es verle el color buelto en verde o citrino
+si fuere apostema su cura sabras
+si es opilacion buscaras su lugar
+si es por sus vezinos sus curas veras
+si es por qualidades ya quedan atras
+despues con trosciscos se deue esforc'ar.
+{RUB. De las opilaciones del higado.}
+% Opilase el higado con frialdad
+o con replecion de manjares o humores
+o por apostema o por ventosidad
+y a vezes se opila su carnosidad
+y a vezes las venas de sus derredores
+veras la color del paciente perdida
+y aquella region muy pesada y muy dura
+y purga materia no bien digerida
+la vrina blancaza y descolorida
+y poco apetito y flaqueza en natura.
+{RUB. De la cura}
+% Si es fria la causa desopilaran
+la cassia y el garico y cosas calientes
+el apio y caparras prouecho haran
+si es calida endivia y borrajas daran
+y algunos xarabes templados y abrientes
+y si es opilada la gibbosidad}
+[fol. 11v]
+{CB2.
+purgad con diureticos que abran la vrina
+pero si es el dan~o en la concauidad
+por fluxo de vientre el humor le purgad
+sangria al principio en tal caso es maligna
+{RUB. De la ventosidad del hi-
+gado y del dolor del}
+% Si ventosidad en el higado esta
+conoscese por la eminencia/ que tiene
+digesta y purgada resueluase ya
+anis calamento y ysopo lo hara
+espica y almastiga al caso conuiene
+pero si en el miembro sintiere dolor
+sera por humores o por calidades
+o por apostemas o algun mal humor
+ya sabes curar quando ay dan~o de humor
+& quando dan~aren las otras maldades
+{RUB. De los apostemas del higado.}
+% Al higado viene apostema ventoso
+o duro o de colora o flema o sanguino
+si fuere de colora es muy doloroso
+si es flema es cargado y es mas porfioso
+si es sangre haze rubeas maxillas contino
+si es ventosidad es mas alto y inflado
+pero quando es duro en el tacto se siente
+y en todos el diestro ypocondrio es cargado
+y duele pero quando esta en lo gibado
+paresce de fuera vna luna cresciente
+{RUB. De la cura.}
+% Si fuere sanguino se deue sangrar
+de aquel mismo lado basilica vena
+& con can~afistola lenificar
+& su defensiuo al principio aplicar
+despues confortarle segun auicena
+con oleo rosado y con oleo mirtino
+mezclando con estos el de ma<n>c'anilla
+despues madurar resoluer con buen tino
+si colora es no se sangre contino
+mas esta es su cura sin mas repetilla
+{RUB. Prosigue.}
+% y si esta apostema es porque ay retencion
+de fluxo asueto curalde primero
+si es duro hazelde molificacion
+& con oximel le hares digestion
+& purgue despues con epitimo en suero
+si es flema o ventoso huiran defensiuos
+sin que tengan mezcla de algun resoluiente
+dale apio y hinojo y desopilatiuos
+darle an subtiliantes tanbien lenitiuos}
+{CB2.
+& la purga fuerte este tal no consiente
+{RUB. De cacesia}
+% Cacesia es la disposicion que antecede
+& avn es de vna especie con la ydropesia
+de sus mismas causas por cierto ser puede
+en pies hinchazon y en el rostro procede
+daquesta passion y gran sed todo el dia
+tu purga el humor si ay sen~al manifiesta
+con purga aromatica y el miembro templa
+esfuerc'alo y abre por la orden ques puesta
+en la ydropesia y pues quella y aquesta
+son tan conuenibles alli la contempla.
+{RUB. De la ydropesia & sus tres especies}
+% Es la ydropesia vna enfermedad
+de fria materia & aguosa inflatiua
+en todos los miembros do esta vacuidad
+y mas en el vientre y es por la maldad
+del higado y de su virtud digestiua
+llamose yposarca la especie primera
+de flema quen miembros ha hecho su assiento
+la otra es asclites que ha hecho minera
+de agua en el hondo del vientre si quiera
+otra es timpanites ques hecha de viento
+{RUB. De la yposarca & sus causas & sen~ales.}
+% La sangre flemosa segun que yo siento
+q<ue> va en la yposarca por sus miembros ciertos
+en ellos no pega ni es buen nutrimento
+y queda en lo hueco daquestos retento
+do haze hinchazo<n> de vnos cuerpos ya muertos
+y assi todo el cuerpo en aquesta es hinchado
+las otras especies nel vientre son mas
+vn hoyo se haze en el miembro apretado
+y desque se1 suelta a su ser es tornado
+su pulso muy ancho y muy blando veras
+{RUB. De asclites y de sus
+causas y sen~ales.}
+% Ellagua que suele yr a los ren~ones
+virtud no apartando la como solia
+por higado flaco o por opilaciones
+nel vientre se encierra en sus huecos rencones
+y aquesta es asclites de la ydropesia
+si de vn lado all otro se buelue el paciente
+hara como vn cuero do esta floxo el vino
+sus miembros son flacos y el vientre saliente
+tan flacos no estan como en el susequente
+su pulso esta chico y frequente contino
+{RUB. De timpanites y de
+sus sen~ales y causas.}}
+[fol. 12r]
+{CB2.
+% Verna timpanites por ser corrompida
+virtud digestiua faltando el calor
+o por la materia ser mucha y crescida
+conuiertese en viento y haze manida
+nel hueco del vientre eleuando tumor
+si hieres el vientre parec'e atabales
+o cuero de viento assi haze el sonido
+lombligo es muy alto y los mie<m>bros so<n> tales
+que secos parecen al sol & mortales
+y es mas que<n> las otras su pulso crescido
+{RUB. De las sen~ales comunes a to-
+das: y de la cura.}
+% Pero en todas tres e<n> los pies so<n> hinchados
+& flaco apetito el color se le troca
+los parpados altos los ojos inflados
+gran sed & secura y de aliento apretados
+y en causa caliente amargor en la boca
+en todas tres tenga muy buen regimiento
+& coma muy poco manjar y no beua
+y siendo su causa algun fluxo retento
+aqueste se abra sin detenimiento
+y los quartos dias vn vomito mueua
+{RUB. Prosigue y cura en yposarcha.}
+% Y para el estomago y la opilacion
+xarabe de asensios le den a beuer
+despues denle purga con confortacion
+de spica y almastiga y gera en mistion
+que esfuerc'en y puedan la flema atraer
+con pildoras hechas al caso purgar
+en cada semana le es gran medicina
+despues con trosciscos secar y esforc'ar
+& con oximel diacucurma mezclar
+es aperitiuo & prouoca la orina
+{RUB. Prosigue & cura en asclites.}
+% Con el ruibarbo & con mirabolanos
+mezclando abridores y confortatiuos
+son para (purga) purgar en asclites muy sanos
+el ban~o & sudor y exercicios mundanos
+en su hora tomados le son sanatiuos
+las pildoras dichas de mezereon
+son nesta aprouadas de nuestros autores
+si causa caliente ay en esta passion
+en contemperar trastornad la intencion
+con confortatiuos y con abridores
+{RUB. Prosigue & cura la timpanites.}
+% Dar agua de endiuia y las frias simie<n>tes
+en la timpanites aprueuo por bueno
+mouerle rehueldos que son resoluientes}
+{CB2.
+nel higado enplastros de cosas abrientes
+despues de purgado es remedio muy lleno
+con pildoras del ruibarbo nombradas
+con suero & ruibarbo & con c'umo de rosas
+xarab de bisancis en las madrugadas
+castoreo estorac en enplastro aplicadas
+& mirra artemisa son marauillosas.
+{RUB. Fen .xv. de las passiones de la hiel
+y el bac'o & primero de la ictericia.}
+% Ictericia es boluerse citrino el color
+o muy verde o negro por yrse aza el cuero
+daquestos colores colerico humor
+por opilacion y flaqueza interior
+la colora muda su propio sendero
+que en vez de seguir su camino real
+del higado al bac'o y a hiel vase fuera
+cada vna dara su color por sen~al
+y sed & amargura & calor desigual
+la verde y citrina son de vna manera
+{RUB. De la cura.}
+% Si es causa caliente en la verde o citrina
+aplica lo frio ques mas conuenible
+y la opilacion remediar muy ayna
+& si es por ponc'on~a la triaca fina
+tras vomito haze prouecho sensible
+xarab de nenufar xarab acetoso
+le esfrie & le purguen con c'umo rosado
+y suero de cabras nel dan~o humoroso
+y enplastro en el higado es muy prouechoso
+aquel de fermento diz ques apropiado.
+{RUB. Prosigue.}
+% Si uviere apostema deueysle sangrar
+esfriar confortar & vaziar el humor
+y la opilacion deue abrir subtiliar
+despues de sangrado do vuiere lugar
+tras esto purgalle es la cura mejor
+si es/ negra ictericia vn xarabe le den
+de rayzes tras esto conuiene purgalle
+con enblicos indios epitimo y sen
+pero si apostema tuuiere el esplen
+o ques opilado esto es bien remedialle.
+{RUB. De la malicia de la
+conplexion del bac'o}
+% En su conplexion el bac'o adolece
+por todas las causas que en higado as vido.
+si es calida sed y dolor se le offrece
+si es fria tristeza y hastio padece
+y si es con materia ay graueza y rugido.}
+[fol. 12v]
+{CB2.
+sangralde si sangre este dan~o ha traydo
+la vena dell arca del ysquierdo brac'o
+purgad si otro humor alli vuiere enpecido
+y en todo lo otro si aueys ya sabido
+la cura del higado es cura del bac'o.
+{RUB. De los apostemas del bac'o.}
+% El bac'o si tiene apostema caliente
+la sed y el ardor y el dolor daran muestra
+si es frio graueza y dureza alli siente
+si es ventosidad es inflado y saliente
+si es flema esta floxo y dolor no demuestra
+si sangre enpeciere sangria dares
+de la dicha vena y sutil regimiento
+y en todas las cosas que hagan despues
+& si otro humor fuere que medio ternes
+del higado a este tomad documento
+{RUB. De las opilaciones del bac'o.}
+Y si opilacion en el bac'o se ordena
+que por la color y en el tacto se alcanc'a
+do hay sangre sangrar la siniestra sofena
+y la saluatela en tal caso es gra<n> vena
+& si hay otro humor con la purga se alanc'a
+do este diacartamo epitimo y gera
+polipodio agarico spica y buglosa
+& aperitiuos de dentro y de fuera
+como escolopendria y simiente abridera
+rayz de alcaparra & almendra amargosa.
+{RUB. Prosigue.}
+% xarab de rayzes o alguno mejor
+haran digestion para mas bien purgarle
+y desque digesto y purgado el humor
+trosciscos y emplastros y vnguento abridor.
+le deuen hazer y amenudo es de vntarle
+donde ay causa fria abridores calientes
+do fuere caliente los frios mezclar
+el higado y este no son diferentes
+en sus curaciones sino en parar mientes
+ques mas noble el higado y mas de mirar
+{RUB. Fen .xvj. de las passiones de los intesti-
+nos primero del fluxo del vientre.}
+% Del cibo y del poto podria ocurrir
+el fluxo de vientre y de malos vezinos
+y el ques de vezinos podeys diuidir
+que o de mesaraycas podra prouenir
+o higado o bac'o o cabec'a o intestinos
+y por abreuiar en materia tan varia
+segun los modernos diuidolo en tres
+que o es disinteria lienteria o diaria}
+{CB2.
+sin el tenasmon de que en otra sumaria
+y de la colerica escrito veres
+{RUB. De lienteria.}
+% Lienteria es vn fluxo y es intestinal
+que tal qual se come y se beue lo espele
+por falta que abra de calor natural
+& la retentiua retiene muy mal
+su causa frialdad o enchimiento ser suele
+si es frio curalde con calefactiuos
+y confortatiuos enplastros y vncion
+mas antes si ay flema darlesys digestiuos
+tras esto los vomitos son sanatiuos
+y purgas & ayudas de confortacion.
+{RUB. De diaria.}
+% Diaria es vn fluxo do salen humores
+& cibos digestos o casi digestos
+y desta podran segun nuestros autores
+todos cinco miembros ser sus causadores
+quen el primero metro de fluxo estan puestos
+si en las mesaraycas ay opilacion
+assi que no atraen/ el chilo y se sale
+con aperitiuos es su curacion
+por este tal modo y por/ confortacion
+se/ cura en los otros y esto es lo que vale
+{RUB. De disinteria.}
+Y la disinteria es vn fluxo sanguino
+con vlcera y llagas en los intestinos
+de flema salada o de colora vino
+que punge y deshuella qualquier intestino
+da fiebre y congoxa & dolores continos
+y en antes que purgue da si es disinteria
+a estomago y tripas dolor y tortura
+y en esto difiere de diaria y lienteria
+y si con la sangre viene otra materia
+conoscese all ojo en aquella vasura
+{RUB. De cura.}
+% Sy es sangre la causa denle vna sangria
+si tiene virtud que lo pueda bastar
+si es colora purguese antel quarto dia
+mas mira si tienes para esto osadia
+que sobre tal fluxo es afruenta purgar
+y desque primero le tengas purgado
+con vnas cortezas de mirabolanos
+y con reubarbaro que vsan tostado
+consueldale aquello que tiene llagado
+con vnas ayudas de stipticos sanos.
+{RUB. Prosigue quanto a la colora
+y quanto al flema salso.}}
+[fol. 13r]
+{CB2.
+% Boloarmeno acac'ia y la tierra sellada
+y la goma arabica y yema de hueuo
+buglosa ypoquistidos y agua rosada
+llanten y la sangre de drago majada
+azeyte rosado y de cabra algun sebo
+daquesto se haga vn cristel me<n>surado
+y haga<n>se poluos de consolidar
+pero si su causa es el flema salado
+despues q<ue> los quebulos le ayan purgado
+mestuerc'o tostado le puede esforc'ar
+{RUB. Prosigue.}
+% Xarab de membrillos y basilicon
+c'umaque y tostado coral es loado
+y coma el paciente daquesta passion
+de aues assadas por confortacion
+el poto sea poco y sea azerado
+tras esto trosciscos y enplastros haras
+de cosas que al caso valer se presuma
+en todos los fluxos asi curaras
+y agora no esperes que yo diga mas
+pues no he de poner el traslado en la suma
+{RUB. De la colerica passion.}
+% Colerica passio es vn espeler
+por gomito y camaras todo el ma<n>jar
+corrompese y dan~ase todo el poder
+de la digestiua y del retener
+con esto no puede el ma<n>jar restaurar
+euacua el humor que a la vista se offrece
+por el mismo gomito hasta acaballe
+despues adrec'ar la virtud que padesce
+y como en el fluxo su cura sendrec'e
+y en su gran flaqueza deueys remedialle.
+{RUB. Del tenasmon.}
+Nel recto yntestino es el tenasmon
+y llamasse puxo en el nuestro vulgar
+su causa es gran frio o desecacion
+o flema salado en quien ay pungicion
+o flema muy gruesso lo puede causar
+despues de ablandado lo deues purgar
+con pildoras fetidas si ay ende flema
+y la can~afistola en colora dar
+con malua y bismalua se deue ablandar
+si sobre secura este dan~o se rema
+{RUB. Prosigue.}
+Pero si prouiene de causa ventosa
+hazerle has ayudas que gasten el viento
+y ponle vn vnguento en la silla olorosa
+de enxundias de ansar y azeyte de rosa}
+{CB2.
+y el vnto de puerco en tal caso consiento
+si es llaga despues de bien mundificada
+almastiga y mirra la consoldaran
+& si es apostema de sangre dan~ada
+sofena & basilica sea resgada
+y repercussiuos despues le pornan
+{RUB. De puncion y mirachia.}
+% Puncion o puntada si quiera dolor
+verna por las causas que colica viene
+que quando se opila y se haze maior
+es ella la colica & por el autor
+la cura de colica en esta conuiene
+mirachia es puncion nel mirach situada
+de algun apostema o agudos humores
+en estas ya dichas esta considerada
+& por sus sen~ales alli esta curada
+que no differec'en sino en ser maiores
+{RUB. De colica.}
+% La colica en el intestino colon
+en las partes baxas a hecho su assiento
+es ella en las hiezes gran induracion
+y en los intestinos grande opilacion
+da fuertes dolores y graue tormento
+podran ser sus causas frialdad y secura
+y ventosidad y calor que deseca
+o algun apostema o llaga rotura
+que abran hecho humores de aguda natura
+o hazelo flema viscosa y muy seca
+{RUB. De la cura.}
+No apliques si fueren las causas calientes
+los calefactiuos de dentro ni fuera
+mitiga primero dolor y accidentes
+& dale cristeles que sean lenientes
+y euacua la colora en buena manera
+si vieres que tiene tan fuerte el dolor
+que mitigatiuos no pueden bastar
+con algun narcotico amansa el furor
+& si ay apostema de calido humor
+con mezcla de sangre: deueysle sangrar
+{RUB. Prosigue.}
+% Si el dan~o es de flema haras decoc'ion
+de anis fenogreco y tanbien manc'anilla
+y echale ayuda con su lenicion
+de la can~afistola y su enplastracion
+aca en yliaca te entiendo dezilla
+la ventosidad sera bien consumir
+con vaporaciones y ayudas calientes
+y en esto no cale ya mas repetir}
+[fol. 13v]
+{CB2.
+y si algo aqui alto deueys recurrir
+a la yliaca en los metros siguientes
+{RUB. Dela yliaca.}
+% Yliaca y colica son differentes
+por quanto yliaca es opilacion
+en los yntestinos que son eminentes
+la otra en los baxos que son subsistentes
+y en todo lo otro muy similes son
+la causa es estar muy cerrado el yleon
+con secas materias o con muy viscosas
+o con frialdades y en conclusion
+por todas las causas viene esta passion
+que colica viene que no son dos cosas
+{RUB. De las sen~ales y cura}
+Las sen~as daquesta es dolor muy crescido
+en los yntestinos que son superiores
+purgar por la boca el humor ques deuido
+salir por abaxo lo qual le a traydo
+congoxas vigilias y grandes hedores
+por boca y por baxo purgad juntamente
+la purga y cristel le dareys sin recelo
+despues sobrel vientre poned resoluiente
+si vierdes quel mal no es de causa caliente
+de cosas calientes en vn hac'eruelo
+{RUB. Prosigue.}
+% La sal y simiente de eneldo y de lino
+y mijo anis y panizo y auena
+tostados en teja y ruciados con vino
+y la dialtea y el vnto porcino
+encima del vientre son cosa muy buena
+despues desto con can~afistola echad
+algun diacartamo y purgue la flema
+si es causa caliente otramente purgad
+si es causa sanguina primero sangrad
+y mas quando vierdes que tiene apostema.
+{RUB. De las lombrizes}
+% Mirad que miraglo de nuestro hazedor
+que quando en natura algun cuerpo podrec'e
+por rectificar su hediondo vapor
+que all ayre no dan~e y corrompa el hedor
+le enviste de forma en la qual permanesce
+y assi del podrido del agua y la tierra
+sengendran culebras y moscas sin medio
+y el flema corrupto que al cuerpo sencierra
+la humana natura adrec'a<n>do al que yerra
+le haze lombrizes si no ay mas remedio.
+{RUB. De su diuision y sen~ales.}}
+{CB2.
+y destas abra tres especies sabidas
+porque hay larga y ancha y redonda lombriz
+las sen~as que traen son muy conoscidas
+de noche las bocas muy humedec'idas
+de dia secura y comer de nariz
+hazerle has ayudas de cosas calientes
+de garico y cartamo y de calamento
+epitimo asensios son sus malquerientes
+y gera y triaca. pero si ardor sientes
+darle has verdolaga y vinagre en tormento
+{RUB. Fen .xvij. de las passiones de la silia
+De las emorroydes q<ue> so<n> almorranas.}
+% De las emorroydas tres especies son
+la peor de las quales es la verrucal
+de humor melanconico es su emanacion
+la otra es de sangre mas mansa passion
+y por su color fue su nombre moral
+la tercia es vual de purpureo color
+compuesta de sangre y de melancolia
+y alguna hay que hizo flematico humor
+y a vezes traen fluxo do mana liquor
+y a vezes son sordas y tienen porfia
+{RUB. Dela cura.}
+Primero deueys el humor digerir
+y bedelias pildoras deue de vsar
+hazelde muy buen regimiento seguir
+y viendo ques bueno quererlas abrir
+sangrad la sofena o ban~ar y ablandar
+pero cosa estiptica deue aplicar
+si aquel fluxo es malo y se deue estren~ir
+y do no ay mas medio y las quiere cortar
+con hilo de seda las deue de atar
+y con diaquilon al dolor recurrir
+{RUB. Escusase porque no habla de las
+otras enfermedades deste miembro}
+% No quiero hablar de las otras passiones
+por no dar al metro y las coplas mas me<n>gua
+que son manifiestas en sus curaciones
+y esta es vna habla do abra reprensiones.
+tan suzios lugares tratar con la lengua
+por ende miraldas en nuestro auicenna
+estas seys o siete passiones q<ue> callo
+a do en estudiallas no abreys mucha pena
+porquel assi breues alli las ordena
+que mas breuedad neste estilo no hallo
+{RUB. Fen .xviij. de las passiones de los
+ren~ones y primero de la mala con-
+plexion y dolor y flaqueza dellos.}}
+[fol. 14r]
+{CB2.
+% Como otros padescen tanbien los ren~ones
+mala co<m>plexion y dolor y flaqueza
+todo esto o les viene porque ay soluciones
+o por calidad que ay en estas regiones
+y porque ay humor o apostema o dureza
+quando es de calor y sintiere amargura
+o sed en la boca y ardor nel lugar
+comer verdolaga y lechuga es su cura
+y vnguento violado o rosado procura
+que par los ren~ones es muy singular
+{RUB. Prosigue.}
+% y si es con materia y de sangre esta llena
+sangrad la del arca y sofena despues
+ayuda de leche de ouejas es buena
+si sebo de cabras con ella se ordena
+y azeyte rosado y despues purgares
+ruibarbo en la colora y c'umo de rosas
+en flema el agarico y el diaturbit
+agripa y dialtea son muy prouechosas
+en las causas frias. y en las otras cosas
+segun lo passado curad y seguid
+{RUB. De los apostemas de los ren~ones.}
+% Tanbien apostema les suele nascer
+en lo alto en lo baxo de dentro y de fuera
+por gran henchimiento y por no poder
+natura reglar el humor y espeler
+co<n>tropasse y hincha daquesta manera
+trae fiebre continua con pulso frequente
+dolor nel ren~on donde esta apostemado
+si es diestro. el dolor aza el higado siente
+y si es nel izquierdo. aza baxo es doliente
+es blanca la vrina quando a comenc'ado
+{RUB. Dela cura.}
+% En causa sanguina se deue sangrar
+la purga en la colora sea lenitiua
+deueys can~afistola en suero vaziar
+y dalla a beuer o a clisterizar
+quel rezio purgar en tal caso sesquiua
+y guarda al principio no des abridores
+por dentro y por fuera haras defension
+y si intolerables seran los dolores
+filonio y narcoticos son valedores
+madura. y despues le haz resolucion
+{RUB. Prosigue.}
+% Si fuere flematico el tal apostema
+no ay tanto dolor y ay muy gran cargamiento
+despues de digesta y purgada la flema
+emplastros calientes yo tengo por tema}
+{CB2.
+sy ay dentro laurel que haran co<m>plimiento
+y si es apostema esclirotico y duro
+este es malenconico y tiene graueza
+y secas las piernas como etico puro
+y muy poca vrina. el color tiene obscuro
+curad como al higado donde ay dureza
+{RUB. Delas vlceras de los ren~ones.}
+% Las vlceras nuestros ren~ones padecen
+de humores agudos o flema salobre
+o son de apostema del qual no guarec'en
+yan bien de rotura o de piedra recresc'en
+o de co<m>plexion do tal obra se obre
+veras que hecha pelos y podre en la vrina
+cortezas vermejas con escozimiento
+pero si son blancas cortezas se asigna
+ques en la vexiga la llaga maligna
+la cura se ordena por este c'imiento
+{RUB. Dela cura}
+% Donde es menester. comenc'ar por sangria
+y darle aguamiel para mundificar
+purgar reziamente gran dan~o haria
+vn vomito es bueno cada quarto dia
+y en fuertes dolores narcoticos dar
+almastiga encienso y desta manera
+y rosas y miel con azeyte rosada
+podran confortar y limpiar por de fuera
+tras esto secar y encarnar se requiera
+co<n> bolo y espodio en su leche azerada
+{RUB. De la piedra en los ren~ones y en la vexiga.}
+% La piedra se cria en ren~on y vexiga
+de gruessa materia y sobrada calor
+de apostemacio<n> podra ser que se siga
+o de alguna llaga la qual contradiga
+la fuerc'a espulsiua y atraya el humor
+el qual retenido en vexiga y ren~on
+y siendo terrestre muy gruesso y viscoso
+contropasse y hazese en el co<n>stricio<n>
+gastando calor lo subtil y en tal son
+se engendran las piedras y el poluo arenoso
+{RUB. De la cura}
+% De cibos grosseros se deue abstener
+como ansar y vaca y fruta inmadura
+y es muy prouechoso contino vn clister
+de yeruas comunes y en el disoluer
+de la gerapigra en la su coladura
+tras este cristeles mas fuertes do esten
+las yeruas que quiebran la piedra abridoras
+y emplastros que ablanden el can~o muy bien}
+{SG. c}
+[fol. 14v]
+{CB2.
+despues digestiuos y purga le den
+y son estas yeruas las quebrantadoras
+{RUB. De las medecinas que quebran-
+tan la piedra.}
+% Rayzes de costo y asensios y altea
+y la saxifragia y el pentafilon
+y la escolopendria y la yerua polea
+bedelio y el apio que montano sea
+casia y calamento y el escordeon
+rayzes de rubia rayz de laurel
+cardo y carpobalsamo y goma de selua
+simiente de rauano y rayz de athel
+perexil macedonico junto con el
+garuanc'o negrillo con estos senbuelua
+{RUB. Fen .xix. de las passiones de la vexig[a]
+y primero de la piedra en ella.}
+% Tanbien la vexiga padesce passiones
+como otro qualquiera de los officiales
+padesce apostemas y opilaciones
+y vlcera y piedra y ta<m>bien incisiones
+y sobra de humor co<m>plexiones no yguales
+la piedra en vexiga se cura en la suerte
+que auemos curado la piedra passada
+mas la medecina daquesta es mas fuerte
+por quanto es mas fria y el humor conuierte
+en mas dura piedra y muy mas congelada
+{RUB. De los apostemas calientes de la vexiga.}
+% Asi que padesce apostema caliente
+de colora mucha o materia sanguina
+el qual da dolor y da gran fiebre ardiente
+desque ayas sangrado pon repercuciente
+como olio rosado y azeyte vnfancina
+y algunas ayudas le da lenitiuas
+do este can~afistola y oleo violado
+y enbroca con cosas muy confortatiuas
+y repercusiuas y mitigatiuas
+narcoticos pon en dolor muy sobrado
+{RUB. Ulceras de la bexiga.}
+% La vlcera viene en aqueste lugar
+por todas las causas que viene al ren~on
+de alli sus sen~ales podras alcanc'ar
+de azedo y salado se deue guardar
+y con aguamiel haz mundificacion
+y porque deseque y consuelde se vsa
+trescisco alkekengi que puso rasis
+y blancos colirios do este miel inclusa
+sarcocola y plomo y opio y cerusa
+despues siringalle y con esto co<m>plis}
+{CB2.
+{RUB. Del ardor de la vrina}
+% A uezes co<n>tec'e en la vrina vn ardor
+como si vrinasen vna agua heruiendo
+porquen la vexiga esta muy gran calor
+o algun apostema o llaga o dolor
+de ser muy aguda la vrina en saliendo
+purgalle con cosa muy blanda y liuiana
+si vuiere enchimiento y despues sea sangrado
+si ay podre con cura de vlceras sana
+y es bien siringar cada tarde y man~ana
+con clara de hueuo y azeyte rosado
+{RUB. De la distilacion de la vrina o stranguria}
+% Tenerse la vrina se llama estranguria
+y esto es quando sale goteando y poquita
+sino sale nada llamamosla suria
+y si sale a rratos se llama disuria
+y es vna la cura en todas escrita
+aquesto procede de alguna frialdad
+o llaga o calor o de algun apostema
+questa en la vexiga o en su vezindad
+o esta en la virtud esta enfermedad
+o es por humores mayormente flema
+{RUB. Pone las sen~ales & la cura en la qual se
+co<m>prende el dolor y el podre y la sangre co<n>ge-
+lada que son tanbien passiones de la vexiga.}
+% Si es frio la causa en la vrina ay blancura
+y si es de calor la vrina es ardiente
+si es piedra/ o si es llaga apostema o infladura
+sus sen~as son dichas y aquellas procura
+si humor solo es causa en la vrina se siente
+si de spasmo es nel lacerto mouiente
+o si es apostema si es piedra si es llaga
+sus curas son dichas en lo precedente
+pero si dolor es la vrina inpidiente
+con algun narcotico el tal se deshaga
+{RUB. Prosigue}
+% Si es podre que opila y alli se entrepone
+co[n] vna siringa le mueuan de alli
+y si es humor gruesso oximel le dispone
+despues diaturbit en la purga se pone
+triaca y diureticos valen aqui
+si es sangre cuajada de arriba venida
+sangrar la dell arca y despues la sofena
+y estoruar el fluxo segura su vida
+pero si es verruga/ o es carne an~adida
+la molificante siringa es muy buena
+{RUB. Del inuoluntario salir de la
+vrina que se llama diamne}}
+[fol. 15r]
+{CB2.
+% Diamne es salirse la vrina sin grado
+y sin voluntad daquel que la echa
+porque aquel lacerto esta molificado
+o tiene gran frio o calor muy sobrado
+o porque dureza en las tripas es hecha
+si es por frialdad le dareys a beuer
+estipticos potos que sean calientes
+y algunos enplastros le deuen poner
+para confortar y hazer retener
+a aquellos lacertos que estan impotentes
+{RUB. Prosigue de la cura y de los
+que se vrinan en suen~o.}
+% Los kebulos mirabolanos tostados
+la mirra y olibano y clauos y rosas
+encienso arayhan corales colorados
+beuidos son buenos tanbien emplastrados
+metridato y triaca son muy buenas cosas
+y algunos veras vrinarse en la cama
+a nin~os pequen~os viene este destemple
+es muy ruin passion para estar con la dama
+no menos aquesta diamne se llama
+y su cura es desta y alli se contemple
+{RUB. De diabete.}
+% Diabetes es mucha y muy fuerte espulsio<n>
+de vrina que tal qual (qual) la beue la espele
+porque<n> los ren~ones ay calefacion
+tan grande que hazen aquella atraccion
+tanbien de frialdad y flaqueza ser suele
+de mucha calor las mas vezes se cria
+trosciscos de espodio son buenos para ella
+la sed se le mate con mucha agua fria
+y vntalde con populeon cada dia
+y emplastros estipticos valen en ella
+{RUB. Prosigue y pone de la multitud
+de la vrina capitulo}
+do entren me<m>brillos y verga pastor
+y farina de ordeo y azeyte rosado
+y acacia y balostia vinagre alcanfor
+y pa<m>panos verdes si estan en su flor
+y denle a beuer del xarope violado
+y si es fria causa con oleo nardino
+y azeyte castor los ren~ones le vntad
+y emplastros de encienso y cortezas de pino
+y con esta cura y por este camino
+a la multitud de la vrina curad
+{RUB. Del orinar de la sangre}
+% Por ser los ren~ones con mucha flaqueza
+contec'e orinarse la sangre en la orina}
+{CB2.
+o porque la sangre es de gran subtileza
+o porque en las venas ay mucha lleneza
+o viene por termino en fiebre malina
+por llaga apostema o por mie<m>bro rasgado
+o higado flaco que se manifieste
+despues que le tengas dos vezes sangrado
+de todo lo otro ya esta relatado
+en los otros metros primeros daqueste
+{RUB. Fen .xx. de las passiones de los genitiuos y
+mie<m>bros de la generacion y primero del po-
+co apetito y facultad dellos.}
+% Los mie<m>bros q<ue> e<n>ge<n>dra<n> por muy p<ri>ncipales
+se cuentan y son de muy gran beneficio
+tanbien estos siente<n> passiones y males
+el mas lastimero y peor de los quales
+es falta de coito y no vsar bien su officio
+la causa es nel mie<m>bro y la sangre frialdad
+que haze menguar apetito y esperma
+o calor que gasta la ventosidad
+por quien resuscita la sensualidad
+o algun mie<m>bro noble o vezino que enferma
+{RUB. Prosigue las causas y pone la cura.}
+% Como es el celebro o el corac'on
+de los quales vienen virtud y apetito
+o es porque entrellos ay opilacion
+por donde a los mie<m>bros de generacion
+no passa materia virtudes ni esprito
+si es este defecto por los superiores
+sus sen~as y curas ya estan sobre escritas
+y si es porque ay falta de sangre y humores
+la leche y los hueuos son restauradores
+el vino y el suen~o de las tardezitas
+{RUB. Prosigue}
+% Si es por frialdad de qualquiera manera
+metridato y triaca en ella se aprueua
+y el diasatirion en aquesto sesmera
+y si es de calores de la. dormidera
+sacad la simie<n>te y en vino la beua
+los peces salados anguilla y cecina
+despiertan a venus con puros engan~os
+mantienenla vinos de coca y medina
+paloma y perdiz codorniz y gallina
+y fresca mochacha de diez y seys an~os
+{RUB. De gomorrea.}
+% Gomorrea se dize quando vno padece
+salirse la esperma sin su voluntad
+de flaca virtud retentiua recresce
+o de la espulsiua que se enfortalesce}
+{SG. c ij}
+[fol. 15v]
+{CB2.
+a causa de humores o de calidad
+estrecha el comer en aqueste paciente
+y dale manjares que apoque<n> la esperma
+lentejas nenufar en causa caliente
+y en fria agnocasto euforbio y simiente
+de ruda y en cama muy dura se duerma
+{RUB. De priapismo}
+% Priapismo es contino la verga estar tiesta
+sin gana de coito su causa es ventosa
+la poca calor sera causa daquesta
+si mucha humidad estuuiere alli puesta
+acerca del mie<m>bro do viene tal cosa
+despues de sangrado la vena mediana
+mouerle algun vomito sobre comer
+y sobre el ren~on vna vncion es muy sana
+con populeon cada noche y man~ana
+y frios bebrages le den a beuer
+{RUB. De polucion}
+% ya suele<n> los hombres hazer polucion
+son~ando que se echan con qual que su amiga
+el suen~o del perro es aquesta passion
+que suen~an en otra la empren~acion
+y desque despiertos esta en su barriga
+las causas la sen~a la cura y el como
+daquesta y gomorrea todos es vno
+y deuesle a este poner sobrel lomo
+sino ay impidiente vna pla<n>cha de plomo
+y agua de lentejas le den en ayuno
+{RUB. De los aluminados}
+% Los aluminados padescen dolencia
+de ser putos y es muy absurda y muy ciega
+y desta en italia diz que ay pestilencia
+y en nuestras partidas si no ay resistencia
+en algunos buenos y honrados se pega
+aquestos desean de ver y palpar
+la suzia luxuria de otros o dellos
+y no pueden el su. deseo acabar
+sin otros encima deueislos curar
+con hambre y con frio ac'otallos pre<n>dellos
+{RUB. De los apostemas de los genitiuos}
+% Si viene apostema en los genitiuos
+conoscese como los antepassados
+si es calido sangra y pon repercusiuos
+como mucilages refrigeratiuos
+y vinagre y agua y azeyte rosados
+y purgue con mechas y ayuda el humor
+harina de hauas y miel le madure
+y el diaquilo<n> sera resoluedor}
+{CB2.
+y si es frio y no trae tanto dolor
+sin el defensiuo y sangria se cure
+{RUB. De la hernia y sus diuisiones}
+% En aquella tela sifac que se extiende
+y los intestinos y zirbo el circunda
+contesce rotura por do se desciende
+el zirbo y las tripas y todo ello pende
+hasta las vedijas do en hernia se funda
+por relaxacion daquellos dindinos
+do se hazen camisas alos genitales
+se baxan el zirbo y los intestinos
+do se haze otra hernia la qual trae signos
+y avn ay otras hernias que son humorales
+{RUB. Prosigue la diuision y pone la cura}
+% Ay otras aguosas por mucha humidad
+que se entra en la bolsa daquestos sen~ores
+mas otras se hazen de carnosidad
+ay otras rellenas de ventosidad
+y otras de venas muy gruessas de humores
+la hecha de relaxacion y rotura
+se cure con cosas muy consolidantes
+la momia y consuelda real por ventura
+son cosas probadas. y para la cura
+vn tirabraguero. le hagan en antes
+{RUB. Prosigue la cura}
+% De frutas ventosas como es auellana
+y del enchimiento se aparte contino
+y deue tomar cada tarde y man~ana
+del poluo molido de valeriana
+vna drama y media masado con vino
+y quando las tripas abaxo vinieren
+se deue primero amansar el dolor
+despues adrec'allas lo mas que pudieren
+y ponganle emplastros segun se requieren
+aquel que hizo el guido es buen consolador
+{RUB. Prosigue}
+% Mas otros las curan abriendo al pacie<n>te
+y cauterizandole como les plaze
+para esto se busque algun hombre prudente
+experto en ell arte y muy gran diligente
+y miren la hora en que aquesto se haze
+la hernia aguosa y tanbien la ventosa
+se curen haziendolas resolucion
+y purguenle desa materia humorosa
+asi como en la ydropesia carnosa
+y todo su fin sera desecacion
+{RUB. De las vlceras de la verga
+y los genitiuos.}}
+[fol. 16r]
+{CB2.
+Padesce la verga y los sus co<m>pan~ones
+postillas y vlceras dentro y de fuera
+curad vnas y otras como en los ren~ones
+y como en vexiga en sus vlceraciones
+resfriar y limpiar y secar se requiera
+poniendo al principio canforado vnguento
+despues el vnguento litargirio o verde
+llaualle con agua do este cozimiento
+daloes y tutia y los deste cuento
+y a qualquiera llaga secarse os acuerde
+{RUB. Dela s passiones de la madre. Fen .xxvj. y
+primero de la esterilidad y difficultad de en-
+pren~ar por culpa del esperma}
+% La causa de no poder enpren~ar
+la madre o el esperma lo abran causado
+por ser muy caliente no puede engendrar
+por humido o frio no puede cuajar
+por seco o por gruesso o por ser muy delgado
+por ser mal dispuesto marido o muger
+porquesta borracho o ques nin~o o ques viejo
+o no ay conueniencia en los dos para ser
+la generacion y podriase hazer
+de qualquiera dellos con otro parejo
+{RUB. De la esterilidad por culpa
+de la madre o matriz.}
+% A culpa la madre porque ay co<m>plexion
+o malos humores en ella metidos
+o porque ay defecto de su purgacion
+o porque no puede hazer atracion
+ni puede tener los simientes vnidos
+o tiene en los labios dureza o floxeza
+o esperma mas tarde q<ue>l ho<m>bre o mas presto
+o tiene apostema y muy poca limpieza
+o no esta bien puesta o padesce flaqueza
+o llaga o rotura o algo como esto
+{RUB. De la cura}
+% Si a culpa el esperma en el concebimiento
+ya es dado el remedio de restaurallo
+y si la madriz tiene tal nocumento
+padesce frialdad segun tu pensamiento
+con cosas calientes es bien remediallo
+xarab de rayzes xarab de cantueso
+haran digestion en la flemosidad
+geralogodion euacua lo gruesso
+y con tragectorio vn liquor muy espeso
+do este policaria y centaurea le echad
+{RUB. Prosigue}
+% y en el tragectorio o la mecha si vuiere}
+{CB2.
+poned coloquintida para purgar
+pero si calor o secura enpeciere
+la colora o sangre sacar se requiere
+con cosas templadas tras esto templar
+acacia/ ypoquistidos cuerno ceruino
+mezclados co<n> ambar do frio le enpece
+en secura almendras y grana de pino
+y en ventosidad diacimino fino
+y destos emplastros o cibo se adresce
+{RUB. Del regimiento de las pren~adas}
+% y deues regir la pren~ada muger
+con buenos manjares y muy lenitiuos
+ciruelas y caldo delante el comer
+y vino oloroso y muy bueno beuer
+huir los azedos y aperitiuos
+y huia el temor y la ira y tristura
+y aparte el correr y el saltar aza tras
+y sobre comer dale pera madura
+o algun buen me<m>brillo y en lugar de cura
+algun diamargarito<n> le daras
+{RUB. Regimiento para sacar las pa-
+ries o el aborto muerto}
+% La duen~a en el parto si parias no echa
+asi que dexo alla la secundina
+el estornudar para esto aprouecha
+y si esto no basta sacalda con mecha
+o co<n> sahumerio de ruda y sauina
+iten aristologia majar
+y con artemisa y sauina mestuerc'o
+y con hyel de vaca vna mecha mezclar
+podreys el infante abortiuo sacar
+y parias con esta poniendole esfuerc'o
+{RUB. De mola q<ue> llama el vulgo pren~ez de trasgo}
+% La mola es nel vie<n>tre vna gra<n>de hinchazo<n>
+que haze a la duen~a pensarse pren~ada
+por quanto en las tetas sintio replecion
+tan bien le a dexado la su purgacion
+y mueuese dentro la cosa engendrada
+la causa daquesto es que ay carne criada
+del mestruo femineo y su propia simiente
+o hazelo el mestruo y la sangre encerrada
+curarsa despues de purgada o sangrada
+como vn apostema muy duro eminente
+{RUB. De la difficultad y trabajo del parto}
+% Por ser la q<ue> pare gruessa o pequen~uela
+o porque el que nasce esta grande o mal puesto
+o por la madriz estar seca o estrechuela
+o por ser el tie<m>po que quema o que yela}
+{SG. c iij}
+[fol. 16v]
+{CB2.
+o la secundina es de duro co<m>puesto
+o porques muy simple y ruin la partera
+o por ser enfermos las miembros vezinos
+por todas las causas daquesta manera
+padesce mal parto y no es mucho que muera
+quien pare y con fuertes dolores continos
+{RUB. De la cura}
+por ende es muy bie<n> qua<n>do el parto es cercano
+regirla con caldos y blando manjar
+y entrar a las vezes en ban~o es muy sano
+tanbien recebir sahumerio liuiano
+y el vino oloroso no deue dexar
+y quando el dolor comenc'are acusar
+haz que vnte la vulua con oleos calie<n>tes
+y si es mujer gruessa mandarle estar
+de bruc'os pariendo y sera bien cortar
+a la secundina si dura la sientes
+{RUB. De la superfluidad de los mestruos
+o fluxo de sangre de la madre}
+% Uerna sangre luuia ques fluxo mestrual
+por sangre caliente y de mucha agudeza
+que rompe las venas o la madre es tal
+que tiene apostema o enchimiento humoral
+o sobra en calor o padesce flaqueza
+si esta con la sangre mixtura de humor
+conoscese desque tomada en vn pan~o
+que alli cada vno dexo su color
+y si es apostema trae fiebre y dolor
+y si es de calor manifiesto es su dan~o
+{RUB. Dela cura.}
+% Qua<n>do es de espulsio<n> natural o enchimie<n>to
+no deue cessar si flaqueza no viene
+si colora peca sacalle el cimiento
+con mirabolanos y los deste cuento
+si es llaga o apostema capitulo tiene
+la flebotomia do sangre abundare
+y alguna ventosa debaxo la teta
+es bueno el lla<n>ten do calor dominare
+estipticos pon do flaqueza dan~are
+y dale trosciscos de buena recebta
+{RUB. De las vlceras y de las
+ragadias de la madre.}
+% Ragadias y llagas a la madre viene<n>
+por todas las causas que<n> otras e puesto
+las mismas sen~ales y cura aqui tienen
+mas las medecinas daquesta conuienen
+ser secas no muelles y esto es manifiesto
+con pan~os muy limpios se limpien primero}
+{CB2.
+y lauen con c'umo de rosa o llanten
+y con aguamiel mundifiquen tercero
+alumbre las laue y deseque postrero
+y otros como esta y trosciscos le den
+{RUB. Del prurito y comezon y de la fistola de la
+madre y de la flaqueza y del dolor y del li-
+quor o sperma que corre della.}
+% Prurito en la madre ques comezon
+como el priapismo es curado se cura
+la fistola cura con desecacion
+si tiene flaqueza de su co<m>plexion
+templando y purgando se esfuerc'a y segura
+si tiene dolor sera causa del
+alguna passion de las dichas de suso
+que qualquiera que fuere curarlas con el
+si sale liquor de la madre cruel
+o esperma su cura en gomorrea se puso
+{RUB. De la retencion de los mestruos}
+% Retencion de mestros es enfermedad
+esto es la madriz no purgar como suele
+por su propio vicio o por su vezindad
+por quanto es nel higado alguna maldad
+que por sus sen~ales se muestre y reuele
+por opilacion en aquellos senderos
+por donde a la madre la tal sangre yua
+por ser poca sangre o humores grosseros
+a su purgacion no caminan ligeros
+por flaca expulsiua y muy gran retentiua
+{RUB. De la cura.}
+% Quando es de secura frialdad o calor
+el dan~o y lo muestran sus notas sen~ales
+o si es apostema si es llaga o tumor
+o si es poca sangre o si es mal humor
+ya sabes de suso curar estos males
+si es de opilacion o que esta endurescida
+curar con sahumerios y calefacientes
+y en desopilalle consiste su vida
+y tras la rodilla si ay sangre crescida
+se sangre segun los dotores presentes
+{RUB. Prosigue}
+% Las frias simientes do ay calefacion
+y algun aromatico en ellas enbuelto
+y grama y esparrago y pentafilon
+y vncion resumptiua do ay desecacion
+y los ban~os dulces y el suen~o le suelto
+oximiel esquilitico en flema propina
+y pildoras fetidas para purgalle
+con oleo de lilio de ruda y sauina}
+[fol. 17r]
+{CB2.
+le vnta el ombligo y la vulua y contina
+a dalle abridores y aromatizalle
+{RUB. De los dan~os en el sitio de la madre y prime-
+ro de clausura y de la precipitacio<n> de la madre}
+% Pero si la madre por carne an~adida
+por tela o por llaga padesce clausura
+y/ es questa cerrada y no tiene salida
+de su nascimiento o de nueuo venida
+abrirla con hierro es sola su cura
+mas si esta salida y precipitada
+lo qual auicena augmento llamo
+si a poco y es nin~a podra ser curada
+echandole ayudas despues fomentada
+con lana do c'umo de acacia se echo
+{RUB. Prosigue la cura y pone capi<tulo>.
+dela declinacion de la madre}
+% y emplastra el ombligo con nuez de cipres
+y clauos y almastiga encienso y lapdano
+y espica celtica y lignoaloes
+y algun aromatico a oler le dares
+asi como ambar y almizque muy sano
+pero si la madre se tuerce aza vn lado
+sangralle del otro si pujan las venas
+y si ay enchimiento sea clisterizado
+y con oleo de herua el lugar abla<n>dado
+despues la destuerc'an parteras muy buenas
+{RUB. De los apostemas de la madre.}
+% Postema en la madre si calido fuere
+de colora o sangre por cierto sera
+la vena dell arca y sofena si vuiere
+pecado la sangre sangrar se requiere
+si es colora vn minoratiuo le da
+y algun defensiuo le pon quando es nueuo
+de rosas balostias y psidia y llanten
+y dentro en la madre vn cristel yo le aprueuo
+de azeyte rosado y de clara de hueuo
+despues del estado resueluase bien
+{RUB. Prosigue la cura}
+% y con manc'anilla se haga maduro
+corona de rey y linaza y altea
+y yemas de hueuo vn emplastro haz puro
+mas si es apostema esclirotico y duro
+con oleos y enxundias abla<n>dado sea
+si fuere de flema despues de digesto
+le purga y ya sabes con que material
+de los defensiuos ya te es manifiesto
+ser malos en este mas yo te amonesto
+que luego resuelua y madure este tal
+{RUB. De la prefocacion de la madre}}
+{CB2.
+% La prefocacion es passion con quien viene
+la gota coral y desmayos mortales
+por quanto ell esperma y la sangre se tiene
+de dentro la madre y daquesto prouiene
+luego al corac'on y celebro estos males
+que asi retenido ell esperma y podrido
+se torna en ponc'on~a y enbia vapor
+do el celebro se encierra y se encoge a su nido
+y del corac'on ell esprito deuido
+no sale aza el cuerpo por este tenor
+{RUB. De la cura}
+% Curarse a si fuere de esperma retento
+y es virgen o biuda casando la enferma
+si quiere ser casta quite el pensamiento
+de hombres y guardese aquel regimiento
+questa en la gomorrea y euacue ell esperma
+si humores dan~ados aq<ue>llo causaren
+purgalles y mundificar su veneno
+pero si los mestruos no se purgaren
+y con su ponc'on~a tan rezio dan~aren
+ya sabes para esto buscar lo ques bueno
+{RUB. Prosigue la cura quanto a la
+presencia del paroxismo}
+% y en la hora q<ue> aq<ue>l paroxismo le vino
+y veys q<ue>l aliento detiene consigo
+metelle en la boca vnas sopas en vino
+y con altas vozes le llamen contino
+ventosas le pongan en baxo ell ombligo
+y ponganle olores agudos y horr(r)ibles
+dentro en las narizes y en baxo suaues
+y atenla con ligaciones terribles
+las manos y pies y seran conuenibles
+para este lugar fregaciones muy graues
+{RUB. Fen .xxij. de las passiones que vie-
+nen en las estremidades de los miem-
+bros y primero de la hernia}
+% Agora conuiene que reporte yo
+la fen veynte y dos y sus enfermedades
+adonde auicena hablar prometio
+de aq<ue>llas passiones que dios permitio
+los mie<m>bros tener en sus extremidades
+conuiene saber en los mie<m>bros de fuera
+por quanto hasta agora hablo en los de de<n>tro
+primera es rtotura o es hernia si quiera
+la qual nel sifac se a hecho en manera
+que tripas y zirbo salio de su centro
+{RUB. Del augmento del ombligo.}
+% y pues que e hablado ya en otro lugar
+daquesta passion cesara en la presente}
+[fol. 17v]
+{CB2.
+y quiero segun auicena hablar
+de otra passion que se suele causar
+y es quando el ombligo crescido se siente
+por agua o por viento que alli se a metido
+o son intestinos porque vuo rotura
+o sangre de venas que alli a ocurrido
+y en esta no ay cura y en lo otro es sabido
+que solo con hierro se haze su cura
+{RUB. De la gibosidad y corcoba de la espalda o
+pecho o de alguno de los lados}
+% Contesce hazerse la gibosidad
+por quatro razones en espalda o pecho
+que/ o es por cayda y herida o humidad
+o por apostema o por ventosidad
+y a uezes se haze el vn lado contrecho
+si es por humidad o se hyzo por viento
+primero purgar la materia procuro
+despues con estiptico emplastro le asiento
+la giba. y si fuere de apostemamiento
+curalle como vn apostema muy duro
+{RUB. De las varizes y elefancia.}
+% Uarizes son venas de piernas y pies
+hinchadas de sangre que no esta dan~ada
+que en fin arebientan y llagan despues
+si es en los pies mismos elefancia es
+que los haze gruessos con sangre sobrada
+quando es la elefancia maligna y llagada
+si el pie no se cortan otra cura no se
+si es malenconia o si es flema mezclada
+purgallas y el vomito es cosa appropiada
+despues aya emplastro estiptico el pie
+{RUB. Del dolor de la yjada y del
+dolor de la espalda.}
+% Dolor de la yjada y de espalda prouiene
+de frio o de viento o de muy cruda flema
+por coito o trabajo o por giba que tiene
+por flaca madriz o ren~ones le viene
+o porquel pulmon ya padesce apostema
+como en las junturas se curan aquestos
+y si es de otro mie<m>bro curalle primero
+las purgas y emplastros seran manifiestos
+y vsan ponelles quando es frio el destos
+estopas sahumadas de encienso y romero
+{RUB. De los dolores de las ju<n>turas
+como artetica sciatica &c.}
+% La ciragra y podagra artetica y scia
+y qualquier dolor de junturas ser puede
+de flema o de colora o melancolia}
+{CB2.
+o sangre o de ventosidad que se cria
+alli en la juntura do el dan~o procede
+o puede venir de mistion destos tales
+o de co<m>plexion sin materia o de here<n>cia
+tanbien de espulsion de los mas principales
+y junto con esto auer anchos canales
+por do los humores van sin resistencia
+{RUB. De las sen~ales que trae de
+qualquier humor que sea}
+% Si es sangre veras pulsacion nel dolor
+y rubio el lugar y ques hombre sanguino
+si es colora siente co<n>goza y ardor
+si es flema no muestra en el cuero color
+y ay poca calor y el dolor mas contino
+la melanconia el dolor a ocultado
+y el miembro enflaquesce pero si es ventosa
+el mie<m>bro estendido el dolor remudado
+mas hora le dan~a lo que a aprouechado
+y agora aprouecha do ay mezcla humorosa
+{RUB. De sus nombres y cura}
+% La ciragra es gota en las manos no mas
+la podagra en pies y todillos recresce
+y quando en ell anca dolores veras
+sciatica a esta passion llamaras
+artetica en todas junturas contesce
+y son apostemas en este lugar
+y como apostemas se curan do duelen
+si fueren de sangre se deuen sangrar
+de parte contraria y el mie<m>bro esforc'ar
+pero las mas vezes de flema ser suelen
+{RUB. Prosigue.}
+% La colora purguen segun auicena
+mas rezio primero y despues leuemente
+despues de purgado la vncion es muy buena
+despodio y acacia y memita y berbena
+viniendo el estado mezclar resoluiente
+si fueren de flema segun sus sen~ales
+hazer digestion en los primeros dias
+tras esto hermodatiles en estos males
+y pildoras dellos son muy especiales
+que purgan y esfuerc'an y estrecha<n> las vias
+{RUB. Prosigue}
+% En este no vale la repercusion
+ni menos sangria ni estupefactiuos
+despues de purgado hazelde vna vncion
+muy subtiliatiua y con calefacion
+despues del estado sus resolutiuos
+y asi en la melancolia curad}
+[fol. 18r]
+{CB2.
+la ventosidad resoluerla sabes
+y en fin destas cosas le cauterizad
+con sarja o ventosa el humor le chupad
+llagad porque purgue y soldalle despues
+{RUB. Fenesce el libro tercero de Auicena
+reportado por el dicho licenciado.
+Siguese el libro quarto
+Libro quarto Fen .j. de las fiebres. y pri-
+mero pone la diffinicion d<e> la fiebre}
+% La fiebre es estran~o calor que se enciende
+en el corac'on de do el cuerpo se embia
+mediante el esprito y la sangre desciende
+por venas y arterias y asi el cuerpo offende
+que sus naturales acciones desuia
+y nota: quel cuerpo tres cosas contiene
+la vna es los miembros y corporeydad
+la otra es aquel esprito que viene
+por pulsos y alientos y el alma sostiene
+la otra es humores y toda humidad
+{RUB. Pone la diuissio<n> de la fiebre proporciona-
+da a las partes q<ue>l cuerpo humano co<n>tiene}
+% y asi qualquier fiebre no puede hazer mal
+si no a estas tres partes do quiera que acierta
+si inflama el esprito efimera es tal
+si es en los humores se llama humoral
+si enciende los mie<m>bros es etica cierta
+de suerte quen fiebre tres generos son
+efimera y etica y fiebre de humor
+mas como el esprito es de co<m>posicion
+muy clara y delgada la su inflamacion
+es fiebre de vn dia y de poco temor
+{RUB. De las causas de la efimera fiebre}
+% Las causas daquesta si yo no m[ ]engan~o
+seran exteriores y calefacientes
+como es ayre abrigo o sol o es el ban~o
+o frio que encierra el calor ques estran~o
+o vino muy puro y manjares calientes
+el mucho trabajo la angustia y tristeza
+el mucho dormir el muy gran mouimiento
+velar o reyr o la mucha pereza
+la yra verguenc'a temor y flaqueza
+haran calentura y el gran pensamiento
+{RUB. De las causas de la efimera
+que estan dentro del cuerpo}
+% Tanbien hazen fiebre las disposiciones}
+{CB2.
+questan dentro el cuerpo como es hambre pura
+el gran enchimiento las euacuaciones
+hartura apostema y las opilaciones
+dolor y desmayo y en poros clausura
+todas estas causas haran calentura
+que enciende el esprito quando otro no puede
+la qual quando no es gouernada con cura
+en miembros o humores posada procura
+o quando estas causas son fuertes y exceden
+{RUB. De las sen~ales de la efimera}
+% Efimera es si el calor es liuiano
+y tiene buen pulso y digesta la horina
+y suda en la fin vn sudor de hombre sano
+y vino de sol o exercicio mundano
+o causa exterior. y apartase ayna
+la inflamacion no es aguda y crescida
+si viene dolor de cabec'a es pequen~o
+y a uezes la horina es vn poco ten~yda
+ite<n> con vn espeluzro es venida
+tal fiebre y con vn poquitico de suen~o.
+{RUB. Dela cura}
+% La cura sera quando fue de enchimiento
+vazialle con vomito o con vn clister
+si tiene azedia dar diacalamento
+si de frialdad el sudor fregamiento
+y vnciones calientes le deuen hazer
+si fue de otra causa de las que e nombrado
+la causa quitar y aplicar el contrario
+resfriar y templar co<n> xarope violado
+y frias vnciones detras del costado
+y en pecho y cabec'a y este es el sumario
+{RUB. Enxemplo quanto a la cura de la
+efimera por su contrario.}
+% y quiero poner vn exe<m>plo en tal via
+si viene esta fiebre de alguna tristura
+la cura en contrario es hazelle alegria
+y darle cordiales que coma aquel dia
+y con oleos frios hazelle la vntura
+segun esta cura y por esta manera
+sera todo lo otro so aquesto incluso
+pero si apostema o dolor la hiziera
+la cura es curalle la causa primera
+lo qual en los metros passados se puso
+{RUB. Capitulo de putredine que es el
+podrimiento de los humores}
+% Contesce al humor la putrefacion
+por malos manjares y do orden caresce
+o porque en el cuerpo ay opilacion}
+[fol. 18v]
+{CB2.
+que impide al humor hazer respiracion
+y asi aquel vapor retenido podresce
+y del humor putrido vn vapor emana
+que va al corac'on do la fiebre se afina
+y si es malenconico hazen quartana
+pero si es de colora haze terciana
+cotidiana de flema y de sangre contina
+{RUB. Prosigue}
+% y qualquiera destos humores o esta
+de dentro en las venas o esta fuera dellas
+si es dentro. la fiebre continua sera
+si/ es fuera. es la fiebre como es dicho ya
+y es doble o senzilla qualquiera daquellas
+la que no es continua sera interpolada
+y gasta el humor ya quando ella se apura
+pero la calor alli queda apegada
+en essa materia que esta incinerada
+y apan~an humor para mas calentura
+{RUB. Capitulo de la fiebre colerica y sus diuissio<n>es}
+% y pongo vn enxe<m>plo en la colora asi
+si su podricion es de venas remota
+terciana con huelga se engendra dalli
+es pura si colora sola esta aqui
+do ay mezcla de flema llamamosla nota
+si dentro en las venas es su podricion
+aflige contino sin dar huelga al hombre
+y si es en las venas cerca el corac'on
+a tal como aquesta llamamos causon
+si es lexos terciana continua es su nombre
+{RUB. De las sen~ales de q<u><<a>>lquier fiebre colerica.}
+% Comienc'a co<n> frio y con fuerte tenblor
+la horina es vermeja q<ue> tiende aza fuego
+excepto si ay mezcla dalgu<n> otro humor
+trae sed y dolor de cabec'a y furor
+sin suen~o con yra y con poco sosiego
+y quando es continua mayor calor siente
+de tres en tres dias y se manifiesta
+no en el causon porque esta mas presente
+cerca el corac'on. y qualquier acidente
+es muy mas furioso y mas fuerte que en esta
+{RUB. De la cura.}
+% Primero en los dias de la calentura
+no deues mouer ni el paciente comer
+y si esta terciana es de colora pura
+resfriar el humor y purgalle es su cura
+xarabe acetoso le den a beuer
+ablandenle el vientre cristeles liuianos
+y desque digesto el humor sea purgado}
+{CB2.
+con su can~afistola y mirabolanos
+ruibarbo y ta<n>bien tamarindios son sanos
+y si ay flema a bueltas turbit sea mezclado
+{RUB. Prosigue.}
+% La terciana nota se cura como esa
+segun ay de flema asi deues mezclar
+y en todas mirar si la orina esta gruessa
+y en dalles sangria sea entonces tu priessa
+pero en el causon ay peligro en sangrar
+aqueste y continua se deuen purgar
+sin mas aguardar los humores digestos
+y luego a la lengua resfriar y ablandar
+la espalda y cabec'a y el higado vntar
+con populeon sandalino y como estos
+{RUB. De la fiebre sanguina y sus diuisiones}
+% Penso galieno la sangre podrida
+conuertisse en colora su podrimiento
+que fiebre de sangre no la ay corrompida
+mas esta opinion por errada es auida
+no alcanc'o porque ni por qual fundamiento
+y ay fiebre sanguina de sangre ques buena
+mas es mucha y hi<n>che las venas do es puesta
+por donde natura en estar tan rellena
+se ahoga el calor y se inflama y da pena
+la otra es el sinocho y sinocha es esta
+{RUB. Prosigue en diuidir y pone las sen~ales}
+% Si augmastica es hasta el fin va creciendo
+por ser lo podrido mas que lo gastado
+y si es peraugmastica va descrec'iendo
+y si es homotena en vn ser procediendo
+con sus acidentes va hasta el estado
+tal fiebre es continua y proporcionada
+con rubias maxillas y aprieto de aliento
+las venas infladas la habla pesada
+el pulso muy lleno. y si es sangre dan~ada
+mas fuerte es su dan~o en calor y en cimiento
+{RUB. De la cura de la fiebre de sangre no corro<m>-
+pida q<ue> se llama sinocha. y de la corro<m>pida que
+se llama sinocho.}
+% La sinocha sangra de mediana vena
+hasta que desamaye segun los autores
+despues le resfria segun auicena
+con c'umo de azeda granada ques buena
+y auiendo flaqueza da confortadores
+despues con ayudas ablande natura
+do este can~afistola prunas y mana
+engruessa el humor si es subtil su figura
+si es gruesso adelgaza y al sinocho cura
+asi como a sinocha y como a terciana}
+[fol. 19r]
+{CB2.
+{RUB. De la flematica cotidiana.}
+% La fiebre de flema viene cada dia
+y desta ay continua y ay interpolada
+de quatro maneras de flema se cria
+y si es flema vitrea o azeda es mas fria
+y a uezes prouiene de dulce o salada
+en esta ay gran frio y pequen~o rigor
+no sed ni el ardor como en las sobrescritas
+flematicos gomitos poco sudor
+ruin digestion y bla<n>cazo el color
+si es gruessa o delgada asi an~ades o quitas
+{RUB. De las fiebres empialos y liparia.}
+% Ay del flema vitreo otra fiebre grosera
+que empialos segun dizen se llama
+que esfria de dentro y enciende de fuera
+por quanto al vapor que aca sale le altera
+primero el calor. y asi fuera se inflama
+mas ay otra fiebre que desta es contraria
+que fuera resfria y de dentro escalienta
+y diole auicena por nombre liparia
+adonde el calor a materia tan varia
+podresce y por esto se mete en su centro
+{RUB. De otra especie de fiebre flematica co<m>pue-
+sta de las dos sobredichas y de la fiebre diurna
+y noturna. y de la fiebre sincopal humorosa}
+% y ay otra fiebre daquestas co<m>puesta
+por quanto el humor en dos partes es puesto
+ay otra diurna y de dia viene esta
+noturna de noche su mal manifiesta
+ser ambas flematicas es manifiesto
+tanbien fiebre ay sincopal humorosa
+con quien quando viene desmaya el paciente
+por gran multitud de materia viscosa
+y estomago flaco y virtud muy astrosa
+y es muy peligrosa y peruersa y potente
+{RUB. Prosigue y pone otra fiebre
+que se llama sincopal minuta.}
+% Queriendo esforc'ar la virtud co<n> comer
+en esta tal fiebre acrescientas el dan~o
+queriendo el humor ponc'on~oso espeler
+desmaya y no puede virtud sostener
+asi que en qualquier de las dos ay engan~o
+y ay otra fiebre ta<m>bien sincopal
+minuta y aquesta de colora viene
+aquesta passada es mas replecional
+mas esta es mas fiera y aguda y mortal
+que quatro o tres dias de termino tiene
+{RUB. La cura de qualquier fiebre flematica}}
+{CB2.
+% Primero en natura haras lenicion
+a qualquier flematica fiebre que vieres
+y hazle de gomitos prouocacion
+subtilia el humor y haras incision
+y desque esto hecho le purga si quieres
+oximel diuretico es subtiliatiuo
+y la can~afistola es ablandador
+tras esto el diacartamo es su purgatiuo
+si es flaco ell estomago vn confortatiuo
+se mezcle en la purga y en el lamedor
+{RUB. Prosigue}
+% Mezclad con lo dicho si es flema salado
+de cosas que a colora tengan respecto
+si es flema acetoso o si es vidriado
+xarabe de asensios se mezcle al passado
+y con diaturbit diasene es perfecto
+y esfuerc'a el estomago con vn vnguento
+de almastiga ysopo y asensios y menta
+si es rubea la vrina con engrosamiento
+no es malo sangrar si le vees buen aliento
+triaca y trosciscos en fin son de cuenta
+{RUB. La cura de la sincopal humorosa y minuta}
+% Deues proceder a esta fiebre en su cura
+de purga subtil a vn poquito mas fuerte
+hazer fregaciones contino procura
+que atrayan abaxo el humor de la altura
+y si ay gran flaqueza el remedio es la muerte
+la ques sincopal y minuta llamada
+deueis confortar el estomago luego
+con su espodio y sandalos y agua rosada
+despues co<n>fortar la virtud derrocada
+dalle agua de frutos que te<m>ple aquel fuego
+{RUB. De quartana}
+% Quartana de humor malenconico viene
+y aqueste se haze de adustos humores
+si sangre es adusta la orina que tiene
+es rubea. y tras fiebres de sangre prouiene
+si es flema es mas fria y de menos sudores
+si es colora viene con frio y rigores
+el pulso aquexoso el paciente inportuno
+si es malenconia adusta. dolores
+padec'e en el bac'o y durezas mayores
+la orina indigesta y sudor no nenguno
+{RUB. De la cura}
+% Si es hecha de sa<n>gre y avn ay enchimie<n>to
+no dexes de dar al principio sangria
+con pollo y borrajas sea su regimiento
+ayudas xaropes haran linimento}
+[fol. 19v]
+{CB2.
+xarabe de epitimo haga la guja
+no euacues humor sin que sea digerido
+mas da can~afistola en minoratiuo
+con frio y con humido sea regido
+el higado y bac'o sera socorrido
+y a estomago pon algun confortatiuo
+{RUB. Prosigue.}
+% Y purguenle indios y epitimo en suero
+tanbien lapislazuli eleboro prieto
+y mira el humor de quien vino primero
+y aqueste sabido ternas tino entero
+en mezclar la purga si fueres discreto
+y ponle all estomago estomaticon
+al bac'o desopilatiuo el vnguente
+los vomitos hazen muy buena atraccion
+y de la ptisana se haga mencion
+triaca tras purga es muy excelente
+{RUB. De la etica}
+% ya sabes que la etica es fiebre raigada
+en los mismos miembros y el cuerpo deseca
+es etica en primera especie nombrada
+si es en la segunda humidad colocada
+que llaman rucio el qual ya se seca
+si toca en el cambio tercera humidad
+es etica dicha de especia segunda
+si seca la quarta glutinosidad
+es etica tercia y es enfermedad
+de quien sin remedio la muerte redunda
+{RUB. De sus sen~ales}
+% Dureza en el pulso te doy por sen~al
+y no ay tal calor como en sinocha ende
+y siempre en vn ser el calor es ygual
+mas quando a comido en qualquier tiempo es tal
+quel pulso le crec'e y la fiebre se estiende
+los de la segunda estan ya denegridos
+la orina vntuosa y con gran residencia
+nariz afilada y los ojos sumidos
+muy ruines quexadas cabellos crescidos
+y coruas las vn~as con gran impotencia
+{RUB. De la cura.}
+% Su cura se haze si bien lo as mirado
+con solo esfrialles y humedescer
+beuiendo acetoso y xarab violado
+teniendo su cama en lugar resfriado
+y vsar verdolaga y lechuga al comer
+y azeytes de salces y nenufarino
+y vnguento violado le hagan vnciones
+y con agua dulce se ban~e contino}
+{CB2.
+y vse la leche y cangrejo marino
+ptisana y muy frias las odoraciones
+{RUB. De la etica senectutis que
+se llama marasmo}
+% Marasmo aldubul es vna secura
+quel cuerpo se seca y en etica viene
+y aquesta consigo no trae calentura
+mas es frialdad y flaqueza en natura
+que no atrae sangre con que se mantiene
+la cura daquesta es con cosas calientes
+y humidas como es el vino y la leche
+en carnes y en yemas de hueuos ten mientes
+y ban~os y vnciones de calefacientes
+y el clisterizar y el fregar no deseche
+{RUB. De la fiebre pestilencial}
+% A uezes all ayre enpoc'on~a y podrec'e
+aquello que all agua y tanbien a la tierra
+no en quanto elemento tal dan~o padesce
+pero por mistion de vapores recresce
+de lagos o cuerpos matados en guerra
+tanbien esto viene de alguna influencia
+y co<n>stelacion de planeta dan~oso
+y asi a nuestros cuerpos que tienen potencia
+de pulso y aliento les da pestilencia
+aquel resolgar do ay vapor ponc'on~oso
+{RUB. De las sen~ales}
+% Si es seco o si es humido aqueste vapor
+tal es la passion que de alli se defiere
+segun que esta el cuerpo dispuesto en vigor
+o tiene flaqueza o segun el humor
+asi la ponc'on~a le hyere o no hyere
+la fiebre es mas fuerte de dentro que fuera
+ay muy grande acezo y el pecho crescido
+gran sed gran flaqueza congoxa muy fiera
+gran gomito hastio y sudor de manera
+que hiede. y a uezes el huelgo es podrido
+{RUB. De la cura}
+% Sa<n>gralle si es sa<n>gre mas si otro humor es
+purgar fuertemente sin mas digestion
+de salzes y rosas la casa enchires
+con agua y vinagre se riegue despues
+oler cosas frias para el corac'on
+y sobre la fruente abra enbrocacion
+de sandalos canfora y agua rosada
+socorrase luego con gran cibacion
+de cosas azedas do ay desecacion
+y beua acetoso y agua esfriada
+{RUB. De la preseruacion de la pestilencia.}}
+[fol. 20r]
+{CB2.
+y para que al cuerpo no enpesca este mal
+es bien preserualle primero que venga
+vsando triaca ques muy especial
+vsando vinagre y limon y otro tal
+y sienpre en su casa vnas pildoras tenga
+que hizo rasis que contienen tres cosas
+que aprueua auicena tomar cada dia
+adresce su ayre con muy olorosas
+como ambar y encienso y almizq<ue> y las rosas
+y sandalos murta y vinagre que esfria
+{RUB. De las viruelas y el saranpion}
+% Morbilo y variola en latino hablar
+es el sara<m>pion y viruelas aca
+de ayre corrupto se suelen causar
+tan bien por la sangre heruir y apartar
+la espuma quel mestruo nel vientre le da
+mas antes que vengan se vee nel dolor
+que carga detras y en nariz comezon
+puncion en los mie<m>bros nel suen~o temor
+dolor de cabec'a y bermejo el color
+ronqueza esperezos y fiebre y passion
+{RUB. De la cura}
+% Antes que se muestren le da vna sangria
+o jarsa y despues no. sino ay gran pujanc'a
+y agua de rayzes le da cada dia
+y c'umos azedos con mucha osadia
+guardarle del frio que encierra do alcanc'a
+y beua dell agua de apio o ceuada
+y coma de higos y pollo y los tales
+defiendele el ojo con agua rosada
+con canfora y croco y acacia mezclada
+abrirlas despues y curar las sen~ales
+{RUB. De la fiebre del apostema}
+% La fiebre a quien hizo apostema no sale
+de efimera o putrida o pestilencial
+de causas y sen~as hablar ya no cale
+y si es podrimento essa cura le vale
+que es dicha en la fiebre ques putredinal
+curando pero el apostema primero
+porques la rayz do la fiebre floresce
+la cura daqueste veras por entero
+segun sus especias en lo venidero
+no beua agua fria quien esto padesce
+{RUB. De las fiebres co<m>puestas}
+% En todas las fiebres que auemos no<m>brado
+de vnas con otras ay composicion
+y a uezes son dos de linaje apartado
+como etica a quien humoral se a juntado}
+{CB2.
+y a uezes entramas dun genero son
+como si se juntan terciana y sanguina
+o/ terciana doble o tres doble se haze
+o fiebre de huelga con fiebre contina
+terciana y quartana son desta dotrina
+tanbien cotidiana y terciana si os plaze
+{RUB. Del emitriteo y sus especies}
+% Pequen~a emitritea es si la cotidiana
+es dentro en las venas y terciana fuera
+y si es al reues emitritea es mediana
+si/ es fuera terciana y esta la quartana
+en venas metida emitritea es entera
+pero si terciana y flematica estan
+de fuera las venas siendo interpoladas
+de fiebre co<m>puesta su nombre le dan
+y aqui mas razones no se gastaran
+pues son todas estas ya especificadas
+{RUB. Fenesce la fen primera de fiebres
+Fen tercera d<e> los apostemas y primero po-
+ne la diffinicion de apostema & su diuision.}
+% Es el apostema hinchazon an~adida
+de humor o materia ventosa o aguosa
+questa en la substancia del mie<m>bro enbeuida
+la qual haze al mie<m>bro exceder su medida
+y contra natura se haze tal cosa
+y a uezes es bueno el humor do este viene
+y a uezes podrido y a uezes es puro
+y a uezes mezclado y aquel nombre tiene
+segun el humor que alli mas le sostiene
+y a uezes es muelle y a uezes es duro
+{RUB. De flemon}
+% Flemon apostema es sanguino y caliente
+su causa es de sangre auer gran enchimiento
+trae muy grande ardor y dolor muy potente
+y gran pulsacion y febril acidente
+si ay mezcla de colora ay mas sentimiento
+de parte contraria al principio sangrar
+despues de la misma do ay gran replecion
+si ay colora. luego se deue purgar
+y sus defensiuos deueis aplicar
+despues procuralle la maduracion
+{RUB. Prosigue la cura.}
+% Defiendase luego con verga pastor
+acacia y llanten. por sus c'umos lo digo
+despues all estado pon resoluedor
+harina de trigo y la yema es mejor
+y azeyte rosado mezclado consigo
+y quando la declinacion mas viniere}
+{SG. d}
+[fol. 20v]
+{CB2.
+mas rezios pornas los molificatiuos
+y en todo apostema que asi procediere
+a este tenor de curar te refiere
+y cura despues con sus desecatiuos
+{RUB. De erisipila y la diferencia del aflemon}
+% Erisipila es vn apostema causado
+de colora y es mas caliente y mas fuerte
+y muy mas bermejo quel antepasado
+quell otro es negrito verde y colorado
+mas hondo y de quien mas materia se vierte
+despues de purgado el humor abundante
+con su can~afistola y c'umo de rosas
+pornas defensiuos como es dicho de ante
+y desque mostrare el color denigrante
+pon molficantes y coma frias cosas
+{RUB. De formica}
+% Formica en el cuero es centella muy biua
+y es mas que erisipila agudo apostema
+della ay corrosiua y no corrosiua
+y qualquiera dellas es ambulatiua
+ay otra miliar donde ay mezcla de flema
+pues que esta es de colora y la antepassada
+por su misma forma de cura os seguid
+mas no humedescais la que fuere vlcerada
+y quando la colora fuere purgada
+mezclad en formica miliar del turbid
+{RUB. De la pruna y huego p<er>sico}
+% El persico huego y la pruna o carbon
+de colora son venenosa y mas gruessa
+la qual roe y quema con vexigacion
+y el mie<m>bro ennegresce con su conbustion
+la pruna y muy poca humidad ay en esa
+su cura es sangralle y quando es muy malina
+hasta que desmaye le sangra auicena
+y como a erisipila hazer determina
+mas no sea tan fria qualquier medecina
+ni estiptica tanto ni humeda es buena
+{RUB. De esere}
+% El esere es pustula y chica centella
+y es con comezon y algo rubia esta tal
+y vienen angustias de noche con ella
+la que no es tan rubia sera causa della
+el flema y la otra sera sanguinal
+si fuere de sangre despues de sangrado
+templando la colora deues purgar
+sera ell apostema d<e>spues resfriado
+pero si procede de flema salado
+turbit con los mirabolanos mezclar}
+{CB2.
+{RUB. De estiomeno y ascachilos y can-
+crena y la differencia entrellos}
+% Herpestiomeno ascachillos cancrena
+son putrefaciones nel mie<m>bro por cierto
+cancrena comenc'a segun auicena
+pero en ascachilos es hecha ya llena
+la putrefacion co<n> q<ue> el mie<m>bro es ya muerto
+herpestiomeno es daquestas co<m>puesta
+do es hecha y se haze la putrefacion
+y es muy mas delgada la colora desta
+el senso y calor se destruie con esta
+y hiede y destruie el color y facion
+{RUB. De cura y de carbunculo.}
+% Quando es ya la putrefacion comenc'ada
+y vees podrescerse la carne y roer
+co<n> bolo y vinagre y tierra sigilada
+sestorua. y sino sea la llaga jarsada
+tras esto impedille de mas podrescer
+carbunculo es vn apostema y tumor
+de sangre muy gruessa dan~ada y maligna
+es rubeo y negrillo en mezclada color
+que da intolerable y terrible dolor
+y haze vexiga royente y danin~a
+{RUB. De antrax q<ue> auicena llamo alchoboin}
+% El alchoboin o el antrax ta<n>bien es
+carbunculo sino ques mas ponc'on~oso
+de su misma parte sangrarle deues
+si es pestilencial el tiempo. y despues
+purgar si ay virtud el humor ta<n> dan~oso
+y hazle al principio vna infrigidacion
+de espongia mojada en su agua y aceto
+como en pestilencia sea su cibacion
+mas no rep<er>cutas si fue de expulsion
+de algu<n> mie<m>bro noble/ o es d<e> humor muy i<n>feto
+{RUB. De los apostemas en los mie<m>bros glando-
+sos asi como encordio y de las exituras.}
+% En mie<m>bro glandoso apostemas nociuos
+como ingre y sobaco podran contescer
+en estos no pongas los repercusiuos
+mas pon/ al principio molificatiuos
+despues de euacuado. y despues resoluer
+sabeis a quien llama auicena exitura
+a aquel apostema do ay concauidad
+do apan~a materia que viene a madura
+do es para curar necessario abertura
+y destos en el libro quarto estudiad
+{RUB. De vdimia}
+% Udimia o la zimia es vn blanco apostema}
+[fol. 21r]
+{CB2.
+ques humido y blando y no haze dolor
+es hecho de ventosidad o de flema
+primero en purgalle comienc'e tu tema
+despues de digesto el flematico humor
+la repercusion que al principio hizieres
+sea junta con cosa que seque y resuelua
+asi como espongia en vinagre si quieres
+o el diaquilon y tras esto si vieres
+que ay disposicion se madure o disuelua
+{RUB. De nodo y de glandula y de scro-
+fula y sus differencias.}
+% El nodo y la glandula ques el lobino
+son hechos de flema ya dura y contrita
+la cura al principio es fregallos contino
+romper aquel cuero do estan con buen tino
+tras esto sacallos con su pielezita
+del nodo la escrofula se diferec'e
+quel nodo se mueue la escrofula no
+la qual muchas vezes nel cuello paresce
+y como estas otras de flema recresce
+si no que en aquesta mas se endurescio
+{RUB. De la cura de la escrofula.}
+% En su regimiento le ordena primero
+de todo flematico cibo esquiuando
+como agua y legumbres y pato y cordero
+y desque digesto el humor por entero
+purgar con turbit y do ay sangre sangrando
+ite<n> la escrofula molificar
+tanbien resoluer con algun appropiado
+es el diaquilon a esto tal singular
+pero si quisierdes mas fuerte emplastrar
+el guido o auicena os dara buen recado
+{RUB. De sclirosis q<ue> auicena llama sephiros}
+% Sclirosis es vn apostema muy duro
+que no haze dolor su color es plomada
+esto es quando es male<n>conico puro
+si ay mezcla de flema el color no es obscuro
+mas como el d<e>l cuerpo y su cura es mezclada
+despues de purgado pornas medecina
+que ablande y resuelua el humor tan maligno
+asi como enxundias de garc'a o gallina
+can~ada de cieruo y tanbien vitulina
+bedelio y el galuano y el serapino
+{RUB. De cancer}
+% El canc'er es vn apostema causado
+de colora adusta o de melanconia
+con quien el colerico humor se a mezclado
+en este ay dureza y dolor muy sobrado}
+{CB2.
+es negro y redondo y extiendese y cria
+ay otro vlcerado que fue de adustion
+de sangre y de colora el qual es calloso
+y duros los labios con denigracion
+este es mas difficile en su curacion
+y mas si emano del que no es vlceroso
+{RUB. De la cura}
+% Primero se deue sangrar la mediana
+si sangre abundare. y despues tomara
+de epitimo en cada quarta man~ana
+media onc'a con suero y do ay virtud sana
+la gera de eleboro mas obrara
+y al cancer que no es vlcerado pornes
+vnguento que llaman diapanphilogos
+y al ques vlcerado deueis socorrer
+cortandole el mie<m>bro a mas no poder
+y dexen salir harta sangre por dios
+{RUB. De la vena/ medeni y de
+los apostemas ventosos}
+% La vena medeni es vna pustilla
+que haze vexiga en el cuero la qual
+contiene vna cosa bermeja y negrilla
+que anda so el cuero asi como anguilla
+y algunos dixeronla ser animal
+pues nestas partidas aquesta no/ viene
+y dize galieno que nunca la vio
+por esso no escriuo la cura que tiene
+pero si apostema ventoso prouiene
+la cura de vdimia le haria yo
+{RUB. De lepra.}
+% La lepra es passion muy maldita y dan~ada
+de colora adusta o de melancolia
+la qual por los mie<m>bros esta derramada
+y no podrescida mas es conculcada
+y asi les podresce y corrompe y resfria
+la qual haze luego bermejo el color
+que tiende aza negro y la voz enronquec'e
+hiedele el cuerpo y aliento y sudor
+y siente en el suen~o tristeza y temor
+su pelo y cabello se pela y peresc'e
+{RUB. Dela cura.}
+% Si esta confirmada no puede curarse
+y si es vlcerada sanarse no espere
+y si es la principio conuiene sangrarse
+despues la materia podra adelgazarse
+con algun xarab de bisanc'is si vuiere
+y purgue despues con gera logodion
+o eleboro negro y lapide armeno}
+{SG. d ij}
+[fol. 21v]
+{CB2.
+epitimo kebulos teodoricon
+echados en pildoras o en decocion
+segun auicena y segun galieno
+{RUB. Prosigue la cura}
+% Asi que se purgue vna vez en el mes
+y antes que coma que haga exercicio
+y con oleos humidos se vnte despues
+tambien con triaca a este tal fregares
+y biuora coma ques gran beneficio
+mas preparada segun los autores
+y el oleo daquesta valdra para vntar
+iten los ban~os le son valedores
+la leche y manjares humedecedores
+no frios ni calidos deue de vsar
+{RUB. Fen .iiij. de la solucion del continuo conuie-
+ne saber de qualquier rotura o abertura y lla-
+ga en qualquier mie<m>bro. y primero habla del
+vulno y de la differencia entrel y vlcera}
+% El vulno de vlcera es diferente
+q<ue>l vulno es nel mie<m>bro reciente abertura
+q<ue> avn no apan~a podre ni humor impidiente
+la vlcera es llaga do ya esta presente
+el podre o humor de corrupta natura
+el vulno en tomalle la sangre es su cura
+despues que salio quantidad necessaria
+y si es menester & desangralle procura
+si el caso lo quiere hazerle as costura
+despues defensiuo es la cura ordinaria
+{RUB. Remite lo que queda de la cura}
+% y quiero dexar lo de los cyrujanos
+pues no an menester en su officio sumario
+mayormente en esto do ay obra de manos
+que solo en costumbre si no son liuianos
+consiste su sciencia y esta su inuentario
+y pues que las vulneras an de venir
+a vlceras luego alli miraras
+aquello que al caso se deue sentir
+por do al libro tercio deueis recurrir
+tanbien adelante vereis algo mas
+{RUB. De cayda o porrada entretalla-
+dura y machucamiento de carne}
+% Si alguno a caydo o que fue aporreado
+o fue entre tallado o su carne majada
+de parte contraria sea luego sangrado
+y con leue ayuda sea clisterizado
+despues se resuelua la sangre cuajada
+el ban~o y sudor y calientes vnciones
+valdran para el caso y do aq<ue>stos no bastan}
+{CB2.
+ponelle ventosas y excalpelaciones
+y si ay sangre muerta en profundas regiones
+socrocios y emplastros la traen y gastan
+{RUB. De la quemadura con agua o fuego}
+% y qua<n>do algu<n> mie<m>bro es q<ue>mado con fuego
+o agua heruiendo a caydo sobrel
+con lodo muy frio le resfrien luego
+llanten boloarmeno haran gran sosiego
+y poluo de sandalos junto con el
+si a hecho vexiga sea luego rompida
+y con fria cosa se cure la llaga
+la clara de hueuo es en esto es cogida
+y el vnguento blanco con tal que se pida
+del ques canforado y mandar que se haga
+{RUB. De fluxo de sangre}
+% El fluxo de sangre de arteria o de vena
+sus causas son dichas nel libro tercero
+si es fluxo arterial sale sangre muy buena
+con salto y purpurea segun auicena
+si es fluxo venal sale humor mas grossero
+a parte contraria le haz llamamie<n>to
+con chicas sangrias y algunas ventosas
+y sobre la llaga pon restren~imiento
+con poluos de murta y haz encarnamiento
+y en fluxo de nares veras otras cosas
+{RUB. De las vlceras}
+% La vlcera es hecha de vulno y rutura
+o de solucion de la continudad
+o de alguna pustula o rota exitura
+do aquel nutrimiento que enbia natura
+conuiertese en podre y superfluidad
+pon en todas vlceras desecatiuos
+sino donde ay sangre majada y atrita
+vsar do ay humores sus euacatiuos
+y/ sangra do ay sangre y sean tus motiuos
+en mundificar la materia maldita
+{RUB. Prosigue la cura}
+% Fomenta la llaga si muy dura esta
+con agua caliente hasta enbermejecella
+vnguento do yema y almastiga va
+con plomo quemado mundificara
+balostias y alumbre con cera o sin ella
+y si es llaga sordida do ay gruesso humor
+los mundificantes se pongan mas fuertes
+la miel c'umo de apio y los deste tenor
+y quando se limpia y se haze mejor
+en desecatiuos tu cura conuiertes
+{RUB. Fen .v. de restauracion y hablo +}}
+[fol. 22r]
+{CB2.
+{RUB. de dislocacion y quebradura.}
+% La dislocacion es desencasarse
+el hueso de su situacion natural
+conuiene co<n> agua caliente enbrocarse
+despues adrec'arse y con pan~o ligarse
+y mojese en claras de hueuo este tal
+pero si algun hueso estuuiere quebrado
+como es la can~illa adiutorio y mun~eca
+despues que a su propio lugar es tornado
+primero se entable despues sea ligado
+y pon defensiuos segun lumor peca
+{RUB. Fen .vj. de los venenos y ponc'on~as.}
+% Qualquiera ponc'on~a co<n>traria y maligna
+o haze aquel dan~o con su calidad
+asi como arsenico y liebre marina
+o sin calidad ala muerte camina
+como es el napelo con su propiedad
+aquel que ponc'on~a a tomado o beuido
+el siente vn sabor y vn olor aborrible
+congoxas y arcadas y el color perdido
+si es fria ponc'on~a esta todo adormido
+con gran frialdad perezoso immouible
+{RUB. Prosigue las sen~ales y pone la cura}
+% Gran sed gran co<n>goxa gra<n> fiebre y ardor
+y rabia terna si ponc'on~a es caliente
+do no siente dan~o de frio o calor
+mas tiene desmayo flaqueza y sudor
+es porque con su propiedad le atormente
+con agua caliente y azeyte qualquiera
+hazed reuersar al que tiene el veneno
+si el vientre de baxo del dan~o se altera
+echalde vna ayuda en qualquiera manera
+despues metridato beuido es muy bueno
+{RUB. Prosigue la cura}
+% Y si la ponc'on~a se siente quemar
+gran golpe de leche le den a beuer
+y agua esfriada le deuen de dar
+con sandalo y canfora el vientre emplastrar
+trosciscos de rosas le hagan comer
+si es frio el veneno tras lo vniuersal
+le den a comer muchos ajos y vino
+si con propiedad a causado este mal
+triaca para esto es muy especial
+y con sus cordiales le esfuerc'a contino
+{RUB. De la ponc'on~a del/ perro rabioso o otro
+qualquier animal de aquella manera}
+% Si algun animal enponc'on~a y estraga}
+{CB2.
+o perro rabioso asi le curad
+dexar harta sangre salir de la llaga
+si fuere pequen~a mas grande se haga
+y todas sangrias y purga dexad
+metridato y triaca en bebrajo le dad
+la llaga emplastrad desque bien desangrada
+con ajo y cebollas y desque en verdad
+es dentro el veneno dalla le sacad
+con purgas y asi como a la antepassada
+{RUB. Prosigue.}
+% Y en dias quarenta no hagays soldacio<n>
+de la dicha llaga y ligad fuertemente
+en medio daquesta y del corac'on
+y en vn an~o todo le dad su racion
+de algu<n> bezariaco o triaca potente
+y de otras ponc'on~as no quiero hablar
+que con los que saben bastar deue aquesto
+y si algun dan~ado y peruerso vulgar
+con armas como estas quisiere matar
+no quiero hazergelo aqui manifiesto
+{RUB. Fen .vij. de decoracion que es de la medeci-
+na que toca en la hermosura y belleza}
+{RUB. De la generacion del cabello
+y de la depilacion del}
+% ya nasce el cabello de vn vapor fumoso
+cuajado en los poros y nasce sobrellos
+y aquel vapor sube de vn cuerpo vntuoso
+y humido en nuestro alimento y viscoso
+esta es la materia de todos cabellos
+y pelanse a causa de poco vapor
+o poca humidad de quien este se cria
+o falta el vapor porque falta el calor
+o el poro es cerrado o se haze menor
+asi quel cabello no halla su via
+{RUB. De alopicia y tin~a.}
+% Mas el deraygarse se llama alopicia
+porque a su rayz van corruptos humores
+que con su maldad se destronca y desquicia
+y qualquiera humor mostrara su malicia
+nel cuero que alli dexaran sus colores
+euacua el humor o la sangre que sobra
+si es nueua alopicia hazle vn lauatorio
+de murta y de yedra que en esto mucho obra
+y con linimento el cabello se cobra
+co<m>puesto segun el humor acessorio
+{RUB. Para mudar el cabello de la forma q<ue> q<ue>siere<n>}
+% El negro hiusquiamo le estorua el nascer
+y el opio y la rana si quieres pelallo}
+{SG. d iij}
+[fol. 22v]
+{CB2.
+y si lo quisieres mas crespo hazer
+haz feno y agallas y mirra cozer
+con oleos y enxundias podras allanallo
+pero si quisieres tardar la caneza
+no cesses purgar la humidad y la flema
+acacia y agallas y espica y corteza
+de nuez y lapdano haran sin pereza
+mancebo el cabello y avn puesto de tema
+{RUB. Lexia para enrubiar el cabello y de
+vna enfermedad que se llama furfur}
+% Ceniza de len~a y sarmiento en lexia
+cantueso cetrino y la hyez y ac'afran
+y mirra entremuzes. todo esto algun dia
+echado en ell agua por cierto/ haria
+a qualquier cabello enrubiar sin afan
+es furfur. saluado y es vna passion
+que se haze en el cuero y es que se leuanta
+la cura daquesta tal escoriacion
+es con mucilages hazer lenicion
+y azeyte de almendras es cosa muy/ santa
+{RUB. Para hazer el gesto hermoso y quitar
+los hoyos de las viruelas y las pecas}
+% Quien quiere hazer a su gesto hermoso
+costrin~a la sangre que venga aza el
+con vino y manjar muy subtil y sabroso
+el higo para esto es muy marauilloso
+y ell agua de datil y cibos con miel
+y si de viruelas ay hoyos nel gesto
+vntalde con queso y con miel y con sal
+y vnguento cetrino es muy bueno para esto
+si pecas o pan~o en el rostro esta puesto
+colirio de mirra aprouecha a este mal
+{RUB. De morfea y albaras.}
+% La blanca morfea es de flema salado
+de humor melanconico adusto es la prieta
+son manchas nel cuero que le an afeado
+pero solo al cuero el color an mudado
+dexando la carne debaxo perfeta
+muy blanca es la mancha que haze albaras
+que en cuero y en carne da su turpitud
+por peor que las otras a aquesta ternas
+quando estas vinieren gran falta diras
+questa en el asimilatiua virtud
+{RUB. De la cura}
+% En negro albaras y la negra morfea
+si sangre abundare se deue sangrar
+despues muy purgado el adusto humor sea
+y epitimar do la mancha se vea
+lechetrezna y cebolla haran vexigar}
+{CB2.
+pero en la ques blanca la sangre este queda
+y purguese dese flematico humor
+el gomito sobre comer se conceda
+la sangre azal cuero traer si ser pueda
+con ban~os y vnciones que hagan dolor
+{RUB. De sahafati}
+% El sahafati es botor y postillas
+quen rostro y cabec'a mas suelen venir
+son rubeas c'umosas y a uezes sequillas
+comienc'an muy chicas con vnas puntillas
+las nuncias de lepra se suelen dezir
+las humidas vienen de aguda humidad
+mala y corrosiua con sangre mezclada
+gasto lo subtil quedo viscosidad
+las secas de melanconia en verdad
+se hazen o colora en sangre juntada
+{RUB. De la cura.}
+% Sangria es primera do sangre cresciere
+y do ay humidad sea purgada despues
+tanbien la postilla fregar se requiere
+con sal y vinagre. pero a la que fuere
+antigua mas fuertes vnciones hares
+mas en la ques seca despues que purgues
+la melancolia. y la sangre aliuiare
+muy rezio aquel sahafati fregares
+hasta que se sangre y despues lauarlo es
+con sal y vinagre y es bien si sudare
+{RUB. De los empeines.}
+% Empeyne es del sahafati co<m>pan~ero
+que casi vna causa es la da<m>bos y cura
+mezclada humidad con humor muy grossero
+y esta es corrosiua que rompe aza el cuero
+y aquesta se gasta y lo gruesso alli tura
+aqui es menester en materia tan gruessa
+cortar subtiliar resoluer y ablandar
+por quanto se mezcla subtil con espesa
+la goma de pino y vinagre en aquesa
+es muy buena vncion con espuma de mar
+{RUB. De la sarna q<ue> se llama scabies. y del prurito}
+% La sarna se engendra de sangre delgada
+mezclada con colora y melanconia
+y esta es sarna seca. y materia ingrossada
+ay otra con mezcla de flema salada
+y es humida sarna do podre se cria
+y destos humores es la comezon
+sino quanto son mas subtiles y menos
+y asi no hazen sarna ni escoriacion
+mas entre dos cueros hazen su mansion
+y este es parayso de los sarracenos}
+[fol. 23r]
+{CB2.
+{RUB. De la cura.}
+% Deueis de sangrar si el humor es sanguino
+y purgue el humor salado y adusto
+epitimo y mirabolano cetrino
+son buenos y denle a beuer de contino
+en suero aloes si fuere hombre robusto
+y purgue<n>le pildoras de fumoterre
+y desque bien limpio le hagan vnguento
+despues nalgun ban~o de yeruas se encierre
+y guardese que con mugeres no yerre
+y mire la orden de su regimiento
+{RUB. De la desudacion y de planta noctis}
+% La desudacion es espeso sudor
+que bien no se limpia y avn sarna paresce
+si fuere muy mucho sangrarle es mejor
+tras esto purgar la agudeza de humor
+despues con ban~arse y fregarse guaresce
+es la planta noctis vna comezon
+que viene en la noche con vna aspereza
+por ser fria la noche haze opilacion
+y asi en los vapores ay tal retencion
+la cura es como en la passada se reza
+{RUB. De las verrugas y de las
+hendeduras del cuero}
+% Uerrugas se hazen de sangre muy gruessa
+o melanconia con flema muy dura
+primero si ay sangre en sangrarle dad priessa
+despues euacuar la humidad tan espesa
+despues con amargos vntalle es la cura
+si el cuero se hiende y padesce fisura
+despues de purgado el humor que lo haze
+de enxu<n>dias y azeytes se haga blandura
+y si es frio vnciones calientes procura
+y el ban~o caliente si es dulce me aplaze
+{RUB. Del hedor de los sobacos
+y pies y de los piojos}
+% Si vuiere hedor en sobacos y en pies
+la cura es andar limpiamente vestido
+con murta y alumbre se laue despues
+y cosa olorosa a comer le dares
+como es casialignea y espica molido
+los piojos se crian du<n> humor podrido
+al qual la natura asi pudo adrec'ar
+que pudo de anima ser influido
+por ser subtiliado y ser concalescido
+como el precedente se puede curar
+{RUB. Del panarizo y apostemas de las vn~as}
+% Es el panarizo apostema caliente}
+{CB2.
+que trae a la vn~a dolor y congoxa
+si el cuerpo esta lleno euacuarse consiente
+y ponganle luego algun repercuciente
+llanten siempreviua el dolor mucho afloxa
+balostias y psidia y ac'ucar rosado
+se ponga al principio por repercusiuo
+en todo lo otro ya estas informado
+como es la erisipila o flemon curado
+que ya soy prolixo en lo mas que ora escriuo
+{RUB. {IN3.} DEl licenciado de villalo-
+bos. sobre las contagiosas y maldi-
+tas bubas. estoria y medecina}
+% Quando los principes muy poderosos
+muy quistos muy juntos y amados daquel
+que quiso que fuessen asi vitoriosos
+tan sabios tan fuertes y tan gloriosos
+los reys don fernando y don~a ysabel
+tenian su fama muy bien derramada
+por el vniuerso do ay hombres y leyes
+y toda soberuia tirana domada
+y toda su tierra con paz gouernada
+destruidos tiranos vasallos y reyes
+% En tiempo que estauan en gloria excellente
+en quien permanezcan aca y avn alla
+muy buenos con dios y muy bien co<n> la gente
+con mucha grandeza en el mundo presente
+con mas esperanc'a en aquel de aculla
+estando en madrid en aquella sazon
+por nueuos pecados de quien hablaremos
+prouino de dios general maldicion
+por toda prouincia y por toda nascion
+que nos alcanc'amos y nos conoscemos
+% Fue vna pestilencia no vista jamas
+en metro ni en prosa ni en sciencia ni estoria
+muy mala y peruersa y cruel sin co<m>pas
+muy contagiosa y muy suzia en demas
+muy braua y con quien no se alcanc'a vitoria
+la qual haze al hombre indispuesto y gibado
+la qual en mancar y doler tiene extremos
+la qual escuresce el color aclarado
+es muy gran vellaca y asi a comenc'ado
+por el mas vellaco lugar que tenemos}
+{SG. d iiij}
+[fol. 23v]
+{CB2.
+{RUB. Pone la opinion de los teologos cer-
+ca del aduenimiento deste mal}
+% Diran los teologos queste mal vino
+por nueuos pecados de las cristiandades
+o gran prouidencia o juyzio diuino
+que tan propia pena executas contino
+segun el camino de nuestras maldades
+que vista la cisma y la gran disension
+de tus propios hijos y tus paniaguados
+do yglesia y seglares con pura opinion
+de apitonamiento sin otra razon
+son puestos en armas tan desordenados
+{RUB. Habla en persona de dios}
+% Dexiste pues vos no quereis pelear
+contra infieles porques mi seruicio
+y aquellas potencias que yo os quise dar
+quereislas illicitamente vsurpar
+stirpando la yglesia y dan~ando su officio
+el angel os quiero enbiar percuciente
+quen estas potencias os manque. y os hiera
+que brac'o ni pierna ni miembro mouiente
+os dexe que en armas no sea impotente
+con crudos dolores de mala manera
+{RUB. Responde a vna duda que
+a lo dicho podria hazerse}
+% Y en ver los caudillos que mas an peccado
+daqueste mal saluos. no dudbdes en esto
+que ya desquel angel se va desmandado
+no mira ni cura quien es mas culpado
+mas hiere al que halla y conosce dispuesto
+que quando en egipto dios quiso matar
+a los mayorazgos de sus enemigos
+las casas judaicas mando sen~alar
+que si esto no fuera. tanbien fuera a dar
+el angel conbate a sus propios amigos
+{RUB. Segunda respuesta y concluye}
+% Ta<n>bien acontesce y no se yo el misterio
+pagar las ouejas pecando el pastor
+por esto en pecado del gran adulterio
+daquel gran profeta que hizo el salterio
+murio muy gran pueblo biuiendo el sen~or
+y en ver la cizan~a ser tan general
+y aquesta dolencia en cristiana nacion
+y en ver ques muy nueuo lo vno y lo al
+conuiene saber el pecado y el mal
+confirmo por buena la dicha opinion
+{RUB. Segunda opinion teologal}
+% Algunos dixeron la tal pestilencia}
+{CB2.
+venir por luxuria en que oy peca la gente
+y muestrase propia y muy justa sentencia
+qual es el pecado tal la penitencia
+la parte pecante es la parte paciente
+por este pecado en la sacra escritura
+al rey pharaon le hallamos tenella
+porquel fue vencido de gran hermosura
+de sarra. y hiriole dios en su natura
+daquesta passion o de otra como ella.
+{RUB. Aprueba.}
+% y asi hallareys ya los mas que rehusan
+aqueste pecado benir sin dolor
+y aquellos que aquesto contino mas vsan
+daquesta passion por miraglo se excusan
+por justa sentencia del justo sen~or
+tanbien hallareys ya los hombres tornados
+tan castos que no osan llegar a muger
+o alto misterio que somos forc'ados
+hazer penitencia de nuestros pecados
+pues/ no la quesimos de grado hazer
+{RUB. Pone la opinion de los astrologos cerca
+el auenimiento desta passion.}
+% Astrologos dizen que por conjuncion
+de saturno y mares el tal dan~o a sido
+saturno es sen~or de la adusta passion
+y mars de los miembros de generacion
+por donde este mal nel comienc'o a venido
+y en hallarse mares en este lugar
+tan mal con saturno enemigo muy fiero
+quando hora los actos queremos vsar
+de venus y mares vamos a mirar
+no este alli saturno ques mal co<m>pan~ero
+{RUB. Pone la opinion de los fisicos
+cerca lo sobredicho.}
+% Los medicos dizen que fue de abunda<n>c'a
+de humor melanconico y flema salado
+que en todos los mie<m>bros a hecho su estanc'a
+la qual se fundo en vna gran destemplanc'a
+que al higado seco y caliente a tornado
+y aquesta fundose del ayre dan~ado
+y malas costumbres y mantenimiento
+y junto con esto lo ya processado
+an hecho este dan~o ser tan porfiado
+que no basta cura ni buen regimiento
+{RUB. Pone la opinion de vn dotor cer-
+ca el ser y nombre destas postillas}
+% vn sabio dotor que en aquesto hablo
+dixo estas postillas ser el sahfati}
+[fol. 24r]
+{CB2.
+de quien auicena en el quarto escriuio
+la causa que aquesto dezir le mouio
+y sus persuasiones mostrarian aqui
+el dize que aquel sahfati ya nombrado
+conuiene con estas en vn mismo humor
+porques melanconico adusto quemado
+muy gruesso y mezclado con flema salado
+que haze en el cuero tan gruesso botor
+{RUB. Prosigue.}
+% Y es en su comienc'o primero como estas
+pequen~o y muy fixo y diuiso en lugares
+de rubeo color es tanbien como aquestas
+con otras sen~ales que son manifiestas
+en el libro quarto si bien lo estudiares
+probarsa esto mismo pues quellas no son
+ni sarna ni lepra ni de otra ralea
+de aquellas que al cuero aya<n> hecho expulsion
+asi que concluye por esta induction
+ques el sahfati pues no ay otro que sea
+{RUB. Repugna la dicha opinion
+por muchas razones.}
+% Demando perdon a su sciencia y bondad
+y digo que aquestas asi no conuienen
+no son de vna misma materialidad
+difieren en forma y en su propiedad
+en sitio y en cura y color que ambas tienen
+y pruebo el primero por tal regla y norma
+que humor pudrescido con pestilencial
+so vn genero nunca jamas se conforma
+y asi diferesce en materia y en forma
+la fiebre de peste con fiebre humoral
+{RUB. Pone la menor do infiere
+y despidese desta razon}
+% Mas estas postillas el mismo concede
+ser de ayre corrupto y ser pestilenciales
+pero el sahfati contescer siempre puede
+y sin infection en humores procede
+ni las sus postillas se ponen por tales
+y si el respondiere en aquesta razon
+que del sahfati tanbien ay pestilencia
+no quiero altercar en su replicacion
+por ser breue y porque esta mi probacion
+no es muy manifiesta y probada en la sciencia.
+{RUB. Segunda razon y argumento}
+% Mas pruebo lo dicho por tal consequente
+quel que en propiedad y passion diferesce
+en forma difiere. por queste accidente
+consigue la forma tan esencialmente}
+{CB2.
+que do ella se halla el de alli no caresce
+mas estas muy gran differencia en si tienen
+daquel sahfati en propiedad y passiones
+con estas dolores muy fuertes prouienen
+en todas junturas y al principio vienen
+al mie<m>bro que haze las generaciones
+{RUB. Concluye y pone correlario}
+% Pero/ el sahfati no tiene esto por suyo
+ni algun autor le appropio aquesto tal
+por esto daquesta opinion yo rehuyo
+y por mi razon necessario concluyo
+que aquestas diffieren en forma essencial
+asi que e probado la forma y la esencia
+en estas dos pustulas ser differentes
+asi mismo en esto esta dada sente<n>cia
+en sus propiedades no auer conueniencia
+y aquestas dos pruebas estan muy patentes
+{RUB. Como diferescen en sitio y en numero}
+% Pues que diferesca<n> en sitio y en cuenta
+el senso lo muestra en aquesta manera
+porquel sahfati las mas vezes se asienta
+en rostro y cabec'a y alli le atormenta
+mas estas arriba y abaxo y do quiera
+y del sahfati ay postillas poquitas
+que quando es en lo alto en lo baxo no esta
+mas destas de agora que no estan escritas
+en todas las partes son casi infinitas
+segun que experiencia mostrado nos a
+{RUB. Como diferescen en color y en cura}
+% Difiere el color segun dize el autor
+que en el sahfati son bermejas postillas
+y destas ay blancas y con bermejor
+cetrinas y de cenizienta color
+plomen~as y verdes y negras. pardillas
+iten aquellas passiones que son
+diuersas en cura difieren en si
+mas destas postillas la su curacion
+que dio aquel dotor tiene gran diuision
+de la que auicena dio en el sahfati
+{RUB. Pone otro argumento con-
+tra la dicha opinion}
+% Iten arguyo en aquesta manera
+que si el sahfati por aquestas fue puesto
+el nuestro auicena me<n>guado escriuiera
+pues nel libro quarto noticia no diera
+de ciertos bubones que nascen nel gesto
+los quales le hazen enbermegecido
+de mala manera y ta<m>bien/ abuhado}
+[fol. 24v]
+{CB2.
+los nuncios de lepra mill vezes an sido
+segun que alcanc'amos por nuestro sentido
+asi que auicena no a destos hablado
+{RUB. Prosigue.}
+% Pues mas razon es de dezir y affirmar
+ques el sahafati aqueste gesto buboso
+pues del se podra con verdad predicar
+que no que se diga auicena hablar
+daquestas postillas tan defectuoso
+pues nel no appropio aquel dolor y graueza
+quen todas junturas dan estas postillas
+ni puso en los brac'os y piernas manqueza
+ni los durujones dolor y dureza
+y llagas que acuden a las espinillas
+{RUB. Concluye y comienc'a nueua opinion.}
+% Ni puso hazer su comienc'o primero
+nel sexo viril o en el ques de muger
+ni puso tornarse el color negro y fiero
+ni puso otras cosas por donde yo infiero
+aquestas muy gran differencia tener
+y si estas se escriuen en algun lugar
+lo qual yo no aprueuo ni tengo por cierto
+en ese capitulo deuen destar
+de sarna. y su especie en el nuestro vulgar
+tanbien en latin la llamamos mal muerto
+{RUB. De la conueniencia de aquella
+scabie con estas pustillas}
+% Conuiene con estas en su material
+pues se haze de adustos y gruessos humores
+y no menos questas es cronico mal
+y no tiene asiento en lugar especial
+tanbien nesta vienen muy gruessos botores
+en ella se hallan diuersos colores
+segun las materias de quien se co<m>pone
+manquezas angustias y graues dolores
+en los superiores y en sus inferiores
+segun quen aquestas postillas se pone
+{RUB. Recita dos argume<n>tos quel dicho do-
+tor opuso a esta opinion}
+% Contra esto el dotor sobredicho arguyo
+por dos differencias que aquestas dos tienen
+por quanto en la especie de scabie hallo
+ser prurignosa pero en estas no
+por do concluyo que las dos no conuienen
+segundo difiere de scabie porques
+de humor mas delgado y mas penetratiuo
+por do en el scabie contino veres
+ser muchas postillas do concluires}
+{CB2.
+su diferecer segun este motiuo
+{RUB. Responde al primer motiuo}
+% Respondo al primero que la comezon
+no viene a la especie de scabie forc'osa
+mas viene segun quen ella ay admistion
+de humores do ay sal y do ay mordicacion
+y do estos no vienen no es pruriginosa
+y en estas postillas lo mismo veras
+do ay colora en mezcla o algun flema salso
+las tales traeran comezon en demas
+y algunos no cessan rascarlas jamas
+el senso nos muestra que aquesto no es falso
+{RUB. Responde al segundo moti-
+uo o dificultad y co<n>cluye}
+% Respondo asi mismo al motiuo segundo
+negandole el antecedente do infiere
+por quanto esta especie en la qual yo me fundo
+de muy gruesso humor es si lo ay en el mundo
+quen esto a las otras especies difiere
+por do sus pustillas mas q<ue> otras son gruessas
+y en cura y remedios son muy mas tardias
+por ser sus materias pesadas y espesas
+y aquestas de agora son tales como essas
+concluyo de aqui las verdades ser mias
+{RUB. Comienc'a a hablar en la passion lo que le
+paresce. y dize el nombre que la deue<n> poner}
+% y pues tan probado esta ya mi propuesto
+no quiero altercar mas en esta escritura
+y daqueste morbo questa presupuesto
+agora sea puesto en escabie o no puesto
+el nombre dire y la passion y la cura
+aquesta segun mi razon corta y flaca
+que a los que pecaron tan crudo condena
+deuemos nombrarla la sarna egipciaca
+que asi/ es tan peruersa como ella y vellaca
+enbiada de dios por castigo y por pena
+{RUB. De la diffinicion desta enfermedad
+que se llama sarna egipciaca}
+% Pues digo que sarna egipciaca sera
+nel cuero del rostro y del cuerpo todo
+muy gran fealdad do postillas abra
+con quien gran dolor de junturas verna
+y en neruios y cuero se cura sin modo
+de flema salado y adustos humores
+que al cuero alanc'o la. virtud expulsiua
+no es ambulatiua por sus derredores
+materia es que secos hara sus tumores
+pero algunas vezes es vlceratiua}
+[fol. 25r]
+{CB2.
+{RUB. De las causas desta passion y pri-
+mero de las vniuersales y equiuocas}
+% La causa primera daquesta passion
+fue mala impression de los cuerpos celestes
+que hizo en ell ayre dan~ada infeccion
+por do en nuestros cuerpos causo corrupcion
+hallando dispuestas las causas terestes
+y aquesto prouino de algun mal co<m>puesto
+y costelacion de infortunos planetas
+y aquesto en nuestro arte nos es presupuesto
+de la astrologia do las causas desto
+segun sus principios no son muy secretas
+{RUB. Las causas inferiores y extrinsecas}
+% Las causas de abaxo son ayre dan~ado
+y el ques melanconico mantenimiento
+y aquellos que crian el flema salado
+como ajos y oruga y cebolla y pescado
+cec'inas legumbres y los deste cuento
+flaqueza en los cuerpos de vsar con muger
+dispone a la peste segun auicena
+la gran replecion de comer y beuer
+la yra y furores y poco plazer
+gran frio y secura a lo mismo se ordena
+{RUB. De las causas antecedentes y conjuntas}
+% La causa interior es la gran quantidad
+de humores adustos en higado y venas
+y flema salado y alguna humidad
+que haga correr con su subtilidad
+los gruessos humores por partes agenas
+y a uezes daquesto es la causa humor vno
+y a uezes de muchos es hecha mestura
+mas vezes son causa los muchos quell uno
+asi como colora y flema en co<n>suno
+por do no aprouecha frialdad ni calura
+{RUB. Prosigue y propone la
+causa del dolor de ju<n>turas}
+% La causa es tanbie<n> la virtud expulsiua
+quel dan~o de dentro aza el cuerpo lo alanc'a
+ayuda el error de la asimilatiua
+la causa conjunta es la escoriatiua
+materia. que haze postilla y estanc'a
+la causa de auer en junturas dolor
+es bien que se note por muy singular
+por quanto responde a la duda mayor
+y desta no hizo mencion el dotor
+avnque era obligado de no la callar
+{RUB. Las causas del dolor de las junturas}
+% Como ay en las venas gra<n> copia y medida
+daquella materia que digo espelerse}
+{CB2.
+no haze dolor hasta que haga manida
+en algun lugar. pero en el ya trayda
+apostema el miembro y le haze dolerse
+y desque las venas en los miembros echan
+aquesta materia no quieren sufrilla
+pero de su dan~o y malicia despechan
+y en otros mas flacos que si la desechan
+y algunos al cuero podran sacudilla
+{RUB. Prosigue}
+Y aquellos que pueden al cuero alanc'alla
+alli donde la echan se haze postilla
+si al cuero no pueden procuran de echalla
+al ques menos noble. y aquel no tomalla
+si puede y si no. queda en el la manzilla
+y de lance en lance es forc'ado parar
+en algun lugar que no pueda mas quella
+pero la juntura es muy flaco lugar
+y es frio y es hueco do puede apan~ar
+qualquiera materia y en si retenella
+{RUB. Prosigue y concluye}
+% Iten es lexos de los principales
+y es poco ell esprito y calor que le viene
+iten sus motos son tantos y tales
+que atrae el humor. y son muy materiales
+los mantenimientos de que se mantiene
+iten es duro y de poros cerrado
+por do no se haze la euentancion
+tanbien es de neruios y cuerdas poblado
+do el senso del tacto esta fortificado
+por do este dolor sigue a esta passion
+{RUB. Las causas de comenc'ar
+esta passion por los miem-
+bros vergonc'osos.}
+% La causa por questa passion comenc'o
+por aquestos miembros que son vergonc'osos
+es por quanto el higado en ingres echo
+algunos encordios de quien se escupio
+el dan~o en aquestos vezinos famosos
+y son muy dispuestos de tal recebir
+por ser carne tierna y que presto se altere
+si no es de escupido es porque a de occurrir
+la horina por ellos do puede venir
+del higado humor corrosiuo que vlcere
+{RUB. Prosigue y da causa porque comienc'a a
+parescer el mal en estos miembros tantos
+dias antes que venga}
+% Por q<u><<a>>nto a este mal nel comie<n>c'o primero
+destemplase el higado en seco y caliente
+do se haze el humor tan adusto y grossero}
+[fol. 25v]
+{CB2.
+el qual nel principio no esta tan entero
+y el higado esta de espelerlo potente
+que viendose el fatigado y dan~ado
+alanc'alo luego por sus alban~ares
+antes que en las venas este derramado
+por do en estos miembros asi a comenc'ado
+muchos dias antes que en otros lugares
+{RUB. De las sen~ales que se muestran quan-
+do la enfermedad a de uenir}
+% Mas quando en tal miembro esta buba o llaguita
+mayormente si es sin dolor y esta dura
+dolor de cabec'a y color negrezita
+espaldas cargadas y el suen~o se quita
+y aquello que suen~a es en loco y no tura
+en labios y en parpados de ojos negrura
+y en su trabajar perezoso y aflicto
+y tiene la vista turbada y oscura
+a tal como a este si tienes cordura
+diras que le viene la sarna de egipto
+{RUB. De las sen~ales qua<n>do la passio<n> es presente}
+% Mas qua<n>do ya viene<n> las negras postillas
+dan luego vn dolor de junturas terrible
+primero en los hombros despues en rodillas
+y dellas desciendese a las espinillas
+y en sus telas haze vn dolor impassible
+y de co<n>troparse el humor en aquellas
+gastando lo ques mas subtil la calor
+vnos durujones se hazen en ellas
+la fruente y cabec'a padesce como ellas
+de secas y nodos de aquel gruesso humor
+{RUB. Las sen~ales qua<n>do viene de sangre adusta}
+% Si fue la adustion deste humor ta<n> maligno
+de sangre con ellas muy gran calor tiene
+las palmas y plantas le queman contino
+y su color dellas es rubeo sanguino
+tanbien comezon y materia les viene
+es fuerte el dolor y no es muy permanente
+y esfuerc'ase mas aza las madrugadas
+y crian de dentro materia caliente
+an gran bermejura y calor en la fruente
+dolor en espaldas y estan quebrantadas
+{RUB. Las sen~ales qua<n>do viene de colora adusta}
+% Si colora peca ay muy poco sosiego
+y muy mas calor. gran dolor. no durable
+el rostro se carga de pustulas luego
+y vnas vexiguitas le salen de fuego
+por mano y mun~ecas de ardor espantable
+y costras ardientes en palmas y en pies}
+{CB2.
+y bubas cetrinas y alguna rubieta
+pequen~as y muchas y comen despues
+y en su co<m>plexion ya colerico es
+y aza el mediodia el dolor mas le aprieta
+{RUB. Las sen~ales qua<n>do vienen de flema adusta}
+% Si de flema salso fue aquesta adustion
+no ay tan gran calor ni dolor tan mortal
+son grandes postillas y con comezon
+y todas hendidas y asperas son
+y tienen color de plomado metal
+y si es flema blanco terna frialdad
+en pecho y cabec'a y muy gran cargamie<n>to
+blancazas postillas con mucha humidad
+dolor mas durable en menor calidad
+y aza media noche el dolor mas sin tiento
+{RUB. Las sen~ales qua<n>do viene de mela<n>colia adusta}
+% Pero si de humor melanconico fuere
+aquesta adustion son mas secas y frias
+ser grandes y sin comezon se requiere
+y el gesto obfuscado con ellas se espere
+y en su curacion son mas que otras tardias
+y son muy pesadas no tan dolorosas
+son asperas mucho y salen poquitas
+y aza prima noche son mas aquexosas
+y traen tristezas y ansias llorosas
+haran seco el cuero y las carnes flaquitas
+{RUB. Las sen~ales quando viene de
+mezcla de humores adustos}
+% mas si esta adustion acontesce de ser
+de muchos humores alli congregados
+mezclando las sen~as daran a entender
+aquien lo que e dicho quisiere bien ver
+quie<n> son los humores que aqui son mezclados
+y las mas vegadas es desta manera
+que aquesta passion de diuersos es hecha
+alguna es de flema y de sangre grossera
+y alguna es de colora con co<m>pan~era
+y en tales frialdad ni calor no aprouecha
+{RUB. De la cura y primero pone diuersas opi-
+niones en ella las quales contradize}
+% En ver la passion que ta<n> queda se estaua
+y siendo tan mala ser tan porfiosa
+que malo ni bueno prouecho no daua
+la gente destonces atonita andaua
+y avn entre letrados estaua dudosa
+algunos dezian quel mucho hartar
+a estomago y vientre de quanto pidiese
+haria mas presto al paciente sanar}
+[fol. 26r]
+{CB2.
+y que enflaquec'ia el hazelle apartar
+de todo dan~oso que bien le supiesse
+{RUB. Dan~a esta opinion y otra q<ue> recita luego}
+% Aquestos dezian que purga y sangria
+se diese en el jarro mas no en la persona
+y quel buen xarope en medina lo auia
+en coca y arenas y ellandaluzia
+y a estos por beudos les doy la corona
+mas otros que a fisica son mas vezinos
+dezian ser buena la euacuacion
+las purgas sangrias xaropes continos
+y el poco comer ser remedios diuinos
+y aquesta tanbien era errada opinion
+{RUB. Da vna notable razon contra las
+purgas erradicatiuas..}
+% Quel mucho purgar en materia como esta
+al higado augmenta calor y secura
+do el dan~o se dobla. cosa es manifiesta
+tanbien la materia por ser indispuesta
+no euacua. mas mueuela. y hazela dura
+que para purgarse del mie<m>bro el humor
+en las venas chicas a luego de entrarse
+y destas a otra y a otra mayor
+y desta va al higado auiendo vigor
+y deste all estomago do a de purgarse
+{RUB. Prosigue y co<n>cluye co<n>tra la dicha opinio<n>}
+% :Pues diga este fisico como es possible
+questando el humor en el mie<m>bro inuiscado
+se arranca y se mete por vena inuisible
+subie<n>do al reues de la sangre nutrible
+ques yr agua arriba. y sin ser subtiliado
+humor tan viscoso y tan ingrossado
+que engludo paresce qual fuerc'a podra
+metelle por vn tan estrecho horado
+que/ siempre de sangre esta lleno y tapado
+que a todos los mie<m>bros del higado va
+{RUB. Recita otra forma de cura vnta<n>do
+las junturas y destruyela tan bien}
+% Mas otros curauan aquesta passion
+que siempre auian sido de albardas maestros
+haziendo de azogue y de vnto vna vncion
+que daua al dolor muy gran mitigacion
+y aquesto era hecho por modos siniestros
+que como ellazogue es mortificatiuo
+y ellunto ablandaua aquel cuero encogido
+haziase ellazogue mas penetratiuo
+y al miembro mataua el estupefactiuo
+quitaua el dolor destruiendo el sentido}
+{CB2.
+{RUB. Prosigue y destruye/ otra opinio<n> d<e> curar}
+% y asi vierays luego aquel miembro do auia
+entrado la vncion no tener fuerc'a alguna
+mas como natura de noche y de dia
+de esprito animal a este tal proueya
+tornaua el sentido y dolor todo a vna
+mas otros tenian por muy aprobado
+curar con sudor al principio del mal
+gastaua el sudor el humor mas delgado
+quedaua lo gruesso vn terron desecado
+que fuera impossible purgarle este tal
+{RUB. Pone la cura segu<n> la regla y medios
+mas razonables y experimentados}
+% La cura mas propia que aqui poner quiero
+sera recogida de nuestros autores
+primero al humor ceniziento y grossero
+deueis digerir y tornalle ligero
+despues aplicalle sus euacuadores
+mas miren primero si sangre peco
+y sangrese luego basilica vena
+de parte contraria si vn hombro dolio
+si duelen los dos juntamente mando
+sangralle ambos brac'os el nuestro auicena
+{RUB. Prosigue}
+% y el de fumoterre xarope le dad
+ques muy appropiado en humores adustos
+y do ay flema salso es extremo en bondad
+dos onc'as de vn golpe sea su quantidad
+mezclando el de epitimo en ho<m>bres robustos
+por queste mas gruessos humores alanc'a
+y siempre echa mas del primero que deste
+con dos de xarabe tres de agua le lanc'a
+de la palomina y buglosa en templanc'a
+o suero do colora o sangre moleste
+{RUB. De los clisteres.}
+% y algunas ayudas le echad appropiadas
+do cuezan anis y c'intoria y hinojo
+epitimo y cartamo y pasas mondadas
+manc'anilla violetas y prunas mezcladas
+sea partes yguales echado en remojo
+y desque cozido y colado esto tal
+de la cassiafistola echalde onc'a y media
+de gera y bendita vna onc'a en ygual
+y su miel y azeyte comun y su sal
+aquesta le ablanda euacua y remedia
+{RUB. Del minoratiuo q<ue> se deue tomar por la boca.}
+% Passando con esto ocho dias continos
+deueis minoralle con tal decocion}
+[fol. 26v]
+{CB2.
+vna onc'a de mirabolanos cetrinos
+y sendas de indios y kebulos finos
+y dos de ciruelas con esta mixtion
+y sendas de epitimo y de cantueso
+& de tamarindio onc'a y media sera
+& de palomina vna onc'a con eso
+& vna onc'a de passas y cueza todo eso
+en tres libras de agua y las dos gastara.
+% Y en seys onc'as desta deueys desatar
+vna onc'a de la casiafistola munda
+de buena man~ana la deue tomar
+y en muchas vegadas es bien de la vsar
+pues della purgar & ablandarse redunda
+despues continuar los xarabes de suso
+hasta que ya este el humor bien digesto
+y vsar las ayudas segun se alli puso
+y desque algun tiempo os durare aq<ue>ste vso
+purgad fuertemente el humor si es despuesto.
+{RUB. Las sen~ales de la digestion}
+% vereys ques digesto el humor en que ya
+el fuerte dolor y vigilias le afloxan
+no salen mas bubas ni el higado esta
+con tan grande ardor ni la fuerc'a se va
+las palmas y bubas y pies se descoxan
+no esta tan delgada y tan cruda la horina
+y sale la ypostasis blanca y muy buena
+tanbien la color de su gesto se afina
+tambien su egestion sale buena y contina
+a tal como aqueste tal purga se ordena.
+{RUB. Dela purga erradicatiua.}
+% De pildoras indias tomad quinze granos
+y treynta de pildoras de palomina
+y diez de hermodatiles blancos liuianos
+de spica y/ almastiga diez granos sanos
+todo esto mezclado es muy gran medicina
+y con su xarabe las puede massar
+y hazer siete pildoras por la presente
+mediada la noche las deue tomar
+y el fisico puede amenguar o esforc'ar
+la purga segun la virtud del paciente.
+{RUB. Otra forma de purga.}
+% O purguese fuerte daquesta manera
+de kebulos y mirabolanos y prietos
+& passas tomar sendas onc'as si quiera
+de hojas de sen de cantueso qualquiera
+tomad sendas onc'as y sean perfectos
+y de polipodio seys dramas tomad}
+{CB2.
+y cinco del eupatorio escogido
+& quatro de la palomina mezclad
+todo esto en tres libras de suero lo echad
+& gaste las dos como arriba aueys vido
+Y echad desque aquesto ya fuere colado
+vna onc'a de epitimo y hierua sin llama
+y desque heruiere sera luego fregado
+despues sea colado y alli desatado
+de eleboro negro escogido vna drama
+& de cassiafistola vna onc'a mondada
+y echad media drama de agarico bueno
+y si la quisierdes mas fortificada
+echad media drama muy rectificada
+segun auemesue de lapide armeno
+{RUB. Como tomara la triaca & de otra
+forma de minoratiuo.}
+% y desque ya este derraygado el humor
+darleys si reliquias quedaron algunas
+de tres en tres dias triaca mayor
+y tomela en suero porque es el mejor
+quanto vna auellana beuida en ayunas
+y en todos los tiempos que vuiere manida
+daquel mal humor y el hartarse ya
+dela cassiafistola ques aborrida
+media onc'a de epitimo sea disoluida
+en suero de cabras y aquel vsara
+{RUB. Para corregir el higado}
+% y adresce el higado ques el cimiento
+en criar este humor tan adusto y maligno
+vntandole con el violado vnguento
+o con el rosado o con el de fermento
+o con el que llaman aca sandalino
+y desque estuuiere todo este sermon
+co<m>plido por orden y regularmente
+remedios locales dad en la passion
+en todas las bubas haziendo vna vncion
+yo hallo ques muy singular este vnguente
+{RUB. vnguento para las bubas}
+% De climia de plata no de otros metales
+y de litargirio cerusa y calcanto
+de azogue. aloes. todo partes yguales
+y el vnto de puerco mezclad a estos tales
+y azeyte de oleandro y vinagre otro tanto
+sera todo aquesto en mortero majado
+y con del azeyte vn poquito mecello
+despues del vinagre sera vn poco echado
+despues del azeyte y asi sea tratado}
+[fol. 27r]
+{CB2.
+hasta que se haga vn vnguento con ello
+{RUB. Otro vnguente mas fuerte}
+% y si otro quisierdes mas fuerte y mas fino
+podeis co<m>ponelle daqueste tal modo
+de ambos arsenicos sufre citrino
+de eleboro negro y de goma de pino
+sean partes yguales y mezclese todo
+con esto ceniza de ajos majad
+y mirra y encienso. aloes y neguilia
+y el vnto y azogue matado mezclad
+con agro de cidra o limon lo juntad
+y azeyte y ponelde sobre la pustilla
+{RUB. De emplastros para las junturas}
+% y hazle vn emplastro para las junturas
+de estierco y manteca de vaca con miel
+y si tu conosces por tus congeturas
+que son menester muy mas fuertes las curas
+hazerle as emplastro mas fuerte que aquel
+recibe quatro onc'as de la trementina
+y quatro de nitre de alexandria
+de euforbio tres dramas q<ue>s gran medecina
+y del fenugreco tornado harina
+sera media libra en su co<m>pan~ia
+% Con esto seys dramas echad de yreos
+y de oppopanac quatro dramas seran
+con esto seys onc'as de azeyte aued vos
+y hazed vn emplastro que mediante dios
+todos los dolores con este saldran
+y si lo quisierdes mas fuerte que aquesto
+mayor quantidad d<e>l euforbio echares
+y echad armoniac y bedelio con esto
+y azeyte vnfancino q<ue> al caso es dispuesto
+y todo se haga en emplastro despues
+% y si otros emplastros quisierdes o vnciones
+catad a auicena en la fen veynte y dos
+a donde se escriue por largas razones
+el mal de junturas y sus curaciones
+alli contemplad si soys fisico vos
+y quando el dolor fuere brauo a matar
+mayormente siendo de humores calientes
+narcotico vnguento le aueis de aplicar
+catad a auicena en el dicho lugar
+do pone remedios y muy excelentes
+{RUB. De los ban~os}
+% y haganle ban~os ya en declinacio<n>
+de su manc'anilla y anis y hinojo}
+{CB2.
+y rosas violetas aqui buenas son
+ruda y palomina aya tal decocion
+bismalua y las maluas y el apio y abrojo
+y ban~ese nueue o diez dias arreo
+y echese luego en la cama a sudar
+si aquesto se haze por orden yo creo
+que aqueste hombre tal complira su deseo
+porqueste es camino de presto sanar
+{RUB. Para socorrer el bac'o y para las llagas}
+% Mirad bien el bac'o no tenga dureza
+que quando esta tiene se tarda el dolor
+y si la tuuiere curad con destreza
+segun nel capitulo suyo se reza
+para esto es lu<n>guento desopilador
+y miren si vlcera alguna le viene
+y curela luego algun buen c'urujano
+ya sabe la causa de que esta prouiene
+asi mismo sabe la cura que tiene
+no falta sino que le ponga la mano
+{RUB. Para curar las durezas
+y rectificar el regimiento}
+% y a los durujones curad como nodos
+o como apostema exclirotico duro
+en molificar y abla<n>dallos a todos
+despues resoluelles y con tales modos
+se lleua el paciente muy saluo y seguro
+y deue guardarse en el su regimiento
+porques el cimiento de toda su cura
+que huya manjares de mal nutrimiento
+que huya mugeres y mal pensamiento
+que huya la yra furor y tristura
+{RUB. De los manjares conuenibles}
+% Que coma gallina cabrito y ternera
+faysanes perdizes y tortolas buenas
+y las palomitas son desta manera
+y aue pequen~a que no sea grossera
+carnero de vn an~o de carnes bien llenas
+y yemas de hueuos si bien frescas son
+y peces de rio escamosos chiquitos
+y truchas palmares son desta intencion
+y todo manjar de subtil digestion
+y buen nutrimento como los escritos
+{RUB. Prosigue y da fin.}
+% y el vino que beua sea tinto y aguado
+con agua azerada ques muy singular
+y no traya el cuerpo contino afanado
+ni menos le tenga baldio y holgado
+y sobre comer no se deue mudar
+el suen~o del dia se deue excusar}
+[fol. 27v]
+{CB2.
+y las colaciones y el mucho beuer
+y nunca se deue el paciente hartar
+puesto que sea muy bueno el manjar
+y es bien pasearse delante el comer
+{RUB. Finis.}
+% Loores y gracias te do. yo sen~or
+que enciendes candela do falta el pauilo
+que en tales tinieblas das tal resplandor
+que en tan juuenil y barbarico estilo
+se encierre vna suma de tanto valor
+y pues que lo hizo tu lumbre y fauor
+no se con que sirua tan gran beneficio
+sino que me ofresco por tu seruidor
+en vida y en muerte en plazer y dolor
+y ofresco la obra a tu nombre y seruicio
+% y no des lugar a la enbidia malina
+que calle lo bueno y pregone los yerros
+que muchos letrados de la medecina
+por qua<n>to co<n>curren en vna rapina
+se muerden asi como gatos y perros
+que por remorderme ya en vna disputa
+el juez contra mi confirmo tal razon}
+{CB2.
+que ygual co<m>plexion puntual y absoluta
+de la medecina es su consideracion
+lo qual por falsissimo aca se reputa
+% y en otra disputa el juez desygual
+por darme la mengua afirmo en su dezir
+quel minimo cuerpo se puede partir
+guardando su forma y su ser natural
+lo qual por muy falso se deue sentir
+y pues que los sabios sabiendo la sciencia
+por ser maldizientes la quieren torc'er
+remitolo todo a tu sancta clemencia
+que a los ponc'on~osos hara resistencia
+y a las falsas lenguas hara enmudescer
+Fenesce el Sumario de la medecina hecho
+por el lice<n>ciado fra<n>cisco lopez d<e> villalobos eme<n>-
+dado y corregido por el mismo Imprimido en
+la cibdad de Salama<n>ca a sus expe<n>sas de An-
+tonio de barreda librero. An~o del nascimiento
+de nuestro saluador de mill .cccc.xc. & .viij.
+{LAT. Deo gracias.}}

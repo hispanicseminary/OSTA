@@ -1,0 +1,2734 @@
+{RMK: HSMS-0513.}
+{RMK: desconocido.}
+{RMK: [LCS] Libro de la cofradía de los caballeros de Santiago.}
+{RMK: .}
+{RMK: Burgos | Archivo dela Catedral de Burgos.}
+{RMK: Francisco Gago Jover.}
+[fol. 1r]
+{CB2.
+{RMK: HSMS-0513-0002: Lista de cofrades de la Cofradía de Santiago, 1370-1385.} {SYMB: cross.} {IN1.} I<<o>><a>n mathe alcall<e>
+{SYMB: cross.} {IN1.} Alfonsso fer<rande>s de valdiuielsso
+{SYMB: cross.} {IN1.} Ioh<a>n alfon<so> de formallaq<ue>
+{SYMB: cross.} {IN1.} Alfon<so> f<e>r<rande>s
+{SYMB: cross.} {IN1.} Yenego m<artine>s de tec'a
+{SYMB: cross.} {IN1.} Garci f<e>r<rande>s de espinosa
+{SYMB: cross.} {IN1.} Ioh<a>n m<artine>s de guiuara
+{SYMB: cross.} {IN1.} Pero m<artine>s de guiuara
+{SYMB: cross.} {IN1.} Martin lop<e>s de tuesta
+{SYMB: cross.} {IN1.} Ferra<n>t Lop<e>s de astun<n>iga
+{SYMB: cross.} {IN1.} Diego gonc'al<e>s Tesorero.
+{SYMB: cross.} {IN1.} Alfon<so> m<artine>s de villa[+]q<u><<i>>ran
+{SYMB: cross.} {IN1.} I<<o>><a>n royz de medina
+{SYMB: cross.} {IN1.} Pero X<<i>><mene>s alcalle
+{SYMB: cross.} {IN1.} Ximon p<ere>s su h<er>mano
+{SYMB: cross.} {IN1.} Ioh<a>n garc'ia de arienc'a
+{SYMB: cross.} {IN1.} Pero Roys el moc'o
+{SYMB: cross.} {IN1.} Giralte de P<r><<i>>stin<e>s
+{SYMB: cross.} {IN1.} Ioh<a>n garc'ia el rico
+{SYMB: cross.} {IN1.} Remon x<imene>s oliuer
+{SYMB: cross.} {IN1.} Diego f<e>r<rande>s de frias
+{SYMB: cross.} {IN1.} Ioh<a>n p<ere>s pan & agua
+{SYMB: cross.} {IN1.} Pero garcia de frias
+{SYMB: cross.} {IN1.} P<er>o bonifaz
+{SYMB: cross.} {IN1.} Garci f<e>r<rande>s fijo de pero garcia de frias
+{SYMB: cross.} {IN1.} Diego garcia de medina
+{SYMB: cross.} {IN1.} Diego gonc[']ales de medina
+{SYMB: cross.} {IN1.} Ioh<a>n garcia de camargo
+{SYMB: cross.} {IN1.} Francisco m<artine>s [^2#El] bueno d<e>los
+Joh<a>n g<onzale>s de medina. %2 seze}
+{CB2.
+{SYMB: cross.} {IN1.} Diego m<artine>s de santo domingo.
+{SYMB: cross.} {IN1.} Ferant m<artine>s de frias, alcalle
+{SYMB: cross.} {IN1.} I<<o>><a>n dela mota
+{SYMB: cross.} {IN1.} Alfonso garcia de cuenca
+{SYMB: cross.} {IN1.} I<<o>><a>n Rodrigues freire del hospital
+{SYMB: cross.} {IN1.} Alfon<so> f<er>r<ande>s de villegas
+{SYMB: cross.} {IN1.} Pero m<artine>s de foncea
+{SYMB: cross.} {IN1.} Garcia de Soto
+{SYMB: cross.} {IN1.} Per alfon<so> de formallaq<ue>
+{SYMB: cross.} {IN1.} Pero g<arc'i><<a>> el rico
+{SYMB: cross.} {IN1.} Alfon<so> garcia de cue<n>ca el moc'o
+{SYMB: cross.} {IN1.} Guillen garc'ia dela lo
+{SYMB: cross.} {IN1.} I<<o>><a>n martinez de frias
+{SYMB: cross.} {IN1.} Ioh<a>n lopez de villate
+{SYMB: cross.} {IN1.} Pero xuares de s<an>c<t>a m<ari><<a>>
+{IN1.} Aluar g<arc'i><<a>> su h<er>mano
+{SYMB: cross.} {IN1.} I<<o>><a>n m<artine>s de uannueloz
+{SYMB: cross.} {IN1.} Sancho m<art><<i>><ne>s de c'ifuentes
+{SYMB: cross.} {IN1.} Don<n>a sancha de rojas
+{SYMB: cross.} {IN1.} Pero rodriguez de pen<n>a losa
+{SYMB: cross.} {IN1.} El lic'enciado yerno del al<ca>ld
+ferna<n>t m<artine>s de frias
+Garci m<artine>s de gueuara
+{SYMB: cross.} Sancho garcia el rico
+{SYMB: cross.} Juan rrodriguez de b<ur>gos
+Sancho garcia el rico el mo[*c'o]
+{SYMB: cross.} Gonc'alo S<anch><e>s de maluenda
+{SYMB: cross.} Alfonso de porres alcalde
+Pero Royz de villegas regidor}
+[fol. 1v]
+{CB2.
+{SYMB: cross.} % P<er>o x<ua>r<<e>>s de santa m<ari><<a>> escriuano mayor.
+{SYMB: cross.} % Alvar g<arc'i>a de s<ant>a m<ari><<a>> Regidor.
+% P<er>o sanches de Frias regidor
+% Juan Feran<de>s de sagredo.
+% P<er>o dias de Arc'eo alcalde.
+% Franc'isco martines de lerma, regido<r>
+% G<onzal><<o>> alonso regidor
+% Juan dias de arc'eo regidor
+% el alcalde Franc'isco bocanegra
+% diego de varado regidor
+% el bachiller juan roldan
+% p<er>o gonzales el rico Regidor.
+% ocha martinez de vilvao.
+% Fernando dias el rico.
+% Juan sanches de Ordun~a.
+% Juan g<utier>r<<e>>s de toledo merino
+% Juan gonc'ales de medina.
+% g<arc'i>a martines de giuara.
+% andres ximenes
+% Gonc'alo ximenes
+% ximon g<arc'i>a el rico regidor
+% sancho g<arc'i>a el rido regidor
+% p<er>o sanches de miranda regidor
+% el thesorero martin de achiaga
+% Juan del hoyo
+% sancho m<artine>s de ordun~a
+% ponc'e de prestines
+% ferrant g<onzale>s de la corun~a
+% p<er>o g<arc'i>a Salon.}
+{CB2.
+% p<er>o roiz de villegas regidor
+% Pedro de cartaJena regidor
+% Aluar r<<o>><i>s de maluenda regidor
+% el alcalde alonso dias de cueuas.
+{SYMB: cross.} % pero martines de burgos
+% el comendador Juan m<artine>s de burgos
+% El maestre sala fera<n> p<ere>s bonjfaz
+% alonso diaz de arc'eo regidor
+% el doctor ferrant lopez
+{SYMB: cross.} % el lic'enc'iado el al<ca>llde g<arc'i>a lopez
+% el alcalde g<arc'i>a m<artine>s de lerma
+% Lope g<arc'i>a de carion regidor
+% p<er>o lopes de madrit
+{SYMB: cross.} % juan de lerma regidor
+{SYMB: cross.} % el bachiller de villa haoz
+% Juan g<arc'i>a de burgos
+% diego g<arc'i>a su ermano regidor
+% ferando de cuebas ruuias
+% pedro de frias
+% el al<ca>llde Yn~igo diaz de arc'eo
+% garc'i m<artine>s de lerma regidor}
+[fol. 2r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 2v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 3r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 3v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 4r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 4v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 5r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 5v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 6r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 6v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 7r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 7v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 8r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 8v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 9r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 9v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 10r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 10v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 11r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 11v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 12r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 12v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 13r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 13v]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 14r]
+{CB1.
+{RMK: testimonio de escrituras y compras de la cofradía.}}
+[fol. 14v]
+[fol. 15r]
+{CB1.
+{MIN.}}
+{CB2.
+{RMK: HSMS-0513-0001: Primera regla de la Cofradía de Santiago.} {IN11.} EN EL N-
+ONBR-
+E DE D-
+IOS E
+DE SANCTA MARIA
+& del apostol bienauenturado Sen-
+nor S<an>c<t>iago {IN1.} Por q<ue> es cosa con-
+uenible de todos los om<n>es seruir a
+dios & a S<an>c<t>a maria Et por q<ue> les de<n>
+gr<aci>a que biua<n> & acaben en su seruicio}
+{CB2.
+an mest<e><<r>> de auer porssi sen<n>alada
+me<n>te algu<n> s<an>c<t>o por abogado por q<ue>
+Ruegue<n> a[ ]dios por ellos {IN2.} Por ende
+los buenos dela c'ibdat de Burgos
+auiendo gra<n>t deuocion En el apostol
+S<an>c<t>iago & aviendo gra<n>t talante de le
+seruir fiziemos confradia & vnida-
+t en uno a seruicio de dios & de s<an>c<t>a Ma-
+ria Et del onrrado sen<n>or apostol S<an>c<t>ia-
+go. en cuya deuocio<n> & en cuyo no<n>bre A-
+yu<n>tamos & fiziemos esta co<n>fradia, por
+q<ue> el sea sie<n>pre en este mu<n>do & en el ot<r><<o>>
+n<uest>ro abogado & q<ue> pida por nos m<er>c'et A
+dios por q<ue> nos de gr<aci>a q<ue> biuamos & aca-
+bemos en su s<er>uicio. Et a seruicio de n<uest>ro
+Sen<n>or el Rey Don Alfonsso a q<u><<i>>en de dio<<s>>
+mucha uida & Salut por muchos tie<n>po<<s>>}
+[fol. 15v]
+{CB2.
+et buenos, & ma<n>tenga en su seruic'io
+Et ordenamos & feziemos esta Regla por
+reme<n>bra<n>c'a q<ue> fecho desta co<n>fradria & los
+bienes della que por ella deuemos faz<er> esten
+Sie<n>pre en bue<n> estado & Reme<n>brados & lo<<s>>
+co<n>fradres sepan en q<u><<a>>l g<u><<i>>sa lo An de g<u><<a>>rdar.
+{IN3.} Establecemos que en esta co<n>fradria sea<n>
+Rec'ebidos por confradres todos los
+buenos & fijos de los buenos q<ue> se-
+an p<ar>a ello & los que lo pudiere<n> faz<er> q<ue> ma<n>ten-
+gan cauallo & armas & cob<er>turas p<ar>a s<er>uir
+& g<u><<a>>rdar esta co<n>fradria segu<n>t q<ue> aq<u><<i>> dira
+Et daq<u><<i>> adelante q<ue> no<n> sea rec'ebido ni<n>guno p-
+or confradre sino<n> touiere coberturas
+{IN2.} Et todo om<n>e que fuere Rec'ebido por con-
+fradre en esta co<n>fradria q<ue> sea rec'ebido
+por cabillo. o por los mayordomos si el cab-
+illo gelo acome<n>dare<n>. Et el q<ue> rec'ibiere<n> por
+co<n>fradre q<ue> de por la e<n>trada p<ar>a ayuda de ma<n>-
+tener la co<n>fradria dize ocho m<a>r<auedis> a diez d<inero>s
+el m<a>r<auedi> dela mon<ed><<a>> q<ue> corriere. a esta q<u><<a>>ntia et
+vna libra de c'era o q<u><<a>>tro m<a>r<auedis>. por ella. Et al fi-
+namie<n>to q<ue> de el co<n>fradre doze m<a>r<auedi>. Et q<u><<a>>ndo
+alguno om<n>e entrar e<n> esta co<n>fradria por co<n>-
+fradre sea dema<n>dado por cabillo ante q<ue>le
+Rec'iban. Et el co<n>fradre q<ue> fuere rec'ebido
+Jure en la regla q<ue> g<u><<a>>rde los derechos dela
+co<n>fradria & ma<n>tenga & la g<u><<a>>rde en q<u><<a>>nto el
+pudiere segu<n>t q<ue>la manda.
+{IN2.} Otrosi establec'emos q<ue>la biesp<er>a de Sa-
+ntiago q<ue> cae en el mes de Jullio q<ue>
+alas biesp<er>as q<ue> todos los co<n>fradres q<ue> toui-eren}
+{CB2.
+Cauallo & coberturas o las pudier-
+en auer q<ue> fagan encob<er>tar. los cauall-
+os & los co<n>fradres en ellos & q<ue> ue<n>ga<n> bo-
+fordando faziendo onrra fasta la Egl<es>-
+ia de s<an>c<t>iago q<ue> es c'erca dela Egl<es>ia de sa-
+nta M<ari><<a>>. Et q<ue> tenga<n>. y los cauallos en-
+cob<er>tados & los confrades q<ue> entre<n> A
+biesp<er>as & las oyan al altar de la cap-
+iella de s<an>c<t>iago en S<an>ta M<ari><<a>>. Et esso mism-
+o ot<r><<o>> dia ala missa tenie<n>do candelas e<n>
+las manos & q<ue> ardan q<u><<a>>tro cirios de
+cada q<u><<a>>tro libras a las biesp<er>as & ala
+missa.
+{IN2.} Otrossi establecemos q<ue> q<u><<a>>ndo alg-
+uno delos co<n>fradres finare q<ue> tod-
+os los co<n>fradres ue<n>gan ala uigilia &
+al enterramie<n>to seyendo lamados por
+el andador & el q<ue> no<n> y viniere q<ue> pene
+una libra de cera por cada uez para la co<n>-
+fradria. Et q<ue> todos los co<n>fradres q<ue> oui-
+eren a la sazo<n> cauallos & coberturas q<ue>
+fagan e<n>cob<er>tar los cauallos & traerlo<<s>>
+por la uilla co<n> el cauallo del finado.
+de q<ue> fuere parado el cuerpo fasta la
+uig<i>lia dicha. Et esso mismo otro di-
+a fasta q<ue> sea enterrado & el <con>fradre q<ue>
+no<n> y uiniere q<ue> pene xs m<a>r<auedis> & los ma-
+yordomos q<ue>l pey<n>dre a q<u><<a>>l q<u><<i>>er q<ue> e<n> es-
+to cayere.
+{IN2.} Otrosi q<ue> q<u><<a>>ndo algu<n> co<n>fradre o fi-
+jo o fija de confradre casare.
+q<ue> todos los co<n>fradres q<ue> ouiere<n> caua-llos}
+[fol. 16r]
+{CB2.
+& cob<er>turas a essa sazo<n> q<ue> e<n>cubierte<n>
+los cauallos & boforden assu boda & le
+faga<n> onrra en q<u><<a>>nto pudiere<n>. P<er>o q<ue> si
+el fijo del <con>fradre desq<ue> legare a auer
+veynt an<n>os si no<n> q<u><<i>>siere e<n>trar por <con>fr<<a>>d<r><<e>>
+en esta co<n>frad<r><<i>>a que dende adela<n>t non
+le faga<n> los <con>fradres la dicha onrra A
+boda ni<n> a muert<e>.
+{IN2.} Otrosi q<ue>los co<n>fradres desta co<n>frad<r><<i>>a
+no<n> en( )cubierte<n> nj<n> trayan cauallo<<s>>
+por parie<n>te nj<n> por otro om<n>e seyendo ve-
+zino dela uilla q<ue> fine q<ue> no<n> sea en esta
+confradria Et q<u><<a>>l q<u><<i>>er que passare contra
+esto pene C'ie<n>t m<a>r<auedis>. por pena p<ar>al cabil-
+lo. Et si sobresta razo<n> amparare la pe-
+yndra q<ue> sea peynd<r>ado por la pena por
+todo el cabillo. o por los q<ue> el cabillo e<n>bi-
+are por la dicha pena doblada Et q<u><<a>>l
+q<u><<i>>er q<ue> en razo<n> del cobrir & de faz<er> o<n>rra
+(^???) [^alas b]odas & a la fin & no<n> lo fiziere teni-
+endo cauallo & no<n> auiendo escusa der-
+echa. q<ue> pene por cada uegada vna do-
+bla de oro por por pena p<ar>a la co<n>fradria Et
+si finare mug<er> de <con>fradre q<ue>l faga<n> o<n>rra
+con c'irios & candelas ala vigilia & al e<n>t-
+erramie<n>to en uida del marido q<ue> fuer<e>
+co<n>frade. & despues si fuere bibda Et
+la q<ue> finare seyendo biuda q<ue> de el d<er>e-
+cho sobredicho ala fin. Et si fijo o fija
+del confradre biuie<n>do co<n> el padre o co<n>la}
+{CB2.
+madre no<n> seyendo casado o no<n> biuiendo A-
+partada mie<n>te sobre ssi q<ue>l faga<n> la dicha o<n>-
+rra de c'irios & candelas ala uigilia & A
+la missa & al e<n>terramie<n>to no<n> auie<n>do
+el fijo de .xx. an<n>os arriba & q<ue> no<n> den c'i-
+rios ni<n> cubran cauallos ni<n> den ni<n>gu<n>a
+cosa por el finamie<n>to Et los mayordom-
+os q<ue> den dos candelas q<ue> ardan sobr<e> el
+cuerpo del <con>fradre. o de la co<n>fradr[i]a. Et
+q<ue> aya en esta <con>fradria cada an<n>o escogi-
+dos por cabillo doze co<n>fradres q<ue> sea<n> del
+Lecho & sirua<n> el an<n>o en leuar el cuerpo
+a enterrar de casa a la Egl<es>ia & de la egl<es>ia
+a la fuessa. Et q<u><<a>>l q<u><<i>>er destos xij. <con>fradr<e>s
+q<ue> no<n> y uiniere a leuar el cuerpo a enter-
+rar com<m>o dicho es q<ue> pene por cada uez
+q<ua>tro m<a>r<auedis>. si fuere e<n>la uilla & si fuer<e> sano
+o no<n> mostra<n>do Razo<n> derecha. por que no<n>
+pudo uenir. Et esta pena q<ue> sea delo<<s>> ot<r><<o>>s
+sus co<n>pan<n>eros <con>fradres del lech<o>. Et los
+co<n>pan<n>eros q<ue> pueda<n> peyndrar por esta
+pena a q<u><<a>>l q<u><<i>>er del lecho q<ue> cayere en esta
+pena.
+{IN2.} Otrosi q<ue>los mayordomos den
+doze escolares q<ue> reze<n> de noche
+sobre el cuerpo del co<n>fradre & co<n>fradre
+que sea cabec'a mayor & q<ue>los pague<n> alos
+escolares lo que costare<n> delo dela confradr-
+ia.
+{IN2.} Et si alguno delos co<n>fradres finar<e>
+fuera dela uilla & lo traxieren}
+[fol. 16v]
+{CB2.
+ala uilla que todos los co<n>fradres le salga<n>
+a rec'ebir fuera dela uilla fasta la cas-
+a del Leo<n> o a sa<n>t agostin o fasta el hos-
+pital de gamonar o fasta sant fra<n>cisco
+o fasta barrederas & q<ue>l faga<n> onrra de
+cauallos encob<er>tados & de todo lo al q<ue> d-
+icho es a la uig<i>lia & al e<n>terrar com<m>o es di-
+cho Et si no<n> lo traxieren a e<n>terrar a la vi-
+lla q<ue>los co<n>fradres le faga<n> o<n>rra de c'iri-
+os & de candelas a la uigilia & a la missa
+q<u><<a>>ndo los parie<n>tes gelo fiziere<n> saber. Et
+e<n>la egl<es>ia do los parie<n>tes touiere<n> por bi-
+en tenie<n>do los confradres ala missa & al
+co<n>plimie<n>to candelas enlas manos & c'i-
+rios com<m>o dicho es. & paga<n>do el derech<o>
+dela fin. Et el <con>fradre q<ue> no<n> fuere a cad-
+a una destas cosas sobredichas q<ue> pene
+por cada uez vna lib<r><<a>> de c'era p<ar>a la con-
+fradria no<n> mostra<n>do alos mayordomo<<s>>
+escusa d<er>echa sacado ende la pena del e<n>co-
+bertar q<ue> sea vna dobla segu<n>t dich<o> es. &
+los del lecho q<ue>l trayan desde fuera d<e>la
+villa fasta su casa & otro dia al e<n>terrar
+Et si el <con>fradre finare & se mandare
+leuar a e<n>terrar fuera dela uilla q<ue>los co<n>-
+fradres q<ue> salga<n> co<n> el cuerpo fasta fuera
+dela villa alos logares sobredichos
+& q<ue>l faga<n> la o<n>rra delos cauallos enco-
+bertados:,
+{IN2.} Otrosi establecemos q<ue> arda una}
+{CB2.
+la<n>para delos <con>fradres en el altar dela ca-
+piella de s<an>c<t>iago q<ue> es e<n>la egl<es>ia de s<an>c<t>a M<ari><<a>> ala-
+s oras de todo el an<n>o.
+{IN2.} Otrosi establec'emos q<ue> en esta co<n>fra-
+dria fagamos cadan<n>o tres may-
+ordomos delos co<n>fradres de e<n>tre nos p<ar>a
+q<ue> sirua<n> esta co<n>fradria en el an<n>o & q<ue> recab-
+den todos los derechos dela co<n>fradria &
+q<ue> den a comer alos confradres cada an-
+no vna uez por la fiesta de s<an>c<t>iago o q<u><<a>>ndo
+uiere<n> q<ue> an tie<n>po p<ar>a ello & ante q<ue>los co<n>fr-
+adres coma<n> q<ue> den a com<er> a .xx. pobres pa<n>
+& vino & carne. Et los co<n>fradres q<ue> fuer-
+en enla uilla & no<n> viniere<n> a com<er> seye<n>do
+sanos sila co<n>fradria fuere comida a esco-
+te q<ue> pague ta<n>to como uno delos ot<r><<o>>s co<n>f-
+radres q<ue> uiniere<n> a com<er>
+{IN2.} Otro dia del sege q<ue> faga<n> dezir e<n>la
+dicha capiella de s<an>c<t>iago una mis-
+sa de req<u><<i>>em cantada por los co<n>fradres.
+finados los co<n>frades q<ue> ofresca<n> sen<n>os
+din<er>os & desta ofrrenda q<ue> sea el t<er>c'io p<ar>a el
+capella<n> & las dos p<ar>tes p<ar>a dar por dios Et
+la missa dicha q<ue> anden co<n> el cl<er>igo sobre
+los finados las candelas enlas manos
+Et q<ue> fagan luego cabillo en q<ue> fagan los
+mayordomos & los del lecho & ordenen
+lo q<ue> cu<n>pliere p<ar>a pro & guarda de la frey-
+ria & los mayordomos q<ue> acabare<n> ese.
+an<n>o q<ue> fagan los mayordomos nue-uos}
+[fol. 17r]
+{CB2.
+& los del lecho q<ue> faga<n> los del le-
+cho. Et q<u><<a>>l q<u><<i>>er q<ue> fiziere<n> por mayordo-
+mo o del lecho & no<n> lo q<u><<i>>siere ser q<ue> pene
+c'ie<n>t m<a>r<auedis> p<ar>a la freyria que lo sea o-
+tro an<n>o p<r><<i>>m<er>o q<ue> se siguira mayordo-
+mo o del lecho si fuere sacado p<ar>a ello
+Et q<ue>los mayordomos q<ue> saliere<n> q<ue> de<n>
+cue<n>ta delo del su tie<n>po alos mayor-
+domos nueuos co<n> el esc<r><<i>>uano & q<ue> co-
+ma<n> en uno & del an<n>o adelante q<ue> no<n>
+vsen del mayordomadgo so pena de
+cie<n>t m<a>r<auedis>
+{IN2.} Et p<ar>a ma<n>tener la freyria de Azey-
+te & delo al q<ue> cu<n>pliere Establec'e-
+mos q<ue> todo co<n>fradre desta <con>fradria que u-
+endiere cauallo o Roc'in q<ue> de alos ma-
+yordomos p<ar>a la freyria por cada cau-
+allo o Roc'in q<ue> ue<n>diere dos m<a>r<auedis> Et el
+q<ue> uendiere bestia mular. q<ue> de vn m<a>r<auedi>
+{IN2.} Otrosi q<ue> fagamos enel an<n>o tres
+uezes cabillo. El p<r><<i>>m<er>o cabillo
+ocho dias antes dela fiesta de santi-
+ago & el segu<n>do a las ochauas de Nab-
+idat & el Te<r>c'ero a las och<a>uas de pas-
+qua de q<u><<a>>resma. Et en estos tres cabi-
+llos sobredichos q<ue> todos los <con>fradre<<s>>
+q<ue> ue<n>gan y. & q<ue> trayan y. todos los d<inero>s
+delas bestias q<ue> ouiere<n> uendidas sobre
+su uerdat. Et los q<ue> no<n> y uiniere<n> lo<<s>>
+mayordomos recabden los dellos}
+{CB2.
+Et q<u><<a>>l q<u><<i>>er confradre q<ue> no<n> viniere a cabill<o>
+o me<n>guare alguna delas cosas sobredi-
+chas seyendo lamado por el andador q<ue>
+pene por cada uez p<ar>al cabillo vna lib<r><<a>>.
+de c'era no<n> mostrando escusa derecha.
+{IN2.} Ot<<r>>osi establecemos q<ue>los mayordo-
+mos recabden en el su an<n>o todo lo
+q<ue> deuiere<n> los co<n>fradres & las mug<er>es (&
+las mug<er>es) de los <con>fradres delas entra-
+das & delos finamie<n>tos o otra cosa q<u><<a>>l q<u><<i>>-
+er q<ue> deua<n> al cabillo delas re<n>tas o de otra
+cosa q<u><<a>>l q<u><<i>>er. Et el confradre q<ue>lo no<n> q<u><<i>>sier<e>
+pagar q<ue>l peyndre<n> por ello en g<u><<i>>sa q<ue> q<u><<a>>ndo
+ouiere<n> de dar cue<n>ta alos otros mayordo-
+mos q<ue> entraren q<ue>les den todo lo q<ue>les alca<n>-
+c[']are<n> por la cuenta en din<er>os o en pen<n>os q<ue>
+lo uala & silo no<n> ouiere<n>. Recabdado q<ue>lo
+pague<n> delo suio. Et los mayordomos q<ue>
+entrare<n> q<ue> peyndre<n> por ello alos mayordo-
+mos q<ue> saliere<n> & ningu<n> co<n>fradre no<n> a<n>pa-
+re peyndra alos mayordomos nj<n> al an-
+dador del cabillo q<ue> fuere peyndrar por
+mandado del cabillo o de los mayordo-
+mos Et q<u><<a>>l q<u><<i>>er q<ue> ge lo a<n>parare q<ue> pene por
+cada uez dos libras de cera. Et el cabil-
+lo olos q<ue> el cabillo diere co<n> los mayordo-
+mos q<ue>l peyndre<n> por ello. Et fasta q<ue>lo a-
+ya pagado q<ue>l no<n> faga<n> ni<n>guna o<n>rra dela
+confradria. Et los mayordomos a q<u><<i>> anp-
+arare<n> la peyndra muestre<n> lo al cabillo.}
+[fol. 17v]
+{CB2.
+ante q<ue> salga su an<n>o por q<ue> el cabillo
+q<ue>lo faga<n> entergar. Et si en su an<n>o no<n>
+lo mostrare<n> al cabillo no<n> gelo oyan
+mas despues. Mas pague<n> lo los ma-
+yordomos segu<n>t es dicho & despues
+el cabillo ayudenlos a cobrar lo p<ar>a
+ssi.
+{RMK: HSMS-0513-0002: Lista de cofrades de la Cofradía de Santiago, 1370-1385.} {IN2.} Estos sson los confradres d<e>l[ ]huerto d<e>l
+{SYMB: cross.} {IN1.} Ioh<a>n de ca<n>branas. %2 Rey.
+{SYMB: cross.} {IN1.} Ihoan de Sanchestel.
+{SYMB: cross.} {IN1.} Pero garcia de camargo alcalle.
+{SYMB: cross.} {IN1.} Alffon<so> g<arc'i>a su h<er>mano.
+{SYMB: cross.} {IN1.} Pero morlan.
+{SYMB: cross.} {IN1.} Alffon<so> sanchez de p<er>ella alcall<e>
+{SYMB: cross.} {IN1.} Garc'i ferr<ande>z fijo de don ferr<an>t m<artine>z.
+{SYMB: cross.} {IN1.} Martin m<artine>z.
+{SYMB: cross.} {IN1.} Ihoan Royz de sanchestel.
+{SYMB: cross.} {IN1.} Gonc'alo gil cozin<er>o mayor d<e>l Rey.
+{SYMB: cross.} {IN1.} Alffon<so> ferr<ande>z fijo de do<n> ferra<n>t m<artine>z el
+{SYMB: cross.} {IN1.} Guillem fabre alcall<e>. %2 jouen.
+{SYMB: cross.} {IN1.} Gonc'alo gutierrez.
+{SYMB: cross.} {IN1.} Sancho ferrandez.
+{SYMB: cross.} {IN1.} Ferra<n>t g<arc'i>a fijo de f<e>rr<an>t g<arc'i>a de camargo
+{SYMB: cross.} {IN1.} Pero ferr<ande>z fijo de don f<e>rr<an>t m<artine>z:,}
+{CB2.
+{SYMB: cross.} {IN1.} Ioh<a>n g<arc'i>a fijo de do<n> g<arc'i>a p<ere>z de camargo
+{SYMB: cross.} {IN1.} Ioh<a>n Ruyz de camargo.
+{SYMB: cross.} {IN1.} Pero p<ere>z baragan.
+{SYMB: cross.} {IN1.} Pero g<arc'i>a de camargo el moc'o.
+{SYMB: cross.} {IN1.} Gonc'alo g<arc'i>a de sa<n>t fagu<n>t.
+{SYMB: cross.} {IN1.} Alffon<so> g<arc'i>a de camargo el moc'o:,}
+[fol. 18r]
+{CB2.
+{IN2.} Estos son los <con>frades dela cal de sa-
+nt lore<n>te.
+{SYMB: cross.} {IN1.} Garc'i perez de carrio<n>
+{SYMB: cross.} {IN1.} Remo<n>t bonifaz alcalle
+{SYMB: cross.} {IN1.} Rostan bonifaz
+{SYMB: cross.} {IN1.} Ferra<n>t bonifaz
+{SYMB: cross.} {IN1.} Sancho p<ere>z fijo de don joh<a>n g<u><<i>>lle<n>
+{SYMB: cross.} {IN1.} Garc'i sanch<e>z fijo de don vidal
+{SYMB: cross.} {IN1.} Alffon<so> g<arc'i>a de gorjas
+{SYMB: cross.} {IN1.} Miguel g<arc'i>a su h<er>mano
+{SYMB: cross.} {IN1.} Simo<n> de cambranas alcall<e>.
+{SYMB: cross.} {IN1.} Garc'i Sanch<e>z de p<er>ella
+{SYMB: cross.} {IN1.} Simo<n> p<ere>z g<u><<i>>ralt.
+{SYMB: cross.} {IN1.} Simo<n> p<ere>z fijo de do<n> p<er>o mig<ue>l.
+{SYMB: cross.} {IN1.} Sancho de canbranas.
+{SYMB: cross.} {IN1.} Ioh<a>n trapaz
+{SYMB: cross.} {IN1.} Guille<n> de lalo.
+{SYMB: cross.} {IN1.} Bernalt de prestines.
+{SYMB: cross.} {IN1.} Ioh<a>n bonifaz su h<er>mano
+{SYMB: cross.} {IN1.} Remo<n>t de prestines.
+{SYMB: cross.} {IN1.} Pero bonifaz
+{SYMB: cross.} {IN1.} E Joh<a>n lopez fijos de Remo<n>t bonifaz.
+{SYMB: cross.} {IN1.} Joh<a>n p<ere>z de frias
+{SYMB: cross.} {IN1.} Alffon<so> p<ere>z fijo de do<n> Joh<a>n g<u><<i>>lle<n>
+{SYMB: cross.} {IN1.} Pero gonel.
+{SYMB: cross.} {IN1.} Ferrant aluarez.
+{SYMB: cross.} {IN1.} Ioh<a>n math<e> de ag<u><<i>>lar.
+{SYMB: cross.} {IN1.} Diego m<artinez> de s<an>c<t>o domi<n>go.
+{SYMB: cross.} {IN1.} Gonc'alo m<artinez> su h<er>mano.
+{SYMB: cross.} {IN1.} Alffon<so> g<arc'i>a de gorjas el moc'o.
+{SYMB: cross.} {IN1.} Ioh<a>n g<arc'i>a su h<er>mano.}
+{CB2.
+{SYMB: cross.} {IN1.} Alffon<so> g<arc'i>a de sa<n>t m<artin>
+{SYMB: cross.} {IN1.} Ihoan alffon<so> de canbranas.
+{SYMB: cross.} {IN1.} Gil g<<o>><nc'ale>z
+{SYMB: cross.} {IN1.} Ioh<a>n g<u><<i>>llem fijo de do<n> joh<a>n g<u><<i>>lem.
+{SYMB: cross.} {IN1.} Ioh<a>n Remo<n>t.
+{SYMB: cross.} {IN1.} Sancho g<arc'i>a de s<an>c<t>o domi<n>go.
+{SYMB: cross.} {IN1.} Ioh<a>n alffon<so> fijo de do<n> mig<ue>l joh<a>n
+{SYMB: cross.} {IN1.} Alffon<so> p<ere>z su h<er>mano.
+{SYMB: cross.} {IN1.} Pero joh<a>n fijo do<n> joh<a>n p<ere>z sadornj<n>.
+{SYMB: cross.} {IN1.} Alffon<so> p<ere>z su h<er>mano.
+{SYMB: cross.} {IN1.} Ioh<a>n del puche.
+{SYMB: cross.} {IN1.} Alffon<so> m<artine>z merlin.
+{SYMB: cross.} {IN1.} Alffon<so> p<ere>z [^2#de villegas] esc<r><<i>>uano mayor del conc'ejo.
+{SYMB: cross.} {IN1.} Gil ff<e>rr<ande>z de briuega.
+{SYMB: cross.} {IN1.} Ioh<a>n ff<e>rr<ande>z su h<er>mano.
+{SYMB: cross.} {IN1.} Ioh<a>n alffon<so> castello.
+{SYMB: cross.} {IN1.} Sancho p<ere>z de s<an>c<t>o domi<n>go.
+{SYMB: cross.} {IN1.} Ioh<a>n mathe fijo de don math<e> p<ere>z.
+{SYMB: cross.} {IN1.} Ferra<n>t y<uanne>s de granon.
+{SYMB: cross.} {IN1.} Garc'i p<ere>z fijo de don mathe p<ere>z.
+{SYMB: cross.} {IN1.} Pero f<e>rr<ande>z h<er>mano del [???]
+{SYMB: cross.} {IN1.} Pero de la Riba;
+{SYMB: cross.} {IN1.} Alffon<so> sanch<e>z d<e>la cal de sa<n>t lore<n>t
+{SYMB: cross.} {IN1.} Ponc' de prestines
+{SYMB: cross.} {IN1.} Lope alffon<so> de Toro.
+{SYMB: cross.} {IN1.} Lope Ramirez
+{SYMB: cross.} {IN1.} Ioh<a>n bartolome dela cal de sa<n>t lore<n>t.
+{SYMB: cross.} {IN1.} Iames Royz.
+{SYMB: cross.} {IN1.} Alffon<so> fijo del alcall<e> simo<n> de ca<n>bran<<a>>s.
+{SYMB: cross.} {IN1.} Garc'i m<artine>z de fue<n>t cea.
+{SYMB: cross.} {IN1.} Don Garc'i Royz de ffrias.}
+[fol. 18v]
+{CB2.
+{IN1.} Ioh<a>n g<onc'ale>z de ffrias.
+{IN1.} Don p<er>o p<ere>z.
+{IN1.} Don m<arti>n ff<e>rr<ande>z de s<an>c<t>o domi<n>go.
+{IN1.} Pero m<artine>z de fue<n>t c'ea.
+{IN1.} Ioh<a>n esteuanez merino.
+{IN1.} Alffon<so> goche.
+{IN1.} Dia sanchez fijo de do<n> guzb<an> gonel
+{IN1.} Ioh<a>n g<u><<i>>ralte.
+{IN1.} Marti<n> m<artine>z de [^2#y]turrios.
+{IN1.} Ferra<n>t trapaz.
+{IN1.} Ferra<n>t g<arc'i>a yerno de f<e>rr<an>t p<ere>z azemil<er>o ma[yor]
+{IN1.} Ioh<a>n mathe alcalle fijo de Joh<a>n mathe.
+{IN1.} Pero p<ere>z yerno de p<er>o t<r><<a>>paz.
+{IN1.} Garc'i m<artine>z fijo don m<arti>n m<artine>z.
+{IN1.} Bernal Remo<n>t
+{IN1.} Ioh<a>n ff<e>rr<ande>z de frias
+{IN1.} Marti<n> ff<e>rr<ande>z su h<er>mano.
+{IN1.} Don m<arti>n ff<e>rr<ande>z de sancto domingo.
+{IN1.} Ioh<a>n g<u><<i>>llen fijo de don g<u><<i>>lle<n> fabre
+{IN1.} Pero ff<e>rr<ande>z de villiegas esc<r><<i>>uano.
+{IN1.} Ferna<n> g<arc'i>a darelc'e.
+{IN1.} Ioh<a>n sanch<e>z de barando.
+{IN1.} Ioh<a>n g<arc'i>a de arelc'e.
+{IN1.} Ioh<a>n perez fijo de p<er>o joh<a>n de cario<n>
+{IN1.} Roy p<ere>z auogado.
+{IN1.} Pero m<artine>z de sa<n>t m<arti>n.
+{IN1.} Ferra<n>t g<arc'i>a fijo de alffon<so> g<arc'i>a de gorja<<s>>
+{IN1.} Pero bonifaz fijo de Rosta<n> bonifaz.
+{SYMB: cross.} {IN1.} Alfonso ff<e>rr<ande>s de valdeuielso.
+{SYMB: cross.} % Garc'i ferandes despinosa.}
+{CB2.
+{IN2.} Estos son los confrades dela cal delas
+armas
+{IN1.} Lope p<ere>z alcalle
+{IN1.} Ioh<a>n bonifaz.
+{IN1.} Roy gonc'alez.
+{IN1.} Lope p<ere>z fijo do<n> arnal de sanchest<e>l
+{IN1.} Diego Alffon<so>
+{IN1.} Ioh<a>n p<ere>z marq<ue>s.
+{IN1.} Lope p<ere>z fijo del alcall<e> lope p<ere>z.
+{IN1.} Ferra<n>t g<<o>><nzale>z despejo.
+{SYMB: cross.} % Alonso fer<rande>s [???] de
+joan rodriges de buena ventura.
+[???]
+{IN1.} Pero mate fijo de don ioh<a>n mate
+{IN2.} Estos son los <con>frades dela cal de sa<n>t este-
+uan.
+{IN1.} Pero sanch<e>s fijo de do<n> sancho g<arc'ia>.
+{IN1.} Simo<n> gonc'alez.
+{IN1.} Diego g<arc'i>a fijo de alffon<so> g<arc'i>a de gorja<<s>>
+{IN1.} Aparic'io m<artine>z.
+{IN1.} Roy f<e>rr<ande>z de frias.
+{IN1.} Martin p<ere>z de frias.
+{IN1.} Pero ff<e>rr<ande>z dela Riba
+{IN1.} Ferr<an>t g<arc'i>a fijo de ynes gom<e>z.
+{IN1.} Pero lopez [???]
+{IN1.} Ioh<a>n de ss<a>nt j<<o>><han> fijo de joh<a>n bartolom<e>
+{IN1.} Pero g<<o>><nc'ale>z de s<an>c<t>a M<ari><<a>> m<er>cad<er>o.
+% Yn~igo m<artine>s de tec'a.}
+[fol. 19r]
+{CB2.
+{SYMB: cross.} % Juan p<er>ez pan agua Regidor
+{SYMB: cross.} % Alonso sanches
+{SYMB: cross.} {IN1.} Martin sanchez de s<an>c<t>o d<omin>go.
+{SYMB: cross.} {IN1.} Pero sanchez gonel
+{SYMB: cross.} % Johan m<artine>s de givara el mayor.
+{SYMB: cross.} % Juan m<artine>s de givara su fijo
+{SYMB: cross.} % P<er>o m<artine>s de givara su hermano
+{SYMB: cross.} % Martin perez de tec'a
+{SYMB: cross.} % Alonso sanches de agilar
+{SYMB: cross.} % Johan sanches de vitoria
+{SYMB: cross.} % Juan sanches (^??)[^2#cun~a]do del alcalde
+martin gonc'alez.
+{SYMB: cross.} % Ferant lopes de astun~iga castille<r>o.
+{SYMB: cross.} % Diego g<<o>><nc'ale>s thesore<r>o dela moneda.
+{SYMB: cross.} % rodrigo alvares barahona
+{SYMB: cross.} % gonc'alo g<<o>><nc'ale>s de fermosa.
+{SYMB: cross.} % Alonso m<artine>s de villa[+]qujran.
+{SYMB: cross.} % Lope ferandes
+{SYMB: cross.} % roy sanches de valmaseda
+{SYMB: cross.} % Juan royz de medina
+{SYMB: cross.} % P<er>o rois el moc'o
+{SYMB: cross.} % Juan dela mota
+{SYMB: cross.} % Juan alonso de formellaq<ue>
+{SYMB: cross.} % giralte de prestines al<ca>llde.
+{SYMB: cross.} % Juan g<arc'i>a el rico regidor
+{SYMB: cross.} % p<er>o alonso alcallde dotor}
+{CB2.
+{SYMB: cross.} {IN1.} Ferra<n>d g<arc'i>a fijo g<arc'>i p<ere>s de frias.
+{SYMB: cross.} ffranc'isco g<arc'i>a de frias su h<e>r<mano>
+{SYMB: cross.} {IN1.} Pero g<arc'i>a su h<er>mano de frias
+{SYMB: cross.} {IN1.} Pero ximen<e>s fijo del alcall<e> juan mathe
+{SYMB: cross.} Symo<n> Peres su h<e>rmano
+[g]arc'ia fijo de p<er>o g<arc'i>a de [??]
+{SYMB: cross.} {IN1.} Joh<a>n rrodriguez fijo de joh<a>n [*rrodri]-
+gues buena uentura
+{SYMB: cross.} {IN1.} Ioh<a>n garcia de arienc'a
+{SYMB: cross.} % Sancho m<artine>s de cifuen[*tes]
+{SYMB: cross.} % juan rodriguez de burgos
+{SYMB: cross.} % P<er>o g<arc'i>a de logron~o
+{SYMB: cross.} % g<arc'>i f<e>rr<ande>s de frias
+{SYMB: cross.} % Remon x<imene>s oliver.
+{SYMB: cross.} % Francisco m<artine>s de burgos Re[*gidor]
+{SYMB: cross.} % g<arc'i>a de soto Regidor
+{SYMB: cross.} % P<er>o alonso de formellaq<ue>
+{SYMB: cross.} % P<er>o g<arc'i>a el rico.
+{SYMB: cross.} % Alonso g<arc'i>a de cuenca.
+{SYMB: cross.} % Juan m<artine>s de ban~uelos.}
+[fol. 19v]
+[fol. 20r]
+{CB2.
+{RMK: HSMS-0513-0003: Armorial  de la Cofradía de Santiago, 1370-1501.} % Joh<a>n de ca<n>branas
+{=MIN.}
+% Don joh<a>n de sa<n>t[+]chestel.
+{=MIN.}}
+{CB2.
+% pero g<arc'i><<a>> de camargo
+{=MIN.}
+% alffonsso g<arc'i><<a>> de camargo
+{=MIN.}}
+[fol. 20v]
+{CB2.
+% Alffon<so> sanchez de perella alcall<e>
+{=MIN.}
+% Garc'i f<e>rr<ande>z
+{=MIN.}}
+{CB2.
+% p<er>o morlan
+{=MIN.}
+% M<artin> m<artine>z fijo de do<n> M<arti>n m<artine>z
+{=MIN.}}
+[fol. 21r]
+{CB2.
+% Joh<a>n Royz de sant[+]chestel
+{=MIN.}
+% Guille<n> fabre alcall<e>
+{=MIN.}}
+{CB2.
+% Alffon<so> ferr<ande>z fijo de do<n> ferra<n>t m<artine>z el joue<n>
+{=MIN.}
+% G<onc'al><<o>> gutierrez
+{=MIN.}}
+[fol. 21v]
+{CB2.
+% G<onc'al><<o>> gil cozin<er>o mayor d<e>l Rey.
+{=MIN.}
+% S<anch><<o>> ff<e>rr<ande>z fijo de do<n> Joh<a>n ff<e>rr<ande>z
+{=MIN.}}
+{CB2.
+% Ferr<an>t G<arc'i><<a>> fijo de ferr<an>t g<arc'i><<a>> de camargo
+{=MIN.}
+% Joh<a>n g<arc'i><<a>> fijo de G<arc'i><<a>> p<ere>z de camargo.
+{=MIN.}}
+[fol. 22r]
+{CB2.
+% Garc'i p<ere>z de carryon
+{=MIN.}
+% Rostan boniffaz
+{=MIN.}}
+{CB2.
+% Remon bonifaz alcalle
+{=MIN.}
+% Ferra<n>t boniffaz alcall<e>
+{=MIN.}}
+[fol. 22v]
+{CB2.
+% Sanch<o> p<ere>z fijo de do<n> orpesa
+{=MIN.}
+% G<arc'i><<a>> sanchez fijo de do<n> vidal.
+{=MIN.}}
+{CB2.
+% alffon<so> g<arc'i><<a>> de gorjas
+{=MIN.}
+% mig<ue>l de gorjas
+{=MIN.}}
+[fol. 23r]
+{CB2.
+% Simo<n> de canbranas acall<e>
+{=MIN.}
+% G<arc'i><<a>> sanchez de p<er>ella
+{=MIN.}}
+{CB2.
+% Simo<n> p<ere>z g<u><<i>>ralte. alcall<e>
+{=MIN.}
+% Simo<n> p<ere>z fijo de don p<er>o mig<ue>l
+{=MIN.}}
+[fol. 23v]
+{CB2.
+% S<anch><<o>> de canbranas
+{=MIN.}
+% Joh<a>n Trapaz
+{=MIN.}}
+{CB2.
+% Guille<n> de[ ]la( )lo
+{=MIN.}
+% Remo<n>t de prestines
+{=MIN.}}
+[fol. 24r]
+{CB2.
+% Bernal de prestines
+{=MIN.}
+% p<er>o bonifaz fijo de Remo<n> bonifaz
+{=MIN.}}
+{CB2.
+% Joh<a>n bonifaz de prestines
+{=MIN.}
+% Joh<a>n lopez fijo de Remo<n> bonifaz
+{=MIN.}}
+[fol. 24v]
+{CB2.
+% Joh[<a>]n de Aguilar
+{=MIN.}
+% Joh<a>n p<ere>z de frias
+{=MIN.}}
+{CB2.
+% ponc' de prestines
+{=MIN.}
+% P<ero> gonel.
+{=MIN.}}
+[fol. 25r]
+{CB2.
+% diego m<artine>z de s<an>c<t>o d<oming><<o>>
+{=MIN.}
+% G<onc'al><<o>> m<artine>z su h<er>mano
+{=MIN.}}
+{CB2.
+% Alffon<so> g<arc'i><<a>> el moc'o
+{=MIN.}
+% Joh<a>n g<arc'i><<a>> su h<er>mano
+{=MIN.}}
+[fol. 25v]
+{CB2.
+% Joh<a>n alffon<so> de ca<n>branas
+{=MIN.}
+% alffon<so> g<arc'i><<a>> de sa<nc>t<a> M<ari><<a>>
+{=MIN.}}
+{CB2.
+% gil gonc'alez
+{=MIN.}
+% Joh[<a>]n guillem
+{=MIN.}}
+[fol. 26r]
+{CB2.
+% Joh<a><n> Remo<n>t
+{=MIN.}
+% Don m<arti>n ff<e>rr<ande>z de s<an>c<t>o domi<n>go
+{=MIN.}}
+{CB2.
+% bernal Remo<n>t
+{=MIN.}
+% fferra<n>t aluarez
+{=MIN.}}
+[fol. 26v]
+{CB2.
+% Joh<a>n alffon<so> fijo do<n> mig<ue>l j<<o>><han>
+{=MIN.}
+% p<er>o joh[<a>]n fijo de do<n> j<<o>><han> p<ere>z sadornj<n>
+{=MIN.}}
+{CB2.
+% alffon<so> p<ere>z su h<er>mano
+{=MIN.}
+% alffon<so> p<ere>z su h<er>mano
+{=MIN.}}
+[fol. 27r]
+{CB2.
+% Joh<a>n del puche
+{=MIN.}
+% Alffon<so> p<ere>z esc<r><<i>>uano Mayor [^2#de Uillegas]
+{=MIN.}}
+{CB2.
+% Alffon<so> m<artine>z Merlin
+{=MIN.}
+% Gil ff<e>rr<ande>z de b<r><<i>>uega
+{=MIN.}}
+[fol. 27v]
+{CB2.
+% Joh<a>n ff<e>rr<ande>z de briuega.
+{=MIN.}
+% G<arc'i><<a>> m<artine>z fijo de do<n> m<arti>n m<artine>z
+{=MIN.}}
+{CB2.
+% Ferra<n>t y<uanne>s de granon
+{=MIN.}
+% Sanch<o> p<ere>z de s<an>c<t>o domi<n>go
+{=MIN.}}
+[fol. 28r]
+{CB2.
+% G<arc'i><<a>> p<ere>z fijo de don math<e> p<ere>z de frias
+{=MIN.}
+% Pero m<artine>z de sa<n>t Marti<n>:,
+{=MIN.}}
+{CB2.
+% Joh<a>n math<e> su h<er>mano
+{=MIN.}
+% Alffon<so> Sanches yerno de g<onc'al><<o>> Royz
+{=MIN.}}
+[fol. 28v]
+{CB2.
+% lope p<ere>z alcalle
+{=MIN.}
+% Roy g<<o>><nc'ale>z Rendon
+{=MIN.}}
+{CB2.
+% Joh<a>n bonifaz
+{=MIN.}
+% diego alffon<so>
+{=MIN.}}
+[fol. 29r]
+{CB2.
+% p<er>o sanch<e>s de san<n>t esteua<n>
+{=MIN.}
+% Joh<a>n bartolome dela cal
+{=MIN.}}
+{CB2.
+% Simo<n> g<<o>><nc'ale>z
+{=MIN.}
+% Joh<a>n Math<e> fijo de ferr<an>t y<uann><<e>>s
+{=MIN.}}
+[fol. 29v]
+{CB2.
+% G<arc'i><<a>> m<artine>z de fue<n>t c'ea
+{=MIN.}
+% Joh<a>n de sa<n>t joh<a>n
+{=MIN.}}
+{CB2.
+% James Ruyz
+{=MIN.}
+% Lope alffon<so> de Toro
+{=MIN.}}
+[fol. 30r]
+{CB2.
+% fferra<n>t trapaz
+{=MIN.}
+% Joh<a>n p<ere>z marq<ue>s:.
+{=MIN.}}
+{CB2.
+% Alffon<so> ffijo del alcall<e>
+{=MIN.}
+% Joh<a>n esteua<ne>z Merino
+{=MIN.}}
+[fol. 30v]
+{CB2.
+% Joh<a>n g<u><<i>>ralt
+{=MIN.}
+% fferra<n> g<arc'i><<a>> fijo de yn<e>s gom<e>z
+{=MIN.}}
+{CB2.
+% Pero m<artine>z de fue<n>t c'ea
+{=MIN.}
+% G<arc'i><<a>> p<ere>z de carrion el moc'o
+{=MIN.}}
+[fol. 31r]
+{CB2.
+% g<u><<i>>ral Remo<n>t
+{=MIN.}
+% Pero p<ere>z
+{=MIN.}}
+{CB2.
+% lope p<ere>z de moc'o alcall<e>;
+{=MIN.}
+% dia ssanch<e>z
+{=MIN.}}
+[fol. 31v]
+{CB2.
+% Joh<a>n ff<e>rr<ande>z de ffrias
+{=MIN.}
+% Roy ff<e>rr<ande>z de ffrias
+{=MIN.}}
+{CB2.
+% M<arti>n ff<e>rr<ande>z de ffrias
+{=MIN.}
+% M<arti>n p<ere>z de frias
+{=MIN.}}
+[fol. 32r]
+{CB2.
+% Lope Ramirez
+{=MIN.}
+% fferr<an>t G<arc'i><<a>> de cue<n>ca
+{=MIN.}}
+{CB2.
+% don p<er>o p<ere>z
+{=MIN.}
+% M<arti>n m<artine>z de Turrios
+{=MIN.}}
+[fol. 32v]
+{CB1.
+{RMK: HSMS-0513-0001: Primera regla de la Cofradía de Santiago.} {IN2.} Esta es la Regla delos conffradres dela confradria del Apostol se-
+nnor S<an>c<t>iago. q<ue> mandaro<n> faz<er> por mandado del cabillo. Sanch<<o>> p<er>es
+fijo de don joh<a>n g<u><<i>>lle<n>. % Et g<arc'i><<a>> sanch<e>s. fijo de don vidal. % Et Alffon<so> ff<e>rr<ande>z
+fijo de don fferr<an>t m<artine>s el Joue<n>. En el anno q<ue> fuero<n> mayordomos Todos tres
+% En el anno dela Era de mill. & trezientos & .lxxvj. An~os. Et fizola Por su
+mandado joh<a>n G<arc'i><<a>>. c<r><<i>>ado q<ue> fue de p<er>o joh<a>n de Carrion. Dios & sen~or S<an>c<t>iago le
+de bue<n> galardon AMEN:.}
+{CB2.
+{RMK: HSMS-0513-0003: Armorial  de la Cofradía de Santiago, 1370-1501.} % joh<a>n p<ere>z de Carrio<n> fijo de p<er>o j<o>h<a>n
+{=MIN.}
+% Joh<a>n ssanch<e>z de barrado
+{=MIN.}}
+{CB2.
+% P<er>o ff<e>rr<ande>z de villegas esc<r><<i>>uano
+{=MIN.}
+% Alffon<so> goche.
+{=MIN.}}
+[fol. 33r]
+{CB2.
+% P<er>o Lopez:,
+{=MIN.}
+% G<onc'al><<o>> g<arc'i><<a>> de Sa<n>t Fagu<n>t.
+{=MIN.}}
+{CB2.
+% fferra<n>t g<<o>><nc'ale>z despejo:,
+{=MIN.}
+% P<er>o g<<o>><nc'ale>z de s<an>c<t>a M<ari><<a>> M<erino>
+{=MIN.}}
+[fol. 33v]
+{CB2.
+% Diego g<arc'i><<a>> fijo de alffon<so> g<arc'i><<a>> de gorjas
+{=MIN.}
+% Pero p<ere>z Barragan:,
+{=MIN.}}
+{CB2.
+% Pero g<arc'i><<a>> de camargo el moc'o
+{=MIN.}
+% m<arti>n p<ere>s dordvn~a
+{=MIN.}}
+[fol. 34r]
+{CB2.
+% fferra<n>t G<arc'i><<a>> de gorjas alcalde de bur-
+gos guarda de n<uest>ro sen~or el Rey.
+{=MIN.}
+% Joh<a>n G<arc'i><<a>> de arelc'(^e)[^a].
+{=MIN.}}
+{CB2.
+% Ferra<n>t G<arc'i><<a>> de arelc'(^e)[^a].
+{=MIN.}
+% Alffons<so> g<arc'i><<a>> de camargo el Moc'o,
+{=MIN.}}
+[fol. 34v]
+{CB2.
+% Joh<a>n g<onc'ale>z de ffrias:.
+{=MIN.}
+% YUAN DE SAN YUAN
+[^2#fijo de don joh<a>n bartolom<e>]
+{=MIN.}}
+{CB2.
+% m<arti>n martinez fijo de m<arti>n m<artine>z
+{=MIN.}
+% GARCI PEREZ DE CAMARGO
+EL MOC'O
+{=MIN.}}
+[fol. 35r]
+{CB2.
+% [^2#j<<o>><an> lop<e>z de ffryas
+Ju<an> lopez de frias]
+{=MIN.}
+% francisco fernandez
+{=MIN.}}
+{CB2.
+% Por n<uest>ro sen~or el Rey [*al]-
+calde della Justicia
+el dicho sen~or
+{=MIN.}
+% p<er>o re<n>don
+{=MIN.}}
+[fol. 35v]
+{CB2.
+% joh<a>n g<onc'ale>z de camargo
+{=MIN.}
+% bartollome p<ere>z ffijo de rroy p<ere>z baragan
+{=MIN.}}
+{CB2.
+% FERAN MARTIN-
+ES
+{=MIN.}
+% joh<a>n rroyz de camargo
+{=MIN.}}
+[fol. 36r]
+{CB2.
+% beltran de prestines
+{=MIN.}
+% [^2#ffijo de [???]]
+p<er>o f<e>rr<ande>s alcall<e> d<e>la [??]
+{=MIN.}}
+{CB2.
+% p<er>o gonel el moc'o
+{=MIN.}
+% joh<a>n lopez de sanc'oles Alcall<e>
+{=MIN.}}
+[fol. 36v]
+{CB2.
+% Gonc[']alo g<arc'i><<a>> de fermosa.
+{=MIN.}
+% ioh<a>n dela mota.
+{=MIN.}}
+{CB2.
+% Garci ruys alcalde.
+{=MIN.}
+% alfonso garcia de cuenca
+{=MIN.}}
+[fol. 37r]
+{CB2.
+% sancho martiniz dela hestosa
+{=MIN.}
+% aparicio sanchiz
+{=MIN.}}
+{CB2.
+% p<er>o sa<n>chiz de s<anct>o domi<ngo>
+{=MIN.}
+% marti<n> ff<e>r<nande>s de s<an>c<t>o domi<n>go
+{=MIN.}}
+[fol. 37v]
+{CB2.
+% g<onc'al><<o>> gonc'aliz fijo del alcalde g<onc'al><<o>> gil
+{=MIN.}
+% ioh<a>n de sant ioh<a>n<e>s
+{=MIN.}}
+{CB2.
+% joh<a>n sanchis de sanchister
+{=MIN.}
+% diag aluarez de Carrio<n> fiio de rodrigo aluarez Alca-
+ll<e> delos fiios dalgo de cas-
+tiella
+{=MIN.}}
+[fol. 38r]
+{CB2.
+% joh<a>n mathe alcall<e> dela c'ibdat de burgos
+fijo de juhan mathe [^2#alcalde]
+{=MIN.}
+% ff<e>rrand diaz pancaljente
+{=MIN.}}
+{CB2.
+% [??] mathe su h[*ermano]
+{=MIN.}
+% gonc'alo diaz pan-
+caljente
+{=MIN.}}
+[fol. 38v]
+{CB2.
+% Rod<r><<i>>go p<ere>z va<sa>llo d<e>l muy Noble Rey don P<edr><<o>> c<r><<i>>ado del muy Alto rrey don Alffon<so>
+ffijo de joh<a>n p<ere>s rrepost<er>o del dicho Rey don Alffon<so> & c<r><<i>>ado Repost<er>o mayor
+dela rreyna don~a marya mug<e>r del Rey don Sancho:
+{=MIN.}
+% Joh<a>m giralte el moc[']o.
+{=MIN.}}
+{CB2.
+% gomez p<e>r<e>z tendero de
+pan~os
+{=MIN.}
+% (^m)Marti<n> sanches de uala<n>de
+{=MIN.}}
+[fol. 39r]
+{CB2.
+% per alonso ten[*dero]
+{=MIN.}
+% alfonso de formallaq<ue>
+{=MIN.}}
+{CB2.
+% diego martinez de santo d<omin>go
+{=MIN.}
+% lope ferandez ten[*dero]
+{=MIN.}}
+[fol. 39v]
+{CB2.
+% G<onc'al><<o>> Sanchez de s<an>c<t>o d<omin>go
+{=MIN.}
+% Sancho sanchez alcald del Rey e<n>la su corte
+& oydor dela su audie<n>cia:.
+{=MIN.}}
+{CB2.
+% p<er>o sanchez gonel
+{=MIN.}
+% Gonc'alo p<ere>s esc<r><<i>>[*uano]}
+[fol. 40r]
+{CB2.
+% ferra<n>d g<arc'i>a fijo de g<arc'i>a p<ere>s de frias
+{=MIN.}
+% [^2#el alcall<e>] p<er>o ximen<e>s fijo del alcalle Joh<a>n mathe
+{=MIN.}}
+{CB2.
+% p<er>o garcia su h<e>rmano
+{=MIN.}
+% Symo<n> p<ere>s su h<erman>o
+{=MIN.}}
+[fol. 40v]
+{CB2.
+% [???]
+{=MIN.}
+% franc'isco garc'ia fijo de g<arc'i>a p<ere>z de ffrias
+{=MIN.}}
+{CB2.
+% PERO FERRANDEZ HIJO DE
+DON ALFONSO FERRA<N>DEZ
+QUE DIOS P<ER>DONE
+{=MIN.}
+% garc'ia de ffryas fijo de p<e>ro garc'ia de fryas
+{=MIN.}}
+[fol. 41r]
+{CB2.
+% Joh<a>n g<onc'ale>z alcall<e>
+{=MIN.}
+% p<er>o bonifaz fijo de remo<n> bonifaz el
+moc'o camarero mayor q<ue> fue del i<n>fa<n>te
+do<n> ioh<a>m el q<ue> mato el rey don ped<r><<o>>
+en bilbao.
+{=MIN.}}
+{CB2.
+% f<er>ran g<onc'ale>s su fijo
+{=MIN.}
+% Este es ma<r>tjn p<ere>s de tec'a
+{=MIN.}}
+[fol. 41v]
+{CB2.
+% Pero g<arc'i><<a>> de camargo el moc'o fijo de g<arc'i><<a>> p<ere>z de camargo
+alcalle d<e>la corte de n<uest>ro sen~or el Rey & fue aq<u><<i>> puesto el
+an~o d<e>la era de mill & cccc<<s>>. & xvi. an~os
+{=MIN.}
+% Diego f<e>r<nande>s de frias & fue aq<u><<i>> puesto
+el an~o dela era de mill & cccc<<s>> & xvi an~os
+{=MIN.}}
+{CB2.
+% Joh<a>m de sant ioh<a>n<e>s el moc'o fijo de Joh<a>n de sant ioh<a>n<e>s
+& fue aqui puesto el an~o dela era de mill & cccc<<s>> & xvi an~os.
+{=MIN.}
+% Gonc[']alo sanchez de cibdat fijo de sancho f<e>r<nande>s de
+cibdat & fue aqui puesto el an~o de la era de mill &
+cccc<<s>>. & xvi an~os.
+{=MIN.}}
+[fol. 42r]
+{CB2.
+% Joh<a>m garc'ia de espinosa & fue aq<u><<i>> puesto el
+an~o dela era de mill & cccc<<s>> & xvi an~os.
+{=MIN.}
+% Marti<n> f<e>r<nande>s de cibdat & fue aq<u><<i>> puesto era de
+mill & cccc<<s>> & xix an~os.
+{=MIN.}}
+{CB2.
+% Sancho garc'ia dela lo & fue aq<u><<i>> puesto
+an~o de mill & cccc<<s>> & xvi an~os.
+{=MIN.}
+% este es anto<n> m<artine>s de guadalfajara om[e]
+bueno d<e>los seze d<e>la muy noble c'ib-
+dat de burgos & fue pu[*esto]
+aq<u><<i>> en<e>l an~o de mil [*quatro]
+sientos [???]
+{=MIN.}}
+[fol. 42v]
+{CB2.
+% [??] alfonso de castro do[??] el mayor co-
+[*rre]gidor & veedor mayor del rrey en viscaya
+enlas encartac'iones
+{=MIN.}
+% yenego m<artine>s de tec'a
+{=MIN.}}
+{CB2.
+% m<art><<i>><n> gonc'alez de frias alcall<e> dela muy noble
+c'ibdat de b<ur>gos
+{=MIN.}
+% ioh<a>n sanch<e>s de vergara alcall<e> enla muy Noble
+cibdat de Burgos
+{=MIN.}}
+[fol. 43r]
+{CB2.
+% [??] fernandes de vilegas contador mayor
+[*del] rey su merino mayor en burgos
+{=MIN.}
+% Alfonso fernandes de villegas co-
+[*nta]dor mayor dela reyna de nabara:
+{=MIN.}}
+{CB2.
+% p<er>o fernandes de vilegas el moc'o escri-
+uano mayor dela muy noble c'ybdat
+de burgos
+{=MIN.}
+% alfon<so> f<e>rr<ande>s de valdeuielso recabdador mayor por
+el rey d<e>la m<er>yndat de s<an>c<t>o domi<n>go de sylos pu-
+so se aq<u><<i>> en<e>l an~o del nascimje<n>to de n<uest>ro se-
+n~or ih<es>u x<pist><<o>> de mill et ccc<<os>> & lxix. & viij
+an~os:.
+{=MIN.}}
+[fol. 43v]
+{CB2.
+% Este es ioh<a>n sanch<e>s de vallado-
+lit. c<r><<i>>ado q<ue> fue de alf<ons>o ma<<r>>tjn g<onc'ale>s
+{=MIN.}}
+{CB2.
+% alfon<so> sa<n>c<he>s m<er>cado fijo de sa<n>cho g<onc'ale>s [*c<r><<i>>a]do de
+Joh<a>n rr<odrigu>es de buena ve<n>tura
+{=MIN.}}
+[fol. 44r]
+{CB1.
+% Juan matteus
+de uan<n>uelos
+{=MIN.}
+% {IN1.} Este es juan rodrigues de burgos Recabdador
+mayor de diego lopez de astun~iga Justicia mayor
+de nuestro sen~or el Rey:.
+{=MIN.}}
+[fol. 44v]
+{CB1.
+% {IN1.} Este es joh<a>n f<e>rr<ande>s de sagrero criado del onrra-
+do et noble cauallero diego lopez de astun~iga
+Justic'ia mayor del Rey.
+{=MIN.}}
+[fol. 45r]
+{CB2.
+% iuan garcia el rico
+{=MIN.}
+{BLNK.}}
+{CB2.
+[???]
+{MIN.}
+{BLNK.}}
+[fol. 45v]
+{CB2.
+% joh<a>n martinez de g<r><<i>>salenya co<n>tador
+de joh<a>n de velasco
+{=MIN.}
+{BLNK.}}
+{CB2.
+% Joh<a>n lopez esc<r><<i>>uano dela camara del Rey o[*me] bueno
+delos seze dela c'ibdat de burgos puso se aquj en An~o
+del nasc'imje<n>to de n<uest>ro saluador ih<es>u xp<ist>o de mjll
+& tresjentos & noue<n>ta et seys an~os
+{=MIN.}
+% Ruy Sa<n>ches
+Pan y Agua
+{=MIN.}}
+[fol. 46r]
+{CB2.
+% [i]oh<a>n peres panyagua el moso fijo de
+[i]oh<a>n peres panyagua el mayor
+[*ome] bueno de los seze
+{=MIN.}
+% ALFONSO MARTINEZ
+DE UILLA[+]Q[U]IRAN
+{=MIN.}}
+{CB2.
+% Joh<a>n [*peres panyagua] [???]
+los seze dela c'ibdat de burgos
+{=MIN.}
+{BLNK.}}
+[fol. 46v]
+{CB2.
+{=MIN.}
+{BLNK.}}
+{CB2.
+{BLNK.}
+Andres xjmenez
+{=MIN.}}
+[fol. 47r]
+{CB2.
+% Alonso diaz de
+cueuas al<ca>lde
+mayor
+{=MIN.}
+{BLNK.}}
+{CB2.
+{BLNK.}
+{BLNK.}}
+[fol. 47v]
+[fol. 48r]
+{CB1.
+% pero martinez
+de burgos
+{=MIN.}
+Jua<n> martinez de burgos
+come<n>dador dela orden de sa<n>tyago
+& Regidor
+{=MIN.}}
+[fol. 48v]
+{CB1.
+% franc'isco martinez de lerma
+Regidor
+{=MIN.}
+Jua<n> de lerma Regidor
+{=MIN.}}
+[fol. 49r]
+{CB1.
+% {IN1.} Este es p<er>o gonc'ales el riquo (^??) vno de los
+seze regidores de la ciudat de Burgos q<ue> mora
+delante de sant lorente.
+{=MIN.}
+El al<ca>lde andres lopez
+del co<n>sejo del Rey
+al<ca>lde mayor
+{=MIN.}}
+[fol. 49v]
+{CB2.
+% Juan Sanch<e>s de ordun~a
+{=MIN.}}
+{CB2.
+% pero sanch<e>z de frias
+rregidor
+{=MIN.}}
+[fol. 50r]
+{CB1.
+% Garc'i martinez de lerma
+del co<n>seio del Rey & al<ca>lde
+mayor desta c'ibdad.
+Regidor
+{=MIN.}
+Garc'i martinez de lerma
+Regidor
+{=MIN.}}
+[fol. 50v]
+{CB1.
+% franc'isco boca negra
+al<ca>lde mayor
+Regidor
+{=MIN.}
+Juan de miranda natural dela
+prouinc'ia de guipuscoa
+{=MIN.}}
+[fol. 51r]
+[fol. 51v]
+{CB2.
+Jua<n> diez de
+arc'eo Regidor
+{=MIN.}
+Alonso diaz de
+arc'eo Regidor
+{=MIN.}}
+{CB2.
+Pero diaz de
+arc'eo al<ca>lde
+mayor
+{=MIN.}
+Ynjgo diaz de arc'eo
+alcalde mayor
+{=MIN.}}
+[fol. 52r]
+{CB2.
+% hernando de mac'uelo allcalde mayor &
+thesorero dela moneda
+{=MIN.}
+{=MIN.}
+Diego De curiel regidor de
+burgos, y confrade}
+{CB2.
+Alonso de cueba
+{=MIN.}
+{BLNK.}}
+[fol. 52v]
+[fol. 53r]
+[fol. 53v]
+{CB1.
+{RMK: HSMS-0513-0005: Lista de cofrades de la Cofradía de Santiago, 1501.} {IN2.} Los caualleros confrades que Refor-
+maron esta gloriosa confradia enel
+an~o de nuestra saluac'ion de mill y quini-
+entos y vno son los seguientes que ade-
+lante estan asentados.
+{IN1.} Primeramente
+{LAT. {IN2.} Illustrissimi ac sere-
+nissimi domini n<ost>ri
+ferdinandus et helisabeth
+Rex et Regina hispanie.}}
+{CB2.
+{IN2.} Iten el sen~or san-
+cho de Rojas.
+{IN1.} Iohan boca ne-
+gra alcalde mayor.
+{IN1.} El comendador
+Johan alfonso de
+la mota alcalde
+mayor.}
+{CB2.
+{IN1.} Bernaldino de ler-
+ma alcalde mayor.
+{IN1.} Lesmes de mac'ue-
+lo alcalde mayor.
+Thesorero de la casa
+de la moneda.
+{IN1.} Luys barahona
+alcalde mayor
+{IN1.} El come<n>dador garc'i
+ruyz d<e>la mota al<ca>ld<e> ma-
+yor de esta c'ibdad cria-
+do de su magestad}
+[...]
+[fol. 54r]
+{CB2.
+jena escriuano ma-
+yor
+{IN1.} Pedro orense Re-
+gidor.
+{IN1.} Alfonso de carta-
+jena Regidor
+{IN1.} El doctor iohan
+dela torre. Regidor.
+{SYMB: cross.} {IN1.} Pero Ruyz de vi-
+llegas. Regidor.
+{IN1.} Pedro de arc'eo.
+Regidor.
+{IN1.} Pero sanches de
+miranda. Regidor.
+{IN1.} Garc'ia de torque-
+mada. Regidor.
+{IN1.} Alfonso de villa-
+nueua. Regidor.
+{IN1.} Lope de valdeui-
+elso. Regidor.
+{IN1.} Don diego osorio
+Regidor.
+{IN1.} Pedro de la mota
+Regidor.
+{IN1.} Diego de soria.
+Regidor.
+{IN1.} Alo<n>so diez de cue-
+bas al<ca>ld<e> mayor de es-
+ta c'ibdad criado de
+su magestad e<n>talla-
+dor dela casa d<e>la mo-
+neda}
+{CB2.
+{IN1.} El lic'enc'iado. die-
+go sanches del casti-
+llo. Regidor.
+{IN1.} Alfonso de lerma
+Regidor.
+{IN1.} Garc'i sarmiento.
+Regidor.
+{IN1.} Antonio de sant-
+ander. Regidor.
+{IN1.} Hernando de san-
+totis. escriuano de co<n>-
+cejo.
+{IN1.} Diego de valdeuiel-
+so. Regidor.
+{IN1.} Don pedro sarmie<n>-
+to. Regidor.
+{IN1.} Franc'isco de lerma
+{IN1.} El doctor de Curiel
+{IN1.} Johan de miranda
+{IN1.} Alfonso de lerma
+{IN1.} El licenc'iado de To-
+rre
+{IN1.} Gonc'alo lopez de
+polanco.
+{IN1.} Garc'ia de mac'uelo
+{IN1.} Andres dela cadena.
+{IN1.} Antonio de melgos<<a>>
+Regidor.
+{IN1.} [*H]ernando de mac'uelo
+tesorero dela casa dela
+moneda.}
+[fol. 54v]
+{CB2.
+{IN1.} Hernando de bur-
+gos.
+{IN1.} Nun~o de gomiel
+{IN1.} Bernaldino de
+miranda.
+{IN1.} Gonc'alo de almo-
+tar.
+{IN1.} Pedro de cueuas
+Ruujas.
+{IN1.} Martin de soria.
+{IN1.} Aluaro pardo.
+{IN1.} Pero pardo.
+{IN1.} Aluaro de la torre.
+{IN1.} Aluaro del casti-
+llo.
+{IN1.} Lope del castillo.
+{IN1.} Diego ximenez.
+{IN1.} Gregorio de be-
+Jar.}
+{CB2.
+{IN1.} Johan de salinas.
+{IN1.} Franc'isco dela to-
+rre.
+{IN1.} Franc'isco del castillo.
+{IN1.} Gonc'alo de mira<n>-
+da.
+{IN1.} Garcia de lerma.
+{IN1.} Pero Rodriguez
+de ayala.
+{IN1.} Johan dela mota.
+{IN1.} Johan de ayala
+hijo de pero Rodri-
+guez de palenc'ia
+alcalde mayor del
+adelantamiento
+de castilla.
+{SYMB: cross.} {IN1.} Diego cortes de
+miranda.
+{IN1.} Martin de miranda.}
+[fol. 55r]
+{CB1.
+{MIN.}}
+{CB2.
+{RMK: HSMS-0513-0004: Regla reformada de la Cofradía de Santiago.} {IN7.} EN el no<n>bre
+de dios pa-
+dre & fijo E
+spiritu san-
+cto yndiui-
+dua trinjd-
+ad a qujen
+todos somos subietos & para glo-
+rificac'ion suya. todos los o<n>bres de-
+vemos considerar las obras en que
+dios todo poderoso se honrra & se syr-
+ue por que por ellas tyene prome-
+tida la gloria. E entre las otras
+cosas enla sagrada escriptura se
+escriue que vna de las mas gozo-
+sas cosas para en esta vida & enla
+otra es biuir los ombres en vn am-
+or & vnjdad E de aquj ovo fun-damento}
+{CB2.
+entre los catholicos
+xp<ist>ianos hazer confradia & her-
+mandad por que las obras fe-
+chas en boz de muchos son mas
+aceptables ala diujnidad. E sy-
+gujendo este camino los antigu-
+os que enel avito de la honrra bi-
+ujan enesta muy noble & mas
+leal c'ibdad de burgos para seruj-
+c'io de dios & de su gloriosa madre
+n<uest>ra sen~ora sye<n>pre virgen maria &
+para que sus obras fuesen mas
+meritorias para si E para los pa-
+sados & venideros. Ordenaron
+hermandad & confradia. E sy
+para las cosas temporales con-
+viene fauor delos que mas pu-
+eden con mucha mas Razon}
+[fol. 55v]
+{CB2.
+e cabsa se Requjere fauor E ayu-
+da para las obras diuinales &
+cosas por donde la gr<aci>a & la gl<or>ia
+se meresca & alcanc'e. E avida
+esta consyderac'ion. nuestros an-
+tepasados para ser fauoresc'idos
+& ayudados tomaron & touyero<n>
+por patrones & abogados a los
+gloriosos bien aventurados sa<n>t-
+yago patron de las espan~as
+& a sant pedro pastor & primero vi-
+cario de ih<es>u xp<ist>o. E para Regir
+& guyar la dicha hermandad &
+confradia fizieron & ordenaron
+su Regla & capitulos aquellos
+que les paresc'io ser co<m>plideros
+al seruic'io de dios. E asy por
+la distanc'ia del tie<m>po como por
+que humana flaqueza pone &
+ha puesto alguna negligenc'ia
+enla esecuc'ion & obras diujna<<s>>
+la dicha hermandad & confra-
+dia ha venjdo en grand diminu-
+c'ion & cayda. E por esto los co<n>-
+frades que oy dia somos enla
+dicha confradia queriendo Re-
+mediar alo menos para lo venj-
+dero porque el serujc'io de dios
+sea acresc'entado Renouando
+la Regla & ordenanc'as dela di-
+cha confradia establesc'emos
+que para el serujc'io de dios & me-rito}
+{CB2.
+de las anjmas de los pasado<<s>>
+& de los presentes & venjderos
+se tenga & guarde la forma siguj-
+ente.
+{IN2.} Primeramente que ago-
+ra & de aquj adelante
+sean hermanos & confrades de
+la dicha confradia todos los
+que tyenen & tovieron los ofi-
+c'ios dela iustic'ia e gouernac'io<n>
+desta c'ibdad E delos vezinos
+della puedan ser confrades to-
+dos los caualleros que[ ]tovie-
+ren vasallos. E otro sy pueda<n>
+ser confrades doctores & lic'enc'ia-
+dos fechos por examen & en es-
+tudio general fasta en nume-
+ro de seys & del estado delos ca-
+ualleros que biuen con los Re-
+yes n<uest>ros sen~ores & delos c'ibda-
+danos vezinos desta c'ibdad &
+sean & puedan ser confrades fas-
+ta en numero de treynta & que
+estos sean Resc'eujdos por los
+confrades del Regimjento &
+por el prior & mayordomos E
+tres otros no<m>brados por el ca-
+billdo & ayuntamje<n>to de la di-
+cha confradia o por el prior &
+mayordomos sy les fuere por
+el cabilldo cometido. E cada
+confrade pague por la entra-da}
+[fol. 56r]
+{CB2.
+vn florin de oro.
+{IN2.} Otrosy ordenamos que
+de agora & de aqui ade-
+lante para sye<m>pre Jamas arda
+vna lampara de azeyte conti-
+nua mente ante el Relicario don-
+de esta el corpus xp<ist>i en la ygl<es>ia
+de sancta maria la mayor desta
+c'ibdad. porque la sanctissima
+trinjdad con la gr<ac'i>a del sp<irit>u sa<n>cto
+alu<m>bre los cuerpos & las anima<<s>>
+delos confrades biuos herma-
+nos & de los finados.
+{IN2.} Otrosy que agora & para
+sye<m>pre Jamas tengamo<<s>>
+& tengan como n<uest>ros antepasa-
+dos toujeron por patrones & abo-
+gados a los bien aventurados
+apostoles santyago el zebedeo
+patron delas espan~as & sant pe-
+dro & por los tener mas obliga-
+dos E ayan cargo de presentar
+n<uest>ras buenas obras ante la sa-
+cratissima trinjdad. Agora & de
+aquj adelante en cada vn an~o
+para sye<m>pre Jamas se c'elebren
+las fyestas delos dichos aposto-
+les enesta manera. que la viespe-
+ra de sant pedro que es en fin del
+mes de Junio todos los confra-
+des que se hallaren enesta c'ibdad}
+{CB2.
+vayan a viesperas ala yglesia de
+sant pedro E hagan dezir viespe-
+ras sole<m>pne mente & ardan qua-
+tro c'irios grandes E todos tenga<n>
+candela E otro dia siguiente va-
+yan de man~ana ala dicha ygl<es>ia
+& hagan dezir misa cantada so-
+le<m>pne mente & ardan los dichos
+quatro c'irios E todos los co<n>fra-
+des tengan candela. E que la
+viespera de santyago de Julio
+entre nona & viesperas todos lo<<s>>
+confrades se Junten enla ygl<es>ia
+mayor desta c'ibdad & asy Juntos
+vayan a hazer or<ac'i>on E a se enco-
+mendar a dios ala ygl<es>ia de sant-
+yago dela fuente. & dende ally
+vengan Junta mente ala capil-
+la de santyago que es dentro de
+la dicha ygl<es>ia mayor E hagan
+dezir viesperas cantadas sole<m>p-
+nes & ardan los dichos quatro
+c'irios E todos los confrades te<n>-
+gan candela E que otro dia ven-
+gan ala dicha ygl<es>ia & juntos
+vayan a la dicha ygl<es>ia de santyago
+dela fuente a hazer como dicho
+es or<ac'i>on. & asy Juntos venga<n> ala
+dicha capilla de santyago & asy
+hagan dezir su misa cantada so-
+le<m>pne & ardan los dichos quatro}
+[fol. 56v]
+{CB2.
+c'irios & todos los confrades ten-
+gan candela enc'endida. E los co<n>-
+frades que no vinjere<n> enlas di-
+chas fiestas & en cada vna dellas
+alas viesperas & misa como dicho
+es estando en la c'ibdad que pa-
+gue[n] vna libra de c'era para la co<n>-
+fradia por cada fiesta: horas que
+faltare.
+{IN2.} Otrosy que los dichos con-
+frades despues de oyda
+misa el dia de santyago se Junte<n>
+& concierten el dia que qujsyere<n>
+& les pare(r)[s]c'iere & manden que el
+prior E mayordomos que ala
+sazon fueren les den vna yantar
+& que den de comer a veynte pobre<<s>>
+(^del Relebe) & conbiden vn cura
+dela capilla de santyago & otro de
+sant pedro a comer para que ben-
+digan la mesa & den las gr<ac'i>as.
+{IN2.} Otrosy que otro dia despue<<s>>
+de la yantar todos los co<n>-
+frades fagan dezir vna misa can-
+tada de Requje<m> con candelas enla
+dicha capilla de santyago por lo<<s>>
+confrades finados & dicha la mj-
+sa digan un Responso. E despues
+dela misa el prior & mayordomos
+con otros quatro que ellos tome<n>
+consigo sobre Juramento que}
+{CB2.
+primero hagan saque<n> & no<m>bren
+nuebo prior & mayordomos los
+quales con otros tres no<m>brados
+por los confrades tome<n> la cue<n>ta
+de toda la hazie<n>da dela dicha co<n>-
+fradia & lo que hallaren de alcan-
+c'e lo carguen al prior & mayordo-
+mos nuebos para que lo tengan
+& Resc'iban con los otros bienes
+E Rentas dela dicha confradia
+& lo gasten enlas cosas que por
+los dichos confrades estan orde-
+nadas E asy se haga dende en
+adelante en cada vn an~o. E que
+delos dichos tres contadores sye<m>-
+pre sea vno de los que tomaren las cuen-
+tas del an~o antes.
+{IN2.} Otrosy que quando algu<n>d
+confrade fallesc'iere desta
+presente vida todos los confrade<<s>>
+sean tenudos de le yr a honrrar en
+esta manera. que sy el cuerpo fue
+reparado de ante noche & en su ca-
+sa le dixeren vigilia que todos lo<<s>>
+confrades vayan a su casa a le ho<n>-
+rrar & a tener candela. & la noche q<ue>
+el cuerpo estuujere parado el prior
+& mayordomos den dos candelas
+de c'era que ardan conel cuerpo &
+dos Religiosos que le velen & Re-
+zen las devoc'iones queles encar-garen}
+[fol. 57r]
+{CB2.
+& les den lo que oviere<n> de av<er>
+por ello. E sy el cuerpo no fuere
+parado & no le dixere<n> vigilia que
+todos los confrades vayan el dia
+del enterramjento asu casa a le hon-
+rrar & vayan con el cuerpo a la ygl<es>i<<a>>
+& mientra se dixere la misa ardan
+quatro c'irios grandes & todos lo<<s>>
+confrades tengan candela & des-
+pues a la honrra del terc'ero dia
+todos los confrades vayan ala
+honrra delas viesperas a casa del
+confrade & de ally vayan a la hon-
+rra dela ygl<es>ia E todos los confra-
+des tengan candela & esta mesma
+forma guarde<n> otro dia syguiente
+ala misa & que esta honrra se ha-
+ga ala muger de qual quier con-
+frade & que lo hagan saver al prior
+& mayordomos para q<ue> llame<n> alo<<s>>
+confrades & que de p<ar>te del finado
+lo hagan saver.
+{IN2.} Otrosy que sy caso fuere que
+algu(<n>)nd confrade finare fue-
+ra dela c'ibdad & se mandare traer
+a[ ]sepultar ala dicha c'ibdad que
+todos los confrades salga<n> a Res-
+c'ebir el cuerpo fasta el monesterio
+de sant franc'isco. O fasta el ospi-
+tal de gamonal & fasta sant agus-
+tin. & fasta la puente delos ma-latos.}
+{CB2.
+& fasta las heras varre-
+deras segund por el camino que
+traxere<n> el cuerpo del co<n>frade. & sy
+no se mandare traher ala c'ibdad
+que los confrades le hagan la ho<n>-
+rra en la ygl<es>ia & enel dia q<ue>los pa-
+rientes la fizieren como sy el cuer-
+po estuviese presente. E sy caso
+fuere que fallesc'iendo enla c'ibd-
+ad se mandare enterrar fuera del-
+la que los confrades salgan co<n>el
+cuerpo fasta los lugares suso de-
+clarados & le hagan la honrra se-
+gund que suso dicho es.
+{IN2.} Otrosy porque antiguame<n>-
+te estaua ordenado q<ue> qua<n>-
+do algu<n>d co<n>frade fallesc'iese los pa-
+Jes delos confrades con los caual-
+los encouertados aco<m>pan~asen el
+cauallo del co<n>frade finado. & por-
+que aquesto paresc'e c'yrimonja
+aJena & apartada del tie<m>po. Por en-
+de en lugar de aq<ue>lla honrra. Orde-
+namos q<ue> q<u><<a>>ndo algund co<n>frade fa-
+llesciere todos los confrades que
+fueren ala honrra & enla c'ibdad
+estuujeren lleven el dia del enter-
+ramjento & viesperas & misa del
+terc'ero dia lobas de luto & vayan
+Juntos c'erca del cuerpo del fina-
+do.}
+[fol. 57v]
+{CB2.
+{IN2.} Otrosy que para Regir & go-
+uernar & para Resc'ebir & re-
+cabdar E distribuir & gastar los
+bienes & Renta dela dicha co<n>fa-
+dria aya & se saque de entre los
+dichos confrades vn prior & dos
+mayordomos que sean por dos
+an~os & que estos tengan cargo
+de Juntar & mandar llamar todo<<s>>
+los otros confrades para las cosa<<s>>
+que se oviere<n> de ayuntar & tengan
+cargo de mandar hazer la c'era &
+darla en las fiestas & en las ho<n>rra<<s>>
+& donde qujera que la oviere de aver
+& la hagan fazer & Renovar cada
+que sea menester. E q<ue>los dichos
+prior & mayordomos conc'ierten
+conlos capellanes dela capilla de
+santyago & conlos clerigos de
+sant pedro q<ue> tengan cargo de de-
+zir las viesperas & misas enlas
+dichas fiestas E las misas de Re-
+quie<m> de otro dia despues dela yan-
+tar & ygualen el premio & ofre<n>da
+que se le deve dar a cada vno.
+{IN2.} Otrosy que el prior & mayor-
+domos pueda<n> sacar E sa-
+quen prendas a qual quier co<n>fra-
+de que cayere en pena dela c'era o
+otra pena dela ordena<n>c'a dela co<n>-
+fradia & que ninguno defienda}
+{CB2.
+ni Resista la prenda por Razon al-
+guna que diga o alegue so pena
+que pague lo que asy deuyere con
+el doblo. Pero despues de dada
+la prenda que sea oydo por el p<r><<i>>or
+& mayordomos & le sea guardada
+su iustic'ia E por que esto aya efec-
+to & todo entera mente se cu<m>pla q<ue>
+todos los confrades & cada vno de-
+llos al t<iem>po que fuere<n> Resc'ebidos Ju-
+ren de guardar la Regla & este cap<itul><<o>>
+dela ordenanc'a.
+{IN2.} Otrosy que el dicho prior &
+mayordomos tengan cargo
+de mandar llamar por el andador
+a todos los confrades para q<ue> ten-
+gan candela asy en las fyestas co-
+mo en las ho<n>rras & p<ar>a los otros
+casos & negoc'ios q<ue> el prior & ma-
+yordomos viere<n> q<ue> el cabilldo se de-
+ue de Juntar & los co<n>frades que no
+vinjere<n> a los dichos llamamie<n>to<<s>>
+& ala misa de Requje<m> pague<n> vna
+ljbra de c'era por cada vez.
+{IN2.} Otrosy ordenamos que enlas
+fiestas del sen~or sant pedro &
+sant tyego el zebedeo asy alas vies-
+peras primeras como alas misas
+como ya dicho es. todos los co<n>fra-
+des caualgue<n> a cauallo & se Junte<n>
+a donde por el prior & mayordomo<<s>>}
+[fol. 58r]
+{CB2.
+fuere acordado & de alli vaya<n> junta
+mente y en ordenanc'a alas dichas
+ygl<es>ias alas viesperas & missas a[ ]te-
+ner candela. so pena de vna libra de
+c'era. la qual ordenanc'a se hizo por
+no derogar la ordenanc'a antigua
+delos antiguos cauall<er>os enla Re-
+gla vieJa contenida.
+{IN2.} E asy mesmo ordenamos q<ue>
+quando algund n<uest>ro co<n>fra-
+de casare o hijo o hija de co<n>frade
+sabido por el prior lo haga saver
+a todos los confrades que vayan a le
+honrrar. como se hace el dia del mor-
+tuorio. & so la pena contenida en<e>l
+cap<itul><<o>> del mortuorio.
+{IN2.} E asy mesmo ordenamos q<ue> el
+dia delos defuntos q<ue> es otro
+dia dela fiesta de[ ]todos santos se
+diga una missa de defuntos ca<n>ta-
+da co<n> su Respo<n>so por todos los defu<n>-
+tos co<n>frades & esta missa se diga en
+la capilla de santyago & diga<n> la lo<<s>>
+mesmos capellanes dela dicha ca-
+pilla & denles de ofre<n>da vn carnero
+& doze quartales de pa<n> & vna ca<n>ta-
+ra de vino. & todos los co<n>frades sea<n>
+llamados por n<uest>ro llamador a[ ]tener
+candela & el que no viniere pague
+media libra de c'era.
+{IN2.} Otrosy ordenamos q<ue> q<u><<a>>ndo al-gund}
+{CB2.
+co<n>frade fallesc'iere sea obligado
+de mandar (^??) & dexar para la co<n>fradia
+porque tenga<n> cargo de Rogar a dios
+por su anima en su testame<n>to vn flori<n>
+de oro. el cual los mayordomos ten-
+gan cargo de Recabdar y sy no q<ue> lo<<s>>
+mesmos mayordomos lo pague<n> & q<ue>
+todos los co<n>frades q<ue> entrare<n> sea<n> Res-
+c'ebidos co<n> esta co<n>dic'io<n>.
+{IN2.} E asy mesmo ordenamos q<ue> todo[^<<s>>] lo[^<<s>>]
+(^??)[^vierne<<s>>] de toda la quaresma
+agora & p<ar>a sye<m>pre Jamas el prior &
+mayordomos delos bienes dela co<n>-
+fradia den a doze pobres envergo<n>-
+c'ados o a mugeres envergo<n>c'adas
+doze rrac'iones de pa<n> & vino & pes-
+cado como a ellos bie<n> visto sea.
+en ljmosna por rreuerenc'ia de los do-
+ze apostoles porque sea<n> en n<uest>ra pro-
+tec'ion & amparo. E asy mesmo se den
+otras doze rrac'iones a otros doze
+pobres me<n>digantes enlos dichos
+viernes dela quaresma.
+{IN2.} Otrosy ordenamos que sy caso
+fuere despues de fallesc'ido al-
+gund co<n>frade dexare algu<n>d hijo o
+hiJos el mayor destos q<ue>remos que
+herede la dicha co<n>fradia seyendo su-
+fic'iente & paga<n>do la dicha entrada
+& co<n> las dichas co<n>dic'iones, & este tal
+sea Resc'ebido por el prior & mayordomo<<s>>}
+[fol. 58v]
+{CB2.
+{IN1.} Iten que por quanto al-
+gunas vezes suele acaesc'er es-
+tar syn se ayu<n>tar ny tener co-
+nosc'imjento delos cavallero<<s>>
+que son cofrades. Sean obli-
+gados a comer enla d<ic>ha her-
+mandad de tres en tres an~os
+E sean obligados el prior y
+mayordomos que fuere<n> non-
+brados el tal dia d<e>l seje todos
+los tres an~os de Resedir enel
+d<ic>ho officio. & dar la d<ic>ha co-
+mida a costa dela d<ic>ha cofra-
+dia E no se pueda comer an-
+tes deste d<ic>ho tiempo.
+{IN2.} Otrosy ordenamos y
+ma<n>damos que por
+qua<n>to los bienes y azienda
+d<e>la d<ic>ha co<n>fradia a dios gra-
+cias sea aume<n>tado q<ue> ansy co-
+mo en el cap<itul><<o>> aRiba d<ic>ho di-
+ze que se den Rac'iones a do-
+ze pobres de pescado y pan
+y bino los biernes dela qu<<a>>-
+resma Que de aqui adela<n>te
+sean veynte Rac'iones a veyn-
+te pobres envergonc'ados}
+{CB2.
+quales bien bisto fuere al
+prior y mayordomos que a
+la sazo<n> fueren guarda<n>do La
+orden delas dichas ordena<n>-
+c'as y capitulos.}
+[fol. 59r]
+[fol. 59v]
+{CB1.
+{RMK: HSMS-0513-0006: Lista de cofrades de la Cofradía de Santiago, 1531.} {RUB. Los confrades dela confradia delos cavalleros de san pe-
+dro y santiago que oy dia de Santiago de mill e qujnie<n>-
+tos y treynta y vno an~os Seyendo prior pero Rujz dela
+torre Regidor. E mayordomos. Juan de castro. e fra<n>c'isco de ma-
+c'uelo Son los siguientes:}}
+{CB2.
+{IN1.} Do<n> Juan de RoJas marque<<s>>
+de poza merino mayor de
+esta c'ibdad
+{IN1.} Garc'i Ruyz dela mota
+alcalde mayor
+{IN1.} Luys sarmj<ent><<o>> al<ca>ld<e> ma-
+yor
+{IN1.} El al<ca>ld<e> alonso diez de
+cuebas al<cal>d<e> mayor
+{IN1.} Iua<n> perez de cartaJen<<a>>
+al<ca>lde mayor
+{IN1.} Pedro Barahona al<ca>lde
+mayor
+{IN1.} Don Ju<an> manrriq<ue> de lu-
+na al<ca>ld<e> mayor
+{IN1.} El doctor Ju<an> de c'umel
+escrivano mayor
+{IN1.} Don diego osorio Re-
+gidor
+{IN1.} Martin de Salinas Re-
+gidor
+{IN1.} Pedro dela torre Regi-
+dor
+{IN1.} Fernando de bernuj re-
+gidor
+{IN1.} Iua<n> del castillo. Regi<<dor>>}
+{CB2.
+{IN1.} Pedro de torquemada
+Regidor:.
+{IN1.} El secretario antonio
+de villegas. Regidor
+{IN1.} Pedro orenze Regido<<r>>
+{IN1.} Pedro de melgosa. regi-
+dor [^2#y Alferez mayor de burgos]
+{IN1.} Diego de soria Regido<<r>>
+{IN1.} Pero Ruyz dela torre
+Regidor
+{IN1.} Diego de bernui regido<<r>>
+{IN1.} FRanc'isco Sarmje<n>to
+Regidor
+{IN1.} Don luys ossorio Re-
+gidor
+{IN1.} Gregorio de polan-
+co Regidor
+{IN1.} El conde de salinas
+y de Ribadeo. Regidor
+{IN1.} El licenc'iado dela to<<r>>-
+re
+{IN1.} El licenc'iado geronj-
+mo de villegas
+{IN1.} El lic'enc'iado andres
+de ayala}
+[fol. 60r]
+{CB2.
+{IN1.} Don pero Juarez de figue-
+roa e de velasco dea<n> de burgos
+{IN1.} Diego lopez de soria
+{IN1.} Pedro de soria.
+{IN1.} Pero fernandez de Villega<<s>>
+{IN1.} Iua<n> de lerma pola<n>co guarda
+mayor d<e>la casa d<e>la moneda.
+{IN1.} Gregorio de lerma
+{IN1.} El thesorero nun~o de gu-
+miel
+{IN1.} Iua<n> de miranda
+{IN1.} Iua<n> de s<an>cto domingo
+{IN1.} Franc'isco de Salinas
+{IN1.} Iua<n> ffernandez de castro
+{IN1.} Jua<n> de castro el moc'o
+{IN1.} Alonso de Sanzoles {AD. [^2#contino de ca-
+sa del Rey
+don hern<and><<o>>
+el catolico
+Regidor de
+burgos.]}
+{IN1.} Bernaldino de s<an>cta m<ari>a
+{IN1.} Sebastian de buezo escriu<an><<o>>
+dela confradia
+{IN1.} Diego pardo orenze
+{IN1.} Iuan de torquemada
+{IN1.} Pedro Ruiz de Villegas
+{IN1.} Franc'isco de mac'uelo
+{IN1.} Alonso de almotar
+{IN1.} Pedro de cuebas Rubi<<as>>
+{IN1.} Andres de pesquera
+{IN1.} El thesorero dela mone<<da>>
+hernando de mac'uelo
+{IN1.} Agustin de torquemada
+hijo de Jua<n> d<e> torquemada
+entro an~o d<e> 1543 an~os.}
+{CB2.
+{IN1.} Don diego osorio
+{IN1.} Gabriel mele<n>dez
+{IN1.} Iua<n> martinez d<e> lerma
+{IN1.} Don fra<n>cisco ore<n>se ma<n>-
+rique.
+{IN1.} Alonso antolinez de
+burgos.
+{IN1.} Francisco ruyz d<e>la torre.
+{IN1.} Francisco martinez de ler-
+ma pola<n>co.
+{IN1.} Diego de curiel regidor
+y Cofrade.
+{IN1.} Fra<n>cisco ruyz de bernuy.
+{IN1.} Martin mun~oz de soria.
+{IN1.} Ioan de sanc'oles.
+{IN1.} Antonio de salazar.
+(^???)
+{IN1.} Diego lopez de arriaga {AD. [^2#caballero d[*el a]-
+bito de s<an> est[*eban]]}
+{IN1.} Don luis sarmie<n>to.
+{IN1.} Don pedro cerec'o.
+{IN1.} Don Pedro osorio.
+{IN1.} Don Alo<n>so martinez
+de lerma.
+{IN1.} Don andres d<e> melgosa {AD. [^2#Alferez may[*or]
+An~o de 1576.]}
+(???)
+{IN1.} Ioa<n> alonso de Rian~o.
+{IN1.} Ioa<n> alonso d<e> salama<n>ca
+alcalde mayor y cofrade.
+{IN1.} Ioa<n> alonso de malue<n>da.
+{IN1.} Alonso de astudillo ma-
+c'uelo.}
+[fol. 60v]
+{CB2.
+{IN1.} Ioa<n> alo<n>so de malue<n>da
+salamanca.
+{IN1.} Don Diego go<n>c'alez de
+medina.
+{IN1.} Geronimo del castillo.
+{IN1.} Fra<n>cisco de malue<n>da.
+{IN1.} Ioa<n> martinez de lerma
+regidor.
+{IN1.} Don Joan {AD. [^2#al<ons><<o>>]} de salinas {AD. [^2#1580.]}
+{IN1.} Christobal de ayala.
+{IN1.} Don diego de Rian[~]o Re-
+gidor y cofrade.
+{IN1.} Geronimo lopez d<e> gaona,
+{IN1.} Hernando de castro.
+{IN1.} Garcia de castro.
+{IN1.} Diego pardo.
+{IN1.} Do<n> diego martinez de
+lerma. {AD. [^2#Regidor.]}
+{IN1.} Diego de curiel regidor
+y cofrade. Hijo de Diego
+de curiel regidor y cofrade.
+{IN1.} Don Francisco alo<n>so de
+maluenda.
+{IN1.} Pedro dela torre Regidor,
+{IN1.} Do<n> Pedro d<e>la torre arceo.
+{IN1.} Do<n> ferna<n>do de mata<n>c'a. {AD. [^2#Regidor.]}
+{IN1.} Do<n> martin alo<n>so de sali-
+nas Alcalde mayor y cofrad<e>. {AD. [^2#caballero del
+Habito de
+santiago.]}
+{IN1.} Do<n> phelippe d<e> melgosa. {AD. [^2#1589]}
+{IN1.} Do<n> bernabe de melgosa. {AD. [^2#1589]}
+{IN1.} Don Diego de Aluarado.
+{IN1.} Do<n> Lore<n>c'io de Rian~o. {AD. [^2#S<en~><<or>> de
+la villa de espinosilla.]}}
+{CB2.
+{IN1.} Don Alo<n>so gutierrez. {AD. [^2#caballero [*del]
+Habito de Alcan[*tara.]]}
+{IN1.} Don Andres de polanco.
+{IN1.} Don Gregorio de castro. {AD. [^2#s<en~><<or>> dela torre
+de [??].]}
+{IN1.} Don Diego gallo hijo
+de Diego Lopez gallo. {AD. [^2#de abellaneda.]}
+{IN1.} Don Antonio de qui<n>ta-
+naduen~as.
+{IN1.} Diego Alo<n>so de sa<n>uitores.
+{IN1.} Andres de can~as. {AD. [^2#Regidor.]}
+{IN1.} Sebastian de[ ]la( )Rauri. {AD. [^2#Rejidor de bur-
+gos, natural
+de munguia en
+Vizcaya.]}
+{IN1.} Diego ortiz de escouar.
+{IN1.} Don Diego de vale<n>cia. {AD. [^2#y del Cas[*tillo]
+cauallero del abito de Santiago 1590.]}
+{IN1.} Don Joan gutierrez de Curiel.
+{AD. [^2#cauallero dela orden de alcantara.]}
+{IN1.} Don diego martinez de Lerma
+Regidor:.
+{IN1.} Francisco martinez de
+lerma Pardo.
+{IN1.} Don joan de sa<n> Martin.
+{IN1.} Don Aluaro de S<an><<ta>> Cruz
+{AD. [^2#rejidor de burgos, cauallero dela orden de
+santiago]}
+{IN1.} Don Fran<cis><<co>> de Arriaga
+{AD. [^2#cauallero del abito de Alcantara y]}
+Alcalde mayor 1604.
+{IN1.} Don Gregorio de Haro
+{IN1.} Don Francisco de Salamanca
+{IN1.} Don Pedro de Sanzoles
+{AD. [^2#cauallero dela orden de santiago]}
+{IN1.} Ioa<n> de Gaona 1608
+{AD. [^2#s<en~><<or>> de castil de carries]}
+{IN1.} Ioa<n> Alonso de Astudillo.
+{IN1.} Don Alonso de S<an><<ta>> Cruz Re[*gidor.]}
+[fol. 61r]
+{CB2.
+{IN1.} Gaspar de quintanaduen~as {AD. [^2#1608]}
+{IN1.} Ioan de Salamanca {AD. [^2#1608]}
+{IN1.} Don Ioan de Salamanca {AD. [^2#1608]}
+{IN1.} Francisco dela moneda, 1608.
+{IN1.} Don Geronimo de S<an><<ta>> maria {AD. [^2#1608
+cauallero dela orden de San( )tiago]}
+{IN1.} Don Ioan de Castilla Alcalde
+mayor 1608 {AD. [^2#Conde de Mon-
+talvo]}
+{IN1.} Don Ioan Fernandez de Castro
+Regidor 1608.
+{IN1.} Don Gutierre de Castro S<en~><<or>>
+dela villa de Sant Iuste {AD. [^2#1608]}
+Don alonso del castillo.
+Aluaro gallo
+Don Lope Alonso de maluenda {AD. [^2#1584
+desde el an~o de 1584]}
+El Licenc'iado Reman Ruyz de castro
+{IN1.} Don alonso Gallo, hijo de Albaro Gall<<o>>
+{IN1.} Don Juan de Melgosa hijo d<e> do<n> Gabri-
+el de melgosa, Tesorero d<e>la casa d<e>la mo-
+neda por el Rey nuestro sen~or.
+{IN1.} Don Diego Lopez d<e> Castro Sen~or d<e>la
+Villa d<e> Sant Juste hijo d<e> don Gutierre
+de Castro.:.
+{IN1.} Don Antonio d<e> Salamanca hijo
+de Jua<n> Alo<n>so de Salama<n>ca Alcalde ma-
+yor de Burgos.:. {AD. [^2#cauallero del abito de Alcant<ar><<a>>.]}
+{IN1.} Don Luis de Salamanca hijo de Ju-
+an de Salamanca.:.
+{IN1.} Francisco Galon d<e>positario y Regi-
+dor de Burgos.:.}
+{CB2.
+Martin de Agreda,
+Pesquer, 161(^1)[^2]. {AD. [^2#onze]}
+Don Geronimo de gaona
+castro perez. sen~or de
+Castil de Carries yjo de ju<an>
+de gaona
+Don Ju<an> al<ons><<o>> de salinas yjo
+de don martin al<ons><<o>> de sali-
+nas caballero del abito de
+santiago y alcalde mayor
+de burgos. entro cofrade en 16 de
+jullio de 1618 an~os
+Don Jer<oni><<mo>> de gaona castro perez. Hijo de Ju<an>
+de gaona y s<en~><<or>> de la V<ill><<a>> de castil de Carries An~o de 618
+fue cofrade el d<ic>ho su Padre
+Don Jh<eroni><<mo>> de torrequemada Zerezo, yjo de
+P<edr><<o>> ortega Zerec'o q<ue> fue cofrade, entro An~o de 619
+don fer<nan><<do>> De castro Hijo del licenc'iado fer-
+nan Ruiz de Castro Al<ca>lde mayor q<ue> fue de bur-
+gos y cofrade Entro an~o 1619 dia de [*San]-
+tiago de d<ic>ho an~o.
+Don diego de castro y dela torre hijo de
+hernando de castro.
+De aqui adelante se han de escriuir en este libro los
+caballeros que fueren Recibidos por cofrades de
+Letra del scri<ban><<o>> desta cofradia con asistenc'ia
+del caballero prior o mayordomo en execucion del
+prim<er><<o>> y segundo estatuto De f<oli><<o>> iii. del libro de
+las juntas desta cofradia.}
+[fol. 61v]
+{CB2.
+En dos de julio de 1622 entraron cofrades los sig<uientes>
+como parece en el l<ibr><<o>> de Juntas, f<oli><<o>> 130
+Don Pedro de Melgosa. por hijo de don Andres de
+melgosa Cofrade.
+Don Diego Alc'edo descobar por hijo de diego hortiz
+descobar. Cofrade.
+Joan Alonso dela Torre. por Regidor y nieto de
+El L<icencia><<do>> dela torre. Cofrade.
+Don gonzalo gallo dela pen~a. por nieto de don Ju<an>
+gallo dela pen~a Regidor y cofrade
+Don Joan de larrauri Por hijo de s<eba>s<ti><<an>> de[ ]larrauri
+Regidor y cofrade.
+Don diego correa de velasco Por regidor
+Ante mi Greg<ori><<o>> Izquierdo
+En v<ein><<te>> y cinco de Jullio del dicho an~o pareze por el libro
+nuebo comenzado en v<ein><<te>> siete de Julio del an~o pas<a><<do>>
+mill quinientos y ochenta y ocho foli<<o>>. 33 que Entra-
+ron y se Rec'ibieron por confrades desta cofradia
+los caualleros siguientes por testi<moni><<o>> de
+gregorio Yzquierdo s<criba><<no>> della ya difunto
+El s<en~><<or>> don diego orense manrique alferez mayor
+de Burgo<<s>> por hijo del s<en~><<or>> don fran<c'is><<co>> orense manriq<ue>
+su padre cofrade que fue desta cofradia
+El s<en~><<or>> don franc'isco de Rian~o y gamboa Cauallero
+de la orden de santiago y Regidor desta c'iudad & por
+hijo del s<en~><<or>> don diego de Rian~o Regidor y cofrade
+que fue desta cofradia
+El s<en~><<or>> don gregorio gallo capitan dela artilleria
+y castillo desta ciudad y teniente de castellano de d<ic>ho
+castillo y Regidor todo ello por tenenc'ia del s<en~><<or>>
+Cardenal duque de lerma & admitese por confrade
+nuevo por tal Regidor desta c'iu<da><<d>> conforme a los
+Estatutos desta confradia
+El s<en~><<or>> don Juan Vazquez dacun~a. Tesorero dela casa R<ea>l
+dela moneda desta c'iu<da><<d>> por el s<en~><<or>> Cardenal duque de lerma
+admitese por confrade por nieto del s<en~><<or>> melchor de as-
+tudillo su abuelo materno. Regidor que fue desta c'iu-
+dad y confrade d esta confradia.
+El s<en~><<or>> don Juan de can~as. Regidor desta c'iu<da><<d>> por hijo del
+s<en~><<or>> andres de Can~as Regidor que fue della y confrade
+de esta confradia {AD. [^2#cauallero dela orden de santiago y fami<lia><<r>> del s<ant><<o>> oficio
+capitan y sargen<<to>> mayor de burgos y su partido
+por el rey n<uest>ro s<en~><<or>>]}
+El s<en~><<or>> don fran<cis><<co>> m<artin>ez de lerma por nieto del s<en~><<or>> Ju<an>
+martinez de lerma El dela calle de la me<rce>d cofrade
+que fue d esta confradia
+El s<en~><<or>> don Ju<an> martinez de soria lerma por hijo del
+s<en~><<or>> don diego de lerma Regidor que fue de esta c'iudad y cofrade
+desta cofradia.}
+{CB2.
+El s<en~><<or>> don gaspar de quintanaduen~as por
+nieto del s<en~><<or>> gaspar de quintanaduen~as
+confrade que fue de esta confradia.
+El s<en~><<or>> don Pedro de xalon. Regidor desta
+c'iudad por hijo del s<en~><<or>> fran<cis><<co>> de xalon
+Regidor y depositario g<en>eral que fue della
+y Confrade de esta confradia
+Y en fe de ello lo firme
+Diego Esteban Mendez
+En veinte y ocho de junio de mill y seis<cientos>
+y quarenta y tres an~os se Recibio por
+Hermano desta s<an><<ta>> Confradia al s<en~><<or>>
+Don Andres de melgosa por ser
+hijo y nieto de confrade y asi
+no a de dar mas de dos ducados
+de entrada y en fe dello lo
+firme Joan dela fuente.}
+[fol. 62r]
+{CB2.
+{RMK: HSMS-0513-0007: Armorial de la Cofradía de Santiago, 1501-1650.} alo<n>so de cartaJena
+Regidor
+{=MIN.}
+Pero Ruyz de villegas
+Regidor
+{=MIN.}}
+{CB2.
+El doctor Jua<n> dela torre Regidor
+{=MIN.}
+Pedro de arc'eo
+Regidor
+{=MIN.}}
+[fol. 62v]
+{CB2.
+Pero sanchez
+de mjranda
+Regi-
+dor
+{=MIN.}
+Alonso de villanueba
+Regidor.
+{=MIN.}}
+{CB2.
+Garc'ia de torq<ue>-
+mada Regidor
+{=MIN.}
+Lope de valdevielso
+Regidor
+{=MIN.}}
+[fol. 63r]
+{CB2.
+Don diego osorio Regidor
+{=MIN.}
+diego de so-
+ria Regidor
+{=MIN.}}
+{CB2.
+Pedro dela mota
+Regidor.
+{=MIN.}
+El lic'enc'iado diego
+sanchez de casti-
+llo Regidor.
+{AD. [^2#del Cons<ei><<o>> de los Re-
+yes Catholicos su Al-
+calde de Corte.]}
+{=MIN.}}
+[fol. 63v]
+{CB2.
+Alonso de lerma
+Regidor
+{=MIN.}
+Antonjo de santander
+Regidor
+{=MIN.}}
+{CB2.
+Garc'i sarmje<n>-
+to Regidor
+{=MIN.}
+Hernando de
+santotis escriua-
+no de Conc'eJo.
+{=MIN.}}
+[fol. 64r]
+{CB2.
+diego de valdeuielso Regidor.
+{=MIN.}
+franc'isco de lerma.
+{=MIN.}}
+{CB2.
+do<n> pedro sarmiento Regidor
+{=MIN.}
+El doctor de curiel.
+{=MIN.}}
+[fol. 64v]
+{CB2.
+Jua<n> de miranda
+{=MIN.}
+El lic'enc'iado de [^la] torre
+{=MIN.}}
+{CB2.
+alonso de lerma
+{=MIN.}
+Gonc'alo lopez de pola<n>co
+{=MIN.}}
+[fol. 65r]
+{CB2.
+diego de soria.
+Regidor
+{=MIN.}
+Sebastian de bue-
+zo escriua-
+no de con-
+c'ejo
+{=MIN.}}
+{CB2.
+Johan de arc'eo
+{AD. [^2#Regidor]}
+{=MIN.}}
+[fol. 65v]
+{CB2.
+Alonso de astudillo
+{=MIN.}
+El doctor. alonso
+gonzalez gallo:
+{=MIN.}}
+{CB2.
+Juan pardo.
+{=MIN.}
+El lice<n>ciado aluaro:
+gallo.
+{=MIN.}}
+[fol. 66r]
+{CB2.
+garc'ia de mac'uelo {AD. [^2#hijo de[ ]garci m<art>jn<e>s de
+mac'uelo]}
+{=MIN.}
+Pero pardo hijo de p<er>o pardo
+s<en~or> de villarramiro. a<n~o> de m.cccc.
+xcviij<<o>>
+{=MIN.}}
+{CB2.
+andres dela cadena
+{=MIN.}
+herna<n>do de burgos
+{AD. [^2#arc'eo]}
+{=MIN.}}
+[fol. 66v]
+{CB2.
+nun~o de gumjel
+{=MIN.}
+Gonc'alo de almotar
+{=MIN.}}
+{CB2.
+vernaldino de
+miranda.
+{=MIN.}
+Pedro de cueuas Ruujas
+{=MIN.}}
+[fol. 67r]
+{CB2.
+Juan de salinas
+{=MIN.}
+franc'isco del castillo
+{=MIN.}}
+{CB2.
+Franc'isco dela torre
+{=MIN.}
+Gonc'alo de mjranda
+{=MIN.}}
+[fol. 67v]
+{CB2.
+Garc'ia de lerma
+{=MIN.}
+Jua<n> dela mota
+{=MIN.}}
+{CB2.
+Pero Rodriguez de ayala
+{=MIN.}
+Jua<n> de ayala hiJo de pero rrodriguez de pale<n>c'ia
+al<ca>lde mayor del adela<n>tamie<n>to de
+castilla
+{=MIN.}}
+[fol. 68r]
+{CB2.
+Fra<n>cisco me<n>dez co<n>ti-
+nuo de su alteza
+{=MIN.}
+{MIN=.}
+Juan de castro
+hijo de d<ieg><<o>> de castro {AD. [^2#pusose]}
+An~o de M.D.XX}
+{CB2.
+Bernardino de Santa mari<<a>>
+{=MIN.}
+pedro dela torre rregidor
+{=MIN.}}
+[fol. 68v]
+{CB2.
+Este es Francisco de sant vitores
+{=MIN.}
+Juan de lerma {AD. [^2#guarda ma<<yor>>
+dela casa dela moneda]}
+{=MIN.}}
+{CB2.
+Juan de myranda el jouen
+{=MIN.}
+gregorio de lerma.
+{=MIN.}}
+[fol. 69r]
+{CB2.
+alonso de s<an>to
+domingo
+{=MIN.}
+A<<n>>dres de pesq<ue>ra
+{=MIN.}}
+{CB2.
+Alonso de almotar
+{=MIN.}
+Lope garc'ia de
+salazar
+{=MIN.}}
+[fol. 69v]
+{CB2.
+Jua<n> sanzoles m<er>jno m<ay><<or>>
+desta c'ibdad & al<ca>lde
+mayor dela casa d<e>la
+moneda della. S
+entro an~o de mjll & quj-
+njentos an~os
+{=MIN.}
+fra<n>c'isco de mac'uelo {AD. [^2#hijo de garc'ia
+de mac'uelo]}
+{=MIN.}}
+{CB2.
+Alonso de
+sanzoles
+su hijo
+contino
+de casa d<e>l
+Rey don fer-
+nando el ca-
+tolico. Se {AD. [^2#entro an~o de mjll & q<u><<i>>nj-
+entos & diez an~os]}
+{=MIN.}
+bernaldino dela
+cadena
+{=MIN.}}
+[fol. 70r]
+{CB2.
+antonio de melgosa
+regidor
+{=MIN.}
+Herna<n>do de mac'uelo thesore<r><<o>>
+d<e>la casa d<e>la m<<o>>-
+neda
+{=MIN.}}
+{CB2.
+m<art>jn de Salinas re-
+gidor
+{=MIN.}
+diego pardo hijo d<e> Alu<ar><<o>> pardo
+An~o de M.D.iiij<<o>>
+{=MIN.}}
+[fol. 70v]
+{CB2.
+Garc'i Ruyz d<e>la mota(<<a>>) al<ca>ld<e>
+mayor
+{=MIN.}
+Este es andres de pesque-
+ra el Jouen
+{=MIN.}}
+{CB2.
+alo<n>so de Cueba<<s>> {AD. [^3#alcallde mayor]}
+co<n>tinuo d<e> su al-
+teza
+{AD. [^2#su hermano]}
+{=MIN.}
+grigorio d<e> pola<n>co regidor
+{=MIN.}}
+[fol. 71r]
+{CB2.
+Diego de bernuj (^2#v)[^2#Regidor y ve]-
+zino de esta c'ibdad [^2#de burgos]
+criado d<e>l emperador [^2#y R<e>y n<uest>ro s<en~><<or>>]
+don carlos:
+{=MIN.}
+{=MIN.}
+Este es Alberto de m<edin><<a>> mac'uelo
+hijo de alberto vlondel franc'es y
+de maria de medina mac'uelo
+entro an~o 1531}
+{CB2.
+Bernardo de Bernuy
+Regidor de esta c'ibdad
+criado del emperador
+don Karlos
+{=MIN.}
+{=MIN.}
+este es diego de m<edin><<a>>
+zisneros su hijo y
+d<e> don~a beatriz de zisneros
+entro an~o de 1534
+y fue Regidor}
+[fol. 71v]
+{CB2.
+Pero Ruiz de villegas:
+{=MIN.}
+el lic'e<n>ciad<<o>> Jero-
+nimo d<e> villegas
+pusose an~o de
+M.D.XXXI
+{=MIN.}}
+{CB2.
+Pero Ruiz de la torre. Regidor de esta
+c'ibdad y criado d<e>l emperador
+y R<e>y do<n> carlos n<uest>ro
+Sen~or
+{=MIN.}
+El licenc'iado pedro de
+la torre.
+{=MIN.}}
+[fol. 72r]
+{CB2.
+Jua<n> de torquemada
+{=MIN.}
+Jua<n> de sa<n>cto domi<n>go
+{AD. [^2#Regidor de burgos
+sen~or se las villas de es-
+tepar y fran-
+dovinez]}
+{=MIN.}}
+{CB2.
+Franc'isco de Salinas
+{=MIN.}
+{=MIN.}
+El lice<n>ciado Andres de ay<<a>>la
+hijo de ju<an> Rodriguez de ayala
+An~o de M.D.xxvij}
+[fol. 72v]
+{CB2.
+Diego pardo hijo de diego pardo
+An~o de M.d.xxxiiij<<o>>
+{AD. [^2#por mar
+y por tierra. Don]}
+{=MIN.}
+Andres de Can~as Regidor y Pro-
+curador de Cortes. Corregidor de Cuen-
+ca y Guete. San clemente y Bada-
+xoz Y familiar del sancto oficio.
+{=MIN.}}
+{CB2.
+Pero pardo hijo de p<er>o pardo criado del
+Rey de vngria. sen~or de villarramiro
+Anno de .M.d.xliij. {AD. [^2#por mar
+y por tierra]}
+{=MIN.}
+Don francisco de Can~as Salaman-
+ca. oydor de la corun~a y Vall<adoli><<d>>. Colleg<ia><<l>> ma[yor]
+de ouiedo Cathedratico de clementin<<a>>
+Cauall<er><<o>> del Hauito de Santiago
+{=MIN.}}
+[fol. 73r]
+{CB1.
+{MIN=.}
+DON DiEgo mARTINEZ DE LERMA
+Regidor des esta siudad i Confrade An~o de
+1656
+deste Con( )fradia an~o de 1632}

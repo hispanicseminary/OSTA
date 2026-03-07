@@ -1,0 +1,1378 @@
+{RMK: HSMS-0518.}
+{RMK: Diego Montes.}
+{RMK: [IRG] Instrucción y regimiento de guerra.}
+{RMK: Zaragoza | Jorge Cocci | 1537-10-31.}
+{RMK: Madrid | Biblioteca Nacional de España | R/1350.}
+{RMK: José Manuel Fradejas Rueda.}
+[fol. 1r]
+{CB1.
+{ILL. {MIN.}}
+{RMK: HSMS-0518-0001: Instrucción y regimiento de guerra.} % Esta obra llamada Jnstrucion y regimiento
+de guerra hizo y ordeno Diego montes vezino dela villa dela Guardia
+soldado viejo de su Magestad. Dirigida al Jllustre y muy magnifico
+sen~or don Beltran dela Cueua Duque de Alburquerque. Enla qual
+trata sutiles auisos y cosas secretas del exercicio militar dela guerra.}
+[fol. 1v]
+{CB1.
+{RUB. % La tabla delos capitulos que se contienen en-
+este libro: y de que tratan.}
+% Capitulo j. q<ue> trata como se ha de ordenar la guerra justa fol<io> iij.
+% Capitulo .ij. como se deue hazer la gente: y como se han de regir co<n>
+la gente despues de hecha. fol<io> iiij.
+% Capitulo .iij. dela orden que se ha de tener enla vitualla. f<oli>o .v.
+% Capitulo .iiij dela orden que se ha de tener enel lleuar dela artille-
+ria. f<oli>o. vj.
+% Capitulo .v. como se ha de gouernar vn exercito: y que personas
+son obligadas a le gouernar. fol<io> .vij.
+% Capitulo .vj. que trata la orden que ha de lleuar el exercito quan-
+do marchare: y la orden que ha de lleuar quando se retirare. fol<io> .x.
+% Capitulo .vij. en que se declara: si sera mejor para dar vna batalla
+lleuar poca gente o mucha. fol<io> .xij.
+% Capitulo .viij. como el general deue ordenar la batalla: para ha-
+uer vitoria de sus enemigos. fol<io>. xiij.
+% Capitulo .viiij. como se han de guardar las Ciudades: Uillas y
+Castillos que el sen~or del exercito ganare. fol<io> .xvij.}
+[fol. 2r]
+{HD. Prologo. \ II}
+{CB1.
+{RUB. Jllustrissimo sen~or.}
+{IN6.} LOs antiguos escriptores y sapientissimos Philoso-
+phos discurriendo por el oriente: y por el mar adriati-
+co: fasta el mar terrento / y mediterraneo: que confi-
+na conel estrecho: hasta el mar Occeano: que es la
+madre de todas las aguas: por saber los secretos del
+vniuerso visitaron las prouincias / y en algunos lu-
+gares principales hallaron algunas antiguallas debuxadas de vul-
+to: y otras de pintura: enlas quales manifiestamente parescia / y se
+mostrauan los grandes hechos que los inuencibles Caualleros de
+las dichas prouincias naturales hauian hecho por las armas. Y
+los naturales porque de sus notables hechos quedasse memoria:
+hazian entretallar en piedra marmol sus batallas y grandes he-
+chos de armas. Y los que no los podia<n> hazer de talla: pintauan sus
+grandes hystorias y coronicas de sus gloriosas vitorias: porque de
+sus prohezas quedasse memoria. Y como los Philosophos vieron
+sus antiguas hystorias debuxadas en piedras y en pinturas: pare-
+scia les que aquello no podia permanescer tanto tiempo / que por ti-
+empo no se perdiesse la entretalladura & pintura: y perdida: se perde-
+ria la memoria delas hazan~as que aquellos caualleros hauian he-
+cho. Y porq<ue> viniessen las tales coronicas a noticia delos aduenide-
+ros: acordaron de trasladar las dichas coronicas: y escreuir las por
+letra. Assi que los dichos Philosophos escriuieron & hizieron coro-
+nicas de sus grandes hechos / las quales hoy veemos escriptas. y
+esto hyzieron ellos por tres cosas. Lo primero porque quedasse me-
+moria delas hazan~as de aquellos caualleros. Lo segundo porque
+fuesse notorio alos otros philosophos / como ellos hauian descubi-
+erto aquellos secretos / que estauan tan occultos. Lo tercero: por-
+que los que despues dellos viniessen: que supiessen que ellos haui-
+an sido philosophos / que hauian discurrido la mayor parte del mu<n>-
+do / por alcanc'ar a saber las cosas occultas / y que ellos hauian escri-
+pto lo que otros no pudieron alcanc'ar. Y lo otro fue: que los caua-
+lleros que despues dellos viniessen: leyendo las dichas coronicas /}
+{SG. A ij}
+[fol. 2v]
+{HD. Prologo.}
+{CB1.
+verian las hazan~as delos caualleros passados y leyendo las les to-
+maria desseo de hazer otros semejantes: porque dellos quedasse eter-
+nal memoria: y fuessen puestos en coronica sus grandes hechos. E
+porque no viniessen en diminucion: los dirigian alos principes y se-
+n~ores delos exercitos: porque con mas honrra fuessen mantenidas
+y guardadas / y conseruadas: & porque de sus industrias delos passa-
+dos tomassen alguna dotrina para el exercicio militar. Porende
+muy illustrissimo sen~or: & acordando me delos grandes hechos que
+sus antecessores enlas armas hizieron: y el esclarescido y alto lina-
+ge: donde vuestra illustrissima sen~oria procede: como a lugartenien-
+te general del inuictissimo Cesar nuestro Monarca: y como a inue<n>-
+cible capita<n> de nuestra Espan~a: dirigi la presente obra llamada Jn-
+strucion y regimiento de guerra: enla qual si yo alguna cosa (a)[e]screui /
+superflua / o faltosa: me someto ala correccion de vuestra illustrissi-
+ma sen~oria: para que como maestro de guerra me corrija: y como se-
+n~or me reprehenda. Cuya vida illustrissima dios todo poderoso en-
+salce / y estado accresciente.}
+[fol. 3r]
+{HD. Libro llamado Jnstrucio<n> y[ ]regimie<n>to de guerra. \ III}
+{CB1.
+{RUB. Capitulo. primero. del libro llamado Jn-
+strucion y regimiento de guerra: que nota como se ha de
+ordenar la guerra justa.}
+{IN5.} JLlustrissimo sen~or: cosa muy necessaria es alos caualle-
+ros y gra<n>des sen~ores / leer las cosas de famosos hechos
+del arte militar / que los principes y sus capitanes ha-
+zen enlas guerras y batallas que enprenden. E porque
+despues de diestros enla guerra no quieren dar la or-
+den que tienen enel vencer / ni pelear porque aquella gloria quieren
+guardar para si. E por esta razon es cosa necessaria / que los caualle-
+ros que liguen la guerra / procuren con toda diligencia dela saber
+exercitar / y el estilo q<ue> se deue tener enel principiar dela guerra: y los
+aparejos q<ue> son menester para la hazer: y avn q<ue> algunas cosas delas
+que aqui escriuo son manuales: q<ue> comu<n>mente los mas las alcanc'a<n>:
+hay otras q<ue> no se pueden alcanc'ar: sino es el q<ue> ha praticado la gue-
+rra. Assi q<ue> procediendo en mi escriptura digo / q<ue> despues q<ue> la guerra
+fuere declarada por justa : el sen~or del exercito y los de su consejo de
+guerra ante todas las cosas deue<n> saber la ge<n>te q<ue> sera menester para
+hazer la guerrar assi de pie como de cauallo: para hauer vitoria enla
+empresa y conquista q<ue> quisiere<n> hazer. E como lo sepan deue su prin-
+cipe proueer dinero para la pagar / porq<ue> la gente bien pagada haze
+la guerra: y esto q<ue> no falte en todo el tiempo q<ue> la guerra durare: con-
+formandose primero como la guerra seha de hazer: y porq<ue> parte: & si
+la prouincia por donde han de entrar a hazer la guerra es rica o po-
+bre: porq<ue> si la prouincia do<n>de la guerra se houiere de hazer es pobre /
+mas guerra les haria la hambre q<ue> los enemigos: por la mucha falta
+delos bastimentos q<ue> no se podria<n> hauer: a cuya causa el exercito les
+seria forc'ado de retirar se Porende el principe q<ue> ha de exercitar gue-
+rra co<n>uiene que lo haga a su enemigo por la parte donde la prouin-
+cia fuere mas abundante de vituallas: porq<ue> el exercito sea abastado
+de bastimentos: y para esto el general del exercito ha de ser persona
+pratica enla guerra: alomenos q<ue> tenga alguna esperiencia enella: y
+sea gran sen~or y de gran linage: y delos principales del reyno: porque
+a este tal los caualleros y soldados del exercito ternan acatamie<n>to}
+{SG. A iij}
+[fol. 3v]
+{HD. Libro llamado +}
+{CB1.
+como a su capitan general: y lo obedesceran como ala persona de su
+Rey: mas el tenga tal cuydado enla gouernacio<n> del exercito que no
+les haga falta la presencia de su rey natural. Y enlas affrentas / y re-
+cuentros q<ue> se halle de contino presente con valeroso animo: porque
+sus soldados no conozcan ni sientan enel flaqueza de animo: sino to-
+do esfuerc'o y osadia. Y este tal siendo general lleuando las cosas por
+buena orden y sano consejo sera bien quisto dela caualleria y solda-
+dos del exercito. E despues q<ue> el principe houiere criado el general q<ue>
+ha de yr en su lugar enel exercito haga sus Capitanes de gente dar-
+mas: cauallos ligeros: y de infanteria. Mas conuiene y es cosa ne-
+cessaria para hauer vitoria q<ue> los capitanes y alferez dela infanteria
+que el principe hiziere & criare q<ue> sean hombres q<ue> haya<n> seguido la gue-
+rra cinco an~os / o mas tiempo. Y estos tales soldados platicos son
+despues muy buenos capitanes. Y estos tales vayan a hazer la gen-
+te: porque mejor orden daran los platicos soldados viejos enla gue-
+rra siendo capitanes: que no los que nunca se hallaro<n> enella porque
+el soldado q<ue> no se ha hallado enla guerra: ni sabe por donde entrar:
+ni por donde salir ni ordenar la gente como seria menester. De mane-
+ra que siendo los capitanes nueuos / y no siendo esperimentados en
+la guerra: ellos mismos no se sabran ordenar: y no sabiendo se orde-
+nar a si: claro esta q<ue> no sabra<n> ordenar alos otros: por manera q<ue> para
+hazer mejor la guerra: es menester que los capitanes que han de yr
+enel exercito sean soldados viejos: criados enla guerra. E po<n>go por
+caso que si para hazer la gente no se hallare<n> tantos soldados viejos
+como seria menester: den los officios de capitanes y Alferez a hom-
+bres nobles que sean hijos dalgo: los q<ue> conosciere<n> que son mas abi-
+les para ello: q<ue> de su condicio<n> muestren ser animosos: y a estos tales
+dexe les el cargo de capitanes: porq<ue> destos tales se solian seruir los
+principes enlos tiempos passados enlas guerras que tenia<n> contra
+infieles: y conellos hizieron sus conquistas. Y enlos hijos dalgo ha-
+llaron mas lealtad que en otros ningunos: y ellos en seruicio de di-
+os y de sus principes hizieron cosas hazan~osas como hoy lo vemos
+por las coronicas de Espan~a: y es notorio a todo hombre. E los Re-
+yes les dieron muchas exe<m>ptiones & libertades por sus buenos ser-
+uicios. E por esta razon pues dios los crio con tanta lealtad para el
+(f)[s]eruicio suyo y de sus principes: es razon que a ellos se den los seme-jantes}
+[fol. 4r]
+{HD. Jnstrucion y regimiento de guerra. \ IIII}
+{CB1.
+cargos por la su mucha bo<n>dad y estos tales siguie<n>do la gue-
+rra: avn que al principio no fuessen muy platicos: viendo la orden q<ue>
+los otros capitanes platicos daran al tiempo del pelear: y enlas o-
+tras cosas necessarias al entrar de vn fuerte / o ciudad / o castillo / en
+poco tie<m>po se harian platicos: y haria<n> la guerra como ho<m>bres plati-
+cos: co<n> desseo de seruir a su rey: porq<ue> de tales personas no es de pe<n>sar
+q<ue> haria<n> otra cosa: hazie<n>do se dellos la tal co<n>fianc'a por su rey natural.
+{RUB. % Capitulo segu<n>do como se deue hazer la ge<n>-
+te: y como se han de regir con la gente despues de hecha.}
+{IN5.} DEspues q<ue> los capitanes tuuiere<n> sus condutas para ha-
+zer cada vno su gente. Cada yno dellos la deue yr a ha-
+zer ala prouincia q<ue> le sera sen~alada por su Rey: como lo
+vera por la patente q<ue> le dieren. y en aq<ue>llas prouincias q<ue>
+le seran sen~aladas: cada capitan haga su poder a toque
+de atambor: desplegando sus banderas: las quales esten puestas en
+el lugar / o ciudad mas principal dela prouincia que le fuere sen~ala-
+da: dela qual bandera terna cargo su alferez que el capitan para ha-
+zer la gente houiere criado: conel qual alferez / o capita<n> estara su Ca<n>-
+ciller / o Furer / o vn escriuano / que assiente todos sus soldados que
+se vinieren a assentar para seguir la bandera del dicho capita<n> / en ser-
+uicio de su rey. E dela gente q<ue> viniere a seruir la bandera del dicho
+capitan tome dellos los mas platicos y mas esperime<n>tados: y haga
+quatro Caporales q<ue> comunme<n>te llaman cabos de esquadra: y estos
+vayan por toda la prouincia a hazer la gente: y la gente q<ue> hiziere<n> sea
+la mas vsada al exercicio delas armas que se pudiere hauer: y sean
+hombres de buena casta / sueltos / ligeros / abiles en sus personas / de
+buena conuersacion / y crianc'a: y los que son desseosos del exercicio
+militar q<ue> son hombres de buen genero: desseosos de ganar honrra:
+estos son despues muy honrrados soldados / de noble co<n>uersacion:
+y suelen salir destos algunos muy sen~alados enlas armas de valien-
+te animo: & ingeniosos. Estos tales anda<n> siempre bien aderec'ados /
+y galanes: trahen muy luzidas armas: huelga<n> se de hazer cosas muy
+sen~aladas: porq<ue> sean conoscidos. Estos tales son llamados enel ca<m>-
+po de Ytalia los Guzmanes entre los Espan~oles. Dan se a toda vir-
+tud: vsan de toda buena cria<n>c'a: todos los capitanes del exercito ha-zen}
+{SG. A iiij}
+[fol. 4v]
+{HD. Libro llamado +}
+{CB1.
+dellos mucha cuenta: porque cada vno destos despues que son
+platicos enla guerra: meresce ser Capitan por su mucha virtud y va-
+lentia: & por su saber. E qualquier soldado viejo q<ue> haya platicado la
+guerra siendo persona de cuenta: podria dar muy buena cuenta de-
+lo que le fuesse encomendado en seruicio de su Rey. Porende los ca-
+pitanes que fueren a hazer gente deuen procurar de hazer gente que
+sea de afrenta / y de verguenc'a: porque no le hagan falta al tiempo d<e>l
+menester. Y enel hazer dela gente tenga el Capitan especial cuyda-
+do de dar los officios a personas que los merezcan tener: que sean
+solicitos & diligentes: & tales que de noche y de dia esten desuelados
+en como podran mejor seruir a su Rey: dando orden enla gente dela
+compan~ia: y que esten proueydos delas armas que les fueren dadas
+enel tiempo dela resen~a: porque no les falte al tiempo del pelear: &
+que tengan toda la gente muy luzida y aderec'ada de picas y cosele-
+tes para el tiempo del pelear. El otro que los capitanes han de pro-
+ueer enlos lugares donde su gente tuuieren aloxada: no consientan
+que sus soldados enlas tierras de su Rey hagan ningunas fuerc'as /
+ni violencias: sino todo buen tratamiento: porque tambien son aq<ue>-
+llos vassallos de su Rey como ellos: y no seria razon que los vassa-
+llos con los vassallos se hiziessen mal vnos a otros: siendo todos de
+vn principe: y el Capitan q<ue> lo tal consintiesse: meresce de ser priuado
+del officio militar. Y el soldado que en tal caso hiziesse fuerc'a / o roba
+so color de ser soldado / meresce muerte: mas deue de ser oydo de su
+derecho ante su capitan / o ante el general / o maestres de campo del
+exercito: mas si el delito no fuere muy graue: el Capitan lo puede ca-
+stigar: no enla persona: sino en despedir lo de su compan~ia. Y esto
+por tres cosas: por ladron / o reboluedor / o ruffian: o por otra sin ra-
+zon que el capitan conosciere que meresce ser castigado. Mas si el
+delito es por amotinador: es mas graue: y este tal delito ha lo de ca-
+stigar el maestro del campo / o el sen~or del exercito. Y ha se de saber
+gobernar tambien el capitan con su gente: que enlos pueblos don-
+de fuere [a]loxado no se quexen del ala partida: porque muchas vezes
+acontesce hazer los soldados tales desordenes: que los pueblos se
+van a quexar al Rey dellos: y paga el Capitan la culpa que sus sol-
+dados tienen: y esto da causa el capitan por no ponellos en justicia /
+y en razon. Porende los Capitanes deuen poner mucho recaudo}
+[fol. 5r]
+{HD. Jnstrucion y regimiento de guerra. \ V}
+{CB1.
+en que su ge<n>te no hagan mal por las tierras que passare<n> de su rey: ni
+en otra parte algu<n>a: saluo si la tierra fuere de enemigos porque alos
+tales han se de tratar como enemigos: y enesto no se los puede poner
+premio alos soldados: saluo si los enemigos viniessen en concierto
+de se rendir y dar la obediencia: en tal caso los soldados son obliga-
+dos de guardar todo lo que el general co<n>ellos capitulare en nombre
+del rey: porque si lo contrario hiziessen: quebrantarian la palabra da-
+da por el general: y serian dados por rebeldes. Lo otro que el capitan
+deue de proueer: es vn Sarge<n>to: y este officio es el segundo enla co<m>-
+pan~ia despues del alferez: este tiene cargo de regir la gente: poner la
+en orden: & si alguno saliesse dela orden puede le castigar el sargento:
+mas fuera dela orden no le puede castigar: saluo si le mandasse yr ala
+orde<n> y no quisiesse: en tal caso podria le el sarge<n>to herir: & si dela heri-
+da muriesse el tal soldado: no por esso meresce culpa el sargento: por-
+que haze el officio en seruicio de su rey: y en tal caso ha de ser obedesci-
+do como lo es el capitan enel suyo. E assi mesmo deuen proueer los
+capitanes quando fueren de camino q<ue> las banderas vayan acompa-
+n~adas al entrar delas ciudades de toda la gente que el capitan ho-
+uiere hecho: que esta pagada por su lista: & vayan los arcabuzeros
+delante / y tras ellos los soldados de cosseletes: y enla tercera hile-
+ra delos cosseletes vaya la bandera: y tras los cosseletes vayan los
+soldados de pica seca: y en rec'aga vayan algunas hileras de cossele-
+tes: porque va la compan~ia muy mas honrrada y mas vistosa: y en
+mejor orden: si houiesse necessidad: y esto se haga porque no vayan
+las banderas desautorizadas: porque esta orden se tiene entre los
+soldados viejos de Ytalia. Una opinion se tiene entre la gente de
+guerra: que vnos dizen que vna compan~ia es mejor que sea de qui-
+nientos hombres: que no de trezientos: otros affirman que es me-
+jor de trezientos. Los Tudescos de quien primero vino el origen
+de dar la orden enla infanteria / dieron a cada bandera quinientos
+hombres conforme ala vsanc'a suya: y en tiempo antiguo assi lo vsa-
+ron ellos enlas guerras que tuuieron por la corona del Jmperio.
+Y esta costumbre ellos siempre la han obseruado y guardado: y al
+parescer de todos esta es la mejor orden: que cada capitan ten-
+ga quinientos hombres en su compan~ia debaxo de su bandera:
+porque quando vn Capitan quisiesse hazer alguna cosa que fuesse}
+{SG. v}
+[fol. 5v]
+{HD. Libro llamado +}
+{CB1.
+sen~alada: mejor la hara co<n> quinientos hombres q<ue> no con trezientos.
+E pues este origen se guarda tanto entre los Tudescos: justo es que
+toda la infanteria guarde esta orden: porque es la mejor y co<n> menos
+gasto. La gente darmas y cauallos ligeros no lleua<n> esta orde<n>: porq<ue>
+cada capitan trahe solamente cinquenta de cauallo: a vn q<ue> algunos
+hay que trahen ciento. E los hombres darmas trahen dobladas ar-
+mas. y los cauallos doblado<<s>>: & su officio es de mayor dignidad: que
+el cauallo ligero: porque son llamados entre los principes: gente de
+guerra: qua<n>do estan en su campan~a el cuerpo dela caualleria: y estos
+puestos en su esquadron: el dia dela batalla hazen cuerpo: porq<ue> esta
+entre ellos la flor dela caualleria: y la fortaleza de vna batalla esta
+enellos: y los cauallos ligeros tienen otra orden: q<ue> son mas prestos
+para combatir: porque andan ala ligera: y de contino andan a vista
+delos enemigos: y estos siruen mucho enla guerra: porque sen~orean
+la campan~a: lo que no hazen los hombres darmas: que estos no sale<n>
+sino a cosa de hecho: & si salen: salen sobre cosa pensada.
+{RUB. % Capitulo .iij. dela orden que se ha de tener
+enla vitualla.}
+{IN5.} PUes que se ha dicho la forma que se ha de tener enel ha-
+zer dela infanteria y gente de guerra: cosa conuenible
+sera hablar enlo dela vitualla: pues que es cosa que ta<n>-
+to importa. Despues que el exercito sea junto: deue pro-
+ueer el general las vituallas que fueren menester para
+el mantenimiento del exercito: conforme ala gente que va enel: y con-
+forme ala prouincia donde la guerra se ha de hazer: porque si la pro-
+uincia es esteril y faltosa de bastimentos / donde la guerra se houie-
+re de principiar: sera necessario proueer mas bastimentos: y esto esta
+a discrecion del general: delo que el mandare de proueer Mas enel
+proueer dela vitualla: tenga el general tal instinto que en tiempo de
+la mayor necessidad no falte: porque seria al exercito gran falta: por-
+que muchas vezes se ha visto retirar se los exercitos touiendo vi-
+toria conoscida contra sus enemigos por falta dela vitualla. E mu-
+chas tierras y castillos fuertes se ha<n> rendido por falta de vituallas:
+mas que por combate delos enemigos: y enesto ha<n> de mirar mucho
+los generales: que las fuerc'as que ganaren que las hagan proueer}
+[fol. 6r]
+{HD. Jnstrucion y regimiento de guerra. \ VI}
+{CB1.
+de vituallas: porque los enemigos no las tome<n> por hambre: porque
+mejor es ya que sucede la fortuna: que vna fuerc'a se pierda por bata-
+lla que no por hambre. E por esto es razon que los generales proue-
+an los castillos y fortalezas que ganaren de todos los materiales
+que son menester para la defensa d<e>las fortalezas y castillos: porque
+el dia dela batalla no les falte ninguna cosa: porque muchas vezes
+los Alcaydes defenderian sus castillos y fortalezas: si tuuiessen los
+aparejos para la defensa que hauian menester y avn que algunas ve-
+zes son reprehendidos por se rendir alos enemigos: no serian culpa-
+dos si supiessen el secreto / o la causa porque se rendieron. Aquel es de
+culpar el alcayde que tiene bien proueyda su fortaleza: y se puede de-
+fender de sus enemigos: y se rende. y a este tal nunca le falta vn color
+con que cierre las bocas a todos. E porende los generales / sen~ores /
+que tienen castillos y fortalezas / y se temen de sus enemigos / no se
+deuen descuydar enlas visitar / y reconoscer. Y enlo que toca ala vi-
+tualla del exercito tenga cargo dello vna persona que sea de confian-
+c'a y hombre de buen zelo: el qual ha de tener sus nuncios: que vayan
+alas tierras mas cercanas d<e>l exercito a hazer venir las vituallas al
+exercito: y el general haga asegurar los passos: por donde la vitua-
+lla viniere al exercito: porq<ue> los soldados del exercito no los tomen / o
+los enemigos no los maten. Por manera q<ue> assi la vitualla / como o-
+tra mercaduria / pueda venir segura al exercito: y boluer a sus casas.
+y aq<ue>lla se les pague en sus justos precios. Mas si aco<n>tesciere q<ue> algu-
+na villa / o ciudad no quisiere traher vituallas al exercito: a esta tal
+haga se le guerra como a enemigos: por la rebellio<n> q<ue> haze: hasta q<ue> ve<n>-
+ga a dar la obedie<n>cia al general / o sen~or del exercito. esta tal deue ser
+castigada: porq<ue> sea escarmie<n>to alas otras tierras comarcanas. E si
+por caso las otras tierras hiziere<n> lo mismo y fuere<n> rebeldes haga se
+enellos el mismo castigo: porq<ue> la guerra ha se de hazer con dan~o de
+los enemigos: y de todos aquellos que siguen su opinion: y no a pro-
+uecho suyo: y delas vituallas que vinieren al exercito haga se casa de
+municion: y gaste se por orden: de manera que no haya falta enel exer-
+cito: y gastense de contino las vituallas mas viejas: guardando de
+contino las mas frescas para la postre: porque desta manera se con-
+seruara la vitualla: y el exercito sera sustentado. Y el que fuere comis-
+sario haga su libro del gasto: y delo que recibe: y de cue<n>ta dello porq<ue>}
+[fol. 6v]
+{HD. Libro llamado +}
+{CB1.
+se sepa como se destribuye: porque los gastos del exercito son gra<n>des
+y es menester que anden por orden: y tenga la misma orden el comis-
+sario que recibiere la moneda para pagar el exercito.
+{RUB. % Capitulo .iiij. dela orden que se terna enel
+lleuar dela artilleria.}
+{IN6.} DEspues que el exercito sea ju<n>tado: el principe / o sen~or del
+exercito deue criar vn Capitan de artilleria para que te<n>-
+ga cargo della. Y este sea el capita<n> mas pratico enla gue-
+rra: y mas diligente: y mas leal & fiable q<ue> se pudiere ha-
+uer. Este capitan ha de tener mucho cuydado enla guar-
+da dela artilleria & municiones: ha se de desuelar en lleuar la artille-
+ria a muy bue<n> recaudo: al seguro: y por passos seguros: donde no pue-
+da hauer dan~o delos enemigos. Y para la lleuar mas a plazer haga
+los carretones ala francesa: las ruedas altas: porq<ue> caminara mas
+conel: y para dar vna bateria son mejores: porq<ue> los artilleros tirara<n>
+mejor de punteria / siendo las ruedas altas: porq<ue> conlas baxas / ni
+se puede abaxar ni alc'ar. Lo otro que los cauallos q<ue> lleuare para ti-
+rar la artilleria sean rezios y crescidos y bie<n> mantenidos. Y los ca-
+rreteros sean platicos/ q<ue> sepan aderec'ar los carretones & cinchos y
+collares porq<ue> si se quiebran los sepan aderec'ar. Haga lleuar sus ca-
+rros de municiones de collares exes y ruedas y clauac'ones: porque
+si se quebraren se prouea de presto: q<ue> muchas vezes por no lleuar los
+aparejos necessarios se q<ue>da vna piec'a enel camino. Y para esto de-
+uen lleuar vn ingeniero para leuantar los tiros. Carpe<n>teros para
+aderec'ar los exes / y otros ingenieros para limpiar los tiros. Bom-
+barderos q<ue> sean buenos maestros en su arte. Carros de municion /
+de pelotas / y poluora. Una co<m>pan~ia de infanteria / o dos: q<ue> vaya<n> ala
+guarda del. Comissarios q<ue> haga<n> venir las tierras comarcanas a ti-
+rar la artilleria y abrir los caminos / para q<ue> la artilleria pueda pas-
+sar. Y desto te<n>ga cargo vna persona / el qual se ha de llamar Capita<n>
+de gastadores. E si las tierras no quisiere<n> venir a abrir los passos y
+caminos / para q<ue> la artilleria pueda passar ha se les de hazer guerra
+como a enemigos. O tros officiales co<n>uiene lleuar enel exercito que
+son muy necessarios / assi como clauazo<n> para la artilleria: y otros a-
+parejos / maestros para hazer curuen~as: herradores para herrar}
+[fol. 7r]
+{HD. Jnstrucion y regimiento de guerra. \ VII}
+{CB1.
+los cauallos: y otros officiales. Mas a algunos no se les deue dar
+sueldo: porq<ue> ellos va<n> por su p<ro>pio interes. Mas alos herreros / y car-
+pinteros y bo<m>barderos & ingenieros d<e>ue se les dar sueldo: por la mu-
+cha necessidad q<ue> dellos hay en<e>l exercito. Y ta<m>bie<n> se suele dar sueldo a
+los municioneros q<ue> haze<n> el pa<n> enel exercito. para el ma<n>tenimie<n>to de
+la ge<n>te. Mas si enla prouincia q<ue> se co<n>quistare hay bastime<n>to en abu<n>-
+da<n>cia: nose le deue dar sueldo al municionero del pa<n>: porq<ue> delos ga-
+stos excessiuos no es seruido el sen~or d<e>l exercito. Y aq<ue>llos seruidores
+q<ue> el sen~or del exercito tiene q<ue> lo gasta<n> mal gastado: no se les deue dar
+mas cargo. Y aq<ue>llos q<ue> lo gasta<n> por orde<n> el sen~or d<e>l exercito les deue
+co<n>firmar sus cargos: y hazelles mercedes: por sus buenos seruicios.
+{RUB. % Capitulo .v. Como se ha de gouernar vn
+exercito: y que personas son obligadas a le gouernar.}
+{IN6.} PUes se ha hablado enlo dela artilleria: bien sera q<ue> se
+sepa: que personas han de gouernar el exercito: y co-
+mo se han de hauer enla gouernacion del. Porque
+no dura mas en Campan~a el exercito de quanto du-
+ra la buena gouernacio<n> del. Nueue personas me pa-
+resce a mi que basta<n> para gouernar vn exercito: por
+gra<n>de q<ue> sea. Mas estas nueue personas: co<n>uiene q<ue> sea<n> ho<m>bres sabi-
+os y platicos enla guerra. Y ha<n> de ser caualleros y personas de mu-
+cha sangre: y de linage: porq<ue> vna cosa ta<n> alta como vn exercito: no se
+deue co<n>fiar de p<er>sonas baxas: por tres razones q<ue> p<ar>a ello dire. La p<r><<i>>me-
+ra: porq<ue> los capitanes d<e>l exercito no se dexaria<n> gouernar d<e> personas
+baxas: sino de caualleros: y p<er>sonas q<ue> ellos se te<n>ga<n> por muy ho<n>rrados
+de ser gouernados de aq<ue>llos q<ue> tiene<n> el gouierno. La segu<n>da razo<n> es:
+q<ue> los nueue caualleros q<ue> ha<n> de tener cargo del gouierno del exerci-
+to: ha<n> de ser mas platicos enla guerra: q<ue> no los otros capitanes del
+exercito / o alomenos ta<n>to como los mas platicos: porq<ue> si algu<n>a co-
+sa ordenare<n> / o proueyere<n>: mo sea<n> reprehe<n>didos por sus capitanes d<e> su
+mal co<n>sejo q<ue> houiero<n> enel p<ro>ueer. La iij. razo<n> es: q<ue> los soldados plati-
+cos q<u><<i>>ere<n> ser gouernados d<e> p<er>sonas q<ue> sea<n> platicas enla guerra: y d<e> su
+nacio<n>: porq<ue> platicos co<n> platicos se entie<n>de<n>. & si no lo son: no se puede<n>
+ente<n>der: y assi co<n>uiene q<ue> sea<n> platicos los caualleros q<ue> tiene<n> cargo d<e>
+exercito. Y los que han de mandar y gouernar el exercito. El prime-
+ro es: el general o sen~or del exercito: porque por el se rije y gouierna}
+[fol. 7v]
+{HD. Libro llamado +}
+{CB1.
+el exercito. El segundo es el general de toda la infanteria. y el terce-
+ro es el general de toda la gente darmas. Y el quarto es el general
+delos cauallos ligeros. E los otros quatro que le rijen: son quatro
+maestres de campo: que ha de hauer enel exercito: y el noueno es vn
+Sargento general del exercito. Mas todos estos generales y mae-
+stres de campo y Sargento general: son subjetos al general / o sen~or
+del exercito. E todos los otros capitanes / y sen~ores del exercito:
+con todo el cuerpo del exercito: estan debaxo del dominio del sen~or
+del exercito: y delos dichos generales y maestres de campo y Sar-
+gento general. Mas comunmente toda la infanteria se rije y goui-
+erna por los quatro maestres de campo: porque conellos descarga
+el sen~or del exercito / o su general. Fueron llamados assi maestres de
+campo: porque cada vno dellos trahe vn baston enlas manos para
+regir y gouernar el exercito: porque ellos dan la orden como se han
+de hazer los esquadrones y affrenta enlas batallas los primeros. Y
+avn que para los ordenar el Sargento general tiene el cargo co<n> los
+otros sargentos que son a el subjetos. Mas como el officio del mae-
+stre de campo sea de mas preeminencia: y les va en aquello la hon-
+rra dela buena orden / hazen lo ellos muchas vezes juntamente co<n>
+el Sargento general. Y estos que son llamados maestres de cam-
+po: son los mas viejos enla guerra. Y de buena razon: no se deurian
+llamar maestres de campo: sino maestres de guerra: porque ellos
+son los que mas saben enlas cosas dela guerra. Y ellos son los qua-
+tro pilares del exercito: por donde se rije y gouierna el exercito. Ta<n>-
+bien tienen el gouierno dela justicia enel exercito: que si alguno me-
+resce muerte: por ellos es juzgado: si el soldado que sirue enel exerci-
+to haze algu<n> delito so color de ser soldado priuilegiado: justo es que
+sea castigado. Mas ante todas cosas ha de ser oydo de su desculpa:
+mas en tal caso no se han de guardar los terminos del derecho por
+ser hechos los delitos en tiempo de guerra / y entre soldados: saluo
+que aueriguada la verdad: el maestre de campo deue hazer la justi-
+cia segun el pecado. Y enesto ha de mirar mucho el maestre del cam-
+po lo que haze: porque se deue escusar quanto pudiere de no matar
+ningun soldado: sino fuesse el delito muy grande: que no pudiesse ha-
+zer menos: porque el sen~or del exercito pierde mucho en perder vn
+soldado / en especial estando el exercito delos soldados en tierra}
+[fol. 8r]
+{HD. Jnstrucion y regimiento de guerra. \ VIII}
+{CB1.
+estrangera: haziendo guerra adonde si le matan vno: no pueden ha-
+uer otro: en especial siendo los soldados Espan~oles : estando fuera
+de su patria: adonde no se puede hauer: porque aquellos no nascen:
+sino es enel corac'on de Espan~a: que es Castilla. E cumple mu-
+cho alos generales del exercito mirar por la vida delos tales sol-
+dados: por la mucha lealtad que tienen a su principe: y valentia que
+dios les dio: que muchas vezes se ha visto por el esfuerc'o de vn solo
+soldado: ser vitorioso vn exercito: por acometer aquel / cosa que cin-
+quenta juntos no osaran acometer: y los otros por vergue<n>c'a seguir-
+le: y trauarse la batalla con los enemigos de tal arte: que donde pe<n>-
+sauan ser vencedores quedauan vencidos: como acontescio sobre Ar-
+cilla que tuuiendo la el conde de Borba por el rey de Portugal: los
+reyes de Fez y de Tremezen: co<n> otros principes de Berueria vinie-
+ron sobre el con sesenta mil moros de pelea: y ganaron le la ciudad
+de Arcilla: y el retraxo se al castillo: que junto ala plac'a estaua: q<ue> tie-
+ne la puerta ala banda de Centa: a donde le tenian cercado: y el rey
+Catholico de gloriosa memoria por hazer buena obra al rey de Por-
+tugal embio a socorrer a Arcilla: y fue al socorro el conde Pedro na-
+uarro: con tres mil soldados viejos delos que el gran Capitan tru-
+xo de Ytalia: y llego la armada sobre Arcilla: y avn el socorro de por-
+tugal no era venido: y enesto hizo el conde desembarcar la gente de-
+las galeras y bateles. E todos juntos dimos con las proas en tie-
+rra: por echar la ge<n>te toda de vn golpe en tierra: y esto era en anoche-
+sciendo: y avn que los moros defendian la salida: los nuestros toma-
+ron tierra. E vn soldado q<ue> se llamaua Contreras el tuerto: q<ue> despu-
+es fue Capita<n> enlo de Buxia: arremetio ala puerta con vna espada /
+y vna rodela: y otro que se llamaua Alborado con vna pica: y come<n>-
+c'aron a pelear con los moros que estauan delante la puerta en su
+esquadron: y ala bozeria fuero<n> otros soldados al socorro: porque no
+los matassen: y enesto el conde mando mouer el esquadron: & dieron
+enlos moros: y fueron socorridos los soldados: y ganada la puerta
+dela ciudad. E como los moros vieron perdida la puerta pone<n> fue-
+go ala ciudad: visto que no la podian defender. Y esta ciudad se ga-
+no por el esfuerc'o de aq<ue>l soldado: porq<ue> aquella noche no se hauia de
+dar la batalla ala ciudad: sino fuera por el mouimiento de aq<ue>l solda-
+do. Este soldado fue hecho capita<n> / y le mataro<n> los moros en Buxia:}
+[fol. 8v]
+{HD. Libro llamado +}
+{CB1.
+& hizo cosas muy sen~aladas el dia d<e> su muerte. E los moros lleuaro<n>
+su cabec'a a Tremeze<n>: & dixero<n> q<ue> les pesaua hauer muerto vn ta<n> vali-
+ente ho<m>bre. Por esto me paresce q<ue> los maestres d<e> ca<m>po deue<n> de escu-
+sar se mucho por no quitar la vida a vn soldado: q<ue> aq<ue>l q<ue> pie<n>san q<ue> va-
+le menos: el dia dela necessidad vale mas: & por los buenos seruicios
+q<ue> haze<n> a su rey deue<n> ser oydos de su desculpa el dia q<ue> pecare<n>. Y es ra-
+zo<n> q<ue> se te<n>ga respeto a sus leales seruicios: ya q<ue> merezca q<ue> passe por el
+hilo dela justicia: haga se justicia publica y la mas ho<n>rrosa q<ue> ser pue-
+de: porq<ue> se sepa la causa d<e> su muerte: y no secreto: porq<ue> antiguame<n>te
+los generales: no acostu<m>braua<n> ahorcar ni<n>gu<n> soldado: porq<ue> se infama-
+ua el exercito: y agora no mira<n> en nada desto. Deuria se passar el tal
+soldado por las picas: y no ahorcar le: o alomenos d<e>gollar le: o empo-
+c'ar le: porq<ue> son muertes mas ho<n>rrosas: q<ue> no la otra : pues assi como
+assi se haze la justicia: avn q<ue> los q<ue> son hijos dalgo ha<n> d<e> tener mas p<re>e-
+mine<n>cia q<ue> los otros enel morir. Y esto esta al aluedrio d<e>l maestre de
+ca<m>po. Mas si el soldado es amotinador: o p<er>sona q<ue> tocasse en hazer
+co<n>cierto / o alebosia co<n> los en<e>migos: a estos tales no se les deue guar-
+dar ni<n>gu<n>a p<re>emine<n>cia: antes se deue hazer la justicia de p<re>sto. y los ta-
+les no ha<n> d<e> ser oydos sie<n>do aueriguada su culpa. Y en tal caso la justi-
+cia q<ue> se haze secreta es buena. Mucho vale<n> los buenos soldados el
+dia de necessidad: porq<ue> co<n>ellos los generales ensalc'a<n> la corona de su
+pri<n>cipe: y ellos sube<n> en mucha ho<n>rra. E por esto: y por sus gra<n>des he-
+chos so<n> temidos de todas las naciones: sino vea<n> lo por las batallas
+q<ue> ha<n> ve<n>cido: y por vna respuesta q<ue> dio antonio de leyua a vn co<n>de co-
+ronel d<e>los tudescos. El co<n>de le p<re>gu<n>to q<ue> como podia el tener subjeta
+a ytalia co<n> ta<n> poca ge<n>te. El valeroso antonio le respo<n>dio: y dixo: yo te<n>-
+go por mis hermanos alos espan~oles: y alos tudescos por mis co<m>pa-
+n~eros: y alos ytalianos por mis amigos. E d<e>sta manera hago tener
+en razo<n> a ytalia / y en paz. General q<ue> tales palabras dixo en su respue-
+sta no tenia gana d<e> maltratar ni<n>gu<n> soldado: porq<ue> ellos le q<ue>ria<n> bie<n>: y
+el a ellos mucho mas. E d<e>st( )a manera su palabra les era castigo: y ha-
+zia lo q<ue> q<ue>ria co<n> valeroso animo: porq<ue> sabia q<ue> ellos no le hauia<n> de fal-
+tar: y ello<<s>> sabia<n> lo mesmo d<e>l. E porq<ue> el amor d<e>los generales y d<e> su ge<n>-
+te es gra<n>de q<u><<a>>ndo se q<u><<i>>ere<n> bie<n>: ento<n>ces anda el gouierno bue<n>o q<u><<a>>ndo el
+general esta bie<n> co<n> sus soldados: porq<ue> no dura mas en ca<m>pan~a el exer-
+cito: de qua<n>to dura la buena orde<n> delos q<ue> le gouierna<n> que muchas}
+[fol. 9r]
+{HD. Jnstrucion y regimiento de guerra. \ IX}
+{CB1.
+vezes se ha visto romper se vn exercito por la mala orde<n> q<ue> tiene<n> enla
+gobernacio<n> del. Y porq<ue> quando despues de affirmado vn exercito en
+vna parte no deue<n> tenello mucho tie<m>po affirmado: por tres razones
+q<ue> dare para ello. La primera porq<ue> los q<ue> estan en campan~a duerme<n> en
+el sereno: y al agua y al sol: y esta<n>do desta manera viene<n> a enfermar.
+Lo segundo q<ue> delas tales enfermedades se suele inficionar vn exerci-
+to: y venir peste enel: q<ue> es gran desasosiego para vn exercito. Lo otro
+q<ue> quando esta mucho tie<m>po en vn sitio: la ge<n>te del exercito sele derra-
+ma: vnos a correr: otros a buscar de comer. y otros se va<n> a sus tierras
+de ca<n>sados dela lue<n>ga guerra / o por no dormir enel sitio / donde el ca<m>-
+po esta assentado: por ser mal sano. Por esto deue<n> de mirar q<ue> el exer-
+cito quando se houiere de assentar / no se assie<n>te entre lagunas y luga-
+res enpantanosos: porq<ue> son muy dan~(a)[o]sos para la salud del exercito.
+Quando el gra<n> capitan affirmaua su exercito: era por muy poco tie<m>-
+po: q<ue> nunca se hallo q<ue> lo tuuiesse quinze dias affirmado en vn lugar:
+por los grandes inconuenie<n>tes q<ue> vehia: porq<ue> mas es de doler vn sol-
+dado q<ue> muere de dolencia: q<ue> no si le matassen enemigos Qua<n>do los
+Franceses ganaro<n> a Apulla: el gran Capitan se metio en Barleta:
+con muy poca ge<n>te Espan~ola q<ue> tenia: y el Uisorey de Francia co<n> po-
+deroso exercito venia la buelta d<e>l: para le assitiar de<n>tro en Barleta:
+y embio le a dezir co<n> vn tro<m>peta q<ue> re<n>diesse la ciudad: y le dexasse la ar-
+tilleria y se fuesse: sino q<ue> le pornia sitio: y q<ue> no le tomaria<n> d<e>spues a par-
+tido. El gra<n> capita<n> le respondio: q<ue> el miedo hauia dexado enel vie<n>tre
+de su madre: y q<ue> si viniesse: q<ue> enel campo lo hallaria: y aq<ue>lla misma no-
+che salio de Barleta alos veynte y siete de abril: y alos veynte y ocho
+del dicho mes arribo el gran Capitan debaxo dela Chirinola / ado<n>-
+de los Franceses estauan / y puso se con los Espan~oles enel mesmo
+passo donde Anibal rompio alos Romanos. Y otro dia le quemaro<n>
+la poluora al gra<n> Capitan por engan~o: y assi no se pudo aprouechar
+del artilleria. Y como los espan~oles eran pocos y vieron q<ue>mada la
+poluora: no tenia<n> espera<n>c'a de vitoria: y como el gra<n> Capita<n> los viesse
+assi mal contentos les dixo q<ue> se esforc'assen / y q<ue> no tuuiessen en nada
+el quemar dela poluora / q<ue> los buenos y valie<n>tes hombres / no pelea-
+uan con poluora / sino co<n> lanc'a y espada: y q<ue> sus antepassados con la
+espada enla mano hauian ganado los reynos de Espan~a. Y por esso
+estaua en ta<n>ta honrra subida la fama delos Espan~oles: y pues ellos}
+{SG. B}
+[fol. 9v]
+{HD. Libro llamado +}
+{CB1.
+estauan a vista de sus enemigos: no hauia<n> de hazer menos: y que mi-
+rassen: que yua alli la honrra de su rey: y que estuuiessen de buen ani-
+mo / que el les daria la vitoria / y que estuuiessen a punto. Enesto el
+gran Capitan hizo llamar los capitanes del exercito / y les dixo que
+quando el ma<n>dasse tocar al arma / que todos a vna boz dixessen que
+los Franceses huyan: y todos juntos fuessen a dar enlos franceses.
+Y con esta orden el gran capitan mouio su campo: diziendo que los
+franceses huyan. Yua delante delos suyos / animando los / & dio en
+los franceses ala vna despues de medio dia. Y fueron rotos y desba-
+ratados: y muerto el visorey de Francia: con la mayor parte de su ca-
+ualleria. Duro la batalla hasta la noche. Esta batalla se vencio con
+muy poca gente: por la buena orden que dio alli el gran Capitan. Y
+porque no tuuo affirmado su exercito el gran capitan / sino tres dia<<s>>
+debaxo dela Chirinola: y al tercer dia que llego dio la batalla. Con
+razon pudo el dezir / que hauia dexado el miedo enel vie<n>tre de su ma-
+dre. Estas palabras hauian de ser escriptas con letras de oro: pues
+lo que dixo passo por obra: y salio conel. Y los capitanes que sigue<n> la
+guerra las hauian de lleuar por espejo: porque sus hechos fuessen di-
+gnos de poner en coronica. Hay algunos generales / que desque vna
+vez affirman vn campo en vna parte / no lo leuantan: hasta a ver el
+fin delo que dessean: si aquello se puede alcanc'ar bueno es / mas si lo
+que dessean se dilata: es malo para la salud del exercito: que esta al se-
+reno enla campan~a: porq<ue> tanto se deue mirar por la salud del exerci-
+to: como por el vencimiento delos enemigos: porq<ue> si su campo enfer-
+ma / con la gente enferma no se puede hazer guerra: y deue se de mi-
+rar: que los que mueren de dolencias / por estar los campos quedos:
+mas vtil seria que viuiessen peleando con los enemigos / & si pelean-
+do muriessen: no era tanto de doler su muerte: como si muriessen de
+otras enfermedades. Porende el que assentare campo / deue le de
+assentar enel sitio mas sano/ por donde mas dan~o seles puede hazer
+alos enemigos: y deue tener tal orden / de no ariscar su campo a mu-
+chos peligros / sino q<ue> le deue guardar para la mayor necessid( )ad.
+{RUB. % Capitulo sexto que trata la orden
+que ha de llenar el exercito quando marchare. y la
+orden que ha de lleuar quando se retirare.}}
+[fol. 10r]
+{HD. Jnstrucion y regimiento de guerra. \ X}
+{CB1.
+{IN6.} QUando el exercito comenc'are a marchar: la buelt[a]
+adonde estan los enemigos: han de echar de ban-
+guardia la gente mas platica enla guerra: y tras a-
+quella vaya el cuerpo dela batalla / y luego la ar-
+tilleria: y de retaguardia vaya la gente que no es
+tan platica. E los cauallos ligeros han de yr delan-
+te de todo el cuerpo del exercito / descubrie<n>do la campan~a: hasta que
+lleguen a vista delos enemigos. Mas si conosciere que los enemi-
+gos estuuieren mas pujantes que no ellos / y se quisieren retirar/
+echen la gente mas platica de retaguarda: y la que no es tan platica
+vaya de banguardia con la artilleria. E la caualleria vaya en me-
+dio conel cuerpo dela batalla / y enel caminar vaya en tal orden que
+se den lugar vnos a otros / y echen los carruajes de banguardia:
+porque no los embarac'en enlos passos / y caminos estrechos. Y los
+cauallos ligeros vayan detras de todo el exercito: los postreros /
+reconosciendo de contino los enemigos: porque no los tomen de so-
+bresalto: y quando se retiraren: no den batalla publica: avn que los
+enemigos la pidan: si ya no fuesse que no pudiessen hazer menos: y en
+tal caso hauiendo la dar de necessidad: den la sobre seguro: antes del
+dia : o estando el exercito delos enemigos descuydado: porque qua<n>-
+do se metiessen en orden ya ternia lo mejor dela batalla. Y si la noche
+lo tomasse antes que la batalla sea rota: retiren se en parte donde su
+campo este fortificado: y no pueda recebir dan~o delos enemigos. E
+los soldados que sean mas platicos / aquellos se pongan enel lugar
+por donde los enemigos houieren de venir: porque no hay cosa mas
+fuerte en campan~a: que es vn esquadron de infanteria: & por esso el
+sen~or del exercito: ya que gasta sus dineros deue hazer la gente que
+sea platica enla guerra: si la pudiere hauer: & si no haga enla prouin-
+cia donde la gente suele salir mas bellicosa para la guerra. Lo otro
+que el general deue proueer: que los soldados lleuen todos picas:
+porque para la guerra es arma fortissima: porque vn esquadron de
+piqueros en campan~a es vn castillo. Y estando bien ordenado: por
+impossible ternia yo / poder se romper / siendo la gente platica en-
+la guerra. Assi mesmo son buenas armas Arcabuzes y escopetas
+para hazer la guerra: & si enel campo houiere treynta mil infan-
+tes / los siete mil sean Arcabuzeros: & si fueren quinze mil / los}
+{SG. B j}
+[fol. 10v]
+{HD. Libro llamado +}
+{CB1.
+quatro mil bastan que sean arcabuzeros. Las armas que han de lle-
+uar los caualleros enla guerra / son differenciadas delas dela infan-
+teria: y los que lleuan picas y cosseletes van delante / y los que lleua<n>
+pica seca van a tras en medio del esquadron. Y por los lados / y enlas
+postreras hileras del esquadron van tambien otras hileras de cosse-
+letes/ y la arcabuzeria va delante / y en torno del esquadron: y esto se
+haze quando son los enemigos muchos: porque el esquadron vaya
+mas fortificado / y no puede ser roto por ninguna parte que le acome-
+tan. Assi que la mejor arma para seguir la guerra son picas y cossele-
+tes / y escopetas / y arcabuzes: y estas con la artilleria es la fortaleza
+de todo vn campo. La gente darmas y cauallos ligeros son los que
+hazen fortificar el campo: y son differentes enel traer delas armas:
+porque van a cauallo: y las armas que traen son mejores para su pro-
+posito que no las picas: porque con las picas no se podrian gouer-
+nar sobre los cauallos: porque vnos traen lanc'as de ristre: y otros
+traen lanc'as ala ligera: y los que traen lanc'as de ristre: son la gente
+darmas: y los que traen lanc'as ligeras son cauallos ligeros y los ca-
+uallos ligeros han querido vsar las lanc'as de ristre: y hallan se bien
+conellas: y no les hallan sino solo vn defecto: que las lanc'as de ristre
+no se pueden aprouechar dellas mas de vn encuentro: y las lanc'as
+ligeras que comunmente llaman ginetas siruen se dellas en todo el
+tiempo que la guerra dure / lo que no hazen delas otras: porque d<e>las
+otras no se siruen mas de para vn encuentro: y por esto la gente dar-
+mas quando entra en vna batalla / lleuan sus lanc'ones enla mano
+dela rienda: los que son platicos enla guerra / para que despues de
+rompidas las lanc'as hieren con aquellas alos enemigos a diestro
+y a siniestro: y hazen la guerra como buenos caualleros platicos en
+la guerra: y lleuan assi mesmo sus mac'as / y martillos / y estoques: y
+espadas / y dagas. Mas destas armas poco se siruen enla guerra: y
+delo mas que se siruen y se aprouechan: es dela lanc'a de ristre / y dela
+lanc'a de ristre y dela mac'a: y del lanc'on: porque quando vienen a ser-
+uir se delas otras armas: no va bueno el partido dela ge<n>te darmas:
+porque los enemigos se defienden valerosamente: qua<n>do todas las
+armas se esperimentan el dia dela batalla. Y quando yo esto viesse
+ternia por muy dudosa la victoria: y por muy valientes caualleros a
+los que tanto durassen enla batalla: que combatiessen co<n> todo el ge-nero}
+[fol. 11r]
+{HD. Jnstrucion y regimiento de guerra. \ XI}
+{CB1.
+de armas: sin dexar se vencer de sus enemigos. E por esta cau-
+sa al primero impetu deuen de entrar los infantes y gente darmas:
+y cauallos ligeros: que los enemigos no sean partes para poder es-
+perar la furia y sobresalto de su exer(t)[c]ito: y los que entraren no han
+de entrar enla batalla con pensamiento de ser rotos: sino que los e-
+nemigos han de ser rotos / vencidos / y desbaratados / y muertos: y
+lo que traen que es para ellos propios / y que selo deuen de derecho:
+por ser ellos soldados del Principe que por derecho le compete la
+conquista de todo el vniuerso / y de aquello principalmente que su
+Principe demanda en aquella batalla: por donde se principio la gue-
+rra justa: y con este animo y pensamiento: ni la gente darmas / ni la
+infanteria lleuando tan justa demanda: ternan razon de rehusar la
+batalla: pues la demanda que lleuan es tan justa: fin peligro & fin so-
+specha: lleuando buena orden podrian dar la batalla con la orde<n> de
+(de) su general: no excediendo de aquello. E no ternia yo por ventu-
+roso al general que se escusasse de dar la tal batalla lleuando la ge<n>te
+tan diestra enla guerra: y la demanda tan justa. E quando el campo
+assentare a vista delos enemigos: los maestros de campo tengan
+tal auiso que donde el campo se assentare: haya tres cosas para el
+mantenimiento del campo / agua para la gente / yerua para los ca-
+uallos / len~a para hazer fuegos: y choc'as donde se meta la gente. E
+quando el campo se assentare: el General delos cauallos ligeros em-
+biara sus corredores por la parte do<n>de pensare que haya enemigos /
+y como venga ala noche pongan las cintinellas por los caminos y
+passos por do<n>de los enemigos podria<n> venir a hazer dan~o al exercito.
+Y la infanteria ponga las mismas cintinellas dobladas por los ca-
+minos y passos: porq<ue> los vnos no se deuen descuydar con los otros:
+porque es razon que la gente darmas haga su guarda: y los cauallos
+ligeros hagan la suya: y la infanteria haga la suya: y no se descuyden
+los vnos por los otros: porq<ue> enel seruicio de su Rey: el que mejor lo
+hiziere aquel sera mas honrrado y gratificado de su Rey. Y los que
+tuuiere<n> cargo de visitar las guardas y cintinellas no se deue<n> descuy-
+dar delas visitar: y este officio toca al Sargento general: y Sargen-
+tos del campo / y alferizes / y Capitanes: porque qua<n>to mejor hiziere<n>
+su officio mas seguro estara el exercito de enemigos: mas todas las
+guardas de cintinellas son obligadas a obedescer al Sargento ge-neral}
+{SG. B iij}
+[fol. 11v]
+{HD. Libro llamado +}
+{CB1.
+y los Capitanes: y sus Caporales en ausencia suya cada vno
+en su compan~ia ha de hazer la misma diligencia por escusar el exerci-
+to de peligro: porque aquel es buen Capitan el que haze bien su offi-
+cio. Si tuuieren nueuas de enemigos: deuen fortificar se enlos pas-
+sos por do los enemigos vinieren a dar al exercito: haziendo repa-
+ros / porque los enemigos no puedan passar adonde estuuiere la ge<n>-
+te del exercito / y aquellos reparos que hiziere<n> / deuen los fortificar
+muy bien: y dec'aga delos reparos pongan los esquadrones dela in-
+fanteria / y arcabuzeria: porque si los enemigos vinieren: hallen resi-
+stencia / y no los tomen descuydados / y no puedan passar ligerame<n>-
+te sin batalla de manos. E si la batalla fuere de noche / no se salgan
+de su fuerte: porque podrian tener algunas embuscadas que los ro<m>-
+piessen: mas deuen guardar su fuerte: porque de vna manera han de
+pelear los que son acometidos: y de otra manera han de pelear los
+que van a cometer. E por esto los que son acometidos / deuen guar-
+dar su fuerte: y no deuen salir de su fuerte: porque si saliessen podrian
+correr peligro por tres cosas. La primera por la escuridad dela no-
+che. La segunda por embuscad(o)[a]s delos enemigos: y la tercera por
+su mal consejo: porque saldrian delo seguro a poner se enlo peligro-
+so / donde passarian riesgo de ser rotos / y es mejor jugar al seguro co<n>
+los enemigos / que no poner se en peligro con pensar de hauer vito-
+ria / que mejor es alcanc'ar la vitoria con ventaja conoscida: que no
+alcanc'ar la vitoria con peligro de ser vencidos. E por esto deuen los
+Capitanes de hazer la guerra al seguro: porque se haze gran serui-
+cio al Principe del exercito: porque lo que en vn dia se pierde: en mil
+an~os no se cobra: & quando se cobre: es con mucha perdida de gen-
+te: y con mucho trabajo dela ge<n>te de guerra / y desassosiego de su prin-
+cipe y sen~or del exercito: porque algunas vezes tuuiendo la vitoria
+segura: por no ser la gente platica: la hazen dubdosa. Y enesto se ha
+de mirar y desuelar / como y de que manera / y por que via / y a que ho-
+ra / y con quanta gente se dara el salto alos enemigos. E si al tiempo
+que se diere se podra hauer vitoria: y que tanta gente podra hauer
+para la resistencia: porgue si los Capitanes conoscieren que no po-
+dran salir con la empresa no la deuen principiar: mas si conoscieren
+que la vitoria esta clara y conoscida por la ventaja que les tienen en
+tener mejor gente / mas luzida / y mejor armada / y mas platica enla}
+[fol. 12r]
+{HD. Jnstrucion y regimiento de guerra. \ XII}
+{CB1.
+guerra / avn que no fuessen tantos como los enemigos: deuen los a-
+cometer: porque la vitoria esta clara y conoscida quando la infante-
+ria es platica enla guerra: y lleua justa demanda.
+{RUB. % Capitulo septimo en que se declara si se-
+ra mejor para dar vna batalla lleuar poca gente o mucha.}
+{IN6.} PUes que hemos hablado enel capitulo precedente:
+justo sera que sepamos que tanta gente sera mene-
+ster para dar vna batalla. Comunmente los princi-
+pes Cristianos quando mueuen guerra: el que mas
+gente lleua / no passa de cie<n>t mil hombres / otros lle-
+uan treynta mil / otros veynte mil / y otros menos.
+E muchas vezes hemos visto que los pocos vencen alos muchos:
+por tres cosas. La primera: como dicho tengo por lleuar el principe
+la dema<n>da justa: y lo segu<n>do por ser la ge<n>te platica enla guerra. Lo
+tercero por saber dar la orde<n> el dia dela batalla. E por esto el princi-
+pe / o sen~or del exercito qua<n>do hiziere gente deue de hazer la gente q<ue>
+sea platica enla guerra: y el general q<ue> los gouernare sea maestro de
+guerra: porq<ue> el dia q<ue> se da vna batalla: mas se pierde por la mala or-
+de<n> q<ue> tienen enel ordenar dela batalla: q<ue> no por co<m>bate delos enemi-
+gos. E por esto los q<ue> el dia dela batalla esta<n> bie<n> ordenados avn q<ue> se-
+an pocos antes alca<n>c'ara<n> la vitoria q<ue> no los muchos por la buena or-
+de<n> q<ue> da<n> en<e>l dia dela batalla: y por ser la ge<n>te platica enla guerra: mas
+sobre todo han de lleuar la demanda justa: porq<ue> a aquellos da dios
+la vitoria: como lo hemos visto. E no piense nadie que la mucha ge<n>-
+te haze la guerra: porque los muchos no se dexan gouernar de su ge-
+neral como los pocos: por ser la gente mucha: y vn solo caudillo: no
+gouierna vn exercito grande: como haria vn pequen~o. Y al tiempo
+que mouiere el campo para marchar / enlos passos: & rios / & cami-
+nos estrechos no puede<n> passar en buena orde<n> como haze<n> los pocos
+y embarac'a<n> se y al tie<m>po del passar enlos puertos y passos estrechos
+vnos se desma<n>da<n> por vna parte y otros por otra. Unos va<n> roba<n>do:
+otros pelea<n>do co<n> los enemigos: otros quita<n> los bastime<n>tos q<ue> vie-
+ne<n> al exercito. A cuya causa los capitanes no puede<n> tener orden ni
+co<n>cierto co<n>ellos: por ser ta<n>to numero de ge<n>tes: y co<n> el gra<n> poder que
+trae<n>: no haze<n> caso delos enemigos ni quiere<n> tener acatamie<n>to alos}
+{SG. B iiij}
+[fol. 12v]
+{HD. Libro llamado +}
+{CB1.
+amigos: ni a sus Capitanes: y por este menosprecio suele<n> venir a ser
+desbaratados y rotos delos pocos / porque los pocos estan debaxo
+dela obediencia de su general / y de sus Capitanes: y siguen la orden
+que ellos les dan. Y las vituallas que toman delos enemigos meten-
+las en lugares fuertes / y aquellas ponen en buena guarda para la
+mayor necessidad / y affirma<n> el exercito ay cerca: porque esten prouey-
+dos de vituallas / y de todo lo mas que houieren menester. Mas el
+exercito grande como es copioso de gente mas sujeto esta al peligro
+que no los pocos / por tres razones / por falta de bastime<n>tos que no
+le pueden abastar. Lo segu<n>do por el trabajo luengo dela guerra que
+($n)[n]o lo pueden suffrir / assi por el frio del ynuierno como por el calor de
+verano. E lo tercero por las enfermedades q<ue> succeden enel exercito.
+Y visto esto el pequen~o exercito no da batalla al copioso exercito / si
+no es sobre seguro / viendo le necessitado de bastime<n>tos / o faltoso de
+dineros / o faltoso de gente: y entonces sobre cosa pensada dan la ba-
+talla alos enemigos: y assi alca<n>c'a<n> la vitoria los pocos delos muchos
+por saber se gouernar: y por ser ge<n>te platica enlas cosas dela guerra:
+porque de refresco no se deue dar batalla a ningun exercito / quando
+viene de refresco: porque entonces viene muy soberuio / pujante / po-
+deroso / y entonces no se podria hauer vitoria / y para alcanc'ar vito-
+ria / dexen los estar enel campo al sereno / y al agua / que al cabo de
+la guerra: ellos diran como les va enello. Y entonces que estara<n> me-
+dio vencidos dela hambre / y del frio / y del calor / y molidos los hues-
+sos delas armas / entonces es bueno dar les la batalla: porque sa-
+bran como se haze la guerra / y perderan entonces la soberuia que
+trahian en principio dela guerra / q<ue> de vencidos / o perdidos / o muer-
+tos / o despojados: tomando les en tal estrecho / no pueden escapar:
+porque en tal tiempo los soldados platicos que sean acostumbra-
+dos a passar los semejantes trabajos: no tienen por mucho traba-
+jo en dar vna batalla / porque cada vno dellos vee ala clara tener la
+vitoria conoscida / y con la gloria dela vitoria no sienten el trabajo
+delas armas: ni el gran calor / ni la sed que los atormenta / ni otro
+trabajo ninguno los espanta conel amor verdadero que lleua<n> de ser-
+uir a su Rey natural. Otras maneras de guerra se podrian tener pa-
+ra romper alos muchos: assi como emboscadas / o encamisadas que
+les arme<n> de[]noche: tomando los sobre seguro / o en algun passo estre-cho /}
+[fol. 13r]
+{HD. Jnstrucion y regimiento de guerra. \ XIII}
+{CB1.
+dando les algun recuentro por donde les hiziessen perder par-
+te de su exercito: porque despues si los enemigos quisiessen dar bata-
+lla / fuessen yguales enla gente: y en tal caso podria se dar batalla a-
+plac'ada / y no se podria perder la vitoria / siendo la gente platica del
+exercito: porque alos primeros encuentros no pelean sino las diez
+hileras primeras: & si aquellas se rompen es roto el exercito: porque
+siempre se ha visto ro<m>pidas las primeras hileras: ser roto el exerci-
+to: sino fue en Rauena: q<ue> alli despues de rota la infanteria espan~ola
+se torno a rehazer: y rompio la gente darmas Francesa: y mataron
+su Capitan General: q<ue> era Mossiur de Fox: con toda la caualleria
+de fra<n>cia: por la mucha bo<n>dad y fortaleza dela infanteria espan~ola.
+{RUB. % Capitulo .viij. como el general deue orde-
+nar la batalla: para hauer vitoria de sus enemigos.}
+{IN6.} SUelen dezir los soldados: mil an~os de guerra: y no
+vn dia de batalla: y algunos pensaran que lo dizen
+por se escusar de pelear: mas este refran que anda en-
+tre la ge<n>te de guerra no se dize porque los soldados
+del exercito no dessean ver se en batalla con sus ene-
+migos: ni por temor que tienen dellos: mas dize se
+por aquel que sera vencido el dia dela batalla: porque mejor le estu-
+uiera hazer la guerra ala larga: que no auenturar su exercito en vn
+dia: adonde auentura la honrra: & pierde la hazienda / y el exercito:
+podiendo escusar le de peligro: mucho se deue mirar los inconuenie<n>-
+tes y peligros: antes que se de la batalla aplac'ada: porq<ue> de vna ho-
+ra para otra succeden muchos reueses: porque lo que alos vnos da-
+n~a: haze prouecho alos otros: y enesto no se puede dar otra declara-
+cion: sino que el tal aluedrio esta enel gouierno del sen~or / o general
+del exercito. Y para assegurar su exercito de peligro deue el general
+hazer sus cosas secretas al seguro: sin que venga a noticia delos e-
+nemigos. Mas si el general conosciere que su exercito correra pe-
+ligro el dia dela batalla de ser roto por algunos inconuenientes: o
+sen~ales que les seran reueladas: o por falta de gente: o de artilleria:
+o de poluora y pelotas: o de bastimentos y agua dulce: que no se po-
+dria hauer el dia dela batalla: porque si aquella faltasse: el calor los
+ahogaria: en tal caso el sen~or del exercito no es obligado a dar bata-lla}
+{SG. B v}
+[fol. 13v]
+{HD. Libro llamado +}
+{CB1.
+aplac'ada. Mas antes d<e>ue tener co<n> sus enemigos tales formas
+de alargar lo mas que pudiere el dia dela batalla: y no consentir an-
+dar a tal batalla: avn que de todo lo que tengo dicho tuuiesse su ca<m>-
+po muy complido: no deue dar batalla aplac'ada: sino tuuiesse consi-
+go tres cosas mas que sus enemigos. Lo primero la demanda justa:
+porque enlas armas se declara y demuestra mucho la justicia: como
+lo hemos visto por otras batallas y campos cerrados: que en Yta-
+lia: o en otras partes ha hauido: que por pocos que fuessen los que
+lleuauan la demanda justa: siempre los hemos visto quedar vito-
+riosos. Lo segundo que ha de tener el sen~or del exercito es mante-
+ner en justicia a su campo: y hazella guardar assi alos amigos como
+alos enemigos. Y la tercera cosa que ha de tener para hauer vitoria:
+es que la gente de guerra que tuuiere en su exercito que sea tal / q<ue> nin-
+guna otra le tenga ventaja: y procure de se poner el general en tal lu-
+gar el dia dela batalla / que pueda tener ventaja a sus enemigos. Y
+touiendo estas tres cosas sera parte para alcanc'ar vitoria de sus e-
+nemigos. Dando el general buena orden el dia dela batalla en orde-
+nar su gente. Mas si el general pudiere romper a sus enemigos sin
+dar batalla aplac'ada / deue lo hazer: porque mas al seguro rompe a
+sus enemigos sin dar batalla aplac'ada / y con menos muertes de ge<n>-
+tes / porque el dia dela batalla aplac'ada se haze vna cruel carniceria
+entre los vnos y los otros: mas si la batalla es salteada / no se haze
+tanto mal y alcanc'a se la vitoria mas presto. Y enel ordenar dela ge<n>-
+te para dar la batalla: vnos la dan de vna manera / y otros de otra:
+y esto es conforme al lugar donde la batalla se da: porque si es sierra
+ha se de ordenar en vna manera: & si es en llano: ha se de ordenar de
+otra manera. Y si es en valle estrecho: ha se de ordenar de otra mane-
+ra: porque enel valle: con menos gente haura la vitoria el sen~or del
+exercito que no enlo llano: porque enlo estrecho tanto valen los po-
+cos como los muchos. No piense nadie que la mucha gente haze la
+guerra: ni el dia dela batalla podra<n> pelear todos: si son muchos: por-
+que como son muchos: embarac'an se los vnos con los otros y pelea<n>
+solamente las quatorze hileras primeras: & si aquellas se rompen:
+es roto el exercito delos muchos: porq<ue> enlas primeras hileras esta
+la fortaleza de todo el exercito. Por esso han de yr las primeras hile-
+ras armadas de armas que sean cosseletes y morreones y brac'ales:}
+[fol. 14r]
+{HD. Jnstrucion y regimiento de guerra. \ XIIII}
+{CB1.
+y picas porq<ue> la furia delos enemigos da enestas primeras hileras.
+Y por esso es razon que esten muy armados. Y avn por esto echan la
+mejor ge<n>te enlas primeras hileras: y enestas primeras hileras se po-
+nen aquel dia los buenos por animar la gente el dia dela batalla. Y
+por esso es el cuerpo del exercito la infanteria: y la fortaleza del exer-
+cito es la infanteria: y por esso el dia dela batalla se haze cuerpo enel
+esquadron de infanteria: donde fueren los soldados mas platicos
+enla guerra: porque enellos esta aquel dia la fortaleza del exercito / y
+ellos han de affrontar los primeros: despues que los caualleros ho-
+uieren affrontado: y enellos se espera la vitoria: y por aquella hon-
+rra tan grande que se les da: son obligados a morir / o vencer los ta-
+les soldados platicos por la vitoria que dellos se espera aquel dia.
+Si el esquadron fuere de dos mil hombres: ha de lleuar cada hilera
+quinze hombres: & si fuere de quatro mil / ha de lleuar treynta hom-
+bres cada hilera: & si fuere de ocho mil: al respecto. Y por la mesma or-
+den se ha de ordenar la caualleria. Y ningun esquadro<n> de infanteria
+ha de passar de ocho mil hombres: o quando mucho de diez mil: porq<ue>
+si mas gente houiesse en vn esquadro<n>: no se podria<n> dar buena orden
+enel pelear: porq<ue> como yria<n> muchos en el esquadron no podria<n> pele-
+ar todos / alomenos de medio a tras. E por esto es bueno dexar al-
+gunas ma<n>gas de gente fuera delos esquadrones: co<n> vna cabec'a que
+los rija: porq<ue> estas mangas despues q<ue> sus esquadrones han affro<n>ta-
+do va<n> a fauorescer cada vno a su esquadro<n>. Y estas mangas sean los
+mas arcabuzeros: porq<ue> estos haze<n> mucho dan~o enlos enemigos. Y
+los arcabuzeros vaya<n> adela<n>te / y en torno del esquadro<n> por las dos
+alas: & si los enemigos fuere<n> muchos: po<n>ga<n> arcabuzeria enla rec'aga:
+porq<ue> el esquadro<n> vaya fortificado por todas partes: y todos los o-
+tros esquadrones lleue<n> la mesma orde<n>: & si houiere sobra de ge<n>te: de-
+xara<n> los sarge<n>tos algu<n> esquadro<n> q<ue> socorra do<n>de viere<n> q<ue> hay necessi-
+dad: y puestos en<e>l lugar q<ue> ha<n> de ser para dar enlos en<e>migos: el gene-
+ral o sen~or del exercito los deue visi(r)[t]ar a menudo co<n> alegre cara: y su
+gesto amoroso y no turbado: porq<ue> no conosca<n> en<e>l q<ue> hay temor mas
+se represente en su gesto la sen~al d<e>la vitoria. Y ento<n>ces haga les vna
+platica: traye<n>do les ala memoria sus gra<n>des hechos y p<ro>metales mu-
+chas mercedes: dando les a ente<n>der la flaqueza delos enemigos: & si
+conosciere enla gente alguna turbacio<n>: no de aq<ue>l dia la batalla: por}
+[fol. 14v]
+{HD. Libro llamado +}
+{CB1.
+que es mala sen~al qua<n>do el dia dela batalla esta la gente turbada
+para hauer vitoria. Mas si los hallare alegres y esforc'ados desseo-
+sos de ver se con los enemigos: entonces deue dar la batalla: porq<ue>
+es bue<n> sen~al de vitoria: y al tiempo del affrentar delas batallas va-
+ya el general enla ala derecha dela batalla : porque aquel es su lu-
+gar: avn q<ue> el gran capitan quando dio la batalla del Garelano no
+ordeno la gente por esquadrones porque vna noche echo tres puen-
+tes sobre el rio: y antes que amanesciesse comenc'aron a passar las
+puentes: y por la vna puente passo la gente darmas: y con ellos el
+gran capitan: y por la otra puente passo la infanteria: y por la otra
+puente passaron los cauallos ligeros: y enla misma orden que pas-
+saron las puentes fueron a dar enlos enemigos: que estauan enla
+otra parte del rio: sin dar otra orden. E assi la infanteria fue hecha
+toda vn cuerpo: y la gente darmas otra: y otra los cauallos ligeros:
+& dieron enlos Franceses al alua del dia: y fueron los Franceses ro-
+tos y desbaratados: con toda la potestad de Francia: y sen~ores de
+Ytalia: que estauan con los Franceses: y fueron vitoriosos los espa-
+n~oles por la buena orden que alli dio el gran capitan Gonc'alo Fer-
+nandez Y houieron grandes prisioneros y sen~ores de salua: y porq<ue>
+los pusiessen en su libertad: dexaron a Gaeta que estaua por Fran-
+ceses: y alli se acabo de ganar el reyno de Napoles. Mas enla Chi-
+rinola no se puso el gran capitan enel ala derecha dela batalla: qua<n>-
+do rompio alos Franceses: sino en medio delos suyos: mas hizo lo
+aquello el gran Capitan: porque tenia poca gente y por dar animo
+alos suyos: y porque ellos le viessen mejor: y como el yua delante de
+todos los Espan~oles: por le sacar del peligro en que el gran Capi-
+tan yua / dieron enlos Franceses con tanto animo: que en espacio
+de tres horas rompieron todo el poder del Rey de Francia: y fue mu-
+erto alli el visorey de Francia: con la mayor parte de su caualleria: y
+esta vitoria ta<n> alta gano el gra<n> Capitan: porq<ue> supo dar la orde<n> enel
+dar d<e>la batalla. Ca el tenia poca ge<n>te: & si de otra manera la ordena-
+ra: pudiera correr peligro. Mas quando el rey de Fra<n>cia ro<m>pio enla
+Geredada alos venecianos: de otra manera la ordeno: porq<ue> puso to-
+da su ge<n>te por esquadrones: y el se puso al lado derecho d<e>la batalla:
+mas si el Criti entrara enla batalla ju<n>tame<n>te co<n> bartolome dalbia-
+no. no se perdiera<n> los venecianos aq<ue>l dia y avn assi tuuo el rey Fede-rico}
+[fol. 15r]
+{HD. Jnstrucion y regimiento de guerra. \ XV}
+{CB1.
+de francia la vitoria por dudosa: Y alcanc'o el rey la vitoria por
+que el Crity que era general de Uenecianos / no affronto alos prin-
+cipios / y quando quiso affrontar con su gente no pudo / porque ya
+era rota la vanguarda de Uenecianos y el cuerpo dela batalla: y pre-
+so Bartolome dalbiano / y estos perdieron se aquel dia / por la mala
+orden de su General. Pues si dixessemos dela cruel batalla de Raue-
+na: esta no se perdio por el ordenar del exercito: que bien ordenado
+estaua: mas perdio se por dos cosas. La vna porque el sitio donde el
+campo de Espan~a se affirmo: no era conueniente para dar batalla a-
+plac'ada. Y la segunda causa porque se perdio fue por dar batalla a-
+plac'ada. Por esso los generales se deuen guardar de dar batalla a-
+plac'ada: porque el vencedor queda sin gente: y el vencido queda del
+todo perdido: despojado de su exercito: y dela noble caualleria: avn
+que en Rauena no lleuaron los franceses vitoria conoscida por tres
+cosas. La vna porque no fueron parte para esecutar la vitoria. La o-
+tra porque no quedaron con exercito formado. Ca toda la gente del
+Rey de Fra<n>cia quedo muerta y desbaratada. La tercera porque fue
+ron muertos el general delos Franceses / que era Mossiur de Fox:
+con todos sus Capitanes. E assi fue deshecho el exercito delos fran-
+ceses / por quedar como quedaron sin Caudillos: porque fueron mu-
+ertos por la infanteria Espan~ola. Algunos les quisieron atribuyr la
+vitoria: porque robaron ellos el campo: y lleuaron los despojos. La
+verdad es que segun la costumbre y ordenanc'a antigua delos vence-
+dores / el que queda sen~or del campo y lleua los despojos / de aquel es
+la vitoria: mas esto se entiende que no solamente han de sen~orear el
+campo: mas son obligados a executar la vitoria: hasta lleuar la gue-
+rra a deuido effecto. Ca por esso se llaman vencedores / y el que esto
+no haze / no se le atribuye vitoria conoscida / saluo si van a dar la ba-
+talla / despues de aplac'ada: y puestos en su lugar[ ]si los enemigos no
+dan la batalla / en tal caso el sen~or del exercito podria leuantar su ca<m>-
+po / & yr se con vitoria: porque el ya hizo su deuido: y a este tal no se le
+podria negar la vitoria: porque avn que no dio la batalla / quedo se-
+n~or del campo: y guardo la palabra que hauia dado d<e> dar la batalla.
+Y esto no lo pudieron hazer los Franceses: que avn que robaron el
+campo: no pudieron executar la vitoria / y assi no se les pudo dar la
+honrra dela vitoria conoscida / porque los pocos que quedaro<n> se bol-uieron}
+[fol. 15v]
+{HD. Libro llamado +}
+{CB1.
+en francia perdidos y desbaratados: y mas yuan como hom-
+bres vencidos: q<ue> no como vencedores: porque perdieron todo lo que
+hauian ganado. Essos se llaman vencedores: los que son sen~ores d<e>l
+campo / y delo poblado: y lo defienden de sus enemigos en batalla y
+fuera della. E por esto no deue dar batalla aplac'ada ningu<n> general:
+por euitar muertes de tantas ge<n>tes: y por no aue[<n>]turar su exercito: ni
+arriscallo a peligro: porque de no dar batalla publica se siguen tres
+grandes bienes. Lo primero: gra<n> seruicio q<ue> se haze a dios en euitar
+tantos males como aquel dia se haze<n>. Lo segu<n>do haze se gran serui-
+cio al principe y sen~or del exercito en escusar su exercito de peligro: &
+lo tercero assegura tie<m>po para hauer la ve<n>ganc'a de sus enemigos co<n>
+crescida vitoria. No digo yo que los generales no den batalla: sino
+q<ue> defie<n>do q<ue> la batalla no sea aplac'ada: sino q<ue> pues los exercitos esta<n>
+en ca<m>pan~a dessafiados co<n> desseo de hazer se todo dan~o el vno al otro:
+cada vno procure como mejor pudiere: de tomar a su enemigo enla
+cama: porq<ue> assi lo hizo Bartolome dalbiano: qua<n>do se dio la batalla
+de Uenecia: q<ue> como supo q<ue> don Ramon de cardona era passado con
+el exercito delos espan~oles al Paduano/ y tierra de venecia: aguar-
+do lo en vn passo cerca de vn rio para le romper y dar batalla saltea-
+da con veynte dos mil infantes / & mil y sietecientos hombres dar-
+mas: y quatro mil cauallos ligeros: y allende desto hizo venir sesen-
+ta mil hombres populares: los quales puso por los passos: para que
+despues de rota la batalla: matassen los que quedauan: porque no q<ue>-
+dasse memoria de ningun Espan~ol en Ytalia: mas no le sobreuino a
+Bartolome dalbiano como el pe<n>saua: que como el campo delos espa-
+n~oles se allego a vista del suyo / el valeroso Marques de pescara co<n>
+la infanteria Espan~ola affronto por vn lado lleuando toda la infan-
+teria hecha vn cuerpo: y don Ramon de Cardona con la caualleria
+affronto por el otro lado: de tal manera que en espacio de tres horas
+fue roto todo el campo delos Uenecianos: adonde perdieron toda
+la caualleria con muy hermosa artilleria: y como los sesenta mil que
+estauan por los passos vieron su campo roto: no quisieron esperar
+batalla : antes huyeron por las montan~as como hombres desespe-
+rados sin lleuar consigo ninguna orden. Y esta vitoria tan grande al-
+canc'o don Ramon de Cardona con los Espan~oles porque supo dar
+la orden al tiempo dela batalla: y porque tenia buena gente. E por}
+[fol. 16r]
+{HD. Jnstrucion y regimiento de guerra. \ XVI}
+{CB1.
+esto los generales deuen de tener buena gente para los semejantes
+dias / pues va alli la honrra de su principe. Y despues que esta bata-
+lla se dio: los Uenecianos embiaron a dezir a Bartolome dalbiano
+que como hauia sido desbaratado de tan poca gente? Bartolome
+dalbiano les respondio: que los Espan~oles no peleauan como hom-
+bres humanos / sino como ho<m>bres desesperados: q<ue> no temia<n> la muer-
+te / y que era impossible poder resistir la furia delos espan~oles en ba-
+talla: por tanto que no lo culpassen: y de ay adelante proueyeron los
+Uenecianos de no dar batalla contra los espan~oles. Porende los
+generales deuen de conseruar la gente de su campo: quando la gen-
+te es platica enla guerra / y buena: y no arrisgalla en batalla aplac'a-
+da: podiendo hauer la vitoria de sus enemigos con poca perdida de
+gente. E todo hombre de guerra deue pensar q<ue> la mucha gente enla
+guerra esta mas subjeta al peligro q<ue> la poca: como paresce por esta
+rota tan grande delos Uenecianos: porque como arriba es dicho el
+exercito copioso de gente no puede dar la orden enel pelear / como
+los pocos: y los pocos son mas prestos a combatir / q<ue> los muchos:
+y la mucha gente no puede<n> passar los rios / y passos malos por mon-
+tan~as y caminos / como los pocos. Y con mejor orden se retiran los
+pocos que los muchos: y gasta se mas dinero con la mucha gente q<ue>
+con la poca: y no se dexan gouernar. E si vn esquadro<n> huye el dia de
+la batalla: todos van tras aq<ue>(e)l. De manera q<ue> ellos mismos no se sa-
+ben entender: ni de sus capitanes se dexan regir. Y los pocos ponen-
+se mas presto en su orden: y no dan batalla quando los enemigos vie-
+nen de refresco: hasta que los vean cansados dela luenga guerra: o
+faltosos de vituallas: o faltosos de gente. E quando acuerdan de
+dar batalla dan la sobre cosa pe<n>sada / & muy al seguro / o qua<n>do vee<n>
+tener el juego ganado: y esto haze<n> por no perder el exercito dela bue-
+na gente que tienen. % Muchas vezes acontesce que la inuidia de-
+los Capitanes dan~a al exercito: por donde se les suelen seguir algu-
+nos reueses / y enesto deue<n> mirar mucho los capitanes / q<ue> la inuidia
+entre ellos no dan~e al sen~or del exercito: porq<ue> las diuisiones en<e>l exer-
+cito son dan~osas y muy peligrosas al bie<n> del exercito: porq<ue> los ene-
+migos no q<ue>rria<n> otra cosa sino ver gra<n> discordia entre sus co<n>trarios
+p<ar>a se poder ap<ro>uechar dellos: y por esso los capitanes ha<n> de estar el
+dia d<e>la batalla muy <con>formes y jurados d<e> <com>batir por su p<r><<i>>ncipe como}
+[fol. 16v]
+{HD. Libro llamado +}
+{CB1.
+hermanos darmas / y de no desamparar la batalla hasta morir o ve<n>-
+cer porque en vencer / o ser vencidos va la honrra de su Principe / y
+han de andar aquel dia muy esforc'ados y feroc'es / esforc'ando los su-
+yos / apellidando el apellido de su patria / pugnando por fuerc'a de ar-
+mas de lleuar a deuido effecto lo comenc'ado: porque sus hazan~as se-
+an sonadas por todo el mundo y la corona real de su principe sea en-
+salc'ada sobre todos los otros principes. Y la gente mas vsada enla
+guerra affrue<n>te primero enlo mas flaco delos enemigos: porque des-
+spues de rotos los mas flacos: con menos trabajo romperan alos
+platicos: porque con todo el cuerpo del exercito daran enlos plati-
+cos / y assi con poco trabajo los romperan / y alcanc'aran la vitoria.
+Algunos pensaran que seria mejor affrontar primero conla gente
+mas platica enla guerra: mas engan~an se: porque rompiendo lo mas
+flaco dela batalla: despues queda junto todo el cuerpo del exercito /
+para dar enlos platicos. Y desta manera no se puede perder la vito-
+ria / y antes se alcanc'a mas presto la vitoria. Mas si al exercito le fal-
+tare dinero / o vitualla / o gente / o poluora / deue se de escusar de dar
+batalla: & si no pudiere hazer menos / sino que la ha de dar / de la secre-
+ta / y comience se antes del dia / y lleuen todos sus deuisas sobre las
+armas: porque con la escuridad dela noche no se maten vnos a otros:
+y tomen el sol alas espaldas porque no les de enla vista:y tambien el
+ayre: porque no los ciegue el poluo. Y despues que houieren affronta-
+do: las mangas socorran a sus esquadrones / dando alos enemigos
+por los lados. E si el general diere otra orde<n> dela que se suele dar / no
+por esso se deue<n> turbar la ge<n>te / ca lo haze por algun buen respeto. Y
+para essos tales dias deue<n> procurar los generales de ser bie<n> quistos
+dela ge<n>te de guerra / en especial dela infanteria y que ellos sepan q<ue> el
+los ama de buen corac'on / y lo mismo sepa el dellos / y ellos touie<n>do
+le esta voluntad ternan especial cuydado de sacar le con honrra el
+dia dela batalla: sin dan~o de sus enemigos. Como los enemigos se-
+an rotos siguan la vitoria: y no se occupen en robar el campo / porq<ue>
+podrian reboluer los enemigos sobre ellos: y donde eran vencedo-
+res quedar vencidos. Y por esso deuen los Generales de executar la
+vitoria: hasta que los enemigos sea<n> del todo rotos / y desbaratados.
+porende esta defendido que no se de la honrra dela vitoria / sino al ge-
+neral q<ue> la executa: porque executando la vitoria: assegura su exercito}
+[fol. 17r]
+{HD. Jnstrucion y regimiento de guerra. \ XVII}
+{CB1.
+de peligro: Y por esso el dia que los generales alca<n>c'an vitoria de sus
+enemigos: no se deuen descuydar en seguir la vitoria hasta rompe-
+llos de todo punto: porque no se rehagan: y despues de hauida la vi-
+toria deue el general hazer guardar la orden que antes que se diesse
+la batalla se tenian en su exercito: enel poner delas guardas & cinti-
+nellas: porque avn que no lo haga por miedo delos enemigos: deue
+lo hazer por no poner mal vso en su exercito / y despues que hayan ro-
+bado el campo deue el general ju<n>tar toda la infanteria y caualleria /
+y dar les gracias por la vitoria q<ue> dios le ha dado / y prometa les mu-
+chas mercedes: diziendo les que el principe y el sen~or del exerci(r)[t]o ter-
+na cuydado de gratificar les sus buenos seruicios: y alos caualleros
+y soldados / que mas se sen~alaren el dia dela batalla: haga les merce-
+des: y de les doblado sueldo: porque otro dia de alli adelante lo ha-
+gan mejor: y porque los otros tengan especial cuydado de hazer lo
+mismo: por ser remunerados / y honrrados como aquellos.
+{RUB. % Capitulo .viiij. Como se ha<n> de guardar las
+ciudades / villas y castillos que el sen~or del exercito ganare.}
+{IN6.} DEspues que el sen~or del exercito houiere hauido la
+vitoria de sus enemigos: deue conquistar las ciu-
+dades / villas y castillos comarcanas / sobre que se
+mouio la guerra / enlas quales deue poner mucha
+guarda / y deue las fortalescer / alomenos aquellas
+que el conosciere que se pueden defender alos ene-
+migos. % Tres cosas ha de tener vna ciudad para ser fuerte. La pri-
+mera muy buen muro en llano: que no tenga padrasto en torno pa-
+ra que le puedan tirar. La segunda que tenga su fuessa de agua en-
+torno del muro por la parte defuera: de hondura de vna gineta y de
+ancho de pica y media / o de dos picas con sus puentes leuadizas /
+por donde entre y salga la gente dela ciudad. Y la tercera que tenga
+muchas vituallas para el mantenimiento dela gente de guerra / y
+touiendo estas tres cosas no se podria ganar por batalla la tal ciu-
+dad. El muro ha de ser bien fraguado: ha de tener sus traueses que
+jueguen por lo baxo del fosso: con que haya de traues a traues ci-
+ento y cinquenta passos / o alomenos casas matas: para que la ar-
+tilleria pueda jugar dentro dellas: por lo alto / y por lo baxo. Y}
+{SG. C}
+[fol. 17v]
+{HD. Libro llamado +}
+{CB1.
+por lo alto tenga el muro sus defensas: y andamios con sus trone-
+ras: para que los arcabuzeros puedan tirar alos defuera. Otras for-
+mas se podrian dar para la defensa de vna ciudad: assi como bastio-
+nes / y reparos que descubran la campan~a: huuiendo abundancia de
+artilleria: y ha de estar la campan~a muy limpia de arboles en torno
+dela ciudad: y d<e> ribac'os porque estos son muy dan~osos al cuerpo de
+la ciudad / y para la guarda della deuen poner enla plac'a principal
+dela ciudad el cuerpo dela guarda. y el Sargento ponga ala prime-
+ra sus guardas: si fuere en inuierno: haga la primera seys horas: y la
+segunda guarda deue hazer cinco horas: y la diana haga el resto que
+son tres horas hasta el dia: y este muy desuelada la guarda dela dia-
+na: porque comunmente a aquella hora suelen venir los enemigos: y
+las guardas & cintinellas quando hizieren su guarda: no esten dan-
+do vozes: ni tan~endo bozinas: porque si estuuiessen haziendo ruydo
+no sentirian la huella delos enemigos / quando viniesen. Por esto
+ha de estar muy d<e>suelado enla guarda: porque si viniessen enemigos:
+los sientan antes que lleguen al muro: y en sintiendo / de auiso al cuer-
+po dela guarda / enel qual se de arma: y reparta el capita<n> su gente por
+el muro: y porna el Capitan en cada puerta dela ciudad vna esqua-
+dra de gente / ala misma puerta: en cada parte la suya: en vna cabec'a
+que la rija: que guarden la defensa dela puerta: y porque si algunos
+delos de dentro quisieren abrir alos enemigos con algun sutil inge-
+nio no se de lugar a su traycion: avn que al traydor no dura mas su
+vida de quanto dura la traycion: y cada esquadra destas se rija por
+su Caporal / o Capitan: y esten enesta orden hasta el dia: & si el cam-
+po no se leuantare: por la misma orden la pueden defender: & si le die-
+ren bateria: hagan abasti[o]nar la muralla por donde la bateria se die-
+re por la parte de dentro / de tierra y estiercol y fustas gruessas: tapia-
+do todo a manera de tapia que sea muy ancha: porque si los enemi-
+gos derribaren el muro: que quede otro mas fuerte que no el derri-
+bado: al qual si esta hecho segun estilo de guerra: poco dan~o le podra
+hazer la artilleria / y los cargos dela gubernacion delas tales ciuda-
+des deue los dar el general alos caualleros y soldados q<ue> le siruie-
+ron enla guerra: & se les ayudaron a ganar: y al tiempo que les diere
+los semejantes cargos: traya les ala memoria la voluntad que tiene
+su principe de hazelles mercedes: y que aquellos cargos se les dan}
+[fol. 18r]
+{HD. Jnstrucion y regimiento de guerra. \ XVIII}
+{CB1.
+por sus buenos seruicios: y que tengan especial cuydado enla guber-
+nacion y guarda de aquellas ciudades: porque su rey quede en obli-
+gacion de hazelles otras muy mayores mercedes: y que miren mu-
+cho por la defensa dellas: y que viuan de contina muy desuelados / y
+que hagan todo buen tratamiento alos vezinos y moradores de a-
+quellas ciudades: porque de enemigos los conuierta en buenos a-
+migos. % Los castillos y fortalezas que ganaren / los que conoscie-
+re que se pueden defender: deue los fortalescer: y los que no se pudie-
+ren defender deue los derriuar: porque no pongan en gasto al sen~or
+del exercito / porque mas dan~o se sigue de tener las tales fuerc'as en
+no derriballes por tres razones. La primera: porque el principe ga-
+sta sus rentas enlas sustentar: sin recebir prouecho dellas. La segu<n>-
+da porque algunas dellas estan en parte que son mas cueuas de la-
+drones que no fortalezas. La tercera que es peor: que si sienten ene-
+migos no osan esperar batalla. Assi que gozan el prouecho los Al-
+caydes y no quieren auenturar se al peligro: y estas tales fuerc'as es
+mejor derriballas que no tenellas / pues no recibe dellas el sen~or nin-
+gun seruicio: antes se espera dan~o dellas que no prouecho. E los ca-
+stillos y fortalezas que se pudieren tener alos enemigos: enestos
+tales deuen los Principes poner mucho recaudo: pues son par-
+te para hazer todo dan~o alos enemigos. Y estos tales los alcaydes
+dellos han de ser hombres de guerra / de buen genero: porque el dia
+dela necessidad sabra como se ha de defender: & si le quisiere fortifi-
+car: mejor lo sabra hazer el alcayde que fuere ho<m>bre de guera que no
+otro. Si el castillo esta en cerro alto: haga le pen~ar el cerro por ma-
+nera que en todo el cerro donde el castillo estuuiere assentado delo
+alto alo baxo / no haya ningun reparo: ni otra cosa donde los enemi-
+gos se pudiessen embuscar: sino que todo este limpio y pen~ado: por-
+que los soldados del castillo puedan tirar alos enemigos quando
+subieren el cerro. Y el castillo por de dentro este muy desembara-
+c'ado porque se puedan socorrer los vnos alos otros el dia dela ne-
+cessidad: y haga se la misma guarda q<ue> se haze enla ciudad: por la me-
+sma orden. Mas si el castillo estuuiere en llano no seria tan fuerte
+sino tuuiesse su fossa de agua entorno / y sus traueses / por do juegen
+los artilleros. Y este tal deue se poner mucho recaudo en le fortale-
+scer: y deuen le guardar por la misma orden susodicha: y ha de tener}
+{SG. E ij}
+[fol. 18v]
+{HD. Libro llamado +}
+{CB1.
+oche<n>ta passos de traues a traues: y ha de estar prouehido de artille-
+ria / poluora y pelotas / arcabuzes / picas / artilleros y la ge<n>te q<ue> tuuie-
+re dentro sea<n> los mas arcabuzeros. Y este prouehido de todo gene-
+ro de bastime<n>tos: porque el dia dela necessidad no le falte<n>. Y los Al-
+caydes q<ue> estuuiere[*<n>] de<n>tro te<n>ga<n> a mucho recaudo la tal fortaleza: por
+que no se la hurte<n> de noche / o de dia / por algu<n> engan~o / o traycio<n> y no
+se deue rendir por batalla: mi por otro co<m>bate ninguno: porque el Al-
+cayde rendido: no puede ser alcayde de otro castillo: pues se rendio /
+porq<ue> mas sano le seria morir pelea<n>do co<n> los enemigos: q<ue> no<n> viuir ha-
+uie<n>do se re<n>dido: porq<ue> regla es entre ge<n>te de guerra: q<ue> vn ho<m>bre rendi-
+do / no puede[ ]<com>batir co<n> otro: sin lice<n>cia d<e> aq<ue>l a quie<n>[ ]se re<n>dio. Pues assi
+mesmo el Alcayde que rendio vn castillo: no puede ser Alcayde de
+otro castillo: si por su persona no torna a ganar el castillo q<ue> rendio.
+Porende los alcaydes han de ser hombres de guerra: porque mu-
+chas vezes acontesce perder se las tierras: porque los que tiene<n> car-
+go dela defensa dellas: no saben dar la orden para las defender. Y
+por esto el sen~or del exercito enlas tierras q<ue> ganare ponga tales per-
+sonas q<ue> no haga<n> fal(r)[t]a su persona: y el gasto q<ue> hiziere enlas fortalescer
+sea de manera q<ue> aproueche: y no sea vicioso: porq<ue> el dinero no sea mal
+gastado. Y como vaya gana<n>do: vaya fortifica<n>do las plazas fuertes:
+porq<ue> los enemigos no se pueda<n> amparar d<e>llas y enellas. De otros
+auisos de guerra se podria dar declaracio<n>: mas para dar la declara-
+cio<n> dellas: era menester q<ue> los viessen de obra / y no por escripto: porq<ue>
+debaxo deste articulo hay muchos secretos y ardides de guerra / los
+quales se suele<n> esperime<n>tar qua<n>do se representa la mayor necessidad.
+E por esto no se deue co<m>municar en publico: pues es menester para
+lo semejante mas obra q<ue> escriptura: para vencer / o hazer dan~o alos
+enemigos q<ue> de noche y de dia estudia<n> de hazer lo mesmo. % Por qua-
+tro maneras de batalla se puede ganar vn Castillo: o por batalla de
+manos / o por bateria / o por mina / o por hambre: si se gana por mina:
+puede se defender por co<n>tramina: si se gana por bateria puede se de-
+fender repara<n>do el muro por la parte de de<n>tro: hazie<n>do vn co<n>tramu-
+ro / echa<n>do entre muro y muro muchos barriles de poluora: hazie<n>do
+algunos pale<n>ques: para q<ue> los arcabuzeros puedan tirar dende alos
+enemigos: quando entraren por el portillo: y la batalla de manos
+puede se defender por batalla: porq<ue> mas valen los pocos dentro del}
+[fol. 19r]
+{HD. Jnstrucion y regimiento de guerra. \ XIX}
+{CB1.
+fuerte: que los muchos defuera del fuerte: mas ala ha<m>bre no hay de-
+fensa: porque si el alcayde no tiene vitualla dentro del castillo para
+sus soldados: claro esta q<ue> se ha de rendir / sin dar batalla ni esperar.
+Y enel hazer dela mina / si la tierra es pantanosa: y manantial: no se
+podria hazer mina: mas si la tierra es arzilla / o greda / o arenosa / pue-
+de se hazer la mina: mas enel hazer del horno debaxo del centro del
+torreon es menester q<ue> lo haga el ingeniero: porque otro ninguno no
+lo acertaria: por no saber dar la orde<n> del meter dela poluora: y del ce-
+rrar del horno. E si la tierra es sufficie<n>te para suffrir la mina: porq<ue> si
+despues de hecho el horno q<ue>dasse algu<n> espiradero: no podria hauer
+effecto la mina: mas si lo saben hazer: ha de ser sin ningu<n> espiradero:
+porq<ue> despues de dado el fuego ala poluora: todo lo q<ue> topare dela<n>te:
+lo hara volar por el ayre. Por esto el que ha de fraguar vn Castillo:
+ha de mirar estos inconuenientes: que antes q<ue> eche los cimie<n>tos de-
+ue hazer las contraminas: porque el castillo no pueda ser minado.
+Y este es vn secreto que no se puede dar a entender: sino se viesse por
+la obra porque no es materia que se da declaracion dello: por ser co-
+mo es vna cosa que no se puede saber: sino es quando se obra. % Y
+assi haze fin la presente obra llamada regimiento de guerra : la qual
+sea esperimentada en seruicio de dios co<n>tra los perfidos turcos sa-
+rracenos nuestros enemigos y no entre Christianos: y para ello di-
+os que es el guiador & criador de todas las cosas enfunda enla gen-
+te Christiana tanta gracia y esfuerc'o que sean parte para co<n>quistar
+la tierra que los infieles tienen ocupada: y traher la debaxo de sub-
+jecion del inuictissimo Cesar: y ellos ve<n>gan en conoscimie<n>to de nue-
+stra santa fe catolica: y resciban el sancto baptismo: porque no sean
+engan~ados por la falsa secta Mahometica: como lo han sido hasta
+aqui. Y sus animas sean saluas {LAT. % Deo gracias.}
+% Acabo se el presente libro enla ciudad de
+(C)[C']aragoc'a en casa de maestre Geor-
+ge coci: el vltimo dia de Octu-
+bre. An~o de mil y quinien-
+tos y treynta y
+syete.
+{SYMB: cross.}}

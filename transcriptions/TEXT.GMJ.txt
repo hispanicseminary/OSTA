@@ -1,0 +1,4556 @@
+{RMK: HSMS-0366.}
+{RMK: Luis Pérez Sarabia.}
+{RMK: [GMJ] Glosa famosa sobre las coplas de don Jorge Manrique.}
+{RMK: Valladolid | Sebastián Martínez | 1561.}
+{RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | BG/34696(3).}
+{RMK: Francisco Gago Jover.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} {RUB. GLOSA FAMOSA
+SOBRE LAS COPLAS DE
+don Iorge Manrrique. Compuesta por el proto-
+notario Luys Perez. Dirigida al Illustrissimo se-
+(n)[n~]or do<n> Antonio d<e> Toledo, Prior de sa<n>t Iua<n>
+Cauallerizo mayor de la Magestad d<e>l
+Rey don Phelippe, y de sus consejos
+de estado y guerra.}
+{MIN.}
+{RUB. % Impresso con licencia delos sen~ores del consejo real,
+este an~o. M.D.L.X.I.}}
+[fol. 1v]
+{CB1.
+{RUB. {LAT. TOTA PULCHRA ES AMICA MEA}
+{MIN.}
+{LAT. ET MACVLA NON EST IN TE.}}}
+[fol. 2r]
+{CB1.
+{RUB. % Las cosas erradas que se hallaron en algunos cuerpos desta
+obra en el romance della son las siguientes.}
+Char<ta>. 7. col. 2. ver. 4. q<ue> de ap<ro>uechar a todos, falta te<n>go
+En la mesma char. ver. 22, dize babian diga habian.
+Char<ta>. 9. col. 2. vers, 23 do dize vox diga voz.
+Char<ta>. 20. col. 1, do dize que[ ]es de cierto llamar, diga que
+es en desierto llamar.
+Charta. 41. col. 2. dize van se tus bienes gimiendo, diga
+han se tus bienes gimiendo,
+Char<ta>. 45. col. .2. ver. 5 dize quic'a no buena, diga quic'a
+y no buena.
+Char<ta>. 49. col. 2. dize aunque dilatasse yo, diga aunque
+dilate se yo.
+Char<ta>. 50. col. 1. do dize y el monte el montezillo, diga
+y el montes el montezillo
+Char<ta>. 62. col, (i)[1]. ver. 5 dize el actor, diga el author.
+{RUB. {LAT. Errata que in huius operis authoritatibus apparue-
+se sunt que sequuntur}}
+{LAT. Char<ta>. 2. col. 1. ver. 20. vbi legitur iungere, lege iunxere.
+Char<ta>. 6. col. 1. ver. pe. vbi legi<tur>. et nato, de est pariter,
+Char<ta>. 25. col. 1. Pli. li. 7. legit<ur> habes cu<n>t, le<ge> hebescunt.
+Char<ta>. 26. col. 1, Ecclesiasti, 1. ubi legitur omnis pontatus
+lege potentatus.
+Char<ta>. 29. col. 1. Iuue. saty, 10. ubi legitur qui nimias op-
+tabat, lege nimios.}}
+[fol. 2v]
+{CB1.
+{LAT. Char<ta>. 39. co[l]. 1. Sene. trage, ubi leg<itur>. licet sequis leg<e> segnis.
+Char<ta>. 40. col. 2. Iob, 19. v. vbi legi<tur>. diligebant, l<ege>. diligebam.
+Char<ta>. 41. col. 1. Augusti. ubi legi<itur>. iugressat lege ingressa.
+Ea char<ta>. et col. Boe. li. 2. ubi le<gitur> felicitalis, lege felicitatis.
+Char<ta>. 46. col. 1. Sene. tra, ubi legi<tur>. noscetur, leg<e> nascet<ur>.
+Char<ta>. 55. col. 2. Sene. tra, 1, ubi legi<tur>. fugiene, leg<e>, fugie<n>te.}
+{IN2.} YO Rodrigo de medina escriuano de camara de su catholica ma-
+gestad de los que residen en el su consejo doy fee que auiendo
+se visto por los sen~ores del consejo cierta obra hecha por el proto-
+notario Luys Perez de Sarabia, que se intitula Glosa famosa, so-
+bre recuerde el alma dormida, le fue dada licencia al dicho Luys
+Perez para que la pudiesse imprimir y vender: con q<ue> en la impres-
+sion della no diga con priuilegio. E porque es verdad lo firme de
+mi nombre. Fecha en Madrid a diez dias del mes de Iulio de mil
+y quinientos y sesenta y vn años. Rodrigo de Medina.}
+[fol. 3r]
+{CB1.
+{RUB. {LAT. DEI PARAM ALLO-
+QVITUR VIRGINEM FILIVM SA-
+cro hubere lactante<m> Lodouicus Perecius orator
+& poeta, eam q<uam> obnixe deprecatur, rebus
+futuris subueniat, quando praeteri-
+tis succurrit, si quidem de
+omnib<us> mereri optime
+nunq<u><<a>><m> cessat.}}
+{LAT. {IN3.} O Regina poli: lux & spes vnica mundi
+Salue quae lactas vbere digna Deu<m>
+Me<n>te prisu<n>mi mu<n>di ante es secula sola
+Concepta: vt vitae sola medella fores.
+Ta<n> sancti vt genitrix sacra o tu pignoris esses
+Solam te elegit summus ab arce pater.
+Accipiter celsus c<oe>li super astra volauir,
+Descendit tandem victus amore tuo
+Hunc humilis mite<m> summa est de sede venata
+Dignata es q<uem> vtero claudere diua sacro
+Dum mage te ancillam respondes esse tona<n>tis
+Altior ascendis tu super astra volans,
+Virgo dei genitrix meruisti sola vocari
+Namq<uem> humilis flores: inde pudica nites,
+Per te sancta pares admittit vota supernus
+Natus nostra, simul quas damus ore preces
+Te tibi dilectus precor vt mea guttura pandat
+Vt possim Rithmos hos celebrare phrasi
+Textui & altissono multi glosemmata multa
+lungere, hos audax paruulus ipse sequor
+Co<n>cine expono graphice & te o clare Georgi
+Exponi Andino sunt tua digna sono
+Protulit haut vllv<m> Manrique Hispania nostra
+Qui posiet calamum vel superare tuum,}}
+{SG. A}
+[fol. 3v]
+{HD. {LAT. In laudem virginis Mariae.}}
+{CB1.
+{LAT. Hunc relegant reges textum, dignissima mo<n>strat
+Lectu, & q<u><<a>>m facili tempore regna cadant
+Hunc videant proceres, mu<n>di quos gloria torquet
+Hunc voluat manibus c'etera turba libensi
+Exprimit hunc celebris q<u><<a>>m vis sit glosula parua
+Inde faui rutilant, dulcia mella fluunt,
+Non venus hic resonat, lasciua aut verba reportat,
+Nec Methamorphoses, Illiacas verates.
+Non siluas, non rura canit, non belliger arma
+Non figmenta sonat, turpia nulla leges,
+Dogmata concentu resonat suauissima sancto
+Quae nos assidue pagina sacra docet.
+Quae dedit eulogium diuina oracula sacrum
+Altisona pulsat dulciter ille lyra
+Quisquis in hoc vasto protendis carbasa pontho
+Hunc lege & aequoreis tutior ibis a quis
+Vt mortem caueas monet, & tu semina mandes
+Virtuti, & fugias crimina cuncta, & opes,
+Tempore ne cesses omni vigilari viator
+Vlla haud praetereat temporis hora tui
+Vt meminisse velis q<u><<a>>m sit grauis ipsa senecta:
+Quam breuiter mundi machina rota ruar.
+Vt memor excogites qua forma plasma caducum
+Fies, & saeuis vermibus esca miser,
+Multaq<uem> praetera rithmis exponit ab vnde:
+Nunc periclem resonat: nunc Ciceron a canit.
+Quibit in aeternum nulla hunc abolere vetustas
+Non sunt quae cecinit tempore digna teri,
+Huc igitur vestras morituri aduertire mentes
+Voluite & hunc alaeres pectore, mente, manu,
+Verum digna deo lux o clarissima saecli,
+Te precor vt nolis inmemor este mei.}}
+[fol. 4r]
+{HD. {LAT. In laudem virginis Mariae. \ \ Fo<ja>. 6.}}
+{CB1.
+{LAT. F<oe>deris arca precor te fons & origo salutis
+Mi vt solia clemens auxilieris ope,
+Antidotum nobis praestas: tu sola propinas
+Pharmaca quis terimus, qui nocuere cibos
+Per te parta quies per te est pax reddita terris
+Victor homo & surgit quei periturus erat,
+Sola dei atq<uem> hominum socialia faedera iungis
+Et fragilis per te fortificatur homo.
+Mittimur astrigeri nos per te ad regna beati
+Alta poli: & victrix demonis arma teris,
+Vera salus aegris: per te solatia mesti:
+Sopiti & tenebriste dulce lumen habent,
+Aspice me vndisono nantem sine remige ponto:
+Et saeuis ventis aequore cymba perit.
+Mitiga & immanes clara has o stella procellas,
+Ne antennas frangat fructibus vnda ratis
+Fluctuet vt numq<u><<a>><m> ventorum flatibus altis
+Syrtibus & pereat terra tabella maris
+Virgo mihi tenebris clara da luce fugatis
+Ne vitijs vitam commaculare queam.
+Nostras qui eneruat vires succu(r)rre labori:
+Exaudi supplex quas tibi mitto preces,
+Et tandem qua<n>do dederit mihi terra sepulchrum
+Extremum videam te precor ante diem,
+Summa patri & nato pariter sit pneumati & almo
+Gloria per mundi saecula, laus, & honor.}}
+{SG. A ij}
+[fol. 4v]
+{CB1.
+{RUB. PROLOGO DE LA OBRA
+QUE EL PROTONOTARIO LUIS
+perez hizo y compuso, sobre las coplas del esforc'a-
+do y famoso cauallero Don Iorge man-
+rique maestre que fue de San-
+tiago. Dirigida al
+Illustrissimo
+sen~or
+Don Antonio de Toledo, Prior dela
+orden de sant Iuan, y caualleri-
+zo mayor de la Magestad
+del rey do<n> Philippe
+y de sus con-
+sejos
+de estado y guerra.}
+{IN3.} LEYENDO LOS DIAS PAS-
+ados Illustrissimo sen~or vna carta que el
+eloquente Cicero<n> scriue a Cneoplanco,
+no menos me admire despues de leyda del cuy-
+dado que mostraua tener dela republica. que de
+la diligencia tan gra<n>de que cerca desto ponia en-
+caresciendole y encomendandole affectuosame<n>-
+te mirasse mucho por ella, y sobre todo que no si-
+guiesse en tiempo de tanta turbacio<n> las partes de
+Marco Antonio, pues sabia que no habia enla vi-
+da cosa mas preclara, y excelente ni de tanto fru-
+cto, como hazer siempre bien ala republica, y mi-
+rar por ella. Sentencia no menos de ser ensalc'ada
+que tenida, digna de tal varon, au<n>que gentil, por
+que le parescia ha el que amparar las viudas, fauo-recer}
+[fol. 5r]
+{HD. Prologo. \ \ Fo<ja>. 7.}
+{CB1.
+los menores, socorrer los pobres, dolerse
+de sus trabajos, deshazer sus agrauios, quitar sus
+fuerc'as, mirar por toda la gente plebeya misera y
+cuytada, era la cosa que mas al hombre diesse ho<n>-
+ra y fama, y mas le diesse lustre y engrandesciesse
+y pusiesse en la cumbre, y era la hazan~a mas subi-
+da y mas heroyca por ser obra de charidad, que
+quanto mas se estiende mas se encendra y sube
+en alto, como sea su<m>ma y remate de toda perfe-
+ction, que como dize el Apostol de las virtudes
+es la mayor, porque como Dios sea charidad co-
+mo dize sant Iuan el que esta enella esta en Dios
+y el que no la tiene Dios no esta enel de donde
+podemos sacar qua<n>to los que professamos la ley
+Euangelica, somos tenidos a ella, & ya que no te<n>-
+gamos las partes para hazer por la republica, a lo
+menos que hagamos lo que en nosotros es, repar-
+tiendo el talento que Dios nos dio, pues no nos
+pide mas delo que podemos hazer, que el de nue-
+stros bienes no tiene necessidad, en mucho mas
+tuuo el sen~or los dos minutos, que la pobre biu-
+da offrecio enel templo, que todas las otras rique-
+zas que los ricos y poderosos habian hechado.
+Por esto dize el glorioso Hieronymo buena biu-
+da, cuya pobrez[a] se prefiere a la riqueza del rey
+Cresso, por vna vez de agua fria promete Dios
+luego la paga. Mucho Dios loo a los sieruos por
+hauer aprouechado con los talentos, y augmen-
+tandolos con gran diligencia boluiero<n> otros ta<n>-
+tos. Y al sieruo que hauia dado vno porque le ab-
+scondio debaxo de tierra le manda lanc'ar enlas
+tinieblas exteriores, de donde podemos conside-rar}
+{SG. A iij}
+[fol. 5v]
+{HD. Prologo.}
+{CB1.
+quanta obligacio<n> tenemos vnos a otros de re-
+partir el talento y gracia q<ue> Dios nos diere. Y ansi
+yo mouido con este zelo de charidad y desseo q<ue>
+de aprouechar a todos, y no dar occasion a la oc-
+ciosidad, de que nos auisa Seneca que huyamos,
+que scriuie<n>do a Lucillo dize, assi trabajare en mi
+estudio que el sol no me pueda hallar, occioso, y
+tambien por no dexar passar el tiempo, como el
+sabio dize, En valde, y en otra parte que aguije-
+mos con el tie<m>po, y por el Apostol que no cesse-
+mos en todo tiempo hazer siempre bien porque
+lo que en tiempo sembraremos, en tiempo lo co-
+geremos, considerando yo todo esto, y que hasta
+aqui sie<m>pre he luchado co<n> la mocedad, en co<m>poner
+y ente<n>der en cosas de aquel tiempo. Buelto en mi
+por emendar si pudiesse algo delo passado, acor-
+de de glosar, si glosa se puede llamar, esta tan no-
+table obra del esforc'ado, y famoso cauallero do<n>
+Iorge Manrrique, porque enella se puede<n> bien
+hallar los engan~os con que el mundo nos suele
+engan~ar. Los alagos con que nos atrae los plaze-
+res q<ue> nos muestra, los lloros y fines tristes co<n> que
+nos acaba, tocando aqui las dulces cuerdas de su
+tan sonorosa harpa con suaues puntos de dulce
+melodia, nos resuena y canta la humildad ta<n> gra<n>-
+de dela magestad ta<n> alta dela diuinidad, aqui no
+toca del mundo, del tiempo, amor, fortuna, y fa-
+ma, y lo vltimo dela muerte. aqui toca en breue
+todo aq<ue>llo quel famoso micer Petrarcha tan ex-
+tensamente en sus triumphos hablo, aunque la
+obra sea breue en sus palabras, es copiosa en sus
+sentencias, y porque ansi el texto, como la glosa,
+va sacado del texto de la sagrada escriptura, y de}
+[fol. 6r]
+{HD. Prologo. \ \ Fo<ja>. 8.}
+{CB1.
+sanctos doctores q<ue> la yglesia apprueba, y d<e> otros
+sabios aunque gentiles, en quanto por sus nota-
+bles dichos abriero<n> camino para la virtud, como
+se pueda hazer y alegar los assi para detestacio<n> d<e>
+sus errores ge<n>tilicos, como para boluerlos en vso
+de doctrina, como hizo el Apostol escriuiendo a
+Tito q<ue> alego aq<ue>l dicho de Parmenides poeta, y a
+los Corinthios alego otro notable dicho de Tere<n>-
+cio. S<an> Hierony<mo> escriuie<n>do al Mo<n>ge Rustico alega
+otros versos de Virgilio, El glorioso Augusti<n> en
+la ciudad de Dios alega a Horacio, y a Virgil<io> y
+en Iureconsulto alega la auctoridad del mesmo
+poeta enla declaracio<n> desta palabra, Cenotaphiu<m>
+y Iustiniano al poeta Homero para p<ro>bar las per-
+mutaciones y q<ue> entonces no hauia venta, ni com-
+pra de dineros. Assi hare yo enlo que viere q<ue> pue-
+den aprouechar, y dar doctrina. Las diez coplas,
+la primera de las quales comienc'a de algunos, fue
+reprehendido, con las nueue siguientes, con diffi-
+cultad se pudiero<n> glosar por estar desiertas de sen-
+tencia, y no tractar enellas do<n> Iorge sino los loo-
+res de su padre: y au<n> hasta aqui siempre se ha<n> que-
+dado por glosar, por no haber q<ue> dezir sobre ellas
+y por ellas veran ser yo digno de reprehe<n>sio<n>, por
+querer yo glosar do<n>de otros callaro<n>: mas la occio-
+sidad en q<ue> me hallo, me dio atreuimiento a no de-
+xar en<e>sta ta<n> sen~alada obra cosa sin glosar. Y pues
+el tiempo me da lugar que a otros por ve<n>tura fal-
+to, que pudieran enestas diez coplas que dexa-
+ron mas alto volar paresciome me habian de in-
+culpar si las dexara, por do soy yo digno de per-
+don. Van las auctoridades puestas en latin,}
+{SG. A iiij}
+[fol. 6v]
+{HD. Prologo.}
+{CB1.
+porque dellas gusten los que de latin entendie-
+ren: y de la copla los del romance. Las quales no
+con poco trabajo han sido de mi buscadas como
+puede entender el que sabio fuere. Hele tenido
+en poco por la charidad que a ello me ha moui-
+do, porque allende del prouecho que esta obra
+dara, el sabor y suauidad que de leerla resultara,
+confio en nuestro sen~or que no dara fastidio. Y
+mire muy bien el que latinidad supiere, que las
+mas vezes por falta de la marge<n> que es muy bre-
+ue y angosta, es forc'ado que las auctoridades ha<n>
+de yr mas abaxo, y no en derecho dela copla: sal-
+uo al principio de cada copla, donde es el comie<n>-
+c'o dela auctoridad latina, y enesto han de estar
+muy auisados, los que no entendieren latinidad,
+tendran entendido que la glosa va tan clara, y ta<n>
+facil, que qualquiera por de baxo juyzio que sea
+entendera su sentencia muy facilmente. Y no es
+de marauillar aunque la traduccion no vaya tan
+enteramente enel romance, porque no tan perfe-
+ctamente se puede traduzir en metro, como de-
+sto da la razon el poeta Horacio. El que sabio
+fuere, vera que la copla dize y siente lo mesmo,
+que dizen y siente<n> las auctoridades latinas, aunq<ue>
+no vaya por las mesmas palabras, con el texto las
+mas vezes no voy, antes le traygo a otro sentido,
+assi del que el quiere, como delos que hasta aqui
+han glosado, como por la obra se vera: bien creo
+que enlo vno y enlo otro no faltara quien ladre,
+grun~a, y muerda, quien quite ponga o an~ada, o
+quien reprehenda, detraya, o moffe de alguna co-
+sa, y desto me deffenderan las auctoridades, y tan}
+[fol. 7r]
+{HD. Prologo. \ \ Fo<ja>. 9.}
+{CB1.
+poco me marauillare, pues sabios muchos y gra-
+ues varones no tuuieron enesto rienda, ni me-
+nos templanc'a ni ellos fueron tampoco libres, q<ue>
+les perdonassen. Sabio fue Plato<n> mas en sus dia-
+logos a muchos reprehende. Homero a[ ]tarsites.
+Hizoilo a Homero, Aristoteles ni dexa a Socra-
+tes, ni perdona a Platon. Eloquente fue Demo-
+sthenes mas contradixole Eschines. Famoso poe-
+ta fue Virgilio, mas tuuo por contrarios a Carbi-
+lio, Petilio, y a Abito. Aquel gra<n>de Cicero<n> que
+lleuo la palma entre los Oradores latinos, assaz
+tuuo quien del murmurasse y detraxesse, como
+fueron Pilon, Vatinio, Salustio: y Marco Anto-
+nio que no menos fue eloquente enel senado, ac-
+cusando los conjuradores de Cesar, que Tulio
+deffendiendo les. Graue fue Seneca mas de mu-
+chos burla y escarnece, a Tito[ ]liuio a quien tan-
+to el curioso Hieronymo ensalc'a escribiendo a
+Paulino, no le faltan emulos, Cayo principe le
+reprehe<n>de de berboso. Polio que olia su eloque<n>-
+cia a la patauina, delos de nuestro tiempo, Halla-
+mos que Petrarcha escriuio contra vn medico.
+Laurencio contra Pogio. Policiano contra Sca-
+la. Y si boluiessemos a los Iureconsultos Baldo,
+se leuanta algunas vezes contra Bartulo. Abbad
+contra Iuan Andres, y otros contra la doctrina
+tan graue de Inocentio, y muchos otros podria
+traer que por no fastidiar y de ello no haber pro-
+uecho los callare. Ansi que no me marauillare
+que passe yo por la via mesma, que tan sabios y
+graues varones passaron. Mayormente no mere-ciendo}
+{SG. B}
+[fol. 7v]
+{HD. Prologo.}
+{CB1.
+yo nombre para con ellos. Aunque bien
+osare dezir que va la obra con ta<n>to artificio, que
+niuelada enla balanc'a de Chritilao, se hallara vi-
+sta con sancta simplicidad, ser muy justo y fiel el
+peso de toda ella. Y que yo eneste prologo mas
+de lo que se suele y deue me aya alargado. La ma-
+teria dela obra que es christiana lo pide y requie-
+re, y como yo no tenga a quien con mas razon
+aya de offrescer y dedicar esta mi pequen~a obra
+que a vuestra sen~oria cuya fama de virtudes res-
+plandece por toda leuante, allende que la gran-
+deza dela magnifice<n>cia de vuestra sen~oria, la hu-
+manidad de su nobleza, la clara genealogia de
+su sangre, la generosidad de su animo, la labor y
+traslado de todas sus obras, es el sello de sus loo-
+res que por todas las partes de nuestra Europa se
+derrama, me obliga a offrescerla a vuestra sen~o-
+ria pues por tan ornado de virtudes, tan encum-
+brado en saber, tan feruiente enla deuocion, ta<n>
+catholico enla fee, tan dotado de paciencia, tan
+sellado de humildad, tan alumbrado en todas las
+obras de perfection, y charidad, es de todo el mu<n>-
+do a vna vox con subidas y perpetuas alabanc'as
+ensalc'ado. Por do no sin causa vuestra sen~oria
+ha subido enel trono de su alto merescimiento.
+Y porque si del todo me hubiesse de estender y
+alargar por escriptura, enel merescimiento dela
+immortalidad delas crescidas virtudes y sen~ala-
+das obras de vuestra sen~oria que por todo el mu<n>-
+do se estienden seria nunca acabar. Lo dexare
+para su tiempo, supplica<n>do a vuestra sen~oria no
+mire lo poco que yo puedo, ni la pequen~a obra}
+[fol. 8r]
+{HD. Prologo. \ \ Fo<ja>. 10.}
+{CB1.
+que offrezco, si no la mucha voluntad que de ser-
+uir tengo. Y si como espero con tal vuestra sen~o-
+ria lo rescibe, sera fauor para me animar adelan-
+te para que otras muchas obras que de imprimir
+con el fauor diuino tengo, dedicadas al nombre
+de vuestra sen~oria volando por alto queden per-
+petuadas con perpetua fama, porque supplico a
+vuestra sen~oria esta obra assi como va dedicada
+y offrecida por vuestra sen~oria corregida suppla
+sus deffectos y errores, amparandola y deffendie<n>-
+dola de las rabiosas lenguas delos zoilos y detra-
+ctores, que sembrando sus pestiferas ponc'o(n)[n~]as,
+como langostas, o c'umo del toxico dela xibia, o
+calamar, destruyen y comen lo sembrado, por
+que donde ellos por su mala condicion no pu-
+dieron sembrar, alo[ ]menos no impida(m)[n] al que
+quisiere o procurare sembrar para coger y cog[i]e<n>-
+do gozar del fructo que cogido les ha de
+dar gracia aca, y gloria enel cielo, al
+qual nos lleue el que viue y
+reyna vn solo dios trino
+y vno por todos los
+siglos de los
+siglos
+Amen.}
+{SG. B ij}
+[fol. 8v]
+{CB1.
+{RUB. CARTA NVNCVPA-
+TORIA SOBRE AQVEL VERSO DE
+don Iorge. A quien das vida mas larga le das
+pena. Dirigida al Illustrissimo sen~or
+don Antonio de Toledo. &c.}
+{IN3.} COmo naturalmente, Ill($u)[u]strissimo sen~or, se-
+gun aquel propheta Iob exemplo y decha-
+do de paciencia affirma, sea el hombre naci-
+do para trabajar: como el aue para bolar. Y como
+sea maldicion dada a nuestro primero padre que en
+sudor de su cuerpo comeria su pan. Fue nos necessa-
+rio como hijos tener parte de tal here<n>cia, y no la po-
+der repudiar en quanto enesta misera y caduca vida
+estuuieremos. A do por su preuaricacion, nos dexo
+eneste destierro, herederos de sus trabajos: lo qual to-
+do adeuinamos como trae Plinio al tiempo que na-
+cemos, a do como el dize solo el llorar aprendemos
+sin arte y doctrina, que alguno nos ensen~e, y aque-
+llo solo sabemos, porque nos viene de nuestra pro-
+pia naturaleza y cosecha. Y por esto dize el glorio-
+so Augustino, que el nin~o comienza de lagrimas,
+como que por ellas profetize los males y trabajos q<ue>
+enel mundo viene a padescer. Por esto dize el sabio
+del vientre eche mi voz llorando como hazen todos
+Por esto dezia Plinio ser mejor rezien nacido mo-
+rir, que nacer para viuir en tanta miseria y descon-tento.}
+[fol. 9r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 11.}
+{CB1.
+Quan bien lo sentia el propheta Hiere-
+mias quando llorando se quexaua, Para que
+sali del vientre de mi madre para tanto traba-
+jo y dolor, pues si tal cosa dezia aquel a quien
+Dios sanctifico enel vie<n>tre de su madre, que po-
+demos dezir de nosotros? que co<n>cebidos en mal-
+dades, nos concibio n<uest>ra madre en peccados. Y
+como eneste tempestuoso mar nauegamos, a do
+el remolino de las profundas aguas, el leuantar
+delas brauas olas, la furia delos crueles vientos,
+las fuerc'as delas grandes tempestades, la muda<n>-
+c'a delos tiempos nunca faltan, traye<n>donos vna
+vez por los: peligros de mayor tenebregura y es-
+panto, en medio de las Cymerias olas, en lo pro-
+fundo de las Icarias, poniendonos ante los ojos
+las tragadoras Scillas, las temerosas Syrtes, las
+altas rocas, y otros peligros marinos, echa<n>donos
+co<n>la furia eolica ta<n> altos por las espumosas olas
+y despues tan baxos enel centro marino, y tan
+sumidos enlos mas profu<n>do delas Amphitricas
+aguas, que espa<n>tados dela variable fortuna, que-
+damos con el entendimiento ciego, con la me-
+moria flaca, y la razon perdida. Son tantos los
+trabajos que enesta mar de lagrimas nos persi-
+guen y tantas las penas y ansias que nos comba-
+ten, que ay pocos, o mejor diziendo ninguno, q<ue>
+se escape de sus golpes y continuos combates.
+Y como yo eneste valle do moro dende mis tier-
+nos an~os aya sido ta<n> perseguido de fortuna, qua<n>-
+to de todo bien apartado, tan combatiendo de tri-
+steza, quanto he siempre sido fuera de alegria,}
+{SG. B iij}
+[fol. 9v]
+{HD. Carta nuncupatoria.}
+{CB1.
+tan cercado de pena, quanto ageno de descanso
+tan sin fauor y ayuda, que metido y engolfado
+en pielago de ta<n>tos trabajos, no he hallado quie<n>
+la mano me diesse: no digo para salir dellos, mas
+para que estando enellos me esforc'asse, viuien-
+do enellos tomasse algun consuelo, puesto que
+de mi tenga entendido haber en mi alguna suf-
+ficiencia, de que natura me quiso dotar, de que
+despojado de los bienes de fortuna, tuuiesse al-
+gun alibio para consolar mi flaqueza. Habien-
+do allende desto en mi tan grato el entendimie<n>-
+to, que pudiera bien reconocer el bien que ha-
+zerseme pudiera, puedo dezir con Iob, mis her-
+manos se alongaron, mis parie<n>tes me desampa-
+raron, mis amigos me dexaron, y los que me co-
+nocian del todo me han oluidado, y con el Pro-
+pheta no he hallado quien me consolasse, dul-
+ce es la muerte a quien llorando la pide, amar-
+ga al malo que no la quiere, alegre a quien la de-
+sea, y espantable a quien la aborrece. Con razo<n>
+dixo el Ecclesiastico, mejor es la muerte que la
+vida amarga. Y tambien Boecio quando en su
+verso cantando llora. Aquella muerte es sabro-
+sa, que no viene enlos an~os dulces y alegres, mas
+la q<ue> muchas vezes llamada viene a los tristes y af-
+fligidos. Por esso dezia el bue<n> Iudas Machabeo
+anima<n>do su gente, o quan mejor nos es morir ene-
+sta batalla, q<ue> no ver tantos males como si viui-
+mos hemos de padecer: o quantos ha hauido cu-
+yas victoriosas hazan~as, y hechos de gra<n> memo-
+ria ouieran florecido con inmortal gloria, y per-
+petua fama, si al tiempo de su mayor florecer la
+parca Atropos les ouiera cortado el hilo dela vi-da}
+[fol. 10r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 12.}
+{CB1.
+Qua<n>to mejor le fuera al desdichado y dolo-
+roso Priamo, sen~or d<e> toda la Asia, no ver a Phe-
+reclo, fabricar las naues de Paris de ta<n>tos males
+causadoras, y dela muerte del mesmo Phereclo
+como trae Homero, q<ue> no verse d<e> sus reynos cay-
+do, sus amigos p<er>didos, cinque<n>ta hijos muertos, su
+muger captiua, su ciudad assolada, y el en tanta
+desue<n>tura puesto, q<ue> le tomasse Pirro por sus ca-
+bellos canos, y arrastra<n>do le lleuase hasta vn al-
+tar, a do despues de haberle ban~ado en la sa<n>gre
+de su hijo Polites, saca<n>do la espada le corto la ca-
+bec'a: q<ue> dire de Xerxes, y Dario pote<n>tissimos re-
+yes de Persia: delos quales el primero como di-
+xe Iustino, antes era espa<n>to delas ge<n>tes. Porq<ue> co-
+mo touiesse ayu<n>tado sesenta mil de a cauallo de
+su reyno, y trezie<n>tos mil delos reyes y amigos q<ue>
+le ayudaba<n>, y como dize Probo, era<n> quatrocien-
+tos mil, la ge<n>te de a pie era sin cue<n>to, y vn millo<n>
+por numero de nauios, como refiere Iustino, des-
+pues de ser ve<n>cido ignominiosame<n>te vna vez de
+Leonida rey de los Esp<ar>tanos, y otra de Themi-
+stocles capita<n> delos Athenie<n>s[es]. vino my vilme<n>te
+a ser muerto dentro de su casa real a pun~aladas,
+por Artabano su capita<n> g<e>n<e>ral. El segu<n>do co<n> no
+menos gra<n>deza, y mas animo, como escribiesse
+al gra<n> Alexandre q<ue> le daria hasta el rio Euphra-
+tes, co<n> su hija en casamie<n>to y le respo<n>diese q<ue> mal
+el mu<n>do se podia gouernar co<n> dos soles, y los q<ue>
+en<e>l viuian co<n> solos dos reyes, mal se podia<n> co<n>ser-
+uar ni viuir todos en paz: y assi d<e> ay a pocos dias
+le hallaro<n> q<ue> ya estaua espira<n>do, d<e> muy crueles he-
+ridas q<ue> tenia. en mucho mas se tuuiera el saber y
+las hazan~as y victorias Africa<n>o Anibal, a cuyo}
+[fol. 10v]
+{HD. Carta nuncupatoria.}
+{CB1.
+gran animo era poco el Imperio de Aphrica,
+si passada aquella sangrienta y lamentable ba-
+talla, de canas la muerte le llamara, antes que ve-
+nir a tanta desuentura, que el tosigo, que consi-
+go traya ouo de ser el fin, y remedio de ta<n>tos ma-
+les, q<ue> otro mas encumbrado en grandeza de ani-
+mo y poder hemos leydo que Mitridates rey d<e>
+Pontho y de tal alto saber & ingenio que ha-
+blasse en veynte y dos lenguajes de naciones q<ue>
+tenia subiectas, y que quarenta y seys an~os ma<n>-
+tuuiesse guerra continua contra los Romanos
+y que mandasse dar pregon por toda la Asia, q<ue>
+para tal dia ningun Romano se hallasse que no
+muriesse. Y que despues a los sesenta an~os le fue-
+sse tan contraria la fortuna que viniesse en tan-
+to trabajo y miseria, que lanc'ado de sus rey-
+nos, oluidado de los suyos, y puesto por su hijo
+Pharnaces en vna torre, hiziesse lo que el passa-
+do. Dicholo fuera Pompeio, si despues de tanta
+victoria y tan principe poderoso enel mundo[ ]le
+acabaran las calenturas de Campan~ia, y como
+dize Plutarcho verdaderamente fuera dichoso
+si no passara los an~os de Alexandre. Mejor
+le fuera a Iulio cesar despues del desbarato de Po<m>-
+peio, y el verle del mundo vniuersal monarcha
+y absoluto sen~or, la vida breue, que no venir a
+morir despues a manos de Casio Bruto. Como
+dize Appiano, y sus conjuradores desastra-
+[da]mente de veynte y tres heridas, estando enel se-
+nado. No ouiera criado Roma otro mas digno
+de alabanc'a, que Mario, que siete vezes fue con-sul,}
+[fol. 11r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 13.}
+{CB1.
+antes destos dos que arriba dize si despues
+del triumpho Theutonico fueran luego abre-
+uiados sus an~os, y no viniera a ta<n>ta miseria a las
+lagunas Minthurnas, entre Phormias y Sinuesa
+que dire de Marco Antonio? y Crasso? que del
+eloquente Ciceron principe dela eloquencia la-
+tina cortada la cabec'a, y la mano derecha por
+Publio lena, a quie<n> el antes habia defendido en
+vna accusacion criminal y absuelto. Que dire
+del gran Heraclio? despues de verse monarcha
+triumphador hasta la regante del Nilo, y des-
+pues de haber habido en fuertes batallas contra
+Turcos vencimientos famosos, con gran gloria
+si m(a)[u]riera luego, y no viniera apostatar indu-
+zido por Cyro, patriarcha delos Iacobitas here-
+siarcha dan~ado de los Monotholitas. Pues que
+dire del riquissimo Cresso rey de Lidia? que de
+aquel gran Melciades? y aquel animoso Themi-
+stocles famosos capitanes de Athenas: quel pri-
+mero despues de haber vencido cerca de Mara-
+ton, al innumerable exercito de Xerxes, vino
+en vna obscura carcel de prision a morir. El o-
+tro habiendo con grande esfuerc'o cerca de Sa-
+lamina y Artemisio, muerto y desbaratado el
+soberuio campo y desconcertado exercito del
+mesmo Xerxes, fue forc'ado venir a pedir mise-
+ricordia a los pies de aquel a quien el poco an-
+tes habia vencido. Que dire de aquel excelente
+Phocion morir enla tierra desnudo? sin querer
+le dar[ ]vn terron? con que se cobijasse sus huessos
+Que dire del gran Theseo debaxo de vna pen~a}
+[fol. 11v]
+{HD. Carta nuncupatoria.}
+{CB1.
+sepultado? q<ue> de Cimo<n> en cadenas? q<ue> del gra<n> So-
+lo<n> desterrado? q<ue> de Aristides perseguido? q<ue> del
+bue<n> Spartano, Licurgo, afre<n>tado? q<ue> del facundo
+Demosthenes forc'ado en toxico acabar la vida
+de tres varones muy sen~alados y puestos enla cu<m>-
+bre nos refiere el glorioso Hieronimo, q<ue> fuero<n>
+co<n>sulares, y despues fue ta<n> aspera la cayda y mi-
+serable, qua<n>to dichosos, si antes la muerte les so-
+breuiniera. De Abundacio dize que andaba en
+Pitho con muy pobres vestiduras mendicando
+y q<ue> alli acabo la vida desterrado, lugar do el glo-
+rioso Chrisostomo trae la tripartita historia q<ue>
+fue lleuado a padescer sus trabajo. De Ruffino
+la cabec'a traxero<n> puesta e<n> vna la<n>c'a por las calles
+de Costantinopla, habie<n>do antes andado corta-
+da la mano de puerta en puerta pidie<n>do. De Ti-
+masio despen~ado del grado alto en q<ue> estaua, es-
+capo en Asa, a donde acabo la vida, muy desue<n>-
+turado, & infame. Hasta aqui el curioso Hiero-
+[ni]mo, q<ue> pues de otros podria dezir, q<ue> con su larga
+vida, quedando en tinieblas la gloria q<ue> ganaro<n>,
+assi mismos en desastrada perdicio<n> traxero<n>, alos
+suyos en grandes miserias y desastres, y a su pro-
+pia patria en desuenturas y trabajos. Como trae
+Plutarcho, y lo prueba por algunos, el Satirico
+Iuuenal. Por esto dezia Plinio en su natural his-
+storia, q<ue> enesta vida ninguno por mas q<ue> sea pue-
+de dexar de passar trabajo, por donde no se pue-
+de llamar dichoso. Y por esto dezia aq<ue>l gra<n> Ci-
+cero<n> si esperando, y dessea<n>do trabajamos, pena-
+mos, y morimos enesta vida, con quanto desseo
+y voluntad hemos de dessear partir a aquel ca-mino}
+[fol. 12r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 14.}
+{CB1.
+el qual acabado, no ay delante mas cuy-
+dado y solicitud, q<ue> alli es el remate de todos nue-
+stros desseos. Y assi el varo<n> claro no se dira mise-
+rableme<n>te morir, y el mesmo dela<n>te dize mucho
+habiamos de holgar con la muerte, pues somos
+nacidos con tal ley y condicion q<ue> ninguno pue-
+da viuir, si que dexe de participar de trabajos,
+dolores, y enfermedades, que como sea mortal
+forc'ado a de passar. Y por esto dize aquel famo-
+so Petrarcha, por mas q<ue> viuamos sie<m>pre nos pa-
+recera haber viuido muy poco, Pues dime que
+mas tiene el q<ue> mucho viue, sino so<n> cuidados tra-
+bajos, penas, y enojos. Y a caso lo q<ue> peor es, pec-
+cados. Y por esto dezia Plinio, con quan justa
+balanc'a pesara aquel que se acordare siempre
+dela flaqueza humana, y que el largo viuir aca-
+rree muchas penalidades. Sintio lo bien aquel
+paciente Iob quando dixo, el hombre nascido
+de la muger viue breue tiempo. Lleno de mu-
+chas miserias, que como flor sale, y de ay a vn
+poco se pone marchito, y huye como la som-
+bra, y nunca esta en vn ser, y que el hombre
+habia de viuir en trabajos. Prometido le fue a
+nuestro primer padre, quando le fue dicho en
+trabajos comeras de la tierra, todos los dias de
+tu vida, espinas, y abrojos[ ]te dara, las yerbas de
+ella comeras y en sudor de tu rostro comeras tu
+pan. Considerando esto el Propheta Dauid
+demostraba en si engendrar le fastidio el viuir
+y dessear y acabar de andar camino de tantos
+trabajos, quando dezia. Saca ya sen~or esta mi al-
+ma desta carcel, y despues quexabasse y dezia}
+[fol. 12v]
+{HD. Carta nuncupatoria.}
+{CB1.
+ay de mi que este mi destierro se me ha muy a-
+longado. Con razon dixo quexandole Seneca
+en qua<n> grandes ansias y pesares caen los que mu-
+cho viuen. Y por esto dixo el Ecclesiastico, O
+muerte quan bueno es tu juyzio qua<n>do llamas
+y vienes para el que tiene trabajos. No sin causa
+alaban su costumbre los Tartaros, que en llega<n>-
+do a sesenta an~os los matan. Por esta causa de-
+zia Plinio no haber dado naturaleza a los hom-
+bres cosa mejor que la breuedad de la vida. Por
+esto dezia aquel Plato<n> que el viejo es dos vezes
+nin~o, porque a la vejez le faltauan los dientes,
+las fuerc'as, y voluia a naturaleza lo que le habia
+dado, conforme a esto dezia Tulio ser la vejez
+por muchas causas muy miserable, ser trabajo-
+sa affirmalo Aristotiles, ser deffectuosa traelo Iu-
+uenal, ser sin p<ro>uecho canta lo Horacio, y assi es-
+criue Seneca vna carta diziendo, ruegote q<ue> mi-
+res aquel tan feo y mal deseo de Mecenas en de-
+sear la vejez, pues por ella ama y quiere[ ]verse dis-
+forme & sin fuerc'a, manco de vna mano, coxo
+de vn pie, tollido dela pierna, gotoso en los mie<m>-
+bros, caydos los dientes, corto en la vista, xibo-
+so enel cuerpo. Y lo que peor es, como tr(r)[a]e Pli-
+nio, ninguno de los cinco sentidos sirue para
+aquel officio, que antes al hombre solia ser-
+uir, y aprouechar. Y por esto dezia Bercellai
+a Dauid, Como o rey Dauid podre yo contigo
+subir a Hierusalem a tomar plazer, que tengo
+oche<n>ta an~os y de aqui puedes juzgar y ente<n>der
+qua<n> torpes te<n>dre los sentidos, pues no podre dis-cernir}
+[fol. 13r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 15.}
+{CB1.
+ni hazer differencia de qual es dulce, o a-
+margo, qual es bueno, o malo, ni deleytarme en
+comer ni beber, ni tomar regozijo ni alegria, co<n>
+las suaues vozes y dulces cantos de tus cantores,
+ni de las damas que cantan. Por lo qual me se-
+ra forc'ado darte si alla voy pesadumbre. Bien
+conoscian estos claros varones, y sen~alados Phi-
+losophos, y mejor que ellos sabian estos glorio-
+sos sanctos las angustias y trabajos de esta mise-
+rable vida, los lazos con que nos enrreda, las nie-
+blas con que nos ciega, los dan~os que nos trae, los
+males que nos acrescienta, y al cabo el fin con
+mil ansias doloroso. Bien sentian los entropie-
+c'os en que el mundo al estado humano haze ca-
+er. Y mejor lo declaro el Apostol quando con-
+to los muchos peligros que habia en el, como
+hombre bien expirimentado en haber los passa-
+do. Y por esto dezia la summa verdad, ay del mu<n>-
+do, y de sus escandalos, y entropiec'os. Y por sant
+Iuan a los de su sancto collegio, Por ser qual el
+mundo es, hos aborrece, mas co<n>solaos, que a mi
+me aborrecio primero. Y por los muchos males
+trabajos que de viuir en el succede y se sigue.
+Nuestro famoso don Iorge manrrique, tocando
+la prima de su suaue, y dulce harpa, dixo aquel
+metro, A quien das vida mas larga le das pena.
+Considerando yo tambien estas cosas de que no
+poco temor concibo, assi por euitar la ociosidad
+que como dize Seneca es sepultura del hombre
+viuo, acarreadora, como trae Tito liuio de mu-
+chos males, como por dar algun tanto de consue-
+lo, a los que por flaqueza de animo caen no re-sistiendo}
+[fol. 13v]
+{HD. Carta nuncupatoria.}
+{CB1.
+a las caydas humanas. Y lo que peor es
+que oluidados de si, no se acuerdan para que fue-
+ron nacidos, y como yo ya como marinero, que
+dias ha que nauega con tormenta, tenga cono-
+scidos los peligros en que nauegamos, y el poco
+esfuerc'o nuestro para resistir a la vateria de nue-
+stras tentationes, y a las fuerc'as de los vientos q<ue>
+nos combaten, fui mouido Illustrissimo sen~or
+yo que sin socorro nasci, socorrer con la mue-
+stra de mi pobre ingenio, a los que abatidos y he-
+ridos con los golpes de esta variable fortuna co-
+mo yo fuessen. Y tambien porque aquel tiempo
+como dize Plinio segundo escriuiendo a Cani-
+nio, se ha mucho de llorar que no se emplea en
+alguna buena obra. Y pues el viuir para siem-
+pre, nos es denegado dexemos alguna cosa por
+memoria, en que parezca haber viuido. Pala-
+bras son dignas de tal varon. El sen~or nos auisa
+por sant Lucas que velemos todo tiempo: y por
+esto dezia Seneca, que todas las cosas son agenas
+de nos, y que ninguna es nuestra si no el tiempo
+y pues como dize Salustio la vida es breue, po-
+demos perpetuar nuestra memoria con la vir-
+tud que es clara, que lo demas gloria de riquezas
+y hermosura deleznable y flaca es, y que en bre-
+ue se passa. Assi yo queriendo emendar algo del
+tiempo perdido, para aprouechar alguna cosa si
+pudiesse, que como dize Iosepho, no dio Dios a
+los hombres los bienes y gracias en esta vida, so-
+lamente para si, si no para que siruiendosse de-
+llos, los repartan a otros, assi yo he querido ha-zer}
+[fol. 14r]
+{HD. Carta nuncupatoria. \ \ Fo<ja>. 16.}
+{CB1.
+que esta obra, se repartiesse y aprouechasse
+a todos, teniendo por bueno el trabajo que en
+ella he passado, por el fructo que de si dara, y
+espero en nuestro sen~or que puestas en la me-
+moria sus altas sentencias, sera tal cebo para el
+anima que ayude al cuerpo que viue en tantos
+trabajos, no caya mas si cayere, que se leuan-
+te, y seran tambien vn claro espejo, do todos
+veamos mejor, y entendamos que fuymos, que
+somos, que hemos de ser, y ansi tendremos en-
+tendido ser nuestra vida, como dize Iob, vna
+guerra continua: vna sombra que passa, vn
+suen~o que corre, vna flor que cae, y allende de
+esto, vn valle de lagrimas, vida sin descanso,
+plazer con dolor, vida trabajosa, vida corru-
+ptible, vida llena de amargura, vida sen~ora de
+los malos, vida esclaua de los infiernos, a quien
+los humores, la hinchan, dolores la delgazan,
+ardores la secan, los ayres la fatigan, burlas la
+pagan, tristezas la consumen, congoxas la estre-
+chan, seguridad la embota, riqueza la sube, po-
+breza la abate, juuentud la ensalc'a, vejez la a-
+baxa, enfermedad la quebranta, lloro la des-
+minuye, y sobre tantos males la muerte furio-
+sa a la puerta que pone fin a los guozos vanos,
+que como dexaren de ser, hemos de pensar
+que no han sido, Y pues al cabo la vejez, co-
+mo tengo probado, es trabajosa. Y la muer-
+te tan penosa estemos siempre en vela hazi-
+endo siempre buenas obras, perseuerando}
+{CW. siempre}
+[fol. 14v]
+{HD. Carta nuncupatoria.}
+{CB1.
+siempre enellas, y con esto podemos seguros ca-
+minar. Y por que esta gloria dara alguna luz pa-
+ra andar este camino. A vuestra sen~oria suplico
+pues siempre ha sido escudo y amparo de los q<ue>
+a vuestra sen~oria se encomiendan, reciba esta pe-
+quen~a obra, aunque sea tan baxo seruicio, dan-
+do la color para que suba, y fauor para que no ca-
+ya. Y entre sus muchos y arduos negocios no de-
+xe de leer algun rato y gastar algu<n> t<iem>po en obra
+tan religiosa y christiana, que intitulada a vue-
+stra sen~oria crecera ella tanto en nombre y fa-
+ma, que me tenga yo por muy satisfecho y paga-
+do delo mucho que ella gana, y adquiere
+enel valor que valdra por vuestra se-
+n~oria, cuya Illustrissima perso-
+na nuestro sen~or guarde
+con salud y desca<n>-
+so y conserua-
+cion de
+estado que vuestra sen~oria dessea.
+Y yo menor capellan de vue-
+stra sen~oria siempre
+desseare.}
+[fol. 15r]
+{HD. Glosa famosa. \ \ Fo<ja>. 17.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} Recuerde el alma dormida
+abiue el seso y despierte
+contemplando
+como se passa la vida
+como se viene la muerte
+tan callando.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Corre el tie<m>po a rienda suelta
+lleuanos a mas andar
+en su viage
+si queremos dar la buelta
+o vn poco atras tornar
+no ay passage
+pues siempre esta de partida
+nuestra flaca y mortal suerte
+aca llorando
+Recuerde el alma dormida
+abiue el seso y despierte
+contemplando.
+% Con el tiempo tan florido
+de nuestro dulce biuir
+con gran gloria
+damos lugar al oluido
+no vemos los an~os yr
+ni ay memoria
+pues va el hombre de cayda
+por que no caya y acierte
+este mirando
+Como se passa la vida
+como se viene la muerte
+tan callando.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. C}
+[fol. 15v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Qua(m)[n] presto se va el plazer
+como despues de acordado
+da dolor
+como a nuestro parescer
+qualquiera tiempo passado
+fue mejor.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quan poco nos dura aca
+aquella gloria prestada
+que tenemos
+quan presto todo se va
+como es vano y como es nada
+quanto vemos
+quan presto ha de fenescer
+nuestro biuir tan tassado
+y su dulc'or
+Qua(m)[n] presto se va el plazer?
+como despues de acordado
+da dolor.
+% O quan dulce es el contar
+el bien que si le perdimos
+lo cobramos
+pues que solo enlo pensar
+de plazer alli gemimos
+y lloramos
+o como aquel florescer
+de aquel tiempo assi pensado
+da labor
+Como a nuestro parescer
+qualquiera tiempo passado
+fue mejor.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 16r]
+{HD. Glosa famosa. \ \ Fo<ja>. 18.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes que vemos lo presente
+quan en vn punto se es ydo
+y acabado
+si juzgamos sabiamente
+daremos la no venido
+por passado}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Es nuestro biuir muy breue
+y cercan nuestros estremos
+lloro y pena
+pues que la muerte nos lleue
+que consuelo alli tendremos
+si no es buena?
+pues porque el hombre co<n>sie<n>te
+que este enlo de aca el sentido
+occupado?
+Pues que vemos lo presente
+quan en vn punto se es ydo
+y acabado.
+% El q<ue> enla culpa esta muerto
+porque se leuante y biua
+y se conuierta
+del morir pues es tan cierto
+se acuerde el alma captiua
+assi liberta
+pues todo tan breuemente
+se passa y lo que ha corrido
+ya ha tornado
+Si juzgamos sabiamente
+daremos lo no venido
+por passado.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. C ij}
+[fol. 16v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} No se engan~e nadie no
+pensando que ha de durar
+lo que espera
+mas que duro@^ lo que vio@^
+pues que todo ha de passar
+por tal manera.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Conoscernos es saber
+diuino, y que el alma sienta
+si va errada
+lo demas pues no ha de ser
+no se porque nos contenta
+y nos agrada
+pues todo se va y passo
+enlo que no ha de quedar
+nadie inxiera
+No se engan~e nadie no
+pensando que ha de durar
+lo que espera.
+% Es nuestra gloria flor vana
+y nosotros somos heno
+que florece
+y esta verde enla man~ana
+y dandole el sol en lleno
+cae y perece
+quien tan loco que creyo?
+ser para siempre el gozar
+desta era
+Mas que duro lo que vio
+pues que todo ha de passar
+por tal manera.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 17r]
+{HD. Glosa famosa. \ \ Fo<ja>. 19.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} NVestras vidas son los rios
+que van a dar enla mar
+que es el morir
+alla van los sen~orios
+derechos a se acabar
+y consumir.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % De tan flaca y tan vil massa
+nos formo Dios, y fue tal
+nuestro ser
+que en breue punto se passa
+corre como sea mortal
+sin se ver
+Somos como los nauios
+que van sin senda dexar
+ni descubrir
+Nuestras vidas son los rios
+que van a dar enla mar
+que es el morir.
+% Este mundo de tristura
+es el mar donde viuimos
+con pesar
+y es al fin la sepultura
+a@` donde todos venimos
+a@` parar
+aqui vienen poderios
+y aquel regir y mandar
+a@` se hundir
+Alla van los sen~orios
+derechos a@` se acabar
+y consumir.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. C iij}
+[fol. 17v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Alli los rios caudales
+alli los otros medianos
+y mas chicos
+allegados son yguales
+los que biuen por sus manos
+y los ricos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % O muerte como nos muestras
+al cabo estos corpezitos
+ser nonada
+alla van las pompas nuestras
+nuestra carne assi en poluitos
+es tornada
+tu a@` todos los mortales
+hazes del todo muy llanos
+dar de hocicos
+Alli los rios caudales
+alli los otros medianos
+y mas chicos.
+% Quiso nos pues Dios hazer
+yguales quando el ser dio
+de vn metal
+yguales enel nacer
+y enel morir ordeno
+ley general
+aqui los sceptros reales
+los principes y aldeanos
+pobrezicos
+Allegados son yguales
+los que biuen por sus manos
+y los ricos.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 18r]
+{HD. Glosa famosa. \ \ Fo<ja>. 20.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} Dexo las inuocaciones
+delos famosos poetas
+y oradores
+no curo de sus fictiones
+que traen yeruas secretas
+sus sabores.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Gracia de Apollo no pido
+ni de Mercurio eloquencia
+muy llamada
+las nueue Musas despido
+dexo la vana creencia
+arraygada
+dexo sus vanas razones
+pues passan mas que saetas
+sus herrores
+Dexo las inuocaciones
+delos famosos poetas
+y oradores.
+% Su dezir dexo espumoso
+que es de cierto llamar
+do nadie suena
+dexo su dezir copioso
+que es querer edificar
+sobre arena
+no miro sus inuenciones
+y pues son assi imperfectas
+sus labores
+No curo de sus fictiones
+que traen yeruas secretas
+sus sabores.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. C iiij}
+[fol. 18v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Aquel solo me encomiendo
+aquel solo inuoco yo
+de verdad
+que eneste mundo viuiendo
+el mundo no conoscio
+su deidad.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aquel que guio a@` Moyses
+abriendo el mar y ayudo
+a@` Iosue
+aquel que oyo a Manasses
+y aquel que al ciego alumbro
+y dio fee
+aquel llamo que nasciendo
+de virgen madre tomo
+humanidad
+Aquel solo me encomiendo
+aquel solo inuoco yo
+de verdad
+% Aquel Dios adoro y quiero
+que es trino y vno en esencia
+sempiterno
+aquel q<ue> es Dios y ho<m>bre entero
+aquel que en gloria y potencia
+es eterno
+aquel llamo que muriendo
+assi el mundo saluo
+su charidad
+Q($u)[u] eneste mundo viuiendo
+el mundo no conoscio
+su deidad.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 19r]
+{HD. Glosa famosa. \ \ Fo<ja>. 21.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} ESte mundo es el camino
+para el otro que es morada
+sin pesar
+mas cumple tener buen tino
+para andar esta jornada
+sin errar.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Culpa del primer formado
+nos dexo alos hijos de Eua
+en destierro
+do purgamos el peccado
+llorando en aquella cueua
+el gran yerro
+sino ha hecho desatino
+aca el alma y va quitada
+de peccar
+Este mundo es el camino
+para el otro que es morada
+sin pesar.
+% Si bien biuimos y obramos
+podemos aca ganar
+la gloria entera
+quanto mas aca passamos
+es para mejor gozar
+lo que se espera
+y aunq<ue> este mu<n>do es mezquino
+tenemos por el entrada
+singular
+Mas cumple tener buen tino
+para andar esta jornada
+sin errar.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 19v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Partimos quando nacemos
+andamos quando viuimos
+y llegamos
+al tiempo que fenecemos
+assi que quando morimos
+descansamos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Christo si en nos ay enmie<n>da
+por su bondad infinita
+nos recibe
+y aquel que sigue su senda
+si muere le resucita
+y enel viue
+al sen~or en quien creemos
+si en vida aca le seruimos
+y agradamos
+Partimos quando nacemos
+y andamos quando viuimos
+y llegamos.
+% C($u)[u]mple sobre auiso estar
+por aqui por donde vamos
+caminando
+pues hemos de yr a parar
+a@' la muerte do quedamos
+descansando
+alli se acaba y perdemos
+todo quanto aca tuuimos
+y acabamos
+Al tiempo que fenecemos
+assi que quando morimos
+descansamos.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 20r]
+{HD. Glosa famosa. \ \ Fo<ja>. 22.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} ESte mundo bueno fue
+si bien vsaremos del
+como deuemos
+porque segun nuestra fee
+es para ganar aquel
+que atendemos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Mundo de engan~os armado
+de mil lazos lleno todo
+y trayciones
+do al que mas co<n>tento has dado
+vemos que al cabo de lodo
+tu le pones
+mil peligros yo enel se
+mas huyendo el aranzel
+de sus estremos
+Este mundo bueno fue
+si bien vsaremos del
+como deuemos.
+% Dio nos Dios tan libre el ser
+que en nuestra mano aunq<ue> seca
+le ha dexado
+no tiene el mundo poder
+si no el malo que si pecca
+queda atado
+por tanto si no se cree
+por el aunque es tan cruel
+a Dios vemos
+Porque segun nuestra fee
+es para ganar aquel(o)
+que attendemos}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 20v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Y aun aquel hijo de Dios
+para subirnos al cielo
+descendio
+a nacer aca entre nos
+y biuir eneste suelo
+do murio.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues si males padecemos
+con paciencia enesta vida
+que habitamos
+son medio por do alcanc'emos
+aquella gloria crecida
+que esperamos
+va del infernal chaos
+libre el alma si con zelo
+a@^ Dios siruio
+Y aun aquel hijo de Dios
+para subirnos al cielo
+descendio.
+% Tanto la alta deidad
+nos amo y en tanto grado
+que vistio
+al hijo de humanidad
+y al fin por nuestro peccado
+padescio
+en vos virgen madre vos
+por nos dar paz y consuelo
+se humillo
+A nacer aca entre nos
+y viuir eneste suelo
+do murio.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 21r]
+{HD. Glosa famosa. \ \ Fo<ja>. 23.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} SI fuesse en nuestro poder
+tornar la cara hermosa
+corporal
+como podemos hazer
+el anima gloriosa
+angelical.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Si estuuiesse en nuestra mano
+al que es feo hazerle hermoso
+y agraciado
+y al doliente hazerle sano
+y al sin ventura dichoso
+que cuydado
+procuraramos tener
+en hazer que aquesta cosa
+fuera tal?
+Si fuesse en nuestro poder
+tornar la cara hermosa
+corporal.
+% Nuestra vista si esta ciega
+es porque lo procuramos
+y queremos
+que como el peccado llega
+por el camino assi vamos
+que no vemos
+sino nos cegasse el ver
+desta vida trabajosa
+y tan mortal
+Como podemos hazer
+el anima ser gloriosa
+angelical?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 21v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Que diligen(n)[c]ia tan biua
+tuuieramos cada ora
+y tan presta
+en componer la captiua
+y dexando ala sen~ora
+descompuesta.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Para que el gesto se assea
+y con agua, color, mudas,
+se ha pintado
+pues tanto mal acarrea
+y ha reynos con crudas guerras
+trastornado
+si fuera dado de arriba
+hazer cara vencedora
+y muy apuesta
+Que diligencia tan biua
+tuuieramos cada ora
+y tan presta?
+% De aqui sale amor q<ue> prende
+turba ciega hiere y mata
+fuerc'a y hunde
+altos con baxos enciende
+fuertes, flacos, sabios, ata
+y confunde
+nuestro flaco ser derriba
+la cara que assi se dora
+y caro cuesta
+En componer la captiua
+dexando ala sen~ora
+descompuesta.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 22r]
+{HD. Glosa famosa. \ \ Fo<ja>. 24.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} VEd de quan poco valor
+son las cosas tras q<ue> andamos
+y corremos
+que eneste mundo traydor
+aun primero que muramos
+las perdemos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Las riquezas y thesoro
+todo quando el mundo cesse
+ha de acabar
+y antes con trabajo y lloro
+las hemos aunque nos pese
+de dexar
+dexamos las con dolor
+y con sudor las ganamos
+y las hemos
+Ved de quan poco valor
+son las cosas tras que andamos
+y corremos?
+% Huyamos su afficion
+no nos cace en red tendida
+como a peces
+porque son de condicion
+que se pierden enla vida
+las mas vezes
+no las tengamos amor
+porque si bien lo miramos
+y lo vemos
+Eneste mundo traydor
+aun primero que muramos
+las perdemos.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 22v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Dellas deshaze la edad
+dellas casos desastrados
+que acaecen
+dellas por su calidad
+enlos mas altos estados
+desfallescen.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Muchos vimos encumbrados
+en gran potencia y ventura
+que cayeron
+en tantos desuenturados
+que en su tierra sepultura
+no tuuieron
+en riquezas no ay bondad
+pues se pierden por mil vados
+que recrecen
+Dellas deshaze la edad
+dellas casos desastrados
+que acaecen
+% Dellas por ser mal gastadas
+por pleyto tantas perdidas
+que es manzilla
+muchas por juego asoladas
+otras pudrirse comidas
+de polilla
+como sea vanidad
+pierdense por dos mil hados
+que se offrecen
+Dellas por su calidad
+enlos mas altos estados
+desfallescen.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 23r]
+{HD. Glosa famosa. \ \ Fo<ja>. 25.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} DEzidme la hermosura
+la gentil frescura y tez
+dela cara
+el color y la blancura
+quando viene la vejez
+qual se para?}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Este lustre esta frescura
+desta hermosura agraciada
+que assi aplaze
+venida vna calentura
+como con el sol la elada
+se deshaze
+como flor se va y no dura
+derrite se como pez
+muy ala clara
+Dezidme la hermosura
+la gentil frescura y tez
+dela cara?
+% El oyr sentir y ver
+aquel oler y apalpar
+que gozamos
+con la hedad se han de perder
+y aun antes de alla llegar
+las dexamos
+aquella hermosa figura
+aquel c($u)[u]erpo y su lindez
+que assi desuara
+La color y la blancura
+quando viene la vejez
+qual se para?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. D}
+[fol. 23v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Las man~as y ligereza
+y la fuerc'a corporal
+de juuentud
+todo se torna graueza
+quando llega al arrabal
+de senetud.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Qual se para pues que esta
+el viejo enfermo y muy cano
+temeroso
+las manos le tiemblan ya
+ciego, sordo, feo, y vano
+y enfadoso
+alli sobra la torpeza
+falta alli con tanto mal
+la salud
+Las man~as y ligereza
+y la fuerc'a corporal de juuentud.
+% Estas o@` viejo y no sientes
+de piedra, y gota cercado
+renzilloso
+comidos todos los dientes
+el gesto todo arrugado
+y gibboso
+veys aqui la gentileza
+como aunque fue linda y tal
+y de virtud
+Todo se torna graueza
+quando llega al arrabal
+de senetud.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 24r]
+{HD. Glosa famosa. \ \ Fo<ja>. 26.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes la sangre delos Godos
+y el linage y la nobleza
+tan crecida
+por quantas vias y modos
+se sume su grande alteza
+enesta vida.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Por t<iem>po el agua ha horadado
+las duras pen~as y rocas
+muy subidas
+quantas cosas han passado
+que tu tiempo las trastocas
+y oluidas
+donde estan los reyes todos?
+pues toda su realeza
+ya es sumida
+Pues la sangre delos Godos
+el linage y la nobleza
+tan crecida.
+% Do esta<n> Griegos y Romanos
+que alcanc'aron poderios
+muy crecidos
+en sus sepulchros ya vanos
+que ay mas de huessos vazios
+carcomidos
+que son sino poluo y lodos
+pues el valor y grandeza
+conoscida
+Por quantas vias y modos
+se sume su grande alteza
+enesta vida.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. C ij}
+[fol. 24v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Vnos por poco valer
+por quan baxos y abatidos
+q($u)[u] los tienen
+otros que por no tener
+en officios no deuidos
+se mantienen.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quantos por mas allegar
+con tempestades y vientos
+con la muerte
+nauegan de mar a@` mar
+por solo no estar contentos
+con su suerte
+a@' quantos vimos caer
+y subgetos y perdidos
+a otros vienen
+Vnos por poco valer
+por quan baxos y abatidos
+que los tienen.
+% Los malos el mundo ampara
+los buenos trae al reues
+muy acossados
+quantos ay de sangre clara?
+que siruen y andan despues
+mal tratados
+quantos por mas no poder
+en gran pobreza affligidos
+se sostienen
+Otros que por no tener
+en officios no deuidos
+se mantienen.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 25r]
+{HD. Glosa famosa. \ \ Fo<ja>. 27.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} LOs estados y riquezas
+que nos dexen a@` desora
+quien lo duda
+no les pidamos firmezas
+pues que son de vna sen~ora
+que se muda.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues que es ayre lo presente
+p<er>o en Dios siempre el cuydado
+si desmayas
+por suyo ruega te cuente
+y de gracia que en pecado
+tu no cayas
+pues de potencia y de altezas
+la mudanc'a cada hora
+nos desnuda
+Los estados y riquezas
+que nos dexen a desora
+quien lo duda?
+% Estas riquezas gozar
+que aproueca? de su gloria
+que bien mana?
+que ay enellas que esperar?
+pues es cosa transitoria
+incierta y vana
+no duran no? estas grandezas
+constancia enellas no mora
+o@` falsa ayuda
+No les pidamos firmezas
+porque son de vna sen~ora
+que se muda.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 25v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Que bienes son de fortuna
+que se bueluen con su rueda
+presurosa
+la qual no puede ser vna
+ni estar estable ni queda
+en vna cosa.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Bienes de fortuna son
+que vienen sin que se vea
+muy apares
+por vna consolacion
+solo en vn punto acarrea
+mil pesares
+no nacio persona alguna
+que della librarse pueda
+no reposa
+Que bienes son de fortuna
+que se bueluen con su rueda
+presurosa.
+% Si esta quiere te hara
+gran capitan de criado
+de vn sen~or
+si quiere te boluera
+de capitan en soldado
+y aun peor
+fingimos que es importuna
+y ni fue ni es ni vieda
+ni haze ni osa
+La qual no puede ser vna
+ni estar estable ni queda
+en vna cosa.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 26r]
+{HD. Glosa famosa. \ \ Fo<ja>. 28.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PEro digo que acompan~en
+y lleguen hasta la huessa
+con su duen~o
+por esso no nos engan~en
+que se va la vida apriessa
+como suen~o.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Para que son los aueres
+mas de para a pobres dar
+con buen zelo
+pues quando de aca partieres
+contigo no has de lleuar
+solo vn pelo
+hagamos que no nos dan~en
+quel enemigo no cessa
+c'aharen~o
+Pero digo que acompan~en
+y lleguen hasta la huessa
+con su duen~o.
+% Que ap<ro>uecha scie<n>cia ni arte
+ni seer del mundo sen~or
+absoluto
+si en peligro el alma parte
+a do llena de dolor
+vista luto
+riquezas no nos estran~en
+boluamos la cara auiessa
+con gran cen~o
+Por esso no nos engan~en
+que se va la vida apriessa
+como suen~o.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. D. iiij}
+[fol. 26v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Y los deleytes de aca
+son en quien nos deleytamos
+corporales
+y los tormentos de alla
+que por ellos esperamos
+eternales.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % De ti mundo hemos de vsar
+como de cosa que passa
+de corrida
+y en ti solo a@` Dios buscar
+que alli es para siempre casa
+dela vida
+porque no se mirara?
+ser los gozos que esperamos
+diuinales
+Y los deleytes de aca
+con en que nos deleytamos
+corporales.
+% Temporal es su dulc'ura
+pues que en breue se nos va
+el contento
+su plazer sera tristura
+y el deleyte boluera
+en tormento
+pues porque no se vera?
+que por vn plazer cobramos
+dos mil males
+Y los tormentos de alla
+que por ellos esperamos
+eternales.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 27r]
+{HD. Glosa famosa. \ \ Fo<ja>. 29.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} LOs plazeres y dulc'ores
+desta vida trabajada
+que tenemos
+que son si no corredores
+y la muerte la celada en que caemos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Es nuestra vida vn vapor
+que se passa en vn momento
+y nos ceba
+y quando esta en mas dulc'or
+luego que toda el viento
+nos la lleua
+son lazos y muy peores
+lo que aca mas nos agrada
+do ceguemos
+Los plazeres y dulc'ores
+desta vida trabajada
+que tenemos.
+% Quien fuere mu<n>do tu amigo
+es cierto que no te alabe
+quando muera
+pues de Dios se haze enemigo
+dezidme quien esto sabe
+lo que espera?
+pues los gozos y sabores
+y la riqueza sobrada
+en que nos vemos
+Que son si no corredores
+y la muerte la celada
+en que caemos.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 27v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} No mirando nuestro dan~o
+corremos a@` rienda suelta
+sin parar
+quando vemos el engan~o
+y queremos dar la buelta
+no ha lugar.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Por peccar el bien perdemos
+y de Dios somos juzgados
+por no buenos
+por que si a@` Dios offendemos
+somos brutales tornados
+y aun muy menos
+o que es dolor muy estran~o
+ver ya tanta gente embuelta
+en peccar
+No mirando nuestro dan~o
+corremos a@` rienda suelta
+sin parar.
+% La gracia no nos inflama
+por faltar nos merescer
+la perdemos
+siempre ala puerta Dios llama
+y oyr le ni responder
+no queremos
+prometemos le cada an~o
+de tanto n~udo y rebuelta
+escapar
+Desque vemos el engan~o
+y queremos dar la buelta
+no ha lugar.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 28r]
+{HD. Glosa famosa. \ \ Fo<ja>. 30.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} EStos reyes poderosos
+que vemos por escripturas
+ya passadas
+por casos tristes llorosos
+fueron sus buenas venturas
+trastornadas.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Por ti Caesar encumbrado
+mundo lleno de miseria
+vino al suelo
+al que es de ti mas priuado
+que gana desta tu feria
+si no duelo?
+Crasos Pompeyos famosos
+sus glorias por ti en tristuras
+son tornadas
+Estos reyes poderosos
+que vemos por escripturas
+ya passadas.
+% Ved a@` Antiocho caydo
+que combatir con sus manos
+quiere el cielo
+va en vnas andas metido
+manando podre y gusanos
+sin consuelo
+de quantos muy argullosos
+vimos sus grandes alturas
+trastornadas
+Por casos tristes llorosos
+fueron sus buenas venturas
+derribadas.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 28v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Assi que no ay casa fuerte
+a@` Papas ni Emperadores
+ni Perlados
+que assi los trata la muerte
+como a@` los pobres pastores
+de ganados.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % A pobres reyes infantes
+a@` todos la muerte yguala
+por vn son
+no ay o@` muerte a@` quien no espa<n>-tes
+co<n> tu mortaja y tu pala [%2]
+y tu ac'adon
+tratas los por vna suerte
+son gra<n>des por ti y menores
+ygualados
+Assi que no ay casa fuerte
+a@` Papas ni Emperadores
+ni perlados.
+% Quien es el que oy dia viue
+a quien no vengas a dar
+tu cruel pago
+ninguno ay aunque mas priue
+que al fin no aya de passar
+este trago
+que aprouecha no quererte
+ni principes ni sen~ores
+ni estados
+Que assi los trata la muerte
+como alos pobres pastores
+de ganados.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 29r]
+{HD. Glosa famosa. \ \ Fo<ja>. 31.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} DExemos alos Troyanos
+que sus males no los vimos
+ni sus glorias
+dexemos a los Romanos
+aunque oymos y leymos
+sus hystorias.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Nadie bienauenturado
+se deue ni ha de llamar
+hasta ver
+si con buen fin ha acabado
+pues puede ante entropec'ar
+y caer
+pues mal tanto ay entre manos
+y las pompas ser supimos
+transitorias
+Dexemos a los Troyanos
+que sus males no los vimos
+ni sus glorias.
+% Todo passa y todo va
+todo el tiempo lo dexo
+muy atras
+solo vemos queda aca
+el contar como passo
+y no mas
+que aprouecha estar vfanos?
+con vanderas que touimos
+de victorias?
+Dexemos a los Romanos
+aunque oymos y leymos
+sus historias.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 29v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} No curemos de saber
+lo de aquel siglo passado
+que fue dello
+vengamos a lo de ayer
+que tambien es oluidado
+como aquello}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues q<ue> siempre esta despierto
+buscando como nos dan~e
+el mal dragon
+tengamos el ojo abierto
+miremos no nos engan~e
+con traycion
+enesto hemos de entender
+y en aquesto haber echado
+nuestro sello
+No curemos de saber
+lo de aquel siglo passado
+que fue dello.
+% Dios el dia del furor
+testigo y juez sera
+desta guerra
+do el justo tendra temor
+y de miedo temblara
+cielo y tierra
+esto es lo que hemos de ver
+y no si el siglo dorado
+fue muy bello
+Vengamos a lo de ayer
+que tambien es oluidado
+como aquello.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 30r]
+{HD. Glosa famosa. \ \ Fo<ja>. 32.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} QVe se hizo el rey don Iuan
+los infantes de Aragon
+que se hizieron
+que fue de tanto galan
+que fue de tanta inuenc'ion
+como traxeron.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Todo lo vemos passar
+y delos que ya passaron
+no ay memoria
+ningunos vemos quedar
+de aquellos que aca ganaron
+fama y gloria
+ques de aquel gran capitan?
+Tullo, Anco, Eneas, Scipion,
+sombra fueron
+Que se hizo el rey don Iuan
+los infantes de Aragon
+que se hizieron.
+% Do Carthago el ser primero
+costa de mar flotas puertos
+tan sonados
+ques de tanto gran guerrero
+viuieron, mas ya son muertos
+y oluidados
+tus exercitos do estan?
+con que a@` Roma alteracion
+siempre dieron
+Que fue de tanto galan
+que fue de tanta inuencion
+como traxeron.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 30v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Las justas y los torneos
+paramentos bordaduras
+y cimeras
+que fueron si no deuaneos?
+que fueron si no verduras
+de las heras?}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % O quan poco firme esta
+la gloria de aqueste ser
+y mandar
+que si fuere no sera
+y si es se ha de perder
+y oluidar
+pues que aprouechan asseos
+de riquezas y hermosuras
+muy de veras?
+Las justas y los torneos
+paramentos bordaduras
+y cimeras.
+% Este plazer que se encierra
+en nosotros tan fingido
+en sus sabores
+quan presto vendra ala tierra
+a do sera conuertido
+en mil dolores
+entonces estos arreos
+de fama gloria y venturas
+y carreras
+Que fueron si deuaneos
+que fueron si no verduras
+delas heras?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 31r]
+{HD. Glosa famosa. \ \ Fo<ja>. 33.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} QVe se hizieron las damas
+sus tocados sus vestidos
+sus olores
+que se hizieron las llamas
+delos fuegos encendidos
+de amadores.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aquel cuerpo aquel asseo
+que ven con aquella cara
+tan luzida
+o@` quan terrible y quan feo
+y quan difforme se para
+enla partida
+do estan muerte los que llamas
+do ascondiste los polidos
+seruidores?
+Que se hizieron las damas
+sus tocados, sus vestidos
+sus olores?
+% Do esta el encendido fuego
+de aquellos que amor atiza
+con passion.
+do esta aquel desasosiego
+todo es buelto ya en ceniza
+y carbon
+o muerte do los derramas
+do los tienes ascondidos
+sus dulc'ores?
+Que se hizieron las llamas
+delos fuegos encendidos
+de amadores.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. E}
+[fol. 31v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Que se hizo aquel trobar
+las musicas acordadas
+que tan~ian
+que se hizo aquel danc'ar
+aquellas ropas chapadas
+que trayan.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Do esta el embiar de pajes
+do esta aquel contar de duelos
+con dolor
+de el embiar de mensages
+donde estan aquellos celos
+del amor
+que se hizo aquel cantar
+delas noches concertadas
+que tenian
+Que se hizo aquel trobar
+las musicas acordadas
+que tan~ian.
+% Do los plazeres y enojos
+que tu amor quieres dar
+y ensen~as
+do esta aquel alc'ar de ojos
+do esta aquel fuerte mirar
+y hazer sen~as?
+que se hizo aquel contar
+delas penas demasiadas
+que sentian?
+Que se hizo aquel danc'ar
+aquellas ropas chapadas
+que trayan?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 32r]
+{HD. Glosa famosa. \ \ Fo<ja>. 34.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes el otro su heredero
+don Enrrique que poderes
+alcanc'aua
+quan blando y quan halaguero
+el mundo con sus plazeres
+se le daua.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Todo lo vemos mudado
+todo los vemos ya ydo
+y no se siente
+que principes han reynado
+enel mundo que han caydo
+breuemente
+mira si fue duradero
+este rey ni los aueres
+que allegaua?
+Pues el otro su heredero
+don Enrrique que poderes
+alcanc'aua.
+% Al principio que reyno
+este rey o@` quan dichoso
+fue llamado
+y al fin en breue cayo
+por no ser firme el reposo
+de su estado
+quan dulce y quan lisongero
+le fue el mundo quando oyeres
+como andaua
+Quan blando y qua<n> halaguero
+el mundo con sus plazeres
+se le daua.}
+{SG. E ij}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 32v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Mas veras quan enemigo
+quan contrario y quan cruel
+se le mostro
+habiendo le sido amigo
+quan poco duro con el
+lo que le dio.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Para que el malo se atrebe?
+pues que ha de morir q<ue> affana?
+ques aquesto?
+no ver que la vida es breue
+yo muero oy, tu yras man~ana
+y aun mas presto
+mira el mundo que castigo
+hizo eneste pues que en hiel
+su ser boluio
+Mas veras quan enemigo
+quan contrario y quan cruel
+se le mostro.
+% O mundo engan~oso y ciego
+en ti ya cierta morada
+no pidamos
+ni se busque en ti sosiego
+hasta acabar la jornada
+en que estamos
+abrac'o este rey consigo
+el mundo y dando su miel
+le cebo
+Habiendole sido amigo
+quan poco duro con el
+lo que le dio.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 33r]
+{HD. Glosa famosa. \ \ Fo<ja>. 35.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} LAs dadiuas desmedidas
+los edificios reales
+llenos de oro
+las vaxillas tan fabridas
+los Enrriques y reales
+del thesoro.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aquel tiempo mal gastado
+que nos haze? que aprouecha?
+no tenemos
+pues no ha de ser tomado
+del y de obras cuenta estrecha
+y lo sabemos
+alli sabran nuestras vidas
+alli sabran nuestros males,
+seran lloro
+Las dadiuas desmedidas
+los edificios reales
+llenos de oro.
+% Aquel oyr de truhanes
+aquel dar tan sin medida
+por estrena
+aquel mantener de canes
+que ha de ser enla partida
+sino pena?
+en poco seran tenidas
+alli las riquezas reales
+del rey Poro
+Las vaxillas tan fabridas
+los Enrriques y reales
+del thesoro.}
+{SG. E iij}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 33v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Los jaezes y cauallos
+de sus gentes y atauios
+tan sobrados
+donde yremos a@` buscallos?
+que fueron si no rocios
+de los prados?}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quanto mas aca dexamos
+que con ansia dolorida
+adquirimos
+tanto mas dolor lleuamos
+al tiempo que desta vida
+nos partimos
+do estan deste sus vassallos
+su mandar, sus sen~orios,
+sus criados?
+Los jaezes y cauallos
+de sus gentes, y atauios
+tan sobrados
+% Passada esta transitoria
+vida, tan triste y tan fuerte
+que tenemos
+do@`nde yra esta mortal gloria?
+quando viniere la muerte
+donde yremos?
+donde yremos a dexallos
+los reynos y poderios
+sen~alados?
+Donde yremos a buscallos?
+que fueron sino rocios
+de los prados?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 34r]
+{HD. Glosa famosa. \ \ Fo<ja>. 36.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes su hermano el innocente
+que en su vida subcesor
+se llamo
+que corte tan excelente
+tubo y quanto gran sen~or
+que le siguio.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Nuestro ser como es terreno
+viue con trabajo y guerra
+congoxoso
+mas al que quiere ser bueno
+no ay combate aca enla tierra
+peligroso
+ved pues quan ligeramente
+este mortal resplandor
+corre y passo?
+Pues su hermano el innocente
+que en su vida successor
+se llamo.
+% Por no ser vn Rey qual deue
+su silla ser derrocada
+Dios permite
+dala a quien mejor aprueue,
+y que a la gente cuytada
+agrauios quite
+que gloria, grandeza y gente
+contino a su derredor
+este vio?
+Que corte tan excelente
+tuuo, y quanto gran sen~or
+que le siguio?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. E. iiij}
+[fol. 34v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Mas como fuesse mortal
+metiolo la muerte luego
+en su fragua
+o juyzio diuinal
+quando mas ardia el fuego
+echaste agua.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Que aprouechan dulces dias
+ni que tus riquezas fuessen
+siempre en calma?
+que cuenta di que darias?
+si esta noche te dixessen
+daca el alma
+do esta este rey tan real
+pues que su mando tan ciego
+en pena se agua
+Mas como fuesse mortal
+metiole la muerte luego
+en su fragua.
+% O amor de Dios sobrado
+o infinita clemencia
+del sen~or
+que dissimule el peccado
+y que aguarde a@` penitencia
+al peccador
+viendose assi este rey tal
+en lagrimas sin sosiego
+se enxagua
+O juyzio diuinal
+quando mas ardia el fuego
+echaste agua.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 35r]
+{HD. Glosa famosa. \ \ Fo<ja>. 37.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes aquel gran condestable
+maestre que conoscimos
+tan priuado
+no cumple q($u)[u]e del se hable
+si no solo que le vimos
+degollado.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quantos ay que procuraron
+subir siempre enlo mas alto
+y subieron
+mas despues tanto baxaron
+que vimos de solo vn salto
+que murieron
+desta fortuna mudable
+haber a@` muchos leymos
+derribado
+Pues aquel gran condestable
+maestre que conoscimos
+tan priuado
+% Qual fortuna le paro
+como en vn punto su yra
+le ha mostrado?
+pues que la muerte que dio
+al vizconde de Altamira
+ha pagado
+quando mas firme y estable
+ser su potencia creymos
+y su estado
+No cumple que del se hable
+sino solo que le vimos
+degollado.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 35v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Sus infinitos thesoros
+sus villas y sus lugares
+y mandar
+que le fueron si no lloros
+fueron le sino pesares
+al dexar.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Sus perlas y pedreria
+que valio? ni sus riquezas?
+ni priuanc'a?
+pues que lo perdio en vn dia
+y le falto en su tristeza
+esperanc'a
+do esta su correr de toros?
+donde yremos si pensares
+a@' buscar?
+Sus infinitos thesoros
+sus villas y sus lugares
+y mandar.
+% Estas riquezas le dieron
+no solo dolor senzillo
+mas doblado
+quando vio que le pusieron
+ala garganta el cuchillo
+ya sacado
+aquellos negros y loros
+quando muy bien lo mirares
+y su allegar
+Que le fueron sino lloros
+fueron le si no pesares
+al dexar?}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 36r]
+{HD. Glosa famosa. \ \ Fo<ja>. 38.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes los otros dos hermanos
+maestros tan prosperados
+como reyes
+alos grandes y medianos
+traxeron tan sojuzgados
+a@` sus leyes.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Que es lo que este athesoro
+pues dello no lleua nada
+ni aprouecha
+oy es, y man~ana no
+su gloria tan ensalc'ada
+ya es desecha
+a quantos muy soberanos
+traes o@` fortuna atados
+como bueyes
+Pues los otros dos hermanos
+maestros tan prosperados
+como reyes.
+% Vnos pones enlas nubes
+porque dende alli mas grande
+la cayda
+tu los baxas tu los subes
+porque su vida mas ande
+de corrida
+esto a@' fuerca de manos
+traxeron a@` sus mandados
+muchas greyes
+A los grandes y medianos
+traxeron los sojuzgados
+a@` sus leyes.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 36v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Aquesta prosperidad
+que tan alta fue subida
+y ensalc'ada
+que fue si no claridad
+que estando mas encendida
+fue amatada.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Que aprouecha athesorar
+para aquel que no sabemos
+quien sera
+dexamos lo de gozar
+lo que, quien no conocemos
+destruyra
+como sea vanidad
+no tiene firme manida
+ni morada
+Aquella prosperidad
+que tan alta fue subida
+y ensalc'ada.
+% Por tiempo todo perece
+la muerte todo lo asuela
+y desbarata
+y quando mas resplandece
+y mas arde la candela
+nos la mata
+destos dos su Magestad
+y su fuerc'a tan temida
+y tan loada
+Que fue sino claridad
+que estando mas encendida
+fue amatada.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 37r]
+{HD. Glosa famosa. \ \ Fo<ja>. 39.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Tantos duques excelentes
+tantos marqueses y condes
+y varones
+como vimos tan potentes
+di muerte do los escondes
+y traspones.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % O muerte q<ue> a@` todos mandas
+y por todos ygual corres
+y passeas
+baxo y alto todo lo andas
+no dexas choc'as ni torres
+que no veas
+tu los simples y prudentes
+pobres y ricos cohondes
+donde pones?
+Tantos duques excelentes
+tantos marqueses y condes
+y varones.
+% No perdonas rey ni roque
+de baxa ni de alta suerte
+segun eres
+contra ti no vale estoque
+ni aprouecha casa fuerte
+si tu quieres
+corres por todas las gentes
+siempre au<n>que tardas respo<n>des
+con passiones
+Como vimos tan potentes
+di muerte do los ascondes
+y traspones.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 37v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Y sus muy claras hazan~as
+que hizieron enlas guerras
+y enlas pazes
+quando tu cruel te ensan~as
+con tu fuerc'a los atierras
+y deshazes.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % En ti todo haze parada
+de nos cruel porque assi
+nos aquexa?
+a@' vandera desplegada
+todo lo lleuas tras ti
+cosa no dexas
+delos que cosas estran~as
+hizieron ganando tierras
+que es lo que hazes?
+Y sus muy claras hazan~as
+que hizieron enlas guerras
+y enlas pazes.
+% En todos cruel te cebas
+es la tu condicion tal
+que en vn punto
+ayrada todo lo lleuas
+ni dexas original
+ni trasunto
+por todas partes nos dan~as
+no dexas bosques ni sierras
+que no enlazes
+Que si tu cruel te ensan~as
+con tu fuerc'a los atierras
+y deshazes.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 38r]
+{HD. Glosa famosa. \ \ Fo<ja>. 40.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} LAs huestes innumerables
+los pendones y estandartes
+y vanderas
+los castillos impugnables
+los muros y baluares
+y barreras.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Destruyes lo todo y callas
+tu ser por todas regiones
+se derrama
+tu deshazes las batallas
+tu deshazes los pendones
+y su fama
+las hazan~as admirables
+tu deshazes por mil artes
+y carreras
+Las huestes innumerables
+los pendones y estandartes
+y vanderas.
+% Con ninguno tienes paz
+al reues al hijo el padre
+por ti hereda
+lleuas al nin~o en agraz
+y despues lleuas la madre
+y lo que queda
+con tus tiros espantables
+combates por dos mil partes
+las fronteras
+Los castillos impugnables
+los muros y baluartes
+y barreras.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 38v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} La caua honda chapada
+o@` qualquiera otro treparo
+que aprouecha?
+que si tu vienes ayrada
+todo lo passas de claro
+con tu flecha.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quitas gozo y regozijo
+quando viene tu gemido
+y nos hiere
+el padre aborrece al hijo
+y la muger al marido
+no le quiere
+si al partir desta posada
+lo que tenemos mas caro
+nos desecha
+La caua honda chapada
+o@` qualquier otro reparo
+que aprouecha.
+% Porq<ue> o@` muerte no temanos
+como y quando y qual vendras
+en ti pensemos
+de virtudes nos vistamos
+echemos vicios atras
+en luz andemos
+que si tu muerte enojada
+estas, escudo ni amparo
+no te echa
+Qu(i)[e] si tu vienes ayrada
+todo lo passas de claro
+con tu flecha.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 39r]
+{HD. Glosa famosa. \ \ Fo<ja>. 41.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} ES tu comien(c)[c']o lloroso
+tu salida siempre amarg(n)[a]
+y nunca buena
+lo de enmedio trabajoso
+a quien das vida mas larga
+le das pena}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Llorando todos nascemos
+miseros pobres cuytados
+ciegos mudos
+como nascemos boluemos
+ala tierra despojados
+y desnudos
+mundo triste y peligroso
+con tu trabajosa carga
+de mal llena
+Es tu comienc'o lloroso
+tu salida siempre amarga
+y nunca buena.
+% Todos los que en ti biuimos
+como el peso que traemos
+es pesado
+cada momento gemimos
+porque dexar no queremos
+lo que has dado
+es en ti o@` mundo engan~oso
+por quien la gloria se embarga
+y se enagena
+Lo de en medio trabajoso
+a@` quien das vida mas larga
+le das pena.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. F}
+[fol. 39v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Han se los bienes muriendo
+y con sudor son habidos
+y los das
+los males vienen corriendo
+y despues de ya venidos
+duran mas.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Honrras riquezas tener
+que valdran al varon fuerte
+al passar
+no se pudiendo expender
+entre el trabajo y la muerte
+ni ay lugar
+o@` mundo siempre tu siendo
+haberes muy doloridos
+nos daras
+Han se los bienes muriendo
+y con sudor son habidos
+y los das
+% O mundo quan a la clara
+tus celadas nos encubres
+con tus bienes
+si te boluemos la cara
+tu el engan~o nos descubres
+que nos tienes
+van se tus bienes gimiendo
+con tus plazeres fingidos
+siempre estas
+Los males vienen corriendo
+y despues ya de venidos
+duran mas}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 40r]
+{HD. Glosa famosa. \ \ Fo<ja>. 42.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} O Mundo pues que nos matas
+fuera la vida que diste
+toda vida
+mas segun aca nos tratas
+lo mejor y menos triste
+es la partida.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Mundo tu nos enagenas
+pues a@' los que hazes contentos
+y pagados
+les doblas despues las penas
+y cargas de pensamientos
+y cuydados
+con dos mil lazos los atas
+das con el que mas subiste
+de cayda
+O mundo pues que nos matas
+fuera la vida que diste
+toda vida.
+% Son como suen~o o@` vision
+las mercedes que sin cuento
+tu nos hazes
+que si a la man~ana son
+a la tarde en vn momento
+las deshazes
+son tus obras muy ingratas
+pues dellas nos desheziste
+enla salida
+Mas segun aca nos tratas
+lo mejor y menos triste
+es la partida.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. F ij}
+[fol. 40v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} De tu vida tan cubierta
+de males y de dolores
+tan poblada
+delos bienes tan desierta
+de plazeres y dulc'ores
+despoblada.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % O quan bueno es el partir
+a@` los buenos que en si sienten
+no yr culpados
+y a los malos morir
+tambien porque no acresciente<n>
+mas peccados
+o@` mundo carrera abierta
+de lloros & sin sabores
+es la entrada
+De tu vida tan cubierta
+de males y de dolores
+tan poblada.
+% O vida donde tristura
+reyna, y todo descontento
+o@` vida ciega
+do ninguna cosa dura
+do nadie viue contento
+ni sosiega
+vida de trabajos puerta
+de mil lazos y de errores
+rodeada
+Delos bienes tan desierta
+de plazeres y dulc'ores
+despoblada.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 41r]
+{CB1.
+{RUB. % Copla sobre los q<ue> alaba a@` su padre, y de aqui comie<n>-
+c'a<n> las d[i]ez coplas q<ue> han quedado hasta agora por
+glosar, que glosadas son quarenta.}
+{IN3.} DE algunos fue reprehendido
+aqueste justo alabar
+y sinrazon
+no mirando quan deuido
+es del hijo al padre el dar
+de aqueste son.}
+{CB2.
+% Es el amor paternal
+tal y tan grande, que es prueua
+a la clara
+en vn feroz animal
+que sus hijos cria y ceba
+quiere, ampara
+quien es tan desconocido
+que este amor pueda oluidar
+con passion
+De algunos fue reprehendido
+aqueste justo alabar
+y sin razon.
+% Manda Dios q<ue> a@` n<uest>ros padres
+porque muy largo viuamos
+los honrremos
+los gemidos de las madres
+porque descanso tengamos
+no oluidemos
+mira no vayas perdido
+pues no se puede pagar
+tal afficion
+No mirando quan deuido
+es del hijo al padre el dar
+de aqueste son.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. F iij}
+[fol. 41v]
+{HD. Glosa famosa.}
+{CB1.
+Y por esto es escusado
+dela culpa que le da
+quien mas no supo
+y las dexo eneste estado
+pues por ellas se vera
+lo que enel cupo.}
+{CB2.
+% Por esto Moyses mando
+que al hijo, apedreado
+luego fuesse
+a@` Absalon Dios castigo
+y Adonias que ha errado
+que muriesse
+ved a Esau, que ha llorado
+porque la bendicion ya
+no le cupo
+Y por esto es escusado
+dela culpa que le da
+quien mas no supo.
+% Quando el bue<n> IESV nacio
+quiso por exemplo dar
+abrir camino
+subdito a Ioseph viuio
+y aquella virgen sin par
+de contino
+y por esto fue forc'ado
+loar tanto como ya
+el que esto supo
+Y las dexo eneste estado
+pues por ellas se vera
+lo que enel cupo.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 42r]
+{CB1.
+{RUB. % Siguense las nueue coplas, en que don Iorge
+alaba a@` su padre.}
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} AQuel de buenos abrigo
+amado por virtuoso
+dela gente
+el maestre don Rodrigo
+manrrique a@` tan famoso
+y tan valiente.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aquel que fue claridad
+que ensalc'o con gloria estran~a
+su gran nombre
+aquel que con su bondad
+dexo gran fama en Espan~a
+y gran renombre
+aquel que agora aqui sigo
+aquel que fue valeroso
+y excelente
+Aquel de buenos abrigo
+amado por virtuoso
+dela gente.
+% El que tanta hazan~a obro
+que para siempre memoria
+se derrama
+aquel que tanto subio
+que queda inmortal su gloria
+y su fama
+es aqueste que yo digo
+que fue tal, tan victorioso
+y tan potente
+El ma[e]stre don Rodrigo
+manrrique a tan famoso
+y tan valiente.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. F iiij}
+[fol. 42v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Sus grandes hechos y claros
+no cumple que los alabe
+pues los vieron
+ni los quiero hazer caros
+pues el mundo todo sabe
+quales fueron.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aquel podemos loar
+que viuiendo mereciere
+ser loado
+porque pueda bien obrar
+viendo el que despues viniere
+tal dechado
+pues sus loores no son raros
+y mucho mas enel cabe
+que le dieron
+Sus grandes hechos y claros
+no cumple que los alabe
+pues los vieron.
+% Dios tiene el premio guarda-do
+al justo que bien obrare [%2]
+y bien hiziere
+por tanto no es coronado
+si no el que bien peleare
+y fuerte fuere
+sus grandes hechos contaros
+no podria, aunque mas trabe
+ya se oyeron
+Ni los quiero hazer caros
+pues el mundo todo sabe
+quales fueron.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 43r]
+{HD. Glosa famosa. \ \ Fo<ja>. 45.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} AMigo de sus amigos
+q($u)[u]e sen~or para criados
+y parientes
+que enemigo de enemigos
+que maestro de esforc'ados
+y valientes.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Aprende triste cuytado
+que somos, y para que
+aca viuimos
+y que orden nos es dado
+y el camino, que no se
+quales ymos
+deste son obras testigos
+de sus hechos sen~alados
+dizen gentes
+Que amigo de sus amigos
+que sen~or para criados
+y parientes.
+% Fue tal que nunca occasion
+para su amigo negar
+jamas busco
+pues con quanta compassion
+y affligidos remediar
+procuro
+por palacios y postigos
+sus hechos estan pintados
+excelentes
+Que enemigo de enemigos
+que maestro de esforc'ados
+y valientes.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 43v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Que seso para discretos
+que gracia para donosos
+que razon
+que benigno a@` los subgetos
+y a los brauos y dan~osos
+vn leon.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues o@` ho<m>bre has de ser cierto
+fabula quiza no buena
+del morir
+te acuerda, pues lleua el bueno
+galardon, y el malo pena del viuir
+o@^ quanto fueron acceptos
+deste, sus hechos famosos
+que varon?
+Que seso para discretos
+que gracia para donosos
+que razon?
+% Viue humilde manso, y llano
+ten siempre abierta la palma
+a los cuytados
+que abriendo les tu la mano
+libraras tu cuerpo y alma
+de peccados
+que bienes hizo secretos?
+que enemigos de viciosos
+que condicion
+Que benigno a los subgetos
+y a los brabos y dan~osos
+vn leon.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 44r]
+{HD. Glosa famosa. \ \ Fo<ja>. 46.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} EN ventura Octauiano
+Iulio cesar en vencer
+y batallar
+enla virtud Affricano
+Ha<n>nibal en el saber
+y trabajar.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Antes el agua del mar
+sera dulce y nacera
+mies enella
+que su loor pueda ensalc'ar
+y antes la vrsa sera
+sin su estrella
+en grandeza fue Aureliano
+Manlio enla ley defender
+y guardar
+En ventura Octaviano
+Iulio cesar en vencer
+y batallar.
+% Cornelio silla en ventura
+Bellorophonte, y Marcello
+enel osar
+Scipion nasica en cordura
+Macedonico, Metello
+en el callar
+en justo Claudio romano
+Tris( )megistro en en( )tender
+y alcanc'ar
+En la virtud Affricano
+Hannibal enel saber
+y trabajar.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 44v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Enla bondad vn Trajano
+Tito en liberalidad
+con alegria
+en sus brac'os vn Troyano
+Marco tulio en la verdad
+que prometia.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Fabio maximo en nobleza
+en hermosura Absalon
+y enel mirar
+fue Epaminunda en destreza
+en fortaleza vn Sanson
+y vn Sangar
+vn Gudofre en ser christiano
+Hippolito en castidad
+no le vencia
+Enla bonda vn Trajano
+Tito en liberalidad
+con alegria
+% Heraclio fue en guerrear
+Alexandre en victorioso
+y no vencido
+Nestor en aconsejar
+Plotino en ser estudioso
+y retraydo
+Sigismundo fue en ser llano
+Pilas enla lealtad
+que tenia
+En sus brac'os vn Troyano
+Marco Tulio enla verdad
+que prometia.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 45r]
+{HD. Glosa famosa. \ \ Fo<ja>. 47.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} ANtonio pio en clemencia
+Marco fabio en ygualdad
+del semblante
+Adriano en eloquencia
+Theodosio en humildad
+y buen talante.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % En animo vn Machabeo
+Bernal Carpio en resistir
+moros y moras
+en gracias Tubal y Orpheo
+vn Elfreldo en repartir
+tiempo y horas
+vn Platon fue en su prudencia
+fue Regulo en equidad
+Mucio en constante
+Antonio Pio en clemencia
+Marco fabio en ygualdad
+del semblante.
+% Fabricio en amar pobreza
+fue Numa enla charidad
+y religion
+fue Paris en gentileza
+en templanc'a y grauedad
+fue vn Caton
+fue Bellisario en bondad
+Carlos en magnificencia
+tan triumphante
+Adriano en eloquencia
+Theodosio en humildad
+y buen talante.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 45v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Aurelio Alexandre fue
+en disciplina y rigor
+dela guerra
+vn Constantino enla fee
+y Camillo enel amor
+de su tierra.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Vn Cid en gloria ganar
+Lucio dentato en morir
+como fuerte
+Gonc'alez conde en pugnar
+por su ley, Codro en no huyr
+dela muerte
+por aqui claro se vee
+la gran fama y gran loor
+que enel se encierra
+Aurelio Alexandre fue
+en disciplina y rigor
+dela guerra.
+% Alcides enel suffrir
+trabajos, y en defender
+los agrauiados
+Hector en saber herir
+Cesar en clemente ser
+a@' los culpados
+Marco Curcio ser se lee
+del comun tan defenssor
+que el lago cierra
+Vn Constantino enla fee
+y Camilo enel amor
+de su tierra.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 46r]
+{HD. Glosa famosa. \ \ Fo<ja>. 4[8].}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} NO dexo grandes thesoros
+ni alcanc'o grandes riquezas
+ni baxillas
+mas hizo guerra a@` los moros
+ganando sus fortalezas
+y sus villas.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quien riquezas quiere haber
+tenga que el tal adquerir
+es en vano
+pues ha en lazos de caer
+que quando quiera salir
+no este en su mano
+y viendo que han de ser lloros
+hizo haziendo larguezas
+marauillas
+No dexo grandes thesoros
+ni alcan(c)[c']o grandes riquezas
+ni baxillas.
+% Con tiempo todos obremos
+por que el tiempo del partir
+no se sienta
+pues dia ni hora sabemos
+quando Dios ha de venir
+a tomar cuenta
+no se festejo con toros
+cac'as, juegos, ni altiuezas
+ni en hablillas
+Mas hizo guerra a@` los moros
+ganando sus fortalezas
+y sus villas.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 46v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} En las lides que vencio
+muchos moros y cauallos
+se perdieron
+y eneste officio gano
+las rentas y los vassallos
+que le dieron.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Co<n>uiene q<ue> a Dios busquemos
+pues el nos busca y nos ama
+o alma llora
+pues mas que nos le queremos
+el nos quiere pues nos llama
+cada hora
+o@` como este a Dios busco
+no se sus hechos contallos
+como fueron
+Enlas lides que vencio
+muchos moros y cauallos
+se perdieron.
+% Todo lo que se sembrare
+ha de hallar y de coger
+quien fuere digno
+y el que mejor peleare
+enel cielo ha de comer
+manjar diuino
+este a que moros rindio?
+nos es menester publicallos
+pues los vieron
+Y eneste officio gano
+las rentas y los vassallos
+que le dieron.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 47r]
+{HD. Glosa famosa. \ \ Fo<ja>. 49.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes por su honrra y estado
+en otros tiempos passados
+como se vuo
+quedando desamparado
+con hermanos y criados
+se sostuuo.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Por Adan y Eua nacemos
+con el yugo que heredamos
+por su yerro
+y assi en pena viuiremos
+hasta que todos cumplamos
+el destierro
+pues que angustias cercado
+fue por su ley? que cuydados
+aca tuuo?
+Pues por su honrra y estado
+en otros tiempos passados
+como se vuo?
+% Quien en Dios quiere viuir
+viuiendo aca ha de passar
+tribulacion
+y si supiere suffrir
+sabra que Dios le ha de dar
+galardon
+ved si apenas le han faltado
+pues solo con allegados
+siempre anduuo
+Quedando desamparado
+con hermanos y criados
+se sostuuo.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. G}
+[fol. 47v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Despues de hechos famosos
+que hizo en aquesta guerra
+que hazia
+hizo tratos tan honrrosos
+que le dieron aun mas tierra
+que tenia.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Nunca Dios desamparo
+al justo que en affliction
+trae su vida
+y aunque dilatasse yo
+que a@` el, y a los que del son
+nunca oluida
+assi hizo hechos gloriosos
+este que en cosa no yerra
+Dios le guia
+Despues de hechos famosos
+que hizo en aquesta guerra
+que hazia.
+% Pensemos que el mal hazer
+aunque ninguno no vea
+lo que hazemos
+nunca se puede asconder
+a@` Dios que siempre dessea
+nos saluemos
+con hechos tan victoriosos
+y virtud que enel se encierra
+y le siguia
+Hizo tratos tan honrrosos
+que le dieron aun mas tierra
+que tenia.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 48r]
+{HD. Glosa famosa. \ \ Fo<ja>. 50.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} EStas son viejas historias
+que con sus manos pinto
+en juuentud
+con otras muchas victorias
+que agora las renouo
+en senetud.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Quanto la abeja el tomillo
+y la cigarra querra
+el rocio
+y el montes el montezillo
+y en quanto el pez amara
+agua y rio
+sus alabanc'as notorias
+seran y segu($n)[n] mostro
+su virtud
+Estas son viejas historias
+que con sus manos pinto
+en juuentud.
+% El yugo de Dios sabroso
+comenc'o siempre a lleuar
+de su nin~ez
+fue de nin~o temeroso
+porque no pudiesse errar
+enla vejez
+sus vencimientos y glorias
+que en juuentud alcanc'o
+con salud
+Con otras muchas victorias
+agora las renouo
+en senetud.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. G ij}
+[fol. 48v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Por su gra<n> habilidad
+por meritos y anciania
+bien gastada
+alcanc'o la dignidad
+por su grande valentia
+del espada}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues buela el tie<m>po en q<ue> esta-mos
+y el fin n<uest>ro q<ue> ha de ser [%2]
+no es dudoso
+nuestra virtud estendamos
+aunque sea al parescer
+trabajoso
+sal del vicio, huye maldad
+que a este porque esto hazia
+gracia es dada
+Por su gra<n> habilidad
+por meritos y anciania
+bien gastada
+% Por tener animo tal
+en todo Dios le ayudo
+y dio el pago
+por ser en todo leal
+el maestrazgo alcanc'o
+de Sanctiago
+por su magnanimidad
+por su muy gran nombradia
+afamada
+Alcanc'o la dignidad
+por su grande valentia
+del espada.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 49r]
+{HD. Glosa famosa. \ \ Fo<ja>. 51.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} Y Sus villas y sus tierras
+occupadas de tiranos
+las hallo
+y por cercos y por guerras
+y por obras de sus manos
+las cobro.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} Para que es el dessear
+cosa que si a caso viene
+es peor
+dexemos a Dios obrar
+que sabe lo que conuiene
+y es mejor
+por mas bie<n>, mi Dios destierras
+y ac'otas a tus christianos
+aqui se vio
+Las sus villas y sus tierras
+occupadas de tiranos
+las hallo.
+% No creas te ha de faltar
+el que al lilio, y gorrion
+vestido ha dado
+que el que nos ha de saluar
+de todos quantos oy son
+tiene cuydado
+buelue a Dios si en algo yerras
+que este sus tierras y llanos
+assi gano
+Y por cercos y por guerras
+y por obras de sus manos
+las cobro.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. G iij}
+[fol. 49v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Pues nuestro rey natural
+si delas obras que obro
+fue seruido
+digalo el de Portugal
+en Castilla quien siguio
+su partido.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Ventura fuerc'a hermosura
+honrras, imperios, riqueza,
+y salud
+que valen si no hay cordura
+si maldad reyna o flaqueza
+y no hay virtud
+este fue tan especial
+que fue del, quien le llamo
+socorrido
+Pues nuesto rey natural
+si delas obras que obro
+fue seruido.
+% Por el poder q<ue> Dios dado
+ha los reyes la obediencia
+se les dio
+a su rey con que cuydado
+con que saber y prudencia
+le acato
+a la corona real
+otro que tambien siruio
+no se ha visto
+Digalo el de Portugal
+en Castilla quien siguio
+su partido.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 50r]
+{CB1.
+{MIN. {LAT. RESPICE FINEM}}
+{LAT. O mors quam amara est memoria tua homini
+pacem habenti in substantijs fuis.}}
+{SG. G iiij}
+[fol. 50v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} DEspues que puso la vida
+tantas vezes por su ley
+al tablero
+despues de tambien seruida
+la corona de su rey
+verdadero.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % En quanto el verano rama
+hoja fruta y rosas diere
+olorosas
+durara su nombre y fama
+no oluidara edad que fuere
+ya sus cosas
+o qua(m)[n] bien fue defendida
+siempre la christiana grey
+deste guerrero
+Despues que puso la vida
+tantas vezes por su ley
+al tablero
+% Que podemos responder
+quando Dios aca viniere
+a nos juzgar
+que podremos alli hazer
+pues el que justo estuuiere
+ha de temblar
+asi teme el la partida
+como venir teme el buey
+al matadero
+Depues de tambien seruida
+la corona de su rey
+verdadero.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 51r]
+{HD. Glosa famosa. \ \ Fo<ja>. 5(^6)[^3].}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Despues de tanta hazan~a
+en que no puede bastar
+cuenta cierta
+enla su villa de Ocan~a
+vino la muerte ha llamar
+ha su puerta.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Despues de tanta verdad
+que ha por mill vias y modos
+defendido
+despues de tanta equidad
+que en guardar justicia a todos
+ha tenido
+despues que el hizo en Espan~a
+lo que mi lengua a loar
+no es despierta
+Despues de tanta hazan~a
+en que no puede bastar
+cuenta cierta.
+% Despues de haber ya triu<m>pha-do
+despues en fin ha de ser [%2]
+todo en calma
+despues de haber acabado
+con buenas obras hazer
+por su alma
+quando sus ojos mas ban~a
+teniendo [c]ontino ha dar
+la puerta abierta
+En la su villa de Ocan~a
+vino la muerte ha llamar
+a su puerta}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 51v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} DIziendo buen cauallero
+dexad el mundo engan~oso
+con halago
+vuestro corac'on de azero
+muestre su esfuerc'o famoso
+eneste trago.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Siendo su hora llegada
+y ya el termino cumplido
+del viuir
+despues de no faltar nada
+y estar el apercebido
+de partir
+llegan con su rostro fiero
+la muerte y muy espantoso
+a dar su pago
+Diziendo buen cauallero
+dexad el mundo engan~oso
+con halago.
+% Pensad la contradicion
+que por vos Dios padescio
+enla cruz
+y assi no tendreys passion
+que pues el hos redimio
+hos dara luz
+ea pues fuerte guerrero
+eneste fin tan rabioso
+que yo hago
+Vuestro corac'on de azero
+muestre su esfuerc'o famoso
+eneste trago.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 52r]
+{HD. Glosa famosa. \ \ Fo<ja>. 54.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Pues de vida y de salud
+hezistes tan poca cuenta
+por la fama
+esfuerce vuestra virtud
+para suffrir esta affrenta
+que vos llama.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % No tengays de aquel temor
+que a todos hazer pretende
+que alli cayan
+que a los buenos da fauor
+Dios, en tal tiempo y defiende
+si desmayan
+esfuerce hos la senetud
+de ver me pena no sienta
+vrdir mi trama
+Pues de vida, y de salud
+hezistes tan poca cuenta
+por la fama.
+% Ved que el justo muere vfano
+porque en paz viuo al sen~or
+va contento
+tiene le Dios de su mano
+no siente en morir dolor
+ni tormento
+no hos espante mi[ ]ataud
+que a quien el morir contenta
+a Dios ama
+Esfuerce vuestra virtud
+para suffrir esta affrenta
+que vos llama.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 52v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} NO se hos haga tan amarga
+la batalla temerosa
+que esperays
+pues otra vida mas larga
+de fama tan gloriosa
+aca dexays.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % no se hos haga muy duro
+de passar aqueste puerto
+tan vsado
+pues para vos es seguro
+y es el camino mas cierto
+y mas trillado
+no se vos faga esta carga
+de lleuar tan trabajosa
+ni temays
+No se hos haga tan amarga
+la batalla temerosa
+que esperays.
+% Pues que vays a descansar
+del trabajo que en la vida
+habeys habido
+no conuiene desmayar
+por que el que agora se oluida
+va en oluido
+esforc'ad, nada hos embarga
+no temays ninguna cosa
+por do vays
+Pues otra vida mas larga
+de fama tan gloriosa
+aca dexays.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 53r]
+{HD. Glosa famosa. \ \ Fo<ja>. 55.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Aunque esta vida de honor
+tampoco no es eternal
+verdadera
+mas con todo es muy mejor
+que la otra corporal
+perecedera.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Cosa con vos mas lleuar
+en esta triste partida
+es escusado
+si no solo el bien obrar
+del alma de Dios querida
+esto es dechado
+de partir no ayays pauor
+pues vuestra fama fue tal
+por do quiera
+Aunque esta vida de honor
+tampoco no es eternal
+verdadera.
+% Esta vida transitoria
+es como el humo, que el viento
+le derrama
+nuestro ser nuestra memoria
+con la muerte va al momento
+que nos llama:
+y aunque se va como flor
+y por ser vana y mortal
+morir espera
+Mas con todo es muy mejor
+que la otra corporal
+perecedera.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 53v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} EL viuir que es perdurable
+no se gana con estados
+mundanales
+ni con vida delectable
+donde moran los peccados
+infernales.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Es tan angosto el camino
+dela gloria del viuir
+y escabroso
+que el que fuere fuerte es digno
+de poder por el subir
+a haber reposo
+aquesta gloria ineffable
+no se alcanc'a con cuydados
+temporales
+El viuir que es perdurable
+no se gana con estados
+mundanales.
+% Haz oy bien, no aguardes ya
+a man~ana pues poder
+te es hoy dado
+si man~ana te vendra
+no sabes, y puede ser
+quedes burlado
+que se saluen no se hable
+los que viuen engolfados
+en mil males
+Ni con vida delectable
+donde moran los peccados
+infernales.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 54r]
+{HD. Glosa famosa. \ \ Fo<ja>. 56.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Mas los buenos religiosos
+ganan lo con oraciones
+y con lloros
+los caualleros famosos
+con trabajos y afflictiones
+contra moros.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Gana se con sed y hambre
+este celestial assiento
+aca suffriendo
+derramando nuestra sangre
+por Christo, injuria y tormento
+padesciendo
+ganan la los valerosos
+repartiendo los montones
+de thesoros
+Mas los buenos religiosos
+ganan la con oraciones
+y con lloros.
+% Estos con tribulaciones
+con pena, ac'ote, y pobreza
+la ganaron
+con paciencia, y con passiones
+con angustia y aspereza
+que passaron
+ganan la estos dolorosos
+con ayuno y deuociones
+en sus choros
+Los caualleros famosos
+con trabajos y afflictiones
+contra moros.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 54v]
+{HD. Glosa famosa.}
+{CB1.
+{RUB. Toca las tres virtudes theologales}
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} PVes que vos claro varon
+tanta sangre derramastes
+de paganos
+esperad el galardon
+que eneste mundo ganastes
+por las manos.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues habeys por fe vencido
+tanto reyno, aquel del cielo
+lleuareys
+en Dios pensad, y cumplido
+lo que pedis con el buen zelo
+alli vereys
+alegrad el corac'on
+pues defendiendo vengastes
+los christianos
+Pues que vos claro varon
+tanta sangre derramastes
+de paganos.
+% Pues esperanc'a tubistes
+tal y tan limpia conciencia
+espera@`
+que segun lo que aca hezistes
+Dios con vos de gran cleme<n>cia
+vsara@`
+pues por tal como vn leon
+a los paganos mostrastes
+a ser llanos
+Esperad el galardon
+que eneste mundo ganastes
+por las manos.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 55r]
+{HD. Glosa famosa. \ \ Fo<ja>. 57.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Y con esta confi(o)[a]nc'a
+y con la fe tan entera
+que teneys
+partid con esta esperanc'a
+que la otra vida tercera
+ganareys.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues os ha alumbrado Dios
+con charidad muy entera
+ques mayor
+pues ha obrado tanto en vos
+esta hos dara que se se esmera
+lo mejor
+yendo con tanta pujanc'a
+esta gloria que os espera
+alcanc'areys
+Y con esta confianc'a
+y con la fe tan entera
+que teneys.
+{RUB. Toca las tres partes de la p<e>n<itenc>ia.}
+% Contricion y confession
+con que de aca vos partis
+y la bondad
+de vuestra satisfacion
+hos daran por donde ys
+claridad
+y pues con esto se alcanc'a
+esta gloria verdadera
+donde yreys
+Partid con esta esperanc'a
+que la otra vida tercera
+ganareys.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. H}
+[fol. 55v]
+{CB1.
+{RUB. El Maestre ala muerte.}
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} No gastemos tiempo ya
+en esta vida mezquina
+por tal modo
+que mi voluntad esta
+conforme con la diuina
+para todo.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} [%] Ya yo enestas ansias mias
+conozco mi fin y siento
+que han declinado
+como sombra estos mis dias
+y yo como heno al viento
+estoy secado
+pues sen~al hecho se me ha
+y ya mi vida declina
+y da de codo
+No gastemos tiempo ya
+enesta vida mezquina
+por tal modo.
+[%] Vamos ya pues es forc'ado
+yr a dar cuenta el que muere
+ante quien
+ninguno es justificado
+q<ue> holgar de lo q<ue> Dios quiere
+es gran bien
+dexemos ya lo de aca
+pues (p)[q]ue vemos que es[ ]pecina
+y todo es lodo
+Que mi uoluntad esta
+conforme con la diuina
+para todo.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 56r]
+{HD. Glosa famosa. \ \ Fo<ja>. 58.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Que consiento en mi morir
+con voluntad plazentera
+clara y pura
+que querer hombre viuir
+quando dios quiere que muera
+es locura.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} [%] De partir tengo plazer
+pues de aquel alto sen~or
+soy llamado
+porque espero que he de ver
+en mi carne al criador
+que me ha criado:
+(d)[p]ues mi alma recebir
+su proprio cuerpo alli espera
+y su figura
+Que consiento en mi morir
+con voluntad plazentera
+clara y pura.
+[%] Destas tinieblas do estoy
+salir contino en extremo
+he desseado
+pues se que a ver aquel voy
+ante quien hallar me temo
+muy culpado
+vamos pues he de partir
+y seguir otra carrera
+no es cordura
+Que querer hombre viuir
+quando Dios quiere que muera
+es locura.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. H ij}
+[fol. 56v]
+{HD. Glosa famosa.}
+{CB1.
+{RUB. Oracion del maestre.}
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} TV que por nuestra maldad
+tomaste forma ciuil
+y vaxo nombre
+tu que a tu diuinidad
+juntaste cosa tan vil
+como es el hombre.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Pues cerca de vos mi Dios
+me poned, y sea qualquiera
+mi contrario
+libradme sen~or o vos
+de aquel dragon bestia fiera
+mi aduersario
+guarda me por tu piadad
+por que el demonio subtil
+no me assombre
+Tu que por nuestra maldad
+tomaste forma ciuil
+y baxo nombre.
+% Oluida si en mocedad
+con no saber te offendi
+vano y triste
+o sen~or por tu bondad
+me perdona pues por mi
+sangre vertiste
+tu que por dar libertad
+vestiste vn cuerpo seruil
+y su renombre
+Tu que a tu diuinidad
+juntaste cosa tan vil
+como es el hombre.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 57r]
+{HD. Glosa famosa. \ \ Fo<ja>. 59.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Tu que tan grandes tormentos
+suffriste si resistencia
+en tu persona
+no por mis merescimientos
+mas por tu sancta clemencia
+me perdona.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Como el cierbo q<ue> esta herido
+busca la fuente que sea
+de aguas llena
+assi mi alma y sentido
+yr a ti mi Dios dessea
+ya sin pena
+mis ojos y pensamientos
+libra de ver la presencia
+que assi encona
+Tu que tan grandes tormentos
+suffriste sin resistencia
+en tu persona.
+% Se agora mi ayudador
+se(n)[n~]or no me desampares
+tu Dios mio
+ni desprecies da fabor
+quando este cuerpo lleuares
+de aca frio
+poniendo me en los assientos
+del cielo por tu excelencia
+tu me abona
+No por mis merescimientos
+mas por tu sancta clemencia
+me perdona.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. H iij}
+[fol. 57v]
+{HD. Glosa famosa.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} {IN3.} ASsi con tal entender
+todos sentidos humanos
+conseruados
+cercado de su muger
+y de sus hijos y hermanos
+y criados.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Agua echando a manojos
+ruega como hora en tan fuerte
+rogar suelen
+a Dios que alumbre sus ojos
+que no duerman enla muerte
+mas que velen
+comienc'a se de doler
+llorando alc'adas las manos
+sus peccados
+Assi con tal entender
+todos sentidos humanos
+conseruados.
+% Recela se enla partida
+por ver si falta enla cuenta
+que ha a Dios dado
+y temiendo la salida
+por no se ver en affrenta
+esta en cuydado
+comienc'a de estremecer
+ya los desmayos cercanos
+son llegados
+Cercado de su muger
+y de sus hijos y hermanos
+y criados.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+[fol. 58r]
+{HD. Glosa famosa. \ \ Fo<ja>. 60.}
+{CB1.
+{RMK: HSMS-0366-0002: Coplas por la muerte de su padre.} Dio el alma a quien se la dio
+el qual la ponga enel cielo
+y en su gloria
+aunque enla vida murio
+nos dexo harto consuelo
+su memoria.}
+{CB2.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} % Diziendo quieras sacar
+desta carcel mi alma y ver
+do estoy metido
+comienc'a de desmayar
+y su rostro a se boluer
+descolorido
+llamando aquel que gano
+con morir aca enel suelo
+tal victoria
+Dio el alma a quien se la dio
+el qual la ponga enel cielo
+y en su gloria.
+% Murio habie<n>do bien obrado
+haz lo assi qualquiera que eres
+caminante
+mira no vayas errado
+vaya por do quier que fueres
+el bien delante
+obremos como este obro
+enesta vida de duelo
+transitoria
+Aunque enla vida murio
+nos dexo harto consuelo
+su memoria.}
+{CB2.
+{RMK: list of authorities in Latin.}}
+{SG. [H] iiij}
+[fol. 58v]
+{CB1.
+{ILL. {RUB. EL GLOSA-
+DOR EN ALABAN-
+c'a de don Iorge ma<n>rrique
+y de su obra, engra<n>-
+desciendo mu-
+cho estos
+versos}
+% Recuerde el alma dormida
+abibe el seso y despierte
+contemplando
+como se passa la vida
+como se viene la muerte
+tan callando.}}
+[fol. 59r]
+{CB1.
+{IN3.} PTerophoros, cierto no es tan obscura
+ni es tan profundo aquel mar de Icaro
+ni menos blanco: el marmor de Paro
+ni sirtes Charybdes de tanta brabura
+ni las scillas ponen en tanta apretura
+ni es tan insigne aquel Caphareo
+ni son tan mirados Genesto y Ceneo
+ni la ola Cymeria es de tanta hondura.
+% Tu obra Mausolo no es diuulgada
+ni los Piramides, que Memphis predica
+ni el templo de Triuia, q($u)[u]e Epheso publica
+labor Babylonica, no es tan loada
+como es o@` don Iorge, la tuya ensalc'ada
+obscura, profunda, tan blanca do quiera
+que de tan gran luz, y assi reuerbera
+que ciega otra luz, si a ella es llegada.
+% La fama tu obra, muy mas ha estendido
+porque estan mirada, y assi resplandece
+que junta a lo dicho: ansi lo escurece
+que tienen de oy mas el nombre perdido
+Assi tu gran fama y nombre ha crecido
+y assi tu tan alto por las cumbres subes
+que tu Atlas subes tan alto alas nubes
+ni nadie como este tan alto ha subido.
+% Do estaba la gente passada polida
+y do la presente que viue aun agora
+que no se acordassen dezir alguna hora
+Recuerde, Recuerde el alma dormida
+no fue tan dulce el Harpa tan~ida
+de Orfeo en infierno, con su triste llanto
+ni Tubal alc'o tan alto su canto
+como don Iorge, en su obra subida.}
+[fol. 59v]
+{CB1.
+% Mas dize abibe el seso y despierte
+que Tulio o Pericles sabria ensalc'ar
+que lengua podria, jamas bien loar
+sentencia tan alta que al hombre conuierte
+don Iorge bien creo fue buena tu suerte
+por esto ya el mundo tu obra publique
+que aunque moriste tu noble Manrrique
+tu fama no muere, pues viue tu muerte.
+% No te he de llorar pues has nauegado
+y has tomado tierra y seguro puerto
+aquel lloro yo que viuo esta muerto
+y en vicios deleytes se queda anegado
+aquel ha de ser contino llorado
+que a vicios no hizo jamas resistencia
+ni hizo viuiendo aca penitencia
+ni quiso jamas salir del peccado,
+% Aca en vuestro centro, llorad y plan~id
+la vida passada, si no fue muy buena
+passe aca el cuerpo trabajo y tal pena
+que no passe alla trabajo ni lid
+y porque sepades sen~ores oyd
+quel glosador: que enesta ha entendido
+es de Portillo y alli fue nascido
+quatro leguas cortas de Valladolid.
+% Soy baxo y no puedo por alto volar
+ni tocar las cumbres del monte Parnaso
+soy pobre de ingenio, y no tengo vaso
+capaz que reciba, ni pueda algo dar
+El texto es tan alto y tan singular
+que subir tan alto ninguno ay que pueda
+que aunque mas glosen, mas mucho les q<ue>da
+por mas que han glosado, mas hay q<ue> glosar.}
+[fol. 60r]
+{CB1.
+{RMK: HSMS-0366-0003: Loores de nuestra señora.} {MIN.}
+{RUB. A LA SACRATISSI-
+MA REINA DELOS ANGE-
+les la Virgen n($u)[u]estra sen~ora madre de Dios
+sen~ora y abogada nuestra.
+El actor dela passada pidiendo le fauor
+y socorro, le offrece esta obra re-
+ligiosa y christiana, y de de-
+uocion y consuelo
+para el que
+su de-
+uoto fuere.}}
+[fol. 60v]
+{HD. Loores de nuestra Sen~ora.}
+{CB2.
+% O tu reyna esclarecida
+o luna resplandeciente
+o nuestra guia
+o remedio de la vida
+o estrella clara de oriente
+o luz del dia
+o muestra de perficion
+o nuestro fauor y abrigo
+o nuesto amparo
+o alta virga de Aaron
+freno de nuestro enemigo
+o espejo claro.
+% Vida dela vida nuestra
+reparo de nuestra herida
+donde entero
+ju<n>to Dios ho<m>bre se muestra
+por reparar la cayda
+del primero
+O arca del testamento
+o relox del mundo y hora
+a ti llamo
+ve sen~ora mi tormento
+oye, te suplico agora
+mi reclamo.
+% Cedro en Libano ensalc'ado
+o cipres en monte sion
+alto y fuerte
+o balsamo que has quitado
+la manzilla y perdicion
+de nuestra muerte}
+{CB2.
+torre de Dauid guarnida
+de muy fuertes valuartes
+y muralla
+de peccadores guarida
+do el demonio con sus artes
+teme y calla.
+% Hija del eterno padre
+madre del hijo soys vos
+o que cosa
+que siendo virgen y madre
+del que sale delos dos
+soys esposa
+de la trinidad tan alta
+hos llamays sen~ora esclaua
+y hos dezis
+qua<n>to humildad mas se esmal-ta
+en vos, y mas baxo caua [%2]
+mas subis.
+% Hezistes tan alto el buelo
+con vuestra humildad sen~ora
+que traydo
+ala tierra habeys del cielo
+al que el cielo y tierra adora
+y prendido
+muy alto subio el nebli,
+el cac'o, y fue cac'ado
+tanto subistes
+que al punto de vuestro si
+Dios en vos quedo encerrado
+vos lo creystes.}
+[fol. 61r]
+{HD. Loores de nuestra Sen~ora. \ \ Fo<ja>. 63.}
+{CB2.
+% El hijo es sol verdadero
+vos luna por do el que va
+nunca yerra
+vuestro hijo es el luzero
+vos la estrella que de alla
+la noche atierra
+por vos Dios claro se vee
+que leuanta los caydos
+que vos aman
+o vos arca de Noe
+oyd mis tristes gemidos
+que vos llaman
+% O vellon de Gedeon
+que el rocio le ha tocado
+y el lugar
+do esta puesto aquel vellon
+queda seco y no mojado
+es de mirar
+que otra noche alli ha caydo
+y cosa no toca enel
+mas debaxo
+de aqui viene a ser vencido
+el Madianita cruel
+que el mal traxo.
+{RUB. Moralidad dela copla
+precedente.}
+[%] De carne o vellon saliste
+y della jamas passion
+no has sentido
+de carne o virgen naciste
+nunca jamas tentacion
+en ti ha sido}
+{CB2.
+Eres vellon assentado
+en tierra que al mundo seco
+diste nombre
+Dios tal rocio te ha dado
+que en ti hizo aqueste trueco
+Dios y hombre
+[%] Tierra seca te has nombrado
+do aquel vellon puesto es
+el por que
+es por que has virge<n> quedado
+enel parto, ante, y despues
+y con gran fe
+y despues fueste mojada
+del rocio celestial
+verbo diuino
+y como fueste tocada
+aquel demonio infernal
+perdio el tino.
+[%] Hizo en vos Dios tal dechado
+de gracias assi os pinto
+dentro y fuera
+que de vos tuuo cuydado
+y en hazeros tal mostro
+bien quien era
+por vos el bien se nos dio
+y Dios busco la manera
+y fue por vos
+el la manzilla quito
+mas vos fuestes medianera
+de hombre y Dios.}
+[fol. 61v]
+{HD. Loores de nuestra Sen~ora.}
+{CB2.
+% O sancta antes que nacida
+y ante que los montes fuessen
+tierra y fuentes
+fuestes de Dios escogida
+para que no pereciessen
+tantas gentes
+dan guerra tus enemigos tres
+jamas ni($n)[n]guno ay que cesse
+en dar combate
+tiene con nos interes
+tal que si por vos no fuesse
+darian mate.
+% O throno de Salomon
+de marfil y de oro es
+su aposento
+de vna parte y de otra son
+dos manos que han suste<n>tado
+aqueste assiento
+luego estauan dos leones
+con cada mano subian
+a este throno
+por seys ricos escalones
+doze leones tenian
+por vn tono.
+{RUB. Moralidad.}
+% En ti virgen throno q<ue> eres
+Dios hombre personalmente
+se ha sentado
+hizo te entre las mugeres
+que fuesses mas excelente
+que ha formado}
+{CB2.
+de marfil es tu color
+por ser de mas castidad
+y blancura
+toda de oro porque flor
+eres de mas sanctidad
+criatura.
+% Eres de mas resplandor
+por esto toda de oro
+eres pintada
+hizo en ti por tu valor
+en este[ ]valle de lloro
+Dios entrada
+fue tu assiente humildad
+tu throno rico han guardado
+Ioseph, Iuan
+dos manos que con bondad
+aca nunda te han dexado
+y alla estan.
+% Los doze Apostoles fuero<n>
+doze leones que oystes
+que obedeciendo
+contino aca te siruieron
+seys escalones que vistes
+ser entiendo
+las seys obras de piedad
+que tan alto la han subido
+a donde esta
+que de mayor charidad
+otra tal nunca ha nacido
+ni sera.}
+[fol. 62r]
+{HD. Loores de nuestra Sen~ora. \ \ Fo<ja>. 64.}
+{CB2.
+Era en la parte postrera
+lo alto rodondo y tal
+qual no se vio
+porque a vos virgen primera
+corona mas principal
+Dios os dio
+tan redonda y rutilante
+que no la ay, y bien se sabe
+mas subida
+que Dios no tiene delante
+quien tanto alcance y acabe
+ni mas pida.
+% Ni quie<n> mas a Dios prese<n>te
+nuestro trabajo y clamores
+que nos ciegan
+ni tampoco ay quie<n> mas sie<n>te
+la pena de peccadores
+que le ruegan
+por vos o virgen Dios vino@`
+a darnos salud a todos
+el fue el re@'medio
+mas por vos fue aquel camino
+vos buscastes vias modos
+fuestes medio.
+% Vn solo DIos trino y vno
+a vos hizo sola vna
+mas perfecta
+despues d<e> dios no ay ningu<n>o
+ni es a Dios persona alguna
+mas accepta.}
+{CB2.
+o quanto la tierra os deue
+pues que por vos Dios boluio
+la noche en dia
+por vos mas blanca que nieue
+el peccador alcanc'o
+paz y alegria.
+[%] Por vos virgen prophecias
+muy alto tono leuantan
+y subido
+Salomon y Esaias
+en vos o virgen Dios cantan
+que hizo nido
+vos emendastes el yerro
+de aquella madre primera
+tan cruel
+que nos dexo en tal destierro
+y enla massa que hiziera
+mezclo hiel.
+[%] Tu Eua madrastra fuyste
+mas vos fuestes verdadera
+madre nuestra
+que ante Dios por nos assiste
+y el camino y la carrera
+aca nos muestra
+si a Dios por Eua perdimos
+por vos a Dios ya ganamos
+y tenemos
+todos por Eua caymos
+mas por vos nos leuantamos
+si caemos.}
+[fol. 62v]
+{HD. Loores de nuestra Sen~ora.}
+{CB2.
+% Eua nos vistio de luto
+de Dios tambien nos priuo
+& hizo mortales
+mas de vos salio tal fructo
+que puso paz y quito
+tantos males
+por Eua la maldicion
+cayo enel genero humano
+y el castigo
+mas por vos la bendicion
+fue, y a todos dio la mano
+Dios de amigo.
+% O estrella y norte del mar
+puerto do los que nauegan
+cobran remo
+do los que van a parar
+de sus trabajos sossiegan
+por estremo
+pues que naciste sin par
+dame luz, dame sossiego
+que ando turbado
+ten por bien de me ayudar
+pues con fortuna nauego
+y no hallo vado.
+% O tu paloma sin hiel
+que nos abres el camino
+y le hazes llano
+o secretaria de aquel
+sagrado verbo diuino
+y hombre humano}
+{CB2.
+o tu Nardo tan preciado
+o Cinamomo oloroso
+o rosa y flor
+Platano al agua arraygado
+oye que estoy doloroso
+mi clamor.
+% O estandarte y pendon
+alcac'ar de nuestra fe
+lux dela vida
+o tierra de promission
+o tu vara de Iesse
+tan florida
+oye mi triste gemido
+que a ti llama a ti dessea
+y a ti quiere
+pues que no sera perdido
+hombre que tu gesto vea
+quando muere.
+% Fueste de Dios tan dotada
+de gracias que no ay ni presta
+enellas cuento
+mas fueste tu tan plantada
+de humildad que hizo por esta
+en ti aposento
+pues diste exemplo y p<ro>curas
+el perdon que siempre ganas
+al christiano
+pon en mi llagas tan duras
+tu mano que a quien tu sanas
+queda sano.}
+[fol. 63r]
+{HD. Loores de nuestra Sen~ora. \ \ Fo<ja>. 65.}
+{CB2.
+% Alegria de Israel
+que assi de Dios ser morada
+mereciste
+o gran puerta de Ezechiel
+que de contino cerrada
+siempre fuyste
+eres la c'arc'a que ardia
+verde, a quien nunca toco
+jamas fuego
+eres por quien Dios embia
+el remedio y alumbro
+al mundo ciego.
+[%] A ti alaban noches dias
+hombres, sierpes, animales,
+y auezillas
+a ti siruen Hierarchias
+con los choros celestiales
+de rodillas
+en ti sola confiamos
+desterrados hijos de Eua
+a ti pedimos
+consuelo los que lloramos
+enesta tan triste cueua
+do viuimos.
+[%] Sola en vos Dios repartio
+todas las gracias cumplidas
+de alma y vida
+a los otros el las dio
+por partes, y diuididas
+por medida}
+{CB2.
+ved quan grande soys sen~ora
+no puede a Dios co<m>prehe<n>der
+cielo y tierra
+mas tanta gracia en vos mora
+que pudo en vos Dios caber
+y en vos se encierra
+[%] O vos virgen concebida
+sin macula y sin peccado
+original
+de Dios guardada y tenida
+y a quien sola ha preseruado
+especial
+dezir virgen del consuelo
+vuestro loor y perficion
+es pensar
+estrellas contar del cielo
+y las arenas que son
+enla mar.
+[%] Ved quie<n> soys pues satisfizo
+Dios si en hos pintar
+con tal labor
+por lo mucho que en[ ]vos hizo
+ninguno basta ha contar
+vuestro loor
+y que el solo ha vos loasse
+el infinito en potencia
+ha ordenado
+perque nadie maculasse
+la lumbre dela excelencia
+que hos ha dado.}
+{SG. I}
+[fol. 63v]
+{HD. Loores de nuestra Sen~ora.}
+{CB2.
+[%] Principio no hay ni cabo
+do yo pueda comenc'ar
+dezir de vos
+por esso yo no hos alabo
+que nadie hos puede alabar
+si no Dios
+no nacio quien puede hablar
+vuestros loores ni vasto
+lengua alguna
+solo vno hos puede alabar
+que es el que solo hos formo
+sola vna
+[%] O verdadera lumbrera
+por do los que caminamos
+no caemos
+da nos luz, muestra carrera
+por donde jamas cayamos
+ni erremos}
+{CB2.
+pon ya paz entre christianos
+fee, esperanc'a, y charidad
+y justicia
+todos alc'adas las manos
+pedimos valga verdad
+y no malicia.
+[%] Libranos de aq<ue>llos remos
+dela varca de Charon
+crudo varquero
+que su rio no passemos
+libra nos dela vission
+del canceruero
+pues de ti tal gracia sale
+nuestras flaquezas gouierna
+y danos bien
+{LAT. in hac lachrimarum valle}
+despues {LAT. vbi est vita eterna}
+amen, amen.}
+[fol. 64r]
+{CB1.
+{RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} {RUB. A GLORIA Y ALA-
+BAN(C)[C']A PERPETVA DE DIOS TO-
+do poderoso y de su gloriosissima madre la virge<n>
+sancta Maria sen~ora y abogada nuestra, para
+exemplo y doctrina dela vida chri-
+stiana, enrredada y engolfada en
+pielago de tantas mise-
+rias y trabajos,
+se acaba la subida y ensalc'ada glosa, y por el consiguie<n>-
+te dulce, y de gran vtilidad y prouecho,
+que sobre las moralidades y
+famosas doctrinas
+de don
+Iorge Manrirque cumpuso y gloso, el
+protonotario Luys perez. La
+qual se imprimio con el fa-
+uor diuino, enla
+muy no<m>-
+brada & muy insigne
+vniuersidad de
+Valladolid en casa de Sebastian
+Martinez. Acabosse a do-
+ze dias de mes de
+Abril. De M.D.LXI.}}

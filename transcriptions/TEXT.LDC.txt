@@ -1,0 +1,1892 @@
+{RMK: HSMS-0558.}
+{RMK: Juan de Padilla.}
+{RMK: [LDC] Laberinto del duque de Cádiz.}
+{RMK: Sevilla | Meinardo Ungut y Estanislao Polono | 1493.}
+{RMK: Innsbruck | Universitäts und Landesbibliothek Tirol | 156 F 13.}
+{RMK: José Manuel Fradejas Rueda.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0558-0001: Proemio al Laberinto del duque de Cádiz.} {RUB. % El laborinto del duque de ca-
+diz don Rodrigo ponce de leon.}}
+[fol. 1v]
+{CB1.
+% Las cie<n>to y cincue<n>ta d<e>l laborinto d<e>l duq<ue> d<e> cadiz don
+Rodrigo po<n>ce d<e> leon d<e> gl<or>iosa memoria. Co<n>puestas por
+fray ju(a)[a<n>] d<e>[ ]padilla cartuxo a<n>tes q<ue> religioso fuesse. Jntitu-
+la toda la obra labori<n>to: q<u><<a>>si q<ue> tiene trabajo de<n>tro va Di-
+rigido ala muy magnifica & muy virtuosa sen~ora don~a
+beatriz pacheco duquesa de arcos segu<n>d en el siguiente
+argumento se propone.
+{RUB. % Prohemio y argumento de toda la obra.}
+{IN5.} [N]O sufre razo<n> muy magnifica sen~ora callar la
+poca firmeza & gra<n>d crueldad d<e> fortuna: ma-
+yor( )me<n>te e<n> assi q<ue>rer lastimar co<n> la muerte d<e>l
+sen~or duq<ue>: a v<uest>ra virtuosa sen~oria. Alle<n>de d<e>
+ser jncitadora d<e> otros acide<n>tes jnue<n>tores d<e>
+nueuos pesares por do ta<n> amargo dolor aya de ronper
+co<n>tinuo d<e> v<uest>ras e<n>tran~as. Pero considera<n>do v<uest>ra mucha
+virtud: las inmortales virtudes y fechos ta<n> estremos:
+assi d<e> guerra como d<e> magnifice<n>cia q<ue> senbrados d<e>xa este
+sen~or de gl<or>iosa memoria e<n> asaz ca<n>tidad su graue dolor se-
+ra mitigado aunq<ue> lo co<n>trario paresca q<u><<a>>nto ala humani-
+dad a cuya causa mas co<n> espera<n>c'a d<e> v<uest>ro sufrimie<n>to q<ue> co<n>
+osadia de mi flaco jngenio la p<re>se<n>te obra co<n>puse en la q<u><<a>>l
+v<uest>ra magnifica sen~oria algu<n>as d<e> sus altas & memorables
+hazan~as puede ver Ca por cierto cosa i<n>humana seria por
+me<n>gua d<e> autores casos mouibles d<e> oluido cobriesse<n> vn
+cauallero digno d<e> ta<n>ta memoria. % La manera muy ma-
+nifica sen~ora q<ue> enel proseguir desta obra he tenido es p<r><<i>>-
+mera( )me<n>te diuidir la en dos libros. El p<r><<i>>mero jntitula-
+do d<e> su fama. El segu<n>do de su coronacio<n>. Enel primero
+d<e>scriuo el t<ien>po d<e> su fallescimie<n>to & se<n>timie<n>to d<e> su muerte
+y finjo vna fiesta do se rep<re>se<n>ta<n> algu<n>as d<e> las cosas nota-
+bles q<ue> su sen~oria hizo e<n> este p<re>se<n>te siglo biuie<n>do. En el se-gu<n>do}
+[fol. 2r]
+{CB1.
+libro vso d<e> vna ficio<n> poetica: dizie<n>do auer me tras-
+por[t]ad( )o & pasar por los limites infernales: do narro al-
+gu<n>as d<e> sus crueles penas & torme<n>tos: & asi no poco espa<n>-
+tado paso en los bie<n>( )aue<n>turados ca<n>pos elisios. Do di-
+go auer visto coronar al sen~or duq<ue> d<e> vna alguirnalda o
+corona texida d<e> fojas d<e> robles: q<ue> valentia & fortaleza d<e>-
+nota<n>: segu<n>d a<n>tigua( )me<n>te coronaua<n> alos bie<n> fortunados
+& valie<n>tes varones q<ue> d<e> las jnpunables guerras & feroces
+batallas vitoriosos salia<n>. E asy do fin ala obra jntitula-
+da labori<n>to: porq<ue> en p<ar>tes p<ar>ecera jntricado a los no po-
+etas. Pero e<n> muchas p<ar>tes p<ro>cede bie<n> claro. Cuya diuer-
+sidad fue por co<n>tentar a los doctos & sinples. El q<u><<a>>l v<uest>ra
+magnifica sen~oria benina( )me<n>te reciba co<n>porta<n>do los de-
+fetos patentes y secretos que la sotileza de su biuo inge-
+nio sintiere.
+{RUB. % Regla para los letores.}
+% No se marauille<n> los letores sy e<n> algu<n>as cosas he q<ue>(s)[r]ido
+imitar el estilo de los a<n>tiguos poetas: mayor( )me<n>te en el
+segundo libro. Ca por cierto se haze por mas satisfazer a
+los q<ue> algo sabe<n> alle<n>de d<e> lo q<ue> la tal materia d<e>ma<n>da. Otro-
+sy los no latinos no aya<n> a mal sy algu<n>os vocablos lati-
+nos vulgarizados hallare<n> ca se haze por mejor texer las
+razo<n>es & versos licito es alos modernos trobadores ha-
+zer lo segu<n>d los a<n>tiguos hiziero<n> y e<n> sus obras p<ar>ece($.)[.] Pero
+no en mucha ca<n>tidad: por semeja<n>te sy algu<n>os vocablos
+touiere<n> algu<n>as letras d<e> mas o menos: lo q<u><<a>>l e<n> pocas p<ar>tes
+acaescera no se repute a grossedad del metrifica<n>te. Ca[ ]se
+haze por hazer p<er>fetos los pies q<ue> son largos o cortos se-
+gu<n>d p<ar>esce e<n> la segu<n>da copla e<n> el vocablo coronistas q<ue> la
+p<r><<i>>mera .o. tiene sup<er>flua. p<er>o por q<ue> bie<n> ruede el verso co<n>[ ]sus
+d<e>uidas silabas se p<er>mite & asy p<ro>ced<e> la obra usa<n>Do d<e> algu<n>as
+figuras q<ue> los poetas latinos vsa<n> en<e>l co<n>poner d<e>sus uersos.}
+[fol. 2v]
+{CB2.
+{RMK: HSMS-0558-0002: Laberinto del duque de Cádiz.} {RUB. % Comie<n>c'a el p<r><<i>>mero li-
+bro dela fama exortan-
+do alos seuillanos.}
+{IN5.} OYd las nueuas
+que digo
+o fijos de cesa-
+rina.
+por que me sea-
+ys testigo
+d<e>l buen duque do<n> rodrigo
+enla fuente pegasina
+ado todos los que beuen
+d<e> sus aguas muy estran~as
+escriuan ca<n>ten y prueuen
+los ca<n>tares q<ue> nos mueuen
+sus muy sublimes hazan~as
+% No q<u><<i>>era priuar oluido
+por mengua de coronistas
+duque tan esclarecido
+digno de[ ]ser esculpido
+de famosos heroystas
+por ende presto leuante
+la fama sus leues alas
+porque de su boz se cante
+por el poniente y leua<n>te
+do son los fijos de palas
+{RUB. % Da co<n>sejo para repro-
+uar las musas poeticas}
+% Calla y dexa de llamar}
+{CB2.
+las musas tanto llamadas
+pues non pueden co<n>certar
+el filar texer cortar
+q<ue> continan las tres hadas
+dexaras las como yo
+conel fijo de saturno
+llama<n>do quien fabrico
+lo alto donde sembro
+las estrellas d<e>l noturno
+{RUB. % Jnuoca.}
+% A[ ]ti monarcha del cielo
+a[ ]ti solo llamo solo
+a[ ]ti con temor y zelo
+mis rodillas por el suelo
+y no ante el dios apolo
+porq<ue> de tus biuas fuentes
+biuez reciba mi lengua
+tal q<ue> mis versos presentes
+vayan de gentes en gentes
+dorada toda su mengua
+{RUB. % Descricion del tie<n>po
+en q<ue> el duque fallecio.}
+% Quando por el orizon
+se inflama toda la zona
+el carro con el pendon
+rige el padre de pheton
+con el ceptro y la corona
+ala hora diligente
+la virgo do se fallaua
+guiaua discreta( )mente}
+[fol. 3r]
+{CB2.
+el juego resplandesciente
+q<ue> los cauellos domaua
+% E era la su vestidura
+duna rica piel de oro
+contrastaua su mesura
+aq<ue>lla gentil figura
+q<ue> nuestra venus al[ ]toro
+la qual de alto miraua
+los dos cuernos de lucina
+q<u><<a>>ndo canis abrac'aua
+los rayos por do passaua
+la planeta mercurina
+{RUB. % Era del nascimie<n>to &
+cetera.}
+% An~o de mill representa
+que nascio el fijo de dios
+poniendo en aq<ue>sta cuenta
+quatro cie<n>tos y nouenta
+conel (m)[n]umero de dos
+a veintisiete del mes
+mes dagosto gen(a)[e]roso
+fallescio n<uest>ro marques
+al qual se llamo despues
+de cadiz duque famoso
+{RUB. % (C)[E]xclamacion contra
+fortuna.}
+% Fortuna q<u><<a>>n criminosa
+te denotan tus hazan~as
+muestras cara muy gracio-sa
+y tras ella la llorosa [%2]}
+{CB2.
+de suerte que nos engan~as
+muestras bienes naturales
+riquezas y poderio
+y son tan artificiales
+como fechas de metales
+& de muy sotil vedrio
+% Eres fuerte y atreuida
+por tal manera y sotileza
+q<ue> te llaman sin medida
+robadora de la vida
+allende de la riqueza
+preciaste dela mudanc'a
+con tu ley desa( )forada
+tu tenblar es destenpla<n>c'a
+tu orden desordenanc'a
+tu rueda muy presurada
+% Agora bestia harona
+con los saltos que te digo
+derribaste la persona
+de godos otra corona
+este duque don rodrigo
+pero no podras fazer
+con tu ley tan variable
+q<ue> se pueda enuejescer
+ni de las bocas caer
+su fama tan memorable
+{RUB. % Aplica y amonesta a
+los romanos.}
+% Ca por cierto tal ressue<n>a
+por los reynos y nascio<n>es}
+{SG. a iij}
+[fol. 3v]
+{CB2.
+bien como sonaua y suena
+la del grand fijo de almena
+q<ue> libro los calidones
+por ende fijos de marte
+natos dela belicosa
+recebid el su estandarte
+broslado por sotil arte
+de obra tan suntuosa
+% Porq<ue> conel muy vfanos
+salgays al canpo nagon
+ado sacan vuestras manos
+los pendones africanos
+con los del paladion
+y fareys por tal manera
+carro de puntos y gonces
+q<ue> encima de su cimera
+esculpays bien la vandera
+dela casa de los ponces
+{RUB. % Da forma ala obr(o)[a] y
+pone la hora del e(e)n[t]er-
+ramie<n>to y las sen~ales de
+q<u><<a>>ndo la noche viene.}
+% Quando febo tra[s]ponia
+l(e)[a]s aguas del ocidente
+y ala noche parescia
+con[ ]diana que subia
+por la parte del oriente
+delas villas & castillos
+humeauan chimeneas
+por los charcos & charq<u><<i>>llos
+cantauan ranas &[ ]grillos}
+{CB2.
+en torno delas aldeas
+% Las arboledas cobrian
+las (l)[s]onbras delas alturas
+las gentes se recogian
+con el reposo q<ue> vian
+delas biuas criaturas
+atal hora me fallaua
+ala puerta de carmona
+do senti que se me cercaua
+mucha gente q<ue> asonbraua
+con gritos a mi persona
+% Ya robados mis se<n>tidos
+de tan grand alteracion
+figuro se a mis oydos
+aquellos tristes gemidos
+de los reynos de pluton
+pero por ver cosa cierta
+de bozes tan inefandas
+puse me sobre la puerta
+& vi vna persona muerta
+que trai[a]n en vnas andas
+% Los que delante venian
+trayan en procesion
+hachas q<ue> bien parescian
+aq<ue>llas conque vencian
+los f($u)[u]ertes de gedeon
+y su radiante luz
+hizo mis sentidos ciertos
+viendo el nonbre de jh<es>us
+en el arbol dela cruz}
+[fol. 4r]
+{CB2.
+q<ue> lleuan ante los muertos
+{RUB. % Osequias.}
+% Cantaua la clerezia
+sus cantos bien acordados
+agenos del armonia
+con q<ue> thebas rehazia
+sus muros los derribados
+mas los pobres me<n>dica<n>tes
+vi con otros religiosos
+con sus hozes obseruantes
+delante todos canta<n>tes
+cantares mucho preciosos
+{RUB. % Finge como q<u><<a>>tro vir-
+tudes lleua<n> las andas.}
+% Ui venir q<u><<a>>tro donzellas
+sus vultos angelicales
+tal q<ue> la presencia dellas
+ya venciera las estrellas
+y los rayos febeales
+las quales por mas honor
+aq<ue>llas andas trayan
+en forma q<ue> su fauor
+mitigaua el grand dolor
+delos tristes q<ue> plan~ian
+{RUB. % Los nonbres de las
+donzellas.}
+% La justicia y la prude<n>cia
+tenperanc'a y fortaleza
+les nonbro aq<ue>lla cleme<n>cia}
+{CB2.
+q<ue> l es dio tal excelencia
+qual no da naturaleza
+las q<u><<a>>les vi que ponian
+en las andas bien escritos
+vnos motes que ferian
+aq<ue>llos q<ue> los llevan
+con dolores infinitos
+{RUB. % Administracion de-
+los q<ue> los motes leyan.}
+daua<n> golpes co<n> las manos
+en sus muslos & mirauan
+alos polos soberanos
+como los sabios humanos
+q<u><<a>>ndo bie<n> philosophauan
+torcian manos y dedos
+en sy mesmos retorna<n>do
+sus bec'os q<ue> estaua<n> ledos
+jamas estouieron q<ue>dos
+los motes apregona<n>do
+{RUB. % Pone cada virtud su
+mote.}
+{RUB. % Justicia.}
+% La justi[ci]a & la verdad
+era su (s)[f]elicidad
+{RUB. % Prudencia.}
+% En prudencia y descricio<n>
+nadaua su corac'on
+{RUB. % Tenpera<n>cia($.)[.]}
+% Su tenperanc'a le dio
+industria con q<ue> vencio
+{RUB. % (%) Fortaleza.}}
+[fol. 4v]
+{CB2.
+% Tal fortaleza tenia
+q<ue> jamas no se vencia
+{RUB. % Sentimie<n>to de la mu-
+erte.}
+% Estos motes publicados
+con las sus declaracio<n>es
+los ombres descaben~ados
+con hozes desmesurados
+dezi[a]n por las collaciones
+tu seuilla cesarina
+fundada sobre maderos
+plan~iras triste mesquina
+en perder persona dina
+de ser flor de caualleros
+{RUB. % Conparacion.}
+% Nunca tal llanto fiziero<n>
+por sus calles las romanas
+quando e<n> cauas peresciero<n>
+sus maridos q<ue> vencieron
+fijos de las africanas
+como senti q<ue> fazia
+el estirpe femenina
+con tan grande griteria
+q<ue> los cielos ofendia
+como fizo proserpina
+{RUB. % Llanto de la duq<ue>sa.}
+% y quedaua en su posada
+la duquesa dolorida}
+{CB2.
+de duen~as toda cercada
+su cara muy lastimada
+toda su color perdida
+amarga triste dezia
+do mi duque do lo do lo
+y tal llanto proponia
+ca por cierto parescia
+la muger del manseolo
+% Su cara puesta enel cielo
+ju<n>tos sus dedos & palmas
+las rodillas por el suelo
+llamando por su consuelo
+el redentor de las almas
+y tornauase la triste
+el espejo en q<ue> te viste
+tu seras presto acorada
+% Feria sus dos q<u><<i>>xares
+con pun~adas muy estran~as
+los solloc'os muy a[ ]pares
+traspasando los pesares
+las telas de sus entran~as
+ofendia se cruel
+de sy mesma q<ue>rellosa
+llorando como rachel
+moriera yo biuiera el
+dezia como rauiosa
+{RUB. % Quexasse de las me-
+dicinas & medicos}
+% Callara todo el tratado}
+[fol. 5r]
+{CB2.
+de las curas y con ellas
+auicena el afamado
+con chiron todo cercado
+delas bissepten estrellas
+callen pues no rem(a)[e]diaro<n>
+este mal con su cornelio
+y callen los que gustaron
+las aguas q<ue> destilaron
+las fijas del monte celio
+{RUB. % Prosigue la obra.}
+% Con muy altos alaridos
+vi venir tras de las andas
+vnos ombres doloridos
+de blanca xerga vestidos
+con muy gra<n>des opala<n>das
+con sus hozes d(a)[e]siguales
+sus gargantas corronpian
+de sus ojos los mortales
+fechas fuentes naturales
+los quales assy dezian
+{RUB. % Llanto de sus here-
+deros. parientes. & cria-
+dos.}
+% Muy magnifico sen~or
+como solos ya nos dexas
+de tu cunbre de fauor
+con la fecha de dolor
+nos fieren mortales q<ue>xas
+llora<n>do tras[ ]ti corremos
+como grandes perdidosos}
+{CB2.
+tu presencia no la vemos
+ay catiuos q<ue> faremos
+pendon de los animosos
+% Perdemos tu fortaleza
+paues de vandalianos
+perdemos tu realeza
+la virtud y grand destreza
+de tus bellicosas manos
+tu consejo y tu saber
+como i<n>dinos lo perdemos
+y segund el parescer
+ya sujeto a[ ]no valer
+es el valer que valemos
+% y esta rauia dolorida
+nos acorra por tal suerte
+que ponemos n<uest>ra vida
+por conpas y por medida
+q<ue> vos acoro la muerte
+por ende no puede ser
+que biuamos sin afan
+y con este no poder
+conformamos el querer
+fijo de conde don juan
+{RUB. % Habla el autor.}
+% Uiendo tal exclamacion
+no me sie<n>do el co<n>de ajeno
+como fuera de razon
+por ronper el corac'on
+destroce todo mi seno
+y dixieron mis sentidos}
+[fol. 5v]
+{CB2.
+fijos de don juan el conde
+como a[ ]menos soys venidos
+co<n> los muertos y perdidos
+y otros que fortuna esco<n>de
+{RUB. % Enderec'a los versos
+a(s)[l ]conde.}
+% O buen conde q<ue> ma<n>zilla
+los mortales vos ofrecen
+touistes a[ ]marauilla
+de fijos vna q<u><<a>>drilla
+y q<u><<a>>n pocos que parescen
+agora por mayor mal
+dio fortuna con su ley
+vna sentencia mortal
+enel fijo principal
+q<ue> les era como rey
+% y con este pensamiento
+a(p)[rran]cando mis cabellos
+tal me dexo mi tormento
+q<ue> corri como sin tiento
+para juntarme con ellos
+pero q<u><<a>>ndo pare mientes
+la puerta presto pasaron
+y los ombres prepote<n>tes
+con las doloridas gentes
+en sa<n>t agustin entraro<n>
+{RUB. % Qua<n>do lo e<n>terraron.}
+% Era tal el alarido
+q<ue> por su tenplo sonaua}
+{CB2.
+q<ue> sus gritos y apellido
+presentaro<n> al sentido
+q<ue> seuilla se asolaua
+nunca dio bozes mayores
+la garganta de tifeo
+nj dauan tales clamores
+las velas y veladores
+del sacro tenplo li(c)[e]o
+{RUB. % Continua la obra y se-
+gund a<n>tigua( )me<n>te se ha-
+zia finge vna fiesta el au-
+tor para dezir algunas
+cosas delas notables q<ue>
+en su vida el duq<ue> fizo.}
+% y q<ue>deme sobre el muro
+triste con diez mill enojos
+hendo ya por mas seguro
+blando el corac'o<n> de duro
+co<n> las aguas de mis ojos
+y q<ue>riendo descendir
+mi persona mal dispuesta
+otras gentes vi venir
+co<n> su traje y su vestir
+en so<n> de muy rica fiesta
+% So<n> aun muy acordados
+sacabuches y clarones
+[l]os cantores estremados
+franceses muy afamados
+y otros de much[a]s nasc(u<n>)[io<n>]es
+n<uest>ros dulces castellanos
+co<n> su dina proporcio<n>}
+[fol. 6r]
+{CB2.
+orpheo con los grecianos
+se<n>das harpas en las manos
+fli(t)[r]is tubal anphion
+{RUB. % Admiracion}
+% yo q<ue> vi ta<n> gra<n>d muda<n>c'a
+en hora tan dolorida
+digo toda mi esperanc'a
+esta puesta en la balanc'a
+de p<er>sona muy perdida
+d<e>la<n>te con mill pasiones
+vnas gentes van llorando
+vienen otras con ca<n>ciones
+de puntos diapasones
+sus bozes proporciona<n>do
+{RUB. % Quexa se del mu<n>do.}
+% Blasfemo de ti peruerso
+mu<n>do. con tu diferencia
+q<ue> prosa puede ni verso
+dezir por el vniuerso
+tus males y tu dolencia
+fazen tus inconuenientes
+potajes q<ue> nos acorren
+y en vn punto diferentes
+hazes las vezinas gentes
+q<ue> vnas rian y otras lloren
+{RUB. % Prosigue[ ]la obra y co<n>-
+para.}
+% Como rudo enuejecido
+en rudeza. de contino}
+{CB2.
+viendo la (q)[q<ue>] nunca vido
+esta firme y detenido
+en medio de su camino
+bien asy tal me senti
+q<ue> jamas pude partir me
+viendo cosa q<ue> no vi
+fue tal nouedad por mi
+que me tuue q<ue>do firme
+{RUB. % Pone la va<n>dera y las
+armas del duque}
+% Ui venir por la carrera
+en alta vara de rama
+vna famosa vandera
+hecha de vna texedera
+q<ue> ha por nonbre la fama
+su canpo por mayor don
+de blanco sirgo torcido
+en medio puesto vn leon
+con las barras de aragon
+de febras de oro texido
+% Los varones excelentes
+puestos en son de batalla
+con armas resplandecie<n>tes
+fechas en fraguas ardie<n>tes
+del vulcano y de[ ]mi salla
+la vandera circu<n>dauan
+por orden segund deuia<n>
+por presto q<ue> caminauan
+sus lenguas jamas callaua<n>
+las q<u><<a>>les asy dezian}
+[fol. 6v]
+{CB2.
+% Biua biua por memoria
+la vandera belicosa
+pues de su real vitoria
+betica rescibe gloria
+con espan~a la famosa
+por los reynos comarca<n>os
+su fama presto rebuele
+por que sepan africanos
+con los turcos asyanos
+cosa que les desconsuele
+{RUB. % Carro triunfal.}
+% Luego vide que venia
+vn carro muy prepotente
+en cosa no diferia
+del que fetonte traya
+q<u><<a>>ndo cayo entre la gente
+el qual asy f(i)[e]cho era
+que por geometriles artes
+jamas no se conosciera
+el juntar de la madera
+por sus diminutas partes
+% Aquellos q<ue> lo lleuauan
+eran dos orribles toros
+los q<u><<a>>les vi q<ue> bramauan
+porq<ue> mas no ensa<n>gre<n>taua<n>
+sus cuernos e<n>tre los moros
+y quando se detenian
+ascaruar en los oteros
+con ac'otes los ferian
+dos gigantes q<ue> regian}
+{CB2.
+el carro por carreros
+{RUB. % El cielo del carro($.)[.]}
+% Uide encima las estrellas
+la del norte y el trion
+y mas alta encima dellas
+la q<ue> rige las donzellas
+santas. q<ue> enel cielo son
+alli vi las cinco sonas
+como cin~en el espera
+y esculpidas las personas
+q<ue> por buenas las coronas
+ganaron en la fro<n>tera
+{RUB. % Dize ver en medio v-
+na silla en la q<u><<a>>l vido el
+duque asentado.}
+% En medio vi q<ue> tenia
+vna silla colocada
+toda su mac'oneria
+con follages parescia
+ser de dedalo labrada
+alli las piedras presciosas
+yris con los sus colores
+las bueltas artificiosas
+llenas de flores y rosas
+co<n> mas de diez mill olores
+% En la q<u><<a>>l vide asentado
+nuestro duque glorioso
+con rico manto chapado
+de perlas todo senbrado}
+[fol. 7r]
+{CB2.
+vn collar marauilloso
+tenia su diestra mano
+cruel espada tajante
+mas po<n>poso y mas vfano
+q<ue> vino el cesar romano
+dela francia triunfante
+{RUB. % Argumento delas co-
+sas q<ue> enla silla vido fi-
+guradas delas q<u><<a>>les di-
+ra por orden algu<n>as de-
+llas.}
+% Todas las entalladuras
+dela silla memorada
+vide llenas de figuras
+epytafios escrituras
+dela guerra de granada
+los enemigos a[ ]pares
+por el suelo derribados
+sus villas y sus lugares
+de grandes fechos casares
+destruydos y quemados
+{RUB. % Como tomo a alha-
+ma y como los moros
+la cercaron.}
+% Alhama vi figurada
+con sus ban~os excelentes
+y de como fue ganada
+d<e>l buen duque: y d<e>fensada
+a las mauritanas ge<n>tes
+y vi como la cercauan}
+{CB2.
+temiendo su mala suerte
+los conbates que le dauan
+alos n<uest>ros conbidauan
+pr[e]ciar menos ala muerte
+% Los troc'os y las escalas
+crescian con mill engan~os
+daquella manera palas
+de los dragos y sus alas
+q<ue> vencieron muchos an~os
+moria de corac'on
+aq<ue>l pueblo ren~egado
+tras los muros el leon
+estaua con intencion
+de morir despedac'ado
+% Pero con vulto sereno
+como sy fuera roldan
+fizo su temor ageno
+esperando como bueno
+las vanderas d<e>l guzman
+las q<u><<a>>les vi sublimadas
+con las poncicas va<n>deras
+y sus guerras las pasadas
+oluidadas y acordadas
+las barras y las calderas
+% Alli se me demostro
+el triste cerco loxano
+y de quan presto libro
+a su rey: quando cobro
+corac'on el arriano
+y vide como fuya}
+[fol. 7v]
+{CB2.
+nuestra gente mal mirada
+y vi como resistia
+la canina moreria
+con los filos de su espada
+% A ronda vi que cerco
+sepulcro de n<uest>ra tierra
+do jamas nunca falto
+fasta q<ue> por el se dio
+al rey con toda la sierra
+alli vi como tirauan
+piedras dardos y saetas
+pellas de fuego pasauan
+los ayres por do bolauan
+muchas viras macometas
+% y vimos a setenil
+q<ue> las nuues sojusgaua
+y su gente varonil
+como conel an~afil
+n<uest>ro rey menospreciaua
+mas este con su q<u><<a>>drilla
+les armo tal sacalin~a
+q<ue> sin alas de castilla
+se tomo la fuerte villa
+temor de nuestra canpin~a
+% Zahara la dolorida
+vide llena de manzilla
+y meca toda encendida
+diziendo sera perdida
+la frontera con seuilla}
+{CB2.
+pero presto remedio
+n<uest>ro segundo anibal
+y mas presto la tomo
+q<ue> no el otro la perdio
+sayauedra el mariscal
+{RUB. % Abreuia.}
+vimos entre los follajes
+monte corto con cardela
+y vedados los pasajes
+de los libicos saluajes
+por la costa de maruela
+vimos valles y collados
+se<n>brados d<e> moros muertos
+otros por muy afamados
+fueron del descabec'ados
+ala entrada de sus puertos
+% Su rico manto cobria
+todo lo mas dela silla
+tal q<ue> bien no parescia
+toda la mac'oneria
+de su poncica familia
+pero de la otra parte
+vi la sangre del madron~o
+y e<n> la mano d<e>l dios marte
+sublimado su esta<n>darte
+con las opes del oton~o
+{RUB. Descriue la batalla del
+madrono y como la ve<n>-
+cio moc'o y sin baruas}}
+[fol. 8r]
+{CB2.
+% Alli vi bien figurado
+el buen duque glorioso
+rubicundo colorado
+con su brac'o ensangre<n>tado
+como fuerte belicoso
+por su poca hedad[ ]graciosa
+su cara fresca tenia
+en parte nada vellosa
+bien como dama donosa
+que de amores se ofendia
+% Los feroces macometas
+ensartaua por su lanc'a
+como luuia las saetas
+sobre sus pechos y tetas
+sin auer en el mudanc'a
+pero con la su mesnada
+y la zebedea grita
+toda la flor de granada
+fue vencida y destroc'ada
+deste verdadero citha
+{RUB. % Conparacion.}
+% Nunca el fuerte leonida
+duque de los espartanos
+con su vandera tendida
+tan presto qu($i)[i]to la vida
+de q<u><<a>>renta mill persianos
+como hizo don Rodrigo
+en las faldas madron~inas
+dauan desto buen testigo
+como de grand enemigo
+las morillas granadinas}
+{CB2.
+{RUB. % Pone el testigo q<ue> de-
+stetauan a sus fijos con
+su temor.}
+% Dexaua la madre mora
+los pec'ones de sus mamas
+vntar los a[ ]cada hora
+de c'umos inquisidora
+de las amargas retamas
+destetaua poco a[ ]poco
+con temor asus fijuelos
+y linpiando les el moco
+cata rodriguillo el coco
+pauor de vuestros abuelos
+{RUB. % Concluye e<n>la guerra
+de granada co<n> la batal-
+la q<ue> vencio cabe lopera}
+% La batalla de lopera
+alli vi con su vitoria
+bornos junto con espera
+mejor fe dan como era
+y fue digna de memoria
+alli vi como vencio
+tan feroz fasta la fin
+q<ue> en su lanc'a no dexo
+con los moros q<ue> mato
+mucho criar el orin
+% Descricion de la guer-
+ra que touo con el duq<ue>
+de medina cidonia.}
+[fol. 8v]
+{CB2.
+% Uide luego figurada
+por artificio sotil
+la guerra muy afamada
+no menos q<ue> mas no<n>brada
+segundo bello ceuil
+digo dela seuillana
+q<ue> conel guzman tenia
+do minerua la pagana
+con su ciencia profana
+jamas cantar lo podria
+% Pero dele dios perdon
+al dia triste de marras
+en[ ]poner cruel q<ue>stion
+en la sierpe y el leon
+las calderas y las barras
+q<ue> fizo segund sentimos
+tenblar los vandalianos
+tal q<ue> no puede mis rimos
+co<n>certar estos dos p<r><<i>>mos
+honor delos seuillanos
+{RUB. % Escusase de dezir mu-
+cho desta guerra.}
+% Mas sola( )mente dire
+algo delo figurado
+tal que no me alargare
+ca diran en buena fe
+habla como afecionado
+pero vi bien a xerez
+y el pendon con q<ue> vencia
+junto conel buen arnes}
+{CB2.
+conq<ue> defendio el marques
+sus muros con valentia
+% y vi como lo tomo
+mas por fuerc'a q<ue> de grado
+y vi como reparo
+el alcac'ar que fallo
+no menos que derribado
+la fonda caua chapada
+que fizo por sotil arte
+muy guarnida y p<er>trechada
+de fuego toda cercada
+su barrera y baluarte
+{RUB. % Enarra.}
+% Calle<n> todas tus fro<n>teras
+calla capullo de rosa
+sy detal caua supieras
+por el mundo no dixieras
+ser la tuya la famosa
+y tu villa perinea
+q<ue> de perpin~an te llamas
+callaras conel alfea
+la segunda vulcanea
+cercada de biuas llamas
+{RUB. % Prosigue la obra.}
+% Alcala con co<n>stantina
+gano villas seuillanas
+otrosy tomo a medina
+otero de la marina
+delas costas gaditanas}
+[fol. 9r]
+{CB2.
+y vimos con quanta yra
+corrian cada triquete
+leones de guada( )yra
+tal que tuuo don eluira
+q<ue> guardar en tagarete
+{RUB. % Como fue sobre seui-
+lla.}
+% Con mucha ge<n>te le vieras
+a pu<n>to bien ordenada
+por vnas ricas riberas
+remesciendo sus vanderas
+temor de toda tablada
+tenblaua la cesarina
+con su axarafe todo
+pero la casa n~eblina
+de vitoria mucho digna
+salio contra nuestro godo
+{RUB. % Pone porque no vi-
+nieron alas manos.}
+% Andauan ya los p<er>lados
+co<n> las cruc'es en sus manos
+fechos nu<n>cios y legados
+por q<ue> no fuessen senbrados
+los ca<n>pos delos humanos
+salian tras sus maridos
+las he<n>bras co<n> mill passio<n>es
+dezian do vays perdidos
+no sabeys que so<n> venidos
+los ombres como leones}
+{CB2.
+% Estauan respla<n>descie<n>tes
+co<n>certadas bie<n> sus hazes
+y las xerezanas gentes
+cruxie<n>do todos sus die<n>tes
+con los sus vultos minases
+su leon ponce valiente
+vestido de braua san~a
+a[ ]uencer no sola( )mente
+ala seuillana gente
+mas a toda n($u)[u]estra espan~a
+{RUB. % Co<n>tinua y escusase de
+dezir dela batalla q<ue> fue
+cabe alcala de guaday-
+ra por ser tan comun.}
+% Pero por alta manera
+euito dios tal estrago
+ca segund la genta era
+aquesta batalla fuera
+como fue la de cartago
+mas otra despedac'ando
+sus escudos. vide cabe
+vnos carros. y llorando
+no dire como ni quando
+que alcala mejor lo sabe
+{RUB. % Discrecion del cerco
+de alcala de guadayra.}
+% Luego vi bien figurado
+el cerco de guadayra}
+{SG. b j}
+[fol. 9v]
+{CB2.
+como ector el nonbrado
+vi el guzma<n>. muy e(f)[s]forc'ado
+con su gruessa don eluira
+trabucos y serpentinas
+vide como disparauan
+y vnas gentes hornezinas
+sacar tierra delas minas
+con otras q<ue> las cauauan
+% De guadayra las ondas
+yuan de sangre mezcladas
+despedac'auan las hondas
+las tablachinas redondas
+con sus crueles pedradas
+y van por alto tenblantes
+frechas dardos y gorguzes
+mas fuertes q<ue> diamantes
+los argolicos gigantes
+fechos nuestros a<n>daluzes
+% Morian de todas partes
+con las ardientes pelotas
+enhiestos los estandartes
+con las belicosas artes
+todas las barreras rotas
+hallauan se mal seguros
+vnos por ganar mas ho<n>rra
+otros por subir los muros
+rescebian golpes duros
+y alas de vezes desonrra
+{RUB. % Petrechos.}}
+{CB2.
+% Alli los pinjados ba<n>cos
+las mantas troc'os escalas
+las grullas con altos c'a<n>cos
+por los muros y barra<n>cos
+bati[a]n con yra las alas
+las almenas desmochadas
+tirando muy a[ ]menudo
+las puertas todas rajadas
+dalquitra<n> las llamaradas
+mas jamas entralle pudo
+{RUB. % Conparacion.}
+% Nunca fue tan co<n>batida
+la grand roca de elion
+ni gente tan encendida
+a perder toda la vida
+alli truxo agamenon
+como vi segu($n)[n]d profiero
+en este cerco que digo
+crueles mas que no nero
+por perder el cauallero
+este duque don Rodrigo
+{RUB. % Como vino el[ ]duque
+a descercar a alcala.}
+% ya sentian que venia
+el leon ponce famoso
+con esfuerc'o y osadia
+su batalla parescia
+con vn ayre belicoso
+san~udos por los oteros
+venian a espuelas hitas
+como tygres muy ligeros}
+[fol. 10r]
+{CB2.
+y los animales fieros
+de veloces trogoditas
+% Uino con tan poca ge<n>te
+es verguenc'a q<ue> lo hable
+segund fue la conbatiente
+q<ue> enel cerco vi presente
+en cantidad inefable
+esfuerc'o tal ensen~o
+en venir alli sin pena
+qual mucio nunca mostro
+quando su brac'o quemo
+ante tarquino y porcena
+{RUB. % Conparacion.}
+% Puso se sobre vn otero
+por mirar bien los reales
+como haze el bue<n> guerrero
+y el muy auido montero
+por cac'ar los animales
+descendia denodado
+bien con toda su quadrilla
+pero del traues costado
+le salio bien mesurado
+vn buen conde de tendilla
+{RUB. % Como los hizo ami-
+gos($.)[.]}
+% y dixo no quiera dios
+otro etor don Rodrigo
+q<ue> tan grand mortal chaos}
+{CB2.
+oy se cause entre vos dos
+fuya fuya el enemigo
+con sus tractos acordados
+los dexo puestos en paz
+tal que sus males pasados
+asy fueron oluidados
+como no siendo jamas
+{RUB. % Escusase de dezir mas
+la bores dela silla por no
+podellas ver.}
+% Ata<n> gra<n>d priesa se dauan
+(o)[e]nel carro los gigantes
+q<ue> los vltimos pasauan
+las aguas que destilauan
+vnos can~os abundantes
+y no pudo decernir
+mas labores mi persona
+pero fue mi presumir
+q<ue> el buen duque a recebir
+yua su rica corona
+% Y q<ue>deme sobre el muro
+dela puerta de carmona
+era tan cerrado escuro
+que me senti mal seguro
+con temor dela bellona
+estaua con vna gana
+q<ue> titan resplandeciesse
+por que luego de man~ana
+ala gente seuillana}
+{SG. b ij}
+[fol. 10v]
+{CB2.
+la tal fiesta propusiesse
+{RUB. Fenece el p<r><<i>>mero libro
+dela fama de don rodri-
+go ponce de leon du-
+que de cadiz.}
+% Un saxo tome por silla
+como haze el velador
+mi siniestra en la mexilla
+mis ojos cara seuilla
+propio como escalador
+pero sin mas dilacion
+luego el suen~o fue comigo
+la hora tienpo y sazon
+cata la coronacion
+deste duque don rodrigo
+% La qual e<n> versos pate<n>tes
+subsequente cantaremos
+porq<ue> sepan los presentes
+como tratan alas gentes
+en el siglo que no vemos
+de quien sus interiores
+alos mas prudentes tema<n>
+no sophisticos letores
+ni groseros trobadores
+q<ue> de lo bueno blasfeman}
+{CB2.
+{RUB. % Comie<n>c'a el libro segu<n>do
+dela coronacio<n> del muy fa-
+moso cauallero do<n> Rodri-
+go ponce de leon duque d<e>
+cadiz. Pero porque mejor
+los lectores conprehendan
+la manera del proseguir q<ue>
+el autor en esta coronacio<n>
+ha tenido ocurran al gene-
+ral argumento de toda la
+obra do hallaran breue( )me<n>-
+t(a)[e] su declaracion.}
+{RUB. % Continua la obra & di-
+ze como se durmio a el
+alua del dia.}
+{IN5.} A La zefira ce<n>tel-
+la
+lucina ya decli-
+naua
+y la oriental e-
+strella
+mas q<ue> todas pulcra y bella
+al clicie despertaua
+ala hora fue vencido
+De tal suen~o q<ue>de graue
+mi cuerpo luego se vido
+con las alas del sentido
+alto bolar como aue
+{RUB. Como fue arrebatado
+de vn viento y echado +}}
+[fol. 11r]
+{CB2.
+{RUB. en la montan~a do dize<n>
+que esta el infierno.}
+% Da<n>do bueltas a[ ]menudo
+por los ayres prouagaua
+quando boreas el crudo
+eolo de muy san~udo
+lo solto de donde estaua
+rebatome con tal san~a
+como si fuera canbyses
+q<ue> me( )cho fuer(e)[a] de espan~a
+en la trenara montan~a
+do se vio el fijo de anchises
+% Por el suelo mal( )tratado
+me dixo en medio la bren~a
+con temor muy alterado
+tenblando despelu(c)[c']ado
+entre las c'arc'as y[ ]len~a
+pero quando yo senti
+tan amarga perdicion
+hize segund que me vi
+hendo com<m>o zohori
+delas tripas corac'on
+{RUB. % Como allega alos in-
+fiernos.}
+% Mi congoxa me dispuso
+a[ ]tirar por vnos riscos
+cuesta arriba y cuesta ayuso
+di e<n> vn valle muy co<n>fuso}
+{CB2.
+do cantauan vajeliscos
+presumio ser naturales
+mi falace fantasia
+asy di en las infernales
+estigias y cenagales
+q<ue> el hondo cheron fazia
+% Ui burlados mis se<n>tidos
+del remedio que q<u><<i>>siera
+sonauan luengos gemidos
+con muy altos alaridos
+por toda aquella ribera
+y vide luego cheron
+y[ ]su puente do[ ]corri
+por fuir la confusion
+del pasaje de caron
+con la cinba que le[ ]ui
+% yo que la puente pasaua
+me detuue con recelo
+mirand(a)[o] como nadaua
+vna gente que gritaua
+por llegar los pies al[ ]suelo
+era dela que perdia
+el nauta pigro bogante
+dela q<u><<a>>l yo bien diria
+mas dexo tal elegia
+al bue<n> toscanico dante
+{RUB. % Continua & descriue
+las penas infernales.}}
+[fol. 11v]
+{CB2.
+% Pero solo yo dire
+delas penas q<ue> passauan
+los penantes callare
+por que no poco hare
+en dezir como penauan
+alli las aguas hiruiendo
+con fuego y otras eladas
+vnas sonantes corriendo
+otras las ripas hiriendo
+con ondas demasiadas
+% Alli luchauan los vie<n>tos
+traie<n>do las aguas mescladas
+rebueltos los eleme<n>tos
+las arenas los tormentos
+las tumidas o<n>das q<ue>bradas
+las animas doloridas
+sobre las aguas senzillas
+vnas profundo sumidas
+otras casy guarescidas
+gritando por las orillas
+% Pero sy fuir querian
+andaua<n> como cuytrales
+los centauros q<ue> comian
+a[ ]todas las que salian
+fuera de los cenagales
+otras vide ante cogidas
+de manos del briareo
+para q<ue> fuessen perdidas
+destroc'adas y comidas
+del que comio a periteo}
+{CB2.
+% Una isla vide luego
+en medio dela canal
+toda cercada de fuego
+padesce letor te ruego
+que diga todo su mal
+en la qual vide chimeras
+disformes y muy crueles
+de figuras mas enteras
+feas & de mill maneras
+jnfinitos los tropeles
+% Luego vieras por porte-ro
+d<e> pluto<n> y radama<n>ta [%2]
+el atroce can ceruero
+libre nos dios verdadero
+de su trifauce garganta
+halagaua lo tritonia
+la mano puesta en su cerro
+y el puerco de calidonia
+tras la mala de senpronia
+en torno del brauo perro
+% Alli las arpias andauan
+sidientas con mucho brio
+los sagitarios tirauan
+vnas frechas q<ue> pasauan
+todas las partes del rio
+al li culebras serpientes
+los sapos los alacranes
+con sus tro<n>pas y sus die<n>tes
+los elefantes valientes
+entre los ha<n>brie<n>tos canes}
+[fol. 12r]
+{CB2.
+% Los dragos d<e>uoradores
+la ydra con siete bocas
+las gorgonas muy peores
+rauiosas con mill dolores
+despedac'ando sus tocas
+andauan vnos visajes
+con vnas caras diformes
+mostruos crueles saluajes
+hendo cie<n>t mill personajes
+con vnos saltos inormes
+% Recibian pasajeros
+q($u)[u]e el triste nauta pasaua
+leuauan los prisioneros
+mal jusgados co<n> los fueros
+q<ue> radamanta les daua
+vnos vide que lleuauan
+a do estaua de morgon
+los otros despedac'auan
+y por su tergo sacauan
+su tremente corac'on
+% Otros echauan en brasas
+biuas ascuas de lantiscos
+en sus bocas las mordazas
+sus muelas delas tenazas
+menudas entre los ciscos
+otros venian rodando
+por vnas cuestas dabrojos
+otros estauan bramando
+alli do les vi sacando
+con garauatos los ojos}
+{CB2.
+% Otros vi por sus oydos
+luengos tic'ones ardientes
+los dedos todos comidos
+vnos hedores podridos
+sus narizes redolientes
+estaua con siete caras
+la que juan de mena vido
+sy la vieras te espantaras
+y de espanto te tornaras
+ombre de poco sentido
+{RUB. % Exortacio<n> sy algu<n>os
+dudase<n> ser las penas in-
+fernales tan atroces}
+% Sy no creeys lo q<ue> digo
+ni las penas que se dan
+ponga uos temor amigo
+lazaro vero testigo
+desde el seno de abrahan
+ca vos digo de verdad
+q<ue> sus muy menores penas
+exceden en cantidad
+alas dela humanidad
+sy fuessen de fuego llenas
+{RUB. % Nonbra algunos de
+los antiguos infieles q<ue>
+vido penar.}
+% Uieras el mago simon
+y el triste mayo doreo}
+[fol. 12v]
+{CB2.
+thereo feda phiton
+philipo crito sinon
+canace con macareo
+las lenguas todas sacadas
+las magicas hechizeras
+publicia circe rascadas
+maldiziendo les las hadas
+y a medea sy la vieras
+% Jtem vieras anteon
+hecho mas de mill pedac'os
+y junto con faraon
+el grand vate de laocon
+co<n> los dragos e<n> sus brac'os
+Herodes junto con nero
+gritaua por la montan~a
+y colgado en vn otero
+el maldito cauallero
+julian tic'on de espan~a
+% A pasiphe y a[ ]timino
+vn toro las corneaua
+arder vieras el rey nyno
+maldiziendo le su sino
+su madre que lo acusaua
+exion con atamante
+dydo y juno desgren~adas
+y vieras a q<ue>l gigante
+q<ue> d<e>l grand jardin adelante
+sus pomas furto doradas}
+{CB2.
+{RUB. % Continua la obra.}
+% Mis fuerc'as enflaq<ue>cian
+viendo penas tan rabiosas
+quando vide que venian
+& por la puente sobian
+vnas gentes animosas
+pero q<u><<a>>ndo pare mientes
+mis sentidos conoscieron
+armados muy eminentes
+los varones prepotentes
+que de betyca salieron
+{RUB. % Noten los letores de
+aqui adelante el autor
+continua la fiesta del p<r><<i>>-
+mer libro do dixo q<ue> vi-
+do salir de seuilla muy
+ponposo el duque a[ ]rre-
+cebir su corona}
+% y luego subita( )mente
+los vide junto comigo
+y cercado dela gente
+en vn carro muy fulgente
+el buen duque do<n> rodrigo
+y fue tan restituydo
+en virtud quando lo veo
+q<ue> mi (u)[p]erdicion oluido
+como sy vuiera biuido
+de las aguas de leteo}
+[fol. 13r]
+{CB2.
+{RUB. % Toma el autor por
+guia a vno delos q<ue> alli
+yuan.}
+% Allegue me con honor
+a vno delos ancianos
+digo le. dezid sen~or
+do lleuays el contendor
+delos moros arrianos
+respuso muy mesurado
+no te partas de mi junto
+& veras le coronado
+y su no<n>bre muy nonbrado
+beuir despues de defunto
+{RUB. % Dema<n>da el autor asu
+guia q<ue> le declare dos du-
+das.}
+% Dixele sen~or por dios
+que de vos & mi gozeys
+las sig($u)[u]ientes dudas dos
+reciba gracia de vos
+q<ue> vos me las declareys
+este duque don rodrigo
+ha de muerte resurgido
+ca por cierto yo vos digo
+discreto gentil amigo
+q<ue> en seuilla es fallecido
+{RUB. % Respuesta dela vna
+duda.}}
+{CB2.
+% Calla dixo no te enlaze
+tal cadena tu sentido
+el esta donde dios plaze
+su cuerpo so tierra yaze
+frio tumido tendido
+pero su fama notable
+es aquesta q($n)[u]e lleuamos
+quasi en forma corporable
+al canpo tan inefable
+do los buenos coronamos
+{RUB. % Pone la segunda du-
+da y la respuesta della.}
+% E dixe que tierra es esta
+tan feroz mortal y cruda
+no dixo es res honesta
+posponer tan rica fiesta
+por satisfazer tu duda
+spero ten por conclusion
+delo que tu me preguntas
+son los reynos de pluton
+do penan sin redencion
+las malas gentes defuntas
+{RUB. % Pone el peligro que
+al passar dela puente re-
+cibieron.}
+% Un cruel vie<n>to brama<n>do
+ala hora se leuanta
+toda la puente fuscando
+el q<u><<a>>l vino alli por mando
+de pluton y rada manta}
+{SG. c j}
+[fol. 13v]
+{CB2.
+para que los derribase
+dela puente ala fondura
+y en tal forma los tratase
+que vno solo no quedase
+que no fuese a su clausura
+% El duque muy fatigado
+se vio tan sin poderio
+que por poco arrebatado
+fue del carro y derribado
+en lo mas fondo del rio
+pero la diuina grac'ia
+lo quiso presto valer
+alli do el vate de tracia
+con su canto y su falacia
+sacar quiso su muger
+% De senbla<n>te y co<n>uenie<n>te
+no con modica sospecha
+caminamos sabia( )mente
+por aquella triste puente
+mal solada y muy estrecha
+y tan gra<n> priesa nos damos
+que presto della salimos
+en vn box q<ue> nos firmamos
+so las frondes y los ramos
+do mejor nos conpusimos
+{RUB. % Como llegaron alos
+canpos elisyos.}
+% Bien a pu<n>to co<n>certados}
+{CB2.
+tiramos cara los altos
+y sus alpes encunbrados
+vimos los ca<n>pos no<n>brados
+cercados d<e> vnbrosos saltos
+comenc'auan de sonar
+dulces ca<n>tos muy amenos
+las aues a[ ]garritar
+no cesando rebolar
+por los ayres muy serenos
+{RUB. % Jnuoca.}
+% Tu muy dulce calyope
+ten manera que bien ca<n>te
+no me fagas ser inope
+por que mi seso no tope
+en los versos dadelante
+sy no sabes que hare
+no canta<n>do conpete<n>te
+del todo te dexare
+y mis ojos boluere
+ala fija dela fuente
+% {RUB. Descrecio<n> d<e>los elisios}
+% Entramos por sus e<n>tradas
+bien notables y famosas
+con n<uest>ras lentas pisadas
+por que no fuessen folladas
+sus flores plantas y rosas
+todas juntas destilauan
+muy olie<n>tes sus licores
+otras tan biuas estauan}
+[fol. 14r]
+{CB2.
+que sus fojas matizauan
+de muy diuersos colores
+% Por sus collados y lomos
+altos pinos y laureles
+por los valles sinamomos
+narcisos jacintos pomos
+la myrra por los vergeles
+pendian delos frutales
+segund por orden estauan
+sus frutos muy especiales
+camuesas peros reales
+q<ue> a cojer se prouocauan
+% Salen delos fontanales
+las dulces aguas afines
+muy mas claras q<ue> cristales
+corrian por sus canales
+regando dos mill jardines
+otras bullendo b[r]otauan
+d<e>las fuentes segund mana
+la fuente do se ban~auan
+las nynphas q<ue> reguardaua<n>
+su gentil virgo diana
+{RUB. % Disputa con la diosa
+ceres diziendo le no te-
+ner jurisdicion en estos
+canpos.}
+% Callaras diosa ceres
+enmudece sotil henbra
+tu pagana como eres}
+{CB2.
+te llamas reyna y alferez
+delo q<ue> se coje y sienbra
+ca de frutos y simientes
+de derecho y de razon
+dizes que todas las gentes
+te hazen grandes presentes
+mas por fuerc'a q<ue> de don
+% Otrosy por semejante
+ensen~as tanto poder
+q<ue> reues de grand gigante
+con pisanica tajante
+jamas te puede vencer
+fuye tu fija de vesta
+cierra tus ojos & boca
+q<ue> de tan rica floresta
+por vn solo dios co<n>puesta
+te desechan como loca
+% Te<n> tus ca<n>po los no<n>brados
+de coricio y algezira
+los de joue dedicados
+no[ ]te seran sojusgados
+por mas que brama tu yra
+tiene<n> por sus guardadores
+las beligeras personas
+monarchas enperadores
+no menos otros sen~ores
+con sus cetros & coronas
+{RUB. % Continua la obra y
+dize auer les salido a re-
+cebir el cid ruy diaz de +}}
+[fol. 14v]
+{CB2.
+{RUB. la selua y lo que al du-
+que dize.}
+% Despu[e]s q<ue> ouimos e<n>trado
+por sus valles muy amenos
+nuestro cid muy esforc'ado
+nos salio por el costado
+delos syluaticos senos
+en muy altas proponia
+ven tu ven sangre de brigo
+goza dela conpan~ia
+de nuestra genalogia
+por do te llaman rodrigo
+% La vida que tu beuiste
+muy acepta fue ante dios
+y tal don por ella ouiste
+q<ue> en esperia do naciste
+te diran vno de dos
+por no ser tan assonbrada
+africa de cipyon
+como fue toda granada
+con los canpos de tablada
+de tu brauo corac'on
+{RUB. % Lo q<ue> responde el du-
+que al cid}
+% El duque de muy cortes
+el carro dexo y la silla
+dixo le puesto a sus pies
+vos dezis mas que no es
+o[ ]flor de toda castilla}
+{CB2.
+ca (f)[s]y bien escudrin~amos
+v<uest>ros fechos dela guerra
+a tan altos los hallamos
+q<ue> los nuestros acordamos
+de meter los so la tierra
+% No mas fuerte q<ue> temida
+vuestra persona graciosa
+cobro la fama perdida
+por conpas y por medida
+ca jamas le falto cosa
+y deste conoscimiento
+mi corac'on sometido
+le renace vn sentimiento
+que dela parte q<ue> siento
+se halla de vos vencido
+{RUB. % Como el cid le toma
+d<e>la mano y lo mete po[r]
+la sel(a)[u]a.}
+% Su diestra mano le toma
+entendida su razon
+luego por valle asoma
+muy mas gente q<ue> de roma
+suele salir a nagon
+mi potencia sensitiua
+alterada la sentia
+mayor( )mente la visiua
+de luz illuminatiua
+que del monte procedia}
+[fol. 15r]
+{CB2.
+{RUB. % Jnuoca el autor vna
+ninpha que tiene tal p<ro>-
+piedad d<e> sanar la cegue-
+dad delos ojos.}
+% Quita mirare de gana
+tu ciana mis antojos
+tu fuente siracusana
+es la que da lunbre y sana
+cataratas delos ojos
+nynpha tu primor alu<n>bre
+mis inconitos mentales
+que ofusca la clara lunbre
+dela bicipite cunbre
+mis ojos los corporales
+{RUB. % Nonbra algunos de
+los excelentes varones
+que alli vido.}
+% Alli vi los cipiones
+mayor( )mente el africano
+y los dos buenos varones
+que se dizen los catones
+conel tribuno romano
+jtem vide con oficio
+el honesto cincinato
+y de como vido el vicio
+el me[n]dicante fabricio
+con el muy justo torcato
+% E vi los enperadores}
+{CB2.
+julio cesar y trajano
+todos sus ante( )cesores
+con los nobles sucesores
+del muy buen otauiano
+jtem vide los argyuos
+los ajaces los atrides
+nestor vlixes muy biuos
+sus vultos inflamatiuos
+otros muchos con alcides
+% Uide luego los troyanos
+a[ ]troylo y sarpedon
+con sus armas enlas manos
+como q<u><<a>>ndo alos grecia<n>os
+ensen~auan corac'on
+paris el enamorado
+& con su tropel eneas
+ector el feroz nonbrado
+con menon muy esforc'ado
+socorro de sus peleas
+{RUB. Dize auer visto vn con-
+uento delos godos de
+castilla.}
+% Jtem vi mas vn conue<n>to
+de prole del godo cica
+asentado por asiento
+de muy gra<n>d merecimie<n>to
+en sillas de rota rica
+la excelencia dela rueda
+los mortales ojos tapa}
+[fol. 15v]
+{CB2.
+no[ ]se quien dezir lo pueda
+saluo q<ue> era fixa y queda
+como la rota del papa
+{RUB. % Nonbra algunos de
+los reyes de castilla.}
+% Alli vi muy prepote<n>tes
+los alfonsos coronados
+los ferna<n>dos muy valie<n>tes
+los enrriques consiguie<n>tes
+en sus sillas asentados
+alli se representaron
+dos cadiras que esperauan
+alos reyes que ganaron
+a granada y desiparon
+las gentes que judayzauan
+% Las q<u><<a>>les por sus pecados
+mostraron cara fingida
+merecieron ser borrados
+los s($u)[u]s nonbres & testados
+del buen libro dela vida
+y segund la condicion
+de falacia tan notoria
+merecen la punicion
+agenos del galardon
+q<ue> esperamos dela gloria
+{RUB. % Co<n>tinua la obra & di-
+ze auer visto ala fama
+como reyna & sen~ora de +}}
+{CB2.
+{RUB. la selua.}
+Uide e<n> medio muy fulge<n>te
+asentada en rica silla
+la fama muy prepotente
+hablando lo subsequente
+alos godos de castilla
+diziendo ya veys q<ue> viene
+quien no poco vos parece
+y segund el ayre tiene
+le conuino y le conuiene
+la corona que merece
+{RUB. % Llama la fama q<u><<a>>tro
+virtudes cardinales pa-
+ra que le den la corona.}
+% Uirtudes quatro venid
+no tardeys mucho por dios
+abrid los brac'os abrid
+que ya viene con el cid
+q<ue> trabajo por nos
+y de presto cogereys
+pinpollos de fuerte roble
+delos quales texereys
+la corona que dareys
+aquesta persona noble
+% Luego salen muy gr<aci>osas
+las virtudes y tan bellas
+que seras torpe sy osas
+loar otras de fermosas
+ante la presencia dellas
+alli vi las musas nonas}
+[fol. 16r]
+{CB2.
+fechas pedisecas retro
+destas q<u><<a>>tro nobles donas
+qu(a)[e] dar suelen las coronas
+y en la mano rico cetro
+% Luego la gente leuanta
+sus bozes lyras y flautas
+do reprueuan la garganta
+dela serena que canta
+por engan~ar alos nautas
+era tal la proporcion
+d<e>los pu<n>tos muy placie<n>tes
+que con mayor aficion
+se cantaua la cancion
+delos versos subsequentes
+{RUB. % Cancion.}
+% Nunca fue tan aso<n>brada
+africa de cipion
+como fue toda granada
+con los canpos de tablada
+de vos ponce de leon
+% y por este don que vos
+touistes tan glorioso
+vos sereys vno de dos
+pues asi lo quiso dios
+ante la fama famoso
+por non ser tan sitiada
+delos griegos y leon
+como fue toda granada
+con los ca<n>pos de tablada}
+{CB2.
+de vos ponce de leon
+{RUB. % Como le dauan la co-
+rona.}
+% Canta<n>do lo recibieron
+todo cubierto de flores
+tan rica silla le dieron
+q<u><<a>>l jamas nunca fizieron
+los humanos escultores
+tenperanc'a y fortaleza
+colocaron su persona
+la justicia con firmeza
+prudencia con sotileza
+le pusieron la corona
+% Con la qual en parescer
+las coronas delos nobles
+tenian bien que hazer
+segund[ ]se mando texer
+delas fojas delos robles
+por ende segund esmera
+la fama nuestro rodrigo
+tened ya tened dentera
+betycos dela frontera
+codiciando lo que digo
+{RUB. % Contra algu<n>d malici-
+oso.}
+% Calla calla tu que vas
+como cancro de traues
+ca por c(l)[i]erto mucho mas
+merescio por el conpas}
+[fol. 16v]
+{CB2.
+que merece el que lo es
+si no sabes que hare
+si dize contra tu lengua
+mis gargantas abrire
+asi te la mal dire
+que[ ]nunca le falte[ ]mengua
+{RUB. % Jncita el autor ala fa-
+ma vulgar para[ ]que pre-
+gonera sea desta fiesta.}
+% Oyes tu la inquisidora
+de vidas buenas y malas
+leuanta gentil cantora
+tu sotil boz adeshora
+cogidas las tus dos alas
+tal te pon en la carrera
+do sueles abrir tu pico
+delo dicho se chismera
+dexando ser pitrofera
+que es lo q<ue> mas te suplico
+% Si lo hazes dir te han
+las gentes a boca llena
+no son dichos dalbardan
+los del fijo de don juan
+conde darcos y marchena
+asi que tu le centaura
+pues te ruego tal varon
+en[ ]tu fuer(c)[c']a lo restaura
+tal[ ]que la popular aura}
+{CB2.
+bien reciba tu pregon
+{RUB. % Despidese el autor de
+la selua}
+% Sabeys q<ue> me acontecio
+coronado que lo vi
+dixo me el que me guio
+vete vete digo yo
+no parescas mas aqui
+recebi tan grand dolor
+co<n> lo mas que me propuso
+q<ue> bien como malhechor
+me dispuso mi temor
+a[ ]fuyr la cuesta suso
+{RUB. % Como le fueron fauo-
+rables las tres hadas.}
+% Peruenido enel altura
+alli fue luego comigo
+vna nuue muy escura
+mal fuscando mi figura
+con su muy tetro caligo
+rebato me por las arcas
+tan feroz a[ ]marauilla
+pero dizen las tres parcas
+no lo echeys e<n>las comarcas
+saluo dentro de seuilla
+% Apenas ouo callado
+la[ ]fatal boz de seguro}
+[fol. 17r]
+{CB2.
+quando me vi colocado
+to do mi suen~o priuado
+sobre el seuillano muro
+salian muy especiales
+los nueuos rayos de febo
+leuantauan se mortales
+con mill cuydados y males
+segund hize yo mancebo
+{RUB. % Fyn.}
+% Leuanto se mi cuydado
+ala[ ]par con mis sentidos
+hendo delo reuelado
+este metrico tratado
+menosprecio d<e> ente<n>didos
+pero por vn solo dios
+sy cerrado veys q<ue> hablo
+delos mas prudentes vos
+elegid juezes dos
+q<u><<a>>nto al seso y al vocablo}
+{CB2.
+{RUB. % Aqui se acaban las ci-
+ento y cincuenta coplas
+del laborinto del muy
+famoso cauallero don
+Rodrigo ponce de leo<n>
+duque de cadiz conpue-
+stas por fray Jua<n> de pa-
+dilla cartuxo professo
+delas cueuas de seuilla.}
+{RUB. % Jnpressas en seuilla enel a-
+n~o de mill & quatrocientos
+& nouenta y[ ]tres. }}

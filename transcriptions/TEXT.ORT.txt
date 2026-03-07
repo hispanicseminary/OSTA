@@ -1,0 +1,790 @@
+{RMK: HSMS-0160.}
+{RMK: Antonio de Nebrija.}
+{RMK: [ORT] Reglas de ortografía en la lengua castellana.}
+{RMK: Alcalá de Henares | Arnaldo Guillén de Brocar | 1517.}
+{RMK: Madrid | Biblioteca Nacional de España | R/1363.}
+{RMK: John O'Neill.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0160-0001: Reglas de ortografía en la lengua castellana.} {RUB. Prologo o prefacion del maestro Antonio de lebrixa
+enla obra que hizo sobre el orthographia del castellano:
+dedicada al muy noble & assi sabio & prudente varon el
+doctor Lorenc'o de caruajal senador del alto co<n>sejo dela
+Reyna & Rey nuestros sen~ores.}
+{IN3.} LOs dias passados quando v<uest>ra merced entrego a Ar-
+nao guillen la historia del muy esclarescido Rey don
+juan el segundo: para que la imprimiesse: le dixe q<ue> esta
+razo<n> de letras que agora teniamos enel vso del castellano: por
+la mayor parte estaua corro<m>pida. No digo io agora: q<ue> las pa-
+labras antiguas se ouiessen de reformar en otras nueuas: por
+que esto seria corro<m>per los libros: & no emendallos. Mas di-
+go que el dia de oi ninguno puramente escriue n<uest>ra le<n>gua por
+falta de algunas letras: que pronunciamos & no escreuimos:
+& otras por el contrario que escreuimos & no pronunciamos.
+I si los principes de nuestro siglo fuessen ta<n> codiciosos de eter-
+nidad: como aquellos antiguos: de cuias hazan~as nos espa<n>-
+tamos: cuyas virtudes nunca nos hartamos de alabar igua-
+lando las conel cielo: no dexaria<n> por cierto tal ocasion de imor-
+tal gloria q<ue> dellos para sie<m>pre quedasse: especialme<n>te en cosa q<ue>
+es la mas fauorable: de qua<n>tas los o<m>bres han hallado. Por
+que ni Palamedes enla guerra de Troia gano tanto no<m>bre
+en ordenar las batallas: en dar las sen~as: en comu<n>icar el apel-
+lido: en repartir las rondas & velas: en hallar los pesos & medi-
+das: qua<n>ta enla inue<n>cion de quatro letras: la y griega & tres q<ue>
+se aspira<n>. ch. ph th. Ni simonides poeta lyrico vno d<e>los nueue
+que Grecia celebra: tanta opinion y estima dexo de si en aq<ue>l su
+diuino poema: qua<n>ta en hallar otras cinco letras: tres dobla-
+das. x. z. ps. & dos sie<m>pre luengas. eta. & o mega. Ni los pheni-
+ces alcanc'aro<n> tan esclarecida fama de su posteridad: en hallar
+los trabucos & ho<n>das: en enderec'ar su nauigacio<n> al tino delas
+estrellas: en edificar muros & torres: en embiar sus poblacio-nes}
+[fol. 1v]
+{CB1.
+por todo el mundo: qua<n>to en ser los p<r><<i>>meros q<ue> hallaro<n> las
+letras. Ni cadmo hijo de Agenor rei d<e>los mismos phenices
+ta<n>to es me<n>tado por la inuencio<n> d<e>los metales & fundicio<n> d<e>llos:
+ni por auer hallado los mineros de piedra p<ar>a edificar: ni por
+auer poblado la ciudad de thebas en boecia: qua<n>to por auer
+traydo las letras d<e> su t<ie>rra: & auerlas comu<n>icado alos griegos
+Pero d<e>xemos alos phenices entera aq<ue>lla su gl<ori>a: que fueron los
+primeros inue<n>tores d<e>las letras: & a Cadmo q<ue> de phenicia las
+traxo a grecia: q<ue> necessidad touiero<n> palamedes & simonides d<e>
+buscar lo q<ue> no faltaua: pues q<ue> sin aq<ue>llas figuras d<e> letras q<ue> ha-
+llaro<n>: se podia mui bie<n> escreuir el griego[^2#?] Que necessidad touo
+Claudio emp<er>ador de oste<n>tar su a<n>tisigma: pues q<ue> por la. ps. se
+podia representar aq<ue>lla boz. No pie<n>so io q<ue> por otra causa estos
+se mouian: sino porq<ue> dellos q<ue>dasse alguna memoria. E agora
+n<uest>ros pri(~)ncipes tenie<n>do ta<n> aparejada la materia p<ar>a ganar ho<n>-
+rra: en mostrar seis figuras d<e> letras que nos faltan: & sin las q<u><<a>>les
+no podemos escreuir n<uest>ra le<n>gua: dissimula<n> lo & passan por ello
+no cura<n>do de proueer a ta<n>ta necessidad: ni a ta<n> poca costa & tra-
+bajo co<n>seguir ta<n> gl<or>ioso reno<m>bre e<n>tre los p<re>sentes: & los q<ue> esta<n> por
+venir. Esto q<u><<i>>se sen~or entre ta<n>to testificar a v<uest>ra li<m>pieza & genero-
+so animo: porq<ue> por aue<n>tura en algu<n> t<iem>po me sera buen interces-
+sor p<ar>a poner en obra este mi cuidado. El qual a mi peligro ya
+auria puesto so la ce<n>sura d<e>l pueblo: sino q<ue> temo q<ue> p<ar>a juzgar d<e>lla
+se hara lo q<ue> suele co<n>tando los votos & no po<n>dera<n>dolos. Como
+vemos q<ue> se hizo enel comie<n>c'o d<e>l po<n>tificado de Nicolao q<u><<i>>nto: q<ue>
+ponie<n>dose en dubda si la. c. de aq<ue>l no<m>bre auia de ser aspirada o
+sotil: metida la cosa a p<ar>tido d<e> votos: e<n>tre copistas & escriptores
+d<e>la vna p<ar>te: & los varones doctos d<e> aq<ue>l t<iem>po d<e>la otra: vencio la
+ignora<n>cia porq<ue> tuuo mas votos: & por aquellos dada la sente<n>-
+cia: come<n>c'aro<n> todos a escreuir nichola<us> con ch. enel q<u><<a>>l error avn
+los nin~os agora no cae<n>. Otro ta<n>to se hizo en t<iem>po de sisto el segu<n>-
+do q<ue> llamandose el p<r><<i>>mero xysto co<n>. x. & y. griega: ta<n>to pudo la
+ignora<n>cia delos cortesanos q<ue> por xysto trastrocadas las p<r><<i>>me-
+ras letras & mudada la. y. griega en latina escriuieron sixto.}
+[fol. 2r]
+{CB1.
+{RUB. Reglas de orthographia enla
+lengua castellana co<m>puestas por el Maestro
+Antonio de lebrixa.}
+{IN6. {ILL.}} ENtre todas las cosas que por experiencia los
+ombres hallaron: o por reuelacio<n> diuina les fu-
+eron demonstradas para polir & adornar la vi-
+da humana: ninguna otra fue ta<n> necessaria: ni
+que maiores prouechos nos acarreasse: que la
+inuencion de las letras. La qual parece q<ue> ouo
+origen de aquello: que ante que las letras fuessen halladas:
+por imagines representauan las cosas: de que querian dexar
+memoria. como por la figura de la mano diestra tendida signi-
+ficaua<n> la liberalidad. & por ella mesma cerrada el auaricia. por
+la oreja la memoria. por las rodillas la misericordia. por vna
+culebra enroscada el an~o: & assi delas otras cosas. Mas por q<ue>
+este negocio era infinito & muy confuso: el primero inue<n>tor de
+letras quien quiera que fue: miro quantas differentias de bo-
+zes avia en su lengua: & tantas figuras de letras hizo: por las
+quales puestas en cierta orden represento todas las palabras
+que quiso: assi para su memoria: como para hablar con los ab-
+sentes: & los que estan por venir. Assi que no es otra cosa la le-
+tra: sino trac'o o figura: por la qual se representa la boz. Mas as-
+si como es la cosa mas prouechosa de quantas los ombres ha-
+llaron: assi es la mas facile de[ ]se corromper: & en que el dia de
+oy mas se yerra no solamente enlas lenguas peregrinas: mas
+enesta nuestra castellana: enla qual por la mayor parte escriui-
+mos vna cosa: & pronunciamos otra co<n>tra el uso de aquello pa-
+ra que fueron halladas. & por esta causa pense de poner algun
+remedio: assi para emendar lo que esta escripto: como para lo
+que de aqui adelante se ouiere de escriuir. & por que en toda sci-encia}
+{SG. a}
+[fol. 2v]
+{CB1.
+que p<ro>cede por demonstracion: se han de presuponer las
+diffiniciones delos terminos de aq<ue>lla scie<n>cia: de donde se pue-
+de saber q<ue> es aq<ue>llo de[ ]q<ue> se disputa: & los principios esso mesmo
+q<ue> los griegos llaman dignidades: & los latinos co<m>munes co<n>-
+ceptos q<ue> no se pueden negar: de ho<m>bre q<ue> tenga comu<n> razon: y
+negandolos conel tal no se deue disputar. Antes[ ]que venga-
+mos a esta co<n>sideracion: pusimos primero las diffiniciones q<ue>
+para ello son menester: & despues las dignidades: de do<n>de co<n>-
+cluiremos lo[ ]q<ue> se sigue. assi parec'era manifiesta me<n>te en quan-
+tos errores estan los nuestros cerca de la verdadera scriptura
+del lenguaje castellano.
+{RUB. Diffinicion primera.}
+Que la letra es la menor p<ar>te dela boz q<ue> se puede escriuir. Esta
+diffinicio<n> es assi delos griegos como delos latinos: & co<m>pete a
+todas las otras lenguas. porq<ue> si yo djgo sen~or: esta boz se par-
+te en dos sillabas: q<ue> son se & n~or. & el se despues en. s. &. e. & la. s.
+ya no[ ]se puede partir. & por esso co<m>petir le ha la diffinicio<n> de la le-
+tra: & puede se escriuir: q<ue> es la vltima differencia q<ue> se puso en la
+diffinicion. porq<ue> si no se pudiese escriuir: ya no seria letra como
+es el sonido del viento: & otras bozes que los latinos llaman
+inarticuladas.
+{RUB. Diffinicion segunda}
+Que la vocal es letra q<ue> se forma en tal parte dela boca: q<ue> pue-
+de sonar por si sin se mezclar ni ayuntar co<n> otra letra alguna. &
+por esso se llama vocal: porq<ue> tiene boz por si. como la. a. la qual
+sin ayuda de otra qual quiera letra se puede p<ro>nu<n>ciar & por esso
+co<m>petirle ha la diffinicion de vocal.
+{RUB. Diffinicion tercera.}
+Que la co<n>sonante es letra: la q<u><<a>>l se forma en tal parte de la boca
+q<ue> no se puede p<ro>nu<n>ciar sin ayuda de alguna vocal. & por esso se
+llama consona<n>te: porq<ue> suena co<n> otra letra vocal. como la. b. no
+puede sonar sin ayuda de la. e.}
+[fol. 3r]
+{CB1.
+{RUB. Diffinicion quarta}
+Que la muda es letra: que se forma en tal parte de la boca: q<ue>
+ni poco ni mucho puede sonar por estar cerrados los lugares
+por donde auia de sallir aquella boz. como la. d. & la. p. que no
+pueden por si sonar por estar los bec'os apretados. la. t. & la. d.
+por estar la lengua atrauessada entre las helgaduras delos
+dientes. la. c. & la. g. por estar la campanilla trauessada enel
+gargauero.
+{RUB. Diffinicion quinta}
+Que la semiuocal es letra: la qual se forma en tal parte dela
+boca: que aunque no suena tanto como la vocal: suena mas
+que la muda: & por esso se llama assi. como la. l. n. r. s. las qua-
+les estando abiertos aquellos lugares donde se formaua<n> las
+mudas estando cerrados: & hirie<n>do la lengua en ciertos luga-
+res del paladar: en alguna manera suenan.
+{RUB. Diffinicion sexta}
+Que la sillaba es ayuntamiento de letras: las quales se pue-
+den pronunciar en vn espiritu hiriendo la primera a la segun-
+da: & la segunda a la tercera: & la tercera a la quarta: & como
+qujera que enel latin seis letras se pueden coger en vna silla-
+ba: el castellano no sufre mas de quatro. & porque quando las
+vocales suena<n> por si hazen sillaba aq<ue>llo es i<m>propria me<n>te porq<ue>
+como diximos la sillaba es ayuntamiento de letras
+{RUB. Diffinicion septima.}
+Quel diphthongo es ayuntamie<n>to de dos vocales q<ue> se coge<n> en
+vna sillaba & pronu<n>cian en vn acento: no como las consonan-
+tes hiriendo la vna a la otra: mas sonando cada vna por si co-
+mo diziendo causa la. a. & la. u. haze vna sillaba y pronunciase
+debaxo de vna herida y ace<n>to. destos el griego tiene seis el la-
+tin quatro el castellano doze.}
+[fol. 3v]
+{CB1.
+{RUB. Principio primero}
+que assi como los conceptos del entendimie<n>to responde<n> a las
+cosas que entendemos: & assi como las bozes y palabras respo<n>-
+den a los conceptos: assi las figuras delas letras han de respo<n>-
+der alas bozes. porq<ue> si assi no fuese en vano fuero<n> halladas las
+letras: & la scriptura no menos seria falsa: que si el entendimie<n>-
+to concibiese vna cosa por otra: & las palabras representassen o-
+tra cosa delo quel entendimiento concibe. Assi que sera este el
+primero principio el qual ningu<n>o que tenga seso comu<n> puede
+negar: q<ue> las letras & las bozes & los co<n>ceptos & las cosas dellos
+ha<n> de co<n>cordar. porq<ue> de otra manera cometerseia me<n>tira & fal-
+sedad enla cosa de quantas los hombres hallaron para vtili-
+dad & arreo dela vida humana: allende que ni terniamos reli-
+gion: ni sabriamos que nos mando ni vedo Dios primera me<n>-
+te por moisen & todos los otros profetas & despues por su hijo
+nuestro saluador & sus apostolos & euangelistas.
+{RUB. Principio segundo}
+que asi tenemos descreuir como hablamos & hablar como es-
+criuimos. Este es de si manifiesto: porq<ue> no tiene<n> otro vso las fi-
+guras delas letras sino representar aquellas bozes q<ue> enellas
+depositamos: para que ni mas ni menos tornen a[ ]dar de quan-
+to dellas confiamos. & que si algunas se escriuen q<ue> no se pronu<n>-
+cian o por el contrario algo se pronuncia delo que no esta escri-
+pto: esto sera por necessidad de no auer figuras de letras para
+sen~alar todo lo que se puede hablar.
+{RUB. Principio tercero}
+que la diuersidad delas letras no esta enlas figuras dellas si-
+no enla diuersidad de la pronu<n>ciacion. porq<ue> aunq<ue> tu escriuas
+el aleph hebraico & el alpha griego & el alipha morisco & el. a. la-
+tino: todavia es vna. a. & los q<ue> escriuen alguna cosa por cifras
+cada dia muda<n> nueuas figuras aunq<ue> nu<n>ca se muda la pronu<n>-
+ciacion dellas. & por el contrario quando por vna figura se re-
+presenta<n> dos bozes o mas: ya aq<ue>lla no es vna letra sino dos o}
+[fol. 4r]
+{CB1.
+tres pues que le damos mas officios del vno que auia de tener
+como la. i. & la. u. quando son vocales: otras son que quando
+son consonantes.
+{RUB. Principio quarto}
+que aunq<ue> las bozes humanas sean infinitas porq<ue> los instru-
+mentos & miembros donde se forman en infinitas maneras se
+pueden variar: cada lengua tiene ciertas & determinadas bo-
+zes: & por consiguiente ha de tener otras tantas figuras de le-
+tras para las representar. Porq<ue> en otra manera sobrarian al-
+gunas & faltaria<n> otras que es grande enco<n>ueniente para co<n>ser-
+uar aq<ue>llo de q<ue> q<ue>remos hazer memoria assi para nosotros como
+para los ausentes & los q<ue> estan por venir.
+{RUB. Principio quinto}
+que las consonantes igualme<n>te pasan sus fuerc'as & bozes alas
+vocales que se sigue<n>. lo qual se prueua por inducion de todas
+ellas en todos los lenguajes q<ue> se ha<n> reduzido a letras porq<ue> en
+la mesma manera suena la. b. co<n> la. a. q<ue> co<n> la. e. que co<n> la. i. q<ue> co<n>
+la. o. q<ue> co<n> la. u. porq<ue> por el tercero pri<n>cipio si en otra manera so-
+nasse co<n> la. a. q<ue> co<n> la. e. ia no seria vna letra sino dos como la. c. &
+la. g. alas quales si damos otra pronu<n>ciacion co<n> la. a. q<ue> con la
+e. [s]eguirseia que cada vna dellas vale por dos.
+{RUB. Principio sexto}
+que pues cada lengua como diximos enel quarto principio ti-
+ene determinadas bozes: & por co<n>siguiente ciertas letras por
+las quales aq<ue>llas se ha<n> de representar veamos como dize qui<n>-
+tiliano si de aq<ue>llas figuras de letras que estan enel vso para es-
+criuir la lengua castellana sobran algunas & por el contrario
+faltan otras & por consiguiente a otras damos la pronu<n>ciacio<n>
+y officio q<ue> por si ellas no tiene<n>: para[ ]lo qual eso mesmo se ha de
+presuponer q<ue> asi como los griegos tomaro<n> las letras delos he-
+breos & los latinos del griego: asi los hispanos las recibieron
+del latin. pero delas q<ue> recibio algunas sobra<n> como la. k. & la. q.
+otras faltan como la. i. & la. u. quando son co<n>sona<n>tes. & a otras}
+{SG. a. iii.}
+[fol. 4v]
+{CB1.
+damos el sonido q<ue> ellas no tienen como a la. x. & ala. ch.
+{RUB. Principio septimo.}
+que nunca dos consonantes de vna especie pueden herir la vo-
+cal que se sigue: ni[ ]se pueden ordenar despues della. & que si al-
+gunas dellas se doblaren: esto sera en medio dela dicion. & la
+primera pertenecera a la vocal precedente: & la segunda a la
+siguiente.
+{IN2.} DIze quintiliano enel primero libro de sus oratorias in-
+stituciones que el que quiere reduzir en artificio algun
+le<n>guaje: primero es menester: que sepa: si de aquellas figuras
+de letras que estan enel vso: sobran algunas: & si por el contra-
+rio faltan otras. & ta<n> bien si damos a otras el sonido q<ue> ellas no
+tienen. & primera mente dezimos q<ue> de veinte & tres figuras de
+letras q<ue> tomamos prestadas del latin para escriuir nuestra len-
+gua castellana: sola me<n>te nos sirue<n> por si mesmas estas doze. a
+b. d. e. f. m. o. p. r. s. t. z. por si mesmas & por otras: seis. c. g. i. l. n
+u. por otras & no por si mesmas estas cinco. h. k. q. x. y griega.
+Assi que co<n>tadas & reconocidas las bozes q<ue> hai en nuestra le<n>-
+gua: hallaremos q<ue> son veinte & seis: a las quales aujan de re-
+sponder otras veinte & seis figuras de letras para bien & distin-
+ta me<n>te las representar. pero agora todo lo q<ue> escriuimos: esta
+co<n>fuso y e<m>buelto en mil errores por la falta de las letras de la
+vna parte: & por la sobra de otras. lo qual por manifiesta & suffi-
+ciente inducion se prueua en la forma siguiente. De las doze
+figuras de letras que diximos q<ue> nos siruen por si mesmas: no
+hai duda si no q<ue> representan las bozes q<ue> traxeron consigo del
+latin: & nos otros agora les damos enel castellano. & q<ue> la. c. k.
+q. tiene<n> vn officio: & por co<n>siguie<n>te las dos dellas era<n> ociosas:
+porq<ue> d<e>la. k. ni<n>gu<n>o duda sino[ ]q<ue> es muerta: en cuyo lugar como
+dize qui<n>tiliano sucedio la. c. la qual igual me<n>te traspassa su fu-
+erc'a a todas[ ]las vocales q<ue> se sigue<n>. De la. q. no nos aprouecha-
+mos sino por voluntad: porq<ue> todo lo[ ]q<ue> agora escriuimos co<n>. q.}
+[fol. 5r]
+{CB1.
+podriamos escriuir co<n>. c. mayor me<n>te si ala. c. no le diessemos
+ta<n>tos officios: q<u><<a>>ntos agora le damos La. y. griega ta<n> poco yo
+no veo de[ ]q<ue> sirue: pues[ ]q<ue> no tiene otra fuerc'a ni sonido q<ue> la. i. la-
+tina: saluo si q<ue>remos vsar della en los lugares donde podria
+venir en duda si la. i. es vocal o consonante. como escriuiendo
+raya. ayo. yunta. Si pusiessemos. i. latina diria otra cosa mui
+diuersa. raia. aio. iunta. Assi[ ]q<ue> de veinte & tres figuras de le-
+tras quedan solas ocho: por las quales agora representamos
+quatorze pronunciaciones multiplicando los officios enesta
+manera. La. c. tiene tres officios: vno proprio qua<n>do despues
+della se siguen. a. o. u. como enlas primeras letras destas dici-
+ones. cabra. corac'on. cuero. Tiene tan bien dos officios presta-
+dos: vno quando de baxo della acostumbramos poner vna se-
+n~al que llaman c'erilla: como en las primeras destas di-
+ciones: c'arc'a: (c)[c']euada: la qual pronunciacion es propria de ju-
+dios & moros delos quales quanto yo pienso la recibio nue-
+stra lengua: porque ni los griegos ni latinos que bien pronu<n>-
+cian: la sienten ni conocen por suya. De manera que pues la.
+c. puesta de baxo aquella sen~al: muda la substancia de la pro-
+nunciacion: ya nos es. c. sino otra letra: como la tienen distin-
+cta los judios & moros: delos quales nosotros la recebimos:
+quanto ala fuerc'a: mas no quanto ala figura que entrellos tie-
+ne. El otro officio que la. c. tiene prestado: es quando despues
+della ponemos. h. qual pronunciacion suena enlas primeras
+letras destas diciones. chapin. chico. la qual assi es propria de
+nuestra lengua: que ni judios: ni moros: ni griegos: ni lati-
+nos la conoce<n> por suya. nosotros escriuimos la co<n>. ch. las qua-
+les letras tiene<n> otro son mui diuerso del q<ue> nosotros les damos
+La. g. tiene dos officios vno p<ro>prio: qual suena quando despu-
+es della se siguen. a. o. u. otro prestado: quando despues della
+se sigue<n>. e. i. como enlas primeras letras destas[ ]diciones. gallo
+gente: giro<n>: gota: gula: la qual quando suena co<n>. e. i. assi es pro-
+pria de nuestra le<n>gua: q<ue> ni judios: ni griegos: ni lati<n>os la sie<n>te<n>:}
+[fol. 5v]
+{CB1.
+ni puede<n> conocer por suya: sino el arauigo: del qual yo pie<n>so q<ue>
+nos otros la recebimos. La. h. no sirue por si en nuestra le<n>gua:
+mas vsamos della para tal sonido: qual pronu<n>ciamos enlas
+primeras letras destas palabras. hago. hecho. la qual figura
+aunq<ue> enel latin no tenga fuerc'a de letra: es cierto q<ue> como nos
+otros la pronu<n>ciamos: se puede contar enel numero delas le-
+tras: como los judios & moros delos quales nos otros qua<n>to
+yo pienso la recebimos: la tiene<n> por letra. La. i. tiene dos offici-
+os. vno p<ro>prio quando vsamos della como de vocal. como en
+las primeras letras destas palabras ira: igual. otro comu<n> con
+la. g. porq<ue> quando vsamos della como de co<n>sona<n>te: ponemos
+la qua<n>do se sigue. a. o. u. mas qua<n>do se sigue. e. o. i. en lugar de-
+lla ponemos la. g. como arriua diximos. La. l. tiene dos offici-
+os vno p<ro>prio qua<n>do la ponemos senzilla. Como enlas prime-
+ras letras destas palabras lado. luna. otro ageno qua<n>do la do-
+blamos: & le damos tal pronu<n>ciacio<n>: qual suena en las prime-
+ras letras destas palabras llaue. lleno. la qual boz ni judios:
+ni moros: ni griegos: ni latinos conoce<n> por suya: ni tiene<n> letras
+para la poder escriuir. assi que sera entrellos boz inarticulada.
+La. n. esso mesmo tiene dos officios. vno proprio qua<n>do la po-
+nemos senzilla: qual suena enlas primeras letras destas pala-
+bras naue no<m>bre. otro ageno: quando la ponemos doblada o
+co<n> vna tilde encima. como enlas primeras letras destas pala-
+bras nnudo: nnublado o en las siguie<n>tes destas anno. sennor
+lo qual no podemos mas hazer q<ue> lo q<ue> deziamos dela. l. dobla-
+da. ni el titulo sobrella puede rep<re>se<n>tar: lo q<ue> nos otros q<ue>remos.
+La. u. como diximos dela. i. tiene dos officios vno p<ro>prio qua<n>-
+do suena por[ ]si como vocal assi como enlas primeras letras de-
+stas diciones. vno. vso. otro prestado qua<n>do hiere la vocal q<u><<a>>l
+pronunciacion suena enlas primeras letras destas palabras.
+uo. uengo. La. x. enel latin no es otra cosa sino breuiatura de.
+cs. o de. gs. nosotros damos le tal sonido qual suena enlas pri-
+meras letras destas diciones xabon. xenabe. o enlas vltimas}
+[fol. 6r]
+{CB1.
+balax. relox. la qual pronunciacion es propria dela le<n>gua ara-
+uiga: de do<n>de parece: que nosotros la recebimos. porque otra
+lengua ninguna la reconoce por suia: & los moros siempre la
+ponen en lugar de n<uest>ra. s. & por lo que nosotros dezimos sen~or
+san simon por. s. ellos dizen xenor. xan. ximon por. x. Assi que
+delo q<ue> auemos dicho: se concluye & sigue lo q<ue> queriamos pro-
+uar: quel castellano tiene veynte & seys diuersas p<ro>nu<n>ciacio<n>es
+& que de veynte & tres figuras de letras: q<ue> tomo prestadas d<e>l
+latin: no nos siruen por si saluo las doze p<ar>a representar las do-
+ze p<ro>nunciaciones: que traxeron co<n>sigo del latin: & q<ue> todas las
+otras se escriuen co<n>tra toda razo<n> de orthographia: como parece
+claro por lo q<ue> auemos dicho: pues q<ue> a algunas dellas damos
+dos o tres officios: & a otras el sonido q<ue> ellas no tenian. Assi q<ue>
+sera n<uest>ro. a b c. destas veinte & seis letras p<ro>prias & improprias.
+a. b. c. c'. ch. d. e. f. g. h. i. vocal. i. co<n>sona<n>te. l. senzilla. l. doblada.
+m. n. sin titulo. n. con titulo. o. p. r. s. t. u. vocal. u. consona<n>te. x.
+z. porq<ue> ala. k. & ala. q. ningun vso le[s] queda ni p<ro>prio ni impro-
+prio: pues q<ue> por la. c. se puede suplir aq<ue>llo de q<ue> agora siruen.
+{RUB. Del remedio que se podria tener para escreuir
+rectamente el castellano. Cap<itulo>. ij.}
+{IN2.} VEngamos agora al remedio q<ue> se podria tener p<ar>a escre-
+uir las p<ro>nunciaciones del castellano: q<ue> agora represen-
+tamos por ageno officio de letras. la. c. como diximos tiene
+tres officios: & por el co<n>trario la. c. & la. k. & la. q. tiene<n> vn officio.
+& si agora repartiessemos estas tres figuras d<e> letras por aq<ue>llas
+tres p<ro>nu<n>ciaciones: todo el negocio en aq<ue>sta parte seria hecho.
+Mas porq<ue> en aquello q<ue> es como lei consentida por todos: es
+cosa dura hazer nouedad: podiamos tener esta te<m>planc'a: q<ue> la.
+c. valiesse por aq<ue>lla boz q<ue> diximos ser suia p<ro>pria llamando la
+por el no<m>bre del sonido q<ue> tiene: segu<n> que se haze enlas otras le-
+tras: que siruen solamente por si mesmas: & que la mesma. c.
+puesta debaxo aquella sen~al que llaman cerilla: valiesse por la
+otra pronunciacion que responde al c'ama hebraico: & auia de}
+[fol. 6v]
+{CB1.
+responder ala figura griega & ala. s. latina: llama<n>dola por[ ]el no<m>-
+bre dela boz que tiene. & que lo q<ue> agora se escriue con ch. se escri-
+uiesse co<n> vna nueua figura: la qual se llamasse del nombre de
+su fuerc'a. & mientras que para ello no entreuiene el autoridad
+delos principes: o el publico consentimiento delos que tienen
+poder para hazer vso: sea la. ch. con vn titulo encima: para de-
+mostrar q<ue> aquellas dos figuras no representan la boz que le
+damos: & q<ue> por aquel titulo suplimos el defecto. La. g. como
+diximos tiene dos officios: vno p<ro>prio & otro prestado. ta<m>bie<n> la
+i. tiene otros dos: vno qua<n>do es vocal & otro qua<n>do es conso-
+na<n>te: el qual concurre co<n> la. g. qua<n>do despues della se sigue<n> la
+e. & la. i. Assi q<ue> dexando la. g. & la. i. en[ ]sus proprias fuerc'as: co<n>
+vna figura q<ue> an~adiessemos p<ar>a represe<n>tar lo q<ue> agora suplimos
+con la. g. & co<n> la. i. qua<n>do les damos ageno officio: q<ue>da hecho
+lo q<ue> buscamos: da<n>do les toda via a estas el no<m>bre d<e>la boz que
+tiene<n>. Esta figura de letra que falta podria ser la. y. griega: sal-
+uo q<ue> esta en vso de ser sie<m>pre vocal. Mas porq<ue> no seamos au-
+tores de tanta nouedad: sea la. j. lue<n>ga: & ento<n>ces la. y. griega
+quedara sin algu<n> officio. La. l. tiene dos officios: vno proprio
+que traxo co<n>sigo del latin: & otro prestado qua<n>do la ponemos
+doblada. & por no hazer mudanc'a sino donde mucho es mene-
+ster: dexaremos esta. ll. doblada para representar lo q<ue> por ella
+escreuimos agora co<n> dos co<n>diciones: la p<r><<i>>mera q<ue> le po<n>gamos
+el no<m>bre dela boz q<ue> tiene. la segu<n>da q<ue> para mostrar q<ue> es vna le-
+tra: quitemos el pie ala segu<n>da: como qua<n>do escreuimos esta
+p<ar>te mill. & assi sera<n> estas dos letras por[ ]el tercero principio. La
+n. tiene dos fuerc'as: vna q<ue> traxo consigo d<e>l latin: & otra que le
+damos agena dobla<n>dola: o poniendo le vn titulo encima. &
+agora dexando la. n. senzilla en[ ]su fuerc'a: para representar aq<ue>l
+sonido que le queremos dar prestado: pornemos le vn titulo
+encima para demostrar la impropriedad dela escriptura como
+dezimos dela. ch. entendie<n>do toda via q<ue> son dos letras por el
+mesmo tercero p<r><<i>>ncipio. La. u. tiene dos fuerc'as: vna de vocal}
+[fol. 7r]
+{CB1.
+& otra de consonante. tambien tiene dos figuras: vna redo<n>da
+de q<ue> vsamos enel comie<n>c'o delas palabras: & otra de q<ue> enel me-
+dio dellas. & pues q<ue> aquella de que vsamos enlos comienc'os
+si se sigue vocal sie<m>pre es alli consonante: vsemos della siempre
+como de consonante: queda<n>do la otra por vocal en todos los
+otros lugares. La. x. avn q<ue> enel griego & enel latin de do<n>de re-
+cebimos esta figura: vale tanto como. cs. porq<ue> en nuestra len-
+gua de ninguna cosa nos puede seruir: quedando en su figura
+con vn titulo: daremos le aquel son q<ue> arriba diximos n<uest>ra len-
+gua auer tomado del arauigo llama<n>dola por el nombre de su
+fuerc'a. Delos tres officios q<ue> agora tiene la. h. abaxo diremos
+en su lugar.
+{RUB. Dela. b. & u. consonante o vocal. Cap<itulo>. iij.}
+{IN2.} I Dexando agora lo q<ue> se podria hazer para bie<n> & iustame<n>-
+te escreuir el castellano: ve<n>gamos alo q<ue> se haze contra to-
+da razon de orthographia & letras escreuie<n>do vna cosa & p<ro>nu<n>-
+ciando otra: contra el segundo principio q<ue> presuposimos. El
+qual error por la mayor parte acontece a causa del parentesco
+& vezindad q<ue> tienen vnas letras con otras: como entre la. b. &
+la. u. consonante: en ta<n>to grado que algunos d<e>los n<uest>ros apenas
+las pueden distinguir assi enla escriptura como enla p<ro>nuncia-
+cion: siendo entre ellas ta<n>ta differencia: qua<n>ta puede ser entre
+qualesquier dos letras. Mas ya no nos marauillemos q<ue> los
+indoctos & agenos deste conocimiento yerren: pues q<ue> vemos
+que los griegos: enlos quales parece q<ue> queda todo el saber:
+del todo esten perdidos enla pronunciacion de su beta hazien-
+do la sonar por la boz: que en ninguna manera ellos conocen
+por suya: & es propria de hebreos & latinos. & como quiera que
+este error es tolerable & se puede escusar: porque el son d<e>la vna
+esta cerca dela otra: como defenderan aquello que dan el mes-
+mo son de su beta al ypsilon quando se sigue en diphthongo
+ala alpha & epsilon. porque si estas tres letras. beta. u. consona<n>-
+te & ypsilon tienen vn sonido son vna letra & no tres por el ter-cero}
+{SG. b}
+[fol. 7v]
+{CB1.
+principio. Enel mesmo error estan los hebreos quando p<ro>-
+nuncian su beth con raphe como. u. co<n>sonante. porq<ue> la beth co<n>
+raphe & sin raphe no diffieren sino en ser floxa o apretada. la q<u><<a>>l
+differe<n>cia no haze diuerso genero de letras: no mas q<ue> las otras
+letras q<ue> no diuersifica<n> la figura por ser floxas o apretadas: por
+el mesmo principio tercero. Deste error ya rescebido por hebre-
+os & griegos se siguio otro mayor: q<ue> los interpretes boluiessen
+la beth o beta en. u. consonante: delo qual mas diffusame<n>te dis-
+putaremos en otro lugar. Mas dado q<ue> estas letras por la ve-
+zindad q<ue> tienen entre si: passen la vna enla otra: que diremos
+que enla edad de nuestros abuelos la. u. co<n>sonante latina bol-
+uian en. b. como de {LAT. ciuitas} & {LAT. ciuis} cibdad & cibdadano. & des-
+pues nosotros la. b. boluimos en. u. vocal diziendo ciudad &
+ciudadano. & assi de debdo & debdor hezimos deuda & d<e>udor.
+como en latin de {LAT. ab} & {LAT. fugio aufugio.} otra mudanc'a que de {LAT. re
+cauta} & {LAT. rei cautor} nuestros abuelos hiziero<n> recabdo & recabda-
+dor con. b. nosotros recaudo & recaudador con. u. vocal como
+enel latin.
+{RUB. De tres officios dela. h. Cap<itulo>. iiij.}
+{IN3.} LA. h. tiene tres officios. el primero qua<n>do representa la
+boz: que comunme<n>te succedio ala. f. latina: como de {LAT. fa-
+cio. fili<us>. ficus.} hago. hijo. higo. & avn los antiguos en
+vida de nuestros abuelos dezian fago. fijo. & entonces es letra
+pues q<ue> representa boz & se puede escreuir por la primera diffini-
+cion. El segundo officio dela. h. es qua<n>do se pone antes d<e>la. u.
+La qual porq<ue> alas vezes es vocal & alas veces consona<n>te: an-
+teponemos la. h. no porq<ue> te<n>ga sonido algu<n>o: mas p<ar>a d<e>mostrar
+que la. u. es vocal & no consonante: como dizie<n>do huerto. hue-
+uo. huesped. porq<ue> si la. h. no se antepusiesse: por ventura leerias
+verto. veuo. vesped. por. u. consonante. & entonces no es letra
+ni le co<m>pete la diffinicio<n> de letra pues q<ue> no representa boz algu-
+na: ni otro algun vso tiene: sino el q<ue> diximos. El tercero officio
+dela. h. es: quando se pone despues dela. c. p<ar>a representar aque-lla}
+[fol. 8r]
+{CB1.
+boz qu[e] es propria de espan~a. ni hai entre nosotros figura de
+letra con que se pueda escreuir. como enestas palabras mucho
+muchacho. porq<ue> ni la. c. ni la. h. ni entrambas iuntas pueden
+representar aquel sonido que les damos. mas pone<n>se ambas
+para suplir aquel defecto dela figura que deziamos que para
+ello era menester. el qual quisiero<n> significar por vna tilde que
+acostumbramos poner encima. Otro officio tiene no tan neces-
+sario como los de arriba. & es que en algunas palabras que
+enel latin tienen aspiracion quando las boluemos en roman-
+ce dexamos la: no para que suene: mas para que a imitatio<n> de
+los latinos acompan~e la vocal que se sigue. como diziendo ho<n>-
+ra. humanidad. humildad.
+{RUB. Dela. r. & dela. s. Cap<itulo>. v.}
+{IN3.} AContece alas letras ser floxas o apretadas: & por consi-
+guiente sonar poco o mucho. como la. r. & la. s. porq<ue> en
+comienc'o dela palabra suenan dobladas o apretadas
+como diziendo rei. roma. sabio. sen~or. Esso mesmo en medio de
+la palabra suenan mucho: si la sillaba precedente acaba en co<n>-
+sonante: & la siguiente comienc'a en vna dellas. como dizie<n>do
+enrique. honrado. bolsa. ansar. De donde se conuenc'e el error
+delos que escriuen con. r. doblada rei. & enrique. pero si la silla-
+ba precedente acaba en vocal: la. r. o la. s. en que comienc'a la
+sillaba siguiente suena poco. como diziendo vara. pero. vaso.
+peso. Pero si suenan apretadas: doblar se han en medio dela
+palabra. como diziendo. amassa. passa.. carro. jarro. De do<n>de
+se puede coger: qua<n>do estas dos letras se han de escreuir senzi-
+llas: & quando dobladas mirando a la pronunciacion: si es
+apretada: o si es floxa: & si es enel comienc'o dela palabra o enel
+medio. & acontece que vna mesma palabra & pronunciada
+en vna mesma manera: se puede escreuir alas vezes con vna
+s. senzilla alas vezes con doblada. s. como diziendo fuese
+que es preterito de vo fue en el indicatiuo. & fuesse de s(e)[o] fue
+enel optatiuo & subiunctiuo. como si dizes fuese el men-sajero.}
+{SG. b ij}
+[fol. 8v]
+{CB1.
+o diziendo si fuesse venido el mensajero. porq<ue> el prime-
+ro fuese es co<m>puesto de fue & se. & porq<ue> la. s. esta en comienc'o de
+palabra suena como doblada. el segu<n>do fuesse es vna palabra
+& para sonar apretada escriuese con dos. ss. & assi en otros mu-
+chos. como amase & amasse. ensen~ase & ensen~asse.
+{RUB. De tres officios dela .u. Cap<itulo>. vj.}
+{IN3.} LA. u. tiene tres officios. el primero es quando sirue por
+vocal. quiero dezir q<ue> suena por si o pura como dizie<n>do
+vso causa. o co<n> alguna co<n>sonante. como dizie<n>do bueno
+cuerpo. el segu<n>do officio es: qua<n>do se pone en lugar de co<n>sona<n>-
+te: quiero dezir q<ue> hiere alguna vocal. como dizie<n>do. vo. ve<n>go.
+el tercero officio es: qua<n>do despues dela. q. o dela. g. se pone p<ar>a
+representar el sonido q<ue> auiamos de dar ala. c. o ala. g. siguie<n>do
+se la. e. o la. i. porq<ue> por el quinto p<r><<i>>ncipio si las co<n>sonantes igual
+me<n>te passan sus fuerc'as alas vocales q<ue> se sigue<n>: la. c. & la. g. assi
+auia<n> de sonar co<n> las vnas vocales como co<n> las otras. & dando
+les agora diuersos sonidos como esta enel vso: ia no seria vna
+letra sino dos: por el tercero principio: pues q<ue> la diuersidad de
+las letras no esta enla diuersidad delas figuras: sino dela voz
+& porq<ue> enel castellano los veruos dela p<r><<i>>mera coniugacion for-
+ma<n> el p<re>terito muda<n>do la o final graue dela primera p<er>sona sin-
+gular del presente del indicatiuo en. e. aguda como de a@'mo io
+ame@'. de ense@'n~o io ensen~e@'. d<e> oluido io oluide@': siguie<n>do la p<ro>por-
+cio<n> auiamos de d<e>zir & escreuir de peco io pece@'. & d<e>zimos peque@'.
+& d<e> saco saque@' por sace@'. & de trueco troque@' por troce@': porq<ue> ia ala
+c. co<n> la. e. no le damos la boz suia propria: mas tomamos la q.
+en lugar d<e>la. c. porq<ue> son vna mesma letra por el q<u><<i>>nto principio
+pues no diffiere<n> enla p<ro>nunciacio<n>. & porq<ue> no puede venir sino
+aco<m>pan~ada dela. u. en lugar dela. c. ponemos la. q. & la. u. p<ar>a
+suplir lo q<ue> se[ ]auia de escreuir co<n> la. c. sola. E otro ta<n>to podemos
+dezir dela. g. q<ue> porque agora le damos diuersas bozes co<n>la. a
+&. o. &. u. q<ue> con la. e. & con la. i. que enel preterito despues d<e>la
+g. ponemos. u. para que suenen igualmente todas las cinco}
+[fol. 9r]
+{CB1.
+vocales. como diziendo llego llegue. ruego rogue. huelgo hol-
+gue. De donde se sigue que la. u. ya no es vocal. ni consona<n>te
+mas pone se p<ar>a suplir el defecto dela. q. & d<e>la. g. las quales sin
+ella no podian representar el sonido q<ue> se requiria en aquellos
+lugares q<ue> diximos. halla se alguna vez q<ue> la. u. despues dela. g
+siguiendo se. e. tiene su voz entera como en guero aguero. & en
+los preteritos destos verbos: menguo me<n>gue. aueriguo aueri-
+gue. fraguo frague. santiguo santigue. y en otros lugares se
+escriue & no se pronuncia: o se p<ro>nuncia & no se escriue: o se haze
+lo vno & lo otro. como diziendo. el vos dixo. el os dixo.
+{RUB. Que[ ]se puede escreuir lo que no se lee: & por[ ]el con-
+trario. Capitulo septimo.}
+{IN3.} E Porque diximos enel segundo p<r><<i>>ncipio que assi tene-
+mos de escreuir como hablamos & hablar como escreui-
+mos: acontece muchas vezes: q<ue> siguie<n>do alguna razo<n>
+traspassamos aquella regla: como en aq<ue>llo que haze<n> los grie-
+gos en prosa & verso: los latinos solame<n>te en verso: q<ue> quando
+alguna dicio<n> acaba en vocal & luego esso mesmo comienc'a en
+vocal: callamos la p<r><<i>>mera avn q<ue> se escriua: & por el co<n>trario no
+la escriuie<n>do la p<ro>nunciamos: alas vezes escreuimos la & p<ro>nu<n>-
+ciamos: a las vezes ni la escreuimos ni p<ro>nunciamos. Como
+diziendo d<e>spues quel pintor del mu<n>do: de q<ue> & el hezimos vna
+syllaba: & diximos quel. podiamos ta<m>bien alli escreuir vna syl-
+laba & p<ro>nunciar dos. podiamos escreuir dos & p<ro>nunciar vna
+& assi podiamos escreuir: es n<uest>ro amigo: & p<ro>nunciar n<uest>ramigo.
+& escreuir es nuestramigo & p<ro>nunciar es n<uest>ro amigo. y escriuie<n>-
+do como p<ro>nunciamos: es n<uest>ro amigo & es nuestramigo. escre-
+uimos esso mesmo en algunos lugares. l. senzilla & p<ro>nuncia-
+mos la doblada. como q<u><<a>>ndo alos no<m>bres femininos q<ue> comie<n>-
+c'a en. a. porq<ue> no se encuentre vna. a. co<n> otra & haga fealdad en
+la p<ro>nunciacion dexamos el articulo del feminino & tomamos
+el articulo d<e>l masculino: como por dezir la alma. la aguja. la
+ac'ada. dezimos con doblada. l. ell[ ]alma. ell[ ]aguja. ell[ ]ac'ada:}
+{SG. b iij}
+[fol. 9v]
+{CB1.
+pero escreuimos el alma. el aguja. el ac'ada. con las otras vo-
+cales lo vno & lo otro escriuimos & pronunciamos. como di-
+ziendo la espada. el espada. ellespada. Mudamos ta<m>bie<n> la. r.
+final del infinituo en. l. & co<n> la. l. del no<m>bre relatiuo. le lo la. les
+los[ ]las p<ro>nunciamos aquel son q<ue> diximos ser p<ro>prio de n<uest>ra len-
+gua. & por dezir a dios deuemos amallo & amalle: dezimos a-
+marle & amarlo. & alos santos ho<n>rralles & ho<n>rrallos por ho<n>rrar-
+les & ho<n>rrarlos. Tambie<n> algunas vezes escreuimos. b. & pro-
+nunciamos. u. vocal. como cibdad ciudad. debdo deudo re-
+cabdo recaudo. Otras vezes escreuimos. s. & p<ro>nunciamos. g.
+& por el co<n>trario escreuimos. g. & pronunciamos. s. como io gelo
+dixe por selo dixe. Alas vezes seguimos el orthographia grie-
+ga & latina avn que no p<ro>nunciamos como escreuimos. como
+en philosopho & thalamo. porque escreuimos ph. &. th. & pro-
+nunciamos. f. t. sotil. escreuimos signo. magnifico. magnani-
+mo. benigno con. g. & pronunciamos. sino. manifico. manani-
+mo sin. g. No quiero dissimular agora lo q<ue> todos enesta parte
+comunmente yerra<n> poniendo la. n. dela<n>te la. b. & la. m. & la. p.
+porq<ue> delante de aquellas mas suena. m. que. n. & por esta cau-
+sa escreuiremos en aq<ue>llos lugares. m. & no. n. como en embar-
+go. embiar. empacho. emperador. emmotar emmudecer.
+{RUB. Que enla pronunciacion muchas vezes la
+proporcion falta. Cap<itulo>. viij.}
+{IN2.} NO hai cosa que tanto nos guie enla coniugacion delos
+verbos como la p<ro>porcion & semeja<n>c'a de vnos a otros: &
+esto no solame<n>te enel griego & latin: mas avn enel castellano.
+p<er>o esta muchas vezes nos engan~a: porq<ue> el vso d<e>los sabios sie<m>-
+pre ve<n>ce. & por esto dize Quintiliano q<ue> la p<ro>porcio<n> no tiene fuer-
+c'a enla razo<n> sino enel exe<m>plo. Como si porq<ue> la p<r><<i>>mera coniuga-
+cio<n> castellana forma el p<re>terito dela p<r><<i>>mera p<er>sona singular del
+presente del indicatiuo muda<n>do la. e. final graue en. e. aguda
+como de amo amar yo ame. de alabo alabar yo alabe. de bur-
+lo burlar yo burle: algu<n>o siguie<n>do la proporcion formasse de}
+[fol. 10r]
+{CB1.
+andar yo ande. & de esto estar yo este. co<n>tra el comun vso delos
+doctos q<ue> tiene de ando yo anduue. & de estar yo estuue. y enla
+segu<n>da co<n>iugacion si porq<ue> la o. final graue del p<re>sente se muda
+en. i. aguda d<e>l p<re>terito: & de leer d<e>zimos leo yo lei. de correr cor-
+ro yo corri. de coger cojo yo cogi. por la proporcio<n> algu<n>o dixes-
+se de poner pongo yo pongui. de tener tengo yo tengui. de ha-
+zer hago yo hagui. de querer q<u><<i>>ero yo queri. d<e> poder puedo yo
+podi. de caber cabo yo cabi. tenie<n>do el vso delos q<ue> sabe<n> por po<n>-
+gui yo puse. por te<n>gui yo tuue. por hagui yo hize. por queri yo
+quise. por podi yo pude. por cabi yo cupe. & por sabi yo supe. &
+enla tercera co<n>iugacio<n> de venir ve<n>go: no dezimos ve<n>gui sino
+vine: & de dezir digo: no dezimos digui sino dixe. Siguiendo
+esso mesmo la proporcio<n> como de lees: d<e>zimos leo: & de corres
+corro: & de cabes cabo: auiamos de dezir sabo de sabes: & co<n>el
+vso dezimos se. Ta<m>bien porq<ue> el castellano n[*o] tiene futuro del
+indicatiuo: & por esso lo suple por el i<n>finitiuo: & este verbo. e. as.
+a. emos. eis. an. dizie<n>do io amare: tu amaras. alguno amara.
+io leere. tu leeras. alguno leera. si q<u><<i>>siesses siguie<n>do la p<ro>porcio<n>
+dezir de[ ]te<n>go tener tenere. de po<n>go poner ponere. de hago ha-
+zer hazere. de cabo caber cabere. de q<u><<i>>ero querer querere. de pue-
+do poder podere. de. e. auer auere. de vengo venir venire. de
+digo d<e>zir dezire. vernia co<n>tra el vso q<ue> tiene por tenere terne. por
+ponere porne. por hazere hare. por cabere cabre. por sabere sa-
+bre. por querere querre. por podere podre. por auere aure. por
+venire verne. por dezire dire. E otro tanto enel preterito imper-
+fecto del subiunctiuo: por teneria ternia. por poneria pornia.
+por hazeria haria. por caberia cabria. por quereria querria.
+por poderia podria: por veniria vernia. por deziria diria. por
+saberia sabria. Podiamos esso mesmo engan~ar la proporcio<n>
+enlos lugares donde la. e. se suelta en. ie. diphthongo & la. o.
+en ue. lo q<u><<a>>l aco<n>tece enla p<r><<i>>mera & segunda & tercera p<er>sonas del
+singular y enla tercera del plural del presente del indicatiuo &
+enel imperatiuo & futuro del optatiuo & presente d<e>l subiu<n>ctiuo}
+{SG. b iiij}
+[fol. 10v]
+{CB1.
+como diziendo de perder. io pierdo tu pierdes. alguno pierde
+algunos pierde<n>. pierde tu pierda alguno. o si io pierda tu pier-
+das algu<n>o pierda. algu<n>os pierda<n>. como io pierda. tu pierdas.
+algu<n>o pierda. algu<n>os pierda<n>. Porq<ue> quasi en todos los otros
+lugares la. ie. se buelue en. e. Como enla primera & segu<n>da p<er>-
+sona del plural del p<re>sente del indicatiuo. nos perdemos. vos
+perdeis. y en todo el preterito imperfecto. io p<er>dia tu p<er>dias. & c<etera>.
+y en todo el preterito perfecto. io perdi. tu p<er>diste. & c<etera>. y en todo
+el futuro porq<ue> se suple del infinitiuo q<ue> es perder. io perdere. tu
+perderas. & c<etera>. y enla primera & segunda persona del plural del
+imperatiuo. nos perdamos. vos perdais. con sus semejantes
+las del futuro del optatiuo & p<re>sente de subiunctiuo. y en todo
+el p<re>sente del optatiuo conel preterito imperfecto del subiuncti-
+uo. o si io perdiesse tu perdiesses. & c<etera>. & todo el futuro del mesmo
+subiunctiuo. como io perdiere tu perdieres. Pero en algu<n>os
+verbos dela tercera co<n>iugacion enla p<r><<i>>mera & segu<n>da p<er>sona d<e>l
+plural del imperatiuo con sus semeja<n>tes la. ie. se buelue en. i.
+como diziendo de siento. nos sintamos. vos sintais. de mie<n>to
+nos mintamos vos mintais. de arrepie<n>to. nos arrepintamos
+vos arrepintais. Lo q<ue> diximos dela. ie. q<ue> se buelue en. e. dezi-
+mos agora dela. ue. q<ue> se buelue en. o. enlos mesmos lugares.
+como diziendo. io trueco. tu truecas. alguno trueca. nos troca-
+mos. vos trocais. algunos truecan. Juan de mena syneresin
+hizo en aquel verso delas trezientas. estados de ge<n>tes q<ue> giras
+& trocas por truecas. & assi en todos los otros lugares donde
+mudauamos ie. en. e. mudamos. ue. en. o. & pocas vezes en
+u. como enel imperatiuo. muramos. murais. En otros luga-
+res dela coniugacion mudamos la. i. en. e. a causa dela sonori-
+dad. como de siruo sirues sirue. dezimos enel plural seruimos
+seruis. & despues boluemos ala. i. diziendo siruen. & assi digo
+dizes dize. dezimos dezis dizen. mido mides mide medimos
+medis miden. gimo gimes gime. gemimos gemis gime<n>. rio.
+ries rie. reimos. reis rien. rijo riges rige. regimos regis rige<n>.}
+[fol. 11r]
+{CB1.
+sigo sigues sigue. seguimos seguis siguen. & otros semejantes
+delos quales ni se puede dar otra regla sino que siruamos ala
+sonoridad.
+{RUB. Dela orden delas letras. Cap<itulo>. ix.}
+{IN2.} ENtre los accidentes dela letra los gramaticos cuentan
+la orden: porque enla pronunciacion vnas se pueden co<n>-
+seguir a otras & otras no. como ala. b. la. l. & la. r. dizie<n>do bla<n>co
+brac'o. mas no por el co<n>trario la. b. se puede seguir a q<u><<a>>lq<u><<i>>era de-
+llas diziendo lbanco rbac'o. & dexada agora la orde<n> que las vo-
+cales tienen entresi qua<n>do por diphthongo se cogen en vna syl-
+laba. vengo ala orden delas consonantes. la lengua hebraica
+tiene enesta p<ar>te vna cosa apartada de todas las otras le<n>guas
+que nunca dos co<n>sonantes o mas pueden herir la vocal enel
+principio ni enel medio dela palabra: & mucho menos seguir
+se despues dela vocal: de manera que ninguna parte de la ora-
+cion puede comenc'ar ni acabar en dos consonantes. & si vie-
+nen en medio de dos vocales: la primera consonante pertene-
+ce ala vocal precedente: & la segunda ala siguiente. como dizie<n>-
+do abram. acran. la. b. & la. c. se deletrean con la a. primera. &
+la r. de ambas con la. a. que se sigue. Pero el griego & el latin
+sufre que dos o tres co<n>sonantes puedan herir la vocal enel co-
+mienc'o & medio dela dicio<n>. como en {GRK. strabo.} {LAT. strenuus.} & acabar
+en dos. como en {LAT. lynx. gens.} el latin en sola vna palabra {LAT. stirps}
+recibe tres consonantes despues dela vocal. el castellano en[ ]co-
+mienc'o dela dicion no sufre mas de dos consonantes antes de
+la vocal & otras dos enel medio. como en brac'o. obra. sufre ta<m>-
+bien dos co<n>sonantes al fin: mas solame<n>te enlas palabras cor-
+tadas. como en gra<n>d por gra<n>de. en sant por santo. en cient por
+ciento. Pero quando del griego o latin passamos en castella-
+no alguna palabra que comienc'a en tres consonantes delas
+quales la primera de necessidad es. s. siempre se antepone vna
+e. para que sobrella cargue la. s. & se aliuie la pronunciacio<n> de
+la consonante o consonantes que se han de juntar conla vocal}
+[fol. 11v]
+{CB1.
+siguiente. como diziendo estrabon por {GRK. strabon.} escriuo por {LAT. scri-
+bo.} esmaralda por {LAT. smaragdus.} Assi que sera la orden delas co<n>-
+sonantes en nuestra lengua la mesma que enel griego & latin.
+enlas quales la primera regla es: que si entre dos vocales vie-
+ne vna consonante: aquella pertenecera ala vocal siguiente co-
+mo diziendo amo. pero si la palabra es compuesta de dos pa-
+labras desatada aquella composicio<n> daremos a cada vna de-
+llas su consonante. como desamo que se co<m>pone de des & amo.
+desdigo de des & digo. pero si entre dos vocales vienen dos co<n>-
+sonantes o mas: o todas ellas pertenecen ala vocal siguiente
+o parte dellas. delo qual damos estas reglas. la primera que
+si despues dela. b. se siguen. l. o. r. entrambas van con la vocal
+siguiente. como en habla. obra. ala. c. se pueden seguir. l. &. r. co-
+mo en esclarescido. escriuo. & enlas palabras latinas docto per-
+fecto. Ala. d. se puede seguir. r. como en ladron. pedro. Ala. f.
+se pueden seguir. l. &. r. como en afloxar cifra. Ala. g. se pueden
+seguir. l. &. r. como en siglo. negro. & enlas palabras latinas. n
+como en digno. signo. La. l. delante de ninguna otra consona<n>-
+te se pone: & ella puede suceder ala. b. c. f. g. p. t. como ya lo di-
+ximos & diremos en su lugar. La. m. a ninguna otra co<n>sonan-
+te se prepone sino a la. n. & solamente en las diciones griegas &
+latinas: de que algunas vezes vsamos enel castellano. como
+en condemno. solemne: donde algunos entreponen. p. falsa
+mente. La. p. se antepone ala. l. r. como en simple. siempre. & a
+la. t. enlas diciones latinas de que vsamos enel castellano. co-
+mo en escriptura. ruptura. septa. Ala. q. a ninguna consonan-
+te se puede seguir: p<er>o puede seguirse. u. vocal. o. u. ociosa quan-
+do se siguen. e. i. La. r. delante de ninguna consonante se pone
+& ella puede succeder ala. b. c. d. f. g. p. t. u. consona<n>te. como en
+los exemplos passados & eneste verbo aura. aure. auria. La. s.
+en griego & latin puedese poner delante la. b. c. d. g. l. m. p. q. t.
+pero enel castellano siempre se le antepone. e. para que se incli-
+ne sobrella: delo qual diximos en otro lugar. Ala. t. puedese se-guir.}
+[fol. 12r]
+{CB1.
+r. como en letra. Ala. u. consonante solamente se puede se-
+guir. r. como agora diximos. Ala. x. ninguna consona<n>te se pue-
+de seguir. Desta orden se puede coger delas consonantes que
+vienen entre dos vocales: quales pertenecen a quales assi pa-
+ra deletrear & pronu<n>ciar: como para cortar las palabras en fin
+del renglon quando escreuimos.
+Fin.
+Fue impresso el presente tratado en la villa de Al-
+cala de henares por Arnao guille<n> de brocar.
+Acabose a doze dias del mes de mayo:
+an~o del nascimie<n>to de nuestro sal-
+uador iesu xp<ist>o de mill & qui-
+nientos & diezisiete
+an~os.}

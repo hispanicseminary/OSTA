@@ -1,0 +1,674 @@
+{RMK: HSMS-0151.}
+{RMK: Domingo Marcos Durán.}
+{RMK: [LUX] Lux bella.}
+{RMK: Sevilla | Cuatro Compañeros alemanes | 1492.}
+{RMK: Madrid | Biblioteca Nacional de España | INC/2165(3).}
+{RMK: David G. Burton.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0151-0001: Lux bella.} Lux bella.}
+[fol. 1v]
+[fol. 2r]
+{CB1.
+{LAT. Ars cantus plani co<m>posita breuissimo compendio Lux bella nu<n>cupata
+per baccalariu<m> dominicu<m> duraniu<m>: & clarissimo d<omi>no petro ximenio cau-
+riensi episcopo reuerendissimo: atq<ue> sacratissime theologie peritissimo
+dedicata feliciter incipitur ad laudem dei.}
+{IN3.} SIgno es ayuntamie<n>to de letra co<n> boz y <pro>priedad. % Cada
+signo tiene vn punto que representa su letra: co<n> tantos nom-
+bres o bozes q<u><<a>>ntas sillabas. % Deducio<n> es esta boz vt: fa-
+sta la por que trae con sigo estas deductas seys bozes de musica. vt re
+mi fa sol la. Son assi bipertidas vt re mi para sobir: fa sol la para {GL. [^guido]}
+descender co<m>parando las entre sy tiene verdad en todos los signos sal-
+uo enel vt de ffaut co<n> toda su ylacion fasta la. % Ite<m> el vt de {SYMB: music.} vt es pri-
+mera deducio<n> fasta el la. El vt de cfaut. {LAT. secu<n>da vt patet infra.} % Ite<m> el
+vt que tiene por letra .g. es {SYMB: music.} por .c. natura: por f b<<o>>. % Ite<m> de signo
+a signo semejante en letra es 8<<a>>: Assi como de dsolre a dlasolre {LAT. & sic de
+alijs.} % Esta figura subiecta contiene letras signos: deduciones: <pro>prie-
+dades mutanc'as y fines de tonos perfecta mente. 1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20 21 22. Co<m>binacion delas bozes.
+{=DIAG=. | aq<u><<i>> traen la regla los maestros |
+Sobre |
+agudas |
+e | la | la sol |
+d | la | sol | la mi |
+c | sol | fa | la re | {GL. [^conciliator]}
+b | fa {SYMB: music.} mi | sol fa |
+a | la | mi | re | sol re |
+agudas |
+discipulos |
+maestros |
+g | sol | re | vt | sol vt | {GL. [^gregorius]}
+f | fa | vt | 7<<a>> b<<o>> | fa vt |
+e | la | mi | 6<<a>> b<<o>> | mi re | {GL. [^guido]}
+d | la | sol | re | re vt |
+c | sol | fa | vt | {GL. [^arnaldus]}
+b | 7<<o>> | fa {SYMB: music.} mi | 5<<a>> n<atur>a
+a | 5<<o>> | la | mi | re |
+{GL. [^micro-
+lus]}
+gra-ues |
+[%2] |
+fines de |
+tonos |
+7<<o>> 8<<o>> | g | 3<<o>> | sol | re | vt |
+5<<o>> 6<<o>> | f | 1<<o>> | fa | vt | 4<<a>> {SYMB: music.} |
+3<<o>> 4<<o>> | e | la | mi | 3<<a>> b<<o>> |
+1<<o>> 2<<o>> | d | sol | re |
+c | fa | vt |
+b | mi | 2<<a>> n<atur>a |
+a | re |
+{SYMB: music.} | vt |
+j<<a>> deducion b<<o>> |}
+% Mutanc'a es muda-
+miento de dos bozes e-
+guales en signo & boz.
+diuersas en propriedad
+assi por sobir como des-
+cender En bfa {SYMB: music.} mi no ay mu-
+tanc'a q<ue> las bozes no son egua-
+les. E distan por semitono.
+Ite<m> si las muta<n>c'as son de vna
+pareia boz sobie<n>te & otra des-cendiente. {GL. [^2#[??]]}}
+{SG. a 2}
+[fol. 2v]
+{CB1.
+vna sera por sobir: otra por descender. Si de dos bozes so-bientes:
+{GL. [^arnaldus]} ambas seran por sobir. Si de dos bozes descendientes: ambas
+{GL. [^microlus]} seran por descender. Enestas sola propriedad se muda. % O en otra ma-
+nera. Si la 2<<a>> boz fuere sobiente: la mutanc'a sera por sobir & al co<n>trario
+% Item la boz que primero no<m>bramos se muda enla otra. % Todo si-
+gno do ay muta<n>c'a tiene dos bozes o tres. Si tiene dos bozes terna dos
+mutanc'as que se muda j<<a>> boz en 2<<a>> & al contrario. Si tres bozes terna
+seys muta<n>c'as por su co<n>uersion y co<m>binacion enesta manera. muda se j<<a>> en
+2<<a>> .j<<a>>. en. 3<<a>>. 2<<a>> en 3<<a>>. % Nota q<ue> no ay mutanc'a saluo en signos q<ue> ay natu-
+ra. % Mutanc'a se faze por necesidad de bozes o por que la melodia o
+perfecio<n> del canto lo quiere guardando el genero diatonico. % Ite<m> mu-
+tanc'a spressa es no<m>brar la boz que dexamos & la que tomamos. las sub-
+intellectas solo se fallan enlas disiuntas. {GL. [^phillipus de vitriaco]} % Cantar sin mutanc'a es pronu<n>-
+ciar la boz 2<<a>> sin nombrar la j<<a>>. % Ite<m> escusa mucho mutanc'a b<<o>> & <con>iu<n>ta
+mas si de fuerc'a ouieres de fazer b<<o>> o mutanc'a. antes faz mutanc'a que
+b<<o>>: si no fuere necessario por guardar el genero dyatonico o la melodia
+% Ite<m> tenemos mutanc'a de bozes propriedades: claues: y tonos. To-
+da mutanc'a es fecha de bozes que en vna deducion disten por tono: dia-
+thesaro<n> o diapente. E por que en ningu<n>a destas spe<cie>s se fallan la vt. la fa.
+fa mi. fa re. mi vt. sol mi; no ay enellas mutanc'a.
+{RUB. % Tonos de cinco reglas.}
+{GL. [^guido]} % Tenemos estas tres spe<cie>s de tono. simple. co<m>puesto. y general. Sim-
+ples son estos seys .vt .re .mi .fa .sol .la. Co<m>puestos estos quatro .vt re.
+re mi. fa sol. sol la. {GL. [^johannes arnaldus]} E vn semitono mayor que tiene tres diesis: otro me-
+nor que tiene dos: de que se compone el tono. Generales son estos. 1<<o>> 2<<o>>
+3<<o>> 4<<o>> 5<<o>> 6<<o>> 7<<o>> 8<<o>>. Ordenan se enesta manera. 1<<o>> maestro 2<<o>> discipulo. 3<<o>>
+maestro 4<<o>> discipulo. 5<<o>> maestro 6<<o>> discipulo. 7<<o>> maestro 8<<o>> discipulo.
+{GL. [^gregorius boecius]} {LAT. Tonus generalis est simultanea specier<um> congregatio & earu<m> successiua
+progressio s<ecundu>m intensione<m> & remissione<m>.} Es co<m>puesto de vn diape<n>te & vn
+diathesaron coniuntos & assi maestros como discipulos se componen de
+vnas mesmas species differentes enel diathesaron. que los maestros lo
+traen sobrel diapente: los discipulos debaxo. {GL. [^goscaldus]} Cuentase el diapente en
+maestros y discipulos dela final arriba inclusiue. % Ite<m> si mutanc'a de to-
+no es fecha por sobir; mudase discipulo en su maestro. si por descender:
+al contrario. ca del maestro es sobir: del discipulo desce<n>der. E no se pue-
+de mudar saluo maestro en su discipulo: o discipulo en su maestro % Ite<m>}
+[fol. 3r]
+{CB1.
+tenemos tono perfecto: mixto: co<m>mixto: respectiuo: irregular: ensu co<m>-
+posicion que es de .13. species. Irregular es quando no es co<m>puesto de
+sus proprias species. % El 5<<o>> y 6<<o>> por la mayor parte se cantan por {SYMB: music.}
+fazen mas passos de b<<o>> que otro tono por que siguen mucho de ffaut a
+bfa {SYMB: music.} mi. puede descender el 5<<o>> a dsolre por que dela final al otro punto
+no dista por tono. % El 7<<o>> puede[ ]descender quanto el maestro que mas
+desciende que es a cfaut: por que es quasi principe delos tonos. Todo
+tracto es del 2<<o>> o 8<<o>>. E todo respo<n>sete del 6<<o>> co<m>puesto de vn solo diathe-
+saron. % Ite<m> 1<<o>> 2<<o>> 4<<o>> 6<<o>> traen la claue de ffaut. 3<<o>> 5<<o>> 7<<o>> 8<<o>> de csolfaut. ha
+de estar en la regla mas cercana ala melodia. % Cada tono tiene por la {GL. [^microlus]}
+{GL. [^gregorius]} mayor parte cinco reglas que bastan para diez pu<n>tos que tiene de su co<m>-
+posicion moderna. Enesta manera. el maestro sube ocho puntos exclusi-
+ue sobre su final & desciende vno. El discipulo sube cinco & desciende 4<<o>>
+tiene de licencia vn punto arriba otro abaxo. Si mas touiere sera irre-
+gular. % Los tonos proceden precise de ffaut retropolex a bfa {SYMB: music.} mi so-
+bre agudo. {GL. [^mag<iste>r vin-cencius]} % Nota que en bfa {SYMB: music.} mi no ay mas de vn b. que el otro es
+sen~al de {SYMB: music.} Esta en costumbre de llamarle b; por que en todo el alpha-
+beto no ay letra aque tanto se paresca como ala b.
+{RUB. % Tonos de vna regla.}
+{GL. [^gregorius]} % Los maestros fenecen 3<<o>> punto de baxo de regla inclusiue; los disci-
+pulos en regla. traen la regla & fenecen: ado fenecen[ ]sus maestros: exce-
+pto el 4<<o>> quando trae la regla en ffaut. % Cada tono puede traer dos o
+tres mis y fas enlos signos q<ue> mas cerca dela regla los ay. sacando ala-
+mire para mis. bfa {SYMB: music.} mi para fas: saluo por b<<o>>. % Ite<m> si fas ouiere sen~a-
+lados en signo que los aya; assi se han de pronu<n>ciar. fas sen~alados son
+dos tres 4<<o>> o 5<<o>> pu<n>tos iu<n>tos eguales E no cantamos saluo primero y
+postrero. Ca no se pone<n> saluo por conoscimie<n>to. % Ite<m> el mi sen~ala al fa
+& el fa al mi. % Nota que en vna regla mis y fas tenemos por claues.
+% Ite<m> el se<m>itono sie<m>pre esta sobie<n>do el ca<n>to entre dos tonos simples im-
+mediatos. es se<m>i<ton><<o>> en figura: & tono enel formar dela boz. % Ite<m> los can-
+tos que tienen verso: fenecen ante del. Ca los versos las mas vezes se re-
+fieren ala neuma enel fenecer. {GL. [^arnaldus guido]} % Neuma son los puntos que van con la
+sillaba exclusiue desque entra la letra. % Nota que por g a b c siempre
+estan los mis en .e. o en .b. E pronu<n>cian los fuertes. E los fas en c o en
+f saluo por b<<o>>.}
+{SG. a 3}
+[fol. 3v]
+{CB1.
+{DIAG=. | pri re la. 1u<<s>> ad 5a<<m>> |
+{GL. [^gregorius]} | se re fa. 2u<<s>> ad 3a<<m>> |
+ter mi fa. 3u<<s>> ad 6a<<m>> & 5a<<m>> |
+{GL. [^johannes]} | q<u><<a>>r mi la. 4u<<s>> ad 4a<<m>> |
+qui<n> fa fa. 5u<<s>> ad 5a<<m>> |
+sex fa la. 6u<<s>> ad 3a<<m>> & 1u<<s>> |
+{GL. [^guillermus]} | sep vt sol. 7u<<s>> ad 5a<<m>> |
+oct vt fa. 8u<<s>> ad 4a<<m>> & 1u<<s>> |}
+% Entonaciones de psalmos en fiestas solen-
+nes o dobles.
+% 1<<o>> 6<<o>> comienc'an fa sol la. 2<<o>> 3<<o>> 8<<o>> vt re fa
+4<<o>> la sol sol la. 5<<o>> vt mi sol: o fa re fa. 7<<o>> vt
+fa mi fa sol. Muchos los entonan por las
+glorias delos oficios. % En dias feriales:
+entonan todo el verso egual fasta el medio.
+La flexio<n> es vna 3<<a>>. en fiestas sole<n>nes de gra-
+do; E si es ferial: de salto.
+{RUB. % Assi median enlas comas.}
+% 1<<o>> 6<<o>> la sol la. 2<<o>> 5<<o>> 8<<o>> fa sol fa. 3<<o>> fa sol fa mi re fa. 4<<o>> re vt re mi re. 7<<o>>
+re fa mi re mi. los fines tienen como la sequencia. La qual es para fene-
+cer el psalmo. & conoscer de que tono es la an<tiphon>a.
+{RUB. % Aqui comienc'an las sequencias de las an<tiphon>as.}
+% 1<<o>> 4<<o>> 6<<o>> la en alamire. 3<<o>> 5<<o>> 8<<o>> fa en csolfaut. 7<<o>> sol en dlasolre. 2<<o>> fa en
+ffaut. E assi mesmo enlas delos oficios. saluo el 3<<o>> mi en bfa {SYMB: music.} mi. E el
+6<<o>> fa en ffaut.
+% {RUB. {LAT. De qualitate tonoru<m>.}
+{GL. [^arnaldus
+microlus
+franconus
+de colonia]}
+% Primus tonus dicit<ur> mobilis alacer & habilis. 2<us> narratiuus: grauis
+& flebilis. 3<us> seuerus & incitabilis fractos habe<n>s saltus. 4<us> bla<n>dus & gar-
+rulus. 5<us> modestus delectabilis. 6<us> pius & lacrimabilis. 7<us> laciuus iocu<n>-
+dus cum vehementi impetu. 8<us> suauis & morosus.
+{GL. [^aristotiles
+boetius
+isidorus
+iohannes
+microlus
+durandus]}
+{RUB. % Diuisio musice.}}
+{DIAG=. | musica
+mundana
+humana
+instrume<n>tal |
+diaphonia. euphonia
+vocal. instrume<n>tal
+me<n>surable. i<n>me<n>surable |
+generos
+Enarmonio
+chromatico
+dyatonico |
+p<ro>priedades
+{SYMB: music.}
+n<atur><<a>>
+b<<o>> |
+sonido
+rezio
+moderado
+blando |
+letras
+sobreagudas
+agudas
+graues |
+posicio<n>
+alta
+mediana
+baxa |}
+{LAT. {GL. [^Diffinitio
+musice]}} % Musica es mouimiento conuenible de bozes. Contiene estos gene-
+ros. Enarmonio: chromatico: & diatonico del qual principal mente vsa-
+mos. El chromatico es para complir el diatonico. El enarmonio senti-mos lo:
+{GL. [^mag<iste>r vin-centius]} & no lo podemos co<m>prehender. % Todo canto es proprio na-
+tural; o violento fingido quasi accidental. natura es p<ro>prio canto natu-
+ral: que no tiene condiciones nin reglas para se cantar. {SYMB: music.} b<<o>> y co<n>iuntas}
+[fol. 4r]
+{CB1.
+son accidentales que se varian por sus reglas y preceptos. % Conoscer
+las fuerc'as del canto es saber por que propriedades cantamos. {GL. [^guido]} % Ite<m>
+el genero diatonico procede por dos tonos & vn semitonio. tiene estas 13
+species por quien cantamos & tan~emos. {LAT. vnisonus: tonus: semiton<us>: di-
+tonus: semiditonus: tritonus: diathessaron: diapente cu<m> tono
+diapente cu<m> semitono. diapente cu<m> ditono. diapente cum semiditono dia-
+pason.} % So<n> tripartidas enesta manera. Los vnison<us> son simples. {LAT. ton<us>:
+semitonus: ditonus: semiditonus: tritonus: diathessaron: diapente} co<m>-
+puestas. {LAT. diapente cu<m> tono. diapente cu<m> semitono. diape<n>te cu<m> ditono. dia-
+pente cu<m> semiditono. diapason.} sobre co<m>puestas o deco<m>puestas. % Item
+diez son variables: tres inuariables. {GL. [^boetius]} % Ite<m> en co<n>trapunto son consonan-
+tes co<n>corda<n>tes estas siete. {LAT. vnison<us>. ditonus. semiditon<us>. diape<n>te. diape<n>te
+cu<m> tono. diapente cu<m> semitono. diapason.} Dissonantes discorda<n>tes estas
+seys {LAT. tonus: semitonus: tritonus: diatessaro<n>: diapente cu<m> ditono: diape<n>-
+te cu<m> semiditono.} % Cada specie tiene tantas variaciones quantos inter-
+uallos contando precise de diapente fasta diapason. E difieren enla po-
+sicion del semitono. % Item los interuallos de cada specie son vno me-
+nos que sus bozes. % Nota q<ue> jamas el tritono viene por si solo. % Ite<m>
+por que llamamos llano al canto llano. E lo ca<n>tamos por co<m>pas. E por
+que precise tiene seys bozes. E por que el semitono se asigna entre fa mi
+E por que sobiendo lo cantamos enel fa; & descendiendo enel mi. {GL. [^arnaldus]} Uni-
+sonus es egualdad de bozes. tonus es interuallo de dos bozes perfe-
+ctas. Semiton<us> es interuallo de vna boz perfecta y otra imperfecta. to-
+nicus es interuallo de tres bozes perfectas reflexas. Ditonus es inter-
+uallo de tres bozes co<m>puestas de dos tonos. Semiditonus es interual-
+lo de tres bozes co<m>puestas de vn tono y vn semitono. Estas con las o-
+tras estan cantadas enestos exemplos. % Ite<m> mayoridad y menoridad
+es tener semitono o tono. % Ite<m> melodia es de canto llano. Consonan-
+cia y dissonancia de contrapunto. {GL. [^microlus]} Armonia es copula de tres bozes o
+mas co<n>sona<n>tes & dissonantes en vno. {LAT. aevya. Seuouaen.} % Toda fuga
+sequela o ylacio<n> de bozes va fasta vnison<us> o replica. % Tenemos estas
+tres variaciones. sobir. vnisonar. & descender de grado o salto. % Los
+pu<n>tos desce<n>die<n>tes sostiene. vnison<us> comie<n>c'os de ca<n>to o salto fortifica. pu<n>-
+to postrero de sobida o descendida si[ ]i<m>mediate tiene otro segundo iunto
+assi; es bmolado. Mi fortifica: fa mollifica; la sol la sostiene; tenemos pu<n>-
+to q<u><<a>>drado: alphado: semidoblado: o tria<n>gular % Ite<m> pu<n>to figura nota.}
+[fol. 4v]
+{CB1.
+% Ite<m> distan-
+cia: interual-
+lo: spacio Ite<m>
+reflexion: rei-
+teracion: repli-
+ca: reduplica-
+cion: reducio<n>
+Sequencia.
+{LAT. Seculorum
+amen.}
+{DIAG. {SYMB: music.}}
+| speciales
+Claues |
+generales |
+mutanc'a
+de claues |
+{LAT. Ascensio. | Intensio. | Arsis. | Eleuatio.} |
+todo canto
+se rije por
+claue y guion |
+{LAT. Despositio | thesis | remissio | descensio.}
+{RUB. Exemplo como diez signos estan
+en regla E diez en spacio.
+a. e. i. o. u.}
+{SYMB: music.}
+{LAT. vnison<us> tonus semiton<us>} |
+alphas dobles. repli-
+cas sobientes |
+replicas
+descendientes |
+{SYMB: music.}
+{LAT. diton<us> semiditon<us> se<m>iditon<us> diton<us>} |
+diathessaron
+{SYMB: music.}
+tritonus |
+diape<n>te natural |
+diape<n>te accide<n>tal |
+exacor |
+diape<n>te cu<m>
+tono o se<m>i<ton><<o>> |
+diapente
+cu<m> se<m>itono}
+[fol. 5r]
+{CB1.
+{SYMB: music.}
+entacor
+diape<n>te cu<m>
+ditono o se-
+miditono |
+diapason |
+terceras |
+quartas |
+{SYMB: music.}
+quintas |
+8<<a>> |
+j<<a>> co<n>iunta |
+3<<a>> |
+4<<a>> |
+{SYMB: music.}
+7<<a>> |
+8<<a>> |
+{RUB. Reglas para cantar por b<<o>> {SYMB: music.} coniunctas disiuntas: consonancias disso-
+nancias guardando el genero diatonico.}
+{GL. [^marquetus
+boecius
+michael de
+castellanis]}
+% A 4<<o>> bozes de grado o salto daras dos tonos & vn semitono. A 5<<o>>
+bozes tres tonos y vn semitono. A 8<<o>> bozes 5<<o>> tonos y dos semitonos
+E si 4<<a>> & 5<<a>> immediate se sucedieren. E estes en differencia si falsifica-
+ras el diapente o faras tritono; antes faz tritono: quel diapente es inua-
+riable en su composicion. Otros fazen al contrario & yerran. En todas
+las otras species te conforma con lo que quisiere la letra y melodia.
+{GL. [^durandus]}
+% Disiunta es pasar de salto de vna deducion y propriedad a otra sin
+mutanc'a spressa segund quedan puntadas & son estas. {LAT. tritonus. diapen-
+te. exacor. entacor. diapason.} Otras se fallan: mas estas bastan para canto
+llano. E fazen se por defecto de bozes.
+% Coniunta es do ay mi poner fa: E al contrario son diez. 5<<o>> de b<<o>> & 5<<o>>
+de {SYMB: music.} De b<<o>> son estas. 1<<a>> 3<<a>> 5<<a>> 7<<a>> 9<<a>>. De {SYMB: music.} 2<<a>> 4<<a>> 6<<a>> 8<<a>> 10<<a>>. {GL. [^franchinus
+gaforus de laude]} Son musica
+ficta. E asignaron solas diez coniuntas; por que bastan para fazer vna}
+[fol. 5v]
+{CB1.
+linea rotunda circular enla mano. % Item los mis son {SYMB: music.} fas b<<o>> con sus
+bozes de ut fasta la; a semeianc'a de bfa {SYMB: music.} mi. quel mi suyo es {SYMB: music.} : el fa b<<o>>.
+{RUB. Exe<m>plo d<e>stas co<n> otras tres & la 3<<a>> deducio<n> de natura veras enesta figura.}
+{=DIAG=. octaua deducio<n> de ca<n>to llano & 3<<a>> de n<atur>a.
+{GL. [^ret<r><<o>> medi<us>]} | e | sol | fa | mi | re | ut |
+d | fa | mi | re | ut | 13<<a>> b<<o>> |
+c | la | mi | re | ut | 12<<a>> {SYMB: music.} |
+b | la | sol | re | ut |
+{GL. [^conciliator]} | a | sol | fa | ut | 11<<a>> b<<o>> |
+g | la | fa | mi | 10<<a>> {SYMB: music.}
+f | la | sol | mi | re |
+{GL. [^durandus]} | e | sol | fa | re | ut |
+d | fa | mi | ut | 9<<a>> b<<o>> |
+c | [^la] | mi | re | 8<<a>> {SYMB: music.} |
+b | la | sol | re | ut |
+a | sol | fa | ut | 7<<a>> b<<o>> |
+{GL. [^guido]} | g | la | fa | mi | 6<<a>> {SYMB: music.} |
+f | la | sol | mi | re |
+e | sol | fa | re | ut |
+d | la | fa | mi | ut | 5<<a>> b<<o>> |
+c | sol | mi | re | 4<<a>> {SYMB: music.} [??] | la |
+b | fa | re | ut | [??] | la | sol |
+a | mi | ut | 3<<a>> b<<o>> [??] | la | sol | fa |
+{SYMB: music.} | re | 2<<a>> {SYMB: music.} [??] | la | sol | fa | mi |
+{GL. [^ret<r><<o>> polex]} | f | ut | [??] | la | sol | fa | mi | re |
+Prima co<n>iuncta b<<o>> & primera deducion de b<<o>> de ca<n>to llano.}
+% Nota como esta arte manual de musica procede por vna linea co<n>tinua
+circular dando a cada signo seys bozes y .18. mutanc'as. E a cada proprie-
+dad tres deduciones que son tres. fff. tres. ccc. tres. ggg.
+{RUB. % Reglas delas coniuntas.}
+% Todo canto que descendiere de dsolre o cfaut a {SYMB: music.} mi o mas abaxo to-
+cando en {SYMB: music.} mi: se cantara por la primera coniunta.
+% Todo ca<n>to que sobiere de cfaut o dsolre a elami precise. E luego des-
+cendiere a {SYMB: music.} mi. E antes que descienda a {SYMB: music.} mi vnisonare en cfaut; se can-
+tara por tercera coniuncta. Otras vezes avn que no descienda a {SYMB: music.} mi si en}
+[fol. 6r]
+{CB1.
+llegando a elami desciende de grado sin vnisonar enel; se cantara por la
+3<<a>> coniuncta. % Ite<m> si el canto se cantare por b<<o>> & descendiere de bfa {SYMB: music.} mi
+alamire gsolreut o ffaut a elami. E luego se boluiere a bfa {SYMB: music.} mi. cantara
+por la tercera coniuncta.
+% Todo canto que se cantare por {SYMB: music.} quier suba quier descienda. tenien-
+do en gsolreut notas eguales a manera de fas. se cantara por la 4<<a>> con-
+iuncta. E por esta iuzga la 8<<a>> que tiene estas mesmas condiciones. Algu-
+nas vezes se fazen estas coniuntas si en gsolreut esta sen~alada replica.
+% Todo canto que se cantare por b<<o>> & sobiere de bfa {SYMB: music.} mi. csolfaut o dla-
+solre a elami. boluiendo se luego a bfa {SYMB: music.} mi: se cantara por la 7<<a>> coniuncta
+% Nota que las coniunctas fueron falladas para co<m>plir el genero diato-
+nico & adornar el ca<n>to guardando lo que quiere su melodia. % Ite<m> p<ar>a q<ue>
+se faga co<n>iunta: ha de tocar por la mayor parte enel signo do se sen~ala.
+{RUB. % Reglas para ordenar la letra.}
+% Tenemos virgula. plica. & ligadura. Uirgula es linea suelta que di-
+uide las partes. Plica es linea que depende de vn punto y no toca en o-
+tro & aco<m>pan~a ala nota. % Ite<m> punto co<n> dos plicas: vale dos co<m>pases sin
+spresar cantando el 2<<o>>. {GL. {LAT. [^gregorius & omnes mu-sici moder-ni.]}} Ligadura es linea que toca dos puntos y no en-
+tra letra saluo enel primero. Ca siempre enel primer punto entra la pri-
+mera sillaba. % Ite<m> el punto que habla. ha de estar sobre la vocal. apar-
+tado del punto antecedente en tanta quantidad que en medio pueda ca-
+ber vn punto quadrado: saluo si se erro al puntar. % Item cada diton-
+go no tiene sino vn punto: por que es vna sola sillaba. exemplo {LAT. au laus
+fraus. eu euge eufrates. ae musae. oe coelum noe aloes. ei alphey tadey
+diey.
+Ut vna virgo gloriosissima regina mundi & domina miseroru<m> aduoca-
+ta facta fuit digna portare soluentem nos a potestate diaboli laudemus
+omnes virginem mariam.
+Ut queant laxis resonare fibris mira gestoru<m> famuli tuorum solue polu-
+ti labij reatum. Sancte iohannes.
+Hec omnia subijtio correctioni & determinationi musicorum expertoru<m>
+practicantium hanc facultatem.
+Deo gratias.
+Explicit Lux bella: metru<m> & mensura cantus plani.}}
+[fol. 6v]
+{CB1.
+{DIAG=. {RUB. Esta figura speri-
+ca co<n>tiene ambas las ante-
+cedentes. demonstra<n>do la mu-
+sica p<ro>ceder en vna linea <con>tinua
+circular. E en cada signo. 6. bo-
+zes & .18. muta<n>c'as: segu<n>d sa<n>t gre-
+gorio & sus seq<u><<a>>ces musicos:
+theoricos & praticos la
+constituyeron.}
+j<<a>> deducio<n> {SYMB: music.}
+2<<a>> n<atur>a
+3<<a>> b<<o>>
+4<<a>> {SYMB: music.}
+5<<a>> n<atur>a
+6<<a>> b<<o>>
+7<<a>> {SYMB: music.}
+8<<a>> n<atur>a
+{LAT. retro medius
+retro polex}}
+% Su<m>ma de musica. Contiene todas las letras triplicadas. Ca fue con-
+stituyda a honor dela santa trinidad. A cuya alabanc'a fue y es y sera: {LAT. p<er>
+infinita seculorum secula. Amen.
+[^2#Explicit]}}
+[fol. 7r]
+{CB1.
+{LAT. Incipiu<n>t octo toni artis musice
+a patre sanctissimo gregorio or-
+dinati & compositi qui quodam-
+modo sunt claues musice artis.
+{SYMB: music.}
+Primu<m> querite regnu<m> dei {GL. [^neuma [??]]}
+{SYMB: music.}
+Primus tonus sic incipit sic flecti-tur
+{SYMB: music.}
+sic mediatur: & sic finitur. Seuouaen.
+{SYMB: music.}
+Seuouaen. Seuouae. Seuouae<n>.
+{SYMB: music.}
+Seuouaen. Seuouaen.}}
+{SG. b}
+[fol. 7v]
+{CB1.
+{SYMB: music.}
+{LAT. Seuouaen. Seuouaen. Seuouaen
+{SYMB: music.}
+Seuouaen. Seuouaen. Gloria pa( )tri} {GL. [^Gloria re-
+gular de re-
+sponsorios]}
+{SYMB: music.}
+{LAT. et fili( )o et spiri( )tu( )i san( )cto.
+{SYMB: music.}
+Gloria pa( )tri et fi( )li( )o} {GL. [^Gloria ir-
+regular]}
+{SYMB: music.}
+{LAT. et spiri( )tu( )i san( )cto. Glo( )ri( )a} {GL. [^Gloria ir-
+regular]}
+{SYMB: music.}
+{LAT. patri et fi( )lio et spiri( )tu( )i san-cto}}
+[fol. 8r]
+{CB1.
+{SYMB: music.}
+{LAT. Glo( )ri( )a patri et fi( )li( )o} {GL. [^Gloria ir-
+regular]}
+{SYMB: music.}
+{LAT. et spi( )ritu( )i sancto. Glori( )a patri et} {GL. [^Gloria de
+oficios]}
+{SYMB: music.}
+{LAT. fi( )li( )o et spiri( )tui sancto si( )cut erat in
+{SYMB: music.}
+principio et nunc et semper et in secula se-culorum
+{SYMB: music.}
+a( )men. Seuouaen.
+{SYMB: music.}
+Secundus autem simile est hu( )ic}}
+{SG. b ij}
+[fol. 8v]
+{CB1.
+{SYMB: music.}
+{LAT. S<e>c<un>dus tonus sic incipit sic flectitur
+{SYMB: music.}
+sic mediatur: & sic finitur. Seuouaen.
+{SYMB: music.}
+Glo( )ria patri & fili( )o & spiri-tui} {GL. [^Gloria de re-
+sponsorios.]}
+{SYMB: music.}
+{LAT. san( )cto. Gloria patri &} {GL. [^Gloria de
+officios.]}
+{SYMB: music.}
+{LAT. filio & spiritui sancto. Sicut erat in princi-pio
+{SYMB: music.}
+& nu<n>c & semper & in secula se-culo( )rum}}
+[fol. 9r]
+{CB1.
+{SYMB: music.}
+{LAT. a( )men. Seuouaen.
+{SYMB: music.}
+Ter( )ci( )a di( )es est ho( )di( )e q<u><<i>> hec facta
+{SYMB: music.}
+sunt {GL. [^2#3u<<s>>]} Tercius tonus
+{SYMB: music.}
+sic incipit sic flectitur. sic mediatur: & sic fi-nitur.
+{SYMB: music.}
+Seuouaen. Seuouaen
+{SYMB: music.}
+Seuouaen. Seuouaen. Glori-a} {GL. [^Gloria de
+respo<n>sorios]}}
+{SG. b iij}
+[fol. 9v]
+{CB1.
+{SYMB: music.}
+{LAT. patri & fi( )li( )o & spiri( )tu-i
+{SYMB: music.}
+san( )cto. Gloria patri & fi( )li( )o} {GL. [^Gloria de
+oficios]}
+{SYMB: music.}
+{LAT. et spiritui sancto. Sicut erat in principio
+{SYMB: music.}
+et nu<n>c et semper et in secu( )la secu( )lo( )rum
+{SYMB: music.}
+a( )men. Seuouaen.
+{SYMB: music.}
+Quar( )ta vigi( )li( )a ve( )nit ad eos}}
+[fol. 10r]
+{CB1.
+{SYMB: music.}
+{GL. [^2#4u<<s>>]} {LAT. Quartus tonus sic incipit sic
+{SYMB: music.}
+flectitur sic mediatur & sic fini( )tur. Seuouaen
+{SYMB: music.}
+Seuouaen. Seuouaen. Seuouaen.
+{SYMB: music.}
+Seuouaen. Gloria patri} {GL. [^Gloria de
+respo<n>sorios]}
+{SYMB: music.}
+{LAT. et fili( )o et spiri( )tu( )i san( )cto
+{SYMB: music.}
+Glo( )ri( )a patri et fi( )li( )o et spiri( )tu( )i sancto} {GL. [^Gloria de
+oficios]}}
+{SG. b iiij}
+[fol. 10v]
+{CB1.
+{SYMB: music.}
+{LAT. si( )cut erat in principio et nunc & semper et
+{SYMB: music.}
+in secula seculorum amen.
+{SYMB: music.}
+Quinq<ue> prude<n>tes virgi<n>es i<n>traueru<n>t ad nuptias
+{SYMB: music.}
+{GL. [^2#5u<<s>>]} Quintus tonus sic
+{SYMB: music.}
+incipit sic flectitur. sic mediatur & sic fini( )tur
+{SYMB: music.}
+Seuouaen. Gloria patri & fili-o} {GL. [^Gloria re-
+gular de re-
+sponsorios]}}
+[fol. 11r]
+{CB1.
+{SYMB: music.}
+{LAT. & spiri( )tu( )i san( )cto. Gloria} {GL. [^Gloria ir-
+regular]}
+{SYMB: music.}
+{LAT. pa( )tri et fi( )li( )o & spiri( )tu-i
+{SYMB: music.}
+sancto. Gloria patri et fi( )li( )o et spiri-tui} {GL. [^Gloria de
+oficios]}
+{SYMB: music.}
+{LAT. sa<n>cto. Sicut erat in principio & nu<n>c & sem-per
+{SYMB: music.}
+& in secula seculoru<m> amen.
+{SYMB: music.}
+Sex( )ta ho( )ra sedit sup<er> puteum}}
+[fol. 11v]
+{CB1.
+{SYMB: music.}
+{GL. [^2#6u<<s>>]} {LAT. Sextus tonus sic incipit
+{SYMB: music.}
+sic flectitur. sic media( )tur: et sic fi( )nitur
+{SYMB: music.}
+Seuouaen. Glo( )ri( )a patri et fi( )li( )o} {GL. [^Gloria de
+respo<n>setes]}
+{SYMB: music.}
+{LAT. et spiritui sancto. Gloria patri et fi( )li( )o et} {GL. [^Gloria de
+responsetes]}
+{SYMB: music.}
+{LAT. spiritui sancto. Gloria patri et} {GL. [^Gloria re-
+gular de re-
+sponsorios]}
+{SYMB: music.}
+{LAT. fi( )li( )o et spiri( )tu( )i san( )cto}}
+[fol. 12r]
+{CB1.
+{SYMB: music.}
+{LAT. Glo( )ri( )a pa( )tri & fi-li( )o} {GL. [^Gloria ir-
+regular]}
+{SYMB: music.}
+{LAT. & spiri( )tu( )i san( )cto
+{SYMB: music.}
+Glori( )a patri et fi( )li( )o et spiritu( )i sancto} {GL. [^Gloria de
+oficios]}
+{SYMB: music.}
+{LAT. Sicut erat in principio et nu<n>c & semp<er>: et in
+{SYMB: music.}
+se( )cula seculorum a( )men.
+{SYMB: music.}
+Septem su<n>t spiritus ante tronu<m> de( )i}}
+[fol. 12v]
+{CB1.
+{SYMB: music.}
+{GL. [^2#7u<<s>>]} {LAT. Septimus tonus sic in-cipit
+{SYMB: music.}
+sic flectit<ur>. sic mediat<ur>: & sic fi( )nitur
+{SYMB: music.}
+Seuouaen. Seuouaen. Seuouaen.
+{SYMB: music.}
+Seuouaen. Glo( )ria pa( )tri et fi-li( )o} {GL. [^Gloria de
+respo<n>sorios]}
+{SYMB: music.}
+{LAT. & spiri( )tu( )i san( )cto
+{SYMB: music.}
+Glo( )ri( )a patri & fi( )li( )o & spiri( )tui sancto.} {GL. [^Gloria de
+oficios]}}
+[fol. 13r]
+{CB1.
+{SYMB: music.}
+{LAT. Sicut erat in p<ri>ncipio & nunc & semper &
+{SYMB: music.}
+in secula seculorum a( )men.
+{SYMB: music.}
+Octo sunt be( )a( )ti( )tu( )dines.
+{SYMB: music.}
+{GL. [^2#8<us>]} Octauus tonus sic incipit sic fle-ctitur
+{SYMB: music.}
+sic mediatur: & sic finitur. Seuo-uae.
+{SYMB: music.}
+Seuouaen. Seuouaen. Gloria} {GL. [^gloria de re-
+sponsorios.]}}
+[fol. 13v]
+{CB1.
+{SYMB: music.}
+{LAT. patri & filio et spiri-tui
+{SYMB: music.}
+san( )cto. Gloria} {GL. [^Gloria de
+oficios]}
+{SYMB: music.}
+{LAT. patri & filio & spiritui sancto. Sicut erat
+{SYMB: music.}
+in principio & nunc & semper & in secula se-culorum
+{SYMB: music.}
+amen.}
+Esta obra fue emprimida en Seuilla por quatro alema-
+nes compan~eros Enel an~o de nuestro sen~or. 1.4.9.2.}

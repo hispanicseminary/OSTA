@@ -1,0 +1,3892 @@
+{RMK: HSMS-0117.}
+{RMK: Juan Manuel, infante.}
+{RMK: [MCE] Libro del caballero y del escudero.}
+{RMK:.}
+{RMK: Madrid | Biblioteca Nacional de España | MSS/6376.}
+{RMK: Reinaldo Ayerbe-Chaux, Mario Antonio Cossío Olavide.}
+[fol. 1r]
+{CB2.
+{RMK: HSMS-0117-0001: Prólogo general.} {IN3.} Asi com<m>o ha muy gra<n>t plaz<er>
+el q<ue> faze alg<u>na buena ob<r><<a>> se-
+n<n>alada me<n>te si toma g<r><<a>>nt t<r><<a>>-
+bajo e la faz q<u><<a>>ndo sabe q<ue> aq<ue>lla su
+ob<r><<a>> es muy loada & se paga<n> della
+mucho las g<en>t<e>s bie<n> asi ha muy
+gra<n>t pesar & gra<n>t enojo Q<u><<a>>ndo al-
+guno a[ ]sabie<n>das O avn por Yer-
+ro faze o dize alg<u>na cosa por q<ue>
+aq<ue>lla ob<r><<a>> no<n> sea ta<n> p<re>ciada o al-
+abada com<m>o deuia ser E por
+p<ro>bar aq<ue>sto porne aq<u><<i>> vna cosa
+q<ue> acaec'io a vn cauall<er>o En p<er>pi-
+n<n>a<n> en t<ien>po del p<r><<i>>m<er>o Rey do<n> jaym-
+es de mallorcas Asi acaec'io q<ue> a-
+q<ue>l cau<a>ll<er>o era muy gra<n>t t<r><<o>>bado<<r>>.
+& fazie muy b<ue>nas cantigas a m-
+arabilla & fizo vna muy bue<n>a a-
+demas & avia muy bue<n> so<n> E
+ata<n>to se pagaua<n> las g<e>n<te>s de a-
+q<ue>lla ca<n>tiga q<ue> dese gra<n>t t<ien>po no<n> q<ue>-
+ria<n> ca<n>tar otra ca<n>tiga si no<n> aq<ue>-
+lla E el cau<a>ll<er>o q<ue>la fiziera aui-
+a ende muy gra<n>t plaz<er>. E yen-
+do por la calle vn dia. oyo q<ue> vn
+c'apat<er>o estaua dizie<n>do aq<ue>lla ca<n>-
+tiga & dezia ta<n> mal errada me<n>-
+te ta<n> bie<n> las palab<r><<a>>s com<m>o el so<n>
+q<ue> todo om<n>e q<ue>la oyesse si ante no<n>
+la oyie t<er>nia q<ue> era muy mala ca<n>-
+tiga & muy mal fecha Q<u><<a>>ndo el
+cau<a>ll<er>o q<ue>la fiziera oyo com<m>o aq<ue>l
+c'apat<er>o co<n>fo<n>dia aq<ue>lla ta<n> b<ue>na ob<r><<a>>
+com<m>o ovo e<n>de muy gra<n>t pesar
+& gra<n>t enojo & descendio dela bes-
+tia & asentose c<er>ca del. E el c'apa-
+t<er>o q<ue> no<n> se g<u><<a>>rdaua de aq<ue>llo no<n>
+dexo su ca<n>tar. & q<u><<a>>nto mas dezia
+mas co<n>fo<n>dia la ca<n>tiga q<ue> el cau-
+<a>ll<er>o fiziera. E desq<ue> el ca[^ua]ll<er>o vio su}
+{CB2.
+b<ue>na ob<r><<a>> ta<n> mal co<n>fondida por la tor-
+pedat de aq<ue>l c'apat<er>o tomo muy pa-
+sso vnas tiseras. & tajo q<u><<a>>ntos c'a-
+patos el c'apat<er>o tenia fechos. & es-
+to fecho caualgo. & fuesse. E el c'a-
+pat<er>o paro mie<n>tes en sus c'apatos
+& desq<ue> los vido asi tajados ente<n>dio
+q<ue> avia p<er>dido todo su t<r><<a>>bajo ovo g<r><<a>>nt
+pesar & fue da<n>do vozes en pos a-
+q<ue>l cau<a>ll<er>o q<ue> aq<ue>llo le fiziera E el
+cau<a>ll<er>o dixole amigo el Rey n<uest>ro
+sen<n>or es aq<u><<i>>. & uos sabedes q<ue> es
+muy bue<n> Rey. & muy iustic'iero. &
+uayamos antel & librelo com<m>o fa-
+llare por d<er>echo anbos se acordaro<n>
+a esto & desq<ue> legaro<n> antel Rey. Di-
+xo el c'apat<er>o com<m>o le tajara todo<<s>>
+sus c'apatos & le fiziera g<r><<a>>nt da-
+n<n>o el Rey fue desto san<n>udo & p<re>gu<n>-
+to al cau<a>ll<er>o si era aq<ue>llo v<er>dat. &
+el cau<a>ll<er>o dixole q<ue> si mas q<ue> q<u><<i>>siesse
+saber por q<ue>lo fiera E ma<n>do el Rey
+q<ue> dixiesse. & el cau<a>ll<er>o dixo q<ue> bie<n> sa-
+bia el Rey q<ue> el fiziera tal ca<n>tiga
+q<ue> era muy buena & abia bue<n> so<n>
+& q<ue> aq<ue>l c'apat<er>o gela avia co<n>fo<n>di-
+da & que gela ma<n>dasse dez<ir>. & el
+Rey ma<n>dogela dez<ir> & vio q<ue> era asi
+esto<n>c'e dixo el cauall<er>o q<ue> pues el
+c'apat<er>o co<n>fo<n>diera ta<n> b<ue>na ob<r><<a>> com<m>o
+el fiziera & enq<ue> avia tomado g<r><<a>>nt
+dap<n>no & afan q<ue> asi co<n>fo<n>diera el
+la ob<r><<a>> del c'apat<er>o El Rey & q<u><<a>>ntos
+lo oyero<n> tomaro<n> desto g<r><<a>>nt plaz<er>
+& Riero<n> ende mucho. & el Rey ma<n>-
+do al c'apat<er>o q<ue> nu<n>ca dixiesse aq<ue>lla
+ca<n>tiga ni<n> <con>fondiesse la b<ue>na ob<r><<a>>
+del cau<a>ll<er>o. & pecho el Rey el dan<n>o
+al c'apat<er>o. & ma<n>do al cau<a>ll<er>o q<ue> no<n>
+fiziesse mas enoio al c'apat<er>o E}
+[fol. 1v]
+{CB2.
+recela<n>do yo do<n> ioh<a>n q<ue> por razo<n> q<ue> no<n> se
+pod<r><<a>> escusar q<ue>los lib<r><<o>>s q<ue> yo he fecho<<s>>
+no<n> se ayan de t<r><<a>>sladar muchas ueze<<s>>
+& por q<ue> yo he visto q<ue> en<e>l t<r><<a>>nsladar a-
+caec'e muchas vezes. lo vno por des-
+ente<n>dimie<n>to del sc<r><<i>>uano o por q<ue>las
+let<r><<a>>s semeja<n> vnas a ot<r><<a>>s. & q<ue> en tra<n>s-
+lada<n>do el libro porna vna razo<n> por
+otra en g<u><<i>>sa q<ue> muda toda (^toda) la
+ente<n>c'io<n> & toda la sin<tenc'i>a & s<er>a traydo
+el q<ue>la fizo no<n> avie<n>do y culpa & por
+guardar esto q<u><<a>>nto yo pudiere fizi
+faz<er> este uolume<n> en q<ue> esta<n> sc<r><<i>>ptos
+todos los lib<r><<o>>s q<ue> yo fasta aq<u><<i>> he fe-
+chos & so<n> doze el p<r><<i>>m<er>o tracta dela
+razo<n> por q<ue> fuero<n> dadas al jnfante
+don manuel mio [^2#padre] estas armas q<ue>
+so<n> alas & leon<e>s & por q<ue> yo & mio fi-
+jo legitimo h<er>edero & los h<er>ederos
+del mi linage podemos faz<er> cauall<er>o<<s>>
+no<n> lo seyendo nos & dela fabla q<ue> fizo
+co<n>migo el rey do<n> sancho en mad<r><<i>>t
+ante de su muerte. & el ot<r><<o>> de casti-
+gos & de <con>sejos q<ue> do a mi fijo do<n> fer-
+ra<n>do & so<n> todas cosas q<ue> yo p<ro>ue. el ot<r><<o>>
+lib<r><<o>> es delos stados E el ot<r><<o>> es el
+lib<r><<o>> del cauall<er>o & del escud<er>o. & el ot<r><<o>>
+lib<r><<o>> dela cauall<er>ia & el ot<r><<o>> dela c<r><<o>>nica
+ab<r><<e>>ui[a]da & el ot<r><<o>> la c<r><<o>>nica <con>plida El
+ot<r><<o>> el lib<r><<o>> delos e[n]gen<n>os. & el ot<r><<o>> el
+lib<r><<o>> dela cac'a. & el ot<r><<o>> el lib<r><<o>> delas can-
+tigas q<ue> yo fiz. & el ot<r><<o>> delas reglas
+com<m>o se deue<n> trobar E ruego a
+todos los q<ue> leyere<n> q<u><<a>>l q<u><<i>>er delos lib<r><<o>>s
+q<ue> yo fiz q<ue> si fallare<n> alguna razo<n> mal
+dicha q<ue> no<n> po<n>ga<n> a mi la culpa fasta
+q<ue> bea este uolume<n> q<ue> yo mesmo co<n>-
+c'erte E desq<ue> lo viere<n> lo q<ue> falla-
+re<n> q<ue> es y me<n>guado no<n> ponga<n> c<u>lpa
+ala mi ente<n>cio<n> ca dios sabe buena}
+{CB2.
+la oue. Mas po<n>ga<n> ala me<n>gua del
+mi ente<n>dimie<n>to q<ue> erro en dos cosas
+La vna en<e>l yerro q<ue> y fallare y fa-
+llare<n> E la [^2#otra] por q<ue> fue atreuido ame
+ent<r><<e>>meter en fablar en tales ma-
+t<er>ias Ente<n>die<n>do la me<n>gua del mio
+ente<n>di[m]e<n>to. & sabie<n>do tan poco delas
+sc<r><<i>>pt<ur>as com<m>o aq<ue>l q<ue> yo iuro a dios
+v<er>dat q<ue> no<n> sab<<r>>ia oy gou<er>nar vn
+p<ro>berbio de t<er>c'era p<er>sona E pues
+es fecho este p<ro>logo & esta p<ro>testa-
+cio<n> de aq<u><<i>> adelante come<n>c'are a fa-
+blar la mat<er>ia delos lib<r><<o>>s E el
+p<r><<i>>mero lib<r><<o>> comie<n>c'a assi
+{RMK: HSMS-0117-0002: Libro del caballero y del escudero.} {IN8.} Hermano sen<n>or do<n>
+ioh<a>n por la gr<ac'i>a de dio<<s>>
+arc'ob<is>po de toledo Pri-
+nado delas espan<n>as
+& chanc'eller de castiel-
+la yo do<n> ioh<a>n fijo del infante do<n> ma-
+nuel adelantado mayor dela fro<n>-
+t<er>a & del Reyno de murc'ia me en-
+comie<n>do en la v<uest>ra gr<ac'i>a & enlas v<uest>ra<<s>>
+<santas> oraciones h<er>mano sen<n>or el cuy-
+dado es vna delas cosas q<ue> mas fa-
+ze al om<n>e p<er>der el dormir E esto
+acaesc'e a mi ta<n>tas vezes q<ue> me en-
+barga mucho ala salud del cuerpo
+E por ende cada q<ue> so en algu<n> cuy-
+dado fago q<ue> me lea<n> algunos lib<r><<o>>s
+O algunas estorias por sacar aq<ue>l
+cuydado del corac'o<n> & acaec'iome
+ogan<n>o seye<n>do en seuilla q<ue> mucha<<s>>
+uezes no<n> pod<<i>>a dormir pensando
+en algunas cosas en q<ue> yo cuyda-
+ua q<ue> seruiria a dios muy grana-
+da mente Mas por mis peccados}
+[fol. 2r]
+{CB2.
+no<n> q<u><<i>>so el tomar de mi ta<n> gra<n>t s<er>ui-
+c'io Ca si el algu<n> comie<n>c'o Auia mo-
+strado para se s<er>uir de mi fue to-
+do por la su m<er>c'ed & su piadat. & no<n>
+por ni<n>gu<n> mi m<er>ec'imie<n>to E lo q<ue>
+se agora alongo te<n>go q<ue> no<n> fue
+si no<n> por mi peccado Bendito sea
+(^sea) el por q<u><<a>>nto fizo & por q<u><<a>>nto faze
+& por q<u><<a>>nto fara Ca c'ierto es q<ue> to-
+das las cosas so<n> en<e>l su poder e
+en la su uolu<n>tad E todo lo q<ue> el fa-
+ze es lo mejor E seye<n>do en aq<ue>l cu-
+ydado por lo p<er>der come<n>c'e este libro
+q<ue> vos envio. & acabelo depues q<ue>
+me parti dende & no<n> lo fiz por q<ue>
+yo cuydo q<ue> sopiesse <con>poner ni<n>g<u>na
+ob<r><<a>> muy sotil ni<n> de gra<n>t pecado Ma<<s>>
+fiz lo en vna man<er>a q<ue> llama<n> en es-
+ta fabliella. & por q<ue> se q<ue> vos q<ue> sodes
+muy dormidor e<n>vio vos lo por q<ue>
+alguna vez q<u><<a>>ndo no<n> pudierdes
+cormir q<ue> vos lea<n> assy co[^2#mo] vos diria<n>
+vna fabliella E q<u><<a>>ndo falardes al-
+gunas q<ue> no<n> ay muy bue<n> recado
+tened por c'ierto q<ue> yo la fiz pon<er> e<n>
+este lib<r><<o>> E Reyd vos ende & p<er>d<er>ede<<s>>
+el cuydado q<ue> uos fazia p<er>der el dor-
+mir. & no<n> uos marablilledes en
+faz<er> yo sc<r><<i>>uir cosas q<ue> sea<n> mas fa-
+bliella q<ue> muy bue<n> seso E si por
+ave<n>t<ur>a fallardes y alg<u>na cosa de
+q<ue> uos paguedes gradec'er lo he
+yo mucho a dios Ca so c'ierto q<ue> vo<<s>>
+no<n> pagariades de ni<n>guna cosa
+q<ue> buena no<n> fuesse E pues uos
+q<ue> sodes cl<er>igo & muy let<r><<a>>do envias-
+tes a mi la muy buena & muy
+<con>plida E muy <santa> ob<r><<a>> q<ue> vos fizi-
+estes en<e>l {LAT. pat<er> n<oste>r} por q<ue>lo tra<n>slada-
+sse de lati<n> en Roma<n>c'e Envio vo<<s>>}
+{CB2.
+yo q<ue> so lego q<ue> nu<n>ca ap<re>ndi ni<n> ley
+ni<n>guna scie<n>cia esta mi fabliella
+por q<ue> si uos della pagardes q<ue>la fa-
+gades t<r><<a>>nsladar de roma<n>c'e en la-
+tin & no<n> vos la envio sc<r><<i>>pta de
+muy buena let<r><<a>> ni<n> muy bue<n> pa-
+rgamino Rec'ela<n>do q<ue> si uos fal-
+lasedes q<ue> no<n> era bueno recado q<u><<a>>n-
+to mayor afan tomara en faz<er>
+el lib<r><<o>> Mucho en esto ta<n>to fuera el
+yerro mayor Mas de q<ue>lo vos vier-
+des si me enviades dez<ir> q<ue> vos pagar-
+des ende entonc'e lo fare mas apo-
+stado
+{IN2.} Comie<n>c'a el lib<r><<o>> q<ue> fizo don ioh<a>n
+fijo del muy noble infante do<n>
+manuel E ha no<n>bre el lib<r><<o>> del ca-
+uall<er>o & del escud<er>o & es <con>puesto en
+vna man<er>a q<ue> dize<n> en castiella fabli-
+ella & envialo al jnfante don ioh<a>n
+arc'ob<is>po de toledo E ruegal q<ue>
+tenga por bie<n> de trasladar este
+dicho su libro de roma<n>c'e en latin}
+[fol. 2v]
+{CB2.
+{IN3.} Por q<ue> dize<n> todos los sabios q<ue>
+la meior cosa del mu<n>do es el
+sab<er> tiene q<ue> todo lo q<ue> o<mn>e pue-
+de faz<er> para lo acresc'e<n>tar mas q<ue> si lo
+dexa de faz<er> q<ue> no<n> faze bie<n> E ot<r><<o>> si ti-
+ene q<ue> vna delas cosas q<ue>lo mas a-
+cresc'e<n>ta es meter en sc<r><<i>>pto las cosas
+q<ue> falla<n> por q<ue> el sab<er> & las b<ue>nas ob<r><<a>>s
+pueda<n> seer mas guardadas & ma<<s>>
+leuadas adela<n>te Por ende Yo Do<n>
+ioh<a>n fijo del jnfante do<n> manuel fiz
+este lib<r><<o>> en q<ue> puse algunas cosas q<ue>
+falle en vn lib<r><<o>> & si el comie<n>c'o del
+u<er>dad<er>o o no<n> yo lo se Mas q<ue> me pare-
+sc'io q<ue>las Razones q<ue> en el se co<n>te-
+nia<n> era<n> muy buenas toue q<ue> era
+mejor delas sc<r><<i>>uir q<ue> delas dexar caer
+en olbido E ot<r><<o>> si puse y alg<u>nas
+ot<r><<a>>s Razones q<ue> falle sc<r><<i>>ptas. & ot<r><<a>>s
+algunas q<ue> yo puse q<ue> p<er>tenec'ia<n> pa-
+ra seer y puestas Dize en<e>l comie<n>c'o
+de aq<ue>l lib<r><<o>> q<ue> en vna t<ie>rra avia vn
+Rey muy bueno. & muy onrado & q<ue>
+fazia muchas buenas ob<r><<a>>s todas
+segu<n>d p<er>tenesc'ia a su estado E por
+mostrar la su nobleza fazia muc-
+has uezes sus cortes ayu<n>tar aq<ue>
+venia<n> muchas gentes de sus t<ie>rra<<s>>
+& de ot<r><<a>>s E de q<ue> con el fazial<e>s mu-
+cho bie<n> dando algo delo suyo muy
+granada me<n>t<e> a los q<ue>lo deuia dar
+tan bie<n> a los stran<n>os com<m>o a los su-
+yos E a toda la t<ie>rra en gen<er>al da-
+ba buenas l<e>cc<i>ones & buenos fueros
+& ma<n>tenia & guardauales muy bie<n>
+lo q<ue> avia<n> delos ot<r><<o>>s Reys q<ue> fuere<n>
+ante q<ue> el E ta<n>to bie<n> les fazia q<ue> el
+amor q<ue>la nat<ur>aleza daua q<ue> todos
+le deuia<n> au<er> asi com<m>o a su Rey & a su
+sen<n>or nat<ur>al. Acrec'entaua el much<<o>>}
+{CB2.
+por las sus buenas ob<r><<a>>s q<ue> a todos
+fazia E por esta Razo<n> plazia mu-
+cho a todos q<u><<a>>ndo por ellos enbiaua
+E venia<n> a el muy de g<r><<a>>do q<u><<a>>ndo los
+avia meester ta<n> bie<n> en t<ien>po de paz
+com<m>o en t<ien>po de guerra. & ta<n> amado
+era de sus ge<n>tes & delas estran<n>as
+q<ue> ta<n>to fiziero<n> por le s<er>uir & por le on-
+rar q<ue> en muy poco t<ien>po fue apod<er>ado
+& ensen<n>oreo a todos los regnos & tie-
+ras de sus comarcas E esto era co<n>
+muy gra<n>t Razo<n> Ca los sus nat<ur>a-
+les era<n> seguros de au<er> del bue<n> gala-
+rdo<n> del s<er>uic'io q<ue>l faz(^e)[^<<i>>]a<n>. & avn mas q<ue>
+no<n> m<er>ec'ia<n>. E no<n> rec'elaua<n> q<ue> por ni<n>-
+gu<n> mezclador les venia ni<n>gu<n> dap-
+n<n>o sin gra<n>t su m<er>ec'imie<n>to Ot<r><<o>>si sa-
+bia<n> q<ue> [^el q<ue>] mal o dan<n>o en su t<ie>rra fiziesse
+no<n> pod<r><<i>>a en ni<n>guna man<er>a scapar
+del syn gra<n>t pena E por estas co-
+sas era muy amado & muy rec'ellado
+E tan gra<n>t sabor auia<n> las ge<n>tes
+del s<er>uir q<ue> no<n> dubdaua<n> de pon<er> los
+cuerpos. & los aueres por leuar su on-
+rra adela<n>te E tenia<n> q<ue> la muerte
+& la lazeria en su les era vida & fo-
+lgura E las g<e>n<te>s estran<n>as desea-
+ua<n> q<ue> diesse dios Razo<n> por ellos gu-
+ardando su leatad pudiesse<n> seer en<e>l
+su sen<n>orio {RUB. Cap<itu>lo t<er>c'ero com<m>o vn escu-
+dero salio de [^su] tierra & yva a las cortes
+del bue<n> Rey por seer cauall<ero> & com<m>o
+se adormec'io en el palafre<n> q<ue> yua por el t<r><<a>>ua-jo +}
+{IN3.} Asy acaesc'io vna vez q<ue> este Rey {RUB. del +}
+ma<n>do faz<er> vnas cortes E luego {RUB. camj-no +}
+q<ue> fue sabido por todas las t<ie>ras {RUB.}
+viniero<n> y de muchas p<ar>tes muchos o<mne>s
+Ricos & pob<r><<e>>s E e<n>tre todas las ot<r><<a>>s g<e>n<te>s
+venia y vn scudero ma<n>c'ebo & com<m>o q<u><<i>>er
+q<ue> el no<n> fuesse o<mn>e muy Rico era de bue<n>}
+[fol. 3r]
+{CB2.
+& <con>plida me<n>te con<n> v<er>dad Ca los Reys
+so<n> enla t<ie>ra en logar de dios & las
+sus uolu<n>tad<e>s son enla mano de di-
+os E por ellos se ma<n>tiene<n> las tier-
+ras bie<n> & no<n> ta<n> bie<n> Ca segu<n> las ma-
+n<er>as o los fechos del Rey Asy s<er>a ma<n>
+tenido el su Reyno & dios q<u><<i>>ere q<ue> los
+Reys sean enlas tierras & las ma<n>-
+tenga<n> segu<n> los m<er>ecimie<n>tos dellas
+ge<n>tes del su Regno Pero ala p<re>gu<n>-
+ta q<ue> uos me feziest<e>s com<m>o q<u><<i>>er q<ue>
+en pocas palab<r><<a>>s no<n> uos pod<r><<i>>a con-
+plida ment<e> respo<n>der por q<ue> so<n> muc-
+has las cosas q<ue> ha mest<er> el Rey
+para faz<er> esto (^q<ue> faz<er> esto) q<ue> uos p<re>gu<n>-
+tad<e>s Pero segu<n> el mi poco saber
+uos respo<n>do q<ue> para seer el Rey q<u><<a>>l
+uos dezides deue faz<er> & g<u><<a>>rdar tr<e>s
+cosas La p<r><<i>>m<er>a g<u><<a>>rdar las leyes. &
+fueros q<ue> los ot<r><<o>>s buenos Reys q<ue>
+fuero<n> ante q<ue> el dexaro<n> a los delas
+t<ie>ras E do no<n> las fallare fechas fa-
+zer las el buenas & d<er>echas La segu<n>-
+da faz<er> buenas co<n>q<u><<i>>stas & co<n> d<er>echo
+La t<er>c'era poblar la t<ie>ra yerma {RUB. Cap<itu>lo
+xvij<<o>> com<m>o el cauall<er>o Respo<n>de al es-
+cudero q<u><<a>>l es el mas onrado estado en +}
+{IN3.} A lo q<ue> me p<re>gu<n>tas-tes {RUB. en este mu<n>do:}
+q<u><<a>>l es el mas alto estado e
+mas onrado aq<ue> los om<ne>s puede<n>
+llegar en este mu<n>do C'ierta mente esta
+es p<re>gu<n>ta asaz graue Ca los estados
+del mu<n>do son tres Oradores defenso-
+res labradores cada vno destos so<n>
+muy buenos en q<ue> puede faz<er> mu<n>cho
+bie<n> eneste mu<n>do. & saluar el alma
+Pero segu<n> el mi flaco saber te<n>go q<ue>
+el mas alto estado es el cl<er>igo missa-
+cantano Por q<ue> en este puso dios ta-
+man<n>o poder q<ue> por v<<i>><r>tud delas palab<r><<a>>s}
+{CB2.
+q<ue> el dize torna la hostia q<ue> es pa<n> en v<er>-
+dad<er>o cuerpo de ih<es>u x<pist><<o>> E el vino en su
+sang<r><<e>> v<er>dad<er>a & q<u><<a>>nto el cl<er>igo missacan-
+tano A mayor dignidat asi com<m>o ob<is>po
+o arc'ob<is>po o cardenal o papa tanto es
+el estado mas alto por q<ue> puede faz<er> ob<r><<a>>s
+de q<ue> aya mayor m<er>ec'imie<n>to. & ap<ro>uechar
+mas al pueblo enlo sp<irit>ual & e<n>lo t<en>p<or>al.
+{RUB. Cap<itu>lo xviij<<o>> com<m>o el cauall<er>o anc'iano
+Respo<n>de al scud<er>o q<u><<a>>l es mas onrado es-
+tado entre los legos}
+{IN2.} A lo q<ue> me p<re>gu<n>stast<e>s q<u><<a>>l es mas
+onrado estado entre los legos Sin
+dubda delas p<re>guntas q<ue> fasta aq<u><<i>> me
+feziestes esta es la q<ue> mas ligera me<n>te
+vos puedo respo<n>der E por ende uos
+digo q<ue> el mayor & mas onrado estado
+q<ue> es entre los legos es la cauall<er>ia Ca
+com<m>o q<u><<i>>er q<ue> ent<r><<e>> los legos ay muchos
+estados asi com<m>o m<er>cadores menestral<e>s
+& lab<r><<a>>dores. & ot<r><<a>>s muchas g<e>n<te>s de mu-
+chos estados La cauall<er>ia es mas no-
+ble & mas onrado estado q<ue> todos los
+ot<r><<o>>s Ca los cauall<er>os son p<ar>a defender
+& defiende<n> a los ot<r><<o>>s & los ot<r><<o>>s deuen pe-
+char & manten<er> a ellos E ot<r><<o>> si por q<ue>
+desta orde<n> & deste estado so<n> los Reys
+& los gra<n>des sen<n>ores E este estado
+no<n> puede aver ni<n>guno por si sy ot<r><<i>> no<n>
+gelo da E por esto es com<m>o man<er>a de
+sac<r><<a>>me<n>to Ca bie<n> asi com<m>o los sac<r><<a>>me<n>to<<s>>
+de <santa> egl<es>ia so<n> ensi cosas c'iertas sin la<<s>>
+q<u><<a>>les el sac<r><<a>>me<n>to puede seer <con>plido Ot<r><<o>>
+si la cau<a>ll<er>ia a mest<er> cosas c'iertas p<ar>a
+se faz<er> com<m>o deue E dez<ir> uos he algu-
+nos delos sac<r><<a>>me<n>tos por q<ue> se entie<n>da<n>
+los los ot<r><<o>>s Enel casamie<n>to q<ue> es vno
+delos sacram<en>tos A mester q<ue> sea yo
+om<n>e q<ue> uere casar & la mug<er> q<ue> ha de
+casar co<n> el E las palab<r><<a>>s del otorga-mie<n>to}
+[fol. 3v]
+{CB2.
+& del rec'ibimie<n>to q<ue> a de faz<er>
+el vno al ot<r><<o>> E estas son las cosas
+q<ue> faze<n> al casamie<n>to Ca todas las
+ot<r><<a>>s q<ue> se faze<n> so<n> b<e>ndicion<e>s. & apostu-
+ras & co<n>plimie<n>tos Ot<r><<o>> si el baptis-
+mo ha mester el q<ue>lo rec'ibe. & q<ue>lo
+batea & las palab<r><<a>>s q<ue> dize<n> q<u><<a>>ndo lo
+mete<n> en<e>l agua la penite<n>c'ia Ot<r><<o>>si
+el q<ue> <con>fiesa & el q<ue> da la penite<n>c'ia & el
+absoluimie<n>to E segu<n>d estos son
+los ot<r><<o>>s sac<r><<a>>me<n>tos E sin se faz<er> es
+estas cosas no<n> puede<n> seer los sacra-
+me<n>tos <con>plidos E fazie<n>dose estas
+cosas com<m>o deue<n> co<n>plido es el sac<r><<a>>-
+me<n>to Avn q<ue> se no<n> faga<n> y ot<r><<o>>s co<n>-
+plimie<n>tos & noblezas q<ue> se suelen
+faz<er> q<u><<a>>nto estos sac<r><<a>>me<n>tos suele<n> re-
+c'ebir Ot<r><<o>>si la cauall<er>ia a mest<er> q<ue> sea
+y el sen<n>or q<ue> da la cauall<er>ia & el ca-
+uall<er>o q<ue>la rec'ibe E la spada co<n> q<ue> se
+faze E asi es la cauall<er>ia <con>plida
+ca todas las ot<r><<a>>s cosas q<ue> se y faze<n>
+so<n> por be<n>dic'iones. & por aposturas
+& onras E por se moja mucho a
+los sac<r><<a>>me<n>tos E por estas razo-
+n<e>s todas es mas onrado & mas a
+en estado q<ue> ent<r><<e>> los legos puede ser
+{RUB. Cap<itu>lo xix<<o>> com<m>o el cauall<er>o anc'iano
+Respo<n>de al escud<er>o q<ue> cosa es la cau<a>ll<er>ia}
+{IN3.} A lo q<ue> me p<re>gu<n>tastes q<ue> cosa es ca-
+uall<er>ia & com<m>o la puede om<n>e
+mejor co<n>plir {BLNK.} fijo esta
+p<re>gunta no<n> es vna {BLNK.} sola
+mente me semeja<n> q<ue> son tr<e>s Ca
+uos p<re>gu<n>tastes q<ue> cosa es cauall<er>ia}
+{CB2.
+avie mest<er> muchas palab<r><<a>>s para
+lo mostrar todo co<n>plida me<n>te & se-
+ria muy gra<n>t departimie<n>to no<n> uo<<s>>
+q<u><<i>>ero dezir enella si no<n> pocas pala-
+b<r><<a>>s Pero si uos q<u><<i>>siered<e>s sab<er> todo
+esto q<ue> me p<re>gu<n>tast<e>s dela cauall<er>ia
+<con>plida me<n>te leed un lib<r><<o>> q<ue> fyzo vn
+sabio q<ue> dize<n> vejec'io & y lo falla-
+redes todo Mas lo q<ue> yo entie<n>do de
+aq<ue>l poco ente<n>dimie<n>to q<ue> yo he vos
+dire A lo q<ue> me p<re>gu<n>tastes q<ue> cosa es
+cauall<er>ia vos Respo<n>do q<ue>la cauall<er>ia
+es estado muy pelig<r><<o>>so & muy on-
+rado Ot<r><<o>>si alo q<ue> me p<re>gu<n>tastes co-
+m<m>o se puede au<er> & g<u><<a>>rdar vos q<ue>la
+puede om<n>e au<er> & g<u><<a>>rdar co<n> la gr<ac'i>a
+de dios & co<n> bue<n> seso & co<n> v<er>gue<n>c'a la
+gr<ac'i>a de dios ha mest<er> el cauall<er>o com<m>o
+aq<ue>l q<ue> toma estado enq<ue> vn dia nu<n>ca
+puede seer seguro & la gr<ac'i>a de dios lo
+ha de manten<er> la onra q<ue> deue ganar
+por sus ob<r><<a>>s & a de g<u><<a>>rdar & de defender
+el cuerpo & el alma delos p<er>iglos en q<ue>
+anda cada dia Mas q<ue> ni<n>gu<n> om<n>e de
+mayor ot<r><<o>> estado E la gr<ac'i>a de dios an-
+da & le fara au<er> seso para faz<er> fechos
+com<m>o deue & q<ue>ra q<ue> aya u<er>gue<n>c'a de faz<er>
+lo q<ue> no<n> deua a todas estas cosas ni<n> ot<r><<o>>
+bie<n> ni<n>guno no<n> puede au<er> el cauall<er>o q<ue>
+durad<er>o le sea ni<n> q<ue> aya bue<n> acabamie<n>-
+to si no<n> lo q<ue> oviere por la gr<ac'i>a de dios
+Ot<r><<o>>si el bue<n> seso le es muy mest<er> Ca
+el seso le amostrara q<u><<i>>en es el q<ue> puede
+& lo deue faz<er> cauall<er>o E ot<r><<o>>si el q<ue> a
+de rec'ebir la cauall<er>ia E ot<r><<o>>si q<ue> es lo
+q<ue> el cauall<er>o deue g<u><<a>>rdar a dios & a su
+sen<n>or & a las ge<n>tes & q<ue> onra le deue<n>
+faz<er> A el E ot<r><<o>>si la q<ue> el deue faz<er> asi
+mismo Ot<r><<o>>si le demostrara q<ue> es lo
+q<ue> deue dar & q<ue> es lo q<ue> deue tener E}
+[fol. 4r]
+{CB2.
+fijo uos deued<e>s sab<er> q<ue> por el dar & por
+el ten<er> Razona<n> las g<e>n<te>s al om<n>e por
+fra<n>co o por escaso & por q<ue>las mas ve-
+zes no<n> caya<n> en esto las g<e>n<te>s lo q<ue> es
+Razo<n> si no<n> lo q<ue> es volu<n>tad de cada vno
+Q<u><<i>>ero uos yo most<r><<a>>r q<ue> cosa es fra<n>q<ue>za
+& q<ue> cosa es escaseza. fijo Sabet q<ue> en
+la fra<n>q<ue>za & enla escaseza ay q<u><<a>>tro ma-
+n<er>as La vna es franq<ue>za & la ot<r><<a>> es
+desgastamie<n>to la ot<r><<a>> es escaseza &
+la es auareza La fra<n>q<ue>za es dar lo
+q<ue> el om<n>e deue dar & ten<er> E el desga-
+stamie<n>to es dar lo q<ue> deue dar & dar
+lo q<ue> deue tener La escaseza es dar
+lo q<ue> deue dar & ten<er> lo q<ue> deue tener
+La auareza es no<n> dar lo q<ue> deue dar
+ni<n> dar lo q<ue> deue ten<er> Vos fijo & ot<r><<o>>
+alguno pod<r><<i>>ad<e>s dez<ir> Pues vos dezi-
+des q<ue>la franq<ue>za es dar lo q<ue> deue dar
+& ten<er> lo q<ue> deue ten<er>. & la escaseza es
+dar lo q<ue> deue dar & ten<er> lo q<ue> deue te-
+ner pues si asi es q<ue> difere<n>c'ia ha ent<r><<e>>
+ellos O q<ue> es la Razo<n> por q<ue>los om<ne>s
+tiene<n> q<ue> es mejor seer fra<n>co q<ue> escaso
+E c'ierta me<n>te fijo asi paresc'e & asi
+es Mas el dep<ar>timie<n>to q<ue> ent<re> ellos
+ha es en<e>l {BLNK.} Ca el fra<n>co da lo
+q<ue> deue dar & tien<e> lo q<ue> deue ten<er> mas
+lo q<ue> da dalo de buena mente & pla-
+zel mucho por q<ue>lo da E lo q<ue> tiene
+pesal mucho por q<ue>lo ha de tener. &
+vend<r><<i>>a delo dar si no<n> por q<ue> es cosa
+q<ue>l faria me<n>gua q<ue>l seria gra<n>t dan<n>o
+o gra<n>t v<er>gue<n>c'a o por q<ue>lo cuyda dar
+en ot<r><<o>> lugar en q<ue> sera mejor enple-
+ado Otrosi el escasso da lo q<ue> deue dar
+& tiene lo q<ue> deue ten<er> Mas lo q<ue> da
+no<n> lo da por [^2#q<ue>] tome plaz<er> enlo dar
+Mas dalo por q<ue> cuyda sacar algu-
+na varata dello opor q<ue> el seria dan<n>o}
+{CB2.
+o v<er>guenc'a si lo no<n> diesse E lo q<ue> tiene
+q<ue> no<n> da plazel mucho pues falla ma-
+n<er>a delo ten<er> sin dan<n>o & sin gra<n>d u<er>gue<n>-
+c'a E asi bie<n> poded<e>s ente[n]der q<u><<a>>nto gra<n>t
+difere<n>c'ia o dep<ar>timie<n>to ha ent<r><<e>> la fran-
+q<ue>za & la escaseza & assi vos he dep<ar>tido
+q<ue> cosa es fra<n>q<ue>za & scaseza E des aq<u><<i>> tor-
+nare ami Razo<n> Ot<r><<o>>si el seso le amostra-
+ra q<ue> es lo q<ue> deue pedir o aq<ue> p<er>sona Ot<r><<o>>
+si le amostrara com<m>o & q<u><<a>>ndo & co<n>tra q<u><<a>>-
+les p<er>sonas deue seer sofrido & ma<n>so
+& de bue<n> talante E com<m>o & q<u><<a>>ndo &
+<con>tra q<u><<a>>les p<er>sonas deue seer brauo &
+esforc'ado & cruel Ot<r><<o>>si el seso le mos-
+t<r><<a>>ra com<m>o o por q<u><<a>>les acaec'imie<n>tos de-
+ue seer aleg<r><<e>> o t<r><<i>>ste Ot<r><<o>>si le mostrara
+com<m>o deue come<n>c'ar la g<ue>rra & la co<n>tie<n>-
+da no<n> podie<n>do escusar & com<m>o se pare
+a ella & de q<ue>la ouiere come<n>c'ado E co-
+m<m>o escusara dela come<n>c'ar sin su me<n>-
+gua o sin su v<er>gue<n>c'a E com<m>o sald<r><<a>>
+della g<u><<a>>rda<n>do estas cosas E ot<r><<o>>si co-
+m<m>o deue g<ue>rrear q<u><<a>>ndo oviere el ma-
+yor poder q<ue> su co<n>trallo lo oviere ma-
+yor q<ue> el E com<m>o deue faz<er> q<u><<a>>ndo cer-
+care el lugar muy fuerte o no<n> ta<n>-
+to o com<m>o se deue defender si fuere
+c<er>cado E com<m>o deue parar hueste
+si oviere de lidiar o co<n> mas o co<n> me-
+ior<e>s q<ue>los suyos E com<m>o si los suyos
+fuere<n> mas o mejores E ot<r><<o>>si el se-
+so le mostrara com<m>o deue leuar la ge<n>-
+te cabdellada por el camino & no<n> te-
+ner las cosas en poco E ot<r><<o>>si com<m>o
+deue posar la hueste E com<m>o la deue
+ag<u><<a>>rdar de q<ue> fuer posada E com<m>o de-
+ue andar enla hueste aleg<r><<e>>. & esto [^a] q<ue>
+tiene pro E ot<r><<o>>si el seso le mostrara
+com<m>o deue mostrar q<ue>la g<u><<a>>rda q<ue> faze
+q<ue>la faze por seso mas no<n> por miedo E}
+[fol. 4v]
+{CB2.
+com<m>o deue g<u><<a>>rdar la hueste de pelea
+& com<m>o la deue escarme<n>tar si acaesc'ie-
+re E otrosi el seso le dira com<m>o se
+deu[e] mostrar por sen<n>or a los suyos
+E com<m>o los deue seer bue<n> co<n>pan<n>o
+E com<m>o deue faz<er> en<e>l t<ien>po dela g<u><<e>>rra
+o dela paz si fue muy Rico o abona-
+do E com<m>o q<u><<a>>ndo lo no<n> fuesse ta<n>to
+o q<u><<a>>ndo obiesse desto alguna me<n>gua
+E ot<r><<o>> si el seso le mostrara com<m>o
+deue faz<er> q<u><<a>>ndo ouiere buena andan-
+c'a E q<u><<a>>ndo el <con>trario & com<m>o deue
+partir las gana<n>cias q<ue> dios le diere
+La v<er>gue<n>c'a Ot<r><<o>>si cu<n>ple mucho al ca-
+uall<er>o mas q<ue> otra cosa ni<n>guna E
+ta<n>to le cu<n>ple q<ue> yo diria q<ue> valdra ma<<s>>
+al cauall<er>o au<er> ensi v<er>guenc'a & no<n> au<er>
+ot<r><<a>> man<er>a ni<n>guna buena q<ue> au<er> toda<<s>>
+las buenas man<er>as & no<n> au<er> v<er>gue<n>c'a
+Ca por buenas man<er>as q<ue> aya<n> syn v<er>-
+gue<n>c'a no<n> oviere tal cosa podra faz<er> al-
+gu<n> dia q<ue> enlos dias q<ue> biua sie<n>pre sera
+engan<n>ado E sy v<er>gue<n>c'a oviere nu<n>-
+ca fara cosa por q<ue>la aya<n> E ot<r><<o>>si abra
+v<er>gue<n>c'a de faz<er> lo q<ue> no<n> deue Ca ta<n>
+gra<n>t v<er>gue<n>c'a es a om<n>e en dexar de
+faz<er> lo q<ue> deue com<m>o de faz<er> lo q<ue> no<n> de-
+ue E asi la v<er>gue<n>c'a le fara g<u><<a>>rdar
+todo lo q<ue> deue a dios & al mu<n>do Casi
+v<er>gue<n>c'a oviere g<u><<a>>rdar se ha q<u><<a>>nto po-
+diere de no<n> faz<er> cosa por q<ue> se vea en
+v<er>gue<n>c'a contra dios Ca muy sin Ra-
+zon seria en dexar de faz<er> vn fecho
+v<er>gon<n>oso si sopiese q<ue>l veria vn om<n>e
+q<u><<a>>l q<u><<i>>er & no<n> aver v<er>gue<n>c'a de dios q<ue>lo
+c<r><<i>>o & lo redimio & le fizo tantos bien<e>s
+& sabe c'ierta mente q<ue>lo vee & lo entie<n>-
+de Ot<r><<o>>si la v<er>gue<n>c'a le fara q<ue> sufra an-
+te la muerte q<ue> faz<er> cosa v<er>gon<n>osa E
+pues digo q<ue> ante sufrira la muerte}
+{CB2.
+q<ue> caer en v<er>guenc'a vie<n> deued<e>s en-
+tender q<ue> no<n> dexara<n> de faz<er> ni<n>guna
+cosa ni<n> la fara por q<ue> en v<er>guen<n>a pue-
+da caer Ca todas las cosas q<ue> om<n>e
+pued(^a)[^e] faz<er> & dexar de faz<er> son lig<er>as
+q<ue>la muerte E asi poded<e>s sab<er> q<ue>la
+v<er>gue<n>c'a es la cosa por q<ue> om<n>e dexa de
+faz<er> todas las cosas q<ue> no<n> deue faz<er>
+E le faze faz<er> todo (^todo) lo q<ue> deue E
+por ende la madre & la cabec'a de to-
+das las vondad<e>s es la v<er>gue<n>c'a
+{RUB. Cap<itu>lo xx<<o>> com<m>o el cauall<er>o anciano res-
+po<n>de al escud<er>o q<u><<a>>l es mayor pesar}
+{IN3.} Ot<r><<o>>si a lo q<ue> me p<re>gu<n>stastes q<u><<a>>l es ma-
+yor plaz<er> o el mayor pesar q<ue> om<n>e
+pod<r><<i>>a au<er> fijo sin dubda esta es
+p<re>gunta gra<n>de Ca en esto si acaec'iera
+la voluntad. & la Razo<n> Ca muchos
+om<ne>s Ay q<ue> toma<n> muy gra<n>t pesar de
+cosas q<ue> co<n> Razo<n> no<n> lo debia<n> tomar
+ta<n> gra<n>de Ot<r><<o>> si por [^q<ue>] el mu<n>do es lleno
+de pesares & los ente<n>dimie<n>tos & las
+uolu<n>tad<e>s delos om<ne>s son de muchas
+man<er>as & muy dep<ar>tidas no<n> vos pod<r><<i>>a
+ni<n>guno dez<ir> q<u><<a>>l es el mayor pesar q<ue>
+todos los om<ne>s puede<n> aver Ca vnos
+toma<n> muy gra<n>t pesar q<u><<a>>ndo no<n> se les
+faze lo q<ue> ellos q<u><<i>>ere<n> E tiene aq<ue>llo
+por muy gra<n>t pesar Ot<r><<o>>s lo toma<n> muy
+grande q<u><<a>>ndo pierde<n> algo delo q<ue> an
+Ot<r>o<<s>> q<u><<a>>ndo pierde<n> pare<n>tes o p<er>sonas
+deq<ue> se syente<n> mucho Ot<r><<o>>s q<u><<a>>ndo ado-
+lesce<n> E asi de todas las man<er>as
+delos pesares Por ende no<n> vos pod<r><<i>>a
+Repuesta c'ierta dar q<u><<a>>l es mayor
+pesar de todos. Ca los vnos toma<n> pe-
+sar delo vno & los ot<r><<o>>s delo al Cada
+vno segu<n>d s<us> uolu<n>tad<e>s & sus man<er>a<<s>>
+& no<n> cata<n> en<e>llo Razo<n> Mas el ma-
+yor pesar q<ue> om<n>e puede & deue aber co<n>
+razo}
+{CW. es q<u><<a>>ndo}
+[fol. 5r]
+{CB2.
+es q<u><<a>>ndo por su m<er>ecimie<n>to faze al-
+guna cosa por q<ue> pierda la gr<ac'i>a de dios
+Ca si bie<n> catare q<u><<a>>ntas m<er>cedes dios
+le faze cadal [^2#dia] & de q<u><<a>>ntos pelig<r><<o>>s le
+g<u><<a>>rda & com<m>o la su gr<ac'i>a no<n> la puede
+p<er>der si no<n> por su gra<n>d m<er>ecimie<n>to E
+si la pierde pierde en<e>ste mu<n>do todo
+el bie<n> q<ue> en<e>l puede au<er> E es apare-
+jado p<ar>a le venir todo mal E ot<r><<o>>
+si pierde el parayso p<ar>a q<ue> dios le c<r><<i>>o
+de q<ue> om<n>e del mu<n>do no<n> pod<r><<i>>a co<n>tar
+el bie<n>. & el plaz<er> q<ue> y a p<ar>a sie<n>p<r><<e>> E es
+judgado paral infierno de a ta<n>to
+mal & ta<n>ta pena sin fin q<ue> se no<n> pue-
+de dez<ir> E asi deued<e>s ente<n>der q<ue> co<n>
+Razo<n> este [^es] el mayor pesar q<ue> om<n>e
+puede au<er> Ca todos los ot<r><<o>>s pesar<e>s
+son de cosas sen<n>aladas & avn q<ue> aya<n>
+pesar de aq<ue>llos puede au<er> plaz<er> en
+ot<r><<o>>s E estos pesar<e>s q<ue> ouiere ca-
+dal dia le puede<n> me<n>guar & puede<n>
+le acaec'er cosas por q<ue> en aq<ue>llos fe-
+chos mismos enq<ue> tenia pesar puede
+tomar plaz<er> E avn por mucho q<ue>
+el pesar dure no<n> puede durar si no<n>
+q<u><<a>>nto visq<u><<i>>ere eneste mu<n>do Mas el
+q<ue> por su mala vent<ur>a p<er>diere por s<us>
+m<er>ecimie<n>tos la gr<ac'i>a de dios pierde
+todos los plazeres & cobra todos
+pesar<e>s E este mal nu<n>ca abra aca-
+bamie<n>to Asi poded<e>s ente<n>der q<ue> sin
+dubda ni<n>guna este es co<n> Razo<n> el
+mayor pesar de todos los pesares.
+{RUB. Cap<itu>lo xx<<o>> com<m>o el cauall<er>o anciano res-
+po<n>de al escud<er>o q<u><<a>>l es el mayor plaz<er>}
+{IN3.} Ot<r><<o>>si a lo q<ue> me p<re>gu<n>tastes q<u><<a>>l era
+el mayor plaz<er> vos digo q<ue> bie<n>
+asi com<m>o vos dixe q<ue>la<<s>> volu<n>ta-
+d<e>s delos om<ne>s so<n> partidas en tomar
+pesares q<ue> bie<n> asi so<n> p<ar>tidas en tomar}
+{CB2.
+plazer<e>s Ca vnos lo tama<n> mayor
+en vnas cosas & ot<r><<o>>s en ot<r><<a>>s cada
+vno segu<n> su uolu<n>tad mas el mayor
+plaz<er> q<ue> om<n>e co<n> Razo<n> puede & deue
+au<er> es q<u><<a>>ndo entie<n>de q<ue> esta sin peca-
+do por q<ue> esta enla gr<ac'i>a de dios E
+esta sin Rec'elo q<ue> no<n> ha cosa q<ue>le en-
+barg<u><<e>> para le faz<er> dios m<er>c'ed co<n>pli-
+da Ca fijo uos deued<e>s saber q<ue> asi
+com<m>o dios es co<n>plido sie<n>p<r><<e>> q<ue>rra a lo<<s>>
+om<ne>s faz<er> m<er>c'ed <con>plida me<n>te E lo
+q<ue> dexa deles faz<er> no<n> es sino<n> por enba-
+rgo de pecados o de malas obras
+q<ue>los om<ne>s pone<n> entre dios & ellos
+pues el q<ue> sabe q<ue> no<n> a este enbargo
+ta<n> aleg<r><<e>> deuia seer q<ue> ni<n>gu<n> pesar
+no<n> deuia sentir E ot<r><<o>> si por q<ue> el
+sabe q<ue> q<u><<a>>ntos vien<e>s el faze de todo<<s>>
+a de auer bue<n> galardo<n> muy mayor
+q<ue> el su m<er>ec'imie<n>to ni<n> q<ue> om<n>e pod<r><<i>>a
+dez<ir> en todos los vien<e>s q<ue> se faze<n> por
+el mu<n>do ha muy gra<n>d p<ar>te E dema<<s>>
+q<ue> es c'ierto q<ue> si la muerte q<ue> anda
+todo el dia ent<r><<e>> los pies le fallare
+en tal estado q<ue> es seguro de cobrar
+la gl<or>ia de dios enq<ue> a plaz<er> <con>plido
+& en folgura E por el plaz<er> q<u><<a>>nto
+mas dura es mayor Asi es este el
+mayor plaz<er> q<ue> todos los ot<r><<o>>s. Ca lo<<s>>
+plazeres del mu<n>do por grand<e>s q<ue> o<mn>e
+los aya dura<n> poco E avn de todo<<s>>
+o delos mas se enoja el om<n>e Mas
+este dura en q<u><<a>>nto om<n>e biue en este
+mu<n>do. & depues q<ue> sale del para sie<n>p<r><<e>>
+E por ende ni<n>gu<n> plaz<er> no<n> puede
+ni<n> deue seer conparado a este et c<eter><<a>>.
+{RUB. Cap<itu>lo xxj<<o>> com<m>o el cauall<er>o Respo<n>-
+de e a recudido alas p<re>gu<n>tas del
+escud<er>o le dio por ofic'io q<ue> no<n> dexasse
+su camino para las cortes del Rey}}
+[fol. 5v]
+{CB2.
+{IN3.} E agora fijo vos he respo<n>dido
+lo mejor q<ue> yo pude a las p<re>-
+gu<n>tas q<ue> yo ente<n>di q<ue> vos cu<n>-
+plia<n> p<ar>a el v<uest>ro estado delas q<ue> me
+fiziest<e>s E a las ot<r><<a>>s q<ue> vos no<n> res-
+po<n>di dexolo por q<ue> por q<ue> cuydo q<ue> vos
+no<n> faze<n> ta<n> gra<n>t me<n>gua delas sa-
+ber E por q<ue> si las q<ue>redes dep<re>nd<er>
+q<ue> fallaredes q<ue> (^q<ue>) vos las podran
+mostrar E pues esto asi es co<n>-
+seiar vos ya q<ue> no<n> dexasedes v<uest>ro
+camino E sabe dios q<ue> yo no<n>
+digo esto por q<ue> yo gra<n>t plaz<er> no<n>
+tome co<n>pania Mas fagolo por q<ue>
+q<ue>ria q<ue> por el plaz<er> q<ue> yo co<n>busco
+he q<ue> no<n> p<er>diessed<e>s vos nada dela
+v<uest>ra fazienda Ca todo om<n>e q<ue> a ot<r><<o>>
+<con>seja deue catar en<e>l <con>sejo q<ue> da Ma<<s>>
+la pro de aq<ue>l a q<u><<i>>en <con>seja q<ue>la su-
+ya E si asy no<n> lo faze no<n> es le-
+al <con>sejero Pero si g<u><<a>>rdando p<r><<i>>me-
+ra ment<e> la p<ro> de aq<ue>l aq<u><<i>> <con>seja saca
+p<ar>a si alguna p<ro> de aq<ue>l <con>sejo q<ue> da
+deuese tener por de buena ve<n>t<ur>a.
+{RUB. Cap<itu>lo xx<<o>>iij com<m>o el escud<er>o grade-
+c'io mucho al cauall<er>o anciano lo
+q<ue>l most<r><<o>> E le Rogo q<ue> tomase +}
+{IN3.} Qvando el es-cud<er>o {RUB. del lo q<ue> q<u><<i>>siesse}
+oyo todas estas respu-
+estas & ente<n>dio q<ue>l co<n>plia p<ar>a
+lo q<ue> el avia mest<er>. E ot<r><<o>>si q<ue> se
+avia alli detenido ta<n> poco por q<ue>
+no<n> p<er>deria nada de su camino g<r><<a>>-
+dec'iolo mucho a dios & tobose por
+muy de buena vent<ur>a E por en-
+de dixo al cauall<er>o Sen<n>or yo g<r><<a>>desco
+mucho a dios. & a vos el vie<n> q<ue> me
+a venido dela v<uest>ra vista E cred q<ue>
+yo me te<n>go por muy tenudo de vos
+s<er>uir e toda la mi vida E pido vos}
+{CB2.
+por dios. & por v<uest>ra vondat q<ue> si de al-
+guna cosa delo q<ue> yo aq<u><<i>> troxe vos pu-
+edo s<er>uir o vos cu<n>ple q<ue>lo tomed<e>s & q<ue>
+te<n>gad<e>s q<ue> de aq<u><<i>> adelante vos s<er>uire
+q<u><<a>>nto pudiere muy de buena me<n>te
+El cauall<er>o le g<r><<a>>dec'io mucho lo q<ue> de-
+zia & si se pago de alguna cosa delo
+q<ue>l traya tomo lo Mas por mostrar
+le bue<n> talante q<ue> por ot<r><<o>> plaz<er> q<ue> en
+ello fallasse. & p<ro>metiole q<ue> sie<n>pre Ro-
+garia a dios por el Ento<n>c'e se des-
+pidiero<n> llorando mucho co<n> plazer
+El om<n>e bueno aco<m>me<n>dolo a dios &
+diol su bendicio<n> {RUB. Cap<itu>lo xxiiij<<o>> com<m>o
+el escud<er>o se fue p<ar>a las cortes E le
+Recebio el Rey muy bie<n> & lo echo
+a su t<ie>ra muy Rico & muy onrado}
+{IN3.} El escudero fue para las cort<e>s &
+andiedo ta<n>to por sus jornada<<s>> q<ue>
+llego aq<ue>l lugar do el Rey fazia
+sus cortes E end<er>ec'ol dios asi q<ue> q<u><<a>>n-
+do el llego a ver las cortes no<n> era<n> p<ar>ti-
+das E q<u><<a>>ndo most<r><<o>> al Rey la su Ra-
+zo<n> por q<ue> viniera E ot<r>osi le conto
+la avent<ur>a q<ue>le acaesc'iera enel cami-
+no con el cauall<er>o h<er>mitan<n>o. Tomo
+el Rey & todos los q<ue> era<n> con el muy
+gra<n>t plaz<er> E ent<r><<e>> q<u><<a>>ntos y binie-
+ro<n> a aq<ue>llas cortes fizol el Rey m<er>c'e-
+des muy sen<n>aladas E tanto se
+pago delas sus buenas man<er>as q<ue>l
+touo co<n>sigo gra<n>t piec'a de t<ien>po. & fizol
+cauall<er>o & despues enbiolo a su t<ie>ra
+muy Rico & muy onrado {RUB. Cap<itu>lo xxv<<o>>
+com<m>o el cauall<er>o nouel se partio
+delas cortes & torno por la h<er>mita
+del cauall<er>o anc'iano E q<u><<i>>siera
+aver respuesta delas ot<r><<a>>s p<re>gu<n>ta<<s>>
+E el cauall<er>o anc'iano se escuso co<n>
+Razo<n>}}
+[fol. 6r]
+{CB2.
+{IN3.} El cauall<er>o nouel acorda<n>dose de
+q<u><<a>>nto bie<n> ap<re>ndiera del cauall<er>o
+q<ue> estaua enla h<er>mita tomo su
+camino p<ar>a aq<ue>l lugar dolo fallara
+E q<u><<a>>ndo llego ala h<er>mita do el om<n>e
+bueno moraba E el [^2#o<mn>e] bueno lo bio
+& sopo q<u><<a>>nto onrado & q<u><<a>>nto bie<n> an-
+dante venia plogol mucho & g<r><<a>>de-
+c'iolo mucho a dios E el cauall<er>o no-
+uel moro y con el algunos dias
+Ca el t<r><<a>>ia biandas & todo lo q<ue> abi-
+an mest<er> E en aq<ue>l t<ien>po q<ue> en vno
+moraro<n> q<u><<i>>siera el cauall<er>o nouel A-
+ver repuesta del cauall<er>o anc'iano
+q<ue> moraba enla h<er>mita delas p<re>gu<n>-
+tas q<ue> el fiziera ante q<ue> del se par-
+tiesse Aq<ue> avn no<n> le respo<n>diera ma<<s>>
+por la gra<n>t flaq<ue>za q<ue> en el om<n>e bu-
+eno avia no<n> le pudo dar repuesta
+<con>plida me<n>te E desq<ue> ente<n>diero<n> q<ue>
+era t<ien>po de se yr el cauall<er>o nouel p<ar>a
+su t<ie>ra despediose del E el om<n>e bu-
+eno Rogando mucho a dios q<ue> el e<n>-
+d<er>ec'asse & lograsse de bie<n> en mejor
+E el cauall<er>o nouel dexol delo q<ue>
+y traya para q<ue> pudiesse y passar
+su vida algu<n> t<ien>po mas sin lazer-
+ia q<ue> fasta ento<n>c'e E muy mas
+le dexara si el bueno lo q<u><<i>>siera to-
+mar E asi se partiero<n> muy pa-
+gados el vno del ot<r><<o>> E fuesse el
+cauall<er>o nouel para su t<ie>ra E fin-
+co el om<n>e bueno ensu h<er>mita co<n>p-
+lie<n>do su penite<n>c'ia {RUB. Cap<itu>lo xxvj<<o>> com<m>o
+el cauall<er>o nouel se partio del caua-
+ll<er>o anc'iano & se fue p<ar>a su t<ie>ra & de-
+pues com<m>o dexo su t<ie>ra co<n> gra<n>t de-
+seo al cauall<er>o anc'iano}
+{IN2.} Depues q<ue> el cauall<er>o nouel se
+partio del cauall<er>o anc'iano q<ue>}
+{CB2.
+fincaua enla h<er>mita com<m>o aved<e>s oy-
+do Enpec'o su camino p<ar>a su t<ie>ra E
+por q<ue> ente<n>dio q<ue> viniera muy onra-
+do & muy bie<n> andante de casa de su
+sen<n>or Auia muy gra<n>t talante de
+llegar a su t<ie>ra por q<ue> oviese plaz<er> co<n>
+s<us> parie<n>t<e>s & con s<us> amigos Ca vna
+delas plaze<n>teras cosas q<ue> en<e>l mu<n>do
+ha beuir om<n>e enla t<ie>ra do es nat<ur>al
+E mayor mente si dios li faze
+ta<n>ta m<er>c'ed q<ue> puede bebir en<e>lla on-
+rado. & p<re>c'iado E ta<n> plaze<n>tero esta
+man<er>a de vida q<ue> asi engan<n>a mu-
+chos q<ue> escoje<n> ante de beuir en ella
+q<ue> en t<ie>ra estran<n>a en q<ue> fuesse<n> c'ierto<<s>>
+q<ue> pod<r><<i>>an passar muy onrada me<n>te
+E sin dubda esto es gra<n>t yerro
+& gra<n>t engan<n>o Ca el q<ue> tiene mie<n>-
+tes por llegar algu<n> bie<n> & a bue<n>
+estado no<n> deue dexar el plaz<er> dela uo-
+lu<n>tad de beuir & de g<r><<a>>desc'er do q<u><<i>>er
+q<ue> mas pudiere lleuar su onra a-
+dela<n>te E desq<ue> llego a su t<ie>ra fuy
+muy bie<n> Rec'ebido de todas las ge<n>-
+tes ta<n> bie<n> delos parie<n>tes com<m>o de
+los estran<n>os Ca la bie<n> anda<n>c'a & el
+poder & la Riq<ue>za faze seer a om<n>e ma<<s>>
+amado & mas p<re>c'iado delas ge<n>t<e>s
+de q<u><<a>>nto no<n> seria si ta<n> bie<n> anda<n>te
+no<n> fuesse Ca muchos sirue<n>. & se fa-
+ze<n> parie<n>tes del om<n>e mie<n>tre buena
+anda<n>c'a q<ue> si la no<n> oviere q<ue>l no<n> ca-
+taria<n> delos ojos si no<n> topasse<n> conel
+enl[^2#a] carrera E desq<ue> ouo morado en
+su t<ie>ra com<m>o q<u><<i>><e>r q<ue> beuia en ella muy
+onrado & muy bie<n> andante no<n> pudo
+oluidar ni<n> sacar de su corac'o<n> el deseo
+q<ue> avia de fablar co<n> el cauall<er>o anc'ia-
+no q<ue> fincaua enla h<er>mita Ca co<n> plaz<er>
+era e ta<n> ap<ro>uechosa cosa es para lo<<s>>}
+[fol. 6v]
+{CB2.
+buenos & p<ar>a los ente<n>dudos el sab<er>
+q<ue> no<n> lo puede<n> olbidar. & por los bie-
+nes corporal<e>s E por ende acordo de
+yr beer al om<n>e bueno E esto fazia
+el por dos cosas la vna por sab<er> la
+repuesta delas p<re>gu<n>tas q<ue>l fiziera
+aq<ue> avn no<n> le respo<n>diera E la ot<r><<a>>
+rec'ela<n>do q<ue> si el om<n>e bueno morie-
+sse ante q<ue> a estas le oviesse respo<n>di-
+do q<ue> por aue<n>t<ur>a no<n> fallaria ot<r><<o>> q<ue> ta<n>
+<con>plida me<n>te le pudiesse respo<n>der
+E dexo su fazienda en su t<ie>ra con
+bue<n> recabdo & acome<n>dola atales de
+q<ue> era c'ierto q<ue> q<u><<a>>ndo el viniesse q<ue>l
+fallaria ta<n> bie<n> enderac'ada com<m>o
+si el ende no<n> se partiesse Ca el q<ue>
+de su t<ie>ra se parte co<n>uiene q<ue> tal
+recabdo dexe en ella q<ue> q<u><<a>>ndo uinie-
+re q<ue> falle q<ue> no<n> le enpec'io la su p<ar>ti-
+da dende E q<ue> su fazienda q<u><<i>>ere
+fiar en ot<r><<o>> co<n>uiene q<ue> escoja atal
+de q<ue> sea c'ierto q<ue> nu<n>ca se arepie<n>ta
+del poder q<ue>l diere E q<ue> sie<n>p<r><<e>> q<ue>rra
+mas la p<ro> & la onra del sen<n>or q<ue>la
+suya E desq<ue> esto ovo fecho en es-
+ta man<er>a tomo en su co<n>pan<n>a la q<ue>
+ente<n>dio q<ue>l co<n>plia & fue veer al ca-
+uall<er>o anc'iano q<ue> dexara enla h<er>mi-
+ta E desq<ue> llego plogol mucho
+al om<n>e bueno E com<m>o q<u><<i>>er q<ue>
+estaua flaco Reci(o)bolo muy bie<n>
+E tomaro<n> amos muy gra<n>t pla-
+zer desq<ue> en vno se ayu<n>taro<n> {RUB. Cap<itu>lo
+xxvij<<o>> com<m>o [^el] cauall<er>o anciano se
+marabillo dela venida del caua-
+ll<er>o Nouel E le p<re>gu<n>to la Razo<n>
+desu Venida}
+{IN3.} E desq<ue> ouiero<n> fablado vna
+piec'a p<re>gu<n>ta<n>do se el vno al ot<r><<o>>
+com<m>o les fuera depues q<ue> de}
+{CB2.
+q<ue> de vno se partiero<n> el cauall<er>o ancia-
+no come<n>c'o su Razo<n> en esta (^en esta)
+g<u><<i>>sa fijo mucho amado yo se v<er>dad<er>a
+me<n>te q<ue> vos sodes de muy bie<n> ente<n>di-
+mie<n>to E q<ue> no<n> fariad<e>s ni<n>guna cosa
+por co<n>plir u<uest>ra volu<n>tad si alguna pro
+o o<n>rra no<n> cuydased<e>s ende sacar Por
+ende vos ruego q<ue> me digad<e>s q<ue> fue la
+Razo<n> por q<ue> agora dexast<e>s v<uest>ra tiera en
+q<ue> tan poco aviad<e>s morado. & do pudie-
+rad<e>s faz<er> muchas cosas de v<uest>ra pro &
+tomar mucho plaz<er> E veniest<e>s a es-
+ta h<er>mita do sabed<e>s q<ue> no<n> poded<e>s au<er>
+vida si no<n> mucho enojosa & muy lazra-
+da {RUB. Cap<itu>lo xxviij<<o>> com<m>o el cauall<er>o no-
+uel mostro al [^cauall<er>o] anc'iano la Razo<n> de su +}
+{IN3.} Sen<n>or dixo el cauall<er>o no-uel {RUB. venida}
+desq<ue> la p<r><<i>>mera vegada vos
+falle siemp<re> vos oy dez<ir> cosas v<er>-
+dad<er>as & muy ap<ro>uechosas & de gra<n>t se-
+so & aun me semeia q<ue> por la flaq<ue>za
+q<ue> abed<e>s en<e>l cuerpo q<ue> se enbarga el
+v<uest>ro ente<n>dimie<n>to de faz<er> toda su obra
+asi com<m>o deue E esto cu<n>ple a mi mu-
+cho por q<ue> pueda yo acabar aq<ue>llo por
+q<ue> yo aq<u><<i>> vin E por ende vos Respo<n>do
+yo te<n>go q<ue> en ni<n>guna cosa no<n> pod<r><<i>>a
+yo faz<er> mas mi pro ni<n> tomar mayor
+plaz<er> q<ue> en dexar todo lo al por vos ve-
+nir ver Co<n> muy gra<n>t pro me es en
+vos faz<er> en man<er>a para vos conosc'er &
+g<r><<a>>desc'er el bie<n> & la m<er>c'ed q<ue> me vino E
+asy com<m>o el bue<n> conosc'imie<n>to q<ue> om<n>e
+faga {BLNK.} Rec'ebido algu<n> bie<n>
+Asi te<n>go {BLNK.} cu<n>ple su debdo el q<ue>
+g<u><<a>>rda E pone por ob<r><<a>> el bie<n> q<ue> ha rec'e-
+bido {BLNK.} es muy gra<n>d plaz<er> el q<ue> fa-
+ze q<u><<a>>nto puede por ap<re>nder alguna co-
+sa buena & ap<ro>uechosa si dios q<u><<i>>ere g<u><<a>>r-
+dar q<ue>la faga E por q<ue> todas estas}
+[fol. 7r]
+{CB2.
+cosas no<n> podemos bie<n> acatar com<m>o {BLNK.}
+Por ende toue q<ue> {BLNK.}
+lo al por venir {BLNK.} por
+dios & por mesura {BLNK.}
+de me respo<n>der a aq<ue>llas Razon<e>s q<ue> el ot<r><<o>>
+dia no<n> pudiest<e>s por lo {BLNK.} vos
+enbargo {RUB. Cap<itu>lo xxix<<o>> com<m>o el cauall<er>o
+anc'iano se marabillo mucho del afin-
+camie<n>to q<ue> el cauall<er>o nouel le fazia por
+la respuesta delas p<re>guntas}
+{IN3.} Fijo dixo el om<n>e bueno mucho me
+marabillo por q<ue> me fazedes ta<n>
+gra<n>t afincamie<n>to sabiendo q<ue> yo
+no<n> ley ni<n> estudie tanto por q<ue> a tantas
+p<re>guntas & a ta<n>tas scienc'ias vos pudi-
+esse Responder E paresc'e me q<ue> por
+avent<ur>a q<ue> me q<ue>redes meter en v<er>gue<n>c'a
+bie<n> cuidaua yo q<ue> de ot<r><<a>> man<er>a me g<r><<a>>de-
+c'eriad<e>s uos esto q<ue> tanto loades q<ue> de
+mi ap<re>ndiest<e>s E por ende vos Rue-
+go q<ue> si vos ente<n>ded<e>s q<ue> poded<e>s escusar
+de me afincar en esta Razo<n> q<ue> lo fagad<e>s
+{RUB. Cap<itu>lo xxx<<o>> com<m>o el cauall<er>o nouel mos-
+tro por Razo<n> al cauall<er>o anc'iano q<ue> de-
+uia responder a las ot<r><<a>>s p<re>gu<n>tas.}
+{IN3.} Sen<n>or dixo el cauall<er>o nouel no<n>
+q<u>isiese dios q<ue> yo nu<n>ca pensase
+cosa por q<ue> vos v<er>guenc'a toma-
+sed<e>s Ca esto q<ue> vos llamades v<uest>ra v<er>gue<n>-
+c'a esto tengo yo por gra<n>t v<uest>ra onra
+Ca q<u><<a>>nto mas menos leyst<e>s & sabed<e>s
+mas q<ue>los ot<r><<o>>s q<ue> mucho an studiado
+por v<uest>ro ente<n>dimie<n>to tanto es c'ierto
+q<ue> vos fizo dios mayor gr<ac'i>a en vos dar
+el ente<n>dimie<n>to por q<ue> sopiesed<e>s lo q<ue> sa-
+bed<e>s E asi pues vos entended<e>s q<ue> con
+buena Razo<n> no<n> vos poded<e>s escusar pi-
+do vos por dios & por me<n>sura q<ue> me q<ue>ra-
+des respo<n>der a las p<re>guntas q<ue> vos fizi
+{RUB. Cap<itu>lo xxxj<<o>> com<m>o el cauall<er>o anc'iano +}}
+{CB2.
+{RUB. touo por bie<n> de Respo<n>der a las ot<r><<a>>s
+p<re>guntas del cauall<er>o nouel}
+{IN3.} Bien veo dixo el cauall<er>o anc'ia-
+no q<ue> no<n> puedo escusar de uos no<n>
+respo<n>der pues tanto lo q<ue>redes
+Mas si las respuestas no<n> fuere<n> tan
+<con>plidas o por palabras ta<n> apuestas
+o ta<n> p<ro>p<r><<i>>as no<n> vos marabilled<e>s q<ue> avn
+q<ue> el om<n>e Respo<n>da enlas p<re>gu<n>tas v<er>-
+dad<er>a me<n>te mas graue es de faz<er> q<ue>
+sea<n> todas las respuestas de
+apuestas Razon<e>s q<ue> cu<n>pla<n> al
+fecho Pero de aq<ue>llo poco q<ue> yo
+sopiere respo<n>der vos he a ello E
+dios por la su m<er>c'ed q<u><<i>>era q<ue> venga a
+vos pro & onra & q<ue> yo sin v<er>gue<n>c'a [^2#finq<ue>]
+Pero si a todas estas p<re>guntas q<ue>me
+vos fazed<e>s no<n> vos pudiere yo respo<n>-
+der por aq<ue>llas palab<r><<a>>s mismas q<ue>
+p<er>tenesce<n> no<n> vos marabilled<e>s Que
+muchas delas p<re>gu<n>tas q<ue> vos me fe-
+ziest<e>s son de artes & de sc'ie[n]cias c'ier-
+tas q<ue> an palab<r><<a>>s sen<n>aladas por q<ue> de-
+muestra<n> lo q<ue> q<u><<i>>ere<n> dez<ir> E aq<ue>llas pa-
+lab<r><<a>>s ente<n>der las ha el q<ue> sabe aq<ue>lla
+arte E por seer muy sabidor en ot<r><<a>>
+no<n> ente<n>dera aq<ue>llas palab<r><<a>>s q<ue> son de
+la scienc'ia q<ue> el no<n> sabe E dez<ir> uos
+he algunas dellas por q<ue> entendad<e>s
+las ot<r><<a>>s E com<m>o q<u><<i>>er q<ue> yo nu<n>ca ley
+ni<n> ap<re>ndi ni<n>guna sc'ienc'ia q<ue> so mucho
+anc'iano & guarec'i en casa de muchos
+sen<n>ores oy dep<ar>tir a muchos om<ne>s sa-
+bios E bie<n> cred q<ue> para los legos
+no<n> ha ta<n> buena escuela en<e>l mu<n>do cu-
+emo c<r><<i>>ar se om<n>e & beuir en casa delo<<s>>
+sen<n>ores ca y se ayunta<n> muchos bue-
+nos & muchos sabios & el q<ue> ha sabor
+de ap<re>nder cosas por q<ue> vala mas en
+ni<n>gun lugar no<n> las puede mejor}
+[fol. 7v]
+{CB2.
+ap<re>nder Ca si bueno q<u><<i>>siere seer y fal-
+lara muchos buenos co<n> q<ue> se aco[n]pan<n>e
+E vna delas mas c'iertas sen<n>ales
+q<ue> en<e>l om<n>e puede paresc<er> q<ue> tal q<u><<i>>siere
+seer es q<u><<a>>ndo ven aq<ue> <con>pan<n>a se allega
+Ca todo om<n>e se allega a aq<ue>l co<n> q<u><<i>> ha
+alguna semejanc'a de obra o de uo-
+lu<n>(^d)[^t]ad Ca sie<n>p<r><<e>> los cuerdos se llega<n>
+a los cuerdos & los bie<n> costu<n>brados
+co<n> los bie<n> costu<n>brados E asi de to-
+das las ot<r><<a>>s cosas semeja<n>t<e>s ta<n>
+bie<n> delas buenas man<er>as com<m>o
+dela<<s>> co<n>trallas Biuie<n>do yo en ca-
+sa de vn sen<n>or co<n> q<u><<i>> guarec'ia oy fa-
+blar a om<ne>s muy letrados en mu-
+chas scienc'ias E oylos dez<ir> q<ue> por
+las cosas q<ue> so<n> ordenadas en aq<ue>lla
+arte dize<n> los gramaticos reglas
+E por lo q<ue> llama<n> los g<r><<a>>maticos
+Reglas dize<n> los logicos maxinas
+E llama<n> los fisicos anphorisma<<s>>
+E eso mismo es en todas las sc'ie<n>-
+cias E por ende por q<ue>las p<re>gu<n>ta<<s>>
+q<ue> me vos fazedes son de scienc'ias
+sen<n>aladas & q<ue> han nob<r><<e>>s sen<n>alado<<s>>
+q<ue> no<n> se entienda<n> en ot<r><<a>> arte si no<n>
+en aq<ue>lla misma Pues ni<n>guna
+de aq<ue>llas artes nu<n>ca ley no<n> vos
+deuedes marabillar si uos no<n> res-
+pondiere por aq<ue>llas palab<r><<a>>s mis-
+mas q<ue> son de aq<ue>lla arte Mas q<ue>la<<s>>
+p<re>guntas son muchas & p<ar>a respo<n>-
+der a ellas <con>plida me<n>te auia me-
+ster muchas palab<r><<a>>s p<ar>a cada v-
+na Por ende por vos no<n> detener
+Responder vos he en pocas pala-
+b<r><<a>>s Segu<n>d q<ue> dios por la su m<er>c'ed
+me q<u><<i>>siere alu<n>b<r><<a>>r el e<n>te<n>dimie<n>to &
+q<u><<a>>nto alca<n>c'are la flaq<ue>za del mi po-co}
+{CB2.
+saber vos fijo me p<re>gu<n>tast<e>s p<r><<i>>m<er>a-
+mente q<ue> cosa es dios & depues q<ue> co-
+sa son los angeles & p<ar>a q<ue> fuero<n> c<r><<i>>a-
+dos E q<ue> cosa es parayso & para
+q<ue> fue fecho E eso mismo el jnfier-
+no E q<ue> cosa son los c'ielos & para
+q<ue> fuero<n> fechos & q<ue> cosa son las pla-
+netas & las ot<r><<a>>s estrellas & p<ar>a q<ue> fue-
+ro<n> fechas E q<ue> cosa son los eleme<n>-
+tos & para q<ue> fuero<n> fechos E q<ue> cosa
+es el om<n>e. & p<ar>a q<ue> fue fecho E q<ue> cosa
+son las vestias & las aues & los pes-
+cados & las yerbas & los arboles
+& piedras & los metales & la tiera
+& la mar & las ot<r><<a>>s cosas p<ar>a q<ue> fue-
+ro<n> fechas E por q<ue> <con>sie<n>te dios q<ue>lo<<s>>
+buenos ayam mucho mal & los
+malos mucho bie<n> E q<u><<a>>les so<n> las
+cosas q<ue> el Rey deue faz<er> p<ar>a q<ue> sea
+bue<n> Rey & ma<n>tega bie<n> asi & asu
+Regno. & asu estado E q<u><<a>>l es entre
+los om<ne>s el mas alto & mas onrado
+estado E q<u><<a>>l es mayor & mas onra-
+do estado ent<r><<e>> los legos E q<u><<a>>l es
+mayor plaz<er> q<ue> om<n>e puede au<er> E
+q<u><<a>>l es el mayor pesar E q<ue> cosa es
+cauall<er>ia & com<m>o la puede om<n>e me-
+jor au<er> & g<u><<a>>rdar Ento<n>c'e respo<n>di uo<<s>>
+yo segu<n>d el mi flaco ente<n>dimie<n>to
+a algu<n>as dellas Prim<er>a me<n>te a lo
+q<ue> me p<re>gu<n>tast<e>s q<ue> cosa es dios & por
+q<ue> <con>siente q<ue>los bu<en>os ayan mucho mal
+& los malos mucho bie<n> E q<u><<a>>les so<n>
+las cosas q<ue> el Rey deue faz<er> p<ar>a q<ue> sea
+bue<n> Rey & q<ue> mante<n>ga bie<n> asi & asu
+regno & asu estado E q<u><<a>>l es ent<r><<e>> los
+om<ne>s el mas alto & mas onrado esta-
+do E q<u><<a>>l es el mayor estado ent<r><<e>> lo<<s>>
+legos E q<u><<a>>l es el mas plaz<er> q<ue> om<n>e
+puede au<er> & q<u><<a>>l es el mayor pesar E}
+[fol. 8r]
+{CB2.
+q<ue> cosa es cauall<er>ia & com<m>o la puede
+om<n>e meior au<er> {BLNK.} Ca las ot<r><<a>>s co-
+sas q<ue> uos no<n> respo<n>di {BLNK: 3 lines left blank.}
+{RUB. Cap<itu>lo xxxij<<o>> co-
+mo el cauall<er>o anc'iano Respo<n>de al
+cauall<er>o nouel q<ue> cosa son los an-geles +}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> cosa {RUB.}
+so<n> los angeles & para q<ue> fuere<n>
+fechos & c<r><<i>>ados fijo esta no<n> es v-
+na p<re>gunta ante so<n> dos E vna p<re>-
+gu<n>ta es q<ue> cosa so<n> los angeles & ot<r><<a>>
+p<ar>a q<ue> fuero<n> c<r><<i>>ados E alo q<ue> cosa son
+los angel<e>s fijo ya vos yo dixe q<ue>las
+p<re>gu<n>tas q<ue> me fazedes so<n> de mucha<<s>>
+sc'ie<n>c'ias & q<ue> om<n>e muy let<r><<a>>do abria a-
+saz q<ue> cuydar para dar vos respues-
+ta dellas E aesta p<re>gu<n>ta q<ue> me ago-
+ra fazed<e>s q<ue> cosa so<n> los angel<e>s. om<n>e
+q<ue> no<n> sea muy letrado no<n> puede res-
+pond<er> aello <con>plida me<n>te Ca las las
+cosas q<ue> son sp<irit>uales & q<ue> no<n> cabe<n> en
+todos los sesos corporal<e>s {BLNK: 3 lines left blank.}
+tan <con>plida
+me<n>te com<m>o auia mest<er> E todo lo
+q<ue>se puede faz<er> delas cosas sp<irit>ual<e>s
+no<n> alca<n>c'a aello todos los sesos cor-
+poral<e>s Ca la cosa sp<irit>ual no<n> se puede
+veer co<n> los sp<irit>ual<e>s ni<n> se puede palpar
+ni<n> se puede oler Mas p<ar>a ende se oyr
+E delo om<n>e ende oye puede depu-
+es fablar enello E asy delos c'inco
+sesos corporal<e>s E los q<ue> son oyr &
+fablar alcanc'a<n> algo delas cosas sp<iritu>a-
+les E lo q<ue> estos dos sesos alcanc'a<n>
+Ju(^b)[^d]ga & entie<n>de depues la Razo<n> na-
+t<ur>al el ente<n>dimie<n>to E por el ente<n>-
+dimie<n>to del om<n>e q<ue> no<n> es let<r><<a>>do no<n>
+puede judgar ta<n> <con>plida me<n>te com<m>o}
+{CB2.
+era mest<er> enlas cosas sp<iritu>ales por q<ue>
+no<n> le oyo ni<n> fablo en<e>llo ta<n>tas ve-
+gadas por q<ue> co<n>plida me<n>te lo pu-
+disse ente<n>der E asi yo q<ue> no<n> so le-
+t<r><<a>>do ni<n> p<er>tenesce al mi estado ni<n> oy
+ni<n> fable ta<n>to enlas sp<iritu>al<e>s por q<ue> me
+pudiesse caer <con>plida me<n>te en<e>l en-
+te<n>dimie<n>to no<n> uos deued<e>s mara-
+billar si uos no<n> respo<n>diere aesta
+p<re>gu<n>ta ta<n> <con>plida me<n>te com<m>o avia
+mest<er> P<er>o lo q<ue> en mi ente<n>dimie<n>to
+alcanc'a en esta Razo<n> es por las
+ob<r><<a>>s q<ue> oy dez<ir> q<ue> faze<n> los ang<e>les
+E por ende uos digo q<ue>lo q<ue> yo en-
+tie<n>do es esto E los angel<e>s son
+cosa sp<iritu>ales {BLNK: 5 lines left blank.}
+E que no<n> puede<n> au<er>
+cosa por q<ue> caya<n> en pena ni<n> en cul-
+pa & q<ue> sea<n> puestos en orden<e>s segu<n>d
+n<uest>ro sen<n>or dios touo por bie<n> & ente<n>-
+dio q<ue> se pod<r><<i>>a mas s<er>uir dellos E
+la Razo<n> p<ar>a q<ue>los c<r><<i>>o te<n>go q<ue> sea loa-
+do por ellos & se s<ir>ua dellos segu<n>d
+p<er>tenesc'e aq<ue>llas orden<e>s en q<ue>los pu-
+so. {RUB. Cap<itu>lo xxxiij<<o>> com<m>o el cauall<er>o an-
+ciano Respo<n>de al cauall<er>o nouel
+q<ue> cosa es el parayso}
+{IN3.} A lo q<ue> me p<re>guntast<e>s q<ue> cosa es
+parayso & para q<ue> fue fecho &
+esso mismo el jnfierno fijo
+estas me semeja<n> q<u><<a>>tro p<re>gu<n>tas Ca
+vna p<re>gu<n>ta es q<ue> cosa es el paray-
+so. & otra para q<ue> fue fecho E ot<r><<a>>
+q<ue> cosa es el jnfierno & ot<r><<a>> para q<ue>
+fue fecho fijo v<er>dat uos digo q<ue> yo
+esto en cuydado q<ue> fare a estas p<re>gu<n>-
+tas q<ue> me fazed<e>s Ca si uo<<s>> respo<n>do}
+[fol. 8v]
+{CB2.
+muy de lig<er>o vos terned<e>s & avn yo
+eso mismo q<ue> so enello rebatado E
+si tardo enla repuesta amos t<er>nemo<<s>>
+q<ue> so p<er>ezoso E q<u><<a>>l q<u><<i>>er destas man<er>as
+seer om<n>e p<er>ezoso o Rebatoso so<n> ma-
+las man<er>as & muy dan<n>osas & muy
+graue de se g<uar>dar om<n>e de {BLNK.}
+dellas por la man<er>a q<ue> yo entie<n>da P<er>o
+la man<er>a {BLNK.} com<m>o se puede
+g<uar>dar {BLNK.} toda cosa g<r><<a>>nada de
+q<ue> se {BLNK.} p<er>o no<n> se deue
+om<n>e {BLNK.} q<ue> el mismo
+& ot<r><<o>>s de {BLNK.} q<u><<i>>en se con-
+seja fablen enello {BLNK.} uega-
+das & alo menos fasta q<ue> passe vn
+dia & vna noche & fazie<n>dolo asi {BLNK.}
+{BLNK.} rebatado Mas de q<ue>le oviere a-
+cordado com<m>o es dicho el <con>sejo q<ue> fa-
+llare por mejor deuelo luego meter
+en obra & fazie[n]dolo asi no<n> p<er>ezoso
+Mas las cosas q<ue> pierde<n> por t<ien>po aq<ue>
+llama<n> {BLNK.} de cauall<er>o aestas no<n>
+deue faz<er> {BLNK.} asi com<m>o las cuyda
+met<er> las luego en ot<r><<a>>s Ca si<n> dubda
+q<u><<a>>ndo el Rey bio por el ojo asu ene-
+migo q<ue>lo viene a[ ]matar o el ael o
+otras cosas semeja<n>tes destas no<n>
+es ento<n>c'e t<ien>po p<ar>a tomar luengo<<s>>
+<con>sejos E asi enlas cosas q<ue> no<n> an
+t<ien>po no<n> puede om<n>e tomar ot<r><<o>> <con>se-
+jo si no<n> faz<er> lo mejor q<ue> ente<n>diere
+segu<n>d la priessa en q<ue> esta E ro-
+gar a[ ]dios q<ue> es fazedor & enderec'a-
+dor de[ ]todas las cosas q<ue>lo end<er>ec'e a
+lo mejor E pues q<u><<i>> en estas cosa<<s>>
+q<ue> me vos p<re>guntad<e>s yo he pe<n>sado
+q<u><<a>>nto el mi flaco ente<n>dimie<n>to alca<n>-
+car puede com<m>o respo<n>da aellas si
+mas lo alongasse no<n> pod<r><<i>>a scusar
+q<ue> fuese p<er>ezoso E por p<r><<i>>m<er>a razo<n> q<ue>}
+{CB2.
+me p<re>gu<n>tast<e>s q<ue> cosa es el parayso
+& para q<ue> fue fecho vos respo<n>dre luego
+& depues vos respo<n>d<r>e alo q<ue> me p<re>gu<n>-
+tast<e>s del jnfierno digo vos q<ue> segu<n>d
+mi ente<n>dimie<n>to esta p<re>gu<n>ta tan<n>e en
+razo<n> & en fe E la Razo<n> me da e<n>ten-
+der q<ue> el p<ar>ayso es lugar <con>plido de to-
+do plaz<er> por q<ue> es lugar sp<irit>ual q<ue> es en
+dios & dios en<e>l & a <con>plimie<n>to de todo
+bie<n> & no<n> puede enel au<er> me<n>gua & q<ue>
+fue & s<er>a p<ar>a sie<n>p<r><<e>> sin fin E la fe q<ue> <santa>
+egl<es>ia q<ue> me da a[ ]ente<n>d<er> q<ue> todo esto es
+asy E ot<r><<o>>si tengo q<ue>la Razo<n> para q<ue>
+n<uest>ro sen<n>or lo ordeno q<ue> fue p<ar>a enq<ue> o-
+viesse<n> galardo<n> sp<iritu>al p<ar>a siemp<r><<e>> los an-
+gel<e>s & las almas bie<n> ave<n>turadas q<ue>
+so<n> cosas sp<iritu>ales enq<ue> biue<n> & esta<n> sie<n>pre
+co<n> dios q<ue> es <con>plido & <con>plidor de todos lo<<s>>
+vien<e>s & de todos plazeres {RUB. Cap<itu>lo xxxiiij<<o>>
+com<m>o el cauall<er>o anc'iano respo<n>de al
+cauall<er>o nouel q<ue> cosa es el jnfierno}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> uos dixesse
+eso mismo del jnfierno fijo pares-
+c'e me q<ue> esta p<re>gu<n>ta q<ue> me faze-
+des en ta<n> pocas palab<r><<a>>s q<ue>lo fazedes
+por me p<ro>uar o por q<ue> veedes q<ue>las p<re>-
+gu<n>tas q<ue> me feziestes q<ue> era<n> mucha<<s>>
+& q<u><<i>>siestes las enc'errar boluie<n>do co<n>
+las p<re>gu<n>tas del parayso Pero desso
+no<n> fago fuerc'a mas q<u><<i>>ero vos dez<ir> al-
+go segu<n>d lo entie<n>do sobre estas p<re>gu<n>-
+tas fijo estas p<re>gu<n>tas q<ue> me fazedes
+muchas dellas tan<n>e<n> cosas q<ue> p<er>tenesc'e<n>
+ala fe & los legos no<n> so<n> tenidos a[ ]sa-
+ber dellas si no<n> crer simple me<n>te lo q<ue>
+<santa> egl<es>ia ma<n>da q<ue>los fechos de dios q<ue>
+so<n> muy marabillosos & muy esco<n>di-
+dos no<n> deue ni<n>guno ascod<r><<i>>nar enellos
+mucho mayor mie<n>tre los cauall<er>os
+q<ue> an tanto de faz<er> en ma<n>ten<er> el estado}
+[fol. 9r]
+{CB2.
+enq<ue> esta<n> q<ue> es de muy gra<n>t p<er>iglo &
+de muy gra<n>t trabaio q<ue> no<n> an t<ien>po ni<n>
+letradura p<ar>a lo poder sab<er> <con>plida me<n>-
+te E por ende no<n> deue mucho cuidar
+enello E sen<n>alada me<n>te los q<ue> son
+sotiles. & ente<n>dudos ca el diablo es
+ta<n> maest<r><<o>> & ta<n> sabidor q<ue> conosc'e bie<n>
+las man<er>as & las <con>plissiones delos
+om<ne>s E sie<n>p<r><<e>> tie<n>ta al om<n>e de aq<ue>lla
+cosa enq<ue> entie<n>de q<ue> mas ayna lo pu-
+ede engan<n>ar Ca si el falla<n> q<ue> segu<n>d
+la <con>plisio<n> del om<n>e es aparejado p<ar>a
+vn pecado de aq<ue>llo tie<n>ta E por en-
+de q<u><<a>>ndo falla q<ue> alguno es muy so-
+til & muy ente<n>dudo t<r><<a>>bajasse del fa-
+zer pe<n>sar enlas cosas q<ue> son de dios
+& dela fe marabillosas & muy ascon-
+didas por le faz<er> caer en alguna du-
+bda Ca la sotileza le<<s>> faze pe<n>sar mu-
+chas cosas & por la me<n>gua dela let<r><<a>>-
+dura no<n> puede<n> sab<er> la v<er>dad <con>plida
+me<n>te com<m>o es E asi pod<r><<i>>e caer en
+g<r><<a>>ndes yerros & en gra<n>des dubdas
+E por ende yo q<ue> bisq<ue> mucho en es-
+tado de cauall<er>o & no<n> ap<re>ndi ot<r><<a>> sc'ie<n>-
+cia sienp<r><<e>> fiz q<u><<a>>nto pudi por partir
+el corac'on de no<n> cuydar estas cosas
+E creo v<er>dad<er>a me<n>te q<ue> me cu<n>ple q<ue>
+me he a[ ]saluar por crer <con>plida me<n>-
+te la <santa> fe catolica & fazie<n>do tales
+ob<r><<a>>s (^ob<r><<a>>s)q<ue>les p<er>tenesc'e<n> alos bueno<<s>>
+x<r><<i>><sti>anos q<ue> cree<n> la fe v<er>dad<er>a me<n>te E
+por todas estas Razon<e>s ami deuo
+seer mas escusado si ta<n> <con>plida rep-
+uesta no<n> vos diere p<er>o aq<ue>llo poco q<ue>
+yo entie<n>do en esto dez<ir> vos lo he digo
+vos segu<n>d lo q<ue> yo entie<n>do q<ue> el jnfier-
+no es cosa sp<irit>ual dela yra de dios do
+ay pena sin rede<n>ptio<n> & q<ue> ovo comie<n>-
+c'o & q<ue> no<n> abra acabamie<n>to E la}
+{CB2.
+Razo<n> q<ue> yo entie<n>do q<ue> dios touo por
+bie<n> p<ar>a q<ue> fue mucho fue por q<ue> ovie<n>-
+sse<n> pena enel aq<ue>llos q<ue> por su m<er>ec'i-
+mie<n>to p<er>diero<n> la gl<or>ia en q<ue> estaua<n>
+& p<ar>a en q<ue> ayan pena p<ar>a sienp<r><<e>> sp<irit>ual
+me<n>te las almas q<ue> son sp<irit>uales por
+las malas ob<r><<a>>s & por los pecados
+q<ue> fiziero<n> los cuerpos en q<u><<a>>nto en v-
+no duraro<n> et c<eter><<a>> {RUB. Cap<itu>lo xxxv<<o>> com<m>o el
+cauall<er>o anc'iano Respo<n>de al caua-
+ll<er>o nouel q<ue> cosa son los ciellos.}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> cosa son
+los c'iellos & p<ar>a q<ue> fuero<n> fechos
+bie<n> asi com<m>o ot<r><<a>>s p<re>gu<n>tas mu-
+chas vos dixe Bie<n> asi vos digo ago-
+ra q<ue> esta no<n> es buena p<re>gu<n>ta ante
+son dos la vna q<ue> cosa son los c'iellos
+& la ot<r><<a>> p<ar>a q<ue> fuero<n> fechos en v<er>dat
+vos digo fijo q<ue> amj paresc'e q<ue> estas
+p<re>gu<n>tas atales ni<n> faze<n> avos me<n>gua
+de melas p<re>guntar ni<n> p<er>tenesc'e<n> amj
+de vos Respo<n>der aellas Ca vos sod<e>s
+cauall<er>o manc'ebo & el q<ue> estado de ca-
+uall<er>o a de manten<er> asaz a q<ue> cuydar
+en com<m>o la ma<n>te<n>ga E es de bu<en>a
+vent<ur>a & fazele dios mucha m<er>c'ed si
+la puede manten<er> com<m>o deue E a
+mi por la manc'ebia es marabilla
+com<m>o vos dala volu<n>tad de cuidar en
+ello Ca yo com<m>o q<u><<i>>er q<ue> so mucho an-
+c'iano por q<ue> me mantoue sie<n>p<r><<e>> & vse
+estado de cauall<er>ia tengo no<n> so de cul-
+par si a estas cosas vos puedo res-
+po<n>der <con>plida me<n>te com<m>o era mest<er>
+Mas si me p<re>gu<n>tased<e>s alguna cosa
+delo q<ue> p<er>tenesc'e al estado de cauall<er>ia
+por avent<ur>a vos respo<n>deria a ello co<n>
+recabdo Pero cuydo q<ue>la dexades por
+q<ue> tenedes q<ue> vos he ya respo<n>dido q<u><<a>>ndo
+vos dixe com<m>o pu<<e>>de om<n>e aver & g<u><<a>>rdar}
+[fol. 9v]
+{CB2.
+la cauall<er>ia E com<m>o q<u><<i>>er q<ue> yo e<n>ton-
+c'e uos respo<n>di lo meior q<ue> puede en-
+te<n>der Q<u><<i>>ero vos agora dez<ir> vnas cosa<<s>>
+q<ue> vos no<n> dixe ento<n>c'e vos [^<<de>>]vedes sab<er>
+q<ue> vna delas cosas q<ue> se mas vsa enla
+cauall<er>ia es dez<ir> por los om<ne>s q<ue> so<n> ar-
+did<o>s o couard<e>s E com<m>o q<u><<i>>er q<ue>las
+g<e>n<te>s les dize<n> estos nobr<e>s no<n> son co<n>
+Razo<n> Mas so<n> por q<ue>lo ha<n> vsado asi dez<ir>
+Mas los no<n>br<e>s v<er>dad<er>os en esto so<n> efor-
+c'ados o med<r><<o>>sos E fijo sabet q<ue> en<e>l
+esfuerc'o & en<e>l miedo ay q<u><<a>>t<r><<o>> man<er>as la
+vna es seer o<mn>e esforc'ado. la es ser q<ue>xo-
+so. la ot<r><<a>> es seer med<r><<o>>so. la ot<r><<a>> es seer
+spa<n>toso El esforc'ado es el ha efuer-
+c'o q<u><<a>>ndo lo deue au<er>. & e<n>las cosas q<ue>lo
+deue au<er> El q<ue>xoso es el q<ue> a esfuerco q<u><<a>>n-
+do lo deue au<er> & ha esfuerc'o q<u><<a>>ndo lo
+deue au<er> Ca la q<ue>xa del corac'o<n> no<n> le
+dexa sofrir el miedo El med<r><<o>>so a e-
+fuerc'o q<u><<a>>ndo lo deue au<er> & miedo q<u><<a>>ndo
+lo deue au<er> El espantoso ha miedo
+& spantase d<e>lo q<ue> deue au<er> miedo. & es-
+pa<n>tase delo q<ue> no<n> ha Razo<n> por q<ue> de-
+ue au<er> miedo E en estas razones
+ha muy gra<n>t despartimi<n>to ent<r><<e>> el
+q<ue>xoso & el espa<n>toso E cada vna del-
+las so<n> malas man<er>as Ca el q<ue>xoso
+da a entend<er> q<ue> no<n> ha miedo de ni<n>gu-
+na cosa & no<n> cata en<e>llo razo<n> ni<n> cor-
+dura E asi com<m>o lo comie<n>c'a sin ra-
+zo<n> asi sald<r><<a>> ende mucho ayna sin
+razo<n> E ot<r><<o>>si el espa<n>toso bie<n> pode-
+d<e>s ente<n>d<er> q<u><<a>>nto mala man<er>a es para
+cauall<er>o E no<n> es para ente<n>der si a
+miedo co<n> razo<n> o sin razo<n> Mas el es-
+forc'ado o el med<r><<o>>so paresc'e por esta<<s>>
+palab<r><<a>>s q<ue> he dicho Ca yo digo q<ue> el
+esforc'ado es el q<ue> ha efuerc'o e<n>lo q<ue> de-
+ue au<er> & miedo q<u><<a>>ndo lo deue au<er> E}
+{CB2.
+el med<r><<o>>so ha esfuerc'o q<u><<a>>ndo lo deue au<er>
+& miedo q<u><<a>>ndo lo deue au<er> E sin dub-
+da esto es v<er>dat q<ue> asi lo faze<n> cada vno
+dellos Mas si en alguna cosa no<n> obie-
+re ent<r><<e>> ellos apartamie<n>to ta<n> loado se-
+ria el med<r><<o>>so com<m>o el esforc'ado es me-
+jor q<ue> seer med<r><<o>>so la aba<n>taja q<ue> ha ent<r><<e>>
+ellos es esta El esforc'ado ha esfuerc'o
+q<u><<a>>ndo deue & q<u><<a>>ndo ha lugar p<ar>a mos-
+trar su esfuerc'o muestra lo & faze
+s<us> fechos esforc'ada me<n>te. & faze esfor-
+c'ar a los suyos & espa<n>ta a los ot<r><<o>>s
+E ap<ro>uecha se en tal g<u><<i>>sa de su esfu-
+erc'o q<ue> de todo q<u><<a>>nto se puede acabar
+no<n> le finca ni<n>guna cosa. & q<u><<a>>ndo ha
+miedo sabelo muy bie<n> encubrir & da
+a ente<n>d<er> alos suyos q<ue> lo no<n> ha & fa-
+ze s<us> fechos co<n> cordura & ayudase
+el & ayudalo dios ca si q<u><<i>>era vn e-
+xe<n>plo es q<ue> dize q<ue> bue<n> esfuerco ue<n>-
+c'e mala vent<ur>a E avn q<ue> delas cosa<<s>>
+q<ue> acaesc'e<n> q<ue> aya<n> miedo en g<u><<i>>sa lo g<u><<a>>r-
+da q<ue> todos cuyda q<ue>lo faze por seso
+mas q<ue> por miedo E el medroso ha
+esfuerc'o q<u><<a>>ndo lo deue av<er> & miedo q<u><<a>>n-
+do lo deue av<er> Mas q<u><<a>>ndo pleyto a[ ]g<u><<i>>-
+sado p<ar>a lo pod<er> acabar no<n> se esfuer-
+c'a q<u><<a>>nto deuia & faze los fechos ami-
+edo E por ende no<n> acaba q<u><<a>>nto po-
+d<r><<i>>a de su pro. & su onra E q<u><<a>>ndo aca-
+esc'e alguna cosa de q<ue> deue au<er> miedo
+& no<n> lo puede encobrir E por ende
+esfuerc'a alos <con>trarios & pone mie-
+do alos suyos E asi poded<e>s ente<n>d<er>
+q<u><<a>>nto gra<n>t dep<ar>timie<n>to ha ent<r><<e>> el es-
+forc'ado & el medroso E por vos so-
+des cauall<er>o ma<n>c'ebo tengo q<ue> esto vos
+cae de q<ue>rer sab<er>. & ap<re>nder mas q<ue> ot<r><<a>>
+scie<n>c'ia E ot<r><<o>> si por q<ue> so yo mucho
+anc'iano & bi & passe por muchas}
+[fol. 10r]
+{CB2.
+cosas en fecho de cauall<er>ia te<n>go q<ue> pu-
+edo fablar en ello co<n> v<er>dat. & mas co<n>-
+plida me<n>te q<ue> sc'ie<n>c'ia q<ue> oviesse mest<er>
+gra<n>t sabiduria. & gra<n>t studio. & q<ue> o-
+visse ap<re>ndido de muy bu<en>os maest<r><<o>>s
+E lo q<ue> deued<e>s vos ente<n>d<er>/ por v<uest>ro
+ente<n>dimie<n>to q<ue> es mest<er> para vos res-
+po<n>d<er> aesto q<ue> vos p<re>guntad<e>s q<ue> cosa so<n>
+los c'iellos Ca muchas cosas ha en
+los c'iellos q<ue> se puede<n> ente<n>d<er> por en-
+te<n>dimie<n>to de om<n>e avn q<ue> ot<r><<o>> maest<r><<o>>
+no<n> gelo muestra E ot<r><<a>>s cosas ha
+enellos q<ue> se no<n> puede<n> sab<er> q<ue> si ot<r><<o>>
+no<n> gelas mostrare E por q<ue> esta
+sabiduria no<n> se llega ni<n> punto al
+estado de cauall<er>ia delo q<ue> om<n>e a[ ]de
+ap<re>nd<er> della de ot<r><<i>> no<n> vos sabria dar
+recabdo Mas lo q<ue> yo ende se es por
+q<ue>lo ap<re>ndi andando muchas no-
+ches de noche & madurga<n>do algu-
+nas vezes por g<ue>rras & algunas
+por cac'a & veyendo las vnas estrel-
+las en q<u><<a>>l tie<n>po nac'e<n>. & q<u><<a>>l tie<n>po se
+pone<n> E com<m>o el sol & la luna &
+las ot<r><<a>>s c'inco estrellas com<m>o sale<n>
+en orie<n>te E com<m>o se pone<n> ac'ide<n>-
+te asi com<m>o las ot<r><<a>>s estrellas E
+veyendo el sol & la luna & las ot<r><<a>>s
+c'inco q<ue> anda<n> ellas por si de ac'iden-
+te <con>t<r><<a>> orie<n>te. & q<ue> passan las vnas
+por las ot<r><<a>>s Esto me da entend<er> q<ue>
+son ocho c'iellos. & q<ue> anda en cada
+vno delos siete c'iellos cada vna des-
+tas estrellas. & q<ue> vno es mas alto
+q<ue> ot<r><<o>> Ca si todas andudiesse<n> en vn
+c'iello no<n> andaria<n> las vnas por las
+ot<r><<a>>s & cu<n>pliria<n> su camino ta<n> ayna
+com<m>o la ot<r><<a>>s E asi p<ar>a estas siete
+estrellas co<n>uiene q<ue> aya siete ciello<<s>>
+E p<ar>a q<ue> este<n> las ot<r><<a>>s q<ue> no<n> se mue-be<n>}
+{CB2.
+& q<ue> lieue<n> los ot<r><<o>>s c'iellos en q<ue>sta<n>
+las ot<r><<a>>s siete estrellas Conuiene
+q<ue> aya ot<r><<o>> c'iello q<ue> faga esto E asi
+segu<n>d lo q<ue> yo entie<n>do Estos ocho
+c'iellos no<n> se pude<n> escusar E si
+mas ay no<n> alcanc'a<n> mas el mi en-
+te<n>dimie<n>to saluo ende q<ue> muchas
+vegadas bi q<ue> algunas destas sie-
+te estrellas q<ue> van de ac'ide<n>te a orie<n>te
+& q<ue> yendo su camino d<er>echo torna<n>
+A andar de orie<n>te ac'ide<n>te & desq<ue> a-
+via<n> asi andado vn t<ien>po tornaua<n>
+a su camino & yua<n> de ac'ide<n>te <con>tra
+orie<n>te p<er>o a mi paresc'er no<n> venia<n>
+por aq<ue>l camino mismo q<ue> tornaro<n>
+q<u><<a>>ndo yua<n> de orie<n>te cont<r><<a>> occ'ide<n>te
+E por estas razones me pares-
+c'e ami q<ue> sin la Razo<n> q<ue>les faze
+yr de acc'ide<n>te a orie<n>te q<ue> otra ra-
+zo<n> ay por q<ue> anda<n> de orie<n>te acc'ide<n>te
+E depues se torna<n> andar en su
+camino d<er>echo Ot<r><<o>>si te<n>go q<ue> pues
+el c'iello enq<ue> anda<n> las estrellas q<ue>
+no<n> anda<n> es mas alto q<ue> todos & pa-
+resce<n> las estrellas aca Por ende
+te<n>go q<ue> son muy claros E lo q<ue> yo
+entie<n>do por mi e[n]te<n>dimie<n>to delos
+c'iellos es esto E la Razo<n> por q<ue>
+n<uest>ro sen<n>or los fizo ella sabe mas
+lo q<ue> yo ende cuido es esto Tengo q<ue>
+los fizo por el fuesse loado en faz<er>
+ta<n> noble cosa & ta<n> co<n>plida E por
+q<ue> fuesse puesto enellos el sol & la
+luna. & las estrellas q<ue> por la m<er>c'ed
+& la piadat de dios dan v<ir>tud para
+se manten<er> las cosas q<ue> son aca en
+la t<ie>ra Ca sin dubda no<n> ha om<n>e q<ue>
+bie<n> pare mie<n>t<e>s en los fechos q<ue> n<uest>ro
+sen<n>or dios faze en el c'ielo & en la
+t<ie>ra q<ue> no<n> le deua mucho amar & loar}
+[fol. 10v]
+{CB2.
+& mucho tem<er> E para<n>do mie<n>tes
+q<u><<a>>nto marabillosa me<n>te fizo los cie-
+llos & la t<ie>ra & la mar & las ot<r><<a>>s co-
+sas q<ue> en<e>llos so<n> q<ue> no<n> le deua mu-
+cho loar E para<n>do mie<n>t<e>s com<m>o
+por el gra<n>t pod<er> los ma<n>tiene & lo<<s>>
+desfara q<u><<a>>ndo el q<u><<i>>siere q<ue> no<n> le deua
+mucho temer Ot<r><<o>>si para<n>do mien-
+tes q<u><<a>>nto piadosa me<n>te ma<n>tiene
+el mu<n>do. & da los t<en>p<o>rales por q<ue> na-
+c'e<n> los fructos de q<ue> ma<n>tiene<n> los
+om<ne>s & las a<n>i<m>alias E com<m>o los
+da atodos ma<n>tenimie<n>to por q<ue> se
+pueda<n> ma<n>ten<er> por la piadat de
+dios E entie<n>da q<u><<a>>nto vie<n> galar-
+dona las bu<en>as ob<r><<a>>s & q<u><<a>>nto piado-
+so es <con>tra los errados q<ue> mucho
+no<n> le deua amar E segu<n>d mi en-
+te<n>dimie<n>to esta la Razo<n> por q<ue> el
+q<u><<i>>so q<ue> fuesse<n> los c'iellos E lo ma<<s>>
+desto los q<ue> so<n> muy letrados o ap<re>n-
+diero<n> de ot<r><<o>>s maest<r><<o>>s lo puede<n> sab<er>
+mas el mi ente<n>dimie<n>to no<n> alca<n>-
+c'a mas desto {RUB. Cap<itu>lo xxxvj<<o>> com<m>o el
+cauall<er>o anc'iano respo<n>de al cauall<er>o
+nouel q<ue> cosa son los aleme<n>tos}
+{IN3.} A lo q<ue> me p<re>gu<n>tastes q<ue> cosa so<n>
+los alem<en>tos. & para q<ue> fuero<n>
+fechos ya ot<r><<a>>s muchas vega-
+das uos he dicho q<ue> cada vna desta<<s>>
+p<re>gu<n>tas so<n> dos E esso mismo vos
+digo agora q<ue> vna p<re>gu<n>ta es q<ue> co-
+sa son los alem<en>tos & ot<r><<a>> p<ar>a q<ue> fue-
+ro<n> fechos E muchas vegadas vo<<s>>
+he dicho en ot<r><<a>>s p<re>gu<n>tas q<ue> me fezi-
+estes q<ue> a mi paresc'e q<ue> estas p<re>gu<n>ta<<s>>
+q<ue> me fazedes q<ue> ni<n> fazia avos me<n>-
+gua de melas p<re>gu<n>tar ni<n> p<er>tenec'ia
+ami deuos respo<n>der aellas E co-
+m<m>o q<u><<i>>era q<ue> yo creo q<ue> lo fazedes a}
+{CB2.
+buena ente<n>c'io<n> sabet q<ue> he muy gra<n>t
+rec'ello q<ue> abre de fincar co<n> b<er>gue<n>c'a q<ue>
+por avent<ur>a no<n> vos respo<n>der tan co<n>pli-
+da mente com<m>o vos abed<e>s mest<er> E
+asi enla repuesta oviere algu<n> yerro
+por avent<ur>a q<ue> se vos seg<u><<i>>ra ende da-
+n<n>o Ca en<e>l oyr & en<e>l fablar co<n>tec'e
+asi avn q<ue> om<n>e diga muchas bu<en>a<<s>>
+Razones si dize ent<r><<e>> ellas alguna
+q<ue> no<n> sea ta<n> bue<n>a mas p<ar>an los om<ne>s
+mie<n>tes en aq<ue>lla q<ue> [^2#<<no>>] es ta<n> bie<n> dicha
+q<ue> no<n> en todas las ot<r><<a>>s por bie<n> di-
+chas q<ue> sea<n> Ot<r><<o>>si el q<ue> oye alguna co-
+sa & sen<n>alada me<n>te q<u><<a>>ndo lo oye al-
+guno de q<u><<i>>en q<u><<i>>era ap<re>nd<er> si aq<ue>l q<ue>l a-
+muestra no<n> fabla en aq<ue>lla cosa muy
+v<er>dad<er>a me<n>te. & muy <con>plida es muy
+gra<n>t dan<n>o al q<ue>la de ap<re>nder Ca sie<n>-
+p<r><<e>> fincara en aq<ue>lla ente<n>c'io<n> E cuy-
+dara q<ue> sabe la v<er>dat de aq<ue>lla cosa
+& por avent<ur>a no<n> s<er>a asi E asi fin-
+cara<n> om<ne>s no<n> ta<n> bie<n> com<m>o avia<n> mes-
+ter Ca el q<ue> muestra fincara engan<n>a-
+dor E el q<ue> ap<re>nde fincara engan<n>a-
+do cuydando q<ue> sabe la cosa no<n> la sa-
+bie<n>do E por ende deue mucho catar
+el q<ue> dize la cosa q<ue>la entie<n>da & sepa
+lo q<ue> dize E el q<ue> oye q<ue> faga q<u><<a>>nto
+pudiere por q<ue> oyan & ap<re>nda<n> cosas
+bu<en>as & ap<ro>uechosas Ca los mas de
+los fechos todos se faze<n> bie<n> o el con-
+t<r><<a>>rio por el oyr o por afablar E
+vos fijo deued<e>s sab<er> q<ue> q<u><<a>>ntos fechos
+so<n> de vna de q<u><<a>>tro man<er>as. vnos ay
+q<ue> en dizie<n>do les paresc'e<n> buenos &
+q<u><<a>>nto o<mn>e mas enello cuydare ta<n>to
+fallara q<ue> son mejores asi com<m>o las
+ob<r><<a>>s q<ue> se faze<n> a[ ]s<er>uic'io de dios q<ue> en
+cuydar enellas es vie<n> & en faz<er> las
+es mejor E ot<r>os fechos ay q<ue> en cuy-dando}
+[fol. 11r]
+{CB2.
+enellos paresc'e mal q<u><<a>>nto ma<<s>>
+en ellos cuydare<n> fallare<n> q<ue> so<n> peores
+E por q<ue> son asi malos los defiende
+dios & la ley Ca muchas cosas ay q<ue>
+son defendidas por q<ue> son malas E
+ot<r><<a>>s q<ue> no<n> son malas si no<n> por [^2#<<q<ue>>] so<n> de-
+fendidas E ot<r><<a>>s cosas ay q<ue> en cuy-
+da<n>dolas parec'e<n> bie<n> & de q<ue> bie<n> cuyda-
+re<n> en<e>llas fallara<n> q<ue> so<n> malas asi co-
+mo si vn sen<n>or q<ue> troxiesse su <con>sejo &
+su fazie<n>da muy mal errado & ma<n>da-
+seli algu<n> su vasallo q<ue> feziesse algu-
+na cosa q<ue> fuesse el vasallo c'ierto q<ue>
+era su deseruic'io o su dan<n>o Tal fe-
+cho com<m>o est(^o)[^e] o sus semeja<n>tes pa-
+resce<n> luego bie<n> en q<u><<a>>nto paresc'e q<ue>
+faze om<n>e ma<n>dado de su sen<n>or mas
+q<u><<a>>nto en el mas cuydare si lo ente<n>-
+diere d<er>echa me<n>te fallara q<ue> es mal
+Ca no<n> deue om<n>e faz<er> cosa q<ue> sea da-
+n<n>o de su sen<n>or por co<n>plir su uolu<n>tat
+fasta q<ue> sea en tal estado q<ue> entie<n>da
+lo q<ue> ma<n>da lo q<ue> es su s<er>uic'io E el
+vasallo q<ue> ot<r><<a>> g<u><<i>>sa lo faze cae en tan
+gra<n>t yerro q<u><<a>>nto g<r><<a>>nde es el dan<n>o
+q<ue> el sen<n>or Rec'ibe por co<n>plir su uo-
+luntad o su ma<n>damie<n>to Otras ay
+q<ue> paresc'e<n> luego malas & de q<ue> enlla<<s>>
+cuydare<n> fallara<n> q<ue> son buenas asi
+com<m>o si om<n>e ve q<ue> su sen<n>or faze o q<u><<i>>e-
+re faz<er> muy gra<n>t su dan<n>o toda cosa
+q<ue> el bue<n> vasallo pudiere faz<er> por q<ue>
+el sen<n>or sea gradado de tomar aq<ue>l
+dan<n>o avn q<ue> sera q<ue>l pesara ende no<n>
+deue dexar de faz<er> Ca com<m>o q<u><<i>>era q<ue>
+paresc'e mal en faz<er> om<n>e cont<r><<a>> uo-
+lu<n>tad de su sen<n>or pudie<n>do el p<ar>tir
+mucho peor es co<n>plir su uolu<n>tad
+en man<er>a q<ue>l venga ende dan<n>o o
+desonra E por q<ue> todas las cosas}
+{CB2.
+se faze<n> por lo q<ue> om<n>e oye o por lo q<ue>
+dize segu<n>t q<ue> ya vos he dicho de su-
+so por ende q<ue>ria q<ue> me p<re>gu<n>tased<e>s ta-
+les cosas q<ue>las sopiesse yo por vos
+pudiesse fablar enellas en g<u><<i>>sa q<ue> fin-
+casse ende sin v<er>gue<n>c'a & avos venie-
+sse pro en oyr las & ap<re>nderlas de
+mi mas esta p<re>gunta q<ue> me fazed<e>s
+q<ue> cosa son los aleme<n>tos & para q<ue> fu-
+ero<n> fechos bie<n> ente<n>ded<e>s vos q<ue> s<er>ia
+muy gra<n>t marabilla si yo pudies-
+se aella responder <con>plida me<n>te Ca
+esto p<er>tenesc'ia a o<mn>e muy let<r><<a>>do Ca es-
+to es sc'ienc'ia & muy sotil & muy g<r><<a>>-
+ue de fablar enella om<n>e por su ente<n>-
+dimie<n>to Pero segu<n>d lo poco q<ue> yo en-
+tie<n>do Tengo q<ue>los alem<en>tos so<n> q<u><<a>>tro cuerpo<<s>>
+el fuego & el ayre & el agua & la tie-
+rra E q<ue> era<n> mas simples al comi-
+enc'o q<u><<a>>ndo dios los crio de q<u><<a>>ntos so<n>
+agora E q<ue> en q<u><<a>>nto n<uest>ro sen<n>or to-
+biere por bie<n> q<ue> dure<n> q<ue> sera<n> de cadal
+dia mas conpuestos E por ende
+tengo q<ue> an a seer de[+]fechos Pero es-
+to sera com<m>o e q<u><<a>>ndo fuere la uolu<n>-
+tad de dios Ot<r><<o>>si por q<ue> fuero<n> fecho<<s>>
+la Razo<n> es esta tengo q<ue> fuero<n> fe-
+chos para q<ue> sea mantenido el mu<n>-
+do E por q<ue> se engend<r><<e>>n & se ma<n>-
+tenga<n> los om<ne>s & las a<n>i<m>alias & to-
+das las ot<r><<a>>s cosas q<ue> so<n> <con>puestas de-
+llos. an por ellos vida & ma<n>tenimie<n>-
+to. & por q<ue> sea dios s<er>uido & loado de
+todos {RUB. Cap<itu>lo xxxvij<<o>> com<m>o el cauall<er>o
+anc'iano responde al cauall<er>o nouel
+q<ue> cosa son las planetas}
+{IN3.} A lo q<ue> me p<re>guntastes q<ue> cosa so<n>
+las planetas & las otras es-
+trellas & p<ar>a q<ue> fuero<n> fechas
+amj semeja q<ue> esta p<re>gunta son dos}
+[fol. 11v]
+{CB2.
+Bie<n> asi com<m>o la ot<r><<a>> p<re>gu<n>ta q<ue> me
+feciest<e>s fasta aq<u><<i>> E fijo ya vos
+he dicho muchas vegadas q<ue> es-
+tas p<re>gu<n>tas q<ue> so<n> de sc'ie<n>c'ias ta<n> so-
+til<e>s & ta<n> estran<n>as q<ue> no<n> cae avos
+de melas p<re>gu<n>tar ni<n> ami de uo<<s>>
+las respo<n>der a ellas Ca ya agora
+gra<n>t v<er>gue[^2#<n>](c)[^2#c']a se me faze de vos
+lo dez<ir> mas Ca no<n> a cosa por bie<n>
+dicha q<ue> sea q<ue> sy muchas vega-
+das se dize vna en por ot<r><<a>> q<ue> se no<n>
+enoje della el q<ue> la oye E por
+ende dize<n> q<ue> el q<ue> algu<n>a cosa q<u><<i>>e-
+re mostrar q<ue>lo [^2#a] dez<ir> en man<er>a
+q<ue> plega con ella alos q<ue>la an de
+ap<re>nd<er> Ot<r><<o>>si q<ue>la diga en t<ien>po q<ue>la
+pueda<n> ente<n>d<er> & cuydar enello
+& no<n> en al E ot<r><<o>> si q<ue>lo diga
+atales q<ue> entie<n>da<n> lo q<ue>les dize<n>
+aq<ue>l q<ue>los q<u><<i>>ere mostrar Sen<n>a-
+la[^2#<<da>>] me<n>te esto se deue catar mu-
+cho e<n>los q<ue> c<r><<i>>an & castiga<n> alos
+moc'os q<ue> son de gra<n>t linage asi
+com<m>o de Reys o de gra<n>des sen<n>o-
+res Ca vna dellas cosas por q<ue> pu-
+ede<n> seer bie<n> c<r><<i>>ados & bie<n> acostun-
+b<r><<a>>dos fijos delos gra<n>des sen<n>ores
+es q<ue> aq<ue>llos q<ue>los castiga<n> sea<n> de
+bue<n>a Razo<n> & de bue<n>a palab<r><<a>> Ca
+los fijos delos gra<n>des sen<n>ores
+en ni<n>gu<n>a g<u><<i>>sa no<n> deue<n> seer fe-
+ridos ni<n> apremiados com<m>o los
+ot<r><<o>>s om<ne>s de menores estados
+E por ende te<n>go q<ue>los q<ue>los an
+de c<r><<i>>ar q<ue>les sepa<n> dez<ir> ta<n> bue<n>as
+razon<e>s & en tal<e>s t<ien>pos por q<ue> a-
+yan sabor de ap<re>nd<er> las cosas por
+q<ue> valdra<n> mas & se parta<n> delas
+costu<n>bres & delas cosas q<ue>les po-
+d<r><<i>>an en[+]pec'er alas almas. & a lo<<s>>}
+{CB2.
+cuerpos & alas fazie<n>das E sen<n>a-
+lada me<n>te los deue<n> enformar en
+tres cosas. la p<r><<i>>m<er>a en amar & en
+tem<er> adios. La segu<n>da q<ue> se pague<n>
+de estar siemp<re> con bue<n>as co<n>pan<n>a<<s>>
+& no<n> ser apartadizos. La t<er>c'era q<ue>
+sea<n> bie<n> acostu<n>brados en comer &
+en beuer Ca todas las ot<r><<a>>s cosas
+si dios no<n> las da a om<n>e no<n> las
+puede av<er> Ca bie<n> ente<n>dedes vos q<ue>
+de ni<n>gu<n> maest<r><<o>> no<n> puede om<n>e ap<re>n-
+der de seer esforc'ado ni<n> las ot<r><<a>>s ma-
+n<er>as q<ue> om<n>e ha de av<er> si dios no<n> ge
+lo da o el no<n> las ha de suyo E
+com<m>o q<u><<i>>era q<ue> el castiga co<n> p<re>mia
+no<n> lo an mest<er> los sen<n>ores q<ue> son
+de gra<n>t sang<r><<e>> si no<n> en q<u><<a>>nto so<n> mo-
+c'os alo mas fasta en q<u><<a>>torze an<n>os
+Pero dende adela<n>te es les mas
+mest<er> q<ue> fasta ento<n>c'e q<ue> este<n> con el
+los om<ne>s bu<en>os & cuerdos. & leales
+por q<ue>los conseje<n> en tal g<u><<i>>sa q<ue> ma<n>-
+te<n>ga<n> las buenas costu<n>bres enq<ue>
+fuero<n> c<r><<i>>ados E asi com<m>o acaec'e en
+los dias q<ue> asi cata<n> en ellas E al-
+gunas vegadas acaesc'e q<ue> com<m>o
+q<u><<i>>ere q<ue>los moc'os sea<n> bie<n> c<r><<i>>ados mi-
+ent<r><<e>> q<ue> son peq<ue>n<n>os q<ue> desq<ue> comie<n>-
+c'a<n> a entrar enla manc'ebia affue-
+lla<n> muchos sus costu<n>bres e s<us>
+fazie<n>das si aq<ue>llos q<ue> conellos so<n>
+no<n> los saca<n> dello co<n> bu<en>as Razon<e><<s>>
+& co<n> bue<n>os <con>sejos & sin dubda
+q<u><<a>>ndo los g<r><<a>>ndes sen<n>ores so<n> en tal
+edat en su fazie<n>da en mayor peli-
+g<r><<o>> q<ue> en ni<n>gu<n> t<ien>po Ca los mas del-
+os q<ue> conellos biue<n> no<n> cata<n> si no<n>
+por adobar su p<ro> con ellos E por
+au<er> mas su talante loanles & co<n>-
+seja<n> les todo aq(^<<ui>>)[^2#<<ue>>l]lo en q<ue> puede<n> au<er>}
+[fol. 12r]
+{CB2.
+mayor plaz<er> E por q<ue>la volu<n>tad
+delos om<ne>s & sen<n>alada me<n>te delo<<s>>
+moc'os es sienp<r><<e>> mas aparejada
+a[ ]co<n>plir q<ue> a[ ]catar por su p<ro> & su onra
+singue<n> ante <con>sejo delos q<ue>los <con>seja<n>
+asu uolu<n>tad q<ue> delos q<ue>los <con>seja<n> lo
+q<ue>les cu<n>ple mas de faz<er> E por esta
+Razo<n> los q<ue> leal me<n>te ama<n> su pro
+no<n> puede<n> fincar conellos & an a[ ]fin-
+car en pod<er> de aq<ue>llos q<ue> no<n> cata<n> sy
+no<n> ta<n> sola mente el p<ro> desi mismo<<s>>
+E q<u><<a>>ndo por estos malos <con>seios le<<s>>
+viene algu<n> enbargo en s<us> fazie<n>-
+das aq<ue>llos sus malos <con>sejeros
+cata<n> los achaq<ue> para se partir del-
+los E dexa<n> los en<e>l t<ien>po del mas
+mest<er> Ca ellos no<n> ellos no<n> les ama-
+ua<n> por amor v<er>dad<er>o ni<n> leal si no<n> en
+q<u><<a>>nto fazia<n> de su p<ro> conellos E en-
+tonc'e segu<n>d el dan<n>o q<ue> el sen<n>or ma<n>-
+c'ebo abra Rec'ebido asy abra a pasar
+fasta q<ue> se pueda depues eme<n>dar
+o no<n> E por ende es mest<er> q<ue>los g<r><<a>>-
+ndes sen<n>ores aya<n> mie<n>tre fuere<n> mo-
+c'os q<ue>los crie & los castigue muy
+bie<n> E deq<ue> fuere<n> ma<n>c'ebos fasta
+q<ue> sea<n> en t<ien>po de au<er> entendimie<n>to
+co<n>plido q<ue> ayan q<u><<i>>los <con>seje bie<n> &
+leal mie<n>t<r><<e>> & q<ue> faga a el dios tan-
+ta m<er>c'ed q<ue>los quiera. & g<u><<i>>ar se por
+su <con>sejo E fijo todas estas cosa<<s>>
+uos digo por q<ue> yo q<ue> so mucho an-
+c'iano & visq<ue> co<n> muchos sen<n>ores
+vi sienp<r><<e>> q<ue>los mas delos sen<n>ores
+q<ue> fincaro<n> moc'os cayero<n> en este
+yerro E por q<ue> passe por ello et
+lo. vi. uos puedo fablar enello c'ier-
+to & v<er>dad<er>a me<n>te Mas enlo q<ue> me
+p<re>guntast<e>s delas estrellas & dela<<s>>
+planetas bie<n> ente<n>ded<e>s q<ue> segu<n>d}
+{CB2.
+Razo<n> no<n> vos deuo yo a ello Res-
+po<n>d<er> <con>plida me<n>te Ca la scie<n>c'ia &
+la arte delas estrellas no<n> se pue-
+de toda sab<er> por ente<n>dimje<n>to de o<mne>s
+en ta<n> poco t<ien>po com<m>o en<e>l q<ue> agora
+los om<ne>s biue<n> E ot<r><<o>>si no<n> la pue-
+de ap<re>nd<er> ot<r><<i>> si no<n> el q<ue> es muy let<r><<a>>-
+do E asi por estas dos Razones
+no<n> la puedo yo sab<er> E com<m>o q<u><<i>>er
+q<ue> yo mucho anciano sea no<n> puede
+en mi t<ien>po ver ni<n> ente<n>d<er> todo el mo-
+vimie<n>to del c'iello por q<ue> pudiesse
+ente<n>d<er> los cursos & los mouimie<n>-
+tos & los fechos & las cosas q<ue> se fa-
+ze<n> por la v<ir>tud q<ue> dios puso enlas
+estrellas E ot<r><<o>>si por q<ue> yo nu<n>ca
+no<n> lo pude ap<re>nd<er> de ot<r><<i>> E por en-
+de no<n> vos marabilled<e>s si uos no<n>
+Respo<n>diere a esto <con>plida me<n>te.
+Pero aq<ue>llo q<ue> yo entie<n>do dez<ir> vos
+lo he ya desuso vos dixe q<ue> enlos
+avia siete estrellas & el sol & la lu-
+na & ot<r><<a>>s c'inco & estas siete q<ue> an-
+da<n> de orie<n>te acc'ide<n>te asi com<m>o las
+ot<r><<a>>s estrellas & esto es por q<ue>las
+lieua el c'ielo en q<ue> anda<n> todas la<<s>>
+estrellas Mas el su mouimie<n>to
+nat<ur>al delas siete estrellas es de
+occ'ide<n>te a orie<n>te E digo vos. &
+te<n>go q<ue> estas son las planetas
+Mas las ot<r><<a>>s estrellas lieua el c'i-
+elo segu<n>d q<ue> de suso es dicho son
+las q<ue> se no<n> mueue<n> & son puesta<<s>>
+asemeja<n>c'a & en no<n>bre de algu<n>a<<s>>
+cosas aq<ue> semeja<n> por la calidat q<ue>
+a enellas & son casas & possadas
+delas delas ot<r><<a>>s planetas. por q<ue>
+q<u><<a>>ndo llega<n> aellas se faga enlas
+cosas de yuso dellas segu<n>d la v<<i>><r>tud
+& el pod<er> q<ue> dios puso enellas Toda}
+[fol. 12v]
+{CB2.
+via com<m>o fuere uolu<n>tad de dios q<ue>
+se cu<n>pla E ot<r><<o>>si la Razo<n> por q<ue>
+fuero<n> fechas te<n>go q<ue> es p<ar>a alu<n>b<r><<a>>r
+el dia & la noche E el sol el dia &
+la luna & las ot<r><<a>>s estrellas la no-
+che E para q<ue>se c<r><<i>>en & se ma<n>ten-
+ga<n> las c<r><<i>>anc'as q<ue> so<n> deyuso dellas
+por la u<<i>><r>tud & el pod<er> q<ue> dios en<e>lla<<s>>
+puso E sob<r><<e>> todo por q<ue> sea loado
+n<uest>ro sen<n>or dios por la gra<n>t u<<i>><r>tud
+& el gra<n>t pod<er> q<ue> en<e>llas puso E
+por la gra<n>t bondat & gra<n>t sabi-
+duria q<ue> most<r><<o>> q<ue> ha en faz<er> tan
+gra<n>t & ta<n> buena {RUB. Cap<itu>lo xxxviij<<o>>
+com<m>o el cauall<er>o anciano Respo<n>-
+de al cauall<er>o nouel q<ue> cosa es el +}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> co-sa {RUB. om<n>e}
+es el om<n>e. & p<ar>a q<ue> fue fecho
+asi com<m>o ot<r><<a>>s uegadas vos
+dixe. todas v<uest>ras p<re>guntas q<ue> me
+vos fazedes son dobladas. & esso mi-
+smo es en esta & la p<re>gu<n>ta ensi
+paresc'e lig<er>a. p<er>o q<u><<i>>en bie<n> q<u><<i>>siere cuy-
+dar enello no<n> fallara q<ue> es tan
+lig<er>a Ca en q<u><<a>>nto el om<n>e es cosa
+q<ue> paresc'e todo el dia el su cuerpo
+& las sus man<er>as parec'e mas lig<er>o
+de Respo<n>der q<ue> cosa es q<ue> no<n> los an-
+gel<e>s ni<n> el parayso ni<n> el jnfierno
+ni<n> las ot<r><<a>>s cosas aq<u><<i>> vos he ya Res-
+po<n>dido asi com<m>o yo ente<n>di. Mas q<ue>
+en<e>l om<n>e ha ot<r><<a>>s cosas q<ue> no<n> pares-
+c'e<n> es muy fuerte cosa & muy gra-
+ue de Respo<n>d<er> atodo lo q<ue> en<e>l es Ca
+sin dubda no<n> ha cosa enel mu<n>do
+en q<ue>los om<ne>s tanto se engan<n>e<n>. &
+es muy sin Razo<n>. Ca q<u><<a>>nto om<n>e
+es mas luen<n>e dela cosa tanto es
+menos c'ierto della E q<u><<a>>nto es
+mas c<er>ca deuia ser mas c'ierto E}
+{CB2.
+asy no<n> a cosa de q<ue> el om<n>e E por en-
+de lo deuia conosc'er mas q<ue> a ot<r><<a>> co-
+sa E si bie<n> q<u><<i>>sierdes cuidar enello
+fallaredes q<ue> no<n> es asi. Ca no<n> ta<n> sola
+me<n>te yerra el om<n>e en conosc'er a ot<r><<o>>
+om<n>e ante yerra en conoscer asy mis-
+mo Ca todos se p<re>cian mas o meno<<s>>
+de q<u><<a>>nto deue<n> o cuyda<n> q<ue> son en mayor
+estado o en menor de q<u><<a>>nto es la v<er>d-
+at E sin dubda este es muy gra<n>t
+yerro & muy dan<n>oso. Ca si el om<n>e
+no<n> cognosc'e su estado nu<n>ca lo sab<r><<a>>
+g<u><<a>>rdar E si no<n> lo g<u><<a>>rdare todo su
+fecho traera errado E los estados
+so<n> de tantas man<er>as q<ue>lo q<ue> p<er>tenes-
+ce al mi estado es muy dan<n>oso al
+ot<r><<o>> E bie<n> ente<n>ded<e>s uos q<ue> si el caua-
+ll<er>o q<u><<i>>siere tomar estado de labrador
+o de menestral mucho enpesc'e al es-
+tado de cauall<er>ia & esso mismo si esto<<s>>
+dichos toma<n> estado de cauall<er>ia Ot<r><<o>>
+si si el Rey toma man<er>a de ot<r><<o>> om<n>e
+de menor estado q<ue> el mucho yerra
+al su sen<n>orio. Ca segu<n>t dize<n> q<ue> dixo
+vn Rey q<ue> fue muy sabio q<ue> avia
+ya mas de trey<n>ta annos q<u><<a>>ndo co-
+me<n>c'o a reynar El p<r><<i>>m<er> dia de su
+Reynado come<n>caro<n> todos fablar
+conel asi com<m>o ante q<ue> fuesse Rey
+E el dixoles atodos q<ue> sopiesse<n>
+q<ue> vna cosa era Rey & ot<r><<a>> jnfante
+E pues estos q<ue> son ta<n> cerca to-
+uo el por ta<n> alongados Syn dub-
+da mas alongado deue ser el Rey
+en los fechos & enlas ob<r><<a>>s de todo<<s>>
+los ot<r><<o>>s estados q<ue> son menores
+E por ende la p<r><<i>>m<er>a cosa q<ue> om<n>e
+puede faz<er> es conosc'er su estado
+& ma<n>ten<er> lo com<m>o deue E el ma-
+yor yerro q<ue> om<n>e puede faz<er> es en no<n>
+conosc'er}
+{CW. ni<n> g<u><<a>>rdar}
+[fol. 13r]
+{CB2.
+ni<n> g<u><<a>>rdar su estado P<er>o fallaredes
+q<ue>los mas delos om<ne>s yerra<n> en esto
+& ot<r><<o>>si en conosc'er asi mismos & as<us>
+estados menor marabilla es en er-
+rar en conosc'er los ot<r><<o>>s P<er>o no<n> dexa
+por esso de ser gra<n>t yerro & muy da-
+n<n>oso Ca muy gra<n>t yerro es pues
+el om<n>e puede conosc'er & conosc'e v-
+na vestia o vn aue o vn cam co<n> q<ue>
+vse vn poco de t<ien>po com<m>o q<u><<i>>er q<ue> nu<n>-
+ca le puede fablar En no<n> conosc<er>
+al om<n>e co<n> q<u><<i>>en fabla todo el dia por
+gra<n>t t<ien>po q<ue> en vno dure<n> E asi pu-
+es el om<n>e es de ta<n> estran<n>as man<er>a<<s>>
+no<n> uos deuedes marabillar si <con>pli-
+da me<n>te no<n> uos pudiere dez<ir> q<ue> co-
+sa es el om<n>e. & p<ar>a q<ue> fue fecho Pero
+aq<ue>llo poco q<ue> yo ente<n>diere dez<ir> uos
+lo he. fijo el om<n>e es vna cosa & se-
+meja ados El ensi es a<n>i<m>al mortal
+Razonal E alas cosas q<ue> semeja
+es al mu<n>do. & al arbol trastornado
+E la Razo<n> por [^2#q<ue>] es a<n>i<m>al mortal &
+Razonal por [^2#q<ue>] es <con>puesto de a<n>i<m>a &
+de cuerpo & el alma se faze au<er> ra-
+zo<n> & por la razo<n> q<ue> ha mas q<ue> las
+ot<r><<a>>s a<n>i<m>alias es om<n>e Calas cosas
+nat<ur>ales por q<ue> todas las a<n>i<m>alias
+se an a ma<n>ten<er> mas <con>plida me<n>te
+las an q<ue> no<n> los om<ne>s Mas los o<mne>s
+an Razo<n> lo q<ue> no an las a<n>i<m>alias
+E por ende el om<n>e q<ue> ha mas ra-
+zo<n> ensi es mas om<n>e E q<u><<a>>nto a
+menos della ta<n>to es menos o<mn>e.
+& es mas allegado alas a<n>i<m>alias
+en q<ue> no<n> an Razo<n> E por [^2#q<ue>] es [^2#con](^a)pu-
+esto de alma & de cuerpo <con>uiene
+q<ue> sea mortal q<u><<a>>nto el cuerpo E
+por q<ue> se egendra & biue & crec'e &
+faze las ot<r><<a>>s cosas asy com<m>o las}
+{CB2.
+ot<r><<a>>s a<n>i<m>alias es a<n>i<m>al E asi por
+estas Razon<e>s dichas te<n>go q<ue> el
+om<n>e es a<n>i<m>al Razonal mortal co-
+m<m>o dicho es Ot<r><<o>>si semeja al mu<n>do
+ca todas las cosas q<ue> son en el mu<n>-
+do son en<e>l om<n>e E por ende dize<n>
+q<ue> el om<n>e es tadas las cosas E
+fijo algu<n>o pod<r><<i>>a dez<ir> q<ue> no<n> es v<er>-
+dat esto Ca el om<n>e no<n> es pied<r><<a>>
+ni<n> el om<n>e no<n> es arbol ni<n> el o<mn>e
+no<n> es vestia ni<n> ave ni<n> el om<n>e
+no<n> es ayre ni<n> agua ni<n> fuego
+ni<n> t<ie>ra ni<n> el om<n>e no<n> es angel ni<n>
+diablo Pues asi paresc'e q<ue> no<n>
+es v<er>dat q<ue> el om<n>e sea todas la<<s>>
+cosas E bie<n> cred fijo q<ue> el q<ue> es-
+to dixere & lo ente<n>diere es esta
+g<u><<i>>sa q<ue> el s<er>ia muy graue del dar
+Respuesta atodas p<re>gu<n>tas q<ue>
+me vos feziest<e>s Mas la man<er>a
+en q<ue> om<n>e semeia al mu<n>do & es
+todas las cosas es en esta ma-
+n<er>a q<ue> vos yo dire El om<n>e es
+piedra en ser cuerpo Ca asi com<m>o
+la pied<r><<a>> es cuerpo asi el om<n>e es
+cuerpo Ot<r><<o>>si asy com<m>o el arbol &
+las ot<r><<a>>s planetas nac'en & crec'en
+& an estado & en[+]vegec'en & se des-
+faze<n> vie<n> asi el om<n>e faze estas co-
+sas Ca nac'e & crec'e & ha estado &
+en[+]vegec'e & se desfaze q<u><<a>>ndo se
+parte el alma del cuerpo Ot<r><<o>>si
+com<m>o las vestias & las aues &
+las ot<r><<a>>s a<n>i<m>alias faze<n> todo esto &
+demas q<ue> siente<n>. & egendra<n> & biue<n>
+bie<n> asi lo faze<n> el o<mn>e Ot<r><<o>>si vie<n> asi
+com<m>o el ayre & el fuego & el al-
+gua & la t<ie>ra q<u><<a>>tro alime<n>tos asi
+el om<n>e a en si q<u><<a>>tro humores q<ue>
+so<n> la sang<r><<e>> & la colera & la fle-ma}
+[fol. 13v]
+{CB2.
+& la male<n>conia e asi com<m>o
+el angel es cosa sp<irit>ual q<ue> nu<n>ca a[ ]de
+aver fin al q<ue> dios tanta m<er>c'ed fi-
+ziere q<ue> por q<ue>las ob<r><<a>>s q<ue> obiere fe-
+chas en<e>l cuerpo en q<u><<a>>nto el alma
+estudiere enel m<er>ec'iere av<er> la gl<or><<i>>a
+de p<ar>ayso sienp<r><<e>> la abra & nu<n>ca ab<r><<a>>
+fin E asi com<m>o el diablo q<ue> es co-
+sa sp<irit>ual pues esta enlas penas
+del infierno por s<us> m<er>ec'imie<n>tos a-
+sy es el alma mal avent<ur>ada q<ue>
+por las ob<r><<a>>s q<ue> fizo el cuerpo enq<ue>
+ella estaua mient<r><<e>> q<ue> fue al mu<n>do
+m<er>ec'iere au<er> las penas del jnfier-
+no desq<ue> en<e>l fu<er>e nu<n>ca abra rede<n>p-
+cio<n> E asi fijo poded<e>s entend<er> q<ue> el
+om<n>e semeia mucho al mu<n>do por
+q<ue> ha en<e>l todas las cosas E por
+q<ue> todas las cosas del mu<n>do crio
+dios p<ar>a s<er>uicio del om<n>e Otrosi
+q<ue> es todas las cosas no<n> por q<ue>el
+om<n>e sea todas las cosas Mas por
+q<ue> ha parte & semejanc'a en todas
+las cosas Ot<r><<o>>si semeja el om<n>e al
+arbol trastornado Ca el arbol ti-
+ene la Rayz en t<ie>ra & depues
+el tronco. & depues las Rama<<s>>
+& enlas Ramas nac'e<n> las fojas
+& las flores & el fructo Ca dela
+buena Rayz sale bue<n> tronco
+& del bue<n> tronco salen bu<en>as ra-
+mas E delas bu<en>as ramas sale<n>
+buenas fojas & flores & bue<n> fru-
+to E del mal arbol todo el <con>tra-
+rio Todas estas cosas <con>tec'e<n> en<e>l
+om<n>e Ca la Rayz del om<n>e es la
+cabec'a do esta el meollo q<ue> gobier-
+na & faze sentir & mou<er> todo el
+cuerpo. & el t<r><<o>>nco es el cuerpo. &
+las ramas son los mie<n>bros & la<<s>>}
+{CB2.
+fojas. & las flores son los c'inco
+sesos corp<o>rales & los pensamie<n>-
+tos & las ob<r><<a>>s el fruto E si el
+meollo q<ue> es Rayz fu<er>e de bue<n>a co<n>-
+plissio<n> Todo el cuerpo q<ue> es el tro<n>-
+co segu<n>d Razo<n> deue ser de bue<n>a
+<con>plissio<n> E si el cuerpo fu<er>e de
+bue<n>a <con>plissio<n> & bie<n> egualada lo<<s>>
+mie<n>bros Ot<r><<o>>si q<ue> so<n> las Ramas se-
+ra<n> tales q<u><<a>>les deue<n> E si ellos fu-
+ere<n> bie<n> ordenados los cinco sesos
+corporal<e>s. & los pensamie<n>tos se-
+ra<n> <con>plidos & faran <con>plida me<n>te
+su obra E si el cuerpo & los seso<<s>>
+corporales q<ue> son ma<te>ria fuere<n> bie<n>
+ordenados & bie<n> <con>plidos deuemo<<s>>
+crer q<ue> dios q<ue> faze todas las cosa<<s>>
+co<n> Razo<n> por la su m<er>c'ed & por la
+su piadat q<ue>rra q<ue> sea y puesta
+bue<n> alma q<ue> es la forma por q<ue> fa-
+ga sus fechos co<n> Razo<n> E assy
+fara bue<n>as ob<r><<a>>s q<ue> es el fructo E
+asy por estas cosas semeja al ar-
+bol trastornado E p<ar>a sab<er> el mis-
+mo q<ue> ob<r><<a>>s faze. el q<ue> cuerdo fuere
+deue cadal dia Req<ue>rir ensi mis-
+mo q<ue> son las ob<r><<a>>s q<ue> fizo aq<ue>l dia
+ta<n> bie<n> delas bue<n>as com<m>o delas
+<con>trarias. & acordar se com<m>o es
+x<r><<i>><sti>ano & q<ue> deue sab<er> & creer todo<<s>>
+artic<u>los dela fe <santa> egl<es>ia & los
+diez ma<n>damie<n>tos q<ue> dios [^2#dio] enla
+ley & las ob<r><<a>>s de mi<sericordi>a & los peca-
+dos mortales E los artic<u>los de
+la fe son q<u><<a>>torze los siete p<er>tenes-
+ce<n> ala diuinidat E los siete
+ala humanidat E los siete
+q<ue> p<er>tenec'e<n> ala diuinidat son es-
+tos El p<r><<i>>m<er>o deuemos crer en
+dios El segu<n>do q<ue> es pad<r><<e>> El t<er>c'ero}
+[fol. 14r]
+{CB2.
+q<ue> es fijo El q<u><<a>>rto q<ue> es sp<irit>u <santo> El
+q<u><<i>>nto q<ue> c<r><<i>>o el c'ielo & la t<ie>ra El sex-
+to q<ue> por la <santa> fe catholica & por
+los siete sac<r><<a>>me<n>tos se salua<n> las
+almas & se p<er>dona<n> los pecados
+El seteno q<ue> por el pod<er> de dios
+Resusc'itaremos & abremos vi-
+da p<er>durable segu<n> n<uest>ros m<er>ecimi-
+e<n>tos los bue<n>os el parayso en
+cuerpo & en alma & los malos
+en<e>l jnfierno <<&>> en alma E los
+siete q<ue> p<er>tenec'e<n> ala humanidat
+so<n> estos El p<r><<i>>m<er>o q<ue> ih<es>u x<pist><<o>> fue
+<con>cebido por sp<irit>u <santo> en<e>l cuerpo
+dela v<ir>gen <santa> m<aria> El segu<n>do q<ue>
+nac'io el della v<er>dad<er>o dios & v<er>-
+dad<er>o om<n>e El t<er>c'ero q<ue> fue muer-
+to & soterrado El q<u><<a>>rto q<ue> desce<n>-
+dio a los jnfiernos & saco ende
+alos padres <santos> El q<u><<i>>nto q<ue> re-
+suc'ito al t<er>c'ero dia El sexto q<ue> su-
+bio alos c'ielos E seteno q<ue> v<er>-
+na a[ ]iudgar los viuos & los mu-
+ertos E los sac<r><<a>>me<n>tos dela fe
+son siete El p<r><<i>>m<er>o es baptismo
+El ij<<o>> <con>firmacio<n> El t<er>c'ero el cuer-
+po de ih<es>u x<pist><<o>> E q<u><<a>>rto penite<n>c'ia. El
+q<u><<i>>nto la postrem<er>a vncio<n> El sexto
+orde<n> El septeno casamie<n>to Los
+dies ma<n>damie<n>tos sos estos El
+p<r><<i>>m<er>o q<ue> deue om<n>e crer en vn so-
+lo dios & adorarle & seruir le.
+El ij<<o>> q<ue> no<n> deue iurar por el no<n>b<r><<e>>
+de dios engan<n>osa mente ni<n> en
+vano El terc'<er>o q<ue> deue g<u><<a>>rdar vn
+dia <santo> en la semana E q<u><<a>>rto q<ue>
+deue onrar a su pad<r><<e>> & a su mad<r><<e>>
+El q<u><<i>>nto q<ue> no<n> deue matar a ni<n>gu-
+no atuerto El sexto q<ue> no<n> deue
+faz<er> fornic'io E seteno q<ue> no<n> deue}
+{CB2.
+tomar ni<n>gu<n>a cosa por fuerc'a ni<n>
+por furto El octauo q<ue> no<n> deue
+dez<ir> falso testimonio ni<n> me<n>tira
+engan<n>osa El noueno q<ue> no<n> deue
+cobdic'iar mug<er> agena El deze-
+no q<ue> no<n> deue el om<n>e codic'iar
+ni<n>guna cosa delo ageno E to-
+dos estos dies mandamie<n>tos
+se enc'iera<n> en dos El p<r><<i>>m<er>o q<ue> de-
+ue om<n>e amar & tem<er> adios de-
+recha me<n>te & sin ni<n>gu<n>a enfin-
+ta El ij<<o>> q<ue> deuia q<ue>rer para su
+x<pist><<i>>ano lo q<ue> q<ue>ria p<ar>a si Las ob<r><<a>>s
+de mi<sericordi>a son estas Gou<er>nar vestir
+& alu<er>gar los pobres por amor
+de dios & visitar los enfermo<<s>>
+& redemir los captiuos & so-
+terrar los muertos & castigar
+alos errados & amostrar alos
+no<n> sabios & <con>sejar al q<ue> ha me-
+ster <con>sejo & ayudar al cuytado
+& p<er>donar al q<ue>l[ ]ha erado Sofrir
+al enoioso ser piadoso atodos
+los q<ue>lo an mest<er> & rogar por
+ellos E todas estas ob<r><<a>>s de
+mi<sericordi>a deue om<n>e faz<er> por amor
+de dios v<er>dad<er>a me<n>te. & no<n> por
+ni<n>gu<n>a vanagl<or>ia ni<n> alauamie<n>-
+to del mu<n>do E los siete pe-
+cados mortales so<n> estos Orgul-
+lo envidia malq<ue>re<n>c'ia forc'ar
+lo ageno luxuria com<er> & beu<er>
+desordenada me<n>te & au<er> p<er>enza
+de faz<er> bie<n> E fijo cada vno
+destos pecados a tantas rama<<s>>
+q<ue> me seria<n> muy graue de bos
+las <con>tar todas Mas cada q<ue>
+vos <con>fesardes si el <con>fessor fuer
+bueno & ente<n>dudo el fara en
+g<u><<i>>sa q<ue> en q<u><<a>>l q<u><<i>>er man<er>a q<ue> ayad<e>s}
+[fol. 14v]
+{CB2.
+cuydo en q<u><<a>>l q<u><<i>>er destos pecados
+q<ue> el vos dara <con>sejo E por ende
+vos & todos los q<ue> se <con>fiessa<n> deue<n>
+faz<er> q<u><<a>>nto pudiere<n> por q<ue> aq<ue>l co<n> q<u><<i>>
+se a de <con>fessar se <con> el mas ente<n>du-
+do e el mas letrado q<ue> pudiere<n>
+au<er> Ca bie<n> sabed<e>s q<ue> el q<ue> enfer-
+ma fara q<u><<a>>nto pudiere por au<er>
+el mejor fisico q<ue> pudiere fallar
+E avn q<ue> sile adolesc'e algu<n>a
+vestia busca el mejor albeytar
+q<ue> puede E pues p<ar>a las bestia<<s>>
+& p<ar>a los cuerpos q<ue> so<n> cosas fal-
+lec'ederas busca<n> los om<ne>s los me-
+jores maest<r><<o>>s q<ue> puede<n> p<ar>a los
+guarec'er Muy mayor Razo<n>
+es q<ue> cate<n>. & escoia<n> los mas q<ue>
+pudiere<n> los om<ne>s ente<n>dudos. &
+let<r><<a>>dos q<ue>les de<n> <con>sejo alas alma<<s>>
+por q<ue> ayan la gl<or>ia del paraiso
+& sea<n> g<u><<a>>rdados delas penas del
+jnfierno E c'ierta me<n>te fijo si
+pudiese ser q<ue> el om<n>e no<n> cuyda
+se en al sino<n> en [^2#q<u><<a>>n] grande es la gl-
+oria del parayso E q<u><<a>>nto deu<er>ia
+om<n>e faz<er> por la au<er> & q<u><<a>>n gra<n>de la
+pena del jnfierno E q<u><<a>>nto deui-
+a om<n>e faz<er> por no<n> caer enella s<er>ia
+muy bie<n>. Mas asy com<m>o el om<n>e
+q<ue> es mu<n>do menor es <con>puesto
+& se ma<n>tiene por el alma & por
+el cuerpo bie<n> asi el mu<n>do mayor
+se ma<n>tiene por las obras sp<irit>ua-
+les. & t<en>p<o>rales E q<ue>los estados
+delos om<ne>s q<ue> an mest<er> muchas
+cosas corporales no<n> se pod<r><<i>>an.
+ma<n>ten<er> si los om<ne>s siemp<r><<e>> cuyda-
+sse<n> enlas cosas sp<irit>uales. Por
+ende <con>uiene q<ue> cada om<n>e cuyde
+& obre enlas cosas t<en>p<o>rales se}
+{CB2.
+segu<n>t p<er>tenec'e asu estado E si a-
+si no<n> lo faze yerra lo muy mal &
+no<n> faze s<er>uicio adios en ello Ca el
+q<ue> no<n> q<u><<i>>ere cuydar si no<n> sola me<n>te en
+los fechos sp<irit>uales no<n> ap<ro>uecha si
+no<n> ael mismo Mas el q<ue> cuyda. & ob<r><<a>>
+enlas cosas sp<irit>uales & t<en>p<o>rales com<m>o
+deue ap<ro>uecha asi mismo. & at<r><<o>>s mu-
+chos E por ende cu<n>ple q<ue> si pudie-
+re cadal dia si no<n> mucho amenu-
+do q<ue> req<u><<i>>era as<us> ob<r><<a>>s segu<n>t de susso
+es dicho E si fallare q<ue> passo en bu-
+enas ob<r><<a>>s gradesca lo mucho adio<<s>>
+& lieuelo adelante E si fallare
+q<ue> en alguna cosa erro arepie<n>tase
+& pon<n>e delo eme<n>dar Ca todo om<n>e
+deue sab<er> por c'ierto q<ue> dios es muy
+piadoso. & muy iustic'iero & no<n> deue
+ni<n>gu<n>o ten<er> q<ue>la piadat de dios es
+taman<n>a q<ue> dexara los malos fecho<<s>>
+sin pena Ca si lo fiziesse s<er>ia otra
+la iustic'ia Mas deue ten<er> por fir-
+me q<ue> ta<n>to fizo dios por saluar lo<<s>>
+om<ne>s & tan cara me<n>te los co<n>pro
+por la sang<r><<e>> misma q<ue> si om<n>e se re-
+pe<n>tiesse & fiziesse d<er>echa mie<n>tre la
+emie<n>da q<ue> deue segu<n>t la <santa> egl<es>ia
+lo ha ordenado q<ue> el le abria mer-
+c'ed & piadat Ca sin dubda tan
+flaca es la nat<ur>aleza delos om<ne>s
+q<ue> avos puede<n> seer q<ue> no<n> cayan en
+algu<n> yerro E avn segu<n> yo en-
+tie<n>do pocos o ni<n>gu<n>os so<n> los q<ue> en
+algu<n> yerro no<n> cae<n> <con>tra n<uest>ro sen<n>or
+dios Ca los pecados son de tanta<<s>>
+man<er>as E el mu<n>do & el diablo
+& la carne & la volu<n>tad. son ta<n> en-
+gan<n>osos q<ue> por fuerc'a a om<n>e de ca-
+er en algun yerro P<er>o deue om<n>e
+au<er> buena sp<er>anc'a q<ue> si el se aripie<n>-te}
+[fol. 15r]
+{CB2.
+q<ue>l ab<r><<a>> dios m<er>c'et Ca c'ierto es q<ue>
+dios c<r><<i>>o todas las cosas de nada
+E no<n> puso y si no<n> la volu<n>tad so-
+la me<n>te E assi com<m>o lo q<u><<i>>so asy
+fue fecho Pues c'ierto es q<ue> mas
+lig<er>a cosa es faz<er> de algo. algo q<ue>
+de nada algo E pues dios c<r><<i>>o el
+mu<n>do de nada asi pudiera redemir
+los om<ne>s co<n> nada sy q<u><<i>>siera Mas
+fizo el mas co<n> Razo<n> & mas piado-
+sa me<n>te Ca por la su gra<n>t piada<<t>>
+q<u><<i>>so omillar se tanto fasta q<ue> q<u><<i>>so
+seer om<n>e v<er>dad<er>o E demas q<u><<i>>so so-
+frir muchas penas ensu cuerpo
+& esparzer su sang<r><<e>> E en[+]cima to-
+mar muerte por redemir los n<uest>ros
+pecados E asi [^2#muy] buena sp<er>anc'a pu-
+ede<n> au<er> los pecadores q<ue> pues dio<<s>>
+q<ue> todo el mu<n>do c<r><<i>>o de nada & los po-
+d<r><<i>>a redemir co<n> nada E pues ta<n>to
+fizo por ellos q<ue> si por ellos no<n> fin-
+care q<ue> siemp<re> fallara<n> en<e>l m<er>c'et <con>pli-
+da E asi fijo segu<n>d mi ente<n>c'io<n> por
+estas q<ue> vos he dicho te<n>go q<ue> el om<n>e
+a<n>i<m>al mortal Razonal E sen<n>ala-
+da me<n>te semeja al mu<n>do. & al arbol
+t<r><<a>>stornado segud desuso vos he dicho
+Ot<r><<o>>si la Razo<n> por q<ue> dios lo crio to-
+do lo sabe el Mas lo q<ue> yo ende cuydo
+es esto Tengo q<ue> lo c<r><<i>>o por q<u><<a>>nto al mu<n>-
+do dure sea s<er>uido & loado por ello E
+desq<ue> el alma se partiere del cuerpo
+si fiziere tal<e>s ob<r><<a>>s por q<ue>lo m<er>esca au<er>
+vaya ala (^e)gl<or>ia del parayso por q<ue> se
+cu<n>pla<n> los lugar<e>s de aq<ue>llos q<ue> caye-
+ro<n> ende & p<er>diero<n> aq<ue>lla gl<or>ia por su
+m<er>ec'imie<n>to. {RUB. Cap<itu>lo xxxio<<o>> com<m>o el ca-
+uall<er>o anc'iano Respo<n>dio sotil me<n>-
+te al cauall<er>o nouel en man<er>a del p<re>-
+guntar}}
+{CB2.
+{IN3.} Fijo fasta aq<u><<i>> todas las p<re>gu<n>ta<<s>>
+q<ue> me vos fiziest<e>s fuero<n> senzi-
+ellas & dobladas Ca era<n> sen-
+ziellas por q<ue> no<n> p<re>gu<n>tauad<e>s sy
+no<n> por vna cosa Mas ot<r><<o>> si eran
+dobladas por q<ue> me p<re>gu<n>tauad<e>s
+q<ue> era aq<ue>lla cosa. & para q<ue> fuera fe-
+cha Mas en estas aq<ue> avn no<n> vos
+he respo<n>dido no<n> feziest<e>s asi ante
+me p<re>gu<n>stast<e>s muchas cosas en
+vno E te<n>go q<ue> pues vos tantos
+afincamie<n>tos me feziest<e>s q<ue> vos
+Respo<n>diesse a[ ]muchas cosas q<ue> me
+era muy graue de faz<er> por la me<n>-
+gua del ente<n>dimie<n>to q<ue> en mi ha
+E por q<ue> no<n> se ni<n>guna cosa de
+las sc'ienc'ias q<ue> faze<n> al om<n>e muy
+sabidor Por ende oue a[ ]tomar
+muy gra<n>t cuydado p<ar>a vos Respo<n>d<er>
+aellas E por el afan & por el e-
+nojo q<ue> yo tome q<u><<i>>ero vos Respo<n>-
+der vn poco por q<ue> vos ot<r><<o>>si tome-
+des algu<n> enbargo o enojo fijo vo<<s>>
+deued<e>s saber q<ue> vna delas cosas
+q<ue> om<n>e deue g<u><<a>>rdar enlo q<ue> faze
+& avn en q<ue> dize es q<ue> no<n> mude la
+man<er>a de com<m>o lo ha come<n>c'ado
+saluo si no<n> fu<er>e bue<n>a. O si la pue-
+de faz<er> o dez<ir> mejor E uos en
+q<u><<a>>nto mudast<e>s la man<er>a de no<n>
+faz<er> estas p<re>gu<n>tas com<m>o las ot<r><<a>>s
+te<n>go q<ue> vos puedo Rep<re>hend<er>. Ma<<s>>
+la mi rep<re>hensio<n> uos deue ser tal.
+com<m>o el castigo del padre o del bu-
+en amigo leal. Ca el padre q<u><<a>>ndo
+fiere al fijo peq<ue>n<n>o Sile fiere con
+la vna mano dal del pan co<n> la ot<r><<a>>
+E si el padre o el bue<n> amigo
+le castiga depues q<ue> es en t<ien>po p<ar>a
+lo castigar de palabra Castiga<n>lo}
+[fol. 15v]
+{CB2.
+en man<er>a q<ue> se parta delos yer-
+ros & q<ue> faga las cosas q<ue> deue
+E no<n> gelo dize en man<er>a ni<n> en
+lugar q<ue>l pueda ende venir da-
+n<n>o ni<n> desonRa E enlas cosas
+de q<ue> se puede mucho ap<ro>uechar
+ayu(^n)[^d]anle q<u><<a>>nto pueden por q<ue>
+las acabe E enlas cosas q<ue>l[ ]no<n>
+cu<n>ple<n> mucho no<n> faze<n> gra<n>t fuer-
+c'a enle ayudar enellas Mas
+no<n> faze asy el amigo apostizo
+q<ue> q<u><<a>>ndo a[ ]de castigar o de <con>seiar
+a alguno ental man<er>a & en tal lu-
+gar gelo dira q<ue> sienp<r><<e>> finq<ue> ende
+<con> dan<n>o o co<n> desonra o co<n> u<er>gue<n>c'a
+E esso mismo fara enlas ob<r><<a>>s
+q<ue> fiziere Ca si le ouiere de ayu-
+dar en cosas de q<ue> se ap<ro>ueche poco
+fara mucho en su ayuda por q<ue>lo
+acabe. & dara entend<er> q<ue>l ayuda
+mucho E si fu<er>e cosa de q<ue> se ap<ro>-
+ueche mucho da<n>do ente<n>d<er> q<ue>l ayu-
+da fara q<u><<a>>nto pudiere por q<ue> no<n>
+lo acabe E en esta man<er>a pu-
+de om<n>e ente<n>d<er> q<u><<a>>l es su amigo v<er>-
+dad<er>o E sabet fijo q<ue>los amigos
+v<er>dad<er>os so<n> los q<ue> se ama<n> por bu-
+enos deudos q<ue> ayan en vno E
+por bue<n>as ob<r><<a>>s q<ue> so<n> ent<r><<e>> ellos
+de luengo t<ien>po E q<ue> del vie<n> q<ue> al
+vno viene q<ue> no<n> viene dan<n>o al
+ot<r><<o>> E los amigos apostizos so<n>
+los q<ue> se ama<n> por el mest<er> & q<ue> la
+p<ro> del vno es dan<n>o del ot<r><<o>> E por
+q<ue> todas las Razon<e>s q<ue> han los
+amigos bu<en>os ent<r><<e>> si son ent<r><<e>> vos
+e mi fio por dios q<ue> el mi casti-
+go o el mi Rep<re>he<n>dimie<n>to q<ue> sie<n>-
+pre vos sera com<m>o de pad<r><<e>> o com<m>o
+de bue<n> amigo & no<n> com<m>o de ami-go}
+{CB2.
+apostizo E pues vos yo rep<re>-
+he<n>do por [^2#q<ue>] mudastes la man<er>a e
+las p<re>guntas Non lo q<u><<i>>ero yo mu-
+dar & las repuestas ante vos q<u><<i>>e-
+ro respo<n>d<er> acada vna sobre si {RUB. Ca-
+p<itu>lo xxxx<<o>> com<m>o el cauall<er>o ancia-
+no responde al cauall<er>o nouel q<ue>
+cosa son las vestias}
+{IN3.} A lo q<ue> me p<re>gu<n>tastes q<ue> cosa
+son las vestias & las aves
+& los pescados & las her-
+bas & los arbol<e>s & las piedra<<s>>
+& los metal<e>s & (^c)[^l]a tierra & la mar
+& todo esto para q<ue> fue fecho ya
+vos dixe q<ue> tenia q<ue> era esto de
+rep<re>hend<er> por q<ue> mudarades la
+man<er>a de com<m>o me fiziest<e>s las
+ot<r><<a>>s p<re>gu<n>tas E por ende sabet
+q<ue> no<n> mudaria la man<er>a delas
+respuestas Ca bie<n> ente<n>ded<e>s vo<<s>>
+q<ue> muy mal parec'e al om<n>e & se-
+n<n>alada me<n>te al q<ue> castiga O mu-
+estra a ot<r><<o>> si el mismo cae en<e>l
+yerro q<ue> castiga o muestra al ot<r><<o>>
+de q<ue> se grade E por ende vos res-
+pondre acada vna destas p<re>gu<n>ta<<s>>
+q<ue> avn no<n> vos he respo<n>dido segu<n>d
+aq<ue>l poco ente<n>dimie<n>to q<ue> yo he
+q<ue> es cada vna dellas & para q<ue> fue
+fecha E delas vos digo q<ue> te<n>go
+q<ue> no<n> es muy lig<er>a Respuesta de
+dar Por q<ue>las vestias so<n> de mu-
+chas man<er>as & de muchas nat<ur>a<<s>>
+& nac'en en muchas t<ie>ras estra-
+n<n>as E las q<ue> so<n> en vna t<ie>ra no<n>
+so<n> en otra Ca dellas ha q<ue> cac'a<n> &
+toma<n> a ot<r><<a>>s asi com<m>o la nat<ur>a de
+l(^a)[^o]s leones & delas onc'as q<ue> llama<n>
+en algu<n>as t<ie>ras pardos & delos
+leopardos q<ue> son co<n>puestos delo<<s>>}
+[fol. 16r]
+{CB2.
+leones & delas pardas o delos par-
+dos & delas leonas o delos ossos o
+los louos E ot<r><<a>>s bestias peq<ue>n<n>a<<s>>
+q<ue> cac'a<n> cac'as peq<ue>n<n>as & de noche a
+fuerc'a & con engan<n>o asy com<m>o xy-
+mios o adiues & raposos & maymo-
+nes & fuynas & tessugos & furon<e><<s>>
+& gardun<n>as & turones & otras bes-
+tias sus semeja<n>tes ot<r><<a>>s bestias ay
+q<ue> son <con>puestas de cauallos & de as-
+nos & aestas vestias llama<n> mulo<<s>>
+alos maslos & mulas alas femb<r><<a>>s
+& so<n> mejores los fijos de asno & de
+yegua q<ue> no<n> los q<ue> son fijos de ca-
+uallo & de asna E estas vestias
+q<ue> so<n> asi <con>puestas no<n> enge<n>dra<n> bie<n>
+asi com<m>o los leopardos q<ue>lo enge<n>-
+dra<n> por q<ue> so<n> <con>puestos de leones
+& de pardas otras bestias ay q<ue> so<n>
+cac'adoras. & ellas no<n> cac'a<n> asi com<m>o
+puercos jaualies & c'ieruos & ga<n>-
+zellas & zarafas & vacas brauas
+& asnos brauos E carneros. b<r><<a>>-
+uos E cabras brauas & gamo<<s>>
+& corc'os. & ot<r><<a>>s s<us> semeja<n>tes Ot<r><<o>>si
+ay otras bestias peq<ue>n<n>as q<ue> se ca-
+c'a<n> asi com<m>o liebres & conejos et
+ot<r><<a>>s sus semeja<n>t<e>s ot<r><<a>>s bestias ay
+q<ue> an los o<mne>s & biue<n> sienp<r><<e>> conello<<s>>
+& estas so<n> las nat<ur>as delos cane<<s>>
+asi com<m>o alanos & sauejos & ga-
+lgos & pode<n>cos & mastin<e>s E to-
+das las ot<r><<a>>s man<er>as de can<e>s q<ue> so<n>
+<con>puestos destas nat<ur>as de canes
+dichas ot<r><<a>>s bestias ay q<ue> c<r><<i>>an los
+om<ne>s & auezes biue<n> enlas casas
+& auezes enlos mo<n>tes asi com<m>o
+la nat<ur>a delos cauallos & delos
+asnos ot<r><<a>>s bestias ay q<ue> no<n> cac'an
+E por la su g<r><<a>>ndez & la su fuerc'a}
+{CB2.
+no<n> las cac'a ot<r><<a>> bestia asi com<m>o
+los marfiles aq<ue> llama<n> elefante<<s>>
+& los vnicornios camellos ot<r><<a>>s
+bestias bestias ay q<ue> nac'e<n> enlos
+yermos & biue<n> siemp<re> alla Pero
+g[^<u><<a>>]r(^a)da<n> las los om<ne>s E q<u><<a>>ndo q<u><<i>>e-
+re<n> traenlas alos poblados asy
+com<m>o las vacas & las ovejas &
+las cabras. & s<us> semeja<n>tes Ot<r><<a>>s
+bestias ay q<ue> se c<r><<i>>an alas vezes
+enel agua & alas vezes enla ti-
+era asi com<m>o coq<ue>drizes & los cas-
+tores. & s<us> semejantes ot<r><<a>>s besti-
+as ay q<ue> biue<n> dela t<ie>ra & alas ve-
+zes e[n]tra<n> en<e>l agua asi com<m>o cu-
+leb<r><<a>>s & sapos & ranas & galapa-
+gos & estas bestias so<n> apocon<n>a-
+das & q<u><<a>>nto anda enla t<ie>ra mas
+seca son lo mas ot<r><<a>>s bestias ay
+q<ue> so<n> pocon<n>adas & anda<n> alonga-
+das del agua asi com<m>o biboras
+Ot<r><<o>>si dize<n> q<ue> ay ot<r><<a>> man<er>a de bes-
+tias pocon<n>adas aq<ue> llama<n> basi-
+liscos mas destos nu<n>ca bi yo ni<n>-
+guno ni<n> bi om<n>e q<ue>lo biesse E
+ot<r><<o>>si alacranes & samalaq<ue>sas &
+lazartos P<er>o los lagartos co-
+m<m>o q<u><<i>>er q<ue> muerde<n> mal no<n> so<n> muy
+enconados & arranas & c'entipe-
+as e tarentelas q<ue> son manar
+de ranas E ay ot<r><<a>>s q<ue> son entre
+man<er>a de bestias & de aues asi co-
+m<m>o morc'iellagos & mariposas
+& avejas & abispas & todas las
+man<er>as delas moscas E ot<r><<o>>si
+ay otra man<er>a de bestias q<ue> son
+muy enojosas & sen<n>alada me<n>te
+alos cauall<er>os q<u><<a>>ndo acaec'e<n> q<ue> an-
+da<n> armados en las g<ue>rras asi
+com<m>o los piojos & las pulgas}
+[fol. 16v]
+{CB2.
+las c'ismes & las formigas & s<us> se-
+meia<n>tes E fijo todas estas bes-
+tias so<n> a<n>i<m>alias. & so<n> ent<r><<e>> los om<ne>s
+& los arbol<e>s & las pla<n>tas. Ca las
+a<n>i<m>alias cresc'e<n>. & ma<n>tiene<n> se. asi co-
+mo los arbol<e>s & las pla<n>tas & an
+mas q<ue> ellos q<ue> siente<n> & q<ue> enge<n>dran
+& an menos q<ue>los om<ne>s la Racio<n> E
+segu<n>d el mi poco sab<er> tengo q<ue> en
+esta man<er>a son las vestias Ot<r><<o>> si te<n>-
+go q<ue>la Razo<n> por q<ue> n<uest>ro sen<n>or dios
+q<u><<i>>so q<ue> fuesse fechas es por mostrar
+enellas el su gra<n>t pod<er>. & el su gra<n>t
+sab<er> & la su gra<n>t vondat & la su gr-
+ant piadat Ca mostro gra<n>t po-
+d<er> en q<u><<a>>nto las fizo de nada & las
+tornara nada q<u><<a>>ndo el q<u><<i>>siere E
+mostro gra<n>t sab<er> en q<u><<a>>nto las fizo
+ta<n> estran<n>as E muy desbariada<<s>>
+vnas de ot<r><<a>>s E todas co<n> Razo<n>
+segu<n>d p<er>tenec'ia acada vnas ensu
+nat<ur>a E mostro gra<n>t vondat. &
+gra<n>t piadat en com<m>o la gubier-
+na cada dia no<n> abie<n>do ellas ni<n>-
+guna cosa de suyo E com<m>o las
+g<u><<a>>rda del frio & dela calentura
+alas vnas co<n> cabellos alas ot<r><<a>>s
+co<n> sedas E alas ot<r><<a>>s co<n> cuer-
+nos [^2#&] alas ot<r><<a>>s co<n> conchas Ot<r><<o>>si
+com<m>o les dio armas p<ar>a se defe<n>-
+d<er> & p<ar>a se gou<er>nar las de dient<e>s
+las ot<r><<a>>s de colmiellos. las de cue-
+rnos. las ot<r><<a>>s de vn<n>as. las de
+lig<er>eza de pies E a cada vnas
+segu<n>d les es mest<er> E sen<n>alada
+me<n>te te<n>go q<ue>las c<r><<i>>o p<ar>a s<er>uic'io. &
+ma<n>tenimie<n>to delos om<ne>s E fijo
+ya vos dixe lo q<ue> yo te<n>go q<ue> son la<<s>>
+vestias E la razo<n> p<ar>a q<ue> cuido q<ue>
+fuero<n> fechas Mas non vos q<u><<i>>s de-zir}
+{CB2.
+todas las cosas ni<n> p<ro>p<r><<i>>edades
+de cada vna destas vestias E dixo
+lo por dos razon<e>s la vna por q<ue> vos
+obiesse a[ ]dez<ir> todas las p<ro>p<r><<i>>edades del-
+las mudaria la man<er>a de todas
+las ot<r><<a>>s respuestas q<ue> vos he dado
+fasta aq<u><<i>> E la ot<r><<a>> por q<ue> esto p<er>te-
+nesc'e mas ala sc'ienc'ia delas nat<ur>as
+& dela fisica q<ue> no<n> ala dela cauall<er>ia
+P<er>o sed c'ierto q<ue> cada vna destas
+vestias ha ensi muchas p<ro>p<r><<i>>edades
+& muy estran<n>as. & dellas muy ap<ro>-
+uechosas {RUB. Cap<itu>lo xxxxj<<o>> com<m>o el ca-
+uall<er>o anc'iano Respo<n>de al cauall<er>o
+nouel q<ue> cosa son las aves}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> cosa so<n>
+las aves. & para q<ue> fuero<n> fecha<<s>>
+bie<n> vos digo fijo E com<m>o q<u><<i>>er
+q<ue> es p<re>gunta grande por q<ue>las aves
+son muchas. & de muchas nat<ur>as
+& muy desbariadas las vnas de
+las ot<r><<a>>s & de muchas t<ie>ras & muy es-
+tran<n>as Pero co<n> todo esto vna dela<<s>>
+p<re>gu<n>tas q<ue> fasta aq<u><<i>> me feziest<e>s aq<ue>
+tengo q<ue> vos puedo respo<n>der c'ierta
+me<n>te es esta Esto te<n>go q<ue> puedo
+faz<er> por q<ue>la cosa del mundo de q<ue> ma<<s>>
+vse en q<u><<a>>nto visq<ue> al mu<n>do de cauall<er>ia
+afuera fue fecho de cac'a E por q<ue>
+yo vsaua mucho della obe a[ ]sab<er> mu-
+cho delas aues Ca no<n> ha cosa q<ue> ma<<s>>
+se allegue co<n> las man<er>as del caua-
+ll<er>o q<ue> ser mo<n>tero & cac'ador E por
+q<ue> yo ente<n>dia q<ue> esto cumplia mu-
+cho al mi estado vselo mucho E
+ot<r><<o>>si abia ende gra<n>t volu<n>tad E
+bie<n> cred fijo q<ue>la volu<n>tad faze al
+om<n>e faz<er> las mas delas cosas q<ue> fa-
+ze Ca si el om<n>e no<n> ha uolu<n>tad
+de faz<er> vna cosa Aun q<ue> sea bue<n>a}
+[fol. 17r]
+{CB2.
+o la dexara de faz<er> o la fara no<n> ta<n>
+<con>plida me<n>te com<m>o era mest<er> E
+si a volu<n>tad de faz<er> alguna cosa a-
+vn q<ue> no<n> sea buena la volu<n>tad le
+engan<n>ara & le fara ente<n>d<er> q<ue> es
+buena o q<ue> no<n> es ta<n> mala por q<ue>
+deua dexar dela faz<er> E por ende
+son muy pocos los q<ue> de todo pue-
+de<n> conosc'er q<u><<a>>ndo les engan<n>a la
+volu<n>tad E son de muy bue<n>a ue<n>-
+t<ur>a los q<ue> la puede<n> forc'ar por q<ue> no<n>
+faga<n> lo q<ue> deue<n> por <con>plir su uolu<n>-
+tad E com<m>o q<u><<i>>er q<ue> muchos dize<n>
+& cuyda<n> q<ue> por co<n>plir su uolu<n>tad
+no<n> dexara de faz<er> su p<ro> o lo q<ue> deue
+Muchos lo dize<n> de palabra mas
+pocos lo faze<n> de fecho E esto es
+gra<n>t yerro E sen<n>alada me<n>te en
+las fazie<n>das delos om<ne>s Ca muc-
+hos ay q<ue> tiene<n> q<ue> sol q<ue> diga<n> muy
+b(^i)[^u]e<n> seso & muy bue<n>as palab<r><<a>>s q<ue>
+co<n> ta<n>to es acabado todo el fecho E
+no<n> es asi ca e<n>la fazie<n>da misma del
+om<n>e no<n> cu<n>ple el dicho solo ante es
+mest<er> la obra Mas enlas fazie<n>das
+agenas de q<ue> om<n>e no<n> ha gra<n>t cuy-
+dado sol q<ue> diga enellas lo q<ue> es bue<n>
+sesso por q<ue> entie<n>da q<ue> es el muy en-
+te<n>dudo & q<ue> es desencargado pues
+lo ha dicho. co<n> tanto a fecho lo q<ue>l
+cu<n>ple. Mas enla su fazie<n>da misma
+Mas cu<n>ple q<ue> el dicho sea me<n>guado
+& el fecho <con>plido q<ue> no<n> dez<ir> muy bue<n>a<<s>>
+palab<r><<a>>s & gra<n>des sesos & el fecho er-
+rado E por ende deue om<n>e catar
+ta<n> bie<n> e<n>los sus fechos com<m>o enlo<<s>>
+q<ue> ael dize<n> q<ue> es la p<ro> q<ue> c'ierta me<n>te
+ende le puede venir E ten<er> se ala<<s>>
+cosas c'iertas & no<n> a las fihuzas du-
+bdosas P<er>o al q<ue> dios faze tanta}
+{CB2.
+m<er>c'ed q<ue>l da volu<n>tad p<ar>a faz<er> bue<n>as
+cosas & ap<ro>uechosas p<ar>a el alma
+& p<ar>a el cuerpo es de bue<n>a bent<ur>a
+enello E asi com<m>o el q<ue> de su uo-
+lu<n>tad se paga de comer bue<n>as bi-
+andas & sanas & se g<u><<a>>rda de faz<er> ni<n>-
+guna cosa q<ue> enpesca ala salud del
+cuerpo es sen<n>al de ser sano Bien
+asi el q<ue> de su uolu<n>tad faze bue<n>as
+ob<r><<a>>s es sen<n>al q<ue>l q<u><<i>>ere dios faz<er> bie<n>
+en este mu<n>do al cuerpo. & en<e>l otro
+al alma E por q<ue> yo ente<n>di q<ue>la
+volu<n>tad q<ue> yo abia de cac'ar no<n> me
+enpec'ia p<ar>a las ot<r><<a>>s cosas q<ue> avia
+de faz<er> ni<n> dexaua por ella ni<n>guna
+cosa de mi fazie<n>da vselo asaz q<u><<a>>n-
+to me co<n>plia Ca no<n> deue om<n>e por
+la cac'a dexar ni<n>gu<n>o ot<r><<o>> fecho ma-
+yor q<ue>le ap<ro>ueche ole enpesca ala
+fazienda o ala onra o ala p<ro> Mas
+q<u><<a>>ndo al no<n> ha de faz<er> delos t<ien>pos q<ue>
+se passa<n> bal( )dios no<n> a ni<n>gu<n>o tan
+bie<n> puesto p<ar>a los cauall<er>os com<m>o
+lo q<ue> pone<n> en mo<n>te o en cac'a E
+por q<ue> yo vse la cac'a siemp<r><<e>> en esta
+man<er>a sope ende mucho E digo
+uos q<ue> tengo q<ue> enel mi t<ien>po no<n> so-
+po ende mas ni<n>gu<n>o ot<r><<o>> om<n>e delo<<s>>
+q<ue> yo conosc'i E por ende vos res-
+po<n>do q<ue>las aves son de muchas.
+man<er>as vnas ay q<ue> cac'a<n> & ot<r><<a>>s ay
+q<ue> son cac'adas Otras ay q<ue> se c<r><<i>>an
+& se mantiene<n> siemp<r><<e>> en<e>l agua
+E ot<r><<a>>s ay q<ue> se ma<n>tiene<n> siemp<r><<e>> e-
+nel seco Ot<r><<a>>s ay q<ue> se mantiene<n>
+alas vezes enel agua & alas ve-
+zes en<e>l seco Ot<r><<a>>s ay q<ue> andan sie<n>-
+p<r><<e>> enel agua nadando E ot<r><<a>>s ay
+q<ue> q<u><<a>>ndo estan en<e>l agua no<n> entra<n>
+mas de q<u><<a>>nto les alcanc'a<n> los pies}
+[fol. 17v]
+{CB2.
+en g<u><<i>>sa q<ue> no<n> nada<n> E ot<r><<a>>s ay q<ue>
+se c<r><<i>>an sie<n>p<r><<e>> en casa E ot<r><<a>>s ay q<ue> se
+c<r><<i>>an enlos yermos. & semeja<n> alas
+de casa E aues q<ue> se c<r><<i>>an enlas t<ie>ra<<s>>
+muy frias q<ue> son <con>tra el c'ierc'o E
+en<e>l yuierno viene<n> alas t<ie>ras q<ue> so<n>
+<con>tra el medio dia E algu<n>as ay q<ue>
+q<u><<a>>ndo estas se torna<n> p<ar>a s<us> t<ie>ras. viene<n>
+delas t<ie>ras calie<n>tes <con>tra las frias.
+Ot<r><<a>>s ay q<ue> so<n> en p<ar>te aues & en p<ar>te bes-
+tias P<er>o semeja<n> mas aues q<ue> ves-
+tias las q<ue> cac'a<n> & no<n> son cac'adas so<n>
+todas las nat<ur>as delas ag<u><<i>>las E
+la q<ue> yo se so<n> estas las ag<u><<i>>las ma-
+yores q<ue> llama<n> cuello aluas q<ue> so<n>
+todas negras & an los onbros dela<<s>>
+alas blancas E enc'ima dela cola
+blanco Estas q<u><<a>>ndo son brauas pu-
+ede<n> matar todas las p<re>siones Ma<<s>>
+lo demas no<n> cac'a<n> si no<n> liebres & co-
+nejos. & p<er>dizes p<er>o q<u><<a>>ndo esto no<n> fal-
+la<n> & an fanbre mata<n> gruas & abitar-
+das & ansares brauas E avn toma<n>
+cab<r><<i>>tos. & corc'os peq<ue>n<n>os & mata<n> los
+ac'ores. & los falcones E estos to-
+ma<n> toda la cac'a del mu<n>do E ni<n>-
+gu<n>a aue del mu<n>do no<n> teme a ella<<s>>
+E oy dez<ir> q<ue> ya algu<n>as ag<u><<i>>las ma-
+taro<n> bueytr<e>s & aua<n>cos E q<u><<a>>ndo
+las ama<n>sa<n> toma<n> todas estas ca-
+c'as mas no<n> muy lig<er>a me<n>te ni<n>:
+mucho apuesto Ay ot<r><<a>>s ag<u><<i>>las q<ue> lla-
+ma<n> Ruuias & estas so<n> mas lig<er>a<<s>>
+& mas dan<n>osas p<ar>a los cac'adores
+mas no<n> mata<n> ta<n> grandes p<r><<i>>sio-
+nes ni<n> so<n> de tan gra<n>t fuerc'a Ay
+ot<r><<a>>s ag<u><<i>>las q<ue> son com<m>o blancas
+& llama<n> las athahormas Estas no<n>
+mata<n> ni<n>gu<n>a gra<n>t p<r><<i>>sion ni<n> faze<n>
+mal alos falcones ni<n> ac'ores ma<<s>>}
+{CB2.
+faze<n> mal alos gabilanes & alos
+esmereion<e>s & alos alcotanes si lo<<s>>
+falla<n> co<n> p<r><<i>>siones mas no<n> en otra
+man<er>a Ot<r><<a>>s a(^l)[^g]<u><<i>>las ay q<ue> llama<n> pes-
+cad<er>as & estas no<n> cac'a<n> aves mas ca-
+c'a<n> pescados [^2#<<en>>] los Rios g<r><<a>>ndes E
+dize<n> q<ue> an vn pie de ag<u><<i>>la & ot<r><<o>> c'er-
+rado com<m>o ansar & anda<n> vola<n>do so-
+bre los Rios o estan pescados en ar-
+boles o enlas Riberas altas E
+q<u><<a>>ndo biene el gra<n>t pez dexanse caer
+en<e>l Rio & van nadando so el agua
+& toma<n> & come<n>lo fuera en<e>l seco E
+ot<r><<a>>s aues ay q<ue> so<n> de nat<ur>a de ag<u><<i>>las
+& de athahormas Mas por que non
+cac'a<n> si no<n> cac'as biles no<n> vos las di-
+re fasta q<ue> vos aya dicho las ot<r><<a>>s aves
+q<ue> cac'a<n> bue<n>as cac'as. & nobles En
+pos las ag<u><<i>>las ay ot<r><<a>>s aues cac'ad<or>as
+q<ue> cac'a<n> seye<n>do brauas & cac[']a<n> mejor
+seye<n>do mansas q<ue> q<u><<a>>ndo so<n> brauas
+no<n> cac'a<n> si no<n> sola me<n>te p<ar>a se go-
+b<er>nar E por ende cac'a<n> aq<ue>llo q<ue> ma<<s>>
+son en poder delos om<ne>s affeytan-
+dolas bie<n> faze<n> les matar cac'as muy
+estran<n>as & muy marabillosa me<n>te
+E los q<ue> esto faze<n> so<n> los falcones
+por q<ue> son mas lig<er>os & mas ardides
+E delos falcones ay siete nat<ur>as
+los p<r><<i>>m<er>os mayores & mejores so<n>
+los girifalt<e>s E e<n>pos ellos los ne-
+blis E enpos ellos los sacres E
+en pos ellos los esmerejones E
+en pos ellos los alcotanes E to-
+das estas nat<ur>as de falcones los
+bu<en>os falcon<er>os conosce<n>los por tal-
+le E por fac'iones & plumage
+E por enpen<n>olamie<n>to E q<u><<a>>les
+so<n> los mejores E en post ellos
+los ac'ores q<ue> so<n> mas fermosas abes}
+[fol. 18r]
+{CB2.
+& mayores. & cac'a<n> todas las p<r><<i>>sion<e>s
+delos falcon<e>s Mas por q<ue> ellos no<n>
+cac'a<n> ta<n> sabrosa me<n>te ni<n> ta<n> mara-
+billosa me<n>te no<n> les p<re>cia<n> tanto los
+gra<n>des sen<n>ores Ot<r><<o>>si los gabilan<e>s
+so<n> de nat<ur>a delos ac'ores sabroso &
+mucho apuesto p<r><<i>>siones mas peq<ue>-
+nas q<ue>los ac'ores Todas aq<ue>stas q<ue>
+vos he dicho cac[']a<n> & no<n> son cac'adas
+com<m>o q<u><<i>>er q<ue>las ag<u><<i>>las mata<n> algu<n>a<<s>>
+vezes todas estas aves segu<n>d vos
+he dicho ay ot<r><<a>>s aues q<ue> son cac'adas
+& no<n> cac'a<n> asi com<m>o gruas & garc'as
+pardas & c'ismes & flame<n>q<ue>s abutar-
+das & garc'as rubias & blancas & ma-
+rtinetes & garc'etas & dorales & cigu-
+n<n>uelas E todas estas ot<r><<a>>s aues.
+menudas q<ue> anda<n> en<e>l agua delas
+piernas lue<n>gas & no<n> anda<n> enel ag<u><<a>>
+nada<n>do E todas las man<er>as dela<<s>>
+anades q<ue> so<n> muchas E las p<er>dize<<s>>
+& las codornizes E todas las na-
+t<ur>as delas palomas E las torto-
+las & los alcarauanes & m<ur>ac'icos
+& los sisones & las cornechas & las
+cueruas & las cortezas & las gra-
+jas delos picos v<er>mejos & la<<s>> graui-
+elas pardiellas & los gayos & las
+pigac'as & los tordos prietos & los
+zorzales E los picos v<er>des & los
+caudones & las copadas & las alo-
+as & las calandres & los pardal<e>s
+E todas las ot<r><<a>>s man<er>as delos pa-
+xaros menudos todas estas so<n>
+cac'adas. & no<n> cac'a<n> Ot<r><<a>>s ay q<ue> no<n> ca-
+c'a<n> ni<n> son cac'adas Asi com<m>o los bu-
+eytres. & los abancos q<ue> no<n> mata<n>
+ni<n>gu<n>d aue biua E por q<ue> ellos
+son muy gra<n>des & muy fuertes
+& muy espantosas las ot<r><<a>>s aves
+{GL. [^index nominum]}}
+{CB2.
+no<n> cac'a<n> aellas Ot<r><<a>>s ay q<ue> cac'a<n>. & son
+cac'adas asi com<m>o los budalones
+& los alfor[^<<r>>]es & los a(^l)[^g]<u><<i>>lochos & to-
+das las aves de su nat<ur>a & lechuza<<s>>
+& mochuelos & carabos & cucluel-
+los & todas estas cac'a<n> biles cac'a<<s>>
+& en vil man<er>a E los ac'ores. &
+los falcones cac'a<n> aellas los bu-
+chos cac'a<n> bil me<n>te Mas por q<ue> son
+muy gra<n>des & muy balient<e>s no<n>
+los cac'a<n> ni<n>guna ave los cuervos
+carniceros & los milanos & los
+q<ue>branta huesos blancos P<er>o q<ue>
+han las vnas tornadas & seme-
+jan aves cac'adores mas no<n> cac'a<n>
+E los ac'ores & los falcon<e>s cac'a<n>
+aellas Ay ot<r><<a>>s q<ue> se mantiene<n> sie<n>-
+p<re> en<e>l agua nada<n>do asi com<m>o to-
+das las man<er>as delas anades
+P<er>o dellas ay q<ue> en ni<n>gu<n>d t<ien>po nu<n>-
+ca salle<n> del agua algu<n>as dellas sa-
+le<n> a[ ]comer fuera P<er>o las mas sie<n>-
+p<re> esta<n> en<e>l agua Ay ot<r><<a>>s q<ue> se ma<n>-
+tiene<n> siempre en<e>l seco asi com<m>o
+las abutardas & los cuerbos cal-
+uos & los alcarauan<e>s & los m &
+los marc'iecos & las ga<n>gas & las
+cortezas & los sisones & las p<er>di-
+zes & las codornizes E todas
+las man<er>as delas palomas. & las
+tortolas & delos paxaros menudo<<s>>
+q<ue> desuso son dichas Todas estas
+aves biue<n> enlos yermos. & enla
+t<ie>ra seca q<ue> no<n> se ap<ro>uecha<n> del ag<u><<a>>
+si no<n> q<u><<a>>ndo an mest<er> veuer ose va-
+n<n>a<n> Ot<r><<a>>s q<ue> se matiene<n> alas vezes
+en<e>l agua & alas vezes en<e>l seco asi
+com<m>o las garc'as pardas & bla<n>cas
+& Rubias & abderramias & cuer-
+uos & m<er>ynas & garc'etas & mar-tinetes}
+[fol. 18v]
+{CB2.
+& bueres & doral<e>s. todas sus
+semeja<n>tes & agun<n>uelas & chorlito<<s>>
+& todas las aves menudas del ag<u><<a>>
+q<ue> son de nat<ur>a destos E las gruas
+yaze<n> de noche en<e>l agua & del dia gu-
+bierna<n> se enlas senbradas & enlos
+restojos & enlas vin<n>as & enlos ca<n>po<<s>>
+P<er>o siemp<r><<e>> tiene<n> la siesta enel agua
+Ot<r><<a>>s ay q<ue> anda<n> sie<n>p<r><<e>> en<e>l agua nada<n>-
+do asy com<m>o los ciznes & todas las
+man<er>as delas anades grueros & las
+neg<r><<i>>tas & delos sumurgujon<e>s Ay
+ot<r><<a>>s q<ue> esta<n> sie<n>p<r><<e>> en<e>l agua P<er>o q<u><<a>>nto les
+aca<n>c'a<n> los pies en g<u><<i>>sa q<ue> no<n> nada<n> Asi
+com<m>o los flame<n>q<ue>s p<er>o nu<n>ca esta<n> si no<n>
+enel agua dela mar o en lagunas g<r><<a>>n-
+des saladas Ot<r><<a>>s ay q<ue> se c<r><<i>>an sie<n>p<r><<e>> en ca-
+sa asi com<m>o pauon<e>s & ansares & gal-
+linas. & palomas duendas Ot<r><<a>>s ay q<ue>
+se c<r><<i>>an enlos yermos & semeia<n> alas
+q<ue> se cria<n> en casa asi com<m>o faysanes
+q<ue> semeja<n> alos pauon<e>s de casa & ana-
+des. & gallinas & gallos mo<n>teses & pa-
+lomas torcazas E ot<r><<a>>s q<ue> semeja<n> al-
+as de casa Ay aues q<ue> c<r><<i>>an enlas t<ie>ras
+frias q<ue> son <con>tra el c'ierc'o & el yuierno
+viene<n> alas t<ie>ras calientes q<ue> so<n> <con>tra el
+medio dia asi com<m>o delas aves q<ue> cac'a<n>
+los falcon<e>s sacres & los neblis & los
+esmerejon<e>s Mas los girifaltes ni<n> lo<<s>>
+ac'ores ni<n> los baharis ni<n> los borni<<s>>.
+Estos no<n> se parte<n> delas t<ie>ras do biue<n>
+& do c<r><<i>>an & delas cac'adas & cac'a<n> los
+budalones & los alforres E todas
+las aues de su nat<ur>a delas q<ue> son cac'a-
+das & no<n> cac'a<n> asi com<m>o las gruas
+& las garc'as & las ansares brauas
+& todas las man<er>as delas anades
+q<ue> son de passo q<ue> llama<n> mariscas E
+algu<n>as aues ay q<ue> q<u><<a>>ndo se comie<n>c'an}
+{CB2.
+a[ ]tomar enl mes de febrero comie<n>c'a<n>
+ellas a[ ]venir delas t<ie>ras calie<n>tes & bie-
+ne<n> <con>tra las q<ue> son frias E c<r><<i>>an enlas
+t<ie>ras de co<n>tra el c'ierc'o delas q<ue> cac'a<n> asi
+com<m>o los alcotanes. & las aletas & los
+milanos p<r><<i>>etos & los c'ernicoles dela<<s>>
+vn<n>as blancas P<er>o estos milanos & c'er-
+nicolos com<m>o q<u><<i>>er q<ue> semeja<n> aves cac'a-
+das estas son p<ar>a ser cac'adas q<ue> p<ar>a cac'ar
+E delas q<ue> son cac'adas & las c'igue-
+n<n>as & las codornizes & las tortolas
+& las golord<r><<i>>nas & los auion<e>s & los on-
+c'eros E las aves q<ue> son en parte a-
+ves & en parte vestias P<er>o semeja<n> ma<<s>>
+alas aues so<n> los escruc'ies & los m<ur>cie-
+gos E la Razo<n> por q<ue> n<uest>ro sen<n>or di-
+os las fizo Tengo q<ue> es por q<ue> sea loa-
+do por q<ue> fizo tan bue<n>as cosas & ta<n> ap<ro>-
+uechosas & ta<n> estran<n>as E por q<ue> mos-
+tro en ellas ta<n> gra<n>t sab<er>. & ta<n> gra<n>t pia-
+dat E p<ar>a q<ue> sea el mu<n>do mas onra-
+do & mas <con>plido por ellas E por q<ue>lo<<s>>
+om<ne>s aq<ue> el por su m<er>c'ed dio pad<r><<e>> sobre
+todas las cosas del mu<n>do q<ue> se ap<ro>ue-
+chen. & se sirua<n> dellas. {RUB. Cap<itu>lo xxxx<<o>>ij<<o>>
+com<m>o el cauall<er>o anc'iano responde ca-
+uall<er>o nouel q<ue> cosa son los pescados}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s q<ue> cosa so<n> los
+pescados & p<ar>a q<ue> fuero<n> fechos
+fijo a esta p<re>gunta co<n> razo<n> no<n>
+vos deuo Respo<n>der ta<n> c'ierta me<n>te co-
+mo ala p<re>gu<n>ta delas aues por q<ue> no<n> he
+tanto vsado el pescar com<m>o el cac'ar E
+por q<ue>las cosas q<ue> om<n>e no<n> sabe no<n> deue
+fablar en ellas com<m>o delas q<ue> sabe si no<n>
+vos lo diere la repuesta ta<n> <con>plida no<n> uo<<s>>
+marabilled<e>s E te<n>go q<ue> es cordura en
+conosc<er> o<mn>e la me<n>gua q<ue> ensi ha E por
+ende sabet q<ue>la cordura ha q<u><<a>>tro grados.
+vnos ay q<ue> so<n> muy cuerdos ot<r><<o>>s cuerdos}
+[fol. 19r]
+{CB2.
+ot<r><<o>>s me<n>guados de cordura ot<r><<o>>s muy me<n>-
+guados de cordura los q<ue> so<n> muy cuerdos
+entie<n>de<n> la cosa por algu<n>as sen<n>ales o por al-
+gu<n>as p<re>su<n>pc'iones ante q<ue>los ot<r><<o>>s la pu-
+diesse<n> ente<n>der E grada<n>se si les es mest<er>
+& obra<n> por lo q<ue> entie<n>de<n> enla man<er>a q<ue>les
+cu<n>ple E castiga<n>sse por lo q<ue> <con>te<n>c'io a ot<r><<o>>s
+& los so<n> cuerdos q<ue> entie<n>de<n> las cosas q<u><<a>>ndo
+acaec'e<n> & obra<n> en ellas com<m>o deue<n> Mas lo<<s>>
+q<ue> no<n> so<n> cuerdos no<n> entie<n>de<n> la cosa depu-
+es q<ue> es acaesc'ida ni<n> ob<r><<a>>n en ella com<m>o de-
+ue<n> los ot<r><<o>>s muy me<n>guados de cordura
+Aun q<ue> ellos mismos aya<n> seido engan<n>ado<<s>>
+enla cosa q<ue> an passado por ella no<n> la entie<n>-
+de<n> ni<n> se g<u><<a>>rda<n> q<u><<a>>ndo les acaesc'e ot<r><<a>> tal co-
+m<m>o aq<ue>lla cosa enq<ue> an seido engan<n>ados
+& an rec'ebido dan<n>o E estos tales so<n> mu-
+y me<n>guados de cordura E por q<ue> te<n>go
+q<ue> yo so mas certado destos q<ue> delos muy
+cuerdos no<n> uos deued<e>s marabillar sy
+a esto no<n> vos re[s]po<n>diere ta<n> <con>plida me<n>te
+com<m>o aviad<e>s mest<er> P<er>o lo q<ue> ente<n>diere de-
+zir vos lo he digo uos q<ue> segu<n>t yo cuido lo<<s>>
+pescados so<n> de muchas man<er>as. vnos ay
+q<ue> nac'e<n> & se ma<n>tiene<n> en<e>l mar asi como va-
+llenas & los pulpes & los <con>g<r><<i>>os E todo<<s>>
+los ot<r><<o>>s pescados q<ue> nu<n>ca sale<n> alas agu-
+as dulces Ot<r><<o>>s ay q<ue> c<r><<i>>an enlas agua<<s>>
+dulces asi com<m>o las truchas & los ot<r><<o>>s
+pescados q<ue> nac'e enellas & no<n> van ala
+mar Ot<r><<o>>s ay q<ue> nac'e<n>. & se c<r><<i>>an en estancos
+& en lagu<n>as & en aguas q<ue> esta<n> q<ue>das asi
+com<m>o los luzes & los te<n>cas Ot<r><<o>>s ay q<ue> no<n>
+c<r><<i>>an si no<n> enlos Rios q<ue> entra<n> en la mar
+asy com<m>o los salmon<e>s & las lamp<re>as
+& los sabales E ot<r><<o>>s ay q<ue> se c<r><<i>>an alas
+vegadas e<n>la mar & alas vegadas e<n>las
+aguas dulces asi com<m>o almires & lica<<s>>
+& ang<u><<i>>llas E destos ay algu<n>os q<ue> an[ ]spi-
+nas & ot<r><<o>>s q<ue> an conchas. & ot<r><<o>>s q<ue> ha<n> me-ros}
+{CB2.
+muy duros & por vos no<n> alo<n>gar
+mucho el[ ]li( )bio. & por q<ue> no<n> faze<n> gra<n>t
+me<n>gua no<n> vos los q<u><<i>>ero y pon<er> todos
+no<n>brada me<n>te Mas sabet q<ue>los me-
+nor<e>s & los mas sanos so<n> los q<ue> mas
+biue<n> enla mar do no<n> ay c'ieno & por
+su nat<ur>aleza so<n> peq<ue>n<n>os de cuerpo & q<ue>
+tiene<n> scama & q<ue> an mucha sang<r><<e>> E
+delos q<ue> biue<n> enlos Rios los mas sa-
+nos son los q<ue> an las [^2#mas] destas sen<n>ales
+E la razo<n> por q<ue> te<n>go q<ue> dios lo c<r><<i>>o fue
+por dar dios <con>plimie<n>to & onra alas
+aguas en q<ue> se c<r><<i>>an E por q<ue>los om<ne>s
+se mante<n>ga<n> & se sirua<n> dellas {RUB. Cap<itu>lo
+xxxx<<o>>iij<<o>> com<m>o el cauall<er>o anciano res-
+po<n>de al cauall<er>o nouel q<ue> cosa so<n> yer-bas +}
+{IN3.} A lo q<ue> [^me] p<re>gu<n>tast<e>s q<ue> cosa son la<<s>> {RUB.}
+yerbas & p<ar>a q<ue> fuero<n> fechas fijo
+esta p<re>gunta mas cu<n>ple p<ar>a cir-
+uigiano q<ue> no<n> p<ar>a cauall<er>o Ca muchas
+ot<r><<a>>s vegadas vos lo he dicho q<ue> ta<n>to
+a de faz<er> el cauall<er>o p<ar>a conosc'er su esta-
+do & obrar enel com<m>o deue q<ue> asaz le
+faze dios m<er>c'ed <con>plida si en esto ac'ier-
+ta com<m>o deue E si se q<u><<i>>ere ent<r><<e>>meter
+en ot<r><<a>>s muchas sc'ienc'ias s<er>a marauil-
+la si las pudiere sab<er> E por aue<n>t<ur>a q<ue>
+dexara algo delo q<ue>l cu<n>pla faz<er> q<ue> p<er>tene-
+c'ia ala cauall<er>ia E cuydando q<ue> sabe mu-
+cho sab<r><<a>> poco E c'ierto cret q<ue> todos los
+q<ue> v<er>dad<er>a mente so<n> sabidores entie<n>de<n>
+sin dubda q<ue> sab<r><<a>> poco E todos los q<ue> cu-
+yda<n> q<ue> sabe<n> mucho seed c'ierto q<ue> sabe<n> poco
+E por ende si yo pudiesse q<ue>ria ante
+pon<er> el mi sab<er> e<n>lo q<ue> cu<n>ple al mi estado q<ue>
+no<n> en al E por q<ue> segu<n>d ya vos dixe no<n>
+cu<n>ple al mi estado sab<er> mucho delas yer-
+uas no<n> vos marabilled<e>s si co<n>plida
+me<n>te no<n> uos pudiere respo<n>d<er> aella<<s>>
+P<er>o lo q<ue> ende sopiere dez<ir> vos lo he}
+[fol. 19v]
+{CB2.
+Sabet q<ue> te<n>go q<ue>las yerbas son cosas
+q<ue> nac'e<n> en t<ie>ra E son entre los arbo-
+les & las simie<n>tes q<ue>los om<ne>s sienbra<n>
+E te<n>go q<ue> an cada vna dellas p<ro>p<r><<i>>e-
+dad<e>s muy sen<n>aladas & muy ap<ro>-
+uechosas E el om<n>e q<ue> todas las
+pudiesse conosc'er v<er>dadera me<n>te q<ue>
+pod<r>a obrar enlas cosas muy ap<ro>ue-
+chosas & muy sen<n>aladas & marabi-
+llosas E la Razo<n> p<ar>a q<ue> fuero<n> fech-
+as te<n>go q<ue> es p<ar>a q<ue> el mu<n>do sea ma<<s>>
+co<n>plido por ellas & por q<ue>los om<ne>s se
+ap<ro>uechen & se sirua<n> dellas en aq<ue>l-
+las cosas q<ue>le mas cu<n>pliere<n>. {RUB. Cap<itu>lo
+xxxx<<o>>iiij<<o>> com<m>o el cauall<er>o anc'ia-
+no responde al cauall<er>o nouel q<ue> +}
+{IN3.} A lo q<ue> me p<re>gu<n>-tastes {RUB. cosa son los ar-boles +}
+q<ue> cosa son los ar-boles {RUB.}
+& para q<ue> fuero<n> fechos
+A esto vos digo q<ue> esta p<re>gunta no<n> es
+rahez de responder conplida me<n>-
+te a ella por q<ue>los arboles son de
+muchas man<er>as & las cosas muy
+estran<n>as no<n> las puede om<n>e sab<er>
+si otro no<n> gelas muestra o no<n> a-
+caec'e al om<n>e algu<n>d mester por
+q<ue>las aya de sab<er> bie<n> cred q<ue> el me-
+ster es la cosa del mu<n>do q<ue> mas ma-
+estro faze al om<n>e Ca al o<mn>e p<er>ezoso
+el mest<er> le fara acuc'ioso E avn el
+q<ue> no<n> sopiere mucho de g<u><<e>>rra el mes-
+ter le fara ende sabidor E avn el
+mest<er> le fara q<ue> fara q<ue> faga vna
+cordura q<ue> estran<n>a<n> mucho los om<ne>s
+aue g<u><<a>>rdas q<ue> muchos o<mne>s dize<n> a ot<r><<o>>s
+q<ue> no<n> faga<n> tal cosa Ca los om<ne>s q<ue>ria<n>
+q<ue> de dello & no<n> lo Razona<n> a q<ue> es E
+sin dubda si la cosa es tal ensi q<ue> sea
+mala avn q<ue> no<n> diga<n> mal della no<n>
+la deue om<n>e faz<er> Mayor me<n>te si sa-be}
+{CB2.
+q<ue> dira<n> las ge<n>tes ende much<o> mal
+Mas delas q<ue> so<n> ap<ro>uechosas al om<n>e si
+malas no<n> so<n> no<n> deue om<n>e dexar dela<<s>>
+faz<er> por re(^z)[^c']elo q<ue> las g<e>n<te>s dira<n> mal
+dello c'ierto es q<ue> no<n> puede el om<n>e faz<er>
+cosa del mu<n>do q<ue> atodos plega E si fa-
+ze bie<n> pesa alos malos & Razona<n>
+le mal E plaze alos buenos & Ra-
+zona<n> le bie<n> E si faze mal pesa a
+los bu<en>os & Razona<n> le mal E pla-
+ze alos malos. & Razona<n> le bie<n> E
+asi pues om<n>e no<n> puede fazer to-
+das las cosas en g<u><<i>>sa q<ue> plega atodo<<s>>
+deue catar lo q<ue> cu<n>ple ael sol q<ue> no<n> sea
+mal E no<n> dexe delo faz<er> por el dich<o>
+delas g<e>n<te>s E esto faze al om<n>e faz<er>
+el mest<er> mas q<ue> cosa del mu<n>do E
+este mest<er> me faze ami q<ue> conosca al-
+go delos arboles Ca anda<n>do a cac'a por
+las mo<n>tan<n>as & ot<r><<o>>si enlas g<u><<e>>rras o-
+ue a[ ]conosc<er> algo dellos E lo q<ue> yo
+ende se es esto Sabet q<ue> todos los ar-
+bol<e>s del mu<n>do Nat<ur>al me<n>te nac'e<n> en
+las xieras. & enlos mo<n>tes ta<n> bie<n> lo<<s>>
+q<ue> lieua<n> fructo com<m>o los ot<r><<o>>s Mas
+q<u><<a>>ndo los q<ue> lieua<n> fructo pone<n> e<n>los
+poblados & los Riega<n> & los labra<n>
+faze<n> se los frutos mejores E delo<<s>>
+arbol<e>s Ay vnos q<ue> el su fructo se co-
+me todo Asi com<m>o las figueras &
+los peral<e>s E los mac'anos & los
+me<n>briellos & los moral<e>s & los sidra-
+l<e>s Ay ot<r><<o>>s q<ue> se come lo de dent<r><<o>>. & no<n>
+lo de fuera asi com<m>o los alfostigo<<s>>
+& los alme<n>dros & los nogal<e>s & lo<<s>>
+avellanos & los castan<n>os & los robre<<s>>
+& las enzinas & los alcornoq<ue>s & lo<<s>>
+coscojos E en estos coscojos Ay
+en algu<n>as t<ie>ras en q<ue> nac'e grana
+q<ue> es cosa muy ap<ro>uechosa Otrosi la}
+[fol. 20r]
+{CB2.
+fructa delos nara<n>jos & delos limon<e>s
+es muy bu<en>a P<er>o vsa<n> mas delo com<er>
+por el c'umo q<ue> no<n> por fructa Ay ot<r><<o>>s
+arboles q<ue>la su fruta se come lo de
+fu<er>a & no<n> lo de dent<r><<o>> asi com<m>o los du-
+raznal<e>s & los p<r><<i>>scos & aluarcoq<ue>s &
+las palmas E com<m>o q<u><<i>>er q<ue>los c'ip<r><<e>>-
+ses no<n> lieua<n> fructo q<ue> sea de com<er> so<n>
+muy bu<en>os arbol<e>s & muy apuesto<<s>>
+& los arayhanes & los lidoneros & lo<<s>>
+ac'ofeyfos & los niesperos & los espi-
+nos Ay ot<r><<o>>s arboles q<ue> nac'e<n> en los mo<n>-
+tes & no<n> se c<r><<i>>an en casa Asi com<m>o pi-
+n<n>on<e>s & mad<r><<o>>n<n>os & texos & sauinas
+& eneb<r><<o>>s & esteras & verec'os & aze-
+vos Ay ot<r><<o>>s arbol<e>s q<ue> se c<r><<i>>an c'erca del
+agua & no<n> lieua<n> fructo asi com<m>o lo<<s>>
+olmos & alamos & salzes & freyno<<s>>
+& alisas & bimb<r><<e>>s Ay ot<r><<o>>s arbol<e>s q<ue>
+so<n> peq<ue>n<n>os q<ue> so<n> espinosos & com<m>o q<u><<i>>er
+q<ue> no<n> lieua<n> fructo de com<er> lieua<n> flo-
+res muy fermosas & ap<ro>uechosas
+asi com<m>o los rosales v<er>mejos & bla<n>-
+cos & las ot<r><<a>>s violetas & los azemi-
+nes & sarc'as. & los canbrones & los
+rom<er>os & los tomiellos. E la Razo<n>
+q<ue> yo te<n>go q<ue> n<uest>ro sen<n>or dios tovo por
+bie<n> q<ue> fuesse<n> todos estos arboles p<ar>a
+co<n>plir & apos(^c)[^t]ar la t<ie>ra enq<ue> se c<r><<i>>an &
+por se ap<ro>ueche<n> dellos los om<ne>s p<ar>a las
+cosas q<ue> los obiere<n> mest<er> ta<n> bie<n> delo<<s>>
+arboles com<m>o delos fructos {RUB. Cap<itu>lo
+xxxx<<o>>v<<o>> com<m>o el cauall<er>o anciano res-
+po<n>de al cauall<er>o nouel q<ue> cosa son +}
+{IN3.} A lo q<ue> me p<re>gu<n>tast<e>s {RUB. las pied<r><<a>>s}
+q<ue> cosa son las pied<r><<a>>s & p<ar>a q<ue> fue-
+ro<n> fechas fijo esta p<re>gunta es
+asaz graue por q<ue>las piedras so<n> de mu-
+chas man<er>as & ay grant apartamie<n>-
+to ent<r><<e>> las vnas & las ot<r><<a>>s Ay ot<r><<a>>s q<ue>}
+{CB2.
+se semeja<n> mucho Ca las vnas son
+pied<r><<a>>s prec'iosas. & las ot<r><<a>>s so<n> ot<r><<a>>s pi-
+ed<r><<a>>s p<ar>a faz<er> ot<r><<a>>s cosas much<o> ap<ro>ue-
+chosas & las pied<r><<a>>s p<re>c'iosas so<n> ap<ro>ue-
+chosas por q<ue> las s<us> obras ap<ro>uecha<n>
+alos om<ne>s E q<ue> u<<i>><r>tud q<ue> ha en ellas
+& las piedras ap<ro>uecha<n> a om<n>e por q<ue>
+las cosas ap<ro>uechosas q<ue>los om<ne>s
+faze<n> conellas E estas dos man<er>as
+delas obras q<ue> se faze<n> por las pied<r><<a>>s
+semeja<n> a dos man<er>as com<m>o los o<mne>s
+husa<n> beuir en<e>l mu<n>do Ca los vnos se
+trabaja<n> a[ ]beuir asma<n>do enlos fecho<<s>>
+& enlas cosas del mu<n>do segu<n>d Razo<n>
+& segu<n>d nat<ur>aleza delas cosas Ot<r><<o>>s se
+trabaja<n> de beuir q<ue>rie<n>do sab<er> las cosas
+ante q<ue> acaesca<n> E digo vos fijo q<ue>
+segu<n>d el mi ente<n>dimie<n>to la vna ma-
+n<er>a destas te<n>go q<ue> es muy bue<n>a E
+la ot<r><<a>> por muy mala Ca los [^q<ue>] obra<n>. &
+biue<n> segu<n>d Razo<n> & nat<ur>aleza faze<n>
+s<er>uic'io adios & p<ro> asi mismos & ap<ro>-
+uecha al mu<n>do E las g<e>n<te>s ap<ro>ue-
+cha<n> se dellos E los q<ue> q<u><<i>>ere<n> saber la<<s>>
+cosas ante q<ue> acaezca<n> & q<ue> q<u><<i>>ere vsar
+de s<us> fazie<n>das segu<n>d la sp<er>anc'a q<ue> en
+ello pone<n> faze<n> todo el <con>t<r><<a>>rio Ca yer-
+ra<n> & so<n> <con>t<r><<a>> dios & faze<n> dan<n>o asi mi-
+smos & despuebla<n> el mu<n>do. & enpe-
+c'e<n> atodas las g<e>n<te>s E por [^2#q<ue>] bead<e>s q<ue>
+es asi q<u><<i>>ero vos lo most<r><<a>>r muy de-
+clarada me<n>te fijo los q<ue> viue<n> co<n> ra-
+zo<n> & segu<n>d nat<ur>aleza sirue<n> adios
+Ca la Razo<n> & la nat<ur>aleza nu<n>ca da
+a om<n>e q<ue> faga cosa q<ue> sea de[+]s<er>uicio
+de dios ante le fara q<ue>l sirua. Cala
+razo<n> le da ente<n>d<er> q<ue> por q<u><<a>>ntas m<er>c'ed<e>s
+le dios fizo & por el poder q<ue> ha de aca-
+lon<n>ar el mal q<ue> fiziere deue g<u><<a>>rdar
+su s<er>uic'io. & no<n> faz<er> el <con>t<r><<a>>rio E ot<r><<o>>si}
+[fol. 20v]
+{CB2.
+la nat<ur>aleza com<m>o q<u><<i>>er q<ue> sea apare-
+jada p<ar>a pecar por q<ue> la nat<ur>aleza es
+c<r><<i>>atura de dios & deq<ue> es c<r><<i>>ada sie<n>p<r><<e>>
+de al om<n>e q<ue>l g<u><<a>>rde & q<ue>l sirua E ot<r><<o>>
+si los q<ue> vsan co<n> Razo<n> & segu<n>d na-
+t<ur>aleza ap<ro>uecha<n> asi mismos Ca ta<n>
+bie<n> en<e>l com<er> & en<e>l veuer com<m>o en
+todas las cosas q<ue> son p<ar>a eforc'ar
+o enflaq<ue>c'er el cuerpo vsan del[^l]as
+com<m>o deue<n> por ende segu<n>d Razo<n>
+deue<n> beuir & mas sanos Ot<r><<o>>si ap<ro>ue-
+cha<n> as<us> fazie<n>das E por q<ue> q<u><<a>>ndo es
+mest<er> de dar O de espend<er> faze<n> lo E
+q<u><<a>>ndo es mest<er> g<u><<a>>rdar & catar com<m>o
+gane<n> faze<n>lo E q<u><<a>>ndo an[ ]de au<er> con-
+tie<n>da co<n> alguno no<n> lo pudie<n>do escu-
+sar faze<n> lo E q<u><<a>>ndo les cu<n>ple de au<er>
+paz sabe<n> catar man<er>a com<m>o la aya<n>
+g<u><<a>>rdando su onra E ot<r><<o>>si ap<ro>uecha<n>
+al mu<n>do labra<n>do & c<r><<i>>ando Ca ellos
+c<r><<i>>an los moc'os fijos & fijas delos o<mne>s
+de q<ue> biene aellos p<ro> & onra & es po-
+blamie<n>to del mu<n>do Ot<r><<o>>si c<r><<i>>an caual-
+los & aues & ganados & canes q<ue> cu<n>-
+ple much<o> p<ar>a la bida delos om<ne>s Ot<r><<o>>
+si faze<n> muchas labores asi com<m>o e-
+gl<es>ias. monest<er>ios castiellos. villas.
+& fortalezas & casas fuertes & lla-
+nas & vin<n>as & huertas & molino<<s>>
+& ot<r><<a>>s labores muchas q<ue> son gra<n>t
+s<er>uic'io de dios & gra<n>t p<ro>uecho dello<<s>>
+mismos E poblamie<n>to del mu<n>do
+Mas todas estas c<r><<i>>anc'as & labores
+q<u><<a>>nto A [^<<a>>]p<ro>uechamie<n>to del alma pu-
+ede<n> ser ap<ro>uechamie<n>to & puede ser
+dan<n>osas & todo es segu<n>d la ente<n>c'io<n>
+aq<ue> el om<n>e lo faze Ca ta<n> bie<n> del criar
+delos fijos delos om<ne>s bue<n>os com<m>o
+delas labores dichas si las om<n>e fa-
+ze A ente<n>c'io<n> q<ue> dios sea ende s<er>uido}
+{CB2.
+& no<n> benga ani<n>gu<n>o mal dellas E
+esta es buena ente<n>c'io<n>. & bue<n>a gl<or>ia Ma<<s>>
+si om<n>e faze A ente<n>c'io<n> de faz<er> tuerto O
+por q<ue> venga at<r><<o>> mal sin Razo<n> delo
+q<ue> el faze o por q<ue> sea mas loado delo q<ue>
+deue delas g<e>n<te>s Esta es mala ente<n>c'io<n>
+& es vanagl<or>ia E esto no<n> deue om<n>e
+faz<er> en ni<n>guna man<er>a Mas deue lo
+faz<er> enla man<er>a q<ue> desuso es dicha
+q<ue> es bue<n>a ente<n>c'io<n> & bue<n>a gl<or>ia E
+fijo por estas man<er>as q<ue> vos he dicho
+me semeja q<ue> es muy bue<n>o los q<ue> v-
+san beuir co<n> Razo<n> & segu<n>d nat<ur>ale-
+za Mas los q<ue> vsan beuir q<ue>rie<n>do sa-
+ber las cosas q<ue> son de benir E
+pone<n> enello su sp<er>anc'a & se g<u><<i>>an por
+ello asi com<m>o los agoreros & los
+solt<<r>>eros o adeuinos o q<ue> vsan no<n>
+por la arte dela estrelleria Mas
+por los juyzios q<ue> no<n> se puede<n> sa-
+ber v<er>dad<er>a me<n>te olos o los alq<u><<i>>-
+mistas O los moned<er>os falsos & to-
+dos los falsarios o engan<n>adores
+todos estos q<ue> por est(^e)[^o] vsan & todo<<s>>
+los q<ue> pone<n> en ello su sp<er>anc'a faze<n>
+el <con>trario delo q<ue> desuso es dicho E
+no<n> semeja<n> alas piedras p<re>c'iosas
+ni<n> alas ot<r><<a>>s Ca las piedras p<re>c'iosas
+obra<n> por v<<i>><r>tudes c'iertas q<ue> ha enel-
+las E co<n>las ot<r><<a>>s piedras obra<n> los
+los om<ne>s cosas ap<ro>uechosas segu<n>d
+es dicho Mas estos tales q<ue> no<n> o-
+bra<n> cosas de u<<i>><r>tudes c'iertas ni<n> co-
+sas ap<ro>uechosas ante las sus ob<r><<a>>s
+so<n> desseruic'io de dios & dan<n>o de
+s<us> almas & de s<us> cuerpos & desfazi-
+mie<n>to & me<n>guamie<n>to del mu<n>do. E
+dan<n>o & estragamie<n>to delas g<e>n<te>s Ca
+fijo bie<n> ente<n>dedes vos q<ue> el que q<u><<i>>ere
+sab<er> lo q<ue> es de benir por aguero opor}
+{CW. algunas}
+[fol. 21r]
+{CB2.
+algunas delas man<er>as dichas faze<n>
+muy gra<n>t tuerto adios Ca el poder q<ue>
+el tobo siemp<r><<e>> ensi & nu<n>ca lo q<u><<i>>so dar
+ani<n>guna c<r><<i>>at<ur>a ni<n> avn a <santa> m<aria> su ma-
+dre ni<n> ani<n>guno delos <santos> Grand tuer-
+to le faze el q<ue> lo q<u><<i>>ere pon<er> en ni<n>guna
+c<r><<i>>at<ur>a E mayor me<n>te q<ue>las mas dela<<s>>
+vezes nu<n>ca destas cosas puede<n> ellos
+catar si no<n> co<n> alguna man<er>a o co<n> al-
+gunas palabras q<ue> son com<m>o man<er>a
+de sac<r><<i>>fic'io q<ue> faze<n> al diablo & com<m>o q<u><<i>>er
+q<ue> algunos agoreros diga<n> q<ue> q<u><<a>>ndo q<u><<i>>e-
+re<n> catar agueros faze<n> dez<ir> missas o
+or<ac'i>ones esta man<er>a no<n> es bue<n>a Ca la
+or<ac'i>on no<n> la deue niguno faz<er> por q<ue> ve<n>-
+ga mal della E asi faze mala or<ac'i>on
+el q<ue>la faze p<ar>a catar agueros Cala
+ente<n>c'io<n> es mala & co<n>tra dios Ot<r><<o>>si es
+mala man<er>a de beuir & dan<n>osa p<ar>a
+el mismo & p<ar>a su alma Ca en q<u><<a>>nto
+faze pesar adios faze dan<n>o asu al-
+ma E q<u><<a>>nto pone sp<er>anc'a enlo q<ue> es
+por benir dexa de obrar enlas cosas
+asi com<m>o le cu<n>ple & faze dan<n>o desu
+cuerpo. & de su fazie<n>da Ot<r><<o>>si faze des-
+poblamie<n>to del mu<n>do. Ca esp<er>ando en
+lo q<ue>l a de venir no<n> q<u><<i>>ere vsar delas
+cosas del mu<n>do com<m>o deue Ot<r><<o>>si fa-
+ze dan<n>o atodas las gentes Ca por
+estas malas cosas dichas toma<n> to-
+das las ge<n>tes g<r><<a>>ndes dan<n>os. & g<r><<a>>ndes
+engan<n>os en sus fazie<n>das. E asi lo<<s>>
+q<ue> en esta man<er>a obra<n> no<n> semeja<n> a
+las vnas piedras ni<n> alas ot<r><<a>>s E
+siemp<r><<e>> oymos dez<ir> & biemos q<ue> esto<<s>>
+atales nu<n>ca oviero<n> bue<n> acabamie<n>-
+to ni<n> bue<n>a fin E avn yo te<n>go q<ue> vo<<s>>
+no<n> pod<r><<i>>a respo<n>der <con>plida me<n>te q<ue> cosa
+son las piedras & p<ar>a q<ue> fuero<n> fecha<<s>>
+P<er>o lo q<ue> yo ende cuydo dez<ir> vos lo he}
+{CB2.
+Tengo q<ue>las piedras so<n> de tres ma-
+n<er>as las vnas p<re>c'iosas las ot<r><<a>>s de q<ue>
+faze<n> los om<ne>s labores. & hedific'ios
+las ot<r><<a>>s q<ue> no<n> del todo p<re>c'iosas ni<n> del
+todo p<ar>a faz<er> hedific'ios las p<re>c'iosas so<n>
+asi com<m>o carbu<n>culos. & Rubis. & di-
+ama<n>tes. & esmeraldas & balaxes &
+prasmas & c'aphires & c'arden<n>as &
+girgonzas & estopazas & aliofares
+& torq<ue>sas & calc'adonias & c<r><<i>>stales &
+ot<r><<a>>s pied<r><<a>>s q<ue> falla<n> enlas a<n>i<m>alias Asi
+com<m>o eletorias q<ue> falla<n> en las moli-
+ellas & e<n>los pies dellos gallos & del-
+los capones muy biejos Com<m>o dela<<s>>
+piedras sapias q<ue> falla<n> enlas cabec'as
+delos sapos las q<ue> son p<ar>a fazer hedifi-
+c'ios son asi com<m>o las piedras ped<er>na-
+les. o las g<u><<i>>jas o las piedras p<ar>a faz<er>
+cal o yesso o s<us> semeja<n>tes las q<ue> son
+entre las piedras p<re>c'iosas & las ot<r><<a>>s
+p<ar>a faz<er> hedific'ios son com<m>o las jas-
+pes & los marmoles & sus semeja<n>-
+tes Ca son p<re>c'iosas E ot<r><<o>> si puede<n>
+faz<er> & faze<n> dellas algunos hedific'io<<s>>
+{RUB. Cap<itu>lo xlvj<<o>> com<m>o el cauall<er>o anc'iano
+Responde al cauall<er>o nouel q<ue> cosa so<n> +}
+{IN3.} A lo q<ue> me p<re>gun-tastes {RUB. los metales}
+q<ue> cosa son los metales
+& p<ar>a q<ue> fuero<n> fechos fijo com<m>o
+q<u><<i>>er q<ue>los cauallos no<n> se puede<n> ma<n>-
+ten<er> sin metales [^<<&>>] an por fuerc'a de vsar
+co<n> todos o co<n> los mas dellos P<er>o en
+con<n>osc'er q<ue> cosa so<n> los metales no<n>
+p<er>tenesc'e A estado de cauall<er>ia Ca los
+cauall<er>os por mucho q<ue> biua<n> asaz
+an de faz<er> en toda su vida en s<er>uir
+s<us> sen<n>ores & ayudar sus amigos &
+defend<er> asi mismos & alo suyo E
+en faz<er> mal & dan<n>o & vengar se de
+aq<ue>llos de q<ue> obiere Rec'ebido tuerto}
+[fol. 21v]
+{CB2.
+E bie<n> cred fijo q<ue> ta<n> bie<n> los grande<<s>>
+sen<n>ores com<m>o los otros q<u><<a>>les q<u><<i>>er q<ue>
+biua<n> en estado de cauall<er>o q<ue> bie<n> asy
+com<m>o en ni<n>gu<n>a man<er>a no<n> deue<n> fa-
+zer tuerto ni<n> sob<er>uia ani<n>gu<n>o bie<n>
+asi q<u><<a>>ndo les algu<n>o fiziere tuerto
+no<n> g<e>lo deue<n> sofrir ante se deue<n> en-
+de vengar lo mas ayna q<ue> pudiere<n>
+Ca si no<n> lo fiziesse<n> venir les ya ende
+dos dan<n>os muy grandes El vno
+sofrir el mal q<ue> obiesse Rec'ebido. &
+el ot<r><<o>> dar exe<n>plo a otros muchos
+q<ue>l fiziesse<n> esso mismo Ca bie<n> cred
+q<ue> de tal man<er>a son los om<ne>s todo<<s>>
+q<ue> mas deue<n> de faz<er> enojo & mal al
+q<ue> sabe<n> q<ue> si gelo fiziere<n> q<ue> se venga-
+ra en q<ue> no<n> al q<ue> saben q<ue> tan mesu-
+rado & ta<n> sofrido es q<ue> dara passa-
+da a q<u><<a>>les q<u><<i>>er q<ue> gelo faga<n> Ca si q<u><<i>>-
+era dize<n> los cauall<er>os vn p<ro>u<er>bio q<ue>
+el q<ue> q<u><<i>>ere beuir en paz q<ue> se apare-
+je p<ar>a la g<ue>rra E el q<ue> q<u><<i>>ere q<ue>los o-
+t<r><<o>>s se atreua<n> alo faz<er> g<ue>rra q<ue> guia<n>-
+se sus fechos com<m>o descuydado q<ue> cu-
+yda sie<n>p<r><<e>> beuir en paz E fijo
+bie<n> cred q<ue> en todos los estados
+delos om<ne>s no<n> ay ni<n>gu<n>o segu<n>d
+Razo<n> en q<ue>los com<m>o sea<n> mas apa-
+rejados p<ar>a no<n> beuir mucho com<m>o
+en estado de cauall<er>ia E esto por
+Razo<n> delos gra<n>des trabajos & de
+los g<r><<a>>ndes pelig<r><<o>>s q<ue> ha en<e>l Mas q<ue>
+en ni<n>gu<n>o ot<r><<o>> estado si dios por la
+su m<er>c'ed no<n> le q<u><<i>>ere alongar la vi-
+da E sabet q<ue> dios alue<n>gue la vi-
+da en este mu<n>do alos om<ne>s por tre<<s>>
+Razones Ay o por alguna dellas
+La vna es si el om<n>e faze tales ob<r><<a>>s
+q<ue> sea<n> en todo loado dios & su s<er>uic'io
+atal com<m>o este alue<n>gal dios la}
+{CB2.
+uida por este por q<ue> q<u><<a>>nto mas bi-
+ue mas loa & firme adios la
+es si faze cosas muy ap<ro>uechosas
+poblamie<n>to & ma<n>te[ni]mie<n>to del mu<n>do
+Ca c'ierto [^2#es] q<ue> dios q<u><<i>>ere el poblamie<n>to
+& el ma<n>tenimie<n>to del mu<n>do E el
+q<ue>lo faze com<m>o deue sirue en<e>llo a
+dios & cu<n>ple su uolu<n>tad E por en-
+de alue<n>gal dios la vida por q<ue>lo pu-
+ede faz<er> la ot<r><<a>> es si el om<n>e es de ta<n> bue<n>
+corregimie<n>to en si mismo q<ue> si faze
+su vida ordenada me<n>te & co<n> Razo<n>
+& g<u><<a>>rda bie<n> su <con>plision & su salud por
+q<ue> faze su vida ordenada me<n>te & co<n>
+Razo<n> & nat<ur>al me<n>te alue<n>gal dios
+la vida por dar <con>plimie<n>to ala na-
+t<ur>aleza del om<n>e no<n> la q<u><<i>>ere defaz<er>
+sin Razo<n> E si por ave<n>t<ur>a el om<n>e q<ue>
+ha ensi estas tres cosas dios le lie-
+ua ayna del mu<n>do. deuemos crer q<ue>
+lo lieua por q<ue> no<n> le q<u><<i>>ere dexar en es-
+te mu<n>do q<ue> es lleno de engan<n>os & de
+pecados por q<ue> pod<r><<i>>a p<er>der el alma si el
+mas fincasse por le dar galardo<n> ay-
+na por los bien<e>s & por m<er>ec'imie<n>to<<s>>
+q<ue> eneste mu<n>do oviere fechos E el
+q<ue> por tal man<er>a lieua dios deste mu<n>-
+do es de bue<n>a bent<ur>a Mas las ot<r><<a>>s
+muertes so<n> de ot<r><<a>>s man<er>as E se-
+gu<n>d el mi ente<n>dimie<n>to todas las
+muertes q<ue>los om<ne>s muere<n> son en
+tres man<er>as la vna es muerte na-
+t<ur>al q<u><<a>>ndo el om<n>e biue ta<n>to fasta q<ue>
+se acaba toda la humidat & la ca-
+lent<ur>a nat<ur>al Entonc'e por q<ue> el sp<irit>u
+uidal no<n> ha en q<ue> se manten<er>. ha por
+fuerc'a a[ ]fallec'er la es muerte de ga-
+lardon. q<u><<a>>ndo el om<n>e toma marti-
+rio por la fe la q<u><<a>>l dios q<u><<i>>era q<ue> aya<n>
+aq<ue>llos q<ue>la desea<n> o q<u><<a>>ndo dios le q<u><<i>>e-re}
+[fol. 22r]
+{CB2.
+dar galardo<n> delos s<er>uicios q<ue>l ha
+fecho la ot<r><<a>> es muerte de justic'ia q<u><<a>>n-
+do el om<n>e por su mala vent<ur>a faze ta-
+les obras por q<ue> m<er>ec'e iustic'ia en<e>l cue-
+rpo & en<e>l alma por q<ue>. & por auent<ur>a la<<s>>
+sus maldades no<n> son sabidas o por
+q<ue> es tal om<n>e q<ue>los q<ue> an a[ ]faz<er> la ius-
+tic'ia enla t<ie>ra no<n> puede<n> o no<n> la q<u><<i>>ere<n>
+conplir Ento<n>c'e en<e>l cu<n>ple la dios q<ue>
+ha pod<er> dela faz<er>. & aq<u><<i>> no<n> se esconde
+ni<n>guna cosa E si por avent<ur>a la su
+iustic'ia se alue<n>ga algu<n> t<ien>po <con>tra lo<<s>>
+tales om<ne>s por pecado del pueblo q<ue>
+el mal q<ue> ellos faze<n> q<ue>lo faze<n> atales
+q<ue> m<er>ec'e<n> q<ue> <con>sie<n>ta dios q<ue>les venga
+mal de aq<ue>llos malos & por q<ue> dios
+q<u><<i>>ere <con>sentir q<ue> faga<n> ta<n>to mal por q<ue>
+aya el de most<r><<a>>r enellos su justicia co<n>-
+plida o por alguna cosa asco<n>dida q<ue>
+sabe dios & no<n> la entie<n>de<n> las g<e>n<te>s Ca
+c'ierto es q<ue>los q<ue> so<n> malos & faze<n> ma-
+las ob<r><<a>>s & no<n> se arepie<n>te<n> ni<n> se q<u><<i>>ere<n>
+partir dellas q<ue> si algu<n>a bue<n>a andan-
+c'a an q<ue> no<n> les puede durar mucho
+ni<n> aver bue<n>a fin E asi todo om<n>e se
+debria g<u><<a>>rdar de faz<er> malas ob<r><<a>>s por
+q<ue> dios no<n> gelo acalon<n>ase en este mu<n>-
+do ni<n> en<e>l ot<r><<o>> E mayor me<n>te los ca-
+uall<er>os q<ue> an tanto mest<er> la gr<ac'i>a de di-
+os p<ar>a les g<u><<a>>rdar las almas & p<ar>a los
+ma<n>ten<er> eneste mu<n>do en onra & sin
+v<er>gue<n>c'a. & p<ar>a les g<u><<a>>rdar delos pelig<r><<o>>s
+enq<ue> todo el dia anda<n> Mas q<ue> ni<n>gu<n>os
+o<mne>s de ot<r><<o>>s estados de q<ue> sabe dios q<ue> passe
+yo muchos en q<u><<a>>nto al mu<n>do dure &
+visq<ue> en estado de cauall<er>ia Por ende no<n>
+oue t<ien>po ni<n> log<a>r de ap<re>nd<er> much<o> de ot<r><<a>>s
+sabidurias ni<n> de ot<r><<a>>s sc'ie<n>c'ias E por
+esta Razo<n> si no<n> uos pudiere respo<n>der
+<con>plida me<n>te q<ue> cosa so<n> los metal<e>s no<n>}
+{CB2.
+lo deued<e>s ten<er> por marabilla Mas lo
+q<ue> yo ende ente<n>diere dez<ir> uos lo he Digo
+vos q<ue> yo te<n>go q<ue>los metal<e>s so<n> cosas q<ue>
+se enge<n>dra<n> enla t<ie>ra segu<n> q<ue>la <con>plisio<n>
+q<ue> ha la t<ie>ra d(^e)[^o] se engendra<n> E los q<ue> yo
+ende se so<n> estos Prim<er>a me<n>te el oro
+q<ue> el mas noble de todos los metales
+& la plata & el arge<n> biuo & el lato<n> & el
+cobre. & el fierro & el plomo & el estan<n>o
+E oy dez<ir> q<ue> cada vno destos metale<<s>>
+era <con>p<ar>ado A vna delas siete planeta<<s>>
+& avn q<ue> se enge<n>draua enla t<ie>ra por
+el pod<er>. & por la v<<i>><r>tud q<ue> dios puso en
+aq<ue>lla planeta E la Razo<n> p<ar>a q<ue> te<n>-
+go q<ue> dios q<u><<i>>so q<ue> fuesse<n> los metales
+fechos es p<ar>a <con>plimie<n>to del mu<n>do &
+p<ar>a q<ue>los om<ne>s se sirua<n> dellos {RUB. Cap<itu>lo
+xlvij<<o>> com<m>o el cauall<er>o anciano
+respo<n>de al cauall<er>o nouel q<ue> cosa +}
+{IN3.} A lo q<ue> me p<re>gun-tast<e>s {RUB. es la mar}
+q<ue> cosa es la mar & p<ar>a
+q<ue> fue fecha fijo com<m>o q<u><<i>>er q<ue>lo<<s>>
+cauall<er>os alas vegadas vsan de fa-
+z<er> cauall<er>ias sobre mar p<ar>a sab<er> q<ue> co-
+sa es la mar p<er>tenec'e mas ala sc'i-
+enc'ia & [^<<a>>]la arte delas nat<ur>as q<ue> ala ar-
+te dela cauall<er>ia Por ende no<n> uos
+deued<e>s marabillar si co<n>plida me<n>te
+no<n> vos pudiere respo<n>der a ello P<er>o de-
+zir vos he vna cosa q<ue> acostu<n>bra<n> to-
+dos a[ ]dez<ir> dela mar fijo todos los o<mne>s
+dize<n> q<ue> la mar sie<n>p<r><<e>> esta en vna de
+dos man<er>as o esta en calma o esta
+braua o san<n>uda E esta calma &
+esta braueza sienp<r><<e>> acaesc'e enla
+mar segu<n>d el vie<n>to q<ue> enella faze
+Ca si el vie<n>to es muy gra<n>de & muy
+fuerte. es la braueza dela mar muy
+gra<n>de & muy fuerte E q<u><<a>>nto el vie<n>-
+to es menor es la su fuerc'a mas}
+[fol. 22v]
+{CB2.
+peq<ue>n<n>a E en q<u><<a>>nto ni<n>gu<n> vie<n>to no<n> fa-
+ze no<n> es la mar san<n>uda ante esta en
+calma. & mas asegurada E fijo tie-
+ne<n> los sabidor<e>s q<ue> en esta misma g<u><<i>>-
+sa <con>tec'e alos grand<e>s sen<n>ores q<ue> asi
+com<m>o la mar es grande & cabe enel-
+la muchos nabios & muchas cosa<<s>>
+de q<ue> los om<ne>s se puede<n> ap<ro>uechar E
+ella de su nat<ur>aleza si el vie<n>to no<n> la mu-
+ebe sienp<r><<e>> esta q<ue>da & mansa com<m>o
+dando a ente<n>d<er> q<ue>l plaze q<ue>las gent<e>s
+ande<n> por ella E se ap<ro>uecha<n> & se ma<n>-
+te<n>ga<n> co<n> las cosas ap<ro>uechosas q<ue> en
+ella son Mas q<u><<a>>ndo en vie<n>to fiere
+enella faze la ensan<n>ar E mucha<<s>>
+vezes ta<n> gra<n>de es la fortaleza dela
+su san<n>a q<ue> faze p<er>der q<u><<a>>les q<u><<i>>er nabi-
+os q<ue> enella sea<n> fijo bie<n> asi es & deue<n>
+ser los g<r><<a>>ndes sen<n>ores Ca ellos desu
+nat<ur>aleza sienp<r><<e>> deue<n> ser mansos. &
+de bue<n> talante E deue<n> q<ue>rer q<ue> to-
+das las gentes de q<u><<a>>l man<er>a q<ue> sea<n>
+q<ue>pan enla su m<er>c'ed & viua<n> & se ma<n>-
+tenga<n> & se ap<ro>ueche<n> enlo q<ue> ellos
+an Mas q<u><<a>>ndo les faze<n> cosas des[+]ag<u><<i>>-
+sadas por fuerc'a se[ ]a<n> de ensan<n>ar &
+de enbrauesc'er segu<n>t las cosas de-
+sag<u><<i>>sadas q<ue>les faze<n> asi crec'e la sa-
+n<n>a & la braueza E ta<n>tas puede<n>
+ser las cosas desag<u><<i>>sadas q<ue> <con>tra el-
+los sea<n> fechas q<ue> en g<u><<i>>sa sera q<ue> to-
+da la san<n>a & la braueza q<ue> muchas
+de uezes rec'ibe<n> ende dan<n>o los culpa-
+dos & los q<ue> son sin culpa E por q<ue>
+vi yo q<ue> muchas vegadas acaec'io
+esto & passe por ello vos puedo fablar
+en esto mas v<er>dad<er>a me<n>te q<ue> en la p<re>-
+gunta q<ue> me fiziestes q<ue> cosa es la
+mar P<er>o lo q<ue> yo ende cuydo dez<ir> uos
+lo he Digo vos q<ue> yo te<n>go q<ue>la mar}
+{CB2.
+es cosa q<ue> c<r><<i>>o dios & q<ue> es ayu<n>tamie<n>to
+de todas las aguas & todas las agu-
+as sale<n> della & torna<n> aella E com<m>o
+q<u><<i>>er q<ue> el agua dela mar es salada
+& amarga E las ot<r><<a>>s aguas q<ue> sale<n>
+della son de muchas man<er>as & an
+muchos sabores esto no<n> es por q<ue> es-
+tos sabores ayan dela mar Mas es
+por el sabor q<ue> toma<n> delos logares por
+do passan por los can<n>os dela t<ie>ra E
+la Razo<n> q<ue> yo te<n>go por q<ue> n<uest>ro sen<n>or
+dios la fizo es por mostrar enella su
+gra<n>t pod<er>. por q<ue>los om<ne>s se sirua<n> & se
+ap<ro>ueche<n> delos pescados & delas cosa<<s>>
+ap<ro>uechosas q<ue> enella son {RUB. Cap<itu>lo xlviij<<o>>
+com<m>o el cauall<er>o anc'iano respo<n>de q<ue> +}
+{IN3.} A lo q<ue> me p<re>gu<n>-tastes {RUB. cosa es la t<ie>ra}
+q<ue> cosa es la t<ie>ra & p<ar>a q<ue>
+fue fecha fijo a esta p<re>gunta o<mn>e
+del mu<n>do no<n> pod<r><<i>>a respond<er> <con>plidame<n>-
+te. q<ue> tal cosa es la t<ie>ra & ta<n>tas cosas
+a en ella q<ue> ni<n>guno no<n> las pod<r><<i>>a ni<n>
+co<n>tar todas Ca dios fizo enella tales
+cosas & ta<n> estran<n>as q<ue> avn muchas
+dellas q<ue> om<n>e uee & paresc'e<n> son muy
+graues de ente<n>d<er> Esto semeja mucho
+alos juizios de dios Ca com<m>o q<u><<i>>er q<ue>
+todos veemos las cosas com<m>o acaec'e<n>
+E sabemos c'ierta mente q<ue> todo se
+faze por la voluntad & por el consenti-
+mie<n>to de n<uest>ro sen<n>or dios co<n> todo esso
+no<n> lo podemos entend<er> Esto no<n> es por
+q<ue>los juyzios de dios no<n> sea<n> muy d<er>e-
+chos & muy co<n> Razo<n> Mas es por q<ue>lo<<s>>
+n<uest>ros ente<n>dimie<n>tos son enbueltos
+en pecados & en esta carne q<ue> es muy
+me<n>guada de sab<er> A co<n>parac'io<n> delos
+juyzios de dios E fijo avn q<ue>los ju-
+izios olas cosas q<ue> se faze<n> por volu<n>-
+tad de dios parec'e<n> muy estran<n>as sa-bet}
+[fol. 23r]
+{CB2.
+q<ue> todo se faze d<er>echa me<n>te por q<ue>
+adios no<n> se puede encub<r><<i>>r cosa ni<n>gu-
+na ni<n> al su juizio no<n> lo puede enbar-
+gar auogado ni<n>guno por muy letra-
+do q<ue> sea E por ende el nu<n>ca judga
+si no<n> segu<n>d sabe q<ue> es la v<er>dad E fijo
+com<m>o q<u><<i>>er q<ue> ent<r><<e>> dios & los om<ne>s ay
+muy peq<ue>n<n>a <con>paracio<n> P<er>o por q<ue> dios
+puso en<e>l mu<n>do los Reyes. & los sen<n>o-
+res p<ar>a manten<er> las g<e>n<te>s en justic'ia
+& en d<er>echo & en pa(^r)[^z] los acome<n>do la
+t<ie>ra p<ar>a faz<er> esto Por ende los Reyes
+& los sen<n>ores q<ue> no<n> an ot<r><<o>> juez sobre
+si si no<n> dios deue<n> catar q<ue>los pl<e>itos
+q<ue> ante ellos viniere<n> q<ue>los judgue<n>
+segud lo q<ue> fuere v<er>dad E entrel
+juyzio delos sen<n>ores & delos ofic'ia-
+les q<ue> ellos pone<n> & an de judgar los
+pl<e>itos por fueros & por leys ay esta
+diferenc'ia los juezes q<ue> son puesto<<s>>
+por ot<r><<o>> no<n> deue<n> iudgar los pl<e>itos q<ue>
+ante ellos viene<n> segu<n>d ueen ni<n> segu<n>
+lo q<ue> ellos sabe<n> sino<n> segu<n>d lo q<ue> es ra-
+zonado ent<r><<e>> ellos. olo q<ue> fallare<n> en
+aq<ue>llas leys o en aq<ue>llos fueros por
+q<ue> an de judgar Esto es por [^2#q<ue>] son some-
+tidos aq<ue>llas leys o aq<ue>llos fueros
+por q<ue> an de judgar & de dar cuenta.
+Mas los Reys & los gra<n>des sen<n>ores
+por q<ue> no<n> son sometidos ni<n> an de dar
+cue<n>ta si no<n> adios no<n> deue<n> judgar
+si no<n> por la v<er>dad q<ue> sopiere<n> c'ierta
+me<n>te & no<n> deue<n> creer q<ue>lo q<ue> ellos cu-
+yda<n> q<ue> aq<ue>llo es la v<er>dat ni<n> se deue<n>
+arebatar fasta q<ue>lo sepa<n> c'ierta me<n>-
+te Mas de q<ue>la sopiere<n> deue<n> lo jud-
+gar segu<n>d v<er>dat & sin ni<n>gu<n>a ma-
+la ente<n>c'io<n> & deue<n> se acordar q<ue> dio<<s>>
+los puso el aq<ue>l estado & q<ue> ael an a
+dar cue<n>ta & q<ue> del an a rec'ebir galar-don}
+{CB2.
+bue<n>o o malo segu<n>d los juyzio<<s>>
+q<ue> diere<n> E deue<n> ser c'iertos q<ue> mu-
+cho bie<n> q<ue> faga<n> q<ue> nu<n>ca les s<er>a olbida-
+do E si algu<n> juyzio malo diere<n> o
+de q<u><<a>>l q<u><<i>>er fecho malo q<ue> faga<n> q<ue> no<n>
+aya<n> de au<er> pena en este mu<n>do o en<e>l
+ot<r><<o>> o en ambos Ot<r><<o>>si deue<n> catar mu-
+cho los Reys. & los grandes sen<n>ores
+q<ue> faga<n> las cosas com<m>o deue<n> Ca to-
+dos los s<us> fechos son en dos man<er>as
+o son tal<e>s q<ue> no<n> puede<n> ni<n> los deue<n>
+acome<n>dar aot<r><<i>> si no<n> faz<er> los & librar
+los ellos mismos o son tales q<ue> no<n>
+p<er>tenesc'e delos librar ellos & los
+deue<n> acome<n>dar a ot<r><<o>> E si ellos lo<<s>>
+q<u><<i>>siere<n> todos librar o todos acome<n>-
+dar faze<n> muy gra<n>t yerro Ca en
+q<u><<a>>nto libra<n> lo q<ue> deue<n> acome<n>dar a
+ot<r><<i>> pierde<n> el t<ien>po de lib<r><<a>>r lo q<ue> p<er>tene-
+c'ia a ellos E si acomie<n>da<n> a ot<r><<o>> lo
+q<ue> ellos deuia<n> lib<r><<a>>r no<n> se lib<r><<a>> ta<n> co<n>pli-
+da me<n>te com<m>o deuie. fijo com<m>o q<u><<i>>er
+q<ue> los Reys & los grandes sen<n>ores
+an muchas cosas de faz<er> p<ar>a g<u><<a>>rdar
+s<us> almas & s<us> cuerpos & s<us> estados
+& las t<ie>ras q<ue>les son acome<n>dadas
+c'ierto sed q<ue>los q<ue> estas dos cosas
+g<u><<a>>rda<n> q<ue> g<u><<a>>rdara<n> todo lo q<ue>les cu<n>ple
+p<ar>a dios & p<ar>a el mu<n>do la vna q<ue> iud-
+gue<n> las cosas q<ue> ante ellos vinie-
+re<n> co<n> v<er>dat. & co<n> d<er>echo com<m>o de suso
+es dicho. la ot<r><<a>> es q<ue>las cosas q<ue> el a
+de lib<r><<a>>r q<ue>las no<n> acomie<n>de aot<r><<i>> E
+las q<ue> otri ouiere de lib<r><<a>>r q<ue> se no<n> en-
+bargue dellas E fazie<n>dolo asi se-
+ra la t<ie>ra ma[n]tenida por los sen<n>ore<<s>>
+com<m>o deue E esto se yo c'ierta me<n>-
+te q<ue> es v<er>dat Mas en dez<ir> uos yo v<er>-
+dad<er>a me<n>te q<ue> cosa es la t<ie>ra & todo
+lo q<ue> a enella Esto no<n> pod<r><<i>>a yo faz<er>}
+[fol. 23v]
+{CB2.
+ni<n> creo q<ue> ot<r><<o>> ni<n>guno Mas lo q<ue> yo en
+entie<n>do enello dez<ir> uos lo he Digo
+vos q<ue> yo te<n>go q<ue>la [^t<ie>ra] es cosa q<ue> c<r><<i>>o n<uest>ro
+sen<n>or. & q<ue> es mad<r><<e>> de todas las co-
+sas q<ue> enella se c<r><<i>>an E todas las
+cosas q<ue> enella nac'e<n> q<ue> todas se tor-
+na<n> aella por los gra<n>des de[+]partimj-
+entos de sierras & de calles q<ue> en ella
+ha E por el sol & las planetas & el
+ayre no<n> fiere<n> en todos los lugares
+dela t<ie>ra en vna man<er>a Por ende la<<s>>
+t<ie>ras & las cosas q<ue> enellas se c<r><<i>>an no<n>
+son todas de vna man<er>a ante so<n> tan
+departidas q<ue>las cosas q<ue> enlas vnas
+t<ie>ras se faze<n> Ay muchas ot<r><<a>>s t<ie>ras en
+q<ue>las no<n> conosc'e<n> ni<n> se pod<r><<i>>an c<r><<i>>ar ni<n>
+faz<er> enellas Ot<r><<o>>si te<n>go q<ue> la Razo<n> por
+q<ue> n<uest>ro sen<n>or dios fizo la t<ie>ra es por ma<n>-
+ten<er> el mu<n>do Ca com<m>o q<u><<i>>er q<ue> mucha<<s>>
+cosas ay q<ue> cu<n>ple<n> & apuestan el mu<n>-
+do algu<n>as dellas ay q<ue> avn q<ue> ellas
+me<n>guasse<n> no<n> dexaria el mu<n>do de ser
+Mas la t<ie>ra es vna delas cosas q<ue> si
+ella no<n> fuesse no<n> pod<r><<i>>a ser el mu<n>do
+E por q<ue> se c<r><<i>>assen enella todas la<<s>>
+cosas de q<ue> el sea s<er>uido & loado E
+los om<ne>s p<ar>a cuyo s<er>uic'io fizo dios to-
+das las cosas dela t<ie>ra por q<ue> se ma<n>-
+te<n>ga<n> & se ap<ro>ueche<n> dellas. {RUB. Cap<itu>lo
+xlviiij<<o>> com<m>o el cauall<er>o anc'iano
+depues q<ue> ovo respo<n>dido atodas
+las p<re>gu<n>tas fizo vna p<re>gu<n>ta al +}
+{IN3.} Fijo com<m>o q<u><<i>>er {RUB. al cauall<er>o nouel}
+q<ue> yo tengo q<ue> ata<n>tas p<re>gu<n>ta<<s>>
+& ta<n> estran<n>as q<ue> me vos fezi-
+estes. q<ue> yo no<n> vos pod<r><<i>>a respo<n>der
+ni<n> uos respo<n>di ta<n> <con>plida me<n>te com<m>o
+era mester Pero gradesco mucho
+adios q<ue> en q<u><<a>>l q<u><<i>>er man<er>a q<ue> fue q<ue>
+vos he respo<n>dido atodo E ruego}
+{CB2.
+vos q<ue> si algu<n>a cosa ay q<ue> te<n>gades
+por ap<ro>uechosa q<ue>lo g<r><<a>>descades adios
+& q<ue> creades q<ue> todos los bien<e>s viene<n>
+del & no<n> de ot<r><<a>> cosa ni<n>guna E mu-
+chas cosas q<ue> so yo c'ierto q<ue> fallare-
+des y q<ue> no<n> son muy ap<ro>uechosas
+ni<n> de muy bue<n> recabdo q<ue> me no<n> po<n>-
+gad<e>s culpa ni<n> vos marabilled<e>s en-
+de Ot<r><<o>>si vos ruego q<ue> pues q<ue> A esta<<s>>
+p<re>gu<n>tas q<ue> me vos feziest<e>s uos he
+respo<n>dido enla man<er>a q<ue> yo pude q<ue>
+me no<n> q<ue>rad<e>s faz<er> mas p<re>gu<n>tas da-
+q<u><<i>> adela<n>te Ca bie<n> creed q<ue> ta<n>to he
+dexado de mi oracio<n> & de ot<r><<a>>s cosas
+q<ue> me avia de faz<er> p<ar>a eme<n>dar algu-
+na cosa a n<uest>ro sen<n>or dios de muchos
+yerros & pecados q<ue>l yo fiz p<ar>a cuydar
+enlas respuestas q<ue> vos avia a[ ]dar
+q<ue> si agora en ot<r><<a>>s me mestiessedes
+q<ue> me seria gra<n>t dan<n>o & no<n> lo faria
+en ni<n>guna man<er>a del mu<n>do E rue-
+go vos q<ue> pues vos yo respo<n>di atodas
+las p<re>guntas q<ue> me feziestes q<ue> me
+respo<n>dades vos ami A vna E la p<re>-
+gu<n>ta es esta E vos ta<n> ma[n]c'ebo so-
+des & segu<n>d lo q<ue> yo se dela v<uest>ra fazie<n>-
+da tantos trabajos vos acaec'iero<n> des-
+ta v<uest>ra moc'edat fasta agora q<ue> nu<n>ca
+oviestes t<ien>po p<ar>a pod<er> cuydar en ta<n>ta<<s>>
+cosas com<m>o yo veo & se q<ue> vos avedes
+fecho Por ende vos ruego q<ue> me di-
+gad<e>s en pocas palab<r><<a>>s en q<u><<a>>l man<er>a
+lo pudiestes faz<er> {RUB. Cap<itu>lo q<u><<i>>nq<u><<a>>gessi-
+mo com<m>o el ca[ua]ll<er>o nouel respo<n>dio
+ala p<re>gu<n>ta q<ue>l fizo el cauall<er>o an-c'iano +}
+{IN3.} Sen<n>or dixo el cauall<er>o {RUB.}
+ma<n>c'ebo no<n> se com<m>o pudies-
+se g<r><<a>>desc'er a dios & avos q<u><<a>>n-
+to bie<n> te<n>go q<ue> me ha venido en esta<<s>>
+cosas q<ue> me vos mostrast<e>s E q<u><<i>>era}
+[fol. 24r]
+{CB2.
+dios por la su m<er>c'ed q<ue> de alguna
+dellas me pueda yo ap<ro>uechar
+en g<u><<i>>sa q<ue> sea su s<er>uic'io E me ve<n>-
+ga ende p<ro> al alma. & al cuerpo E
+c'ierto seed q<ue> yo te<n>go q<ue> todas estas
+cosas q<ue> me vos avedes mostrado so<n>
+todas muy bue<n>as & muy ap<ro>uecho-
+sas E alo q<ue> me rogastes q<ue> vos no<n>
+fiziesse mas p<re>gu<n>tas Sabet q<ue> co-
+m<m>o q<u><<i>>er q<ue> muchas cosas q<ue> yo tenia
+q<ue> me cu<n>plia<n> q<ue> vos q<ue>ria p<re>guntar q<ue>
+lo dexare por vos no<n> faz<er> enojo E
+pues veo q<ue> vos tantas bue[n]as cosa<<s>>
+me auedes mostrado q<ue> si yo las pu-
+diesse ap<re>nder q<ue> me cu[n]plia<n> asaz E
+ala p<re>gunta q<ue> me feziestes vos di-
+go q<ue> com<m>o q<u><<i>>er q<ue> yo so de poco ente<n>-
+dimie<n>to q<ue> todas las cosas q<ue> oue
+de faz<er> sie<n>pre las fiz en esta man<er>a.
+Q<u><<a>>ndo <con>tienda oue co<n> algu<n>o sienp<r><<e>> es-
+p<er>e q<ue> el tuerto q<ue> se leua<n>tasse del E
+las cosas q<ue> oue de come<n>c'ar enq<ue> a-
+via algu<n>a gra<n>d aue<n>tura sie<n>p<r><<e>> pe<n>se
+si me pod<r><<i>>a parar al mayor <con>trario
+si acaeciesse E si ente<n>di q<ue> me pod<r><<i>>a
+parar aello. & si no<n> dexe delo come<n>c'ar
+E enlas ot<r><<a>>s ob<r><<a>>s com<m>o de Rentas
+o de labores. Acome<n>delas sienp<r><<e>> en
+tal recabdo q<ue> en fazie<n>do se las vna<<s>>
+se fazia<n> las ot<r><<a>>s E no<n> se en[+]barga-
+ua<n> las vnas por las ot<r><<a>>s E ante
+q<ue>lo come<n>c'asse sie<n>p<r><<e>> cate onde lo po-
+d<r><<i>>a acabar E enlas cosas q<ue> oue
+a[ ]faz<er> de algu<n>as sc'ienc'ias o de al-
+gunos libros o de algu<n>as estoria<<s>>
+Esto finca delo del t<ien>po q<ue> avia a[ ]dor-
+mir {RUB. Cap<itu>lo L<<o>> p<r><<i>>mo com<m>o el cauall<er>o
+anc'iano Rogo al cauall<er>o nouel
+q<ue> se no<n> partiesse del ante de su fi-
+namie<n>to & desq<ue> fino el cauall<er>o an-c'iano +}}
+{CB2.
+{RUB. com<m>o se fue el cauall<er>o no-
+uel p<ar>a su t<ie>ra E bisco muy bie<n>
+anda<n>te & ovo buena fin}
+{IN3.} Q<u><<a>>ndo el cauall<er>o anc'iano oyo
+estas Respuestas q<ue> el caua-
+ll<er>o ma[n]c'ebo le diera fue ende
+muy pagado E alabado mucho
+al ente<n>dimie<n>to del cauall<er>o ma[n]c'e-
+bo E avie<n>do ya acabado muchas
+Razon<e>s E muy bue<n>as ent<r><<e>>si.
+Por q<ue> dios q<u><<i>>so dar galardo<n> al al-
+ma del cauall<er>o anc'iano por los
+s<er>uic'ios q<ue> el le avia fechos & on-
+ra al cuerpo por q<u><<a>>nto bie<n> en este
+mu<n>do fiziera q<u><<i>>so q<ue> ente<n>diesse q<ue>
+el acabamie<n>to dela vida deste mu<n>-
+do sele yba ac'erca<n>do E com<m>o q<u><<i>>-
+er q<ue> fasta ento<n>c'e feziera bue<n>a vi-
+da & de muy gra<n>d penite<n>c'ia Dally
+adela<n>te la fizo mas fuerte & ma<<s>>
+asp<er>a E Rogo al cauall<er>o ma<n>c'e-
+bo q<ue> se no<n> partiesse del fasta q<ue> el
+n<uest>ro sen<n>or cu<n>pliesse la su volu<n>tad
+enel E el cauall<er>o ma[n]c'ebo otor-
+gogelo Mucho fezo buena vida
+el cauall<er>o anc'iano conosc'ie<n>do s<us>
+pecados E fazie<n>do gra<n>t emie<n>da
+A n<uest>ro sen<n>or dios E ante de su fin
+Rec'ebio todos los sacram<en>tos de
+<santa> egl<es>ia muy bie<n> & muy deuota
+me<n>te E de q<ue> todo lo ovo acabado
+dio el alma adios q<ue>la c<r><<i>>ara E el
+cauall<er>o ma<n>c'ebo estudo y ta<n>to fas-
+ta q<ue> fue enterrado muy onrada
+me<n>te & cu<n>plio por el su cuerpo to-
+das las cosas assi com<m>o se deuia<n>
+faz<er> E depues fuesse p<ar>a su t<ie>ra do
+fue muy amado & muy p<re>c'iado E
+visco muy onrada me<n>te fasta q<ue> dio<<s>>
+tobo por bie<n> del leual deste mu<n>do:}
+[fol. 24v]
+{CB2.
+{BLNK: 14 lines left blank.}
+{RUB. {LAT. Iste est liber q<u><<i>> vocat<ur> de milite
+et scutifero et co<m>posuit eu<m> d<omi>n<u>s
+Ioh<anne>s fili<us> illustrissimi d<omi>ni e-
+manuelis Infantis & c'etara}}
+{BLNK: 8 lines left blank.}
+{LAT. {AD. [^2#Gallecum q<ua>re fiet t<ib>i p<ro>xim<us> edes]}}}
+{CB2.}

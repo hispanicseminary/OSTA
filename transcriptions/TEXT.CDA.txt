@@ -1,0 +1,712 @@
+{RMK: HSMS-0432.}
+{RMK: Hernando del Castillo, varios autores.}
+{RMK: [CDA] Cancionero general de muchos y diversos autores.}
+{RMK: Valencia | Christofol Kofmann | 1511-01-15.}
+{RMK: Madrid | Biblioteca Nacional de España | R/2092.}
+{RMK: Francisco Gago Jover.}
+[fol. 72v]
+{CB1.
+{RMK: HSMS-0432-0120: Diálogo entre el Amor y un viejo.} {RMK: the first half of the page contains other works.} {RUB. {IN5.} COmie<n>c'a vna obra de Rodrigo cota a[ ]manera de dial(a)[o]go en-
+trel amor y vn viejo q<ue> escarmentado d<e>l muy retraydo se figura en vna huerta seca y
+destruyda dola casa d<e>l plazer derribada se muestra cerrada la puerta en vna pobre-
+zilla choc'a metido/ al q<u><<a>>l subitame<n>te parescio el amor co<n> sus ministros y aq<ue>l humil-
+me<n>te procedie<n>do y el viejo en aspera manera replica<n>do va<n> discurrie<n>do por su habla fasta q<ue>l viejo
+d<e>l amor fue ve<n>cido y come<n>c'o a hablar el viejo enla manera siguie<n>te.}}
+{CB3.
+% Cerrada estaua mi puerta
+aque vienes por do entraste
+di ladron por que saltaste
+las paredes de mi huerta
+La edad y la razon
+ya de ti man libertado
+dexa el pobre corac'on}
+{CB3.
+retraydo en su rincon
+contemplar qual las parado
+% Quanto mas queste vergel
+no produze locas flores
+ni los frutos y dulc'ores
+que solies hallar enel}
+{CB3.
+Sus verduras y hollajes
+y delicados frutales
+hechos son todos saluajes
+conuertidos en linajes
+de natios de eriales
+% La beldad deste jardin}
+[fol. 73r]
+{HD. Fo. lxxiij}
+{CB3.
+ya no temo q<ue>la halles
+ni las ordenadas calles
+ni los muros de jazmin
+Ni los arroyos corrientes
+de biuas aguas notables
+ni las aluercas y fuentes
+ni las aues produzientes
+de cantos tan consolables
+% Ya la casa se deshizo
+de sutil lauor estran~a
+y tornosse esta caban~a
+de can~uelas de carrizo
+Delos frutos hize truecos
+por escaparme de ti
+por aq<ue>llos troncos secos
+carcomidos todos huecos
+q<ue> parescen cerca mi
+% Sal del huerto miserable
+ve buscar dulce floresta
+q<ue> tu no puedes enesta
+hazer vida deleytable
+Ni tu ni tus seruidores
+podes bien estar comigo
+q<ue> aunq<ue>sten llenos de flores
+yo se bien quantos dolores
+ellos traen sie<m>pre consigo
+% Tu traydor eres amor
+delos tuyos enemigo
+y los q<ue> biuen contigo
+son ministros de dolor
+Sabete q<ue> se que son
+afan desden y deseo
+sospiro[s] celos passion
+osar temer aficion
+guerra san~a deuaneo
+% Tormento y desesperanc'a
+engan~os con ceguedad
+lloros y catiuidad
+congoxa rauia mudanc'a
+Tristeza dubda coraje}
+{CB3.
+lisonja troque y espina
+y otros mil deste linaje
+q<ue> con su falso visaje
+su forma nos desatina
+{RUB. % Amor.}
+% En tu habla representas
+q<ue> nos has bien conoscido
+{RUB. % El viejo.}
+% Si q<ue> no tengo en oluido
+como hieres y atorme<n>tas
+esta huerta destruyda
+manifiesta tu centella
+dexa mi cansada vida
+sana ya de tu herida
+mas q<ue> tu de su querella
+{RUB. % Amor.}
+% Pues estas tan criminal
+hablar quiero con sossiego
+por q<ue> no ence<n>damos huego
+como yesca y pedernal
+Y pues soy amor llamado
+hablare con dulcedumbre
+rescibiendo muy temprado
+tu hablar tan denodado
+en panes de dulcedumbre
+{RUB. % El viejo.}
+% Blanda cara de alacran
+fines fieros y rauiosos
+los potajes ponc'on~osos
+en sabor dulce se dan
+Como el mas blando licor
+es muy mas penetratiuo
+pie<n>sas tu con tu dulc'or
+penetrar el desamor
+en q<ue> me hallas esquiuo
+% Las culebras y serpie<n>tes
+y las cosas enconadas
+son muy blandas y pintadas
+y ala vista muy plazientes
+Mas un secreto venino
+dexa<n>do puede<n> llegar
+qual segun q<ue> yo adeuino
+dexarias enel camino}
+{CB3.
+q<ue> comigo quies lleuar
+{RUB. Amor.}
+% Ala habla q<ue> te hago
+por q<ue> cierras las orejas
+{RUB. Uiejo}
+% Porq<ue> muerden las abejas
+aun q<ue> llega<n> con halago
+{RUB. Amor.}
+% No me vajas ataja<n>do
+q<ue> yo lo q<ue> quieres quiero
+{RUB. Uiejo}
+% Ni muestres tu falaga<n>do
+q<ue> aun q<ue> agora vienes blando
+bie<n> se queres escusero
+{RUB. Amor.}
+% Escucha padre sen~or
+q<ue> por mal trocare bienes
+por vltrajes y desdenes
+quiero darte gra<n> honor
+Ati q<ue>stas mas dispuesto
+para me contradezir
+assi tengo presupuesto
+de sofrir tu duro gesto
+porq<ue> sufras mi seruir
+{RUB. El viejo.}
+% Ue day pan de c'arac'as
+vete carne de sen~uelo
+vete mal cebo de anzuelo
+tira alla q<ue> membarac'as
+Reclamo de paxarero
+falso cerro de vallena
+el ques cauto marinero
+no se vence muy ligero
+del ca<n>tar dela serena
+{RUB. Amor.}
+% Tu rigor no de querella
+que manzille tu bondad
+y pues tienes justedad
+sigue los caminos della
+Al culpado si es aussente
+lo llaman para juzgar
+pues por q<u><<a>>l inconuinie<n>te
+al presente ygnocente
+no te plaze descuchar}
+{SG. R}
+[fol. 73v]
+{HD. Obra de rodrigo cota.}
+{CB3.
+{RUB. El viejo.}
+% Habla ya di tus razones
+di tus enconados quexos
+pero dimelos de lexos
+el ayre no menfeciones
+Que segun se de tus nueuas
+si te llegas cerca mi
+tu faras tan dulces prueuas
+q<ue>l vltraje q<ue> ora lleuas
+esse lleue yo de ti
+{RUB. Amor.}
+Nunca dios tal maleficio
+te permita conseguir
+antes para te seruir
+purifique mi seruicio
+Qual en tanto grado cresca
+q<ue> mas no pueda subir
+por q<ue> loe y agradesca
+y tan gra<n> merced meresca
+qual me hazeys en oyr
+% Por estimados prouechos
+a vos gratos corac'ones
+con muy biuas aficiones
+os meto dentro en mis pechos
+Por q<ue> pueda agradescer
+ser oydo aq<ue>ste dia
+do hare bien conoscer
+qua<n>to yerro puede ser
+desechar mi compan~ia
+% Y ladron llamas a[ ]uno
+sin q<ue> tengas mas enojos
+q<ue> sin ser ante tus ojos
+no jamas llego a[ ]ninguno
+Y pues hurto nunca vuo
+ante la vista del ombre
+q<ue> respecto aqui se tuuo
+o por qual razon te plugo
+darme tan impropio nombre
+% No despiertes q<ue> mas q<u><<i>>ebre
+desonra biuos y muertos
+q<ue> a nuestros ojos abiertos}
+{CB3.
+echas suen~o como liebre
+No te quiero mas dezir
+dexame de tu conquista
+tu nos sueles embayr
+tu nos sabes enxerir
+como egibcio nuestra vista
+% Soy alegre q<ue> me abras
+y tu san~a notifiques
+aun q<ue> a mi damnifiques
+por rotura de palabras
+Quel furor ques encerrado
+do se encierra mas empesce
+la venga<n>c'a enel ayrado
+es calor vaporizado
+q<ue> no dura y[ ]enuanesce
+% Por q<ue> ami q<ue> desechaste
+ames tu con aficion
+ten comigo la razon
+fare salua q<ue> te baste
+Y sera desculpacion
+de tu quexa y dela mia
+yo saluarme de ladron
+tu seras en[ ]conclusion
+no tachado en cortesia
+% Comunme<n>te toda via
+han los viejos vn vecino
+enconado muy malino
+gouernado en sangre fria
+Llamase malenconia
+amarga conuersacion
+quie<n> por tal estremo guia
+ciertame<n>te de desuia
+lexos de mi condicion
+% Mas despues q<ue> te sentido
+q<ue> me quieres dar audiencia
+de mi miedo muy vencido
+culpado despauorido
+se partio de tu presencia
+Este moraua contigo
+enel tie<m>po que me viste}
+{CB3.
+y por esto te encendiste
+en rigor tanto comigo
+% Donde mora este maldito
+no jamas ay alegria
+ni honor ni cortesia
+ni ningun bue<n> apetito
+Pero donde yo me llego
+todo mal y pena quito
+delos yelos saco fuego
+y[ ]a[ ]los viejos meto en juego
+y[ ]a[ ]los muertos ressuscito
+% Al rudo hago discreto
+al grossero muy polido
+desembuelto al encogido
+y al inuirtuoso neto
+% Al couarde esforc'ado
+escasso al liberal
+bien regido al destemplado
+muy cortes y mesurado
+al q<ue> no suele ser tal
+% Yo hallo el sumo deleyte
+yo formo el fausto y[ ]arreo
+y tambien cubro lo feo
+conla capa del afeyte
+Yo hago fiestas de sala
+y mando vestirse rico
+yo tambien quiero q<ue> vala
+el misterio de la gala
+cuando esta en lo pobrezico
+% Yo las coplas y canciones
+yo la musica suaue
+yo demuestro aq<ue>l que sabe
+las sotiles inuenciones
+Yo fago bolar mis llamas
+por lo bueno y por lo malo
+yo hago seruir[ ]las damas
+yo las perfumadas camas
+golosinas y regalo
+% Yo baylar en lindo son}
+[fol. 74r]
+{HD. Fo. lxxiiij}
+{CB3.
+yo las danc'as y corsautes
+y aq<ue>stos son los farau(n)tes
+que yo embio al corac'on
+Enlas armas festejar
+inuinciones muy discretas
+el justar y tornear
+enla ley de batallar
+trances y armas secretas
+% Uisito los pobrezillos
+fuello las casas reales
+delos senos virginales
+se yo bien los rinconcillos
+Mis pihuelas y mis lonjas
+alos religiosos atan
+no lo tomes por lisonjas
+sino ve mira las monjas
+veras quan dulce me tratan
+% Yo hallo las argentadas
+yo las mudas y cerillas
+luzentoras vnturillas
+y las aguas estiladas
+Yo la liquida estoraque
+y[ ]el licor de las rasuras
+yo tan bien se como se saque
+la pequilla q<ue> no taque
+las lindas acataduras
+% Yo mostre retir en plata
+la vaquil y alacran
+y hacer el soliman
+quenel fuego se desata
+Yo mil modos de colores
+para lo descolorido
+mil pinturas mil primores
+mil remedios dan amores
+con q<ue> enhiestan lo caydo
+% Yo hago las rugas viejas
+dexar el rostro estirado
+y se como el cuero atado
+se tiene tras las orejas
+Y el arte de los vngue<n>tes}
+{CB3.
+q<ue> para esto aprouecha
+se dar cejas enlas frentes
+contrahago nueuos die<n>tes
+do natura los deshecha
+% Yo las aguas y lexias
+para los cabellos roxos
+aprieto los mie<m>bros floxos
+y do carne enlas enzias
+Ala habla temulenta
+turbada por senetud
+yo la hago tan esenta
+q<ue> su tono representa
+la forma de juue<n>tud
+% Sin dan~o dela salud
+puedo con mi sufficie<n>cia
+conuertir el impote<n>cia
+en muy pote<n>te virtud
+Sin calie<n>tes confaciones
+sin comeres muy abastos
+sin conseruas ni pin~ones
+estincos sateriones
+atincar ni otros gastos
+% Enel ayre mis espuelas
+hieren a todas las aues
+y[ ]en los muy hondos co<n>caues
+las reptilias pequen~uelas
+Toda bestia dela tierra
+y pescado dela mar
+so mi gra<n> poder[ ]sencierra
+sin poder( )se de mi guerra
+con sus fuerc'as amparar
+% Algun aue q<ue> librar
+se quiso de mi conquista
+solame<n>te conla vista
+le di premia denge<n>drar
+Mi poder tan absoluto
+q<ue> por todo cabo siembra
+mira como lo secuto
+arbol ay q<ue> no da fruto
+do no nasce macho y hembra}
+{CB3.
+% Pues q<ue> ves q<ue> mi poder
+tan luengame<n>te sestiende
+do ninguno se defiende
+no te pie<n>ses defender
+Y a[ ]quien buena ventura
+tienen todos de seguir
+recibe pues q<ue> precura
+no hazerte desmesura
+mas de muerto rebeuir
+{RUB. % El viejo.}
+% Segun siento de tu trato
+en[ ]que armas contra mi
+podre bie<n> dezir por ti
+q<ue> buen amigo es el gato
+El q<ue> nunca por niuel
+de razon justa se adiestra
+nunca da dulce sin hiel
+mas es tal como la miel
+do se muere la maestra
+% Robador fiero sin asco
+ladron de dulce despojo
+bie<n> sabes quebrar el ojo
+y despues untar el caxco
+O muy halaguen~a pena
+ciega lumbre sotil ascua
+o plazer de mala mena
+sin ochauas en cadena
+nunca diste buena pascua
+% Maestra lengua dengan~os
+pregonero de tus bienes
+dime agora por q<ue> tienes
+so silencio ta<n>tos dan~os
+Que aun q<ue> mas doblado seas
+y mas pintes tu deleyte
+estas cosas do te arreas
+son diformes caras feas
+encubiertas del afeyte
+% Y como te glorificas
+en tus deleytosas obras
+por q<ue> callas las c'oc'obras
+de lo biuo mortificas}
+{SG. R ij}
+[fol. 74v]
+{HD. Obra de rodrigo cota}
+{CB3.
+Di maldito por q<ue> quieres
+encubrir tal enemiga
+sabete q<ue> se quie<n> eres
+y si tu no lo dixeres
+q<ue>esta aqui quie<n> te lo diga
+% El libre hazes catiuo
+al alegre mucho triste
+do ningun pesar consiste
+pones modo pensatiuo
+Tu ensuzias muchas camas
+con aguda rauia fuerte
+tu manzillas muchas famas
+y tu hazes con tus llamas
+mil vezes pedir la muerte
+% Tu hallas las tristes yeruas
+y tu los tristes potajes
+tu mestizas los linajes
+tu limpieza no conseruas
+% Tu doctrinas de malicia
+tu quebrantas lealtad
+tu con tu carnal cobdicia
+tu vas contra pudicicia
+sin freno donestidad
+% Tu vas a los adeuinos
+tu buscas los hechizeros
+tu consientes los agueros
+y prenosticos mezquinos
+Creyendo con vanidad
+a[ ]creer por abusiones
+lo q<ue> deleyte y beldad
+y luenga conformidad
+pones enlos corac'ones
+% Tu nos metes en bollicio
+tu nos quitas el sossiego
+tu con tu sentido ciego
+pones alas en el vicio
+Tu destruyes la salud
+tu rematas el saber
+tu hazes en senetud
+la hazie<n>da y la virtud}
+{CB3.
+y[ ]el auctoridad caer
+{RUB. El amor}
+% No me trates mas sen~or
+en contino vituperio
+q<ue> si oyes mi misterio
+conuertir lo has en loor
+Uerdad es q<ue> inconuinie<n>te
+alguno suelo causar
+por q<ue> del amor la ge<n>te
+entre frio y muy ardie<n>te
+no saben medio tomar
+% E aue q<ue> con sentido
+su hijo muestra bolar
+ni lo manda abalanc'ar
+ni q<ue> buele conel nido
+Y quie<n> nosta proveydo
+de tomar termino cierto
+muchas veces es caydo
+y[ ]el amor apercebido
+quiere el ombre q<ue> no muerto
+% Dalli dizen que es locura
+atreuerse por amar
+mas alli esta mas ganar
+donde esta mas aue<n>tura
+Sin mojarse el pescador
+nunca (c)[t]oma muy gran pez
+no hay plazer do no ay dolor
+nunca rie con sabor
+quie<n> no llora alguna vez
+% Razon es muy conoscida
+q<ue> las cosas mas amadas
+con afan son alcanc'adas
+y trabajo enesta vida
+La mas deleytosa obra
+queneste mundo se cree
+es do mas trabajo sobra
+q<ue> lo q<ue> sin el se cobra
+sin deleyte se possee
+% Sie<m>pre vso desta astucia
+para ser mas conseruado}
+{CB3.
+k con bien y mal mezclado
+pongo en mi mayor acucia
+Y rebuelto alli vn poquito
+con sabor de algun rigor
+el desseo mas incito
+q<ue> amortigua ell[ ]apetito
+el dulc'or sobre dulc'or
+% No lo prueuo con milagro
+cosa es sabida llana
+q<ue> se despierta la gana
+de comer con dulc'e agro
+Assi yo con galardon
+muchas vezes mezclo pena
+q<ue> enla paz de dissension
+entre ama<n>tes la quistion
+reyntegra la cadena
+% Por que no trayga fastio
+mi dulce conuersacion
+busco causa y ocasion
+con q<ue> a[ ]tiempos la desuio
+Que lo q<ue> sale del vso
+contino sabe mejor
+y por eso te dispuso
+mi querer por q<ue> de yuso
+subas costumbre mayor
+% Porende si con dulc'ura
+me quieres obedescer
+yo hare reconoscer
+en ti muy nueua frescura
+Ponerte enel corac'on
+este mi biuo alboroc'o
+seras enesta sazon
+dela misma condicion
+queras qua<n>do lindo moc'o
+% De verdura muy gentil
+tu huerta renouare
+la casa fabricare
+de obra rica sotil
+Sanare las plantas secas
+quemadas por los friores}
+[fol. 75r]
+{HD. Fo. lxxv}
+{CB3.
+en muy gran simpleza pecas
+viejo triste si no truecas
+tus espinas por mis flores
+{RUB. El viejo.}
+% Allegate vn poco mas
+tienes tan lindas razones
+q<ue> sofrirte q<ue> mencones
+por la gloria q<ue> me das
+Los tus dichos alcahuetes
+con verdad o con engan~o
+enel alma melos metes
+por lo dulce q<ue> prometes
+desperar es todo el an~o
+{RUB. El amor}
+% Abracemonos entramos
+desnudos sin otro medio
+sentiras en ti remedio
+entu huerta frescos ramos
+{RUB. El viejo.}
+% Ue<n>te ami muy dulce amor
+vente ami brac'os abiertos
+ves aqui tu seruidor
+hecho sieruo de sen~or
+sin tener tus dones ciertos
+{RUB. Amor.}
+% Hete aqui bien abrac'ado
+dime q<ue> sientes agora
+{RUB. Uiejo}
+% Siento rauia matadora
+plazer lleno de cuydado
+siento fuego muy crescido
+siento mal y no lo veo
+sin rotura esto herido
+no te quiero ver partido
+ni apartado de desseo
+{RUB. Amor.}
+% Agora veras don viejo
+conseruar la fama casta
+aqui te vere[ ]do basta
+tu saber y tu consejo
+% Porq<ue> con soberbia y rin~a
+me diste contradicion
+seguiras estrecha lin~a}
+{CB3.
+en amores de una nin~a
+de muy duro corac'on
+% Y sabe q<ue> te reuelo
+vna dolorida nueua
+do sabras como se ceua
+quie<n> se mete en mi sen~uelo
+Amaras mas q<ue> macias
+hallaras esquiuidad
+sentiras las plagas mias
+fenesceran tus viejos dias
+en ciega catiuidad
+% O viejo triste liuiano
+qual error pudo bastar
+q<ue> te habia de tornar
+ruuio tu cabello cano
+Y essos ojos descozidos
+queran para enamorar
+y[ ]essos bec'os tan sumidos
+dientes y muelas podridos
+quera<n> dulces de besar
+% Conuiene tan bie<n> q<ue> notes
+q<ue> es muy mas digna cosa
+en tu boca gargajosa
+{LAT. pater nostres} q<ue> no motes
+Y el tosser q<ue> las canciones
+y[ ]el bordon q<ue> no el espada
+y las botas y calc'ones
+q<ue> las nueuas inuenciones
+ni la ropa muy trepada
+% O marchito corcobado
+a ti era mas anexo
+del yjar contino quexo
+q<ue> sospiro enamorado
+Y en tu mano prouechoso
+para en tu flaca salud
+mas vn trapo lagan~oso
+para el ojo lagrimoso
+q<ue> vihuela ni laud
+% Mira tu negro garguero}
+{CB3.
+de pesgo seco pegado
+qua<n> crudio y arrugado
+tienes viejo triste el cuero
+Mira enesse ronco pecho
+como el huelfago tescarua
+mira tu ressollo estrecho
+q<ue> no escupes mas derecho
+de qua<n>to tensuzias la barua
+% Uiejo triste entre los viejos
+q<ue> de amores te atorme<n>tas
+mira como tus artejos
+paresce<n> sartas de cuentas
+Y las vn~as tan crescidas
+y los pies llenos de callos
+y tus carnes consumidas
+y tus piernas encogidas
+quales son para cauallos
+% Amargo viejo denuesto
+dela humana natura
+tu no miras tu figura
+y vergue<n>c'a de tu gesto
+Y no vees la ligereza
+q<ue> tienes para escalar
+q<ue> donayre y gentileza
+y q<ue> fuerc'a y q<ue> destreza
+la tuya para justar
+% Quie<n> te viesse entremetido
+en cosas dulces de amores
+y venirte los dolores
+y atrauessarte el gemido
+O quie<n> te oyesse cantar
+sen~ora de alta guisa
+y temblar y gagadear
+los gallillos engrifar
+tu dama muerta de risa
+% O maldad enuegescida
+o vejez mala de malo
+alma biua en seco palo
+biua muerte y muerta vida
+Deprauado y obstinado}
+{SG. R iij}
+[fol. 75v]
+{HD. Obra de rodrigo cota}
+{CB3.
+desseoso de pecar
+mira malauenturado
+q<ue> te dexa ati el pecado
+y tu nol quieres dexar
+{RUB. El viejo.}
+% El q<ue> no le muerde muere
+por graue suen~o pesado
+assi haze el desdichado
+a quie<n> tu saeta hiere
+A[ ]do estauas mi sentido
+dime como te dormiste
+durmiosse triste perdido
+como haze el dolorido
+q<ue>scucho de quien oyste
+{RUB. Cabo}
+% Pues enti tuue esperanc'a
+tu perdona mi pecar
+gran linaje de venga<n>c'a
+es las culpas perdonar
+Si del precio del vencido
+del q<ue> vence es el honor
+yo de ti tan combatido
+no sere flaco caydo
+ni tu fuerte vencedor
+{RMK: HSMS-0432-0121: Esparza en que descubre las propiedades del amor.} {RUB: % Esparsa suya en/ q<ue>
+descubre las propiedades
+del amor.}
+% Uista ciega luz escura
+gloria triste vida muerta
+ventura de desuentura
+lloro alegre risa incierta
+Hiel sabrosa dulce agrura
+paz y yra y san~a presta
+es amor con vestidura
+de gloria q<ue> pena cuesta}

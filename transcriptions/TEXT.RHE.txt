@@ -1,0 +1,2538 @@
+{RMK: HSMS-0305.}
+{RMK: Marcus Tullius Cicero.}
+{RMK: [RHE] De la rethorica.}
+{RMK:.}
+{RMK: San Lorenzo de El Escorial | Real Biblioteca del Monasterio de San Lorenzo de El Escorial | T-II-12.}
+{RMK: Rod Diman.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0305-0001: De la rethorica.} {RUB. libro de marcho tullio c'iceron q<ue> se llama dela Retorica. tras-
+ladado de latin en Romanc'e por el muy Reuerendo don alfon<so>
+de cartajena ob<is>po de burgos A ynstanc'ia del muy esclaresc'i-
+do Princ'ipe don Duarte Rey de portogal.}
+{RUB. Prologo enla traslac'ion.}
+{IN7. {MIN=.}} Fablando con vos princ'ipe esclaresc'ido En
+materias de sc'ienc'ia en q<ue> vos bien sabedes
+fablar en algunos dias de aquel t<iem>po en
+q<ue> en la v<uest>ra corte por mandado del muy
+catholico Rey mj ssen~or estaua Vino
+vos a voluntad de auer la arte dela Reto-
+rica en claro lenguaje por conoscer algo
+delas doctrinas q<ue>los antiguos dieron para fermoso fablar E
+mandastes me pues yo aesa sazon paresc'ia av<er> algun~t espacio
+para me ocupar en cosas estudiosas. q<ue> tomase vn pequen~o tra-
+baJo E pasase de latyn en n<uest>ra lengua. la Rethorica q<ue> tullio con-
+puso. E com<m>o quier q<ue> enel estudio della fuy yo tan poco ocu-
+pado & despendi tan poco t<iem>po q<ue> no<n> digo para la trasladar. mas
+avn para entender algo della me Reputaua & Reputo ynsufic'i-
+ente Pero acatando al v<uest>ro studioso deseo comenc'e a poner
+en obra v<uest>ro mandamjento E comenc'ando ocupar enello la
+pen~ola ssobre vino mj partida & quedo a vos Segu<n>t se suele fazer}
+[fol. 1v]
+{CB1.
+enlas compras com<m>o por manera de ssen~al vna muy pequen~a
+parte del comjenc'o E vino comjgo el cargo delo aca co<n>plir
+E pasaron despues t<iem>pos asaz en q<ue> otra obra mucho mayor
+& de mas trabaJo & estudio se podiera acabar. Mas esta no<n>
+se acabo fasta aquj. C'ierta mente no<n> por olujdo nj<n> por menos-
+prec'io. Ca lo primero fuera torpeza muy grande. lo segu<n>do
+Jnmensa presunc'ion. mas por sobre venjr tales t<iem>pos q<ue> alo<<s>>
+semeJantes estudios otorgaron ferias noctorias lo qual
+para mj escusac'ion allegar no<n> se por quales otras meJores
+nj<n> tan buenas palabras. q<ue> por aq<ue>llas q<ue> escriujo san~t bernar-
+do al p<<a>>p<a> eugenjo en el libro de la considerac'ion diziendo le asi
+Menbrandome del prometimjie<n>to en q<ue> so obligado aty
+o muy bue<n> varon p<<a>>p<a> eugenjo qujerome librar siqujera
+tarde. E verguenc'a avria yo dela dilac'ion si sopiese q<ue> en
+mj oujera negligenc'ia o menosprecio. Pero no<n> es asi
+mas sobre vjno com<m>o tu sabes t<iem>po graue tal q<ue> al huso dela
+vida paresc'ia enbargar q<u><<a>>nto mas alos estudios E pa-
+resceme q<ue> puedo a proposito dezir algo delo semeJante. non
+por q<ue> entiendo q<ue> vino a uos tanta graueza de t<iem>po com<m>o ael
+por uentura vjno. njn q<ue>la presente traslac'ion sea de tanto
+estudio njn Requjera tanto trabaJo com<m>o la conpusic'io<n> q<ue> el
+fazia. mas nj<n> el yngenjo & sc'ienc'ia de quien esto escriue es
+egual por c'ierto njn ha proporc'ion njn Respecto con la de aq<ue>l
+santo & famoso varon E asi no<n> es de maraujllar q<ue> peq<ue>n~o}
+[fol. 2r]
+{CB1.
+yngenjo enla pequen~a obra con menor ynpedimento tanto se
+enbargue com<m>o el grande enla obra mas alta por el ynpedimento
+mayor. por ende la tardanc'a q<ue> enesto ouo si la afec'tion non me enga-
+n~a q<ue> suele defender las culpas propias no<n> es mucho de culpar
+Ca ocupado n<uest>ro muy ynclito princ'ipe en su grac'iosa Juue<n>tud
+contra vna parte de sus vezinos en defension de su honor Real &
+anparo dela su Republica & contra otra en exaltac'ion dela s<an>ta fee
+catholica & opresion delos enemigos dela vera cruz q<ue> dentro de
+los n<uest>ros termjnos tanto t<iem>po ha q<ue> moran Rasonable cosa es
+q<ue> todos sus subditos dexadas las otras cosas en q<ue> enlos otros t<iem>pos
+se suelen ocupar. bueluan su corac'on entera me<n>te & ocupen su vo-
+luntad ponjendo su poderio en q<u><<a>>nto el estado & fuerc'a de cada
+vno basta para le enello serujr. Pero entre las otras ocupac'io-
+nes [??]me algu<n>t poco espac'io para conplir v<uest>ro mandado & paga<r>
+ya esta debda E llamada la ayuda diuinal fizelo asi com<m>o
+vedes. no<n> tal sin dubda com<m>o fazer se deuja & pertenesc'ia enbiar
+a vos aquje<n> se dirige mas [??] la Jnbec'ilidat E flaqueza del
+yngenjo del escriujente en ta[?? ??] basto Confiando en v<uest>ra virtu-
+osa equanjmjdat q<ue> Rescebiredes begnjna mente esta paga avn
+q<ue> tard[*e] tollerando los defectos q<ue> enla presente traslac'ion falla-
+r[*ede]s donde tollerarse podieren E hemendandolos donde hemen-
+darse deujeren E para mas clara v<er> la Jntenc'ion ante q<ue> oyade<<s>>
+a tullio. oyd la yntroduc'tion sigujente}
+[fol. 2v]
+{CB1.
+{RUB. Jntroduc'tion}
+{IN3.} Muchos fueron los que dela Rethorica enlos t<iem>pos anti-
+guos fablaron asi griegos com<m>o latynos. Pero
+avn q<ue> dela eloquenc'ia de asaz dellos oy dura la
+fama & de algunos sus famosas orac'iones. asi com<m>o entre
+los griegos de demostens & de esthines E entre los latinos
+de salustio & de otros mas libros conpuestos dela arte liberal
+mesma q<ue> llaman Rethorica yo no<n> se q<ue> de aq<ue>llos muy antigu-
+os eneste t<iem>po parescan si no<n> de dos actores El vno griego El
+otro latino El griego fue aristotiles q<ue> fablo enello profunda
+mente Ca no<n> entendio aquel philosopho q<ue> del todo acabaua
+la obra moral si despues delas ethicas & politicas no<n> diese doc-
+trinas delo q<ue> ala eloquenc'ia pertenesc'e & conpuso vn libro q<ue>
+se llama de la Rethorica en q<ue> escriujo muchas & nobles conclusi-
+ones pertenesc'ientes aesta arte de las quales asi por theologos
+com<m>o por Juristas son muchas [??]iuersos logares allegadas
+cada vna asu proposito E[*l ot]ro fue latino & este es marcho
+tullio c'ic'eron el qual escriujo muchos libros & tractados de di-
+uersas materias escriptos sso muy eloquente estilo E entre
+ellos conpuso algunos pertenesc'ientes ala doctrina desta arte
+Ca avn q<ue> en todos guardo el bien las Reglas dela eloquencia. Pero
+no<n> fablo en todos della Ca vna cosa es fablar segu<n>t la arte
+E otra es fablar dela arte E el en todos guardo la arte. pero
+no<n> en todos. mas en algunos fablo dela arte. Estos si son}
+[fol. 3r]
+{CB1.
+muchos o q<u><<a>>ntos son no<n> lo se. mas los q<ue> comu<n> mente parescen
+son los siguientes El libro dela Rethorica vieJa E otro dela Re-
+thorica nueua E vn libro q<ue> dizen del orador E otro del orador
+menor E vn breue tractado q<ue> se llama dela muy buena ma-
+nera delos oradores E otro q<ue> se yntitula la topica los quales
+avn q<ue> por diuersas maneras todos tienden a dar doctrinas dela
+eloq<ue>nc'ia E destos por q<ue> el dela Rethorica vieJa es primero E
+avn por q<ue> fabla mas largo fue por vos escogido para q<ue> se posiese
+en n<uest>ro lenguaje E fizose asi por v<uest>ro mandado enla traslac'io<n>
+del qual no<n> dubdo q<ue> fallaredes algunas palabras mudadas de
+su propia signjficac'ion & algunas an~adidas lo qual fize cuyda<n>-
+do q<ue> conplia asi Ca no<n> es este libro de santa escriptura en q<ue> es herror
+an~ader o menguar. mas es conposic'ion magistral fecha para
+n<uest>ra doctrina. Por ende guardada q<u>anto guardar se puede la
+yntenc'ion avn q<ue>la propriedat delas palabras se mude no<n> me pa-
+resce cosa ynco<n>uenjente Ca com<m>o cada lengua tenga su man<er>a
+de fablar. si el ynterpetrador sigue del todo la letra necesario es
+q<ue>la escriptura sea obscura & pierda gran~t parte del dulc'or. Por
+ende enlas doctrinas q<ue> no<n> tienen el valor por la abtoridat de quj-
+en las dixo. njn han sseso moral nj<n> mixtico. mas sola mente
+enellas se cata lo q<ue>la sinple letra signjfica. no<n> me paresce dap-
+n~oso Retornar la yntenc'ion dela escriptura enel modo del fablar
+q<ue> ala lengua en q<ue> se pasa conujene la qual manera de tras-
+ladar aprueua aq<ue>l singular trasladador san~t geronjmo en
+vna solepne epistola que se sobre escriue dela muy buena man<er>a}
+[fol. 3v]
+{CB1.
+del declarar que enbio a pamachio entre otras cosas diziendole
+asi. yo no sola mente lo digo. mas avn con libre voz lo confieso
+q<ue> enla ynterpetrac'ion delos libros griegos no<n> curo de expremjr
+vna palabra por otra/ mas sigo el sseso & efecto saluo enlas s<an>tas
+escripturas por q<ue> alli la horden delas palabras trae mjxterio E
+esta manera seguj aquj por q<ue> mas sin trabaJo lo pueda ente<n>der
+qujen leer lo qujsiere E avn por lo mas aclarar com<m>o qujer
+q<ue> en latin esta todo junto & no<n> tiene otra partic'ion saluo la delo<<s>>
+libros es a saber entre el primero & segundo Pero yo party
+cada libro en diuersos titulos E los titulos en capitulos segu<n>
+me parescio q<ue>la diuersidat dela materia pidia E donde el
+vocablo latino del todo se pudo en otro de Romanc'e pasar fizelo
+donde no<n> se pudo buena mente por otro canbiar por q<ue> alas ve-
+zes vna palabra latina Requjere muchas para se bie<n> decla-
+rar E si en cada logar por ella todas aq<ue>llas se ouiesen de poner
+farian confusa la obra enel tal caso. Al primero paso en q<ue>
+la tal palabra ocurrio se fallara declarada E avn q<ue> despues
+se aya de Repitir no<n> se Repite la declarac'ion. mas quje<n> enella
+dubdare Retorne al primero logar donde se nonbro el qual es-
+ta enlos margines sen~alado & vera su signjficac'ion. Pero-
+avn q<ue> esto todo se faga las conposic'iones q<ue> son de sc'ienc'ia o de arte
+liberal para bien se entender toda via piden estudio por q<ue> non
+consiste la dificultad dela sc'ienc'ia tan solo enla obscuridat del
+lenguaJe Ca si asi fuese los buenos gramaticos entenderia<n>
+quales qujer materias q<ue> en latin fuesen escriptas E}
+[fol. 4r]
+{CB1.
+veemos el contrario Ca muchos bien fundados enla arte dela
+gramatica entienden muy poco enlos libros de theologia & dere-
+cho & de otras sc'ienc'ias & artes avn q<ue> son escriptas en latyn ssy
+no<n> oujeron doctores dellas q<ue>los ensen~asen Por ende avn q<ue>
+esta Rethorica sea traspuesta en llano lenguaje quje<n> ente<n>der
+la qujsiere cunple q<ue> con actenc'ion la lea E de mas desto es
+de saber q<ue> algunos cuydan q<ue>la Rethorica toda consiste en dar do-
+trinas espec'iales para escriujr o fablar o trasmudar o hordena<r>
+las palabras mas no<n> es asi Ca com<m>o quier q<ue> della sale la bue-
+na hordenanc'a del fablar. pero no<n> es este su total yntento Ca
+grant parte della se ocupa en ensen~ar com<m>o deue<n>. Persuader.
+E atraer alos Juezes enlos pl<e>itos & otras contiendas E ala<<s>>
+otras personas en otros fechos q<u><<a>>ndo acaescen E quje<n> bie<n> lo
+qujsiere considerar fallara q<ue>el ofic'io q<ue> entre nos tienen los
+Juristas q<ue> llamamos abogados. ese era princ'ipal me<n>te el de
+los Rethoricos antiguos E lo q<ue> estos oy qujeren fazer alle-
+gando testos & determjnac'iones. los otros fazian diziendo
+Razones fermosas cada vno en fauor de su parte E alas ve-
+zes Jnserir aq<ue>llas pocas ley<e>s q<ue> entonc'e auja lo qual bie<n> pue-
+de v<er> qujen las famosas orac'iones de aq<ue>llos t<iem>pos leyere Ca
+aq<ue>llas dos q<ue> en athenas se fizieron q<ue> oujeron tanta no<m>bradia
+q<ue> tullio mesmo les conosce ventaJa E san~t geronjmo faze
+dellas enel princ'ipal prologo dela biblia menc'ion. La vna
+fizo echines acusando a thesifon. La otra demostens defendi-
+endo al acusado & Reacusando al acusador E muchas de
+las q<ue> de tullio leemos son fechas acusando a vnos E}
+[fol. 4v]
+{CB1.
+defendiendo a otros com<m>o fazen los abogados solepnes. Por en-
+de quje<n> lo presente leyere no<n> cuyde q<ue> fallara escripto com<m>o escriua
+las ca~<rt>as njn com<m>o trasporte las palabras Ca avn q<ue> dello otros ma<<s>>
+modernos en t<iem>po & no<n> de tan alta manera algo escriujera<n>. pero
+los princ'ipes dela eloq<ue>nc'ia prec'ipuos escriptor<e>s della en
+los princ'ipales libros no<n> se ocuparon del todo enesto mas dieron~
+sus generales doctrinas para arguyr & Responder. para culpar
+& defender & para mouer los corac'ones delos oyentes a san~a o
+a mjsericordia o alas otras pasiones q<ue> enla voluntad huma-
+na cahen E dende cada vna saq<ue> por su yngenjo aq<ue>llo q<ue> en-
+tendiere q<ue> para en lo q<ue> qujere fablar cunple. E desto aris-
+totiles enel libro q<ue> deximos fablo muy profunda & sc'ienti-
+fica mente E tullio eneste no<n> con tanta sc'ienc'ia. mas por
+mas clara & mas particular hordenanc'a dixo algunas
+cosas notables q<ue> del otro tomo E avn an~adiendo de suyo e<n>-
+tre las quales hay algunas q<ue> si bien entendidas & a bue<n> fin
+traydas son pueden mucho aprouechar E si con malic'iosa
+Jntenc'ion dellas se husa podrian algo dapn~ar. mas nj<n> por
+esto son de dexar Ca el fierro no<n> es de dexar avn q<ue> con el se
+cometen alas vezes ynJustos omec'idos & muertos a mala
+verdat por q<ue> las armas fechas del aprouechan ha esforc'ar
+la Justic'ia & ha Justa defension dela Republica & opresion de
+los ynJustos & malos njn las doctrinas del especulador & de
+los otros Juristas praticos son de menosprec'iar por q<ue> conella<<s>>
+los malos abogados fazen muchas caujlac'ion<e>s. Pues los
+buenos donde toman mucho avisamje<n>to para gujar la Justic'ia}
+[fol. 5r]
+{CB1.
+E oujar a las malic'ias q<ue> contra ella se tienta<n>. Por ende a buen
+fin & con Recta & sana yntenc'ion oyamos ya que dize tullio.
+{RUB. Prologo de tullio}
+{IN3.} Muchas vezes pense algu<n>t tanto (tanto) comjgo ssy
+la copia & abundanc'ia del fablar E el soberano stu-
+dio dela eloquenc'ia q<ue> es la fermosura dela fabla
+si fizo mas mal que bien o mas bie<n> q<ue> mal a los om<e>s & alas
+c'ibdades & fazenme esto dubdar las Razones q<ue> hay de amas par-
+tes Ca dela vna parte q<u><<a>>ndo considero los dapn~os de n<uest>ra Repu-
+blica & RecoJo en mj corac'on las vieJas desauenturas de algunas~
+muy grandes c'ibdades. veo q<ue> non pequen~a parte. mas bie<n> gran-
+de delos males vino por om<e>s eloquentes & muy polidos en fa-
+blar E dela otra parte q<u><<a>>ndo torno a Repetir en mj corac'on las~
+cosas q<ue> son muy aRedradas dela n<uest>ra memoria por la su grande
+antiguedat &' las leo por las ystorias fallo muchas c'ibdades
+pobladas. muchas guerras qujtadas. muy firmes conpan~jas
+fechas. muy santas amistades ayuntadas conla Razon del cora-
+c'on ayudando aello la eloquenc'ia. E pensando yo luenga
+mente en esto la Razon me traxo en vna tal conclusion. es a sa-
+ber q<ue> pienso q<ue>la sabiduria sin la eloquenc'ia puede aprouechar
+poco alas c'ibdades. mas la eloquenc'ia sin la sabiduria nunca
+puede aprouechar & puede mucho dapn~ar Por ende si alguno
+dexa los muy buenos & muy honestos studios dela Razon & dela}
+[fol. 5v]
+{CB1.
+virtud & pone todo su trabaJo & gasta su t<iem>po sola mente en el exer-
+c'ic'io del fablar. este sera om<n>e sin prouecho asi & c'ibdadano muy
+dapn~oso asu t<ie>rra. mas el om<n>e q<ue> se aderesc'a & arma dela eloq<ue>-
+c'ia no<n> para contradezir alos prouechos de su t<ie>rra. mas para
+pugnar por ellos Este me paresce varon muy prouechoso a
+los sus fechos & alos publicos. & c'ibdadano muy amjgo de
+su c'ibdat. E si queremos considerar perfecta mente el co-
+mjenc'o desta cosa q<ue> es llamada eloquenc'ia. quier sea arte q<u><<i>>er
+studio qujer algu<n>t exerc'ic'io o facultad dela naturaleza. fa-
+llaremos q<ue> es nasc'ida de muy honestas causas & acabada de
+muy buenas Razones Ca cuydo yo q<ue> fue vn t<iem>po en q<ue> los
+om<ne>s andauan enlos canpos vagabundos a manera de bestias~
+& gouernauan su vida conel mantenimje<n>to q<ue>los anima-
+les fieros se goujernan E no<n> fazian cosa alguna por la Razo<n>
+del corac'on. mas lo mas admjnjstraua<n> con las fuerc'as deL
+cuerpo. no<n> era honrrada avn entonc'e la diujnal Religio<n>. nj<n> el
+humanal ofic'io & v<ir>tud & no<n> auja avn alguno q<ue> oujese visto
+bodas legitimas nin conosc'iese fijos c'iertos. no<n> cuydauan q<ue> en<e>l
+derecho & egualdat auja algu<n>t prouecho E asi por herror &
+por no<n> saber la cobdic'ia c'iega & loca ensen~oreadora del corac'on
+para fartar sus deseos husaua muy mal delas fuerc'as del cuer-
+po asi com<m>o de muy malic'iosos serujdores E en aq<ue>l t<iem>po pienso
+yo q<ue> ouo algu<n>t grande varon & sabidor q<ue> conoscio q<ue> auja enlos
+corac'ones delos om<ne>s vna grande materia & opprtunjdat p<ar>a
+grandes & honestas cosas. es a saber la Razon & la Jnclinac'io<n>}
+[fol. 6r]
+{CB1.
+natural quelos om<ne>s han al bien si oujese qujen la podiese desco-
+brir & fazer la meJor con ensen~anc'as E este con buena Razon apre-
+mjo alos om<ne>s q<ue> andauan desparzidos por los campos & moraua<n>
+enlas cueuas ascondidas delas montan~as & ayuntolos en vn
+lugar & ynduzialos alas cosas honestas & prouechosas E lue-
+go a comjenc'o Reclamaua<n> conla soberuja q<ue> tenjan E despues
+por la Razon & por la eloquenc'ia oyan mas voluntariosa me<n>-
+te E de fieros & crueles q<ue> eran. tornolos mansos & pac'ificos. E
+por c'ierto amj paresc'e q<ue>la sabiduria si fuera callada & pobre de fa-
+bla no<n> pudiera tan ayna conuertir alos om<ne>s de su costunbre &
+traerlos a diuersas maneras de biujr. E acatemos despues
+delas c'ibdades pobladas qujen podiera atraher los om<ne>s ha que
+aprendiesen guardar la fee & mantener la Justic'ia & se acostun-
+brasen obedescer a otro por su propia voluntad E q<ue> qujsiesen
+no<n> sola mente sofrir trabaJos por el bie<n> comu<n>. mas avn q<ue> pensa-
+sen q<ue> deujan perder la vida por ello E esto com<m>o se podiera fazer
+si los om<ne>s con la eloquenc'ia no<n> podiesen amonestar & ynduzir
+alos otros A aq<ue>llas cosas q<ue> fallasen q<ue> son buenas con la Razon
+E sin dubda no<n> hay njnguno q<ue> si no<n> fuese moujdo por madura
+& dulce fabla q<ue> qujsiese descender sin fuerc'a al derecho. q<u><<a>>ndo el es
+mas poderoso de fuerc'as & padesc'iese egualarse entre aq<ue>llos
+q<ue> el puede sobre pujar E por su voluntad se partiese dela muy
+alegre costunbre q<ue> por la antiguedat tiene ya en<e>l fuerc'a de na-
+tura. E primera mente segu<n>t amj paresce nasceria la elo-
+quencia asi com<m>o dexjmos & yria acrescentandose poco a poco
+& faria grandes bienes enlas muy grandes cosas. Pero despu<e>s}
+[fol. 6v]
+{CB1.
+q<ue>el que los om<ne>s llaman prouecho que es el acrescentamjento
+destas cosas temporales el qual el mal semeJador dela virtud
+cobro copia & abundancia de fablar sin saber la Razon dela vir-
+tud. es a saber q<u>ando los om<ne>s cobdic'iosos fueron eloquentes. ento<n>c'e
+la malic'ia ayudada con yngenjo subtil comenc'aria ha Reboluer
+las c'ibdades & amanzillar las vidas delos om<ne>s. E com<m>o di-
+xjmos el comjenc'o del bie<n>. digamos el princ'ipio del mal E
+paresceme q<ue> es berisimjle & cosa de creer q<ue> comenc'aste asy. que
+fue algu<n>t t<iem>po enel qual los q<ue> no<n> eran bie<n> fablantes nj<n> sabidor<e>s
+no<n> tractauan las cosas publicas. mas los grandes & muy ente<n>-
+didos varones tractauan lo publjco & no<n> se ocupaua<n> enlas cosas
+priuadas delas singulares personas E com<m>o entonc[']e los no-
+tables om<ne>s admjnjstrasen las cosas publicas. ymagine yo q<ue>
+ouo otros q<ue> no<n> eran Rudos mas serian agudos de yngenjo q<ue> se
+ynterponjan enlas contiendas pequen~as delas singulares per-
+sonas. E com<m>o enestas contenc'ion<e>s se acostunbrase muchas
+vezes tenjendo mentira porfiar contra la v<er>dat. La continua-
+c'ion q<ue> estos tales oujeron del fablar crio enellos grande osadia
+de gujsa q<ue> aq<ue>llos grandes varones q<ue> admjnjstrauan las cosas
+publicas por Remediar alas ynJurias delos c'ibdadanos oujese<n>
+de Resistir alos osados & ayudar cada vno a sus parientes & amj-
+gos E com<m>o acaesce muchas vezes q<ue> el q<ue> dexa el studio dela sa-
+biduria & no<n> cura de otra cosa si no<n> dela eloq<ue>nc'ia paresce alos
+om<ne>s egual & avn meJor q<ue> el sabidor E contesce q<ue> por Juyzio del
+pueblo & por su presunc'ion es Repuctado digno para Regir la
+cosa publica serian estos puestos enel Regimjento delo publico}
+[fol. 7r]
+{CB1.
+E asi no<n> es maraujlla nj<n> es sin Razon q<ue> q<u><<a>>ndo estos atreujdos &
+osados om<ne>s venjesen a gouernar la cosa publica Recresc'iesen
+las c'ibdades muy grandes destruymje<n>tos & dapn~os E por es-
+tas cosas creo yo q<ue> la eloquenc'ia seria muy aborresc'ida delos bue-
+nos por q<ue> veyan q<ue> era cabsa de tanto mal E por ende los om<ne>s
+de muy grande Jngenjo se apartarian dela vida Reboltosa delas
+c'ibdades & se allegaria<n> al studio qujeto & manso. com<m>o fuye<n> los~
+om<ne>s de alguna tormenta peligrosa & se acogen al puerto E
+por esto es de creer q<ue>los otros studios buenos & honestos dela ssa-
+biduria & dela philosophia fueron mucho husados por los muy
+buenos varones en oc'tio & Resplandesc'iero<n> segu<n>t por sus libros~
+paresce. Mas este studio dela eloq<ue>nc'ia fue desierto dexado por
+los mas dellos & olujdose en aq<ue>l t<iem>po en q<ue> mucho mas lo deujera<n>
+Retener & acrescentar con grant cuydado Ca q<u><<a>>nto mas yndig-
+na mente & mas contra Razon la locura & osadia delos locos
+& malos con grande dapn~o dela cosa publica tractauan mal & dap-
+n~auan esta cosa muy honesta & buena q<ue> es la eloq<ue>nc'ia. tanto
+co<n> mayor deligenc'ia deujera ser Resistido aellos & Remediado ala
+cosa publica lo qual por c'ierto no<n> el olujdo n<uest>ro caton nj<n> lelio nj<n>
+aq<ue>l q<ue> yo puedo llamar verdadera mente disc'ipulo dellos el afri-
+cano nj<n> los grachos sus njetos Ca enestos om<ne>s auja soberana
+virtud & con la virtud muy grande abtoridat E lo q<ue> estas cosas~
+guarnesc'ia & enderesc'aua & fazia mas fermosas & ayudaua
+ala defension dela cosa publica era la eloq<ue>nc'ia q<ue> era grande
+enellos. Por ende amj parescer no<n> es menos de estudiar
+enla eloq<ue>nc'ia por q<ue> husan algunos della mal asi enlos fechos~
+publicos com<m>o enlos particulares. mas ante por esto es mas~}
+[fol. 7v]
+{CB1.
+de curar della por q<ue> los malos con gran~t dapn~o delos buenos
+& con destruyc'ion comu<n> de todos no<n> puedan con ella mucho mal
+fazer. ssen~alada mente por q<ue>la eloquenc'ia es vna cosa q<ue> mucho
+pertenesce a todas las cosas asi publicas com<m>o priuadas Ca
+por ella se faze la vida segura & honesta & resplandesc'iente E mu-
+chos prouechos vienen ala cosa publica. si la sabiduria que es
+tempradora de todas las cosas esta muy presta lo qual se faze
+conla eloq<ue>nc'ia. E de alli viene<n> alos q<ue>la alcanc'an loor & hon-
+rra & dignjdat E asus amjgos muy c'ierto & muy seguro an-
+paro. E por c'ierto amj Juyzio los om<ne>s en muchas cosas
+son mas flacos & mas enfermos q<ue>los anjmales brutos
+mas enesto les lieuan muy grande ventaJa. q<ue> pueden fabla<r>
+& los anjmales no<n>. Por ende paresceme q<ue> alcanc'a muy fer-
+mosa cosa quje<n> en aq<ue>llo en q<ue>los om<ne>s lieuan ventaJa alas bes-
+tias lieua el ventaja alos otros om<ne>s. E esta eloq<ue>nc'ia si se
+alcanc'a por aventura. no<n> sola mente por naturaleza & por
+exerc'ic'io. mas avn dizen cerca della aq<ue>llos q<ue> escriujero<n> algu-
+nas doctrinas desta arte. mas ante q<ue> digamos delos man-
+damje<n>tos dela eloq<ue>nc'ia me paresc'e q<ue> deuemos dezir dela ma-
+nera dela arte & del ofic'io & dela fin & dela materia & delas par-
+tes della Ca conosc'idas estas cosas podra el corac'on de cada vno
+mas ligera & mas libre me<n>te considerar la via dela arte.
+{RUB. Titulo primero dela materia dela Rethorica}
+{IN3.} La buena hordenanc'a del beujr q<ue> llama<n> polic'ia &
+a manera de sc'ienc'ia fablando llamamos la sc'ien-
+c'ia c'eujl. ayuntase de muchas & grandes cossas}
+[fol. 8r]
+{CB1.
+pero vna & grande parte della es la artific'ial eloquenc'ia la
+qual es llamada Rethorica Ca nos no<n> concordamos co<n> aquellos
+q<ue> cuydan q<ue> la sabiduria c'eujl no<n> ha menester ala eloquenc'ia
+E tan bien discordamos mucho de aq<ue>llos q<ue> piensan q<ue> toda la
+c'eujl sabiduria se contiene enla arte dela Rethorica. mas toma-
+mos vna medianera conclusion es a saber q<ue> la facultad del fabla<r>
+nj<n> es toda la sc'ienc'ia c'eujl nj<n> es aRedrada della. mas es vna parte
+della El ofic[']io desta facultad & arte me paresce q<ue> es fablar
+apostada mente para amonestar & atraher alos om<ne>s. El fin
+della es atraher los fablando. La diferenc'ia entre el ofic'io & la
+fin es esta; q<ue> enel ofic'io consideramos q<ue> es lo q<ue> se deue fazer enla
+fin. q<ue> es aq<ue>llo para q<ue> se faze. com<m>o dezimos enel fisico q<ue> el ofi-
+c[']io suyo es curar bie<n> para sanar & el fin es sanar conla cura E
+asi conosceremos qual es el ofic[']o & qual es el fin del orador . ca
+lo q<ue> deue fazer aq<ue>llo llamamos ofic'io. E aq<ue>llo por cuya cabsa
+lo deue fazer llamamos fin. La materia dela arte se dize aq<ue>-
+llo en. q<ue> toda la arte & la facultad della consiste com<m>o si dixiesse-
+mos. q<ue>la materia dela medic'ina es las enfermedades & las
+llagas. por q<ue> enesto toda la sc'ienc'ia dela medic'ina se Rebuelue
+E asi podemos dezir q<ue> aq<ue>llas cosas en q<ue> consiste la arte & facul-
+tad oratoria es a saber dela eloq<ue>nc'ia son materia dela arte Re-
+thorica. {GL. [^eloq<ue>nc'ia & Rethori-
+ca & arte oratoria
+todo se entie<n>de aq<u><<i>>
+por vna cosa.]} E estas cosas en q<ue> consiste la materia desta arte
+algunos delos Rethoricos antiguos dixieron q<ue> eran muchas
+algunos cuydaron q<ue> eran mas pocas Ca vn muy antiguo Re-
+thorico q<ue> llamaron gorgias leontino dizia q<ue>el bue<n> orador
+deuja poder fablar muy bie<n> en todas las cosas. E segu<n>t esto}
+[fol. 8v]
+{CB1.
+fazia infinjda & sin medida la materia desta arte Ca si en
+todas las cosas el orador en q<u><<a>>nto orador puede bien fablar ssy-
+guese q<ue> todas las cosas son materia deste arte. Aristotile<<s>>
+q<ue> fue despues el qual dio aesta arte muchas ayudas & mu-
+chos ornamentos & apareJos dizia q<ue> en tres maneras de co-
+sas consiste el ofic'io del Rethorico. las quales el no<n>braua asi.
+demostractiua. deliberactiua & Judic'ial. demostractiuo es
+aq<ue>llo q<ue> se faze en loor o vituperyo de alguna c'ierta persona.
+com<m>o q<u><<a>>ndo loamos o vituperamos & denostamos A alguno
+deliberactiuo es aq<ue>llo de q<ue> husan en alguna discreptac'ion &
+consultac'ion c'iujl para hordenanc'a de sentenc'ia. com<m>o q<u><<a>>ndo
+se toma conseJo para fazer alguna cosa. Judic'ial es aq<ue>llo
+de q<ue> se husa enel Juyzio & tiene en si acusac'ion & defensio<n> &
+petic'ion & contradic'tion. com<m>o q<u><<a>>ndo los abogados contienden
+qujer sea cabsa crimjnal. qujer c'iujl. E por c'ierto segu<n>t nu-
+estra opinjon la arte & facultad del orador enesta materia
+partida asi en tres partes consiste segu<n>t q<ue> aristotiles dixo Ca
+vn sabidor q<ue> llamaron hermogoras q<ue> enesto qujso fablar.
+nj<n> paro mientes lo q<ue> dixo nj<n> entendio q<u><<a>>nto dizia Ca dixo
+asi q<ue>la materia del orador se partia en dos partes. ala vna
+llamaua cabsa ala otra q<u>istion. La cabsa dizia q<ue> era aq<ue>lla
+cosa q<ue> tiene en si contienda en fablar con ynterposic'io<n> de c'ier-
+tas personas E esta nos bie<n> la atribuymos al orador Ca segu<n>
+desuso deximos en tres partes la distingujmos. es a saber
+Judic'ial. deliberactiua & desmostractiua. E esto ala demostra-
+tiua}
+[fol. 9r]
+{CB1.
+paresce pertenescer. la qujstion dizia el q<ue> era aq<ue>lla cosa en q<ue>
+hay contienda en fablar sin declarac'ion de c'iertas personas en
+esta manera. com<m>o si se preguntase alguno si hay algu<n>t bien
+enla vida saluo la honestad o si son verdaderos los sentidos de
+los om<ne>s. o qual es la forma del mundo o q<u><<a>>nta es la grandeza
+del sol E magnjfiesta cosa es q<ue> no<n> dixo bien. ca todo om<n>e pue-
+de entender q<ue> estas questiones son muy aRedradas del ofic'io del
+Rethorico E grant locura me paresce atribuyr al orador asi co-
+m[<m>]o pequen~as cosas aq<ue>llas en q<ue>los soberanos yngenjos delos phi-
+losophos con muy grande trabaJo fuero<n> gastados es a saber la<<s>>
+questiones muy altas & princ'ipios profundos delas sc'ienc'ias
+asi com<m>o estas questiones en q<ue> posimos enxiemplo en q<ue> despendie-
+ron sus vidas. los antiguos sabidor<e>s. E si por ventura horma-
+goras enestas cosas sopo mucho alcanc'andolo por su studio & por
+doctrina. paresceme q<ue> esforc'andose en su sc'ienc'ia dixo falso de
+la arte del orador & no<n> declaro lo q<ue>la arte podia. mas lo q<ue> el por
+su persona alcanc'aua E aquj no<n> preguntamos lo q<ue> sabe ca-
+da vno por su persona. mas lo q<ue>le pertenesce saber por Razon des-
+ta arte. Ca si alguno sabe muchas & diuersas cosas, no<n> es Ra-
+zon delas atribuyr todas a vna sc'ienc'ia o arte. mas deue se at<r><<i>>-
+buyr cada vna asu propria arte o sc'ienc'ia E q<u><<a>>nto agora pa-
+resceme q<ue> tal es la fuerc'a delos om<ne>s q<ue> mucho mas ayna les
+qujtarian la Rethorica q<ue> an~ader la philosophia Ca mas
+ayna fallaria<n> om<ne>s q<ue> no<n> sepan alguna dellas. q<ue> otros q<ue> sean
+habiles para saber las amas Por ende no<n> esde poner sso la
+Rethorica lo q<ue> es mas dific'ile q<ue> ella com<m>o es lo que pertenesc'e}
+[fol. 9v]
+{CB1.
+a las sc'ienc'ias mas altas. njn digo yo esto por q<ue> me paresca
+escripta mentirosa mente la arte de Rethorica q<ue> este hora-
+goras fizo ca asaz yngenjosa & diligente mente ayunto ene-
+lla algunas cosas escogidas delas antiguas artes E avn el
+alguna cosa dixo de nueuo. Pero muy poca cosa es al orador
+fablar dela arte segu<n>t q<ue> hermagoras fizo. ca mayor cosa es
+fablar segu<n>t la arte. lo qual todos veemos por sus scripturas
+q<ue> el no<n> sopo fazer. Por ende dexadas las otras opinjones pa-
+rescenos q<ue> la materia dela arte Rethorica es la q<ue> deximos que
+aristotiles dizia.
+{RUB. Titulo ij delas partes dela Rethorica}
+{IN3.} Las partes desta arte son aq<ue>llas q<ue> ya muchos Retho-
+ricos dixieron & son las q<ue> se siguen. Jnuenc'io<n>. dis-
+posic'ion. elocuc'ion. memoria. pronunc'iac'ion. La
+Jnuenc'ion q<ue> quiere dezir fallamje<n>to es aq<ue>l pensamje<n>to & yma-
+ginac'ion q<ue> om<n>e ha para fallar cosas verdaderas o verjsimjles
+q<ue> qujere dezir aq<ue>llas q<ue> parescen verdaderas q<ue> muestran la cosa
+q<ue> quiere prouar ser Razonable. La disposic'ion q<ue> eneste propo-
+sito qujere dezir hordenanc'a. es el Repartimje<n>to q<ue> faze om<n>e de
+las cosas falladas ponjendo cada vna en su horden. La elocuc'io<n>
+q<ue> qujere dezir fablar apuesto es el apropriamje<n>to q<ue> se faze de pa-
+labras & de conclusiones fermosas & sufic'ientes para declarar
+lo q<ue> om<n>e qujere desir. Memoria que es Remenbranc'a es aq<ue>l
+Retenjmje<n>to firme q<ue> el corac'on faze delas palabras & delas}
+[fol. 10r]
+{CB1.
+cosas en q<ue> qujere fablar. Pronunc'iac'io<n> q<ue> eneste proposito q<u><<j>>ere
+dezir la buena expresion dela lengua es el enderesc'amje<n>to dela
+boz & delos gestos del cuerpo q<ue> conuengan conla q<u><<a>>lidat delas pa-
+labras q<ue> dize & conla dignjdat dela materia en q<ue> fabla E asi
+breue me<n>te declaradas estas cosas dilataremos para otro t<iem>po la<<s>>
+Razon<e>s por ende podemos prouar el genero & el fin & el ofic'io des-
+ta arte Ca estas cosas han menester muchas palabras & no<n> so<n>
+tan nescesarias para declarac'ion desta arte nj<n> para las dotrina<<s>>
+della Mas qualquier q<ue> escriue dela Rethorica deue escriujr
+destas otras dos cosas q<ue> aella atan~en q<ue> agora no<m>bramos. Con-
+ujene a saber dela materia dela arte & delas partes della E
+por c'ierto amj paresce q<ue> deuemos fablar destas dos cosas ma-
+teria & partes ayuntada mente E en comjienc'o desta fabla
+deue ser prjnc'ipal me<n>te considerado q<ue> tal deue ser la Jnuenc'ion
+q<ue> nombramos suso por primera me<n>te Ca en qual qujer ma-
+nera delas cabsas. qujer la cabsa demostratiua qujer delibe-
+ratiua o Judic'ial es princ'ipal me<n>te la Jnuenc'ion E esto es
+de saber q<ue> toda cosa q<ue> tiene en si disputac'ion o alguna contien-
+da conujene q<ue> contenga alguna question. de fecho o de non-
+bre o de genero o de ac'tion. genero se llama aq<ue>lla cosa q<ue> con-
+tiene en si muchas & diuersas spec'ies distintas & apartadas
+Com<m>o dezimos animal Ca sso el se contiene la spec'ie delos
+om<ne>s & la spec'ie delos cauallos & delos leon<e>s & delas otras co-
+sas q<ue> tienen anjma sensitiua. La qujstion de q<ue> nasce la
+cabsa llamamos constituc'io<n>. Constituc'io<n> eneste proposito
+se dize aq<ue>l primero debate & Rebuelta delas cabsas el qual
+se faze q<u><<a>>ndo vno dize algo E otro le contradize com<m>o en[e]ste}
+[fol. 10v]
+{CB1.
+exemplo dize vno a otro. tu feziste [*e]sto Responde el otro no<n> lo fi-
+ze o dize fizelo con derecho. Esta constituc'io<n> de q<ue> fabla tullio e<<s>>
+poco mas o menos la q<ue> llama<n> los Juristas contestac'ion. mas nos
+por fablar general me<n>te esta constituc'io<n> llamar la hemos (ab)
+contienda E esto asi propuesto deuemos saber q<ue> q<u><<a>>ndo la contie<n>-
+da es sobre fecho q<ue> se aya de prouar con presunc'ion<e>s llamasse
+Contienda conJetual q<ue> qujere dezir de sospecha. q<u><<a>>ndo es sobre
+nonbre por q<ue> el debate es sobre la propiedat del vocablo E por
+q<ue> la natura del nombre se ha de definjr & declarar co<n> palabras
+llamase contienda difinjtiua por q<ue> es sobre difinjc'io<n> & declarac'i-
+on del vocablo. difinjc'ion es aq<ue>lla Razon q<ue> declara q<ue> es la cosa
+q<ue> qujere<n> saber. Com<m>o si preguntasemos q<ue> cosa es om<n>e E sse
+Respondiese om<n> es anjmal Razonable & mortal Ca no<n> ay
+enel mu<n>do cosa q<ue> sea anjmal Razonable & mortal q<ue> non
+sea om<n>e Por ende estas palabras se llaman difinjc'io<n> & por-
+esto la contienda q<ue> es sobre sobre ello llamase difinjctiua E q<u><<a>>ndo
+acaesce q<ue> la contienda es sobre conoscer la cosa de q<ue> fablan
+de q<ue> genero es. Ca vno dize q<ue> es de vn genero el negoc'io E
+otro dize q<ue> es de otro genero. entonc[']e se llama contienda ge-
+neral. q<ue> qujere dezir contienda q<ue> es sobre conoscer el gene-
+ro dela cosa E q<u><<a>>ndo la contienda depende sobre esto es a sa-
+ber q<ue> se dize q<ue> no<n> pide aq<ue>l q<ue> deue pedir o q<ue> no<n> pide a qujen
+deue o no<n> delante quje<n> o no<n> enel t<iem>po o no<n> por la ley o no<n> por
+el delito o no<n> por la pena q<ue> devria Esta se llama contie<n>da
+traslatiua q<ue> qujere dezir q<ue> ha menester trasladac'io<n> & mu-
+damjento. Ca se contiende sobre que se deue mudar o la
+persona o la manera E en todo genero de cabsas es nesce-sario}
+[fol. 11r]
+{CB1.
+q<ue> aya algunas destas contiendas Ca donde algunas desta<<s>>
+contiendas no<n> oujere no<n> puede av<er> debate nj<n> deue ser llamada
+cabsa nj<n> pleyto E declaremos todas estas cosas por exemplo<<s>>
+ssobre fecho puede auer contienda en todos tres t<iem>pos. passado.
+presente. por venjr. Enel pasado com<m>o si preguntasen. si vli-
+xes aq<ue>l cauallero griego mato A aJas otro cauallero o no<n> E
+sobre esto se debatiese. Enel presente com<m>o si preguntase si lo<<s>>
+singelianos q<ue> son gente de vna c'ibdat si tiene<n> buena voluntad
+alos Romanos & contendiesen sobre ello Enel por venjr com<m>o
+si preguntasen. si dexaremos en paz a cartago o si verna dende
+algu<n>t dapn~o ala Republica delos Romanos & porfiasen enello
+Contienda sobre el no<m>bre es q<u><<a>>ndo son concordes enel fecho & pre-
+guntan q<ue> nonbre deue av<er>. E este debate nasce por q<ue> avn q<ue> son
+concordes enel fecho contienden sobre dezir q<ue> cosa es aq<ue>l fecho. por
+q<ue> vn fecho mesmo a vnos paresc'e vno & a otros otro & vno le
+pone vn nombre & otro le pone otro. E enlas contiendas desta
+manera es nescesario de declarar la cosa por su difinjc'io<n> & q<ue> se
+entienda el nombre del vocablo por otras palabras & breue me<n>te
+Com<m>o si alguno furtase alguna cosa sagrada de vna casa de vn
+lego & dubdasen si le deuen condepnar com<m>o a ladron o com<m>o
+a sacrillegio & por la difinjc'ion & declarac'ion dello mostrar q<ue>
+aquel fecho no<n> deue av<er> aquel no<m>bre q<ue> los aduersarios le
+ponen
+{IN2.} Contienda de genero es q<u><<a>>ndo son concordes enel fecho
+& avn enel nombre q<ue> deue av<er> mas el debate es sobre}
+[fol. 11v]
+{CB1.
+conoscer q<ue> taman~o es aq<ue>l fecho & de q<ue> manera es o que tal
+Com<m>o q<u><<a>>ndo contienden si es justo o ynJusto lo q<ue> se fizo o si es pro-
+uechoso o no<n> E asi no<n> debaten sobre el fecho nj<n> sobre el no<m>br<e>
+del. mas sobre saber q<ue> tal es. Ca vno dize q<ue> era lic'ito otro dize q<ue>
+non. E sso esta manera de debate puso hermagoras aquel
+Rethorico q<ue> deximos q<u><<a>>tro partes las quales llamo asi. deli-
+beratiua. demostratiua. Juridisc'ial & negoc'ial E enesto no<n>
+herro poco. por ende entendemos q<ue> este herror suyo es de Repre-
+hender. mas deue ser la Reprehension en breues palabras Ca
+si del todo callasemos & sin allegar Razon alguna le dexasemo<<s>>
+paresceria alos q<ue>lo oyesen q<ue> sin cabsa Razonable le dexamos de sse-
+gujr E si luenga tardanc'a fiziesemos enel Reprehender enbarga-
+riamos lo q<ue> auemos de dezir enlas dotrinas desta arte Por
+ende njn del todo callaremos nj<n> tardaremos mucho en le Repre-
+hender. mas mostraremos su ynsufic'ienc'ia dela manera q<ue> se
+sigue. Si lo deliberatiuo & demostratiuo son generos de cab-
+sas. c'ierto es q<ue> no<n> pueden ser dichos partes de algu<n>t genero de cab-
+sas. Ca vna cosa mesma bie<n> puede ser genero por Respecto a vna-
+cosa. & parte por Respecto a otra. mas por Respecto a vna cosa mes-
+ma no<n> puede ser genero & parte. exiemplo desto. esta cosa anjmal
+por Respecto al om<n>e es genero ca conprehende en si la spec'ie delos
+om<ne>s & de otros anjmales E por Respecto a la substanc'ia es parte
+Ca la substanc'ia conprehende al anjmal & otras cosas no<n> anima-
+das. mas por vn Respecto mesmo vna cosa no<n> se puede dezir genero
+& parte E q<ue> deliberatiuo & demostratiuo sean generos de cabsa<<s>>
+prueuase asy por sufic'iente deujsion Ca o diremos q<ue> hay vno solo}
+[fol. 12r]
+{CB1.
+q<ue> llaman Judic'ial o que son tres E si dezimos q<ue> no<n> hay genero
+alguno de cabsas esto seria locura Ca el mesmo hermagoras di-
+ze q<ue> son muchas cabsas & da sus doctrinas enellas E si muchas
+son nescesario es q<ue> aya algu<n>t genero dellas E si dezimos q<ue> es vn
+solo genero Judic'ial. no<n> se podria defender. ca la deliberac'io<n> & demos-
+trac'ion no<n> son semeJantes entre sy. E mucho son diuersas de lo
+Judic'ial & cada vna tiene su fin ha q<ue> tiende. E asi nescesario es
+de concluyr q<ue> todas tres son generos de cabsas. delo qual se sigue
+q<ue> demostrac'ion & deliberac'ion no<n> pueden ser partes de algu<n>t ge-
+nero de cabsas. ca ellas son generos. E asi mal dixo herma-
+goras en dezir q<ue> eran partes dela contienda q<ue> es sobre genero la
+qual se llama general. E desto se sigue otra tal Razon q<ue> si lo
+demostratiuo & deliberatiuo no<n> pueden ser dichas partes de algu-
+na cabsa. mucho menos se pueden dezir partes dela parte dela
+cabsa. E la contienda parte es dela cabsa. ca no<n> se yncluye la
+cabsa so la contienda. mas la contienda se yncluye so la cabsa
+E pues demostrac'ion & deliberac'ion no<n> pueden ser dichas par-
+tes de algu<n>t genero de cabsas por q<ue> ellas mesmas son generos
+mucho menos se puede dezir q<ue> son partes de la parte com<m>o her-
+magoras dixo ende mas q<ue>la contienda & qual qujer parte de-
+lla no<n> es al si no<n> el enpuxamje<n>to & contrariac'io<n> q<ue> faze om<n>e ala
+Jntenc'io<n> del otro. delo qual se sigue q<ue> lo q<ue> no<n> es contrariamje<n>to
+ha Jntenc'ion del otro nj<n> es contienda nj<n> parte de contienda E
+com<m>o la deliberac'io<n> & demostrac'io<n> no<n> sea contrariac'io<n> ha Jnten-
+c'ion del otro siguese q<ue> no<n> es contienda nj<n> parte de contienda E
+pues hermagoras bien confeso q<ue>la contienda es contraria}
+[fol. 12v]
+{CB1.
+ha Jntenc'ion de otro. nescesario es q<ue> confiese tanbien q<ue>la delibe-
+rac'ion & demostrac'io<n> no<n> son contienda nj<n> parte de contienda E
+esta Razon mesma allego contra el avn q<ue> diga q<ue>la primera a-
+firmac'ion q<ue> faze el acusador o el primero Ruego q<ue> faze el defen-
+sor son contienda Ca toda via ha lugar la Razon por q<u><<a>>nto de-
+mostrac'io<n> & deliberac'io<n> no<n> pertenescen a esto. E avn puedesse
+allegar otra Razon la qual es esta. La cabsa conJetural no<n> pue-
+de ser en vno & avn Respecto & en vn genero mesmo conJetural
+& difinjtiua. nj<n> la cabsa difinjtiua puede ser difinjtiua & tras-
+latiua E general mente fablando no<n> hay alguna contienda
+nj<n> parte de contienda q<ue> pueda Junta me<n>te tener su natura &' la
+dela otra. Ca cada vna dellas se deue considerar sinple me<n>te segu<n>t
+su natura E si otra alguna se ayunta doblase el numero delas
+contiendas. mas no<n> se acresc'ienta la fuerc'a & la natura de ca-
+da vna. Com<m>o si acaesc'iese q<ue> oujesen contienda sobre fecho &
+sobre entendimje<n>to de vocablo conJunta me<n>te. ca por ende no<n> se
+puede dezir q<ue> estas dos cosas pertenescen a vna manera de conti-
+enda. Ca la vna es conJetural & la otra difinjtiua & njn la con-
+Jetural conprehende ala difinjtiua. nj<n> la difinjtiua ala conJetu-
+ral. mas son dos juntas la qual no<n> acaesce enla cabsa delibera-
+tiua. Ca en su genero mesmo contiene contienda conJetural &
+contienda de genero & difinjtiua & traslatiua o vna dellas o
+alas vezes muchas. Esso mesmo acaesce enla demostrac'ion
+delo qual se sigue q<ue>la demostrac'io<n> & la deliberac'ion. nj<n> son conti-
+enda nj<n> parte de contienda com<m>o hermagoras dixo. mas son ge-
+neros de cabsas com<m>o nos ante deximos {RUB. Capitulo iij.}}
+[fol. 13r]
+{CB1.
+{IN3.} Tornando a n<uest>ro proposito esta contienda de genero la
+qual llamamos general. parescenos q<ue> tiene dos p<<a>><r>tes
+las quales son estas. Juridisc'ial & negoc'ial. Juridis-
+c'ial es aq<ue>lla en q<ue> se cata qual es lo egual & lo Justo & si deue ser
+dado galardon o pena. negoc'ial es aq<ue>lla en q<ue> se considera q<ue> dere-
+cho cunple & q<ue> egualdat segu<n>t la costunbre dela c'ibdat & este car-
+go parescen tener cerca de nos los Jurisconsultos. E esta parte
+Juridisc'ial se distinge en otras dos partes las quales se llama<n> asy.
+absoluta & asuntiua. absoluta se dize aq<ue>lla q<ue> contiene en si q<u><<i>>s-
+tion si es derecho o no<n> aq<ue>llo sobre q<ue> se contiende. asuntiua es
+aq<ue>lla q<ue> de si mesma no<n> da cosa firme para defender. mas de fuera
+toma alguna defension. E esta asuntiua tiene q<u><<a>>tro partes las q<u><<a>>-
+les son estas. Otorgamjento qujtamje<n>to del delito. Relac'ion del
+delicto. comparac'on. otorgamje<n>to es q<u><<a>>ndo el Reo no<n> defiende lo q<ue>.
+es fecho. mas pide q<ue> sea perdonado E esta parte q<ue> se dize otorga-
+mje<n>to distingese en otras dos partes. las quales se llaman assy
+Purgac'ion & Ruego. la purgac'ion es q<u><<a>>ndo se otorga el fecho.
+mas njegase la culpa. E esta purgac'io<n> tiene otras tres partes
+las quales se llaman asi. Jndiscrec'ion. caso. nescesidat El Rue-
+go es q<u><<a>>ndo el Reo confiesa q<ue> peco sc'iente mente & pide q<ue> le sea per-
+donado la qual manera acaesce tarde. qujtamjento del delicto
+es q<u><<a>>ndo el Reo qujere qujtar el delicto q<ue> le pone<n> de sy & de su culpa
+& trabaJa por lo pasar en otro E esto se puede fazer de dos ma-
+neras. la vna q<u><<a>>ndo la cabsa del fecho se pasa a otro. la otra q<u><<a>>n-
+do el fecho se pasa en otro. La cabsa se pasa en otro q<u><<a>>ndo el Reo
+dize q<ue> aq<ue>l fecho se fizo por fuerc'a o poderio de otro El fecho se}
+[fol. 13v]
+{CB1.
+pasa en otro q<u><<a>>ndo el Reo dize q<ue> otro deujera & pudiera fazer aq<ue>l
+fecho q<ue>le aponen Razonable mente Conparac'ion se dize q<u><<a>>ndo
+el Reo allega q<ue> fizo aq<ue>l fecho de q<ue>le Reprehenden por q<ue> otro algu-
+no fiziese alguna cosa buena & prouechosa para lo qual co<n>plia
+q<ue> el Reo fiziese aq<ue>llo q<ue> fizo. Enla q<u><<a>>rta contienda q<ue> llamamo<<s>>
+traslatiua el debate es sobre si se demanda la cosa por qujen o
+a quje<n> o delante quje<n> o por la manera o por la ac'tion o enel t<iem>po
+q<ue> deue o q<u><<a>>ndo sobre otra qual qujer manera de mudamje<n>to se
+entiende E esta man<er>a de contienda dizen q<ue>la fallo herma-
+goras Ca com<m>o qujer q<ue> muchos delos vieJos oradores husasen
+della no<n> curaron dela escriujr nj<n> la posieron los scriptores des-
+ta arte enel numero delas contiendas. E despues venjero<n> algu-
+nos Rethoricos q<ue> dixieron q<ue> hermagoras no<n> la fallara de nue-
+uo. mas no<n> dixieron v<er>dat enello. lo qual fizieron no<n> tanto
+por no<n> lo saber com<m>o por enbidia & detraer de hermagoras. E
+asi com<m>o oystes auemos declarado las contiendas & las parte<<s>>
+dellas. mas los exemplos de cada vna parescenos q<ue>los declara-
+remos mas prouechosa mente q<u><<a>>ndo en cada genero fizieremo<<s>>
+los argumentos Ca la Razon del argumentar se faze mas cla-
+ra q<u><<a>>ndo cerca del genero dela cabsa se pone luego el exemplo.
+{RUB. Capitulo iiij<<o>>.}
+{IN3.} Asi declarada la contienda dela cabsa es bien de con-
+siderar si la cabsa es sinple o es ayuntada E si es
+ayuntada. si es por ventura ayuntada de muchas}
+[fol. 14r]
+{CB1.
+questiones. o si es ayuntada de alguna conparac[']ion. sinple se di-
+ze la cabsa q<ue> tiene vna question. com<m>o si preguntasemos si es bien
+fazer guerra a corinthio o no<n>. ayuntada de muchas questiones
+la cabsa en q<ue> se fazen muchas preguntas enesta manera com<m>o sy
+dixiesemos. si es bien destruyr del todo a cartago. o si es bie<n> dexar
+morar enella a sus naturales. o si seria bie<n> fazer la colonja es
+a saber tirar dende todos los naturales & poblarla de otras gent<e>s
+Ca a esto llamaua<n> colonja por conparac'io<n> se dize ayuntada la
+cabsa q<u><<a>>ndo se pregunta por manera de contenc'io<n> qual es lo me-
+Jor entre diuersos fechos. com<m>o si preguntasemos. qual seria
+meJor enbiar hueste a mac'edonja para q<ue> ayuden a n<uest>ros conpan~e-
+ros & amjgos o tenerla en ytalia para q<ue> aya grande copia de ge<n>-
+tes contra anjbal E es de considerar de( )mas desto si el debate es
+sobre scripto o sobre Razon. debate de scripto se dize aq<ue>l q<ue> nasce de
+la manera dela scriptura & deste debate son c'inco generos. los
+quales son estos. El primero q<u><<a>>ndo las palabras dela scriptu<r>a
+parescen contradezir conla Jntenc'ion del scriptor. El segundo
+q<u><<a>>ndo dos leys o tres o mas entre si discuerdan. El terc'ero q<u><<a>>ndo lo
+q<ue> es scripto paresce signjficar dos cosas o mas. El q<u><<a>>rto q<u><<a>>ndo por
+lo q<ue> es scripto se puede considerar lo q<ue> no<n> es scripto. El qujnto
+q<u><<a>>ndo se pregunta dela fuerc'a dela palabra segu<n>t q<ue> deximos enla
+contienda difinjtiua. E estos c'inco generos se llaman asi El
+primero llaman de scripto & de Jntenc'ion El segundo de contra-
+rias ley<e>s. El tercero anbiguo es a saber dubdoso El q<u><<a>>rto di-
+zen disputatiuo El qujnto difinitiuo. disputar se dize q<u><<a>>ndo
+toda la question no<n> esta enla scriptura. mas esta en alguna
+argumentac'ion E q<u><<a>>ndo considerado el genero dela cabssa}
+[fol. 14v]
+{CB1.
+conosc'ieres la manera dela contienda & entendieres si es sinple
+o ayuntada . deues avn mas adelante considerar q<ue> tal es la ques-
+tion & qual es la Razon & qual es la Judicac'ion q<ue> qujere dezir
+eneste proposito dubda E qual es el firmamento dela cabsa q<ue>
+qujere dezir prueua. las quales cosas todas salen dela contien-
+da. la question es aquel debate q<ue> se engendra & nasce dela Rebu-
+elta delas cabsas enesta man<er>a. q<u><<a>>ndo dize vno a otro no<n> feziste
+esto con derecho E Responde el otro con derecho lo fize. la Rebuelta
+delas cabsas es aq<ue>lla en q<ue> esta la contienda & desta nasce el de-
+bate q<ue> llamamos question. enesta man<er>a si fizo aq<ue>l esto co<n> de-
+recho o no<n>. La Razon es aq<ue>lla q<ue> contiene la cabsa & si esta es
+tirada no<n> queda debate alguno enla cabsa {GL. [^Tulljo aquj tan<n>e
+la ystoria de troya
+en q<ue> se cue<n>ta q<ue> aga-
+meno<n> fue muerto
+por su muger q<u><<a>>ndo
+torno dela conq<u><<i>>sta
+& su fiJo orestes ma-
+tola por ello avn que
+era su madre]} E para declarac'io<n>
+desto husemos de vn exiemplo publico & pongamos q<ue> acusan
+a orestes por q<ue> mato asu madre. c'ierto es q<ue> no<n> tiene defensio<n>
+alguna saluo si dize q<ue> lo fizo con derecho por q<ue> ella mato asu
+padre Ca si esta Razon no<n> oujese no<n> avria debate alguno. Por
+ende la Razon desta cabsa es. q<ue> ella mato A agamenon. La
+Judicac'ion es aq<ue>l debate q<ue> nasce dela confirmac'io<n> & dela destruy-
+c'ion dela Razon. Com<m>o en(<n>)este mesmo exiemplo dize orestes.
+mate amj madre por q<ue> ella mato amj padre. Replica el aduer-
+sario. njn por ende deujeras tu matar atu madre. Ca pudiera
+ella ser punjda sin q<ue> tu cometieses taman~a maldad. E desta
+Rebuelta dela Razon. nasce aq<ue>l debate q<ue> llamamos Judicac'io<n>
+& Rebuelta E esto [*es] si fizo orestes bien o mal en matar asu ma-
+dre por q<ue> mato asu padre. firmamjento se dize aq<ue>lla argume<n>-
+tac'ion muy firme & Rezia q<ue> faze el defensor para traer por si la
+Judicac'ion. com<m>o si qujsiese dezir orestes q<ue> esa mesma volu<n>tad}
+[fol. 15r]
+{CB1.
+tenja de fazer ael q<ue> asu padre. Ca le qujsiera matar & assus
+hermanos & dstruyr su Regno & la fama de su linage. E por
+ende q<ue> asus fijos princ'ipal me<n>te conuenja dar le la pena. E
+en esta manera nasce la Judicac'ion enlos otros generos de con-
+tiendas saluo enla q<ue> llamamos conJectural. por q<ue> enella no<n>
+se contiende sobre la Razon por q<ue>el fecho no<n> se otorga E por en-
+de no<n> nasce la Judicac'ion dela Rebuelta dela Razon. mas es nes-
+cesario q<ue>la question & la Judicac'ion sea todo vno & es esta. si el
+fecho q<ue> se dize se fizo o non & q<u><<a>>ntas contiendas son enla cabsa
+& q<u><<a>>ntas partes dellas. tantas es nescesario q<ue> sean las questio-
+nes & tantas las Razones & Judicac'iones & firmame<n>tos
+{RUB. Titulo .iij. delas partes dela causa E primeramente del
+exordio que qujere dezir comjenc'o.
+Cap<itul><<o>> prim<er>o.}
+{IN3.} Falladas todas estas cosas q<ue> son enla cabsa. deuemo<<s>>
+considerar las partes de toda la cabsa. ca no<n> es nesce-
+sario q<ue> se considere primero lo q<ue> primero se ha de de-
+zir por q<ue> las cosas q<ue> primero se han de dezir para q<ue> se apropie<n>
+bie<n> ala cabsa deuen se traer delas q<ue> despu<e>s se sigujere<n> por ende
+desq<ue> deligente mente & conla arte fueren falladas las cosas q<ue>
+pertenescen ala Judicac'ion & dubda & los argume<n>tos della &
+tratados con cuydado & pensamje<n>to entonc'e son de hordenar la<<s>>
+otras partes dela orac'ion q<ue> quiere dezir fabla. E estas segu<n>t
+anos paresce son seys. las quales son estas. exordio. q<ue> quiere
+dezir comjenc'o. narrac'ion q<ue> qujere dezir Recontamjento.}
+[fol. 15v]
+{CB1.
+partic'ion. confirmac'ion. q<ue> qujere dezir prueua. Reprehension &
+conclusion. E por q<ue> el exordio deue ser princ'ipio de todas las otras
+partes. por ende primera mente daremos del dotrinas algunas
+El exordio es aq<ue>lla fabla q<ue> atrae sufic'iente mente el corac'on de
+qujen oye a lo q<ue> adelante se ha de dezir. E esto se fara si se fiziere el
+corac'on de qujen oye. benjuolo q<ue> qujera bie<n> a quje<n> fabla & acten-
+to q<ue> pare mjentes en lo q<ue> se dize & ensen~able Por ende quje<n> bie<n>
+qujere fazer su exordio & comenc'ar su cabsa. nescesario es q<ue> co<n>
+deligenc'ia conosca primero el genero della. los generos delas
+cabsas son c'inco. los quales son estos. honesto. maraujllosso.
+baxo. dubdoso. obscuro. honesto genero de cabsa se dize q<u><<a>>ndo la
+cabsa es tal en q<ue> el corac'on de qujen oye da fauor sin njnguna
+fabla n<uest>ra. maraujlloso se dize aq<ue>l en q<ue> el corac'on delos q<ue> han de
+oyr esta enagenado & se estran~a dello. baxo se dize q<u><<a>>ndo la cabsa
+es menosprec'iada por el oyente & no<n> cura mucho de parar mjent<e>s
+enella. dubdoso se dize q<u><<a>>ndo no<n> paresce en q<ue> esta la dubda o la
+cabsa es tal q<ue> tiene parte de honestad & parte de torpeza de guj-
+sa q<ue> puede traer. bien q<ue>renc'ia & san~a & odio. obscuro se dize
+q<u><<a>>ndo los oyentes estan tardineros o perezosos o la cabsa es
+Rebuelta con negoc'ios dific'iles para entender. E pues tan
+diuersos generos son delas cabsas. necesario es q<ue>los exordio<<s>>
+sean diuersos por q<ue> en cada genero se deue fazer el exordio de su
+manera. E el exordio partese en dos partes. la vna se llama
+princ'ipio & la otra Jnsinuac'ion. El princ'ipio se dize aquella
+fabla q<ue> clara mente faze al oyente benjuolo & ensen~able & acte<n>-
+to. Jnsinuac'ion se dize aq<ue>lla fabla q<ue> con vna simulac'ion & co<n>
+obscuro Rodeo entra enel corac'on del oyente E enel genero de}
+[fol. 16r]
+{CB1.
+cabsa q<ue> llamamos maraujlloso. si del todo no<n> estan san~udos los
+oyentes pueden auer la benjuolenc'ia por manera de princ'ipio es
+a saber fablando enella clara[ ]mente. si por ventura estan mucho sa-
+n~udos los oyentes estonc'es es forc'ado de Recurrir ala Jnsinuac'ion e<<s>>
+a saber a fablar enla benjuolenc'ia por man<er>a de Rodeo. Ca si la paz
+& benjuolenc'ia se pide alos san~udos clara[ ]mente. no<n> sola mente
+no<n> se alcanc'a. mas acresc'ientase & enc'iendese el odio. Enel
+genero baxo dela cabsa es forc'ado de fazer actento al oyente por
+tirar el menosprecio. Enel genero dubdoso dela cabsa si es dub-
+doso por q<ue> tiene dubdosa la Judicac'ion es de comenc'ar el esordio
+dela mesma Judicac'ion si es dubdosa por q<ue> tiene parte de torpeza
+& parte de honestad cunple buscar benjuolenc'ia delos oyentes &
+fazer q<ue> paresca pasar la cabsa al genero honesto. q<u><<a>>ndo es el
+genero honesto puedese dexar este princ'ipio & si cunpliere come<n>-
+c'ar la fabla dela narrac'ion o de alguna ley o de alguna muy
+firme Razon de n<uest>ro yngenjo E si por ventura nos plugujere
+husar de princ'ipio buscaremos conel com<m>o acrescentemos la
+benjuolenc'ia delos oyentes E enel obscuro genero dela cabsa
+cunple q<ue> fagamos con n<uest>ro princ'ipio ensen[<n>]ables alos oyent<e>s
+{RUB. Capitulo .ij.}
+{IN3.} Ya deximos q<ue> cosas se deuen fazer enel exordio. queda
+q<ue> mostremos con q<ue> Razones se podra esto acabar. E
+es de saber. q<ue> la benjuolenc'ia delos oyentes se alcanc'a
+por vna de q<u><<a>>tro cosas. o por n<uest>ra persona. o por la persona delo<<s>>
+aduersarios. o por la persona delos Juezes. o por la natura dela}
+[fol. 16v]
+{CB1.
+causa. por n<uest>ra persona se alcanc'ara si de n<uest>ros fechos & de n<uest>ras
+buenas obras dixieremos algo sin hufana. si desfizieremos lo<<s>>
+malefic'ios q<ue> nos aponen & las no<n> honestas sospechas. Si decla-
+raremos los dapn~os q<ue> nos han acaesc'ido & los trabaJos & di-
+ficultades. Si husaremos de humjl(l)de Ruego. Por la perso-
+na delos aduersarios se alcanc'ara benjuolenc'ia si los fiziere-
+mos venjr en odio & en Jnujdia o en menosprec'io delos oyent<e>s
+En odio vernan si dixieremos lo q<ue> ellos fizieron soberujosa
+& cruel mente & con malic'ia. En Jnujdia vernan si dixie-
+remos de sus Riquezas de su poderio de sus parientes & q<ue> hu-
+san dello con soberuja perezosa mente de guisa q<ue> paresca q<ue>
+mas confian enestas cosas q<ue> enla Justic'ia de su cabsa E en
+menosprec'io vernan si dixieremos de su Rudeza & de su negli-
+genc'ia & de su poquedat & de su studio perezoso & oc'io luxurioso.
+Por la persona delos oyentes se alcanc'ara la benjuolenc'ia
+si contaremos las cosas q<ue> por ellos son fechas. con fortaleza
+Con sabiduria con mansedat. E q<ue> no<n> se faga esto con mucha
+adulac'ion & Ronc'eria. Esso mesmo si dixieremos en quan
+honesta Reputac'ion estan & q<ue> esperanc'a tiene<n> todos de su Juy-
+zio & abtoridat. delas cosas mesmas se alcanc'ara la benjuo-
+lenc'ia si ensalc'aremos n<uest>tra cabsa loandola. si abaxaremos
+la cabsa delos aduersarios & la traxieremos en menosprec[']io.
+Actentos faremos los oyentes si demostraremos q<ue> las cosas
+q<ue> auemos de dezir son grandes o nueuas o Jncridibiles o ta-
+les q<ue> tan~en a todos & alos q<ue> las han de oyr o a dios Jnmor-
+tal o ala Republica E si prometieremos q<ue> declararemos}
+[fol. 17r]
+{CB1.
+en breue n<uest>ra cabsa & la Judicac'ion o Judicac'iones q<ue> aella pertenes-
+c'en. Ensen~ables faremos los oyentes si fermosa mente & en bre-
+ue declararemos el efecto de n<uest>ra cabsa es a saber aq<ue>llo en q<ue> esta
+todo el debate. Ca si qujeres fazer ensen~able al oyente. nescesario
+es q<ue>le fagas actento. Ca aq<ue>l es mucho ensen~able q<ue> esta muy ac-
+tento & con grande deligenc'ia apareJado para oyr. {RUB. Cap<itul><<o>> iij.}
+{IN3.} De aquj adelante digamos delas Jnsinuac'iones com<m>o se ha<n>
+de tractar q<ue> son aq<ue>llas fablas q<ue> por manera de disimulac'io<n>
+& de Rodeo se fazen E es de husar dela Jnsinuac'ion q<u><<a>>ndo el
+genero dela cabsa es maraujlloso. es a saber q<u><<a>>ndo el corac'on del oye<n>-
+te es contrario segu<n>t desuso deximos E esto se faze sen~alada me<n>-
+te por tres Razones o alguna dellas. La primera si enla cabsa es
+alguna torpeza. La segunda si el oyente esta enformado de otros en<e>l
+contrario. La tercera si dan lugar al orador q<ue> fable enel t<iem>po q<ue> estan
+ya enoJados los oyentes de oyr a otros. Ca por esto alas vezes no<n> me-
+nos q<ue> por las otras Razones acaesce de se enoJar el oyente & a san~ar-
+se contra el orador. Si la torpeza dela cabsa trae aborresc'imje<n>to al
+oyente. si es por q<ue> tan~e a om<n>e q<ue> el no<n> qujera bie<n>. es de fablar de otro
+q<ue> el ama. Si es por q<ue> la cosa no<n> le paresce bie<n>. es de fablar de otra q<ue>
+ael plega. o alas vezes por la cosa q<ue> aborresce es de fablar de om<n>e
+q<ue> le plaze E por el om<n>e q<ue> qujere mal es de fablar dela cosa q<ue> le pa-
+resce bien. de gujsa q<ue> el corac'on del oyente sea traydo de lo q<ue> aborres-
+ce alo q<ue> ama E disimularas q<ue> no<n> qujeres defender aq<ue>llo cuya de-
+fension cuydan q<ue> tomas E desque el oyente fuere fecho mas ma<n>-
+so puedes entrar passo a passo enla defension & dezir q<ue> aq<ue>llas cosa<<s>>}
+[fol. 17v]
+{CB1.
+de que los aduersarios dizen mal tan poco parescen aty bien E
+despues q<ue> oujeres amansado el oyente demostraras q<ue> cosa alguna
+de aq<ue>llas no<n> tan~e aty E q<ue> no<n> qujeres dezir mal alguno delos
+aduersarios. njn vna cosa njn otra de gujsa q<ue> abierta me<n>te no<n>
+digas de aq<ue>llos q<ue> son amados avn q<ue> obscura mente algo se di-
+ga fasta q<ue> en q<u><<a>>nto pudieres aRedres dellos la voluntad del oye<n>-
+te & traeras a proposito abtoridat & Juyzio q<ue>sta digno de sser
+semeJado de algunos q<ue> dieron en semeJante fecho. demostrando
+q<ue> esse mesmo es el q<ue> tu tratas o semeJante o mayor o menor. E
+si por ventura los oyentes estan ynformados por los aduerssa-
+rios & creyeron lo q<ue> por ellos les fue dicho. lo qual ligera mente
+conoscera aquel q<ue> sabe quales cosas son aq<ue>llas q<ue> fazen al o(i)<mn>e
+ser creydo Entonce conujene q<ue> diga el orador q<ue> qujere comen-
+c'ar a fablar de aq<ue>llo q<ue>los aduersarios pensaron q<ue> era mas c'ier-
+to & mas firme & comenc'aras delos dichos del aduersario. sse-
+n~alada mente de aq<ue>llos q<ue> el postrimera me<n>te dixo: o diras co-
+m[<m>]o maraujllandote q<ue> dubdas q<ue> es lo q<ue> primero digas o a qual-
+argumento primero Respondas Ca q<u><<a>>ndo el oyente vee q<ue> aq<ue>l q<ue> el
+cuydaua q<ue> estaua turbado con las Razon<e>s del aduersario es-
+ta apareJado para contradezir con corac'on muy firme. alas
+vezes entiende q<ue> no<n> confia sin Razon el orador. mas q<ue> el creyo de
+ligero. Si por venture el corac'on del oyente se enoJa de oyr por
+q<ue> esta cansado de av<er> oydo a otros prometeras q<ue> qujeres dezir
+mas breue q<ue> cuydauas. no<n> semeJando al aduersario q<ue> dixo
+largo. E si el negoc'io lo lieua. prouechoso es comenc'ar de al-
+guna cosa nueua o q<ue> sea de Reyr. qujer sea nasc'ida delo q<ue> se di-
+xo allj lo qual trae bozes & estruendo. quier sea antigua com<m>o}
+[fol. 18r]
+{CB1.
+fablilla o otra cosa que traya Riso E si ala dignidat del negoc'io
+no<n> pertenesce obra de Juego njn burla. no<n> es dapn~oso traher A
+proposito en comjenc'o alguna cosa triste nueua o espantable.
+Ca asi com<m>o la fartura & enoJo dela vianda se Relieua alas ve-
+zes con alguna cosa amarga. o se amansa con cosa dulce. el
+corac'on cansado de oyr se Refuerc'a con alguna maraujlla & sse
+Renueua con Riso E las cosas q<ue> nos parescia q<ue> apartada me<n>te
+deujamos dezir delas partes del exordio. es a saber del princ'ipio
+dela Jnsinuac'ion son las q<ue> deximos. agora digamos en breue
+de amas Junta me<n>te aq<ue>llo q<ue> nos paresce q<ue> dezir se deue.
+{RUB. Capitulo iiij<<o>>}
+{IN3.} El exordio deue auer mucho de Maduridat & de buena<<s>>
+conclusiones & general mente deue contener en si toda<<s>>
+las cosas q<ue> pertenescen a dignjdat & honestad. Ca aq<ue>llo
+se deue fazer muy bien q<ue> cunple para q<ue> el orador paresca bie<n> al
+oyente. E no<n> deue el orador demostrar enel exordio gran~t fies-
+ta & solepnjdat & Resplandor demasiado. Ca estas cosas fazen
+sospechar q<ue>la fabla se hordeno con artific'ial deligenc'ia & con
+mucho apareJo & cuydado. las quales cosas tiran la fee ala fa-
+bla & la abtoridat al orador. los herrores muy c'iertos delos
+exordios. los quales con gran~t deligenc'ia se deuen esqujuar
+son estos. Vulgar. comu<n>. mudable. luengo. apartado. traspa-
+sado. contra dotrinas. Vulgar se dize el exordio q<ue> se puede apro-
+priar a muchas cabsas. de gujsa q<ue> a cada vno paresca conue-
+njble Comu<n> es el q<ue> puede conuenjr tanbie<n> ala contraria par-
+te com<m>o A aq<ue>lla por qujen se faze. mudable es aq<ue>l q<ue> puede}
+[fol. 18v]
+{CB1.
+ligera mente por el aduersario ser mudado & traydo por la parte
+contraria. Luengo es aquel q<ue> es mas prolixo en palabras o en
+conclusion<e>s q<ue> cunplia. Apartado es aquel q<ue> no<n> se saca dela cab-
+sa mesma nj<n> conujene ala fabla asi com<m>o vn mjenbro della. tras-
+pasado se dize aq<ue>l q<ue> faze otra cosa q<ue> el genero dela cabsa pide.
+Com<m>o si alguno conel exordio faze ensen~able al oyente q<u><<a>>ndo en
+la cabsa conplia procurar bie<n> querenc'ia. o q<u><<a>>ndo husa de princ'i-
+pio donde el negoc'io pide Jnsinuac'io<n>. Contra doctrinas se dize
+el exordio q<ue> no<n> faze cosa alguna de aq<ue>llas por q<ue> los exordios son
+fallados. es a saber q<ue> nj<n> faze al oyente benjuolo nj<n> actento njn
+ensen~able. o por ventura lo q<ue> es peor faze lo contrario & deL
+exordio asaz auemos dicho.
+{RUB. Titulo .iiij<<o>>. dela narrac'ion que qujere dezir Recontamjento
+Cap<itul><<o>> prim<er>o}
+{IN3.} La narrac'ion es aq<ue>lla declarac'ion & Recontamje<n>to q<ue> se
+faze delas cosas fechas & tres generos son delas narra-
+c'iones. El primero es aq<ue>l en q<ue> la cabsa mesma &
+toda la Razon del debate se declara. El segundo es aq<ue>l en q<ue> sale<n>
+a contar algunas cosas de fuera dela cabsa. o por culpar A o-
+tros o por traer alguna semeJanc'a o por delectac'ion q<ue> no<n> sea age-
+na nj<n> estran~a del negoc'io q<ue> se trata. o por fazer mas fermosa
+la fabla. El tercero genero es apartado delos pl<e>itos & delos
+Juyzios & este es aquel en q<ue> por cabsa de delectac'ion no<n> dapn~osa
+con exerc'ic'io de algu<n>t saber se dize algo o se scriue E las partes
+deste genero son dos. La vna consiste princ'ipal me<n>te enlos nego-
+c'ios. La otra enlas personas. La parte q<ue> consiste en Recontamj-
+ento de negoc'ios tiene tres partes. las quales son estas. fabli-
+lla}
+[fol. 19r]
+{CB1.
+ystoria. argumento. fablilla es aquella en q<ue> se Recuentan cosas q<ue>
+no<n> son verdaderas nin avn virisimjles. com<m>o dixo vn poeta q<ue>las
+angujllas muy grandes estauan atadas en vn yugo. ystoria es
+Recontamjento del fecho q<ue> passo q<ue> es ya aRedrado dela memoria
+de n<uest>ra hedat. com<m>o dezimos q<ue> sc'ipion fizo fazer guerra a cartago
+Argumento es la cosa q<ue> es Jnfingida & no<n> fue. mas es tal que
+podiera ser. Com<m>o dize terenc'io en vna poetria fablando de vno.
+este q<u><<a>>ndo salio de effesso. {GL. [^no<m>br<e> de
+logar]} Aquella narrac'ion q<ue> consiste en perso-
+nas es de tal natura q<ue> enella en vno con las cosas mesmas se pue-
+den considerar. las palabras delas personas & los corac'on<e>s en es-
+ta man<er>a. Com<m>o dize terenc'io {GL. [^finge terenc'io en
+vna poetria q<ue> fa-
+blauan vnos o<mn>es
+en vno lo qual no<n>
+fue mas era cosa
+q<ue> podiera acaesc'er]} en aq<ue>lla poetria fingiendo q<ue> fabla-
+ua vno con otro. vjno amj muchas vezes llorando q<ue> fazes Mj-
+c'io por q<ue> pierdes este moc'o. por q<ue> ama. por q<ue> beue. por q<ue> le das es-
+pensas para estas cosas. por q<ue> le das demasiada mente de bestir.
+mucho eres tu Jnabile para castigar el moc'o. mucho es el mo-
+c'o duro alliende delo q<ue> deuja ser segu<n> egualdat & bondat. En
+este genero de narrac'ion deue av<er> mucha fiesta & solepnjdat la
+qual deue el conponedor hordenar & fazer dela diuersidat delos fe-
+chos dela desemeJanc'a delos corac'ones. dela maduridat. dela
+mansedat. dela esperanc'a. del mjedo. dela sospecha. del desseo. dela
+disimulac'ion. del herror. dela mjsericordia. dela mudanc'a. dela for-
+tuna. del dapn~o a desora. de la alegria subita. del alegre fin delas
+cosas. E para esto tomaran orname<n>tos de aq<ue>llo q<ue> dizemos
+adelante c'erca dela elocuc'ion. {RUB. Capitulo .ij.}
+{IN2.} Agora digamos dela narrac'ion q<ue> contiene declarac'ion
+dela cabsa E esta deue av<er> tres cosas. las quales son}
+[fol. 19v]
+{CB1.
+estas. q<ue> sea breue. & clara. & Razonable. breue sera si se tomare
+el comjenc'o de donde es necesario & no<n> se Repitiere desde lo postri-
+mero. E si el fecho de q<ue> basta dezir el efecto no<n> se Recontare por
+menudo. Ca alas vezes abonda dezir q<ue> es la cosa fecha avn q<ue>
+no<n> cuentes com<m>o se fizo E si no<n> proc'ediere a Recontar lue<n>ga
+me<n>te el fecho. mas delo q<ue> cunple. & si no<n> se pasare a contar
+otras cosas. E si dixiere de tal gujsa q<ue> alas vezes se entienda
+por lo dicho. lo q<ue> no<n> se dize. E si no<n> sola mente se dexare aq<ue>llo q<ue>
+dapn~a. mas avn aq<ue>llo q<ue> nj<n> dan~a njn aprouecha. & si vna vez
+& no<n> mas se dixiere cada cosa. & si no<n> comenc'are a dezir delo q<ue>
+entonc[']e acabo. E a muchos acaesce q<ue> son engan~ados sigujendo
+breujdat & cuydan q<ue> son breues. & son muy luengos. Ca traba-
+Jan por dezir muchas cosas en breue & no trabaJan por dezir po-
+cas & no<n> mas de aq<ue>llas q<ue> es nescesario com<m>o en este exiemplo
+ssy dixieste alguno. fue a casa de tic'io. llame al moc'o. Respondio
+me pregunte por su sen~or. negome q<ue> estaua en casa. E algu-
+nos cuydarian q<ue> es esta narrac'ion breue. E es c'ierto q<ue> tantas
+cosas no<n> las podia dezir mas en breue. pero bastaua dezir la vn<<a>>
+es a saber. q<ue>le negaron en casa a tic'io. E asi es luengo co<n> muche-
+dunbre de cosas. avn q<ue> no<n> con muchedunbre de palabras. E
+eneste genero mucho es de esqujuar esta semeJanc'a de breujdat
+Ca no<n> sola mente es de desechar la demasia delas palabras. ma<<s>>
+avn la demasia delas cosas q<ue> nescesarias no<n> son. Clara puede
+ser la narrac'ion si Recontaremos los fechos segu<n>t q<ue> cada vno
+paso guardando la horden del t<iem>po. Recontando primero lo que
+primero fue. diziendo cada cosa segu<n>t passo. o paresc'iere que}
+[fol. 20r]
+{CB1.
+pudo pasar. E aquj es de considerar que non se diga cosa algu-
+na turbada njn Rebuelta mente nj<n> pase a contar otras cosas
+njn se Repita el fecho desde lo primero. nj<n> llegue a lo q<ue> es del to-
+do postrimero demasiada me<n>te. njn se dexe cosa delo q<ue> pertenes-
+c'e al fecho. E general me<n>te todas las doctrinas q<ue> son dadas pa<r><<a>>
+la breuedat son de guardar eneste genero. Ca alas vezes acaesce
+q<ue> se dexa de entender la cosa por la longura. tanto & mas q<ue> por
+la obscuridat dela narrac'ion. E es de husar de palabras cla-
+ras. delo qual diremos enlas doctrinas dela elo(q)[c]uc'ion. Razo-
+nable sera la narrac'ion si paresc'iere q<ue> se contienen enella aq<ue>-
+llas cosas q<ue> se suelen contener enla v<er>dat si se guardan las dig-
+njdades delas personas las cabsas delos fechos si paresc'iere q<ue> ouo
+poderio de fazer aquel fecho quje<n> dize q<ue>lo fizo. si ouo ende t<iem>po su-
+fic'iente & asaz de espac'io & lugar oportuno para lo q<ue> se cuenta.
+E si la cosa es tal q<ue> conujene ala natura delos fechos q<ue> se dizen
+& ala costumbre del pueblo & ala opinjon delos q<ue> oyen. Ca por es-
+tas cosas se faze el fecho verisimjle & de creer. E alliende desto
+[es] de considerar q<ue> no<n> se faga la narrac'io<n> delo q<ue> dapn~a & q<ue> no<n> se ynter-
+ponga lo q<ue> no<n> aprouecha & si se ynterpusiere q<ue> la ynterposic'ion
+no<n> se faga en lugar no<n> conuenjble o no<n> com<m>o el negoc'io dema<n>-
+da. dapn~oso es Recontarse aq<ue>llo q<ue> Recontado trae grant san~a
+& odio delos q<ue> oyen Ca esto tal deue se amansar argume<n>tando &
+prosegujendo su cabsa. E q<u><<a>>ndo esto acaesce cunple partir por
+mjenbros el fecho & desparzerlos por la cabsa. E a cada p<<a>><r>te
+dar luego la Razon ante q<ue> a otro proceda de gujsa q<ue> ala llaga
+este presta la melezina & el odio sea mitigado luego con
+la defension. la narrac'ion se faze delo q<ue> no<n> cunple q<u><<a>>ndo la}
+[fol. 20v]
+{CB1.
+cosa es declarada ya por los aduersarios. E es tal q<ue> no<n> da fuerc'a
+en q<ue> se cuente otra vez o q<ue> se cuente en otra man<er>a. o si los q<ue> oyen en-
+tienden q<ue>la cosa paso de vna manera & a nos no<n> va dapn~o nj<n> pro-
+uecho en q<ue>lo entiendan asi o no<n>. Ca q<u><<a>>ndo esto acaesce es de sobr<<e>>-
+seer enla narrac'ion. La narrac'ion se faze en lugar no<n> conuenj-
+ente. q<u><<a>>ndo las cosas no<n> se Recuentan enel lugar en q<ue> el negoc'io
+lo Requjere. E desto diremos q<u><<a>>ndo tractaremos dela disposic'ion
+Ca a ella pertenesce esto. La narrac'ion se faze no<n> com<m>o eL
+negoc'io demanda q<u><<a>>ndo lo q<ue> aprouecha al aduersario se Recue<n>-
+ta clara & fermosa mente. & lo q<ue> ayuda a si mesmo se Recue<n>ta
+obscura & negligente mente. & este vic'io es de esqujuar E eL
+q<ue> Recuenta deue Retornar todas las cosas a prouecho de su cab-
+sa. E las q<ue> son contrarias dexarlas si pudieren dexar. & sy
+no<n> las pudiere dexar tocar las liujana mente. E lo q<ue> tan~e
+asu prouecho Recontarlo con deligenc'ia & con claridat.
+{RUB. Titulo quinto dela partic'ion.
+Cap<itul><<o>> pri<er>mo}
+{IN3.} Asaz auemos dicho dela narrac'ion & Recontamje<n>to
+pasemos agora a fablar dela partic'ion. la qual q<u><<a>>n-
+do bie<n> se faze enla cabsa. faze toda la fabla muy es-
+claresc'ida. E las partes dela partic'ion son dos & cada vna de-
+llas cunple mucho para abrir la cabsa & conosc'er la contien-
+da. La vna parte es aq<ue>lla en q<ue> se declara qual es aq<ue>llo en q<ue>
+concordamos conlos aduersarios. & qual es lo q<ue> queda en
+debate. E por esta sabe el oyente qual es lo c'ierto & qual es
+lo q<ue> queda en debate para q<ue> ocupe su corac'on en lo parar mj-entes}
+{CW. entes {RMK: written vertically on the page.}}
+[fol. 21r]
+{CB1.
+mjentes. La otra parte es aq<ue>lla en que se declara breue mente & se
+destribuyen & reparten las cosas de q<ue> auemos de dezir E esta faze
+q<ue> el oyente tenga en su corac'on c'iertas las cosas de q<ue> ha de dezir el
+orador & dichas aq<ue>llas entiende q<ue> es acabada la fabla. Agora de-
+[x]amos estos generos dela partic'ion. digamos breue me<n>te com<m>o deue-
+mos husar de cada vno dellos. E aq<ue>lla partic'io<n> q<ue> demustra qual
+es aq<ue>llo en q<ue> estan concordes & q<ue> es enlo q<ue> discuerdan deue traer A
+prouecho de su cabsa aq<ue>llo en q<ue> estan concordes enesta man<er>a enel
+exiemplo q<ue> de suso posimos. Concordes estan amas las partes q<ue> el
+fijo mato asu madre E de la otra parte puedese dezir q<ue> estan con-
+cordes q<ue> clitomestra mato A agameno<n> & aquj cada vno allego aq<ue>-
+llo en q<ue> eran concordes. mas sola mente allego lo q<ue> aprouechaua
+asu cabsa despues es de allegar para declarac'ion dela Judicac'i-
+on lo q<ue> esta en contienda. la partic'ion q<ue> contiene declarac'ion de
+las cosas departidas & destribuydas esta deue av<er> tres cosas las
+quales son estas. breujdat. absoluc'ion. poquedat breujdat se
+guarda q<u><<a>>ndo no<n> se dize palabra alguna si no<n> nescesaria & es pro-
+uechosa. La breujdat eneste genero por q<ue> al corac'on del oyente
+deuemos le tener conlas cosas mesmas no<n> con palabras njn
+orname<n>tos estran~os Absoluc'ion es aq<ue>lla Razon por donde
+concluymos enla partic'ion todos los generos q<ue> fazen ala cab-
+sa E en esta partic'ion es de parar mientes q<ue> no<n> sea dexado algu<n>
+genero prouechoso njn sea traydo despu<e>s tarde fuera dela parti-
+c'ion Ca esto es cosa muy vic'iosa & torpe. La poquedat se guar-
+da enla partic'ion si ponemos enella los generos delas cosas &
+no<n> mesclamos con ellos las partes. Ca genero es aq<ue>llo q<ue> contie-
+ne sso si muchas partes com<m>o dezimos anjmal. parte es aq<ue>lla
+q<ue> esta sso el genero com<m>o cauallo. mas alas vezes}
+[fol. 21v]
+{CB1.
+acaesce q<ue> vna cosa mesma es genero por Respecto a vno & parte por
+Respecto a otro. enxiemplo desto. om<n>e es parte por Respecto A animal
+& es genero por Respecto alos om<ne>s de thebas & alos om<ne>s de troya Ca
+cada vno dellos es om<n>e. E esta declarac'io<n> posimos aq<u><<i>> mas delige<n>-
+te mente por q<ue> clara me<n>te entendida la general partic'io<n> se pueda
+enella meJor guardar la poq<ue>dat delos generos Ca el q<ue> asi parte ssu
+fabla q<ue> dize enesta guisa. yo qujero mostrar q<ue> por la cobdic'ia. por
+la osadia. por la auaric'ia delos aduersarios venjeron todos esto<<s>>
+dapn~os ala Republica. bie<n> paresce q<ue> no<n> entendio q<ue> dicho el genero
+mesclaua la parte tener Ca la cobdic'ia es genero de todas las sol-
+turas. E la auaric'ia sin dubda es parte deste genero. por ende es-
+to es de esqujuar q<ue> si genero posieres enla partic'ion no<n> deues poner
+parte suya com<m>o cosa diuersa E si enel genero hay muchas p<<a>><r>tes
+avn q<ue> enla primera partic'ion dela cabsa se faga menc'io<n> del general
+mente. despues se puede meJor Repartir asus partes. q<u><<a>>ndo la cabsa
+venjere en estado en q<ue> se aya de declarar aq<ue>l genero. pertenesce eso
+mesmo ala poquedat q<ue> deximos q<ue> no<n> digamos q<ue> queremos mos-
+trar mas cosas delas q<ue> son menester enesta manera com<m>o si di-
+xiese alguno. yo qujero mostrar q<ue>los aduersarios podiero<n> fazer
+& qujsieron & fizieron esto. Ca abasta mostrar q<ue>lo fiziero<n>. esso
+mesmo si la cabsa no<n> ha menester partic'ion & la Repetimos &
+husamos enella de distribuc'ion lo qual acaesce pocas vezes.
+{RUB. Capit<ul><<o>> .ij.}
+{IN3.} Son de mas desto otras doctrinas enlas partic'iones que
+no<n> son mucho nescesarias para la arte de Rethorica
+las quales estan enla philosophia de donde nos tras-
+ladamos estas q<ue> dichas auemos por q<ue> paresc'ian conuenjr a esta
+arte & no<n> fallamos algunas dellas enla otra arte de Rethorica}
+[fol. 22r]
+{CB1.
+q<ue> otros conpusieron. eso mesmo deuemos nos menbrar q<ue> en toda
+fabla segu<n>t la horden q<ue> las partes leuaron enla partic'ion asi se prosi-
+gan enel fablar & todas declaradas se acabe la fabla & no<n> se diga cosa
+alguna despues dela conclusion. E podemos allegar aesto aq<ue>llo que
+escriue terencio de com<m>o partia su Razon breue & prouechosa me<n>te
+vn vieJo enla comedia de andria {GL. [^La comedia de andria
+es no<n>bre de vna poe-
+tria q<ue> conpuso tere<n>-
+c'io]} Ca q<ue>ria ynformar a[ ]s(i)[u ]liberto &
+diziale asi tu conosceras la vida de mj fijo & mj conseJo & q<ue> q<u><<i>>ero
+yo q<ue> fagas tu eneste fecho E asi com<m>o lo propuso enla partic'ion
+asi lo Recuenta. Ca primera me<n>te dize la vida del fijo diziendo esto
+despu<e>s q<ue> salio de epheso. despu<e>s dize su conseJo diziendo yo agora
+trabaJo en esto depu<e>s lo q<ue> qujere q<ue> faga sosias dize lo postrimera
+mente diziendo agora tu deues fazer E asi com<m>o este vieJo de q<ue>
+faze menc'ion terencio declaro la primera parte q<ue> tenja propu-
+esta & todas declaradas fizo fin de fablar. asi deuemos fazer llegar
+a cada vna delas partes & todas declaradas acabar la fabla
+{RUB. Titulo sexto dela confirmac'ion. Cap<itul><<o>> pr<<i>>m<er>o}
+{IN3.} Agora de aquj adelante segu<n>t q<ue>la horden demanda pares-
+ceme q<ue> deuemos dezir dela confirmac'ion. E es la confir-
+mac'ion aq<ue>lla Razon por la qual argume<n>tando ayunta-
+mos firmeza & abtoridat de fee a n<uest>ra cabsa. E desta parte q<ue> se di-
+ze confirmac'ion hay c'iertas doctrinas las quales se partiran
+por cada vno de los generos delas cabsas. Pero paresceme q<ue> non
+sera dapn~oso q<ue> digamos vna com<m>o montan~a & materia vnjuer-
+sal mesclada & confusa de todas las argumentac'ion<e>s E despues
+digamos com<m>o cunple confirmar cada genero de cabsa sacando
+desta montan~a las Razones del argumentar. E es de saber q<ue> toda
+cosa se confirma argume<n>tando o por aq<ue>llo q<ue> es atribuydo alas}
+[fol. 22v]
+{CB1.
+personas o por aq<ue>llo q<ue> es atribuydo alos negoc'ios. A las personas
+pensamos q<ue> son atribuydas estas cosas q<ue> se siguen. Nonbre. na-
+tura. crianc'a. fortuna. habito. afec'tion. studios. conseJos. fecho<<s>>
+acaesc'imje<n>tos fablas. Nonbre es aq<ue>llo q<ue> se da a cada vna perso-
+na por el qual es llamada por su propio & c'ierto vocablo. difinjr
+la natura seria dific'ile & mas ligero es contar las partes della. so-
+la[ ]mente aq<ue>llas q<ue> auemos menester para esta doctrina q<ue> difinjr
+la toda. E destas partes dela natura q<ue> para esto cunple conoscer
+Algunas son en lo diujnal. algunas en genero mortal. algu-
+na es enel genero delos om<ne>s. alguna es enel genero delas bestia<<s>>
+E enel genero delos om<ne>s hay diferenc'ia. enlos sexos. Ca los
+vnos son varon<e>s & las otras son fenbras. Enla nasc'ion enla
+t<ie>rra. enel linage. & enla hedat. Enla nasc'ion com<m>o si es griego
+o barbaro. Enla t<ie>rra com<m>o si es de athenas o de la( )c'edemonja.
+Enel linage de quales desc'iende o q<ue> parientes tiene Enla
+hedat si es njn~o o moc'o entrado en dias o vieJo. E consideran se
+eso mesmo los prouechos segu<n>t la natura dada al corac'on o al
+cuerpo. enesta man<er>a. Si el om<n>e de quie<n> fablan es Rezio o fla-
+co. luengo o pequen~o. fermoso o feo. ligero o pesado. sotil de yn-
+genjo o Rudo. de buena emoria o olujdadizo. si es mansso.
+bie<n> serujdor vergonc'oso. pac'iente o no<n> E general me<n>te todas
+las cosas q<ue> son dadas por la natura al corac'on o al cuerpo son
+de considerar enla considerac'io<n> q<ue> llamamos de natura Ca las
+cosas q<ue> se alcanc'an por la yndustria del om<n>e pertenescen ala
+considerac'ion del habito dela qual diremos adelante Enla cri-
+anc'a es de considerar con quales o en q<ue> man<er>a o sso cuyo poderio
+se crio. q<ue> maestros ouo delas artes liberales. q<ue> ensen~adores
+ouo enlas man<er>as de beujr Con q<ue> amjgos husa en q<ue> negoc'ios
+en q<ue> gananc'ias en q<ue> artefic'io se ocupa. de q<ue> guisa admjnistra}
+[fol. 23r]
+{CB1.
+su fazienda de q<ue> manera biue en su casa. En la fortuna sse
+considera si es sieruo o libre. Rico o pobre. si es persona priuada o sy
+tiene algu<n>t poderio o Jurisdic'ion E si poderio tiene si lo tiene Justa
+mente o no<n> ssi es om<n>e de grande estado & bie<n> andante. o famoso o
+no<n>. q<ue> fijos tiene. E si de om<n>e q<ue> no<n> es biuo. preguntan es de co<n>-
+siderar q<ue> muerte murio. habito llamamos alguna firme per-
+fec'tion del corac'on o del cuerpo por alguna cosa o alguna doctrina
+de virtud o de arte o alguna sc'ienc'ia o alguna buena man<er>a deL
+cuerpo q<ue> no<n> sea dada por la natura. mas q<ue> sea ganada por su traba-
+Jo & yndustria. La afec'tion se dize aq<ue>lla mudanc'a q<ue> acaesce
+enel corac'on o enel cuerpo en algu<n>t t<iem>po por algunt cabsa. com<m>o
+alegria. cobdic'ia. miedo. tristeza. dolenc'ia. flaqueza o otras
+cosas semeJantes. El estudio es la ocupac'ion del corac'on conti-
+nua & Rezia q<ue> om<n>e pone con grande voluntad c'erca de alguna co-
+sa. com<m>o en la philosophia o en poetria o en geometria o en otra<<s>>
+sc'ienc'ias o artes El conseJo es aq<ue>lla Razon q<ue> om<n>e piensa ver-
+dadera mente para fazer alguna cosa o no<n> la fazer. los fechos o
+los acaescimjentos & las fablas se deuen considerar por tres t<iem>pos
+pasado o presente o f(oc)[u]turo. es a saber q<ue> fizo aq<ue>l de quje<n> fablamo<<s>>
+o q<ue>le acaesc'io o q<ue> dixo o q<ue> faze o q<ue> le acaesce o q<ue> dize o q<ue> ha de fazer
+o q<ue> le ha de acaescer o de q<ue> fabla ha de husar. E esto es q<u><<a>>nto alas
+personas.
+{RUB. Cap<itul><<o>> ij}
+{IN3.} Q<u><<a>>nto es alos negoc'ios lo q<ue> aellos se atribuye es de mu-
+chas maneras Ca algo dello es aq<ue>llo q<ue> se contiene en<e>l
+negoc'io. algo se considera enla expedic'ion del negoc'io
+algo es ayuntado al negoc'io. algo se sigue del negoc'io. las cosas}
+[fol. 23v]
+{CB1.
+q<ue> se contienen conel negoc'io se dizen aq<ue>llas q<ue> siempre estan fincada<<s>>
+enel & no<n> se puede[n] del apartar E destas el primero es el breue ayun-
+tamjento de todo el negocio q<ue> contiene la suma & efecto es a saber por
+q<ue> & para q<ue> & por cabsa de q<ue> se fizo el fecho despu<e>s Catanse las cosa<<s>>
+q<ue> se fizieron ante del fecho fasta el mesmo negoc[']io E despu<e>s destas
+se considera q<ue> se fizo enel negoc[']io & q<ue> se fizo despu<e>s En la expe-
+dic'ion del negoc'io es de considerar q<ue> manera ouo de aq<ue>llas q<ue> se atri-
+buyen alos negoc'ios. las quales son estas. Logar. t<iem>po. modo.
+ocasion. facultad. El logar se considera enla cosa q<ue> se dize ser
+fecha segu<n>t la opportunjdat q<ue> ouo para se fazer tal fecho. La oppor-
+tunjdat se considera dela grandeza del espac'io do estas lexos o
+c'erca. dela soledat. dela fama. dela natura del logar & dela vezindat
+dela otra t<ie>rra. E si era sacro el logar o profano q<ue> eneste proposi-
+to qujere dezir seglar o publico o priuado. ageno o de aq<ue>l de qujen
+fabla. El t<iem>po es aq<ue>llo de q<ue> agora husamos difinjrle general
+me<n>te seria cosa dific'ile mas q<u><<a>>nto a n<uest>ro proposito es vna parte dela
+eternjdat q<ue> qujere dezir perdurableza con c'ierta signjficac'io<n> de c'ier-
+to espac'io de dja o de noche. E c[']erca desto deue considerar q<ue> son la<<s>>
+cosas q<ue> pasaron asi aq<ue>llas q<ue> por la antiguedat son ya olujdada<<s>>
+de guisa q<ue> no<n> se creen & son tornadas enel cuento delas fablilla<<s>>
+com<m>o aq<ue>llas q<ue> ha gran~t t<iem>po q<ue> pasaron & son aRedradas de n<uest>ra me-
+moria pero auemos las por c'iertas por q<ue> hay dellas ystorias &
+escripturas abtenticas. E esso mesmo las q<ue> ha poco t<iem>po q<ue> pasaron
+& las pueden muchos saber & las q<ue> son presentes & muchas vezes
+se fazen & las q<ue> se siguen dellas segu<n>t las quales se puede conside-
+rar qual es la cosa q<ue> se faze ayna o qual mas tarde. E comun
+mente enla considerac'ion del t<iem>po se deue considerar la longura}
+[fol. 24r]
+{CB1.
+del Ca muchas vezes es nescesario medir el negoc'io conel t<iem>po & ver
+si pudo la grandeza del negoc'io & muchedunbre delas cosas acabarse
+en tanto t<iem>po E es de considerar el t<iem>po del an~o & del mes & dela noche
+& del dia & dela vigillia & dela ora & dela parte dela ora Ocasion sse
+dize aq<ue>lla parte del t<iem>po q<ue> tiene en si opportunjdat sufic'iente para
+fazer alguna cosa o no<n> la fazer. E hay diferenc'ia entre esta & el
+t<iem>po Ca maguer q<ue> son vnos en genero por q<ue> amos signjfican t<iem>po
+pero son diuersos enesto. q<ue> q<u><<a>>ndo dezimos t<iem>po signjficamos el espa-
+c'io q<ue> hay enlos an~os o enel an~o o en alguna parte del. q<u><<a>>ndo dezi-
+mos ocasion signjficamos alguna opportunjdat ayuntada al
+espac'io del t<iem>po. por ende avn q<ue> sean vnos en genero son diuersos en
+spec'ie Segu<n>t agora deximos. E esta ocasion se parte en tres gene-
+ros los quales son estos. Publico. comu<n>. singular Publico es
+lo q<ue> toda la c'ibdat costunbra com<m>o los Juegos. el folgar delas fiesta<<s>>
+la guerra. Comu<n> es lo q<ue> acaesce a todos poco mas o menos en vn
+t<iem>po. com<m>o el coger delos panes. la vendimja. la callentura el frio
+Singular es lo q<ue> por alguna cabsa suele acaescer singular me<n>te
+A alguno. com<m>o fazer bodas. ofrescer sacrific'io. sepellir finado &
+conbidar. modo es aq<ue>l en q<ue> se considera de q<ue> man<er>a o con q<ue> ynten-
+c'ion se fizo la cosa & las partes del modo son dos las quales son es-
+tas. fazer se las cosas sc'iente mente o fazer se no<n> sabiendo. si se fi-
+zo la cosa sc'iente mente puedese considerar de aq<ue>llas cosas q<ue> dixo
+o fizo ascondida mente o en plac'a o si se fizo por fuerc'a o por amo-
+nestamjento de otro. q<u><<a>>ndo la cosa se fizo no<n> sabiendo esto pertene-
+ce ala purgac'ion & tiene tres partes las quales son estas nesce-
+dat o sinpleza. acaesc'imjento. nescesidat & puede traerse a esto
+la grande ynclinac'ion del corac'on. com<m>o tristeza. ssan~a. amor}
+[fol. 24v]
+{CB1.
+& las otras cosas q<ue> son en semeJantes generos. facultad se dize aquello
+con q<ue>la cosa se faze mas ligera mente o sin lo qual no<n> se puede fazer. ayu<n>-
+tado al negoc'io entendemos q<ue> es aq<ue>llo q<ue> es mayor o menor o semeJant<e>
+al negoc'io q<ue> se trata & lo q<ue> es egual en grandeza o contrario o apartado
+o es genero dello o parte o el euento q<ue> se suele dende segujr. mayor o me-
+nor o egual en grandeza se considera la cosa segu<n>t la q<u><<a>>ntidat & calidat
+& figura del negoc'io. com<m>o consideramos la grandeza de vna cosa cor-
+poral por el estado & medida del cuerpo. semeJante dezimos enlas co-
+sas Jncorporales Ca a semeJanc'a delas cosas corporales q<ue> se puede<n>
+conparar se Juzga & conpara la natura delos negoc'ios q<ue> tiene<n> mane-
+ra para se poder semeJar. E por este Respecto se dizen grandes o peque-
+n~os. Contrario es lo q<ue> se pone sso diuerso genero de aq<ue>l sso quje<n> esta aq<ue>-
+llo a qujen es contrario & es mucho diuerso desto. com<m>o el frio del ca-
+lor o la muerte de la vida. Apartado se dize lo q<ue> se aparta mucho dela
+otra cosa an~adiendo negac'ion. com<m>o si dixiesemos aq<ue>l sabe o aq<ue>l no<n>
+sabe. genero es lo q<ue> contiene algunas partes. com<m>o cobdic'ia. p<<a>><r>te
+se dize lo q<ue> esta sso algu<n>t genero. com<m>o amor & auaric'ia Ca la cob-
+dic'ia conprehende mas cosas. euento es la salida del negoc'io & en<e>s-
+to se suele considerar q<ue> salio de cada cosa & q<ue> sale & que salira E por q<ue>
+eneste genero pueda om<n>e mas c'ierta & mas prouechosa ment<e> v<er>
+lo q<ue> ha de salir del fecho ante q<ue> salga es de considerar q<ue> suele salir
+delo semeJante enesta man<er>a del desden suele salir malq<ue>renc'ia
+E dela soberuja suele salir desden. la q<u><<a>>rta parte delas q<ue> deximo<<s>>
+q<ue> se suelen atribuyr alos negoc'ios es el segujmjento delas cosa<<s>>
+q<ue> dellos se siguen. E enesta parte suelen se considerar q<ue> son las
+cosas q<ue> se consiguen de aquel fecho E primera me<n>te aq<ue>l fecho
+q<ue> se fizo por q<ue> nonbre se deue llamar & dende en adelante quale<<s>>
+fueron los capitanes & falladores de aq<ue>l fecho E quales le die-
+ron abtoridat. E quales aprouaron aq<ue>lla ynuenc'ion & fueron}
+[fol. 25r]
+{CB1.
+segujdores della E esso mesmo de aq<ue>lla cosa. q<ue> ley hay. q<ue> costunbre que
+ac'tion q<ue> Juyzio. q<ue> sc'ienc'ia. q<ue> artefic'io q<ue> natura. E si suele acaescer a menu-
+do o si acaesce de tarde en tarde E despu<e>s desto es de considerar si los om<ne>s
+suelen aprouar por su abtoridat aq<ue>lla cosa o si suelen escandalizar della
+o auerla por mala E todas las otras cosas q<ue> de tal fecho se suelen sse-
+gujr luego o despues de algu<n>t espacio E postrimera me<n>te es de acatar
+si se sigue alguna cosa de aq<ue>llas q<ue> son contadas enlas partes dela Ho-
+nestad & del prouecho delas quales mas clara me<n>te diremos adelante
+E estas cosas q<ue> desuso auemos nombrado son las q<ue> poco mas o menos
+se atribuyen alos negoc'ios. {RUB. Cap<itul><<o>> .iij.}
+{IN3.} Toda argumentac'ion q<ue> se toma delos fundame<n>tos q<ue> de ssusso
+deximos partese en dos maneras Ca deue ser o probabile q<ue>
+eneste proposito qujere dezir Razonable o nescesaria E
+para q<ue> breue mente declaremos q<ue> cosa es argumentac'io<n> es de saber q<ue> ar-
+gume<n>tac'ion es la Razon fallada & sacada de algu<n>t genero para demos-
+trar alguna cosa Razonable me<n>te o la concluyr nescesaria me<n>te &
+dizense concluyr nescesaria mente las cosas q<u><<a>>ndo son tales q<ue> se non
+podrian fazer njn prouar en otra manera si no<n> segu<n>t se dizen com<m>o si
+arguyese alguno desta guisa. Si pario aq<ue>lla muger siguese q<ue> dor-
+mjo con varon. E este genero de argumentar q<ue> consiste en demostrac'i-
+on nescesaria por la mayor parte se tracta enlas fablas por vna de
+tres maneras o por conplexion q<ue> eneste proposito qujere dezir vn
+tranamjento q<ue> alas vezes se faze de dos partes contrarias o por enu-
+merac'ion q<ue> qujere dezir Recontamjento o por sinple conclusion. ar-
+gumentac'ion por man<er>a de conplexion se dize aq<ue>lla q<ue> qual quier delas
+partes q<ue> om<n>e otorgare sera Reprehendido com<m>o eneste exienplo si malo
+es aq<ue>l om<n>e por q<ue> husas conel si bueno por q<ue> le acusas. argume<n>tac'ion
+por manera de enumerac'io<n> es aq<ue>lla en q<ue> se Recue<n>tan muchas cosas}
+[fol. 25v]
+{CB1.
+& quitadas todas queda alguna nescesaria mente Com<m>o eneste exiem-
+plo. nescesario es q<ue> si este om<n> mato A aq<ue>l q<ue> lo fiziese o por enemjstad q<ue>
+conel tenja o por mjedo o por esperanc'a de auer algo por su muerte o por
+fazer plazer A algu<n>t amjgo Ca si alguna destas cabsas no<n> hay non le
+mato el Ca sin cabsa no<n> se puede cometer malefic'io E pu<e>s nj<n> auja ene-
+mjstad nj<n> algu<n>t mjedo njn esperanc'a de prouecho q<ue> de su muerte le ve-
+njese njn conplia su muerte A algu<n>t amjgo suyo siguese q<ue> no<n> lo mato
+el. argumentac'ion por sinple conclusion nescesaria mente se sigue e<n>
+este exiemplo. vos dezides q<ue> yo fize esto en aq<ue>l t<iem>po. Yo en este mesmo
+t<iem>po estaua alliende la mar delo qual se sigue q<ue> no<n> sola me<n>te no<n> fize lo
+q<ue> vos dezides. mas avn q<ue> no<n> lo pude fazer. E es deligente me<n>te de A-
+catar eneste genero de argumentac'ion q<ue> no<n> se pueda desfazer por algu-
+na man<er>a E q<ue> la prueua q<ue> con esta argumentac'ion se faze no<n> tenga
+sola mente semeJanc'a de conclusion nescesaria mas q<ue> de fecho este la ar-
+gumentac'ion asentada en nescesaria Razon. probabile se dize aque-
+llo q<ue> poco mas o menos se suele fazer o lo q<ue> esta puesto enla opinjon de
+los om<ne>s o lo q<ue> tiene en si alguna semeJanc'a A esto q<ue> dicho es qujer
+sea falso qujer verdadero en aq<ue>l genero de aq<ue>llas cosas q<ue> se suele<n> po-
+co mas o menos fazer. fazese probabile la argumentac'ion desta ma-
+nera. si madre es ama al fijo si auariento es. menosprec'ia el Jurame<n>-
+to Ca avn q<ue> esto no<n> sea nescesario por q<ue> puede acaescer q<ue> alguna madre
+no<n> ame al fijo & algu<n>t auariento guarde lo q<ue> Jura Pero acaesce
+muchas vezes en aq<ue>llo q<ue> es puesto en opinjo<n> sera probabile la argu-
+mentac'ion enesta manera diziendo asy Alos malos estan las
+penas apareJadas enel ynfierno. E alos q<ue> trabaJan enla philo-
+sophia la bien andanc'a diujnal. {GL. [^Aquj fabla tullio
+errando com<m>o gen-
+til Ca las penas del
+ynfierno no<n> se cree<n>
+por man<er>a de opjnjo<n>
+mas por firme &
+v<er>dadera & Jndub-
+dable fee sin dubda
+& esitac'ion alguna]} La semeJanc'a se suele acatar por
+la mayor parte enlas cosas contrarias & enlas eguales & en aq<ue>-
+llas q<ue> caen sso esa mesma Razon. Enlas contrarias se faze la ar-
+gumentac'ion. com<m>o eneste enxiemplo. si alguno dixiese assy. si es}
+[fol. 26r]
+{CB1.
+Razonable perdonar alos q<ue> fizieron mal non sabiendo. siguese que es
+Razonable no<n> dar galardon alos q<ue> fizieron bien por nescesidat. Enlas
+eguales se arguye com<m>o eneste enxiemplo asi com<m>o enla mar no<n> puede ser
+logar seguro alas naues si no<n> el puerto. asi no<n> puede ser corac'on firme
+alos amjgos sin fee. Enlas cosas q<ue> caen sso esta mesma Razon se consi-
+dera lo probabile com<m>o eneste enxiemplo. Si alos de Rodas no<n> es feo
+alqujlar el puerto. no<n> fue feo A ermacreonte tomarlo por alqujle[<r>].
+E destas cosas algunas son v<er>daderas com<m>o si dixiesemos sen~al
+tiene. siguese q<ue> ouo llaga. algunas son virisimjles com<m>o si dixiese-
+mos mucho poluo trae enlas calc'as. siguese q<ue> viene de camjno {GL. [^Ca esto no<n>es nescesario
+por q<ue> puede traer poluo
+& no<n> venjr de camjno]} E
+por q<ue> en c'iertas partes partamos todo lo probabile q<ue> se toma para
+argumentac'ion es de saber q<ue> se parte en q<u><<a>>tro partes las quales son
+estas. ssen~al. creyble. Juzgado. conparable q<ue> qujere dezir semeJa-
+ble. ssen~al es aq<ue>llo q<ue> cae sso sentido & signjfica alguna cosa q<ue> pares-
+ce saber del fecho o q<ue> passo ante o enel mesmo negoc'io o fue despues
+enpero es tal q<ue> ha menester menor certenjdat & testimonio de prueu<<a>>
+com<m>o la sangre q<ue> sale dela ferida o la fuyda del om<n>e o el amarillura de
+la cara o el E las cosas q<ue> son semeJantes aestas. creyble es
+aq<ue>llo q<ue> sin algu<n>t testigo lo prueua la opinjon del oyente com<m>o en<e>s-
+te enxiemplo. no<n> hay om<n>e q<ue> no<n> desee q<ue> sus fijos sean sanos & bie<n> an-
+dantes. Juzgado es aq<ue>llo q<ue> por consentmjento o abtoridat o Juyzio
+de alguno o de algunos es aprouado. E esto consiste en tres genero<<s>>
+los quales con estos. Religioso. comu<n>. aprouado. Religioso es aq<ue>-
+llo q<ue> Juzgaron aq<ue>llos q<ue> son Jurados para Juzgar segu<n>t las leys Co-
+mu<n> es lo q<ue> todo el pueblo aprouo & sigue. com<m>o q<ue> nos leuantemos
+alos mas vieJos & q<ue> ayamos misericordia delos q<ue> a nos suplican
+Aprouado es aq<ue>llo q<ue>los om<ne>s por su abtoridat establesc'ieron q<ue> era
+bueno avn q<ue> era dubda si seria aujdo por bueno o por malo com<m>o el}
+[fol. 26v]
+{CB1.
+fecho de graco el padre q<ue> el pueblo Romano le fizo consul despues dela cen-
+sura por q<ue> durante el ofic'io no<n> fizo cosa alguna sin sabiduria de su conpa-
+n~ero Conparable es aq<ue>llo q<ue> tiene alguna semeJante Razon en cosas
+diuersas E esto se parte en tres partes las quales son estas. ymagen
+collac'ion exiemplo. ymagen es la fabla q<ue> demuestra semeJanc'a de
+cuerpos o de naturas. Collac'ion es la fabla q<ue> eguala vna cosa con otr<<a>>
+por alguna semeJanc'a. exiemplo es la Razon q<ue> qujere aprouar o Re-
+prouar alguna cosa allegando abtoridat o acaesc'imjento de algu<n>t
+om<ne> o de algu<n>t negoc'io E los enxiemplos & las declarac'iones desta<<s>>
+cosas se veran adelante q<u><<a>>ndo diremos las doctrinas dela elocuc'ion.
+{RUB. Capitulo .iiij<<o>>.}
+{IN3.} La fuente dela confirmac'ion q<ue> es el argumentar. ya la
+abrimos segu<n>t se pudo abrir Ca mostramosla tan cla-
+ra mente com<m>o la natura dela cosa padesc'ia mas com<m>o la
+contienda & la parte de contienda & qual quier debate qujer consis-
+ta en fabla qujer en escripto se deua tratar E quales argume<n>tac'ion<e>s
+conujene[n] a cada cosa enel segundo libro lo diremos fablando singula<r>
+me<n>te de cada genero. Ca eneste primero libro ssola me<n>te desparzimos
+los numeros & las maneras & las partes del argume<n>tar confusa &
+mesclada mente. Pero despues escogeremos & discerneremos desta
+copia. qual conuenga a cada vna delos generos delas cabsas E la
+argumentac'io<n> bien se puede fallar por estos fundama<n>tos q<ue> deximos
+mas despues de fallada hornarse & enderesc'arse & polirse & partir-
+se en c'iertas partes es cosa muy fermosa & muy nescesaria E por
+la mayor parte no<n> fablaron enello los escriptores desta arte Por
+ende paresceme q<ue> deuemos dezir deste polimento & enderesc'amjento
+por q<ue> la execuc'ion del argumentar se ayunte alas ynuenc'iones}
+[fol. 27r]
+{CB1.
+delos argumentos E esto es de considerar con grant cuydado & delige<n>-
+cia E no<n> sola mente hay gran~t prouecho enello. mas avn ay gran~t
+dificultad en dar las dotrinas q<ue> aello pertenescen E es de saber que
+toda argumentac'ion se deue fazer por vna de dos man<er>as. las quales
+son estas. ynduc'tion & Rac'ionac'ion. ynduc'tion es aq<ue>lla fabla que
+diziendo cosas no<n> dubdosas & c'iertas atrae a si consentimje<n>to de
+aq<ue>l con qujen fabla. conel qual consentimjento le faze q<ue> aprueue
+aq<ue>llo q<ue> era dubdoso por semeJanc'a de aq<ue>llas cosas en q<ue> consintio co-
+m<m>o eneste exiemplo cuenta esans ssocratico q<ue> dizia Socrates que fa-
+blara aspasia con xenofon & con su muger enesta gujsa. Ruegote
+muger de xenofon q<ue> me digas si tu vezina toujese meJor oro que tu
+tienes qual querrias mas el tuyo o el suyo. Respondio ella el suyo
+Pereguntole mas toujese vestiduras & horname<n>tos q<ue> valiesen
+mas q<ue>los tuyos quales q<ue>rrias mas los tuyos o los suyos Respon-
+dio ella los suyos. E esto dicho preguntole si toujese meJor marido
+q<ue> el tuyo qual q<ue>rrias mas el tuyo o el suyo. ouo verguenc'a la mu-
+ger de xenofon & callo Entonc[']e dixo a xenofon Ruegote xenofon
+q<ue> me digas si tu vezino touiese meJor cauallo q<ue> tu qual querrias
+mas el tuyo o el suyo Respondio xenofon el suyo. E si toujese meJor
+heredat q<ue> tu qual querrias mas la tuya o la suya. Respondio la su-
+ya. E si toujese meJor muger q<ue> tu qual q<ue>rrias mas la tuya o la
+suya. a esto callo xenofon. Entonc[']e dixo aspasia por q<ue> cada vno
+de vos otros non me respondio A aq<ue>llo q<ue> yo sola mente q<ue>ria saber
+& por lo q<ue> preguntaua las otras cosas. yo mesmo dire lo q<ue> cada vno
+de vos piensa. lo qual es esto. tu muger de xenofon querrias muy
+bue<n> marido & tu xenofon q<ue>rrias muy buena muger por ende si no<n>
+fizieredes q<ue> tu seas el meJor om<n>e dela t<ie>rra & tu la meJor muger}
+[fol. 27v]
+{CB1.
+siempre querredes aq<ue>llo q<ue> pensaredes q<ue> es meJor E tu desearas ser siem-
+pre marido de muy buena muger & tu ser casada co<n> muy bue<n> varon. E
+asi aspasia diziendo cosas q<ue> no<n> eran dubdosas ouo consentimje<n>to de guj-
+sa q<ue> por la semeJanc'a de aq<ue>llas E por la Razon del preguntar se otorga-
+se aq<ue>llo q<ue> fuera dubdoso si apartada men(~)te lo preguntaua. E desta ma-
+nera de fabla husaua mucho ssocrates Ca no<n> queria el de suyo dezir co-
+sa alguna para ynduzir al otro mas delo q<ue> dizia. El q<ue> disputaua
+conel formaua las argume<n>tac'ion<e>s por q<ue> segu<n>t lo q<ue> auja dicho ouje-
+se de otorgar lo q<ue> el queria. E eneste genero de argume<n>tac'ion prim<er>a-
+mente auemos de parar mjentes q<ue> aq<ue>llo q<ue> traemos para semeJan-
+c'a sea tal q<ue> nescesario se aya de otorgar Ca pues por ello q<ue>remos fa-
+zer otorgar lo dubdoso Conujene q<ue> ello no<n> sea dubdoso. es eso mesmo
+de acatar q<ue> aq<ue>llo q<ue> queremos prouar sea semeJante A aq<ue>llas cosa<<s>>
+q<ue> traemos por claras para lo prouar. Ca en otra gujsa no<n> nos apro-
+uecharia q<ue> nos otorgasen lo q<ue> dezimos si no<n> es semeJante aello aq<ue>-
+llo para cuya prueua lo traemos. E demas desto es de acatar q<ue> no<n>
+entienda aq<ue>l contra qujen se trae ha q<ue> fin se fazen aq<ue>llas ynduc-
+c'iones Ca el q<ue> vee q<ue> si otorga lo q<ue> le preguntan q<ue> avera nescesarion de
+otorgar lo q<ue> le desplaze por la mayor parte o no<n> Respondiendo o mal
+Respondiendo non consentira prosceder adelante la Razon Por ende
+por esta man<er>a de preguntas no<n> sabiendo lo es de traer delo q<ue> otorgo
+alo q<ue> no<n> qujere otorgar E asi atraydo forc'ado es q<ue> o calle o lo otor-
+gue o lo njegue & si lo njega entonc'es es de demostrar la semeJanc'a
+delas cosas q<ue> otorgo con la q<ue> no<n> qujere otorgar. o es de traer otra
+ynduc'tion. si lo otorga es de concluyr la argumentac'io<n>. si calla e<<s>>
+de afincar q<ue> Responda. o por q<u><<a>>nto el callar paresce confesion es de con-
+cluyr la argumentac'ion com<m>o si fuera otorgada. E asi este genero}
+[fol. 28r]
+{CB1.
+de argumentac'ion se faze de tres p<<a>><r>tes. la vna consiste enlas semeJan-
+c'as vna o dos o mas q<ue> se traen para prouar lo q<ue> qujeren. la segunda con-
+siste en lo q<ue> queremos q<ue> nos otorguen por cuya cabsa se traen las seme-
+Janc'as. La tercera consiste enla conclusion q<ue> aprueua el otorgamje<n>to
+o demuestra q<ue> es lo q<ue> se sigue del E por q<ue> por aventura parescera A al-
+guno q<ue> no<n> auemos clara me<n>te esto demostrado si no<n> ponemos algu<n>t
+exiemplo en genero de cabsas de pl<e>itos es bien q<ue> husemos de vn exie<m>-
+plo de pl<e>ito no<n> por q<ue> la doctrina sea diuersa. Ca q<u><<a>>nto aesto esa mesma
+doctrina ha logar enlas contenc'iones delos Juyzios q<ue> enlas otras fa-
+blas. mas por q<ue> satisfagamos ala voluntad de aq<ue>llos q<ue> lo q<ue> veen en
+vn logar no<n> lo saben conoscer en otro si no<n> gelo muestran pongamo<<s>>
+vn exiemplo. E este sea aq<ue>lla cabsa q<ue> fue mucho publicada entre los
+griegos. la qual fue q<u><<a>>ndo ephamjnudas enperador delos thebanos
+no dio hueste asu subsc'esor segu<n>t la ley & detouola pocos dias & vencio
+conella del todo alos de lacedemonjia Ca enesta cabsa podria qujen le
+acusase husar de vna argumentac'ion por man<er>a de Jnduc'tion atenj-
+endose ala escriptura dela ley. contra la yntenc'io<n> de quje<n> la fizo E
+diziendo alos Juezes enesta gujsa O Juezes si esto q<ue> ephamjnudas
+dize es a saber q<ue> la yntenc'ion de qujen fizo la ley es de punjr al q<ue>
+detiene la hueste ssaluo si lo faze por prouecho dela Republica sy
+el lo qujsiese an~ader en la ley mesma & escriujrlo asi Consintiriade<<s>>
+gelo o no<n>. por c'ierto pienso q<ue> no<n>. E si vos mesmos lo q<ue> vos no<n> faria-
+des ca es cosa muy aRedrada de v<uest>ra Religion & sabiduria qujsierede<<s>>
+por honrra suya an~ader esta excepc'ion ala ley sin mandado del pue-
+blo. cuydades si el pueblo thebano lo consentiria por c'ierto no<n>. pu<e>s
+lo q<ue> es maldat an~aderlo ala ley paresce vos q<ue> es bie<n> segujrlo com<m>o
+si fuese escripto enella. por c'ierto yo conosco v<uest>ro entendimjento}
+[fol. 28v]
+{CB1.
+O Juezes & se q<ue> vos non parescera asi Por ende si la voluntad de quje<n>
+la escriujo no<n> puede ser corregida por escriptura por vos nj<n> por el parad
+mjentes si es cosa mucho mas fea mudar de fecho por v<uest>ra sentenc'ia
+lo q<ue> avn de palabra non podriades mudar.
+{RUB. Capit<ul><<o>> v}
+{IN3.} Asaz auemos dicho q<u><<a>>nto alo presente dela argumenta-
+c'ion q<ue> se faze por manera de ynduc'tion. de aquj adela<n>te
+consideremos la fuerc'a & naturaleza de aq<ue>lla q<ue> se fa-
+ze por manera de Rac'ionac'ion. La Rac'ionac'ion es aq<ue>lla fabla q<ue>
+saca dela question mesma alguna cosa probable. La qual decla-
+rada & conosc'ida por si confirme & prueue a si mesma Ca los que
+deligente mente consideraron este genero de argumentac'io<n> avn q<ue>
+enel huso del fablar fueron concordes. Pero enla man<er>a dela doc-
+trina fueron algu<n>t tanto discordes Ca algunos dellos partieron
+este genero en c'inco partes. Algunos dixieron q<ue> no<n> se podria partir
+mas q<ue> en tres. E paresceme q<ue> es prouechoso q<ue> declaremos la discor-
+dia destos en vno con la Razon q<ue> cada vno dellos por si tiene. Ca
+breue es & no<n> es de tal gujsa q<ue> alguna destas opinjon<e>s sea del
+todo vana. mas cada vna dellas tiene alguna verdat. E este fun-
+damento de argumentar no<n> es de menosprec'iar enlas fablas. E
+es de saber q<ue> aq<ue>llos q<ue> piensan q<ue> en c'inco partes se destribuye esta
+manera de argumentac'ion dizen asi. q<ue> aq<ue>l q<ue> desta man<er>a q<u><<i>>ere
+argumentar deue primera me<n>te declarar el efecto de su argume<n>-
+tac'ion com<m>o eneste exiemplo diziendo meJor se fazen las cosas
+q<ue> se gujan con conseJo q<ue> aq<ue>llas q<ue> se admjnjstran sin conseJo E
+esta cuentan ellos por la primera parte & dizen q<ue> se deue proua<r>}
+[fol. 29r]
+{CB1.
+por diuersas Razones & por muy abundosas palabras enesta man<er>a
+la casa q<ue> se Rige & se goujerna por Razon es mas enderesc'ada & mas apa-
+reJada en todas las cosas q<ue> aq<ue>lla q<ue> se admjnjstra loca mente & sin
+ningu<n>t conseJo. la hueste q<ue> es gujada por emperador sabidor & sotil
+se Rige muy mas prouechosa mente en todos sus fechos q<ue> aq<ue>lla q<ue>
+es admjnjstrada por locura & nesc'io atreujmje<n>to de alguno. E esta
+mesma Razon ha logar enel naujo. Ca aq<ue>lla nao faze su viaJe
+muy bien q<ue> tiene gouernador muy sabio E q<u><<a>>ndo la propusic'ion en
+esta manera es ya prouada & pasaron estas dos p<<a>><r>tes dela Rac'ionac'io<n>
+dizen ellos que deues ya dezir lo q<ue> qujeres mostrar por fuerc'a dela pro-
+posic'ion q<ue> has dicho enesta gujsa. E no<n> hay cosa alguna entre to-
+das las cosas q<ue> meJor sea admjnjstrada q<ue> todo el mu<n>do E esta es
+la tercera parte dela Rac'ionac'ion. E despues della enel q<u><<a>>rto logar
+dizen q<ue> es de tomar otra aprouac'io<n> com<m>o diziendo asi eneste exie<m>-
+plo q<ue> posimos los nasc'imjentos de los signos & el poner dellos gu-
+ardan vna horden limjtada & los mudamjentos de cada an~o no<n> so-
+la mente se fazen de vna gujsa por nescesidat. mas avn son apro-
+piados a prouecho de todas las cosas & las mudanc'as delos dias
+& delas noches nunca fueron mudadas mas alternanse todavia
+de vna gujsa & nunca dan~aron a cosa alguna. las quales co-
+sas todas son sen~al q<ue> la natura del mundo es admjnjstrada con
+conseJo no<n> mediano mas muy grande. E enel qujnto logar
+es de dezir vna conclusion q<ue> concluye en vna de dos maneras o
+sola mente aq<ue>llo q<ue> de todas las partes qujso concluyr diziendo
+asi enel exiemplo suso dicho siguese q<ue> al mundo es admjnjstra-
+do con conseJo o ayuntando en vn logar todas las proposic'iones
+& prueuas dellas diziendo asi enel exiemplo ya dicho. pues q<ue>
+asi es q<ue> meJor se admjnjstran las cosas q<ue> se fazen con conseJo q<ue> las
+q<ue> sin conseJo se fazen E no<n> hay cosa en todas las cosas q<ue> meJor}
+[fol. 29v]
+{CB1.
+se admjnjstre q<ue> todo el mundo siguese q<ue> el mundo es admjnjstrado
+con conseJo E asi piensan q<ue> es partida esta argume<n>tac'ion en c'inco par-
+tes. los otros q<ue> dizen q<ue> es partida en tres p<<a>><r>tes no<n> dizen ellos q<ue> se ha de
+fazer de otra guisa. Ca bie<n> entienden q<ue> asi es de fazer com<m>o deximo<<s>>
+mas Reprehenden la partic'ion della Ca dizen q<ue>las prueuas dela
+primera proposic'ion & dela terc'era no<n> son partes apartadas. mas
+son vnas con sus proposic'iones Ca no<n> se dize propusic'ion acabada
+laq<ue> esta confirmada con su prueua. E por ende aq<ue>llas q<ue>los otro<<s>>
+dizen q<ue> son dos partes es a saber primera & segunda & llamanlas
+proposic'ion. Ca si no<n> toujese aprouac'ion no<n> seria proposic'ion dela
+argumentac'ion. E eso mesmo las q<ue>los otros dizen q<ue> son dos p<<a>><r>tes
+es a saber tercera & q<u><<a>>rta & llamanlas asumpc'io<n> & aprouac'io<n> dize<n>
+estos q<ue> es vna & llamanla asumpc'io<n> & asi la argumentac'ion q<ue> se fa-
+ze de vna man<er>a paresce alos vnos q<ue> tiene tres partes & a los otros
+c'inco. de lo qual se sigue q<ue>la diuersidat destas opinjon<e>s no<n> trae di-
+ferenc'ia enel exerc'ic'io del fablar. Ca enesto amas concuerdan ma<<s>>
+trae diferenc'ia enla man<er>a dela doctrina E q<u><<a>>nto anos parece que
+es mas prouechosa aq<ue>lla partic'ion q<ue> parte esta argumentac'ion
+en c'inco partes E esta sigujero<n> por la mayor p<<a>><r>te todos aq<ue>llos que
+fueron segujdores delas doctrinas de aristotiles & de theufrasto.
+Ca asi com<m>o socrates & los socraticos husauan por la mayor parte
+de aquel genero de argume<n>tar q<ue> de suso deximos q<ue> se llama argu-
+mentac'ion por ynduc'tion. asi aristotiles & los periphateticos &
+theofrasto husaron mucho este genero de argumentac'ion q<ue> se fa-
+ze por Rac'ionac'ion. E despues lo sigujeron aq<ue>llos q<ue> fueron auj-
+dos por Rethoricos muy sotiles & muy dulces E parescenos q<ue> deue-
+mos dezir por q<ue> Razon nos paresce esta partic'ion meJor por q<ue> no<n>
+piensen q<ue>la segujmos loca mente & deuemos lo dezir en breue por
+q<ue> no<n> tardemos enello mas q<ue>la Razon dela doctrina demanda
+E digamos asy si hay alguna argumentac'ion en q<ue> seria}
+[fol. 30r]
+{CB1.
+flaca la proposic[']ion si no<n> se ayuntase aella aprouac'ion siguese q<ue>
+la aprouac'ion es cosa apartada dela proposic'ion. Ca lo q<ue> se puede A-
+yuntar A alguna cosa & apartar della no<n> es aq<ue>llo mesmo ha que se
+ayunta & de q<ue> se aparta E pues hay alguna argume<n>tac'ion en q<ue> la
+proposic'ion no<n> ha menester prueua & hay alguna argume<n>tac'ion
+q<ue> no<n> vale cosa alguna sin prueua segu<n>t demostraremos. siguese q<ue>
+la aprobac'ion es cosa apartada dela proposic'ion. E mostrar se ha
+esto q<ue> prometimos enesta man<er>a aq<ue>lla proposic'ion q<ue> contiene en si
+alguna cosa magnjfiesta & q<ue> es nescesario q<ue> todos la ayan por c'ier-
+ta. no<n> cunple q<ue>rer la firmar nj<n> aprouar com<m>o eneste exiemplo si
+alguno dize asi. ssi el dia q<ue> esta muerte se fizo en Roma. yo estaua
+en athenas no<n> pude ser enella. Ca esto por q<ue> es clara me<n>te verdadero
+no<n> cunple prouarlo. mas conujene segujr la proposic'ion & dezir
+enesta gujsa en aq<ue>l dia estaua yo en athenas. E si esto no<n> es c'ierto ha
+menester prueua. la qual fecha viene<n> ala conclusio<n> E puede dezir
+siguese q<ue> yo no<n> puedo ser enesta muerte. E asi hay alguna propo-
+sic'ion q<ue> no<n> ha menester aprouac'io<n>. Ca de auer algunas q<ue> ha<n> me-
+nester prueua no<n> es nescesario delo mostrar por q<ue> cada vno se lo
+vee E si asi es siguese q<ue> es apartada la aprouac'ion dela proposic'ion
+delo qual se concluye q<ue> es falso dezir q<ue>la argumentac'io<n> no<n> tiene ma<<s>>
+de tres partes. E semeJante se puede dezir enla terc'era parte que
+llamamos asumpc'ion. Ca si hay alguna argumentac'io<n> en que
+basta husar dela asumpc'ion E no<n> es menester de ayuntar prueua
+& hay alguna argumentac'io<n> en q<ue> seria flaca la asumpc'ion si no<n>
+le fuese ayuntada prueua. Siguese q<ue>la aprouac'io<n> es cosa apar-
+tada dela asumpc'io<n>. E c'ierto es q<ue> hay alguna argume<n>tac'ion en
+q<ue>la asumpc'ion no<n> ha menester prueua. E hay otra en q<ue> no<n> vale-
+ria cosa sin prueua E asi nescesario se concluye q<ue>la aprouac'ion
+es cosa apartada dela asumpc'ion & mostraremos esto q<ue> prome-
+timos en esta gujsa. hay argumentac'ion en q<ue>la asumpc'ion}
+[fol. 30v]
+{CB1.
+no<n> ha menester prueua. E ay otra en q<ue> no<n> valeria cosa sin prueua
+E asi nescesario se concluye q<ue>la aprouac'ion es cosa apartada dela
+asumpc[']ion & mostraremos esto q<ue> prometimos enesta gujsa Com<m>o
+eneste exiemplo si dixiese alguno asi. Conplidero es q<ue>rer saber co<n>-
+ujene trabaJar enla philosophia. esta proposic'ion ha menester
+prueua Ca no<n> es clara nj<n> la han todos por c'ierta por q<ue> muchos
+hay q<ue> cuydan q<ue>la philosophia no<n> aprouecha. E avn algunos
+piensan q<ue> dapn~a mas la asumpc'io<n> es clara la qual es esta. Cosa
+complidera es saber. ca esto es cosa clara de si mesma & cada vno
+la entiende. por ende no<n> ha menester prueua. mas luego es de
+concluyr la argume<n>tac'ion enesta gujsa. siguese q<ue> conujene tra-
+baJar enla philosophia E asi paresce q<ue> hay alguna asumpc'io<n>
+q<ue> no<n> ha menester prouac'io<n>. Ca de av<er> alguna q<ue> aya menester
+prueua. claro es. E asi se concluye q<ue>la aprouac'io<n> es cosa apar-
+tada dela asumpc'io<n>. delo qual se sigue q<ue> es falso dezir q<ue>la argu-
+mentac'ion no<n> tiene mas de tres p<<a>><r>tes. E delo q<ue> dicho es asaz cla-
+ro paresce q<ue> hay alguna argumentac'ion en q<ue> nj<n> la proposic'io<n>
+njn la asumpc'io<n> ha menester prueua. E pongamos vn exi-
+emplo breue por q<ue> sea c'ierto si alguno dixiese asi Si co<n> gra<n>t
+deligenc'ia la sabiduria se deue catar. Con gran~t deligenc'ia
+la nescedat & locura es de esqujuar. E pues la sabiduria se
+deue catar con gran~t deligenc'ia siguese q<ue>la nescedat es de es-
+qujuar con grande deligenc'ia. E enesta argume<n>tac'io<n> la asu<m>[p]-
+c'ion & la proposic'ion son claras & amas no<n> han menester
+aprouac'ion E de todas estas cosas si demuestra clara mente
+q<ue>la aprouac'ion alas vezes se ayunta alas vezes no<n> delo q<u><<a>>l
+se sigue q<ue>la aprouac'ion no<n> se contiene enla asumpc'ion njn}
+{CW. en la proposic'io<n>}
+[fol. 31r]
+{CB1.
+enla proposic'ion. mas cada vna dellas tiene su logar & su fuerc'a
+apartada. E asi bien partieron aq<ue>llos q<ue>la argumentac'ion des-
+tribuyeron en c'inco partes {RUB. Cap<itul><<o>> .vj.}
+{IN3.} Concluyendo lo suso escripto es de saber q<ue>la argume<n>tac'io<n>
+q<ue> se faze por Rac'ionac'ion. contiene c'inco partes las
+quales son estas Proposic'ion. por la qual se decla-
+ra breue mente el fundame<n>to de donde salle toda la fuerc'a dela
+Rac'ionac'ion. Aprouac'ion por la qual aq<ue>llo q<ue> breue mente es
+dicho se prueua por Razones & se faze mas abierto & mas cla-
+ro. asumpc'ion por la qual se trae a proposito aq<ue>llo dela propo-
+sic'ion q<ue> faze al fecho q<ue> qujeren prouar. aprouac'ion dela asum[p]-
+c'ion por la qual se confirma con Razones aq<ue>llo q<ue> es traydo ha
+proposito. Conclusion por la qual breue mente se declara aq<ue>llo
+q<ue> de toda la argume<n>tac'ion qujeren concluyr. E asi la argume<n>-
+tac'ion q<ue> mas partes tiene enestas c'inco esta otra argumenta-
+c'ion hay q<ue> tiene q<u><<a>>tro partes. otras tres. otras dos E cada vno
+puede v<er> q<ue> es asi E de aq<ue>llas cosas q<ue> son c'iertas poneremos
+exiemplo E delas q<ue> son dubdosas daremos Razon<e>s. argume<n>-
+tac'ion de c'inco partes se podria fazer eneste exiemplo. com<m>o si
+alguno dixiese {GL. [^Torna tullio a argujr
+enel exiemplo q<ue> de su-
+so puso enla cabsa de
+ephamjnudas]} O Juezes todas las leys se deuen traer aproue-
+cho dela Republica & son de ynterpretar segu<n>t el prouecho co-
+mu<n> & no<n> segu<n>t la escriptura delas letras. Ca esta v<ir>tud & sabidu-
+ria tenjan n<uest>ros antecesores q<ue> en escreujr las leys no<n> curaua<n>
+de otra cosa si no<n> dela salud & prouecho dela Republica E njn
+ellos q<ue>rian escreujr cosa q<ue> dapn~ase & avn q<ue>lo escriujesen bien}
+[fol. 31v]
+{CB1.
+entendian q<u><<a>>ndo fuese entendido seria Refusada la ley q<ue> dapn~o tro-
+xiese Ca no<n> hay alguno q<ue> qujera guardar las leys por cabsa dela<<s>>
+leys mas por cabsa dela Republica & todos piensan q<ue>se admjnjs-
+tra muy bie<n> la Republica con las leys. Por ende segu<n>t aq<ue>l fin
+para q<ue>las leys se mandan guardar Conujene ynterpretar la
+escriptura dellas E pu<e>s ala Republica serujmos deuemos Jn-
+terpretar las leys segu<n>t el prouecho della. Ca asi com<m>o dela
+medic'ina no<n> cunple otra cosa tomar si no<n> aq<ue>llo q<ue> pertenesce
+a prouecho & sanjdat del cuerpo por q<ue> por cabsa del fue leua<n>tada
+asi delas leys no<n> conujene alguna cosa aluedriar si no<n> lo q<ue> cu<n>-
+ple ala Republica. por q<ue> por cabsa della fueron establesc'idas. por
+ende eneste Juyzio dexad de escodrin~ar las letras dela ley & consi-
+derad la ley segu<n>t q<ue> es Razonable al prouecho dela Republica. ca
+qual cosa fue mas prouechosa alos de thebas q<ue> ser supremjdos
+los de[ ]lac'edemonja q<ue> eran sus enemjgos. o qual cosa pertenescia
+mas q<ue> acatase ephamjnudas enperador delos thebanos (q<ue>) q<ue>los
+suyos oujesen vitoria o qual cosa por mas cara & mas amada
+o por meJor conujene av<er> q<ue> taman~a gloria delos thebanos con
+tan claro & tan fermoso trihunpho. Por ende dexada la escri-
+tura dela ley deujo ephamjnudas considerar la Jntenc'ion de quj-
+en la escriujo E esto asaz cosa considerada es q<ue> no<n> hay alguna
+ley escripta si no<n> por cabsa dela Republica. Por ende penso que
+era soberana locura no<n> Jnterpretar segu<n>t la salud dela Republi-
+ca lo q<ue> por salud della era escripto. E si todas las leys conujene[<n>]
+ser Referidas a prouecho dela Republica. E este ephamjnudas
+fizo prouecho aella. siguese q<ue> no<n> se puede dezir q<ue> en vn mesmo
+fecho fizo prouecho a toda la comunjdat & desobedesc'io alas}
+[fol. 32r]
+{CB1.
+leyes ante paresce auer las obedesc'ido pues por el prouecho comu<n>
+el qual el guardo son establesc'idas. En q<u><<a>>tro partes se faze la argume<n>-
+tac'ion q<u><<a>>ndo proponemos o asumjmos sin prouac'ion. lo qual se deue
+fazer q<u><<a>>ndo la proposic'ion se entiende por si mesma o la asumpc'ion
+es clara & no<n> ha menester prueua & dexada la prueua dela asumpc'i-
+on fazese la argume<n>tac'ion en q<u><<a>>tro. Com<m>o eneste exiemplo
+Si alguno contra ephamjnudas dixiese asi. O Juezes vos q<ue> sodes
+Juramentados a Juzgar segu<n>t la ley nescesaria mente deuedes obe-
+descer las ley<e>s E obedescer a las leys no<n> podedes si no<n> segujdes lo q<ue>
+es escripto enellas Ca qual mas c'ierto testimonjo de su voluntad
+puede dexar el q<ue> escriujo la ley. q<ue>la escriptura la qual el escriujo
+con gran~t cuydado & deligenc'ia E si las letras no<n> toujesemos
+con gran~t trauaJo las buscariamos por conoscer por ellas la vo-
+luntad del escriptor E no<n> consentiriamos a ephamjnudas
+si no<n> toujese pl<e>ito q<ue>le tan~ese q<ue> nos Jnterpretase la yntenc'io<n> dela
+ley. pu<e>s mas Razonable es q<ue> no<n> le suframos tenjendo presta
+& clara la ley Jnterpretar la voluntad del scriptor no<n> segu<n>t q<ue> esta
+magnjfiesta mente escripto. mas segu<n>t q<ue> cunple asu negoc'io
+E si vos Juezes deuedes obedescer alas leys & esto no<n> podedes fa-
+zer si no<n> seguides lo que es escripto enla ley por q<ue> dubdades de Juz-
+gar q<ue> este ephamjnudas fizo contra la ley. Dexada la apro-
+uac'ion dela asumpc'ion se puede fazer la argume<n>tac'io<n> en q<u><<a>>tro
+partes segu<n>t este exiemplo. Si alguno dixiese no<n> deuemos
+dar fee alas palabras de aq<ue>llos q<ue> muchas vezes contra la fee
+nos engan~aron Ca si algu<n>t dapn~o Resc'ibiesemos por la su des-
+lealtad no<n> podriamos Razonable mente acusar a otro saluo}
+[fol. 32v]
+{CB1.
+anos mesmos. & ser om<n>e egan~ado. la primera vez es dapn~o la
+segunda es liujandat. la tercera es torpeza & nescedat E pues
+losde cartago muchas vezes nos engan~aron. soberana locura es
+av<er> esperanc'a enla fee de aq<ue>llos por la deslealtad de los quales
+tantas vezes somos engan~ados. dexada la aprouac'ion asi dela
+proposic'ion com<m>o dela asumpc[']ion se puede fazer la argumentac'ion
+en tres partes. Com<m>o eneste exiemplo. si alguno dize asy. vna de
+dos cosas nos cunple o auer temor delos de cartago si los dexamos
+asi seguros o q<ue> destruyamos su c'ibdat & c'ierto es q<ue> no<n> cunple av<er>
+themor dellos. pues siguese q<ue> deuamos destruyr su c'ibdat.
+{RUB. Cap<itul><<o>> .vij.}
+{IN3.} Algunos hay q<ue> piensan q<ue> algunas vezes se puede ca-
+llar la conclusion q<u><<a>>ndo lo q<ue> se sigue dela proposic'ion
+es claro. E q<u><<a>>ndo esto acaesce fazese la argume<n>tac'io<n>
+de dos partes enesta manera Com<m>o si alguno dixiese asi. si la mu-
+ger pario no<n> es virgen E esta muger pario aquj dizen q<ue> basta
+asaz fazer la proposic'ion & asumpc'ion & dexar la conclusion por
+q<ue> es tan clara q<ue> no<n> es menester de la dezir. Pero a nos paresce q<ue>
+toda Rac'ionac'ion es de concluyr & aq<ue>l vic'io q<ue> a ellos desplaze es
+a saber poner enla conclusion lo q<ue> es mucho claro se deue esquj-
+uar con gran~t cuydado. lo qual todo se puede fazer si son bien
+entendidos los generos delos ayuntamjentos delas propossi-
+c'iones Ca o ayuntaremos & pornemos en vno la proposic'ion
+& la asumpc'ion enesta man<er>a. com<m>o diziendo enel exiemplo su-
+so escripto si todas las ley<e>s conujene ser eferidas al prouecho}
+[fol. 33r]
+{CB1.
+dela Republica. E este ephamjnudas a prouecho ala salud pu-
+blica. por c'ierto no<n> puede ser dicho q<ue> en vn fecho mesmo fizo bien
+ala salud comun & no<n> obedesc'io alas leys. o tomaremos el contra-
+rio dela conclusion enesta man<er>a enel exiemplo suso dicho de car-
+tago diziendo siguese q<ue> es soberana locura auer esperanc'a enla
+fee de aq<ue>llos por la deslealtad delos quales tantas vezes eres enga-
+n~ado o de otra gujsa q<ue> concluyamos sola mente aq<ue>llo q<ue> queremos de-
+zir com<m>o eneste mesmo exiemplo diziendo siguese q<ue> destruyamos la
+c'ibdat o q<ue> esprimamos lo q<ue> se sigue de aq<ue>llo q<ue> queremos concluyr Co-
+m<m>o enel exiemplo dela muger q<ue> diziamos enesta gujsa. si la mu-
+ger pario c'ierto es q<ue> dormjo con varon. esta pario siguese q<ue> dor-
+mjo con varon. E si no<n> quieres dezir esto por q<ue> es muy claro conclu-
+yelo q<ue> dello se sigue & diras siguese q<ue> cometio Jncesto o adulterio
+segu<n>t la calidat del caso en q<ue> se fabla. E asi concluyras la argume<n>-
+tac'ion & no<n> sera la conclusion muy clara la qual qujeres esqujuar
+E por ende enlas argume<n>tac'iones muy luengas es de concluyr por
+estos atraymje<n>tos o por los contrarios. Enlas breues es de declara<r>
+sola mente aq<ue>llo q<ue> om<n>e quiere prouar E en aq<ue>llas en q<ue> la conclusi-
+on seria muy clara. es de husar de aq<ue>llo q<ue> se sigue dela conclusion se-
+gu<n>t q<ue> de suso deximos. E si algunos hay q<ue> piensan algunas vezes
+basta asaz fazerse la argumentac'ion con vna parte sola com<m>o en<e>l
+exiemplo suso dicho diziendo asi pues pario con varon dormjo por
+q<ue> en tal caso pueden pensar q<ue> nj<n> es menester asumpc'io<n> nj<n> aproba-
+c'ion njn conclusion. Pero anos paresce q<ue> estos yerran enla signj-
+ficac'ion del nombre. Ca la argumentac'ion avn q<ue> tiene vn no<m>bre
+signjfica dos cosas es a saber q<ue> argume<n>tac'ion es la cosa fallada Ra-
+zonable o nescesaria para prouar alguna cosa. E el polimjento
+artefic'ioso desta cosa fallada E q<u><<a>>ndo dizen algo enesta manera pu-
+es pario con varon dormjo. dizen la cosa fallada. mas no<n> dizen el
+polimje<n>to della E nos fablamos delas partes deste polimje<n>to Por}
+[fol. 33v]
+{CB1.
+ende aq<ue>lla Razon q<ue> estos dizen no<n> pertenesce aeste fecho E con
+esta Respuesta podemos desechar otras Razones q<ue> parescen fazer
+contra la partic'ion q<ue> deximos de algunos si hay q<ue> piensan q<ue>la
+asumpc'ion se puede tirar o la proposic'ion la qual tiene algun<<a>>
+cosa probabile o nescesaria sin dubda en algo mouera al oyente
+Ca si sola mente curasemos dela cosa q<ue> se dize & no<n> fiziesemos
+menc'ion dela man<er>a en q<ue> se dize lo q<ue> es pensado. no<n> se faria tan
+gran~t diferenc'ia com<m>o se faze entre los soberanos oradores
+& los medianos. mas no<n> sola mente es de acatar lo q<ue> se dize
+mas avn la forma en q<ue> se dize. Por ende el q<ue> tracta dela ar-
+gume<n>tac'ion deue curar no<n> sola mente dela cosa fallada. mas
+avn del polimje<n>to dela manera del fablar {RUB. Capitulo viij<<o>>.}
+{IN3.} Con grande cuydado cunple diuersificar & variar la
+orac'ion Ca en todas las cosas la semeJanc'a es madre de
+la fartura. E esto se puede fazer si no<n> comenc'aremos
+siempre de vna manera la argumentac'ion. E lo primero conuj-
+ene distingujr la fabla enlos mesmos generos & alas vezes hu-
+sar de man<er>a de Jnduc'tion alas vezes de Rac'ionac'io<n> E enla argu-
+mentac'ion no<n> come<n>c'ar siempre de proposic'io<n>. njn siempre fa-
+zer argumentac'ion de c'inco partes nj<n> polir las partic'ion<e>s dela
+Razon siempre por vna man<er>a. mas alas vezes comenc'ar dela
+asumpc'ion alas vezes dela aprouac'ion & alternarlas & trocar
+las E alas vezes husar de vna man<er>a de conclusion & alas vezes
+de otra E para q<ue> esto se vea bien o escriujendo o fablando en qual
+quier delos exiemplos se puede ver q<u><<a>>n ligero es de fazer E pares-
+cenos q<ue> asaz auemos dicho delas partes dela argume<n>tac'on &
+bien q<ue>remos q<ue> entiendan los q<ue> esto leyeren q<ue> nos sabemos que por
+otras Razones muchas & obscuras se tractan las argumentac'ion<e>s}
+[fol. 34r]
+{CB1.
+en la philosophia delas quales hay c'ierta arte. Pero paresc'ionos
+q<ue> no<n> son para el huso de orar E para la arte dela eloq<ue>nc'ia. mas
+aq<ue>llas q<ue> pertenescen para fablar & orar nos no<n> afirmamos q<ue> las de-
+ximos mas prouechosa me<n>te q<ue> los otros. mas dezimos q<ue> las auemo<<s>>
+escripto con mayor deligenc'ia & cuydado. E agora segu<n>t q<ue> presumj-
+mos por aq<ue>lla horden pasaremos alas otras cosas
+{RUB. Titulo septimo dela Reprehension
+Cap<itul><<o>> prim<er>o}
+{IN3.} Reprehension es aquella por la qual argumentando om<n>e
+o destruye o aflaca o adelgaza la confirmac'ion delos ad-
+uersarios E esta fazese por aq<ue>lla mesma fuente de Jnue<n>-
+c'ion por la qual se faze la confirmac'io<n>. Ca por aq<ue>lla man<er>a de fun-
+damjentos q<ue> se puede la cosa confirmar & prouar por esa manera
+& por essos mesmos fundama<n>tos se puede destroyr. E non hay de con-
+siderar en todas estas Jnuenc'iones si no<n> aq<ue>llo q<ue> es atribuydo alas
+personas & alos negoc'ios. Por ende delas doctrinas q<ue> ya auemos
+dicho las quales se han de traspasar aesta parte de fabla q<ue> llama-
+mos Reprehension se deue hordenar la Jnue<n>c'ion & argume<n>tac'ion
+& polimje<n>to della. Pero por q<ue> alguna doctrina espec'ial se de enes-
+ta parte declararemos las maneras dela Reprehension & quje<n> las
+guardare mas ligera mente podra desfazer o destruyr las argume<n>-
+tac'ion<e>s q<ue> contra el se fazen. E toda argume<n>tac'ion se Reprehende
+por alguna delas maneras q<ue> se siguen La primera si por ventu-
+ra no<n> se otorga alguna cosa o muchas delas q<ue> fueron puestas enla
+asumpc'ion. La segunda si se njega q<ue> delas cosas otorgadas se ssy-
+gue la conclusion q<ue> el arguyente qujso prouar. La tercera si se mu-
+estra q<ue> el genero dela argumentac'ion no<n> es bueno. La q<u><<a>>rta si con-
+tra alguna firme argume<n>tac'ion se trae otra tanto o mas firme}
+[fol. 34v]
+{CB1.
+delas cosas que fueron dichas enla asumpc'ion non se otorga algo
+com<m>o q<u><<a>>ndo aquello q<ue> dizia el q<ue> argumentaua q<ue> era creyble se njega
+ser asi o lo q<ue> dizia q<ue> era semeJable se muestra q<ue> no<n> es semeJante o lo
+q<ue> allegaua por Juzgado se Rebuelue por la otra parte o se Reprueua
+del todo el Juyzio o lo q<ue> dizia el argumentador q<ue> era sen~al se njega
+ser asy o si se Reprehande el ayuntamjento de diuersas Razones
+enla vna parte o en amas o si el cuento de diuersas cosas se prue-
+ua ser falso o si la sinple conclusion se demuestra contra el en al-
+guna cosa falsa. Ca todo lo q<ue> se toma para argume<n>tar. qujer sea
+de cosa probabile. quier de cosa nesces[*ari]a Conujene q<ue> se tome de
+los fundame<n>tos q<ue> desuso dexim[*os] Lo q<ue> es tomado por cosa crey-
+ble se destruya si se muestra ser clara mente falso enesta manera
+Com<m>o si dixiese alguno. Non hay alguno q<ue> no<n> qujera mas el di-
+nero q<ue>la sabiduria Ca esto magnjfiesta mente es falso. por q<ue> algu-
+nos hay q<ue> qujeren mas la sabiduria q<ue> el dinero. o si hay alguna
+cosa contraria q<ue> sea creyble com<m>o si dixiese alguno qual hay q<ue> no<n>
+sea mas cobdic'ioso delos actos dela virtud q<ue> del djnero por q<ue> hay
+algunos q<ue> farian el contrario. q<ue> si se dize q<ue> del todo no<n> es creyble
+aq<ue>llo q<ue> era puesto por creyble com<m>o si alguno q<ue> es c'ierto q<ue> es auari-
+ento dixiese q<ue> por cabsa de algu<n>t acto de virtud mediano menospre-
+c'io muy gran~t q<u><<a>>ntia de djnero. o si aq<ue>llo q<ue> en algunas cosas aca-
+esce & en algunos om<ne>s digan q<ue> se faze comu<n> mente en todos enes-
+ta manera. com<m>o si dixiese alguno los q<ue> pobres son mas qujeren
+el djnero q<ue>los actos dela virtud ca no<n> lo fazen todos los pobres o
+si dixiese alguno asy. Pues aquel logar es desierto. nescesario
+es q<ue> allj se fiziese esta muerte Ca aq<ue>l om<n>e podia ser muerto en lo-
+gar publico Ca esto no<n> ha logar toda via por q<ue> alas vezes acaesce}
+[fol. 35r]
+{CB1.
+el contrario o si aquello q<ue> se faze pocas vezes dizes q<ue> nunca se fa-
+ze com<m>o dizja courio en fauor de fulujo q<ue> no<n> podia alguno en vna vis-
+ta njn de pasada enamorarse. ca esto avn q<ue> comu<n> mente sea. pero po-
+dria en algu<n>t caso acaescer el contrario. E lo q<ue> es tomado por sen~al
+por aq<ue>llos mesmos fundamentos por q<ue>se prueua. se puede destroyr
+Ca enla sen~al primera mente es nescesario q<ue> sea verdadero aq<ue>llo q<ue>
+por sen~al se toma & dende q<ue> sea propria sen~al de aq<ue>llo por q<ue> se toma
+& de q<ue> se tracta. com<m>o la sangre es sen~al dela muerte. despues q<ue> sea
+tal cosa la q<ue> se fizo q<ue> no<n> se deujera fazer. E postrimera me<n>te es me-
+nester q<ue> aquel de qujen tratan sopiese la ley & la costunbre de aq<ue>-
+lla cosa. Ca estas cosas son atribuydas ala sen~al las quales decla-
+raremos con mas deligenc'ia q<u><<a>>ndo fablaremos dela contienda
+conJectural. E asi en la Reprehension es de dezir o q<ue> no<n> es sen~al
+o q<ue> es pequen~a para taman~o fecho o q<ue> faze mas por el q<ue> fabla q<ue>
+por los aduersarios o q<ue> del todo es falso lo q<ue> dizen o q<ue> se pudo traer
+a otra sospecha demas de aq<ue>llo ha q<ue> ellos lo qujeren traer.
+{RUB. Capitulo .ij.}
+{IN3.} (q)Q<u><<a>>ndo alguna cosa se trae por manera de semeJable por
+q<u><<a>>nto aq<ue>llo se tracta por semeJanc'a conuerna en Repre-
+hender negar q<ue> es semeJante A aq<ue>llo para q<ue>se trae
+lo qual se podra fazer si se demostrare q<ue> es diuerso en genero o en
+natura o en fuerc'a o en grandeza o en t<iem>po o en logar o en persona
+o en opin(')ion. E si se muestra en q<ue> Reputac'ion se puede tomar aq<ue>-
+llo q<ue>se trae por semeJanc'a & en q<ue> logar aq<ue>llo para cuya semeJan-
+c'a se trae. E mostrado esto mostrar luego q<ue> diferenc'ia hay entre}
+[fol. 35v]
+{CB1.
+la vna cosa & la otra delo qual mostraremos q<ue> se deue Reputar & te-
+ner por otra cosa aq<ue>llo q<ue> se compara E por otra aq<ue>llo ha q<ue> se conpara
+E esta manera de Reprehension auemos mucho menester q<u><<a>>ndo q<ue>re-
+mos Reprehender alguna argume<n>tac'ion q<ue> es fecha por manera
+de Jnduc'tion. E si se trae contra uos alguna cosa Judgada por que
+esto princ'ipal mente se confirma & toma actoridat por estos funda-
+mentos. es a saber por loor de a<ue>llos q<ue>lo Judgaron. E por semeJan-
+c'a de aq<ue>lla cosa de q<ue> se tracta A aq<ue>lla q<ue> fue Juzgada & Remenbran-
+do & diziendo q<ue> no<n> sola mente no<n> fue Reprehendido aq<ue>l Juyzio ma<<s>>
+avn q<ue> fue de todos aprouado & loado E demostrando q<ue> mayor & ma<<s>>
+dific'ile cosa fue aq<ue>lla q<ue> fue Judgada q<ue> traen para prouar q<ue> aq<ue>lla q<ue>
+esta en Juyzio en tal caso conplira Reprehender la tal argume<n>ta-
+c'ion por fundamentos contrarios si hay para ello Razon v<er>dadera
+o verisimjle & sera de acatar deligente mente si por ventura no<n> faze
+a proposito delo q<ue> se tracta aq<ue>llo q<ue> fue Judgado E es de v<er> si es tal cosa
+la q<ue> traen enla qual se ha de Reprehender el q<ue>la Judgo de gujsa que
+paresca q<ue> qujeren Reprehender & Judgar A aq<ue>l q<ue>la Judgo. Cumple
+eso mesmo parar mjentes si son otras cosas Juzgadas de otra ma-
+nera. de gujsa q<ue> aq<ue>llo q<ue> traen por Judgado paresca cosa singular
+o tal q<ue> se fizo pocas vezes. Ca por estas Razones la actoridat de lo
+Judgado se puede mucho destroyr o amenguar E aq<ue>llas cosas q<ue> se
+traen com<m>o Razonables por la man<er>a suso dicha se puede temptar
+delas desfazer. {RUB. Capitulo iij.}
+{IN3.} Aquellas cosas q<ue> se traen com<m>o nescesarias & semeJan ar-
+gumentac'ion nescesaria & no<n> lo son pueden se Reprehen-
+der enla manera q<ue> se sigue Primera mente la co<n>plexio<n>}
+[fol. 36r]
+{CB1.
+& ayuntamjento de dos partes q<ue> es fecha de tal guisa que qual q<u><<j>>er
+parte otorgada paresce entera mente concluyr. si verdadera es nun-
+ca se puede Reprehender. si falsa es Reprehender se ha por vna de dos
+maneras. o por conuersion o por destruc'ion dela vna parte por
+conuersion es a saber Retornando la Razon contra el arguyente
+enesta manera. com<m>o si alguno dixiese asy. Si este q<ue> tu acusas
+es om<n>e de v<er>guenc'a para q<ue> acusas A aq<ue>l q<ue> tiene en poco ser acusa-
+do Ca el q<ue> faze esta Razon entiende q<ue> qujer confieses q<ue> es om<n>e de
+v<er>guenc'a. qujer no<n> q<ue> avras de otorgar q<ue> no<n> deue ser acusado E
+esta argume<n>tac'ion se puede Reprehender por man<er>a de conuersio<n>
+enesta gujsa diziendo asi. ante se deue acusar. Ca si es om<n>e de v<er>-
+guenc'a no terna en poco la acusac'ion. E si tiene el yngenjo des-
+uergonc'ado Razon es de acusarle pues es mal om<n>e. Por destruc-
+c'ion dela vna parte se puede Reprehender eneste mesmo exiemplo
+Respondiendo asy. si om<n>e de v<er>guenc'a es por la acusac'ion se corre-
+gira & se partira del herror. La enumerac'ion & Recontamjento
+delas partes se dize vic'iosa. si se dexa alguna cosa para lo q<ue> q<ue>re-
+mos q<ue> sea otorgado o si contamos cosa flaca q<ue> se pueda contrade-
+zir o tal q<ue> no<n> aya cabsa alguna por q<ue> no<n> se pueda otorgar hones-
+ta mente . dexase algo enla enumerac'io<n> com<m>o eneste exiemplo. si
+dixiese alguno asi. tu q<ue> tienes este cauallo nescesario es q<ue> o lo
+conpraste o lo heredaste o te fue dado o nasc[']io en tu casa. E sy
+esto no<n> es siguese q<ue> lo furtaste. E pues no<n> lo conpraste nj<n> lo here-
+daste nj<n> te fue dado nj<n> nasc'io en tu casa concluyese q<ue>lo furtaste.
+esto se puede Reprehender bie<n>. Respondiendo q<ue> aq<ue>l cauallo fue
+tomado delos enemjgos & le ouo en su parte. lo qual al dicho sse}
+[fol. 36v]
+{CB1.
+destruye la enumerac'ion & Recontamjento por q<ue> aq<ue>llo q<ue> se Respo<n>-
+de no<n> fue Recontado en ello. En otra manera se Reprehendera si
+se dize contra aq<ue>llo com<m>o enel exiemplo suso dicho. si muestra
+q<ue> ouo el cauallo por herenc'ia o si aq<ue>llo q<ue> qujeren q<ue> confiese no<n>
+es cosa torpe & se puede bien otorgar. com<m>o si dixiesen los aduer-
+sarios A alguno. o tu quesistes poner asechanc'as o quesiste fa-
+zer plazer atu amigo o te mouiste con cobdic'ia Ca bie<n> puede Res-
+ponder. qujse fazer plazer amj amjgo. lo qual no<n> es cosa torpe
+{RUB. Capitulo iiij<<o>>}
+{IN3.} La sinple conclusion se puede Reprehender si aq<ue>llo q<ue> quje-
+re q<ue> se siga non paresce segujrse nescesaria mente de
+lo q<ue> ante se dixo. Ca dezir asi. si sp<irit>u tiene bjue. si de
+dia es luz hay. es de tal gujsa q<ue> delo primero nescesaria ment<e>
+se sigue lo postrimero. mas si alguno dixiese asi. si aq<ue>lla es
+madre ama. si aq<ue>l alguna vez peco nunca se corregira. Co<n>-
+ujene q<ue> se Reprehenda demostrando q<ue> no<n> se sigue nescesaria me<n>-
+te lo primero delo postrimero. Ca acaesce alas vezes la madre
+no<n> amar al fiJo E el q<ue> peco corregirse. este genero & las otras
+cosas nescesarias ala arte del argumentar & la Reprehensio<n>
+delas argumentac'iones contienen vna mayor materia &
+mas larga mente & meJor se deue declarar q<ue> aquj se declara
+mas el conosc'imjento & la doctrina de aq<ue>lla arte es taman~a &
+de tal manera q<ue> no<n> se puede ayuntar del todo A alguna parte
+desta arte de Rethorica q<ue> tractamos. mas es tal q<ue> Requjere
+grande ense<n>amjento & de luengo t<iem>po & apartado desta arte.}
+[fol. 37r]
+{CB1.
+Por ende aq<ue>llas cosas q<ue> a ello pertenescen en otro t<iem>po & para otro pro-
+posito si buena mente pudieremos las declararemos. agora conuje-
+ne nos q<ue> seamos contentos para el huso del fablar delas doctrinas
+delos Rethoricos. E q<u><<a>>ndo delo q<ue> se toma enla asumpc'io<n> algun<<a>> cosa
+no<n> se otorga destruyese el argume<n>to segu<n>t q<ue> dexjmos. mas q<u><<a>>ndo
+delas cosas otorgadas no<n> se sigue la conclusion es de considerar esto
+si por ventura se dize vna cosa & se faze otra Com<m>o si alguno diga q<ue>
+partio de su casa para yr ala hueste E contra el qujera otro husar
+de tal argume<n>to. sy venjeras ala hueste vieran te los capitanes
+delos caualleros. E pu<e>s no<n> te vieron siguese q<ue> no<n> partiste para
+la hueste. Ca aquj si otorgares la proposic'ion & la asumpc'io<n> es de
+destroyr la conclusion por q<ue> otra cosa se concluyo q<ue> de nescesidat
+se concluya. por q<ue> bien puede ser partir para la hueste & no<n> llegar
+njn lo ver el capitan. E agora por q<ue> mas clara mente se entendie-
+se la materia posimos este exiemplo q<ue> tiene<n> claro & grande herror
+por q<ue> se canbian las palabras. Ca al comjenc'o dize del venjr & des-
+pues concluye enel partir. mas muchas vezes acaesce q<ue> el herror
+es mas obscuro & pasa por verdat. com<m>o q<u><<a>>ndo no<n> te mjenbras bie<n>
+delo q<ue> otorgaste o si otorgaste cosa dubdosa por c'ierta. E q<u><<a>>ndo otor-
+gares cosa dubdosa & por aq<ue>lla confesion te qujsieren concluyr co<n>-
+ujene q<ue> demuestres q<ue> no<n> se sigue la conclusion delo q<ue> tu otorgaste en
+la manera q<ue> tu lo entendiste. mas q<ue> el aduersario la qujso traer
+a otro entendimjento. E asj q<ue>la conclusion no<n> sale delo q<ue> tu otor-
+gaste. mas delo q<ue>el qujso entender. com<m>o eneste exiemplo. si algu-
+no qujsiese prouar a algunos mercadores q<ue> eran pobres & argu-
+mentase asi. ssy avedes menester djnero non tenedes djnero.}
+[fol. 37v]
+{CB1.
+si non tenedes djnero pobres sodes & c'ierto es q<ue> auedes menester
+dinero Ca en otra gujsa no<n> trabaJariades en mercadoria. pues ssy-
+guese q<ue> sodes pobres. Este argumento se Reprehende asy q<ue> dira la
+otra parte q<u><<a>>ndo tu dizias si aujades menester djnero no<n> tenedes
+djnero. esto entendia yo si tanto era el menester q<ue> tornaua en po-
+breza E por ende lo otorgaua E q<u><<a>>ndo tu dizias adelante aue-
+des menester djnero entendia yo q<ue> querias dezir q<ue> q<ue>rriamos te-
+ner mas djnero. E asi destas confesion<e>s no<n> se concluye q<ue> somos
+pobres. mas bien se concluyera. si al comje<n>c'o confesaramos q<ue>el q<ue>
+q<ue>ria auer mayor q<u><<a>>ntia dela q<ue> tiene. no<n> tiene djnero alguno. mas
+esto non se confeso. A las vezes cuydan q<ue> has olujdado lo q<ue> confesas-
+te E por ende ponen enla conclusion lo q<ue> no<n> se sigue. Com<m>o si quj-
+siesen concluyr enesta manera. si alguno dixiese asi si a aq<ue>l perte-
+nesc'ia la herenc'ia de fulano verisimjle es q<ue> el lo mato & va pro-
+uado esto por muchas palabras. E despues dize q<ue> A aq<ue>l pertenes-
+c'ia la herenc'ia. E dende concluye q<ue> aq<ue>l lo mato. Ca no<n> se sigue esto
+delo q<ue> auja dicho. por q<ue> otra cosa es ser versimjle q<ue>lo mato E
+otra dezir q<ue>lo mato Ca lo vno muestra presumpc'io<n>. lo otro certenj-
+dat. Por ende cunple diligente mente acatar q<ue> es lo q<ue> primera
+me<n>te se dixo & que es lo q<ue> se sigue dello.
+{RUB. Capitulo v.}
+{IN3.} El genero dela argumentac'ion se puede mostrar errado
+por estas cabsas q<ue> se siguen es a saber si enel mesmo hay
+herror o si no<n> faze propia mente a proposito. lo q<ue> se
+dize. herror ay enel argumento enlas maneras sigujentes}
+[fol. 38r]
+{CB1.
+si es todo falso o si es todo comun o si es vulgar o si es flaco o si es apar-
+tado o si husa de mala difinic'ion o si es en si Rebuelto o si es claro o si es
+non otorgado o si es torpe o si es ofensoso o si es contrario o si es mouj-
+ble o si es dapn~oso. falso argumento es aq<ue>l en q<ue> clara me<n>te se contie-
+ne mentira Com<m>o si dixiese alguno. no<n> puede ser sabidor aq<ue>l q<ue> me-
+nosprec'ia el djnero. Socrates menosprec'iaua el djnero. siguese q<ue>
+no<n> era sabidor Ca magnjfiesta mente mjiente el q<ue> dize q<ue> el menos-
+prec'iaua el djnero no<n> puede ser sabidor. Comu<n> es aq<ue>l argume<n>to
+q<ue> tanbien faze por los aduersarios com<m>o por el. Com<m>o si dixiese al-
+guno O Juezes por esto Razone breue mente por q<ue> tenja v<er>dadera
+cabsa Ca tan bien podra dezir esto el aduersario contra el com<m>o el
+lo dixo contra el aduersario. Vulgar es aq<ue>l q<ue> si no<n> se otorga se puede
+traspasar a cosa non probabile njn Razonable Com<m>o si dixiese alguno
+si parara mjentes no<n> lo cometiera o si la cosa q<ue> es clara mente torpe
+qujere encobrir con flaca defension com<m>o si dixiese alguno a otro.
+Avn q<ue> todos los otros te acatauan q<u><<a>>ndo floresc'ias. yo te dexe E
+agora q<ue> eres dexado de todos yo solo con muy gran~t peligro traba-
+Jo por te Restituyr. Apartado se dize el argumento q<u><<a>>ndo alguno
+allega alguna cabsa para Reprehender a otro mas de lexos delo
+q<ue> es Razon. com<m>o si Reprehendiendo los males q<ue> venjeron en Rom<<a>>
+por los gracos dixiese alguno asy. si plubio sc'ipion no<n> diera su fiJa
+cornelia por muger a tiberio graco. E el no<n> oujera enella dos fi-
+Jos aq<ue>llos q<ue> llamaron los gracos non se leuantaran tantos boli-
+c'ios en Roma com<m>o se leuantaron. Por ende este dapn~o es de yn-
+putar a sc'ipion. Ca esta Razon mucho es de lexos & poca culpa
+ha sc'ipion enlos malefic'ios que fizieron sus njetos. E desta g<u><<i>>sa}
+[fol. 38v]
+{CB1.
+es aq<ue>lla querella q<ue> escriue el poet(t)a diziendo asy. bueno fuera
+q<ue> enel monte pellio no<n> cayeran en t<ie>rra las vigas cortadas con se-
+gures Ca demas luen~e viene esta quexa q<ue> demanda el fecho Ca
+el cortar dela madera mucho es aRedrado del mal q<ue> despues se fa-
+ze conella. si fazen naujos para flota o pertrechos para con-
+bate o astas para armas & se sigue algu<n>t mal dello. mala
+difinic'ion es q<u><<a>>ndo enella se ponen cosas comun<e>s. com<m>o si al-
+guno dixiese asi. bollec'edor & leuantador de pueblo es aq<ue>l q<ue> es
+c'ibdadano malo o sin prouecho. Ca estas palabras no<n> conuenj-
+eron mas al bollecedor & leuantador del pueblo q<ue> al mouedor de
+malos pl<e>itos calupniosa mente. o al q<ue> qujere la honrra mas
+de Razon o a otro mal om<n>e o si contienen alguna falsedat enes-
+ta gujsa Com<m>o si dixiese alguno ssabiduria es el cuydado de
+allegar djnero. ca esto no<n> es asi. asi contiene alguna cosa non
+tan grande njn tan pesada com<m>o deue. Com<m>o se dixiese la locu-
+ra es cobdic'ia de gloria sin medida. Ca com<m>o qujer q<ue> esto es locu-
+ra Pero es vna manera della E no<n> contiene todas las otras
+maneras dela locura las quales son muchas. En si Rebuelto
+es el argumento q<u><<a>>ndo para declarar vna dubda traen otra co-
+sa dubdosa enesta gujsa. com<m>o si dixiese alguno los dioses de
+ehoec'ia q<ue> tienen el poderio delos soberanos & delos ynfiernos
+fazen paz entre sy & dan concordia alos om<ne>s Ca njn lo vno nj<n>
+lo otro se sabe. Claro es aq<ue>llo en q<ue> no<n> hay debate com<m>o si aq<ue>-
+llo de q<ue> acusauan a oreste qujsiesen prouar. es a saber q<ue> mato
+a su madre ca c'ierto es q<ue>la mato & la dubda no<n> era sobre la}
+[fol. 39r]
+{CB1.
+muerte. mas contendian sobre si deujo matarla o no<n>. Non otorgado
+es q<u><<a>>ndo aq<ue>llo q<ue> se acresc'ienta & se trae para prouar lo otro no<n> es c'ier-
+to & esta en debate com<m>o si aq<ue>l q<ue> acusaua a vlixes trabaJase en
+prouar q<ue> es cosa yndigna q<ue> vn omne perezoso & de poco bie<n> mata-
+se A ajaz q<ue> fue varon muy fuerte. torpe es q<u><<a>>ndo aq<ue>llo q<ue> se dize
+segu<n>t el logar en q<ue> se dize o el om<n>e q<ue>lo dize o el t<iem>po en q<ue> se dize o
+segu<n>t los q<ue> lo oyen o segu<n>t la materia de q<ue> fabla es yndigno &
+non honesto. ofensoso es aq<ue>llo q<ue> enoJa las voluntades delos q<ue>
+lo oyen. com<m>o si alguno q<ue> cobdic'iase av<er> algu<n>t juzgado entre
+los caualleros de Roma loase la ley agraria. la qual fue despla-
+zible al estado dela caualleria. Contrario es q<u><<a>>ndo alguno Re-
+prehende aq<ue>llas cosas q<ue> fizieron aq<ue>llos q<ue> lo oyen. com<m>o si dela<n>-
+te alixandre de mac'edonja acusando alguno a otro q<ue> destruye-
+ra alguna c'ibdat dixiese el acusado q<ue> no<n> hay cosa mas cruel
+q<ue> destroyr las c'ibdades Ca el mesmo alixandre destruyo la c'ib-
+dat de thebas. moujble es q<u><<a>>ndo vn om<n>e mesmo de vna cosa fa-
+bla desuariada & diuersa mente. com<m>o si alguno dixiese q<ue> el
+om<n>e virtuoso no<n> ha menester otra cosa alguna para bie<n> beujr
+saluo la virtud. E despues dixiese q<ue> sin sanjdat no<n> puede
+om<n>e bien beujr. o si dixiese alguno q<ue> husa con su amjgo por
+la bien q<ue>renc'ia & dize despues q<ue> espera del av<er> prouecho. dan~o-
+(es)[so] es q<u><<a>>ndo aquello q<ue> se dize dan~a en algo & enpesce alo q<ue> el q<ue>
+lo dize qujere fazer. com<m>o si el capitan q<u><<a>>ndo esfuerc'a los
+caualleros para pelear loase la fuerc'a & la muchedunbre
+& la bien andanc'a delos enemjgos. Ca esto faze alas vezes en-
+flaq<ue>c'er el esfuerc'o delos suyos}
+[fol. 39v]
+{CB1.
+{IN3.} Q<u><<a>>ndo alguna parte dela argume<n>tac'ion no<n> faze al propo-
+sito delo q<ue> fablan forc'ado sera q<ue> en algu<n>t herror delos q<ue> se
+siguen Caya es a saber si prometio de prouar muchas
+cosas & prueua pocas o si deuja prouar toda la Razon & prueua
+parte della. En esta gujsa com<m>o si alguno dixiese el linaJe de
+las muger<e>s es auariento Ca eriphila vendio por oro la vida de
+su marido Ca no<n> se sigue por ende q<ue> todas las muger<e>s sean aua-
+rientas. o si defendiese aq<ue>llo q<ue> no<n> le acusan. com<m>o si alguno
+fuese acusado q<ue> por djneros mercaua dignjdat & el se defendie-
+se diziendo q<ue> era fuerte en armas segu<n>t cuenta euripides que
+fazia anphion & pacurio. cuenta q<ue> vno a quje<n> dizian mal
+dela musica defendiendola. loaua la sabidoria. o si culpa las
+cosas no<n> por culpa dellas. mas por culpa del om<n>e. Com<m>o si al-
+guno Reprehendiese la doctrina por los herrores de algu<n>t doc-
+tor o si alguno queriendo loar a otro no<n> le loase dela virtud
+mas dela bien andanc'a. o si alguno conpara de tal gujsa vn<<a>>
+cosa con otra q<ue> piensa q<ue> no<n> loa ala vna si no<n> denuesta ala otra
+o si loa de tal gujsa ala vna q<ue> no<n> faze menc'ion dela otra o
+com<m>o q<u><<a>>ndo algunos deliberan. si avran guerra o no<n> otro
+loa la paz del todo & no<n> demuestra si aq<ue>lla guerra es dapn~osa
+o sin prouecho. o si q<u><<a>>ndo fablan de c'ierta cosa. otro fabla de
+cosa comu<n> & general. o si dan Razon falsa de alguna cosa Co-
+m[<m>]o si dixiese alguno buena cosa es el djnero por q<ue> ello mas q<ue>
+otra cosa faze la vida bien auenturada. ca esto no<n> es asy o si
+dan Razon flaca com<m>o dizia plauto. el qual dixo gra<n>t mal
+es & crueldat castigar al amjgo por culpa avn q<ue>lo meresca
+pero en la moc'edat prouechoso es & atraelo ala virtud el
+castigo. ca yo amj amjgo no<n> le castigare por su culpa njn}
+[fol. 40r]
+{CB1.
+meresc'imjento Ca esta Razon es flaca. por q<ue> avn q<ue> el asi lo fiziese
+non se sigue por ende q<ue> es asi de fazer E en otro logar dixo asy. muy
+gran~t mal es la auaric'ia por q<ue>la cobdic'ia del djnero a muchos trae
+grandes dapn~os Ca otras Razon<e>s hay por q<ue>la auaric'ia es mala
+o si no<n> es sufic'iente la Razon. com<m>o si dixiese alguno. muy gran~t
+bien es la amjstad por q<ue> hay muchas delectacion<e>s enella. Ca
+no<n> es esta la princ'ipal Razon por q<ue> es buena la amjstad
+{RUB. Capitulo vij.}
+{IN3.} La q<u><<a>>rta manera dela Reprehension era q<u><<a>>ndo contra
+argumentac'ion firme se trae otra tan firme o mas
+E esta manera de Reprehension se husa sen~alada me<n>-
+te enlas deliberacion<e>s q<u><<a>>ndo aq<ue>llo q<ue> contradezimos confesamos
+q<ue> es Razonable. mas lo que nos defendemos demostramos q<ue> es nes-
+cesario o q<u><<a>>ndo confesamos q<ue> lo q<ue>los otros defienden es prouechoso
+mas demostramos q<ue> lo q<ue> nos dezimos es honesto.
+{RUB. Titulo octauo dela conclusion
+Cap<itul><<o>> prim<er>o}
+{IN3.} Estas cosas pensamos q<ue> se deujan dezir dela Reprehen-
+sion. agora de aquj adelante djremos dela conclusion
+E hermagoras pone q<ue> para la postrimera conclusio<n>
+se deue fazer vna digresion q<ue> eneste proposito qujere dezir tras-
+pasamjento de vna Razon en otra. E enesta digresion & traspa-
+samjento piensa el q<ue> deue entremeter vna fabla q<ue> sea apartada}
+[fol. 40v]
+{CB1.
+dela cabsa & dela dubda della la qual fabla contenga o loor de
+si o denuesto de su aduersario o traya alguna otra Razon de q<ue> faga
+algo de confirmac'ion o de Reprehension no<n> Reprehendiendo nj<n> argu-
+mentando. mas acresc'entando lo Reprehendido o argumentando
+por vna manera de engrandesc'imjento dello & de Reforc'amjento E
+si alguno pensare q<ue> esta digresion es parte dela orac'ion & fabla
+sigua lo si le plugujere. Ca nos ya djmos en parte las doctrinas
+del acrescentar & loar & denostar & en parte en su lugar sean dada<<s>>
+mas anos no<n> plaze q<ue> esta parte q<ue> llama<n> digresion sea puesta
+en cuento delas partes. por q<ue> no<n> auemos por bie<n> q<ue> se traspasse
+dela cabsa ala conclusion si no<n> por materia comu<n> & no<n> por ma-
+teria apartada E deste genero despues se dira mas anos non
+plaze q<ue>los loores & los denuestos se tracten apartada mente
+mas q<ue> sean ynxeridos en las mesmas argumentac'ion<e>s. agora
+diremos dela conclusion. E la conclusion es la salida & determj-
+nac'ion de toda la fabla. E esta tiene tres partes. enumerac'ion
+yndignac'ion & conquestion. enumerac'ion q<ue> qujere dezir Recon-
+tamjento por el qual las cosas q<ue> son dichas desparzida & derra-
+mada mente se Recogen en vn logar E por q<ue> meJor se Remje<n>bren
+se ponen sso vn acatamjento si se faze siempre en vna manera
+todos entenderan clara mente q<ue> se tracta con arte. mas si sse
+faze en diuersas maneras qujtase esta sospecha & avn qujta-
+se el enoJo delos oyentes. por ende cunple fazer com<m>o mucho<<s>>
+fazen Primera mente pasar por lo mas ligero & tan~er cada
+cosa singular mente & pasar por todas las argume<n>tac'iones
+breue mente E despues dezir lo q<ue> es mas dific'ile & graue}
+{CW. diziendo quales}
+[fol. 41r]
+{CB1.
+diziendo quales partes oujste declarado enla partic'ion & de quales
+prometiste q<ue> dirias. por quales Razones prouaste cada vna delas
+partes E entonc'e preguntar alos q<ue> lo oyen q<ue> es lo q<ue> mas deue<n> querer
+q<ue>les sea desmostrado diziendo enesta gujsa aq<ue>llo prouamos. esto otro
+mostramos claro. E asi Retornara el oyente en su memoria todas
+las cosas en vno & pensara q<ue> no<n> queda ya cosa q<ue> deua pedir q<ue> le mues-
+tren por q<ue> todo es demostrado. E enestos generos segu<n>t q<ue> desuso es
+dicho deues pasar tus argume<n>tos apartada me<n>te cada vno sobre si
+E lo q<ue> mas dific'ile es ayuntar los argumentos contrarios con los
+tuyos E q<u><<a>>ndo dixieres tu argume<n>to mostrar com<m>o desfeziste la Ra-
+zon q<ue> contra el se fazia E asi por breue comparac'ion la memoria
+del oyente sera entera mente Reformada en todo lo q<ue> fue dicha enla con-
+firmac'ion & enla Reprehension. E estas cosas conujene q<ue> se digan
+por diuersas maneras. alas vezes lo puedes Recontar com<m>o de tu per-
+sona diziendo q<ue> es lo q<ue> dexiste & cada cosa en q<ue> logar lo dexiste alas ve-
+zes ynduzir otra persona o otra cosa q<ue> fabla. Persona puedes yn-
+duzir enesta manera diziendo asy. Por ventura si el q<ue> escriujo la
+ley estudiese aquj & vos preguntase O Juezes q<ue> es lo q<ue> dubdades. q<ue> le
+podriades dezir. pues q<ue> esto & esto vos es demostrado. E desta gujsa
+podemos en persona de otro asi com<m>o por n<uest>ra persona pasar por toda<<s>>
+las argume<n>tac'iones Remenbrandolas singular me<n>te. E eso mes-
+mo Retornar cada vno delos generos alas partic'ion<e>s E alas veze<<s>>
+preguntar al oyente q<ue> desea mas saber. E fazer esto alas vezes
+por comparac'ion de sus argume<n>tos conlos contrarios. alguna cosa
+se ynduze com<m>o q<ue> fabla si atribuymos la Razon A alguna cosa non
+biua com<m>o a la ley o al logar o a la c'ibdat o al moujmjento com<m>o dizi-
+endo}
+[fol. 41v]
+{CB1.
+asi O Juezes si las leyes podiesen fablar por ventura enestas cosas
+dubdariades. Ca q<ue> deseades mas saber. pues q<ue> esto & esto vos es ma-
+njfestado clara mente. E eneste genero de fablar podemos husar
+de todas las maneras de q<ue> husariamos si en n<uest>ra persona fablase-
+mos. Ca hay vna doctrina comu<n> en qual qujer man<er>a de Reconta-
+mjento q<ue> se deue guardar. la qual es esta q<ue> de cada argume<n>to por
+q<ue> todo non se puede dezir otra vez se escoJa lo q<ue> fuere mas graue &
+meJor & se diga lo mas breue mente q<ue> ser pueda. de gujsa q<ue> non
+paresca q<ue> se Repite la Razon otra vez. mas q<ue> se Renueua enla me-
+moria.
+{RUB. Capitulo .ij.}
+{IN3.} Indignac'ion es aq<ue>lla Razon por la qual se faze q<ue> se le-
+uante alguna grande malq<ue>renc'ia contra algu<n>t om<n>e
+o graue enoJo de alguna cosa. E eneste genero deuemo<<s>>
+primera mente saber q<ue> de todos los logares & fundamentos de que
+posimos doctrinas dela confirmac'ion se puede tractar la yndigna-
+c'ion. Ca delas cosas q<ue> son atribuydas alas personas & alos nego-
+c'ios pueden nascer quales qujer acrescentamje<n>tos de Razones
+& yndignac'iones & leuantamje<n>tos de san~a. Pero consideremos
+aq<ue>llas doctrinas q<ue> apartada mente se pueden dar desta yndigna-
+c'ion & ensen~amjento. E es de saber q<ue> se pueden tomar de muchos
+fundamentos. los quales son los q<ue> se siguen. El primero fu<n>-
+damento es de abtoridat q<u><<a>>ndo Remenbramos q<u><<a>>nto cuydado oujero<n>
+dela cosa en q<ue> fablamos los dioses no<n> mortales o aq<ue>llos om<ne>s
+cuya abtoridat fue muy grande. este fundamento se toma delas}
+[fol. 42r]
+{CB1.
+suertes delas Reuelac'iones delos prophetas delas cosas q<ue> acaesc'i-
+eron contra natura. delos mjraglos. delas Respuestas q<ue> se da<n> por
+manera de Reuelac'ion & delas semeJantes cosas. E eso mesmo de
+n<uest>ros mayores delos reyes delas c'ibdades delas gentes. de algunos
+om<ne>s q<ue> fueron muy sabidor<e>s del senado del pueblo. delos q<ue> escriuje-
+ron las leys. El segundo fundamento es aq<ue>lla Razon por don-
+de se demuestra aq<ue>lla cosa de q<ue> fablan a quales pertenesce acres-
+c'entandola & exc'itando a san~a & diziendo si pertenesce a todos
+o ala mayor parte. lo qual es cosa muy crua o si pertenesce a
+mayores om<ne>s com<m>o eran aq<ue>llos de cuya abtoridat se toma la
+yndignac'ion lo qual es cosa muy yndigna o a eguales en bon-
+dat o en fazienda o en cuerpo lo qual es cosa muy mala o si perte-
+nesce a om<ne>s mas baxos lo qual es cosa muy soberuja El
+tercero fundamento es q<u><<a>>ndo preguntamos q<ue> Jnconuenje<n>tes ver-
+njan si fazen otros lo q<ue> este fizo E declaramos q<ue> si esto asi passa
+q<ue> avra muchos q<ue> cometan semeJante osadia & mostraremos
+q<ue> mal puede desto venjr. El q[<u><<a>>]rto fundame<n>to es por el qual
+demostraremos q<ue> estar muchos alegres esperando v<er> lo q<ue> deter-
+mjnaran sobre esto por q<ue> puedan entender q<ue> segu<n>t lo q<ue> a vno fuere
+consentido semeJante sera a cada vno dellos otorgado enla seme-
+Jante cosa. El qujnto fundamento es por el qual mostra-
+remos q<ue> avn q<ue> hay otras cosas q<ue> maguer sean mal determjna-
+das son de tal natura q<ue> si vna vez es Juzgada no<n> se puede mu-
+dar por otra sentenc'ia njn corregir por poderio alguno El
+sexto fundamento es q<u><<a>>ndo mostramos q<ue>el malefic'io q<ue> acusa-
+mos fue fecho a sabiendas & con malic'ia & ayuntamos}
+[fol. 42v]
+{CB1.
+luego aello diziendo que al malefic'io voluntario no<n> es de dar
+perdon avn q<ue> a las vezes se otorgue al que es fecho con sinpleza
+El septimo fundame<n>to es q<u><<a>>ndo nos ensan~amos diziendo
+q<ue> el fecho q<ue> acusamos es espantable cruel malic'ioso & obra
+de tirano & cometido por fuerc'a & por mano poderosa lo qual
+es aborresc'ido delas leys & dela egualdat del derecho El
+octauo fundamento es q<u><<a>>ndo demostramos q<ue> el malefic'io que
+culpamos no<n> es comu<n> nj<n> husado. no<n> sola mente delos om<ne>s
+llanos. mas avn delos muy osados & atreujdos & q<ue> es tal
+q<ue>lo no<n> suelen cometer los fieros om<ne>s nj<n> las gentes barbaras
+nj<n> las crueles bestias. E esto se puede dezir q<u><<a>>ndo se dizew algun<<a>>
+cosa ser fecha cruel mente contra los padres o madres o contr<<a>>
+los fiJos o contra las muger<e>s o contra los parientes o contr<<a>>
+los homjll<e>s. E eso mesmo si se dize algo ser fecho contra los
+vieJos & mayores de hedat o contra los huespedes o contra los
+vezinos o contra los amjgos o contra aq<ue>llos con quje<n> ouo co<n>-
+uersado o de quje<n> fue mantenjdo o de qujen fue ensen~ado el
+q<ue>lo fizo o contra los muertos o contra los desanparados &
+baxos o contra los q<ue> son dignos de mjsericordia & piedat o
+contra los om<ne>s famosos o nobles o contra aq<ue>llos q<ue> oujeron
+grandes honrras & dignjdades o contra aq<ue>llos q<ue> no<n> podiero<n>
+defender asi njn fazer mal a otro. com<m>o son los moc'os & los
+vieJos & las mugeres & de todas estas cosas leuantada agra
+mente la yndignac'ion & san~a puede mouer muy grande odio
+contra aq<ue>l q<ue> a alguno delos suso dichos ofendio o dapn~o El}
+[fol. 43r]
+{CB1.
+nono fundamento es q<u><<a>>ndo conparas aq<ue>llo q<ue> acusamos a algunos
+pecados q<ue> es c'ierto q<ue> son pecados. E por conparac'ion mostramos qu<<a>>nto
+es peor & mas feo aq<ue>llo q<ue> nos acusamos q<ue> los otros pecados El de-
+c'imo fundame<n>to es q<u><<a>>ndo RecoJemos & ayuntamos en vno todas las
+cosas q<ue> enel fazer del malefic'io pasaron & todas las cosas q<ue> del sse
+sigujeron Reprehendiendo & culpando a cada vna & ponemos el fe-
+cho en q<u><<a>>nto podemos por tales palabras delante los oJos de aq<ue>l
+a qujen lo dezimos de tal gujsa q<ue> el malefic'io q<ue> acusamos le pa-
+resca tan malo com<m>o si el mesmo se acertara ende q<u><<a>>ndo se come-
+tio & fuera presente & lo viera El onzeno fundame<n>to es
+q<u><<a>>ndo mostramos q<ue> se fizo el malefic'io por aq<ue>l a quje<n> menos co<n>-
+uenja delo fazer & quje<n> lo deujera vedar si otro lo fiziera El
+dozeno fundamento es q<u><<a>>ndo mostramos gran~d sentimje<n>to por
+q<ue> el fecho acaesc'io primera mente contra nos & no<n> se huso en
+algu<n>t t<iem>po fazer contra otro El trezeno fundamento es q<u><<a>>n-
+do mostramos q<ue> el fecho se faze por ynJuriar & desonrrar Ca
+por esta manera se leuanta malq<ue>renc'ia de qujen lo oye cont<r><<a>>
+la soberuja & vanagloria de qujen lo fizo El catorzeno fu<n>-
+damento es q<u><<a>>ndo pedjmos alos q<ue> lo oyen q<ue> considere<n> n<uest>ras Jn-
+Jurias por sus fechos E si acusamos el malefic'io fecho contra
+moc'os pidieremos q<ue> piens(a)[e]n de sus fiJos E si contra muger<e>s
+q<ue> piensen de sus muger<e>s E si contra vieJos q<ue> piensen de sus
+padres & de sus ahuelos El qujnzeno fundame<n>to es q<u><<a>>ndo
+dezimos q<ue> avn alos contrarios & alos enemjgos suele pares-
+cer mal aq<ue>llo q<ue> nos fue fecho & la yndignac'ion & san~a poco ma<<s>>
+o menos destos fundamentos q<ue> dichos son se leuantara muy
+graue mente {RUB. Cap<itul><<o>> iij.}}
+[fol. 43v]
+{CB1.
+{IN3.} Las partes dela conqujstion q<ue> qujere eneste proposito dezir
+quexamjento delas cosas mesmas se ha de tomar E la co<n>-
+question & q<ue>xamje<n>to es aq<ue>lla fabla q<ue> procura mouer
+alos oyentes a mjsericordia & conpasion & en esta conquestion &
+q<ue>xamjento conujene primera me<n>te fazer el corac'on del oyente
+mjsericordioso por q<ue> mas ligera me<n>te se mueua ala mjsericordia
+q<ue>le piden E esto se podra fazer por aq<ue>llas Razones comun<e>s por
+las quales se muestra la fuerc'a q<ue> ha la fortuna contra todos &
+q<u><<a>>nta es la flaqueza delos om<ne>s la qual fabla si se faze madu-
+ra & breue mente mucho abaxara el corac'on delos q<ue>lo oyen & le
+mouera a mjsericordia q<u><<a>>ndo enel mal ageno considerare<n> su
+flaqueza & enfermedat & demas destas comun<e>s Razon<e>s ay
+otros fundamentos espec'iales para mouer alos oyent<e>s a mjse-
+ricordia. El primero fundame<n>to es mostrando q<u><<a>>ntos bien<e>s
+toujeron aq<ue>llos para quje<n> pedimos mjsericordia & en q<u><<a>>ntos
+males estan agora El segundo es declarar los t<iem>pos & dezir
+por qujen & en quales males fueron & son & seran si dellos non
+han conpasion El tercero fundamento es llorar cada vno
+delos males apartada mente sobre sy. com<m>o enla muerte del
+fiJo dezir la delectac'ion q<ue> auja el padre con su njn~ez & el amor
+& la esperanc'a & el solaz & la crianc'a & en semeJantes cosas que-
+xarse de cada vno delos dapn~os El q<u><<a>>rto fundame<n>to es mos-
+trar q<ue>las cosas q<ue> fazen A aq<ue>llos para quje<n> pedjmos misericor-
+dia son feas & viles & de escaseza & muy Jndignas segu<n>t ssu
+hedat & linaJe & la fazienda & honrra q<ue> toujeron E segu<n>t
+los benefic'ios q<ue> Resc'ibieron o han de Rescebir. El qujnto
+es declarar todos los dapn~os cada vno sobre si apartada mente}
+[fol. 44r]
+{CB1.
+ponjendolos ante los oJos del oyente de gujsa q<ue> paresca al que
+lo oye q<ue>lo vee de manera q<ue> no<n> sola mente las palabras mas la
+cosa mesma com<m>o si fuese presente le mueua a mjsericordia
+El sexto es mostrar com<m>o aquel para qujen se pide la mjse-
+ricordia esta en grandes miserias & aflictiones & no<n> tiene
+otro bien si no<n> la esperanc'a & q<ue> esperaua algunos bien<e>s & no<n>
+sola mente no<n> los alcanc'o mas ante cayo en graues male<<s>>
+El septimo fundame<n>to es q<u><<a>>ndo Retornamos semeJante
+caso enlos mesmos q<ue> lo oyen & los pedjmos q<ue> en veyendo A
+nos se Remjenbren de sus fiJos o de sus padres o de alguno q<ue>
+les deue ser mucho amado a qujen vieremos q<ue> mas Razo-
+nable mente podria acaescer lo semeJante El octauo fu<n>-
+dame<n>to es q<u><<a>>ndo dezimos q<ue> fue fecho lo q<ue> no<n> se deuja fazer
+o q<ue> no<n> fue fecho lo q<ue> deuja com<m>o si alguno quexandose dela
+muerte de otro dixiese asi. no<n> fuy yo ende presente. no<n> lo vi.
+no<n> oy su postrimera boz. no<n> Rescebi su postrimero sp<irit>u o di-
+ziendo desta gujsa. enlas manos delos enemjgos fue mu-
+erto. enla t<ie>rra delos enemjgos yogo sin sepoltura desonrra-
+da mente. los fieros anjmales le atormentaron grande
+espacio & no<n> sola mente delas otras honrras. mas avn dela
+comu<n> honrra caresc'io enla muerte. El nono fundamento
+es Retornar la fabla alas cosas mudas q<ue> no<n> tienen Razon
+com<m>o fablando en persona del cauallo o dela casa o dela ves-
+tidura Ca por esto se mueue mucho el corac'on delos q<ue> lo oye<n>
+& amaron a aq<ue>l cuyas eran aq<ue>llas cosas. El dec'imo fu<n>-
+damento es q<u><<a>>ndo demostramos pobreza enfermedat & sole-
+dat. El onzeno fundamento es q<u><<a>>ndo loamos el sepelljr}
+[fol. 44v]
+{CB1.
+delos fiJos o delos padres o de su cuerpo de cada vno & otra cossa
+desta gujsa El dozeno fundamento es q<u><<a>>ndo se llora aparta-
+mjento de alguno. com<m>o si te apartan de aq<ue>l con quje<n> de muy bue-
+na voluntad has biujdo com<m>o del padre o del fiJo o del famjliar
+o del amigo El trezeno fundamento es q<u><<a>>ndo con vna ma-
+nera de san~a nos q<ue>xamos q<ue> somos maltratados de aq<ue>llos a
+qujen no<n> conuenja tratarnos mal. com<m>o son los parientes
+los amjgos & aq<ue>llos a quje<n> bien fezimos & los q<ue> cuydamos
+q<ue> nos aujan de ayudar. o si somos mal tractados de aquellos
+q<ue> es cosa yndigna q<ue> nos tracten mal com<m>o si son sieruos o fuero<n>
+n<uest>ros sieruos o criados o om<ne>s de baxa gujsa El catorzeno
+fundamento es q<ue> se faze por manera de suplicac'io<n> com<m>o q<u><<a>>ndo
+Rogamos suplicando alos q<ue>lo oyen con homjllde fabla & piado-
+sa que qujeran av<er> mjsericordia El qujnzeno fundame<n>to
+es q<u><<a>>ndo demostramos q<ue> no<n> nos q<ue>xamos de n<uest>ras desauenturas
+mas delas de aq<ue>llos a quje<n> deuemos amar El sextodec'imo
+es q<u><<a>>ndo demostramos q<ue> n<uest>ro corac'on fue a otros mjsericordioso
+& piadoso Pero q<ue> es ancho & grande & pac'iente para sofrir
+todos estos dapn~os & q<ue>lo sera si mas le acaesc'ieren Ca alas ve-
+zes la verdat & magnjfic'enc'ia & grandeza del corac'on en q<ue>
+esta maduridat & abtoridat aprouecha mas para atraer lo<<s>>
+oyentes a misericordia que homjlldat njn Ruego nj<n> suplicac'i-
+on E desque fueren comoujdos los corac'on<e>s a piadat non
+cunple tardar mucho enla conqujstion & quexamjento Ca
+segu<n>t dize el Rethorico. non hay cosa que mas ayna se seque}
+[fol. 45r]
+{CB1.
+que la lagrima. E por q<u><<a>>nto nos paresce q<ue> auemos dicho a-
+saz de todas las partes dela fabla & la grandeza deste volumen
+proscedio mucho. de aquj adelante diremos las cosas q<ue> se sigue<n>
+enel segundo libro.}

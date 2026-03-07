@@ -1,0 +1,3791 @@
+{RMK: HSMS-0179.}
+{RMK: Marsilio Ficino.}
+{RMK: [MFF] Tratado contra la peste.}
+{RMK: Pamplona | Mathias Mares | 1598.}
+{RMK: Madrid | Biblioteca Nacional de España | R/26692.}
+{RMK: Fabián Alejandro Campagne.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0179-0001: Tratado contra la peste.} {RUB. LIBRO COM-
+PVESTO POR EL FA-
+moso, y singular philosopho, y gran medico Mar-
+silio Ficino Florentino: en el qual se contienen
+grandes auisos, y secretos marauillosos, assi de me-
+decina, como de c'irugia, para curar y preseruarse
+los hombres de pestilencia con otros muchos tra-
+tados muy necessarios de diuersos Autores es-
+perimentados en esta enfermedad}
+Dirigido a los sen~ores Regidores d<e> la ciudad d<e> Pa<m>-
+plona, cabec'a del Reyno de Nauarra.
+{ILL.}
+CON LICENCIA.
+De los sen~ores del Consejo Real, en Pam-
+plona, por Mathias Mares, an~o .1598.
+Acosta de Martin Gomez esriuano Real.}
+[fol. 1v]
+[fol. 2r]
+{CB1.
+{RUB. Licencia.}
+{IN6.} DON PHELIPE
+Por la gracia de Dios,
+Rey de Castilla, de Na-
+uarra, de Leon, de A-
+ragon, de las dos Sici-
+lias de Ierusalem, de
+Portugal, de Toledo, de Valencia,
+de Galicia, de Mallorca, de Menor-
+ca, de Cerden~a de Cordoua, de Cor-
+cega, de Murcia, de Iaen, de los Al-
+garbes, de Algezira, de Gibraltar,
+de las Islas de Canaria, de las Indias
+Orientales y Occidentales, Islas, y
+tierra firme, del mar Oceano, Archi-
+duque de Austria, Duque de Borgo-
+n~a de Brabante, y de Milan, Conde
+de Abspurg, de Flandes, de Tirol, y
+de Barcelona, Sen~or de Vizcaya, y
+de Molina, &c<etera>. % Por qua<n>to de par-
+te de vos Martin Gomez vezino des-ta}
+{CW. ta}
+[fol. 2v]
+{CB1.
+nuestra ciudad de Pamplona, Nos
+fue hecha relacion que teniades vn
+libro intitulado, Consejos y auisos
+muy necessarios y prouechosos con-
+tra la pestilencia, Compuesto por
+Marsilio Ficino Florentino, Philoso-
+pho y medico, que era muy proue-
+choso, y nos suplicasteys os manda-
+semos dar licencia y facultad para
+lo imprimir y vender, o como la nue-
+stra merced fuesse. El qual visto por
+los del nuestro Consejo, y auiendose
+hecho la diligencia que la prematica
+nueuamente por nos hecha, dispo-
+ne cerca de la impression de los li-
+bros. Fue acordado que deuiamos
+mandar dar esta nuestra carta para
+vos en la dicha razon. Por la qual os
+damos licencia y facultad, para que
+por esta vez podays hazer imprimir
+el dicho libro, sin q<ue> por el incurrays
+en pena alguna, con que la dicha im-
+pression sea conforme al original, y}
+{CW. con}
+[fol. 3r]
+{CB1.
+con q<ue> despues de impresso no se pue-
+da ve<n>der ni venda, sin q<ue> se traya al di-
+cho n<uest>ro Co<n>sejo para q<ue> se vea si la di-
+cha impression esta co<n>forme al ori-
+ginal, y se tasse el precio a q<ue> se ha de
+ve<n>der cada volume<n>, so[ ]pena de caer
+e incurrir en las penas co<n>tenidas en
+la dicha prematica, y diez mil mara-
+uedis para nuestra Camara y fisco.
+Dada en la nuestra ciudad de Pam-
+plona so el sello de nuestra Chanci-
+lleria a .30. de Mayo de .1598. an~os}
+{CB2.
+El licenciado
+Liedena.
+El licenciado Iuan
+de Ybero.}
+{CB2.
+El licenciado
+Subic'a.
+El Doctor Iuan
+de San Vicente.}
+{CB1.
+Por mandado de su Magestad Real y los de
+su Consejo en su nombre.
+Pedro de Sola Secretario.}
+[fol. 3v]
+{CB1.
+{RUB. TASSA.}
+{IN2.} Doy fe yo Pedro d<e> Sola, Secretario d<e>l
+Consejo Real deste Reyno de Naua-
+rra quen cumplimiento de lo conte-
+nido en la sobre escripta Prouission auien-
+do presentado Martin Gomez, escriuano
+Real, ante los Sen~ores del dicho Consejo,
+el libro impresso: intitulado consejos, y a-
+uisos muy necessarios, y prouechosos con-
+tra la pestilencia: compuesto por Marsilio
+Ficino Florentino, philosopho y medico, el
+qual auiendo corregido con el original, por
+mi el dicho Secretario, por mandado de el
+dicho Consejo, concierta con el, y dio licen-
+cia y facultad para que pudiesse vender ca-
+da libro impresso en papel a Real y medio,
+y mandaron que no exceda de la dicha ta-
+ssa, so[ ]pena de perder los libros que en su
+poder se hallaren desta impression, y de
+diez mil marauedis para la Camara y fisco
+de su Magestad y d<e>nu<n>ciador por mitad, y
+que ante y primero que se venda ningun
+libro dellos, se imprima esta tassa en la pri-
+mera oja de cada volumen, despues de la di-cha}
+{CW. cha pro}
+[fol. 4r]
+{CB1.
+prouision, como todo ello consta, y pa-
+rece por los autos que quedan en poder de
+mi el Secretario infrascripto, aque me refie-
+ro. En cuya certificacion firme, en Pamplo-
+na, a ocho de Iunio, de mil y qui(u)[n]ientos, y
+nouenta y ocho an~os.
+Pedro de Sola
+Secretario}
+[fol. 4v]
+{CB1.
+{RUB. Muy Illustre Sen~or.}
+{IN4.} COnsidera<n>do la
+alteracion del tie<m>-
+po, y el cuydado
+en que esta insig-
+ne ciudad, y todo el Reyno es-
+ta puesto, con el nueuo sobre-
+salto de contagion, y dolen-
+cia de algunos pueblos de la
+prouincia de Guipuzcoa, y o-
+tras partes, tan justamente te-
+mida, determine de poner di-
+ligencia, como saliese a luz, y
+se imprimiesse vn librito com-
+puesto por aquel ta<n> sen~alado
+y conocido philosopho, y me-
+dico Marsilio Ficino, en su le<n>-gua}
+{CW. gua}
+[fol. 5r]
+{CB1.
+Florentina: traduzido en
+nuestra lengua vulgar, lleno d<e>
+auisos y co<n>sejos, asi para pre-
+seruar, como tambien para cu-
+rar la pestilencia, donde con
+summa breuedad y diligencia
+pone largamente todo lo ne-
+cessario a este proposito, reco-
+gido de quantos autores me-
+dicos, Griegos, Latinos, y Ara-
+bigos escriuieron y esperime<n>-
+taron, con otras cosas a este
+proposito muy necessarias: es-
+toy persuadido que son de gra<n>-
+de consolacio<n> y prouecho pa-
+ra todos, no de menor con-
+tentamie<n>to su doctrina, y ma-nera}
+{CW. nera}
+[fol. 5v]
+{CB1.
+de proceder: pareciome
+que para tener el cumplimie<n>-
+to que combenia no le falta-
+ua otro que publicarlo a nom-
+bre, y baxo el amparo de V<uestra>
+Sen~oria, q<ue> pues por beneficio
+del summo Dios, a tal tie<m>po,
+y en tan gra<n>des necessidades
+fueron dados a esta Republi-
+ca tales protectores, y gober-
+nadores, justa cosa es, q<ue> aque-
+llo que en comun ha de apro-
+uechar y seruir, salga fauoreci-
+do y autorizado por V<uestra> s<en~oria> el
+trabajo es poco, y mucho me-
+nor el seruicio: Todavia mi a-
+ficion es muy entera, la qual}
+{CW. cierto}
+[fol. 6r]
+{CB1.
+cierto merece ser aceptada, y
+que V<uestra> s<en~oria> se digne de recebir
+este pequen~o presente, autori-
+zandolo, fauoreciendolo, y
+amparandolo begninamente
+con su sombra, que esto solo
+lo hara estimar, y con aficion
+y cuydado leer: a mi me anima-
+ra en emplear mi tiempo en
+seruir a V<uestra> Sen~oria: cuyas ma-
+nos vessa, este su seruidor, en
+Pamplona, a .30. de Octubre,
+de mil quinientos nouenta y
+siete.
+Martin Gomez.}
+[fol. 6v]
+{CB1.
+{RUB. El Impressor a la ciu-
+dad d<e> Pamplona, desea
+perpetua felicidad.}
+{IN7.} NO POCAS vezes, in-
+clito ayuntamiento, he
+considerado las no cono-
+cidas ventajas con q<ue> esta
+Ciudad de Pamplona es
+engrandecida: derraman-
+dose su gloriosa fama, no
+solamente por Espan~a, mas por las estran~as
+y longinquas naciones: siempre tuue cons-
+tante proposito ((si mi industria en algo va-
+liesse)) de seruir a quien con tan justo titulo
+me puede y deue mandar. Specialmente
+que en hazer empleo de mi trabajo y dili-
+gencia, donde ay tan subido y inestimable
+merecimiento: donde con tan piadosos o-
+jos y humanidad rara se atiende a la fiel vo-
+luntad con que se sirue: es para mi pobre
+moc'edad aliuio y contento: mientras que}
+{CW. este}
+[fol. 7r]
+{CB1.
+este triste cuerpo fatigado con pleytos rin-
+de su tributo debido a el suelo. Por tanto
+ciudad nobilissima cuya grandeza no me-
+nos que en la gallardia de edificios exterio-
+res, de Castillo, Muros, Torres, Templos,
+Casas, Calles, Puentes, y Rio, Jardines, Flo-
+restas, y Campo admirable: ta<m>bien excede
+en Religio<n>, virtud, justicia, gobierno, letras
+Theologos, Iuristas, Medicos, Philosophos,
+Oradores, y Poetas: co<n> mucha humildad su-
+plico, mi impressio<n> sea fauorecida, como o-
+tras cosas son apoyadas: que no de menos
+importancia es en vna Republica el arte d<e>
+imprimir, para subtilizar entendimientos:
+que la de fabricar edificios. Son las letras
+vn Alcac'ar, donde se amparan y guardan to-
+das las inuenciones de los humanos inge-
+nios: haziendo presentes las cosas que ha
+millares de an~os que passaron: por quienes
+los ausentes se comunican: con quienes los
+ignorantes se industrian: de quienes Socra-
+tes, Platon, Aristoteles y Plinio sacaron lo
+que supieron: y en quienes esta depositado
+grande thesoro de scie<n>cia y virtud: para lo
+espiritual, para lo te<m>poral, para la paz, para
+la guerra, para la prosperidad, para la aduer-
+sidad: en fin para viuir con discrecion en la}
+{CW. tierra}
+[fol. 7v]
+{CB1.
+tierra y para co<n> ellas conquistar el Cielo. Y
+pues n<uest>ros tiempos han venido las letras
+tan a las manos que no ay que yrlas a leer
+a las dos columnas de ladrillo y piedra: ni
+para que scriuir en ojas de palma, y corte-
+zas de arboles, ni laminas de plomo: ni te-
+nemos porque admirarnos de la inuencion
+del papel y pergamino: ni tomar el trabajo
+de Cleanthes, escriuiendo las lectiones q<ue>
+oya, en tejas o huesos de bueyes: y estos ro-
+deos quita la frequencia de impressiones,
+despues que aquel famoso Aleman Iuan Cu-
+temburgis cauallero de Maguncia, natural de Ar-
+gentina, inuento el Arte de imprimir, an~o de mil y
+quatrocientos y quarenta y dos, a V<uestra> Sen~oria su-
+plico, ciudad entre ciudades affamada, se sir-
+uan de me amparar: que si Frobenio, Ascen-
+sio, Manucio, y Plantino fueron de sus ciu-
+dades fauorecidos: no es menos V<uestra> Sen~oria
+para me hazer merced. Principalmente,
+donde se offrece la piedad de vn Obispo ta<n>
+santo y docto, que por su heroico mereci-
+miento, como le ha dado Dios esta mithra,
+espero ciertamente la ha de dexar por vn
+Capelo: pues como valeroso Capita<n> es pro-
+tetor de Sacerdotes virtuosos y sabios: y}
+{CW. amigo}
+[fol. 8r]
+{CB1.
+amigo de tales soldados: para que la Diui-
+na Magestad se sirua: y nuestra sanctissima
+fe catolica se defie<n>da. Y juntamente allega-
+se a esto el raro valor de Virrey tan caua-
+llero y Christiano, que allen( )de que es la
+cima de lo mejor de los caualleros Catala-
+nes, en el esta cifrado lo summo de las
+hystorias que los caualleros antiguos en
+nuestra Espan~a hizieron. Offrecese a esto
+la authoridad de la Milicia: donde la Ma-
+gestad Real del Rey don Phelipe nuestro
+espejo en quien todo el resto de la Christia<n>-
+dad se remira, tiene personados que cada
+qual puede gouernar vn Reyno. Por lo
+qual no me queda duda, de que donde ay
+tanta nobleza y misericordia, mi mendici-
+dad necessitada no aya de ser fauorecida,
+mientras acabo los dias en seruicio de V<uestra>
+Sen~oria: que con tales esperanc'as vine a en
+tal puesto viuir: y con mucha voluntad en
+lo que se me mande fielmente obedecer.
+Mathias Mares.}
+[fol. 8v]
+{CB1.
+{MIN.}}
+[fol. 9r]
+{CB1.
+{ILL.}
+{RUB. CONSEIOS
+Y AVISOS MVY
+necessarios y prouecho-
+sos contra la pestilencia,
+co<m>puestos por Marsilio
+Ficino Flore<n>tino, phi-
+losopho grande, y
+medico sin-
+gular.}
+{IN5.} El amor y aficion grande que
+a mi patria tengo, me ha moui-
+do y animado a que escriuiesse
+algunos auisos, y co<n>sejos co<n>tra
+la pestilencia: y porque el be-
+neficio sea comun y todos lo entiendan, y
+puedan aprouecharse dello, dexare disputas}
+{CW. agu}
+[fol. 9v]
+{HD. Marsilio Ficino}
+{CB1.
+agudas y prolixas, y escriuire en lengua co-
+mun y vulgar, bastara saber que aquellas co-
+sas que yo dixere, dado que no sera<n> muchas
+teniendo respecto a la breuedad, seran apro-
+uadas con muchas buenas razones, y con
+el autoridad de todos los doctores antiguos
+y modernos y esperimentadas de muchos:
+y especialmente de mi padre Marsilio Fici-
+no medico tan sen~alado y singular como to-
+do el mundo sabe. El qual es cierto que cu-
+raua la mayor parte de los enfermos d<e> tal do-
+lencia que a sus manos llegaua<n>. Siruase Dios
+nuestro sen~or que da la vida y reuela los se-
+cretos y medicinas verdaderas y saludables,
+que nos descubre remedios suficientes con-
+tra la pestilencia y conserue en nosotros el
+don dela vida que nos dio para gloria y ala-
+banc'a suya.
+{RUB. % Capitulo .j. Que cosa
+es pestilencia.}
+La pestilencia es vn vapor venenoso en-
+gendrado en el ayre enemigo del espiri-
+tu vital, digole enemigo, no por calidad}
+{CW. eleme<n>tal}
+[fol. 10r]
+{HD. Contra la peste}
+{CB1.
+elemental sino por especial propiedad, dela
+manera que le es la atriaca amiga, la qual
+propiamente no le es amigo por ser calie<n>te,
+fria, seca, o humida, sino porque de toda su
+composicion resulta vna forma proporcio-
+nada ala forma del espiritu vital. Desta ma-
+nera aquel vapor pestile<n>cial no propiame<n>te
+por calor, frialdad, sequedad, o humidad es
+enemigo, sino porque casi puntualmente su
+proporcion es contraria ala proporcion en
+que co<n>siste y estriba el espiritu vital del co-
+rac'on: como vemos en la tierra que cada dia
+nacen y se crian venenos, assi se engendra
+en el ayre algunas vezes este vapor veneno-
+so, dado que por estar mas esparzido no es
+de tanta fuerc'a, ni assienta ni se detiene en
+el ayre limpio, por la conformidad que el
+tal ayre tiene con el espiritu, como es fue-
+go que por su valor y potencia no sufre ni re-
+cibe mezcla de otra naturaleza, y de aqui
+biene el no se corromper assi mismo el ayre
+limpio puro no teniendo mezcla tampoco
+tiene corrupcio<n>, o putrefaction: el tal vapor
+venen[o]so y no prende en cuerpo humano do
+no ay humores dispuestos a fiebre y a pu-drirse}
+{CW. drirse}
+[fol. 10v]
+{HD. Marsilio Ficino}
+{CB1.
+y inflamarse, de manera que como el
+espiritu vital es de menos valor y fuerc'a q<ue>
+no el aborrecelo y huyelo como su contra-
+rio, si acaso se halla mas poderoso y fuerte
+lo lanc'a y desecha de si. Desto queda claro,
+que es necessario y conuieniente corregir el
+ayre, purgar los humores, y esforc'ar y armar
+el corac'on. Aduiertan para entender bie<n> lo
+que se dize, que qua<n>do digo aquel vapor ve-
+nenoso, no crean ser veneno propio y for-
+mal segun toda su naturaleza, porque enfer-
+marian todos los hombres, es empero de tal
+calidad, que facilmente puede conuertirse
+en veneno, como propiamente lo es quando
+por su medio y respecto se pudren y alteran
+todos los humores en cierto grado, que lo
+haze propiamente en el tercero dia, y algu-
+nas vezes antes, mayormente donde hay
+abundancia de humores superfluos, especial-
+mente sangre y colera, quando este maldi-
+to vapor emponc'on~a, o hiere toma natura
+de cal viua y rejalgar: y sus efectos son pu-
+drir, roer, y encender dentro y de fuera: de
+manera que siempre se ha de atender a lu-
+char y resistir a estos tres efectos, sen~alada-mente}
+{CW. mente}
+[fol. 11r]
+{HD. Contra la peste}
+{CB1.
+en lo anterior.
+{RUB. % Capitulo .ij. De que nace la
+pestilencia y donde reyna.}
+{IN4.} ESte venenoso vapor se enge<n>dra en
+las pestilencias mas generales, en
+el ayre, por malignas co<n>stellacio-
+nes, principalmente dela conjun-
+cion de Marte con Saturno en los signos hu-
+manos, y de los eclipsis del Sol y de la Luna:
+como auino en la presente pestilencia del
+an~o .1478. y .1479. Ofende sin co<m>paracio<n> mas
+a los hombres y tierras que tienen por las ta-
+les constellaciones el ascende<n>te fortunado.
+Empero en las pestilencias particulares, na-
+ce el tal veneno de malignos vapores y vie<n>-
+tos de lagos, charcos y pantanos, y de terre-
+motos. De qualquiere achaque q<ue> proceda,
+reyna principalmente en ayres gruessos hu-
+midos nebulosos y hediondos: qua<n>do se me-
+te en el ayre delgado y se tiende por el, pe-
+netra y mata mas presto. Empero es cierto}
+{CW. que}
+[fol. 11v]
+{HD. Marsilio Ficino}
+{CB1.
+que primero, mas vezes y mas tie<m>po reyna
+en el ayre gruesso, caliente, humido y hedi-
+ondo. Hay doctores que dizen que la corrup-
+cion pestilencial comie<n>c'a primero en el ayre
+sutil, pero dura mas en el gruesso: no se como
+probaran la primera parte, pues vemos cla-
+ro que la esperiencia nos muestra lo contra-
+rio: a otra parte la razon nos dize, que no
+se pudiendo corromper el eleme<n>to puro sino
+el misto ((y assi quanto menos misto fuere
+como el ayre delgado menos peligro tiene
+de corrupcio<n>, o putrefaction)). Por lo qual es
+cierto que no la recibe, sino fuesse continua<n>-
+do y recreciendo la influencia pestilencial
+de las estrellas: mas los ayres gruessos y ne-
+bulosos facilmente se corrompen o pudre<n>:
+como le vemos en el agua gruessa mista que
+no se mueue. Ramon es de parecer que qua<n>-
+do viene la pestile<n>cia d<e> partes baxas huyga<n>
+al ayre alto y sutil, y quando viene de los al-
+tos se huygan los dos meses primeros al ay-
+re baxo y algo grosezuelo, frio y humido co-
+mo no sea comunmente mal sano: los otros
+dos meses a medio camino delo alto y despu-
+es alo muy alto, al ayre seco, frio y delgado,}
+{CW. aparta<n>}
+[fol. 12r]
+{HD. Contra la peste}
+{CB1.
+apartandose siempre del caliente, humido y
+turbado, donde son los hombres tales como
+los peces en el agua turbia: entiendan que
+el ayre pestilencial es para los hombres, co-
+mo el agua encenegada para los peces, no
+por esso es necessario, que lo que al hombre
+es ponc'on~a y veneno, lo sea siempre a los o-
+tros animales, por la diuersidad de los signos
+dad de los signos
+celestes y de la especie natural. De aqui na-
+ce que cierto yo no se que dezir de la opinio<n>
+que algunos tienen, que quando el veneno
+pestilencial comienc'a en el ayre, las aues a-
+costumbradas de bolar por los altos buelan
+por lo baxo y moran en los llanos, pero qua<n>-
+do de la tierra comienc'a, que estonces las lo<m>-
+brizes y serpientes se salen de las entran~as d<e>
+la tierra, y las aues acostumbradas de bolar
+por lo baxo se suben a los mo<n>tes. Dize<n> mas,
+que algunas vezes los animales huyen de lo
+alto alo baxo quando el veneno se enciende
+en el ayre, y despues buelan a los altos qua<n>-
+do en la tierra se enciende: desto ha nacido
+lo que el vulgo dize, que los milanos huyen
+y se apartan del ayre pestilencial, y que don-
+de ellos andan no hay mal ayre. Muchas ve-zes}
+{CW. zes}
+[fol. 12v]
+{HD. Marsilio Ficino}
+{CB1.
+hemos ente<n>dido, auerse apegado de los
+hombres a los puercos, podria ello ser, por
+tener alguna semejanc'a en la carne. Estos
+dias se ha visto dos vezes gato y perro auer
+lleuado la dolencia de casa en casa sin adole-
+cer los dichos animales, no hay que espa<n>tar
+que la bestia o el ho<m>bre reciban sin dan~o aq<ue>l
+vapor y dan~e a otros, por q<ue> el hierro ardie<n>te
+quema la estopa y la paja quedando entero
+el: procede por la disposicion del subjecto q<ue>
+recibe, en lo qual consiste segun Aristoteles,
+Galeno y Auicena la mayor parte del efec-
+to, de tal manera que estos dias en vna al-
+queria nuestra vn nin~o de dos an~os estuuo
+todo el dia apegado con otro de siete an~os he-
+rido, y muchas vezes comio de los bocados
+que el otro auia mascado, y no se apego al
+nin~o y apegose a otros que estaua<n> mas apar-
+tados: no lo digo por que nadie se confie di-
+ziendo, puedese que yo no este dispuesto pa-
+ra que se me apegue: tenga en la memoria
+esta regla fisica, que cuando la materia esta
+muy dispuesta, la causa age<n>te por debil que
+sea obra muy presto: y assi vna centella en-
+ciende la estopa y el c'ufre, al contrario desto}
+{CW. la causa}
+[fol. 13r]
+{HD. Contra la peste}
+{CB1.
+la causa poderosissima obra y haze su efecto
+en la materia dado que no parezca aparejada
+ni dispuesta para ello. Es verdad que el fue-
+go mas presto prende en las pajuelas enc'u-
+fradas que en la len~a, y en la len~a seca y me-
+nuda que en la otra: pero no embargante es-
+to la hornaza ardie<n>te enciende los grandes
+len~os verdes, aquello es verde que el fuego
+no vee, la gran fuerc'a de la gente, dispone y
+labra presto, muchas vezes el vapor pestile<n>-
+cial por las fuerc'as delas causas que en el co<n>-
+curren es fortissimo y vos ignorays el qua<n>-
+do, quien no tiene disposicion ni peligro en
+vn tiempo lo puede tener en otro.
+{RUB. % Capitulo .iij. De que manera
+se tiende la pestilencia y en q<ue>
+personas.}
+{IN2.} ESte vapor venenoso es muchas vezes ta<n>
+sutil que no se echa de ver y se co<n>sume,
+pero facilme<n>te se buelue a renouar y en-
+gendrar durando la influe<n>cia a ello y dispues-ta}
+{CW. ta, y}
+[fol. 13v]
+{HD. Marsilio Ficino}
+{CB1.
+y por muy poco que fuere al principio,
+se enciende mucho mas presto que la piedra
+c'ufre, y se tiende de lugar en lugar: y corre
+con grandissima velocidad que sin compara-
+cion es mas contrario y subito enemigo al es-
+piritu vital del corac'on ((que es vapor de san-
+gre mas delgada)) que no la piedra c'ufre a las
+narizes. El tal vapor d<e>l ayre inficionado sola-
+mente prende en los cuerpos que son a esto
+muy aparejados. Encendido vna vez en los
+tales ((assi como la piedra c'ufre encendida
+corre y se tiende)) con vna velocidad admi-
+rable, mucho mas sin comparacio<n> que al prin-
+cipio, especialmente quando traba en humo-
+res sutiles y en el ayre delgado del estio, cor-
+re de vn cuerpo a otro y se enciende: sen~a-
+ladamente donde halla semejanc'a de natura-
+leza, y el cuerpo lleno de suziedad y vapo-
+res hediondos dentro y fuera, y de viandas y
+humores superfluos y aparejados a inflamar-
+se y pudrirse: y donde hay materia caliente
+por luxuria y passion de animo: fatigado el
+cuerpo con demasiado calor y de usar mu-
+cho el ban~o los poros muy abiertos, o muy
+cerrados por opilacion. Sente<n>cia de Galeno}
+{CW. y Aui}
+[fol. 14r]
+{HD. Contra la peste}
+{CB1.
+y Auicena es que nin~os y mugeres esta<n> muy
+peligrosos de p(o)[e]stilencia, porque la materia
+tierna facilmente recibe y se muda, y estan
+llenos de humedad facil de corromperse, bi-
+uen sin orden ni regla: como el viento calie<n>-
+te y gruesso enturbia el vino y lo penetra,
+dela mesma manera el dicho vapor veneno-
+so enturbia y penetra, lo primero los espiri-
+tus y despues los humores junto al corac'on:
+podridos y corrompidos estos hierben, y este
+herbor es la fiebre que luego se tiende por
+todo el cuerpo, que sin comparacion haze
+mayor subida y causa mayor alteracion que
+ninguna otra fiebre: porque la materia es ta<n>
+venenosa, que la naturaleza pone subito to-
+das las fuerc'as que puede, para desecharla d<e>
+los miembros principales. El tal vapor pue-
+de inficionar qualquier humor, pero princi-
+palmente la sangre lo segu<n>do la colera, ter-
+cero la flegma, quarto la melancolia: de suer-
+te que los sanguinos son mas peligrosos, al-
+go menos los colericos, despues los flegma-
+ticos, y menos que todos los melancolicos:
+porq<ue> el humor frio y seco no es apto a infla-
+marse y pudrirse, mayormente que tienen}
+{CW. angostas}
+[fol. 14v]
+{HD. Marsilio Ficino}
+{CB1.
+angostas las vias por do ha de passar el vene-
+no: por esta causa los viejos estan algo mas
+seguros, dado que la peste deste an~o no trae
+cue<n>ta co<n> viejos: podria ser entre las otras ma-
+liciosas constellaciones, por que Saturno re-
+trogrado fue sen~or del an~o. Es cosa de gra<n>de
+admiracion, que auiendo huydo casi toda la
+gente de Florencia mueran cada dia ciento
+y cincuenta personas.
+{RUB. % Capitulo .iiij. Delas sen~ales
+de la pestilencia.}
+{IN4.} NAdie puede bien declarar quales
+sen~ales son aquellos, por do presto
+y claro se conoce la fiebre pestilen-
+cial, por ser accidente tan diferen-
+te y engan~osa: esto co<n>fiessan todos los ho<m>bres
+doctos especialmente Auicena y Rasis, la o-
+rina algunas vezes estara claro porq<ue> el hu-
+mor no yra al higado, la calentura o sera o pa-
+recera poca, por que o el veneno no estara
+en humor caliente o no saldra fuera ni se des-cubrira}
+{CW. cubrira}
+[fol. 15r]
+{HD. Contra la peste}
+{CB1.
+y el enfermo perecera: otras vezes
+muestra que afloxa por que naturaleza lan-
+c'ara del corac'on el primer assalto del vene-
+no, y de<n>de a poco rato morira el enfermo, que
+no echara el segundo assalto ni lo resistira,
+por quedar cansada y flaca del primero, cre-
+cera la malicia del veneno y acercarse ha mas
+al corac'on que no lo hizo al principio, casi to-
+dos vienen a esta mejora y alegron, porque
+al principio la naturaleza esta robusta y va-
+liente, pone subito todas sus fuerc'as contra
+tal enemigo y tan grande. En los otros acci-
+dentes menos malignos, no se cura de hazer
+tanto ni tan grande esfuerc'o: parecera tam-
+bien valiente porque el tal veneno al prin-
+cipio no es propiame<n>te enemigo delos otros
+mie<m>bros como del corac'on, y si entra en este
+mata y presto: por lo qual digo, que en seme-
+jante tiempo no se deue poner dilacion algu-
+na en examinar los sen~ales del mal, que estos
+engan~aran, y naturaleza no aguardara: con-
+uiene acudir presto con los remedios. Assi q<ue>
+como en semejante tie<m>po se siente fiebre, pre-
+supo<n>gan q<ue> es o puede venir a ser pestile<n>cial y
+cure<n>la como tal, sen~aladame<n>te, q<ue> dura<n>do la ve-nenosa}
+{CW. nenosa}
+[fol. 15v]
+{HD. Marsilio Ficino}
+{CB1.
+influencia en el ayre, qualquiere hu-
+mor superfluo facilissimamente la recibe, y
+cualquiere enfermedad facilmente se pue-
+de conuertir en pestilencia especialme<n>te ca-
+lenturas furiosas y continuas. De aqui vie-
+ne, que en tiempo de pestilencia no se mues-
+tran otras dolencias, sino de contagio<n>, y qua<n>-
+do se aumentan y descubren otras enferme-
+dades, afloxa entonces y cessa la pestilencia.
+Algunas sen~ales hay de fiebres pestilencia-
+les, calentura continua, sin orde<n> ni manifies-
+ta declinacion, dificultad en el respirar y en
+el pecho, flaqueza subita en el pulso, pesadu<m>-
+bre grande en todo el cuerpo, sen~aladame<n>te
+en la cabec'a, frenesia, dessolladuras, ardores,
+sed, manchas de sangre en diuersas partes, la
+orina gruessa y turbada casi como de bestia:
+toda via digo y auiso, que sen~ales mienten y
+engan~an. Aduiertan que qualquiere nin~o q<ue>
+tuuiere en semeja<n>te tiempo viruelas, se pue-
+de llamar herido, por ser materia tan apare-
+jada a la pestilencia, como el c'ufre al fuego, y
+muchos se han engan~ado como tambien en
+los sen~ales vezinos a la pestilencia, el ayre
+turbado, abundancia de animales de corrup-cion}
+{CW. cion}
+[fol. 16r]
+{HD. Contra la peste}
+{CB1.
+y principalmente muchas viruelas y
+sarrampion, encendimientos, fiebres conti-
+nuas, dificultad de espiritu, apretamientos,
+orina turbia, vermejuras de ojos, dessolladu-
+ras de paladares, frenesias o modorras, y vni-
+uersalmente ((en qualquier calentura)) si el
+humor se encamina muy amenudo al cora-
+c'on, es sen~al que la complexion humana va
+camino de pestilencia. Aduiertan y noten,
+que quando el humor pestilencial dura mu-
+cho tiempo en el ayre, dan~a y corro<m>pe el ay-
+re y los frutos de la tierra, y assi aconsejo en-
+tonces ((para mas seguridad)) cozer el agua
+y aun azerarla y aguar conella el vino: por
+que el vino fumoso y puro segun Auicena y
+Rasis en tal tiempo no conuiene: tambien
+las demas viandas es bien cozerlas o corre-
+girlas con buenos olores, saborcillos salados
+y azedos: mayorme<n>te qua<n>do la peste viene
+tras terremotos o te<m>blor de tierra. Es bien
+vsar viandas de lugares secos, olorosos mon-
+tan~osos y mejor que en otras partes biuiren
+montes y collados.
+{RUB. % Capi<tulo> .v. Como por buen re-gimie<n>to +}}
+{CW. gimie<n>to}
+[fol. 16v]
+{HD. Marsilio Ficino}
+{CB1.
+{RUB. se puede defender
+dela peste.}
+{IN4.} DEuen de guardarse en semejante
+tiempo d<e> pestilencia, de cosas que
+encienden y abren demasiado, por
+que son causa de que pre<n>da presto
+el veneno: como demasiado calor por de fue-
+ra assi de sol como de fuego y vestidos: y den-
+tro de mucha sal, muchas especias, medici-
+nas calientes, yerbas demasiado calientes,
+saladura demasiada, ensaladas muy agudas,
+sino fuere vn poco de cebolla o rabano con
+vinagre, porque son apropiados co<n>tra vene-
+no: de vinos muy fumosos, de hazer exer-
+cicio despues de comer y con calor, de sudar
+porque altera los humores. En ayre inficio-
+nado conuiene guardarse de tomar mucho
+ayre, ni hazer mucho exercicio en descubier-
+to, por que calentandose abriendo los poros
+recogese, y subito mucho ayre dan~ado. De-
+uen se guardar de cosas que opilan y junta-
+mente corrompen, porque dan ceuo a la fie-
+bre pestilencial: como son las viscosas y ju<n>-tamente}
+{CW. tamente}
+[fol. 17r]
+{HD. Contra la peste}
+{CB1.
+frias y humidas, mayormente qua<n>-
+do reciben calor accidental: tambien de co-
+sas calientes viscosas y humidas, do<n>de lo vis-
+coso vence a lo caliente y esta mal cozido.
+En conclusion digo, que la humidad es ma-
+dre dela corrupcio<n>: las cosas que de fuera se
+guardan mal en su naturaleza, co<n> dificultad
+dexaran de corromperse de<n>tro de nosotros:
+guardense en gran manera de pescados, los
+pequen~itos y de rios corrientes claros y pe-
+dregosos, dan~an menos con azeyte y sal fri-
+tos, y despues metidos en agraz o vinagre o
+c'umo de naranja con sal y vn poco de pimie<n>-
+ta o canela: desechen tambien la leche y re-
+quesones y si lo vsaren, sea al principio con
+ac'ucar y en poca cantidad: guardense de fru-
+tas sino fueren almendras, guindas peras,
+alberchigos, duraznos, malacotones, auella-
+nas, ciruelas enxutas y endrinas, o aran~ones,
+cornezillos, niespolas, membrillos, grana-
+das o otras frutas o no las vsen o sean pocas
+vezes: puede<n>se vsar con mas seguridad, fru-
+tas y yerbas frias y secas y agras o en alguna
+manera amargas: si vsaren cosas calientes y
+humidas como higos, vbas, moras y cerezas}
+{CW. dulces}
+[fol. 17v]
+{HD. Marsilio Ficino}
+{CB1.
+dulces, sean pocas, y coman luego despues
+naranja con sal, y si vsaren cosas humidas y
+frias como son pepinos, duraznos frescos, y
+ciruelas humidas, coman luego hinojo tras
+ellas y naranja con sal, beuiendo vn poco
+de buen vino puro y oloroso: huygan ho<n>gos
+yerbas humidas, verdolagas, calabac'as, y
+toda cosa humida que presto se corrompe, y
+frutas muy dulces y humidas: puede<n> comer
+entre las yerbas humidas lechugas, corregie<n>-
+dolas, con yerba buena o con gengibre o al-
+bahaca fina, que es menudissima casi berme-
+gisca tiene olor de clauillos, y es yerba cor-
+dialissima: pueden<n> comer el lechacino, la pim-
+pinela, mire<n> q<ue> el dicho de Rasis no los enga-
+n~e, que permite en tiempo muy caliente y se-
+co las yerbas frias y humidas, por que biuia
+en el Cayro lugar sequissimo y semejantes
+viandas, por demasiado calor, tiene lugar
+naturaleza de cozerlas: assi que no se descuy-
+den de tomar tal licencia en tierra que no
+fuere semejante al Cayro. Noten que las co-
+sas agras, y asperas y azedas se deuen vsar as-
+si en el co<n>seruar como en el curar. Por q<ue> el peli-
+gro esta en el calor con lo humido y en la co-rrupcion}
+{CW. rrupcio<n>}
+[fol. 18r]
+{HD. Contra la peste}
+{CB1.
+que desto depe<n>de y en la resolucio<n>
+delos espiritus, y en en el acudir el veneno
+al corac'on. Las cosas de tal sabor faborecen
+todos estos dan~os: porque refrescan, desseca<n>,
+conseruan, fortifican, restrin~en y aprietan.
+&c<etera>. Auiso, que las cosas muy agras donde se
+teme apretamiento de pechos, flaqueza de
+estomago, se templen con ac'ucar, sal: leche
+de almendras, canela, pimienta, hinojo, ac'a-
+fran, hueuos y vn poco de enxundia: aprue-
+bo el pa<n> dela espelta, de mijo, panizo y ordio,
+y guisados hechos dello. Vizcochos, arroz,
+passas que sean azedas, pan de buen trigo al-
+go salado y bien cozido. Vsen comunme<n>te
+alcaparras con vinagre, y alguna vez vn po-
+co de buen queso, q<ue> no sea ma[n]tecoso y guar-
+dense del muy gruesso y muy salado: reprue-
+bo las coles y legumbres, sino fuere<n> algunas
+lentejas: y sobre todo vitupero las judias, y
+no alabo mucho los nabos ni las espinacas:
+co<n>cedo al perexil, las chiribias y escarabias,
+y viedo la ruca y las c'anaorias, y arrope, y
+la mostac'a toda manera de melon, garua<n>c'os
+verdes, cogombros y pepinos, cerezas dul-
+ces y humidas, vbas, higos, y moras dulces:}
+{CW. no car}
+[fol. 18v]
+{HD. Marsilio Ficino}
+{CB1.
+no carguen de vino, carne ni hueuos: porq<ue>
+no multiplique<n> mucha sangre, colera corrup-
+cion y inflamacio<n>: vsen los hueuos co<n> agraz,
+vinagre y naranja: las carnes sean ligeras y
+enxutas, pollos, paxaros, cabrito, carnero,
+palominos, tortolas y saluagina: si vsare<n> car-
+nes humidas coma<n>las assadas, rellenas d<e> al-
+guna cosa agra, pimienta, canela, calia<n>dre y sal:
+los vinos turbios son dan~osos, mayormente
+el mosto: coman y beuan menos de lo acos-
+tumbrado, la proporcion del comer sea mas
+que la del beuer, empero no sufran mu-
+cha sed ni mucha hambre. Si en el estomago
+sintieren fastidio y carga, reparenlo con po-
+co comer y beuer, con exercicio, con ayuno
+y euacuacion apropiada. la luxuria y passio<n>
+de animo vayan fuera: digo la luxuria hasta
+ente<n>der que dexar el vso della causa alguna
+pesadumbre y graueza: pero con esto que se
+acuerden muy bien de lo que Auicena dize
+en el libro tercero de los animales: que haze
+mas dan~o vna superflua euacuacio<n> de simie<n>-
+te, q<ue> perder quarenta vezes otra ta<n>ta sangre.
+Hipocrates dize q<ue> el coyto es vna cierta es-
+pecie de gota coral: y guarde<n>se de ayre muy}
+{CW. apretado}
+[fol. 19r]
+{HD. Contra la peste}
+{CB1.
+apretado o encerrado y humido. Entien-
+dan que el ayre que esta quedo, y no se re-
+mueue, o refresca, o el sol con viento enxu-
+to no lo alimpia, facilme<n>te se pudre y empo<n>
+c'on~an, como el agua que esta queda. Guar-
+dense de salir de casa muy amenudo, sen~ala-
+damente en ayunas, y quando viene calor
+sobre humidad, y humidad sobre calor. Y ta<m>-
+bien del ayre muy caliente, porque abre y
+enflaquesce mucho el ayre, y el aposento sea
+muy seco y enxuto, y en el estio fresco. Ad-
+uiertan quando estuuieren calorados, de gu-
+ardarse de algun viento frio y humido: de
+niebla y tambien del viento calie<n>te y humi-
+do, principalmente en lugares dan~ados, o in-
+ficionados, o que vengan de lugares que lo
+estuuieren entonces de todo viento que de
+aquella parte viniere, si yano cayere lexos, o
+viniere quebrantado por cerros y montes.
+El viento que haze el ayre frio seco y claro
+naturalmente es saludable, recibe con tem-
+pla<n>c'a y moderacio<n>, y es el medico mas prin-
+cipal contra el veneno. Tenga<n> especial cuy-
+dado delos vientos que vienen de lagunas y
+estanques, o aguas represadas, y de las en q<ue>}
+{CW. ay}
+[fol. 19v]
+{HD. Marsilio Ficino}
+{CB1.
+ay yeruas a podrecer como linos y can~amos:
+y de qualquiere mal olor. Desuiense de lu-
+gares empantanados de mal olor, del olor de
+las verc'as, o coles, nuezes, rucas y de otras
+de mal olor. Abstenganse de ban~os, de dor-
+mir a medio dia, de conuersar en lugar estre-
+cho, y de multitud de pueblo. Huygan lue-
+go y lexos, y bueluan tarde: que largo tiem-
+po dura el veneno, que puede dan~ar, y sen~a-
+ladamente a los que estuuieren menos veza-
+dos a el. Vsen lo mas que pudieren viandas
+enxutas, sabrosas, agras, azedas: guardense d<e>
+caldos y grosuras, enxundias, de cosas dul-
+ces, viscosas grasas. Vsen vinos delicados, cla-
+ros, olorosos, de poco fumo, y no dulces, sino
+algo asprillos, ague<n>los con agua muy delga-
+da y clara. Finalmente aborrezcan las cosas
+que hazen la sangre demasiadamente aguo-
+sa, caliente o gruessa, y turbada, y esto en to-
+do tiempo, y de toda cosa que ofenda el esto-
+mago. Estas son en suma las reglas y auisos.
+A mi parecer para con las viandas sera muy
+bueno vsar esta manera de especies: tomen
+onc'a y media de sandalos colorados, de cane-
+la fina tres dragmas y media, y de ac'fran me-dia}
+{CW. dia}
+[fol. 20r]
+{HD. Contra la peste}
+{CB1.
+dragma: gentil de follino vsa en todo tie<m>-
+po estas otras especies, tomen canela onc'a y
+media, manna vna dragma y media, coral
+bermejo vna dragma, clauos y been blanco
+y colorado media dragma de cada vno, carda-
+momo dos dragmas, ac'afran media dragma,
+y de ac'ucar tanto peso como todo lo de mas.
+Algunos da<n> esta recepta, de perlas dos d(ar)[ra]g-
+mas, de coral blanco y colorado media drag-
+ma, rosas, espodio, de cada qual vn escrupu-
+lo. Otra: canela onc'a y media, clauos media
+dragma, coral bermejo dos escrupulos, ac'afra<n>
+media dragma, y otro ta<n>to peso de ac'ucar co-
+mo lo demas. Para principio de comer ((si el
+calor no offende)) es muy vtil, higo seco, ru-
+da, nuez y sal, sen~aladamente en tiempo frio
+humido. Aduiertan que las especies, o salsas
+muy calientes, como la quarta de las q<ue> pu-
+se, se ha<n> de vsar en viandas muy humidas,
+frias y agras, y las demas en toda cosa. Des-
+pues de comer es de gran prouecho el calien-
+dre preparado, y aun en ayunas segun A-
+uicena, que eneste caso lo alaban mucho.
+Hagan en ayunas algunas fregaduras, pey-
+nense bien, limpie<n> toda superfluidad, y tray-gan}
+{CW. gan}
+[fol. 20v]
+{HD. Marsilio Ficino}
+{CB1.
+las personas muy labadas. No se descuy-
+de del fuego templado por las man~anas, prin-
+cipalmente en tiempo humido. Sahume<n> co<n>
+buen olor la casa muchas vezes, y assi mis-
+mo los vestidos: tengan en las narizes y en
+la boca ((que es lo que mas importa)) atriaca,
+otras vezes cortec'a de cidra, encienso, o ze-
+doaria. Vsen traer semeja<n>te pomo en la mano:
+tomen laudano vn dragma, been blanco y
+colorado y rosas coloradas dos dragmas de
+cada qual estoraque liquido vn escrupulo,
+mirra buena y clauos vna dragma, sandalos
+blancos y colorados y ca<n>phora de cada vno
+dragma y media, hagan vn pomo con agua
+rosada almizcada, y traygan al cuello q<ue> toq<ue>
+la carne o el pecho, cuerno de vnicornio, ja-
+cinto, topacio, y esmeralda, en la boca ta<m>bie<n>.
+Auicena dize, que el jacinto y semejantes,
+conuiene que se caliente con nuestro calor
+natural, que este les a diestra la virtud, para
+que en nosotros obren. Traygan en las ma-
+nos fructas olorosas, principalmente Cidras,
+Limones, Naranjas, &c<etera>. Labense muchas
+vezes y amenudo la boca, la cara y las manos
+con vinagre y algunas con vino muy fuer-te}
+{CW. te}
+[fol. 21r]
+{HD. Contra la peste}
+{CB1.
+No se oluiden del olor dela yerua buena
+torongil, betonica, ruda, violas coloradas, y
+murta: vsen olores frescos, y te<m>plen co<n> ellos
+los calientes, de manera que sea mas lo fres-
+co, sen~aladamente en tiempos calientes, q<ue>
+el olor caliente por si, abre y enciende, dado
+que purga el ayre. Tengan mezclado ygua-
+les partes de vinagre blanco rosado y agua
+rosada, con vn poco de vino blanco muy re-
+zio, y vna poca de zedoria, o corteza de cidra
+y beuan desto amenudo algunas gotillas, y
+laben las manos y la cara con ello muchas
+vezes y trayan vna esponja ban~ada enello
+en madera de frexno. Con esto mesmo tibio
+se labaran tarde y man~ana toda la persona,
+vsen exercicio templado, en lugares inficio-
+nados dentro de casa, en parte espaciosa y en
+ayunas, y en las otras partes en lugar publi-
+co, y tambien ayuno y al ayre. A todos aco<n>-
+sejo que se recaten y guarden de tocar cosas
+que vengan de lugares amorbados, ni las co-
+man sin primero cozerlas, alimpiarlas, y la-
+uarlas. Te<n>go casi gana de passar en dissimu-
+lacion, q<ue> algunos Doctores aconsejan beuer
+amenudo y en ayunas orina caliente de algu<n>}
+{CW. mocha}
+[fol. 21v]
+{HD. Marsilio Ficino}
+{CB1.
+mochacho sano, o lexia, dexarlo he por reme-
+dio proprio de rusticos.
+{RUB. % Cap<itulo> .vj. Para defenderse d<e> la
+peste por orde<n> de medicina.}
+{IN4.} DOs vezes en la semana es necessa-
+rio tomar aquella reyna y sen~ora
+de todas las composiciones imbia-
+da de Dios, la atriaca: de la verda-
+dera y fina, que dexa gran espacio de tie<m>po
+el sabor en la boca, da sed y restrinye el vien-
+tre. Ha de ser de quatro an~os y no passar de
+doze: deuen la prouar en animales empon-
+c'on~ados, o envenenados. La atriaca escogi-
+da y fina, segu<n> Galeno, Auicena, y Abenruiz,
+assegura de todo veneno y enfermedad infi-
+cionada, y permitenla aun en la fiebre pesti-
+lencial. Dize Galeno que probo, ser la Atria-
+ca sobre todas las cosas, marauillosa y diuina
+en el conseruar y en el curar. Moyses de Egip-
+to dize, que se hizieron admirables experie<n>-
+cias della en la pestilencia de Anthiochia.
+Paresceme que no es razon callar la figura}
+{CW. que}
+[fol. 22r]
+{HD. Contra la peste}
+{CB1.
+que pone Galeno, diziendo: que la pestilen-
+cia es vn dragon con cuerpo de ayre, que so-
+plando lanc'a venono contra los hombres,
+y el atriaca es vn purgatorio q<ue> purgan aquel
+veneno y doma el dragon. Tomase nueue o-
+ras despues de auer comido, y siete antes de
+comer, quien no lo pudiere tomar, pongala
+sobre el corac'on, sobre el estomago, en las na-
+rizes y pulsos muy amenudo. A los grandes
+se les da vna dragma y a los otros media, o
+vn tercio, los que fueren de complexion cali-
+ente y en tiempo caliente beueran tras ella
+la tercera parte de vna tac'a de agua rosada
+con vn poquito de vinagre rosado, los otros
+y en otro tiempo, vino blanco con agua de
+escabiosa, y torongil. Si atriaca no tuuiere<n>,
+o no la sufriere la complexion: tomen mitri-
+date, otras man~anas tomen las pildoras con-
+tra peste, quatro o cinco oras antes d<e> comer,
+vna o dos, o mas, conforme a la complexion,
+beuiendo tras ellas vn poco de vino blanco
+con agua de escabiosa y torongil en tiempo
+frio, o agua rosada con vinagre rosado en tie<m>-
+po caliente. Las pildoras antiguas son estas:
+tomen de mirra y ac'afran vna onc'a, de aloe}
+{CW. que}
+[fol. 22v]
+{HD. Marsilio Ficino}
+{CB1.
+que es acibar dos onc'as, por que abren, encie<n>-
+den y resuelben los espiritus muchos, laban
+algunos el aloe, y mezclan tierra sellada, o
+bolarmeno el peso de la mirra, o la tercera
+parte della de canfora, el bolarmeno es me-
+jor. Otros las componen desta manera: aloes
+seys dragmas, mirra tres dragmas, ac'afran
+vna dragma, reubarbaro dos dragmas, agari-
+co, clauos de cada qual vn escrupulo, corteza
+de cidra vna dragma, simiente de cidra dos
+escrupulos, tormentilla dragma y media, san-
+dalos colorados vna dragma, simiente de a-
+zederas vna dragma y media, coral bermejo
+dragma y media boloarmeno tres dragmas,
+canfora dos granos, y haganles con xaraue
+de cidra. Dizen Auicena, y Abenrruiz, que
+quien vsa aloe con mirra y ac'afran nunca mo-
+rira de peste. Estas composiciones dichas, te<m>-
+plan la qualidad y augmentan la virtud, y
+mucho mas la composicion de Nicolao segu<n>
+el dize, las verdaderas pildoras son estas.
+Tomen mirra, ac'afran, bolarmeno, (c)[c']arabe q<ue>
+es simiente de alc'arabea, coral bermejo, de
+cada qual vna dragma, mirabolanos embli-
+cos dos dragmas, aloe labado tanto peso co-mo}
+{CW. mo}
+[fol. 23r]
+{HD. Contra la peste}
+{CB1.
+todo lo de mas, hagan pildoras con vino
+blanco muy oloroso. Creo q<ue> serian mas ver-
+daderas y mas al proposito, si en lugar de los
+emblicos, pusiessen dos dragmas de tierra si-
+gillata, y de boloarmeno fuessen tres drag-
+mas, haziendo pildoras con lo agro de la ci-
+dra, y tomandolas con vino blanco, agua ro-
+sada y vinagre rosado, siguie<n>do en lo de mas
+la dicha composicion. Miren que el Aloe, o
+acibar sea claro, libiano, algo vermegisco, de-
+licado, oloroso, facil de romper, grasosillo, y
+que alentando sobre el lance humidad. La
+mirra sea clara, el coral fino y delicado. Sin
+el Atriaca y pildoras dichas mal se puede
+guardar nadie, assi que vsen sobre todo estas
+dos cosas, el Atriaca dos dias diferentes, y
+las pildoras alo[ ]menos tres dias, por que des-
+echando la humidad guardan y conseruan d<e>
+putrefaccion y fortifican el corac'on, cierran
+las vias que no passe el veneno al corac'on y
+le apartan y quitan del. Paresceme que en
+las pildoras dichas el aloe, en tie<m>pos humidos
+y frios y en personas de tal calidad, no se de-
+ue labar, pero en otros tie<m>pos y personas si.
+Quando fuesse menester, se puede tomar la}
+{CW. co<m>posicio<n>}
+[fol. 23v]
+{HD. Marsilio Ficino}
+{CB1.
+composicion de las pildoras en poluo. Y aun
+antes de cena tres o quatro oras como antes
+de comer, y entre semana vna, o dos vezes,
+a lo mucho. Quando las pildoras cansassen,
+que no son cierto para offender ni cansar, to-
+maran en Imbierno y en tiempo humido en
+lugar dellas, vn higo passado, media nuez,
+tres cogollitos de ruda con vn poco de sal,
+beuiendo despues vn poco de agua rosada, o
+vinagre rosado. Si esto offendiesse vsen, en
+su lugar y a que otro no tomaren, vn poco de
+pan muy tostado mojado en vino blanco re-
+zio con naranja ban~ada en vinagre rosado y
+vn poluo de canela. Algunos dan vna pil-
+dora destas tarde y man~ana: tomen ligno aloe
+media dragma, tormentilla dos escrupulos,
+ditamo blanco vn escrupulo zedoaria media
+dragma ac'afran vna dragma, berberis media
+dragma, cuerno de cieruo quemado dos es-
+crupulos, sandalos colorados vn escrupulo,
+simiente de azederas, coral bermejo, y bolar-
+meno de cada qual vna dragma: camfora dos
+escrupulos, piedras preciosas de las que se co<m>-
+pone el lectuario de Genmis media drag-
+ma, perlas vna dragma, jacinto media drag-ma}
+{CW. ma}
+[fol. 24r]
+{HD. Contra la peste}
+{CB1.
+haganlas con xaraue de ribes, o de limo-
+nes. En todo tiempo daria yo estas pildoras
+o composicion en los caldos: tome<n> zedoaria,
+ligno aloe, agrimonia, ac'afran, Aristologia
+redonda, ditamo blanco, genciana, cortezas
+de cidra, simiente de cidra, de cada qual vn
+escrupulo: caliandre preparado, tormentilla,
+sandalos colorados, coral bermejo, rosas co-
+loradas, espodio emblicos de cada qual vna
+dragma, tierra sigillata dos dragmas, bolar-
+meno quatro dragmas. Hagan pildoras con
+el azedo de la cidra, denlas con vino blanco,
+vinagre rosado. Tengo grandissima fe en es-
+ta nuestra composicio<n>, vsandola, quando no
+tomaren las pildoras compuestas de aloe, y
+aun tambien despues de la operacion que
+hizieren las dichas pildoras: mezclando en
+la tal composicio<n>, ambar, almizque, jacinto,
+esmeralda topacion, perlas, cuerno de vni-
+cornio, de cada qual vn escrupulo, sera mu-
+cho mejor. Alabo tambien mucho beuer en
+ayunos vino azedo, o vinagre blanco con a-
+gua rosada con tierra sigillara y bolarmeno
+polborizado, con vn poco de esmeralda, ja-
+cinto, o topacion, o alo[ ]menos con perlas o}
+{CW. corales}
+[fol. 24v]
+{HD. Marsilio Ficino}
+{CB1.
+corales. Estas cosas so<n> muy encome<n>dadas, por
+Galeno y Abenruiz: otros da<n> corteza y simi-
+ento de cidras y limones con vino o vinagre
+rosado, y agua rosada. Yo doy esta nuestra co<n>-
+feccion simple efficacisima tomandola mu-
+chas vezes al dia con vino blanco, o vinagre
+rosado y agua rosada, que es: tomen bolarme-
+no dos dragmas, tierra sigillata y corales ber-
+mejos de cada vno vna dragma, corteza de
+ponzil, o cidra, zedoaria, ac'afra<n>, de cada qual
+media dragma, ac'ucar rosado candido de ro-
+sas coloradas seys onc'as, agro de cidra o pon-
+zil diez onc'as, y hagan letuario. Ramon y
+Arnaldo compone<n> tres maneras de pildoras
+triacales, las vnas: tome<n> bolarmeno tres drag-
+mas, barbas de tormentilla dos dragmas, bar-
+bas de la yerua tunica vna dragma, d<e> ac'ucar
+tanto peso como lo demas, y hagan pildoras.
+Item ambar media dragma, almizque vn es-
+crupulo, ca<n>fora seys granos, esmeralda, jacin-
+to, topacion yguales partes molidas y laba-
+das como mesue laba la piedra lazui y haga<n>
+pildoras con c'umo de azederillas. Dizen que
+las dichas piedras fueron llamadas de los an-
+tiguos bezoar, quiere dezir, libran de la mu-erte}
+{CW. erte}
+[fol. 25r]
+{HD. Contra la peste}
+{CB1.
+y exceden a la atriaca en esto, que la a-
+triaca echa de si el veneno, y no lo tira para
+si, y las piedras hazen lo vno y lo otro: por
+esto es bien dar las por la boca, y au<n> ponellas
+molidas sobre la llaga, mordedura, o carbun-
+clo venenoso. Vsen tambien en esta compo-
+sicion oro fino, perlas y seda cruda molida,
+loan el letuario dia<m>bra, el de gemmis y cher-
+mes de mesue, los granates, rubies, carbun-
+clos, zafires descoloridos, corales, la grana d<e>
+ten~ir, la piedra que se halla en la cabec'a del
+aspide y el cuerno que tiene, y el del vnicor-
+nio: el letuario letificante de almanc'or: vsan-
+dole con cosas frescas.
+Item vsar cosas que clarifiquen la sangre, co-
+mo lupolos, mirabolanos y fumo terre. Creo
+que vsar la fructa del henebro con los mur-
+tones, sea muy vtil cosa, co<n>tra este veneno.
+Item este electuario, tomen vn ponzil ente-
+ro y magenlo muy bien, cuezganle con ac'u-
+car y agua rosada, donde no ay cidras, o pon-
+ziles haganlo con limones, o co<n> naranjas en-
+teras: muchos vsan la berbena, y la esclarez
+montesina. Doy a pobres vn cortezon de
+pan bien tostado, ban~ado en buen vi-nagre}
+{CW. nagre}
+[fol. 25v]
+{HD. Marsilio Ficino}
+{CB1.
+con vn poco de ruda, y algunas vezes
+vna poca cebolla con el pan, beuiendo so-
+bre ello vn poco de vino puro y bueno.
+Otras vezes el dicho pan tostado remojarlo
+en vinagre rosado con vn poco de canela y
+a las vezes primir vna naranja en el, y beuer
+buen vino. Pueden se dar estas cosas, quan-
+do vna y quando otra, en aquellos dos dias
+que no se toma la atriaca y pildoras, o tam-
+bien a la tarde, los dias mismos. Pueden tam-
+bien vsar a las tardes, despues de hecha la
+digistion, vna poca de esta nuestra confecio<n>:
+tomen ac'ucar rosado y diamaraneto quatro
+onc'as, celiandre preparado, coral bermejo
+vna dragma de cada vno, canela dos drag-
+mas, y con calor vna dragma, sandalos colo-
+rados, ac'afran de cada vno media dragma,
+pero con calor, de ac'afran vn escrupulo, tem-
+plenlo con quatro onc'as de lo agro de la ci-
+dra, y beuan sobre ello vn poco de vino, o
+vinagre rosado. Puedenla vsar algunas ve-
+zes tambie<n> por las man~anas en lugar de las
+cosas dichas. Ramon dize que en su tiempo
+huuo juntamiento, o conjuncion de Satur-
+no Iupiter y Marte, en el decimo nono qua-dro}
+{CW. dro}
+[fol. 26r]
+{HD. Contra la peste}
+{CB1.
+de Aquario que fue en el an~o .1245. Mar-
+c'o la qual conjuncion significo terribles co-
+sas: mayormente pestilencias muchas, y en
+muchas vezes, y en espacio de quarenta y
+cinco an~os. Porque el signo humano fue frio
+en la casa de Saturno, entre las quales fue la
+peste del an~o quarenta y ocho. A esta causa
+los medicos de Paris, Auin~on, y el Piamo<n>te
+compusieron vna nueua atriaca, que la pro-
+baron ellos mismos, y los preseruo y conser-
+uo felicissimame<n>te. Arnaldo escriuio la re-
+cepta, y su discipulo Ramo<n> Lull la pone des-
+ta manera. Tomen granos de henebro dos
+dragmas y media, clauillos, mace, nuez nos-
+cada, ge<n>gibre, zedoaria d<e> cada qual dos, drag-
+mas, Aristologia larga y redonda, las barbas
+de la rayz de la genciana, torme<n>tilla, barbas
+de la rayz de la yerba tunici ditamo de cada
+vno dragma y media, salbia, ruda, simie<n>te de
+balsamita, yerba buena, peonia, poleo cerbi-
+no, de cada qual vna dragma: oliuillas de lau-
+rel, doronico romano, simiente de azederas,
+simie<n>te de po<n>zil, y simie<n>te de albahaca, mas-
+tec, encie<n>so, bolarmeno, tierra sig(u)illata spo-
+dio, huesso d<e> corac'o<n> d<e> cieruo, raedura d<e> marfil}
+{CW. y de}
+[fol. 26v]
+{HD. Marsilio Ficino}
+{CB1.
+y de cuerno de vnicornio, perlas, zafires, es-
+meraldas, corales bermejos, ligno aloe, san-
+dalos colorados, jacintos, topaciones, de ca-
+da qual media dragma, ac'ucar rosado, diabo-
+fraginato, diabuglosato, dianenufarato, dia-
+cetofato, pulpa de tamarindos azedos, y a-
+triaca de cada qual media dragma, de ac'u-
+car tres libras hagan letuario, o tablillas con
+agua de escabiosa, con agua rosada algo can-
+forada, con vino de membrillos y mezclen
+quarenta higas de oro. Quien padesciere
+mucha sed vse antes o despues de comer, el
+xarabe acetoso simple con vna poca agua
+fresca, o vino de granadas agras, con julepe
+rosado, o vino aspero, puedese primir la car-
+ne de ponzil, limon, o naranja y beuerla co<n>
+agua y ac'ucar. Item c'umo de rosas, ac'ucar
+rosado, y el diamaranetado, draprunis, diaci-
+ronides desleydo en agua, colado y premido
+y beuido con agua fresca. Item rosas, mira-
+bolanos, tamarindos, gui<n>das, ciruelas passas,
+orejones, membrillos, majados desleydos,
+cosados, primidos y beuidos con agua y ac'u-
+car, ponie<n>do mas ac'ucar do<n>d<e> ay menos calor
+y menos ac'ucar, donde ay mas ardor. Ite<m> c'u-mo}
+{CW. mo}
+[fol. 27r]
+{HD. Contra la peste}
+{CB1.
+de rosas con vino de granadas. El oxi-
+sacro con agua fresca. Es prouechoso el vi-
+no de membrillos en muchas cosas. Vsar
+yerbas cordiales como torongil, endiuia, bo-
+rraja, buglosa, y vn poco de yerba buena.
+Item las siete yerbas contrarias al veneno.
+La primera el hipericon, que se llama per-
+forata. El vincetoxico. La tercera el Ala. Quar-
+ta el rabano. Quinta el ditamo. Sexta aristo-
+logia. Septima el lechacino, o cerraja. Arnal-
+do y Raymundo ajuntan la yerba tunici: no
+dexare la agrimonia, azederillas, chicorias,
+marrubios, ysopo, escabiosa, cinco en rama,
+limones, cidras, naranjas y en suma qual-
+quiere cosa que fuere agra y enxuta. Sepan
+que la flor de las vides, o vbas es muy vtil
+en el vino y en las viandas y en letuario, y
+que el agua de la escabiosa y torongil es ad-
+mirable en todas las cosas que se dan, a los
+sanos y a los enfermos. Porq<ue> desseca la humi-
+dad venenosa: qua<n>do ay necessidad de seca<n>do
+de refrescar mucho: tome<n> entonces mas presto
+las aguas d<e> endibia, rosas y lla<n>te<n>, o pla<n>tayna:
+vinagre rosado, agua, o c'umo de azederillas
+de limones, de po<n>zil, de nara<n>jas, de chicoria,}
+{CW. pimpi}
+[fol. 27v]
+{HD. Marsilio Ficino}
+{CB1.
+pimpinella, y fumo terra: do<n>de co<n>uiene<n> cor-
+diales te<m>plados, sea el agua de buglosa, o bo-
+rraja: en todos los cozimientos, po<n>ga<n> cirue-
+las passas, mirabolanos y tamarindos. Acuer-
+de<n>se q<ue> en qualquiere remedio esta<n> bien qua-
+tro cosas, vino bla<n>co, vinagre rosado blanco,
+y ygual ca<n>tid[a]d de agua rosada, y vn poqui-
+to de ac'afran. Do<n>de co<n>uiene hazer operacio<n>
+subita, y facil, sea el remedio en forma sutil
+y liquida, da<n>do sobre ello a beuer lo dicho.
+Ramo<n> dize q<ue> qua<n>do el tie<m>po da lugar, es me-
+jor dar en pildoras de las co<m>posiciones sobre-
+dichas. Lo p(ir)[ri]mero porq<ue> esta<n> mas fermen-
+tadas la qual fermentacion vltra la virtud
+complexional contrahe virtud specifica.
+Lo segundo, porque deteniendose mas en el
+estomago, mas conseruan, confortan, y bus-
+ca mejor los lugares y partes mas lexos del
+cuerpo, beuiendo encima alguna cosa liqui-
+da, y tardando mucho la vianda co<n> largo ayu-
+no: no quiere<n> ser las pildoras tampoco muy
+secas, y si lo fueren, conuiene renouarlas.
+Es necessaria para los sanguinos la sangria,
+sacar les sangre para conseruarlos, si ya no
+tuuiessen otro fluxo de sangre, entie<n>do por}
+{CW. sangui}
+[fol. 28r]
+{HD. Contra la peste}
+{CB1.
+sanguinos, hombres medianamente carno-
+sos, bermejos pelosos, de gruessas venas, y q<ue>
+vsan cosas de grande nutrimie<n>to. Saque<n> san-
+gre dela basilica d[e]recha, y dende a dos me-
+ses dela yzquierda: nunca passen de vna li-
+bra por vez, saquenla en tie<m>po te<m>plado, y q<ue>
+la luna no sea mal fortunada. La sangre pura
+y buena se mueue al salir del Sol, la colerica
+a medio dia, la melancolica qua<n>do el Sol se
+pone, la flecmatica a media noche. Por esto
+quiere y le paresce a Raymundo ((conforme
+a la regla y orden de Auicena)) q<ue> se te<n>ga cue<n>-
+ta co<n> estas quatro oras, o tiempos, para sacar
+aquellas quatro maneras de sangre, aquellas
+species se conoscen, lo primero por sus sen~a-
+les, y despues conforme a las quatro edades
+en que reynan, procediendo por el orden so-
+bre dicho, donde no se muestra mucha abu<n>-
+dancia de sangre en ninguna manera quiero
+q<ue> se saque, ni para preseruar ni para curar.
+Quando sangraren, mire<n> que el dia antes a-
+ya hecho camara, o dadole cristel comu<n>. Di-
+go mas, q<ue> qua<n>do la sangre se inclina mucho
+a los humores, entonces no se deue sacar.
+Acuerde<n>se q<ue> Galeno y Auicena quanto mas}
+{CW. andu}
+[fol. 28v]
+{HD. Marsilio Ficino}
+{CB1.
+anduuieron curando, tanto mayor couardia
+cobraro<n> en el sa<n>grar: porq<ue> saca mas de lo bue-
+no y de los spiritus, que no la purga, y da me-
+nos tie<m>po a naturaleza para escoger y apartar
+la buena de la mala. A los nin~os es menester
+darles cosas contra lombrizes, q<ue> son peligro-
+sissimos en este tiempo. Den les vna vez en
+la semana, vna dragma de ditamo con vino
+aspero, o vino en que ayan cozido enxe<n>zos,
+y neguilla, o yerba lombriguera: vntenles
+el estomago, ombligo, gola y pechos co<n> azey-
+tes amargas y yerbas amargas &c<etera>. Algunas
+vezes les den pildoras de rebarbaro: y por q<ue>
+la complexion muy humida y muy caliente
+esta a grande peligro en el tiempo de peste,
+es necessario refrescar, dessecar y purgar a
+menudo con discrecion. Traygan sobre el
+corac'on este taleguillo: tomen rosas colora-
+das dos dragmas, sandalos y coral bermejo y
+espodio, de cada qual vna dragma, zedoaria,
+ligno oloes, canela, clauos, corteza de cidra y
+ac'afran, de cada vno media dragma. Tenga-
+se cuydado especial de alimpiar qualquiere
+superfluydad, y traer cue<n>ta de estar bueno
+de camara. No curen de quitar las euacua-ciones}
+{CW. ciones}
+[fol. 29r]
+{HD. Contra la peste}
+{CB1.
+o fluxos, y purgaciones de superfluy-
+dades, almorranas, sarna, sudores naturales,
+llagas viejas que estan abiertas y sin moles-
+tia cuelan humor, lagrimas, sangre de nari-
+zes acostumbrada de salir, gota y semeja<n>tes.
+Porque tales purgaciones asseguran mucho
+desta enfermedad. Traygo a la memoria a
+los gouernadores de las tierras y republicas,
+conforme a la esperiencia de Hypocrates,
+que manden hazer fuegos y sahumerios, de
+enebro, murta, trementina, encienso y seme-
+jantes, tarde y man~ana, a las puertas de cada
+casa que subito si esto se hiziese seria remedia-
+da la peste. En lugar de henebro es muy bue-
+no el laurel, la salbia, romero y toda yerba
+olorosa, la trementina es admirable. Muchos
+doctores dizen, que en la peste es siempre
+necessario el fuego: porq<ue> resuelbe todo vapor.
+Ramon dize que se deue vsar quando apares-
+cen y se muestran vapores humidos y grues-
+sos. En los tiempos calientes excedan los
+olores frescos a los demas, y en los frios al
+contrario. Las rosas, sandalos, murta, cam-
+phora, cortezas de manc'anas, granadas tem-
+plan los olores calientes, de la misma ma-nera}
+{CW. nera}
+[fol. 29v]
+{HD. Marsilio Ficino}
+{CB1.
+el vinagre y verduras frescas. Aconse-
+jaron los Magos al rey de Persia para defen-
+derse de todo veneno y enfermedad veneno-
+sa, que mandasse esculpir y entellar en la
+piedra Amatista, vn hombre arr(u)[o]dillado, ce-
+n~ido de vna serpie<n>te, y co<n> la mano derecha,
+tubiesse la cabec'a de la serpiente, y co<n> la yz-
+quierda la cola, y pusiesse esta piedra en vna
+sortija de oro, y de baxo de la piedra las bar-
+bas de la rayz de la serpentina, y traxesse la
+sortija en el dedo. Alaua Abenrroyz el olor
+de la orina del cabro<n>. Auiso y amonesto q<ue> es-
+tando en lugar dan~ado, o cerca, vsen de con-
+tinuar los remedios, porq<ue> la contagio<n> es co<n>-
+tinua y el ayre inficionado continuamente
+ofende y corre. Par[e]sceme q<ue> se guarden muy
+bien en las co<n>junciones dela luna, co<n> el sol,
+y en las opposiciones, o llenos, y quando se
+junta Saturno, y mucho mas con Marte, y
+quando haze quadrado co<n> los dichos plane-
+tas. Entiendan y sepan q<ue> el veneno pestile<n>-
+cial se mueue con mas fuerc'a al salir del Sol,
+y al ponerse: y segu<n> Rasis a medio dia y a me-
+dia noche. Que estas quatro mutaciones ha-
+ze el Sol en el ayre. Reyna en la primauera}
+{CW. y mas}
+[fol. 30r]
+{HD. Contra la peste}
+{CB1.
+y mas en el Estio y mucho mas en el Oton~o.
+En la primauera el ayre es calie<n>te y humido,
+y mueuese la sangre: en el estio hierbe y arde
+la colera, el ayre calie<n>te abre mucho y penetra,
+y de aqui vienen a bullir los cuerpos, come<n>
+frutas corruptibles q<ue> da<n> materia humida al
+calor del ayre, el qual calor si fuesse co<n> seq<ue>-
+dad de fuera y de<n>tro, haria poco dan~o, y de la
+manera q<ue> lo humido qua<n>do es co<n> frialdad de
+ayre y de complexio<n> dan~a poco: el peligro
+gra<n>de es, do<n>de se ju<n>ta<n> el calor co<n> lo humido,
+o de fuera o de de<n>tro. Tenemos por experie<n>-
+cia, q<ue> la seq<ue>dad gra<n>de en tie<m>po de calor, men-
+gua la pestile<n>cia, y en el frio la quita del to-
+do. Finalme<n>te q<ue> en el oton~o la crece el hin-
+chirse d<e> frutas y la flaq<ue>za de los cuerpos, el
+ayre adelgazado por el estio q<ue> ha passado fa-
+cilme<n>te recibe vapores, y no los resuelbe,
+por auer me<n>guado el calor. Y assi es varia-
+ble y se altera y muda co<n> nieblas, y muchas
+vezes vie<n>tos gruessos y humidos, y calor so-
+bre humido, muchas opilaciones d<e> poros
+por venir el ayre muchas vezes despues d<e>
+calor frio, q<ue> los poros muy opilados encierra<n>
+de<n>tro la materia facil a corro<m>per, y por el con-trario}
+{CW. trario}
+[fol. 30v]
+{HD. Marsilio Ficino}
+{CB1.
+los poros muy abrientos reciben subi-
+to el ayre venenoso. De manera que algunas
+vezes ((specialmente despues de sudor, o coy-
+to)) mata en pocas oras assi como co<n> cuchillo.
+{RUB. % Cap<itulo> .vij. Como se a de curar
+por via de medicina.}
+{IN4.} EN las fiebres pestilenciales, si el
+veneno estuuiere euacuado, no v-
+sen ni por de fuera ni por de den-
+tro cosas que simplemente abren
+las partes del pecho, porque desembarac'an
+y dan camino al veneno, para q<ue> vaya al cora-
+c'on y que los espiritus exalen para fuera.
+Vsen subito cosas que refresquen algo y de-
+sequen mucho, para obiar y salir al encuen-
+tro a las inflamaciones y putrefacciones. Ite<m>
+fortifican el corac'on y cierran las vias que
+van d<e>rechas a el porq<ue> el veneno no corra ni
+acuda alli. Y en parte purgue<n> el humor muy
+bie<n>, y recreen y fauorezcan con sustancia y
+nutrime<n>to muy amenudo los espiritus da<n>-
+do continuamente cosas contra veneno que}
+{CW. corre}
+[fol. 31r]
+{HD. Contra la peste}
+{CB1.
+corre por su natura siempre d[e]recho al cora-
+c'on. Si aguardan que vaya y corra mucho
+a el, en tal caso podria ser que no co<n>uiniesse
+cerrar ni apretar tanto aqu(a)[e]llas partes: ta<m>-
+bien podria ser, que el abrir las dan~ase mu-
+cho y aprouechase poco. De manera q<ue> quan-
+do alguno en semejante tiempo sintiere gra<n>-
+de pesadu<m>bre en la cabec'a, y en todo el cuer-
+po, y calentura, no cure de aguardar sen~ales
+que engan~en, ni aguarden que salga seca, o
+antraz. Antes bien con la dilige<n>cia que pu-
+dieren vnten subito con azeyte de escorpio-
+nes y atriaca, la sienes, los pulsos de los pies y
+de las manos, las ventanas de la seca y poste-
+ma si se mostrare. El verdadero olio es este:
+tomen olio de cinquenta an~os ocho onc'as,
+y cuezan en el cinquenta escorpiones, hasta
+que se consuman y deshagan. Haganlo en
+el estio y sen~aladamente en el Agosto. Guar-
+denle, y vnten que es admirable contra el
+veneno. Si el estomago estuuiere con vian-
+da embarac'ado, prouoquen vomito con agua
+calie<n>te y vinagre y azeyte, co<n> rabano, meti-
+endo alguna pluma: de<n>le luego vn christel, y
+esto haga<n> cada dia con malbas, salbados, ble-dos}
+{CW. dos}
+[fol. 31v]
+{HD. Marsilio Ficino}
+{CB1.
+ordio lechuga, camamilla, miel, violada,
+ac'ucar bermejo, hiema de hueuo, drasena,
+casia vna onc'a, c'umo rosado solutiuo, .2. drag-
+mas: sal y azeyte violado. Tras el seruicial, o
+cristel ponga<n> luego epitimas cordiales y fres-
+cas apropiadas sobre el corac'on como esta.
+Tomen agua rosada, de buglosa, de azederi-
+llas, de nenufar de cada qual dos dragmas.
+Agua de torongil, c'umo de manc'anas, de lo
+azedo de las cidras, vna dragma de cada
+qual: c'umo de membrillos vna onc'a, sanda-
+los blancos, colorados y amarillos dos drag-
+mas: espodio, raedura de marfil, simiente de
+cidra, o ponzil, simie<n>te de azederas de cada
+qual media dragma: grana de ten~ir seys gra-
+nos, canfora media dragma: todo muy moli-
+do, y cale<n>tado en vn vaso vidriado, van~ado
+vn pan~o de grana en ello. Po<n>ga<n>le sobre el pe-
+cho algo caliente, renouandolo y refrescan-
+dolo de tres en tres oras. En el estomago,
+para viuificar y esforc'ar sus espiritus, po<n>dra<n>
+este taleguillo. Tomen assensios, yerba bue-
+na, sendos manojos, torongil y azederas la
+mitad, rosas coloradas vna onc'a, cortezas de
+cidra o po<n>zil, y arroz: de cada qual tres drag-mas}
+{CW. mas}
+[fol. 32r]
+{HD. Contra la peste}
+{CB1.
+caliandre preparado dos dragmas, co-
+ral bermejo, mastech, o almistiga, sandalos
+de cada qual vna dragma. Mace, flor de cla-
+uillos d<e> cada vno media dragma, quatro nue-
+zes de acipres, mezclen y componganlo co<n>
+nuezes, c'umo de membrillo. Baxo los b(ar)[ra]-
+c'os y sobacos pongan esto: tomen rosas, flor
+de camamilla, meliloto, o coronilla del rey,
+flor de murta, nuezes de acipres, y sandalos,
+cuezan en agua ban~en, estando medianame<n>-
+te caliente, esponjas, o estopa, priman y apli-
+quen refrescando muy a menudo, que es co-
+sa admirable.
+{RUB. % Capitulo .viij. La cura por
+ventosas y sangria.}
+{IN4.} APlicadas las dichas tres composicio-
+nes a los tres mie<m>bros o alo[ ]menos
+las que pudieren ((si ya la echadura,
+o carbu<n>clo no estuuiesse en las pier-
+nas)) pongan luego quatro ventosas: las dos
+en ambas las nalgas, y las otras en los mus-
+los por la parte de dentro. Quieren los
+antiguos, q<ue> quitadas las ventosas, sangren,}
+{CW. sino}
+[fol. 32v]
+{HD. Marsilio Ficino}
+{CB1.
+sino estuuiere descubierta la seca, saquenla
+de la vena comun del lado d[e]recho, para des-
+uiar del corac'on el veneno, pero si se parecie-
+re, saquenla de la mesma parte que se descu-
+briere: por que no se derrame ni tienda el ve[ne]-
+no por todas las venas y persona que lo acos-
+tumbra hazer facilissimamente, de manera
+que si la seca estuuiere tras la oreja, o en el cu-
+ello, sangre<n> de la vena de la cabec'a que esta
+ju<n>to al pulgar de la mano del mismo lado: si
+baxo el brac'o saque<n>la d<e> la vena del higado d<e>l
+brac'o de la mesma parte. Si en las ingles salie-
+re, saquenla de la mesma vena safana, q<ue> cae
+tras el talon. En conclusio<n>, que si de la raiz
+d<e> la gola arriba hazia la cabec'a se descubrie-
+re la han de sacar de la vna de la cabec'a de
+aquel lado, si de alli hasta el ombligo dela<n>te
+o de atras, saquen la de la del higado: si del om-
+bligo abaxo, saquen de la safena como dixi-
+mos: sangre alo[ ]menos en el punto q<ue> se des-
+cubriere la seca, o landre: y saquen buen gol-
+pe della, si ya no tuuiere poca. Sacados
+dos onc'as, detenganse hasta reconocer si
+fuere buena o mala sangre, si fuere mala pue-
+de<n> sacar ca<n>tidad, y si buena, sea menos la can-tidad.}
+{CW. tidad}
+[fol. 33r]
+{HD. Contra la peste}
+{CB1.
+En personas flacas y de poca sangre,
+bastaran las dos onc'as dichas: no sangren co<n>
+el frio de la cession. Quando le sangrare<n>, de<n>-
+le naranja y cosas agras por la boca, y vina-
+gre a las narizes sienes y frente. Esta mane-
+ra de sangrar es la comun. Gentil de Fullino
+alaba mucho esto que dire, como cosa proba-
+da, que si la seca, o apostema aparece en la pu<n>-
+ta de la espalda, que apliquen las ve<n>tosas do<n>-
+de juntan las espaldas, y sangren de la vena
+de medio que se llama comun y negra. Si es-
+tuuiere en el cuello o en la cabec'a, sangren d<e>
+la vena de la cabec'a junto a los dos dedos pri-
+meros. Si pareciere baxo el brac'o derecho,
+saquen de la vena del pulmon entre el dedo
+de medio y el mas baxo, que se dize de los a-
+nillos del mismo lado. Si pareciere, o estuuie-
+re baxo el brac'o yzquierdo, o en aquel lado,
+saquen de la vena del brac'o entre el dedo pe-
+quen~o y su vezino y de la mano derecha. Si
+aparesciere en la ingle del lado yzquierdo,
+saquen de la vena paralitica del pie del mis-
+mo lado en medio del pulgar y del otro dedo
+que junto le cahe. Si estuuiere en la ingle, o
+pierna derecha, saquen de la vena del mismo}
+{CW. pie}
+[fol. 33v]
+{HD. Marsilio Ficino}
+{CB1.
+pie que llaman de las mugeres. Los medi-
+cos Espan~oles y Catalanes el primero dia, o
+a lo menos el segundo dado el cristel sangra<n>
+en dos vegadas. En los hombres sanguinos
+robustos y de buena edad. El primero dia ha-
+zen desta manera: lo primero sangran de la
+parte contraria, porque el humor esta aun en
+mouimiento, y no conuertido en veneno. Si
+la seca sale abaxo el brac'o izquierdo subito
+saquen seys onzas de sangre de la mano dere-
+cha, o quatro, o de la corba del pie yzquier-
+do tres onc'as, de<n>de a seys o ocho oras, recrea-
+do y reposado el enfermo, saquen del brac'o
+yzquierdo seys onc'as, quatro, o seys confor-
+me a la complexion y virtud de la vena ma-
+yor, porque aquella muestra tener mayor ne-
+cessidad de sangria. Si en la ingle estuuiere
+la seca, hazen lo contrario, sangran primero
+del brac'o de la misma parte, y la segunda, de
+la safena del mismo pie, pero qua<n>do el enfer-
+mo es flaco, o no muy robusto, ni tiene abun-
+dancia de sangre, pero tiene el vigor natural
+bastante, y la virtud esta constante, o se halla
+en la fin del segundo, o en el tercero, quando
+la materia verissimilmente ha corrido ya y}
+{CW. hecho}
+[fol. 34r]
+{HD. Contra la peste}
+{CB1.
+hecho venenosa, saquen dos o quatro onc'as
+de la misma parte, y de la parte mas vezina
+a la seca, de do sacar se pudiere: si la tiene
+tras la oreja, saquenle de la vena de la cabe-
+c'a de la misma parte. Si esta no se halla acu-
+dan a la de medio como vniuersal de todo el
+cuerpo, y si esta no paresce, de la vena de la
+misma mano que esta entre el pulgar, y el o-
+tro dedo. Esto hazen de la mitad del segu<n>do
+dia adelante, y el primero la hazen dela par-
+te contraria, de la mesma suerte lo hazen del
+segundo dia a delante. Si la seca estuuiere ba-
+xo el brac'o, sangre<n> de la vena del mismo bra-
+c'o, y de la vena vniuersal, a lo menos del higa-
+do, o de la misma mano entre el dedo de me-
+dio y el otro, si en la ingle estuuiere la seca,
+en el mismo dicho tiempo, le sangren debajo
+la misma rodilla, o de la corba del mismo pie.
+Si la seca va mas, o se muestra mas hazia las
+nalgas, saque<n> de la vena mas gruessa que se
+muestra sobre el peyne del pie de la misma
+parte. Tienen por regla comenc'ar a sangrar
+de la mitad del segu<n>do dia adelante: y las mas
+vezes comienc'an las sangrias de la parte co<n>-
+traria, y de alli adelante casi siempre haze<n> al}
+{CW. con}
+[fol. 34v]
+{HD. Marsilio Ficino}
+{CB1.
+contrario desto.
+Pero dexado esto, boluamos a nuestras re-
+glas comunes: digo pues que por estar la tal
+enfermedad en la sangre, o en los humores
+mezclados con sangre, soy de parescer, que d<e>
+catorze an~os hasta sesenta se deue sangrar.
+Hago mas cuenta y tengo en mas estimacio<n>
+el veneno que sale por la vena abierta, que
+no la sangre propria: saquenla en dos vezes
+que aya tres oras de distancia entre la vna y
+la otra. A los robustos y muy sanguinos en to-
+do, vna libra: a los mediocres y sanguinos o-
+cho onc'as, a los flacos estando firme el pul-
+so, quatro, o tres, o dos, o a lo menos vna, don-
+de predomina colera no mas que dos. Man-
+dan muchos sacar tanta que el valiente y ro-
+busto vengan a enflaquecer, lo qual a mi me
+desplaze: porque disuelben los espiritus.
+Donde vieren que anda vacilando el pulso
+no saquen gota. Pareceme, que ante que la
+postema se descubra abriessen almorranas
+con fregaduras de cosas asperas, con c'umo
+de cebollas, con ventosas, escarificacio<n> y san-
+guijuelas. Donde huuiere abundancia de
+sangre lo haria tras la segunda sangria, y do<n>-de}
+{CW. de}
+[fol. 35r]
+{HD. Contra la peste}
+{CB1.
+ay poca haria esto a lo menos.
+{RUB. % Cap<itulo> .ix. De las medicinas q<ue>
+remedian el veneno y lo la<n>-
+c'an afuera.}
+{IN4.} ALgunos despues de la primera san-
+gria applican la epityma: empero
+los mas sabios la pone<n> luego al prin-
+cipio, y la refresca<n> muchas vezes,
+que es de tres en tres oras en pan~o de grana
+medianamente caliente. Pusimos vna arri-
+ba, la otra es esta. Tomen agua rosada, de
+endiuia, de buglosa, de torongil, libra y me-
+dia de cada vna, vinagre dos onc'as, san-
+dalos, rosas, coral de cada vno tres dragmas,
+spodio dos dragmas, perlas, jacintos y zafi-
+ros vn escrupulo, bee<n> bla<n>co y colorado, hues-
+so de corac'on de cieruo, simiente de cidras, d<e>
+cada vno media dragma, almizque medio es-
+crupulo, camphora, ac'afran de cada qual vn
+escrupulo. Si vieren gran calor y extraordi-
+nario, vnten el higado y la parte de los rin~o-
+nes con vnguento sandalado dos vezes al}
+{CW. dia}
+[fol. 35v]
+{HD. Marsilio Ficino}
+{CB1.
+dia. Dende a quatro oras conforme al orden
+antiguo: dan con vino bla<n>co y agua de endi-
+bia y de azederas del poluo co<n>tra peste vna
+dragma, o dos y otras tantas de atriaca, o a lo
+menos vna, tomada procuren de ayudar co<n>
+pan~os calientes y perfumes al sudor, no erra-
+ria quie<n> diere atriaca sola, pero vsan mas dar-
+la juntamente con el poluo, algunos mezcla<n>
+vinagre y me plaze, como el darla muchas
+vezes, do<n>de la calor no es demasiada, y mez-
+clar agua de escabiosa y de torongil, los pol-
+uos antiguos son estos. Tomen ditamo blan-
+co, coral blanco, tormentilla, bolarmeno, ge<n>-
+ciana de cada qual vna onc'a, tierra siguilla-
+ta media onc'a, los poluos modernos son es-
+tos. Tomen barba de ditamo, de tormenti-
+lla, de agrimonia, ligno aloes, bolarmeno, va-
+leriana, lapaza, sandalos bermejos yguales
+partes, barba de escabiosa tanto como lo de-
+mas, y mezclenlo con sangre de toro sacada
+al sol, y destillada. La otra tomen espodio,
+ditamo blanco, genciana, tormentilla, hene-
+brinas, simiente de cidra y carlina, de ca-
+da qual quatro dragmas, hojas de albatro, o
+malobatro dos onc'as. La tercera, tormenti-lla}
+{CW. lla}
+[fol. 36r]
+{HD. Contra la peste}
+{CB1.
+ditamo blanco, cuerno de cieruo quema-
+do, zedoaria de cada qual vna dragma, per-
+las, corales bermejos de cada vno dos escru-
+pulos. La quarta, torme<n>tilla, ditamo blanco,
+(t)[b]oloarmeno, camphora, perlas, sandalos ro-
+xos, cuerno de cieruo quemado, aristologia
+redonda, ac'ucar bla<n>co de cada qual dos drag-
+mas. La quinta, torme<n>tilla, ditamo de cada
+vna dos dragmas, simiente de azederas, y de
+ponzil cada tres dragmas, gengibre blanco,
+canela, ac'afran de cada qual vn escrupulo,
+bolarmeno, tierra sellada, cada dos dragmas
+y media, ac'ucar dos onc'as. Esta tiene gran
+nombre y fama contra todo veneno antes y
+despues. La sexta, rayzes de torme<n>tilla dos
+dragmas, sandalos colorados, ditamo blanco,
+fresco cuerno de cieruo quemado, perlas, bo-
+loarmeno, aristologia redonda de cada qual
+vna dragma, canfora media dragma, ac'ucar
+blanco dos dragmas, pimpinella, mirra,
+zedoaria, sendas dragmas, sandalos, tierra
+sigillata cada dos dragmas, simie<n>te de cidras,
+ac'afran vn escrupulo de cada vno, cuerno de
+vnicornio, o tambien jacinto media dragma:
+estos poluos fortifican el corac'o<n> y le ayuda<n>}
+{CW. y fauo}
+[fol. 36v]
+{HD. Marsilio Ficino}
+{CB1.
+y fauorecen a lanc'ar de si el veneno, desse-
+can el humor aparejado a podrecerse, cierra<n>
+las vias del corac'on que el veneno no pas-
+se alla, y muchas vezes lo despiden y echan
+por sudor, de la primera que se llama anti-
+gua, y de esta vltima moderna se han visto
+mejores effectos que de las otras. Algunos
+hecho el vomito ((si fuere necessario)) y echa-
+da la ayuda, o cristel y las vnciones dan pri-
+mero los poluos, ponen luego la epithima
+despues q<ue> ha<n> hecho su operacion sangran, si
+ay abundancia de sangre, y puede ser, que
+no lo hierran: donde ni conuiene, ni se pue-
+de sacar sangre, en lugar desto dan la purga,
+pero primero el poluo, despues que huuie-
+re sudado, o passado en tiempo que de razon
+auia de auer sudado, no esperen la digistion
+del humor, porque no ay tiempo para diges-
+tiones, ni traygan cuenta con los dias, como
+se acostu<m>bra, que la necessidad no tiene ley,
+ni aguarden en las euacuaciones lo que hara
+naturaleza que es irregular, por la indigestio<n>
+y furia del veneno, la naturaleza quando se
+vee opressa, mas haze lo que puede que no
+lo que deue. Por esto subito que fuere passa-
+do el tiempo comodo del sudar, sangraran si}
+[fol. 37r]
+{HD. Contra la peste}
+{CB1.
+ay abu<n>dancia de sangre, o purgaran, mas no
+den cosas que alteren el estomago y mueua<n>
+a vomito, porque quando es violento auie las
+vias del pecho, y da lugar que el veneno su-
+til corra al corac'on, y aun lo llama al celebro
+d<e> manera que hierran los que dan el tarta-
+go, o catapucia y semeja<n>tes cosas vomitiuas
+y venenosas, que apenas tiene entonces na-
+turaleza fuerc'a para resistir a vn veneno.
+Dirame alguno que a los emponc'on~ados les
+hazen luego vomitar ? respondo, que no es y-
+gual la condicion, porque los otros son vene-
+nos mas materiales, y acomodados para sa-
+carlos por vomito, y estan en el estomago,
+pero este es vn vapor venenoso en las par-
+tes del pecho bien que no dan~aria, quando
+se procurasse con cosas que no fuessen viole<n>-
+tas. Todavia aprueban mas encaminarlo,
+y echarlo por baxo. La purga den desleida
+o destemplada con vino blanco, agua de esca-
+biosa, endibia, rosada, de plantayna, buglosa,
+torongil, vinagre rosado, en que ayan cozi-
+do damascenas, mirabolanos, tamarindos.
+Pero si viniere el mal, o se hirieren teniendo
+lleno el estomago que haran ? Digo, que co<n>-forme}
+{CW. for}
+[fol. 37v]
+{HD. Marsilio Ficino}
+{CB1.
+al orden moderno, despues de la vn-
+cion con olio de scorpiones y atriaca, hagan
+vomitarlo mas facilmente que pudieren co<n>
+agua caliente, vinagre, y azeyte, o c'umo de ra-
+bano, ayudandose con poner pluma larga,
+despues echen el christel, y tras ello la epiti-
+ma, y den los poluos. Reposado y recreado
+algun tanto el enfermo, si fuere sanguino sa<n>-
+grenle, sino lo fuere, denle la purga.
+Si la sangria passare de qua[r]to onc'as, tarden
+de dar la purga doze oras, y dado q<ue> sangren
+no le confien de sola la sangria, sen~aladamen-
+te en cuerpos rellenos sanguinos y r(e)[o]bustos
+y aun en los que fuere menor la sangria, si-
+no que purgue a tiempo y conforme a la co<m>-
+plexion y virtud: si primero purgaren no se
+confien tampoco, si es cuerpo relleno, sino
+que sufriendolo y estando la virtud en ser, lo
+sangren commodo y a su tiempo. Guarden
+esta diferencia que donde se puede y conuie-
+ne hagan lo vno y lo otro: pero donde ay a-
+bundancia de sangre vaya delante la sangria
+y sea mas copiosa, pero donde no abundare,
+vaya la purga adelante, y despues la sangria
+pero sea poca, teniendo mas intencion a que}
+{CW. sale}
+[fol. 38r]
+{HD. Contra la peste}
+{CB1.
+sale el veneno que no a sacar sangre. Del ter-
+cero dia adelante no se deue sacar sangre, si
+la mucha abundancia no forc'asse a ello. Las
+vezes que purgaren, o sangraren, o vomita-
+ren porque el tal mouimiento no haga vol-
+uer dentro del cuerpo la seca, o landre. Si se
+mostrare y estuuiere descubierta en semeja<n>-
+te caso, mouimiento y comocion, pongan so-
+bre ella y alrededor ventosas, y sanguijue-
+las y sobre el corac'on epitymas frescas, den
+por la boca antes, y despues cosas contra ve-
+neno. Atriaca, bolarmeno, esmeraldas, jacin-
+tos, topaciones: a lo menos otras piedras y co-
+rales con c'umos de yeruas contra veneno.
+Qua<n>do purgare<n>, en el comienc'o dicho, mez-
+clen siempre vn poquito de ac'afran. La prin-
+cipal medicina y mas segura ((co<n>forme a los
+medicos Persianos y Mesue)) es la trifera per-
+sica, vna onc'a con dos dragmas del letuario
+Amech. O quando menos media onc'a, y del
+letuario Amech, vna dragma o media, mas a
+los robustissimos se les da vna onc'a con tres
+dragmas del letuario Amech. Alaba<n> los Per-
+sianos que se de con agua fresca, o c'umo de la
+yerua mora, o de endibia: desta purga ten-go}
+{CW. go de}
+[fol. 38v]
+{HD. Marsilio Ficino}
+{CB1.
+de otros entendido y prouado lo yo mu-
+chas vezes, auer hallado felicissimo sucesso
+en este mesmo an~o, donde no huuiere trifera
+ni el letuario de Amech den en lugar de tri-
+fera la diasena, y diamana, y c'umo de rosas
+en lugar del letuario amech, de la manera q<ue>
+lo he prouado, es muy vtil y segura compo-
+sicion esta. Tomen trifera Persica, pulpa de
+casia de cada qual onc'a y media, reubarbaro
+diamanus, o letuario de amech vna dragma.
+Pero donde ay natura robusta y vientre stiti-
+co, doy de la diamana, o letuario de amech,
+dos dragmas, desleanlo en aguas de bulglo-
+sa, endibia con los cozimie<n>tos y aguas sobre-
+dichas, tengo el reubarbaro en vino blanco
+y agua de endibia, y vn poco de spica obra d<e>
+vna ora, y mezclado todo junto, lo doy en su-
+stancia, muchas vezes an~ado despues vna on-
+c'a de man<n>a. Son tambien buenas las pildo-
+ras de fumo terra y agregatiuas yguales par-
+tes. A los robustos vna dragma de todo, a los
+otros media, beuiendo despues vino blanco,
+con agua de endibia, o rosada, y de escabiosa.
+Tambie<n> las pildoras agregatiuas solas, y en
+todo tiempo, especialmente en tiempos ca-lientes}
+{CW. lientes}
+[fol. 39r]
+{HD. Contra la peste}
+{CB1.
+vna dragma, o dragma y media. No-
+ten que si la cale<n>tura es de humores sutiles
+y calientes, descubre y aparesce gra<n> sed, en-
+cendimie<n>to en la garganta, la lengua negra,
+dolor de cabec'a muy agudo, frenesia, y acci-
+dentes semejantes muy grandes. Si estuuie-
+re en humores mas gruessos y menos furio-
+sos, la calentura paresce lenta y los acciden-
+tes dichos son menores. Consideren bien
+los sen~ales dichos: sepan que en qualquie-
+re humor que fuere es conuieniente la trife-
+ra, con el agarico y pildoras agregatiuas, o so-
+la, o con pildoras de fumoterra, y el xaraue
+solutiuo que diremos adelante. Si en mate-
+ria furiosa estuuiere, tambie<n> es buena la dia-
+fena con letuario de amech, o c'umo de rosas.
+Iten casia con reubarbaro. Item man<n>a co<n> dia-
+ma<n>na en cozimientos frescos. Si en humo-
+res gruessos, frios y humidos estuuiere, son
+buenos para los robustos, las pildoras agre-
+gatiuas dos escrupulos, pildoras de agarico
+vn escrupulo. A los flacos y debiles diacato-
+licon vna onc'a con dos dragmas de diafini-
+con, o con vna dragma y media de agarico
+trociscado. Item de las pildoras contra el}
+{CW. mal}
+[fol. 39v]
+{HD. Marsilio Ficino}
+{CB1.
+mal puestas arriba, vna dragma o media dra-
+gma, podria ser, que fuessen vtiles estas pil-
+doras en qualquiere humor. Sepan que el
+agarico bien preparado y trociscado, es sin-
+gular en este caso y para todo miembro y hu-
+mor, y quando teniesse de su preparacion
+seguridad siempre lo vsaria con qualquiere
+medicina y daria dos dragmas. Vna, o media
+de sus trocicos, segun la fuerc'a de la medici-
+na y la complexion del paciente, y quando
+tuuiesse duda de la preparacion pondria en
+infusion de vinagre squilito con salgema, y
+colado sin primir el pan~o lo mezclaria con la
+medicina. Noten que las pildoras agregati-
+uas son apropiadas y en lugar destas deuen
+dar las pildoras {LAT. sine quibus} a los que fueren
+menos robustos. Auiso que es mejor en este
+caso dar purga que no pildoras: y que do<n>de
+hallaren diamamra es mejor y mas fuerte q<ue>
+el c'umo de rosas, y el letuario de amech, me-
+jor que ambos. En conclusion digo, que en
+todo qualquiere humor es admirable este
+xaraue solutiuo en lugar de purga, dando
+quando menos vna onc'a, y dos quando mas
+con agua rosada y vino blanco. Tomen cor-teza}
+{CW. teza}
+[fol. 40r]
+{HD. Contra la peste}
+{CB1.
+de ponzil, rayz de alcaparras, berberis,
+sandalos roxos, spodio, d<e> cada qual dos drag-
+mas gariofilata, buglosa, torongil, borraja,
+chicoria de cada qual vn manojo, azederas,
+epatica, marrubio de cada qual vn manojo y
+medio, squirola, o scatriola saluage, dos drag-
+mas: simiente de calabac'as, pepinos, melo-
+nes y cogombros y violas vn manojo, o pu-
+n~o, tomillo, epitimo agarico, reubarbaro, se-
+na, polipodio, de cada qual dos dragmas: c'u-
+mo de asensios, o enxenc'os, de fumoterra,
+hiedgos, y plantayna seys dragmas de cada
+vno, mirabolanos q<ue> bulos vna dragma, mi-
+rabolanos citrinos media dragma, diagridii
+dos dragmas ac'ucar blanco dos libras. Haga<n>
+xaraue con vinagre de membrillos este xa-
+raue llaman todos los doctores diuino assi
+en el preseruar como en el curar, porque su-
+bito deseca el humor corruptible, conforta
+los miembros principales y lanc'a el vene(n)-
+no fuera. Ay hechas grandes experien-
+cias dello, entre los otros Pedro de Rasi<a>
+n<n>o y gentil de (s)[f]ullino lo alaban admirable-
+mente. Paresceme que esta hecha a la
+imitacion de la trifera persica es mas}
+{CW. soluti}
+[fol. 40v]
+{HD. Marsilio Ficino}
+{CB1.
+solutiuo, y me plaze en gran manera para
+personas que no son flaquissimas, y tiene<n> el
+vientre floxo, o lubrico. Tomase vna vez en
+la semana para los sanos y enfermos: noten
+que despues de la purga, o sino purgaren, des-
+pues de la sangria al otro dia se de atriaca v-
+na dragma con tres onc'as de agua rosada, y
+vn poquito de vinagre rosado, y no teman
+el calor de la atriaca que siendo la cantidad
+tan poca, poco puede calentar, o encender,
+porque la calidad elemental qual es el calor
+y semejantes siendo muy material no obra
+mucho sino con mucha materia: empero la
+virtud especifica siendo don celestial, y casi
+espiritual, obra mucho y aun con poca mate-
+ria segun Galeno, y el atriaca obra y es efi-
+caz contra el veneno, por virtud especifica,
+quanto mas que apenas es caliente en el se-
+gundo grado cumplido, y assi es mucho mas
+poderosa para lanc'ar el veneno que para ca-
+llentar demasiado, y la calentura pestile<n>cial
+es mucho mas venenosa sin comparacion q<ue>
+caliente: ha se empero de dar con agua rosa-
+da y con las otras cosas que inclinan a refres-
+car, para que della se pueda bien vsar. Pue-de}
+{CW. de se}
+[fol. 41r]
+{HD. Contra la peste}
+{CB1.
+se dar en lugar de atriaca mitridate, aun-
+que de la atriaca se han visto mayores expe-
+riencias. Sobre esto dize Moyses Egipcio,
+que le dixo vn muy docto medico, que curan<n>-
+do en la peste de anthiochia, experime<n>to ser
+todas las otras cosas flacas y debiles, y que
+aquellas que por su consejo tomaron el
+atriaca, se preseruaron, y no los otros, y los
+que heridos la tomaron solos aquellos esca-
+paron, y los demas murieron. Confirmase
+desto el dicho de Galeno en el libro de la atria-
+ca, que es contraria de todos los venenos,
+tiene poder y fuerc'a donde todas las otras
+medicinas son flacas y debiles. Ay algunos
+que dan orinas y lexia, otros c'umo de cebo-
+lla blanca con vinagre, no sabria que dezir
+sobre ello. Acuerdense muy bien, que aun-
+que purgado y mejorado el enfermo, no se
+fien ni descuyden. Quando despues de la
+purga en el tercero o qua(a)rto dia paresciere
+que esta mejor, y mas recreado el enfermo,
+si se mostrare aun abundancia de sangre: sa-
+quenle vna poca y bueluanle a euacuar con
+la mesma medicina: si sangre no tuuiere q<ue>
+abunde, bueluanle a lo menos a purgar co<n> la}
+{CW. medici}
+[fol. 41v]
+{HD. Marsilio Ficino}
+{CB1.
+medicina y poluos que no recayga. Algu-
+nos dan el enforbio con almaciga y goma ele-
+mi. Tome<n> d<e> enforbio cinco dragmas y vn es-
+crupulo, de goma elemi .2. onc'as, d<e> mastech,
+o almaciga onc'a y media, da<n> a los robustos v-
+na dragma, a los flacos vn scrupulo co<n> agua
+de endibia y es escabiosa: es medicina peli-
+grosa y no se deue dar sino en el principio, y
+a los muy robustissimos. Dizen algunos que
+la goma elemi es goma del cedro. Auiso y
+quiero que sepan que en este caso la primera
+medicina y primer remedio que se diere no
+quiere ser flaco, ni que haga poca operacion.
+Porque naturaleza, no aguarda la segunda,
+si la primera no haze buena operacion. Bien
+es verdad que no conuiene tampoco que sea
+con violencia, porque se resuelben los espi-
+ritus, y este mal co<n>siste mas en calidad vene-
+nosa que no en cantidad de materia. Gentil
+Defullino dize, que hizo muchas experien-
+cias con los sobredichos poluos: al principio
+daualos desta manera. Tomaua de enforbio
+media dragma, de mastech vna dragma, y
+daua dos escrupulos y donde auia gran ple-
+nitud daua vna dragma. A mi me satisfaze}
+{CW. mucho}
+[fol. 42r]
+{HD. Contra la peste}
+{CB1.
+mucho mas el agarico, porque conforme a
+Democrito, Galeno, y Auicena seca qual-
+quiere humor de todos los miembros, y tie-
+ne propriedad de atriaca contra todo genero
+de veneno, fortifica el corac'on y lo alimpia
+de toda ponc'on~a, purga principalmente los
+humores gruessos, y no se descuyda de los so-
+tiles: conuiene empero que al agarico sea re-
+dondo, blanco, poroso, o espojoso, libiano,
+frangible, dulce, con poca amargura y stipti-
+cidad, bien majado y mezclado con la terce-
+ra parte de salgema, sea corregido con sal-
+gema, miel ros(o)[a]da colada, oximel, squilitico,
+y vino en que aya auido gengibre enfusion,
+y sea troscidado. Para flacos y debiles ay mas
+seguridad darlo, con muchas otras cosas q<ue>
+a solas, y en cozimiento antes que en sustan-
+cia, porque muchas vezes da gran vomito, o
+dolores de vientre, sino fuere muy escogido,
+y bien preparado. Que si lo fuere es medici-
+na santa y familiar: segun Democrito y Me-
+sue, con este tengo hechas felicissimas espe-
+riencias en el modo dicho. Del enforbio yo
+lo he probado y algunas vezes hizo grande
+prouecho, y muchas gran dan~o. En conclu-sion}
+{CW. sion}
+[fol. 42v]
+{HD. Marsilio Ficino}
+{CB1.
+digo que purguen presto, muchas ve-
+zes, y con modo, recreando muy amenudo:
+porque los espiritus se resuelben, y no den
+cosas de medicina, o de mantenimiento, q<ue>
+solamente molifique, acompan~en los siem-
+pre con cosas que refresquen, dessequen for-
+tifiquen el corac'on, y resistan al veneno.
+{RUB. % Cap<itulo> .X. Del orde<n> que en dar
+de comer y gouernar al enfer-
+mo se deue tener.}
+{IN4.} COnforme a Rasis y Auicena en el
+quarto, el mantenimiento se a de
+dar muy amenudo y poco en canti-
+dad, ligero y de mucha sustancia y
+humidad, cozido y acompan~ado con cosas a-
+gras y frescas, con simientes comunes de le-
+chuga, endibia, azederas, vinagre, agraz,
+granadas, naranjas, limones, guindas agras,
+y ciruelas, endrinas. El mantenimiento sea
+pollo, perdiz, faysan, pistos destilladas, o cal-
+dos secos, huebos frescos, el cabrito no lo me-
+nosprecio. En suma digo, que el manteni-miento}
+{CW. miento}
+[fol. 43r]
+{HD. Contra la peste}
+{CB1.
+sea de cosas liquidas, frescas y de mu-
+cha sustancia, como no causen carga ni au-
+menten la calentura. Dize Auicena en el
+quarto, que en este caso se a de dar mas abu<n>-
+dancia de ma<n>tenimie<n>to que en otro alguno
+por que estando llenas de nutrimientos las
+venas resisten, y no consienten que passe el
+vapor venenoso del ayre y humor: y que a-
+quellos libran mejor, y son remedios co<n> ma<n>-
+tenimie<n>to y buena sustancia y sin cobardia.
+Esten aduertidos que dado el cristel soluti-
+uo de que arriba huuimos hablado, si fuere
+menester refocillar y esforc'ar denle algo de
+lo dicho por la boca. Ha se le de echar el cris-
+tel, o con correzuelo, o poner le vna cala, y
+dende a quatro oras darle sustancia como es-
+ta dicho. El vino sea blanco delgado y olo-
+roso, con la metad alo[ ]menos de agua azera-
+da fresca. Agua en que huuiessen apegado
+oro encendido seria mejor tambie<n> se podria
+ahogar el oro en el vino. No le permitan su-
+frir sed, ni que tenga seca la boca. Haganle
+gargarizar y enxaguar muy amenudo con
+vino blanco, muy bien aguado: tenga en la
+boca cosas frescas denle amenudo que beua}
+{CW. de lo}
+[fol. 43v]
+{HD. Marsilio Ficino}
+{CB1.
+de lo azedo de la cidra, o ponzil con ygual
+cantidad de julepe rosado, con vino de gra-
+nadas, agua, o c'umo de azederas. Muy al
+proposito es el acetoso simple con agua aze-
+rada: es vtil el c'umo de limones, de naran-
+jas con agua y ac'ucar fino. Podria bien ser
+que fuesse mejor con agua de ordio, o azera-
+da. Item ac'ucar rosado, o diamarenado, o
+diaprunis, o diacitonites desleydo en agua,
+colado y premido, tambien rosas, guindas a-
+gras, mirabolanos, tamarindos, ciruelas, me<m>-
+brillos, duraznos secos majados y remojados
+en agua, despues colados, premidos y dados
+con ac'ucar y agua fresca. Es bueno el vina-
+gre blanco con agua azerada, y con ac'ucar,
+para enfermos y sanos. Tambien es vtil el
+axizacaro, que se haze con vinagre blanco,
+c'umo de granadas agras y ac'ucar, conuiene
+dela misma suerte el c'umo de granadas agra[s]
+dulces, o de las agras, o el vino de las agras
+con vn poco ac'ucar. Como tambien agua
+de cebada con vino de granadas: es muy bue-
+no fregaduras con sortijas de oro en el agua
+hasta que bermegee. Item cozer oro en el
+agua y guisar con ello y beuerla.}
+{CW. Con}
+[fol. 44r]
+{HD. Contra la peste}
+{CB1.
+Conforme a Gentil fullino se puede hazer
+el oro en forma liquida para vsarlo desta ma-
+nera. Tomen vna onc'a de oro, de azogue,
+dos onc'as, mezclenle y esten ju<n>tas hasta que
+el oro se dessuelba, ponganlos despues a des-
+tillar con fuego templado, hasta que salga to-
+do el azogue por la nariz del alquitara: saque<n>
+el oro que en el suelo del alambico lo halla-
+ran, mezclen con el, quatro libras menos
+onc'a de agua de buglosa, ponga<n>lo todo en al-
+quitara de vidrio muy bien atapada, y ten-
+gan lo tres dias y tres noches en fuego bien
+proporcionado. en conclusion quien supie-
+re el arte, hallara el agua no consumida, y el
+oro derretido, o desleydo. Este es el oro
+cordialissimo para beuer, y puedese digerir
+que de otra manera haze poco prouecho:
+porque no se digere. Den dos vezes al dia
+deste xaraue, tomen azedo de ponzil, de li-
+mon, de chicoria, de fumo terra, de cada vno
+media onc'a, con vna onc'a de agua de toron-
+gil, y otra onc'a de c'umo de azederas.
+Ite<m> xaraue de agraz, y rob de ribes, de berbe-
+ris de membrillos, de ma<n>c'anas, de granadas}
+{CW. con}
+[fol. 44v]
+{HD. Marsilio Ficino}
+{CB1.
+con agua de endibia y de buglosa. Item xa-
+raue de endibia con agua de la mesma endi-
+bia y con el azedo de la cidra, c'umo de aze-
+deras y vino de granadas agras. Item c'umo
+de limones, de limas, o naranjas premidas co<n>
+agua, o ac'ucar. No me paresce mal que en
+lugar de agua se diesse la pebrada del pollo,
+o de la perdiz, cozidos co<n> agraz y con endi-
+bia, colado y mezclado con algun c'umo de
+los dichos, y con ac'ucar templado lo dulce
+con lo agro, como naturaleza lo haze, en las
+granadas agradulces, dize assi mismo bien,
+el c'umo, o el vino de la granada agra a solas,
+o con los otros c'umos y ac'ucar. Item c'umo
+de rosas, mirabolanos, tamarindos, ac'ucar
+rosado, el diamarenado diaprunis, diacitoni-
+te desleydo, en agua colado, y premido y be-
+uido con agua fresca. Item el oxizacara con
+julepe rosado y agua azerada. Item c'umo de
+rosas, lo azedo de la cidra con vino de grana-
+das. Noten que el acetoso simple es muy
+vtil en qualquiere xaraue: donde no hu-
+uiere agro de cidra, tomenle de limones y
+naranjas, y templenle con ac'ucar creciendo
+lo agro conforme a mas, o menos calor.}
+{CW. Do<n>de}
+[fol. 45r]
+{HD. Contra la peste}
+{CB1.
+Donde semejantes agros no huuiere, den vi-
+nagre, agua y ac'ucar juntamente. El vina-
+gre blanco es mejor que ninguno otro. Este
+es muy buen xarabe. Tomen c'umo de to-
+rongil, de borraja, de buglosa, de purados
+cada tres onc'as, agua rosada y vinagre blan-
+co, sendas onc'as y media, agro de cidras y li-
+mones, de cada vno media onc'a, de ac'ucar
+blanco vna libra, danse dello dos onc'as con
+agua de buglosa y de azedera, de cada vna
+dellas onc'a y media: den de qualquiere des-
+tos, el que quisieren y les pareciere, y con
+ello dos trociscos de camphora: algunos sa-
+bios dan en lugar de xaraue esta beuida.
+Toman agua rosada vna libra, vino blanco
+oloroso media libra, boloarmeno muy moli-
+do y passado media onc'a, da<n> d<e>llo cada vegada
+dos onc'as, remedio es antiguo y muy pode-
+roso. Los esperimentadores vsan dos cosas.
+el c'umo de la flor de naranjo en el caso, y an-
+tes del caso con vino dan tambien las simie<n>-
+te del cardo santo, o cardo benedito, con vi-
+no. Por tener esperiencia de ser poderosissi-
+mo contra el veneno de los hongos. Los
+ho<m>bres doctos da<n> lo que dicho tenemos. y ta<m>-bien}
+{CW. bien}
+[fol. 45v]
+{HD. Marsilio Ficino}
+{CB1.
+tres onc'as de c'umo de escabiosa, y vna
+dragma de tierra siguillata con vn poco de
+vino. Tambien dos dragmas de simiente de
+cidra, o ponzil con buen vino. Item ambar
+y alcarabea con vino. Item las especies de
+los caujos con vino vna dragma. Los caujos
+son, ciertas vexeguillas con vn pegajoso hu-
+mor apegadas de<n>tro de los cabritos y liebres.
+Item rayz de la palma christi con vino. Es-
+tas cosas probadas de los doctos apartan el
+veneno del corac'on, son buenas para curar
+y preseruar. Lo mismo hazen las confeccio-
+nes que se siguen: tengo gran credito en es-
+ta mi composicion simple efficasissima y se-
+gura. Tomen bolarmeno dos dragmas, tie-
+rra siguillata, coral bermejo de cada qual v-
+na dragma: corteza de cidra, zedoaria, ac'afra<n>,
+de cada vno media dragma, ac'ucar candi ro-
+sado, de rosas coloradas seys onc'as, agro de
+cidra, o ponzil diez onc'as, denlo siempre co<n>
+vino blanco y agua rosada. Algunas vezes
+le mezclo vn poco vinagre rosado. Pue-
+dese dello hazer pildoras, ponie<n>do en lugar
+del ac'ucar rosado media onc'a de rosas colo-
+radas, haziendo pildoras con el agro de la}
+{CW. cidra}
+[fol. 46r]
+{HD. Contra la peste}
+{CB1.
+cidra que bastare. Algunos dan esta com-
+posicion: tomen ac'ucar rosado, triasandalos,
+diadragante de cada vno quatro onc'as, di-
+ez panes de oro, perlas, jacintos, hues-
+sos de corac'on de cieruo, de cada qual me-
+dia dragma. Item tomen zafires, ja-
+cintos, de cada qual dos dragmas, esmeral-
+das dos dragmas, perlas vna dragma: tierra
+siguillata tres granos, seda cruda molida me-
+dia dragma. Item esmeraldas vna drag-
+ma, manus christi rosado lo que quisieren, a-
+gua rosada en que hayan fregado piec'as de
+oro mucho, lo que bastare. Item agua
+rosada, ac'ucar bla<n>co d<e> cada qual vna libra, sa<n>-
+dalos colorados y blancos, coral, rosas, spo-
+dio, de cada vno media dragma, perlas vna
+dragma, jacintos, esmeraldas, zafires, hues-
+sos de corac'on de cieruos de cada qual vn es-
+crupulo. Noten que todas las cosas aroma-
+ticas son apropiadas, assi en el curar como
+en el preseruar, mayormente las frescas, y
+las calie<n>tes ta<m>bie<n>. Porq<ue> aunq<ue> no son buenas
+para el calor d<e> la fiebre, son lo para el veneno
+della. Sen~aladame<n>te templando las con las}
+{CW. frescas}
+[fol. 46v]
+{HD. Marsilio Ficino}
+{CB1.
+frescas, de tal manera que inclinen mas a lo
+fresco y mucho mas en tiempo caloroso, en
+complexion caliente y fiebre aguda. Sepan
+que entre la tierra sigilata, y boloarmeno ay
+esta diferencia, que dado que ambos son apro-
+priados contra veneno y pestile<n>cia, todauia
+los sabios, aunque en otros venenos vsa<n> mas
+de la tierra que del boloarmeno: pero en el
+pestilencial veneno, mas se siruen de boloar-
+meno que della. Todos conciertan que pa-
+ra qualquiere otro veneno no ay cosa que y-
+guale con la tierra sigilata, especialmente da<n>-
+do la co<n> vn poco de boloarmeno, y granillos
+de henebro, y vinagre aguado, conforme al
+orden de Galeno. Porque subito cierra las
+vias del pecho, de manera que el veneno no
+passe, y lanc'a el veneno por vomito, digo ta<m>-
+bien el veneno de las solutiuas, dandola assi
+antes, o como despues: pero es mucho mas
+seguro darla antes.
+Conforman de la mesma manera todos que
+para preseruar de pestilencia, y curarla, que
+excede es boloarmeno a qualquiere otro re-
+medio simple, mayormente dado con vino}
+{CW. blanco}
+[fol. 47r]
+{HD. Contra la peste}
+{CB1.
+blanco y agua rosada conforme al orden de
+Galeno, Serapion y Auicena. Los quales
+dizen, tener esperimentado en grandes pes-
+tilencias, auerse los hombres preseruado
+y curado con este facilissimamente.
+El boloarmeno sea roxo y algo amarillo, de-
+licado y frangible. La tierra sigillata sea vn
+poco roxula agrilla y seca al gusto y vn po-
+co biscosa, pero que no se apegue a los dedos.
+Sepan que algunas vezes comienc'a la en-
+fermedad con escupir mucha sangre, en tal
+caso no se da el bolo, ni otra cosa que restri-
+n~a aquella sangre, antes ayuden a que salga
+con cosas pectorales, y sangren de ambas
+las safenas, conforme a la complexion. Si
+fuere muy sanguino le sangren despues, de
+la mediana. No se descuyden de las frega-
+duras en ayunas. Hagan que tenga siempre
+vna esponja en las narizes, ban~ada en agua
+rosada, vinagre rosado, y vino oloroso, y labe[n]
+con ello muchas vezes los pulsos y la ca-
+ra. Quando huuiere sospecha de frene-
+sia, pongan en la frente agua rosada con
+vinagre rosado, si suen~o no tuuiere mez-
+clen vn poco de camphora. No consienta<n> lar-go}
+{CW. go y}
+[fol. 47v]
+{HD. Marsilio Ficino}
+{CB1.
+y profundo suen~o al enfermo, bastan le
+cinco, o seys oras entre dia y noche, porque
+el mucho dormir retira el veneno a la parte
+de<n>tro. Poner, o echar ve<n>tosas detras y frega-
+duras y ataduras e<n> los estremos, ap<ro>uecha al
+frenetico, y al dormilloso, o adormido, ap<ro>ue-
+cha tan bien aplicarle vn supositorio de xa-
+bon de tabla y salgemma. El poco dormir
+es muy vtil al principio, pero las vigilias no
+sean tantas que resuelban los espiritus. El
+aposento se refresque y altere abrie<n>do y ce-
+rra<n>do ve<n>tanas: para q<ue> el ayre se mueua, pero
+no de tal manera q<ue> el enfermo sienta frio. Ti-
+endan por el rededor de la cama lienc'os ban~a-
+dos en vinagre: y rocien las paredes y el sue-
+lo con vinagre aguado. Hinchan la camara
+de pampanos, can~as, sanzes, rosas y otras ver-
+duras, flores y frutas olorosas: hagan perfu-
+mes de sandalos, rosas, murta, camphora, tre-
+mentina, encienso, cortezas de cidras, de ma<n>-
+c'anas, con vnos pocos c[l]auillos y ac'afran.
+Sobre todo tengo cuenta especial, de
+mudar cada seys horas al enfermo la ropa
+que vistiere, las sauanas, y las que le dieren
+sahumenlas con lo dicho. Si tuuiere tal como-didad,}
+{CW. didad}
+[fol. 48r]
+{HD. Contra la peste}
+{CB1.
+muden de veynte y quatro en veyn-
+te y quatro horas, aposento y ropa. Y an-
+tes que le bueluan al primero, alimpienlo
+bien y sahumenlo, de otra manera el vestido
+y el aposento lo envenenaran continua-
+mente. No quiero callar, que don-
+de se muestra calor desordenado, rezio esto-
+mago y los intestinos libres de dolor, rasis y
+Ioanitio dan vna beuida de agua fria en gra<n>-
+de cantidad. Para mas seguridad daria yo
+tres libras de agua de cebada fresca con tres
+onc'as de ac'ucar, y aun por auentura c'umo
+de vn buen pepino hasta media libra, con
+mezcla de vna onc'a de ac'ucar: despues c'u-
+mo de naranja, o de granada vna onc'a con
+vna dragma de ac'ucar. Vn hombre robus-
+to de mi tierra, subito que se sintio herido se
+lanc'o en vn lago de agua fresca, donde es-
+tuuo por espacio de dos horas, y se libro.
+Empero es engan~osissima experiencia, pudi-
+era ser que fuera mas seguro poner brac'os y
+piernas en agua tibia, de manera que no to-
+casse las partes del pecho. Porque no se de-
+ue<n> abrir aq<ue>llas, ni llamar alli humores. Algu-nos}
+{CW. nos}
+[fol. 48v]
+{HD. Marsilio Ficino}
+{CB1.
+en estos casos ha auido que han tomado
+venenos, sen~aladamente frios de su natura, y
+podria ser que calientes, tomando primero,
+o despues atriaca o tierra sigillata con bolo-
+armeno y vinagre aguado, o cosas semejan-
+tes contra veneno, entre los quales se libro
+co<n> esto vn medico, paresceme cosa peligrosis-
+sima.
+{RUB. % Capitulo .xj. La cura por ci-
+rurgia.}
+{IN5.} NO aguarden hasta que se descu-
+bra la<n>dre, seca, o ampolla, sino
+luego tras la purga, o sangria a-
+delantese a sacar fuera el vene-
+no. Pongan lebadura con canta-
+ridas, o otro caustico de los que, abaxo pon-
+dre, sobre el muslo del brac'o a la parte den-
+tro junto al codo, adonde se toca el pulso mas
+no sobre el pulso, y de la misma manera so-
+bre el talon de la pierna derecha quatro de-
+dos dentro. Hagan vexiga, abranla y tenga<n>-la}
+{CW. la a}
+[fol. 49r]
+{HD. Contra la peste}
+{CB1.
+abierta. Si paresciere seca, o landre, y la
+breuedad del tiempo no lo estoruare, y la in-
+commodidad lo suffriere y no impidiere el
+orden, sangren y purguen, y despues de pur-
+gado, o alo[ ]menos sangrado, pongan el causti-
+co, o rutorio, en el mismo lado, seys dedos de-
+baxo la seca. Algunos ay que no se co<n>fiaria<n>
+en el tiempo, y haria<n> los remedios primeros
+y despues, o en vn m[i]smo tiempo como me-
+jor pudiessen: podria ser que no lo errassen.
+El orden moderno de algunos es, donde ay
+tal lugar, purgar, primero con cristeles, pol-
+uos, sangria, purga despues aplican los caus-
+ticos, aunq<ue> la seca no se descubra como dixi-
+mos. Pero mayor seguridad es, poner lue-
+go el caustico, o otras cosas apropiadas, parez-
+ca, o no parezca. Si paresce hagan desta ma-
+nera, que si esta junto a la oreja subito ponga<n>
+a la parte dentro del pescuec'o, en el mismo
+lado el caustico. Si sale baxo el brac'o, pon-
+ganlo en el muslo del mismo brac'o, o donde
+tocan el pulso tambien, como no sea sobre el
+mismo pulso. Si paresciere en las ingles, po<n>-
+ganle sobre la corua, quiero dezir sobre el ta-
+lon del mismo lado. Si en otra qualquiere}
+{CW. parte}
+[fol. 49v]
+{HD. Marsilio Ficino}
+{CB1.
+parte sen~alare y paresciere, pongale seys de-
+dos, o vn palmo mas baxo, como no le pon-
+gan sobre el pecho. Si paresciere en la gar-
+ganta a la parte delante, ponganle al lado, y
+de tras, si de tras se descubriere, no le ponga<n>
+el caustico delante sino de baxo de la misma
+parte. Tenganle hasta que vexigue, y abra<n>
+la vexiga, y pongan sobre ella manteca y ho-
+jas de coles. Item vna esponja ban~ada en es-
+te cozimiento. Tomen camamilla, betoni-
+ca, meliloto, escabiosa, de cada qual vn ma-
+nojo, cuezan en media libra de agua, hasta
+que cale la mitad, y ponganla hasta el fin de
+la cura, esto porque saca y atrahe para si el ve-
+neno.
+{RUB. % Capitulo .xij. De causticos
+simples.}
+{IN3.} LOS causticos, o rutorios simples son e-
+stos: vincetoxico, vidriol, verdete, nue-
+zes rancias, cordumeno, arsenico, cal-
+uina, antifarmaco, flamula cal con xabon de
+bataneros, biniebla, lebadura con lexia, gal-
+bano, cauda equina, enforbio, estiercol de pa-lomas,}
+{CW. lomas}
+[fol. 50r]
+{HD. Contra la peste}
+{CB1.
+de gauilanes, de ansares, anades, mas-
+tuerc'o caracoles majados biuos con cascara
+y todo, rana dessollada y assada, niepota, po-
+leo, cerbino, aristologia, rabano, muerdago,
+cien rundillos, costo, pimienta, piedra de es-
+ponja marina, flamula majada, hortigas, mos-
+taza, vidalba, padrastro scabiosa can~amos, y
+camanmac'a, cantaridas, salgema, trigo maz-
+cado, pelitre, hyema de hueuo co<n> mucha sal
+la consuelda mayor, y la escabiosa majada en-
+tre dos piedras es admirable. Estos causticos
+o rutorios se pueden y deuen poner presto
+como ya dixe. Tambien podran aplicarlos
+assi mismo sobre la seca, segun algunos, qua<n>-
+do no se curare por otro camino ((que despues
+lo diremos)) con discrecio<n> en las personas de-
+licadas se apliquen las menos fuertes, y en
+los otros los mas rezios. Es mas seguro po-
+nerlos debaxo la landre que no encima, o en-
+cima los mas suaues y debaxo los mas rezios.
+{RUB. Capitulo .xiij. De quantas ma-
+neras es el Apostema}}
+{CW. La}
+[fol. 50v]
+{HD. Marsilio Ficino}
+{CB1.
+{IN4.} LA seca, o hinchazon se llama apos-
+tema. Quando viene y salen
+antes que la calentura, sig[n]ifi-
+ca estar el corac'on muy esforc'ado
+para lanc'ar lexos de si el veneno, y ento<n>ces
+la calentura es accidente de la apostema,
+mas quando se descubre y viene despues, es
+todo lo contrario. De apostemas ay dos ma-
+neras: la vna vexiga que se llama autraz, y
+carbunculo, la otra es echadura que se lla-
+ma bubon y seca, o landre. La vexiga se
+haze co<m>munmente fuera de las emuntorios,
+y quanto mas lexos de los miembros princi-
+pales cae, tanto menos peligro tiene, la ne-
+gra es de todas la peor. El segundo lu-
+gar tiene la verde: el tercero la amarilla: el
+quarto la bermeja, y quanto mas seca tanto
+peor. El bubon, o landre viene, o se haze
+communmente en los emutorios, que son
+los alban~ares de los miembros principales,
+estan en seys lugares: tras las orejas, en los
+sobacos, y en las ingles. El celebro lanc'a el
+veneno tras las orejas y en el cuello. El co-
+rac'on baxo los brac'os, el higado en las in-
+gles, o por alli cerca. La seca es mucho pe-or}
+{CW. or}
+[fol. 51r]
+{HD. Contra la peste}
+{CB1.
+que la vexiga, porque sen~ala auer corrido
+abundancia de veneno a los miembros prin-
+cipales, y quanto mas vezino al corac'on ta<n>-
+to peor. La cura de la landre y del autraz, o
+vexiga es casi semejante. Algunos ay que
+quando se sienten heridos antes de la calen-
+tura y lexos del corac'on, subito entre el do-
+lor y el corac'on haze<n> ligaduras, aplica<n> co<n> co-
+sas frescas y secas para repercutir, pero sobre
+el dolor ponen cosas calientes y humidas, re-
+solutiuas. Otras subito que sen~alado el aposte-
+ma, ponen encima y de baxo como diximos
+ventosas y causticos, y dan al punto esta me-
+dicina purga subito. Eleboro verdadero pre-
+parado, sena, canela, de cada vno media drag-
+ma, diagridi medio scrupulo, infundanlo en
+quatro onc'as de vino de granadas, y vna on-
+c'a de ac'ucar, cuele<n>lo primiendo. Si estuuiere
+algunas horas en infusio<n>, sera mucho mejor.
+Danla quando se descubre el apostema an-
+tes que duerma. Preparan el eleboro desta
+manera: partenlo a lo largo en pecezuelas,
+ponenlo en vna manc'ana dulce embuelta en
+estopa ban~ada en agua rosada, y cuezenla en
+el rescaldo, assada esta, sacan el eleboro y pone<n>-lo}
+{CW. lo}
+[fol. 51v]
+{HD. Marsilio Ficino}
+{CB1.
+en otra manc'ana semejante, y assenla de la
+misma mane(n)[r]a, sacado de la manc'ana, guar-
+da<n> el eleboro, danlo a los muy robustos con
+su compan~a como esta dicho. A los otros da<n>
+de la segunda manc'ana. Preparan la escamo-
+nea coziendola en membrillo, o en pastel d<e>
+harina de cebada amassada con vino de me<m>-
+brillos, no condeno ni repruebo la regla des-
+tos, pero bueluo a la nuestra.
+{RUB. % Capitulo .xiiij. Regla para
+aplicar los castos.}
+{IN4.} DOnde no ay manera de sajar con
+ventosas y sangran co<n> sanguijue-
+las, y cauterizar con fuego la se-
+ca, conuiene: segun algunos, po-
+ner encima y de baxo de los causticos di-
+chos y de los que diere<n> en las composiciones,
+que se siguen. Pongan las tales cosas si pa-
+reciere tiempo, sangrado que huuieren, y re-
+posado vn poco el enfermo, o a lomenos da-
+da la purga y cumplida su euacuacion. Si el
+cirujano no estuuiere a la mano, den los pol-uos:}
+{CW. uos}
+[fol. 52r]
+{HD. Contra la peste}
+{CB1.
+si no los tienen den la purga, quando
+tampoco la tuuieren no curen de aguardar
+po<n>ga<n> luego los causticos sobre la seca y fuera
+della co<n> discrecio<n> como diximos. Digo mas,
+q<ue> quando entendiere<n> que el enfermo no da
+tiempo, auiendo de purgar y poner los caus-
+ticos, purguen y ponganlos juntamente: sin
+cessar jamas de aplicar remedios ni co<n>fiarse
+despues lo hare, tie<m>po abra. Guardense de po-
+ner sobre la seca, o landre cosas de tal mane-
+ra frias y estipticas, q<ue> repercutan y hagan
+boluer el veneno a dentro: pongan cosas de
+atraer y resolber q<ue> son calientes, pero si las
+han de continuar, te<m>plenlas algunas vezes
+con cosas frescas, porq<ue> no inflamen mas de
+lo q<ue> fuere necessario, pero no de manera q<ue>
+restrin~an: no hagan caso del dolor porq<ue> atra-
+ya el veneno a la apostema. No quiero tam-
+poco q<ue> sea excessiuo, porque malignaria el
+veneno y la fiebre, y fatigaria la naturaleza,
+no la cierren del todo antes que passen tres
+meses, y si se cierran buelbanla a abrir.
+Vno de nuestros notarios Florentin[o], es-
+tando ya tan curado de este mal, que lo tu-
+uo, quanto el mas sano, bolbiose la llaga}
+{CW. a en}
+[fol. 52v]
+{HD. Marsilio Ficino}
+{CB1.
+a enconar passados ya quare<n>ta dias y murio
+dentro de dos dias. Principalmente succe-
+dio esto, porque la cerro sin primero auerse
+purgado. Entiendan todos que quien des-
+pues del septimo dia muere, es mas por la cu-
+ra que no por la natura del tal mal. Sepan
+tambien despues de auer corrido el veneno
+a la apostema: quedan aliuiados los miem-
+bros principales. Sino atraxeren para afue-
+ra continuamente, retificaren y purgare<n> de<n>-
+tro que el veneno de la apostema cada dia se
+haze mas y mas maligno, y tras la mejora, re-
+traye los vapores a dentro y mata. Conuie-
+ne por esto fortificar continuamente el cora-
+c'on, apretando y cerrando los caminos que
+van a el, por de fuera y por dentro. Sa-
+quen muchas vezes euacuando el humor.
+Purgue<n> aliempie<n> y retifique<n> el veneno d<e> la lla-
+ga. No se fien vn solo punto de sus mejoras y
+alegrones, mayormente antes de ser passa-
+do el seteno dia.
+{RUB. % Cap<itulo> .xv. Causticos y ruto-
+rios y emplastos rezios.}}
+{CW. Los}
+[fol. 53r]
+{HD. Contra la peste}
+{CB1.
+{IN4.} LOs ruptorios, o causticos compues-
+tos son de muchas maneras, digo
+los rezios y que atraye<n> el veneno.
+Pondremos muchos, para que, ado<n>-
+de no se puede, o no conuiene poner el vno
+se ponga el otro. Tomen higos, barbas de la
+rayz del lirio y trigo yguales partes, majado
+todo apliquenlo: madura muy presto este
+y abre. Item pez con passas y miel. Item
+leuadura con azeyte y sal. Item palomina
+con vinagre. Item estiercol de gorriones
+con enxundia de puerco. Item vidrio moli-
+do, con trementina. Si fastidioso no fuesse
+el estiercol humano vale para abrir, ponien-
+do sobre la abertura vna migaja de pan ban~a-
+da en olio hiruiendo, Item azeyte bullido
+con ceniza. Item diez cantarides, de passas,
+vna onc'a de lebadura, onc'a y media, escabio-
+sa, biniebla, consuelda mayor, antifarmaco
+de cada qual vna onc'a, incorporenlo con a-
+zeyte de lirios. Si mas fuerte lo quisieren
+mezclen sal, palomina y ruda, de cada vno
+dos dragmas. Item mastuerc'o con olio y sal.
+Item orpimento y pimie<n>ta de cada vno dos
+dragmas, higos diez, hagan emplasto con}
+{CW. la}
+[fol. 53v]
+{HD. Marsilio Ficino}
+{CB1.
+la miel que bastare. Item baurac, salarmoma-
+co, scabiosa, antifarmaco, ajo y pimie<n>ta ygua-
+les partes, hagan emplasto con c'umo de esca-
+biosa. Item galbano, raizes de lirio blanco
+estiercol humano, consuelda mayor majada
+entre dos piedras. Item lebadura quatro on-
+c'as, mostaza, ruda, scabiosa, enxensos, sendos
+manojos, rayzes de ac'ucena la tercera parte
+vidriol dos dragmas, cantaridas diez, galba-
+no vna onc'a, tres nuezes rancias, olio de a-
+c'ucenas el que fuere menester, haga<n> emplas-
+to coziendo las yerbas y rayzes en el olio, y
+juntandolo las otras cosas segun arte. Item
+cantaridas con azeyte de xabon. Item ceni-
+za de robre, la que vsa<n> tintureros, quatro par-
+tes, cal biua seys partes, ponganlo sobre
+el emplasto dicho. Hagan empero este em-
+plasto con azeyte de oliuas negras, y es mas
+fuerte si el dicho azeyte hirbiere en la ceni-
+za. Item labadura, hortigas, lo grasso del toci-
+no, barbas de malbabisco, y malbas yguales
+partes. Noten, que cinco yeruas son las que
+conuienen en qualquiere emplasto en este
+caso, y aun para tomar por la boca, porque re-
+sisten dentro y fuera al veneno y son casi te<m>-pladas,}
+{CW. pladas}
+[fol. 54r]
+{HD. Contra la peste}
+{CB1.
+la consu[e]lda, scabiosa, agrimonia, beto-
+nica, y aristologia.
+{RUB. Capitulo .xvj. Emplastos tem-
+plados.}
+{IN3.} LOS emplastos y causticos dichos son
+muy rezios para abrir presto, y sacar
+fuera el veneno, mas no se deuen con-
+tinuar, que inflamarian demasiado, podrian-
+se bien vsar, donde no huuiesse color muy
+verde, muy bermejo, o negro: o corrosion de-
+masiada. Pondremos otros mas templados
+y mas al proposito: para donde se temiesse
+inflamacion. Tornen barbas de malbabisco
+dos onc'as, y vna cabec'a de ajos blancos, hari-
+na de lino onc'a y media, bulla todo co<n> agua
+comun, y majenlo con lebadura y enxundia
+vieja de puerco, y apliquenlo caliente. Iten
+menudillo dos pun~os y cueza con vinagre.
+Item palomina con vinagre y olio rosado.
+Item harina de ordio, con c'umo de betonica
+o de consuelda.}
+{CW. Item}
+[fol. 54v]
+{HD. Marsilio Ficino}
+{CB1.
+Ite<m> cebolla cozida con ma<n>teca y vn poco ac'a-
+fran. Item higos passados con lebadura y a-
+zeyte de camamilla. Si por gran dolor co[n]uie-
+ne templarlos, mezclen manc'anas cozidas,
+malbabisco, o maluas, y sus bauas, o mucila-
+gines. Si mas templado conuiniere, tomen
+cebolla assada, manc'anas assadas, con mante-
+ca, y azeyte de camamilla. Item maluas,
+barbas de malbabisco, escabiosa, cada sendos
+manojos, harina de feno greco que son alhol-
+bas, harina de cebada de cada qual vna on-
+c'a cuezan las yerbas en agua comun, majen-
+las despues, y con aquella agua deshaganlas
+harinas, y acomodenlo con vna onc'a de
+enxundia de gallina y otra de azeyte de ca<m>-
+mamilla, media dragma de ac'afran. Este em-
+plasto es delicadissimo. Item escabiosa, pie
+de paloma, chicoria, consuelda menor: tras es-
+te, conuiene aplicar emplasto de apio de be-
+tonica y harina de orobo que es yerbo, con
+c'umo de las sobredichas yerbas y atriaca se-
+gun algunos. Item el emplasto de popona-
+co mezclado con passas. Item assa, ruda y
+salmitre con miel. Algunas vezes aproue-
+cho vntar con atriaca, aplicando despues ce-bolla}
+{CW. bolla}
+[fol. 55r]
+{HD. Contra la peste}
+{CB1.
+cozida y malbas cozidas. Algunos po-
+nen flores de naranjo majadas con las hojas
+y con malbas. Quanto al aplicar atriaca,
+dize<n> algunos, que no se deue hazer, porque
+c[??]a el veneno para dentro.
+{RUB. % Cap<itulo> .xvij. Emplastos sua-
+uissimos.}
+{IN3.} QVANDO la vexiga es muy negra
+coziente en gran manera, encie<n>de,
+roe, y se estiende. De manera que las
+cosas que se han de aplicar, co<n>uiene que sea<n>
+en calor muy templadas y dessecatiuas con
+algo de frescura y resolucion co<n> calor mode-
+rado: verbi gracia tomen plantayna, galas
+cozidas con vinagre. Item lentejas con pa<n>
+y menudillo todo mezclado. Item grana-
+das agras y agradulces hechas quatro quar-
+tos, cozidas en vinagre hasta q<ue> se deshagan,
+majadas despues y aplicadas. Conuiene
+hazer esto dende el principio hasta la decli-
+nacion. El que se sigue conuiene aplicar-
+lo antes de la exulceracion que la vexiga,}
+{CW. o au}
+[fol. 55v]
+{HD. Marsilio Ficino}
+{CB1.
+o autraz causare. Tomen acacia dragante, o
+apio, cortezas de granadas, cada sendas drag-
+mas, verde arabue, velen~o blanco hagan em-
+plasto con vino, guardenlo para vsar: quan-
+do vieren hecha exulceracion, pongan este
+que desseca algo. Tomen esdra con vino y a-
+rrope de granadas y cosas semejantes. Ten-
+gan cuydado que las partes vezinas a la seca
+no se pudran, defienda<n> las co<n> el bolarmin, a-
+gua rosada, azeyte rosado, &c<etera>. Quando se
+va la inflamacion y queda la vlceracion, po<n>-
+gan emplasto de litarge, y cosas apropiadas
+a las llagas malignas, y corrosiuas, cosas que
+refresquen, dessequen y repercutan, que pu-
+simos algunas arriba. Empero appliquenlas
+con moderacion, y alimpiando dentro con
+euacuacion.
+{RUB. % Capitulo .xviij. Para mitigar
+el dolor junto a la apostema.}
+{IN2.} LO q<ue> trata el capitulo d<e> arriba, se ha de en-
+te<n>der en vexigas negras y corrosibas, pe-
+ro en las otras que son de tanta corrosio<n> y ar-dor}
+{CW. dor}
+[fol. 56r]
+{HD. Contra la peste}
+{CB1.
+procedan mas templadamente, en el re-
+percutir. Si quisieren mitigar el dolor y ar-
+dor, que procede parte del mal y parte de los
+causticos y cauterios, pongan enderredor de
+la seca vna meolla de pa<n> calie<n>te como sale d<e>l
+horno empapada en vino azedo, o c'umo de
+llanten, o plantayna. Item cueza<n> con la me-
+olla dicha, lentejas en vinagre, y ponganlo
+muchas vezes, refresca<n>dolo a menudo, y por-
+que no se enxugue, o seque, apliquen luego
+sobre el emplasto hojas de plantayna. Qua<n>-
+do quitan el emplasto lauen con vino aspero,
+o azedo. Pongan despues harina de ordio
+con miel. Entiendan siempre que no ha<n> de
+poner las tales cosas sobre la llaga, sino al re-
+dedor, dado que son cosas que repercutan
+mucho, segun Pedro Tosinyano, y otros doc-
+tores p(l)[r]aticos. Sino que quitan el calor y
+confortan la parte, y co<n> cierto calor templa-
+do resuelben la llaga que dexare, curenla co<n>
+las cosas que pertenescen a llagas corrosiuas
+y venenosas.
+{RUB. % Cap<itulo> .xix. Para hazer caer la
+carne podrida d<e> las apostemas.}}
+{CW. Quan}
+[fol. 56v]
+{HD. Marsilio Ficino}
+{CB1.
+{IN3.} QVANDO vieren mortificada lla-
+ga den luego orden como cayga la
+carne muerta, tomenla que llaman
+branca vrsina, que es elacanto, barbas de
+malbabisco, la vinca peruinca, hojas de mal-
+uas de cada qual vna onc'a, cuezan bien, ma-
+jenlas con enxundia de puerco sin sal y man-
+teca rancia, y dexenlas estar tres dias, cuele<n>-
+las y priman, y acompan~e a la coladura vn
+poco de cera y mastec, y guardenle para v-
+sar. Hecho que abra buena corteza la llaga,
+para quitarla bien, vsado que abran el dicho
+emplasto, vntaran con manteca y azeyte.
+No quiten la corteza por fuerc'a, que harian
+grandissimo dan~o, aguarden que naturaleza
+la eche, ayudandole con cosas dichas. Pe-
+ro en este entre tanto, porque el veneno ni
+roa, ni corra por las partes sanas, apliquen es-
+te socorro. Assienten vna ventosa muy
+grande que tome todas las partes sanas al re-
+dedor de la llaga, sin tocarla a ella: que de es-
+ta manera atraeran la sangre venenosa para
+fuera, que no se eche a dentro.}
+{CW. Cap<itulo>}
+[fol. 57r]
+{HD. Contra la peste}
+{CB1.
+{RUB. % Capitulo .xx. Para alimpiar
+la llaga.}
+{IN2.} ABierta el apostema y sacada la materia
+venenosa, pongan cosas que astergan y
+mu[n]difiquen. Tomen harina de ordio con
+miel y vn poco de sal y pongan encima ho-
+jas de coles. Item sarcacola poluorizada co<n>
+ygual cantidad de miel. Si mas rezio lo qui-
+sieren, cuezan primero la miel y despues e-
+chen la sarcacola. Que segun Gentil de Fu-
+llino y Tosinyana, es cosa muy solemne.
+Porque mundifica qualquiere herida sarno-
+sa. Encomiendo y encargo tambien el dia-
+quilon.
+{RUB. % Capitulo .xxi. Para hazer cre-
+cer la carne buena.}
+{IN3.} QVando tuuieren la llaga, mundifica-
+da, para que crezca y se enge<n>dre la car-
+ne nueua, pongan hojas de albahaca,
+majadas. Item tomen antos, centaura mayor
+pentafilon, consuelda mayor yguales partes,}
+{CW. desti}
+[fol. 57v]
+{HD. Marsilio Ficino}
+{CB1.
+destillen agua dellas en la primauera, o saque<n>
+dellas c'umo, y dexado reposar ajunten con
+lo claro la quinta parte de agua ardiente, y
+guardenle para vsar, porque es admirable.
+Para hazer que venga la carne, aprouecha
+tambien la barba del affodillo que es lapa co-
+zida con hiezes de vino. Item el emplas-
+to hecho de celiandre verde con miel y pas-
+sas.
+{RUB. % Cap<itulo> .xxij. Del abrir, sangrar,
+y cauterizar la seca.}
+{IN4.} TOda la cura dicha acerca de la seca,
+o landre que se haze con causticos,
+o ruptorios simples o compuestos
+como tenemos dichos se haria mu-
+cho mejor ((segun todos los medicos Italia-
+nos)) de la manera que agora dire: dexando
+aparte los causticos, y obrando desta mane-
+ra. Pongan lexos de la seca los causticos que
+ya estan dichos, pero juntamente apliquen
+sobre la seca, o landre vna ventosa grande,
+desapegada la ventosa, sajaran co<n> nauaja, o}
+{CW. la<n>}
+[fol. 58r]
+{HD. Contra la peste}
+{CB1.
+lanceta, en muchas partes de las q<ue> leuantare
+la ventosa: y bueluan a poner la ve<n>tosa, y sa-
+quen sangre con ella, qua<n>do vieren q<ue> ya no
+sacan, ni pueden: apliq<ue>n tres sanguijuelas bie<n>
+purgadas, qua<n>do las sanguijuelas estuuiere<n>
+bien atestadas de sangre, desapeguenlas, y
+pongan pollos, palominos, o palomas por los
+lomos, viuas y apliquen las calie<n>tes, vna em-
+pos de otra. Despues pongan, o vnten con a-
+triaca y dexenle reposar. Otros pelan la cola
+a vn gallo, y toman vna onc'a de xabon al-
+go negro, y q<ue> tire a verde: de apio medio es-
+crupulo, bien molido co<n> sal encorporado, po-
+nenlo como emplasto sobre el gallo, y todo
+junto lo assientan encima de la seca. Hecho
+esto y recreado el enfermo, cauterizanle bla<n>-
+damente, no con cera ni co<n> azeyte hiruie<n>do,
+porq<ue> opilan, sino con oro ardiendo o con pla-
+ta, o hierro. El instrumento tenga en la pu<n>ta
+vn llano redondo a manera de dinero gordi-
+llo, salgale de medio vna punta de diamante
+corta y no muy aguda: tras el cauterio vn-
+ten con manteca, y cubran con hojas de col,
+y dexenle reposar algun tanto.
+Esto sin comparacion es mas vtil, que no}
+{CW. hazer}
+[fol. 58v]
+{HD. Marsilio Ficino}
+{CB1.
+hazerlo con causticos, porque obra mas pres-
+to despide mejor el veneno, y dexa mejor (ca)
+calidad en el miembro. Vsen despues en la
+llaga y alrededor, lo que diximos arriba que
+se deuia vsar despues de los causticos y de la
+mesma manera. Algunos heridos de pesti-
+lencia no hazen otra muestra que hinchirse
+de manchas de sangre, por toda la persona
+como Rositas. Estas se quieren emboluer
+en pan~os de grana calientes, y guardarlos d<e>l
+frio. Ponerles dos grandes esponjas vna en
+los lomos a los rin~ones, y otra en el pecho,
+empap(o)[a]dos en el cozimiento calie<n>te de me-
+liloto, camamilla y lentejas bien premidas,
+refrescadas, o mudadas muchas vezes. En
+ayunas denle a beuer cozimiento de higos
+secos, lentejas, grana de tintureros, y ac'afra<n>.
+{RUB. Cap<itulo> .xxiij. De la manera que
+cura<n> Espan~oles, y Catalanes.}
+{IN2.} TRatado auemos de la cura conforme a
+los medicos Griegos, Latinos y Barba-ros}
+{CW. ros}
+[fol. 59r]
+{HD. Contra la peste}
+{CB1.
+principalmente lo que vsan en Italia.
+Agora trataremos segun el costumbre d<e> los
+medicos Espan~oles, y Catalanes algunas co-
+sas.
+Estos mandan luego echar vn cristel, y si ay
+abun[dan]cia de sangre, sangran, y si no ay tal abu<n>-
+dancia, purgan conforme al humor pecante.
+Ponen la epithima luego al principio y he-
+cha alguna euacuac[i]o<n>, a lo menos con cristel,
+acuden a la apostema. Segun estos no se de-
+ue poner sobre el apostema cosa que infla-
+me, o queme, porque causa espasmos, encie<n>-
+de la calentura, y haze el veneno mas ma-
+ligno, Maxime si la apostema esta en los e-
+muntorios. Tampoco segun ellos se deue<n>
+poner cosas que maduren y ablanden mu-
+cho, porque cuajan, opilan y pudren, hazen
+reherbir y caminar el veneno para dentro.
+Ni aplicar tampoco cosas frias, ni aplicar na-
+da con esponja, porque desseca, ni con pan~os
+porque cierran los vapores dentro, sino con
+lana limpia, o estopa, especialmente de can~a-
+mo, este cozimiento tienen muy comun en
+gente delicada, y en los emuntorios. Toman
+flor de camamilla, melliloto, capelbenedit,}
+{CW. bulla}
+[fol. 59v]
+{HD. Marsilio Ficino}
+{CB1.
+bulla, todo en agua, ban~an la lana, o estopa,
+primenla ponenla tibia, o vn poco caliente,
+mude<n>la de hora en hora, hasta que resuelba
+o abra: despues de abierta, del quinto adela<n>-
+te, vsa<n> cosas p<ar>a madurar, ali<m>piar, y regenerar.
+Sobre el antraz, o vexiga, pone<n> escabiosa ma-
+jada sola, o con enxundia de puerco salada y
+vieja. Si la vexiga, o carbunclo es negro, o
+verde y no estuuiere en loe emu<n>torios, abre<n>
+luego en muchas partes con nabaja, o lance-
+ta: porque el veneno salga presto. Lauanla
+muy amenudo co<n> agua salada: porque en ella
+no quede sangre repressada, o cuajada, y apli-
+can sanguijuelas. Abierta y desemponc'on~a-
+da, del quinto adelante ponen cosas para ma-
+durar, alimpiar y regenerar. Acostumbran ((si
+ya no fuere de tierna edad)) sin las cosas di-
+chas poner subito, luego al principio, no so-
+bre la seca sino debaxo ((sen~aladamente si es-
+ta en los emuntorios)) seys dedos vna muy
+grande ventosa, con que sacan dos, o tres, o
+onc'as de sa(u)[n]gre conforme a la necessidad y
+virtud con lanceta, o nauaja: guarden si so-
+bre los emuntorios estuuiere la seca, que no
+assienten ventosa, no la corten, ni fatiguen}
+{CW. espes}
+[fol. 60r]
+{HD. Contra la peste}
+{CB1.
+espessando ventosas. Porq<ue> el espasmo crece-
+ria, llamaria<n> muchos humores calie<n>tes, enco-
+narse ya mas el veneno, y muere<n> mucho des-
+to. Pero si la landre estuuiere tras la oreja, o
+en la garganta, assientanla detras en el pes-
+cuec'o no sobre el espondil, sino baxo del, o
+en las espaldas. Si estuuiere en los sobacos,
+assientanla en el lado hazia el lomo. Si en las
+ingles assienta<n>la en los muslos, o detras en
+las nalgas: en qualquiere destos casos hagan-
+lo assi: pongan seys dedos lexos de la seca
+((como dixi)) la ventosa, y escarifica<n>do saque<n>
+sangre, y vaya<n> poniendo a lo largo en quatro
+partes quatro ventosas, escarificando y saca<n>-
+do sangre con ventosas y sanguijuelas. Em-
+pero sobre la landre pongan el cozimiento
+de arriba, para mitigar templadamente, y de-
+solber. Si pudieren pongan con ella alguna
+piedra de las q<ue> atraen el veneno, poluoriza-
+da, o entera, que son esmeralda, jacinto topa-
+cion. Tambien segun la opinion de algu-
+nos dellos, se pueden poner alguna vegada
+sobre la seca sanguijuelas y ve<n>tosas, au<n>q<ue> estu-
+uiere en los emu<n>torios, no hazie<n>do mucha
+violencia, labando despues con agua salada.}
+{CW. Esto}
+[fol. 60v]
+{HD. Marsilio Ficino}
+{CB1.
+Esto hazen, quando la landre esta muy hin-
+chida y de mal color: quando esta abierta,
+madura del quinto adelante &c<etera>. Si el di-
+cho cozimiento no hiziere efecto, apliquen-
+lo en forma liquida, o como dizen gota.
+Quando el apostema haze grande hinchazo<n>
+fuera de lo acostumbrado, cortan algunos a
+lo largo del miembro, guardando venas y ar-
+terias. Si saliere mucha sangre, remedia<n>lo
+con estopa ban~ada en hyema de hueuo, azey-
+te rosado, no con clara de hueuo, porque es
+fria y viscosa. En aquel medio confortan
+el enfermo con cordiales dentro y fuera.
+Empero a los mas doctos no les paresce bie<n>
+esta manera de cortar, o abrir, juzgandola
+por de muy grande peligro, sen~aladamente
+en los emuntorios. Del quinto adelante ((si
+la calentura no es gra<n>de)) y la seca no es muy
+venenosa, negra, o verde, y si viene aboca, y
+el cuerpo esta bien euacuado y no antes, co-
+mienc'an con maduratiuos a madurar. Toma<n>
+barba de malbabisco, lirio, ala, cogombrillo
+amargo, y cebolla de cada qual media libra,
+higos secos, melosos veynte, simiente de al-
+holbas, y de lirio, de cada qual vna onc'a,}
+{CW. hojas}
+[fol. 61r]
+{HD. Contra la peste}
+{CB1.
+hojas de malua, y de maluauisco, blanca visi-
+na, hojas de las violetas boscanas, cada sen-
+dos manojos, cuezan muy bien en agua, y
+magenlo todo muy bien. Si para gente de-
+licada le quisieren mas suaue majadas las so-
+bredichas cosas, y premidas muy bien, mez-
+clen despues enxundia fresca de puerco de-
+retida y colaba, vna libra, o la que bastare.
+Algunos mezclan caracoles co<n> las caxcaras
+bien majados: esto es vtil donde el cuero es-
+ta muy denso como en las ingles, y tras las
+orejas. Otros mezclan lebadura de pa<n> gros-
+sero dos, o mas onc'as, para atraer y abrir: lo
+qual es mas acomodado para los antraces, o
+vexigas, que no para las secas de los emun-
+torios. Ay otros maduratiuos mas ligeros,
+como harina de trigo, azeyte y agua cozidos
+juntos hasta que se espesse. O meolla de
+pan de menudillo y higos secos melosos co-
+zidos juntamente y majado todo. Puede
+se an~ader azeyte comun, o de almendras dul-
+ces, o enxundia de puerco sin sal, porque si
+fuesse salada y vieja, entonces el emplasto
+seria bueno para abrir blandamente, el an-
+traz, o vexiga.}
+{CW. Ta<m>}
+[fol. 61v]
+{HD. Marsilio Ficino}
+{CB1.
+Tambien se le puede mezclar enxundia fres-
+ca de gallina. Si con tal enxundia de gallina
+y de puerco fresca, y manteca fresca y azey-
+te violado y barbas de lirio se haze emplasto
+es apazible maturatiuo para ge<n>te delicada.
+Estos maturatiuos ((como dixe)) aplican des-
+pues delas euacuaciones, afloxada la calen-
+tura, y quando la seca esta abierta y bien des-
+emponc'on~ada. Del quinto adela<n>te vsan des-
+pues, cosas para mundificar, y tras ellas de
+regenerar, y despues de consolidar. Si la ve-
+xiga fuere negra, o verde, y corrosiua y no
+estuuiere en los emuntorios, abrenla profu<n>-
+damente con nauaja, o lanceta: despues laua<n>
+con agua salada algo caliente, porque la san-
+gre no se cuaje, como dixe: aplican despues
+ve<n>tosas, sanguijuelas, o cola de gallo pelada.
+Algunos ponen caracoles viuos, otros ranas
+viuas: esto se haze cuando la seca no esta en
+los emuntorios. Puedense despues aplicar
+causticos faciles, quales arriba diximos.
+Vsan tambien esto: toman hyemas de hue-
+uos con vn poco de sal, no mas rezio, por no
+enconar la vexiga, mudanlo muy ame-
+nudo.}
+{CW. Si}
+[fol. 62r]
+{HD. Contra la peste}
+{CB1.
+Si con ello el antraz se exasperare y encona-
+re, vsan la escabiosa sola majada, y enxu<n>dia
+vieja, y salada de puerco, o ambas juntas.
+Ay algunos causticos fuertes, que no es bie<n>
+ponerlos sobre los emuntorios, ni quando la
+calentura es grande, solamente los ponen,
+donde los menos fuertes no aprouechan.
+Tomen higos verdes secos crudos, y lebadu-
+ra: si este no haze el efecto, aplican otro mas
+rezio con las condiciones dichas. Toman ca<n>-
+tarides molidos muy bien, y la tercera par-
+te de enxundia de puerco, ponenlo sobre la
+vexiga, o antraz maligno tres, o quatro ve-
+zes. Dizen los cirujanos ser este muy pro-
+bado: quando lo quieren hazer mas fuerte,
+mezclen la quarta parte de xabon de tabla,
+para antraz maligno en hombre que tiene
+el cuero duro: dizen ser admirable. Otro re-
+zio para el antraz: toman poluo de vidrio bie<n>
+poluorizado media onc'a, de trigo majado,
+o maxcado vna onc'a, dos yemas de hueuos,
+ac'afran vna dragma, trementina vna onc'a,
+mezclado muy bien aplicanlo con estopa
+limpia. Empero porq<ue> tales causticos, o ruto-
+rios q<ue> son ardientes y violentos, acrecie<n>ta<n> la}
+{CW. malicia}
+[fol. 62v]
+{HD. Marsilio Ficino}
+{CB1.
+malicia de la calentura y de la apostema, es
+camino mas seguro ante la exulceracion ate<n>-
+der que la materia no buelba adentro, ni sea<n>
+parte tampoco aquellas cosas agudas, para
+indignarla: especialme<n>te en complexiones,
+o muy debiles, o muy colericas. Por esto es
+muy bien poner sobre todo el miembro el
+emplasto de Galeno. Tomen plantayna, len-
+tejas, y pa<n> de menudillo yguales partes, cue-
+zan en agua hasta espessar ponganlo sobre la
+parte, y alrededor que tome buen pedac'o.
+Auicena mezcla las galas donde se descubre
+sangre mas delgada que gruessa. Item para
+esto es vtil el emplasto de granadas dulces,
+y agras cozidas en vinagre y agua. Sen~ala-
+damente, donde se descubre materia encen-
+dida. Despues remediado el ardor y encen-
+dimiento conuiene el emplasto de Auicena,
+de higos melosos, passas, nuezes, harina de ce-
+uada cozido junto para madurar y abrir. He-
+cha la abertura mundifican con c'umo de a-
+pio, de exenc'o de plantayna, manc'anas, ber-
+mejas, y harina cozido todo, y vn poco de
+trementina lauada: despues cierran confor-
+me al orde<n> d<e> las otras llagas, pone<n> alrededor}
+{CW. el vn}
+[fol. 63r]
+{HD. Contra la peste}
+{CB1.
+el vnguento de boloarmeno y azeyte rosa-
+do.
+Algunos luego al pri<n>cipio ((por atraher mas))
+ponen en medio del muslo de la pierna, o d<e>l
+brac'o, o en las espaldas la yerua flamula ma-
+jada, la qual haziendo escara, quemando y e-
+xulcerando, tira para si los humores de los e-
+muntorios, y de los miembros principales.
+Este remedio para robustos y donde calentu-
+ra no ay es bueno, y no de otra manera.
+Algunos dan cauterio actual con hierro ar-
+diendo sobre la seca: esto conuiene mas a los
+robustos y do no ay fiebre grande. Ramon
+dize, que la atriaca y boloarmeno que lanc'a
+el veneno de si, pero que no lo atraen para si.
+Y dize que del segundo, o tercero dia adelan-
+te no se de por la boca, quando la materia es-
+ta ya venenosa y vezina al corac'on, si prime-
+ro no estuuiere bien purgada, o corregida.
+Tampoco quiere que se pongan sobre la se-
+ca jamas: Pero si fuera de los emuntorios es-
+tuuiere, dize que se pongan y antes del ter-
+cero dia, pero no encima sino en derredor,
+bien que pueden vsar el boloarmeno del
+septimo adelante, quando estuuiere la llaga}
+{CW. desem}
+[fol. 63v]
+{HD. Marsilio Ficino}
+{CB1.
+desemponc'on~ada, y entonces vntando en
+derredor. Conuiene hazerlo antes del terce-
+ro, y antes de estar envenenada la llaga, des-
+pues del seteno quando estuuiere ya desen-
+uenenada, mas sea enderredor con olio rosa-
+do, vinagre rosado y agua rosada para defen-
+der el miembro.
+Contado hemos, las opiniones de los medi-
+cos Espan~oles y Catalanes, co<n> las correccio-
+nes, de Arnaldo y Raymundo, medicos sin-
+gularissimos. Verdad sea, que Raymundo es
+de opinion, que no se deue hazer euacuacio<n>
+con sangria ni con purga ni vomito, quando
+el apostema esta muy hinchada y emponc'o-
+n~ada, que es del segundo adelante, porque el
+veneno no buelua parea adentro. Esta opinio<n>
+se puede moderar, o emendar, conforme a los
+que tiene<n> los otros, que se euacue del segu<n>-
+do adelante: tambien, si tal necessidad huuie-
+re, de la manera que esta dicho, pero co<n> esto
+q<ue> qua<n>do euacuaren asienten ventosas y san-
+guijuelas sobre la seca y debaxo, y defienda<n>
+el corac'on con cordiales frescos por de fuera
+y assi mismo por dentro.
+Tampoco esto va lexos de intencion del}
+{CW. dicho}
+[fol. 64r]
+{HD. Contra la peste}
+{CB1.
+dicho Raymundo.
+{RUB. % Capitulo .xxiiij. Como se de-
+uen preseruar, los que curare<n>
+enfermos de peste.}
+{IN3.} QValquiere que siruiere tales enfermos
+vltra lo dicho arriba ((para conseruar)) d<e>
+la atriaca pildoras y cosas semejantes,
+si no fuere muy pobre de sangre saquese vna
+poca de la vena comun, euacuase con vna
+dragma, o a lo menos media de las dichas pil-
+doras. Es muy vtil tomar muchas vezes los
+poluos y medicinas co<n>tra peste arriba pues-
+tos. Esten quan lexos pudiere<n> del enfermo,
+sen~aladamente en ayunas. Abran muchas
+vezes el aposento, que passe el ayre: hagan
+perfumes y sahumerios de la cosas dichas,
+acordandose siempre de la trementina: lleue<n>
+delante fuego ardiendo, o mucha brasa con
+humo de buen olor, labense a la man~ana y a
+la tarde co<n> vinagre tibio, muden los vestidos
+y sah[u]me<n>los a menundo con incie<n>so, treme<n>tina
+enebro, murta, sa<n>dalos rosas, ca<n>fora, romero,}
+{CW. laurel}
+[fol. 64v]
+{HD. Marsilio Ficino}
+{CB1.
+laurel, y semejantes: tengan en la mano vn
+manojo de ruda, o cidra, naranjas, la came-
+dris, yerua buena, torongil co<n> murta y flores
+olorosas rezie<n>tes, este<n> bie<n> limpios de qual-
+quiere humor s(a)[u]perfluo y vianda. Quie-
+ro replicar aq<ue>l saludable olor d<e> agua rosada,
+vinagre rosado co<n> maluasia, zedoaria, o cor-
+tezas de ponzil. Sobre todo se laue co<n> esto
+muy amenudo las manos, la cara y beua al-
+gunos traguillos. Tengan ban~ada en ello
+vna esponja puesta en madera de frexno pa-
+ra oler: porque el frexno tiene tanta fuerc'a
+contra el veneno que ningun animal ponc'o-
+n~oso osa llegar a su sombra y olor, que prime-
+ro se lanc'aria en el fuego que llegasse a ella.
+Hagan grandes fuegos por toda la casa, sen~a-
+ladamente de cosas olorosas, nadie librado
+vn(o)[a] vez de la peste diga seguro estoy. Que
+vn n<uest>ro Flore<n>tino .3. vezes se hirio, las dos se
+libro, y la tercera lo lleuo. En este mismo a-
+n~o en el mes de Setiembre, cure yo vna mu-
+ger de peste, curo y quedo sana como el mas
+sano, conuerso con heridos, y dende a diez y
+ocho dias se voluio a herir y murio, porque
+tardo de remediarse. Nadie se fie en su}
+{CW. com}
+[fol. 65r]
+{HD. Contra la peste}
+{CB1.
+complexion buena, ni mucha salud, que el
+veneno assi mata al valiente como al flaco.
+Este mal y veneno mas offende a los q<ue> son san-
+guinos y robustos, porque tiene<n> las vias del
+pecho abiertas, el corac'on demasiado calien-
+te, muchan sangre caliente y humida. El ca-
+lor del corac'on atrahe mucho ayre malo por
+las vias abiertas y con tanta velocidad, que
+no da lugar de poderlo templar, la calor de la
+sangre c'ebase presto, y se inflama, y la humi-
+dad se corrompe subito, y conuiertese en el
+dicho veneno. Quanto mas vino ay en el
+vaso y mas rezio es, tanto mas rezio y fuerte
+haze el vinagre. Assi quanta mas sangre y
+mas poderosa esta en el pecho, tanto mas bra-
+uo y poderoso veneno se haze, quando en ve-
+neno se conuierte: que lo haze facilmente,
+de manera que por muy poco veneno q<ue> reco-
+ja, basta para conuertirla toda. Porque se ha-
+ze de parte en parte, y despues la vna parte
+lo comunica a la otra. Que tambien vn po-
+quito vinagre, y hiel mudan de sabor mucha
+materia. Entiendan los que enfermos cu-
+raren, que quanta mas semejanc'a con ellos
+tuuieren en sangre, o en complexion y cons-tellacion}
+{CW. tellacion}
+[fol. 65v]
+{HD. Marsilio Ficino}
+{CB1.
+a mayor peligro estan de herirse.
+Porque de vn subjeto semejante a otro su se-
+mejante facilmente se comunica y tiende la
+calidad, como de fuego en ayre y de ayre en
+agua, o de agua en tierra. Quando dos cuer-
+das de dos vihuelas estan en vn mismo pun-
+to templadas, al mouimiento, y son de la vna
+responde la otra: quien me preguntare, por
+que via, o camino entra este veneno, respo<n>-
+do que por todos los poros del cuerpo, y mu-
+cho mas por los mas abiertos. Quando en-
+tra por la boca y nariz, y pulsos ofende muy
+presto, mayormente hallando dentro abier-
+tas las vias, los humores calie<n>tes, humidos
+y delgados, y quando viniere de semejantes
+humores y de la influencia de Marte. Pe-
+ro quando viene por contrario modo y con
+influencia de Saturno es mas perezoso a des-
+cubrirse. Acostumbra muchas vezes de te-
+nerse mucho tiempo en las ropas, en el cue-
+ro de la persona, en las vias comunes y venas
+lexos del corac'on: y al parescer no muestra
+dan~ar por ser poquito el vapor y ligero, ni
+ser ta<n> co<n>trario a las otras partes de do<n>de se
+detiene como al corac'on, pero en toca<n>do vn}
+{CW. tan}
+[fol. 66r]
+{HD. Contra la peste}
+{CB1.
+tantito offende manifiestamente. Assi como
+vemos que el veneno del perro rabioso y los
+otros venenos, despues de largo tiempo des-
+cubren su dan~o. En conclusion digo, q<ue> se acu-
+erde<n> q<ue> la persona detiene el veneno dos me-
+ses, y las paredes, el hierro y madera ((sino se
+purifican laba<n>do, o sahumando y encendie<n>-
+do fuegos por toda la casa)) vn an~o, sen~alada-
+mente los pan~os de lana, q<ue> sino se xorean al
+ayre, o se sahuman amenudo, laban, o se pone<n>
+al fuego, o al viento, tienen el veneno y pes-
+te tres an~os. Prouado esta q<ue> vna arca tiene
+el olor de vna naranja enmohecida muchos
+an~os, lo mismo en el algodo<n> del almizque.
+Entiendan y sepan q<ue> la lana es el ma<n>tenimi-
+ento deste veneno, como el azeyte del fue-
+go, de tal manera, q<ue> no solame<n>te lo co<n>serua,
+pero lo crece y fortifica. No se deue comer
+ni beuer en vaso de herido, ni tocar cosa q<ue>
+ellos toquen: hase de viuir con regozijo y a-
+legria, porque el alegria fortifica el espiritu
+vital. Biuir templadamente en el comer y
+beuer: porque la continencia y templanc'a en
+el biuir es de tanto valor y de tanta impor-
+tancia, que aquel Philosopho tan nombrado}
+{CW. Socra}
+[fol. 66v]
+{HD. Marsilio Ficino}
+{CB1.
+Socrates, con sola esta se libro en muchas y
+muy grandes pestile<n>cias, huuo en la ciudad
+de Athenas. Y por esto dizen Aristoteles y
+Galeno, que los cuerpos puros, o limpios son
+de tal calidad, que casi es impossible que sie<n>-
+tan peste, y en caso que la sientan no muere<n>
+della. Dos singularisimas cosas doy para co<n>-
+seruar y preseruar a los ricos la esmeralda
+para tomar, para tocar y para tener en la bo-
+ca, y en el pescuec'o. Cuya virtud contra ve-
+neno es tal, que Abenzoar, Rasis y Serapion
+dizen, que si la serpiente tiro, o el sapo la ve
+en les saltan los oj(e)[o]s. Doy a los pobres el
+Rauano saluaje, o montesino, cada vegada
+vn poco, porque no inflame la sangre.
+Tiene tanta virtud co<n>tra el veneno que Ra-
+fis dize, que el c'umo haze rebentar los escor-
+piones. Di(a)[o]scorides dize: que quie<n> las ma-
+nos se lauare con su simiente majada con vi-
+nagre, tocara las serpientes sin recebir dan~o.
+Quien hallasse, o tuuiesse la piedra bezahar,
+tendria el remedio mas principal y sobre to-
+dos los remedios. Aunque los medicos an-
+tiguos en lengua de Persia, llaman Baza-
+ar a toda cosa que por su propiedad se co<n>-trapone}
+{CW. tra}
+[fol. 67r]
+{HD. Contra la peste}
+{CB1.
+y libra de todo veneno, todavia se-
+gun Serapino y Rafis se llama principalme<n>-
+te bezaar, vna piedra que resiste a todo ve-
+neno, caliente y frio, mordeduras y picadu-
+ras venenosas, aprouecha tomandola, o be-
+uiendola, y de fuera trayendola al cuello y
+en la boca. Su minera esta en Syria, en la In-
+dia, y por to(l)[d]o el oriente. Es de tres colo-
+res, vnas ay amarillitas, y (e)[o]scuras: otras co<n>
+esto tienen algo verde. Otras blancas ceni-
+zosas, o amarillas de color de vino blanco
+muy claro. Esta tal es la muy escogida, pe-
+sa poco, es delicada y muelle, sin sabor, o des-
+sabrida, resplandeciente como lumbre: la ca<n>-
+tidad que se a de tomar son hasta doze gra-
+nos. Serapion y Rasis conciertan que por
+experiencia se entiende, que sobrepuja y ex-
+cede a toda medicina simple, y aun a la atria-
+ca compuesta. Hamed dize, que se ponga
+en sortija y esculpan en ella la ymagen del
+escorpion, quando la luna esta en Escorpio<n>,
+y mira el ascendente, sellen despues quando
+ella estuuiere en escorpion, el incienso co<n> la
+dicha piedra porq<ue> dandolo a beuer aproue-
+cha ta<n>to co<n>tra veneno como la misma piedra}
+{CW. Abdalla}
+[fol. 67v]
+{CB1.
+Abdalla Hanarac dize que vido esta piedra
+bezahar, y q<ue> vn hijo del Miramamolin presi-
+dente de la ley, dio por ella en el principio d<e>
+la guerra, el palacio de Cordoua. Dize Sera-
+pion que se prueua esta piedra de dos mane-
+ras, en los animales ((sin lo que haze en los
+hombre)) que tocando con ella la cola de el
+escorpio<n>, le quita la fuerc'a del picar. La otra
+que molida y puesta en la boca con agua, a
+serpientes venenosas subito las mata.
+{RUB. Capitulo .xxv. Que huiga<n> pres-
+to y lexos, vueluan tarde.}
+{IN3.} HE reseruado para la fin del libro, la de-
+claracion de las reglas principales en
+esta materia. Lo primero sea, apartarse
+de conuersaciones, mayormente en ayunas.
+Quando trataren, o conuersaren con alguno
+esten apartados, alo[ ]menos dos varas y en lu-
+gar descubierto. Quando ay sospecha, sean
+mas de seys las varas, y en descubierto, y a
+viento contrario. Entre los dos aya sol, fue-
+go, olor, o vie<n>to que vaya para el. La mes[ma]
+cama, lugar estrecho, y muchos fuegos jun-tos}
+{CW. tos}
+[fol. 68r]
+{HD. Contra la peste}
+{CB1.
+son de gra<n>dissimo peligro. Ta<m>bien la ve-
+zindad de casas y paredes apegadas multi-
+plica<n> la co<n>tagio<n>, sobre todo huygan de luga-
+res de pestile<n>cia presto y lexos, y buelua<n> tar-
+de, digo presto, en aparesciendo, o descubrie<n>-
+dose sen~ales de pestilencia, que son qua<n>do el
+ayre del tal lugar sale de su natural declina<n>-
+do a caliente y humido, quando ay muchas
+nieblas espessas, poluaredas, vie<n>tos gruessos
+y calientes como en estos tiempos passados,
+tambien en quando los campos y las aguas va-
+porean y echa<n> de si mal olor, los pescados, ni
+tienen buen sabor, ni buen olor, ay abunda<n>-
+cia de animales que se eng(r)endran de putre-
+facion, hongazos y yerbazas hediondas, los
+fructos de la tierra, y animales desabridos, y
+guardanse muy poco, los vinos se enturbia<n>,
+huye<n> los animales y las aues de la tal tierra,
+nascen enfermedades de calentura inuisita-
+das, continuas, escondidas, [??]osas , en-
+gan~osas, con angustia de pechos prosta-
+cion de pulso, frenesia, orina turbia, desso-
+lladuras de paladar y de intestinos, ardor
+de ojos, lombrizes, viruelas y sarampion,
+mal parir, o abortarse muchas mugeres, iras,
+risas rabiosas, guerras crueles y milagros, de,}
+[fol. 68v]
+{HD. Marsilio Ficino}
+{CB1.
+naturaleza, o de Dios muy nueuos. en el an~o
+d<e> mil y quatrocie<n>tos setenta y siete que fue
+dos antes deste, en las fiestas de Nauidad, las
+reliquias que se hallaron de San Pedro Apos-
+tol en volterra, demostraron en vn mes, diez
+espa<n>tosos milagros manifiestos a todo el pue-
+blo. Ansi dixe yo a muchos Florentin(e)[o]s, cre-
+ed a Marsilio ficino, que se aparejan grandes
+tribulaciones de guerras y pestilencia. Lue-
+go adelante a los .xxvj. de abril sobreuino la
+mas feroz guerra que nunca vuo, y en el A-
+gosto siguiente la pestilencia tal que de cien
+an~os a esta parte nunca tan aspera la vuo. Es-
+tas y semejantes son las sen~ales que amena-
+zan pestilencia. Entonces huigan antes de
+ser lo[s] primeros de los doze mil sen~alados, por
+que si aguarda<n> hasta ver muchos sen~alados,
+podra ser que aunque no sean de los sen~ala-
+dos de aquel lugar, quando se partieren, o po-
+co despues, les llegara la sen~al de dos mane-
+ras. O porque auran recebido la contagio<n>
+de algun herido, o la calidad de aquel ayre ta<m>-
+poco apoco, que les sera ya familiar y casi na-
+tural, demanera q<ue> ni naturaleza se alterara,
+ni mouera contra el, ni el co<n>tra ella: pero ye<n>-do}
+{CW. do a}
+[fol. 69r]
+{HD. Contra la peste}
+{CB1.
+a nueuo ayre huyendo, quando comenc'a-
+re el ayre nueuo, perderse a el amistad del o-
+tro, leuantarse a contra naturaleza, y ella con-
+tra el ayre, de do nascera el mal y la enfer-
+medad. Digo tambien que huyan lexos, en-
+tendiendo, a lugar que ni persona ni cosa al-
+guna del lugar enfermo de pestile<n>cia alla va-
+ya, y si es possible do<n>de ni se oyga ni se sien-
+ta ruydo ni nueua alguna de lugar dan~ado, y
+haya en medio altos montes, que detengan
+el vapor, que ni llegue, ni por viento que de
+alla venga ni el ayre se pueda te<n>der y lleuar-
+les el veneno. Consideren de no escoger lu-
+gar donde se reco(g)[j]an, que sea semejante al q<ue>
+tiene la pestilencia, en el calor, frialdad, seq<ue>-
+dad y humidad, niebras, lluuias y vie<n>tos. Po<n>-
+ganse en parte, que quando corren vientos
+calientes y humidos, no vengan a herir alli
+de lugares dan~ados de peste, ni que las nie-
+blas de tal lugar lleguen alla donde estuuie-
+ren, ni vengan las lluuias. Sepan que el asce<n>-
+dente de vna ciudad o tierra dan~ada, muchas
+vezes tiende la peste en todos los lugares
+sujetos al mismo, y que tienen confor-
+midad con el dicho ascendente. Digo lo}
+{CW. ter}
+[fol. 69v]
+{HD. Marsilio Ficino}
+{CB1.
+tercero, que bueluan tarde, porque con poca
+inficion que quede, basta a herir subito a los
+que han estado algun tiempo apartados. De
+manera que quien despues de hauer huydo
+visita a menudo los lugares dan~ados, incurre
+en mayor peligro, que no el que con buen or-
+den y cuydado estuuo quedo. Porque natu-
+raleza, sufre mal el nueuo y subito accide<n>te,
+allende que la mala calidad tarda mucho tie<m>-
+po, y se detiene ((como diximos arriua)) en
+las paredes, en la madera, en la ropa &c<etera>. Qua<n>-
+to a la calidad del ayre, basta<n> tres meses, que
+es vna quarta del espacio del an~o. De manera
+que qualquiere parte donde aya auido pesti-
+lencia y ayre enfermo, se tiene por limpio y
+lo queda, dentro de tres meses: pues se re(ca)-
+caten mucho de tocar las otras cosas que de-
+tiene<n> mas tiempo el veneno, q<ue> no haze el ay-
+re. De la manera que sustentan y detienen
+mas el calor las paredes del horno, que no la
+len~a. Vsando las purificaciones dichas, que-
+da purificada la persona en .xiij. dias: el apo-
+sento, y madera en .xxi. la ropa. en .xxviij.
+En este tiempo tenga y lleue consigo vasos
+separados para beuer y comer, y ropa de la}
+{CW. cama}
+[fol. 70r]
+{HD. Contra la peste}
+{CB1.
+cama alo menos sauanas. Y si no pudiere la-
+uelas muy bien y p(re)[er]fumelas. La caualga-
+dura, el dinero, todo animal y alhaja puede
+guardar y detener, y lleuar el veneno, sino
+van muy sobre auiso. Que lo demas a nues-
+tro sen~or Dios, que es la verdadera
+y segura salud se ha de remitir,
+al qual se deue gloria y ala-
+banc'a. Amen.
+{ILL.}}

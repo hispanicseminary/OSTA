@@ -1,0 +1,3575 @@
+{RMK: HSMS-0180.}
+{RMK: Pedro de Torres.}
+{RMK: [LEB] Libro que trata de la enfermedad de las bubas.}
+{RMK: Madrid | Luis Sánchez | 1600.}
+{RMK: Madrid | Biblioteca Nacional de España | R/3612.}
+{RMK: Andrea María Bau.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0180-0001: Libro que trata de la enfermedad de las bubas.} {RUB. LIBRO QVE TRATA
+DE LA ENFERMEDAD
+DE LAS BVBAS.}
+COMPVESTO POR EL DOCTOR
+Pedro de Torres Medico, y Cirujano de la Magestad de
+la Emperatriz nuestra Sen~ora, natural de Daroca
+en el Reyno de Aragon.
+DIRIGIDO A DON IVAN DE BORIA
+Conde de Mayalde, y de Ficallo, del Consejo de Estado del
+Rey nuestro sen~or, y Mayordomo mayor de la
+Emperatriz nuestra sen~ora.
+{=MIN. {LAT. MERVISSE SATIS}}
+Con Priuilegios de Castilla, y Aragon.
+En Madrid, Por Luis Sanchez. An~o .1600.}
+[fol. 1v]
+{CB1.
+{=MIN. {LAT. [*Ex Bibl[??] D Ferdin Josephi
+a Velasco In Aula Criminali
+Sup. Castellae Senatus. Fiscalis]}}}
+[fol. 2r]
+{CB1.
+{RUB. TASSA}
+{IN2.} Yo Christoual Nun~ez de Leon, escriuano de camara de su Ma-
+gestad, y vno de los que residen en su Consejo, doy fee, que a-
+uiendose visto por los sen~ores del vn libro intitulado, dela enferme-
+dad de las bubas, co<m>puesto por el Doctor Pedro de Torres Medico, y
+Cirujano dela Magestad de la sen~ora Emperatriz, tassaron cada plie-
+go de diez y siete que tiene el dicho libro, a cinco blancas, co<n> que
+antes y primero que se venda el dicho libro, se ponga al principio
+de cada vno dellos esta fee de tassa y para que dello conste, de man-
+damiento de los dichos sen~ores del Co<n>sejo de su Magestad, y de
+pedimiento de la parte del dicho Doctor Pedro de Torres, di esta
+fee, en la villa de Madrid, a siete dias del mes de Marc'o, del an~o de
+mil y seyscientos.
+Christoual Nun~ez de Leon.
+{RUB. APROBACION.}
+{IN2.} Digo yo el Doctor Francisco Gonc'alez de Sepulueda, Medico del Rey nue-
+stro Sen~or, de la Santa y general Inquisicion, que por V<uestra> Alteza se me
+mando viesse este libro que compuso el Doctor Pedro de Torres Medico, y Ci-
+rujano de la Magestad de la Emperatriz, intitulado, De la origen, causas,
+y sen~ales y cura del mal de bubas, el qual es bien trabajado, y de mucha
+y buena dotrina y pratica y esperiencias, y muy vtil, y se le deue mandar dar
+licencia para imprimirle fecho en Madrid a .12. de Diziembre de .1600.
+Doct<or> Francisco Gonc'alez
+de Sepulueda.
+{RUB. ERRATAS.}
+.46. .13. llamos. llamamos.
+.80. .5. sangrado. sangrando.
+.4. purgado: purgando.
+.71. .4. cera. sera.
+.100. vlt. y al. y el.
+.103. .16. aya. ayas.
+Iuan Vazquez del Marmol.}
+{CW. EL}
+[fol. 2v]
+{CB1.
+{RUB. Suma del priuilegio de Castilla.}
+{IN3.} El Doctor Pedro de Torres Medico, y Ciru-
+jano de la Magestad de la Emperatriz, tiene
+priuilegio del Rey nuestro sen~or por diez a-
+n~os, para que el, o quien su poder ouiere, y no otra
+persona alguna, pueda imprimir y vender este li-
+bro, que trata de la enfermedad de las bubas, du-
+rante el dicho tiempo, so las penas en el priuilegio
+contenidas, su fecha en diez y siete dias del mes de
+Enero del an~o de mil y seyscientos, firmado del
+Rey nuestro sen~or, y refrendado de don Luis de
+Salazar, despachado en el oficio de Christoual Nu-
+n~ez de Leon.
+{RUB. Priuilegio de Aragon.}
+{IN4.} Nos Don Felipe por la gracia de Dios, rey de Castilla, de
+Aragon &c<etera>. Por quanto por parte de vos el Doctor Pedro
+de Torres, natural de la ciudad de Daroca en el nuestro
+Reyno de Arago<n>, Medico y Cirujano de la Serenissima Em-
+peratriz nuestra muy cara, y muy amada abuela, nos ha sido hecha re-
+lacion, que con mucho estudio y trabajo vuestro aueis compuesto vn li-
+bro que trata de la enfermedad de las bubas, suplicando nos fuessemos
+seruido mandaros dar licencia de poderlo imprimir por algun tiempo
+en los nuestros Reynos de la Corona de Aragon, con las prohibiciones
+acostumbradas. E nos auiendo primero mandado ver y reconocer el di-
+cho libro por personas doctas y peritas, y auido buena aprobacion del,
+lo auemos tenido por bien en la manera infrascrita. Por ende con te-nor}
+{CW. nor}
+[fol. 3r]
+{CB1.
+de las presentes de nuestra cierta sciencia, y Real autoridad deli-
+beradamente, y consulta, damos licencia, permisso, y facultad a vos el di-
+cho Doctor Pedro de Torres, para que por tiempo de diez an~os, del dia
+de la data de las presentes en adelante contaderos, podais imprimir
+siempre que quisieredes el dicho libro, en qualquier de los dichos nue-
+stros Reynos de la Corona de Aragon, sin incurrir por ello en pena algu-
+na. Prohibiendo y vedando a todos los impressores, y a otras qualesquier
+personas que no lo hagan, ni puedan hazer por si, ni por otros, so pena
+de mil florines de oro de Aragon de sus bienes irremissiblemente cada
+vez exigideros, y a nuestros Reales cofres aplicaderos, y de otras a nue-
+stro arbitrio reseruadas, y de perder los moldes y demas aparejos de la
+impression, y los libros que se huuieren impresso sin vuestra orden y vo-
+lu<n>tad. Y ma<n>damos a los ilustres n<ues>t<r>os lugartenientes, y Capitanes Gene-
+rales Rege<n>tes la Cancelleria Regente el officio, y por[ ]tant[a]s vezes de nue-
+stro general Gouernador, y a otros qualesquier oficiales, y ministros
+nuestros mayores y menores en qualquier de los dichos Reynos y Sen~o-
+rios de la Corona de Aragon constituydos y constituyderos, que la pre-
+sente nuestra licencia, facultad, y merced, y todo lo en ella contenido,
+os guarden, cumplan, y efectuen, guardar, cumplir y efectuar hagan in-
+uiolablemente iuxta su serie y tenor, y contra ella no hagan ni vengan,
+ni permitan ser hecho ni contrauenido en manera alguna, si de mas de
+nuestra ira, e indignacion, en las penas arriba dichas dessean no incu-
+rrir. Queremos empero so las mismas penas, que despues de impresso el
+susodicho libro, no se pueda vender por persona alguna sin que primero
+se trayga al nuestro S. S. R. Consejo de Aragon, para que se comprueue
+con el dicho original que presentastes, que esta rubricado y firmado en
+la fin del de mano de Agustin Villanueua nuestro Secretario infrascri-
+to, y se os de licencia de poderlo vender. En testimonio de lo qual man-
+damos despachar las presentes, con nuestro sello Real comun en el dor-
+so selladas. Dada en la nuestra villa de Madrid a nueue dias del mes de
+Enero an~o del Nacimiento de nuestro Sen~or Iesu Christo, mil y quinien-
+tos y nouenta y nueue.
+YO EL REY
+{LAT. V. Couarruuias Vic. V. Comes Thesaurarius. V. Baptista R. V. Guardio-
+la R. V. Clauero R. V. Don Petrus Sans R. V. Franqueza Conseruator
+Generalis.} Tomo la razon el Conseruador general Franquesa.}
+[fol. 3v]
+{CB1.
+{RUB. LINAN DE RIAZA SE-
+cretario del Marques de Camarassa,
+y de las guardas Espan~olas de a pie
+y de a cauallo de su Magestad,
+Al Doctor Torres.}
+{IN2.} AVtor de la salud a Dios llamamos,
+Y el se llama Verdad, vida, y camino,
+De la patria inmortal a que aspiramos,
+Vino la enfermedad, la muerte vino,
+Por la culpa ((que culpa a muerte inclina,
+Por justa pena, y por fatal castigo))
+Y el Altissimo, al fin, la Medicina,
+Conseruacion, y escudo de lo humano,
+Crio con ciencia celestial, diuina.
+Alta defensa, modo soberano,
+contra los detrimentos heredados,
+Por el costoso excesso del manc'ano.
+Doctor en quien los Arabes passados,
+Y los presentes Esculapios nuestros,
+Estan ((sino embidiosos)) admirados.
+Saquen salud de los escritos vuestros
+Los graues professores desta ciencia,
+Si en reparar la vida no estan diestros.}
+{CW. Que}
+[fol. 4r]
+{CB1.
+Que el Teorico estudio, y la esperiencia
+En vuestra verde edad maduro fruto
+Prometen al que os diere su aduertencia.
+A la muerte por vos niegue el tributo
+La enfermedad, si bien se la pagaua
+Por clausula y rigor de su estatuto.
+Pues quando vniuersal sen~oreaua
+La que escriuis, a todo el vniuerso,
+En saludables torres quedo esclaua.
+El prouecho comun del dan~o aduerso,
+Oy triunfa inmortal, oy preualece,
+Conforme en vos su parecer diuerso.
+Daroca, cuyo antiguo honor parece
+Por tus hijos mas claro que el de Atenas:
+Pues a Delfos assombra y escurece.
+De tus ancianos muros las almenas,
+Laureles en guirnaldas retorzidos
+Cin~an de oluido y de ruina agenas.
+Y Ciloca a los fondos escondidos
+De Neptuno palacios con veneras,
+Y colunas de nacar sostenidos,
+Lleue con prestas aguas mensageras
+De tu nombre el blason que excede y sobra,
+Al que le dan prouincias estrangeras.
+Celebre ((aunque cruel)) la facil obra
+De tus manos felices liberales,}
+{CW. Por}
+[fol. 4v]
+{CB1.
+Por quien la Chirurgia fama cobra.
+Gorgias, Sostrato, a tu destreza yguales,
+Christobolo, Themisso, Chiro, Apolo,
+Te honren con insignias inmortales,
+Y tu tio por raro, excelso y solo,
+El Licenciado Assensio, que diuino
+Por pulpito merece vn Mauseolo.
+Coze tambien contigo del destino
+Insigne, de su patria, y de su inge(u)[n]io,
+Pues a la cumbre que veniste vino.
+Que ya publican del que otro Iansenio
+Ha de mostrarse, y que podra del Tajo
+Ocupar el lugar que ocupo Eugenio.
+Perdona que con modo humilde y bajo
+Canto de tus grandezas breue suma,
+Con que tu Elogio, y mi discurso atajo.
+Quisiera que por ti fuera mi pluma
+La que bolara ygual con mi desseo,
+Mas Icaro ser a quien tal presuma.
+Aqui Doctor acabo, por que veo,
+Que el silencio alabo mas que la lengua,
+Pues mirando que en ti mi estilo empleo,
+Me corro de agrauiarte con su mengua.}
+{CW. EL}
+[fol. 5r]
+{CB1.
+{ILL.}
+{RUB. EL LICENCIADO
+IVAN PASQVAL FER-
+nandez Capellan del Rey, y Co-
+missario del Santo oficio,
+Al Autor.}
+{IN2.} AQui contra el mal Frances
+Altas Torres Espan~olas
+Se oponen firmes y solas
+En el Reyno Aragones.
+Torres, cuyo fundamento,
+De Galeno, y de su intento,
+Tomaron ciencia y alteza,
+Para que en su fortaleza
+Cobre nuestra vida aliento.
+Cunde el mal no preuenido,
+Hasta contrastar la vida,}
+{CW. Y en}
+[fol. 5v]
+{CB1.
+Y enfermedad guarecida,
+Sujeta al dan~o temido.
+Doctor vuestro libro raro
+De la salud es reparo,
+De la enfermedad remedio,
+De estremos de males medio,
+De Esculapios norte claro.
+{ILL.}}
+{CW. A DON}
+[fol. 6r]
+{CB1.
+{RUB. A DON IVAN DE
+BORIA, CONDE DE
+Mayalde, y de Ficallo, del Consejo
+de Estado del Rey nuestro sen~or, y
+Mayordomo mayor dela sere-
+nissima Emperatriz nue-
+stra sen~ora.}
+{IN7.} ALABA Ciceron en sus
+oraciones al ho<m>bre agra-
+decido, y dize ser como
+los llanos labradores, que
+al tiempo de sus cosechas
+pagan llanamente lo que
+recibiero<n> fiado. Quisiera
+yo ((ya que me faltan las an~ales rentas)) que
+no fueran tan grandes las mercedes que V<uestro> S<en~or>
+me ha hecho, entre las quales, la mas princi-
+pal fue, hazerme criado de la serenissima Em-
+peratriz, siendo yo tan indigno: y pluguiera
+a Dios, que mis fuerc'as fueran mayores ((aun-
+que las buscara prestadas)) para poder co<n> mis}
+{CW. serui}
+[fol. 6v]
+{CB1.
+servicios agradar a mi desseo: que ni yo me
+quedara tan atras de llegar a la obligacion
+en que me veo, ni V<uestro> S<en~or> en ella tan de veras me
+alcanc'ara de cuenta. Mas pues esto es impos-
+sible, discrecion sera seguir el consejo de Tulio
+en el libro primero de sus Epistolas familia-
+res, do<n>de dize, q<ue> es de pechos generosos, querer
+siempre deuer mas a quie<n> se deue muy mucho:
+y assi yo auiendo con la pobreza de mi humil-
+de ingenio trabajado esta obra, de la qual, au<n>-
+que muchos han tratado, pocos en nuestra len-
+gua vulgar por este estilo: lo qual es bie<n> neces-
+sario, para corregir los grandes yerros, que los
+imperitos hazen en la republica, a costa de ta<n>-
+tas vidas: quiero aun mas obligarme a V<uestro> S<en~or>
+con suplicarle tenga por bien de recogerla de-
+baxo de las alas de su amparo, q<ue> le sera lugar
+sagrado, do pueda estar segura de los veneno-
+sos dientes de tantos detractores, como esta
+nuestra edad produze, imitando en esto postre-
+ro ((ya q<ue> en lo primero no puedo)) a los diestros
+labradores, q<ue> quando plantan delicadas y tier-nas}
+{CW. nas}
+[fol. 7r]
+{CB1.
+plantas, procuran arrimarlas a grandes
+y poderosos arboles, q<ue> las defiendan de los te<m>pe-
+stuosos vientos, demasiadas lluuias y asperas
+eladas, haziendo tambien lo q<ue> los ingeniosos
+pintores en sus admirables retratos, que pa-
+ra del todo perficionar lo que sus subtiles ma-
+nos obraro<n>, suelen matizarlo co<n> el oro de mas
+auentajados quilates. Y assi sera razon reci-
+ba V<uestro> S<en~or> esta obra, como hechura de aquel, que
+V<uestro> S<en~or> recibio en tan esclarecida casa, cubrien-
+dola con el manto de su fauor, no mirando al
+pequen~o seruicio que con ella se le haze, sino
+a la sana y mucha voluntad co<n> que se le ofre-
+ce: como lo hizo aq<ue>l gran Xerxes Rey de Per-
+sia, quando con alegre rostro recibio el vaso de
+agua, que un simple pastorzillo le ofrecio en
+sus manos: que yo dexo su correcion y emien-
+da en las de V<uestro> S<en~or> las quales beso muchas
+vezes.
+El Doct<or> Torres.}
+{CW. AL}
+[fol. 7v]
+{CB1.
+{RUB. AL LETOR}
+{IN6.} Si Entre solos tres combidados
+halla tan diferentes gustos Hora-
+cio, que apenas el vno conforma
+el suyo con el del otro: co<n> mucha
+razon estoy rezeloso de que me
+sera impossible satisfazer a todos;
+pues como dize el Prouerbio, {LAT. Quot capita, tot senten-
+tiae} Vnos quisieran que este tratado, pues es parte
+de la Medicina, no saliera a luz en lengua vulgar,
+sino que se guardara la grauedad que a la facultad
+se deue, escriuiendolo en la Latina, como tan vni-
+uersal, y medio por donde se pudiera comunicar a
+otras naciones y Reynos estrangeros. Otros qui-
+sieran el estilo mas subido, y que no tratara las co-
+sas tan breue y sucintamente, sino que disputara al-
+gunas questiones que en la materia tienen dificul-
+tad. A los quales respondo, que por escreuir en es-
+ta o aquella lengua, no se desautoriza la Medicina:
+pues vemos que Hipocrates, Platon, Aristoteles,
+san Basilio, y Gregorio Nazianzeno y otros grauis-
+simos Dotores Griegos, escriuieron cosas muy al-
+tas, y estimadas de todos, en su lengua vulgar. Y
+cierto que no carece de sospecha de ambicion, y}
+{CW. tener}
+[fol. 8r]
+{CB1.
+tener algun color de inuidia, no querer que se co-
+munique a todos, lo que se inuento para bien co-
+mun. Esta enfermedad es ya en nuestros tiempos
+tan ordinaria, que casi cada vno sin parecer de Me-
+dico ni Cirujano se cura en su casa: y supuesto que
+el negocio ha venido a estos terminos, me parecio
+que haria seruicio muy grande a nuestro Sen~or, y
+a la Republica, en imprimir este libro, con que los
+Romancistas gozen alguna parte de las grandes ri-
+quezas que tenemos en la lengua Latina, y hagan
+menos yerros: pues es obra de caridad ensen~ar y co-
+rregir al que no sabe. Los doctos hartos libros tie-
+nen Latinos y Griegos de que valerse, dissimulen
+con que se de este gusto a los que no lo son tanto:
+y estos se contenten con la llaneza del estilo, pues
+la elega<n>cia, y ahondar dificultades, no es para quie<n>
+solamente escriue vna metodo curatiua deste mal,
+ofreciendo lo que escogio de buenos y graues au-
+tores, y ha visto por experiencia auer sido de pro-
+uecho a muchos. Porque aunque es verdad que en
+los hospitales de la Passion, y de los Italianos, do<n>-
+de ha mas de ocho an~os que curo, no se admitan
+enfermos con sospecha de mal Frances, antes si al-
+guno viene co<n> indicios del, le remitimos al de An-
+ton Martin: con todo esso me han sucedido por la
+villa tantos casos, que podre tener voto en esta ma-teria.}
+{CW. teria.}
+[fol. 8v]
+{CB1.
+Solo me resta aqui de aduertir, q<ue> no he pue-
+sto la difinicion del morbo Galico, porque ningu-
+na he visto hasta oy que no padezca mil impugna-
+ciones. Vn moderno le difine desta manera. {LAT. Calli-
+cus morbus est, maligna qualitas sere semper cum soluta con-
+tinuitate ab exustis humoribus per contagium in concubitu
+genita, a malignis quibusdam pustulis incipiens, pudenda ple-
+rumque, deinde reliquas corporis exteriores partes, caput prae-
+cipue inficiens, de hinc intimas partes ingressa, dolores circa ar-
+ticulos & ossa noctu praecipue facit, atque abscessus duros, in
+pessima a deo vlcera, vt ossa quoque plerumque vitient, postlon-
+gum tempus definentes.} Pero esta mas tiene de descripti-
+ua, que de quidditatiua y essencial. El Doctor Se-
+pulueda, doctissimo varon, en esta Corte muy re-
+cebido por tal, en muchas juntas que con el he te-
+nido, llegado a este punto, difine este mal en esta
+forma. {LAT. Est affectus praeter naturam laedens operationes sensi-
+biliter, proueniens a qualitate venenosa existenti in partibus
+spermaticis.} Qual dellas sea la verdadera, no es a mi
+proposito aueriguarlo, pues, como dixe arriba, solo
+voy con intento de dezir co<n> claridad y sin alterca-
+cio<nes> y disputas lo q<ue> yo he practicado y obseruado.
+Querria q<ue> el benigno lector recibiesse mi volu<n>tad
+y desseo de seruir a la Republica co<n> este pequen~ue-
+lo trabajo: y que si algo hallare q<ue> le de gusto, y le sea
+de prouecho, de a Dios la gloria por todo. Vale.}
+{CW. LIBRO}
+[fol. 9r]
+{CB1.
+{ILL.}
+{RUB. LIBRO VTIL
+Y PROVECHOSO
+en nuestros tiempos, de la ori-
+gen, causas, sen~ales, y cura del
+mal de las Bubas.}
+{RUB. Del Sujeto desta obra. Cap<itulo> .I.}
+{IN8.} ESTE Mal de quien
+auemos de tratar, ha
+tenido sie<m>pre muchos
+nombres, assi como
+mal Frances, mal Nea-
+politano, mal serpen-
+tino, o contagioso, y
+en Castellano bubas, y
+cerca de otros mal de simiente, no haziendo
+injuria a las naciones, atribuyendo a ellas su
+origen y principio. Bubas sospecho que se
+llamaron de los encordios, que son ramo de-llas,}
+{CW. llas,}
+[fol. 9v]
+{HD. Tratado de +}
+{CB1.
+llamados bubones acerca de los Docto-
+res: mal de Venus, o mal de simiente se dize,
+por auer comenc'ado, como algunos afir-
+man, de los actos y tratos mugeriles: y por
+conseruarse hasta agora con ellos mismos
+esta enfermedad muy fecu<n>da y pren~ada, va
+siempre produziendo muchos y muy crue-
+les hijos, es a saber, vnos del cuero, y otros de
+mas adentro, assi como caerse los pelos, em-
+peynes, sarna, culebrillas, erisipelas, granos
+de muchas maneras, berrugas, llagas del pa-
+ladar y de las partes baxas, apostemas, mate-
+rias del can~o, dificultad de respiracion, y ma-
+rasmo: y estos dos accidentes, o hijos, son in-
+curables, como nota Falopio. {AD. [^Lib<ro> de mor-
+bo Gallico,
+cap<itulo> .8.]} Los de mas
+adentro son dolores en los murezillos, en las
+coyunturas, en los huessos, en las telas delos
+sesos, y las tunicas, a los quales dolores suele<n>
+seguirse corrupciones, y carcomas de los
+huessos. Sera pues el objeto, y blanco deste
+libro, este mal que llamamos Bubas, y el suje-
+to deste mal, sera el cuerpo humano,
+porque no sabemos que otro
+alguno lo padezca}
+{CW. Si}
+[fol. 10r]
+{HD. Morbo Gallico.}
+{CB1.
+{RUB. Si las bubas sea enfermedad nue-
+ua, y no conocida de los anti-
+guos. Cap<itulo> .II.}
+{IN3.} ESta es vna question mas curiosa que
+prouechosa, pero para desengan~ar a
+muchos, no solame<n>te de los vulgares,
+sino ta<m>bie<n> de los Medicos, dezimos auer sido
+conocida esta enfermedad de los antiguos,
+como se colige de Plinio, el qual escriue, que
+vino a Italia en el principio del imperio de
+Tiberio Claudio, y que vn cauallero Peru-
+sino la truxo de Assia. {AD. [^L<ibro> .26. de su
+histo<ria> natu-
+ral. capi<tulo> .1.]} Hipocrates Medico
+antiquissimo, tratando de la carcoma del
+huesso de la cabec'a, haze mencio<n> de los apo-
+stemas y llagas, que suelen acompan~ar este
+mal. {AD. [^Lib<ro> .2. de mor-bis.]} Valles en sus Epidemias lib<ro> .4. sectione.
+.3. expone, y dize, que por muchos afectos q<ue>
+Hipocrates cuenta, tiene por cierto no auer
+cosa nueua en este mal, que los antiguos no
+la ayan conocido. {AD. [^Lib<ro> .4. Epi<demias>
+Sect<ione> .3.]} Tambien Auicena, quan-
+do escriue del encie<n>so, trata de la misma en-
+fermedad. {AD. [^Canone. .2.
+tract<ado> .2. ca-
+pit<ulo> .532.]} Y si pregu<n>tare alguno la causa, por
+que siendo tan antigua, se aya tenido por}
+{CW. nueua,}
+[fol. 10v]
+{HD. Tratado de +}
+{CB1.
+nueua, responderia yo, que de dos maneras
+se puede considerar este mal. La primera,
+qua<n>to a su rayz y orige<n>, y assi se dize ser muy
+antiguo. Lo qual prueua Nicolao Leonice-
+no, diziendo, q<ue> considera<n>do ser los hombres
+de vna misma naturaleza, nacidos debaxo
+de vn mismo cielo, criados debaxo de vnas
+mismas estrellas, y estar siempre aparejados a
+caer en vnas mismas enfermedades, no es
+possible auerse inficionado de tal manera
+nuestra edad, q<ue> las primeras no fuessen ta<m>bie<n>
+co<n>taminadas. {AD. [^Lib<ro> de mor-
+bo Gallico.]} Puedese considerar de la mis-
+ma manera el mal por sus muchas auenidas y
+acometimie<n>tos despues de muchos an~os, de
+suerte q<ue> ninguno se acordasse de su primera
+rayz, y assi se podria dezir enfermedad nue-
+ua, como se tiene comunmente por tal el ta-
+uardillo, no embargante los muchos testi-
+monios que ay de ser conocido de los anti-
+guos. Conforme a lo qual testifica<n> algunos,
+que las bubas tuuieron su orige<n> de cierta ba-
+talla que huuo en Napoles el an~o de .1493. {AD. [^Monardes
+cap<itulo> del pa-
+lo santo.]}
+porque como en aquel tiempo don Christo-
+ual Colon huuiesse traydo muchos Indios y
+Indias de la Isla de Santo domingo; y los lle-uasse}
+{CW. uasse}
+[fol. 11r]
+{HD. Morbo Gallico.}
+{CB1.
+al Rey don Ferna<n>do, que estaua en Na-
+poles, los soldados de nuestra parte, que con-
+uersauan con las Indias que venian tocadas
+del mal, quedaron inficionados, y fue cun-
+diendo por todos los exercitos. Otros afir-
+man, y tienen por cosa mas cierta, que el an~o
+de .1456. vn cauallero llamado Iua<n>, tuuo gue-
+rra con el Rey don Alo<n>so de Napoles, y por
+durar mucho tiempo, faltando los bastimen-
+tos y prouisiones, llegaron a tanto estremo
+los dos exercitos, q<ue> los proueedores daua<n> se-
+cretame<n>te a comer a los soldados carnes hu-
+manas: de lo qual resulto que muchos tuuies-
+sen dolores, y apostemas, y se pelasse<n>: la qual
+calamidad se parecio mas en los Franceses,
+por donde quedo mas arraygado el nom-
+bre de morbo Gallico, que quiere dezir mal
+Frances. {AD. [^Andreas Al-
+cazar libr<o>
+.5. de mor-
+bo Gallico.
+por autori-
+dad de Fie-robante.]}
+{RUB. De las causas desta enfermedad.
+Cap<itulo> .III.}
+{IN3.} La causa desta enfermedad es vna in-
+feccion, o corrompimiento de la san-
+gre, pegada, y adquirida principalme<n>-te}
+{CW. te}
+[fol. 11v]
+{HD. Tratado de +}
+{CB1.
+de los actos deshonestos, y de mamar la le-
+che, y de besarse, y de comunicar mucho tie<m>-
+po con personas que tienen el mal, y de po-
+nerse sus vestidos, y aun de beuer co<n> los va-
+sos que los otros han beuido, como ensen~a
+Leonardo Botalo con el exemplo de vn gra<n>-
+de amigo suyo. {AD. [^Libro .5. de
+lue vene<rea> ca-
+pit<ulo> .4.]} Si se haze la enfermedad por
+tener accesso carnalme<n>te, se inficiona lo pri-
+mero el miembro de la generacion. Si por
+mamar la leche o por besar, o beuer en vasos
+de personas inficionadas, entonces padecen
+los labios, o la lengua, las mexillas de aden-
+tro, las enzias, la garganta, o el paladar. Si por
+comunicacion larga, y tocamie<n>tos muchos,
+y vso de vestidos, entonces se dan~an al prin-
+cipio las agallas y partes interiores de la bo-
+ca, los labios, las enzias, y no el cuero de las
+espaldas, o el de los miembros mas solidos,
+por ser duro, y no alterarse, sino es en mucho
+tiempo. Esta infeccion, o semilla, o calidad
+maligna, y venenosa, quando esta impres-
+sa, va cundiendo por todo el cuerpo, ha-
+sta inficionar los humores, carne y huessos
+con los otros miembros duros, y no sola-
+mente los corrompe en el temperamento,}
+{CW. sino}
+[fol. 12r]
+{HD. Morbo Gallico.}
+{CB1.
+sino tambien en toda la sustancia, en tan-
+ta manera, que apenas se halle miembro,
+que de alli adelante goze de mantenimiento
+que sea bueno y limpio. De lo qual resultan
+muchas superfluydades, y diuersos generos
+de accidentes, como se dira adelante. No ne-
+gamos que el accesso a mugeres tocadas de-
+ste mal, y la herencia de padres, o aguelos en-
+fermos, o de las amas que crian, no sean tam-
+bien causas de que se engendre en muchas
+personas: pero no se sigue de aqui, que aya ve-
+nido por sola contagion, y pegarse de vnos
+en otros, como han pensado algunos: porq<ue>
+si fuesse esto verdad, preguntaria yo, si el q<ue> tu-
+uo primero el mal, fue por auersele pegado
+de otro? Y esta claro q<ue> no, porq<ue> auiamos de
+conceder q<ue> huuo otro antes q<ue> el primero: lo
+qual es dislate: sino que hemos de confessar,
+q<ue> aunque en nuestro tiempo ve<n>ga esta plaga
+((como dizen)) de mano en mano por la ma-
+yor parte, pero que algunas vezes no es pe-
+gadiza. Y assi escriue Valles, que el demasia-
+do vso del coito, sin auer contagion, puede
+ser causa desta enfermedad, por corromper-
+se la simiente.}
+{CW. Si}
+[fol. 12v]
+{HD. Tratado de +}
+{CB1.
+{RUB. Si el higado, o los humores que
+en el se engendran, sea el mine-
+ro, y esca, y fuente desta enfer-
+medad. Cap<itulo> .IIII.}
+{IN3.} POrque diximos, que qua<n>do la mala ca-
+lidad desta enfermedad esta impressa,
+va cundiendo por todo el cuerpo, ay
+duda, si es el higado donde se imprime, o al-
+guno de los humores. Vnos afirman, q<ue> es la
+flema, porq<ue> dizen auer visto echarla copio-
+samente por la boca y por el vientre los que
+padecen este mal. Otros, que es colera, por
+ver llagas corrosiuas y erysipelas. Otros, que
+es mela<n>colia, por los apostemas scirrosos, lla-
+gas callosas, y sobrehuessos. Otros finalmen-
+te, q<ue> son varios los humores, por ver varios
+accidentes, y casi contrarios vnos de otros, y
+no solame<n>te en diuersos cuerpos, sino en vno
+mismo, y en vn mismo miembro, y a vn mis-
+mo tiempo. Leonardo Botalo resuelue la
+question, con que no ay humor peculiar, si-
+no que el propio seminario es la massa de la
+sangre que anda por las venas, y luego los}
+{CW. miem}
+[fol. 13r]
+{HD. Morbo Gallico.}
+{CB1.
+miembros mas duros, y que no es destempla<n>-
+c'a caliente y seca, como creyo Montano: al
+qual reprehende tambien Guillermo Ron-
+delecio, diziendo, que es fria y humida, pues
+se cura con remedios calientes y secos. Pero
+porque nos engolfamos, segu<n> parece, en co-
+sas que no son de mucho prouecho, passare-
+mos a otras de mas importancia.
+{RUB. A que personas fatiga y ator-
+menta mas esta enfermedad.
+Cap<itulo> .V.}
+{IN3.} COsa es cierta y aueriguada, que esta en-
+fermedad acomete a hombres y mu-
+geres, pero no a los vnos y a los o-
+tros ygualmente. A lo que yo puedo juzgar,
+las mugeres padece<n> menos, por causa delas
+purgaciones de cada mes, y casi todas aque-
+llas se libran, a las quales sobreuinieren los
+meses ocho, o diez dias despues de auer teni-
+do el accesso: y si antes deste tiempo acudie-
+ren, terna<n> mas seguridad. Si les da el mal lue-
+go que han tenido la purgacion ordinaria, o
+pocos dias despues, reynara mucho en ellas.}
+{CW. Aun}
+[fol. 13v]
+{HD. Tratado de +}
+{CB1.
+especialme<n>te si los menstruos ((como suele
+acontecer en muchas)) se anticiparen sin
+ser acabado el mes: porq<ue> lo que estaua inficio-
+nado de la sangre, juntame<n>te se derriba con
+lo restante que naturaleza prete<n>dia euacuar,
+y assi queda el cuerpo limpio: pero quando
+estas euacuaciones de los meses anda<n> cortas,
+o vienen despues de mucho tiempo, el mal
+entreta<n>to va echando sus rayzes, y apenas se
+puede curar sin los remedios q<ue> el arte manda.
+A los ho<m>bres, a los nin~os, y a las amas q<ue> crian
+sin baxarles su regla, no puede naturaleza so-
+la repararlos, porq<ue> no tienen por donde arro-
+jar aquel veneno de la parte donde se ha re-
+cogido, saluo sino sobreuiniessen a estas ta-
+les algunas camaras sangrientas, o otra qual-
+quiera euacuacio<n> del vientre, o co<n>tinuo flu-
+xo de almorranas, o corrimie<n>tos de materias
+por el can~o, o encordios, o muchos sudores,
+como acontece a los cozineros de los gran-
+des sen~ores, a los horneros, y panaderos, y a
+semejantes personas, q<ue> con el co<n>tinuo exer-
+cicio y trabajos acostu<m>brados co<n>sumen mu-
+chas vezes los malos humores: y por la mis-
+ma razon no son tan apassionadas las muge-res,}
+{CW. res}
+[fol. 14r]
+{HD. Morbo Gallico.}
+{CB1.
+como los hombres, y sanan con mas fa-
+cilidad.
+{RUB. De las sen~ales desta enfermedad
+quando comienc'a. Cap<itulo> .VI.}
+{IN3.} QVanto es mas facil de curar esta en-
+fermedad sie<n>do nueua, tanta mayor
+dificultad tiene en conocerse. Lo q<ue>
+no acontece quando ya es vieja, y confir-
+mada, por que entonces todos la conocen, y
+apenas se puede curar. Y assi conuiene que
+echemos el resto del ingenio, para conocer-
+la quando comienc'a.
+Las sen~ales que luego parecen ((especial-
+mente quando el mal se pega por coito, o ac-
+cesso carnal)) son las que ensen~a Fernelio, di-
+ziendo, que salen en las partes baxas y des-
+honestas, postillas, llagas malignas, materias
+por el can~o, y encordios. {AD. [^Li<bro> .6. {LAT. de par-
+tium mor-
+bis} cap<itulo> .20.
+de lue ven<erea>]} Aunque estas cosas
+mientras no echare<n> rayzes ade<n>tro, no las tie-
+ne por el mal, sino por vna sen~al, o barrunto
+de q<ue> anda muy cerca. Suelen tambien las lla-
+guillas que se hazen en estas partes, tener el}
+{CW. cuero}
+[fol. 14v]
+{HD. Tratado de +}
+{CB1.
+cuero de alderredor descolorido y con al-
+guna dureza. Vense assi mismo estas llagas
+en los labios, o pec'ones, quando el mal se pe-
+ga mamando: pero si viene del coito, como
+deziamos, no solamente se hazen en la gla<n>-
+de, o en el prepucio, o en lo restante del mie<m>-
+bro, mas tambien en los labios de la madre.
+Aqui nota Leonardo Botalo, que a los hom-
+bres que padecen nefandame<n>te como mu-
+geres, no solo se les haze<n> llagas, sino muchas
+berrugas a manera de crestas, y q<ue> no se osan
+mostrar, y descubrir el dan~o que tienen, ha-
+sta tanto que el dolor les aprieta. Ta<m>bien son
+sen~ales de la enfermedad, llagas en la boca,
+granos en la frente, o costras en la cabec'a sin
+dolor. Tambien acude<n> grauissimos dolores
+de cabec'a, y de los otros miembros, que afli-
+gen mas de noche que de dia. Duele el hues-
+so del pecho, llamado esternon: duele el om-
+bro y la espalda, por ser aquellos murezillos
+delgados y neruiosos, y duele a la parte del
+colodrillo, y junto con esto ay dolor en la ca-
+dera y se adelgaza el cuerpo, pelanse las ce-
+jas, y la barba hazese la flema salada q<ue> llama<n>,
+o he<n>deduras en las palmas de las manos, y pla<n>-tas}
+{CW. tas}
+[fol. 15r]
+{HD. Morbo Gallico.}
+{CB1.
+de los pies. Tienen las vn~as como lepro-
+sas, y mudan los cueros de la mano sin auer
+comec'on. Suelen los deste mal andar tristes,
+y ya que esta tomada la possession, pierden
+los brios q<ue> antes tenian, y se les relaxa el mie<m>-
+bro de la generacion, sin que aya llaga den-
+tro, o fuera: porque ((como nota Rondele-
+cio)) suelen las llagas algunas vezes prouocar
+a luxuria, por causa de las superfluidades. Sie<n>-
+tese encogimiento del pecho, co<n> dificultad
+manifiesta en la respiracion, y finalmente sa-
+len gomas y tolondrones en algunas partes
+del cuerpo. Y notese, que destas sen~ales a ve-
+zes se juntan muchas, a vezes todas, y a ve-
+zes algunas dellas.
+{RUB. De las especies, o diferencias des-
+ta enfermedad. Cap<itulo> .VII.}
+{IN3.} AVnque es vna misma la essencia des-
+ta enfermedad, empero distinguese
+de diuersas maneras, de las quales vna
+se tiene por mas liuiana, y otra por mas gra-
+ue, y enojosa: y assi seran diferentes los reme-
+dios. La primera, y mas liuiana diferencia de}
+{CW. todas}
+[fol. 15v]
+{HD. Tratado de +}
+{CB1.
+todas es aquella en la qual se caen poco a po-
+co los pelos de la cabec'a, y de la barba, sin
+auer otro dan~o en el cuerpo. Porque su ma-
+licia consiste en vn vapor sutil y delgado, el
+qual va saliendo al cuero hazia la rayz de los
+mismos pelos. Y como la calentura efeme-
+ra difiere de las calenturas humorales, y po-
+dridas: assi esta especie se distingue de las
+otras. La segunda diferencia es algo peor,
+en la qual todo el cuero se hinche de vnas
+manchas pequen~as, a vezes coloradas, y a ve-
+zes amarillas, que no se quitan, hasta que la
+rayz del mal esta extirpada. Consiste su ma-
+licia en vna sangre sutilissima, y no la siguen
+accidentes graues. La tercera especie es mas
+graue, y se puede dezir mas propia y verda-
+deramente que las passadas, ser la enferme-
+dad de quien vamos hablando, en la qual
+salen granos primero cerca de la frente, sie-
+nes, y orejas, y luego en la cabec'a, y por to-
+do el cuerpo: los quales son de figura redon-
+da, secos, sin materia, y tenidos en poco:
+cunden al derredor, y se conuierten en lla-
+gas virulentas y suzias: y las partes de junto al
+siesso, narizes, y boca, como mas delicadas}
+{CW. y tier}
+[fol. 16r]
+{HD. Morbo Gallico.}
+{CB1.
+y tiernas, suelen llagarse primero. Vienen
+estas postillas por amanzillarse el higado, y
+la massa de la sangre, y de los otros humores,
+de la qual reciben notable detrimento las
+partes blandas y carnosas. La quarta y vlti-
+ma especie es, quando creciendo mas la en-
+fermedad, se arremete a las partes duras, co-
+mo son los huessos, ligamentos, tunicas, y
+neruios: en los quales, por estar viciados, se
+allegan muchas superfluydades gruessas, y
+malignas, que algunas vezes se meten por
+entre las cuerdas, y mas de ordinario entre
+los huessos y sus tunicas. Y quando estos
+excrementos apartan la tunica del huesso, o
+con su agudeza la hieren, leuantan dolores
+grauissimos, y multiplicandose mas las su-
+perfluydades, hazense gomas, y corrom-
+pen los huessos, y al cabo se viene a consu-
+mir el cuerpo con los dolores excessiuos,
+con el poco suen~o, y poco comer,
+y con vna calentura lenta, ha-
+sta que se acaba
+la vida.}
+{CW. Como}
+[fol. 16v]
+{HD. Tratado de +}
+{CB1.
+{RUB. Como se podra defender cada
+vno despues del coito desta en-
+fermedad. Cap<itulo> .VIII.}
+{IN3.} DIzese comunmente, que haze mas el
+que detiene y preserua a otro para q<ue>
+no cayga, q<ue> el que le leuanta despues
+de caydo. A nuestro proposito no es de po-
+ca importancia defender a vn hombre desta
+mala enfermedad, quando corre peligro de
+caer en ella, especialmente pudiendose ha-
+zer a poca costa y trabajo, y sin que sea me-
+nester mucho estudio. Ofreciendose pues la
+ocasion, y auiendo sospecha de contagio, no
+ay que tener miedo, si de presto se lauare to-
+da la parte con agua caliente: metie<n>dola des-
+pues por espacio de medio quarto de ho-
+ra, alc'ado el prepucio, en vn vaso lleno de
+aquella agua, de suerte que se pueda sufrir, y
+si se enfriare, se terna aparejada otra para te<m>-
+plarla. Esto se hara dos dias tarde y man~ana.
+Las mugeres hara<n> lo mismo, metiendose me-
+chas de algodon muy mojadas en el agua. Y
+si para hazer esto no huuiere buena como-didad,}
+{CW. didad,}
+[fol. 17r]
+{HD. Morbo Gallico.}
+{CB1.
+alo[ ]menos sera necessario lauar luego
+todo el miembro con orines, en especial la
+gla<n>de. Lo qual se hara facilme<n>te, si al tiempo
+del orinar lauares con la orina que va salien-
+do, las orillas del prepucio. Y es de manera, q<ue>
+haziendo esto, no solamente no aura que te-
+mer infeccio<n> alguna, pero si alguna huuiere,
+se quitara co<n> que se haga el remedio dentro
+del quarto dia. Desta mesma manera se han
+de socorrer los labios de las criaturas que ma-
+man, y los pec'ones de las amas que da<n> leche.
+Ban~arse ta<m>bien todo el cuerpo, preserua gra<n>-
+demente al que sin saberlo, o no pudiendo
+hazer otra cosa, se acostare con alguno que
+estuuiere inficionado. Algunos aprueuan el
+vinagre con dos tanto[s] de agua[ ]rosada, lauan-
+do muchas vezes todo el miembro, otros el
+vino, o qualquiera otro licor, como vaya ca-
+liente: pero el agua simple se tiene por me-
+jor, porque resuelue lo que es menester, y no
+desseca mas de lo que conuiene, como haze<n>
+otras cosas: porque lo que se pretende aqui,
+es resoluer liuianamente con esta fomenta-
+cion del agua, y no dexar en el cuero alguna
+calidad, sino es la natural: y esto ninguna co-sa}
+{CW. sa}
+[fol. 17v]
+{HD. Tratado de +}
+{CB1.
+lo haze mejor que el agua, ni tambien.
+{RUB. Si al principio deste mal, o en la
+primera especie del conuenga
+sangrar. Cap<itulo> .IX.}
+{IN3.} AY Muchos que a los primeros en-
+cuentros desta enfermedad ((como es
+auiendo algun esc(e)[a]l(a)[e]ntamiento, o
+llaguillas, o cosa semejante)) luego mandan
+sangrar al enfermo, co<n> intencio<n> de preuenir
+los dan~os venideros. Pero bien mirado esto,
+los que lo hazen, son como los que quieren
+echar agua por toda la casa para matar vn pe-
+quen~o fuego, que se enciende poco a poco
+en el mas vil rincon, el qual con poco traba-
+jo, y a costa de vn calderillo de agua se pue-
+de apagar. Y assi es de Medico prudente, qua-
+drar, y ajustar los remedios a la enfermedad,
+y no dar en algunos de los estremos; quiero
+dezir, passar adelante, o quedar atras de lo q<ue>
+co<n>uiene. Bien es verdad, que si fuesse el mal
+de mucho tiempo, y las llagas se abriessen, o
+encalleciessen, o se hiziessen podridas, seria}
+{CW. necessa}
+[fol. 18r]
+{HD. Morbo Gallico.}
+{CB1.
+necessario acudir a remedios mas poderosos,
+como es sangrar, y purgar, segun diremos
+despues.
+{RUB. De las llagas que se hazen en el
+miembro de la generacion.
+Cap<itulo> .X.}
+{IN3.} LAs llagas deste miembro suelen, quan-
+do comienc'an, ser muy pequen~as, y
+con algun encendimiento: y lo que se
+haze comunmente es lauarlas con agua alu-
+minosa, y aplicar por toda la parte vn pan~ico
+de vnguento blanco, y si es mucho el escalda-
+miento, ponemos pan~os de agua de llanten,
+y rosada, con vn poco de vinagre. No obstan-
+te esto, siendo las llagas pequen~as, no tengo
+por malo lauarlas con el agua caliente dos ve-
+zes al dia, y si tuuieren alguna dureza, o otro
+qualquier genero de malicia, hase de quitar
+con el poluo de Ioanes, aplica<n>dole dos dias,
+y vna vez al dia, y holgar otro, dexando que
+descanse naturaleza: porque el vso co<n>tinuo
+destos medicamentos corrosiuos, no solame<n>-te}
+{CW. te}
+[fol. 18v]
+{HD. Tratado de +}
+{CB1.
+quita y estorua con su sequedad la euacua-
+cion de los vapores que suelen salir de la par-
+te enferma, pero prouocando dolor, acuden
+algunos humores, que hazen nueua dure-
+za. Y si alguno alegare contra lo dicho, que
+el agua dan~a a las llagas, auiendo ensen~ado
+Hipocrates, que no se han de humedecer
+sino con vino: respondemos, que el agua
+fria es la que las ofende, y la caliente no, si-
+no en caso que el cuerpo estuuiesse muy lle-
+no de humores, porque entonces seria mas
+lo que acudiria a la parte, que no lo que se re-
+soluiesse.
+Pero si las llagas fuessen rebeldes, y de mu-
+cho tiempo, hase de preguntar al enfermo, si
+se hizieron de suyo, o despues de auer aplica-
+do algun medicamento fuerte. Si se hiziero<n>
+luego que se puso la medicina corrosiua, he-
+mos de quitarla, y aplicar otra que tenga al-
+guna virtud de mu<n>dificar, y cozer, o digerir,
+de tal manera, que si auia dureza, o putrefac-
+cion antes, se venga a corregir. Para lo qual
+ninguna hallo mejor, que el vnguento rubio
+de Vigo: y si co<n> todo esto no se mejoran, o se
+va aumentando su malicia; o se hizieron de}
+{CW. suyo}
+[fol. 19r]
+{HD. Morbo Gallico.}
+{CB1.
+suyo malas, en tal caso no se escusa sangrar
+al enfermo del brac'o derecho de la vena del
+ar(e)[c]a, y al dia siguiente purgarle conforme
+a las fuerc'as, y a la calidad del humor, y
+luego mundificar la llaga con la mezcla si-
+guiente. De miel rosada, y de trementina de
+abeto, de cada cosa dos dramas, y de poluo
+de Ioannes tres.
+{RUB. Porque auiendo llagas en el mie<m>-
+bro de la generacion, acude se-
+ca a la ingle: y que se le ha de ha-
+zer. Cap<itulo> .XI.}
+{IN3.} ALgunos piensan, que quando se ha-
+ze seca en la ingle, o en los sobacos,
+o cerca de las orejas, que entonces
+engendran, o escupen ((como se dize co-
+munmente)) algunas llagas en las partes que
+correspo<n>den a la misma seca. Como sea ver-
+dad lo co<n>trario, que en la llaga, o herida que
+esta en la pierna, o en el pie, o en el miembro
+viril, por causa del dolor se mueue<n> humores,
+que segu<n> orden de naturaleza han de correr}
+{CW. al}
+[fol. 19v]
+{HD. Tratado de +}
+{CB1.
+al lugar del dolor, mayormente en cuerpos
+repletos, o llenos de malos humores. Y como
+la carne destos dichos lugares ((que llamamos
+emunctorios)) sea rala y esponjosa, y passe por
+ella el humor q<ue> yua encaminado a la llaga,
+embeuese alli, y leuanta la seca. Por manera,
+que si la herida esta en la mano, la seca da en
+el sobaco: si esta en la cabec'a, da en la gargan-
+ta: y si en la pierna, o en el miembro de la ge-
+neracion, escupe luego a la ingle. Para estas
+secas vso yo vn vnguento que resuelue, y mi-
+tiga dolor, y se haze de enxundia de gallina,
+de azeyte de lirio, y de ma<n>c'anilla yguales par-
+tes, quajado con cera.
+{RUB. Del prepucio, quando esta tan
+hinchado, que no se puede des-
+cubrir la glande para curar las
+llagas. Cap<itulo> .XII.}
+{IN3.} PAra esto se cozera la parietaria, y el to-
+millo salsero, y se lauara el prepucio co<n>
+el cozimiento caliente. En el entretan-
+to conuiene xeringar las llagas con vn laua-torio}
+{CW. torio}
+[fol. 20r]
+{HD. Morbo Gallico.}
+{CB1.
+hecho de tres onc'as de c'umo de rosas,
+y vna de c'umo de celidonia, y quatro de a-
+guamiel. Echase tibio y poco a poco. Y sino
+bastare este medicamento, vsaremos de los
+otros, que conforme a la disposicion que tu-
+uieren las llagas, se deuen vsar: porque ya he
+visto muchas vezes, que au<n>que no se deshin-
+che el prepucio, curandose las llagas, o esta<n>-
+do mejores, viene despues a deshincharse. Y
+si me preguntare alguno, que como se cu-
+raran, sino se veen; respondo, que por lo que
+sale dellas, y por los acidentes juzgamos,
+poco mas, o menos, hasta donde llega su
+malicia: y por el consiguiente los medica-
+mentos que seran necessarios. Con estos re-
+medios, y con las euacuaciones de sangria, y
+purga, se curara la passion, sin que sea me-
+nester hender el prepucio, como auisan
+algunos, para que descubiertas las
+llagas, se curen mejor;
+en la qual se en-
+gan~an.}
+{CW. Que}
+[fol. 20v]
+{HD. Tratado de +}
+{CB1.
+{RUB. Que se ha de hazer, quando esta<n>-
+do descubierta la glande, se hin-
+cha el prepucio, sin que se pue-
+da boluer. Cap<itulo> .XIII.}
+{IN3.} LO contrario de lo que acabamos de
+dezir, acontece muchas vezes, como
+yo he visto, que es no poderse cubrir
+la glande, por estar buelto atras el prepucio y
+auerse hinchado, dexa<n>do vn papo como me-
+dia nuez, y vna llaga atrauessada, de apretar-
+se mucho. A la qual enfermedad llama Pau-
+lo Periphymosis, y a la contraria Phymus. {AD. Lib<ro> .6.
+c<apitulo> .55.} Es-
+to viene por ignorancia, o descuydo del en-
+fermo, que por curar al descubierto las lla-
+gas, arremanga el prepucio, y dexasele as-
+si, no adeuinando lo que le ha de venir: y
+hinchase de manera, que no solamente no
+se puede boluer, pero inflamase mucho, y co-
+rre gran peligro de mortificarse. Quando es-
+to aconteciere por descuydo, es menester re-
+duzirle fuertemente con los dedos, o con
+vn pan~o aspero, apretando con los pulgares
+la glande hazia dentro, y con los demas tra-
+yendole hazia fuera. Y si huuiere alguna du-reza}
+{CW. reza}
+[fol. 21r]
+{HD. Morbo Gallico.}
+{CB1.
+que impida la reduccion, en tal caso ha-
+rase vn cozimiento, tomando de cortezas de
+rayzes de maluauiscos, de alholuas, y de li-
+naza de cada cosa vn pun~ado. Hierua todo ju<n>-
+to, y cuelese por vn pan~o, y en el agua se pon-
+gan dos onc'as de manteca de vacas derreti-
+da, y metase todo el miembro en este lauato-
+rio calie<n>te, y alli dentro se yra fregando co<n> la-
+na suzia, y despues se rebuelua por todo el vn
+pan~o mojado en lo mismo, y a otro dia se re-
+duzira por el orden que diximos. El agua de
+alarguez tiene gran fuerc'a en este caso, mo-
+jando pan~os en ella tibia: y ta<m>bien conuiene
+sa<n>grar, y repercutir co<n> agua rosada y vinagre.
+{RUB. De otro mal que acaece al prepu-
+cio, y es, quando corrompien-
+dose el cuero en la parte mas al-
+ta, se haze vn agujero, por el
+qual assoma la glande. Capitu-
+lo .XIIII.}
+{IN3.} ESte caso he yo visto muchas vezes, y es
+no solamente muy feo, pero muy per-
+judicial, por el impedimento que haze}
+{CW. para}
+[fol. 21v]
+{HD. Tratado de +}
+{CB1.
+para la generacion. La cura es, atar el prepu-
+cio, y apretarle, y despues cortarle, y yrle to-
+cando alrededor con vn cauterio de fuego,
+y curar como las otras llagas. Y porque diga-
+mos esto de passo, el prepucio se corta por
+vna de cinco, o seys causas. La primera es,
+por alguna llaga corrosiua que se haze deba-
+xo del capillo, que no quiere obedecer a re-
+medios, y se presume yrse gastando la cabe-
+c'a del miembro. La segunda, quando de lla-
+gas que ay debaxo del prepucio, vienen flu-
+xos de sangre, y no se pueden tomar. La ter-
+cera, que es la deste capitulo, quando de lla-
+gas que se hazen en el prepucio, se come la
+mitad, o tercia parte del. La quarta es, quan-
+do de enfermedades que padece este mie<m>bro,
+queda a vezes tan mal compuesto, que, o por
+fealdad, o por no poder cumplir con la mu-
+ger, quieren muchos que se les haga la obra.
+Tambien se corta, quando el prepucio se hin-
+che de berrugas por de dentro, y no se
+puede boluer: y finalmente quan-
+do precediendo alguna gran-
+de hinchazon, se viene
+a mortificar.}
+{CW. De}
+[fol. 22r]
+{HD. Morbo Gallico.}
+{CB1.
+{RUB. De la fistula que se haze en el mie<m>-
+bro viril, saliendo la orina por
+ella. Cap<itulo> .XV.}
+{IN3.} A Otro mal no menos graue que el pas-
+sado esta sujeto este miembro, y es, q<ue>
+de las llagas corrosiuas, quando llega
+su malicia hasta el can~o, sale por ellas la ori-
+na, y entonces son dificultosas de consolidar
+se. La cura es, que mundificada la llaga, se me-
+ta por el can~o de la orina vna como argalia
+de plomo hueca, de suerte que por algunos
+dias salga por alli la orina, sin que toque en la
+llaga. Porque aunq<ue> la orina tenga virtud de
+limpiar y dessecar, es humida en la sustancia:
+y como es aguda, podria morder, y enconar
+la llaga. Si esto no bastasse, es necessario ha-
+zer vna incision somera y obliqua entre el
+mismo can~o y pellejo del miembro, para que
+estendido el cuero hazia adelante, por la li-
+gadura, y por el medicamento emplastico q<ue>
+se pusiere para cerrar, se aglutine el agujero
+por do salia la orina. Acontece tambien algu-
+nas vezes, que por el mucho curso que haze}
+{CW. la}
+[fol. 22v]
+{HD. Tratado de +}
+{CB1.
+la orina de salir por las llagas fistulosas, este ta-
+pado el can~o, de manera que no salga gota
+por el. Como acontecio a vn oficial, que te-
+nia en el nacimie<n>to de la verga tres agujeros
+por do orinaua, sin salir nada por el can~o, que
+estaua totalmente cerrado, y todo lo q<ue> orina-
+ua, se le caya por las ingles, y se escozia, y de-
+sollaua. Purgado el cuerpo, se hizo vna paja
+de plata del gordor de vna argalia maziza co<n>
+vna punta roma, y se hizo vna bombilla co-
+mo embudo de hoja de lata, de largura de
+vna pulgada, soldada en el can~oncico: la
+qual seruia para orinar por ella, porque la ori-
+na no estoruasse la consolidacion de las fis-
+tulas. Aparejado esto, se metia la paja he-
+cha brasa por el can~o, no tocando en la ve-
+xiga, y luego se metia la bombilla vntada co<n>
+ma<n>teca de vacas, y esto hecho, se quemaro<n>
+los agujeros por do orinaua, con vnos cau-
+terios de fuego: y se pusiero<n> muy al justo vnas
+planchillas de cera embueltas en sus hilas, y
+encima y al derredor del miembro vna plan-
+chuela de plomo bien delgada con ligadura. {AD. [^Historia.]}
+Acabada la cura, y haziendo fuerc'a para ori-
+nar, salia la orina por la bombilla, dexandola}
+{CW. puesta}
+[fol. 23r]
+{HD. Morbo Gallico.}
+{CB1.
+puesta de dia y de noche por algunos dias. Es-
+te mismo caso y enfermedad padece vn Me-
+dico desta Corte, el qual, persuadie<n>dole esta
+cura, nunca la ha querido obedecer, y assi vi-
+ue con mucho trabajo.
+{RUB. De las berrugas que se hazen en
+el prepucio. Cap<itulo> .XVI.}
+{IN3.} LAs berrugas deste mie<m>bro se curan de
+muchas maneras, o con medicamen-
+tos; o corta<n>dolas. El poluo sutil de los
+hermodatiles las derriba, y sana. Sino basta<n>,
+vso yo el poluo mezclado de Ioanes, y de alu<m>-
+bre. Tambien se extirpan co<n> el agua fuerte,
+no tocando en las otras partes, porq<ue> no se lla-
+guen. Si tienen el pie delgado, se cortan con
+la tixera, aplicando luego los poluos de Ioa-
+nes, y por encima el vnguento bla<n>co: y si por
+ser muy grandes, no bastassen los medicame<n>-
+tos, ha<n>se de cortar, y tocar la rayz con el agua
+fuerte. Y quando todo el prepucio dentro y
+fuera, y la glande juntamente estuuiere cu-
+bierta y rodeada de las berrugas, con mucha
+grandeza y dolor de la parte, ha se de cortar
+a la larga hasta la rayz de la glande, y assi se}
+{CW. descu}
+[fol. 23v]
+{HD. Tratado de +}
+{CB1.
+descubriran, y cessara el dolor, aunq<ue> el prepu-
+cio quedara sin que se pueda consolidar. Ta<m>-
+bien acontece estar el cuero emine<n>te, como
+vna carne berrugosa en la glande, y en los pe-
+c'ones de las amas, y en los labios de los mu-
+chachos, y cerca del siesso, y de los testiculos.
+Lo qual no se cura co<n> el agua fuerte, o co<n> otro
+caustico, sino fuesse templandolo mucho co<n>
+el agua rosada. dado caso que lo mas seguro
+es el poluo de Vigo mezclado con vnguen-
+to blanco. Tambien conuiene a este aciden-
+te de las berrugas sangrar, y purgar, el palo,
+y c'arc'a, o las vnciones, quando pareciere
+auer en el cuerpo malas rayzes, y no hazer
+exercicio: aunque si fuere pobre, que aya de
+acudir a sus negocios, traera metido el miem-
+bro en vna ventosa, o vaso semejante, de vi-
+dro, porq<ue> con el topar de la ropa, no se acre-
+ciente el mal.
+{RUB. De los que purgan materias por
+el can~o. Cap<itulo> .XVII.}
+{IN3.} ESta enfermedad se dize gonorrea viru-
+lenta, cosa muy diferente de la que es
+verdadera gonorrea, que es fluxo de}
+{CW. la}
+[...]
+[fol. 24r]
+{HD. Morbo Gallico.}
+{CB1.
+Quando la purgacion se continuare, y el
+enfermo estuuiere enfadado de tantas inmu<n>-
+dicias, y desseare que se quite, purguese con
+trementina potable, que sera desatandola
+en vn mortero con vna yema de hueuo, y vi-
+no blanco: o sino tome de treme<n>tina de abe-
+to lauada primero en agua de llanten, y des-
+pues en vino blanco, media onc'a, de ruybar-
+bo escogido vna drama, de azibar vn escru-
+pulo, con poluos de regaliz, y de ac'ucar se ha-
+ga<n> bocados. Despues se hara<n> fomentaciones
+co<n> vino tinto estiptico: y el lauatorio para el
+can~o sera, tomar suero, lexia, y agua rosada,
+de cada cosa quatro onc'as, de rosa seca Caste-
+llana dos dramas, de atutia preparada, y de al-
+martaga, de cada cosa tres dramas: hierua<n> vn
+poco, y cuelense, y lauese dos vezes al dia
+blandamente para no enconar la via. Quan-
+do todo lo dicho no bastare, bastara con el
+fauor de Dios tomar el agua de palo santo.
+Suele<n> algunas destas purgaciones traer gra<n>-
+dissimo dolor al orinar, en el qual caso se me-
+tera la parte en vn orinal, o otro vaso
+lleno de leche, o agua
+tibia.}
+{CW. De}
+[fol. 24v]
+{HD. Tratado de +}
+{CB1.
+{RUB. De los encordios. Cap<itulo> .XVIII.}
+{IN3.} AVnque es verdad, que se pueden ha-
+zer encordios sin causa deshonesta, pe-
+ro comunme<n>te se hazen de tratar mu-
+cho con muger inficionada, y a los que facil-
+mente les duelen las ingles quando tiene<n> ac-
+cesso. Porque entonces procura naturaleza
+despedir el humo vicioso y corro<m>pido, q<ue> es-
+taua agregado de semeja<n>tes actos, y aco<n>tece
+librarse el que tiene este mal, de otros mayo-
+res: por lo qual se ha de procurar traellos
+luego a maduracion, haziendo llamamiento
+con muchos fregamientos, y con aplicar ven-
+tosas sobre ellos. El fregarlos ha de ser co<n> los
+dedos facilmente, o vntados con manteca
+de vacas, para que se pueda hazer muchas ve-
+zes sin recebir pena: y esto hara el propio en-
+fermo, hasta que la hinchazon no de lugar a
+que se haga mas tiempo, y entonces se aplica-
+ran emplastos que madure<n>. De los quales ay
+muchas maneras, que se diferencian en ser
+mas flacos, o mas fuertes: y assi los hemos de
+acomodar conforme a la necessidad, y dispo-
+sicion que vemos. Porque si sale presto la hin-chazon,}
+{CW. chazon}
+[fol. 25r]
+{HD. Morbo Gallico.}
+{CB1.
+y el humor no es muy gruesso ni re-
+belde, y la parte es flaca, y de rala contextura
+((como suele acontecer en los mas tiernos y
+moc'os)) entonces basta poner el triafarmaco
+de agua, azeyte, y harina de trigo, que es co-
+mo puches, an~adiendole, si queremos para el
+color, vn poco de ac'afra<n>, y dos yemas de hue-
+uos. Pero si el humor esta rebelde en salir,
+por el mismo caso sera malo de madurar, y
+entonces se aplicara emplasto mas fuerte, co-
+mo el de rayzes de maluauiscos, y vnto sin
+sal: y sino bastare, passaremos a otros mas ca-
+lientes, coziendo rayzes de nuez(a) con las de
+maluauiscos: y an~adiendo leuadura fuerte, y
+ceuolla assada.
+Yendo aplicando estos remedios, sera a
+proposito sangrarle del mismo touillo, prece-
+diendo primero sangria del brac'o de la mis-
+ma parte. Y si pareciere estar la sangre al-
+terada y corrompida, se purgara el cuerpo:
+porque acontece por virtud destas euacua-
+ciones, madurarse mas presto los encordios
+dificultosos y rebeldes. Y aunque parece co<n>-
+tra razon, deue ser la causa, q<ue> el humor que
+andaua segregado por el cuerpo, en alguna}
+{CW. mane-}
+[fol. 25v]
+{HD. Tratado de +}
+{CB1.
+manera diuertia a la naturaleza. La qual exo-
+nerada con las euacuaciones de sangria y
+purga, acomete con mas fuerc'a lo restante,
+y lo echa a las ingles, y lo cueze, y rompe.
+Despues de maduro, se ha de abrir, sin espe-
+rar a que naturaleza lo abra, o por mejor de-
+zir, el humor podrido: y esto se hara con la<n>-
+ceta segun las arrugas, especialmente quan-
+do el apostema esta inflamado, porque abrie<n>-
+do con lanceta, se echara fuera aquella san-
+gre dan~ada, que esta entre cueros y carne. Lo
+qual no saldria abriendo con causticos, de-
+mas y allende que algunas vezes acrecienta<n>
+la inflamacion con dolor. Pero sino huuies-
+se inflamacion, se podria abrir con causti-
+co: porque de semejante abertura no suele
+salir sangre, la qual aprouecha en los abscessos
+frios. Tambien se abren con cauterio de fue-
+go, y mejor que con causticos, si el enfermo
+consiente, abierto se pone clara de hueuo pa-
+ra el dolor y la sangre, y otro dia digestiuo,
+para digerir, y desenconar los labios abier-
+tos, y despues el mundificatiuo que mas con-
+ue<n>ga. Hecha la abertura, se sangre el mismo
+dia, o a otro, si antes no estuuiere sangrado,}
+{CW. y aun}
+[fol. 26r]
+{HD. Morbo Gallico.}
+{CB1.
+y aunque lo aya estado, si la sangre era ma-
+la, la sangria sera del mismo brac'o, o del to-
+uillo: y si pareciere ser mala, sangrarase otra
+vez el mismo dia, y hecha alguna prepara-
+cion, se purgara de los humores viciosos. En
+lo que toca a la dieta, sera segun las fuer-
+c'as mostraren, y el vicio de los humores. An-
+dres Alcac'ar nota auer hallado por experie<n>-
+cia, que abrir vn encordio antes que se ma-
+dure perfetamente, y tenerle abierto mucho
+tiempo, preserua de mal Frances {AD. [^Alcac'ar lib<ro>
+.5. de morbo
+Gallico.]}
+{RUB. De la cayda de los pelos. Capitu-
+lo .XIX.}
+{IN3.} ESta enfermedad de los pelos vnas ve-
+zes viene de bubas, y otras vezes no.
+Dize Matiolo, que qua<n>do es de bubas,
+vniuersalmente se caen los pelos por todo el
+cuerpo, y el cuero se desnuda dellos por to-
+das partes. porq<ue> el humor vicioso, que tiene
+su assiento en el higado, acude no solamen-
+te a la boca, pero a todo el cuerpo. {AD. [^Li<bro> .5. de sus
+episto<las>,]} Mas quan-
+do no es de la enfermedad dicha, solo fal-
+tan de la barba, y cabec'a, de tal manera que}
+{CW. vnos}
+[fol. 26v]
+{HD. Tratado de +}
+{CB1.
+vnos se caen, y otros tornan a nacer. Notan
+aqui algunos Doctores, que esta enferme-
+dad suele librar de otras mas graues, salien-
+do por el cuero el humor vicioso y maligno
+del cuerpo. Tratando Galeno generalmen-
+te deste mal, llamado Alopecia, dize, que el
+humor que peca, se conoce por el color de
+la parte: porque si es mas blanco de lo que co<n>-
+uiene naturalmente, hemos de purgar la fle-
+ma ((la qual por su adustion suele corromper
+las rayzes de los pelos, y assi se sueltan)) si es
+mas amarillo, peca la colera: si es mas negro,
+la melancolia, y al passo desto se ha de orde-
+nar la dieta, mirando que sea contraria al hu-
+mor. Hase de come<n>c'ar la cura por sangria de
+la vena cefalica: y si estuuiere dan~ada la san-
+gre, harase el dia siguiente otra del otro bra-
+c'o, y darase la purga que fuere mas a pro-
+posito {AD. [^Li<bro> .1. de cop.
+sar. secund.
+locos cap<itulo> .1.]}
+Sangrado, y purgado el paciente, corta-
+dos los pelos a tixera, se lauara con el lauato-
+rio siguiente, que luego ataxa la cayda de los
+pelos, resoluiendo el mal humor. De yerua-
+buena, de cortezas de olmo, o de las hojas si
+fuere<n> verdes, y hojas de vid, de cada cosa dos}
+{CW. mano}
+[fol. 27r]
+{HD. Morbo Gallico.}
+{CB1.
+manojos, y seys puerros: hierua<n> en vna herra-
+da de agua bastante: cuelese luego, y con es-
+to se laue la cabec'a vn dia si, y otro no, hazie<n>-
+do vna liuiana friccion: luego se aplique vna
+esponja ancha mojada en el mismo cozimie<n>-
+to tibio, haziendolo dos, o tres vezes, y luego
+se boluera a lo mismo. Tambien es experi-
+mentado este lauatorio de abrotano, de pa-
+lomina, de la cauda equina, de romac'a, de ca-
+da yerua vn manojo: cueza en tres quartillos
+de vino blanco an~ejo, hasta consumir la mi-
+tad: lauese con vna esponja nueua, y luego se
+enxuge con pan~os calientes, para vntarse
+con algun vnguento, y a la man~ana se lauara<n>
+las partes vntadas con el mismo lauatorio, y
+desta manera se vsara destos medicamentos
+cada tercer dia.
+Y si con la cayda de los pelos huuiere algu-
+nas vlcerillas por la cabec'a, que no se mejo-
+ren con lauatorios, an~ade a lo dicho altramu-
+zes, miel, nuezes de cipres, agallas y algun
+agraz. Purgado segunda vez, es bueno su-
+dar: porque aunque no parezca estar el da-
+n~o sino en la cabec'a, y barba, todas las partes
+cutaneas ((como diximos)) estan sentidas y to-cadas}
+{CW. cadas}
+[fol. 27v]
+{HD. Tratado de +}
+{CB1.
+del mismo mal. Y por esto manda Leo-
+nardo Botalo, que despues de purgado el en-
+fermo, entre en vn ban~o el dia siguiente, en
+el qual este media hora, y que sea de agua po-
+table, y de calor que se pueda sufrir, y que vse
+del dos dias, y dos horas antes de cenar: y que
+passados otros tres dias torne a ban~arse otros
+dos {LAT. {AD. [^Tractat<us> de
+lue ven<erea> ca-
+pit<ulo> .11.]}}
+Pedro Paulo Pereda sobre Pascual escri-
+ue, que se ataja el caerse los pelos, y que nace<n>
+los caydos, y ser remedio experimentado,
+quando es la enfermedad de bubas, vntar co<n>
+el vnguento de azogue los ombros, y nudos
+del cuello detras de las orejas, hasta que co-
+mience a llagarse la boca.
+El que huyere deste remedio, y quisiere ha-
+zerse vna cura, ni tan breue como esta de las
+vnciones, ni tan larga como la primera, san-
+grese primeramente de la vena alta del bra-
+c'o, vna, o dos vezes. Purguese luego con pil-
+doras cochias. Despues tomara cada man~ana
+o a tercer dia por espacio de vn mes, vn es-
+crupulo desta massa: pildoras cochias dra-
+mas seys, de azibar escogido dos dramas, ha-
+gase massa con oximiel esquilitico.}
+{CW. Hecha}
+[fol. 28r]
+{HD. Morbo Gallico.}
+{CB1.
+Hecha la sangria, vna hora despues, o a la
+tarde se laue la cabec'a con agua caliente, en
+quien se ayan cozido puerros y rosas secas:
+del qual lauatorio vse por quatro dias siguie<n>-
+tes vna vez al dia, a la man~ana, o a la tarde.
+Los dias siguientes, quitados los puerros, se
+echaran hojas, ramas, o cortezas de olmo co<n>
+las rosas. Con este lauatorio se laue tres vezes
+en la semana la cabec'a, no haziendo mucho
+fregamiento, ni se enxugue, ni seque dema-
+siado, y sea con esponja.
+A vna sen~ora que se le cayan los pelos, le
+ordeno vn medico graue la cura siguiente: xa-
+raue de palomina y de borrajas, de cada vno
+media onc'a, xaraue de cantueso vna onc'a,
+agua de palomina tres onc'as: luego le dio es-
+tas pildoras, Pildoras de nitro, y cochias, de
+de cada vno media dragma, haganse cinco do-
+radas. Despues toma vn pun~o de culantrillo
+de poc'o, quatro onc'as de rayzes de can~as, de
+centaurea vn manojo, dos, o tres onc'as de pa-
+lo de Indias escocinado, media onc'a de la[u]da-
+no. Cueza todo segu<n> arte en azu<m>bre y medio
+de vino blanco, y gastase el medio, y echese
+vn poco de miel despumada al fuego: y con}
+{CW. este}
+[fol. 28v]
+{HD. Tratado de +}
+{CB1.
+cozimiento se laue cada man~ana y no-
+che.
+Aqui se note, que aunque ((como dize Fer-
+nelio)) la mas liuiana especie de todas las del
+mal Frances, sea esta de la cayda de los pelos,
+entiendese no auiendo otra ofensa del cuer-
+po: porque si la huuiesse, no aprouecharian
+los medicamentos dichos: y assi en los que
+tienen calentura habitual, y estan hecticos, se
+tiene por sen~al mortal, especialmente auien-
+do hinchazones de piernas, y muchedum-
+bre de piojos {AD. [^Lib<ro> de par.
+nior. & sym-
+ptomat.]}
+Tambien se aduierta, que no se ha de pre-
+sumir, que qualquiera que se pelare, esta to-
+cado de bubas, sino concurrieran otras ma-
+las sen~ales: aunque las mas vezes procede es-
+te vicio, por auer conocido muger inficiona-
+da, estando con su regla.
+Y assi escriue vn Doctor, que en cierto lu-
+gar curo diez pelados, que todos auian llega-
+do a vna muger, estando con la purgacio<n> or-
+dinaria, segun se supo della mesma.
+Tambien nota Andres Alcac'ar, auer ex-
+perimentado, que los que tienen este mal, en-
+canecen, y despues que sanan se bueluen ne-gros {AD. [^Libro .5. de
+morb(a)[o] Gal-
+lico. c<apitulo> .23.]}}
+{CW. gros}
+[fol. 29r]
+{HD. Morbo Gallico.}
+{CB1.
+los cabellos como antes, aunque pocas
+vezes lo vemos: lo qual ensen~o Rasis. {AD. [^Lib<ro> .25. con-
+tinent. cap<itulo>
+vltim.]}
+{RUB. De los empeynes, y otras infec-
+ciones del cuero como sarna.
+Cap<itulo> .XX.}
+{IN3.} HAzense en esta enfermedad vnos em-
+peynes, y ma<n>chas como de sarna ma-
+ligna y fea, por pereza de no querer-
+se curar, y por falta de exercicio: y es de ma-
+nera, que quando el cuero ha co<n>trahido mal
+habito, es dificultosa la cura. Hase de comen-
+c'ar por sangrias de brac'os y piernas, y pur-
+gas apropiadas. A tercer dia hazia la noche
+entrara en vn ban~o de agua dulce por espa-
+cio de media hora. Conuienen ventosas con
+faxa, vna, o dos vezes en diuersas partes del
+cuerpo que mas afligieren. Si la comezon a-
+quexare, y no se pudiere corregir con los ba-
+n~os ((que pocas vezes acaece)) repitase la san-
+gria, o las ventosas, o sanguijuelas en las par-
+tes mas necessitadas, y dese la c'arc'aparrilla.
+Vntese luego con ac'ufre viuo mezclado co<n>}
+{CW. man}
+[fol. 29v]
+{HD. Tratado de +}
+{CB1.
+manteca fresca de vacas, no todo el cuerpo
+juntamente, sino vn dia vna parte, otro otra;
+vna vez la derecha, y otra la izquierda. Sino
+basta, pongase el vnguento dicho en vn mor-
+tero de plomo: y echense tres onc'as de agua
+rosada, en que aya heruido vna drama de so-
+liman, y colado, traygase al derredor mu-
+cho tiempo, y despues exprimida bien el a-
+gua, se vse del vnguento por la man~ana en
+vna pierna, y por la tarde en otra, o vn dia los
+brac'os, y otro lo restante. Desta manera no
+ay que tener sospecha de que se encierren
+los humores adentro, como algunos han
+pensado, antes se resoluera presto. El man-
+tenimie<n>to sea moderado, la beuida agua sim-
+ple, o con quarta parte de vino.
+Acontece ser la sangre algo mas gruessa,
+y tocar el dan~o en las partes musculosas y car-
+nosas, y hanse de hazer sangrias y lauar la par-
+te dos vezes al dia con agua ardiente, y po-
+ner encima pan~os calientes y lana suzia. Ta<m>-
+bien aprouecha el agua de balsamo, o azey-
+te de balsamo de Iua<n> de Vigo ((lo qual halla-
+ra el que quisiere en su Antidotario {AD. [^Lib<ro> [??] anti-
+dotarij. ca<pitulo>
+.21.]} con no<m>-
+bre de agua, y de azeyte de balsamo, y la ala-ba))}
+{CW. ba}
+[fol. 30r]
+{HD. Morbo Gallico.}
+{CB1.
+((mucho Leonardo Botalo para esto)) laua<n>-
+do la parte que doliere con ella, co<n> que se di-
+uierta primero el humor a otra parte, porque
+el Sol no puede secar vn campo, si le esta sie<m>-
+pre regando vn rio, y assi conuiene purgar
+los humores que anda<n> por las venas, que son
+como arroyos que humedecen el cuero car-
+noso de todo el cuerpo. Esto se haze, toman-
+do vna drama de agarico, de azibar media,
+de diafenicon tres dramas: haganse boca-
+dos: o sino toma de hojas de sen quatro dra-
+mas, de turbit drama y media, de canela vna
+drama, de agua de achicoria quatro onc'as.
+Echese en remojo por la noche, y exprimi-
+das, se an~adan tres onc'as de oximiel simple,
+y se haga beuida: adelante sudaran con agua
+de palo y c'arc'a, purgandose de seys en seys
+dias. {AD. [^Libr<o> de lue
+ven<erea> ca<pitulo> .13.]}
+{RUB. De los dolores que acuden a las
+junturas y huessos de los que
+tienen este mal Cap<itulo> .XXI.}
+{IN3.} LOs dolores de las bubas acuden a los
+artejos y telas de los huessos. La cura
+es sangrar, y purgar el humor q<ue> peca.}
+{CW. Des}
+[fol. 30v]
+{HD. Tratado de +}
+{CB1.
+Despues se toma alguna apozima, o cozi-
+miento apropiado en cantidad de cinco o
+seys onc'as cada man~ana. Entretanto se han
+de lauar las partes que duelen con agua ar-
+diente, poniendo enzima lana suzia. Suelese
+hazer coleccion de humor en las junturas, es-
+pecialmente en la rodilla, y son los dolores
+muy porfiados: y si se abre<n> con cauterio, o la<n>-
+ceta, para dar salida al humor, es causa q<ue> se do-
+ble<n> los dolores: y assi dize Leonardo Botalo,
+q<ue> ningu<n> remedio hallo mejor, q<ue> llamar afue-
+ra lo q<ue> esta de<n>tro, con causticos que haga<n> ve-
+xigas, q<ue> lla[ma]mos septicos, o con muchos cau-
+terios superficiales sobre la parte mas blan-
+da, y que parece hazer inundacion, porque
+siempre resudara algo. Boluiendo a lo prime-
+ro, despues de auer vsado de las apozimas al-
+gunos dias, sera muy a proposito tomar el a-
+gua del palo santo, y c'arc'a para sudar, y pur-
+garse de seys en seys dias co<n> pildoras agrega-
+tiuas, arteticas, de fumaria, y de hermodati-
+les: y si de<n>tro de los seis no hiziere camara, to-
+mara vno, o dos pildoras de vn escrupulo. La
+comida sera tres, o quatro onc'as de bizco-
+cho, y otras tantas de passas, y almendras: y si}
+{CW. la}
+[fol. 31r]
+{HD. Morbo Gallico.}
+{CB1.
+la flaqueza lo pide, se puede comer de vna
+aue assada. No obstante lo dicho, sera el pos-
+trero remedio las vnciones de azogue, con
+que sin duda se quitan los dolores, aunque
+sobreuienen con ellos otros accidentes fasti-
+diosos, por donde las aborrecen muchos.
+{RUB. De las gomas y sobrehuessos de-
+ste mal. Cap<itulo> .XXII.}
+{IN3.} LAs hinchazones que en esta enferme-
+dad llamamos gomas, o sobre hues-
+sos, son de dos maneras: vnas tofa-
+ceas, que son como piedras, o huessos, q<ue> los
+Griegos llaman {GRK. exostoses,} de quien Galeno
+hizo mencion en el .14. lib<ro> dela Metodo, tra-
+tando de las cosas que redundan y sobran:
+vna de las quales dize, que es el sexto dedo, y
+lo que en Griego se llama {GRK. exostoses:} la qual
+voz ha dado mucho en que entender, pero
+cierrase Ioan Agricola en su escolio, en que
+son las eminencias que se hazen en los hues-
+sos, y que no puede entender que sea<n> otra co-
+sa. Ay otras gomas blandas, y son de tres ma-
+neras: vnas se llaman atheromas, otras estea-tomas,}
+{CW. tomas,}
+[fol. 31v]
+{HD. Tratado de +}
+{CB1.
+y otras meliceridas, que son las tres di-
+ferencias de abscessos impropios que ensen~a
+Galeno.
+El lugar afecto donde estas se hazen, son
+los ligamentos, y las mas vezes los cuerpos
+de los huessos, y sus tunicas, o periostios, ado<n>-
+de afligen y atormentan mas los dolores.
+La causa destas gomas por la mayor parte
+son humores flematicos, y melancolicos,
+gruessos, y viscosos, como la goma de los ar-
+boles ((por do se llamaron assi)) pero de mala
+calidad. Algunas vezes se mezcla colera, y ha-
+zese el melliceris: otras vezes la flema no es
+tan gruessa y mela<n>colica, y hazense los steato-
+mas, o tosos. Aqui nota Falopio, que aconte-
+ce hazerse estas gomas, por auerse vntado
+con el azogue, y no auer sanado de la enfer-
+medad, porque las partes vntadas queda<n> fla-
+cas, y vanse allegando, y amontonando en
+ellas excreme<n>tos malignos, hasta leuantar es-
+tos tumores. Conoce<n>se lo primero en la du-
+reza. Lo segundo, en auer precedido sen~ales
+de mal Frances: y lo tercero en el dolor que
+tienen de noche. {AD. [^Li<bro> de mor-
+bo Gallico.
+cap<itulo> .95.]}
+Tambien se note, que estos tumores, o}
+{CW. gomas}
+[...]
+[fol. 32r]
+{HD. Morbo Gallico.}
+{CB1.
+ma de cruz, para q<ue> se descubra mejor la car-
+coma toda. La qual se puede hazer en la ca-
+bec'a, y en la parte anterior de la pierna longi-
+tudinalmente, y en el huesso de la espalda, pe-
+ro cerca de las junturas es cosa sospechosa,
+abrir sin necessidad precisa.
+Raer los huessos de los artejos no es licito,
+porque estos muchas vezes tienen vnas co-
+rrupciones esco<n>didas, q<ue> andar las a buscar co<n>
+curiosidad, es mortal: y assi en estos lugares ba-
+sta abrir para sacar la materia y no para legrar
+los huessos: y hecha la abertura, lichinamos
+con claras de hueuos, y poco azibar, y mas
+bolo Armenico y otro dia ((si el lugar lo permi-
+te)) legramos hasta lo sano, o cauterizamos,
+como no sea en la cabec'a, en la qual conuie-
+ne legrar, y aun trepanar, si penetra la corrup-
+cio<n> todo el casco. Y es de notar, q<ue> si se legra,
+ha de ser hasta lo solido, humido, y blanco.
+Despues se aplican poluos para la descama-
+cion y salida del huesso.
+Para las gomas que no se han de abrir, se
+tiene por experiencia tomar la c'arc'aparrilla,
+que como dize Falopio {AD. [^Lib<ro> de mor-
+b(a)[o] Gallico.
+cap<itulo> .95.,]} es la Reyna en esto,
+y para los tosos es milagroso remedio, espe-cialmente}
+{CW. cialmen}
+[fol. 32v]
+{HD. Tratado de +}
+{CB1.
+si tomando vn sudor por la man~a-
+na, se aplicasse a la noche a la pierna, o brac'o
+que padece, la vncion del azogue.
+Tambie<n> se pone sobre el tumor vn emplas-
+to de rayzes de mal(n)[u]auisco, y vnto de puerco
+muy an~ejo, auiendo estado en infusion de
+aguardiente las rayzes. El siguiente es proua-
+do: De emplasto de ranas onc'a y media, de ci-
+nabrio dos dramas, de diaquilon mayor dos
+onc'as, mezclado se tienda en cuero.
+{RUB. Del dolor de cabec'a deste mal.
+Cap<itulo> .XXIII.}
+{IN3.} VNo de los accidentes que aflige<n> a los
+que son tocados de bubas, es dolor de
+cabec'a que dura muchos dias, y viene
+despues a parar ((aunque no siempre)) en apos-
+temas y llagas. Padece la cabec'a como las o-
+tras parte[s], por vicio de humores, o por abun-
+dancia, o por las dos cosas juntas, la qual por
+tanto se ofende con mas vehemencia: porq<ue>
+como sea origen de todos los nieruos, tam-
+bien esta llena de membranas y de neruios:
+y assi por ocasion de qualquier deste<m>planc'a,}
+{CW. pade}
+[fol. 33r]
+{HD. Morbo Gallico.}
+{CB1.
+padece grauissimos afectos: y mas que por
+los muchos vasos, y anchura dellos, mas fa-
+cilmente corren alli los humores: y tambien
+como sea la altura de todo el cuerpo cubier-
+ta con el casco duro, con facilidad recibe de
+repente los vapores fuliginosos, y los retie-
+ne, y dificultosamente los echa de si: de lo
+qual resulta pesadumbre en todas aquellas
+partes, tension, ardor, dolor, y corrosion.
+La cura se comenc'ara por sangria de la ve-
+na comun. Luego se daran vnos bocados en
+esta forma. Diafenicon tres dramas, de agari-
+co escogido media drama, de ruybarbo dos
+escrupulos: con ac'ucar y poluos de cantue-
+so se hagan los bocados, echando por enci-
+ma vn poco de xaraue rosado, porque no se
+perciba el amargor: y sino quisiere sino be-
+uido, R<ecipe> de cantueso vn pun~ado, de betonica
+medio manojo, de hojas de sen tres dramas,
+de culantro y anis de cada cosa vna drama:
+hagase cozimiento suficiente, y colado se des-
+ate drama y media de ruybarbo, de canela
+vn escrupulo: esten en infusion ocho horas,
+y exprimido se an~ada de xaraue .9. infus. vna
+onc'a, y de diafenicon dos dramas y media.}
+{CW. Des}
+[fol. 33v]
+{HD. Tratado de +}
+{CB1.
+Despues desta beuida se podran vsar xara-
+ues de c'arc'a magistrales, y lauar la cabec'a co<n>
+lexia de sarmientos, en que se aya cozido al-
+moradux: y hagase de quatro a quatro dias,
+porque no se desseque mucho la cabec'a, o se
+trayga mas humor, que se resuelua.
+Si con estos remedios, y con otras purgas
+que se puede<n> dar, no se quita el dolor, se pue-
+de sangrar la vena de la frente al lado del do-
+lor, o la de enmedio, sino se diferencia, y sa-
+car hasta seys onc'as: y ha se de raer la cabe-
+c'a, y echar encima vinagre bien aguado ca-
+liente, o aplicar vna esponja mojada en ello,
+y exprimida por espacio de media hora. Si to-
+do no basta, tomarase el cozimie<n>to del palo,
+hecho en agua co<n> tercera parte de vino, por
+que como ayude al cozimiento, dispone los
+humores, para que esten mas fluydos.
+Tambien se aplican los herrinos ((que son
+medicamentos por las narizes)) como agua-
+miel, de hyssopo, y de almoradux, o el poluo
+siguiente, tomado, o echado por las narizes.
+Toma de hyssopo, de agarico, de eleboro bla<n>-
+co, de cada cosa medio escrupulo, haganse
+poluos sutilissimos, para vsar dellos por la}
+{CW. man~a}
+[...]
+[fol. 34r]
+{HD. Morbo Gallico.}
+{CB1.
+de aguardiente, y del balsamo espiritual de
+Vigo, con tres partes de miel rosada: y adela<n>-
+te hazer como sucediere. A este proposito
+cuenta el Botalo vna historia de vn Co<n>tador
+mayor del Piamonte, de nacion Frances, el
+qual auia muchos meses que no dormia de
+vn graue dolor de cabec'a cerca de la molle-
+ra, y de las sienes por causa de bubas: estaua
+como ciego, aunque no parecia tener en
+los ojos alguna cosa estran~a, puesto que de-
+zia ver como mosquitos que volauan delan-
+te, y otras vezes telaran~as, y auer perdido po-
+co a poco la vista: y como no le huuiessen
+aprouechado remedios de Medicos, ni de
+mugerzillas, ni de otros empiricos y charla-
+tanes, le aconsejo que se pusiesse vn caustico
+encima del huesso coronal, adonde mas le
+apretaua el dolor: pero como no sufriesse te-
+ner la abertura mucho tiempo, y la costra se
+cayesse de suyo, vinosele a cerrar, y murio de
+alli a quare<n>ta dias. Abierta la cabec'a, se hallo
+el casco corrompido cerca de la comissura
+coronal y sagital, y despues de abierto, co-
+rrio gran ca<n>tidad de vn humor delgado, po-
+drido, a manera de vn agua mezilada, como {AD. [^Historia.]}}
+{CW. hollin}
+[fol. 34v]
+{HD. Tratado de +}
+{CB1.
+hollin de chimenea, y ac'afran, assi por don-
+de se abrio el huesso, como por los oydos, y
+narizes: las me<m>branas por la parte que el cas-
+co tenia el dan~o, estauan corrompidas, y ta<m>-
+bien el celebro. Concluye el Doctor, que si
+fuere obediente este enfermo, le pudiera<n> a-
+prouechar los causticos desde el principio
+del dolor, o despues de abierto.
+Amato Lusitano refiere otra historia pare-
+cida a esta, y dize de vn soldado, que tenia ta<n>
+gran dolor de cabec'a, que parecia que los
+ojos le querian saltar, y entendido que pro-
+cedia de mal Frances, y despues de muchas
+curas y remedios que se le auian hecho, co-
+menc'o de nueuo a purgarse tres, o quatro
+vezes con las pildoras de nitro de Alexan-
+dro: echaronsele ventosas, hizieronse lauato-
+rios, aplicaronse medicamentos que hizies-
+sen ampollas, y tomo el agua del palo quare<n>-
+ta dias, y aunque el dolor se aliuiaua, despues
+boluia con mas furia, y ninguna cosa le apro-
+uechaua. Resoluiose el Doctor en q<ue> se abries-
+se la cabec'a, sospechando, y aun creyendo lo
+firmemente, que estaua corrompido el cas-
+co: y que si esto no se hazia, tenia por impos-sible {AD. [^Centur. 1.
+cura .4.]}}
+{CW. sible}
+[fol. 35r]
+{HD. Morbo Gallico.}
+{CB1.
+que sanasse. Para esto sin auer hincha-
+zo<n>, ni llaga, rapada la cabec'a, se abrio en cruz
+hasta el casco por donde auia mas dolor, y al
+dia siguiente, quando se pudo ver mejor el
+huesso, se hallo que estaua liuido y denegri-
+do: lo qual visto, se legro el casco hasta la te-
+la del celebro; con que comenc'o a remitirse
+el dolor, y de alli a algunos dias salieron al-
+gunos huessos, y yua siempre mejorando, en
+tanta manera, que tomada el agua del palo,
+quedo sano.
+{RUB. De las talparias y llagas que se ha-
+zen en la cabec'a. Cap<itulo> .XXIIII.}
+{IN3.} LAs llagas de cabec'a, que tienen orige<n>
+de bubas, se hazen de tumores esci-
+rrosos, o de talparias con corrupcion
+en el casco, y assi acontece corromperse este
+huesso, antes que la carne de encima, como
+sintio Hipocrates. La corrupcion se conoce
+al toque muchas vezes, aun sin auer llaga: y si
+ay llaga, es certissimo el dan~o, si se puede ver
+con los ojos, o tocar con la te<n>ta: y sino se pue-
+de ver, puedese sacar por conjeturas y barru<n>-tos, {AD. [^.2. de morb<o>]}}
+{CW. tos,}
+[fol. 35v]
+{HD. Tratado de +}
+{CB1.
+como si han passado muchos dias, y no
+se cierra la llaga, y si salen materias delga-
+das, y en mas cantidad de lo que conuiene
+a su grandeza. Si fuere llaga, y la parte no
+fuere segura para manifestar, por auer ve-
+nas arterias, o neruios, formese con me-
+chas, o con esponja lauada con vino, o ensan-
+chese con medicinas corrosiuas: pero sino ay
+cosa que lo impida, ora sea llaga, ora aposte-
+ma, abriremos en forma de cruz, y descubri-
+remos el casco. Luego se formara con me-
+chas mojadas en claras de hueuos con azey-
+te rosado: a otro dia se pondra digestiuo co<n>
+yema de hueuo, y azeyte rosado, y vn poco
+de azafran. Digesta la llaga ((que suele ser en
+quatro dias)) trataremos del huesso para que
+salga. Lo qual se haze rayendole ((como dize
+Paulo)) si es solamente alteracion la que tiene,
+y no carcoma: y si lo es, ponemos encima pol-
+uos de caparrosa quemada, de suerte que no
+toque en los labios, y luego mechas secas,
+que hinchan todo el vazio. Hase de echar el
+poluo cada dia, hasta q<ue> parezca estar negro
+el casco y quando lo este, procuraremos q<ue> se
+ablande, para q<ue> cayga presto la escama, apli-cando {AD. [^Lib<ro> .6. t. .77.]}}
+{CW. cando}
+[fol. 36r]
+{HD. Morbo Gallico.}
+{CB1.
+mechas mojadas en azeyte rosado, y
+en lo restante secas, y por defuera pegados
+de vnguento basilicon. Lo qual se hara hasta
+que el huesso se aparte de todos cabos. Y co-
+nociendo con las pinc'as que se ha soltado,
+tiraremos del con algun instrumento q<ue> mas
+co<n>uenga, y luego po<n>dremos hilas secas, y de
+fuera vngue<n>to de gumielemi, con q<ue> se acaba-
+ra la cura. Pero si la llaga fuere muy vieja, y es-
+tuuiere dan~ado todo el casco, en tanta ma-
+nera, que la duramater este muy suzia, o con
+carne superflua, conuiene curarse con pol-
+uos de Ioanes, como las otras llagas: y porq<ue>
+no de dolor, por ser la cabec'a parte princi-
+pal, y de mucho sentido ((especialmente en
+lo interior)) templarase con mezclarle vn po-
+co de miel rosada, o con vn poco de vnguen-
+to blanco.
+Y porque se presume, como ensen~an los
+mas, que en el higado esta la primera man-
+zilla y corrupcion, auiendo fuerc'as para san-
+grar y purgar, sera cosa de mucha im-
+portancia: y para sanar mas presto,
+tomese el agua del
+palo.}
+{CW. De}
+[fol. 36v]
+{HD. Tratado de +}
+{CB1.
+{RUB. De la cura desta enfermedad con
+las vnciones que lleuan azo-
+gue. Cap<itulo> .XXV.}
+{IN3.} ANTE todas cosas notemos, que las
+vnciones no se administra<n> de vna ma-
+nera, sino de muchas, tomando indi-
+cacio<n> del tiempo, de la enfermedad, de la dis-
+posicion del enfermo, de la costumbre, y de
+sus fuerc'as. Porque los ricos y nobles, que se
+han de curar con este remedio, quieren las
+vnturas mas delicadas y olorosas: los pobres
+se contentan con las que bastan para sanar-
+los: los muchachos, y hombres delicados, y
+otros que facilmente sudan, y resueluen, se
+han de tratar con mas delicadeza y blandu-
+ra. Los mas rezios y robustos, y que tienen el
+humor mas adentro, con medicame<n>tos mas
+fuertes.
+En el Estio co<n>uienen vnguentos de menos
+fuerc'a, y menos calientes: en el Inuierno mas
+fuertes, y mas calidos.
+Esto presupuesto, propo(r)nemos algunas
+maneras, o exe<m>plos de vnturas acomodadas}
+{CW. a diuer}
+[fol. 37r]
+{HD. Morbo Gallico.}
+{CB1.
+a diuersas personas, y son de Leonardo Bota-
+lo. Vnguento liuiano, R<ecipe> de manteca de vacas
+fresca cinco onc'as, de azeyte de almendras
+amargas tres onc'as, de azogue tres onc'as, de
+cera blanca tres onc'as.
+Otro tambien liuiano, y de poca costa. R<ecipe>
+vnto de puerco seys onc'as, de azeyte rosado
+dos onc'as, de azeyte nardino vna quarta, de
+cera blanca dos onc'as y media, de azogue
+muerto tres onc'as.
+Otro algo mas fuerte. De vnto de puerco
+seys onc'as, de azeyte de almendras amargas,
+de tuetano de ternera, de cada cosa dos on-
+c'as, de azeyte de laurel onc'a y media, de esto-
+raque liquido media onc'a, de azeyte nardi-
+no quatro onc'as, de azogue tres onc'as, de ce-
+ra blanca dos onc'as y media.
+Otro: De manteca de vacas fresca tres on-
+c'as, de vnto de puerco, que no sea an~ejo, por
+su color pesado, ocho onc'as, de azeyte de al-
+maciga onc'a y media, de azeyte nardino dos
+dramas, de estoraque liquido media onc'a,
+de euforbio dos dramas, de encienso y alma-
+ciga, de cada cosa tres dramas, de treme<n>tina
+de abeto vna onc'a, de azogue bien quebran-tado}
+{CW. tado}
+[fol. 37v]
+{HD. Tratado de +}
+{CB1.
+con azeyte de almendras amargas tres
+onc'as, de cera blanca dos onc'as, hagase vn-
+guento segun arte.
+Otro para nobles y delicados, que no pue-
+den sufrir olores pesados. De manteca de va-
+cas fresca, y de vnto fresco de puerco, de ca-
+da cosa tres onc'as, de azeyte rezie<n> sacado de
+almendras amargas, de tuetano de ternera, y
+de enxundia de gallina, de cada cosa dos on-
+c'as, de azeyte de clauos tres dramas, de cera
+bla<n>ca dos onc'as y media, de azogue tres on-
+c'as: an~adase al fin vn escrupulo de almizcle,
+y de ambar medio escrupulo.
+{RUB. Que partes del cuerpo se han de untar.}
+% Vntanse todas las coyunturas, y aun to-
+dos los miembros a la larga. El espinazo no
+es menester vntarle, sino tuuiere dolor. No se
+han de vntar la cabec'a, pecho, ni vientre: aun-
+que si se vntan poco, no se sigue dan~o no-
+table.
+{RUB. Que cantidad de unguento para cada vez
+segun las edades.}}
+{CW. Para}
+[fol. 38r]
+{HD. Morbo Gallico.}
+{CB1.
+% Para los muchachos basta poner vna on-
+c'a, o algo menos para cada vez: para los man-
+cebos onc'a y media, y para ho<m>bres mayores
+dos onc'as, o tres.
+{RUB. A que tiempo se ha de hazer la untura.}
+% Hanse de vntar por la man~ana, o vn po-
+co antes de comer, o a la tarde antes de ce-
+nar.
+{RUB. Que lugar se ha de escoger para untar.}
+% El lugar mas conuenible para las vncio-
+nes, es debaxo de vn pauello<n> en vn aposento
+abrigado co<n> brasero de lu<m>bre, para que el ay-
+re de la piec'a este calie<n>te, y el frio no impida la
+penetracio<n> del vnguento por el pellejo, y por
+las otras partes: y assi conuiene que como se
+fuere untando cada parte, se vaya cubriendo
+con pan~os calientes.
+{RUB. Acabada la untura, que cosas se han de
+mirar.}
+% Hecha la vntura, se ha de cubrir desde el
+cuello hasta la planta del pie con vna sauana}
+{CW. grande,}
+[fol. 38v]
+{HD. Tratado de +}
+{CB1.
+grande, y estese sudando vna hora, poco
+mas, o menos, si las fuerc'as no dieren mas lu-
+gar, y en acabando de sudar, se limpiara to-
+do el cuerpo, sin ayrearse, con vnos pan~os ca-
+lientes de lienc'o y blandos, y despues se vista
+vna camisa caliente, vsando de los mismos
+pan~os y lienc'os todo el tiempo que durare
+la cura, con que se po<n>gan a secar, y el limpiar
+sea a la ligera.
+{RUB. Para que no desmaye el enfermo, que se
+ha de untar.}
+% Y porque acontece, o por el calor, o
+por el trabajo, o por el olor, o por la pesa-
+dumbre de todo el cuerpo, o por falta del
+ma<n>tenimiento, venir a desmayar algo los en-
+fermos, sera de importancia vn poco antes
+de la obra dar vna sopa en vino, y beuer en-
+cima vn poco, porque con esto no solamen-
+te se reparan las fuerc'as, pero tambien se pro-
+uoca el sudor.
+{RUB. Quantas vezes se han de untar al dia.}}
+{CW. El}
+[fol. 39r]
+{HD. Morbo Gallico.}
+{CB1.
+El vntar basta que sea vna vez al dia, y a
+los flacos a tercer dia.
+{RUB. Hasta quando se han de continuar las un-
+ciones.}
+% El tiempo, o los dias que se han de tomar
+las vnciones, ninguno lo puede limitar con
+razon, sino yrlas dando, hasta que las encias
+se comiencen a hinchar, o el vie<n>tre a correr,
+hasta que las llagas se cicatrizen, o hasta q<ue>
+los dolores se quiten. Aqui se aduierta, que
+algunas vezes se mueue el vientre, y las en-
+zias se hincha<n>, y no acabar de salir el humor.
+Pues qua<n>do vieremos q<ue> naturaleza anda pe-
+rezosa para euacuar, co<n>uiene boluer a las vn-
+turas, passados dos, o tres dias, vn dia si, y otro
+no, o alo[ ]menos cada ocho dias vna vez, no
+dexando los negocios acostumbrados sino
+fuere el dia de la vntura, que se ha de dar bla<n>-
+damente.
+{RUB. Como se han de auer los pobres con las
+unciones.}}
+{CW. Los}
+[fol. 39v]
+{HD. Tratado de +}
+{CB1.
+% Los pobres, o mendigos y sieruos, q<ue> ni tie-
+ne<n> lugar para curarse, ni co<n> que, despues de
+auerse sangrado y purgado, se pueden vntar
+bla<n>damente co<n> sus propias manos todas las
+coyu<n>turas, o las que mas pareciere q<ue> haze<n> al
+caso, vsando de algu<n> vngue<n>to liuiano de los
+dichos, y despues se vestira<n>, y acudira<n> a sus ne-
+gocios, y en vie<n>do alguna de las sen~ales q<ue> di-
+ximos, cessara el vntar. A estos ((como nota
+Botalo)) les sera licito cada dia, o al tercero, to-
+mar vna pildora de palomina, o cochia en
+cantidad de vn escrupulo, porq<ue> los humores
+no acudan impetuosamente a la garganta.
+Tambien les aprouecha a estos y a los ricos
+aplicar a los miembros en lug(r)[a]r de las vncio-
+nes algunos cerotes, como es el famoso de ra-
+nas de Iuan de Vigo, o en su lugar otro q<ue> no
+es de menor virtud, y es mas facil de hazer en
+esta forma, R<ecipe> vnto de puerco no muy an~ejo
+vna libra, de enjundia de gallina tres onc'as,
+azeyte de trementina dos onc'as y media, eu-
+forbio, castoreo, de cada cosa tres dramas, de
+estoraque onc'a y media, de bermello<n> vna on-
+c'a, cera lo q<ue> bastare para hazer ceroto que no
+manche, y al fin se an~adan de azogue tres on-c'as,}
+{CW. c'as,}
+[fol. 40r]
+{HD. Morbo Gallico.}
+{CB1.
+las quales cosas se mezclan juntamente,
+hasta que toda la massa este fria, porque lo q<ue>
+es mas pesado, no se vaya a lo hondo. A este
+se suelen seguir los mismos accidentes que a
+las vnturas, y assi conuendra alc'ar mano del,
+quando pareciere que es tiempo.
+{RUB. Si se han de sangrar y purgar primero los
+que se untan.}
+% No se pusiera en disputa lo del sangrar y
+purgar para tomar las vnciones, sino diera
+ocasio<n> vn Rui Diaz de Isla, q<ue> escriuie<n>do desta
+enfermedad, a quien el llama serpentina, di-
+xo que auia quarenta an~os que curaua deste
+mal, y que desde los treynta hasta los quaren-
+ta tuuo por costu<m>bre no purgar a ninguno,
+co<n> q<ue> se hallaua muy bie<n>: y q<ue> de lo co<n>trario no
+vio prouecho alguno. Fu<n>dalo principalmen-
+te, en q<ue> como esta enfermedad sea vn error
+de la digestiua del higado, la purga no puede
+rectificalla, y assi no co<n>uiene: y q<ue> como estos
+humores no se puede<n> digerir, no se puede<n> pur-
+gar. Co<n>cluye, q<ue> el azogue es el verdadero la-
+xatiuo, y el que cura este mal. No obstante lo}
+{CW. dicho}
+[fol. 40v]
+{HD. Tratado de +}
+{CB1.
+dicho ((q<ue> no co<n>uence a ningu<n> buen entendi-
+mie<n>to)) la comun opinio<n> de todos los Docto-
+res q<ue> desto tratan, tiene lo co<n>trario, sangrado
+conforme a las fuerc'as, y purgado con beui-
+das, bocados, pildoras, y tabletas conforme
+al gusto del paciente, y al humor vicioso.
+{RUB. Como se han de regir los que se untan.}
+% Acerca de la comida y beuida de los que
+se vntan, yerran grandemente, los que les da<n>
+mucho a comer, y a beuer vino, especialme<n>-
+te quando estan baueando, y con inflamacio<n>
+y llagas en la boca, por miedo que tienen a
+las fuerc'as del enfermo, porque comiendo
+mucho, hinche<n>se los cuerpos de flema, y acu-
+de con tanto impetu a la garganta, o al vien-
+tre, que muchas vezes parece que espanta, y
+assi es mas segura la comida templada, y la
+abstinencia del vino, sino es muy aguado.
+Concedense carnes de buen mantenimien-
+to, mientras que pueden comer, o pistos, qua<n>-
+do ay mal de boca, y sopas de buenos caldos,
+que facilmente se passan sin mazcarse. Qua<n>-
+do la boca esta libre, se dara comida y cena a}
+{CW. las}
+[fol. 41r]
+{HD. Morbo Gallico.}
+{CB1.
+las horas acostumbradas. Pero quando no lo
+esta, se daran tres, o quatro beuidas al dia, co-
+mo alme<n>dradas, hordiates, y las sopas q<ue> dixi-
+mos. La beuida cera agua de ceuada, o rega-
+liz con vn poco de canela, que se eche al ca-
+co del cozimie<n>to, o el agua simple de la Chi-
+na, o agua de fuente con quarta parte de vi-
+no clarete.
+{RUB. Que personas podran tomar las unciones.}
+% Las personas que se podran vntar, son las
+de buena edad, assi hombres como mugeres,
+sino estuuieren pren~adas: aunque tambien se
+pueden vntar nin~os de dos an~os, y de vno, y
+las pren~adas con que sea templadamente, y
+con mucha prudencia. Notando ((como ense-
+n~a Leonardo Botalo)) que al principio desta
+enfermedad no se ha de vsar de las vnciones,
+sino tentar remedios mas liuianos. Boluien-
+do a los nin~os que se han de vntar, conuiene
+que se purgen sus amas, con echar polipo-
+dio y hojas de sen a cozer en las ollas. Y si al-
+guno pregu<n>tare: Como es possible q<ue> las vncio-
+nes aprouechen a los nin~os? Responde el Do-ctor}
+{CW. ctor}
+[fol. 41v]
+{HD. Tratado de +}
+{CB1.
+en la Historia no<m>brado, q<ue> vn nin~o au<n> no
+de dos an~os, estando inficionado de su ama
+que tenia este mal, mamando tambien de su
+madre, la inficiono, la qual se lo pego a su ma-
+rido, y sobreuiniendoles algunos accide<n>tes,
+y viendo al nin~o con postillas en la boca, y q<ue>
+el ama auia confessado la verdad, diero<n>se por
+vencidos los padres, y tuuieron por bien de
+tomar las vnciones. Quiso Dios que sobrasse
+vn poco del vnguento, y que lo guardasse se-
+cretamente la madre del nin~o: y visto quan
+bien les auia sucedido, assi a ella, como al ma-
+rido, y que el mal del nin~o yua siempre peor,
+por estar con dolores, y con vnas llagas be-
+rrugosas cerca de la boca y del sieso, co<m>pade-
+ciendose mucho, le vnto liuianame<n>te vn dia
+si, y otro no, con la vncion que tenia escondi-
+da, y se libro totalmente de la enfermedad, y
+con este exemplo se libraron otros muchos
+de su edad.
+{RUB. Que tiempo sera apropiado para las un-
+ciones.}
+% El mejor tie<m>po para las vnciones es el Ve-
+rano, que llamamos Primauera, luego es el}
+{CW. Oton~o,}
+[fol. 42r]
+{HD. Morbo Gallico.}
+{CB1.
+Oton~o, luego el Inuierno, y el vltimo lugar
+tiene el Estio, quando el ayre esta muy calie<n>-
+te: aunque sie<n>do el Estio algo templado, por
+correr vientos frescos, se puede tambie<n> en el
+hazer la cura. Y assi yerran los Medicos, q<ue> asi-
+dos a la opinion del vulgo, persuaden a los
+enfermos, que aguarden al Oton~o, o a la Pri-
+mauera: como si el arte no pudiesse hazer
+del Inuierno Verano, con algunos aderec'os
+y lumbres; y del Estio, tiempo templado y
+fresco, con aposentos enramados, y verdu-
+ras, y fuentes artificiales, que alteren el ayre
+de la piec'a, no regando el suelo, sino echan-
+do agua fresca y a menudo en vasos gran-
+des. La razon que conuence poder vsar las
+vnciones en todo el tiempo, es, que para curar
+otras enfermedades, no se miran los tiem-
+pos para hecho de no vsar de sangrias y pur-
+gas, y las otras cosas necessarias, por el peli-
+gro que amenaza<n> sino se curassen. Pues no le
+ay menor en esta enfermedad, por ser de tal
+condicion, que sino muestra agudeza de pre-
+sente, parecerse ha despues: auiendo hecho
+muy grandes y notables dan~os en las par-
+tes solidas del paciente. Quantimas que si}
+{CW. mira}
+[fol. 42v]
+{HD. Tratado de +}
+{CB1.
+miramos lo que escriue Cornelio Celso, en-
+sen~ando que ay dos generos de curas: vnas
+en que no es licito escoger tiempo, sino
+vsar del que tenemos presente: y otras que
+no ay peligro en la tardanc'a, y aguardar es co-
+sa muy segura, y facil. Da por exemplo no
+auer dolores que atormenten, porque si lo
+ay, no se ha de diferir el remedio. Pues si las
+vnciones son principalmente para quando
+ay dolores, siguese que siempre que los huuie-
+re, se les ha de procurar esta cura {AD. [^Lib<ro> .7.]}
+{RUB. Porque los vntados suelen caer
+en accidentes graues, y como
+se ha<n> de socorrer. Cap<itulo> .XXVI.}
+{IN3.} SVelen sobreuenir a las vnciones diuer-
+sos accidentes, que muchas vezes espa<n>-
+tan, y son de mayor peligro que la en-
+fermedad principal, assi como llagas en la
+garganta, y en la lengua, y hinchazon de to-
+da la boca, que no solamente estorua el co-
+mer y el beuer, pero tambien el respirar, de
+tal manera, que no acudiendo con los reme-dios,}
+{CW. dios}
+[fol. 43r]
+{HD. Morbo Gallico.}
+{CB1.
+corre peligro de ahogarse el enfermo.
+Otras vezes acuden los humores al vientre,
+y dan camaras de sangre muy penosas.
+La causa interior de todos estos acciden-
+tes tan malos es vna, co<n>uiene a saber muche-
+dumbre de humores, que impetuosa y desen-
+frenadamente se mueuen. Las causas de afue-
+ra que remueuen, son muchas: los medica-
+mentos muy fuertes, el vso demasiado de las
+vnciones, y los sudores superfluos. Los medi-
+camentos o vnguentos se puede<n> hazer fuer-
+tes de muchas maneras, o metiendo mucho
+azogue, o mezclando cosas calientes, o con
+la tenacidad de la vntura. Acerca de lo pri-
+mero esta claro, que la mucha cantidad del
+azogue obra con mas fortaleza. Acerca de lo
+segundo, las cosas calientes que se mezclan,
+abre<n> mas los poros para la penetracio<n> del azo-
+gue. Acerca de lo tercero, la tenacidad de los
+vnguentos es causa que esten mas apegados
+y asidos al cuero. Ta<m>bien acarrea temerosos
+accidentes el demasiado cuydado de las vn-
+turas. Assi mismo ofende el porfiar a que ve<n>-
+gan sudores, porque la fuerc'a del azogue se
+imprime con mas violencia en el cuerpo: y}
+{CW. porque}
+[fol. 43v]
+{HD. Tratado de +}
+{CB1.
+porque no es possible auer tanto cuydado y
+prouidencia en las cosas dichas, para que se
+puedan escusar los accidentes, diremos algu-
+nos remedios contra ellas.
+Quanto a lo primero, mientras babeare el
+enfermo, se ha de lauar la boca con agua y
+vino partes yguales: y si tuuiere camaras de
+sangre, no se haga cosa los dos dias primeros
+que puedan detener la euacuacion, aunq<ue> sera
+licito q<ue> reciba clisteres de caldo de pollo co<n>
+miel rosada, o ac'ucar, o vna ayuda lauatiua.
+Y si todo esto no basta acudir con clisteres q<ue>
+lleuen sebo de cabro<n>, y purgas de ruybarbo
+con xaraue de .9. infus. para q<ue> naturaleza ayu-
+dada con el medicamento, eche en vn dia, lo
+que por su flaqueza despide en muchos. Des-
+pues se hara vna fomentacion sobre todo el
+vie<n>tre con esponja calie<n>te, mojada co<n> diez li-
+bras de vino tinto, agua de la fue<n>te seys libras,
+de agallas y balaustias, d<e> cada cosa dos onc'as,
+de rosas Castellanas coloradas y secas vna on-
+c'a, hierua<n> suficie<n>teme<n>te. Ta<m>bie<n> se eche<n> cliste-
+res q<ue> apriete<n> y enfrie<n> medianame<n>te, como de
+cozimie<n>to de llanten, de yerua mora, de ro-
+sas, y cauda equina, y se haran los demas re-medios}
+{CW. medios}
+[fol. 44r]
+{HD. Morbo Gallico.}
+{CB1.
+que pareciere ser prouechosos. Cre-
+ciendo mas los accidentes, y auiendo ta<n>tas lla-
+gas, y tales, q<ue> dificultosamente se puede co-
+mer, mudara lo q<ue> tuuiere vestido, y la ropa de
+la cama, y po<n>drase cada dia camisa limpia: y si
+passare adelante la hinchazon, lauese todo el
+enfermo con lexia caliente, y limpiese co<n> es-
+ponjas, y haga gargaras con agua de ceuada,
+y lla<n>ten, y c'umo de granadas, y no vaya sino
+tibio: porq<ue> lo frio repercute y aprieta, y lo ca-
+liente no sie<m>pre es prouechoso, quando crece
+el corrimie<n>to, porq<ue> llama, y atrae. Y si con es-
+tos remedios no se aliuiare el mal, sangrese
+luego la vena cefalica del brac'o mas cercano
+al mal: y si passadas quatro horas no se hallare
+notable diminucion, dese el mismo dia, o el
+siguie<n>te, vna beuida para purgar, como seria
+xaraue de .9. infus. tres onc'as, letuario rosado
+de Mesue tres dramas, en agua de ceuada, o
+chicoria, o en caldo de pollo: o sino, dense
+quatro onc'as del xaraue con vn cozimiento
+de hojas de sen. Algunos ay q<ue> tienen por sos-
+pechosos estos remedios de sangria y purga,
+diziendo, q<ue> diuierten a naturaleza de la obra
+q<ue> ha comenc'ado mas: como ensen~a Botalo,}
+{CW. antes}
+[fol. 44v]
+{HD. Tratado de +}
+{CB1.
+antes ella se aliuia, vsandolos con buen
+metodo, y no haziendolos, corre peligro de
+ahogarse, o alo[ ]menos corro<m>perse toda la ca-
+ra. Despues se haran fregamientos a las pier-
+nas, o brac'os.
+Qua<n>do estuuiere mejor el enfermo, se laua-
+ra la boca, toma<n>do ocho onc'as de agua de ce-
+uada, de miel onc'a y media: hierua<n> vn poco,
+despues se cuelen, y an~ade quatro onc'as de
+agua rosada, de oximiel simple dos onc'as, o
+sino de vinagre esquilitico, porque este laua-
+torio quita el mal olor de la boca, repara las
+enzias, y cicatriza las llagas, sin que impida la
+obra de naturaleza, mezclando tambien vn
+poco de alumbre, quando se fuere acabando
+el corrimiento.
+{RUB. Que el azogue no sea veneno, ni
+dan~e a los cuerpos humanos,
+saluo sino vsaren mal del. Ca-
+pitulo .XXVII.}
+{IN2.} NO es mucho que la gente vulgar y plebe-
+ya sie<n>ta mal de las vnciones, pues que al-gunos}
+{CW. gunos}
+[fol. 45r]
+{HD. Morbo Gallico.}
+{CB1.
+autores graues ha<n> tenido esta cura por
+cruel y peligrosa, entre los quales fue vn Mo<n>-
+tano que prouo con Galeno, alegandole fal-
+samente, ser veneno. El otro fue Fernelio, el
+qual reprueua esta manera empirica de curar
+este mal con el azogue, diziendo, ser tanta su
+ferocidad, que al segundo, o tercero dia co-
+mienc'a el enfermo a descaecer: y al fin dize,
+que se cura con el agua del palo, con medici-
+nas bezoarticas, y con algunos emplastos y
+aguas que ensen~a. Tambien dize auer visto
+muchos que les dio gota coral, porq<ue> al tie<m>po
+del curarse, les entro el azogue por los oydos
+y celebro. Alegan finalmente estos Docto-
+res, que repercute los humores adentro, y q<ue>
+tocando miembros principales, mata como
+veneno, y que a los vntados se dan~an las en-
+zias, y la le<n>gua, y se les caen los dientes, y a al-
+gunos les queda la cara torcida, y a otros la
+boca como pasmada: y que ni siempre sanan,
+ni perfetamente, sino que es como cura de
+entretenimiento, o paliatiua. Del contrario
+parecer fue Leonardo Botalo, Grabiel Falo-
+pio, Ambrosio Pareo, el famoso Nicolao, Ber-
+nardo Dessenio Cronemburgio en el lib<ro> .9.}
+{CW. de}
+[fol. 45v]
+{HD. Tratado de +}
+{CB1.
+{LAT. de compositione medicamentorum} sobre vn vngue<n>-
+to para matar los piojos, y otros tambien que
+escriuieron desta enfermedad en lengua vul-
+gar y Castellana, todos los quales aprueuan
+el vso del azogue. El qual dize Botalo que cu-
+ra este mal, lanc'ando los humores sutiles y
+gruessos: los sutiles, y que estan cerca del cue-
+ro, por sudor: los gruessos, y de muy adentro
+por la boca, y por el vientre, o irritando la vir-
+tud expulsiua: y que no es venenoso, pues es-
+ta experimentado, que tomado por la bo-
+ca en gran cantidad, no mata, antes con su pe-
+so baxa de presto sin ofensa alguna {AD. [^Lib<ro> de lue
+venerea, ca-
+pit<ulo> .17.]} Y a lo q<ue>
+dizen de los accidentes que prouoca el azo-
+gue, responde, que esto aco<n>tece, vsando mal
+del, o por descuydo, o por destemplanc'a, y
+mal regimiento del enfermo: y prueualo co<n>
+vn simil, que ninguno echa culpa al fuego,
+porque queme vna casa principal por negli-
+gencia de los criados. Dize mas, que el suce-
+der accide<n>tes, no lo causa el azogue, sino los
+humores viciosos: y que sino sanan algunos,
+es por la delicadeza, o por la destemplanc'a, o
+impericia, o la vehemencia del mal, o las po-
+cas fuerc'as del paciente. {AD. [^Cap<itulo> .25.]} Y a lo que oponen}
+{CW. del}
+[fol. 46r]
+{HD. Morbo Gallico.}
+{CB1.
+del hedor de la boca, y ternura, o caymiento
+de los dientes, y semejantes cosas: responde
+que no es en todos, y quando es en algunos,
+que no es tan malo, como estar co<n> perpetuos
+dolores, o llagas abominables, y a peligro de
+muerte. Y a la objeccion de que repercute los
+humores al estomago, y a los pulmones, res-
+po<n>de, que dado caso que esto fuesse verdad,
+salen luego por la boca, o por el vientre. Y fi-
+nalmente satisfaze a los que dizen ser la cu-
+ra peligrosa, respondiendo, que no se niega,
+pero que tambien lo son los otros medica-
+mentos, o por muy calientes, o frios, o purga-
+tiuos, o corrosiuos: y aun el manjar y la beui-
+da no carecen de peligro si se da mas de lo q<ue>
+conuiene, y fuera de tiempo y sazon.
+Grabiel Falopio aprobando el azogue, es-
+criue {AD. [^Lib<ro> de mor-
+bo Gallico.
+cap<itulo> 76.,]} que Iacobo Carpense fue el primer in-
+uentor de las vnciones con azogue, y que se
+hallo auer ganado a ellas quarenta mil escu-
+dos en oro, sin la moneda de plata, y otras jo-
+yas: y que el solia dezir, que debaxo del Sol
+auia dos mixtos milagrosos, que le causauan
+admiracion, conuiene a saber, la piedra[ ]yma<n>,
+y el azogue. Dize mas: {LAT. Qua ratione hoc faciat,} {AD. [Lib<ro> de mor-
+bo Gallico.
+cap<itulo> .76.]}}
+{CW. vt}
+[fol. 46v]
+{HD. Tratado de +}
+{CB1.
+{LAT. vt ingenue fatear, nescio; quae sit huius medicamenti fa-
+cultas, ignoro.}
+Ambrosio Pareo nota, que ay quatro ge-
+neros de remedios, que principalmente esta<n>
+recebidos para curar esta enfermedad. El
+primero es, el cozimiento del guayacan, o pa-
+lo santo. El segundo, las vnciones. El tercero
+emplastos. El quarto, sahumerios: y todos se
+componen con el azogue, excepto el prime-
+ro, que es agua. {AD. [^Lib<ro> .18. de
+lue venerea
+cap<itulo> .6.]}
+Nicolao Massa, despues de auer ensen~ado
+diuersos vnguentos de azogue, cuenta sus ad-
+mirables efectos {AD. [^Li<bro> de mor-
+bo Neapoli-
+tano, c<apitulo> .3.,]} diziendo, que digieren los
+humores flematicos esparzidos por todo el
+cuerpo, y que no obedecieron a muchos me-
+dicamentos, que mueuen euacuaciones sen-
+sibles, e insensibles, que tiempla<n> la malicia de
+los dichos humores, que mitigan dolores, sa-
+nan granos, resueluen, y madura<n> apostemas,
+mundifica<n>, y digieren las llagas, prouocan, y
+confortan la virtud expulsiua, para euacuar
+las superfluydades, y limpiar la sangre inficio-
+nada: y finalmente sin las euacuaciones ordi-
+narias de la boca y vientre, lanc'an por sudor
+las superfluydades de la quarta digestion, y}
+{CW. la}
+[fol. 47r]
+{HD. Morbo Gallico.}
+{CB1.
+la serosidad de la sangre por orina, y los ex-
+cr[e]mentos q<ue> se conuierten en vapor, sacan in-
+sensiblemente por los poros: y concluye con-
+firmando lo dicho con la autoridad de Sera-
+pion, de Auicena, de Halyabas, y Rasis, y de
+otros muchos antiguos.
+{RUB. De la cura desta enfermedad co<n>
+sahumerios. Cap<itulo> .XXVIII.}
+{IN3.} ENtre los principales remedios que pa-
+ra este mal puede<n> aprouechar, despues
+de las vnciones y emplastos, se cuenta<n>
+los sahumerios que lleuan cinabrio. Los qua-
+les se prefieren, y alaban en personas robus-
+tas y fuertes, quando ay llagas malignas en al-
+guna parte del cuerpo, especialmente en las
+narizes, o garganta, que no se han podido cu-
+rar con otros remedios, o por el oficio de la
+parte, o por el sitio, o figura, que no dan lugar
+a que pueda<n> estar mucho tiempo aplicados
+y asidos los medicamentos. Pero no se dan a
+los que tienen camaras, ni a los asmaticos, ni
+hecticos, ni a los que tiene<n> cale<n>turas agudas,
+ni a los muy flacos, ni a los de complexion}
+{CW. calien}
+[fol. 47v]
+{HD. Tratado de +}
+{CB1.
+caliente, ni a los que tienen tos, o alguna desti-
+lacion de la cabec'a, o a los que escupen san-
+gre. Hase pues de aparejar vna silla horadada
+por medio, a manera de vn bazin, y vn paue-
+llo<n> hecho de vnas sauanas este<n>didas con su ar-
+co redondo por de de<n>tro, y cubrase por enci-
+ma el pauello<n> con otras ma<n>tas, de suerte que
+por ninguna parte pueda salir el humo, o en
+lugar de vn pauellon vna estancia de tablas, o
+de piedra y cal como hornillo, dexando vna
+ventanilla pequen~a q<ue> se pueda abrir y cerrar:
+por la qual el enfermo oprimido con el hu-
+mo y calor pueda respirar alguna vez, tenien-
+do el rostro hazia ella y do<n>de estuuiere senta-
+do el enfermo desnudo, se po<n>ga debaxo vna
+cac'uela de lu<m>bre, y echese de<n>tro vn trocisco
+para cada vez, de nueue q<ue> diremos luego. Y
+despues q<ue> aya sudado vna hora, se lleue muy
+cubierto a la cama, en la qual estara todo el
+dia y la noche. Lo mismo se hara otros dos
+dias, echando tres trociscos para cada sahu-
+merio, hasta gastar todos nueue. El regimien-
+to ha de ser como en las vnciones.
+El sahumerio es, R<ecipe> de cinabrio quebran-
+tado dos onc'as y media, de encienso y esto-raque}
+{CW. raque}
+[fol. 48r]
+{HD. Morbo Gallico.}
+{CB1.
+liquido de cada vno drama y media:
+mezclese, haganse nueue como panezillos.
+Otro, que no es tan fuerte, R<ecipe> de cinabrio
+vna onc'a, de estoraque y benjuy de cada co-
+sa media onc'a: repartase en quatro vezes pa-
+ra quatro dias: salen para cada dia quatro dra-
+mas, que se echen en tres vezes sobre la lum-
+bre. Acabado el sudor, se limpie, y se vista ca-
+misa.
+Si huuiere fuerc'as, dese el sudor dos vezes
+al dia, y sino, basta vna vez: y auiendo flaque-
+za, no se de sino a tercero dia.
+La hora mas acomodada sera por la man~a-
+na, o a la tarde, passadas cinco horas despues
+de la comida.
+Antes que el enfermo entre al sudor, coma
+vna sopa, o bizcocho mojado, y luego beua.
+Auisen al enfermo, que si estando en el su-
+dor, desmayare, haga que le abran la ventani-
+lla para tomar ayre.
+Hase de continuar esta cura, hasta ver mal
+de boca, o camaras, o que se cierren las llagas
+de la garganta, narizes, o de otras partes.
+Y si con estas llagas huuiere dolores en ju<n>-
+turas, o partes carnosas, no sera fuera de pro-posito}
+{CW. posito}
+[fol. 48v]
+{HD. Tratado de +}
+{CB1.
+vntarlas blandamente, estando en el
+pauellon con alguno de los vnguentos que
+lleuan azogue.
+Y si quedare estren~ido el enfermo, tome
+media drama de pildoras de fumaria, o co-
+chias, o tres dramas de confeccio<n> Hamec, co<n>
+cozimiento de hojas de sen: y aun se puede
+sangrar, inflamandose mucho la garganta.
+A gente mas comun y ordinaria se dan es-
+tos perfumes, estando echados en su mesma
+cama, con poner vna caxa entre las piernas,
+y dentro de la caxa vna cac'uela con fuego, pa-
+ra recebir el medicamento, y que el enfermo
+este del todo desnudo, o alc'ada y subida la ca-
+misa, y la cabec'a muy tapada con pan~os, para
+que no le ofendan los humos, quedando ella
+fuera, y el cuerpo muy bien cubierto.
+{RUB. De la cura deste mal con c'arc'a, y
+china, y palo. Cap<itulo> .XXIX.}
+{IN3.} LOs medicamentos que prouocan su-
+dores en esta enfermedad, alimpian ta<m>-
+bien por los rin~ones y la vexiga las
+venas mayores, y lanc'an los humores corro<m>-pidos,}
+{CW. pidos}
+[fol. 49r]
+{HD. Morbo Gallico.}
+{CB1.
+que andan esparzidos por el cuerpo.
+El tiempo acomodado para este remedio, es
+despues de auerse sangrado, y purgado el en-
+fermo, sin q<ue> passen algunos dias: porque no
+precediendo estas euacuaciones, los tales su-
+dores no seria<n> de prouecho, sino de notable
+dan~o: porq<ue> guiaria<n> por las venas mas peque-
+n~as los humores gruessos q<ue> esta<n> en las tripas,
+y el suero recogido en las venas mayores: y
+assi el cuero, y las otras partes se ofende<n> mas.
+Por lo qual es necessario purgar por interua-
+los, y como dizen, de quando en quando, en
+medio y en fin de los sudores: porque los hu-
+mores gruessos que se allegan cada dia en los
+intestinos, y en el entresijo, salgan fuera por
+el vientre.
+Para cumplir con este intento, es muy ala-
+bado el palo santo, que llaman guayacan, es-
+pecialmente de Fernelio, y de Andres Lagu-
+na, el qual le ordena en la forma siguie<n>te. To-
+ma de aquel len~o escogido y escofinado vna
+libra, de la corteza dos onc'as, de la rayz de
+aristoloquia redo<n>da poluorizada media on-
+c'a, de la palomina seca media onc'a. Todas es-
+tas cosas esten en remojo vn dia natural den-tro}
+{CW. tro}
+[fol. 49v]
+{HD. Tratado de +}
+{CB1.
+de quinze libras de agua en vna olla ve-
+driada, y muy bien cubierta. Passadas venti-
+quatro horas se pone a cozer a fuego manso
+y sin humo, meneandolo de rato en rato co<n>
+vna espatula hecha del mismo len~o, hasta q<ue>
+se co<n>suma la media parte, la qual co<n>sumida,
+se cuela el agua que queda, y se guarde en
+vna redoma de vidrio bien atapada.
+Acabado esto, se torna a echar sobre las
+mesmas cosas ya cozidas otra tanta cantidad
+de agua, y se dexa heruir, hasta que se gaste la
+quarta parte: la qual gastada, se cuela el resto,
+y se guarda. A Fernelio le parece que se tome
+para el agua simple otra media libra del pol-
+uo del guayaca<n>, y que se eche a remojar con
+diez libras de agua tibia, por espacio de quin-
+ze horas, y que mengue, hasta quedar en
+siete {AD. [^Trat<ado> de lue
+venerea. c<apitulo>
+de ebano, so-
+bre Diosco<rides>.]}
+Danse del cozimiento primero comunme<n>-
+te caliente nueue onc'as a la man~ana, y otras
+tantas a la tarde desde a doze horas, para que
+sude el enfermo con ellas.
+Algunos ((como nota Leonardo Botalo)) {AD. [^Libr<o> de lue
+ven<erea> cur. ra-
+tio. c<apitulo> .29. de
+sudor.]} te-
+men el calor deste palo: y visto q<ue> se puede te<m>-
+plar, an~adiendo mas cantidad del agua, y qui-tando}
+{CW. tando}
+[fol. 50r]
+{HD. Morbo Gallico.}
+{CB1.
+del palo, o, como dize Laguna, si se te-
+me calor del higado, en lugar de la aristolo-
+quia del primer cozimiento, ponie<n>do vn pu-
+n~o de rayzes de chicorias, y de le<n>gua de buey,
+y vna onc'a de regaliza, quedara te<m>plada. Del
+otro cozimiento segundo se beue a comer, y
+a cenar, y entredia.
+Tambien nota Andrea Laguna, que a los
+de complexion flaca y fria, en lugar del co-
+zimiento segundo, se da vino preparado en
+esta forma. Sobre todas aquellas cosas antes
+que se ayan cozido, puestas en vn barril, se
+echan quatro ac'umbres de muy buen vino
+blanco hiruiente, y atapada la boca del vaso,
+se dexa assi tres dias: los quales passados, se
+cuela el vino, y se guarda para beuer ordina-
+riamente,
+De la china no se haze tanto caudal, sino
+es en mal no muy graue, o para preseruarse,
+o para cumplir con el desseo del pacie<n>te, que
+esta inclinado a ella.
+Tomanse quatro onc'as desta rayz corta-
+da menudamente, y a vezes cinco y seys, y
+echese en tres ac'umbres de agua, y cuezan a
+fuego manso, hasta quedar en vn ac'umbre.}
+{CW. Del}
+[fol. 50v]
+{HD. Tratado de +}
+{CB1.
+Del qual se pueden dar man~ana y tarde de
+ocho onc'as hasta doze. El agua simple se ha-
+ze, echando a la china cozida otra ta<n>ta agua,
+hasta consumir la quarta parte a fuego manso.
+La c'arc'a se cueze como la china, que es po-
+ner en doze libras de agua, quatro, o seys on-
+c'as de la c'arc'a, que se remoje doze horas, y
+despues hierua mansame<n>te, hasta quedar en
+la tercera parte, que es vn ac'umbre, o quatro
+libras.
+Hase de tener gra<n> cuydado ((como esta di-
+cho)) en regular la templanc'a del agua con la
+del paciente, y aduertir, que si el paciente es
+de naturaleza muy caliente, no se tape en de-
+masia, ni tampoco este mucho en el sudor: y
+lo contrario podra hazer el que abundare de
+humores flematicos y serosos.
+{RUB. Del modo que se ha de tener en
+administrar los sudores de a-
+gua de las cosas dichas. Capit<ulo>
+.XXX.}
+{IN2.} ANte todas cosas se ha de aduertir, como
+nota Botalo, hecha la consideracion de}
+{CW. que}
+[fol. 51r]
+{HD. Morbo Gallico.}
+{CB1.
+que sea tal el aposento qual conuiene, y la al-
+teracio<n> del ayre que en tal caso se requiere, q<ue>
+estos sudores si se pueden dar a dieta entera,
+que es comiendo passas y almendras, y bizco-
+cho de pan solo, sino a media dieta, que es da<n>-
+do vn pecho de aue assado a la comida, y a la
+cena las passas y almendras: y sino pudiere su-
+frir su flaqueza del paciente esto, que a la co-
+mida coma lo dicho, y a la cena dos hueuos.
+Sino pudiere sufrir dos sudores, que no se le
+de mas de vno: y sino pudiere sufrir vno, q<ue> se
+le de a tercero dia, y con esta consideracio<n> se
+conseguira lo que se pretende, que es salud,
+Ha de ser en esta manera. Dos horas salido el
+Sol, tomara el paciente la cantidad de agua q<ue>
+en el capitulo precedente esta dicho, calie<n>te:
+y luego quitada la camisa, le embolueran en
+vna sauana caliente, estando entre el colcho<n>
+y la dicha sauana vna frac'ada buena, y em-
+buelto en la sauana, y luego en la frac'ada, en-
+cima se le echara la demas ropa que pueda su-
+frir, dexandole libre el rostro para poder res-
+pirar. Y estara vna persona aduertida que de
+quando en qua<n>do le limpie el rostro: y si dur-
+miere en el dicho sudor, es bueno, porque es-tara {AD. [^Manera de
+tomar el a-gua.]}}
+{CW. tara}
+[fol. 51v]
+{HD. Tratado de +}
+{CB1.
+mas quieto, que es lo que importa. En es-
+ta forma ha de estar, si es posible, dos horas,
+alo[ ]menos hora y media: pero si fuere demasia-
+da su flaqueza, y los sudores le congoxaren
+demasiado echarsele ha menos ropa: y au<n> pue-
+de ser tanta la flaqueza, que sera bien con so-
+la la ropa ordinaria dalle su sudor, y no darse-
+lo sino vna vez al dia, o al tercero dia, como
+esta dicho. Quando se saca del dicho sudor,
+hase de tener abundancia de pan~os enxutos
+y calientes, y limpialle muy bie<n>, y ponelle su
+camisa caliente, y vn jubon con mangas, y su
+tocador, y de<n>tro de vna hora dalle de comer
+por el orden dicho.
+{RUB. De otro modo q<ue> ay de cura sin
+sudor, ni vncion. Cap<itulo> .XXXI.}
+{IN3.} BIen es verdad, que en buena medicina
+se ha de aplicar tan grande remedio, q<ue>
+corresponda a la grandeza de la enfer-
+medad: pero algunas vezes esta obligado el
+Medico prudente, viendo al paciente muy
+debil, y esta enfermedad muy sen~oreada, assi}
+{CW. de}
+[fol. 52r]
+{HD. Morbo Gallico.}
+{CB1.
+de lo espirituoso y humoral, como de lo soli-
+do, que si se huuiesse de aplicar remedio tal y
+tan grande, padeceria el enfermo: y viendo
+que el ojo derecho deue el Medico poner en
+naturaleza: por tanto co<n>uiene a los tales pro-
+curar que se reduzgan a mejor estado, dando
+al que le auian de sanar vnciones, sudores, y
+al que sudores, esta manera de cura: de la qual
+los mas de los modernos agora vsan en esta
+forma. Hechas las euacuaciones vniuersales,
+auiendole dado algunas vezes de alguno de
+los xaraues magistrales q<ue> despues diremos, se
+da vna larga beuida de agua, hecha en esta
+forma. De c'arc'aparrilla buena tres onc'as, vna
+de cortezas de palo santo, de poluos de su-
+maria dos onc'as: echarlo en remojo por ven-
+tiquatro horas en agua de la mejor fuente q<ue>
+se hallare quatro ac'umbres. Luego cueza a
+fuego manso, hasta que mengue la mitad: y
+si fuere menester hazella mas fresca, echar
+vnas rayzes de chicoria, de escorc'onera, de le<n>-
+gua de buey; y flor de borrajas, y de lengua
+de buey, o ceuada. Desta agua ha de tomar el
+paciente en leuantandose, quartillo y medio
+calie<n>te, y de alli a tres horas co<n> vna dozena de}
+{CW. almen}
+[fol. 52v]
+{HD. Tratado de +}
+{CB1.
+almendras tostadas, tomara vn quartillo a su
+comida, beuera agua simple, y tres horas des-
+pues de auer comido tomara otro quartillo:
+pero solo la primera vez de la man~ana ha de
+yr caliente, y despues frio. Ha de comer assa-
+do, aue, o carnero, perdiz, o conejo, o aues
+montesas: cenar vnos hueuos. Con este mo-
+do han de passar por lo menos .26. o .28. dias:
+y en este medio de cinco en cinco dias pur-
+garse con pildoras de lapide[+]lazuli, o confec-
+cion Hamec, o cosas semejantes: co<n> lo qual
+hemos visto a muchos sanar, estando muy es-
+tropeados. Otros echan en este mesmo cozi-
+miento al .4. o .5. dia vna onc'a de hojas de sen,
+entibia<n>dolo vn poco de parte de noche, y en
+la man~ana colarlo, y tomar la mesma canti-
+dad. Otros hazen con estos mesmos simples,
+y en lugar de agua, vino muy bueno, y esto
+en sujetos abundantes de humores flemati-
+cos y gruessos, suceden muy bien: y otros
+vsan destos mesmos simples en forma de co<n>-
+serua, como yra puesto adelante.
+Ay otra manera de curar esta enfermedad
+co<n> cerotos, en esta forma. El que tiene neces-
+sidad vigente de acudir a sus negocios, y de}
+{CW. ningun}
+[fol. 53r]
+{HD. Morbo Gallico.}
+{CB1.
+ningun modo puede tomar el agua dicha,
+au<n>que ella pocas vezes sana, si la enfermedad
+esta apoderada de las partes solidas. Hazense
+cerotos en esta forma, de azogue tres onc'as
+muerto co<n> azeyte de abeto, y de diaquilo<n> ma-
+yor cinco onc'as: mezclese, y estie<n>dase lo mas
+sutilmente, sin llegar a la lumbre, en olanda, y
+pongase deste pegote, o espadrapo en todas
+las junturas, y en las partes que aya sobrehues-
+sos, comiendo assado, y guardandose de sere-
+nos, y frios: de modo que vienen a babear de
+la mesma manera, que quando toman las vn-
+ciones, y finalmente sanan.
+{RUB. De las calidades del palo santo,
+c'arc'a y china. Cap<itulo> .XXXII.}
+{IN3.} DEl guayaca<n>, o palo santo, o palo de In-
+dias ((q<ue> es todo vna cosa misma)) se ha-
+lla grande cantidad en la Isla de Santo
+domingo, como muy bien trata Monardes,
+el qual lo pone por caliente y seco, en quan-
+to a sus calidades manifiestas: pero tiene mas,
+que es bezoartico, o por mejor dezir, tiene ca-
+lidad oculta contra esta enfermedad, y assi le}
+{CW. dan}
+[fol. 53v]
+{HD. Tratado de +}
+{CB1.
+dan primer lugar entre los remedios contra
+este mal. Dexo opiniones de muchos, q<ue> vnos
+han dicho que es euano, otros especie de
+box, et<cetera>.
+Pero realmente ((como dize Monardes)) en
+el lugar alegado, este es vn arbol como enci-
+na, o carrasca: despide la corteza quando se se-
+ca: tiene grande corac'on, que tira a negro: la
+corteza es gumosa, la hoja pequen~a y dura,
+la flor amarilla, el fruto redondo, con pepi-
+tas de dentro. Es el fruto tan gra<n>de como vna
+nuez. Tambien dize el mesmo autor, que en
+san Iuan de Puerto Rico ay destos arboles,
+au<n>que mas pequen~os. Es mas aromatico, y al
+gusto amargo: y deste vltimo es el que traen
+a esta tierra. Es calie<n>te y seco en segundo gra-
+do: aunque es verdad, que la corteza tiene la
+mesma prerrogatiua, es quanto alexifarma-
+co mas buena que el corac'on.
+Esta rayz que traen de la China e Indias, es
+vna rayz como la de la can~a, y con algunos
+nudos: es colorada por defuera, y dentro de
+vn color blanco, tirante a roxo. La eleccio<n> de-
+lla es, la mas fresca, solida, pesada, sin carco-
+ma, o agugerillos, sin sabor, algo xugosa. Es-ta}
+{CW. esta}
+[fol. 54r]
+{HD. Morbo Gallico.}
+{CB1.
+rayz caliente en primero, bien remisso, y
+seca en segundo grado. Hallase tambien en
+la Nueua Espan~a.
+Botalo dize de la c'arc'aparrilla, que no se de-
+ue estimar en menos que la china, ni el palo,
+porque mueue sudor marauillosamente, y ta<m>-
+bien orinas. Y dize Monardes, que no solo
+vale para mal Frances, pero que tambien pa-
+ra corrimientos enuejecidos, y abundantes
+de humores flematicos, y resfriados: y a mu-
+geres achacosas de la madre, de que tiene<n> en
+ella superfluydades, les es de grande proue-
+cho.
+Es pues la c'arc'aparrilla la mejor, la mas
+fresca que quebrandola, no tenga poluo, y ra-
+jandola, vaya la raja co<n> correa y fortaleza. Es
+buena la que es mas gruessa, la que en su co-
+lor tira a negro. Es algo mas caliente, que la
+china, y en sequedad tiene vn grado mas. El
+que la llama smilax aspera, se engan~a, que la
+smilax aspera, es la mesma que aca tenemos
+junto a los rios y partes humidas: y assi
+su nombre propio es smilax In-
+dica, o Indiae.}
+{CW. De}
+[fol. 54v]
+{HD. Tratado de +}
+{CB1.
+{RUB. De algunas particularidades acer-
+ca desta cura. Cap<itulo> .XXXIII.}
+{IN3.} DE los accidentes que mas suelen afli-
+gir al enfermo, que deste mal se cura,
+tomando las vnciones, es el mal de la
+boca, el qual suele ser tan grande, q<ue> yo he vi-
+sto muchas vezes echar los pedac'os de la len-
+gua podrida, y a otros los dientes, y otros ver-
+se tan afligidos, que dessea<n> la muerte, por no
+passar tanto dolor, ardor, y pesadumbre, he-
+dor, y a las vezes fluxos de sangre: otras ve-
+zes suelen ser algunos tan rebeldes, que aun-
+que se les den mil vnturas, no les haze mas
+sentimiento, que si no se les diesse ninguna.
+Otros que comienc'an a escupir, y tener mal
+en la boca, y el Medico poco docto manda-
+les que se lauen con cosas frias y secas y haze<n>
+que el humor q<ue> auia de ser llamado a la bo-
+ca con vn poco de vino blanco aguado y ti-
+bio ((que esta es la mejor medicina)) cesse, y as-
+si no sucede la cura como co<n>uiene: y assi ayu-
+dado con el vino aguado, como esta dicho, y
+teniendo en la boca algunas cosas de oro, el
+qual atrae para si el azogue, escupen bien, sin}
+{CW. congo}
+[fol. 55r]
+{HD. Morbo Gallico.}
+{CB1.
+congoxa, ni pesadumbre: y ya quando lo que
+se babea, ha dias que perseuera, y esta mas
+cozido, y las llagas estan muy suzias, es bien
+el vino aguado con agua de cabec'uelas de
+rosas, y deshazer vn poco de vnguento Egip-
+ciaco, an~adiendo, o quitando, segun se fuere<n>
+limpiando las llagas: y si fuere mucha la des-
+templanc'a caliente, y la boca estuuiere muy
+hinchada, lauarse con cozimiento de ce-
+uada, y rosas, echando miel rosada, y vn
+poco de piedralumbre, o en el cozimiento
+echar vn poco de oximiel squilitico, vntalle
+cada noche co<n> azeyte de almendras dulces, y
+de lombrices, y enxundia de gallina, la gar-
+ganta. Algunas vezes suelen estar los sobre-
+huessos tan enuegecidos, que aunque que-
+de algo dellos, puede quedar muy bien cu-
+rado el enfermo, y quedar aquel tumor tan
+seco, que no aya en la parte rastro del mal,
+y quedar empedernido aquello. Solemos
+quando son rebeldes. despues de auerse cu-
+rado, poner pan~os de aguardiente calien-
+te, y despues de enxuto, dalle con el vnguen-
+to encima, y dexar vn pan~o del vnguento
+sobre ellos. {AD. [^Nota.]}}
+{CW. Otras}
+[fol. 55v]
+{HD. Tratado de +}
+{CB1.
+Otras vezes se fomenta el tumor con vi-
+nagre squilitico, y limpio se pone el vngue<n>-
+to: y sino gustare el enfermo del vnguento,
+puedese poner vn pegado de diaquilon ma-
+yor con vn poco de soliman, y la tercera par-
+te del emplasto de azogue muerto con azey-
+te de castoreo. Este pegado haze mas efecto
+que el de ranas, y tambien vsamos el de ra-
+nas, y otras vezes del verde de Galeno.
+Ofrecese vna dificultad, la qual yo nun-
+ca he hallado autor que la diga, tratando de-
+ste mal, y la he comunicado con Medicos
+doctos, y vnos dizen de vna manera, y o-
+tros de otra: y es, que sea la razon, que ve-
+mos que se junta vn ho<m>bre muy estropeado
+y perdido desta enfermedad, co<n> vna muger
+muy sana, y dormir, y habitar ju<n>tos algunos
+an~os, y no ofenderla, ni pegalle mal ningu-
+no? Otros q<ue> estan muy sanos, y ellas muy en-
+fermas, y quedar buenos el vno y el otro?
+Otros, que el varon esta muy perdido, la mu-
+ger sana, y quedar ella perdida, y el viuir, y
+quedar muy sano: y otras al reues, estar ella da-
+n~ada, y el sano, y quedar el perdido, y ella bue-
+na: y otros que el vno y al otro lo quedan: y}
+{CW. esto}
+[fol. 56r]
+{HD. Morbo Gallico.}
+{CB1.
+esto es lo mas ordinario. Pero verdaderame<n>-
+te en buena Filosofia no tiene esto dificultad,
+y assi digo, que de la mesma manera q<ue> en to-
+das las acciones naturales se requiere<n> tres co-
+sas, que aya causa que haga, sujeto dispuesto
+a recebir, y aproximacion: pues agora digo,
+que el que esta dan~ado deste mal, allegando-
+se a aquella que esta sujeta a recebir, puede
+ella estar tan dispuesta a recebir, y el tan ro-
+busto para arrojar, que quede ella co<n> toda la
+infeccion, y el libre, o al reues. Y con esta ra-
+zon se concluye con todos los demas
+casos: con lo qual se da fin a
+este capitulo.
+{ILL.}}
+{CW. ANTI}
+[fol. 56v]
+{HD. ANTIDOTARIO}
+{CB1.
+{RMK: HSMS-0180-0002: Antidotario breve.} {RUB. ANTIDOTARIO
+BREVE DE LAS DIFE-
+rencias de xaraues Magistrales,
+apocimas, vnguentos, pegados,
+poluos, conseruas, y vinos, que
+por nuestras Espan~as se
+vsan para la cura de-
+ste mal.}
+{RUB. APOCIMA PARA DES-
+pues de purgado y sangrado el enfer-
+mo, si de su naturaleza fuere
+flematico.}
+{IN5.} TOMA Doradilla dos mano-
+jos, fumaria vn manojo, flor
+de borrajas, y de lengua de
+buey, de cada vna vn pun~ado,
+de la corteza d<e> la raiz del cardo
+corredor vna onc'a, hojas de sen, epitimo y po-
+lipodio de cada cosa vna onc'a, mirabolanos
+Indos, y chebulos, de cada vno dos dramas, de
+palo de las Indias raspado vna onc'a, de c'arc'a-parrilla}
+{CW. parrilla}
+[fol. 57r]
+{HD. Antidotario.}
+{CB1.
+dos onc'as: echese en infusion en seys
+libras de agua, por vn dia, y vna noche: cueza
+despues a fuego manso, hasta que se gaste la
+mitad: cuelese, y colado, se le an~adira xaraue
+de fumaria, y miel rosada, de cada cosa ocho
+onc'as, y desta se toma cada vez cinco onc'as.
+{RUB. Apocima para quando el que tiene mal
+Frances, tiene debil el estomago.}
+% Toma doradilla, y fumaria, de cada vno
+vn manojo, de betonica manojo y medio, de
+flor de borrajas, y de lengua de buey, de ca-
+da vna vn pun~ado, hojas de sen, epitimo, y
+polipodio, de cada vno tres dramas, anis vna
+drama, rayzes de escorc'onera dos onc'as, cue-
+za todo en seys libras de agua, hasta q<ue> gaste la
+mitad: quando lo aya colado, an~ade de xara-
+ue de fumaria cinco onc'as, de xaraue de can-
+tueso quatro onc'as, de cortezas de cidra vna
+onc'a.
+{RUB. Otra apocima muy buena.}
+% Toma palo santo raspado vna onc'a, dora-
+dilla, y fumaria de cada vno, dos manojos, flor
+de las dos blugosas dos pun~ados, c'arc'aparri-lla}
+{CW. lla}
+[fol. 57v]
+{HD. Antidotario.}
+{CB1.
+dos onc'as y media, ceuada descortezada
+dos pun~ados, rayzes de escorc'onera, y de a-
+chicoria, de cada vno dos onc'as, hojas de sen
+epitimo y polipodio, de cada vno media on-
+c'a, mirabolanos Indos, y chebulos, de cada
+vno media onc'a, eche<n>se en remojo por espa-
+cio de veintiquatro horas en quatro libras de
+agua: cueza despues a fuego manso, hasta ga-
+star la tercera parte, y despues de colado, xara-
+ue de fumaria, y miel rosada, an~ade de cada
+cosa seys onc'as, y mezclese.
+{RUB. Xaraue Magistral de palo santo.}
+% Toma palo santo raspado tres onc'as, cue-
+za en seys libras de agua, hasta que gaste las
+dos partes: cuelese, y con ac'ucar hagase xara-
+ue segun arte.
+{RUB. Electuario de palo santo.}
+% Toma de la corteza del palo santo raspa-
+do, y despues muy molido vna libra, co<n> xara-
+ue de fumaria, segun arte, hagase el letuario.
+{RUB. Vino del palo santo.}
+% Toma doradilla, fumaria, y escabiosa, de}
+{CW. cada}
+[fol. 58r]
+{HD. Antidotario.}
+{CB1.
+cada vna vn manojo, cueza todo en seys li-
+bras d<e> agua, cuelese, y a lo colado an~adase de
+la corteza del palo santo, hecho poluo, me-
+dia libra; de vino bla<n>co bueno diez libras. Es-
+tese assi por veynte y quatro horas; cueza des-
+pues a fuego manso, hasta que g[a]ste la quar-
+ta parte, cuelese. Hase de tomar cada man~ana
+quatro, o seys onc'as en ayunas, estando pur-
+gado el paciente.
+{RUB. Otro vino de palo santo.}
+% Toma de vino blanco muy bueno treyn-
+ta libras, que son dos ac'umbres escassas, palo
+santo hecho poluos libra y media, polipodio,
+hojas de sen, y epitimo, de cada vno vna on-
+c'a, encienso vna drama por .24. horas este en
+infusion, an~adiras luego de aguardiente seys
+onc'as, a fuego manso cueza, hasta gastar la
+tercera parte, y luego lo colaras. Deste vino
+se tomara de cinco a siete onc'as en ayunas.
+{RUB. Pegado.}
+% Toma emplasto verde de Galeno, y estie<n>-
+delo en cuero a la forma que quieras.
+{RUB. Conserua magistral de c'arc'a.}}
+{CW. Toma}
+[fol. 58v]
+{HD. Antidotario.}
+{CB1.
+% Toma de c'arc'aparrilla y hojas de sen, de
+cada vno dos onc'as, de palo santo vna onc'a,
+de pa<n> bizcochado vna onc'a: hagase todo pol-
+uo, y con vna libra de miel hagase vna con-
+feccion.
+{RUB. Xaraue Magistral de c'arc'a, que se
+usa en Seuilla.}
+% Toma de palo santo y c'arc'aparrilla de ca-
+da cosa quatro onc'as, de ceuada dos pun~a-
+dos, rayzes de escorc'onera, y chicoria de cada
+vno quatro onc'as, polipodio, y hojas de sen
+de cada vno tres onc'as, de las quatro flores
+cordiales dos pun~ados, turbit vna drama, cue-
+za todo en suficiente cantidad de agua, segu<n>
+arte: an~ade despues de colado el ac'ucar que
+bastare, y hazlo xaraue.
+{RUB. Otro electuario de c'arc'a.}
+% c'arc'aparrilla quatro onc'as, polipodio,
+hojas de sen, de cada vno drama y media,
+diagridio vn escrupulo, de pan bizcochado
+dos onc'as, de aguardiente cinco onc'as, miel
+vna libra: hagase segun arte electuario.
+{RUB. Xaraue Magistral de c'arc'a.}}
+{CW. Toma}
+[fol. 59r]
+{HD. Antidotario.}
+{CB1.
+% Toma de lupulos y fumaria de cada vno
+vn manojo, chicorias, y borrajas de cada vno
+dos manojos, corteza de palo santo, y de c'ar-
+c'aparrilla de cada vno quatro onc'as, flores
+cordiales vn pun~ado, polipodio dos onc'as, ho-
+jas de sen, y epitimo de cada vno onc'a, de
+hermodatiles media onc'a: echese todo en re-
+mojo en suficiente cantidad de agua, cueza
+a fuego manso segun arte, y toma deste cozi-
+miento tres libras, xaraue de fumaria vna li-
+bra, xaraue de borrajas media libra, co<n> ac'ucar
+lo que bastare, hagase xaraue.
+{RUB. Otro xaraue Magistral del palo.}
+% Toma palo santo raspado vna libra, de la
+corteza del mismo palo dos onc'as, c'arc'aparri-
+lla seys onc'as, segun arte se corte, y apareje, y
+echese en diez y seys libras de agua por vna
+noche y vn dia: despues po<n>gase a cozer a fue-
+go manso, hasta que gaste la mitad, y despues
+de auer mucho rato cozido, echaras polipo-
+dio seys onc'as, de orozuz tres onc'as, rayzes
+de lengua de buey, de lupulos y chicoria, de
+cada vno quatro onc'as, hojas de cardo santo,
+y doradilla, de cada vno vn manojo, ciruelas}
+{CW. passas}
+[fol. 59v]
+{HD. Antidotario.}
+{CB1.
+passas seys onc'as, passas sin granillos dos on-
+c'as, guarda<n>do la graduacio<n>, cueza, y cuelese,
+y en la prensa se exprima: toma deste cozimie<n>-
+to ocho libras, y cueze en el de hojas de sen
+ocho onc'as, de hermodatiles dos onc'as, tur-
+bit media drama, epitimo media onc'a, flores
+cordiales, romero, y lupulos, de cada vno vn
+pun~ado, anis, canela, y cortezas de cidras, de
+cada vno tres dramas, cuelese, y con pre<n>sa se
+exprima, y con ac'ucar hagase xaraue.
+{RUB. Otro xaraue Magistral de c'arc'a.}
+% Toma c'arc'aparrilla, y palo santo de cada
+vno ocho onc'as: echese en remojo vna noche
+y vn dia en veynte libras de agua, despues
+cueza, hasta gastar las dos partes, y mientras
+cueza, echaras polipodio quatro onc'as, rayz
+de dictamo blanco vna onc'a, chicorias con
+rayzes, borrajas, lupulos, fumaria, doradilla,
+cardo santo, y saluia, de cada vno vn manojo,
+ciruelas passas, y passas, de cada vno quatro on-
+c'as: guarda la graduacion, segun arte, y cue-
+lese, y colado, se infundira hojas de sen diez
+onc'as, epitimo vna onc'a, turbit media onc'a,
+anis media onc'a, canela vna onc'a, flores cor-diales}
+{CW. diales}
+[fol. 60r]
+{HD. Antidotario.}
+{CB1.
+dos pun~ados, cueza segun arte, y cue-
+lese, y con ac'ucar hagase xaraue.
+{RUB. Otro xaraue de c'arc'a.}
+% Toma quatro onc'as de c'arc'a, polipodio,
+quercino cinco onc'as, hojas de sen ocho on-
+c'as, epitimo quatro dramas, ciruelas passas
+doze, flores cordiales tres pun~ados, anis, y ca-
+nela, de cada vno dos dramas, infundase se-
+gun arte por .24. horas en doze libras de agua,
+y cuezase a fuego manso segu<n> arte, y en la ex-
+pression se an~ada tres libras de azucar, y dos
+libras de nueue infusiones, y buelua a cozer
+segun arte, hasta que tenga punto de xaraue.
+Dosis tres onc'as.
+{RUB. Pildoras Magistrales para el mal
+Frances.}
+% Toma c'arc'aparrilla vna libra, cueza en su-
+ficiente cantidad de agua, hasta q<ue> queden so-
+las ocho onc'as: embeua<n>se estas en dos onc'as
+de azibar hepatico, y sobre ello poluoriza de
+mirra vna quarta, ac'afran vn escrupulo, vino
+blanco vna onc'a, c'umo de hojas de tabaco, y
+de cardo benedicto, y hojas de sen, de cada}
+{CW. vno}
+[fol. 60v]
+{HD. Antidotario}
+{CB1.
+vno media onc'a de todos, reduzelo en forma
+de pildoras.
+{RUB. Vnguento para el mal Frances.}
+% Toma enxundia de puerco sin sal vna li-
+bra, vnguento Marciaton, y de Arago<n>, de ca-
+da vno vna onc'a, y otra onc'a de triaca magna
+azogue muerto en la enxundia ocho onc'as,
+dialtea, y vngue<n>to de Agripa de cada vna on-
+c'a, ceniza de sarmientos quatro onc'as, azey-
+te de laurel dos onc'as, azeyte de arrayan, y es-
+toraque liquido, de cada vno dos onc'as, en-
+cie<n>so, y almaciga hecho poluos, de cada vno
+media onc'a, hagase vnguento segun arte, tra-
+yendolo con la espatula, hasta que se encor-
+pore el azogue.
+{RUB. Pegado.}
+% Toma diaquilon mayor dos onc'as, soli-
+man molido vna drama, mezclese, y estie<n>da-
+se en pegado para los sobrehuessos.
+{RUB. Otro unguento.}
+% Toma enxundia de puerco quatro libras,
+azeyte de laurel vna libra, ceniza de sarmien-tos}
+{CW. tos}
+[fol. 61r]
+{HD. Antidotario.}
+{CB1.
+quatro onc'as, mirra, almaciga, y encien-
+so, de cada vno vna onc'a, triaca magna onc'a
+y media, azogue vna libra, hagase segun arte.
+{RUB. Otro unguento.}
+% Azogue extinto en oro vna libra, enxun-
+dia de puerco tres libras, vnguento de Ara-
+gon, y Marciato<n> de cada vno tres onc'as, azey-
+te de laurel, y estoraque liquido, de cada vno
+dos onc'as, triaca magna vna onc'a, de azeyte
+de ma<n>c'anilla dos onc'as, cera en el azeyte pri-
+mero mezclada onc'a, y media, hagase vn-
+guento.
+{RUB. Otro unguento, que es el que usan en To-
+ledo en el hospital de Santiago de
+los Caualleros.}
+% Toma enxundia de puerco libra y me-
+dia, azeyte de manc'anilla, de almastiga, enel-
+do, de cada vno dos onc'as, azeyte de laurel
+vna onc'a, estoraque liquido vna onc'a, rayz
+de ebula, y de la enula de cada vna quatro on-
+c'as, de cantueso, y esquina<n>to, de cada vno vna
+onc'a, euforbio dos onc'as, vino blanco dos li-
+bras, cuezase ju<n>to, hasta que se gaste el vino:}
+{CW. cuelese,}
+[fol. 61v]
+{HD. Antidotario}
+{CB1.
+cuelese, y an~ade de litargirio quatro onc'as, al-
+mastiga, encienso, de cada vno vna onc'a, de
+resina, y treme<n>tina de abeto, de cada vno dos
+onc'as, cera bla<n>ca dos onc'as, azogue muerto
+quatro onc'as, triaca magna dos onc'as, ha-
+gase vnguento segun arte.
+{RUB. Otro unguento.}
+% Toma enxundia de puerco sin sal dos li-
+bras, manteca de vacas ocho onc'as, almasti-
+ga, y encienso, y oropimente, marquesitas,
+resina, trementina, dialtea, barniz de espade-
+ros, y aluayalde, de cada vno vna onc'a, azey-
+te vulpino, de laurel, de eneldo, y de lombri-
+zes, de cada vno vna onc'a, azogue ocho on-
+c'as, vermellon vna onc'a, hagase segun arte.
+{RUB. Otro unguento.}
+% Toma enxundia de puerco quatro on-
+c'as, azeyte de laurel seys onc'as, azogue muer-
+to con el azeyte quatro onc'as, vnguento de
+Agripa vna onc'a, triaca magna tres dramas,
+con vna onc'a de estoraque liquido
+hagase vnguento}
+{CW. Vnguen}
+[fol. 62r]
+{HD. Antidotario.}
+{CB1.
+{RUB. Vnguentos para los bubosos casi hecticos.}
+% Toma vnguento refrigerante de Gale-
+no tres onc'as, azogue muerto en azeyte de
+alme<n>dras dulces vna onc'a, hagase segun arte.
+{RUB. Poluos para los que tienen bubas.}
+% Toma hojas de sen, y epitimo, de cada vno
+dos onc'as, mirabolanos Indos, y chebulos,
+de cada vno drama y media, culantro prepa-
+rado vna onc'a, c'arc'a onc'a y media, muelase
+no muy sutil, y an~ade onc'a y media de ac'u-
+car.
+{RUB. Otros poluos.}
+% Toma hojas de sen, epitimo y polipodio,
+de cada vno tres dramas, mirabolanos Indos,
+y chebulos, de cada vno dos dramas, rayz de
+cardo corredor, y de la enula, de cada vno dra-
+ma y media, culantro preparado media on-
+c'a, muelase medianamente, y an~ada<n>se, trocis-
+cos de canfora tres dramas, ac'ucar vna onc'a,
+y mezclese.
+En esta Corte se tiene en vso el cozimien-
+to de sen Magistral, que el Doctor Puxino}
+{CW. tiene}
+[fol. 62v]
+{HD. Antidotario.}
+{CB1.
+tiene escrito para mezclar con estos xaraues
+y no solo con ellos, pero es cosa marauillosa
+su buen efecto, y assi se mezcla co<n> las demas
+medicinas purgantes. Es esta la recepta.
+Toma hojas de sen y polipodio, de cada vno
+dos onc'as, passas de Corinto tres onc'as, cirue-
+las passas nu. .20. canela, y gengibre, de cada
+vno dos dramas, anis quatro dramas, cozimie<n>-
+to de ceuada quatro libras: echese en remojo
+por seys horas, despues cueza, hasta que gas-
+te la quarta parte, y entonces an~ade flor de
+violetas, y de las dos buglosas, de cada vno
+dos pun~ados, cueza otro poco, y cuelese.
+Con lo qual se da fin a este libro, a honra
+y gloria de Dios nuestro Sen~or, de su bendi-
+tissima Madre, y de los gloriosos Apo-
+stoles san Pedro y san Andres,
+mis abogados.
+{RUB. FIN.}}
+{CW. TA}
+[fol. 63r]
+{CB1.
+{RUB. TABLA DE LOS
+CAPITVLOS CONTE-
+nidos en este tratado.}
+{IN2.} CAp<itulo> Primero del sujeto de la
+obra, pag<ina> .I.
+Cap<itulo> .II. si las bubas sea enferme-
+dad nueua, y no conocida de
+los antiguos pag<ina> .3.
+Cap<itulo> .III. De las causas desta en-
+fermedad, pag<ina> .5.
+Cap<itulo> .IIII. Si el higado, o los hu-
+mores que en el se engendran,
+sea el minero, y es ca[usa], y fue<n>te des-
+ta enfermedad, pag<ina> .8.
+Cap<itulo> .V. A que personas fatiga es-
+ta enfermedad, pag<ina> .9.
+Cap<itulo> .VI. De las sen~ales desta en-
+fermedad quando comienc'a,
+pag<ina> .II.}
+{CW. Cap.}
+[fol. 63v]
+{HD. TABLA.}
+{CB1.
+Cap<itulo> .VII. De las especies y dife-
+rencias desta enfermedad, pa-
+gina .13.
+Cap<itulo> .VIII. Como se podra de-
+fender cada vno despues del
+coito, desta enfermedad. .16.
+Capit<ulo> .IX. Si al principio deste
+mal, o en la primera especie d<e>l
+conuenga sangrar, pag<ina> .18.
+Cap<itulo> .X. De las llagas que se haze<n>
+en el miembro de la genera-
+cion, pag<ina> .19.
+Cap<itulo> .XI. Porq<ue> auiendo llagas en
+el miembro de la generacion,
+acude seca a la ingle, y que se le
+ha de hazer, pag<ina> .21.
+Cap<itulo> .XII. Del prepucio qua<n>do
+esta tan hinchado, q<ue> no se pue-
+de descubrir la gla<n>de, para cu-
+rar las llagas. pag<ina> .22.}
+{CW. Cap.}
+[fol. 64r]
+{HD. TABLA}
+{CB1.
+Cap<itulo> .XIII. Que se ha de hazer,
+quando esta<n>do descubierta la
+gla<n>de, se hincha el prepucio, sin
+que se pueda boluer, pag<ina> .24.
+Cap<itulo> .XIIII. De otro mal del pre-
+pucio, quando corro<m>piendose
+el cuero, se haze vn agujero, q<ue>
+se assoma la glande, pag<ina> .25.
+Cap<itulo> .XV. De la fistula que se ha-
+ze en el miembro viril, que sa-
+le la orina por ella, pag<ina> .27.
+Cap<itulo> .XVI. De las berrugas q<ue> se
+hazen en el prepucio, pag<ina> .29.
+Cap<itulo> .XVII. De los que purgan
+materias por el can~o, pag<ina> .30.
+Cap<itulo> .XVIII. De los encordios,
+pag<ina> .34.
+Cap<itulo> .XIX. De la cayda de los pe-
+los, pag<ina> .37.
+Capit<ulo> .XX. De los empeynes, y}
+{CW. otras}
+[fol. 64v]
+{HD. TABLA}
+{CB1.
+otras infecciones del cuero, co-
+mo sarna, pag<ina> .43.
+Cap<itulo> .XXI. de los dolores q<ue> acu-
+den a las ju<n>turas y huessos de
+los que tiene<n> este mal, pag<ina> .45.
+Cap<itulo> .XXII. De las gomas, y so-
+brehuessos deste mal. pag<ina> .47.
+Cap<itulo> .XXIII. Del dolor de cabe-
+c'a deste mal, pag<ina> .52.
+Cap<itulo> .XXIIII. De las talparias y
+llagas que se hazen en la cabe-
+c'a. pag<ina> .59.
+Cap<itulo> .XXV. De la cura desta en-
+fermedad, co<n> las vnciones que
+lleuan azogue, pag<ina> .62.
+Cap<itulo> .XXVI. Porque los vnta-
+dos suelen caer en accidentes
+graues, y como se han de soco-
+rrer, pag<ina> .74.
+Cap<itulo> .XXVII. Que el azogue no}
+{CW. sea}
+[fol. 65r]
+{HD. TABLA.}
+{CB1.
+sea veneno a los cuerpos hu-
+manos, saluo sino vsaren mal
+del, pag<ina> .78.
+Cap<itulo> .XXVIII. De la cura desta
+enfermedad con sahumerios,
+pag<ina> .83.
+Cap<itulo> .XXIX. De la cura deste mal
+con c'arc'a, y china, y palo. .86.
+Cap<itulo> .XXX. Del modo que se ha
+de tener en administrar los su-
+dores de agua. .90.
+Cap<itulo> .XXXI. De otro modo q<ue>
+ay de cura, sin sudor, ni vn-
+cion. .92.
+Cap<itulo> .XXXII. De las calidades
+del palo santo, c'arc'a, y china,
+pagina .95.
+Cap<itulo> .XXXIII. De algunas par-
+ticularidades acerca desta cu-
+ra. pagina .98.}
+{CW. Anti}
+[fol. 65v]
+{HD. TABLA.}
+{CB1.
+Antidota(a)rio de las diferencias
+de xaraues Magistrales, apo-
+cimas, vnguentos, pegados,
+poluos, co<n>seruas, y vinos, que
+por nuestras Espan~as se vsan
+para la cura deste mal. pag<ina> .102.
+EN MADRID,
+Por Luis Sanchez.
+An~o .M.DC.}

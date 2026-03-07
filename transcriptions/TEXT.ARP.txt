@@ -1,0 +1,1034 @@
+{RMK: HSMS-0143.}
+{RMK: Leonardus Pisanus.}
+{RMK: [ARP] Aritmética práctica.}
+{RMK:.}
+{RMK: Madrid | Biblioteca Nacional de España | MSS/10106.}
+{RMK: Thomas M. Capuano, Raymond G. Feilner Jr.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0143-0001: Aritmética práctica.}[S]egu<n>t q<ue> ya(~) a( )vemos dich~o vna fegura sola sinjfica vnjdat asi com<m>o/. 1 senefica
+vno E dos feguras en vn(~)o asi puesta[s]/. 21/ sinjfica<n> vey[n]te/ & vn(~)o/ & otrosy
+tres figuras asy puestas [321] sinjfica<n>/. (321/) ccc xxj/ ot<r><<o>>si quat<r><<o>> feguras
+asy fechas/ 4321/ sinjfica<n>/ iiij<<o>> <mil> ccc xxj/. ot<r><<o>>si c'inco figuras asi puestas/ 54321/
+sin(~)jfica<n>/. l iiij<<o>> <mil> ccc xxj Ot<r><<o>>si (tres) [seis] figuras atal<e>s/. 654321/ sinjfican/. dc l iiij<<o>> <mil>
+ccc xxj ot<r><<o>>si siete figuras atal<e>s/ 7654321/ sinjfica<n>/ vij<<e>> <mil> <mil> dc l iiij<<o>> <mil> ccc xxi/ ot<r><<o>>sy
+och~o figuras asi puestas/. 87654321/ synyfican/ lxxx vij<<e>> <mil> <mil> dc l iiij<<o>> <mil> ccc(^<<o>>) xxj
+ot<r><<o>>si Nueue figuras atal<e>s/. 987654321 sinyfica<n>/. ix lxxx vij<<e>> <mil> <mil> dc l iiij<<o>> <mil>
+xxj/. E la mas ligera E la mas presta con(~)osc'enc'ia de leer a( )tales
+Capitulo dela q<u><<a>>rta dela postrimera Regla abba eso es pa<<r>>tjr por Rotos E por entregos segu<n>t
+q<ue> luego se sigue/. p<ri>m<er>a me<n>te si q<u><<i>>sieres parte (^q<u><<a>>[*l])/ 1÷4/ por/ 1÷3 multeplica/ 1/ q<ue> es sobr<e>
+4 por/ 3/ faz'en/ 3/ ot<r><<o>>si multiplica/ 1/ q<ue> es sobr<e>/ 3 por/ 4/ faz'en/ 4/ agora pa<<r>>te
+3 por/ 4/ E valen/ 3÷4 E si q<u><<i>>sieres pa<<r>>tjr/ 1÷3/ por/ 1÷4/ parte/ 4/ por/ 3/ valen/ 1/ 1÷3/
+E ot<r><<o>>si si q<u><<i>>sieres pa<<r>>tir/. 4÷5 por/ 2÷3/ multiplica/ 4/ q<ue> es sobr<e>/ 5/ por/ 3 E faz'en
+12/ E ponlo apa<<r>>te/ ot<r><<o>>si multiplica(~)/ 2 q<ue> es sobr<e>/ 3/ por el/ 5 E faz'en/ 10/ agora
+parte/ 12/ por/ 10/ E vale/ 1/ 1÷5/ E por aq<ue>stas dos man<er>as de Reglas lo puedes
+Ffaz'er de todos los senblant<e>s Rotos}
+{CB3.
+{=DIAG.
+1÷4 por 1÷3
+3 por 4
+valen 3÷4}}
+{CB3.
+{=DIAG.
+1÷3 por 1÷4
+4 por 3
+vale<n> 1/ 1(^2)÷[*3]}}
+{CB3.
+{=DIAG.
+4(^??)÷5 por 2÷3
+12 por/ 10
+vale<n>/ 1/ 1÷5}}
+{CB1.
+Ot<r><<o>>sy si q<u><<i>>sieres pa<<r>>tjr d/ 2÷3/ 4÷5 por 4÷7 5÷9/. aq<ue>sta es la Reg[*l]a multiplica 2/ q<ue> es
+sobr<e>/ 3/ por/ 5/ faz'en/ 10/ pues multiplica/ 4 q<ue> es sobr<e>/ 5/ por/ 3/ faz'e<n>
+12/ junta en vno/ (^??)/ 10/ E/ 12/ son/ 22/ aq<ue>stos/ 22 se q<u><<i>>eren multipljcar por
+7 e la suma por/ 9/ faz'en en suma/ 1386/ ta<n>to so<n> las (^do) 2 vergas p<ri>m<er>as
+Redresat/. ot<r><<o>>si toma/ 4 q<ue> es sobr<e>/ 7/ E mutiplicalo por/ 9/ faz'en/ 36/ pu<e>s
+toma/ 5 q<ue> es sobr<e>/ 9/ E mutipljcalo por/ 7 faz'e<n>/ 35/ ayunta en vno/ 36
+e 35/ faz'en/ 71/ aq<ue>ste/ 71/ se q<u><<i>>ere multjpljcar por las dos ve<<r>>gas}
+[fol. 1v]
+{CB1.
+p<r><<i>>m<e><<r>>as eso es por/ 5/ ela suma por/ 3/ faz'e<n>/ 1065/ amenua amo[s] ados los (^mje<m>bros)
+no<n>bres ata<n>to com<m>o podras por egual<e>s rreglas Antes q<ue> p<ar>tas final me<n>te le verrna
+entero/ 1/ 21__2÷71__5 E avn(~) lo pued<e>s faz'<e><<r>> por ot<r><<a>> man<e><<r>>a/ tu deues buscar vn no<n>bre
+en q<ue> sea<n> todos los rrotos E sy lo q<u><<i>>sier<e>s fallar multjpljca/ 3/ por/ 5/ E la suma
+por/ 7/ ela suma por/ 9/ faz'e<n>/ 945/ Aq<ue>ste es el no<n>bre en q<ue> todos toma<n> rregla
+Agora/ toma/ los/ 2÷3/ elos/ 4÷5/ de 945/ q<ue> es/ 1386/ pu<e>s tomalos/ 4÷7/ elos
+5÷9/ de/ 945/ son/ 1065/ Agora p<ar>te/ 1386/ por/ 1065/ amjnua amos ados
+los no<n>br<e>s tan(~)to com<m>o podras ant<e>s q<ue> p<ar>tas final me<n>te vale<n> segu<n>d q<ue> de suso
+es dich~o/ 1/ 21__2÷71__5}
+{CB2.
+{=DIAG.
+2÷3 4÷5/ por/ 4÷7 5÷9
+1386/ por/ 1065
+vale<n>/ 1/ 21__2÷71__5}}
+{CB2.
+{=DIAG.
+{BLNK.}}}
+{CB1.
+Ot<r><<o>>si sy q<u><<i>>siered<e>s p<ar>tyr/ 1÷2/ 1÷3/ 1÷4/ por/ 1÷4/ 1÷5/ 1÷[*6]/ aq<ue>sta es la rregla es atal
+com<m>o la sobr<e> d<ic>ha E por aq<ue>lla mesma rregla se puede faz'<e><<r>> eso es asaber
+rredresar las p<r><<i>>mer<a>s/ 3/ ve<<r>>gas E tomaras/ 1/ q<ue> es sobr<e>/ 2/ e[ ]multipljcalo
+por/ 3/ ela suma por/ 4/ faz'e<n>/ 12/ E pon los ap<ar>te pu<e>s toma/ 1/ q<ue> es sobr<e>
+3/ e[ ]multjpljcalo por/ 4/ ela suma por/ 2/ faz'e<n>/ 8/ e po<n>/ 8/ con<e>l/ 12/ q<ue> a-
+vjes puesto pu<e>s multjpljca/ (^??)/ 1/ por/ 3/ ela suma por/ 2/ faz'e<n>/ 6/ agora
+ayu<n>ta en vno/ 12/ E/ 8/ e/ 6/ faz'e<n>/ 26/ aq<ue>ste/ 26/ se q<u><<i>>ere multjplj-
+car por las (las) otras (^o) tr<e>s vergas eso es por/ 4/ ela suma por/ 5/ ela su-
+ma por/ 6/ faz'e<n>/ (^3/) 3120/ ata<n>to son las p<r><<i>>m<e><<r>>as/ 3/ ve<<r>>gas rredresadas ot<r><<o>>si
+toma/ 1/ q<ue> es sobr<e>/ 4/ d<e>las otras ve<<r>>gas multjpljcalo por/ 5/ ela suma por
+6/ faz'e<n>/ 30/ po<n>lo ap<ar>te pu<e>s multjpljca/ 1/ q<ue> es sobr<e>/ 5/ por/ 6/ ela suma por/ 4/}
+[fol. 2r]
+{CB1.
+faz'e<n>/ 24/ E ponlo c'erca/ de/ 30/ pu<e>s multjpljca/ 1/ q<ue> es sobr<e>/ 6/ por/ 5/ ela suma
+por 4/ faz'e<n>/ 20/ & ponlos conlos otros q<ue> aujas puestos Agora ayu<n>ta en
+vno/ 30/ E/ 24/ E/ 20/ faz'e<n>/ 74/ este/ 74/ se q<u><<i>>ere multjpljca<<r>> por
+las p<r><<i>>m<e><<r>>as/ 3/ ve<<r>>gas eso es por/ 2/ ela suma por/ 3/ ela suma por/ 4/ faz'e<n>/.
+1776/ & amjnua amos ados los no<n>bres por egual<e>s rreglas ant<e>s q<ue> p<ar>tas final
+me<n>te finca<n>/ 65/ ap<ar>(a)tir por/ 37/ de q<ue>le vjene/ 1/ 28÷37/ ata<n>to faz'e la rraz'o<n> Ot<r><<o>>-
+sy lo pued<e>s faz'<e><<r>> por otra man<e><<r>>a q<ue> avemos mostrado enlos ot<r><<o>>s capjt<u>los sobr<e>
+dichos eso es g<u><<a>>rda/ 1/ no<n>bre el menor q<ue> puedas en q<ue> todos los rrotos pueda<n> toma<<r>>
+rregla por en( )tregos el q<u><<a>>l es/ 60/ agora toma el/ 1÷2/ el 1÷3/ el/ 1÷4/ de/ 60/ E es/ 65/
+E pues toma el/ 1÷4/ el/ 1÷5/ el/ 1÷6 de/ 60/ q<ue> es/ 37/ agora p<ar>te/ 65/ por/ 37/ & valen
+1/ 28÷37/ E por aq<ue>stas/ 2/ rreglas lo podras faz'<e><<r>> de ata<n>tos rrotos com<m>o te[ ]q<ue>rras
+E( )so es asaber de rrotos q<ue> sea<n> rrot[os] so vna ve<<r>>ga/ 1÷2 1÷3 1÷4/ por/ 1÷4 1÷5 1÷6/ 3120 por
+1776/ amjnuados finca<n>/ 65/ Ap<ar>tir por/ (^7) 37/ vale<n>/ 1/ 28÷37
+Ot<r><<o>>si sy q<u><<i>>er<e>s p(a)<ar>tjr no<n>br<e>s sin entregos asi com<m>o ap<ar>tjr/ 5/ por/ 2÷3/ aq<ue>sta es la
+rregla multipljca/ 5/ por/ 3/ q<ue> es sola/ v<er>ga faz'e<n>/ 15/ p<ar>te por/ 2/ q<ue> es sobr<e>
+3/ E vale<n>/ 7/ 1÷2/ E ata<n>to es ap<ar>tjr/ 5/ por/ 2÷3/ Ot<r><<o>>si sy q<u><<i>>sieres p(a)<ar>tir
+el rroto por el entero asi com<m>o/ 2÷3/ ap<ar>tir/ en(~) 5/ multjpljca/ 5/ por/ 3/ faz'e<n>/ 15/.
+p<ar>te/ (^??)/ 2 q<ue> es sobr<e>/ 3/ por/ 15/ vale<n>/ 2÷15/ E por esta rregla podras p<ar>tjr e<n>-
+tregos por rrotos E Rotos por entregos}
+{CB4.
+{=DIAG.
+5/ por/ 2÷3/
+15/ por/ 2/
+vale<n>/ 7/ 1÷2/}}
+{CB4.
+{=DIAG.
+2÷3/ por 5
+2/ por/ 15
+vale<n>/ 2÷15}}
+{CB4.
+{=DIAG.
+7 por/ 4÷9/
+63 por/ 4/
+vale<n>/ 15/ 3÷4/}}
+{CB4.
+{=DIAG.
+4÷9/ por 7
+4/ por 63
+vale<n>/ 4÷63}}
+[fol. 2v]
+{CB1.
+(o)[O]t<r><<o>>sy si q<u><<i>>sieres p<ar>tjr/ 5/ por/ 1÷3/ 5÷8/ multjpljca/ 5 por/ 3/ ela suma por 8 e[ ]faz'e<n>
+120/ atanto es [*5] e[*nt]rego Redresat por las vergas E pu<e>s/ 1/ q<ue> es sobr<e>/ 3 &
+multiplical por/. 8/ pu<e>s toma c'inco q<ue> es sobr<e>/ 8/ multiplicalo por/ 3/ faz'en
+15/ ayunta en vn(~)o/ 8/ e/ [*1]5/ faz'en/ 23/ agora/ p<ar>te/ 120/ por/ 23/
+valen/ 5/ 5÷23/ E por (^aq<ue>s) ot<r><<a>> man<er>a se puede faz'er tu pued<e>s dez'ir q<ue>
+1÷3 1÷8 se falla en/ 24/ pu<e>s mutiplica/ 5/ con/ 24/ faz'en/ 120/ pu<e>s
+toma el (^terc) 1÷3 (d)elos 5÷8 de/ 24/ q<ue> es/ 23/ parte 120/ por/ 23/ valen
+5/ 5÷23/ E por aq<ue>stas dos man<er>as lo podras faz'<e><<r>> de q[ua]ntos Rotos con en(~)-
+tregos com<m>o te q<ue>rras E sy q<u><<i>>sieres partjr los Rotos por el nonbre en(~)t<r><<e>>go
+eso es 1÷3/ 5÷8/ apartjr por/ 5/ Redresalo asi com<m>o de suso se contiene & pa<<r>>te
+23/ por/ 120/ valen/ 23÷120/}
+{CB2.
+{=DIAG.
+5 por 1÷3/ 5÷8
+120 por 23
+valen 5 5÷23}}
+{CB2.
+{=DIAG.
+1÷3 E 5÷8 por 5
+23 por/ 120
+valen 23÷120/}}
+{CB1.
+Ot<r><<o>>sy si q<u><<i>>siered<e>s partjr 5[ ]por (^dos) 2__1__4÷3__4__5 Aq<ue>sta es la Regla multiplica
+5 q<ue> es ent<r><<e>>go por/ 3/ Ela suma por/ 4 E la suma por/ 5 faz'en 300
+E ot<r><<o>>sy multiplica/ 2/ q<ue> son sobr<e>/ 3/ por 4 junta vno Ela suma por
+5/ junta/ 4/ faz'en/ 49/ agora p<ar>te/ 300 por/ 49/ guarda la Regla
+de/ 49 valen/ (5)[6] {BLNK.}__6÷7__7 E sy q<u><<i>>sier<e>s partjr los Rotos por los ent<r><<e>>-
+gos eso es 2__1__4÷3__[*4]__5/ por/ 5/ Redresa lo segu<n>t q<ue> de suso es d<ic>ho
+E partiras/ 49/ por/ 300/ E g<u><<a>>rda la Regla de 3[00] E valen (103)[49]÷300
+E por esta Regla (^faras) todas las semejant<e>s Raz'on<e>s de partir
+nonbr<e>s entregos por Rotos q<ue> son so 1 verga Elos Rotos por
+los entregos}
+{CB2.
+{=DIAG.
+[5 por] 2__1__4÷(5__)3__4__5
+300 por 49
+valen (5)[6] {BLNK.}__6÷7__7}}
+{CB2.
+{=DIAG.
+2__1__4÷3__4__5 [por 5]
+49 por 300
+valen 49÷300}}
+[fol. 3r]
+{CB1.
+&[ ]Ot<r><<o>>sy si q<u><<i>>sieres partjr 5 por [*2__3__4]÷3__4__5 [*5__6__7]÷6__7__8 mu[*ltiplica 5]/ por
+to[*d]os los Rotos q<ue> son so amos a[+]dos las vergas eso es por/ [*3] E la
+suma por 4 E la suma por/ 5 E la suma por/ 6 E la suma por (^8) 7
+E la suma por 8 faz'en/ 100800/ E atanto es 5 Redresat conlas/ 2
+vergas pu<e>s/ 2/ q<ue> es sobr<e>/ 3/ [multjpljca por 4 junta 3] E la suma por 5/ junta/ 4/ E la suma
+por la ot<r><<a>> verga Eso es por/ 6 E la suma por/ 7 E la suma por/ 8
+faz'en [en] suma/ 19824/ E ponlo a[+]parte/. ot<r><<o>>si toma/ 5 q<ue> es sobr<e>
+6/ multiplicalo por 7 ju<n>ta 6 E la suma por 8/ junta 7 Ela suma
+por la p<ri>m<er>a verga Eso es(~) por/ 5 E la suma por/ 4 E la suma por
+3 faz'en en(~) suma/ 20100/ agora ayunta en vn(~)o/ 19824 co<n>
+20100(^??) son/ 39924/ guarda la su Regla E a[+]mjnua eso q<ue>
+podras amjnuar por eguales Reglas final me<n>te valen/ 2 582÷110( )9
+E sy q<u><<i>>sier<e>s partjr Rotos por el entrego eso es 2__3__4÷3__4__5 5__6__7÷6__7__8
+por c'inco Redresalo(^&) segu<n>d q<ue> de suso se contiene E pu<e>s partiras
+39924 por 100[*8]00 amjnua eso q<ue> podras a[+]mjnuar pu<e>s g<u><<a>>rda
+la su regla E venyr le ha 1__3__3__0__2__4÷3__3__6__1__3__10}
+{CB2.
+{=DIAG.
+5 por 2__3__4÷3__4__5/ 5__6__7÷6__7__8
+100800 por 39924}}
+{CB2.
+{=DIAG.
+2__3__4÷3__4__5/ 5__6__7÷6__7__8 por 5
+39924 por 100800}}
+{CB1.
+Ot<r><<o>>sy si q<u><<i>>sieres pa<<r>>tir nonbres entregos con Rotos (E) por ot<ro>s nonbr<e>s
+entregos con Rotos/ 4 1÷3 1÷4/ por 3 1÷5 1÷7/ (&) aq<ue>sta es la Regl[*a]
+multiplica 4 por 3 E la suma por 4 faz'en/ 48 ponlo aparte pu[*e]s
+mutiplica/ 1 q<ue> es sobr<e>/ 3 por/ 4 faz'en/ 4 ot<r><<o>>sy/ multiplica 1 q[*<ue> es]
+sobr<e>/ 4 por 3 faz'en/ 3 ju<n>ta/ e[n] vno E 4 E 3 son 7/ jun[*ta]
+con (^??) 48/ q<ue> auj[a]s puesto son 55/. aq<ue>ste/ 55/ se q<u><<i>>ere mut[*iplicar]
+por las ot<r><<a>>s vergas eso es por/ 5 E la suma por/ 7 faz'en
+1925/ E atanto es 4 con las sus vergas Redresad/ ot<r><<o>>sy
+multiplica el ot<r><<o>> nonbre eso es/ 3 por/ 5 E la suma por
+7 faz'en/ 105/ ponlo aparte pu<e>s toma vno q<ue> es sobr<e> [*5]}
+[fol. 3v]
+{CB1.
+E[ ]multjpljcalo por/ 7/ faz'e<n>/ 7/ pues toma/ 1/ q<ue> es sobr<e>/ 7/ multjpl[i]calo
+por/ 5/ faz'en/ 5/ ayunta/ 7/ co<n>/ 5/ faz'e<n>/ 12/ ayu<n>ta/ 12/ co<n>/ 105/
+q<ue> aujes puesto ap<ar>te faz'e<n>/ 117/ aq<u>este/ 117/ se q<u><<i>>ere multjpljcar por
+p<r><<i>>m<e><<r>>as ve<<r>>gas eso es por/ 4/ E la suma por/ 3/ faz'e<n>/ 1404/ (^faz'e<n>) agora
+p<ar>te/ 1925/ por/ 1404/ amjnua si podras amjnuar amos ados los
+no<n>bres pues g<u><<a>>rda la rregla final me<n>te fallarras q<ue> le vjene/ 1/ 521÷1404
+E avn lo pued<e>s faz'<e><<r>> por ot<r><<a>> man<e><<r>>a eso es g<u><<a>>rda/ 1/ no<n>br<e> (^q<ue>) de q<ue> todos los
+rrotos pueda<n> tomar Regla eso es/ 1__1__1__1÷3__4__5__7/ el q<u><<a>>l no<n>br<e> es/ 420/ E
+[multjpljca 4 por 420] faz'e<n>/ 1680/ po<n>lo ap<ar>te pues toma el/ 1÷3 1÷4/ de/ 420/ q<ue> es 245/ E ayu<n>ta
+el/ 1680/ faz'en/ 1925/ E ta<n>to/ 4/ con las sus ve<<r>>gas ot<r><<o>>si multipljca
+3/ por/ 420/ faz'e<n>/ 1260/ E ponlo ap<ar>te pues toma el/ 1÷5/ el/ 1÷7/ de/ 420/
+q<ue> es/ 144/ ayu<n>talo co<n>/ 1260/ son/ 1404/ agora/ p[ar]te/ 1925/ por/ 1404
+Amjnua amos ados los no<n>br<e>s ata<n>to com<m>o podras pues g<u><<a>>rda la su Regla
+E final me<n>te vale<n> ata<n>to com<m>o es dich~o de suso eso es/ 1/ 521÷1404}
+{CB2.
+{=DIAG.
+4/ 1÷3 1÷4 por 3/ 1÷5 1÷7
+1925/ por/ 1404
+vale<n> entrego/ 1/ 521÷1404}}
+{CB2.
+{BLNK.}}
+{CB1.
+Ot<r><<o>>si sy q<u><<i>>eres p<ar>tjr no<n>br<e>s entregos co<n>/ 2/ ve<<r>>gas de rrotos por ot<r><<o>> no<n>br<e> de
+su senbla<n>te asi com<m>o s<er>ya/ 4/ 1__3__2÷2__4__5 2__4__5÷3__7__6/ ap<ar>tir por/ 3/ 5__1__2÷8__2__3 1__2__3÷9__5__4
+Aq<u>esta es la rregla multjpljca/ 4/ q<ue> es entrego por/ 2/ ju<n>ta/ 1/ ela suma por/ 4/
+ju<n>ta/ 3/ ela suma por/ 5/ ju<n>ta/ 2/ E(^??) pues la suma [por la] segu<n>da ve<<r>>ga eso es por
+3/ ela suma por/ 7/ ela suma por/ 6/ faz'e<n>/ 24822/ E[ ]po<n>lo ap<ar>te pues toma
+2/ q<ue> es sobr<e>/ 3/ dela segu<n>da ve<<r>>ga E multypljcalo por/ 7/ ju<n>ta/ 4/ ela suma por
+6/ junta/ 5/ ela suma por la p<r><<i>>m<er>a ve<<r>>ga eso es por/ 5/ ela suma por/ 4/ ela(^s) suma
+por/ 2/ faz'e<n>/ 2300/ ayu<n>talo co<n>/ 24822/ faz'e<n>/ 27122/ Aq<u>este se q<u><<i>>ere mul-
+tipljcar por las ot<r><<a>>(a)s ve<<r>>gas eso es por/ 8/ ela suma por/ 2/ ela suma por/ 3/ ela su-
+ma por la q<u><<a>>rta ve<<r>>ga eso es por/ 9/ ela suma por/ 5/ ela suma por/ 4/ (^1) faz'en/}
+[fol. 4r]
+{CB1.
+En suma/ 233534080/ E atanto faz'e el/ 4/ rredrasat co<n> las sus ve<<r>>gas
+E multjpljcad/ 3/ q<ue> es entrego por/ 8/ ju<n>ta/ 5/ ela suma por/ 2/ ju<n>ta/ 1/ ela suma
+por/ 3/ ju<n>ta/ 2/ [...]
+{=DIAG.
+4/ 132÷245 245÷376 por/ 3 512÷823 121÷959
+234334080/ por/ 169888320
+vale<n>/ 1/ 10654÷28097/}
+Otrosy si q<u><<i>>sieres p<ar>tjr no<n>bres entregos co<n>/ 3/ ve<<r>>gas de rrotos co<n> ot<r><<o>>s
+no[n]bres de su senbla<n>te asi com<m>o sera/ 4/ 1__2__5÷5__3__6 1__1__3÷4__2__7 1__3__4÷6__8__9
+apa[r]tjr por/ 3/ 2__5__3÷7__9__4 1__2__5÷8__5__6 1__1__2÷2__4__3/. aq<u>esta es (a)la rregla mul-
+tipljca/ 4/ q<ue> es entrego por/ 5/ ju<n>ta/ 1/ ela suma por/ 3/ ju<n>ta/ 2/ ela
+suma por/ 6/ ju<n>ta/ 5/ pues la suma por la segu<n>da ve<<r>>ga eso es por
+4/ ela suma por/ 2/ ela suma por/ 7/ ela suma por la t<e><<r>>c'era ve<<r>>ga eso
+es por/ 6/ ela suma por/ 8/ ela suma por/ 9/ faz'e<n>/ 9555(9)[8]40/ E po<n>
+lo ap<ar>te [...] E pu<e>s final me<n>te le ujene/ (^1/ 2__5÷2__8) 1 2308÷21577
+{=DIAG.
+4/ 125÷536 113÷42(0)[7] 253÷689/ por/ 3/ 253÷794 125÷856 112÷243
+15978448281600/ por/ 13530001121280
+valen/ 1/ 2278÷21577}
+Ot<r><<o>>si sy q<u><<i>>sieres asumar/ todos los no<n>bres pares de/ 1/ fasta en/ 20 asy
+com<m>o/ 2/ ju<n>to co<n>/ 4/ E/ 6/ E co[n] 8/ asi por esta via fasta en/ 20/ q<ue> no<n> me-
+tas y nj<n>gu<n> dispar aq<ue>sta es la rregla/ toma la meytad de/ 20/ q<ue> es/ 10/ E}
+[fol. 4v]
+{CB1.
+mutypljcala por/ 1/ mas de/ 10/ eso es por/ 11/ agora mutjpljca/ 10/ por
+11/ faz'e<n>/ 110/ tantos son los no<n>br<e>s pares de/ 1/ fasta en/ 20/ E si el no<n>bre
+mayor era de/ 1/ fasta/ 23/ E q<u><<i>>sieres asumar/ (todas las p<ar>tes) [todos los pares] q<ue> son de/ 1/ fasta
+en/ 23/ toma la mayor meytad entrega q<ue> es/ 11/ mutjpljcala por/ 1/ mas eso
+es por/ 12/ onde multjpljca/ 11/ co<n>/ 12/ faz'e<n>/ 132/ ta<n>tos son los par<e>s q<ue> so<n> de
+1/ fasta/ 23/ E por aq<ue>sta rregla faras de q<u><<a>>ntas te q<ue>rras
+Ot<r><<o>>si si q<u><<i>>sieres asumar todos los no[n]bres dispares q<ue> son de/ 1/ fasta en(~)/ 20/
+asi com<m>o/ 1/ ju<n>to co<n>/ 3/ e[ ]co<n>/ 5/ e[ ]co<n>/ 7/ E co<n>/ 9/ q<ue> no<n>[ ]y metas nj<n>gu<n> no<n>bre par A-
+q<ue>sta es la rregla toma la meytad de/ 20/ q<u>es/ 10/ E multjpljcala en (^??) sy mesma
+onde dy/ 10/ co<n>/ 10/ faz'e<n>/ 100/ e[ ]atantos son los dispares de/ 1/ fasta en(~)/ 20/ E
+sy el no<n>br[e] mayor era dispar asi com<m>o/ 23/ E q<u><<i>>sieres asumar/ todos los dispares
+toma la mayor p<ar>te eso es la mayor p<ar>te entrega q<ue> y es q<ue> es/ 12/ E multjplj-
+calo ensy mesmo/ 12/ co<n>/ 12/ faz'e<n>/ 144/ E ata<n>tos son ayu<n>tados todos los
+dispares q<ue> son de/ 1/ fasta en/ 23/ E por esta rregla lo pued<e>s faz'<e><<r>> de ata<n>tas
+com<m>o te q<ue>rras
+{IN2.} (d)[D]os omes p<ar>te<n> de vn luga<<r>> en vn<<a>> ora & en vn pu<n>to El p<r><<i>>m<er>o om(~)e va cada dia
+20/ mjllas El segu<n>do om(~)e va el p<r><<i>>mer dia vna mjlla & el segu<n>do dia/ 2/
+mjllas & el te<<r>>c'ero dia va/ 3/ mjllas & asi cada vn(~) dia va crec'ie<n>do vna mjlla dime
+en q<u><<a>>ntos dias Aura aq<ue>ste om(~)e segu<n>do co<n>segujdo al p<r><<i>>mer om(~)e q<ue> cada vn(~) dia
+va/ 20/ mjllas &[ ]no<n> mas Aq<ue>sta es la rregla g<u><<a>><r>da el p<r><<i>>m<er>o om(~)e q<ue> va cada vn(~) dia
+20/ mjllas & dobla/ 20/ son/ 40/ abate/ 1/ de 40/ finca<n>/ 39/ en ta<n>tos dias lo aura
+co<n>segujdo eso es/ en/ 39/ dias E sy lo q<u><<i>>sieres p<ro>uar mutjpljca/ 20/ co<n>/ 39/ faz'e<n>/ 780
+Atantas mjllas aura andado aq<ue>l q<ue> va/ 20/ mjllas en/ 39/ dias E por la ot<r><<a>> cue<n>ta q<ue> a
+de/ 1/ fasta en/ 39/ toma la mayor meytad entrega de/ 39/ q<ue> es/ 20/ & mutjpljca/ 20/ co<n>
+39/ faz'e<n> eso mesmo/ 780/ & asi vjene la rregla ve<<r>>dadera & por (^q) aq<ue>sta rregla faras
+las ot<r><<a>>s rraz'on<e>s semejantes A aq<ue>sta}
+[fol. 5r]
+{CB1.
+{IN2.} (f)[F]alla/ 1/ tal no<n>br<e> q<ue>las/ 2÷7/ del/ 1/ no<n>br<e> sea/ 3÷8/ del ot<r><<o>> no<n>bre aq<ue>sta es
+la rregla mutypljca/ 2/ q<ue> es sobr<e>/ 7/ por/ 8/ faz'e<n>/ 16/ ta<n>to es el/ 1/
+no<n>bre pu<e>s mutjpljca/ 3/ q<ue> es sobr<e>/ 8/ por/ 7/ faz'e<n>/ 21/ ta<n>to es el/ o-
+tro no<n>bre si q<u><<i>>sieres p<ro>uar la/ 2÷7/ de/ 21/ fallaras q<ue> son/ 6/ ot<r><<o>>sy las/ 3÷8
+de/ 16/ son/ 6/ E por esta rregla faras las semejantes rraz'on<e>s
+Ot<r><<o>>si falla/ 3/ tales no[n]bres q<ue>los/ 2÷5/ d<e>l p<r><<i>>m<er>o no<n>br<e> &/ 3÷7/ d<e>l (^ge) segu<n>do
+no<n>bre q<ue> sean/ 4÷9/ d<e>l te<<r>>c'ero no<n>bre Aq<ue>sta es la rregla tu porrnas
+los rrotos asi/ 2__3__4÷5__7__9/ mutjpljca/ 5/ q<ue> es de baxo de/ 2/ por/ 3/ q<ue> es sobr<e>
+7/ & la suma por/ 4/ q<ue> es sobre/ 9/ faz'e<n>/ 60/ tanto es el p<r><<i>>mer no<n>br<e>
+ot<r><<o>>si mutjpljca/ 7/ por/ 4/ q<ue> es sobr<e>/ 9/ ela suma por/ 2/ q<ue> es sobr<e>
+5/ faz'e<n>/ 56/ atanto es el segu<n>do no<n>br<e> Ot<r><<o>>si mutjpljca/ 9/ por/ 3/
+q<ue> es sobre(~)/ 7/ ela suma/ por/ (^3)[^2] q<ue> es sobre/ 5/ faz'e<n>/ 54/ tanto/ es el/
+te<<r>>c'ero no<n>bre (^s) E silo q<u><<i>>sieres p<ro>uar tu lo fallaras q<ue>los/ 2÷5/ de/ 60/ es bie<n>
+tanto com<m>o los/ (^??) 3÷7/ de/ 56/ E com<m>o los/ 4÷9/ de/ 54/ E por aq<ue>sta rregla
+faras todas las otras rraz'on<e>s semeja<n>te[s] aq<ue>sta
+Ot<r><<o>>si falla/ 1/ tal no<n>bre q<ue> abatjendo/ 1÷3/ 1÷4/ el rremanje<n>te sea/ 12/ A-
+q<ue>sta es la rregla tu diras q<ue>/ 1÷3/ & 1÷4/ se falla en/ 12/ toma/ 1÷3/ & 1÷4 de
+12/ es/ 7/ abate/ 7/ de/ 12/ finca<n>/ 5/ aq<ue>ste/ 5/ s<er>a colon~ja eso es el p(a)<ar>tjdor
+E diras/ 5/ me/ es venjdo de/ 12/ onde verrna<n>/ 12/ mutjpljca/ 12/ co<n>/ 12/ faz'e<n>
+144/ p<ar>te por/ 5/ viene ala p<ar>te/ (48)[28]/ 4÷5 aq<ue>ste/ (48)[28]/ 4÷5/ es el no<n>bre
+q<ue> abatje<n>do/ 1÷3/ & el 1÷4 el rremanje<n>te sea/ 12/ E por aq<ue>sta rregla faras
+las semejantes
+Ot<r><<o>>si falla/ 1/ tal no<n>bre q<ue>l su/ 1÷3/ el/ 1÷4/ junto sobr<e> si mesmo faga en suma
+21/ Aq<ue>sta es la rregla tu diras q<ue>/ 1÷3/ 1÷4/ se falla en/ 12/ toma/ 1÷3/ 1÷4/ de/ 12/
+q<ue> es/ 7/ ju<n>ta/ 7/ sobr<e>/ 12/ faz'e<n>/ 19/ aq<ue>ste/ 19/ sera colon~ja & diras si/ 19/
+E[s] venjdo de/ 12/ donde ve<<r>>na/ 21/ mutjpljca/ 12/ co<n>/ 21/ faz'e<n>/ 252/ p<ar>telo por
+19/ vale/ 13/ 5÷19/ aq<ue>ste/ 13/ 5÷19/ es el no<n>br<e> q<ue>l su/ 1÷3/ 1÷4/ ju<n>to sobr<e> si mesmo
+faga<n> bie<n>/ 21/ E por aq<ue>sta rregla podras faz'<e><<r>> las semejant<e>s rraz'on<e>s}
+[fol. 5v]
+{CB1.
+Ot<r><<o>>si falla/ 1/ tal no<n>bre q<ue> abatje<n>do el 1÷3/ 1÷4/ pues el rremanje<n>te de aq<ue>l
+no<n>bre ju<n>to sobr<e> si mesmo eso es sobr<e> el no<n>bre q<ue> auras p<r><<i>>m<er>o fallado faga
+(12)[21]/ Aq<ue>sta es la rregla & dira[s] q<ue>/ 1÷3/ 1÷4/ se falla en (^faz'e)/ 12/ pu<e>s abate
+1÷3/ 1÷4/ de/ 12/ finca<n>/ 5/ pu<e>s ju<n>ta/ 5/ sobre/ 12/ faz'e<n>/ 17/ Aq<ue>ste/ 17/ s<er>a co-
+lonja de aq<ue>sta cue<n>ta pues diras si/ 17/ es venjdo de/ 12/ onde ve<<r>>na/ 21/ mutj-
+pljca/ 12/ co<n>/ 21/ faz'e<n> 252/ p<ar>te por/ 17/ vale<n>/ 14/ 14÷17/ aq<ue>ste/ 14/ 14÷17/ es
+el no<n>br<e> q<ue> abatje<n>do el/ 1÷3 1÷4/ el rremanje<n>te ju<n>to sobr<e>/ 14/ 14÷17/ faz'e<n> bie<n>/ 21/
+E por aq<ue>sta rregla podras faz'<e><<r>> las semejant<e>s Raz'on<e>s/
+Ot<r><<o>>si falla/ 1/ tal no<n>br<e> q<ue>l/ 1÷3 el/ 1÷4 de aq<ue>l no<n>bre sea<n>/ 21/ Aq<ue>sta es [la] rregla diras
+q<ue> 1÷3 1÷4/ se falla en/ 12/ toma el/ 1÷3/ 1÷4/ de/ 12 q<ue> es/ 7/ Aq<ue>ste/ 7/ sera colon~ja
+E diras si/ 7/ es venjdo de/ 12/ onde v<er>na/ 21/ mutjpljca/ 12/ co<n>/ 21/ faz'e<n>/ 252/
+p[ar]telo por/ 7/ v(e)[a]le/ 36/ Aq<ue>ste/ 36/ es aq<ue>l no<n>br<e> q<ue>l su/ 1÷3/ 1÷4 faz'e<n>/ 21/ & por a-
+q<ue>sta rregla faras las semejantes Raz'on<e>s
+Ot<r><<o>>si falla/ 2/ tal<e>s no<n>bres q<ue>l/ 1÷3/ 1÷4/ d<e>l/ 1/ faga tanto com<m>o el/ 1÷5/ 1÷7/ d<e>l otro
+no<n>bre E q<ue>l/ 1÷3/ 1÷4/ d<e>l/ 1/ no<n>bre faga mutipljcado por el/ 1÷5/ 1÷7 d<e>l ot<r><<o>> faga<n> ot<r><<o>> ata<n>to
+com<m>o far(^??)[^i]e<n> juntos en vn(~)o el/ 1÷5 1÷7/ d<e>l/ 1/ con<e>l/ 1÷3/ 1÷4/ d<e>l ot<r><<o>> no<n>br<e> Aq<ue>sta es
+la rregla E nota q<ue> no[ ]se falla nj<n>gu<n> no<n>br<e> entrego q<ue> faga tanto ju<n>to co<n> si' mes-
+mo com<m>o mutjpljcado ensi mesmo E por eso buscaras/ 1/ no<n>bre q<ue>l/ 1÷3/ 1÷4/ sea/ 2/
+E fallaras por la Regla d<e>l otro capjtulo sobr<e> dich~o el q<u><<a>>l no<n>bre es/ 3/ 3÷7/
+E el ot<r><<o>>/ 5/ 5÷6/ E aq<ue>stos son aq<ue>llos/ 2/ no<n>bres q<ue>l/ 1÷3/ 1÷4 d<e>l/ 1/ faz'e<n> bien ta<n>-
+to com<m>o el/ 1÷5/ 1÷7/ d<e>l otro & faz'e<n> bje<n> ta<n>to com<m>o farie<n> ju<n>tos en vno & por aq<ue>sta
+rregla faras d[e]los semejantes no<n>bres
+Ot<r><<o>>si falla/ 2/ tales no[n]bres (^nob) q<ue>l/ 1÷3/ d<e>l/ 1/ faga ta<n>to com<m>o el/ 1÷4 d<e>l ot<r><<o>>
+no[n]bre & q<ue> multjpljcados aq<ue>llos/ 2/ no[n]bres/ en vno faga<n> eso es el/ 1/ por el
+otro fagan tanto com<m>o amos ados los no<n>bres fara<n> en vno Aq<ue>sta es la rre-
+gla tu diras q<ue>/ 1÷3/ 1÷4/ se falla/ en/ 12/ toma el/ 1÷3/ 1÷4 de/ 12/ q<ue> es/ 7/ pu<e>s toma
+el/ 1÷3/ de/ 12/ q<ue> es/ 4/ p<ar>te/ 7/ por/ 4/ vale/ 1/ 3÷4/ ot<r><<o>>si toma el/ 1÷4/ de/ 12/ q<ue> es/ 3/
+p<ar>te/ 7/ por/ 3/ vale<n>/ 2/ 1÷3/ asi es el p<r><<i>>mer no<n>bre/ 1/ 3÷4/ & el ot<r><<o>> no<n>br<e>/ 2/ 1÷3/ & aq<ue>stos
+2/ no[n]bres son aq<ue>llos q<ue>l/ 1÷3/ de/ 1/ 3÷4/ es ata<n>to el/ 1÷4/ de/ 2/ 1÷3/ E multjplicado/ 1/ 3÷4 por
+2/ 1÷3 faz'e<n> bie<n> ata<n>to com<m>o amos ados ju<n>tos en vno & por aq<ue>sta rraz'o<n> pued<e>s faz'<e><<r>> las
+ot<r><<a>>s semejantes}
+[fol. 6r]
+{CB1.
+Ot<r><<o>>si falla/ 1/ no<n>br<e> tal q<ue> ju<n>to sobre si mesmo el su/ 1÷3 & el/ 1÷4/ & 5/ ma[*s]
+fara/ 6/ co<n> ata<n>to com<m>o aq<ue>l no[n]bre q<ue> auras fallado p<r><<i>>m<er>o aq<ue>sta es la rregla
+tu diras q<ue>/ 1÷3 & 1÷4/ se falla en/ 12/ pu<e>s toma el/ 1÷3/ & el/ 1÷4 de/ 12/ q<ue> es
+7/ ju<n>ta/ 7/ sobr<e>/ 12/ faz'e<n>/ 19/ estos/ 19/ sera colon~ja pues toma el
+1÷3/ de/ 12/ q<ue> es/ 4/ ot<r><<o>>si (^multjpljca)/ toma el/ 1÷4/ de/ 12/ q<ue> es/ 3/ multj-
+pljca/ 4/ d<e>l/ 1÷3/ por/ 3/ d<e>l/ 1÷4/ faz'e<n>/ 12/ p<ar>te/ 12/ por/ 19/ & vale<n>/ 12÷19/
+E aq<ue>ste es el no<n>bre q<ue> ju<n>to sobr<e> si el su/ 1÷3/ & el su/ 1÷4/ &/ 5/ mas fa-
+ra/ 6/ E por esta (^q) rregla faras las semejantes rraz'on<e>s
+{IN2.} Ot<r><<o>>si si q<u><<i>>sier<e>s p<ar>tjr/ 13/ e<n>/ 3/ tales p<ar>tes q<ue>la p<r><<i>>m<er>a p<ar>te multjpljcada
+po[r ]la/ te<<r>>c'era faga tanto com<m>o la segu<n>da multjpljcada en si mesma/ A-
+q<u>esta es la rregla tu pued<e>s dez'<i><<r>> q<ue>la p<r><<i>>m<er>a sea ta<n>to com<m>o te q<ue>rras/ on-
+de pued<e>s dez'jr/ q<ue> sea/ 1/ la p<ri>m<er>a p[ar]te dobla/ 1/ sera<n>/ 2/ E por segu<n>da p[ar]te
+doblada agora dobla la t<e><<r>>c'era/ 2/ &/ 2/ faz'e<n>/ 4/ ayu<n>ta en vno/ 1/ &/ 2/ & 4
+faz'e<n>/ 7/ aq<ue>ste/ 7/ sera/ colon~ja pues diras sy siete es venjdo de/ 1/ o<n>de
+verrna<n>/ 13/ multjpljca/ (^2/ co<n>/ 13/ & p<ar>te la suma por/ 7/ vale<n>/ 3/ 5÷7/) 1/
+vegada/ 13/ son/ 13/ p<ar>te por/ 7/ vale<n>/ 1/ 6÷7/ aq<ue>sta es la p<r><<i>>m<er>a p<ar>te ot<r><<o>>si
+diras si/ 7/ es venjdo de/ 2/ donde verrna/ 13/ multjpljca/ 2/ co<n>/ 13/ & p<ar>te
+la suma por/ 7/ & vale<n>/ 3/ 5÷7/ & aq<ue>sta es la segu<n>da p<ar>te ot<r><<o>>si diras
+sy (^??)/ 7/ es venjdo de/ 4/ donde verrna/ 13/ multjpljca/ 4/ co<n>/ 13/ faz'e<n>/ 52/ p<ar>te
+por/ 7/ vale<n>/ 7/ 3÷7/ & aq<ue>sta es la t<e><<r>>c'era p<ar>te E si lo q<u><<i>>eres p<ro>uar multj-
+pljca la p<r><<i>>m<er>a p<ar>te por la te<<r>>c'era fallaras q<ue> faz'e<n> bie<n> ta<n>to com<m>o la segu<n>-
+da multjplicada en si mesma
+Ot<r><<o>>si si q<u><<i>>sieres p<ar>tjr/ 13/ en/ 3 tales p<ar>t<e>s q<ue>la p<r><<i>>m<er>a p<ar>te sea meytad d<e>la
+segu<n>da p<ar>te & q<ue>la se( )gu<n>da sea meytad d<e>la te<<r>>c'era faz'<e><<r>> lo as todo A-
+sy com<m>o as fecho en<e>l capjtolo sobr<e> d<ic>ho & por a( )q<ue>lla rregla mesma
+E fallaras q<ue> fech~o E q<ue> ot<r><<o>> ta<n>to le ujen<e> com<m>o es dich~o en<e>l sobr<e> dich~o
+capjtolo & no<n> mas & ot<r><<o>>si sy q<u><<i>>er<e>s multjpljca<<r>>/ ta<n>tas vegadas/ 3/ 1÷[*3]}
+[fol. 6v]
+{CB1.
+q<ue> faga<n>/ 12/ p<ar>te/ 12/ por/ 3/ 1÷3/ & faz'lo por la rregla de p(a)<ar>tjr por rrotos
+E vale<n>/ 3/ 3÷5/ & aq<ue>ste es [a]q<ue>l no<n>br<e> q<ue> multjpljca<n>do/ 3/ 3÷5/ co<n>/ 3/ 1÷3/ vale<n>
+12/ & por aq<ue>sta rregla lo podras faz'<e><<r>> de q<u><<a>>ntos no<n>bres sea<n>/
+Ot<r><<o>>si falla/ 1/ tal no<n>bre q<ue> ju<n>to/ el/ 1÷3/ &/ 7/ mas faga<n>/ (^??)/ 21/ tu deues
+Abatjr/ 7/ de/ 21/ finca<n>/ 14/ agora busca/ 1/ no<n>bre q<ue> junto el su/ 1÷3/ faga/
+14/ & diras/ 1÷3/ se[ ]falla [^e<n>]/ 3/ el/ 1÷3/ de/ 3/ es/ 1/ juntalo co<n>/ 3/ faz'e<n>/ 4/ aq<ue>ste
+4/ sera colon~ja E diras sy/ 4/ es venjdo de/ 3/ onde verrna<n>/ 14/ multjplj-
+ca/ 3/ co<n>/ 14/ faz'e<n>/ 42/ p(a)<ar>telo por la colon~ja eso es por/ 4/ vale<n>/ 10/ 1÷2/
+Aq<ue>ste/ 10/ 1÷2/ es aq<ue>l no<n>bre q<ue> ju<n>to el su/ 1÷3/ &/ 7/ mas fara<n>/ 21/
+Otrosi falla/ 1/ tal no<n>bre q<ue> abatje<n>do/ el/ su/ 1÷3/ &/ 7/ mas faga<n>/ 21/ tu deu<e>s
+ayuntar/ 7/ sobre(~)/ 21/ faz'e<n>/ 28/ & faz'<e><<r>>lo as por la rregla q<ue> ya avemos
+mostrado & buscaras/ 1/ no<n>bre q<ue> abatje<n>do el/ 1÷3/ finq<ue>n/ 28/ & faz'<e><<r>>lo as por
+la rregla d<e>l capjt<o>lo sobr<e> dich~o E ffallaras q<ue> es/ 42/ & aq<ue>ste/ 42/ es
+Aq<ue>l no<n>bre q<ue> abatje<n>do/ 1÷3/ &/ 7/ mas el rremanje<n>te sea<n>/ 21/ E a( )sy pu-
+edes faz'<e><<r>> de todos los semejant<e>s
+Ot<r><<o>>si falla/ 1/ tal no<n>bre q<ue> junto el su/ 1÷3/ sobr<e> sy mesmo &/ 5/ & depu<e>s leua<<r>>
+el/ 1÷4/ deso q<ue> y s<er>a q<u><<a>>ndo y auras ju<n>to el/ 1÷3/ &/ 5/ depu<e>s el rremanje<n>te/
+sea/ 9/ (^s) faz'ello as por la rregla d<e>l capjt<o>lo sobr<e> dich~o el q<u><<a>>l no<n>br<e>
+es/ 12/ agora deues buscar/ 1/ ot<r><<o>> no<n>bre q<ue> junto/ 1÷3/ &/ 5/ pu<e>s faga<n>/ 12/
+E fallaras por la rregla q<ue> ya avemos dicho en<e>l ot<r><<o>> capjt<o>lo el q<u><<a>>l no<n>bre es
+5/ 1÷4/ E aq<ue>ste/ 5/ 1÷4/ es el no<n>bre q<ue> ju<n>to/ 1÷3/ &/ 5/ depues abatje<n>do d<e>la su-
+ma el/ 1÷4/ el rremanje<n>te es/ 9/ E asy pued<e>s faz'<e><<r>> d<e>los semejant<e>s no<n>br<e>s
+{IN2.} (o)[O]t<r><<o>>si si q<u><<i>>syer<e>s p<ar>tyr/ 40/ en/ 2/ tal(a)[e]s p<ar>t<e>s q<ue>l/ 1÷3 e 1÷4 d<e>la 1 p<ar>te sea ta<n>to
+com<m>o toda la otra p<ar>te faras asy 1÷2 e 1÷4 se falla en 12/ el 1÷3 e 1÷4 de 12
+es (^d) 7 ayu<n>ta 7 co<n>/ 12/ so<n> 19 aq<ue>ste/ 19 sera colon~ja E diras sy 19 es
+venjdo de 12/ onde verrna<n>/ 40/ multjpljca 12 co<n>/ 40 faz'e<n> 480 p<ar>te por 19 vale<n>}
+[fol. 7r]
+{CB1.
+([^480])
+25/ 5÷19/ E aq<ue>sta es la p<r><<i>>m<er>a p<ar>te E la otra p<ar>te es eso q<ue> fallec'e de
+25/ 5÷19/ fasta 40/ q<ue> es/ 14/ 14÷19/ E asi es bie<n> ve<<r>>dat q<ue>l 1÷3 e 1÷4
+de 25/ 5÷19/ faz'e<n> bie<n>/ 14 14÷19/ & asi pued<e>s faz'<e><<r>> d<e>los semejant<e>s no<n>br<e>s
+{IN3.} [E]l q<u><<i>>ntal & el c'entenar de alguna cosa de mercaduria fue vendida por/ 7 l<ibr><<a>>s
+& 8 <sueldos>/ 9 d<ineros> q<u><<a>>nto valdra<n>/ 61/ l<ibr><<a>>s o/ 61/ Rotal aq<ue>sta es (^l) la rregla muti-
+pljca/ 7/ l<ibr><<a>>s co<n> 61 [*E] faz'e<n>/ 427/ E por los faz'<e><<r>> <sueldos> diras q<ue> 61/ faz'e<n>
+3 l<ibr><<a>>s/ 1/ <sueldo> multipljca/ 8/ co<n> 3 l<ibr><<a>>s [1 sueldo] faz'e<n>/ 24/ l<ibr><<a>>s/ 8 <sueldos> & ponlo co<n>los 427 l<ibr><<a>>s
+ot<r><<o>>si por los d<ineros> diras 61 d<ineros> son/ 5/ <sueldos> 1/ di<ner><<o>> mutjpljca/ 5/ <sueldos>/ 1/ di<ner><<o>> co<n>/ 9/ faz'e<n>
+45/ <sueldos>/ 9 d<ineros> ponlo ap<ar>te co<n>las ot<r><<a>>s sumas E ayu<n>talas en vno E falla-
+ras/ 453 l<ibr><<a>>s/ 13/ <sueldos> 9 d<ineros> p<ar>telos por/ 100/ E diras de/ 400/ ljeue 4 l<ibr><<a>>s
+E delas/ 50 lieue/ 10/ <sueldos> finca<n> ap<ar>tjr/ 3/ l<ibras> & 13 <sueldos> 9 d<ineros> faz'los <sueldos> son
+73 <sueldos> 9 d<ineros> asi q<ue> no[ ]le[ ]ujene 1/ <sueldo> faras los todos d<ineros> q<ue> son 885
+q<ue> le ujene/ 8/ d<ineros> entregos/ 17÷20/ de 1/ di<ner><<o>>/ E ata<n>to vale<n> las 61 l<ibras> & sy q<u><<i>>-
+syer<e>s p<ar>tjr por la rregla d<e>las en[+]postas de 400/ ljeua 4/ l<ibras> & de
+las 50/ ljeua/ 10/ <sueldos> q<ue> dan ap(a)<ar>tjr 3/ l<ibras> 13/ <sueldos> 9 d<ineros> faz'los <sueldos> & diras
+de/ 66/ <sueldos> 8 d<ineros> lieue<n>/ 8/ d<ineros> finca<n> ap<ar>tir 7 <sueldos> 1 di<ner><<o>> q<ue> son 85/ d<ineros>
+de q<ue>[ ]le viene 17÷20/ E por aq<ue>sta rregla podras faz'<e><<r>> & p(a)<ar>tir las seme-
+jantes rraz'on<e>s
+100/ R<oto>l<es> vale<n> 7 l<ibras> 8 <sueldos> 9 d<ineros> q<u><<a>>nto val<e>n 61 R<otoles> mutipljca 61 vegadas 7 l<ibras> 8 <sueldos>
+9 d<ineros> q<ue> faz'e<n> 453/ l<ibras> 13 <sueldos> 9 d<ineros> p<ar>te por/ 100 val<e>n 4 l<ibras> 10 <sueldos> 8 d<ineros>
+17÷20/ de 1/ di<ner><<o>>
+Ot<r><<o>>si en(~)la suria se ve<n>de<n> las me<<r>>cadurias algunos a[ ]q<u><<i>>ntal de 100 R<oto>l<es> & el
+rrotal es de 12/ onc'as E (y) besant<e>s de oro serraz'jnados E el besante}
+[fol. 7v]
+{CB1.
+Es/ 24/ q<u><<i>>rat<e>s E el q<u><<i>>rate pesa/ 4/ granos de t<r><<i>>go o<n>de si el q<u><<i>>ntal es
+vendido por/ 64/ besant<e>s/ 19/ q<u><<i>>rat<e>s q<u><<a>>nto valdria<n>/ 79/ rrotal<e>s aq<ue>sta es
+la rregla E es semeian(~)t[*e] alas ot<r><<a>>s q<ue> avemos dich~o multjpljca los besa-
+nt<e>s por/ 79/ eso es/ 64/ co<n>/ 79/ faz'e<n>/ 5056/ besant<e>s E ponlo ap<ar>te O-
+trosi por los q<u><<i>>rates diras q<ue>/ 79/ q<u><<i>>rat[e]s faz'e<n>/ 3/ besant<e>s/ &/ 7/ q<u><<i>>rat<e>s & mul-
+typljca/ 19/ co<n>/ 3/ besantes E/ 19/ co<n>/ 7/ q<u><<i>>rates & fa(s)[z'] los q<u><<i>>rat<e>s besantes
+E ayu<n>talo todo co<n> eso q<ue> avies puesto & avras en suma/ 5118/ besant<e>s
+E 13/ q<u><<i>>rat<e>s p<ar>te por/ 100/ viene<n>le/ 51/ besantes & finca<n> por p(a)<ar>tjr/ 18/ besa<n>-
+tes &/ 13/ q<u><<i>>rates faz' los todos q<u><<i>>rates q<ue> son/ 445/ q<u><<i>>rates de q<ue>le/
+viene<n>/ 4/ q<u><<i>>rates/ 45÷100/ sy los q<u><<i>>sieres faz'<e><<r>> g<r><<a>>nos sera<n>/ 180/ gr(a)<<a>>n[o]s
+de q<ue>le ujene/ 1/ grano/ 4÷5/ de/ 1/ g<r><<a>>no E asi poded<e>s dez'<i><<r>> q<ue>le ujene/ 51/ besan-
+t<e>s &/ 4/ q<u><<i>>rat<e>s &/ 1/ g<r><<a>>no/ 4÷5/ de/ 1/ grano E ata<n>to vale<n> los/ 79/ R<oto>l<es>./.
+Ot<r><<o>>si en acre se acostu<m>bra q<ue> om(~)e abate de coto 4/ R<oto>l<es> por q<u><<i>>ntal por rra-
+z'on d<e>l sach onde q<u><<a>>nto se q<ue>rra abatjr por 85/ R<oto>l<es>/ onde mutjpljca 4/ co<n>
+85/ sera<n>/ 340/ R<otoles> p<ar>te la suma por/ 100/ vien<e>le/ 3/ rrotol<e>s/ 4/ onc'as/ 4÷5 E
+12/ onc'as faz'e<n> 1 R<oto>l E tanto se[ ]deue<n> abatjr por los/ 85/ R<oto>l<es>
+Ot<r><<o>>si el/ 1/ <sueldo> de[ ]torrn<e>s<es> eso es/ 12/ d<ineros> vale de[ ]pisantes 31/ 1÷2/ q<u><<a>>nto valdra<n> 8 l<ibra>s
+E/ 9/ <sueldos> 10 d<ineros> faz'er lo ed<e>s por la semeia<n>t<e> Regla esso es multipljca/ 31/ co<n> la(z)[s]
+ljb<r><<a>>s & co<n>los <sueldos> & co<n> los d<ineros> de[+]pu<e>s toma la meytad de 8 l<ibr><<a>>s & de 9/ <sueldos> & 10/ d<ineros> E la su-
+ma de todo p<ar>te lo por/ 12/ vale<n> 22/ ljb<r><<a>>s/ 5/ <sueldos> 9 d<ineros>/ 3÷4 E ata<n>to valdra
+Otrosi la l<i>b<r><<a>> dela plata es (^j) en pisi/ 12/ o<n>c'as E aq<ue>sta ljb<r><<a>> val/ 16/ l<ibras> 14/ <sueldos>
+9/ d<ineros> q<u><<a>>nto valdra las/ 7/ onc'as E 1÷2/ multjplica/ 7/ co<n> las ljbras & 14/ <sueldos> 9 d<ineros>
+E ayu<n>talo todo toma la meytad de/ 16/ l<ibras>/ E 14/ <sueldos> E 9 d<ineros> ayu<n>talo todo en vno
+E la suma p<ar>te la por/ 12/ E fallaras vjen[e] 10/ l<ibras> 9/ <sueldos> 2/ d<ineros>/ (7÷12) [5÷8] de (^??) 1 dj<ner><<o>> E
+ata<n>to valdra las/ 7/ o<n>c'as/ 1÷2/ 12/ on(~)c'as vale<n> 16 l<ibras> 14 <sueldos> 9 d<ineros> q<u><<a>>nto valdra 7 o<n>c'as
+1÷2}
+[fol. 8r]
+{CB1.
+Otrosi el ma<<r>>co d<e>la plata q<ue> es/ 8 o<n>c'as en ven<e>c'ia ela onc'a es 4 q<u><<a>>rteres E el
+q<u><<a>>rtel es/ 36 q<u><<i>>rates E es vendido por/ 9/ l<ibras>/ 15 <sueldos> 6 d<ineros>/ q<u><<a>>nto valdra/ 5/ o<n>c'as E
+1/ q<u><<a>>r(^??)tel la rregla es aq<ue>sta multjpljca/ 5/ co<n> 9/ l<ibras>/ 15/ <sueldos> 6 d<ineros> E toma (la mytad) [1÷4] de
+9 l<ibras>/ 15 <sueldos> 6 d<ineros> ayu<n>talo todo en vno Ela suma p<ar>te por/ 8/ E vale<n>/ 6/ l<ibras> 8 (^??) <sueldos>
+3 d<ineros>/ (5÷6)[9÷16] de 1 di<nero>/ sabed q<ue>/ 12/ d<ineros> (^??) faz'e<n>/ 1/ <sueldo> E/ 20/ <sueldos> faz'e<n>/ 1/ l<ibr><<a>>/
+Ot<r><<o>>si el q<u><<a>>rter d<e>l olio es En Acre/ 20/ buyas E la buya es/ 20/ q<u><<a>>rteron<e>s
+E q<u><<a>>tro q<u><<a>>rteron<e>s pesan/ 1/ R<oto>l E/ 100/ rrotal<e>s pesan/ 1/ q<u><<a>>rtal E aq<ue>ste q<u><<a>>rtal es ven-
+dido por/ 35/ l<ibras> serraz'jnados E 19/ q<u><<i>>rates q<u><<a>>nto valdra<n> las 13/ buyas/ 1÷2
+multjpljca/ 13/ 1÷2/ co<n>/ 35/ l<ibras>/ 19/ q<u><<i>>rates E ayu<n>talo en vno p<ar>te por/ 20/ buyas por
+eso q<ue>/ 20 (q<ue> 20)/ buyas es/ 1/ q<u><<a>>rtal E vale<n>/ 24/ l<ibras>/ 3/ q<u><<i>>rates 3/ g<r><<a>>nos/ 3÷10 de 1/ g<r><<a>>no
+20/ buyas val<e>n 35/ l<ibras>/ 19/ q<u><<i>>rates q<u><<a>>nto valdra<n>/ 13/ buyas/ 1÷2/ multjpljca 13/ buyas
+1÷2/ co<n>/ 35/ l<ibras> 19/ q<u><<i>>rates p<ar>tjr por/ 20/ val<e>n/ 24/ l<ibras>/ 3 q<u><<i>>rat<e>s/ 3/ g<ran><<o>>s/ 3÷10 de
+1/ grano g<u><<a>>rda q<ue>/ (12)[24]/ q<u><<i>>rat<e>s es/ 1/ lj<br><<a>>
+Ot<r><<o>>si [el] mjllar d<e>l oljo en pulla q<ue> es 40/ estar<e>s vale (^1) 3/ on(~)c'as E 10/ tarin<e>s
+q<u><<a>>nto valdra<n> los 29/ estar<e>s/ 1÷2/ multjpljca 29/ 1÷2/ co<n> 3/ onc'as 10/ tarin<e>s E faz' los
+tarin<e>s ho<n>c'as Ela suma p<ar>te por 40/ E fallaras q<ue> avras a p<ar>tjr 98 o<n>c'as 10
+tarin<e>s p<ar>te por/ 40/ de q<ue>le vjene 2 onc'as/ 13/ tarin<e>s 15 g<r><<a>>nos././ 30 tarin<e>s
+faz'e<n>/ 1/ onc'a./.
+{IN2.} (o)[O]trosi el t<r><<o>>sell d<e>los pan~os en ma<<r>>sella es 60/ can~as E la can~a es/ 8/
+palmos E aq<ue>ste t<r><<o>>sell val 54 l<ibr><<a>>s/ 16/ <sueldos> 4 d<ineros>/ q<u><<a>>nto valdra las 36 ca-
+n~as (2/) 1÷2/ multjplicalo enla man<e><<r>>a q<ue> avemos d<ic>ha enlo[s] q<u><<i>>ntar<e>s eso es/ 36/ [^1÷2] co<n>
+(34)[54] l<ibra>s 16/ <sueldos>/ 4 d<ineros> E ayu<n>talo todo en vno E la suma p<ar>te lo por 60/ E
+fallaras en s<um><<a>>/ 2000 l<ibr><<a>>s/ 16 <sueldos> 2 d<ineros> p(a)<ar>tjr por 60 vale<n>/ 33 l<ibr><<a>>s 6 <sueldos> 11 d<ineros> 7÷30
+{IN2.} (o)[O]t<r><<o>>si la can~a d<e>l pan~o en pisa es/ 4/ brac'as E la can~a val/ 12/ l<ibr><<a>>s/ 8
+<sueldos>/ 6/ d<ineros> q<u><<a>>nto valdra/ 1/ brac'a/ 1÷2/ multjpljca/ 1/ vegada/ 12/ l<ibras>/ 8/ <sueldos>/ 6/ d<ineros>
+pu<e>s toma la meytad de/ 12/ l<ibra>s & 8/ <sueldos> 6/ d<ineros> E ayu<n>talo todo en vno Ela suma/
+p<ar>te por 4/ E fallaras/ q<ue>le ujen<e>/ 4 l<ibras>/ 13/ <sueldos>/ 2/ d<ineros>/ 1÷4/}
+[fol. 8v]
+{CB1.
+{IN2.} (o)[O]t<r><<o>>si la can~a d<e>l pan~o q<ue> es/ 8/ palmos[ ]en(~) acre vale de besant<e>s serra-
+z'jnados/ 5/ l<ibras> E/ 16/ q<u><<i>>rates q<u><<a>>nto valdra<n>/ 3/ palmos/ 1÷2/ multjpljca
+3/ co<n>/ 5/ l<ibras> E/ 16/ q<u><<i>>rates E fas las ljbras q<u><<i>>rates pu<e>s toma la meytad de 5/
+l<ibras> 16/ q<u><<i>>rates ayu<n>talo todo en vno E faz'e<n>/ 19/ l<ibras>/ 20/ q<u><<i>>rates p<ar>te por/ 8 va-
+len/ 2/ l<ibras>/ 11/ q<u><<i>>rates [1÷2]
+{IN2.} (o)[O]t<r><<o>>si la balla d<e>los fustan<e>s de 40/ piec'as vale/ 53 l<ibras>/ 9/ <sueldos> q<u><<a>>nto valdra
+la/ 1/ piec'a p<ar>te 53 l<ibras> & 9/ <sueldos> por/ 40/ vienele/ 1/ ljbra/ 6/ <sueldos>/ 8/ d<ineros>/ 7÷10
+{BLNK: about 8 lines left blank.}
+{IN2.} (A)[A]q<ue>sta rraz'o<n> Elas semejantes llama om(~)e la rrefersida por eso co-
+m<m>o y a q<u><<i>>ntal de q<u><<i>>ntal<e>s co<n> rrotol<e>s E co<n> onc'as o q<u><<a>>ntjdat de medidas
+o de algunas cosas a q<ue> sea puesto prec'io co<n> alguna p<ar>te de aq<ue>lla cosa q<ue>
+no<n> sea entrega asi com<m>o sy om(~)e q<u><<i>>ere d<ineros> el q<u><<i>>ntal de/ 100/ rrotol<e>s
+vale/ 7/ ljbras(~)/ 8/ <sueldos>/ 9 d<ineros> q<u><<a>>nto valdra<n>/ 9/ q<u><<i>>ntal<e>s/ 54 rrotol<e>s/ 1÷2/ Aq<ue>sta
+Es la (^rrela) rregla p<r><<i>>m<er>a me<n>te multjpljca 9/ co<n>/ 7/ ljbras/ 8/ <sueldos>/ 9/ d<ineros> E faz' los
+din<er>os <sueldos> E los/ <sueldos> ljbras faz'e<n>/ 66/ l<ibras>/ 18/ <sueldos>/ 9/ d<ineros> po<n>lo ap<ar>te q<ue> ata<n>to vale<n> los
+9 q<u><<i>>ntal<e>s ot<r><<o>>si por saber q<u><<a>>nto vale<n> los rrotal<e>s multjpljca/ 54/ co<n>/ 7/ l<ibras>/
+8/ <sueldos> 9/ d<ineros> pu<e>s toma la meytad de/ 7/ l<ibras>/ 8/ <sueldos> 9 d<ineros> E ayu<n>talo todo en vno
+E faz'e<n> en suma 405/ l<ibras> 6/ <sueldos> 10/ d<ineros>/ 1÷2/ p<ar>te por/ 100/ viene<n>le 4 l<ibras>
+1/ <sueldo> 165÷200/ de 1/ di<ner><<o>> E tanto monta<n> 100 Rotal<e>s vale 7 l<ibr><<a>>s 8 <sueldos> 9 d<ineros> q<u><<a>>nto
+valdra 9 (o<n>c'as) [quintales] 54 Retal<e>s/ 1÷2/ 9. q<u><<i>>ntal<e>s valen 66 li<br><<a>>s 18 <sueldos> 9/ d<ineros> 54 Re-
+tal<e>s/ 1÷2/ valen 4 libr<<a>>s/ 1. <sueldo> (10 d<ineros>) (^3)3__3÷4__10/. [de 1 dinero] su<m><<a>> por todo (17)[70] libr<<a>>s
+19 <sueldos> 9. d<ineros> 3__3÷4__10}
+[fol. 9r]
+{CB1.
+{IN3.} [O]trosi el mjllar de algu<n><<a>> cosa eso es 1000 li<br><<a>>s en peso valen en veneja[r]
+84 li<br><<a>>s 12 <sueldos> 8 d<ineros> q<u><<a>>nto valdra<n>/ 9/ mjllar<e>s 460 libr<<a>>s multipl<i>ca
+9/ con 84/ libr<<a>>s 12 <sueldos> 8 d<ineros> E faz'en 761 libr<<a>>s 14 <sueldos> E tanto
+valen los 9/ mjllar<e>s E ponlo a[+]p<ar>te & pu<e>s por sab<e>r q<u><<a>>nto vale<n> las libras mul-
+tiplica 460 con 84 libras 12 <sueldos> 8 dj<neros> E faz' los dj<neros> <sueldos> E de los <sueldos> faz'
+libras Ela suma p<ar>te por 1000 E gua<<r>>da la su Regla & fallaras q<ue>le
+viene 38 libr<<a>>s E 18 <sueldos> E 7 d<ineros>/ 2__3÷5__5/ E tanto valen las libras A-
+gora a[+]yun(~)ta la suma delos mjllar<e>s Ala suma delas li<br><<a>>s son en(~) su<m><<a>>
+(806)[800] l<ibr><<a>>s [12 sueldos] 7 d<ineros>/ 2__3÷5__5/ E tanto mo<n>ta/. 1000 ljbras valen 84 libra?' & 12 <sueldos>
+8 d<ineros> q<u><<a>>nto valdran/ 9/ mjllar<e>s/ 46[0] l<ibr><<a>>s/ 9/ mjllar<e>s valen 761 l<ibr><<a>>s 14 <sueldos> 46[0] l<ibr><<a>>s
+valen 38 li<br><<a>>s 18 <sueldos> 7 d<ineros> [2__3÷5__5] suma q<ue> vale todo 800 libras. 12 <sueldos> 7 d<ineros>/ 2__3÷5__5/
+{IN3.} [O]trosi el mjlla<<r>> eso es 1000 li<br><<a>>s del oljo en beneja<<r>> 40 mjeris E la meura
+es 25 li<br><<a>>s de oljo E aq<ue>ste mjlla<<r>> (^2)[^5]2 l<ibras> 12 <sueldos> q<u><<a>>nto mo<n>tara (8)[7] mj-
+llar<e>s E 7 mjere(~)s (22)/ 1÷2/ Aq<ue>sta es la Regla E por saber q<u><<a>>nto
+mo<n>tara<n> (la 7 mjer<e>s entregas) [los 7 mjllares entregos] multiplica(~) 7 co<n> 52 li<br><<a>>s 12 <sueldos> faz'en 368 l<ibr><<a>>s
+4 <sueldos> tan(~)to valdran (las 7 mjer<e>s) [los 7 mjllares] E pu<e>s por sab<e>r q<u><<a>>nto valen las 7 mjer<e>s/ 1÷2/
+multiplica (^??) 7/ 1÷2/ con 52 l<ibr><<a>>s 12 <sueldos> faz'en 394 libr<<a>>s & 10 <sueldos> p<ar>te los
+por 40 mjer<e>s vale<n> 9 l<ibr><<a>>s 17 <sueldos> 3 d<ineros> E ta<n>to valen/. agora ayunta en vno 368
+l<ibr><<a>>s 4 <sueldos> con 9 l<ibr><<a>>s 17 <sueldos> 3 d<ineros> E tanto valen (las) [los 7 millares] 7 (^q<ue>) mjer<e>s [1÷2] E por aq<ue>sta Regla faras
+las semejant<e>s Raz'on<e>s // 1000 libr<<a>>s de oljo vale (54) [52] libras 12 <sueldos> q<u><<a>>nto val-
+dra<n> [7 mjllares] 7 mjer<e>s/ 1÷2/ 7/ mjlla[re]s vale<n> 368 l<ibr><<a>>s 4 <sueldos> 7 mjer<e>s/ 1÷2/ valen 9 l<ibr><<a>>s 17 <sueldos> 3 [*d<ineros>]
+q<ue> vale todo 378 l<ibr><<a>>s 1 <sueldo> 3 d<ineros>
+{IN3.} [O]trosi vna piec'a de pan~o q<ue> sea/ 7/ brac'as/ 1÷2/ vale (^??) 10 l<ibr><<a>>s q<u><<a>>nto valdra
+vna brac'a aq<u>esta es[ ]la Regla por tal q<ue> partas E multipliq<ue>s por en(~)t[*re]-
+gos 7/ 1÷2/ 10 multiplica/ 7/ co<n>/ 2/ junta .1. son/ 15/ ponlo apa<<r>>te & ot<r><<o>>si
+multiplica(~) 10 co<n> 2 son/ 20/ & asi fallaras q<ue> 15 brac'as vale<n>/ 20 libr<<a>>s
+[*&] agora amjnua 15 E 20 por egual<e>s ta<n>to com<m>o podras E pu<e>s lo [a]menua<<r>>
+por/ 1÷5/ E diras el 1÷5/ de 15 es 3 E el (^v) 1÷5 de 20 es 4 agora// 3 brac'as
+valen 4 li<br><<a>>s q<u><<a>>nto valdra vna brac'a/. multiplica vna vegada/ 4 <sueldos> a 4 l<ibr><<a>>s E p<ar>te
+las por 3 vale<n> .1. l<ibr><<a>> 6 <sueldos> 8 d<ineros> E ta<n>to vale .1. (l<ibr><<a>>) [brac'a]/. E por aq<ue>sta Regla
+faras las semeja<n>t<e>s Raz'on<e>s // 7 br<<a>><c'a>s E media valen 10 libr<<a>>s q<u><<a>>nto valdra(~)
+.1. brac'a Redresa<<r>> E amenua<<r>> las 3 brac'as valen 4 li<br><<a>>s E p<ar>te por 4 li<br><<a>>s
+por 3 viene le .1. l<ibr><<a>> 6 <sueldos> 8 d<ineros>}
+[fol. 9v]
+{CB1.
+{IN3.} [O]trosi vna piec'a(~) de pan~o q<ue> es 15 Can~as/ 1÷2/ vale 7 l<ibr><<a>>s 4 <sueldos> q<u><<a>>nto valdra<n> las
+2/ Can~as 1÷4 aq<ue>sta es la Regla tu deu<e>s gua<<r>>dar (^que) 4 <sueldos> q<u><<a>>nta p<ar>te es
+de .1. l<ibr><<a>> E es el/ 1÷4/ onde seria<n> 7 l<ibr><<a>>s E 1÷5/ agora Redresa 15 Canas/ 1÷2/
+Con 7 l<ibr><<a>>s/ 1÷5 mult<i>pl<i>ca/ 15 por 2/ junta/ .1. q<ue> es sobr<e> .2/ Ela suma por/ 5/
+del ot<r><<o>> no<n>br<e> (^q<ue> es sobr<e> 5) fara<n> 155 Can~as/ . ot<r><<o>>sy multiplica las libras eso
+es 7 l<ibr><<a>>s por 5 ju<n>ta .1. q<ue> es sobr<e>/ 5/ Ela suma por/ 2/ del p<ri>m<er>o no<n>br<e> faz'e<n>/ 72/
+l<ibr><<a>>s E asi desq<ue> 155 Can~as vale<n> 72 l<ibr><<a>>s aq<ue>stos 2 no<n>br<e>s no<n> se puede<n> A[+]-
+menuar por .1. Regla/ amos adoss porq<ue> diras sy 155 Can~as valen 72
+l<ibr><<a>>s q<u><<a>>nto valdran 2 Canas 1÷4/ multiplica 2 con 72 [pues toma el 1÷4 de 72] ayun(~)ta lo en vno
+E faz'e<n> 162 li<br><<a>>s p<ar>te lo por 155 e[ ]gua<<r>>da la su Regla & viene le .1. l<ibr><<a>>
+E 10 d<ineros>/ 26÷31/ E tanto valen las doss Canas &/ 1÷4/
+% (^suma 15 Can~as &// 1÷2/) ot<r><<o>>si en<e>l ma<<r>>co del oro vale el q<u><<i>>rate de oro 4 lib<ras> 8 <sueldos> & 4
+d<ineros> q<u><<a>>nto valdra .1. ma<<r>>co de oro q<ue> sea de 18 q<u><<i>>rat<e>s E .1. grano &/ 1÷2/ & 4 granos
+son .1. q<u><<i>>rate Aq<ue>sta es la Regla tu deu<e>s gua<<r>>dar .1. grano &/ 1÷2/ q<ue> pa<<r>>te es d<e>l
+q<u><<i>>rate Redresalo & fallaras q<ue> es/ 3÷8/ de .1. q<u><<i>>rate/ E pu<e>s diras si .1. q<u><<i>>rate vale
+4. li<br><<a>>s E 8 <sueldos> 4 d<ineros> q<u><<a>>nto valdra 18 q<u><<i>>rat<e>s/ 3÷8/ multiplica(~) por la Regla(~) d<e>los
+q<u><<i>>rat<e>s eso es 18 co<n> 4 li<br><<a>>s 8 <sueldos> 4 d<ineros> E pu<e>s toma los 3÷8 di 4 [libras]/ 8 [sueldos] (faz'e<n>) 4
+d<ineros> ayuntalo todo en(~) vno & faz'( )en(~)[ ]l[a] suma 8(0)1 li<br><<a>>s 3 <sueldos> 1 (d<ineros>) [dinero]/ 1÷2/ p<ar>te lo
+por .1. vjene le todo eso es 8(0)1. li<br><<a>>s & 3 sueldos .1. d<iner><<o>>/ 1÷2/ & tanto vale el ma<<r>>co
+de 18 q<u><<i>>rat<e>s E .1. grano/ 1÷2/ /./ vn(~) q<u><<i>>rate vale 4 li<br><<a>>s 8 <sueldos> 4 d<ineros> q<u><<a>>nto
+valdra 18 q<u><<i>>rat<e>s/ / 3÷8/ multiplica 18/ 3÷8/ vegadas 4 l<ibr><<a>>s 8 <sueldos> 4 d<ineros> suma
+81 l<ibr><<a>>s 3 <sueldos> 1. d<iner><<o>>/ 1÷2/ & p<ar>te por .1. viene le todo/
+{IN3.} [E]l ma<<r>>co d<e>l oro vale en(~) valenc'ia 84 l<ibr><<a>>s 8 <sueldos> 4 d<ineros> q<u><<a>>nto valdra en(~)
+suma 7 ma<<r>>cos/ 5/ (^vnq<ue>s) [^onc'as] 1 q<u><<a>>rter(~) 17 q<u><<i>><<r>>ates [1÷2] E segu<n>d q<ue> ya(~) Avemos
+d<ic>ho el ma<<r>>co es 8 <onc'as> en(~)la <onc'a> es 4 q<u><<a>>rtos & el q<u><<a>>rto es 36 q<u><<i>>rat<e>s
+Aq<ue>sta es la Regla tu porrnas[ ]las lib<r><<a>>s & los <sueldos> & los djn<er>os Asi 84 li<br><<a>>s/ 8__4÷20__12/
+E porrnas los ma<<r>>cos co<n> los sus Rotos Asy 7 ma<<r>>cos 5__1__17__1÷8__4__36__2 & diras
+pu<e>s vn(~) ma<<r>>co vale 84 li<br><<a>>s/ 8__4÷20__12/ q<u><<a>>nto valdra/ (^v) 7 m<arcos> 5__1__17__1÷/8/__4/__36/__2
+Agora Redresa .1. ma<<r>>co conlos (^otros) Rotos d<e>l su p<re>u eso es mult[i]plica vn(~)
+ma<<r>>co por 20 E la suma por 12 faz'en 24[0] ma<<r>>cos pu<e>s Redrasa las
+l<ibr><<a>>s por su v<er>ga & mult<i>plica 84 co<n> 20 E junta 8 E la suma por 12 ju<n>ta
+4 faz'e<n> 20260 li<br><<a>>s E asi as q<ue> 240/ ma<<r>>cos valen/ 20260/ agora amenua
+amos adoss los no<n>br<e>s Ata<n>to com<m>o puedas por vna Regla E pued<e>s lo amenua<<r>>
+por/ 1÷20/ con la/ 1÷20/ di 240 es 12 Ela .1<<a>>. /1÷20/ [de] 20260/ es (13)1013 asi
+has q<ue> 12 ma<<r>>cos valen .(1033) [1013] li<br><<a>>s [multiplicalo con 7] E pon lo Ap<ar>te E pu<e>s toma 5 q<ue> es sobr<e> 8
+E mult<i>plicalo por 4/ ju<n>ta .1. & la suma por 36 ju[n]ta 17 Ela suma po<<r>>/ 2/}
+[fol. 10r]
+{CB1.
+ju<n>ta .1. E pu<e>s la suma por el p<re>u delos 12 ma<<r>>cos Eso es por 10(^??)[^1]3 &
+faz'e<n> por todos 15671(^??)[^1]1 li<bra>s E [parte] por la colona don( )de toma<n> Regla 1__1__1__1÷4__8__8__9//
+E viene le (^s) 680 lib<r><<a>>s 3 <sueldos> 4 d<ineros> [35÷48] ayu<n>tados co[n]los 7091 libras q<ue>
+avras puestas Ap<ar>te [parte] por 12 viene le 647. libras E 11 <sueldos> 11 d<ineros>/ (1÷3) [227__576]/ & ta<n>to
+valen los 7 ma<<r>>cos E 5 ho<n>c'as E 1 (q<u><<i>>rate) [quarter] & 17 (g<r><<a>>nos) [quirates] 1÷2/
+si vn(~) ma<<r>>co vale 84 li<br><<a>>s/ 8__4÷20__12/ q<u><<a>>nto valdra<n> 7 ma<<r>>cos/ 5__1__17__1÷8__4__36__2/ Redresa[*los]
+12 ma<<r>>cos vale 1013 lib<r><<a>>s onde q<u><<a>>nto valdra<n> .7 ma<<r>>cos/ 5__1__17__1÷8__(3)[4]__36__2/ mult<i>plica
+7 co<n> 1013 [...] faz'e<n> 680 libras 3 <sueldos> 4 d<ineros> [...] apa<<r>>tjr en(~) 12 vienele 647 l<ibr><<a>>s
+11 <sueldos> 11 d<ineros>/ (1÷3)[227÷576]/ & es fech~a la Raz'on(~)
+{IN5.} [O]trosi .1. ma<<r>>co de oro vale 96 li<br><<a>>s/ 1÷2/ q<u><<a>>ntos ma<<r>>cos de oro Avras por 1232 l<ibr><<a>>s 1÷2
+mult<i>plica 96 por 2 ju<n>ta .1. faz'e<n> 193 pu<e>s mult[i]plica .1. ma<<r>>co por 2 faz'e<n>
+2 ma<<r>>cos [multiplical?] por 1232 1÷2/ E faz'en/ (9/) 2465 ma<<r>>cos p<ar>te los por 193
+vienele 12 ma<<r>>cos 6 ho<n>[*c']as &/ 25 q<u><<i>>rat<e>s E/ 71÷193/ de .1. q<u><<i>>rate & ta<n>tos
+ma<<r>>cos avras por 1232 l<ibr><<a>>s/ 1÷2/ [??]
+si noue<n>ta & seys li<br><<a>>s/ 1÷2/ valen vn(~) ma<<r>>co las .193 li<br><<a>>s valdra<n> (^0) 2 ma<<r>>cos ond<e> mul-
+tiplica .2. ma<<r>>cos por/ 1232/ 1÷2/ & faz'en 2465 ma<<r>>cos pa<<r>>te los por
+.193. viene le .12. ma<<r>>cos .6. ho<n>c'as 25 q<u><<i>>r<a>t<e>s/ 7/__(2)[1]/÷193/
+% sy vn(~) ma<<r>>co de oro q<ue> sea de ley de 1(^3)[^7] q<u><<i>>rat<e>s &/ 2/ granos/ 1÷2/ vale<n>/ 72 l<ibr><<a>>s
+10 <sueldos> q<u><<a>>nto valdria .1. ma<<r>>co de oro q<ue> sea de ley de/ 21/ q<u><<i>>rat<e>s .1. grano/ 1÷2/
+aq<ue>sta es la Regla tu po<n> los q<u><<i>>rat<e>s co<n>los sus Rotos asi q<u><<i>>rat<e>s 17/ 1÷2/
+(22) [72]. li<br><<a>>s/ 1÷2/ & q<u><<i>>rat<e>s .21./ 1__1÷4__2/ E multiplica(~) 17. por 4 & ju<n>ta/ 2/ & la su<m><<a>>
+por/ 2/ ju<n>ta .1. pu<e>s la suma por los Rotos delas lib<r><<a>>s eso es por/ 2/
+& faz'e<n>/ 282 q<u><<i>>rat<e>s & ponlo ap<ar>te & ot<r><<o>>sy (n)[m]ult<i>pli[c]a las li<br><<a>>s por los
+sus Rotos: eso es 72 por 2 ju<n>ta (^2) .1. E pu<e>s la su<m><<a>> por la v<er>ga
+d<e>los q<u><<i>>rat[e]s eso es por/ 2/ & la su<m><<a>> por 4 & faz'e<n> (^100)/ 1160/ libras
+& asi diras q<ue> 282 q<u><<i>>rat<e>s vale<n> 1[1]60/ libras Amenua amos adoss
+los no<n>br<e>s Ata<n>to com<m>o podras por egual<e>s Reglas(~) E puede<n>
+se amenuar por/ 1÷2/ & la/ 1÷2/ de/ 282/ es/ 141/ la/ 1÷2/ de/ (^10)/ 1160/
+es/ 580/ &/ asi finca q<ue>/ 141/ q<u><<i>>rat<e>s valen/ 580/ libr<<a>>s ond<e> q<u><<a>>nto
+valdra<n>/ 21/ q<u><<i>>rat<e>s &/ 1__1÷4__2/ multiplica(~) 21 por/ 580/ faz'e<n>/ 12180/ libr<<a>>s
+& po<n>lo Ap<ar>te & pu<e>s toma .1. q<ue> es sobr<e> .4. E mult<i>plicalo por/ 2/ ju<n>ta/ .1.}
+[fol. 10v]
+{CB1.
+E faz'en .3. aq<ue>ste 3 mult<i>plica por 580 li<br><<a>>s faz'en 1740 li<br><<a>>s & p<ar>te por los
+2. Rotos q<ue> son sola v<er>ga eso es por .4. E por 2 q<ue> es ta<n>to com<m>o pa<<r>>tjr
+por .8. & valen .217. li<br><<a>>s &/ 10/ <sueldos> & ayu<n>talas co<n>las 12180 li<br><<a>>s & faz'e<n>
+en(~) su<m><<a>>/ 12397/ li<br><<a>>s 10 <sueldos> & pa<<r>>te los por 141. E g<u><<a>>rdala su Regla
+q<ue> es/ 1__1÷3__47/ & viene le 87 lib<r><<a>>s 18 <sueldos> (4 [^d<iner><<o>>]) [6 dineros]/ (12)[6]÷47/ de .1. di<ner><<o>> & ta<n>to valdra
+el ma<<r>>co de 21 q<u><<i>>rat<e>s/ 1__1÷4__2/ & por aq<ue>sta Regla(~) faras las semeja<n>t<e>s Raz'o<ne>s/
+si/ 17 q<u><<i>>rates (1)[2]__1÷4__2/ v(e)[a]le<n> 72/ l<ibr><<a>>s/ 1÷2/ rredrasa & amjnuat los/ 141/ q<u><<i>>rates vale<n>/ 580/ l<ibr><<a>>s
+onde q<u><<a>>nto valdra<n> los/ 12/ q<u><<i>>rates/ (1__1÷4__2) [11÷42]/ multjpljca/ 12/ vegadas/ 580/ faz'e<n>/ 6960/ l<ibras>
+ot<r><<o>>sy multjpljca/ 11÷42/ co<n>/ 580/ faz'e<n>/ 151/ 38÷42/ mo<n>tan todos/ 7111/ 19÷21/ (^q<ue> son)
+(^50/ l<ibras>) p<ar>te por/ 141/ vjenele/ 50/ l<ibras> (& 1÷2)/ (18/ <sueldos> 4/ d<ineros>/ 12÷47) [8 sueldos 7 dineros]/
+{IN2.} [E]n Acre se ve<n>de la seda A rrotol sotjl q<ue> es/ 12/ onc'as/ & la onc'a/ es/ 60/ adaremes
+E vn rrotol sotil vale/ (12) [21]/ bes(e)antes/ 1÷2/ q<u><<a>>nto valdra<n>/ 32/ rrotol<e>s/ 5/ onc'as/ 21
+adarahem<e>s/ 1÷2/ la rregla es senbla<n>te aq<ue>lla q<ue> avemos dich~a enlos capitolos d<e>los ma<<r>>cos
+tu porrnas/ 1/ rrotol val/ 21/ besant<e>s/ 1÷2/ q<u><<a>>nto valdra<n>/ 32/ rrotal<e>s/ 5__(12)[21]__1÷12__60__2/ m(o)[u]ltipljca
+1/ R<oto>l por/ 2/ d<e>l segu<n>do no<n>br<e> faz'e<n>/ 2/ R<oto>l<e>s pue(~)s multipljca/ 21/ besantes por/ 2/
+ju<n>ta/ 1/ faz'e<n>/ 43/ besant<e>s asy as q<ue>/ 2/ rrotal<e>s vale<n>/ 43/ besant<e>s onde q<u><<a>>nto va[l]dra<n>
+32/ R<oto>l<e>s E 5__21__1÷12__60__2/ multipljca/ (42) [43]/ besant<e>s por/ 32/ faz'e<n>/ (1344) [1376]/ besant<e>s E pu<e>s
+toma/ 5/ q<ue> es sobr<e>/ 12/ & multjpljcalo por/ 60/ ju<n>ta/ 21/ & la suma por/ 2/ ju<n>ta/ 1/
+faz'e<n>/ 643/ & aq<ue>stos/ 643/ se q<u><<i>>eren multjpljcar por/ 43/ besant<e>s E sy pued<e>s
+amjnuar los/ 2/ no<n>br<e>s faz'lo/ sy no<n> multjpljca el/ 1/ no<n>br<e> por el otro faz'e<n> 27649/
+besant<e>s & deues los p(a)<ar>tjr p(or)<or> los rrotos q<ue> son sola verga eso es por/ 12/ & por/ 60/
+E por/ 2/ & por la colon~a/ onde toma rregla q<ue> es/ 1__1__1__1÷10__9__8__2/ E vjenele/ 19/ b<esantes>
+4/ q<u><<i>>rat<e>s/ 3/ g<r><<a>>nos [4÷15]/ ayu<n>ta los [^co<n>]/ (1344) [1376]/ q<ue> aujas puesto ap<ar>te & faz'e<n>/ (1363) [1395]/ besant<e>s
+E 4/ q<u><<i>>rates 3/ g<r><<a>>nos [4÷15] p<ar>te los por/ 2/ vjen<e>le (681) [697]/ (^q<u><<i>>rat<e>s/ 1) besant<e>s/ 14 q<u><<i>>rat<e>s/ 1/ g<r><<a>>no
+(1÷2) [19÷30]/
+{IN2.} [O]trosi el Rotol grueso de acre pesa en Acre/ 6 l<ibr><<a>>s E 30 asages E [la]
+ljbra pesa/ 79/ Asag<e>s E el asag pesa 24/ q<u><<i>>rates E el q<u><<i>>rate pesa 4/
+granos onde/ 54/ rrotol<e>s/ 1÷2/ q<u><<a>>ntas l<ibra>s son E q<u><<a>>ntos asag<e>s & q<u><<a>>ntos q<u><<i>>rates}
+[fol. 11r]
+{CB1.
+E q<u><<a>>ntos granos Aq<ue>sta es la rregla tu porrnas/ 1/ R<oto>l es/ 6 l<ibra>s & 30÷79/ q<ue> f[*ara]
+54 R<oto>l<e>s/ 1÷2/ multjpljca/ 1 rrotol co<n>/ 79 R<oto>l<e>s (^??) faz'e<n> 79/ pues multjpljca 6 l<ibr><<a>>s
+co<n>/ 79/ ju<n>ta/ 30/ faz'e<n>/ 504/ (^ju<n>ta en vno) asy avras q<ue> 79 R<oto>l faz'e<n>/ 504/ l<ibr><<a>>s
+pu<e>s multjpljca 504/ l<ibr><<a>>s co<n>/ 54/ 1÷2/ faz'e<n>/ 27468/ p<ar>telo por 79/ vjene<n> 3[*47]
+l<ibr><<a>>s E 55/ Asag[e]s E ta<n>to faz'e<n> los/ 54/ rrotol<e>s/ 1÷2/
+Ot<r><<o>>si en acre se ve<n>de el girofle e(n)las cubebes E enlas espec'ierias sotjlj(~)s
+de (de de) menes E (^??) aq<ue>stas menes se pesan a Rotol<e>s sotil<e>s q<ue> es 12/ o<n>c'as
+E la ho<n>c'a es/ 60/ adarhames &/ 1/ R<oto>l E/ 1/ ho<n>c'a pesan/ 3/ men<e>s es asaber/
+(59) [57]/ rrotol<e>s/ 5/ honc'as/. 21/ adarhames/ 1÷2 q<u><<a>>ntas menas so[n] & q<u><<a>>ntas honc'as
+E q<u><<a>>ntas adarham<e>s Aq<ue>sta es la Regla tu porrnas 1/ R<oto>l 1÷12/ q<ue> es 3/ men<e>s
+q<ue> s<er>an/ 57/ R<oto>l/ 5__(12)[21]__1÷12__60__2/ mutjpljca/ 1/ por/ 12/ ju<n>ta [1] s<er>an/ 13/ R<oto>l pu<e>s mu-
+typljca/ 3/ menes por/ 12/ faz'e<n>/ 36/ men<e>s E asi as q<ue> (q<ue>)/ 13/ Rotol<e>s faz'e<n> 36
+men<e>s pu<e>s mutjpljca/ 57/ (^p) por/ 36/ men<e>s faz'e<n> 2052/ men<e>s & po<n>lo aparte
+ot<r><<o>>si (^m) toma/ 5/ q<ue> es sobr<e>/ 12/ & mutjpljcalo por/ 60/ ju<n>ta 21 Ela suma por
+2/ ju<n>ta/ 1/ faz'e<n>/ 643/ aq<ue>stos/ 643/ se q<u><<i>>eren mutjpljcar por/ 36/ men<e>s faz'e<n>
+23148/ men<e>s E deues las p(a)<ar>tir por los q<ue> son solas v(e)<er>gas d<e>los/ 57 R<oto>l[es]
+Eso es por/ 12/ & por/ 60/ & por/ 2/ o por la colon~ja q<ue> los Rotos toma<n> rre-
+gla E amjnua los no<n>br<e>s ta<n>to com<m>o podras ant<e>s q<ue> p<ar>tas E fallaras q<ue>
+finca<n> a[ ]p<ar>tir/ 643/ menes por/ 1__1÷4__10/ E vjenele/ 16/ menes/ (1/ onc'a/) (9) [54]/ ada<<r>>-
+ham<e>s/ (1÷2/) ayu<n>talo co<n>los 2052/ men<e>s q<ue> avjes puesto ap<ar>te E faz'e<n>
+2068/ men<e>s/ (1/ ho<n>c'a) (9) [54]/ adarham<e>s/ (1÷2/) p<ar>telo por/ 13/ vjenele/ 159/ men<e>s/ (2/ o<n>c'as)
+(sotiles/) (1/ adarhame/ 1÷2) [59 adarhames 7÷13]/ E ata<n>to faz'e<n> los/ 57/ Rotol<e>s/ & 5/ onc'as & 21/ ada<<r>>h[*ames]
+1÷2/
+sum<<a>> 1/ R<oto>l/ 1÷12/ de R<oto>l es/ 3/ men<e>s Redresat los/ 13/ R<oto>l<e>s so<n>/ 36 men<e>s o<n>de q<u><<a>>nto
+seria<n> 57 R<oto>l<e>s/ (1)[5]__21__1÷12/__60/__2/ mutipljcat/ 57/ co<n>/ 36/ men<e>s faz'e<n> 2052 men<e>s
+ot<r><<o>>si/ 5__21/__1÷12/__60/__2/ co<n> 36/ men<e>s faz'e<n>/ 16/ men<e>s (1/ o<n>c'a/) (9) [54]/ adarham<e>s/ (1÷2/) s<um><<a>> 2068
+men<e>s/ (1/ o<n>c'a) (9) [54]/ ada<<r>>m<e>s/ (1÷2/) p<ar>tir por/ 13/ vjenel<e> 159 men<e>s (2/) (^ada<<r>>ham<e>s) (o<n>c'as) (1/ adarhame 1÷2) [59 adarhames 7÷13]}
+[fol. 11v]
+{CB1.
+{IN2.} [S]y/ 12/ jaq<ue>ses vale<n>/ 21/ barc'jlon<e>s<es> E/ si/ 12/ ba<<r>>c'iloneses vale<n>/ 17/ mal-
+gujrsos di q<u><<a>>nto valdra<n>/ 19/ jaq<ue>ses co<n> malgujrsos(~) Aq<ue>sta es la Regla
+mutipljca/ 12/ jaq<ue>ses por/ 12/ ba<<r>>c'iloneses (^&) faz'e<n>/ 144/ jaq<ue>ses E po<n>lo de solos
+jaq<ue>ses E multjpljca/ 17/ malgujrses por/ 21/ ba<<r>>c'iloneses q<ue> faz'e<n>/ 357/ mal-
+gujrses E po<n>lo de solos malgujrses E a( )sy as/ 144/ jaq<ue>ses vale<n>/ 357/
+malgujrses E amjnua<<r>> amos ados los no<n>br<e>s por egual<e>s Reglas ata<n>to com<m>o po-
+dras E puede<n> se amjnua<<r>> Amos ados por/ 1÷3/ E finca<n> q<ue>/ 48/ jaq<ue>ses vale<n>/ 119/
+malgujrses(~)/ onde q<u><<a>>nto valdra<n>/ 19/ jaq<ue>ses multjpljca/ 119/ malgujrses por/ 19/
+jaq<ue>ses E faz'e<n> 2261/ malgujrses(~) & p<ar>telos por/ 48/ E vjene<n>/ 47/ 5÷48/ E
+tantos mal( )gujrses(~) valdra<n> los/ 19/ jaq<ue>ses E[ ]sy om(~)e dixese q<u><<a>>nto valdra<n> los/ 19/
+malgujrsos(~) ala Raz'o<n> sobr<e> d<ic>ha co<n> jaq<ue>ses podras dez'<i><<r>> pu<e>s q<ue>/ 119/ malgujrses
+vale<n>/ 48/ jaq<ue>ses q<u><<a>>nto valdran los/ 19/ malgujrses multjpljcareys/ 48/ co<n>/ 19/ faz'e<n>
+912/ p<ar>te por/ 119/ vjen<e>le/ 7/ 79÷119/ E tanto valdra<n> los/ 19/ malgujrses co<n> jaq<ue>sos
+E por aq<ue>sta Regla faras delas semejant<e>s Raz'on<e>s
+{=DIAG.
+{RUB. jaq<ue>ses barc'iloneses malgujrses}
+Redrasat & amjnuat los/ 48/ jaq<ue>ses vale<n>/ 119/ malgujrses onde q[ua]nto valdra<n>/ 19/
+(^??) (margujrses~) [jaqueses] mutjpljca/ 19/ co<n>/ 119/ faz'e<n> 2261/ p<ar>te por 48 vjenele/ 47/ 5÷48}
+{IN2.} (o)[O]trosi si/ 12/ jaq<ue>ses vale<n> de ba<<r>>c'iloneses/ 21/ (^1)1÷(^1)3/ E sy 15/ & 1÷6/ de ba<<r>>c'ilon<e>s<es> vale<n>
+de malgujrses/ 17/ 1÷4/ de[+]ma<n>do q<u><<a>>ntos malgujrses avre por/ 19/ jaq<ue>ses/ 1÷2/
+Aq<ue>sta es la Regla semejant<e> ala ot<r><<a>> sobr<e> dich~a multipljca/ 12/ jaq<ue>ses por
+15/ 1÷6/ de barc'iloneses & faz'e<n>/ 182/ jaq<ue>ses po<n>los solos jaq<ue>ses E por la colona ot<r><<o>>
+sy multjpljca/ 17/ 1÷4/ de (^malgal) malgujrses por/ 21/ 1÷3/ de ba<<r>>c'iloneses E faz'e<n>
+368/ malgujrses As [^agora] q<ue>/ 182/ jaq<ue>ses/ (E) [valen]/ 36[8]/ malgujrses onde q<u><<a>>nto valdra<n> los
+19 1÷2/ jaq<ue>ses q<ue> q<u><<i>>eres saber multjpljca/ 368/ co<n>/ 19/ 1÷2/ E faz'e<n>/ 7176/ E [parte] por 182
+E amjnua amos Ados los no<n>br<e>s por egual<e>s rreglas eso q<ue> podras E pu<e>s p<ar>te
+E g<u><<a>>rda la Regla d<e>l p<ar>tidor E final me<n>te vjenel<e>/ 39/ 5__4÷13__7/ & ta<n>tos mal-
+gujrses valdran los jaq<ue>ses eso es 19/ 1÷2/ jaq<ue>ses E por aq<ue>sta rregla faras las ot<r><<a>>s}
+[fol. 12r]
+{CB1.
+ot<r><<o>>si/ 12/ malgujrses(~) vale<n>/ 13/ 1÷2/ de torrneses E 10/ torrneses vale<n>/ 12 1÷3
+de genoujs<es> E/ 7/ 1÷4/ de genoujs<es> vale<n>/ 18/ pjsanjn<e>s de[+]ma<n>do q<u><<a>>ntos pisanjn<e>s
+Aure por 5/ l<ibr><<a>>s/ 7/ <sueldos> 5 d<ineros> de malgujrses(~) Aq<ue>sta es la rregla semejante
+ala sobr<e> d<ic>ha ordena asi com<m>o se mueve e<n>la casa q<ue> es so aq<ue>ste capitolo eso
+es malgujrses(~) enposi torrn<e>s<es> & genoujs<es> e( )so [es] genoujs<es> pisantes por si e mutiplj-
+ca/ 12/ por/ 10/ ela suma por (^syete &)/ 7/ 1÷4 faz'e<n>/ 870/ malgujrses e aq<ue>ste
+sera colon~ja pu<e>s multjpljca/ 18/ pisant<e>s por/ 12/ 1÷3 ela suma por/ 13 1÷2 se-
+ra<n>/ 2997/ pjsant<e>s agora as q<ue> 870/ malgujrses vale<n>/ 2997/ pisanjn<e>s A-
+menua amos ados los no<n>bres por egual<e>s (^no<n>br<e>s) rreglas E fincara<n> q<ue> los
+290/ malgujrses(~) valdra<n> 999/ pjsant<e>s onde q<u><<a>>nto valdra<n> las/ (^9) 5 l<ibr><<a>>s &
+7 <sueldos>/ 5 d<ineros>/ E faras d<e>los d<ineros> <sueldos>/ E d<e>los (^s) <sueldos>. l<ibr><<a>>s E fara<n> en suma
+5365/ l<ibr><<a>>s/ 9 <sueldos>/ 3 d<ineros> p<ar>te por/ 290 malgujrses(~) vj[e]nele 18/ l<ibr><<a>>s 10 <sueldos>
+6 d<ineros> 111÷290/ de/ 1/ di<ner><<o>> E tantos pisanjn<e>s valdra<n> las/ 5/ l<ibr><<a>>s 7 <sueldos>/ 5/ d<ineros> de
+malgujrses
+{IN2.} (o)[O]trosi 19/ <sueldos> 7 d<ineros> ba<<r>>c'iloneses vale<n>/ 20 <sueldos> 7 d<ineros> de torrneses q<u><<a>>nto
+[valdran] 100 (d<ineros>) [libras] ba<<r>>c'iloneses/ Aq<ue>sta es la rregla tu porrnas/ 19__7÷20__12 de [libra]
+de ba<<r>>c'iloneses vale(~) de torrneses/ 1/ l<ibr><<a>> 0__7÷20/__12 rredrasaras el/ 1/ & el ot<r><<o>> E
+mutipljca por los/ 19/ ba<<r>>c'ilon<e>s<es> q<ue> es sobr<e>/ 20/ por/ 12/ ju<n>ta 7 faz'e<n> 235/
+ot<r><<o>>si por los torrn<e>ses multjpljca/ 1. l<ibr><<a>> por/ 20/ Ela suma por/ 12/ ju<n>ta 7
+faz'e<n> 247/ torrn<e>s<es> E asi as q<ue> 235/ barc'iloneses vale<n>/ (244) [247]/ torrn<e>ses
+onde q<u><<a>>nto valdra<n> 100/ l<ibr><<a>>s de ba<<r>>c'ilon<e>ses multjpljca/ 247/ por 100/ faz'e<n>
+24700/ l<ibr><<a>>s/ ap<ar>tjr por/ 235. E antes q<ue> p(a)<ar>tas amjnua amos ados los
+no<n>br<e>s eso q<ue> podras & final me<n>te fincara<n> ap(a)<ar>tjr/ 494[0]/ l<ibr><<a>>s por 47/ vjen<e>le
+105/ l<ibr><<a>>s 2 <sueldos> 1/ di<ner><<o>>/ 25÷47/ de di<ner><<o>> & tantos torrnes[es] valdra<n> las 100 l<ibr><<a>>s de ba<<r>>c'ilo-
+neses
+{IN2.} (o)[O]t<r><<o>>si si .3/ ba<<r>>c'iloneses 1÷2/ vale<n> 5/ torrn<e>ses/ 1÷4/ [quanto valdran] 52 l<ibr><<a>>s [1]4 <sueldos> 6 d<ineros> de
+ba<<r>>c'iloneses Aq<ue>sta es la rregla tu rredrasaras/ 3. ba<<r>>c'ilon<e>ses 1÷2 co<n> 5
+torrneses & q<u><<a>>rto & multjpljca/ 3. por .2. ju<n>ta .1. ela suma por 4 d<e>l
+segu<n>do no<n>bre faz'e<n> .28./ ba<<r>>c'iloneses ot<r><<o>>si mutipljca 5 torrn<e>ses por}
+[fol. 12v]
+{CB1.
+4 ju<n>ta/ 1. ela suma por .2/ del p<r><<i>>mer no<n>br<e> faz'e<n> .42 torrn<e>ses E
+asi as q<ue> (^2) 28 ba<<r>>c'iloneses vale<n> 42. torrneses agora amjnua amos
+Ados los no<n>bres tanto com<m>o podras por .1. rregla & final me<n>te fallaras
+q<ue> .2/ ba<<r>>c'iloneses vale<n> .3/ torrneses E po<n>lo e<n> l<ibr><<a>>s (^o~) o e<n> <sueldos> o e<n> d<ineros> o<n>de
+Aq<ue>sta Raz'o<n> digas si .2/ l<ibr><<a>>s de barch<inona> vale<n> 3/ de torrneses q<u><<a>>nto valdra<n>
+52 l<ibra>s 14 <sueldos> 6 d<ineros> E po<n>las asi por rraz'o<n> d<e>l mutjpljcar 52/ l<ibra>s 14__6÷20__12/ e
+multjpljca .3/ por 52/ faz'e<n>/ 156/ E po<n>los ap<ar>te E toma/ 14/ q<ue> es sobr<e>
+([^14 q<ue> es sobr<e>]) 20 mutjpljcalo por/ 12/ ju<n>ta/ 6/ faz'e<n>/ (^??) [^174]/ aq<ue>ste (^??) [^174] por 3 l<ibr><<a>>s fa-
+z'en (^??) [^522]/ l<ibra>s & deues las p(a)<ar>tjr por los rrotos q<ue> son solas ve<<r>>gas eso
+es por/ 20/ & por 12/ o por la colona o<n>de los rrotos toma<n> rregla & antes q<ue>
+p<ar>tas amjnua los no<n>br<e>s eso q<ue> podras final me[n]te fallaras q<ue> fincara<n> ap<ar>tjr
+87 l<ibra>s por/ 40/ q<ue>le ujen<e>/ 2/ l<ibra>s/ 3/ <sueldos> 6 d<ineros> ayu<n>talos co<n> las/ 156/ l<ibra>s q<ue>
+Aujes puesto ap<ar>te & faz'e<n>/ 158. l<ibra>s 3 <sueldos> 6 d<ineros> p<ar>telos por/ 2/ vjene<n>le
+79/ l<ibra>s .1. <sueldos>/ 9/ d<ineros> de barc'iloneses E es fech~a la cue<n>ta
+{IN2.} [S]y vn ome A co<m>prado en acre/ 1. ca<<r>>ga de pjmje<n>ta por/ 121 l<ibr><<a>>s 1÷2 E la
+ljeua en ven(~)ec'ia por vende[r] q<u><<a>>nto q<ue>rra vender la ca<<r>>ga de ven(~)ec'ia q<ue>l fa/ 1. l<ibr><<a>>
+35 <sueldos> & El q<u><<i>>ntal de acre es en ven(~)ec'ia 750 l<ibr><<a>>s Ela ca<<r>>ga es de 400
+l<ibr><<a>>s Aq<u>esta es la rregla tu pued<e>s dez'<i><<r>> (q<ue>) q<ue>las 750/ l<ibr><<a>>s q<ue> son de/ 1/ q<u><<i>>n-
+tal de acre/ 121/ 1÷2/ l<ibra>s onde q<u><<a>>nto costara<n> las 400/ q<ue> son la carga multjpljca/ 400
+co<n> 121 l<ibra>s/ 1÷2/ faz'e<n>/ 48600/ l<ibra>s E p<ar>te las por/ 750/ & antes q<ue> p(a)<ar>tas amjnua
+Amos ados los no<n>br<e>s tanto com<m>o podras E final me<n>te fallaras q<ue> te q<ue>dan ap<ar>tjr
+324 l<ibra>s[ ]por/ 5 & vale<n> 64/ l<ibr><<a>>s/ 4÷5 de lj<br><<a>> de besant<e> Ata<n>to cuesta la carga E pues por
+faz'e<<r>> 35 <sueldos> eso es/ 1. l<ibr><<a>>./ 15/ <sueldos> de besant<e> mutjpljca/ 64 co<n>/ 1/ lj<br><<a>> E so<n>/ 64/
+l<ibra>s pues por los 10 <sueldos> tomaras la meytad de 64/ q<ue> es/ 32/ pues por los 5/ <sueldos> to-
+maras el/ 1÷4/ de/ 64/ q<u>es/ 16/ (<sueldos>) [ljbras] pu<e>s por los/ 4÷5/ d<e>l besant<e> tomaras los 4÷5
+de 35 <sueldos> q<ue> son/ 1. lj<br><<a>>/ 8 <sueldos> Agora ayu<n>ta en vno 64 l<ibr><<a>>s & 32 l<ibra>s & 16 l<ibr><<a>>s
+E 1. l<ibr><<a>> & 8/ <sueldos> E faz'en en suma 113/ l<ibr><<a>>s & 8 <sueldos> E tanto q<ue>rra vender la ca<<r>>-
+ga en ven(~)ec'ia}
+[fol. 13r]
+{CB1.
+{IN2.} [O]trosi si vn om(~)e a co<m>prado trigo en sec'ilja arr(o)[a]z'o<n> de/ 13 tarin<e>s la sa[*lma]
+E lo ljeua en ven(~)ec'ia q<ue>l faga d<e>la onc'a de sic'il[*j]a 10/ l<ibra>s 9 <sueldos> 5 [*d<ineros> ela]
+salma de sic'ilja en ven(~)ec'ia es/ 4 estar<e>s/ (^1÷4) (1÷2) [1÷4] Aq<ue>sta es la Regla tu[ ]lo
+pued<e>s faz'<e><<r>> por la Regla q<ue> as dich~o en<e>l ot<r><<o>> capit<o>lo suso esc<ri>pto d<e>l q<u><<i>>ntal
+d<e>la pjmje<n>ta eso es q<ue> tu puedas dez'<i><<r>> q<ue>/ 4 estar<e>s/ 1÷4 q<ue> so<n>/ 1/ salma q<ue> cuesta<n>
+13/ tarin<e>s q<u><<a>>nto valdra el/ 1/ estar mutjpljca/ 1/ co<n>/ 13/ p<ar>te por/ 4/ 1÷4 E vj[*e]-
+ne<n>le/ 3/ tarin<e>s/ 1÷17/ de tari<n> E pu<e>s diras si/ 30/ (^??) tarin<e>s q<ue> es/ 1/ onc'a deven[ ]va-
+ler/ 10/ l<ibra>s/ 9/ <sueldos> 5/ d<ineros> q<u><<a>>nto valdra<n>/ 3/ tarin<e>s/ 1÷17/ mutjpljca/ 3/ 1÷17 co<n> 10 l<ibra>s
+9 <sueldos> 5 d<ineros> ela suma p<ar>tela por/ 30/ E vjene<n>le/ 1/ li<br><<a>> 1/ <sueldo> 4/ d<ineros>/ 3__2__3÷17__3__5 de di<ner><<o>>
+E ta<n>to q<ue>rra ve<n>der el estar E avn lo pued<e>s faz'<e><<r>> por ot<r><<a>> rregla q<ue> tu pued<e>s de-
+z'<i><<r>> sy/ 30/ tarin[e]s q<ue> es/ 1/ onc'a deue valer(~)/ 10 l<ibra>s 9 <sueldos> 5 d<ineros> q<ue> valdra<n> los 13 [*ta]-
+rin<e>s eso es el prec'io de/ 1/ salma mutjpljca/ 10/ l<ibra>s/ 9/ <sueldos> 5 d<ineros> E faz'e<n> 136 l<ibra>s
+2 <sueldos> 5 d<ineros> p<ar>telo por/ 30/ E vjen<e>le/ 4/ l<ibra>s/ 10/ <sueldos>/ 8/ d<ineros> 29÷30/ est(o)[a]s 4/ l<ibra>s 10 <sueldos>
+8 d<ineros> 29÷30 deueslos p<ar>tjr por 4 1÷4/ E faz'lo por la rregla de p<ar>tjr no<n>br<e>s ent[*regos]
+co<n> rrotos E fallaras q<ue>le vjen<e> 1/ l<ibr><<a>>/ 1/ <sueldo> 4/ d<ineros> 3__2__3÷17__3__5 E por aq<ue>sta rregla
+pued<e>s faz'<e><<r>> todas las semejantes rraz'on<e>s de q<u><<a>>lq<u><<i>>er me<<r>>caduria q<ue> sea
+{IN2.} [O]trosi son/ 3/ omes q<ue> an fech~o conpan~ja enla q<u><<a>>l A de cabdal el
+p<ri>m<er>o/ 10/ l<ibr><<a>>s/ 1÷2/ E el segu<n>do/ 17/ l<ibr><<a>>s/ 1÷4 el te<<r>>c'ero/ 23/ l<ibr><<a>>s/ 1÷3/ A-
+q<ue>stos co<n> aq<ue>ste cabdal an[ ]ganado en sum<<a>>/ 25/ l<ibra>s/ 10/ <sueldos> q<u><<a>>nto deue ave[*r]
+cada vno por la su p<ar>te Aq<ue>sta es la rregla tu deues asumar el cabdal en
+esta man<er>a tu deues fallar/ 1/ no<n>br<e> el menor q<ue> podras en q<ue> sea/ 1__1÷2__[*4]/
+el q<u><<a>>l es/ 12/ (^mutjb) multjpljca/ 10/ 1÷2/ co<n>/ 12/ faz'e<n> 126/ ot<r><<o>>si multjpljca
+17/ 1÷4/ co<n>/ 12/ faz'e<n>/ 207 otrosi multjpljca/ 23/ 1÷3/ co<n>/ 12/ faz'e<n>/ 280/ agora
+Ayu<n>ta en vno/ 126/ E/ 207/ E/ 280/ faz'e<n>/ 613/ aq<ue>stos/ 613 sera
+colon~a agora multjpljca/ 25/ 1÷2/ co<n> (^2)/ 126/ l<ibra>s ela suma p<ar>tela por/ 613
+vjene<n>le/ 5/ l<ibra>s/ 4/ <sueldos> 9/ d<ineros> (520)[579]÷613/ de/ 1/ dj<nero> ata<n>to gana el p<r><<i>>m<er>o ot<r><<o>>sy por
+El segu<n>do diras/ 25/ 1÷2/ con/ 207/ l<ibra>s & p<ar>te la suma por/ 613/ vjen<e>-
+le 8/ l<ibra>s/ 12/ <sueldos> 2 d<ineros>/ (580)[382]÷613 de/ 1/ dj<nero> E ta<n>to gana el segu<n>do ot<r><<o>>si por el
+te<<r>>c'ero multjpljca/ 25/ 1÷2/ con/ 280/ ela suma p<ar>te la por la colona E
+vjen<e>le/ 11/ l<ibr><<a>>s 12/ <sueldos> 11/ d<ineros> (256)[265]÷613/ de/ 1/ dj<nero> E tanto gana el te<<r>>c'ero por
+Aq<ue>sta Regla faras las semejant<e>s}
+[fol. 13v]
+{CB1.
+{RMK: This page has been written upside down.} {IN2.} [O]trosi son/ 3/ om(~)es q<ue> an vna Nao E/ [^a]cue<<r>>danse Asi entre ellos q<ue>
+de todo eso q<ue> ganara<n> q<ue> aya el/ 1/ 1÷3/ E el ot<r><<o>> 1÷4 E el ot<r><<o>> 1÷5 e co<n> aq<ue>-
+sta nao an[ ]ganado/ 242/ l<ibra>s/ dy q<u><<a>>nto deue aver cada/ 1/ por su derech~o Aq<ue>sta es
+la rregla falla/ 1/ no<n>br<e> en q<ue> aya/ 1÷3 e 1÷4 E/ 1÷5/ el menor q<ue> tu po( )dras el q<u><<a>>l es
+60/ pues toma 1÷3 e 1÷4 e 1÷5/ de 60/ E ayu<n>talos en vno faz'e<n>/ 47/ aq<ue>stos 47/
+sera colon~a E pu<e>s toma el/ 1÷3 de 60/ q<ue> es/ 20/ E diras/ 20/ co<n>/ 242 l<ibra>s faz'e<n>
+4840/ l<ibra>s p<ar>te las por la colon~a eso es por 47/ & viene<n>le 102/ l<ibra>s/ 19. <sueldos>
+6 d<ineros> 42÷47 de/ 1/ di<ner><<o>> E tanto deue aver aq<ue>l q<ue> ha de ave<<r>> el 1÷3/ pue(~)s tomaras
+El 1÷4/ de/ 60/ q<ue> es/ 15 e[ ]multjpljcalo ot<r><<o>>si por la gana<n>c'ia eso es por/ 242/
+ljbras faz'e<n>/ 363(^/)[^0]/ l<ibr><<a>>s p<ar>telas por[ ]la colon~a eso es por/ 47/ E vjen<e>le/ 77/ l<ibr><<a>>s
+4 <sueldos>/ 8/ d<ineros> 8÷47/ de/ 1 di<ner><<o>> tanto deve ave<<r>> el q<ue> a de aver el 1÷4/ ot<r><<o>>sy diras el 1÷5
+de 60/ es/ 12/ multjpljcalo por/ 242/ l<ibr><<a>>s faz'e<n>/ 2904/ p<ar>telo por la colona
+E vjen<e>le 61 l<ibr><<a>>s/ 15/ <sueldos> 8 d<ineros>/ 44÷47/ de j di<ner><<o>>/ ta<n>to avr<<a>>(a) aq<ue>l q<ue> deuja aver el 1÷5 E
+por aq<ue>sta Regla pued<e>s faz'<e><<r>> las semejantes(~)
+dos om(~)es An fech~o barata de rropas eso es de coto<n> E de lana E el sen~or
+d<e>l coto<n> ha mas coton en(~)la barata Arraz'o<n> de 8 l<ibra>s en<e>l q<u><<i>>ntal e el ot<r><<o>> la su
+lana a 3/ l<ibra>s el q<u><<i>>ntal E pesa el (^q<u><<i>>ntal) coto<n>/ 7/ q<u><<i>>ntal<e>s/ dj q<u><<a>>nta lana
+le q<ue>rra dar q<ue> monte<n> ot<r><<o>>s tantos d<ineros> com<m>o el coto<n> Aq<ue>sta es la rregla tu
+deues guardar q<u><<a>>nto mo<n>ta los q<u><<i>>ntal<e>s d<e>l coto<n> E mo<n>taran/ 56 l<ibr><<a>>s aq<ue>stos
+56/ l<ibr><<a>>s p<ar>te por el prec'io d<e>la (^coto<n>) lana eso es por/ 3/ E vjene<n>le 18/ 2÷3/ E ta<n>-
+tos q<u><<i>>ntal[e]s de lana le q<ue>rra dar eso es/ 18/ q<u><<i>>ntar<e>s/ 2÷3 de q<u><<i>>ntar/ por aq<ue>sta
+rregla pued<e>s faz'er todas las semejantes Raz'ones de barata[*s]/
+vn ome A oro de/ 17/ q<u><<i>>rates E q<u><<i>>erelo meter ac'ejnjtre eso es al[ ]fuego
+E q<u><<i>>erelo afinar fasta q<ue> sea de/ 24/ q<u><<i>>rates E es asaber q<u><<a>>nto se q<ue>rra
+[a]mjnuar el ma<<r>>co q<ue> es/ 8/ onc'as Aq<ue>sta es la rregla tu deues g<u><<a>>rdar
+Alos q<u><<i>>rates postrim<er>os eso es Asaber aq<ue>llos q<ue> q<ue>rras torrnar el oro el
+q<u><<a>>l es/ 24/ E diras si/ 24/ q<u><<i>>rates vale<n>/ 8/ onc'as eso es/ 1/ ma<<r>>co q<u><<a>>nto
+valdra<n>/ 17/ q<u><<i>>rates/ multjpljca/ 8 onc'as co<n>/ 17/ p<ar>te por/ 24/ E vjen<e>le
+5/ 2÷3/ de/ j/ onc'a/ Atorrnara el ma<<r>>co a/ 5/ onc'as 2÷3 de/ 1/ onc'a E sera
+Amjnuado 2/ honc'as/ 1÷3/ de ho<n>c'a}
+[fol. 14r]
+{CB1.
+{IN2.} [O]tro si sy q<u><<i>>sier<e>s dez'jr q<ue> oro q<ue> sea de 24 q<u><<i>>rates q<u><<a>>nto q<ue>rras mete[r]
+q<ue> torrne a/ 17/ q<u><<i>>rates tu djras sy/ 17/ vale<n> 8/ onc'as q<u><<a>>nto valdra<n> 24
+multjpljca/ 8/ co<n>/ 24/ son/ 192/ p<ar>te por/ 17/ E vjen<e>le/ 11/ 5÷17/ de onc'a
+E Asi seria crec'ido el ma<<r>>co/ 3/ onc'as/ 5÷17/ de honc'a E ta<n>to q<ue>rras y ayu<n>tar
+al ma<<r>>co E es fech~a la rraz'on/
+{IN2.} [O]trosi/ 1/ ome a/ 10/ ma<<r>>cos/ 5. honc'as/ 1÷2/ de oro q<ue> es de ljga de/ 17/ q<u><<i>>rat<e>s
+1/ grano/ 1÷2/ E q<u><<i>>erelo meter enc'einjtre p<ar>a afinar ata<n>to q<ue> sea de ljga de
+22/ q<u><<i>>rates/ 1/ gran(^/)o/ 1÷2 di q<u><<a>>nto le amjnuara todo el sobr<e> dich~o Aq<ue>sta es
+la rregla tu porrnas/ 10/ ma<<r>>cos 5__1÷8__2/ ot<r><<o>>sy porrnas/ 17/ q<u><<i>>rates 3÷8 ot<r><<o>>
+sy porrnas/ 22/ 3÷8 E pu<e>s g<u><<a>>rda alos q<u><<i>>rates A q<ue> q<u><<i>>eres torrnar el oro
+E( )so es/ 22/ q<u><<i>>rates/ 3÷8/ E diras si/ (22) [17] 3÷8/ vale<n>/ 10/ ma<<r>>cos 5__1÷8__2 q<ue>
+valdra<n>/ (17) [22] 3÷8 E por tal q<ue> p<ar>tas por entregos rredresa 22/ 3÷8/ co<n> 10/ 5__1÷8__2
+E multjpljca/ 22/ q<u><<i>>rat<e>s por/ 8/ ju<n>ta/ 3/ E la suma por la segu<n>da v(e)<er>ga E
+eso es por/ 8 E la su[ma] por/ 2 faz'e<n>/ 2864 q<u><<i>>rates otrosi multjpljca 10/
+ma<<r>>cos por/ 8/ ju<n>ta/ 5/ ela suma por/ 2/ ju<n>ta/ 1. ela suma por la p<ri>m<er>a v(e)<er>ga
+eso es por .8/ E faz'e<n>/ 1368 ma<<r>>cos E asi as q<ue>/ 2684/ q<u><<i>>rat<e>s vale<n>
+1368/ ma<<r>>cos amjnua eso q<ue> podras amos ados los no<n>bres E fallaras final
+me<n>te q<ue>/ 358 q<u><<i>>rates valdra<n>/ 171/ ma<<r>>cos onde q<ue> valdra<n> los/ 17 q<u><<i>>rates/ 3÷8
+[multjpljca 17] co<n>/ los/ 171/ marcos E faz'e<n>/ 2907/ ma<<r>>cos po<n>los ap<ar>te pue(~)s los 3÷8 de 171
+marcos q<ue> son/ 64/ E/ 1/ onc'a ju<n>talo co<n> 2907/ E sera<n>/ 2971/ ma<<r>>cos
+E/ 1/ onc'a/ p<ar>telos por los 358/ E vjene<n>le 8/ marcos/ 2 on(~)c'as/ (140÷358) [141÷358]/ de
+honc'a & ta<n>to torrnara<n> los/ 10/ ma<<r>>cos & 5 onc'as 1÷2 E asi sera amjnuado todo
+2 ma<<r>>cos/ 3/ onc'as (320÷358) [38÷358]/ de onc'a
+{IN2.} [O]trosi vn om(~)e A[ ]oro de 5/ (mea<<r>>is) [maneras] p<r><<i>>m<er>a me<n>te ha 7/ marcos de 22
+q<u><<i>>rates ot<r><<o>>si 6/ ma<<r>>cos de/ 20/ q<u><<i>>rates ot<r><<o>>si/ 9 ma<<r>>cos de 18 q<u><<i>>rat<e>[*s]
+ot<r><<o>>sy 7 marcos de/ 15/ q<u><<i>>rates otrosy/ 5/ marcos de/ 13/ q<u><<i>>rates E
+q<u><<i>>ere todo este oro meter en(~) vn(~) troc'el E fundjr en vno di q<u><<a>>ndo todo es-
+te oro fuere mez'clado de q<u><<a>>ntos q<u><<i>>rates saldra Aq<ue>sta es la rregla por la q<u><<a>>l}
+[fol. 14v]
+{CB1.
+Regla lo podras faz'<e><<r>> de q<u><<a>>ntas man<er>as de oro com<m>o te q<ue>rras tu deues mul-
+tipljcar todos los ma<<r>>cos por los sus q<u><<i>>rates cada vno & ayu<n>tar la suma
+de todos en vno & p<ar>tjr los as por la suma d<e>los ma<<r>>cos q<ue> es/ 34/ ma<<r>>cos
+E ve<<r>>na la rraz'o<n> fech~a onde tu deu<e>s multjpljcar/ 7/ co<n>/ 22/ q<u><<i>>rates q<ue>
+faz'e<n>/ 154/ (q<ue> faz'e<n>/ 154/) ot<r><<o>>si multjpljca/ 6/ co<n>/ 20/ q<u><<i>>rates & faz'e<n>/ 120
+ot<r><<o>>sy multjpljca/ 9. por/ 18/ q<u><<i>>rates q<ue> faz'en/ 162/ ot<r><<o>>sy mutjpljca
+7/ por/ 15/ E faz'en/ 105/ q<u><<i>>rates ot<r><<o>>si multjpljca/ 5/ ma<<r>>cos co<n>/ 13/ & faz'e<n>
+65 q<u><<i>>rates./. Agora ayu<n>ta en vno todas las sumas d<e>los q<u><<i>>rates/ E( )so es
+154/ E/ 120/ e/ 162 e/ 105/ E/ 65/ E faz'e<n>/ 606/ q<u><<i>>rates./. Agora toma
+la suma d<e>los/ ma<<r>>cos eso es/ 7/ e/ 6/ e/ 9/ e 7/ [e] 5/ marcos/ q<ue> son/ 34/ E
+p<ar>te la suma d<e>los q<u><<i>>rates por los ma<<r>>cos E vjen<e>le/ 17/ q<u><<i>>rates E/ 3/ g<r><<a>>nos
+E/ 5÷17/ de/ 1/ g<r><<a>>no E de tantos q<u><<i>>rates saldra todo el d<ic>ho oro mez'clado
+por aq<u>esta rregla faras todas las semejantes rraz'on<e>s de q<u><<a>>ntas man<er>as de
+(de) ley<e>s de oro fuese<n>}
+{CB2.
+{=DIAG.
+7 marcos de 22 q<u><<i>>ra(ra)tes s<um><<a>>/ 154/ q<u><<i>>rates
+6 ma<<r>>cos de/ 20/ q<u><<i>>rates s<um><<a>>/ 120/ q<u><<i>>rates
+9 marcos de/ 18 q<u><<i>>rates s<um><<a>>/ 162/ q<u><<i>>rates
+7 marcos de .15. q<u><<i>>rates s<um><<a>>/ 105/ q<u><<i>>rates
+5 marcos de .13. q<u><<i>>rates s<um><<a>>/ 65/ q<u><<i>>rates
+{IN1.} s<um><<a>> mayor/ 606/ q<u><<i>>rates
+p<ar>te 606/ q<u><<i>>rates por/ 34
+E vjen<e>le 17 q<u><<i>>rates/ 3/ g<r><<a>>nos/ 5÷17/ de g<r><<a>>no./.}}
+{CB2.
+{BLNK.}}
+{CB1.
+{IN3.} [O]trosi vn om(?)e ha 3 man<er>as de oro p<r><<i>>m<er>a me<n>te A 3/ ma<<r>>cos 3/ onc'as/ 1÷2 de oro
+de/ 21/ q<u><<i>>rates .1. g<r><<a>>no/ 1÷2/ otrosi [5] marcos .1. o<n>c'a de oro/ de 17 q<u><<i>>rates/ 2/ g<r><<a>>nos
+ot<r><<o>>si 7. marcos .5. o<n>c'as de ley de .17. q<u><<i>>rates/ 1÷2 E q<u><<i>>ere todo aq<ue>ste oro
+fondir E mez'clar en vno dy de q<u><<a>>ntos q<u><<i>>rates saldra aq<ue>ste oro q<u><<a>>ndo sea mez'-
+clado en vno Aq<ue>sta es la rregla semejant<e> ala sobr<e> dich~a tu porrnas 7
+marcos 5÷8. de 17/ q<u><<i>>rates/ 1÷2/ E mutjpljca los ma<<r>>cos co<n> sus q<u><<i>>rates eso es
+Asaber 3. 3__1÷8__2 co<n>/ 21/ q<u><<i>>rates 1__1÷4__2/ E faz'e<n>/ 73 q<u><<i>>rates/ (^75÷128) [^61÷128]/ de q<u><<i>>rate}
+[fol. 15r]
+{CB1.
+E ponlo ap<ar>te ot<r><<o>>si mutjpljca .5. 1÷8/ co<n> (19) [17]. q<u><<i>>rates .(^??)1÷(^4__)2/ & faz'e<n> 89
+q<u><<i>>rates 11÷16/// ponlos co<n> la otra suma d<e>los q<u><<i>>rates otrosi mutjpljca/
+7 q<u><<i>>rates 5÷8/ co<n>/ 17. q<u><<i>>rates/ 1÷2 e[ ]faz'e<n>/ 133. q<u><<i>>rates/ 7÷16/ E po<n> lo co<n>las
+otras sumas d<e>los q<u><<i>>rates Agora ayu<n>ta en vno/ las 3 sumas d<e>los q<u><<i>>rat<e>s faz'e<n>
+296/ (^115÷128) [77÷128] pu<e>s ayu<n>ta todos los ma<<r>>cos en vno eso es 3 7÷16/ e 5 ma<<r>>cos 1÷8 E
+7 ma<<r>>cos/ 5÷8/ E faz'e<n> 16/ 3÷16/ agora p<ar>te los 296 [77÷128]/ q<u><<i>>rates por la sum<<a>> d<e>los
+marcos eso es por 16/ 3÷16/ E faz'lo por la rregla de p<ar>tjr sanos por sanos & rrotos
+E venjr le a/ (17) [18]/ q<u><<i>>rates/ (4__5÷6__7) [669÷2072]/ de q<u><<i>>rate o si q<u><<i>>sier<e>s pued<e>s dez'ir q<ue>le ujene (17) [18]
+q<u><<i>>rat<e>s E/ (2/ g<r><<a>>nos E/ 4__6÷6__7) [1 grano E 151÷518]/ de/ 1. g<r><<a>>no de ta<n>tos q<u><<i>>rates s<er>a el oro (^1/ todo) q<u><<a>>ndo
+fuese mez'clado
+{=DIAG.
+3/ ma<<r>>cos/ 7÷16/ de 21/ q<u><<i>>rates/ 3÷8 s<um><<a>> 73/ 61÷128
+5 marcos/ 1÷8/ de/ 17/ q<u><<i>>rates/ 1÷2 s<um><<a>> 89 11÷16
+7 marcos 5÷8 de 17 q<u><<i>>rates 1÷2 s<um><<a>>/ 133/ 7÷16
+s<um><<a>> mayor/ 296 [77÷128]
+p<ar>te 296 [71÷128] por 16 3÷16 vjen<e>le (17) [18] q<u><<i>>rat<e>s
+(2 gnos/ 4__6÷6__7) [1 grano 151÷518] de .1. g<r><<a>>no}
+{IN2.} [O]trosi vn om(~)e ha oro de/ 3 prec'ios A/ 5 ma<<r>>cos q<ue>le cuesta<n> arraz'on de 50 [*l<ibra>s]
+el ma<<r>>co ot<r><<o>>si a/ 7 ma<<r>>cos q<ue>le cuesta<n> arraz'o<n> de/ 47 l<ibr><<a>>s el ma<<r>>co otros[*y]
+ha 9. ma<<r>>cos q<ue>le cuesta<n> a Raz'o<n> de 43 l<ibr><<a>>s el ma<<r>>co E aq<ue>ste om(~)e q<u><<i>>ere fon-
+dir todo aq<ue>(e)ste oro en vno & q<u><<i>>erele faz'e<<r>> tanta mez'cla o sea de cobr<e> o de p[*lata]
+q<ue>l ma<<r>>co no<n> le ven(~)ga Acostar sy no<n> acostar arraz'o<n> de 35 l<ibr><<a>>s el m[*a<<r>>co]
+dime q<u><<a>>nta (^costa) mez'cla se q<ue>rra faz'<e><<r>> en todo Aq<ue>ste oro Aq<ue>(e)sta es la rr[*egla]
+tu deu<e>s asumar todos los ma<<r>>cos eso es 5 & 7 & 9. E son 21 ma<<r>>cos E
+g<u><<a>>rda q<u><<a>>nto costaro<n> todos los ma<<r>>cos d<e>la p<r><<i>>m<er>a co<m>pra E multipljca cada vno po[*r]
+el su prec'io eso es 5 por 50 faz'e<n> 250 E po<n>lo ap<ar>te ot<r><<o>>si mutip[*ljca]
+7 co<n> 47 faz'e<n> 329. po<n>lo [con] la ot<r><<a>> suma ot<r><<o>>si multjpljca 9. por 43 E
+faz'e<n> 387 E po<n>lo co<n> las ot<r><<a>>s suma(^e)[^s] Agora ayu<n>ta en vno 250 [*E]
+329 e 387 E faz'e<n> todos 966. l<ibr><<a>>s Asi as q<ue> 21/ ma<<r>>cos costaro<n> [*966]}
+[fol. 15v]
+{CB1.
+ljbras agora g<u><<a>>rda 21 ma<<r>>cos a rraz'o<n> de 35/ ljbras el ma<<r>>co mo<n>tara E
+mutjpljca (^25) 21 co<n>/ 35 l<ibr><<a>>s faz'e<n> 735 onde el sen~or d<e>l oro q<u><<i>>ere q<ue>
+Eso q<ue> le costaua 966 l<ibr><<a>>s q<ue>le torrne A 735 l<ibr><<a>>s por q<ue> g<u><<a>>rda la defere<n>-
+c'ia q<ue> es de .735. fasta en/ 966 l<ibra>s E ay 231 l<ibra>s por q<ue> tomaras ot<r><<o>>s
+tantos ma<<r>>cos com<m>o es la defere<n>c'ia d<e>llos eso es 231/ (marcos) [libras] E p<ar>te por el
+prec'io a q<ue> q<u><<i>>eres torrnar el/ 1. ma<<r>>co eso es por/ 35 & vjene<n>le 6/ marcos/ (5) [4]/
+onc'as (5÷7) [4÷5] de onc'a/ E tanto q<ue>rra ju<n>tar o[ ]mez'clar en todos los/ 21/ ma<<r>>cos
+E por aq<ue>sta Regla lo podras faz'er de atantos prec'ios E de ata<n>tos ma<<r>>-
+cos com[m]o te q<ue>rras
+{IN2.} [O]trosi vn om(~)e a oro o plata de/ 3/ maner(~)as A 10 ma<<r>>cos 1÷2 q<ue> vale el
+marco 10 l<ibr><<a>>s ot<r><<o>>si a 6 ma<<r>>cos q<ue> vale el ma<<r>><co> 8 l<ibr><<a>>s ot<r><<o>>si de ot<r><<o>> q<ue> non digo
+q<u><<a>>nto es de q<ue> vale el ma<<r>>co 3 l<ibr><<a>>s & de aq<ue>ste q<ue> no<n> vale si no<n> 3 l<ibr><<a>>s el ma<<r>>co q<u><<i>>e-
+re mez'(^h)( )clar co<n> todo el otro d<e>los 2/ prec'ios sobr<e> dichos q<ue> q<u><<a>>ndo sea mez'-
+clado no<n> ve<n>ga a costar el ma<<r>>co si no<n>/ 7 l<ibr><<a>>s vno co<n> otro Agora dema<n>do q<u><<a>>nto q<ue>rra
+de aq<ue>l de 3 l<ibr><<a>>s el ma<<r>>co engujsa q<ue> todo lo ot<r><<o>> d<e>los otros prec'ios no<n> cueste co<n> a-
+q<u>este en vno sino 7 l<ibr><<a>>s el marco Aq<ue>sta es la rregla tu deues (^gd) g<u><<a>>rdar
+la defere<n>c'ia q<ue> es de 7 fasta en 10/ E es la defere<n>c'ia 3/ E aq<ue>ste 3 mu-
+tiplj[c]alo co<n> 10 ma<<r>>cos/ 1÷2 faz'e<n> 31 (ma<<r>>cos) [libras] 1÷2 otrosi toma la deferenc'ia q<ue> es
+de 7 fasta e<n> 8 q<ue> es j lj<br><<a>> E multjpljca 1/ por 6 E faz'e<n> 6 (marcos) [libras]
+Ayu<n>ta en vno (los ma<<r>>cos) [las libras] eso es 31 1÷2 6 (ma<<r>>cos) [libras] E sera<n> 37 (ma<<r>>cos) [libras]/ 1÷2
+(aq<ue>stos 37 ma<<r>>cos) [aquestas 37 libras] 1÷2/ se q<u><<i>>eren p<ar>tjr por la defere<n>c'ia q<ue> es de 7 fasta
+en 3 el q<u><<a>>l es 4 agora p<ar>te (31) [37] (ma<<r>>cos) [libras] 1÷2 por 4 E vjene<n>le 9 ma<<r>>cos
+E 3÷8 de/ 1 ma<<r>>co q<ue> so<n> 9 ma<<r>>cos & 3/ onc'as E ta<n>tos marcos E
+ta<n>tas honc'as de/ aq<ue>l oro de/ 3/ l<ibr><<a>>s el ma<<r>>co q<ue>rra mez'clar co<n> todo el otro
+d<e>los 2 prec'ios & ve<<r>>na mez'clado E costara 7 l<ibr><<a>>s el ma<<r>>co a pu<n>to & por
+Aq<u>esta rregla pued<e>s faz'<e><<r>> las semejant<e>s Raz'on<e>s de q<u><<a>>ntos prec'ios com<m>o
+te q<ue>rras}
+[fol. 16r]
+{CB1.
+Ot<r><<o>>si es vn(~) om(~)e q<ue> A plata de 3 prec'ios a 5 m[*a<<r>>cos] q<ue> cuesta<n> a
+rraz'o<n> de 12 l<ibra>s el ma[*<<r>>co] ot<r><<o>>si a 8 marcos q<ue>le cuesta<n> arraz'o<n> de [*3] l<ibr><<a>>[*s]
+el ma<<r>>co otrosi a de ot<r><<a>> plata & no<n> digo q<u><<a>>ntos ma<<r>>cos q<ue>le cuesta<n> arraz'o<n>
+de 2 ljbras el ma<<r>>co Agora dema<n>do q<u><<a>>nta plata de aq<ue>sta de 2 l<ibra>s [*q<ue>rras]
+mez'clar co<n> todo lo ot<r><<o>> sobr<e> dich~o d<e>los 2 prec'ios en gujsa q<ue>l ma<<r>>co
+no<n>le ve<n>ga a costar sino<n>/ 5/ l<ibr><<a>>s Aq<ue>sta es la rregla toma la de[+]fer[*e<n>c'ia]
+q<ue> es de 5/ l<ibr><<a>>s a q<ue>lo q<u><<i>>eres torrna<<r>> fasta en 12 e es 7 mutjpljca los
+por los ma<<r>>cos d<e>l prec'io de 12 l<ibr><<a>>s eso es por 5 faz'e<n> 35/ (ma<<r>>cos) [libras] ot<r><<o>>
+sy toma la defere<n>c'ia q<ue> es de 5 A/ 3/ q<ue> es 2 & multjpljca/ 2 co<n> 8 faz'e<n>
+16 (ma<<r>>cos) [libras] E por eso com<m>o 5 [*l<ibra>s] aq<ue>l q[ui]ere[*s] torrnar en mayo[*r] pre[*c'io]
+q<ue> 3 l<ibra>s q<ue> es prec'io d<e>l p<r><<i>>m<er>o tu deues abatir aq<ue>stos 1[*6] (ma<<r>>cos) [libras] [*de 3]5
+(35) (ma<<r>>cos) [libras] q<ue> avies puesto E fincara<n> 19 (ma<<r>>cos) [libras] Aq<ue>stos 19 (marcos) [libras]
+se deue<n> partjr por la defere<n>c'ia q<ue> es de 5 a 2 q<ue> es 3 onde p<ar>te 19 m[*arcos]
+por 3 E viene<n>le 6 ma<<r>>cos E 1÷[*3]/ E tantos marcos d<e>l prec'io de [*5]
+(^ma<<r>>cos) l<ibra>s q<ue>rras mez'clar co<n> todo lo ot<r><<o>> E por esta rregla podra[*s]
+faz'<e><<r>> las semejant<e>s Raz'on<e>s de tantos [^prec'ios] com<m>o te q<ue>rras}
+{CB2.
+{=DIAG.
+5 ma<<r>>cos arraz'o<n> de 12 l<ibr><<a>>s
+8 ma<<r>>cos arraz'o<n> de 3 l<ibr><<a>>s
+ot<r><<a>> plata arraz'o<n> de 2 l<ibr><<a>>s
+E [*q]<u><<i>>ere [*s]e torr[*na]r arraz'o<n> de 5 l<ibr><<a>>s}}
+{CB2.
+{=DIAG.
+% defere<n>c'ia de 5 a 12 [*es 7]
+% multjpljca 7 por 5 faz'e<n> [*35]
+% deferenc'ia de 5 a 2 es [*3]
+% mutjpljca 2 co<n> 8 faz'e<n> 1[*6]
+% Abate 16 de 35 finca<n> 1[*9]
+% e q<u><<i>>ere<n> se p<ar>tir por defere<n>c'ia de
+q<ue> es [*3]
+% E vjen<e>le 6 ma<<r>>cos [*1÷3] de 1}}
+{CB1.
+{IN2.} [O]trosi vn om(~)e a 2 man<e><<r>>as de oro eso es de 22 q<u><<i>>rates E de 1[*3 q<u><<i>>rates]
+E q<u><<i>>ere tomar de aq<ue>stas 2 man<e><<r>>as de oro 1 ma<<r>>co q<ue> sea de 16 [*quirates]
+q<u><<a>>ndo sea mez'clado di q<u><<a>>nto q<ue>rras toma<<r>> d<e>l 1. oro o q<u><<a>>nto d<e>l otro aq<ue>sta [*es la]
+Regla tu deu<e>s g<u><<a>>rdar la de[+]fere<n>c'ia q<ue> es de 16 a 2[*2] E es [*6] E}
+[fol. 16v]
+{CB1.
+toma la de[+]fere<n>c'ia q<u>es de 13 a 16 q<u>es 3/ pu<e>s ayu<n>ta en vno las (de)
+defere[n]c'ias eso es .6/ & 3/ so<n>/ 9 aq<ue>ste .9/ sera colon~ja pu<e>s toma
+la de[+]fere<n>c'ia d<e>los 22 q<u><<i>>rates q<ue> es 6 E diras si .9. es venjdo de
+6 onde v<er>na .1. ma<<r>>co multjpljca 6/ co<n> .1. ma<<r>>co faz'e<n> 6 ma<<r>>cos E p<ar>te por
+9. vjene<n>le 5 honc'as 1÷3 de .1. onc'a E ta<n>to y q<u><<i>>ere d<e>l oro de 13 q<u><<i>>rat<e>s
+E pu<e>s tomaras la otra de[+]fere<n>c'ia q<ue> es de 3/ & dyras sy 9. es venjdo
+de 3. onde ve<<r>>na 1. ma<<r>>co multjpljca/ 3 por 1. ma<<r>>co(s) & faz'e<n> 3/ ma<<r>>cos E
+p<ar>te los por 9. E vjene<n>le/ 2. honc'as/ 2÷3 de .1. onc'a E tanto y q<ue>rras
+d<e>l oro de 22. q<u><<i>>rates E asi q<u><<i>>ere d<e>l oro de 13. q<u><<i>>rates 5/ onc'as/ 1÷3 E
+d<e>l oro de 22 q<u><<i>>rates 2/ onc'as/ 2÷3/ E sy q<u><<i>>sier<e>s p<ro>uar lo di si 8
+honc'as eso es 1. ma<<r>>co tjene<n> 22 q<u><<i>>rates a 2 onc'as/ 2÷3/ multjplj-
+ca/ 2 2÷3/ co<n> 22/ q<u><<i>>rates & la suma p<ar>te la por 8/ vjen<e>le 7/ 1÷3 E
+ta<n>tos q<u><<i>>rates (^q<ue>) las 2/ onc'as 2÷3/ ot<r><<o>>sy 8 honc'as tjene<n> 13 q<u><<i>>rat<e>s
+q<u><<a>>nto tjene<n> las/ 5/ onc'as/ 1÷3/ multjpljca/ 5/ 1÷3 co<n>/ 12/ q<u><<i>>rates ela
+suma p<ar>te por/ 8/ ujene<n>le 8 2÷3 E tan(~)tos q<u><<i>>rates tjene<n> las
+5 onc'as/ 1÷3 E asy las honc'as son bie<n> 8/ E los q<u><<i>>rates son 16 E
+Asy podras faz'<e><<r>> las semejantes Raz'on<e>s
+Es vna copa q<ue> es de 3/ metal<e>s E pesa toda 14 onc'as de q<ue> so<n> de plata
+4 honc'as E/ 3/ onc'as de cobr<e> E 7 onc'as de oro fino E de aq<ue>sta
+[*co]pa se q<ue>( )bro/ 1/ pjec'a q<ue> peso 6 honc'as dy q<u><<a>>nta plata & q<u><<a>>nto cobr<e> & q<u><<a>>nto
+oro avje enla pjec'a q<ue>( )brada aq<ue>sta es la rregla tu deu<e>s tomar la suma
+deso q<ue> pesa toda la copa q<ue> son/ 14 onc'as E aq<ue>stos 14 sera colonja E
+pu<e>s g<u><<a>>rda q<u><<a>>nta era toda la plata q<ue> era enla copa q<ue> era 4 onc'as E multjplj-
+calo con<e>l pedac'o q<ue>brado eso es por 6 E faz'e<n> 24 p<ar>te por 14 vjen<e>le 1
+5÷7/ E ta<n>ta plata auje enla piec'a q<ue>brada ot<r><<o>>si toma el peso d<e>l cobr<e> q<ue> son [*3]
+honc'as mutjpljcal por 6/ faz'e<n>/ 18/ p<ar>te por/ 14 & vjen<e>le/ 1 2÷7 E ta<n>to cobr<e>
+auie ot<r><<o>>si toma el peso d<e>l oro q<ue> son 7 onc'as & mutjpljcal por 6 faz'e<n>
+42 p<ar>te por/ 14 E vjen<e>le 3 onc'as E tanto oro auja E asi au[*ja de]
+[*pl]ata 1 o<n>c'a 5÷7 E de cobr<e> .1. 2÷7 E de oro 3 on[*c']as
+{RMK: The following two lines are written upside down.} [S]egu<n>t q<ue> ya avemos dich~o vna fegura sola sinjfica vnjdat asi com<m>o [...] E figuras [...]
+E asi puestas synjfica[n]/ .321. [...] E ot<r><<o>>si veynte E vn(~)o [...] E ot<r><<o>>sy
+tr[es] [...]}

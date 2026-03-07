@@ -1,0 +1,808 @@
+{RMK: HSMS-0280.}
+{RMK: Alfonso X el Sabio, rey de Castilla y León.}
+{RMK: [TFB] Ordenamiento de las tafurerías.}
+{RMK:.}
+{RMK: San Lorenzo de El Escorial | Real Biblioteca del Monasterio de San Lorenzo de El Escorial | Z-I-8.}
+{RMK: Robert A. MacDonald.}
+[fol. 3r]
+{HD. % tafurerias {AD. [^2#{SYMB.}]} ih<es>us}
+{CB2.
+{RMK: HSMS-0280-0001: Ordenamiento de las tafurerías.} {RUB. {IN3.} [O]rdenamj<ent><<o>> de las tafurerias q<ue>
+fue fech~o en la era de mj(~)ll &
+(^c)ccc<<o>> & xiiij<<o>>. an<n>os}
+([^2#...])
+% Titulo p(~)rimero de los q<ue> descreen
+% Titulo segundo de los q<ue> jugan con dados de engan<n>o
+E escaq<ue>s de engan<n>o E los q<ue> saben fincar los dados
+% Titulo iij de los q<ue> jugan con dados comunales A jue-
+gos de( )partidos/.
+% Titulo iiij<<o>> de los q<ue> jugan con dados de talla/.
+% Titulo v<<o>> de los q<ue> echaren los dados A perder
+% Titulo vi de los q<ue> dieren palmada o pun<n>ada o tirar
+de los cabellos o dier coc'es en tafureria/.
+% Titulo vij de los q<ue> q[<ue>]brantaren El tablero con cuchillo
+o en otra man<er>a/.
+% Titulo viij<<o>> de[ ]los q<ue> toujeren pen<n>os en tafureria
+% Titulo jx de[ ]los q<ue> sacaren El tablaie E tienen los pe-
+n<n>os E Sobre El pen<n>o demanda mas de lo q<ue> enpresta so-
+bre El/.
+% Titulo x del tablajero q<ue> toujer dineros p<ar>a Sacar A
+tablaje de aq<ue>l q<ue> toujer las tafurerias arrendadas p<ar>a
+sy/.
+% Titulo xi de[ ]los q<ue> ponen pleytos E posturas en rrazon
+de[ ]los dados en[ ]las tafurerias o en otro logar
+% Titulo xij de[ ]los q<ue> pararen la parada Al tablero E la
+ganaren/.
+% Titulo xiij de los q<ue> van A[ ]la mano Al q<ue> lanc'a los dados
+% Titulo xiiij<<o>> q<u><<a>>ndo El tablajero o otros Algunos fazen
+Amor A alguno E le fian los pen<n>os E ponen dia c'ierto
+a[ ]q<ue> g<e>[ ]los pague E les traen traspaso sobre ello E
+van Sobre ello ante los Alcaldes q<ue> non aya tercer dia
+njn nueue dias njn ferias Sy(~) non q<ue> paguen A[ ]ocho
+dias los dineros fechos E las costas E mjsiones/.
+% Titulo xv de[ ]los tablajeros q<ue> encubren E consienten
+alguna de las cosas q<ue> defiende Este libro de las tafu-
+rerias/.
+% Titulo xvj de[ ]los q<ue> forc'aren en[ ]las tafurerias/.
+% Titulo xvij de[ ]los q<ue> fuyeren con dineros o con pen<n>os de
+las tafurerias/.}
+{CB2.
+% Titulo xviij<<o>> de[ ]los q<ue> fazen las bueltas de[ ]las paradas
+en[ ]las tafurerias/.
+% Titulo xjx q<ue> oro njn plata njn piedra njn sortija En-
+cobierta njn en emuestra nenguna q<ue> non vala en[ ]las
+tafurerias/.
+% Titulo xx de los q<ue> jugaren en[ ]las tafurerias/.
+% Titulo xxi de los q<ue> jugaren pen<n>os A pen<n>os/.
+% Titulo xxij de los q<ue> jugaren dineros fechos con otros
+E el q<ue> tiene los dineros si g[a]nare los pen<n>os com(~)o ha
+de fazer/.
+% Titulo xxiij q<ue> non presten dineros sobre Armas/.
+de cauall<er>o njn de escudero en las tafurerias/.
+% Titulo xxiiij<<o>> q<ue> non enpresten dinero Sobre cuerpo de
+cristiano njn de judio njn de moro/.
+% Titulo xxv de los clerigos q<ue> jugan los dados o sa-
+can tablaje/.
+% Titulo xxvj del Rico( )om<n>e com(~)o deue jugar en su
+posada/.
+% Titulo xxvij com(~)o deuen prouar los pley(~)tos de[ ]las
+tafurerias/.
+% Titulo xxviij<<o>> de los tafures q<ue> son Afamados
+A[ ]jugar
+% Titulo xxjx de los dias q<ue> son sueltos p<ar>a jugar
+% Titulo xxx q<ue>l demandado conosca luego de sy(~)
+o de non ante El alcalde de las tafurerias E nenguno
+non sea osado de tener Razon en fecho dellas/.
+% Titulo xxxi de los q<ue> jugaren A vino o A cosas de
+comer en las tafurerias o en otros logares/.
+% Titulo xxxij de[ ]los q<ue> jugaren fuera de las tafurerias d<e>l
+Rey(~)/.
+% Titulo xxx(^i)iij de los q<ue> tienen las tafurerias Com(~)o
+se q<ue>rellan (^del Rey~) A[ ]los Alcald<e>s/.
+% Titulo xxxiiij<<o>> de[ ]los q<ue> contien[d]en sobre El dado q<ue>
+esta Acostado/.
+% Titulo xxxv de[ ]los q<ue> tienen om<n>es a[ ]soldada o a[ ]bi-
+en( )fecho o lo acogiere en[ ]su posada E les fiziere
+menos de lo suy(~)o E lo fuere A jugar en las ta-
+furerias E en q<ue> manera lo deuen tornar E se de-
+ue librar esto/.
+% Titulo xxxvj de com(~)o han de pechar las costas en
+rrazon de[ ]las tafurerias/.
+% Titulo xxxvij de los q<ue> son sabidores de[ ]los dados
+E ganan dinero A[ ]may(~)oria/.
+% Titulo xxxviij<<o>> de los q<ue> arriendan las tafurerias
+del Rey(~)/.
+% Titulo xxxjx de los q<ue> se q<u><<i>>sieren alc'a<r> Al Rey(~)
+Com(~)o aya Alc'ada/.}
+[fol. 3v]
+{CB2.
+Titulo xl del q<ue> q<u><<i>>siere jugar las tablas o jaldeta o balla<stero>
+o tejuelo o dardo o A[ ]la via d<e>[ ]la capa en q<ue> man<er>a lo ha
+de fazer & com(~)o/.
+Titulo xli de com(~)o han de ju(g)[r]ar los x<r><<i>>[<sti>]anos en rrazo<n>
+de las tahurerias/.
+Titulo xlij de com(~)o han de jurar los judios en Razon
+de las tachurerias/.
+Titulo xl(i)iij de com(~)o han de jurar los moros en Razon
+de las tafurerias/.
+Titulo xliiij<<o>> El q<ue> sacare El tablaje syn licenc'ia del
+tablajero q<ue> pena meresc'e/:
+Titulo xlv del q<ue> acogiere jugador en su casa sy(~)n
+lic'enc'ia del tablajero q<ue> pena meresc'e/.
+Titulo xlvj sy(~) El Alcalde luego non fizier de-
+recho q<ue>[ ]lo tome<n> por testimonjo E lo muestre Al
+Rey(~) E A sus justic'ias/.
+(...)}
+{CB2.
+(...)}
+[fol. 25r]
+{HD. % (???)
+tahurerias
+ih<es>us \ 1}
+{CB2.
+{RUB. % {IN1.} Ordenamj<ent>o(s) de las tahurerias del muy(~)
+alto & muy(~) noble rrey don alfon<so> fech~o
+era de jV[.]ccc[.]xiiij<<o>>. an<n>os.}
+{IN4.} Era de mj(~)ll & trezientos E catorze An<n>os
+Este es El libro q<ue> y(~)o maestre Roldan
+ordene E conpuse en Razon de las tafu-
+rerias por mandado d<e>l muy(~) noble E mu-
+cho Alto sen<n>or don Alfonso por la gr<ac'i>a de dios Rey(~)
+de castilla de leon de toledo de galizia de seujlla
+de cordoua de murc'ia de Jahen del Algarbe/. Por q<ue>
+njngunos pley(~)tos de[ ]los dados njn las tafurerias
+non eran es[c<ri>]ptos en[ ]los libros de[ ]los derechos njn de
+los fueros njn los Alcaldes no<n> eran sabidor<e>s njn vsa-
+uan njn Judgauan dello fiz Este libro apretada( )me<n>-
+te de los fueros por q<ue> se Judiguen los tafur<e>s por
+sienpre por q<ue> se vieden El descree<r> E se escusen las
+muertes E las peleas E las tafurerias E touo por
+bie<n> El Rey(~) com(~)o sabidor E sen<n>or & entendiendo
+de todos los bien<e>s q<ue> oujesen cada vno pena E
+escarmjento en[ ]<e>l descreer E en los otros engan<n>os
+q<ue> se fazen en[ ]las tafurerias/. {RUB. ley p<r><<i>>mera}
+{IN3.} El Rico( )om<n>e q<ue> Jugare los dados E tan bien El
+fijo de algo E descrey(~)eren q<ue> la primera vez
+q<ue> descrey(~)ere peche vey(~)nte m<a>r<auedi>s de oro E
+por la segunda q<u><<a>>renta m<a>r<auedi>s o dineros q<u><<a>>ntos valiere<n>
+estos sobre( )dichos E por la terc'era ves q<ue> sea acusa-
+do por ante El Rey E esta calupnja mesma ayan los
+jnfantes E los cauall<er>os E los escuderos q<ue> Jugaren
+los dados E descrey(~)eren E pechen dies m<a>r<auedi>s de oro
+por la primera ves escape por la segunda prenden[ ]lo
+por la calupnja q<ue> sobre( )dicha es E sy no<n> oujere de q<ue>
+los pechar q<ue> los Recabden los Alcaldes E las Justic'ias
+en guy(~)sa q<ue> pare( )scan Antel Rey(~) E el om<n>e q<ue> no<n> fue-
+re fiJo( )dalgo q<ue> Jogare los dados E (^descrey~) descrey(~)e-
+re q<ue> pech~e por la primera vez sey(~)s m<a>r<auedi>s de oro E
+por la segunda doze E por la terc'era q<ue> le corten
+dos de( )dos de la lengua en traujeso E si no<n> oujere de
+q<ue> pechar la calupnja q<ue> sobre( )dicha es q<ue> por la p<r><<i>>mera
+ves q<ue>[ ]le den trey(~)nta Ac'ot<e>s E por la segunda c'inqu<en>ta
+Ac'otes E por la terc'era vez q<ue>[ ]le corten la lengua com(~)o
+sobre( )dich~o es & de los tahures q<ue> Jugan los dados E
+non han otro menester E biue<n> E guarec'en por las ta-
+furerias E descrey(~)en E non oujeren de q<ue> pechar la ca-
+lupnja q<ue> sobre( )dicha es por la primera ves q<ue>[ ]le den
+treynta Ac'otes E por la segunda q<ue> le den c'inq<ue>nta
+Ac'otes E q<ue>[ ]le fagan dezir sen<n>or dios E santa
+maria en vos creo & en vos fio E por la terc'era q<ue>[ ]le
+corten la lengua com(~)o sobre( )dich~o es E el Judio
+o moro q<ue> Jugare los dados E descreyere E dixere
+mal de dios E de santa maria & de otros santos Al-
+gunos non escape por la pena q<ue> sobre( )dicha es mas
+q<ue>[ ]le Recabden El cuerpo & el Algo E q<u><<a>>nto oujere p<ar>a
+Ante El Rey(~) E el faga y(~) lo q<ue> por bien toujere
+{RUB. % ley [.]ij.}}
+{CB2.
+{IN3.} A aq<ue>llos q<ue> metieren A Juego E Jugare<n> con da-
+dos q<ue> ayan nonbre los q<u><<a>>tro por q<ue> es furto ma-
+njfiesto q<ue> peche por la primera vez todo
+aq<ue>llo q<ue> ganaren doblado a[ ]su duen<n>o E costas E mj-
+siones E si las fiziere en demandando lo suyo las
+seten(~)as al Rey(~) E si non oujere de q<ue> pechar Esto q<ue>
+le den trey(~)nta Ac'otes en[ ]la plac'a con[ ]los dados coL-
+gados Al cuello E por la segunda ves q<ue>[ ]le corten
+El dedo pulgar de[ ]la mano derecha o de la y(~)sq<u><<i>>erda
+con q<u><<a>>l( )q<u><<i>>er q<ue> Jugare aq<ue>llos q<ue> Jugaren dados q<ue>
+son nonbrados sey(~)s o siete o con otros dados q<ue>
+ayan mas o menos de sus suertes q<ue> ay(~)an la pena
+q<ue> deue<n> Aver los q<ue> Jugaren con los dados q<u><<a>>tro
+por q<ue> es ot<r><<o>>sy furto manjfiesto E el q<ue> metiere o Ju-
+gare con[ ]los dados plomados o desuenados q<ue> pech~e
+por la p<r><<i>>mera ves todo aq<ue>llo q<ue> ganare A su duen<n>o
+doblado E costas E mjsiones si las y(~) fiziere En
+demandando lo suy(~)o E si non oujere de q<ue> pechar
+Esto q<ue>[ ]le den treynta Ac'ot<e>s (en[ ]la plac'a co<n> los da-
+dos colgados Al pescuec'o E por la segunda vez
+q<ue>[ ]le corten El dedo pulgar de la mano d<e>r<ec>ha o y(~)sq<u><<i>>-
+erda con q<u><<a>>l Jugare E aq<ue>llos q<ue> Jugaren con dados
+q<ue> no<n>bren sey(~)s o sy(~)ete o con otros dados q<ue> han
+mas o menos de sus suertes q<ue> ay(~)an la pena q<ue>
+deuen Aver lo q<ue> Jugare<n> con los dados q<ue> han
+nonbre los q<u><<a>>tro por q<ue> es ot<r><<o>>sy furto manjfiesto
+E el q<ue> Jugare o metiere dados plomados njn
+desuenados q<ue> peche por la p<r><<i>>mera ves todo aq<ue>llo
+q<ue> ganare doblado A su duen<n>o E costas E mjsio-
+nes si les fiziere en demandar lo suy(~)o E sy non
+oujere de q<ue> pechar Esto q<ue>[ ]le den treynta ac'otes)
+por la p<r><<i>>mera vez E por la segunda c'inq<ue>nta ac'o-
+tes E por la terc'era q<ue> lo Ac'oten por toda la vi-
+lla con los dados colgados Al pescuec'o E lo echen
+fuera de la villa por malo E por engan<n>ador E el
+q<ue> metiere o Jugare A Juego nenguno con dados
+falsos afey(~)tados q<ue> ay(~)an la pena q<ue> deuen auer
+los q<ue> Jugaren con dados plomados njn con los da-
+dos desuenados q<ue> tan bien es fiel El dado afey(~)-
+tado despues q<ue> los sabidores de los dados de las
+tafurerias los descoJen los desfazen de sus cuadr<o>s
+E de los cantos E de[ ]las cuadras com(~)o es El ploma-
+do E el desuenado E aq<ue>llos q<ue> Jugaren con los
+escaq<ue>s a q<ue> dizen los q<u><<a>>tro E con los otros escaq<ue>s
+q<ue> ay(~)an demas o de menos de sus suertes q<ue> ay(~)an
+la pena q<ue> deuen Aver los q<ue> Jugaren con los da-
+dos q<ue> han nonbre los q<u><<a>>tro por q<ue> es ot<r><<o>>si furto
+aq<ue>llos q<ue> saben fincar bien los dados E Jugaren
+con otros q<ue> no<n> sean tan sabidor<e>s com(~)o ellos E
+aq<ue>llos q<ue> menos saben le dixere o[ ]pusiere con los q<ue>
+saben fincar los dados q<ue> Jueguen sin escatima ne<n>-
+guna E el sabidor q<ue> fincare lo otorgare q<ue>[ ]lo fara
+de g<e>[ ]lo tener por q<u><<a>>nto lo Atregua E lo Asegura pri-
+mera( )mente/. {RUB. / ley .iij.}
+{IN3.} B[i]en se entiende q<ue> aq<ue>l q<ue> departe los Juegos
+q<ue> contados los tiene en q<u><<a>>ntas guy(~)sas E
+man<er>as se pueden perder por q<ue> syenpre
+finca & Retiene la meJoria p<ar>a sy de los Juegos q<ue> dep<ar>te
+E el libre q<ue> no<n> ha por q<ue> tornar njn AVer de aq<ue>llo
+q<ue> gana lo q<ue> perdiere/. {RUB. ./ ley [.]iiij(<<o>>)[<<a>>].}}
+[fol. 25v]
+{CB2.
+{IN3.} Aq<ue>llos q<ue> Jugaren con dados de talla los dados
+de sey(~)s E as E de c'inco E dos E de q<u><<a>>t<r><<o>> E
+tres non ay(~) pena njn calupnja nenguna de
+aq<ue>llo q<ue> ganare Saluo si toujere de fuera de[ ]las casas
+q<ue> son defendidas en las ley(~)es sobre( )dichas de los
+otros dados/. {RUB. ./ ley .v.}
+{IN3.} A aq<ue>llos q<ue> echan los dados A perder E por
+vn par q<ue> peche dos tan buenos com(~)o aq<ue>-
+llos q<ue> echare o de q<u><<a>>nto costare E si los
+q<ue>brare con los dientes o los tragare q<ue> sean q<u><<i>>tos
+de los non pagar por El tablaJero sea tenudo de les
+canbia<r> los dados E en( )prestar g<e>[ ]los q<u><<a>>nto los q<u><<i>>siere<n>
+los Jugadores q<ue> Jugaren en[ ]las tahurerias E si El
+cauall<er>o o escudero q<u><<i>>siere desonrrar A otro cauall<er>o
+o escudero en[ ]las tahurerias del Rey(~) q<ue> se lo dema<n>-
+den vnos A[ ]otros por sus fueros q<ue> se deuen Judga<r>
+los cauall<er>os E los fiJos de Algo/. {RUB. [.]/ ley .vi.}
+(q) {IN3.} Qual( )q<u><<i>>ere q<ue> diere pun<n>ada o palmada o[ ]tira-
+re por los cabellos o diere coc'es A otro
+om<n>e en[ ]las tahurerias del Rey q<ue> peche
+dos m<a>r<auedi>s El vno sea del Rey(~) por q<ue> q<ue>branta las
+tahurerias E desonrra alguno y(~) E el ot<r><<o>> q<ue> Rec'ibe
+la desonrra E sy fuere om<n>e q<ue> non puede pagar
+la calupnja q<ue> sobre( )dicha es q<ue> Rec'iba ot<r><<o>> tanto
+de aq<ue>l a[ ]q<u><<i>>en fizo la desonrra com(~)o lo fizo en[ ]las
+tafurerias del Rey(~) en aq<ue>l logar mjsmo/. {RUB. ./ ley .vij.}
+(q) {IN3.} Qual( )q<u><<i>>ere q<ue> firiere en[ ]<e>l tablero de pun-
+ta de guchillo por cada ferida q<ue> di-
+ere q<ue> peche medio m<a>r<aued>i de[ ]la moneda
+nueua E sy(~) diere del guchillo q<ue> peche vn m<a>r<aued>i
+desta moneda mesma por cada ferida ot<r><<o>>sy Sy(~)
+lo q<ue>brantare de piedra o de ot<r><<a>> man<er>a q<ue> lo peche
+p<er>o sy lo q<ue>brantare en su cabec'a mjsma q<ue> lo non
+peche E sea q<u><<i>>to de lo non pechar / mas sy(~) Algu<n>d
+menoscabo Rec'ibiere<n> del tablero los otros q<ue> Juga-
+ren Al tablero por Esta Razon E lo prouaren q<ue> lo
+pech~e aq<ue>l q<ue> q<ue>brantare El tablero E si non oujer
+de q<ue> lo pechar q<ue> lo metan en[ ]la prision fasta q<ue> de
+Recabdo q<ue>[ ]lo pech~e/. {RUB. ./ ley .viij(<<o>>)[<<a>>].}
+(l) {IN3.} Los q<ue> toujeren pen<n>os de tafures q<ue> fueren
+Jugadores q<ue>[ ]le den nueue dias por fuero los
+pen<n>os muertos E toda bestia vey(~)nte
+dias E sean pregonados los pen<n>os vn dia por q<ue> los
+q<u><<i>>ten sus duen<n>os si q<u><<i>>tar los q<u><<i>>sieren E q<ue> entiendan
+q<ue> los vendan sin engan<n>o E syn cobdic'ia E q<u><<a>>l( )q<u><<i>>er
+q<ue> Jugare E enprestare sobre pen<n>os Asy com(~)o sobre
+bestias en[ ]las tafurerias q<ue> tome<n> buen Recabdo Asy
+com(~)o es fuera de[ ]la t<ie>rra en guy(~)sa q<ue> non pierda lo
+q<ue> enprestare o ganare sobre ello E estos Atal<e>s
+plazos sobre( )dich~os q<ue> los vendan aq<ue>llos q<ue>[ ]los
+toujeren syn calupnja nengu<n><<a>> E q<ue> los den a vender
+Al corredor del conc'eJo E traya en[ ]<e>stos plazos los
+pen<n>os muertos tres dias A[ ]vender E la bestia
+nueue dias E aq<ue>l q<ue> oujere los dineros sobre los
+pen<n>os tome lo suy(~)o en saluo E el pague Al corredor
+de lo q<ue> fincar E demas de lo q<ue> y(~) oujere de Auer
+de derecho E el q<ue> dy(~)ere los pen<n>os A[ ]vender Al
+corredor Jugando o de q<u><<a>>l( )q<u><<i>>er de los suyos q<ue>[ ]lo (^o)}
+{CB2.
+oujere de Ave<r> de derecho E el q<ue> diere los pen<n>os
+a vender Al corredor q<ue> diga la verdad q<u><<a>>nto fueron
+vendidos E (^A)sy(~) aq<ue>l cuy(~)os fueron los pen<n>os fallare
+q<ue> fueren vendidos por mas de lo q<ue> y(~)azian E lo pro-
+uare q<ue> peche aq<ue>l q<ue> da los pen<n>os A vender o El corre-
+dor q<u><<a>>l( )q<u><<i>>ere q<ue> ay(~)a la culpa todo lo q<ue> njega doblado A
+su duen<n>o & costas E mjsiones sy(~) las fiziero<n> en de-
+mandando lo suy(~)o E las setenas Al Rey(~) por q<ue> es
+furto E muy(~) gra<n>d cobdic'ia/. {RUB. ./ ley .jx.}
+(e) {IN3.} El tablaJero q<ue> sacare El tablaJe sobre( )pu-
+siere demas de[ ]lo q<ue>[ ]le enprestare sobre los
+pen<n>os aq<ue>l q<ue> toujere las tahurerias q<u><<a>>ndo
+rresc'ibiere la cuenta del tablaJero q<ue> lo peche todo dobla-
+do A su duen<n>o aq<ue>llo q<ue> sobre( )pusiere E costas E
+mjsy(~)ones si las fiziere q<u><<a>>l( )q<u><<i>>er dellos q<ue> aya la cul-
+pa en defendiendo lo suyo Al duen<n>o de los pen<n>os / E
+setenas Al Rey(~) por q<ue> es furto E muy(~) gra<n>d cobdic'ia
+E si no<n> oujere de q<ue> lo pechar q<ue>[ ]le den c'inq<ue>nta Ac'ot<e>s
+{RUB. ./ ley .x.}
+(e) {IN3.} El tablaJero q<ue> sacare El tablaJe E tomare
+El dinero de aq<ue>llos q<ue> tomaren las tahu-
+rerias A[ ]rrenta sobre si E los Jugare
+E se fuere con[ ]ellas E les fiziere Algu<n><<a>> barata por q<ue>
+Aq<ue>llos q<ue> tiene<n> las tahurerias ay(~)an de perde<r> o de me-
+noscaba<r> q<ue>[ ]les peche todos los menoscabos E si no<n> ouj-
+ere de q<ue> los pechar Esto q<ue> y(~)aga en[ ]la prision vn An<n>o
+{RUB. ./ ley .xj.}
+(q) {IN3.} Qual( )q<u><<i>>er pley(~)to o Abenenc'ia o postura
+o fiadura q<ue> fizieren vnos con otros en[ ]las
+tafurerias o en los otros logar<e>s en Razo<n>
+de Juego q<ue> valga E se Atenga E sy Asy Alguno en-
+trare por mano de otro q<u><<a>>l( )q<u><<i>>er q<ue> Jugare q<ue> entregare
+por ello q<ue> perdiere aq<ue>l q<ue> lo ganare valga & entregue<n>
+todo lo q<ue> entra por mano o por entregador fasta q<ue>L
+diga aq<ue>l a q<u><<i>>en ha de entregar no<n> vos q<u><<i>>ero mas
+fiar njn entregar por esto q<ue> ha perdido E po<r> leua<n>-
+tar[ ]se del tablero El fiador njn El perdidoso no<n>
+se escuse de pagar aq<ue>llo q<ue> perdiere njn El fiador
+de entregar/. {RUB. ./ ley .xij.}
+(s) {IN3.} Sy(~) Aq<ue>l q<ue> para la parada E[ ]la ganare E
+contare la parada de( )mas de lo q<ue> no<n> ay(~) sy
+le fuere prouado por q<u><<i>>( )q<u><<i>>er lo Ajeno syn
+derecho q<ue> peche dos tanto de lo suy(~)o aq<ue>l a[ ]q<u><<i>>en cuenta
+de( )mas o q<ue> Jure sobre santos euangelios por la pri-
+mera ves q<ue> lo non faze A[ ]su entinc'ion E sy(~) estando
+en[ ]este mjsmo Juego lo fiziere ot<r><<a>> ves q<ue> non sea crey(~)do
+E q<ue> lo peche com(~)o dicho es/. {RUB. ./ ley .xiij.}
+(s) {IN3.} Sy(~) por Aventura Algunos q<u><<i>>sieren y(~)r A[ ]la mano
+del q<ue> lanc'a los dados vay(~)a en guy(~)sa A[ ]la
+mano q<ue>[ ]los dados no<n> parescan suerte ne<n>gu<n><<a>>
+en[ ]<e>l tablero E despues q<ue> la suerte paresc'iere de aq<ue>l
+q<ue> lanc'a los dados o de aq<ue>llos q<ue> la esperan non es de d<e>r<ec>h<<o>>
+q<ue> se desfaga la suerte mas q<ue> gane por ella q<u><<a>>les( )q<u><<i>>er
+q<ue> la suerte vieren/. {RUB. ./ ley .xiiij.}}
+[fol. 26r]
+{HD. [*tahureri]-
+(\ .ij.) as. [\ .ij.]
+\ 2}
+{CB2.
+(e) {IN3.} E por Aventura Aq<ue>llos q<ue> tienen las ta-
+hurerias arrendadas sobre sy o El tabla-
+Jero q<u><<i>>siere fazer Amor A[ ]algunos
+q<ue> ay(~)an Jugado sus pen<n>os Al tablaJero q<ue> ha pe<r>dido
+desde q<ue> ha ent(^e)[^r]egado o por entregar o[ ]tiene dineros
+Al tablaJero q<ue>[ ]le faga Amo<r> de los pen<n>os o de los di-
+neros E el tablaJero o ot<r>o q<u><<a>>l( )q<u><<i>>er le q<u><<i>>siere faze<r> Amo<r>
+o le fia q<ue>[ ]le entre( )gara luego de pen<n>os o de dineros
+o pone dia conosc'ido E q<ue> le faga la paga o entrega
+A su plaze<r> E A[ ]su voluntad E despues le fiziere Al-
+guna Rebuelta o traspaso por q<ue> ay(~)an de venjr
+Ante los Alcaldes non ay(~)a terc'e<r> dia njn nueue
+dias njn ferias a q<ue> demandase si no<n> q<ue> pagase A
+ocho dias los dineros fechos & costas E mjsion<e>s
+si las y(~) fiziere en demandar lo suy(~)o/. {RUB. ./ ley .xv.}
+(y) {IN3.} I los tablaJeros q<ue> consienten o encubriere<n>
+Algunos de[ ]los engan<n>os o de los defe<n>-
+dimjentos q<ue> defiende Este libro de[ ]las
+tafurerias E fuere prouado ay(~)an otro tanto de
+pena com(~)o Aq<ue>llos q<ue> dizen los malos fechos E
+fazen los fech~os E los enganos/. {RUB. ./ ley .xv(i)j(<<e>>)[<<a>>].}
+(l) {IN3.} Los q<ue> dineros o pen<n>os furtaren (^en las)
+del tablaJero en[ ]las tablaJerias q<ue>
+peche<n> lo q<ue> tomare<n> doblado A su du-
+en<n>o E si no<n> oujere de q<ue>[ ]lo pechar q<ue> y(~)agan en la
+cadena fasta q<ue> cunplan de derech~o E q<ue> lo pechen/.
+{RUB. ./ ley .xvij.}
+(o) {IN3.} Otrosy q<u><<a>>l( )q<u><<i>>ere q<ue> con dineros o con pe-
+n<n>os se fuere del tablero despues q<ue>
+los oujere Jugados o perdidos E se
+fuere escondido q<ue> peche aq<ue>llo q<ue> leuare doblado
+Al tablaJero o A ot<r><<o>> q<u><<a>>l( )q<u><<i>>e<r> q<ue>[ ]los oujere de aver
+E las setenas Al Rey(~) por q<ue> es Razon de furto E
+se va con lo AJeno E si non toujere de q<ue> lo pechar q<ue>
+y(~)aga en[ ]la prision del Rey(~) fasta q<ue> cunpla de d<e>r<ec>h<<o>>
+{RUB. ./ ley .xviij(<<o>>)[<<a>>].}
+(a) {IN3.} Aq<ue>llos q<ue> fazen buelta o mescla Asacar
+todo esto se entiende por vna rrazon
+en parada o en muestra en las tafureri-
+as q<ue> sea tenudo de pechar[ ]lo aq<ue>l a[ ]q<u><<i>>en lo pierde mas
+del dinero de enc'ima/. {RUB. ./ ley .xix.}
+(e) {IN3.} En Juego ne<n>gu<n>d oro njn plata njn sor-
+tiJa njn piedra njn anjllo q<ue> non val-
+ga en parada njn en muestra encubie<r>-
+ta njn en ot<r><<a>> man<er>a sy Ante lo no<n> fiziere saber pri-
+mera( )mente Aq<ue>llos con q<u><<i>>en Juega por q<ue> los sabi-
+dores E los engan<n>ador<e>s de[ ]los dados de las tafure-
+rias fazen buelta & mescla co<n> ello aq<ue>llos q<ue>
+menos saben q<ue> ellos/. {RUB. ./ ley .xx.}}
+{CB2.
+(a) {IN3.} Aq<ue>llos q<ue> Jugaren en las tahurerias publi-
+ca( )me<n>te E se Asentare<n> A Jugar co<n> otros
+tan buenos E meJor<e>s com(~)o ellos E peor<e>s
+E dixeren palabras vedadas o dixere cosas de las q<ue>
+defiende este libro o pasaren de los otros defendimj<ent><<o>>s
+q<ue> aq<u><<i>> son es[c<ri>]ptos non pueda sacar njn desechar de tes-
+timonjo A[ ]nengu[<n>]d xp<<i>>[s]tiano por pobre njn por desnudo
+njn Judio njn moro o su testimonjo cunpliere Cada
+vno en su ley(~) de aq<ue>llo q<ue> oy(~)eren dezir o viero<n> fa-
+zer por cosa en[ ]las tahurerias o en ot<r><<o>> logar q<ue> no<n>
+se pueda prouar sy no<n> con aq<ue>llos q<ue> se Acaec'iero<n>
+y(~) despues q<ue> se Asientan A Judga<r> en[ ]las tafure-
+rias todos son tahures llamados por q<ue> se enti-
+ende q<ue> tahur sobre tahur deue prouar/. {RUB. ./ ley .xxi.}
+(a) {IN3.} Aq<ue>l q<ue> q<u><<i>>er Ju(^d)ga<r> con otros pen<n>os aq<ue>l q<ue>
+los ganare sy fuere<n> bienes o armas
+q<ue> los tenga q<u><<a>>renta dias por fuero E
+sy fueren otros pen<n>os q<ue> sean de vestir & de cal-
+c'ar o c'inta o guchillo o rropa de Casa o otros
+pen<n>os muertos ayan vey(~)nte dias por fuero E
+destos plazos sobre( )dich~os q<ue> se sigan dellos
+Adelante syn calupnja nenguna E aq<ue>l q<ue>[ ]los ga-
+nare q<ue>(^??) los venda Asi com(~)o sobre( )dicho es
+E finq<ue>n en saluo lo q<ue> diere<n> sobre los pen<n>os
+E lo demas sea todo A[ ]su duen<n>o o aq<ue>l q<ue> lo oujere
+de Ave<r> por derecho/. {RUB. ./ ley .xxij.}
+(s) {IN3.} Sy(~) Alguno y(~) oujere q<ue> Jugare din<er><<o>>s
+fechos con otros pen<n>os E el q<ue> tiene
+los din<er><<o>>s ganare los pen<n>os puede
+luego serujr se d<e>llos syn calupnja nenguna q<ue>
+Asi com(~)o faria A su guy(~)sa de los dineros si ge
+los ganase aq<ue>l q<ue> Juga los pen<n>os Asy desta ma-
+n<er>a mjsma se deue seguy(~)r de[ ]los pen<n>os El q<ue> gana
+los pen<n>os/. {RUB. ./ ley .xxiij.}
+(s) {IN3.} S(^i)obre armas de cauall<er>o njn de escudero
+non enpresten los tablaJeros njn los
+q<ue> tienen las tahurerias dineros del
+Rey(~) E si lo fiziere<n> q<ue> pierdan todo Aq<ue>llo q<ue> en-
+prestaren por q<ue> los cauall<er>os E escuderos prec'ia<n>
+mucho sus armas E es cosa peligrosa de ven-
+der E podria Acaesc'er q<ue> los cauall<er>os E escude-
+ros auria<n> (^me[^ne]stes) menester sus armas E non
+las podrian Aver E por esta Razon acaesc'e-
+rian grandes trabaJos entre ellos E los deman-
+dadores de[ ]las armas E de aq<ue>llos q<ue> las toujese<n>
+{RUB. ./ ley .xxiiij(<<o>>)[<<a>>].}
+(s) {IN3.} Sobre cuerpo de x<r><<i>>stiano njn de Judio
+njn de moros non en( )presten din<er><<o>>s
+njn Jueguen en las tahurerias
+por q<ue> saben q<ue>l x<r><<i>>stiano q<ue> es suelto E los
+Judios E los moros com(~)o( )q<u><<i>>er q<ue> sean forros
+E esten sobre sy sen<n>ores En( )p<er>o si Algunos}
+[fol. 26v]
+{CB2.
+y(~) oujere q<ue> su moro catiuo q<u><<i>>siere Juga<r> o enpen<n>ar
+puede[ ]lo fazer o sieruo o sierua El derech~o q<ue> y(~)
+oujere E aq<ue>l q<ue> lo Jugare o enpen<n>are E aq<ue>llos q<ue>
+Jugare<n> o enpen<n>aren su sieruo sobre ello en tal Ra-
+zon com(~)o esta q<ue> lo fagan con buen Recabdo E
+sy non q<ue> se pierda/. {RUB. ./ ley .xxv.}
+(q) {IN3.} Qual( )q<u><<i>>er clerigo q<ue> sacare A tablaJe o
+Jugare dados sobre Algunas cosas
+q<ue> fagan A el o El Alguno en las ta-
+hurerias o dixere o fiziere Algunas cosas de[ ]las
+q<ue> defiende santa egl<es>ia nol valga ca despues q<ue>l
+clerigo saca tablaJe o Juega A[ ]los dados vie(<n>)-
+ne contra aq<ue>llo q<ue> defiende santa egl[<es>]ia E las
+ordenes por q<ue> deuen pasar E Judga<r>[ ]se po<r> El
+Juyzio q<ue> pasan los otros tahures/. {RUB. ./ ley .xxvj.}
+(e) {IN3.} El Rico( )om<n>e o El fijo de Algo q<ue> q<u><<i>>si-
+ere Jugar los dados en su posada
+puede[ ]lo fazer de su puerta A-
+dentro o El escudero pasa o[ ]mora E non po<n>ga<n>
+sus om<n>es tablero Ante la puerta de su posada
+del Rico( )om<n>e njn en ot<r><<o>> logar do su conpan<n>a[ ]se
+AcoJa vezino njn morador de[ ]la villa en[ ]la tahu-
+reria del Rico( )om<n>e sy(~) lo fiziere q<ue> peche la ca-
+lupnja com(~)o ma<n>da El Rey(~) en Razon de[ ]las tahu-
+rerias/. {RUB. ./ ley .xxvij.}
+(p) {IN3.} Puedan todos x<r><<i>>stianos prouar en
+pley(~)tos de[ ]las tahurerias en taL
+q<ue> sea de hedad p<ar>a prouar q<ue>
+ay(~)a dies E sey(~)s An<n>os o dende Arriba en tal q<ue>
+non sea nenguno dellos om<n>e del demandador
+njn su Apanjaguado E Al Rec'ebir de[ ]los tes-
+tigos q<ue> oujere de Jurar en los pley(~)tos de[ ]las
+tahurerias q<ue> los fagan Jurar sobre los santos
+euangelios q<ue> digan verdad de aq<ue>llo q<ue> les
+preguntaren E sy Alguno oujere q<ue> testimonjo
+falso le fuere prouado q<ue>l saq<ue>n dos dedos de
+la lengua en traujeso fuera de[ ]la boca E pase<n>
+le vn pligo de p<ar>te en p<ar>te d<e>[ ]la lengua en guy(~)sa
+q<ue> no<n> pueda tornar A la boca E pongan[ ]lo en[ ]la
+plac'a mas general de[ ]la villa donde esto Acaes-
+c'iere E este y(~) desde la man<n>ana fasta ora de
+medio( )dia q<ue> lo vean todos E de( )sy saq<ue>n le El
+pligo E den le de mano E Jamas non sea crey(~)do
+en testimonjo/. {RUB. ./ ley .xxviij.}
+(s) {IN3.} Sy(~) tafures fallaren q<ue> sean afama-
+dos de[ ]las tahurerias d<e>l Rey(~) E
+sospecharen sobre ellos q<ue> jugaro<n>
+E les demandaren los Arrendadores q<ue> aq<ue>llos
+q<ue> han de Aver las tahurerias Ante aq<ue>llos q<ue>
+lo oujeren de Judgar E no<n> le pudiere<n> prouar
+fagan les Jurar sobre los santos euangelios q<ue>
+non Jugaron por la p<r><<i>>mera ves ot<r><<o>>si po<r> la segu<n>da}
+{CB2.
+o por la terc'era q<ue> sean prendados po<r> la calupnja
+E mandan El Rey(~) en rrazon de las tahurerias por
+q<ue> saben q<ue> sean tahures entiende se q<ue> no<n> se ha de
+librar por Al sy non por Jurar/. {RUB. ./ ley .xxjx.}
+(l) {IN3.} La vegilla de nauidad E el dia q<ue> sean suel-
+tos de (^Jurar) Jugar por q<ue> en tal dia nac'io
+n<uest>ro sen<n>or E es pascua bendita E deue
+Aue<r> cada vno Alegria en su posada E po<r> esta
+Razon non sea prendado nengu<n>d x<r><<i>>stiano por Ju-
+ego q<ue> faga estos dos dias E sy(~) los q<ue> tiene<n> las
+tahurerias los prendaren E otro po<r> su ma<n>dado
+q<ue> torne la prenda doblada A su duen<n>o E ot<r><<o>> tanto
+Al Rey(~)/. {RUB. ./ ley .xxx.}
+(a) {IN3.} Aq<ue>llos q<ue> tiene<n> las tahurerias oujere<n> q<ue>re-
+lla de aq<ue>llos q<ue> Jugaren fuera de[ ]las ta-
+hurerias del Rey(~) o pasaren de los ot<r><<o>>s
+defendimjentos q<ue> son es<cri>ptos q<ue>rellen se A[ ]los Al-
+caldes q<ue> han de conplir El mandamjento del Rey(~)
+E fagan[ ]lo con testigos E escriuan los nonbres de
+los testigos E el dia & El mes E en q<u><<a>>l mes lo q<ue>rella
+cada ves E sy despues los Alcaldes o los Jurados
+no<n> se q<u><<i>>sieren faze<r> derech~o de aq<ue>llo q<ue> q<ue>rellaron
+q<ue> lo puedan mostrar Al Rey(~) o aq<ue>llos q<ue> toujere<n>
+las tahurerias de[ ]la t<ie>rra por mano del Rey(~) sy(~) me-
+nester fuere E sy menoscabo Rec'ibiere El Rey(~) en
+las tahurerias por culpa de los alcaldes o de[ ]los
+Jurados q<ue> lo pechen Al Rey(~) doblado o com(~)o El to-
+ujere por bien E el q<ue>rellos<<o>> las costas si las fiziere
+segu<n>d q<ue> fuere El pley(~)to/. {RUB. ./ ley .xxxj.}
+(s) {IN3.} Si aq<ue>llos q<ue> Jugaren en[ ]las tahurerias
+toujeren contienda sobre El dado q<ue>
+estoujere acostado deuen lo Judgar los
+otros q<ue> estoujeren Al tablero com(~)o aq<ue>llos q<ue> con-
+tienden sobre El dado E sy los otros no<n> Jugaren
+sy no<n> los contendores Judgue El tablaJero q<ue> sacare
+El tablaJe E sy no<n> q<u><<i>>sieren los otros Judgadores
+estar po<r> El tablaJero llame<n> q<u><<a>>l q<u><<i>>sieren Aq<ue>llos q<ue>
+contendieren sobre El dado q<ue> lo Judgue<n> E el Juy(~)-
+zio q<ue> dieren los Judgador<e>s o El tablaJero o EL
+om<n>e llamado q<u><<a>>l( )q<u><<i>>e<r> q<ue> lo Judga<r> A plaze<r> de[ ]los con-
+tendores q<ue> valga E si Algunos Jugare<n> en table-
+ro q<ue> ay(~)a barras q<ue> digan los dados en barra si caye<r>
+tan bien com(~)o en ot<r><<o>> loga<r> saluo sy lo pusiere<n> los
+Jugador<e>s q<ue> no<n> diga dado en barra/. {RUB. ./ ley .xxxij.}
+(a) {IN3.} Aq<ue>llos q<ue> tienen om<n>es A soldada o[ ]a bie<n>-
+faze<r> o los Acogieren A[ ]su posada
+q<ue> sy le fiziere menos d<e>[ ]lo suyo E lo
+fuere A Juga<r> en[ ]las tahurerias del Rey(~) E despues
+fuere<n> demandados en rrazon de furto aq<ue>llos q<ue> to-
+uy(~)eren las tahurerias o los tablaJeros q<ue> sacaren el
+tablaJe non son tenudos A menos de dar los din<er><<o>>s}
+[fol. 27r]
+{HD. tahurerias
+\ .iij.
+\ 3}
+{CB2.
+Por q<ue> yazen por q<ue> cada vno deue toma<r> tal om<n>e
+acoger[ ]lo en su posada o en su casa o[ ]pone<r> tal gu-
+arda en lo suy(~)o q<ue> sea seguro E non le faga ma-
+la barata de aq<ue>llo q<ue> le toujere en la mano puesto
+en guarda njn de aq<ue>llos q<ue> toujere<n> q<ue> las tahure-
+rias son Abondas E Juegan y(~) buenos E malos E
+los tablaJeros non toman fiador d<e>l pen<n>o njn han
+po<r> q<ue> toma<r> testigos sobre los pen<n>os muertos q<ue> Juga<n>
+en las tahurerias p<er>o El demandador faga los pe-
+n<n>os muertos com(~)o sobre( )dich<o> es segu<n>d dizen los
+otros fueros E el tablaJero Jure sobre santos euan-
+gelios q<ue> diga la verdad por q<u><<a>>nto fueron Jugados
+E den[ ]le sus pen<n>os E Rec'iban sus dineros deL
+o de su mandado/. {RUB. ./ ley .xxxiij.}
+(s) {IN3.} Sy(~) Algunos syguy(~)eren pleytos en Razo<n>
+de las tahurerias El pley(~)to fuere
+en logar q<ue> oujere costas peche[ ]las El
+venc'ido Al venc'edor en esta guy(~)sa (^f) sy fuere
+El venc'edor om<n>e q<ue> tray(~)ga bestia caualla<r> o mula
+de[ ]le El venc'ido por cada dia q<ue> fuere segu<n>d El ple-
+y(~)to dies E sey(~)s m<a>r<auedi>s de[ ]la moneda nueua E sy fu-
+ere om<n>e de pie ocho dineros desta mesma moneda
+{RUB. ./ ley .xxxiiij.}
+(s) {IN3.} Sy(~) Algu<n><<o>>s sabidores de[ ]los dados ganaren
+A[ ]may(~)oria dineros E otros sabidor<e>s
+desto sy Acaesc'iere en[ ]<e>l comenc'amj<ent><<o>> E
+despues mje<n>tra El Juego durare de aq<ue>l q<ue> perdie-
+re los dineros A peoria de sy o de aq<ue>llos q<ue> lo gana<n>
+A[ ]mayoria E se Atoujeren A el E despues le dema<n>-
+daren p<ar>te de Aq<ue>llos din<er><<o>>s q<ue> ganare E por la ma-
+y(~)oria q<ue> veen q<ue> entienden q<ue> faz el[ ]sabidor E
+fueren om<n>es q<ue> sepan Aq<ue>l Juego tanto com(~)o EL
+sabidor (^??)[^d]eue<n> g<e>[ ]lo dar p<er>o los q<ue> se Asientan Ati-
+enen se Al sabidor deuen le da<r> dineros o pen<n>os
+q<ue> Aventure Al Juego de Aq<ue>l por q<ue> se Atienen
+A[ ]el E si g<e>[ ]lo dieren deuen da<r> su p<ar>te A[ ]cada vn<<o>>
+dellos segu<n>d q<ue> se Acaesc'iere El Juego E sy no<n>
+ay(~) p<ar>te E sy pa<r>tiere El sabidor Aq<ue>l Jugo o aq<ue>-
+llos ot<r><<o>>s q<ue> se Atiene<n> A[ ]el pague cada vno su pa<r>-
+te de aq<ue>llo q<ue> pe<r>diere q<u><<a>>nto Ay(~) montare por q<ue> se
+Acaesc'e q<ue> pierde om<n>e A[ ]las vezes juego de may(~)o-
+ria/. {RUB. ./ ley [.]xxxv(<<o>>)[<<a>>].}
+(a) {IN3.} Aq<ue>llos q<ue> han de arrendar o de Recabdar
+las tahurerias por El Rey(~) deuen pre-
+guntar por aq<ue>llos q<ue> entienden o sa-
+ben mas de las tahurerias en todo loga<r> q<ue> ent<ra>ren
+E los llamaren E pregunta<r> les por las tahurerias
+de los logares donde morare<n> E mostra<r> les El pode<r>
+E[ ]la firme( )dunbre q<ue> trahen del Rey(~) E deuen[ ]le pro-
+meter & da<r> Cada vno com(~)o entendiere q<ue> se pro-
+dran Apro( )uechar las tafurerias del Rey(~) E deue<n> ser
+sabidor<e>s los arrendador<e>s por q<ue> piden las tafurerias}
+{CB2.
+p<ar>a aq<ue>llos q<ue> han sabor de[ ]las arrenda<r> Ca despues
+q<ue> saben q<ue> Aq<ue>l q<ue> Recabda(^n) viene(^n) E es en los loga-
+res fablan todos de consuno en guy(~)sa q<ue> nengu<n><<o>>
+non las pague E dan vno dellos q<ue> las arriende po<r>
+todos E esto fazen po<r> las tahurerias abatir E
+por Ave<r> las de buen me<r>cado Ot<r><<o>>sy los arrenda-
+dores de las tahurerias deuen las faze<r> pregonar
+en cada logar dos dias dos vezes en[ ]<e>l dia la vn<a>
+vez en la man<n>ana E la otra vez A ora de biesper<a>s
+por q<ue> vengan A[ ]el aq<ue>llos q<ue> las q<u><<i>>siere<n> arrendar
+E entienda El Rey(~) E los om<n>es d<e>[ ]la t<ie>rra q<ue> lo faz
+bien E leal( )me<n>te syn engan<n>o nenguno E despu-
+es q<ue> oujere arrendadas las tahurerias E ouj-
+ere fechas las c<art>as de arrendamj<ent><<o>>s con[ ]los arren-
+dadores non sean poderosos de g<e>[ ]los tolle<r> fasta
+Acabado Aq<ue>l t<ien>po segu<n>d q<ue> dixeren las c<art>as deL
+arrendamjento q<ue> fueren fechas en[ ]<e>sta Razon sal-
+uo sy ot<r><<o>> diere El terc'io demas E deste prec'io q<ue>
+dieren mas sea (^Este prec'io) El terc'io de aq<ue>llos
+a q<u><<i>>en toujeren las Rentas de[ ]las tafurerias en esta
+guy(~)sa E todo lo Al p<ar>a El Rey(~) por q<ue> las cosas
+del Rey(~) se deuen Aprouechar/. {RUB. ./ ley .xxxvj.}
+(e) {IN3.} E de todos los pley(~)tos de[ ]las tafurerias
+se pueden cada q<ue> q<u><<i>>sieren Alc'a<r> Al
+Rey(~) saluo d<e>[ ]la pena q<ue> es puesta en[ ]<e>l
+libro de[ ]las tahurerias sobre aq<ue>llos q<ue> Juga<n> fue-
+ra de las tahurerias del Rey(~) despues q<ue> fueren pu-
+estas en rrenta o en rrecabdo sy no<n> fuere por Amo<r>
+o po<r> gr<ac'i>a de aq<ue>l q<ue> las toujere arrendadas E aq<ue>llos
+q<ue> se Agraujare<n> d<e>[ ]las sentenc'ias q<ue> diere<n> los Al-
+caldes de los logar<e>s q<ue> han de Judga<r> los pleytos
+de las tahurerias por n<uest>ro sen<n>or El Rey(~) por El
+libro q<ue> fizo maestre Roldan de[ ]las tafurerias
+deuen dezir Al Alcalde dad[ ]nos fiel Juyzio E es-
+cripto E mostrad nos la ley(~) del libro por q<ue> nos Jud-
+gades E el todo esto deue faze<r> tan bien aq<ue>llos
+q<ue> estan sueltos com(~)o aq<ue>llos q<ue> estan en las pri-
+sion<e>s E deue soltar los presos El Alcalde
+en tal man<er>a q<ue> tome<n> bue<n> fiador de[ ]la dema<n>da
+q<ue>l fizieron E de las costas/. {RUB. ./ ley .xxxvij.}
+(t) {IN3.} Todo om<n>e q<ue> q<u><<i>>siere Jugar las tablas
+puede[ ]lo fazer en esta guy(~)sa q<ue>[ ]lo
+Jugue Al enperador o A[ ]las fallas
+o Al cabo q<u[in]a>l o Al sey(~)s E dos & As E non A[ ]ot<r><<o>>
+Juego nenguno E Juegue fasta sey(~)s m<a>r<auedi>s de la
+moneda blanca E q<ue> Juegue<n> enbites fasta sey(~)s
+m<a>r<auedi>s E de c'inco m<a>r<auedi>s adelante q<ue> pague El tabla-
+Je E sy Jugare A paradas q<ue> lo pague de[ ]la mar-
+vato E de la gagista o del azar en tres dados o e<n>
+dos dados E sy Jugare<n> A[ ]la Jaldeta fuera del table-
+ro o pares non pares o A[ ]las cruzes o A[ ]ot<r><<o>> Juego
+nengu<n><<o>> q<ue> se pierdan los dineros & q<ue> pague saluo
+sy fuere A[ ]la ballesta o Al teJuelo o Al dardo
+o A[ ]la via d<e>[ ]la Capa sy no<n> fuere po<r> mandado[ ]de}
+[fol. 27v]
+{CB2.
+aq<ue>llos q<ue> toujeren las tafurerias arrendadas q<ue>
+peche la pena q<ue> manda la c<art>a del Rey(~) en rrazon
+de las tafurerias saluo sy Jugaren A comer o A
+beue<r> Asy com(~)o dize en la ley(~) deste libro/. {RUB. ./ ley
+[.]xxxviij.}
+(p) {IN3.} Ponga las manos sobre los santos
+euangelios E sobre la crus deL
+Altar E el q<ue> tomare la Jura de
+aq<ue>l q<ue> oujere A[ ]Jurar A lo de conJurar desta guy(~)-
+sa q<ue> vos me Jurades por dios padre q<ue> fizo El
+c'ielo E la t<ie>rra E todas las otras cosas q<ue> son fe-
+chas por ih<es>u xp<ist>o q<ue> nasc'io de la virge<n> gloriosa
+santa maria su madre E po<r> El espiritu santo
+q<ue> son tres personas E vn dios E por estos
+santos euangelios q<ue> cuentan las palabras d<e>[ ]los
+fech~os de n<uest>ro sen<n>or ih<es>u xp<ist>o E sy toujere la
+mano sobre la crus diga E Jura p<ar>a aq<ue>lla cruz
+q<ue> es semeJanc'a de aq<ue>lla en[ ]q<ue> n<uest>ro sen<n>or ih<es>u xp<ist>o
+paso muerte E pasion por nos pecador<e>s sal-
+uar E sy las metiere sobre El Alta<r> diga
+q<ue> Jura p<ar>a aq<ue>l Altar en q<ue> fue consagrado El cu-
+erpo de n<uest>ro sen<n>or ih<es>u xp<ist>o q<ue> aq<ue>llo q<ue> dema<n>da
+es Asy com(~)o su contendor dize E esto sobre
+la Razon q<ue> oujere de Jurar E sobre todas es-
+tas palabras ha de Responde<r> Aq<ue>l q<ue> fiziere
+la Jura o Al ot<r><<o>> q<ue> g<e>[ ]la toma ot<r><<o>>sy com(~)o g<e>[ ]la
+faze E despues desto deue dezir aq<ue>l q<ue> toma
+la Jura q<ue> Asy le Ay(~)ude dios q<ue> en Aq<ue>llas
+palabras q<ue> El dixo en[ ]los euangelios o en la
+cruz o sobre El Altar q<ue> Jura q<ue> dize verdad
+E Aq<ue>l q<ue> Jura deue dezjr Amen com(~)o es guy(~)sado
+E Aq<ue>l q<ue> toma la Jura no<n> sea mal( )trecho por El
+derecho q<ue> demanda/. {RUB. ./ ley .xxxjx.}
+(e) {IN3.} En esta guysa p<r><<i>>mera( )mente Jure so-
+bre El libro de moy(~)sen Asy Jur<<a>>s
+tu Judio E por Esta ley(~) q<ue> fue da-
+da por mano de moy(~)sen A[ ]los Judios en[ ]<e>l monte
+de synay(~) E despues q<ue> fiziere esta Jura {HEB. lieue
+erun} por su no<n>bre espec'ial( )mente en[ ]<e>l {HEB. Atalaso} E
+desy llame Al Rabi o Al q<ue> lo oujere de (^conseJar)
+conJurar su no<n>bre Este es El {HEB. herem Almur bel
+gititun} E ha de tene<r> {HEB. c'efer} tora en su brac'o A-
+q<ue>lla q<ue> sacan los Judios El lun<e>s & El Jueues E
+sabado fasta q<ue> Acabe la Jura Asy Juras tu
+Judio por dies viesos de[ ]los mandamj<ent><<o>>s synay(~)
+en dia de c'incuesma por q<ue> dixo y(~)o fuy(~) Al
+siglo E y(~)o so E ot<r><<o>> non E el q<ue> dixo no<n> non-
+bres El no<n>bre del dio biuo en vano Ca no<n>[ ]le pa-
+ra dan<n>o El q<ue> Juro en su no<n>bre E y(~)o nonbro
+Al dia del sabado por santigua<r> (^b)[^l]o ca en sey(~)s
+dias fizo don dio El c'ielo E la t<ie>rra E el dia
+seteno puso El fuego ca sabed vos Judios
+q<ue> por la Jura falsa viene El mal A[ ]todo El siglo}
+{CB2.
+E tu Juras por la fuerc'a E por El bien E por la ley(~)
+E por el nonbre por q<ue> El mundo se formo {HEB. semafo-
+ras} q<ue> es forma del mundo Juro si tu verdad dizes
+vengan sobre ti todas las bendic'iones q<ue> son es-
+criptas en {HEB. c'e<r>femosa} E sy tu verdad sabes
+E la encubrieses o la njegas o non la dixer<e>s
+en[ ]esta rrazon q<ue> y(~)o demando q<ue> vengan sobre ti
+todas las llagas q<ue> vinjeron sobre los de egipto
+E todas las mal( )dic'iones de las leyes q<ue> son
+esc<ri>ptas contra aq<ue>llos q<ue> desprec'ian los manda-
+mjentos E si esta Jura pasares maldito seas
+maldito seas en[ ][<e>]l dia / maldito en[ ]la noche E en
+tu echar maldito E en tu leuantar maldito E
+en[ ]tu mandar maldito E en tu cuy(~)dar maldito
+E en camjno maldito E maldito en su no<n>bre E
+maldito en su poder E esto Responda El q<ue> Jurare
+Amen syn Refierta nenguna E sy Refetar q<ue>
+sea caydo de la demanda por q<ue> fizo la Jura/. {RUB. ./ ley
+[.]xl.}
+(o) {IN3.} Otrosy los moros han su Jura Apa<r>tada
+q<ue> deuen faze<r> en[ ]esta guy(~)sa tan bien
+El q<ue> ha de Jurar com(~)o El q<ue> ha de to-
+mar la Jura A[ ]la puerta de[ ]la mesq<u><<i>>ta sy la y(~) oujere
+o en[ ][<e>]l logar do les mandare<n> El Judgador E eL
+moro q<ue> oujere de Jura<r> deue estar en pie E tor-
+ne[ ]se de cara E Alc'e las manos contra medio( )dia
+al q<ue> llaman ellos Al( )q<u><<i>>bla E Aq<ue>l q<ue> oujere de to-
+mar la Jura deue desir estas palabras Juras tu
+moro por dios q<ue> no<n> ay(~) ot<r><<o>> sy no<n> aq<ue>l q<ue> es de-
+mandador E conosc'edor E destroy(~)dor E Alcan-
+c'ador de todas las cosas q<ue> con esta parte de al-
+q<u><<i>>bla contra q<u><<i>>en tu fazes orac'io<n> E ot<r><<o>>sy me Jur<a>s
+por lo q<ue> Resc'ibio Jacob de la fe de dios p<ar>a sy(~) E
+p<ar>a sus fiJos E p<ar>a El omenaJe q<ue> fizo de[ ]la gua<r>-
+dar E p<ar>a la verdad q<ue> tu tien<e>s q<ue> puso dios
+en[ ]la boca de mafomad fiJo de Abdalla qu<an>do lo
+fizo profeta E su mandador segu<n>d tu crees q<ue>
+esto q<ue> yo digo q<ue> es Asy com(~)o tu dizes E sy
+mentira Juras q<ue> seas Apartado de todos los bie-
+nes de dios E de mahomad Aq<ue>l q<ue> tu dizes
+profeta E su mandadero E non ay(~)as parte
+en[ ]<e>l njn co<n> los ot<r><<o>>s profetas en njngu<n><<o>> de[ ]los
+paray(~)sos mas todas las penas q<ue> dize<n> en[ ]<e>l
+Alcoran q<ue> son dadas E q<u><<i>>tadas A[ ]los q<ue> no<n> cre-
+en en tu ley(~) vengan sobre ti A[ ]todo esto sobr<e>-
+dich~o deue Responde<r> El q<ue> Jura Ame<n> Asy lo Ju-
+ro diziendo(^s) todas estas palabras El mesmo
+Asy com(~)o las dixere aq<ue>l q<ue> toma la Jura des-
+de El comjenc'o fasta El Acabo E sobre todo
+esto desjr Amen syn Refierta nengu<na> segu<n>d
+dizen en[ ]la Jura de los x<r><<i>>stianos E de[ ]los judios/.
+{RUB. ./ ley .xli.}
+(o) {IN3.} Otrosy(~) q<u><<a>>l( )q<u><<i>>e<r> q<ue> saca<r> tablaJe syn lic'enc'ia
+del tablaJero q<ue> pague la pena d<e>l ta-
+blaJero q<u><<a>>ndo se Arrendar/. {RUB. ./ ley .xl-
+ij.}}
+[fol. 28r]
+{HD. vall<adol>jd
+\ 26
+ih<es>us \ 4
+vall<adol>id}
+{CB2.
+(o) {IN3.} Otrosi q<u><<a>>l( )q<u><<i>>ere q<ue> Acogiere Jugador A su
+casa syn lic'enc'ia del tablaJero q<ue> pa-
+gue por cada ves c'inq<ue>nta m<a>r<auedi>s/.
+{RUB. ./ ley .xliij.}
+(t) {IN3.} Todo esto sea demandado Antel Al<ca>ld
+E el Alcalde ante q<u><<i>>en fuere deman-
+dado faga luego derecho dello E
+sy El Alcalde non q<u><<i>>siere fazer derecho dello to-
+me testimonjo dello E muestre lo Al Rey(~)/. o A
+sus Justic'ias/.
+(...)}
+{CB2.
+(...)}

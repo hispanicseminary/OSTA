@@ -1,0 +1,963 @@
+{RMK: HSMS-0166.}
+{RMK: Fernando de Valdés.}
+{RMK: [SAN] Tratado de la utilidad de la sangría en las viruelas y otras enfermedades de los muchachos.}
+{RMK: Sevilla | Fernando Díaz | 1583.}
+{RMK: Madrid | Biblioteca Nacional de España | R/5735.}
+{RMK: María Estela González de Fauve.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0166-0001: Tratado de la utilidad de la sangría en las viruelas y otras enfermedades de los muchachos.} {RUB. TRATADO DE LA
+VTILIDAD DE LA SANGRIA EN LAS
+Viruelas y otras enfermedades de los Muchachos.
+Compuesto por el Doctor Valdes Cathedratico de Prima de
+Medicina en la Vniuersidad de Seuilla.
+Dirigido al muy Illustre Sen~or Do<n> Mattheo Vazquez de Lecca del Co<n>sejo d<e>l
+Catholico Rey Do<n> Philippe nuestro sen~or y su Secretario, y de la sancta
+general Inquisicion, Arcediano de Carmona y Canonigo de Seuilla. +}
+{MIN.}
+{RUB. EN SEVILLA. 1583.}}
+[fol. 1v]
+[fol. 2r]
+{CB1.
+{IN6.} DON PHILIPPE POR LA GRA-
+cia de Dios Rey de Castilla, de Leon de
+Aragon, de las dos Sicilias, de Ierusalem,
+de Portugal, de Nauarra, de Granada: de
+Toledo, de Valencia, de Galizia: de Ma-
+llorca, de Seuilla, de Cerden~a, de Cordo-
+ua, de Corcega, de Murcia, de Iaen, delos
+Algarues de Algezira, de Gibraltar: de las yslas de Canaria,
+de las Indias Orientales y Ocidentales, yslas & tierra firme
+del mar Oceano, Archiduque de Austria, Duque de Borgo-
+n~a, de Brauante y Milan, Conde de Abspurg, de Fla<n>des, y de
+Tirol y Barcelona, Sen~or de Vizcaya y de Molina. &<t>c<etera>. Por
+qua<n>to por parte devos el Doctor Fernando de Valdes, Me-
+dico, vezino dela Ciudad de Seuilla nos fue fecha relacion,
+diziendo, que vos con mucho trabajo y ocupacion auiades
+hecho dos libros de Medicina, de que haziades presentacio<n>,
+los quales eran muy vtiles y prouechosos, suplica<n>do nos os
+mandassemos dar licencia para los poder imprimir, o como
+la nuestra merced fuesse. Lo qual visto por los del nuestro
+consejo, por quanto en los dichos libros se hizo la diligen-
+cia que la pregmatica por nos agora nueuame<n>te sobre ello
+fecha dispone. Fue acordado que deuiamos mandar dar es-
+ta nuestra carta para vos en la dicha razon, e nos tuuimos
+lo por bie<n>. Por lo qual damos lice<n>cia y facultad a qualquier
+impressor destos Reynos, para que por esta vez pueda impri-
+mir los dichos libros, que de suso se haze mencion, sin que
+por ello caya ni incurra en pena alguna. Y ma<n>damos que la
+tal impression se haga por el dicho libro orig[i]nal, que va ru-
+bricada cada plana, y firmado al fin del de Alo<n>so de Valle o
+nuestro escriuano d<e> Camara, y vno de los que en el nuestro
+consejo reside<n>. Y despues de impresso, no se pueda ve<n>der, ni
+venda, sin que primero se traiga al nuestro consejo junta-
+mente con el original, para que se vea si la dicha impressio<n>
+esta conforme al original, y se tasse en lo que cada volumen
+se pudiere ve<n>der: sopena de caer e incurrir en las penas co<n>-tenidas}
+[fol. 2v]
+{CB1.
+en la dicha pregmatica e leyes de nuestros Reynos.
+no fagades ende al sopena dela nuestra merced y d<e> diez mil
+marauedis para la nuestra camara. Dada en Madrid a tres
+dias del mes de Septie<m>bre de mil y quinientos y ochenta y
+tres an~os.
+El Conde {BLNK.} El Licenciado {BLNK.} El lice<n>ciado Rodrigo
+de Barajas. {BLNK.} Iuan Thomas. {BLNK.} Vazquez Arze.
+El Lice<n>ciado don pedro porto carrero. El lice<n>ciado Chumacero de soto mayor. Iuan de C'uac'ola
+Yo Alonso de Vallejo escriuano de camara de su Magestad
+la fize escreuir por su ma<n>dado co<n> acuerdo de los d<e> su Co<n>sejo}
+[fol. 3r]
+{CB1.
+{RUB. AL MVY ILLVSTRE SE-
+N~OR DON MATTHEO VAZQUEZ
+de Lecca, del Consejo del Catholico Rey Do<n> Philip-
+pe nuestro sen~or, y su Secretario, y de la sancta gene-
+ral Inquisicio<n>, Arcediano de Carmona, y Canonigo
+de Seuilla.}
+{IN5.} QVAN EXCELLENTE Y
+real profession sea la de la Medici-
+na, merced inestimable dada por fa-
+uor del cielo a los ho<m>bres para la co<n>-
+seruacio<n> de su salud, ensen~anlo mu-
+chos exe<m>plos de grandes Principes y Reyes, q<ue> no sola-
+me<n>te la honrraro<n>, sino ta<m>bien se honrraro<n> en fauore-
+cerla, y exercitarla, como Mithridates Rey de Po<n>to,
+Ge<n>cio de los Illyricos, Adriano y Co<n>sta<n>tino quarto,
+Emperadores Romanos, co<n> otros muchos q<ue> dexaro<n>
+mas perpetuados sus no<m>bres en algunos medicame<n>-
+tos, y yeruas, que nos mostraron, q<ue> en la memoria de
+las proezas q<ue> hizieron. Muy sabida cosa es la estima-
+cion que desta admirable facultad hazian los Reyes
+de Persia, pues ninguno podia subir a la grandeza
+Real, q<ue> no fuesse muy ensen~ado en los secretos desta
+scie<n>cia, como parte la mas principal de su Magia. Sie<n>-
+do pues tan antigua, y tan establecida la autoridad}
+{CW. dela}
+[fol. 3v]
+{CB1.
+dela Medicina co<n> ta<n> graues exe<m>plos, no parecera age-
+na ni indigna del fauor de V<uestra> M<agestad> antes como persona
+de ta<n> Illustre sangre, y q<ue> entre los titulos de sus passa-
+dos puede co<n>tar blasones y dictados de Principes y
+sen~ores, le es muy proprio autorizarla, y recebir e<n> su
+proteccio<n> y amparo los q<ue> la professan. Muy sabida
+cosa es y muy cierta la gra<n>deza y antiguedad d<e> la ca-
+sa d<e> Lecca, pues como es notorio, p<ro>cede y descie<n>de
+de los verdaderos Emperadores de Costantinopla, y
+es como seminario de las mas nobles familias en la
+Isla d<e> Corcega: y en otras naciones y Prouincias, co-
+mo es en Roma y en Italia la casa Colo<n>na, cuya gra<n>-
+deza es conocida en toda Europa, no auiendo histo-
+ria de casi setecie<n>tos an~os a esta parte q<ue> no refiera gra<n>
+valor de Po<n>tifices y Cardenales desta esclarecida fa-
+milia, co<n>tando hechos sen~alados de gra<n>des sen~ores y
+capitanes q<ue> d<e>lla an procedido. Desta Illustrissima ca-
+sa fue aq<ue>l gra<n> Hugo Colonna, q<ue> por su valor vino a
+ser sen~or de Corc'ega, del qual procedio el Co<n>de Iua<n>
+Paulo de Lecca successor en el mesmo estado. En cu-
+ya posteridad se conseruara hasta oy la succession,
+si las ren~idas co<m>petencias de Pisanos y Genoueses no
+fueran causa q<ue> se enagenasse de sus legitimos possee-
+dores. Fue este Illustrissimo Co<n>de mas ayna acrece<n>ta-
+dor q<ue> fundador d<e> la Illustrissima casa d<e> Lecca, pues
+como esta dicho, descie<n>de delos Emperadores de Co<n>-sta<n>tinopla.}
+{CW. sta<n>ti}
+[fol. 4r]
+{CB1.
+Desta cabec'a por linea derecha viene V<uestra>
+M<agestad> abrac'ando juntame<n>te por ambas lineas las nobili-
+ssimas calidades destas casas, como es muy publico y
+notorio e<n> Corcega, y e<n> estos Reynos muy recebido,
+y aueriguado por antiquissimos y grauissimos testi-
+monios d<e> irrefragable verdad, como se a bien hecho
+la prueua en algu<n>as honrrosissimas ocasiones, especi-
+alme<n>te auie<n>do V<uestra> M<agestad> alca<n>c'ado el lugar y acceptacio<n>
+q<ue> tiene cerca del mayor Rey q<ue> jamas a auido co<n> offi-
+cio de su Co<n>siliario, y Secretario, y de la sancta gene-
+ral Inquisicio<n>. La qual por ta<n> inuiolable e indispe<n>sa-
+ble statuto no admitte au<n> para ministros humildes,
+a quie<n> no es de muy limpio y cendrado linage sin li-
+ga de ruin metal. El qual solo argume<n>to es bastantis-
+simo para fundar esta verdad ta<n> notoria de la limpie-
+za del claro linage de V<uestra> M<agestad> qua<n>do no vuiera los so-
+bredichos, q<ue> son ta<n> ciertos y aueriguados. Por estos
+mesmos la ciudad d<e> Seuilla desseando ho<n>rrar su Re-
+publica co<n> tan principal cauallero y vezino suyo, co<n>
+gra<n> co<n>formidad de todo el cabildo declaro ser V<uestra> M<agestad>
+cauallero hijo dalgo, y como a tal se le guardasen sus
+fra<n>quezas, y priuilegios, q<ue> goza<n> los caualleros hijos
+dalgo, q<ue> moran en la misma ciudad. Por estas razo-
+nes y la q<ue> yo tengo de tan antiguo seruidor, co<n>fiado
+en el noble y cortes acogimie<n>to q<ue> V<uestra> M<agestad> haze a seme-
+ja<n>tes estudios, me atreui a dedicarle este tratado de}
+{CW. mas}
+[fol. 4v]
+{CB1.
+mas prouecho q<ue> volumen, escrito lo principal en la-
+tin, y vna breue suma dello en roma<n>ce, para q<ue> en al-
+guna manera se comunique generalme<n>te a todos.
+Enel qual prete<n>do respo<n>der a otro q<ue> cierto medico
+a publicado aqui en roma<n>ce, pocos meses a, no sin
+algu<n>a nota, y reprehe<n>sion de la buena pratica de ta<n>
+auentajados medicos como ay en esta ciudad. A. V<uestra>
+M<agestad> supplico lo admitta e<n> su fauor y gracia, assegura<n>-
+dolo con la autoridad de su nombre de qualquier
+aduersario, y acordandose quanto e professado ser-
+uirle, de<n>de el tie<m>po de mi professio<n> e<n> la insigne Vni-
+uersidad d<e> Alcala d<e> Henares, do<n>de. V<uestra> M<agestad> me ho<n>rro
+algu<n>as vezes en oyrme, sie<n>do testigo, y buena parte
+d<e> la approuacio<n> y applauso publico co<n> q<ue> yo leya, y
+disputaua. De<n>de entonces descubri en aquellos ju-
+ueniles an~os de su edad, vna gentileza y claridad d<e>
+ingenio admirable, vn generoso natural, leua<n>tado
+a cosas gra<n>des, con ciertos vislu<m>bres y muestras del
+resplandor presente, y del estado en que por lo q<ue> va-
+len tan excellentes virtudes, y partes, esta constitui-
+do. En el qual como Dios tiene puesto a V<uestra> M<agestad> para
+que emplee todo lo q<ue> puede en fauor y amparo de
+la virtud, y letras: assi los que las professan, tienen o-
+bligacion de rogar a Dios le co<n>serue en el muy lar-
+gos y dichosos tiempos co<n> el acrecentamiento que
+merece. De Seuilla a primero de Nouie<m>bre. 1583.}
+[fol. 5r]
+{CB1.
+{IN5.} Por el mes de Enero deste an~o
+de oche<n>ta y tres salio a luz en
+[e]sta ciudad vn librico en roma<n>-
+ce sin nombre de autor, en el
+qual quienquiera q<ue> es, preten-
+de prouar, q<ue> en las Viruelas de los Muchachos
+no auemos de sangrar, sino jassar. A ocasion q<ue>
+pocos meses antes despues de la peste se muri-
+ero<n> muchos desta enfermedad. Apuntando q<ue>
+la causa de ta<n>tas muertes fuero<n> las sangrias q<ue>
+los medicos desta ciudad en ellos hizieron. E
+yo halla<n>do me ser vno de los reos co<n> otros mu-
+chos, segu<n> el parecer del dicho autor, hazie<n>do
+mis partes, y juntame<n>te las de los de mas ami-
+gos y ho<m>bres doctos, por ellos y por mi deter-
+mine escreuir esta obra, proua<n>do en ella lo co<n>-
+trario, y declarando el orden verdadero q<ue> se a
+de tener en sacar sangre a Muchachos, assi en
+esta enfermedad como en otras muchas. Va es-
+crita en le<n>gua latina para los que la saben, y ta<m>-
+bien en romance para los de mas. Por la vna o
+por la otra alcanc'ara el lector quien te<n>ga mas
+razo<n>, y descubrira la verdad, q<ue> es la q<ue> yo aqui
+solame<n>te prete<n>do aclarar para el comun apro-
+uechamiento del pueblo, sin ninguna vanidad}
+{CW. ni}
+[fol. 5v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+ni demostracion de ingenio. La de romance q<ue>
+va primero, es como su<m>ma o recopilacio<n> de la
+del latin. Y assi la va referiendo sie<m>pre, y en mu-
+chas cosas del todo remitie<n>dose a ella. Porque
+alli va todo tratado largamente con muchas
+autoridades y razones.
+{IN2.} PVes el autor deste tratadico de la cura delas
+Viruelas y Sara<m>pion para prouar su opinio<n>,
+de q<ue> los Muchachos en las dichas enfermeda-
+des no se an de sa<n>grar, sino solo jassar, trata pri-
+mero la questio<n> d<e> medicina, q<ue> muchos an~os a
+q<ue> esta tratada por varones doctissimos, q<ue> es: Si
+en general se deue<n> sangrar los Muchachos en
+las enfermedades q<ue> pide<n> este remedio. Y trae
+para esto primeramente a Galeno, q<ue> en mu-
+chos lugares reprouo la sangria en los Mucha-
+chos hasta catorze an~os. Yo no le niego aque-
+llos lugares, antes pretendo en mi enarracion
+latina allegarlos todos: mas respo<n>dese, q<ue> la san-
+gria en doctrina de Galeno es e<n> dos maneras,
+vna perfecta, y otra imperfecta. La perfecta es,
+la q<ue> responde cu<m>plidamente el henchimie<n>to
+de la sangre, de tal manera q<ue> si exceden dos li-
+bras mas de lo que auia de auer, se saque<n> otras}
+{CW. dos}
+[fol. 6r]
+{HD. En las Viruelas de los Muchachos}
+{CB1.
+dos, y de vna vez. Imperfecta es, quando no se
+saca de vna vez toda la ca<n>tidad junta que ex-
+cede, sino parte della, de tal manera que no de
+vna vez, sino de muchas se cumpla con el hen-
+chimiento. Prouamos con lugares de Galeno,
+como el mesmo vso destos dos modos de san-
+gria, aunq<ue> nosotros en estos tie<m>pos ya no vsa-
+mos sino de la vna sola, q<ue> es de la que se haze
+por partes. Y assi respo<n>demos a los lugares de
+Galeno, que vedan la sangria en los Mucha-
+chos, diziendo, que en ellos trata de la sangria
+entera, con que los antiguos descargaua<n> per-
+fectamente de vna vez las venas del henchi-
+miento de la sangre, y q<ue> no trata alli de la im-
+perfecta. Y assi concluymos, que aunque Ga-
+leno veda e<n> los dichos lugares la sangria per-
+fecta en los Muchachos hasta catorze an~os,
+mas no por esso les quita la imperfecta, que se
+haze e<n> vezes. Antes el la apprueua particular-
+me<n>te en ellos, y en otros aunque no sean Mu-
+chachos, y no solame<n>te la apprueua, mas aun
+dize, que en ninguna manera se a de vsar dela
+otra. Y assi son sus palabras del lugar que trae-
+mos del primer libro {LAT. ad Glauco. Cap<itulo>. 13.
+Neq<ue> enim hanc sine noxa tolera<n>t} que es: Por}
+{CW. que}
+[fol. 6v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+que esta no la sufre<n> los Muchachos sin gra<n>de
+dan~o. Y porque entre muchos medicos hasta
+agora se a tenido por mas cierto que Galeno
+de ninguna manera sangraua a Muchachos,
+porque no se a hallado e<n> sus obras algu<n> lugar
+en que claramente lo diga: traemos vn texto
+del mesmo, en que manifiestame<n>te se prueua
+Galeno auer vsado en los Muchachos d<e>la san-
+gria imperfecta. {GL. [^Galeno
+sangra a
+Mucha-
+chos.]} Es en el libro de las Sangrias,
+cap<itulo>. 14. donde dize: Menos cantidad de sangre
+sacamos que el henchimiento pide a los Mu-
+chachos, teniendo cuenta con la edad: y me-
+nos a los blancos, y a los que tienen carnes bla<n>-
+das, teniendo cuenta con el habito y compos-
+tura del cuerpo, como son los franceses: y me-
+nos en el tiempo que reyna la Canicula, tenie<n>-
+do cuenta con el tiempo. Clarame<n>te deste lu-
+gar se prueua lo dicho, que es, que Galeno au<n>-
+que en los Muchachos no vso de la sangria per-
+fecta: mas vso de la imperfecta que se haze en
+vezes. Y assi la conciliacion deste lugar co<n> los
+otros que del todo reprueuan sangria en Mu-
+chachos, es la dicha, conuiene a saber, que en
+aquellos lugares trato de la sangria perfecta,
+de que comunmente vsauan los antiguos, y}
+{CW. en}
+[fol. 7r]
+{HD. En las Viruelas de los Muchachos}
+{CB1.
+en este trata dela imperfecta, de que nosotros
+vsamos. Y assi queda prouado por cosa muy
+cierta, que segun doctrina de Galeno se deuen
+sangrar los Muchachos hasta catorze an~os: es-
+pecialme<n>te en enfermedades agudas, no vsan-
+do dela sangria perfecta y entera, sino dela im-
+perfecta, que se haze en muchas vezes, saca<n>do
+por onc'as y no por libras, como los antiguos
+hazian. Prueuase tambien lo mesmo co<n> auto-
+ridad de Cornelio Celso medico Romano, {GL. [^Cornelio
+Celso]} y
+mas antiguo que Galeno, en el libro segundo,
+cap<itulo>. 10. donde dize: {LAT. Non que aetas attendere o-
+portet, sed que vires.} que es: Para sangrar no
+se a de mirar q<ue> edad te<n>ga, sino la virtud. Y assi
+luego concluye, que se an de sangrar los Mu-
+chachos, como tengan fuerc'as para ello. Tam-
+bien lo prouamos con autoridad de Auicena,
+{GL. [^Auicena]}
+en la fen primera del libro . 4. c<apitulo> . 20. do<n>de dize:
+{LAT. Adolescentes tamen secundu<m> ordinem phle-
+botomando, paulatim prouehere debes cum
+pauca minutione.} que es: Si sangras a los que
+crecen por su orden, as te de yr con ellos po-
+co a poco, sacandoles poca sangre. Mas se
+prueua con autoridad de Rasis en el libro . 20.
+{GL. [^Rasis.]} del Contine<n>te, donde dize lo mismo que Aui-cena}
+{CW. cena}
+[fol. 7v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+Assi mismo con autoridad de Auerroes
+{GL. [^Auer-
+roes.]}
+en el Colliget, c<apitulo> . 13. do<n>de alaba a Zoar, medico
+Arabe, porque sangro a vn su hijo d<e> tres an~os.
+Tambien con muchos medicos de nuestros
+tiempos varones doctissimos, que son Chris-
+toual de Vega, {GL. [^Vega.]} medico del muy alto y podero-
+so Principe don Carlos, y Cathedratico de pri-
+ma de Medicina en Alcala de Henares, y con
+Antonio Musa, medico insigne de Ferrara, {GL. [^Antonio
+Musa]} y
+co<n> el doctor Mena, {GL. [^Mena.]} y el doctor Valles, {GL. [^Valles.]} medicos
+de n<uest>ro muy Catholico e inuincible Rey don
+Philippe, y Cathedraticos de prima ta<m>bien en
+Alcala de Henares, y co<n> Donato Antonio, me-
+dico Italiano de Napoles, sen~alado escritor en
+nuestro tie<m>po, {GL. [^Donato.]} y co<n> Arge<n>terio, medico Italiano
+de agudissimo ingenio. {GL. [^Argenterio]} Y co<n> Fernelio Ambia-
+no, medico Frances, {GL. [^Fernelio.]} y co<n> Fra<n>cisco Valeriola.
+{GL. [^Valeriola]} Y
+finalme<n>te para q<ue> mi opinio<n> quedasse por d<e>l to-
+do cierta, y estable, y no ouiesse ya mas duda e<n>
+ella, traemos vna autoridad del mismo Hippo-
+crates en el lib<ro> . 4. de las enfermedades agudas,
+{GL. [^Hippocrates.]}
+q<ue> aprueua lo mismo, donde dize: {LAT. Sanguine<m> au-
+ferre, ex habitu & aetate plus aut minus expen-
+dens} q<ue> es: Auemos de sangrar, coniectura<n>do el
+mas o el menos segu<n> el habito del cuerpo y la}
+{CW. edad}
+[fol. 8r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+edad. Do<n>de parece que la edad segu<n> el mesmo
+Hippocrates no prohibe el remedio de la san-
+gria, sino tassa la cantidad d<e> la sangre q<ue> sea de
+sacar, en los viejos y Muchachos menos, y en
+los de las otras edades mas. Co<n> todos estos au-
+tores esta prouado en la defensio<n> latina, a que
+me remito, que se an de sangrar los Mucha-
+chos, mayormente en enfermedades agudas.
+Despues de tratada esta duda, llamamos a
+disputa al autor deste tratadico, diziendole q<ue>
+estamos prestos a responder a sus preguntas,
+e acusaciones, que nos a puesto. Porque con
+los fundamentos dichos le pensamos respon-
+der, y satisfazer. Pregunta primero, co<n> que au-
+tores de Medicina sangrauamos los Mucha-
+chos, que tenia<n> Viruelas, y Sarampion, siendo
+comun opinion de todos los autores, que tra-
+tan destas dos enfermedades, que en ellas los
+Muchachos no se an de sangrar sino jassar?
+Respondemos, que no seguimos, para hazer la
+dicha sangria a los autores que el siguio para
+hazer sus jassas, como es a Haliabas, y Alfaha-
+rabio, autores Arabes, Kufnero, Austro, Con-
+sta<n>tino Africano y a otros no conocidos, sino}
+{CW. a Hip}
+[fol. 8v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+a Hippocrates, padre d<e>la Medicina, a Galeno,
+a Paulo Aegineta, autores Griegos, a Cornelio
+Celso medico Romano, y de los mismos Ara-
+bes los principales, Rasis, Auicena, Auerroes,
+y d<e> los autores d<e> nuestro siglo, los mas doctos
+y afamados ya dichos, Antonio Musa, el Do-
+ctor Vega, el Doctor Mena, el Doctor Valles,
+medicos Reales, Donato Antonio d<e> Altomar,
+Argenterio, finalme<n>te a todos aquellos auto-
+res que manda<n> sangrar los Muchachos en en-
+fermedades principalmente agudas. A estos
+seguimos, si erramos, por culpa d<e>llos erramos,
+que clarame<n>te nos ensen~an, auerse de sangrar
+los Muchachos, no vsando de sangria entera,
+sino dela imperfecta, que se haze en vezes.
+Mas este autor aunque conceda ser vtil y co<n>-
+uenie<n>te la sangria imperfecta en Muchachos,
+por todo lo que esta dicho, y muy mas largo
+en la defension latina: con todo esso no co<n>ce-
+de ser prouechosa en este caso. Porque dize, q<ue>
+ya que conuenga en Muchachos, es en otras
+enfermedades, mas no en Viruelas y Saram-
+pion. Y tiene por cierto, que esta duda no esta
+determinada en la comun question, que aue-
+mos tratado, y en ella aueriguado, que se an}
+{CW. de}
+[fol. 9r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+de sangrar los muchachos en enfermedades
+principalmente agudas con euacuacio<n> de san-
+gria imperfecta. Antes dize ser el el primero q<ue>
+mueue esta question, que es, si conuiene san-
+gria en Muchachos que tienen Viruelas y Sa-
+rampion. Esta es vna opinion sin ningun fun-
+damento, porque alli esta decidida, y aqui no
+ay nueua question, que desemboluer. Porque
+lo que es particular, esta comprehe<n>dido en lo
+comun e vniuersal. El que sabe, que todos los
+hombres son mortales, sabe que Antonio y
+Francisco tambien lo son. Y el que sabe que
+todas las aguas son frias, sabe que la del Ala-
+meda y la del rio tambien lo son. Y assi co-
+mo tendriamos por hombre de poca abili-
+dad al que dixesse, que aunque todos los ho<m>-
+bres son mortales, mas con todo esso Antonio
+no lo es, o aunque todas las aguas son frias,
+empero la del rio no lo es: assi podriamos te-
+ner por ho<m>bre apartado de razo<n> al que dixesse, q<ue>
+conuiniendo sangria a Muchachos en todas
+las enfermedades agudas que piden este reme-
+dio, con todo esso no conuiene al que tiene
+mal de Viruelas. Como si la enfermedad de
+Viruelas no fuesse de las agudas, y de las que}
+{CW. pi(b)[d]e<n>}
+[fol. 9v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+piden sangria, teniendo el muchacho abunda<n>-
+cia de sangre, que assi lo entendemos, y no de
+otra manera. No se yo que razo<n> ay mas en las
+otras agudas que en estas dos, para que alome-
+nos de la imperfecta no se aya de vsar en ellos.
+En este mal d<e> viruelas ay causa, ay la enferme-
+dad, ay accide<n>tes della. La causa es la abunda<n>-
+cia de sangre venenosa, y heruie<n>te: la enferme-
+dad es la aguda cale<n>tura, los accide<n>tes son las
+mismas viruelas, la tosse, o bermejo d<e> los ojos,
+y otros muchos. Pues la causa que es la abun-
+dancia de la sangre, que remedio pide? Digalo
+vn rustico. No es claramente euacuacion su
+remedio de lo que esta e<n> las venas? Dira el au-
+tor, si es esse su remedio, mas essa euacuacion
+no a de ser por sangria, sino por jassas. No se
+yo porque. Dos condiciones dizen todos los
+medicos que a de auer para la sangria, enfer-
+medad que la pida, y virtud que la consienta.
+Pues si el Muchacho que tiene viruelas, abun-
+da de mucha sangre, y tiene fuerc'as para lle-
+uar la sangria imperfecta: porque no se a d<e> ha-
+zer, sino por fuerc'a las jassas, siendo, como di-
+remos despues, mas presta euacuacion para ta<n>
+aguda enfermedad la sangria que las jassas. Y}
+{CW. si}
+[fol. 10r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+si dize, que allende de aquellas dos condicio-
+nes para sangrar, ay otra, que es la edad de Mu-
+chachos, ya le prouamos largamente en la de-
+fension latina, que aunque para la perfecta
+sangria se ayan de guardar otras mas condi-
+ciones que aquellas dos, como es la edad, el
+habito del cuerpo, el tie<m>po del an~o, la regio<n>,
+y otras, q<ue> alli largame<n>te diximos, mas para la
+imperfecta declaramos, que bastan las susodi-
+chas dos, que es, enfermedad que la pida, y vir-
+tud que consienta en ella. Mas a se de notar, q<ue>
+si la naturaleza echase perfectamente todo el
+humor ponc'on~oso al cuero, de tal manera q<ue>
+el enfermo quedasse libre del mal, por auto-
+ridad de Hippocrates al tal ora fuesse nin~o, o-
+ra muchacho, ora de mas edad, ni se le haria
+sangria, ni tan poco jassas. El qual caso aco<n>te-
+ce pocas vezes, y del no tratamos, sino enel ca-
+so comun, que es quando por abunda<n>cia de
+sangre cargada naturaleza no puede despedir
+tan mal humor, aunque ay sen~ales del. En este
+digo, que se an de jassar los nin~os, y sa<n>grar los
+de mas, de la manera que e declarado, sacan-
+doles sangre en vezes, y moderadamente, co-
+mo en nuestros tiempos se vsa.}
+{CW. Aqui}
+[fol. 10v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+{GL. [^Funda-
+me<n>tos d<e>l
+autor.]}
+Aqui conuiene agora traer los fundamen-
+tos de nuestro autor por do<n>de vino a caer en
+tan mala opinion, y co<n>denar los medicos que
+acertaron en vsar deste remedio. En latin bie<n>
+tengo declarado este punto, no se como me a
+de yr agora, vsando de la vulgar lengua nues-
+tra, y no teniendo vso de tratar en ella cosas
+destas. Hare lo que pudiere, au<n>que me sea tra-
+bajo, por cumplir con lo que prometi. Prime-
+ramente no puedo dexarme de ayrar con este
+autor, porque destos sus fundame<n>tos no tra-
+to cosa alguna, sino propusolos y tomo los
+por sanja de su opinion, y no los prouo, ni ve-
+rifico, sino dio nos los por muy ciertos y eui-
+dentes. El primero es, que antes que apunten
+las Viruelas o el Sarampion la sangria impide
+el mouimie<n>to que ento<n>ces haze naturaleza,
+expeliendo a fuera el humor de las partes in-
+teriores. El segundo, que despues de apunta-
+das, no solo impide el mouimiento, mas aun
+haze tornar a dentro, lo que ella auia comen-
+c'ado expeler a fuera. Sus palabras son estas.
+Guardense de sangrar en este mal, por que bolue-
+ran a meter en las venas, lo que ellas va<n> expelien-
+do al cuero. De lo qual se seguira a buen librar, sa-
+lirle al Muchacho muchas mas Viruelas, o no poder}
+{CW. la na}
+[fol. 11r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+la naturaleza sufrir la co<n>tradicion que el medico ha-
+ze, y dar co<n> el en la sepultura. Y e<n> otra parte dize:
+Y assi por esto, como porq<ue> imitemos a naturaleza,
+y asseguremos las partes interiores, y q<ue> no buelua a
+meterse a de<n>tro lo q<ue> vna vez salio fuera de las venas
+mayores, es sin co<m>paracion el remedio de la jassa en
+el muchacho e<n> el caso q<ue> tratamos, de mayor vtilidad
+con mayor seguridad. En estas dos partes trae
+el autor los fundamentos de su opinion Y as-
+si por el primero determina, que en el princi-
+pio que es antes de salir las Viruelas o el Sara<m>-
+pion, no se an de sangrar los Muchachos, por-
+que no se impida el mouimiento que ento<n>ces
+haze naturaleza, a quien sie<m>pre el medico no
+solo a de ser contrario, mas aun le a de imitar
+en quanto pudiere. Por el segu<n>do determina,
+q<ue> es mucho mejor la jassa q<ue> la sangria en Mu-
+chachos, por venir dos dan~os ju<n>tamente de la
+sangria, q<ue> es el mouimie<n>to contrario al de na-
+turaleza, y q<ue> se boluera adentro, lo q<ue> esta ya a-
+pu<n>tado a fuera. De manera q<ue> admite en este
+caso la sangria, mas dize, q<ue> sin co<m>paracion nin-
+gu<n>a, es muy mejor la jassa. Y assi aunq<ue> despues
+de auer salido, quiere q<ue> ta<m>bie<n> se vse d<e>l mesmo
+remedio: mas no del todo excluye la sa<n>gria, si-
+no co<m>para<n>do el vn remedio al otro tiene por}
+{CW. muy}
+[fol. 11v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+muy mejor y mas acertado el de la jassa. Mas
+antes q<ue> procuremos de reuocar esta sente<n>cia,
+pues el para co<n>uencer nos, nos pregu<n>ta, pregu<n>-
+temos ta<m>bien a el, porq<ue> razo<n> veda del todo la
+sangria antes q<ue> apu<n>ten, y despues no? Antes q<ue>
+apu<n>ten, no ay segu<n> su opinio<n> mas de vn dan~o,
+q<ue> es el mouimiento co<n>trario q<ue> se haze a natu-
+raleza despues d<e> apu<n>tadas, ay dos, este dicho,
+y el meterse a dentro lo q<ue> auia come<n>c'ado a sa-
+lir a fuera, porq<ue> en el segu<n>do caso no se cerro
+ta<m>bien de ca<m>pin~a como en el primero. Mayor
+peligro ay, do<n>de concurre<n> dos dan~os, q<ue> no do<n>-
+de viene solo vno, y este no es mayor q<ue> algu<n>o
+de los otros. Yo no hallo la causa, ni el mismo
+Apollo, como dize el prouerbio, lo podra en-
+tender. Por cierto te<n>go, q<ue> el autor no declaro
+bien aqui, lo q<ue> ente<n>dia. Assi q<ue> pues el dexo de
+tratar destos sus dos fundamentos, quiero yo
+disputar dellos, debaxo desta question. Si en
+curacion de Viruelas y Sarampion la sangria
+impide el mouimie<n>to de naturaleza, y haga q<ue>
+se retrayga a de<n>tro, lo q<ue> a salido fuera? Vn tex-
+to de Auicena dio ocasio<n> p<ar>a q<ue> en medicina oui-
+esse esta duda, q<ue> es en<e>l lugar q<ue> citamos arriba,
+en la Fen. I. del lib<ro> .4. cap<itulo> . 20. do<n>de dixo. Quan-do}
+{CW. do}
+[fol. 12r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+salen las viruelas, no conuiene vsar de san-
+gria. Porq<ue> sus expositores busca<n>do la causa de-
+ste precepto, vinieron a dar en estos dos inco<n>-
+uinientes, que son, el impedime<n>to que se haze
+a naturaleza, y el meterse adentro, lo que
+esta ya a fuera. Entre ellos es Iacobo {GL. [^Iacobo.]} de Parti-
+bus sobre este lugar de Auicena. El qual dize,
+que por estas dos razones auiendo salido las
+Viruelas, y lo mismo se a de entender siempre
+en el Sarampion, no conuiene sangria. Las
+mesmas trae Nicolo Florentino, {GL. [^Nicolo.]} Valesco de
+Taranta, que por otro no<m>bre se dize Philonio. {GL. [^Philonio.]}
+Mattheo d<e> Gradi, {GL. [^Matheo. Gradi.]} Gordonio, {GL. [^Gordonio]} y otros muy mu-
+chos barbaros Auicenistas, cuyos textos for-
+malmente citamos en el latin. Y creo que to-
+dos siguieron al primero, que las inuento, co-
+mo hato de cabras quando van tras la prime-
+ra, que lleua el ce<n>cerro. Mas en nuestros tiem-
+pos en quien ya la doctrina de los Arabes, jun-
+tamente con sus expositores a caydo, y la de
+los Griegos a buelto a su resplandor, esta opi-
+nion con otras muy muchas, que aquellos ho<m>-
+bres inuentaron, esta reprouada por muchas
+razones de medicos doctissimos de nuestro
+tiempo. Primeramente la reprueua el Doctor}
+{CW. Valles}
+[fol. 12v]
+{HD. De la vtilidad de la sangria. +}
+{CB1.
+{GL. [Valles.]} Valles en el comento del Alphorismo. 20. del
+libro segundo de los Aphorismos, do<n>de dize:
+Yerran los medicos vulgares, que persuaden
+que no se a de sangrar, quando comienc'an a
+salir las Viruelas, aunque por los excremen-
+tos vean claramente q<ue> el cuerpo esta lleno de
+mucha sangre o de humores corro<m>pidos. Co-
+mo si siempre esta expulsion se haga por juy-
+zio y perfecta victoria de naturaleza. Y si qua<n>-
+do comie<n>c'an a apuntar, no co<n>uiene euacuar,
+porque no se impida el mouimiento de natu-
+raleza, porque poco antes vsauan de euacua-
+cion, aunque notoriame<n>te por las sen~ales en-
+tendian, que ya querian brotar las viruelas?
+Como si menos ouiessemos de huyr el impe-
+dimento que se haze a naturaleza, quando an
+apuntado, que quando esta en mouimiento
+para echallas? Hasta aqui es lo deste Doctor.
+El qual lugar trae por si nuestro autor, an~adi-
+endole vna exposicion imperceptible. Viendo
+que manifiestamente el ingenioso doctor del
+todo le es co<n>trario. Y aunque sola esta autori-
+dad bastaua, para quedar reprouada esta tan
+mala opinion, para mas abundamiento tray-
+remos otras, para que de oy mas nu<n>ca se trate}
+{CW. della}
+[fol. 13r]
+{HD. En las Viruelas de los Muchachos}
+{CB1.
+della, y quede oluidada del todo, y sepulta-
+da. El doctor Mena {GL. [^Mena.]} largame<n>te la reprueua en
+el libro de la curacio<n> de fiebres cap<itulo> . 53. Dona-
+to {GL. [^Donato.]} Antonio de Altomar ta<m>bien e<n> su libro de la
+cura de las fiebres, cap<itulo> . 9. Alo<n>so Lopez d<e> Core-
+lla {GL. [^Lupeyo.]} doctissimo medico Castellano e<n> el libro q<ue>
+hizo del arte de curar las enfermedades en su
+propio capitulo de las Viruelas. Luys de Mer-
+cado {GL. [^Mercado]} Cathedratico de prima en Valladolid e<n>
+el libro de la cura del Tabardillo. Y otra vez
+en el libro de las indicaciones d<e> los remedios,
+cap<itulo> . 4. Arculano {GL. [^Arculano.]} sobre Auicena e<n> el propio ca-
+pitulo de las Viruelas. Todos estos autores q<ue>
+son de los mas doctos escritores de nuestro tie<m>-
+po, y conocidos por tales, dizen, estos dos fun-
+dame<n>tos q<ue> tomo nuestro autor, para prouar
+su opinion, ser muy falsos. Las palabras forma-
+les de todos cu<m>plidame<n>te esta<n> escritas en el la-
+tin, y por esso no las traygo aqui, por huyr pro-
+lixidad. Mas quiero traer vna autoridad de
+Galeno, {GL. [^Galeno.]} q<ue> sera mas q<ue> la de todos, laqual clara-
+mente ta<m>bien lo reprueua, q<ue> es en el libro . 6. de
+las Epidemias, come<n>to . 30. do<n>de dize assi: So-
+lame<n>te aq<ue>llo basta saber, q<ue> los humores q<ue> van
+al cuero, por el mesmo cuero se an de euacuar}
+{CW. Por}
+[fol. 13v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+porq<ue> traer los otra vez a las partes interiores
+del cuerpo, por camaras, o vomitos, es retirar-
+los a partes demasiadamente apartadas. Mas
+por esto q<ue> e dicho, pe<n>saras tu, q<ue> entie<n>do, q<ue> para
+los tales humores no se a de vsar d<e> purga. No
+digo tal cosa. Porq<ue> enel libro del Arte d<e> curar
+as de mi aprendido, como enlos cuerpos q<ue> ay
+mucha abunda<n>cia de humores, es muy proue-
+choso remedio la purga. Y el q<ue> pretendiere co<n>
+ban~os calie<n>tes, quitar la abu<n>da<n>cia del humor,
+sin primero vsar d<e> sangria, o d<e> purga, mas tray-
+ra al cuero, q<ue> euacuara. Hasta aqui es Galeno.
+De lo qual clarame<n>te da a ente<n>der, q<ue> es gra<n>de
+error en las postillas, o granos, q<ue> sale<n> al cuero,
+por abu<n>dancia de humor, no vsar de purga, o
+d<e> sangria, antes q<ue> e<n> el mesmo cuero hagamos
+algu<n> remedio, de los q<ue> resuelue<n> lo q<ue> esta ya en
+el. Pues si temiera Galeno, que la purga, y assi
+mismo la sangria, auia<n> de impedir la espulsio<n>
+de naturaleza, o q<ue> auia por ellas el humor del
+cuero recurrir ade<n>tro, ni la vna ni la otra man-
+dara. Luego cosa d<e> burla son estos dos dan~os,
+o inco<n>uenie<n>tes, q<ue> se hallaro<n> los medicos Bar-
+baros, y co<n> ellos nuestro autor, p<ar>a q<ue> por ellos
+no se aya de vsar en semeja<n>tes casos de ta<n> prin-[cipales]}
+{CW. cipa}
+[fol. 14r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+remedios. Y a se de notar, q<ue> qua<n>to lo q<ue>
+toca a boluer los humores a de<n>tro, lo mesmo
+es e<n>la purga, q<ue> e<n>la sangria. Otra autoridad tru-
+xe del mesmo Galeno en el Co<m>me<n>tario del A-
+phorismo . 15. del . 2. libro de los Aphorimos, q<ue>
+es ta<m>bien clarame<n>te co<n>tra estos fundamentos,
+el qual dexo. Dos lugares podria traer en co<n>tra-
+rio n<uest>ro autor, para prouar su recurso ade<n>tro, d<e>
+lo q<ue> a salido a fuera. El vno es del mesmo Gale-
+no, {GL. [^Galeno]} en el libro de la Co<n>seruacio<n> de la sanidad,
+cap<itulo> . 10. do<n>de claramente al fin del capitulo, di-
+ze, q<ue> despues q<ue> se haze la sangria, en el caso q<ue>
+alli trata, los humores q<ue> estan salidos por el cu-
+erpo, recurren a las venas. El otro es de Paulo
+Aegineta, {GL. [^Paulo.]} en el lib<ro> . 4. ca<pitulo> . I. do<n>de tratando de la
+cura del Elepha<n>to, q<ue> es el mal d<e> Sa<n>t Lazaro, di-
+ze, q<ue> esta enfermedad al principio es curable,
+y despues q<ue> se antigua, no lo es Da la razo<n>, por-
+q<ue> despues de enuejecida en el cuero, la purga,
+y la sangria, no puede<n> hazer boluer aq<ue>l grues-
+so humor mas ade<n>tro. Y assi se queda alli endu-
+recido. Mas a estos dos lugares respo<n>demos, di-
+zie<n>do, q<ue> nosotros no negamos q<ue> los humores
+que salen al cuero, no puedan boluer a de<n>tro.
+Mas negamos q<ue> en n<uest>ro caso buelua<n> por la san-gria}
+{CW. gria}
+[fol. 14v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+Porq<ue> esta<n>do el Muchacho co<n> abunda<n>cia
+de sangre, q<ue> los medicos llama<n> Plethora, q<ue> assi
+ente<n>demos sie<m>pre, ay ta<n>ta, q<ue> las venas aunq<ue> se
+descarguen co<n> este remedio, no quedaran por
+esso co<n> necessidad, ni apetito de chupar, ni atra-
+er lo q<ue> se a expelido al cuero. Y aunq<ue> truxessen
+algo, no lo te<n>go por inconueniente, en co<m>para-
+cio<n> de vn ta<n> gran prouecho como es el q<ue> viene
+de la sangria. Porq<ue> co<n> ella se impide el podre-
+cimie<n>to del humor, q<ue> es causa del mal, toma a-
+liuio naturaleza, y descargada, puede expeler a-
+fuera co<n> mas fuerc'a lo q<ue> queda, aliuiase la ca-
+le<n>tura, respira mejor el Muchacho, cessan mu-
+chos otros accide<n>tes, como es la tosse, el dolor
+de cabec'a, la sed, las vascas y fatigas, buelue el
+apetito d<e> comer, y e<n> todo ay mucha mejoria.
+Todo lo q<ue> e dicho acerca desta duda, quiero
+abrac'ar en tres co<n>clusiones, como lo hize e<n> el
+latin, para q<ue> en su<m>ma te<n>gamos lo q<ue> se deue te-
+ner en ella. La primera es: Antes y despues de
+salir las Viruelas o el Sara<m>pion en los Mucha-
+chos o e<n> otra qualquier edad, nu<n>ca la sangria
+impide el mouimie<n>to de naturaleza a las par-
+tes exteriores. La segu<n>da: Despues de auer sali-
+do, la sangria no es causa para q<ue> por ella auie<n>-do}
+{CW. do}
+[fol. 15r]
+{HD. En las Viruelas de los Muchachos}
+{CB1.
+la dicha abu<n>dancia, buelua a meterse ade<n>-
+tro del cuerpo, lo q<ue> a come<n>c'ado a salir a fuera
+La tercera: Si algu<n>a cosa del humor se boluie-
+se ade<n>tro por la sangria, poco inco<n>ueniente se-
+ria, e<n> co<m>paracion de los gra<n>des prouechos q<ue> se
+siguen della. Qua<n>to mas q<ue> es incierto este re-
+curso, y no se an d<e> dexar ta<n>tos prouechos por
+vn dan~o ta<n> pequen~o y dudoso. De manera q<ue>
+por seguir estos dos falsos fu<n>dame<n>tos nuestro
+autor, vino a caer en ta<n> dan~osa opinion, y de-
+zir, q<ue> no se a de hazer sangria en Muchachos
+co<n> Viruelas: o alo[ ]menos q<ue> la jassa es sin co<m>pa-
+racio<n> muy mas prouechoso remedio q<ue> la san-
+gria y co<n> menos peligro. En lo q<ue> toca al peli-
+gro, ta<m>bien es falso lo q<ue> dize porq<ue> segun Arge<n>-
+terio, y con el Luys de Mercado en los luga-
+res q<ue> dellos cite en el latin, por ser la enferme-
+dad ta<n> aguda, antes co<n>uiene sacar la sangre d<e>
+venas anchas y cercanas al corac'on, y no de an-
+gostas y ta<n> apartadas, como son las del cuero,
+para q<ue> ta<m>bien con agudeza y presteza socorra-
+mos al Muchacho. Y mas peligro dize<n> q<ue> le ve<n>-
+dra de la jassa, q<ue> de la sangria. Porq<ue> la jassa en
+el caso dicho, q<ue> es qua<n>do ay abundancia, muy
+poco descarga. Y assi se estara el Muchacho}
+{CW. aunq<ue>}
+[fol. 15v]
+{HD. De la vtilidad de la sangria +}
+{CB1.
+au<n>q<ue> este jassado, casi co<n> todo el mal, espera<n>do
+remedio. Al lector ruego, sino es latino, procu-
+re de otro q<ue> lo sepa inquirir mas largo, lo q<ue> en
+el latin sobre este pu<n>to va escrito. Quiero pues
+dexado esto, traer ya las dos razones principa-
+les q<ue> alli escriuo co<n>tra este autor. La primera
+es: Si por causa de aq<ue>l impedime<n>to o recurso a-
+de<n>tro no se an de sangrar los Muchachos con
+Viruelas o Sara<m>pion, seguiria se, q<ue> tan poco se
+auia<n> de sangrar los q<ue> son ya grandes. Lo qual
+es falso, y co<n>tra todos los medicos, y lo q<ue> comu<n>-
+me<n>te hasta agora se a vsado. Prueuo lo dicho:
+Porq<ue> en estos ta<m>bien sucedera<n> los mismos dos
+dan~os. La otra es: Si por aq<ue>llos dos dan~os en es-
+te caso no ouiessemos de sangrar, tan poco san-
+grariamos en Lepra, Sarna, Carbuncos, y Ta-
+bardillo, porq<ue> tambien impidiriamos el moui-
+mie<n>to de naturaleza a fuera, y se bolueria a de<n>-
+tro el humor q<ue> a salido al cuero. Lo qual no se
+haze assi, antes en estas enfermedades, de pare-
+cer de todos los autores medicos sangramos,
+sin tener sospecha algu<n>a de los tales dan~os. Fu<n>-
+dado tambien co<n> estos malos principios, pe<n>so
+el autor q<ue> era nueua duda tratar, si co<n>ue<n>ga san-
+gria en Muchachos q<ue> tenga<n> Viruelas e Saram-pion.}
+{CW. pion.}
+[fol. 16r]
+{HD. En las Viruelas de los Muchachos.}
+{CB1.
+No siendo nueua, como diximos, sino ya
+tratada, y decidida muchos an~os a por los mas
+doctos medicos de nuestros tie<m>pos, debaxo de
+aq<ue>lla duda q<ue> primero tratamos en comu<n>, si en
+enfermedades agudas co<n>uiene hazer sangria
+a Muchachos. Pareciole duda nueua, porq<ue> si
+sangra<n>do los en Viruelas se impide el mouimi-
+ento de naturaleza, o sucede el recurso de los
+humores ade<n>tro, d<e> dudar es, si co<n>uenga sa<n>gria
+en esta enfermedad, pues no es como las otras
+agudas, en q<ue> se disputa, si se puede<n> sangrar Mu-
+chachos. Mas ente<n>dido lo dicho, no solo no es
+nueua, mas digo, q<ue> es la mas vieja y antigua, q<ue>
+hasta agora los medicos an tratado. De los au-
+tores, y lugares d<e> medicos q<ue> trae este autor, pa-
+ra prouar su opinio<n>, no quise tratar en esta su<m>-
+ma de roma<n>ce. Lo vno, porq<ue> en el latin van to-
+dos basta<n>temente examinados: y lo otro, porq<ue>
+en le<n>gua vulgar no se puede bie<n> declarar, lo q<ue>
+en ello conuiene dezir. Basta q<ue> por lo dicho se
+entie<n>da, q<ue> si murieron el an~o passado muchos
+Muchachos d<e> las Viruelas, no fue por el reme-
+dio de la sangria, q<ue> los medicos acertadame<n>te
+hiziero<n>, sino por ser an~o de Peste. Pues no solo
+las Viruelas participaro<n> de aq<ue>lla malignidad,
+mas au<n> ta<m>bien las ciciones q<ue> succediero<n>, q<ue> sue-len}
+{CW. len}
+[fol. 16v]
+{HD. De la vtilidad de la sangria}
+{CB1.
+ser de ordinario enfermedades llanas y salu-
+dables. Pues la su<m>ma de n<uest>ra disputa es, q<ue> teni-
+endo solo co<n>sideracio<n> a la edad, hasta dos a-
+n~os cu<m>plidos es mejor sacar sangre a los Mu-
+chachos por jassas q<ue> por sangria. En el tercero
+se puede<n> sangrar, o jassar. Mas de ay adela<n>te q<ue>
+el cuerpo va mas fornido, digo q<ue> en Viruelas y
+Sara<m>pion, e otras agudas enfermedades, es sin
+co<m>paracion mucho mejor, mas facil, seguro, y
+mas vsado el remedio de la sangria q<ue> el de la ja-
+ssa por las causas dichas, y este se deue hazer.
+Mas para el vno y para el otro es necessario co<n>-
+curra<n> las dos celebradas co<n>diciones de los me-
+dicos, q<ue> son enfermedad q<ue> les pida, y virtud q<ue>
+co<n>sienta en ellos. Para lo qual co<n>uiene, pues va
+la vida en ello, llamar medico de muchas le-
+tras y experie<n>cia q<ue> conozca las dichas co<n>dicio-
+nes perfectame<n>te. Y si viniesse caso, q<ue> en el Mu-
+chacho ya crecidillo no aya muchas fuerc'as,
+te<n>go toda via por mejor, quitar el henchimie<n>-
+to con sangria muy moderada co<n>forme a sus
+fuerc'as, que no vsar de jassas.
+FIN.
+En Seuilla en casa de Fernando Diaz.
+An~o . 1583.}
+[fol. 17r]
+{CB1.
+{RMK: HSMS-0166-0002: A Fernando de Valdés, excelente doctor médico.} {RUB. DIEGO GIRON A FER-
+nando de Valdes ecelente Dotor
+Medico.}
+{IN2.} VAldes, si el siglo eroico agradecido
+del Epidaurio anciano la memoria
+tanto celebra, que el oscuro olvido
+borrar nunca podra su antigua istoria;
+Con mas razon el nuestro, esclarecido
+con tu valor, te deve mayor gloria,
+pues tienes del morir tal sen~orio,
+que restituyes la alma al cuerpo frio.
+Diste de tu valor tan clara muestra
+quando el airado Apolo despedia
+las pestilentes viras de su diestra,
+y a mas andar la gente consumia;
+Que a sus mortales golpes tu arte diestra
+con tal vigor y efeto resistia,
+que no tan presto el ombre era ferido,
+quan presto por tu mano guarecido.
+No vieras a tus hijos mal logrados,
+ni a ti, Niobe, en marmol convertida,
+si fuera por el curso de los hados
+<<e>>ste entonces, o agora tu nacida.}
+[fol. 17v]
+{CB1.
+Ellos, sus tiernos pechos traspassados,
+y tu, aunque en pedernal ya reduzida,
+a despecho de Apolo y cien Latonas
+cobrarades las vidas y coronas.
+Dichosa la edad nuestra, y mas dichosa
+por ti, Valdes, Sevilla, y mas glorioso
+Guadalquivir, pues cada qual ya osa
+a se igualar de oi mas con el famoso
+Nilo, P<<e>>rgamo, Roma, y la olorosa
+Damasco, y Co, que ban~a el espumoso
+Egeo; do en los siglos celebrados
+los Medicos nacieron mas nombrados.
+Quanto es mayor el golpe y la violencia
+de aquellos males, que a la vida umana
+contrastan; tanto mas es la ecelencia
+mayor de essa tu diestra soberana;
+Pues que con su valor la pestilencia
+domaste de la gente Sevillana,
+que a ti en pago de tanto beneficio,
+qual a Esculapio, ofrece sacrificio.
+Y agora tu renombre es mas crecido,
+y su deuda mayor, pues a la nueva}
+[fol. 18r]
+{CB1.
+y tierna edad preservas del olvido,
+y riguroso Guerco, que en su cueva
+de tantos Nin~os iva haziendo nido,
+quantos el hecho dan~o nos comprueva.
+Vitoria solo tuya, que no admite
+otro igual, ni aun avra quien te la quite.
+Cesse la Libitina, cesse el llanto
+de la timida madre lagrimosa,
+que al caro y tierno hijo llora tanto,
+que mueve al Cielo con su boz llorosa:
+Alegre biva ya, y sin miedo en quanto,
+Valdes, tu bives, que a la pressurosa
+Muerte das muerte en esta breve muestra,
+que de tu ingenio parte nos demuestra.
+Donde con la facundia dulce y pura
+de la Espan~ola lengua, y mas Latina,
+descubres la verdad ((que en niebla oscura
+yazia de opinion bien peregrina))
+dando al paciente Nin~o aquella cura,
+que Esperiencia y Razon les encamina,
+fundada en la Dotrina verdadera
+de los mas Sabios de la edad primera.
+FIN.}

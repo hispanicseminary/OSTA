@@ -1,0 +1,2857 @@
+{RMK: HSMS-0295.}
+{RMK: Teodorico Borgognoni.}
+{RMK: [LCB] Libro de los caballos.}
+{RMK:.}
+{RMK: San Lorenzo de El Escorial | Real Biblioteca del Monasterio de San Lorenzo de El Escorial | b-IV-31.}
+{RMK: María Isabel Montoya Ramírez.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0295-0001: Libro de los caballos.} {IN1.} Incipit prologus.
+{IN1.} Por q<ue> los reyes & los principes.
+{IN1.} Por q<ue> las bocas.
+{IN1.} Titulo .i<<o>>. delas facio<n>es q<ue> de(n)[u]e<n> auer los cauallos [para] seer
+{MIN.} bien enfrenados.
+{IN1.} Titulo .ij<<o>>. delos cauallos q<ue> so[<n>] mal enfrenados.
+{IN1.} Titulo .iij<<o>>. del cauallo q<ue> anda teso en<e>l freno
+{IN1.} Titulo .iiij<<o>>. del cauallo tirador.
+{IN1.} Titulo .v<<o>>. del cauallo q<ue> se rebuelue.
+{IN1.} Titulo .vi<<o>>. del cauallo q<ue> ua yerto en<e>l freno.
+{IN1.} Titulo .vij<<o>>. del cauallo q<ue> se teme dela boca & ua el freno. barbean[*do]
+{IN1.} Titulo .viij. del cauallo q<ue> tira de pec(')hos.
+{IN1.} Titulo .ix<<o>>. del cauallo q<ue> a el cuello muelle.
+{IN1.} Titulo .x<<o>>. del cauallo q<ue> no<n> se q<u><<i>>ere coger e<n> el freno.
+{IN1.} Titulo .x<<o>>i<<o>> del cauallo q<ue> se echa sobr<e>l freno.
+{IN1.} Titulo .xij<<o>>. d<e>l cau<<a>>llo q<ue> a bo<n>as bariellas & bie<n> parada [*enfrenadura e faze mal]
+{IN1.} Titulo .xiij<<o>>. Ago<<r>><<a>> q<u><<i>>ero dec'ir delos cauallos por q<u><<a>>l logar corren [meior]
+{IN1.} Titulo .xiiij<<o>>. del cauallo castan<n>o poro corre meior.
+{IN1.} Titulo .xv<<o>>. del cauallo murziello por(r)o corre [meior].
+{IN1.} Titulo .xvi<<o>>. del cauallo roan por do corre meior.
+{IN1.} Titulo .xvij<<o>>. del cauallo c'eruuno poro corre meior.
+{IN1.} Titulo .xviij<<o>>. del cauallo c'enizoso poro corre meior.
+{IN1.} Titulo .xix<<o>>. del cauallo ruzio pezeno por do corre meior.
+{IN1.} Titulo .xx<<o>>. del cau<<a>>llo ruzio sauino por do corre meior.}
+[fol. 1v]
+{CB1.
+{IN1.} Titulo .xxi. del cauallo bla<n>co poro corre meior.
+{IN1.} Titulo xxij. del cauallo ruc'io cardeno por do corre meior
+{IN1.} Titulo xxiij. del cauallo alaza<n> por do corre meior.
+{IN1.} Titulo xxiiij. del cauallo ruc'io rua<n> por do corre meior.
+{IN1.} Titulo xxv. del cau<<a>>llo. castano pezeno.
+{IN1.} Titulo xxvi delas facio<n>es q<ue> deue<n> auer los cau<<a>>llos.
+{IN1.} Titulo xxvij. de las facio<n>es q<ue> deue<n> auer los cau<<a>>l<los> pora s<er> lig<er>os.
+{IN1.} Titulo xxviij. De la color q<ue> dize<n> vayo.
+{IN1.} Titulo xxix. De la color q<ue> dize<n> castan<n>o.
+{IN1.} Titulo xxx. Dela color q<ue> dize<n> murziello.
+{IN1.} Titulo xxxi. Dela color q<ue> dize<n> ruan.
+{IN1.} Titulo xxxij. dela color q<ue> dize<n> ceruuno.
+{IN1.} Titulo xxxiij. dela color q<ue> dize<n> c'enizoso.
+{IN1.} Titulo xxxiiij. dela color q<ue> dize<n> rucio pezen<n>o.
+{IN1.} Titulo xxxv dela color q<ue> dize<n> rucio sauino.
+{IN1.} Titulo xxxvi. dela color q<ue> dize<n> bla<n>co.
+{IN1.} Titulo xxxvij. dela color q<ue> dize<n> ruc'io cardeno.
+{IN1.} Titulo xxxviij. dela color q<ue> dize<n> alaza<n>.
+{IN1.} Titulo xxxix. dela color q<ue> dize<n> rucio roan.
+{IN1.} Titulo xL<<a>>. Dela color q<ue> dize<n> ruc'io palpado.
+{IN1.} Titulo xLi. dela color q<ue> dize<n> castan<n>o pezen<n>o.
+{IN1.} Aqui comie<n>c'an las enfermedades d<e>los cau<<a>>llos.
+{IN1.} Titulo xLij. dela enfermedat q<ue> dize<n> fauzelas.
+{IN1.} Titulo xLiij. dela enfermedat q<ue> dize<n> baruas.
+{IN1.} Titulo xLiiij. Dela enfermedat q<ue> dize<n> peera.}
+[fol. 2r]
+{CB1.
+{IN1.} Titulo x.L<<a>>v. Ay ot<r><<a>> cura. Foradar lengua
+{IN1.} Titulo xL<<a>>vi. Dela enfermedat q<ue> dize<n> nuve
+{IN1.} Titulo xL<<a>>vij. Del cauall<o> q<ue> fuere ferido enell[ ]ojo
+{IN1.} Titulo xL<<a>>viij. Delos cauallos q<ue> [les] llora<n> los ojos
+{IN1.} Titulo xL<<a>>ix. delos cauallos q<ue> rauian
+{IN1.} Titulo L<<a>>. De la enfermedat q<ue> dize<n> muermo
+{IN1.} Titulo L<<a>>i. Dela enfermedat q<ue> dize<n> adiuas
+{IN1.} Titulo L<<a>>ij. d<e> los cau<<a>>llos q<ue> a<n> las espaldas asedada[*s] [o] q<ue>brad[*as].
+{IN1.} Titulo L<<a>>.iij. d<e> los cauallos q<ue> so<n> abiertos e<n> los pechos
+{IN1.} Titulo L<<a>>iiij. d<e> los cau<<a>>llos q<ue> an fistola.
+{IN1.} Titulo L<<a>>v. d<e> los cau<<a>>llos q<ue> an polmo<n>.
+{IN1.} Titulo L<<a>>vi. d<e>l cau<<a>>llo(s) q<ue> a(<n>) sobrehuesso.
+{IN1.} Titulo L<<a>>vij. d<e>l cauall[o] q<ue> q<u><<i>>ebra la ca(m)[n]<n>a
+{IN1.} Titulo L<<a>>viij. d<e>la e<n>fermedat q<ue> dize<n> bexigas.
+{IN1.} Titulo L<<a>>ix. d<e>la e<n>ferm<e>dat q<ue> dize<n> esca(m)[nne]ladura.
+{IN1.} Titulo Lx<<a>>. dela e<n>ferm<e>dat q<ue> dize<n> rac'a.
+{IN1.} Titulo Lx<<a>>i dela e<n>ferm<e>dat q<ue> se cae la c'apata toda al[ ]cauallo.
+{IN1.} Titulo Lx<<a>>ij. dela e<n>ferm<e>dat q<ue> dize<n> e<m>pedradura
+{IN1.} Titulo Lx<<a>>iij. d<e>la dole<n>cia q<ue> dize<n> alca<n>c'adura.
+{IN1.} Tit<u>llo Lx<<a>>iiij. d<e>la dole<n>cia q<ue> dize<n> at<r><<o>>namie<n>to.
+{IN1.} Tit<u>llo Lxv. d<e>la dole<n>cia q<ue> dize<n> p<u>lmo<n>.
+{IN1.} Tit<u>llo Lxvi. d<e>la e<n>ferm<e>dad q<ue> dize<n> amagadura.
+{IN1.} Tit<u>llo Lxvij. d<e>la e<n>fermedat q<ue> dize<n> tin<n>uela
+{IN1.} Tit<u>llo Lxviij. d<e>la e<n>fermedat q<ue> dize<n> desaynadura.
+{IN1.} Tit<u>llo Lxix. d<e>la e<n>ferm<e>dat q<ue> dize<n> la<m>paron<e>s.}
+[fol. 2v]
+{CB1.
+{IN1.} Tit<u>llo Lxx. Dela e<n>fermedat q<ue> dize<n> aluaraz.
+{IN1.} Tit<u>llo Lxxi. dela e<n>fermedat q<ue> dize<n> sarna.
+{IN1.} Tit<u>llo Lxxij. E ay ot<r><<a>> natura d<e> sarna.
+{IN1.} Tit<u>llo Lxxiij. delos cau<<a>>llos q<ue> se[ ]faze[<n>][ ]toro<n>do d<e> espolada.
+{IN1.} Tit<u>llo Lxxiiij. d<e>los cau<<a>>llos q<ue> se faze<n> ag<r><<i>>ones.
+{IN1.} Tit<u>llo Lxxv. d<e>la e<n>fermedat q<ue> dize<n> corua.
+{IN1.} Tit<u>llo Lxxvi. dela e<n>fermedat q<ue> dize<n> coruazas.
+{IN1.} Tit<u>llo Lxxvij. d<e>los cauallos q<ue> an alifafes.
+{IN1.} Tit<u>llo Lxxviij. d<e>los cau<<a>>llos q<ue> so<n> tollidos d<e>los lomos.
+{IN1.} Tit<u>llo Lxxix. los cauallos q<ue> se faze[<n>] finchadura<<s>> por si.
+{IN1.} Tit<u>llo Lxxx. d<e>la e<n>fermedat q<ue> dize<n> esparaua<n>.
+{IN1.} Tit<u>llo Lxxxi dela e<n>fermedat q<ue> dize<n> tin<n>uella.
+{IN1.} Tit<u>llo Lxxxij. dela e<n>ferm<e>dad q<ue> dize<n> Axuague.
+{IN1.} Tit<u>llo Lxxxiij. dela e<n>ferm<e>dat q<ue> dize<n> gau<<a>>rro
+{IN1.} Tit<u>llo Lxxxiiij. dela e<n>ferm<e>dat q<ue> dize<n> aristiella.
+{IN1.} Tit<u>llo Lxxxv. dela e<n>ferm<e>dat q<ue> dize<n> torc'ones.
+{IN1.} Tit<u>llo Lxxxvi. Delos cau<<a>>llos q<ue> come<n> mucha ceuada.
+{IN1.} Tit<u>llo Lxxxvij. delos cau<<a>>llos q<ue> an sobrepie.
+{IN1.} Tit<u>llo Lxxxviij. d<e>los cau<<a>>llos ag<u><<a>>dos.
+{IN1.} Tit<u>llo Lxxxix. delos cau<<a>>llos q<ue> an las un<n>as secas.
+{IN1.} Tit<u>llo Lxxxx. delos cau<<a>>llos q<ue> se[ ]alca<n>za<n> las ferraduras.
+{IN1.} Tit<u>llo Lxxxxi d<e>los cau<<a>>llos q<ue> no<n> c'ena<n> bie<n> su c'euada.
+{IN1.} Tit<u>llo Lxxxxij. d<e>lo[s] cau<<a>>llos q<ue> no<n> coie<n> a o<mn>e e<n> siella.
+{IN1.} Tit<u>llo Lxxxxiij. d<e> los caua(<<a>>)llos q<ue> so<n> d<e>lgados & est<r><<e>>chos. de cuestas.
+{IN1.} Tit<u>llo Lxxxxiiij. delos cau<<a>>llos q<ue> son m<u>leros.}
+[fol. 3r]
+{CB1.
+{IN1.} Tit<u>llo Lxxxxv. d<e>los caua(<<a>>)llos q<ue> an malas coronas.
+{IN1.} Tit<u>llo Lxxxxvi. de como se deue<n> leu<<a>>ntar los cau<<a>>llos.
+{IN1.} Tit<u>llo Lxxxxvij. d<e> los cau<<a>>llos q<ue> se roc'a<n>.
+{IN1.} Tit<u>llo Lxxxxviij. d<e> los cau<<a>>llos q<ue> les toma<n> cala<n>brio.
+{IN1.} Tit<u>llo Lxxxxix. d<e> como no<n> se puede<n> los cau<<a>>llos ag(r<<a>>)uar.
+{IN1.} Tit<u>llo C. Delos cau<<a>>llos sus nat<ur>a<<s>> fu<er>a.
+{IN1.} Tit<u>llo C.i delos cau<<a>>llos q<ue> les salle el este<n>tino. [^2#fasta aqui]
+{IN1.} Tit<u>llo C.ij d<e> como se deue<n> domar los cau<<a>>llos. [%2] [^2#departe]
+{IN1.} Tit<u>llo C.iij. d<e> los caua(<<a>>)llos q<ue> so<n> faron<e>s como deue<n> yr dela<n>t.
+{IN1.} Tit<u>llo C.iiij. d<e> como puede o<mn>e conoc'er q<u><<a>>n<d>o cresce la sa<n>g<r><<e>>
+{IN1.} Tit<u>llo C.v. Como restan<n>ara la sa<n>g<r><<e>> q<u><<a>>n<d>o salle mucha d<e>la llaga.
+{IN1.} Tit<u>llo C.vi. d<e> la e<n>fermedat q<ue> dize<n> la<m>pastro.
+{IN1.} Tit<u>llo C.vij d<e>l mal q<ue> se faze al cau<<a>>llo en la boca
+{IN1.} Tit<u>llo C.viij d<e> la e<n>fermedat q<ue> dize<n> ystiua.
+{IN1.} Tit<u>llo C.ix. dela e<n>fermedat q<ue> dize<n> torta.
+{IN1.} Tit<u>llo C.x. dela e<n>ferm<e>dat q<ue> dize<n> figo.
+{IN1.} Tit<u>llo C.xi. d<e>l n<er>uio del cau<<a>>llo q<u><<a>>n<d>o corta.
+{IN1.} Tit<u>llo Cxij. d<e>l taiamie<n>to delas uenas.
+{IN1.} Tit<u>llo Cxiij. d<e>la e<n>fermedat q<ue> dize<n> radic<u>lo
+{IN1.} Tit<u>llo C.xiiij. d<e>la e<n>fermedat q<ue> dize<n> cuerno.
+{IN1.} Tit<u>llo C.xv. d<e>los toro<n>dos q<ue> se faze<n> alos cauallos por el cuerpo.
+{IN1.} Tit<u>llo C.xvi. delos cau<<a>>llos q<ue> no<n> puede<n> mear.
+{IN1.} Tit<u>llo Cxvij. delos cau<<a>>llos q<ue> se les faze<n> gusanos e<n> el uie<n>t<r><<e>>.
+{IN1.} Tit<u>llo Cxviij. de como se deue<n> mouer los cau<<a>>llos depues q<ue> a[<n>] meado.
+{IN1.} Tit<u>llo Cxix. dela enferm<e>dat q<ue> dize<n> purigo.}
+[fol. 3v]
+{CB1.
+{IN1.} Tit<u>llo C.xx. dela e<n>fermedat q<ue> dize<n> escabies.
+{IN1.} Tit<u>llo C.xxi dela e<n>fermedat q<ue> caen las sedas alos cau<a>ll[o]s.
+{IN1.} Tit<u>llo C.xxij. De como pierd<en> la lig<er>eza los cau<<a>>llos.
+{IN1.} Tit<u>llo Cxxiij dela e<n>fermedat q<ue> dize<n> mula.
+{IN1.} Tit<u>llo Cxxiiij dela enferm<e>dat q<ue> dize<n> pahena.
+{IN1.} Tit<u>llo Cxxv. dela e<n>ferm<e>dat q<ue> dize<n> i<n>fusura.
+{IN1.} Tit<u>llo Cxxvi. Si el cau<<a>>llo come c'euada nueua.
+{IN1.} Tit<u>llo Cxxvij. delos cau<<a>>llos q<ue> an sobrehuesso.
+{IN1.} Tit<u>llo Cxxviij. del cau<<a>>llo q<ue> se alca<n>za en<e>l n<er>uio.
+{IN1.} Tit<u>llo C.xxix. del cau<<a>>llo deslunado.}
+[fol. 4r]
+{CB1.
+{IN8.} POR q<ue>[ ]los Reyes & los principes & los altos sen<n>o-
+res. An a deffender & a conq<ue>rir las t<ie>rras. Tengo
+q<ue> ni<n>guna cosa no<n> les puede seer ta<n> noble nj<n>
+tan a pro pora ellos co<m>mo los cauallos. por q<ue>
+co<n> ellos las an a deffender & a ganar. Et sin
+ellos no<n> lo podrian faz<er>. Ordeno este libro a seruicio de dios.
+& delos sen<n>ores. & a pro delos q<ue> oyere<n> q<ue> es de fecho delos cauallos.
+por q<ue> ellos sea<n> guardados & no<n> reciban dan<n>o nj<n> occasion por
+ellos. q<ue>[ ]la occasion & el dan<n>o q<ue> recibiessen serie p<er>dimie<n>to delos
+regnos. & delas ge<n>tes. Onde co<n>ujene q<ue> pora seer deffe<n>didos
+deste peligro q<ue> les no<n> pueda uenir. q<ue> piense man<er>a por q<ue>
+sean guardados. Et la p<r><<i>>m<er>a cosa en q<ue> tengo que deue fa-
+blar. com<m>o quier q<ue> es poco mjo entendimje<n>to. es en fecho
+delas enfrenaduras. & delas faciones q<ue>[ ]los cauallos deuen
+auer pora seer buenos. & a[ ]delecto & a s<er>uicio delos sen<n>ores.
+{BLNK.} Quales pora correr por costadal. & quales pora arenal<e>s.
+& por otros logares blandos. & quales por( )a[ ]xaral. o por otra es-
+pessura qual quier. o quales por aguachales. & quales no<n>.
+{BLNK.} Et quales faciones deue<n> auer pora ser fuertes & buenos
+pora en batalla. Et quales faciones deue<n> au<er> pora ser lig<er>os
+& corredores. Et q<u><<a>>ntas & quales son las colores. q<ue> por
+no<m>bres ciertos se pueden llamar. & cada color q<u><<a>>ntas & q<u><<a>>les
+sen<n>ales deue(<n>) au<er>. Et q<u><<a>>ntas & quales son las enfermeda-
+des. q<ue> pueden au<er>. & com<m>o les ujene(<n>) cada vna. & de q<ue>. & com<m>o}
+[fol. 4v]
+{CB1.
+se gouierna<n>. [%] Et las curas q<ue> deuen auer por las guarec'er.
+& co<n> q<ue> cosas. Et las q<ue> guarece<n> co<n> sang<r><<i>>as. & las q<ue> con q<ue>mas. &
+las q<ue> con poluos. & las q<ue> con yeruas. & las q<ue> con emplastos.
+& las q<ue> con vngue<n>tos. & las q<ue> con otras vnturas.
+{IN3.} POR q<ue> las bocas son mas de catar q<ue> ni<n>guna delas otras
+cosas. primero tengo q<ue> es guisado de departir dellas.
+{RUB. Titulo primo delas facion<e>s q<ue> deue<n> au<er> los cauallos p<ar>a s<er> bie<n> enfrenados}
+{IN2.} DEuen auer las bocas muy fendidas. & dentro canala-
+das. & los bec'os de fondon un poco colgados. & au<er> chico
+trecho desdel oio fastal carriello. do se aju<n>ta la cabec'a enel. [cuello]
+& las uariellas anchas & delgadas & fendidas. & el cuello
+luengo & delgado & alto. {RUB. Tit<u>lo .ij<<o>>. delos cauallos q<ue> son mal +}
+{IN2.} Si el cauallo fuere boq<u><<i>> muelle. deuen [%2] {RUB. enfrenados}
+le raer la boca si fuere descolmellado. sino<n> descolme-
+llarlo. & raer en guisa q<ue> no<n> le finq<ue> huesso mal parado
+ni<n>guno. & tomar estos fierros. {DIAG.}
+calientes & tostargele con ellos fuerte mjent<e>. Et dende
+abrirle el cuero en las uariellas de parte de fuera. en de-
+recho dela boca. & apartarle el neruio q<ue> descende las uarie-
+llas ayuso con este escoplo. {DIAG.} & Atarlos co<n> vn filo
+por q<ue> no<n> se ascondan. Et tajarle dos dedos de cada vno. &
+q<u><<a>>ndo fuere guarido dela boca echalle este freno. {DIAG.}
+q<ue> dizen de barra entreguisa las camas vn poco lar-
+ga(r)[s] & tornadas. Et si co<n> este freno no<n> enderec'are. echalle}
+[fol. 5r]
+{CB1.
+este otro. {DIAG.} q<ue> dizen garc'on de puerta. las camas
+largas & tornadas com<m>o dicho es. {RUB. Titulo .iij<<o>>. del cauallo q<ue> anda +}
+{IN2.} Sj el cauallo andudiere teso en<e>l freno. o se ate-sare [%2] {RUB. teso en el fre-no +}
+al correr q<u><<a>>ndol arremete<n>. dolar le la boca. Assi q<ue> [%2] {RUB.}
+las uariellas gelo puedan sofrir. esto entendra el q<ue>[ ]lo fizie-
+re. q<u><<a>>n(t)[d]o uiere q<ue> el cuchiello co<n> q<ue>[ ]lo faze falla el huesso tier-
+no. Esto<n>ce es la boca aparada en su derecho. Et daq<ue>lla
+ora adelante nol tanga mas enella. & dexelo guaresc'er.
+Et q<u><<a>>n(t)[d]o fuere guarido echel este freno q<ue> a nombre tarin
+quadrado. & aya las camas largas & rezias & {DIAG.}
+vn poco tornadas. & cortalle los neruios de
+amas partes assi com<m>o es dicho del cauallo boq<u><<i>> muelle.
+{IN2.} Sj el cauallo fuere [%2] {RUB. Titulo .iiij<<o>>. del cauallo tjrador.}
+tjrador. & se fuere teso. & non se quisiere tener. ende-
+rec'ar le [la] boca. & cortar le los neruios assi com<m>o dicho es.
+& aparte<n>gelos con este fierro. {DIAG.} & dexel guaresc'er
+& echel este freno q<ue> a no<m>bre. Tarin quadrado de dos pulgar<e>s.
+{IN2.} (L)[S]j el caua-llo [%2] {RUB. Tit<u>lo .v<<o>>. del cauallo q<ue> se rebuelue} [%2] {DIAG.}
+se rebuelue. raer le la boca dela diestra
+parte. & tostargela mucho dela siniestra co<n> estos fierros.
+{DIAG.} & tomar vn fierro fecho assi.
+{DIAG.} & apartalle el neruio como de suso es dicho. &
+echarle este freno q<ue> a nombre Tarin de buelta. {DIAG.}
+& aco<n>ujenle la guardia dela diestra parte.}
+[fol. 5v]
+{CB1.
+{RUB. Titulo .vj<<o>>. del cauallo q<ue> ua yerto enel freno.}
+{IN2.} Sj el cauallo ua yerto en<e>l freno. & no<n> quiere sallir al
+diestro q<u><<a>>ndo faze por campo. dolar le la boca much<o> &
+mas dela diestra parte. & cortalle el neruio dessa misma uari-
+ella com<m>o dicho es. & dexar le guarec'er. & echar le este freno
+{DIAG.} Tarin q<u><<a>>drado de buelta. & prima<n> le la guardia
+dela diestra p<ar>te. & las camas largas & tornadas.
+{RUB. Tit<u>lo .vij<<o>>. del cauallo q<ue> se teme de la boca. & ua el freno barbe-ando}
+{IN2.} Sj el cauallo se teme dela boca & ua el freno barbean-do, [%2]
+& q<u><<a>>ndol arremete<n> no<n> le osan tener el freno firme
+mente. por mjedo q<ue> se alc'e & se dexe caer co<n> el om<n>e. A este
+cauallo conujenele raer la boca vn poco. & tomar estos fi-
+erros {DIAG.} calientes & tostar le la
+boca mucho. & cortar le el neruio de amas partes com<m>o
+dicho es. & dexarle guarec'er. & echalle este freno. {DIAG.}
+q<ue> a no<m>bre vano. las camas largas & tornadas. este
+freno le echan por razo<n> q<ue> assi barbeando se ua vna gra<n>d piec'a.
+{RUB. Titulo .viij<<o>>. Del cauallo q<ue> tira de pechos.}
+{IN2.} Sj el cauallo tira de pechos. raer le la boca vn poco. & tos-
+targela mucho co<n> los fierros dichos. & q<u><<a>>ndo fuere gua-
+rido echar le este freno. {DIAG.} q<ue> a nombre garc'on de
+puerta. & q<ue> aya las camas largas & tesas. & po-
+ner le dos gormeras. la vna com<m>o a otros frenos. & la otra
+de cadena & mas estrecha. & las camas lue<n>gas & tesas.}
+[fol. 6r]
+{CB1.
+{IN2.} Si el [%2] {RUB. Tit<u>lo .ix<<o>>. del cauallo q<ue> [a] el cuello muelle.}
+cauallo ouiere el cuello muelle por enderec'ar c<on>uiene
+fazer le todas las cosas q<ue> faze<n> al q<ue> se rebuelue. & echar le este
+freno {DIAG.} q<ue> a nombre vano. & las camas luengas
+& tornadas. {RUB. Tit<u>lo .x<<o>>. del cauallo q<ue> no<n> se quier +}
+{IN2.} Son muchos cauallos q<ue> no<n> se q<u><<i>>eren [%2] {RUB. coger en<e>l freno}
+coger en<e>l freno. en com<m>o quier q<ue> en al no<n> faze[<n>] mal.
+saluo q<ue> se faze<n> tesos. & paran se sobre los brac'os. Raerle
+la boca & cortar le los neruios como dicho es & poner le un pet<r><<a>>l
+forcado. & dos sortijas redondas de freno & meta<n> las riendas
+por ellas & por q<ue> no<n> ap<re>mie mucho al cauallo del luego & no<n>
+tome malas man<er>as ponga<n>gelas Altas las sortijas como en
+drecho del arzon & q<u><<a>>ndo fu<er>e end[e]re<n>zado Abaxargelas q<u><<a>>nto una
+mano & assi como el fuere meiora<n>do. Assi gelas uayan abaxa<n>-
+do fasta q<ue> sea uenido asu drecho & echarle este freno {DIAG.}
+lue<n>go q<ue> a no<m>bre de tres barras. & las camas lue<n>gas & tornadas
+esto por q<ue> nol ap<re>mie mucho en colpe & despues q<ue> fu<er>e en-
+d[e]rezado echarle este freno {DIAG.} q<ue> a no<m>bre tari<n> de bu-
+elta. & q<ue> aya las camas comunales.
+{RUB. Thitulo .xi<<o>>. del cauallo
+q<ue> se echa sobrel freno.}
+{IN2.} Si el cauallo se echare sobrel freno al fazer o al te(ne)ner
+q<u><<a>>ndo lar[r]emete<n> deue se parar sobre los brac'os. & el q<ue> a
+esta man<er>a desco<m>pone mucho al cauall[<er>]o. & fazel perder}
+[fol. 6v]
+{CB1.
+las estriueras & p<er>cudel todo mayor mie<n>tre si es armado q<u><<a>> ta-
+man<n>o es el p<er>cudimie<n>to q<ue>l faze q<ue> es mucho encaualga<n>te el
+q<ue> en el se puede tener. Raer le la boca bie<n>. & tostar gela mu-
+cho con estos fierros. {DIAG.} & echar le este
+freno luego. {DIAG.} el mas liuiano q<ue> pudiere<n> por
+q<ue> se atreua a el q<ue>l dize<n> garc'o<n> & aya las ca-
+mas larga(r)[s]. & cuelgue<n> una cuerda en una uiga. & ali<m>-
+pie<n> le cada dia atado en ella assi corto q<ue> aya ser en fiesto
+por fuerza. & ponga<n> le miel enel freno. & q<u><<a>>ndo le enfrena-
+re<n> eche<n> le una poca de sal en la boca en q<ue> se saborge el fre-
+no. & mie<n>tre lo alimpiare<n> este freno le echen. por q<ue> no<n> p<re>c'ia
+& ual beuie<n>do & q<u><<a>>ndol caualgare. el q<ue> andudiere enel: tra-
+ya la rienda sobre mano por razon q<ue> nol deche colgar la.
+cabeza mas q<ue> toda uia la traya enfiesta e[ ]nol faga mal
+ni<n>guno fata q<ue> sea leua<n>tado. & q<u><<a>>ndo fuer end[e]rec'ado eche
+le este freno q<ue> ente<n>diere q<ue>l conuiene. &c<etera>.
+{RUB. Thitulo .xij<<o>>. Del cauall<o> q<ue> a bonas bariellas
+E bie<n> parada enfrenadura. & faze mal.}
+{IN2.} (S)[A]i muchos cauallos q<ue> han bonas uariellas & bonas bocas
+& bie<n> fendidas. & bie<n> aparadas. & son mal enfrenados.
+por q<ue> dobla<n> las lenguas. & pone<n> las so el freno. & no<n> se puede<n>
+asentar como deue<n> en su enfrenadura. & ua<n> se p<er>der con el.
+taiar le tres dedos de la lengua por q<ue> la no<n> pueda doblar. &
+asentar sa el freno en su logar. & fara el cauallo bie<n>. & q<u><<a>>ndol}
+[fol. 7r]
+{CB1.
+cortare<n> la lengua tomar un fierro fecho assi {DIAG: espacio para un diagrama.}
+& calentarle mucho & q<ue>mar le la lengua en la taiadura
+& tomar un freno q<u><<a>>l ente<n>dier q<ue>l co<n>uiene. & echargelo. &
+dexar le guarec'er de la lengua. {RUB. Titulo .x<<o>>iij<<o>>.}
+{IN2.} Agora q<u><<i>>ero dezir delos cauallos. por q<u><<a>>l logar corren meior.
+Cada uno cauallo uayo Si om<n>e q<u><<i>>ere Alcanzar o fuyr
+con el. metalo por la carrera tyesta. por Razo<n> q<ue> ha buenas
+un<n>as. & es rizio de corac'o<n>. & es bie<n> enfrenado. & remete se bie<n>
+por calle a plazer del cauall[<er>]o por razo<n> q<ue> es l(e)oc'ano de corac'o<n>.
+{RUB. Titulo .xiiij<<o>>. Del cauallo castan<n>o.
+poro correra meior.}
+{IN2.} El cauallo castan<n>o corre bie<n> por arenal. q<u><<a>>ntol dura esto
+es poco por q<ue> es flaco de corac'o<n> & malo de un<n>as q<ue> las ha
+secas por ende nol deue<n> de comie<n>c'o mucho a fincar de espue-
+las q<ue>l faria<n> p<er>der el corac'o<n> Ante q<ue> el no<n> lo p<er>diere mas el afinca-
+mie<n>to sea con uara o co<n> c'i<n>ta. & este fostigamie<n>to sea por[ ]las
+hyiadas o por los coiones por q<ue> se duela mas. & tome corac'o<n>.
+{RUB. Titulo .x<<o>>v<<o>>. del cauallo murc'iello.
+poro corre meior.}
+{IN2.} (A)[E]l cauallo murziello corre meior por arenal & por carre-
+ra blanda q<ue> por tiesta por razo<n> q<ue> ha las un<n>as sequas
+& por q<ue> es de gra<n>t corac'o<n>. va bie<n> por gra<n>t xaral & por otra es-
+pessura q<u><<a>>l quier et saca meyor su sen<n>or de gra[<n>]d p<r><<i>>essa co<n>
+feridas q<ue> ot<r><<o>> cauallo por razo<n> q<ue> es de gra<n>t corac'o<n>. & de-ue<n>}
+[fol. 7v]
+{CB1.
+le escusar de fenazal por q<ue> saca los brac'os muy rizios co<n>
+el gra<n>d corac'o<n>. & Alca<n>c'a las ferraduras.
+{RUB. Titulo .x<<o>>vi<<o>>. Del cauallo Roan por do corre meior.}
+{IN2.} El cauallo ruan corre bie<n> por carrera bla<n>da si ala carrera fo-
+yo. & deue<n> le escusar de pedregal. & de testedal por q<ue> ha las u-
+n<n>as tyernas & suda ante q<ue> otro & es flaco de corac'o<n>.
+{RUB. Titulo .x<<o>>vij<<o>>. Del cauallo ceruuno
+por do corre meior.}
+{IN2.} El cauallo ceruuno corre bie<n> por carrera tiesta una carrera
+muy luenga saluo q<ue> nol pare<n> en ella q<ue> sil parare<n> enella
+(q<ue> sil parare<n>) dende adelante no<n> q<u><<i>>ere hir sino<n> uagarosa me<n>t
+& t(i)e(n)[m]e mucho las espuelas. & no<n> se q<u><<i>>ere afincar co<n> ellas. q<ue> si se
+affinca para se o lanc'a las coc'es por end & es menest<er> q<ue> el affi<n>-
+camie<n>to sea co<n> uara o co<n> cinta.
+{RUB. Titulo .x<<o>>viij<<o>>. del cauallo.
+cen[^i]z(i)oso por do corre meior.}
+{IN2.} El cauallo cenizoso escusa de todo testadal por razo<n> q<ue> ha la<<s>>
+un<n>as tiernas. & correr le por logar bla<n>do & por xara & por
+ot<r><<a>> espessura q<ue> el cuero ha fuerte & no<n> p<re>cia la espessura. & q<u><<a>>n-
+dol corrierdes luego en golpe fazet q<u><<a>>nto q<ue>xo podierdes de espue-
+las ode uara. o de c'i<n>ta por q<ue> luego q<ue> comienc'a es todo el su fecho.
+{RUB. Titulo .xix<<o>>. del cauallo Ruc'io pezeno por[ ]do corre meior.}
+{IN2.} El cauallo ruzio pezeno corre bie<n> por todo logar & sube et
+descende bie<n> recuesto. & deue el omne guardar de fenazal}
+[fol. 8r]
+{CB1.
+por rac'o<n> q<ue> es rezio & ligero & de gra<n>d corac'o<n>. co<n> la reziura & la
+ligereza saca los brac'os rizios & fuertes. & al( )ca<n>za se enlos ner-
+uios muy mal & a mala sabor del agua q<ue>l da por las hyiadas
+alas uezes lanza las piernas.
+{RUB. Titulo .xx<<o>>. Del cauallo ruc'io saujno
+por do corre meior.}
+{IN2.} El cauallo ruc'io sauino corre bie<n> por q<u><<a>>l q<u><<i>>er logar. & su-
+be & descende el recuesto meior q<ue> otro. & ua bie<n> por toda
+espessura & esto es por el bon corac'o<n>. & las bonas vn<n>as q<ue> ha &
+ua meior por fenazal q<ue> otro cauallo.
+{RUB. Titulo .xxi<<o>>. del cauallo bla<n>co
+por do corre meior.}
+{IN2.} El cauallo blanco corre bie<n> por arenal o por logar bla<n>do
+q<u><<a>>nto dura mas es poco lo q<ue>l dura. & a menest<er> grant a-
+fincamie<n>to de espuelas ode uara o de c'i<n>ta. & es menest<er> del escu-
+sar de[ ]pedregal o de t<ier>ra tiesta por razo<n> q<ue> es tierno de un<n>as & es
+duro en espuelas. & es bie<n> enfrenado & apuesto de caualgar
+por uilla.
+{RUB. T<itul><<o>> .xxij<<o>>. del cauallo Ruzio cardeno.}
+por do corre meior.
+{IN2.} El cauallo ruc'io cardeno corre bie<n> por carrera tiesta por-
+q<ue> a las un<n>as buenas & por xara por q<ue> a el cuero gordo
+& no<n> teme las espuelas & a menest<er> de guardar de seer
+mulero.}
+[fol. 8v]
+{CB1.
+{RUB. Titulo .xxiij<<o>>. del cauallo alaza<n>
+por do corre meior.}
+{IN2.} El cauallo Alaza<n> corre bie<n>. por q<u><<a>>l q<u><<i>>er logar por q<ue> a las
+un<n>as bonas & es de bue<n> corac'o<n> saluo por la xara o por
+ot<r><<a>> espessura por q<ue> a el cuerpo delgado & a menest<er> de aguar
+se & de seer mulero. & si la alazanadura es clara es meior
+cauallo q<ue> ot<r><<o>> de mayor correr. & de mayor affan.
+{RUB. Titulo .xxiiij<<o>>. del cauallo Ruc'io ruan
+por do corre meior.}
+{IN2.} El cauallo Ruc'io ruan palpado corre bie<n> por el fenazal &
+usa mucho & a[ ]bonas un<n>as. & es de fermosa color. & de gra<n>-
+des faiciones & bie<n> enfrenado & duro en las espuelas.
+{RUB. Titulo xx<<o>>v<<o>>. del cauallo castan<n>o pezeno.}
+{IN2.} El cauallo castano pezeno se iulga en todo como el mor-
+ziello saluo q<ue> deue seer much aguardado de seer mu-
+lero & min<n>on.
+{RUB. Titulo .xx.vi<<o>>. delas fac'iones q<ue> deue<n> auer los cauall<o>s
+por seer fuertes. & bonos pora en batalla.}
+{IN2.} Deue<n> auer las narizes anchas & romas las frue<n>tes
+anchas & llanas. & el cuello do se tiene<n> las crines en so-
+mo espeso los pechos anchos & sallidos los moleyos muy
+gordos las rodiellas anchas. & llanas. las can<n>as ossudas
+& neruiosas las un<n>as redo<n>das por mesura. assi q<ue> sea u<n>
+poco mas lue<n>ga q<ue> ancha la reniella. much ancha}
+[fol. 9r]
+{CB1.
+las sedas de los brauijones espesas. & lue<n>gas las q<u><<a>>rtiellas
+curtas & gordas las espallas ancha(r)[s]. & bie<n> en medio del
+cuerpo puestas & el costado lue<n>go el ensellar corto. & las
+costiellas anchas. & el uie<n>tre en( )cerrado dentro enlas
+costiellas. & los lombos cortos. & anchos. & lados & las re-
+nes ladas & q<ue> sea alto en collado. & la post pierna cor-
+ta & alta & la garra ancha.
+{RUB. Titulo .xx<<o>>.vii<<o>>. delas Faciones q<ue> deue<n> auer los cauallos
+pora seer ligeros & corredores.}
+{IN2.} Deue<n> auer las oreias cortas & anchas los picos dellas
+agudos & tornados adelante los oios gra<n>des & some-
+ros los pechos anchos & llenos de carne assi q<ue> los tenga
+sallidos delante las espaldas las can<n>as ceruunas & ner-
+uiosas & los costados no<n> mucho anchos & los lo<m>bos mu-
+cho espesos e lados. & las post piernas cortas & regazadas
+& las carras no<n> mucho anchas & co<n>uiene q<ue> q<u><<a>>n<d>o el om<n>e
+fu<er>e sobre ellas q<ue> les t<r><<i>><e>me<n> todas las carnes sen<n>alada me<n>t
+los moleios delos pechos & delos brac'os & la carne q<ue> esta so-
+bre las espaldas & las post piernas & las can<n>as delas.
+piernas muy derechas.
+{RUB. Titulo .xx<<o>>viij<<o>> dela color q<ue> dize<n> vayo.}
+{IN2.} Estas son las colores. la p<r><<i>>mera color es uayo q<ue> q<u><<i>>ere
+dezir tanto como departido entre dos colores
+la una u<er>meia en[ ]todo esta color deue auer estas}
+[fol. 9v]
+{CB1.
+sen<n>ales en la fruent una strella peq<ue>n[<n>]a el q<u><<a>>l dec'ie<n>da un
+ramo della hata en medio dela nariz & alli q<ue> se le rema-
+te & q<ue> sel esanche mas de q<u><<a>>nto & no<n> descenda el ramo al
+bec'o de iuso A de auer los tres pies blancos los dos dela si-
+niestra parte la mano siniestra q<ue>l suba el bla<n>co fasta
+la media de la q<u><<a>>rtiella. & el pie dessa parte toda la q<u><<a>>rtiella
+co<n> el nudie(e)llo. & q<ue> finq<ue> el braueio<n> p<r><<i>>eto el pie dela diestra
+parte el talo<n> co<n> un poco dela q<u><<a>>rtiella & q<ue> aya las crines et
+las sedas. &[ ]las can<n>as p<r><<i>>etas & q<ue> no aya muchas sedas &[ ]las
+aya simples como sirco. & q<ue> sean lue<n>gas assi q<ue> eguale<n> todas
+en fondo. & c<etera>.
+{RUB. Titulo .xx<<o>>ix<<o>>(^x). dela color q<ue> dize<n> castan<n>o.}
+{IN2.} La segu<n>da color es castan<n>o q<ue> q<u><<i>>ere dezir aq<ue>l q<ue> ha color
+de castan<n>a derecha mie<n>tre. & es entre dos colores q<ue>
+no es negro ni<n> bermeio mas toma p<ar>te de ambas colore<<s>>
+segu<n>d castan<n>a. & por esto le dize<n> castan<n>o & a de auer esta<<s>>
+senales estrella ancha & redo<n>da & gra<n>d algu<n> q<u><<a>>nto enlos pies
+de c'aga bla<n>cos el siniestro toda la q<u><<a>>rtiella co<n> el nudi-
+ello. & el diestro la media q<u><<a>>rtiella. & pocas sedas en las cri-
+nes & comunales enla cola e[ ]li(f)[s]as. & q<ue> nol decie<n>da[<n>] todas fa-
+ta iuso ni<n> sea tan metuda la cola en[ ]fondo como en[ ]so-
+mo.
+{RUB. Titulo .xxx<<o>>[^.]. dela color q<ue> dize<n> murziello.}
+{IN2.} La tercera color es morziello. q<u><<i>>er dezir ta<n>to como color}
+[fol. 10r]
+{CB1.
+de mora madura & a de seer sen<n>alado una estrela enla.
+frue<n>t comunal q<ue> no<n> sea muy gra<n>d & los tres pies bla<n>cos
+los dos dela siniestra part. & el pie dela diestra. & la mano
+siniestra la media q<u><<a>>rtiella. & el pie dessa parte dos dedos
+sobre el nudiello & el pie diestro una p<u>lgarada derredor de
+la corona crines & sedas comunales & derechas. & co<m>plidas
+todas fatal fondo Si estas sen<n>ales no<n> ouiere deue seer seg<un>d
+natura todo p<r><<i>>eto & sin sen<n>al ni<n>guna. & las crines & el co-
+pet espessos & crespos. & las sedas dela cola derechas & pocas
+&[ ]lisas. & no<n> decie<n>da<n> todas. & una piec'a dellas del[ ]medio
+ayuso.
+{RUB. Titulo .xxx<<o>>i<<o>>(^j)[^.]. dela color q<ue> dize<n> Ruan.}
+{IN2.} La quarta color es Ruan. & dize<n> le assi por q<ue> es entre
+tres colores q<ue> toma parte en bermeio & en amariello
+& en bla<n>co & es llamado Ruan &[ ]deue auer [e]stas sen<n>ales todos
+quatro. los pies blancos. la mano siniestra tres dedos sobre
+el nudiello & el pie desa parte la can<n>a q<ue> suba. de parte de de<n>-
+tro dela pierna fasta cerca dela yiada. & la pierna diestra
+la media can<n>a. & la mano. la q<u><<a>>rtiella co<n> el nudiello. muy
+gra<n>d sen<n>al enla fruent. & q<ue>l decie<n>da un ramo como los
+tres dedos por medio dela cara. & q<ue>l tome todas las
+narizes. & passe al bezo de fondo tres dedos. & q<ue> decie<n>da todo
+derecho q<ue> no<n> ue<n>ga mas ala una parte q<ue> ala otra. &
+las crines & las sedas dessa misma color. & mas matu-da}
+[fol. 10v]
+{CB1.
+algu<n> q<u><<a>>nto en[ ]somo q<ue> en fondo. & c<etera>.
+{RUB. Titulo .xxx<<o>>ii<<o>>. dela color q<ue> dize<n> ceruuno.}
+{IN2.} La q<u><<i>>nta color dize<n> ceruuno q<u><<i>>er dezir tanto como col(a)[or]
+de cieruo. & deue auer toda la frue<n>t blanca & desce<n>de[r]
+assi & passar ambos los bec'os & entrar por el defondo una
+mano. & la mano siniestra bla<n>ca toda. la q<u><<a>>rtiella & el pie
+siniestro toda la can<n>a. & subir de parte de dentro toda la pi-
+erna & tomar ya q<ue> dela hijada. & los oios ambos darc'os
+& no<n> sorteados ni<n> pi<n>tos. & las c<r><<i>>nes. & las sedas de su mis-
+ma color. & las sedas dela cola q<ue> descendan derechas fasta
+{RUB. Titulo .xxx<<o>>iii<<o>>. Dela q<ue> dize<n> cenizoso.} [%2] fondo.
+{IN2.} La sexta color es cenizoso & es aq<ue>l q<ue> a color de c'enisa
+& deue auer una estrella blanca mas q<ue> la ot<r><<a>> color
+& el pie siniestro el talo<n> & crines & sedas. & can<n>as p<r><<i>>etas
+& las sedas p<r><<i>>etas.
+{RUB. Titulo .xxx<<o>>iiij<<o>>. Dela color q<ue> dize<n>
+ruzio pezen<n>o.}
+{IN2.} La septima color es ruc'io pezeno & es aq<ue>l q<ue> a en si dos
+colores q<ue> es lo mas murziello. & a en si muchos pelos
+blancos. & es llamado assi por q<ue> no<n> puede en todo llamar
+murziello nj<n> todo bla<n>co. & a de auer estas sen<n>ales una
+estrella peq<ue>na la media q<u><<a>>rtiella del pie siniestro bla<n>ca
+& el pie diestro el talo<n>. & las crines las sedas & las can<n>as
+p<r><<i>>etas. & las sedas pocas assi q<ue> no<n> parezca<n> mal.}
+[fol. 11r]
+{CB1.
+{RUB. Titulo .xxx<<o>>v<<o>>. dela color q<ue> dize<n> Ruc'io sauino.}
+{IN2.} La octaua color es ruc'io sauino. & es aq<ue>l q<ue> es en[ ]tres
+colores q<ue> toma p<ar>te de castan<n>o & de bla<n>co. & es mas bla<n>-
+co q<ue> castan<n>o por esso es llamado assi esta color a de auer
+tales sen<n>ales una estrella poca amos los pies de zaga bla<n>-
+cos. & el pie siniestro el nudiello & el diestro un poco sedas
+pocas crines & cola castan<n>as & claras.
+{RUB. Titulo .xxx.vi<<o>>. dela color q<ue> dize<n> bla<n>co.}
+{IN2.} La nona color es bla<n>co por q<ue> es color de nief. este no
+a de auer ni<n>guna sen<n>al otra en si. c<r><<i>>nes pocas. sedas
+comunales & lisas & bla<n>das como sirgo. & desce<n>de<n> eguales.
+fasta fondon.
+{RUB. Titulo .xxx<<o>>.vii<<o>>. dela color q<ue> dize<n> Ruc'io cardeno.}
+{IN2.} La decima color es ruc'io cardeno por q<ue> es entre dos
+colores q<ue> toma part en[ ]bla<n>co. & en cardeno. & por q<ue>
+es cardeno. & a muchos pelos en si bla<n>cos es llamado assi.
+& este a de auer el talo<n> del pie siniestro bla<n>co. crines &
+sedas & can<n>as p<r><<i>>etas & sedas no<n> muchas ni<n> desce<n>da<n> fasta
+fondo<n>. & las mas de medio o delas partes ayuso.
+{RUB. Titulo .xxx<<o>>viij<<o>> dela color q<ue> dize<n> alaza<n>.}
+{IN2.} La onzena color es Alazan. es assi dicho por q<ue> toma
+part de dos colores de uayo. & de castan<n>o & mas cas-
+tan<n>o q<ue> uayo & a de auer estas sen<n>ales una estrella peq<ue>-
+n<n>a co<n> ramo q<ue> llegue fasta la nariz. & amos los pies de}
+[fol. 11v]
+{CB1.
+c'aga blancos & el siniestro fasta la media q<u><<a>>rtiella c<r><<i>>nes & seda<<s>>
+dessa misma color & crines muy pocas & sedas mas pocas q<ue>
+muchas e[ ]lisas & q<ue> desce<n>dan fasta fondo<n> en guisa q<ue> no<n> sean
+matudas & bla<n>das como sirgo.
+{RUB. Titulo .xxx.ix. {BLNK.} de la color q<ue> dize<n> ruzio ruan.}
+{IN2.} La dozena color es ruc'io rua<n>. & a de auer las mismas se-
+n<n>ales q<ue> el roan.
+{RUB. Titulo .xL<<a>>. dela color q<ue> dize<n> ruc'io palpado.}
+{IN2.} La trezena color es ruc'io palpado es dicho assi por q<ue> es ent<r><<e>>
+dos colores. blanco & cardeno & a en si unas sen<n>ales ta-
+man<n>as como dobla de oro & dize<n> les palpaduras. & a de auer
+estas sen<n>ales una estrella peq<ue>n<n>a enel pie siniestro la media q<u><<a>>r-
+tiella bla<n>ca. & el diestro el calcanllo & las crines. & las sedas. &
+las caniellas p<r><<i>>etas. las sedas dela cola no<n> mucho ni<n> todas
+complidas fata fondo.
+{RUB. Titulo .xL<<a>>i. Dela color q<ue> dize<n> castan<n>o pezen<n>o.}
+{IN2.} Castan<n>o pezeno es llamado aq<ue>l q<ue> es entre dos colores que
+toma parte de murc'iello. & de castan<n>o. & es mas morzi-
+ello q<ue> castan<n>o. & a de auer las mismas sen<n>iales q<ue> el mu[r]ziello.
+Saluo q<ue> a de seer en[ ]todo sen<n>alado.}
+[fol. 12r]
+{CB1.
+{RUB. Titulo .xl<<a>>ij<<o>>. De la enfermedat q<ue> dize<n> fauzelas.}
+{IN3.} Una enfermedat se faze alos cauallos en los bezos de
+yuso de parte de dent<r><<o>> cerca los q<u><<i>>xares q<ue>l dize<n> fau-
+selas. & son de su color cardenas. & faze<n> se como bexi-
+gas. & faze<n> se. & son taman<n>as cada una como una faba
+gra<n>d. & faze se de sobre habu<n>dancia de sang<r><<e>>. & tuelle al caual-
+lo el comer. & fazeli de( )secar esta enfermedat. E[ ]guarezen
+assi. Tomar vn fierro agudo assi fecho {DIAG.} e[ ]me-
+ter le por la fausela & p<re>nder unas tiseras agudas & taiar le
+bie<n> de fondo assi q<ue> guarde el bezo. & tomar miel. & uinag<r><<e>>. &
+sal & bueluelo en uno. & fregargelo mucho con ello dos o[ ]tres
+uezes. {RUB. Titulo dela enfermedat q<ue> dize<n> baruas xL<<a>>iij.}
+{IN2.} Faze se alos cauallos una enfermedat q<ue> le(s) dize<n> baruas
+& faze se enlas bocas. & naze<n> de iuso de la lengua. & faze
+se peq<ue>n<n>a como garua<n>zo. & dessa misma color. & faze se de aiu<n>-
+tamie<n>to de malos humores. & faze al cauallo perder el comer.
+crec'er el beuer. & estar t<r><<i>>ste & a se a cortar assi como la fauzela.
+& fregar gelo co<n> essas mismas cosas.
+{RUB. Titulo de q<u><<a>>renta[ ]iiij. Dela enfermedat q<ue> dize<n> peera.}
+{IN2.} Faze se alos cauallos una dole<n>cia en la lengua & descendel
+alas manos. & alos pies. & por razo<n> q<ue> desce<n>de a estos loga-
+res (&) dize<n> le peera. Esta dole<n>cia se faze de sobre habu<n>da<n>cia
+de sangre & de flema podrida q<ue> desce<n>de por las uenas alas.
+un<n>as & quaiasse. & asse de guarec'er assi. Sacarle un poco la}
+[fol. 12v]
+{CB1.
+lengua fuera. & raeriela mucho co<n>. vn cuchiello & si oui-
+ere hi grano alguno sacargelo co<n> la pu<n>cta del cuchiello.
+& el grano conosc'ra en esto q<ue> u<er>a luego la leng<u><<a>> mas bla<n>ca
+q<ue> no<n> suele & los granos por ella assi como de mijo & dessa.
+color. Esto fecho trauesar le una uena gorda q<ue> uiene neg<r><<a>>
+de color. & ua so la leng<u><<a>> por medio. & corte<n> la toda de[ ]t<r><<a>>uiesso.
+& desangre<n> la q<u><<a>>nto mas podiere<n>. & tome<n> vn ffierro calie<n>t
+& agudo. & sea gordo como el dedo mergellit. & foradar le
+la lengua (de part) de part[ ]en part por medio de la uena
+q<u><<a>>nto dos dedos mas dent<r><<o>> q<ue> la sang<r><<i>>a. & faga<n> le fazer las
+un<n>as de todos los q<u><<a>>tro los pies. q<u><<a>>nto mas pudiere<n> en[ ]gui-
+sa q<ue> no<n> salga sang<r><<e>>. & tome<n> seuo de cabro<n>. & retir lo. & no<n>
+eche ende lo q<ue> finca del retimie<n>to. & el affrecho mas sin
+farina q<ue> pudiere<n>. & sal bermeia. & buelua<n> le co<n> el seuo. &
+fierua<n> lo en uno en guisa q<ue> aya hy piesc'a de zumo. &
+po<n>ga<n> gelo calie<n>t en todas q<u><<a>>tro las suelas delos pies. e po<n>-
+gan le de suso estopas por rac'o<n> q<ue> las un<n>as beua<n> toda su
+calentura. & faga<n> gelo . q<u><<a>>t<r><<o>>. o .v<<o>>. uezes en un dia. & tres
+en la noch. & estol faga<n> tres dias continuos. {RUB. [Titulo] xL<<a>>.v.}
+{IN2.} Ay ot<r><<a>> cura foradar le la leng<u><<a>>. & sang<r><<a>>r gela como dicho
+es. & tomara una legara assi ffecha. {DIAG.}
+E sacar le la[s] raniellas de todos q<u><<a>>tro los pies. & poner le de
+suso las estopas moiadas. enel azeyte e en la sal. & echar
+de suso la farina del t<r><<i>>go. & fazer gelo todo fata q<ue> sea sano.}
+[fol. 13r]
+{CB1.
+& fazer le las fue<r>tes de las manos. & delos pies. & catargelo
+cada dia co<n> el bla<n>co del hueuo batido. & echada co<n> el espu-
+ma del. & el encie<n>so & la pez molido. buelto en uno. & catar
+gelo co<n> ello fata q<ue> sea sano.
+{RUB. Titulo .xL<<a>>.vj. dela enfermedat q<ue>l dize<n> nuf.}
+{IN2.} Faze se alos cauallos una enfermedat enel oio q<ue>l dize<n> nuf.
+& faze se de mucha flema mala q<ue>l desce<n>de de la cabec'a
+& aiu<n>cta se enel oio & no<n> puede sallir & asse de q<u><<a>>iar & faze
+se nuf. & guarec'e se assi. Cortar le una uena q<ue> ua so el oio.
+t<r><<a>>uersargela toda q<ue> no<n> aya p<er>iglo. & no<n> salle della si no<n> poca.
+sangre. & sang<r><<a>>r le en ot<r><<a>> uena q<ue> ua cerca la sen. & es mas gor-
+da q<ue> esta & ua del t<r><<a>>uiesso del oio. & sacar piec'a de sang<r><<e>> & ante
+q<ue> la sangre rayan el cabello q<ue> [^es] sobre ella. & q<u><<a>>ndo uera<n> q<ue> es salli-
+da assaz sang<r><<e>>. (&) tomar los poluos dela c'iriduen<n>a. & los poluo<<s>>
+del estiercol del omne. q<ue>mado. & boluerlo todo en uno & echar
+gelos con vn can<n>uto enel oio dos uezes al dia fata q<ue> sea la
+nuf. tollida q<ue> fata .vij. dias sera guarido.
+{RUB. Titulo .xL<<a>>.vij. Del cauallo q<ue> fu<er>e ferido enel oio.}
+{IN2.} Si el cauallo fu<er>e ferido enel oio en guisa q<ue> sea asedado
+o q<ue> se faga dent<r><<o>> chico de carne. & q<ue> se cubra de tela fa-
+zer le las mismas sang<r><<i>>as dichas & los mismos poluos: o
+tomar el gusano gordo q<ue> se faze en los muladares q<ue> es bla<n>co.
+& a muchos pies e un veuo de gallina el mayor q<ue> ffallare<n>
+& sacar la clara del. & meter el gusano de<n>tro sobre la yema.}
+[fol. 13v]
+{CB1.
+& la sal pedres & poner una poca de c'enisa. & brasa enderredor. & po-
+ner el veuo en aq<ue>lla c'enisa & lexar lo fasta que sea el casco todo que-
+mado & moler lo & cernello & tome<n> en la gala q<ue> se faze en la sar-
+za escaramug<er>a & q<ue>me<n>la & faga<n> la poluos. & tome<n> el huesso de[l]la
+seca & muela<n> lo. & buelua<n> estos poluos todos en una & echengelo
+con canuto dos o[ ]tres uezes al[ ]dia fata q<ue> sea el oio claro.
+{RUB. Titulo .xL<<a>>.viij<<o>>. Delos cauallos q<ue> les llora<n> los oios.}
+{IN2.} Faze se alos cauallos una enfermedat q<ue>[ ]les llora<n> los oios.
+& sil dura mucho. faze<n>gelos secos. & faze<n> se de mucha fle-
+ma. & podrida. Que les dece<n>de dela cabec'a. & faze sele las sang<r><<i>>a<<s>>
+dichas & los poluos dichos. & echargelos dos o[ ]tres uezes al[ ]dia.
+& en[ ]tres dias s<er>a esclaresc'ido.
+{RUB. Titulo .xl<<a>>. (^viij) [^ix] Delos cauallos q<ue> rabia<n>.}
+{IN2.} Ay muchos cauallos q<ue> rabia<n>. esta dolenc'ia se haze por si
+bie<n> como a om<n>e q<ue> se faze una postema en la cabec'a.
+Tomar el arziella del barro mas fuerte q<ue> ffallare<n>. & eche[<n>] la
+en el agua. & q<u><<a>>n<d>o fu<er>e temp<r><<a>>da maie<n> la mucho. & eche[<n>] la en
+una sarten. & fi<e>rua<n> la co<n> el uinag<r><<e>> fuerte. & en( )buelua<n> le
+toda la cabec'a co<n> ella fata las narizes saluo q<ue>l dexe<n> los oios
+abiertos. & las oreias & po<n>ga<n> le una piel de carnero & cosange-
+la el pelo adentro. & sobre ella vn frietro o otro pan<n>o gruesso
+en guisa q<ue>l sude mucho la cabeza. & q<u><<a>>ndo uiere<n> q<ue> la sudor
+fu<er>e cogida tuelga<n>le. & po<n>ga<n> le ot<r><<o>>. & q<u><<a>>ndo aq<ue>l ot<r><<o>> fata tres dia<<s>>
+cada dia dos uezes. & q<u><<a>>ndo fu<er>e guarido conoc'ergelo an en}
+[fol. 14r]
+{CB1.
+esto q<ue>l fincara la baua de manar. & q<ue> beu<e>ra. % E[ ]ay ot<ra> cura
+tomar los assensios amargos. & el marruuio ue<n>toso & la fa-
+rina del t<r><<i>>go. & la farina del ordio. & la miel & maia[r] lo todo.
+en uno. & feruie<n>ta lo todo en uno enel uino fuert. & fac'er
+un enplastro dello. & en( )boluelle toda la cabeza en ello assi
+como es dicho enla cura de somo en[ ]guisa q<ue> sude la cabeza.
+{RUB. Titulo L<<a>> Dela enfermedat q<ue> dize<n> muermo.}
+{IN2.} Faze se alos cauallos una enfermedat q<ue> dize<n> muermo. &
+faze se por desazonamie<n>to q<ue> toma el cauallo en si. O-
+tro si se faze del poluo dela zeuada q<u><<a>>ndo no<n> gela ali<m>pia<n>. E
+del poluo dela paia q<u><<a>>ndo es (p)[m]ala. O del poluo del feno q<u><<a>>ndo ge
+lo dan seco. & no<n> lo sagude<n> p<r><<i>>mero. E faze se en uerano q<u><<a>>ndo
+anda camino o corre mucho. & finche se las narizes & los oio<<s>>
+& las oreias de poluo. & q<u><<a>>ndo descende<n> del nol alimpia<n> ni<n> lo
+sazona<n> como deue<n>. E este es peor muermo q<ue> ni<n>guno delos
+ot<r><<o>>s. & fincha<n> le las piernas & los coiones. & leua<n>ta<n> seles las
+yiadas & faze<n> se toro<n>dos por el cuerpo. & por las piernas e
+por los coiones. & estos toro<n>dos mana<n> le uenino. E a este
+muermo dize<n> le muermo ranil. los muermos de suso.
+dichos deste guareze<n> assi. Sangrar el cauallo dela uena de
+medio el cuello. & echar un seden<n>o en[ ]somo del colodriello
+o trahe el freno. Assi q<ue> sea q<u><<a>>nto dos dedos redrado del colodri-
+ello. & echar le los hueuos crudos por la garga<n>ta. E depues
+dar le en la c'euada buelta la romaza. & el alfolua. Et el}
+[fol. 14v]
+{CB1.
+muermo q<ue> dize<n> ranil q<ue> es muy fuerte & t<r><<a>>he al[ ]cauallo
+a[ ]gra<n>d periglo o a muerte si mucho ayna nol acorre om<n>e.
+E[ ]guaresc'e sang<r><<a>>ndol en las uenas maestras delas pier-
+nas. et sacar le ta<n>ta sang<r><<e>> como aq<u><<i>> diremos. % Si el ca-
+uallo fu<er>e eguado tres libras. % Si es de dos die<n>tes & rec'io
+& carnudo vna libra & media. Et si no es carnudo u-
+na libra. & q<u><<a>>ndo esta sang<r><<i>>a fu<er>e fecha. faz le una olla desta<<s>>
+cosas [que] seran aq<u><<i>> esc<r><<i>>ptas tomar. ma<n>teca cocha de uacas o de o-
+ueias .v. l<ibras>. & seuo de rin<n>on(<n>)ada de cabro<n> & de carn<er>o .v. l<ibras>.
+Azeyt una libra. Sayn de puerco uieio .v. l<ibras>. Miel q<u><<a>>tro
+l<ibras>. Aios q<u><<a>>tro cabec'as uino vn azu<m>bre. Alfolua unas t<r><<a>>ui-
+essas. Linoso unas trau<<i>>essas. Cominos unas t<r><<a>>uiessas.
+Et moler aq<ue>llo q<ue> se sig[u]e & rettir & maiar los aios e bol-
+uello en uno & feruello en una sarten & dexarlo atibiar
+assi q<ue> lo pueda el cauallo beuer & dargelo a beuer en
+tres uezes. Assi pie<n>se q<ue>l de el p<r><<i>>mero tres medidas. & de<n>t
+a[ ]tres dias .vj. medidas. & de<n>t a otros tres dias. q<ue>l de.
+nueue medidas. Assi q<ue> q<u><<a>>n<d>o los .vij. dias sean co<m>pli-
+dos q<ue> lo aya todo beuido.
+{RUB. Titulo .L<<a>>i. Dela enfermedat q<ue> dize<n> adiuas.}
+{IN2.} Faze se alos cauallos una malautia q<ue>l dize<n> alguno<<s>>
+om<n>es adiuas & faze se de sobre habu<n>da<n>cia de sang<r><<e>>.
+Et ay algunos om<ne>s q<ue> cata<n> esta dole<n>c'ia enel cuello. o se
+aiu<n>ta la cabec'a assi q<ue>l fie<n>den el cuero co<n> un cuchiello.}
+[fol. 15r]
+{CB1.
+& scarua<n> le co<n> la pu<n>cta & a sazon<e>s saca<n> le dende unas la<n>-
+dres q<ue> se faze<n> a todos los cauallos hy esto es cosa de gra<n>d
+p<er>iglo. & no<n> de guarec'imiento. Saluo ue<n>tura. Ay otros
+q<ue>[ ]los sang<r><<a>>n en las narizes. & en la cola esto es meior. ma<<s>>
+no es guarec'imie<n>to del todo q<ue> la sobre habu<n>dancia dela
+sangre no<n> pued escorrecha mie<n>tre guarec'er. si no<n> por s<us>
+sang<r><<i>>as naturales por q<ue> no<n> sele torne(<n>) la malautia a me-
+nudo. Ende co<n>uiene pora guarec'er esta dolencia. q<ue> no<n> se.
+torne al[ ]cauallo A menudo. Sang<r><<a>>r le en la uena capitual
+q<ue> desce<n>de por medio el cuerpo & sacalle piec'a de sang<r><<e>>. & de<n>de
+a ix<<e>>. dias sang<r><<a>>r le en esta misma uena ot<r><<a>> uez. & sacar le
+dos libras de Sang<r><<e>>. & seet c'ierto q<ue> no<n> podra auer esta dole<n>c'ia
+enel. por dos an<n>os o mas & ay ot<r><<o>>s q<ue>l sang<r><<a>>n en la uena q<ue>
+es de iuso el[ ]bec'o de somo & en la uena gorda q<ue> es so[ ]la len-
+gua. & estas son sang<r><<i>>as q<ue> co<n>uiene[<n>] a esta dole<n>cia.
+{RUB. Titulo l.ij. Delos cauallos q<ue> han las espaldas assedada<<s>>
+o quebradas.}
+{IN2.} Ay muchos cauallos q<ue> han las espaldas hinchadas
+o crebadas. Et esto les auiene de golpe q<ue> toma topa<n>-
+do co<n> otro cauallo. o q<ue>l da ot<r><<o>> cauallo coz en ella o de ferida
+de piedra. de gra<n>d fuste q<ue> uiene de cue<n>to & esta malau-
+tia guaresce assi. Raer le el espalda toda fatal cobdiello &
+desend abrir le ene(r)[l] muro<n> del espalda una fendedura
+ap<or>lue<n>gas peq<ue>n<n>a. & tomar vn can<n>uto de can<n>au<er>a & finchar}
+[fol. 15v]
+{CB1.
+le el espalda toda assi q<ue> abra todo el cuerpo de la carne et
+q<u><<a>>ndo fu<er>e bie<n> inchado q<ue> entie<n>da el q<ue> lo fiziere q<ue> no<n> pue-
+de mas viento y caber. & tomar. Sal. Azeyte. vinag<r><<e>>.
+pez. Ac'ienso molido. Seuo dela rin<n>onada de cabro<n>. Say<n>
+uieio. Cera. & bueluelo en uno. & firue<n>tallo en una.
+sarte<n> & q<u><<a>>n<d>o fu<er>e firue<n>tado poner le vn enbudo. & echar
+le esto dich es en el espalda dent<r><<o>> & mie<n>tre ua cayendo ayu-
+so. Asil uaya un om<n>e t<r><<a>>hie<n>do co<n> las manos. por q<ue> el espal-
+da toda se cu<n>da. & lexar le assi fasta .ix. dias. Que en estos
+nueue dias s<er>a el espalda soldada. Quier dela q<ue>bradura.
+o dela assedadura. & depues delos .ix. dias. lleuallo al rec'i-
+al. & q<u><<a>>ndo salga del agua e sea enxuto untargelo con
+una pen<n>ola. & co<n> del azeyte. & ve<<r>>na el pelo de[ ]su misma co-
+lor. Ot<r><<o>>ssi derribar el cauallo en t<ier>ra & atalle bie<n> e tomar
+el sayn mas uieio. & fazer dello una grand pella & untar
+le mucho el espalda. & q<u><<a>>ndo fu<er>e hu<n>tada tomar dos o[ ]tres
+fierros fechos desta guisa. {DIAG.} & fazer gra<n>d fue-
+go. & calentar los mucho & q<u><<a>>ndo fuere<n> bla<n>cos parargelos so-
+bre el espalda. Assi q<ue> nol llegue<n> ala carne co<n> una p<u>lgada o
+co<n> dos dedos. E q<u><<a>>n<d>o el uno fu<er>e frio tomar el ot<r><<o>> ta<n>tas uezes
+fata q<ue> gelo faga<n> todo beuer. & q<u><<a>>n<d>o fu<er>e enbeuido untarge-
+lo ot<r><<a>> uez. & fazergelo beuer desta misma guisa. esto fazer
+gelo tres uezes una en pos ot<r><<a>>. Ante q<ue> el cauallo se lleua<n>-
+te. & co<n> esto soldara el espalda. & si fu<er>e mi<n>guada de carne}
+[fol. 16r]
+{CB1.
+con esto se finchera.
+{RUB. Titulo(s) .Liij. delos cauallos q<ue> son Abiertos enlos pechos.}
+{IN2.} Ay muchos cauallos q<ue> son abiertos enlos pechos. & puede<n>
+los conoc'er q<u><<a>>n<d>o andudiere<n> por llano echara<n> los brac'os a-
+biertos mas de q<u><<a>>nto suele<n>. & q<u><<a>>n<d>o los pusiere<n> en t<ier>ra echar los
+an assi como q<ue> los t<r><<a>>hen en derredor. & q<u><<a>>ndo desce<n>diere<n> cuesta
+ayuso e[ ]los q<u><<i>>siere<n> Alc'ar. Alc'ar los an a[ ]colpe bie<n> assi como q<ue>
+se quema. & q<u><<a>>n<d>o andudiere<n> lado o cuesta. doler (s)[l][e][ ]a el brac'o
+q<ue> traxiere<n> de parte de suso esta dolencia uiene al cauallo por
+muy gra<n>d carga q<ue> t<r><<a>>he o por gra<n>d iornada q<ue> faz. o por q<ue> cor-
+re mucho cuesta ayuso. o por q<ue> esuara el brac'o haza adela<n>-
+te en yelo. o en losa. o en otra cosa semeia<n>t & guaresc'e esta
+enfermedat assi echalli sedan<n>os desde medio del espalda. & q<ue>
+passe al cobdiello. Et mie<n>tre [traxieren] estos sedan<n>os An de andar a[ ]pa-
+zer por q<ue> se firme sobre los brac'os. & q<ue> corra aq<ue>lla flema q<ue>
+se face entre el espalda e[ ]las costiellas. & en[ ]este[ ]comedio echar
+le una cubierta co<n> delantera por q<ue> nol ent<r><<e>> el uie<n>to en las lla-
+gas. Ot<r><<o>>ssi guaresc'e desta guisa. Echar el cauallo en t<ier>ra. & tor-
+nalle el uient<r><<e>> asuso & fenderle el[ ]cuero q<u><<a>>nto una mano en
+luengo. ent<r><<e>> el pecho & el espalda. & vntar la mano co<n> azeite
+o co<n> ma<n>teca cruda. & meter le la mano por aq<ue>lla fendedura
+& entrel espalda & las cuestas & fallar lo a todo llen<n>o de flem<m>a
+q<u><<a>>iada assi como limos & uayagelo thira<n>do poco a poco co<n> la
+mano fata q<ue> entienda q<ue> no<n> finca y dello ni<n>guna cosa.}
+[fol. 16v]
+{CB1.
+[*& q<u><<a>>n<d>o fu<er>e esto fecho] tomar. Sal. Vinag<r><<e>>. Azeyte. pez. Ascie<n>-
+so molido. Seuo dela ren<n>onada de cabro<n>. Sayn uieio. Ce-
+ra & boluer lo todo en uno. & feruir lo mucho en una sar-
+ten. & q<u><<a>>ndo fu<er>e feruido echargelo co<n> un enbudo por la
+fendedura. & tener le assi vna piec'a por q<ue>l entre toda la
+pegu<n>ta entre el espalda & las costiellas. & cosergela. & dexar
+le vn suspiro<n> poro mane.
+{RUB. Titulo de L<<a>>.iiij<<o>>. delos cauallos q<ue> An fistola.}
+{IN2.} Faze se alos cauallos muchas uezes enlos muslos
+delos brac'os fistola. & mana Ata<n>to alas uezes q<ue> faze
+sumir la carne del espalda. & seca se el espalda de esta
+malautia. Faze se por golpe de piedra o de fuste o de otra
+cosa semeiable. & machuca se la carne & faze se como ueni-
+no no<n> como el cocho mas como ent<r><<e>> aq<u><<a>>za & uenino &.
+mana<n>do muchos dias cuela se la carne del espalda & ua-
+zia se. Et guaresce assi tan ayna como la uiere om<n>e
+vna boq<u><<i>>ella poro mana. fender la apo(s)[r]lue<n>gas bie<n> tres
+dedos assi q<ue> llegue la fendedura fata <<e>><<l>> (e)huesso do (esta)
+esta fistula. & guarde los molleios q<ue> no<n> traui[e]sse ni<n>gu<n>
+dellos. & tome una legara fecha assi. {DIAG.} . Et
+raer le el huesso. & si fallare algunos huessos q<ue> sean.
+mouidos de la malautia tirargelos co<n> la legara & eche
+los fuera. & faga estos poluos. Tomar cal biua. Miel.
+Sal. & amasar lo en uno. & poner lo enel fuego. & cue-ga}
+[fol. 17r]
+{CB1.
+ta<n>to fasta q<ue> sea mucho bermeio. & q<ue> q[*<u><<i>>]era tornar a[ ]p[*<r><<i>>]e-
+to. & dexar los enfriar & moler los & cernellos. & tomar esti-
+ercol muerto de om<n>e. carne de puerco mag<r><<a>> la mas.
+salada. & q<ue>marlo<<s>> & moler los. & boluer los co<n> estos dichos.
+& lauar le la llaga cada dia dos uezes co<n> uino fuert. &
+echar le estos poluos dent<r><<o>>. & assi se guaresc'ra la fistula.
+& la llaga.
+{RUB. Titulo .L<<a>>v<<o>>. delos cauallos q<ue> han pulmo<n>.}
+{IN2.} Faze se alos cauallos vna enfermedat q<ue>l dize<n> pulmo<n>
+& faze se en la rodiella & finche se de humores & si
+no<n> les acorre<n> mucho ayna estos humores faze<n> se aguaza.
+q<u><<i>>er dezir tanto como flema q<ue> no es q<u><<a>>iada. & es ent<r><<e>> ue-
+nino. & agua. & si mucho ayna nol dan conseio q<u><<a>>iase. & fa-
+ze se p<u>lmo<n>. & por esta razo<n> llama<n> a esta enfermedat p<u>lmo<n>.
+& esta dolentia mie<n>tre es aguaza guaresce en esta guisa.
+tomar una lanceta. & foradalla de parte de yuso entre
+lo sano. & lo enfermo. & llegue la lanceta a medio o[ ]ma<<s>>.
+& sacar aq<ue>lla agua dende. & q<u><<a>>n<d>o fu<er>e fuera. echarle
+dent<r><<o>> vn poco de aziniar. & tenga lo medio dia. & (^va)[^de][ ]pues
+lauargelo co<n> azeite tibio por q<ue> muera el azi<n>iar & esto se
+faga por q<ue> q<u><<i>>ebre la bexiga. & no<n> se pueda en ella encer-
+rar aquaza ni<n>guna. & tomar el olio del linueso. & un-
+tar le mucho la rodiella tres uezes al dia. E si fu<er>e fecho
+pulmo<n> tomar una la<n>ceta. & metergela assi como desu-so}
+[fol. 17v]
+{CB1.
+es dicho & t[*<ra>]hergela entrel cuero. & el huesso por q<ue> rompa
+a( )q<ue>l p<u>lmo<n>. por razo<n> q<ue>l pueda descastar la melezina q<ue>l fa-
+ra<n> desuso & guarde toda uia la fue<n>t q<ue> nol ta<n>ga<n> enella &
+tomar. Sal. Azeyte. Pez. Seuo de cabro<n> ac'ie<n>so molido.
+& todesto firue<n>tallo sobrel fuego. & [i]asarle mucho la rodiella.
+& desangrargela co<n> vn fuste. E tomar una mordaza & vn
+ligaio en ella & en firuie<n>do moiar enla pegu<n>ta & batille mu-
+cho la rodiella co<n> ello fata q<ue> sea despe<n>dida. Et estar assi fata
+.ix. dias q<ue> nol vnte<n> co<n> ni<n>guna cosa. & guarde<n> le q<ue> lo no<n> co-
+ma ni<n> se moie. & de los .ix. dias Adela<n>te meta<n> le enel agua
+cada dia dos uezes & q<u><<a>>n<d>o fu<er>e enxuto vntar le co<n> el azeyte
+frio co<n> una pen<n>ola.
+{RUB. Titulo .L.vi. del cauallo q<ue> ha una enfermedat q<ue> dize<n>
+sobre huesso.}
+{IN2.} Faze se a[ ]muchos cauallos una enfermedad q<ue> le(s) dize<n>
+sobre huesso. Et faze<n> se dellos por natura de padre q<ue> los
+ouo o q<ue> los a. & salle el fijo a[ ]el en esto assi como en la color
+o como en[ ]fermosura o en feedat o en ot<r><<a>>s malautias mu-
+chas q<ue> se faze<n>. Alos fijos assi como las an los padres. Ot<r><<o>>ssi
+se faz de ferida de coz de ot<r><<o>> cauallo o de piedra o de fuste o
+por muy gra<n>d affan q<ue>l dan q<u><<a>>n<d>o es ioue<n>. Onde co<n>uiene
+q<ue>l de curas como guarezca. Ay muchos o<mne>s q<ue> los labran assi.
+Raen el sobre vesso. & [i]asanlo. & dessang<r><<a>>n lo mas q<ue> puede<n>. &[ ]de-
+sent bate<n>lo con la pecu<n>ta. q<ue> se faze delas q<ue> de suso son dicha<<s>>.}
+[fol. 18r]
+{CB1.
+enel labramie<n>to dela rodiella. E ay otros q[*<ue> lo rahen & lo iassan]
+elo dessang<r><<a>>n. & toma<n> la corteza del toc'ino & tuellen todo lo g<r><<u>>e<<s>>-
+so. & trastaia<n> la de parte dela carne. & echa<n> hy mucha sal
+menuda. & pone<n>gela sobrel huesso & ap<r><<i>>etan gela mucho co<n>
+una toca. & tiene la assi tres dias. & tres noches. & acabo delos
+tres dias tira<n>gela(s). & vnta<n>gelo co<n> el azeyte tibio co<n> una pe-
+n<n>ola & mete<n> le cada dia Al rezial. Estas so<n> labraduras q<ue>
+auiene<n> pocas uezes a[ ]guarecimie<n>to. Et co<n>uiene pora derra-
+ygallo. & sanar. toma tres huessos & echar los molleios fue-
+ra & meter los enel fuego. & mie<n>tre los molleios se faze<n> duro<<s>>
+muy duros. raer el sobre huesso. & iessar le vn poco. & tomar
+el vn moyuelo. & ponergelo de suso &[ ]ap<re>targelo fuert mien-
+tre co<n> una toca. & lexar lo assi un rato. & q<u><<a>>ndo fu<er>e frido to-
+lergele. & ponerle ot<r><<o>> muy calient & en esta guisa fazerge-
+lo fasta q<ue> sean los tres moyuelos puestos. & esto fecho. [i]assar
+le ot<r><<a>> uez. & tomar el reialgar. & aziniar buelto & echar gelo
+de suso. & estar assi fata .ix. dias. Et delos .ix. dias adelante
+meter le cadal dia dos uezes enel rezial. Et q<u><<a>>n<d>o fu<er>e sallido del
+rezial hu<n>targelo co<n> el azeyte tibio. O derribar el cauallo et
+prender le[ ]bie<n> co<n> sogas. & tomar el agua frida. & moiarle.
+mucho el sobre huesso. & tomar los fierros muy calientes assi
+q<ue> sea<n> bla<n>cos. & parargelos sobrel sobre huesso enguisa q<ue> no<n> llege
+a el co<n> una p<u>lgada. & camiar los fierros a menudo fata q<ue> se
+enxugue el pelo. Et[ ]q<u><<a>>n<d>o sea enxuto moiar le ot<ra> uez. Et po-[*ner]}
+[fol. 18v]
+{CB1.
+[*le los fierros fata q<ue>] se enxugue el pelo. & q<u><<a>>n<d>o sea enxuto.
+moiar le ot<r><<a>> uez. & poner le los fierros fata q<ue> se enxugue. & fazer
+lo assi muchas uezes fata q<ue> el pelo por si se caya. & finq<ue> el so-
+bre huesso puro sin pelo. & depues [i]assarlo mucho menudo. &
+fondo. & desang<r><<a>>r lo. & q<u><<a>>n<d>o fu<er>e desang<r><<a>>do tomar el rechgalgar. &
+el azi<n>jar. & echargelo de suso. & estar assi fata .ix<<e>>. dias. & guar-
+dar q<ue> lo no<n> coma ni<n> sele moie por ni<n>guna guisa. &[ ]delos .ix<<e>>.
+dias adelante. (oxter)[meter] le cada dia enel rezial dos uezes al[ ]dia.
+& q<u><<a>>n<d>o salliere del agua tener le arena muerta c'ernida. & echar
+gela de suso. & q<u><<a>>n<d>o fu<er>e enxuto vntargelo co<n> azeyte frio con
+una pen<n>ola. & q<u><<a>>n<d>o fuere<n> los .vij. dias co<m>plidos saldra el sobre
+huesso entero. & fincara el forado enla can<n>a. assi como nuez
+ezcoznada. & depues lauargelo co<n> el uino bueno. & tomar el
+estiercol muerto del om<n>e. & q<ue>marlo. & faz<er> lo poluos. & echarge-
+lo de suso. & u<er>na el huesso. & el cuero. & el pelo como deuiere.
+{RUB. Titulo . L<<a>>.vij. Del cauallo q<ue> q<u><<i>>ebra la can<n>a.}
+{IN2.} Si algunos cauallos diere<n> ferida o coz de ot<r><<a>> bestia ode piedra.
+ode palo. o de ot<r><<a>>s cosas semeiables. assi q<ue>l q<ue>bra<n>ta la can<n>a.
+Pora esto guarezer co<n>uiene tomar el cauallo. & poner le so el
+uie<n>tre algunas fazq<u><<i>>as. q<ue> el cauallo en guisa q<ue> finq<ue> los tres
+pies en t<ier>ra algu<n> q<u><<a>>nto. & asentar le los huessos cada uno en[ ]su
+logar drecha mient<r><<e>> segu<n>d co<n>uiene por q<ue> no<n> se[ ]le[ ]faga hy sobre
+huesso. & iassar le aq<ue>l logar o es la q<ue>bradura. Et fazer le una
+bitma destas cosas. Tomar farina de t<r><<i>>go. Abxah<a>m. Albi<n>. Ac'ie<n>-so.}
+[fol. 19r]
+{CB1.
+pez. Vidrio. & moler lo todo. & tomar [*el bla<n>co del hueuo & ba]-
+tir lo mucho. & echar ende la espuma. & co<n> este bla<n>co. & co<n> una
+poca de agua. & batir todas estas cosas co<n> ello. Ata<n>to fasta q<ue> fa-
+ga muy lue<n>ga correa. & tomar una nauaia. & raer le la can<n>a.
+& dende enboluergela bie<n> co<n> esta bitma. & lexar le vn suspiro<n>
+poro salga la flema q<ue> sele hy aju<n>tare. E poner le unas estopas
+de suso. & lexar le assi q<ue> nol faga<n> ni<n>guna ot<r><<a>> cosa. fasta .ix. .
+dias. & los .ix. dias co<m>plidos sera<n> los huessos soldados. & de los .ix.
+dias adela<n>te meter le enel agua frida por q<ue> se ap<r><<i>>ete<n> las carnes.
+{RUB. Titulo .L<<a>>.viij<<o>>. Dela enfermedat. Q<u>e dize<n> bexigas.}
+{IN2.} Faze se alos cauallos una enfermedat q<ue>l dize<n> bexigas. Et
+faze<n> se de aiu[<n>]tamie<n>to de malos (de malos) humores. & fin-
+cha se. & leua<n>ta el cuero assi como una auellana. & faze se
+buelta como venino. & dize<n> le aguaza. & gouierna se de
+las uenas capituales. Ot<r><<o>>ssi se faze de gra<n>d affan q<ue> dan alos
+cauallos. q<u><<a>>ndo son iouenes. & faze se q<u><<a>>n<d>o el cauallo uiene
+del agua. o anda por lodo. & lo mete<n> en el estaulo ante q<ue>l e[<n>]xu-
+gue<n>. Et ot<r><<o>>ssi se faze q<u><<a>>n<d>o el cauallo a corrido o anda luenga
+iornada [&] ante q<ue>l sazone<n>. o (el)[lo] enfrie<n>. mete<n> lo en el establo on-
+de co<n>uiene de dar conseio (q<ue>) [a] esta dole<n>cia. Tomar. & meter vn
+ouiello de parte de[ ]de<n>tro de la fuent & ap<re>tar gelo bie<n> co<n> la ma-
+no assi q<ue>l eche la bexiga fu<er>a. & p<re>nder una lanceta fecha assi.
+{DIAG.} . E foradar la por el cuero sano. fata q<ue> salga el ag<u><<a>>-
+za q<ue> es dent<r><<o>>. Et q<u><<a>>n<d>o fu<er>e sallida tomar una pen<n>ola. & vntar}
+[fol. 19v]
+{CB1.
+[*la] con un poco de azeyte. Et enboluer la enel aziniar. & meterge-
+la por aq<ue>l forado. & tenga la assi vn dia o una noche. & sacarge-
+la & p<re>mer le bie<n> la bixiga. & tomar. Alq<u><<i>>t<r><<a>>n. Seuo de cabro<n>. (A)
+Azeyte. Sal. Sayn uieio. Arena del rio. & feruir lo mucho
+en una sarte<n>. & tomar. vna mordaza co<n> un ligaio & batir
+gelo mucho fata q<ue> se despie<n>da esta pegu<n>ta. & sea assi fata .ix.
+dias & depues met<er> le cada dia dos uezes en el agua & q<u><<a>>n<d>o sal-
+ga echen le del arena de suso & depues vntar le co<n> el azeite
+frio co<n> una pen<n>ola.
+{RUB. Titulo L<<a>>(^viij.)[^ix.] Dela enfermedat q<ue> dize<n> escan<n>eladura.}
+{IN2.} Faze se una enfermedat alos cauallos q<ue> dize<n> descan<n>eladu-
+ra q<u><<i>>er dezir tanto como las caniellas del cauallo delas
+q<u><<a>><r>tiellas que son [des]aju<n>tadas una dot<r><<a>>. & fazes q<u><<a>>n<d>o corre el caual-
+lo por pedregal. & pone la mano en desuaro. & tuerce<n> se las ca-
+niellas. & abre<n> se una dot<r><<a>>. & faze se q<u><<a>>n<d>o corre Sabinado re-
+cuesto ayuso. Ot<r><<o>>ssi se faze q<u><<a>>n<d>o corre per carrera tiesta el tiene<n>
+rezia me<n>t. Et faze se q<u><<a>>n<d>o mete la mano entre dos uigas.
+o entre dos piedras. o entre ot<r><<a>>s cosas semeiables. Esta dole<n>-
+cia guaresce assi. Raer la q<u><<a>>rtiella. & iassar la & dessang<r><<a>>rla
+con un fuste q<u><<a>>nto podiere & tomar. farina de t<r><<i>>go cernida.
+Aluin. Ascie<n>so. Abxah<a>m. pez. vidrio. Arena. & los bla<n>cos de
+los veuos & batillos. & echar ende la espuma. & boluer lo en u-
+no & ba[ra]xar le mucho assi q<ue> se faga muy longa correa. & po-
+ner le esta bitma enderredor dela q<u><<a>>rtiella. & de suso estopas.}
+{CW. .& sea assi.}
+[fol. 20r]
+{CB1.
+& sea assi fasta q<ue> se[ ]a ellas se cayan. E ot<r><<o>>ssi iassar la q<u><<a>>rtiella.
+& desangra[r] la. & tomar alq<u><<i>>tran. vinag<r><<e>>. Seuo de cabro<n>. Aci-
+enso. Pez. Sal. Cera. Arena. Sayn uieio. & feruir lo todo
+en una sarte<n>. & tomar una mordaza co<n> un ligaio. & moiar
+alli do firue. & ferille mucho co<n> ello fata q<ue> sea espe<n>dida.
+& sea assi fasta ix. dias. & guardalle ques[e] le no<n> coma ni<n>
+sele moie. & de<n>t adela<n>te meter le cada dia enel rec'ial. et
+q<u><<a>>n<d>o salga del agua echarle del arena de suso. & q<u><<a>>n<d>o fue(<re>)re
+enxuto hu<n>targelo co<n> azeyte co<n> una pen<n>ola. {RUB. L<<a>>.x. {BLNK.}
+titulo dela enfermedat.
+q<ue> dizen raza.}
+{IN2.} Faze se alos cauallos una malautia q<ue>l dize<n> Rac'a. Et
+faze se de seq<ue>dat dela un<n>a. & faze se de correr por.
+carrera tiesta o por pedregosa. Ot<r><<o>>ssi faze se por aguadura.
+o desaynadura. pues co<n>uiene mostrar guarecella. Tomar
+dos escoplos ta<n> ancho el uno como el ot<r><<o>> fechos assi.
+{DIAG.} .E cale<n>tar los bie<n> & metergelo<<s>>
+enla corona & trauesar le la rac'a fasta q<ue> llegue alo biuo
+& dexar le assi fasta .v. o .vij. dias & de<n>t derribar el[ ]cauallo
+& cale<n>tar estos escoplos. & poner le el uno en aq<ue>l logar e[ ]el
+ot<r><<o>> de cuesta en guisa [que] ta<n>ga la una q<ue>madura ala ot<r><<a>> e[ ]el[ ]ot<r>(<<a>>)[o]
+ala ot<r><<a>> cuesta. & el ot<r><<o>> de yuso assi q<ue> se tanga<n> todas q<u><<a>>tro las
+q<ue>maduras en uno. affonden se ta<n>to q<ue> llegue<n> alo biuo. &
+saq<ue> aq<ue>lla una de medio q<u><<a>>drada como dado. & q<ue> salga toda}
+[fol. 20v]
+{CB1.
+fatal maslo. & echar le dent<r><<o>> el rege( )algar. & tenga lo .i.
+dia o una noch. & sacargelo con el azeyte tybio. & fazer
+un plomo como la un<n>a q<ue> sacare & met<er>gelo en aq<ue>l fo-
+rado & atargelo co<n> .i. pan<n>o delgado por q<ue> no<n> se salga
+& tomar estas cosas & fazer dellas hu<n>g[u]e<n>t. Seuo de ca-
+bro<n> .iij. l<ibras>. Sayn uieio .iiij. l<ibras>. Manteca cocha de o-
+ueias .iij. l<ibras>. Azeyte .iij. l<ibras>. Alui<n> m<e>d[i]o m<a>r<avedi>. Postoligo<n> de
+can<n>uto .v. l<ibras>. Acie<n>so .iij. l<ibras>. Cera m<e>d<i>o m<a>r<avedi>. & tomar esta<<s>>
+cosas & retir lo q<ue> es de retir & moler lo al. & lo q<ue> fu<er>e
+molido cierna<n> lo muchas uezes fasta q<ue> lo falle<n> bla<n>do
+entre los dedos q<ue> no<n> falle<n> hy asp<er>ura ni<n>guna & boluer
+(lo en uno. & boluer) lo en uno. & feruir lo en una sarte<n>.
+& q<u><<a>>n<d>o fu<er>e feruido echar lo en una haltamia. & dexar
+lo elar. & untar le mucho la corona co<n> ello dos uezes
+o tres al dia. & q<u><<a>>n<d>o le hu<n>tare<n> saq<ue>n el plomo & torne<n>
+gelo luego. fata .ix. dias. & de .ix. dias adela<n>t no<n> ten-
+ga mas el plomo. & el untar no<n> dexe fasta q<ue> sea sa-no.
+{RUB. Titulo .Lxi. Dela enfer[medat] que se cae [%2]
+la c'apata toda al cauallo.}
+{IN2.} Ay muchos cauallos q<ue> se le[s] cae(n) la c'apata toda este
+mal les uiene q<u><<a>>n<d>o se agua<n>. & estan muchos dia<<s>>
+q<ue>l nol acorre<n> a[ ]melezinar como deue<n>. & zuma ueni-
+no la corona. & finche se. & por esta razo<n> cae la c'apa-
+ta. Otrossi cae q<u><<a>>n<d>o corre & entrepiec'a. & da la c'apata}
+[fol. 21r]
+{CB1.
+fuera & finca la corona aue<n>tada. & caese por met<er> la
+mano entre dos piedras o dos maderos. o en (o en) ot<r><<a>>s
+cosas semeiables. por q<ue> co<n>uiene pora guarec'er este mal
+tomar. Alq<u><<i>>tra<n>. Azeyte. Cera. Sayn. & ferue<n>tallo en.
+uno. & q<ue>mar le el maslo co<n> ello & echar le la sal. & el azey-
+te en uno & moiar en ello las estopas de lino. & echar
+desuso la farina de t<r><<i>>go c'ernida sobre las estopas & el.
+azeyte. & depues untar le cada dia dos uezes co<n> miel
+tibia co<n> una pen<n>ola. & echar desuso estos poluos. To-
+mar estiercol seco de om<n>e. & casco de g<r><<a>>nada. & ffarina
+de t<r><<i>>go cernida pie de col q<ue>mado. & q<ue>mallo & fazello
+poluos. & echargelo sobre la hu<n>tad(e)[^<<u>>]ra de miel. E si
+uier q<ue> el maslo q<u><<i>>er soberuiar tomar estos poluos.
+Cal uiua. Miel. Sal. Carne de puerco magra. & q<ue>-
+mar lo todo & fac'er lo[s] poluos & cerner los & de<n>t lauar
+le la mano fuert me<n>t co<n> bue<n> uino. & echar le estos
+poluos fata q<ue> el maslo sea enxuto. & tornado en su
+estado. & de<n>t fazer le lo q<ue> es dicho.
+{RUB. Titulo .Lxij. dela enfermedat
+q<ue> dize<n> enpedradura.}
+{IN2.} Faze se una dole<n>cia alos cauallos q<ue> dize<n> enpedra-
+d(r)ura. Ay ot<r><<o>>s om<n>es q<ue>l dize<n> calcadura en[ ]duro
+este no<m>bre ha por q<ue> q<u><<a>>n<d>o corre en carrera dur(o)[a] o an-
+da rezia me<n>t q<ue> pone la mano o el pie sobre piedra}
+[fol. 21v]
+{CB1.
+o sobre ot<r><<a>> cosa dura. E por( )a esta enfermedat es me<<s>>-
+ter fa(^c')zer le mucho la suela. & co<n> unas tenazas catargela
+& daq<ue>l logar q<ue> se duele tomar una legara fecha assi.
+{DIAG.} & sacar le una poca de sangre. & q<u><<a>>n<d>o la sangre
+fu<er>e sallida fregargelo co<n> sal & agua. & poner le un poco de
+butago picado. o sal & azeyte & tomar estopa picada &
+boluer la co<n> seuo de cabro<n> ode carnero & met<er>gelo de<n>tro &
+echar le su ferradura.
+{RUB. Titulo Lxiij. dela dolencia q<ue> dize<n> alca<n>zadura.}
+{IN2.} Faze se una dolencia alos cauallos q<ue>l dize<n> alca<n>zadu-
+ra. & faze se q<u><<a>>n<d>o el cauallo corre o anda rezia me<n>t
+& alca<n>za la mano co<n> el pie o[ ]uiene ot<r><<a>> bestia en pos el &
+alca<n>c'al. Co<n>uiene pora guarecer si la carne no es abierta
+& es machucada. tomar seuo de cabro<n> & maiar lo co<n> los aio<<s>>
+& fazer una tortiella. & calentar lo enel uino & pon<er>gelo
+de suso calie<n>t q<u><<a>>nto lo pueda sofrir. tres dias dos uezes
+cada dia & guardar lo q<ue> no<n> lo coma ni ent<r><<e>> en agua.
+E tomar estiercol de puerco. & ferue<n>tallo mucho enel
+uinagre & fazer un enplasto dello & ponergelo de suso
+dos o[ ]tres. dias. dos uezes al dia & sacar le a la dole<n>cia
+E si fu<er>e la carne del alca<n>c'adura podrida espuchargelo
+a & abrirgelo a. & tomar & sacar el blanco del ueuo & ba-
+tir lo & echar el espuma & moler la pe(^r)c' & el acie<n>so. & bol-
+uer lo co<n> el albura & pon<er> gelo de suso. & tirar la el ueni-no}
+[fol. 22r]
+{CB1.
+(& traher) & traer le ala carne buena & en( )corargelo a.
+E si fu<er>e el alca<n>c[']adura abierta poner esto mismo. & gua-
+rec'ergelo a. E si fu<er>e el alca<n>c'adura enel neruio. Raerle
+& pasar le. & desang<r><<a>>r le. Et tomar. Seuo de cabro<n>. Vinag<r><<e>>
+Sal. Pez. Acie<n>so. Arena del rio. & faz feruillo en u[<n>]a sarte<n>.
+& en firuie<n>do tomar una mordac'a. & un ligaio & moiar
+lo & costrargelo mucho co<n> ello & guardar q<ue> lo no<n> coma ni<n>
+ent<r><<e>> en agua. fasta .ix. dias & dende adela<n>te met<er> le cada
+dia enel rec'ial. & q<u><<a>>n<d>o saliere & fu<er>e enxuto untargelo
+co<n> el azeyte frio.
+{RUB. Titulo .Lxiiij. Dela dolencia
+que dize<n> tronamie<n>to.}
+{IN2.} Faze se alos cauallos una dolenc'ia q<ue>l dize<n> tronamie<n>to
+& faze se q<u><<a>>n<d>o el cauallo corre o anda rezia me<n>t & en-
+trepiec'a & faze se enla mano & conoc'e se q<ue> se duele mu-
+cho & nol falla de q<ue>. Guaresc'e assi fazer le la[ ]mano & a-
+palpargela(s) co<n> tenazas & no<n> se duele q<ue> gelo entiendan
+de[ ]q<ue> & finca<n> la mano llana. & q<u><<a>>n<d>o lo para om<n>e tie<n>de
+el brac'o. El no ente<n>dimie<n>to es. por q<ue> esta el mal de<n>tro en-
+cerrado en la hun<n>a Ende co<n>uiene pora esta dolencia.
+guarec'er tomar. Seuo de cabro<n>. Affrecho. Sal. & retir
+el seuo. & dexar lo en los chicharrones. & boluer co<n> ello el
+affrecho. & la sal. & feruillo en uno & poner gelo de<n>tro en
+la cuec'a lo mas calie<n>te q<ue> pudiere<n> & q<ue> sea zumoso al}
+[fol. 22v]
+{CB1.
+dia tres o q<u><<a>>tro uezes. Si fu<er>e la dole<n>cia uieia despalme<n>lo
+& q<ue>mar le la palma co<n> estos fierros. {DIAG.}
+calientes & tomar el azeyte. & la Sal. & moiar las
+estopas de lino en ello & echar le farina de t<r><<i>>go de suso &
+ponergelo sobre la espalmadura. & catargelo assi dos ue-
+zes cada dia & si el maslo q<u><<i>>siere acrece<n>tar algu<n> q<u><<a>>nto (e)
+echarle delos poluos de la cal q<ue> se faze<n> como dicho es en
+la cura del cauallo q<ue> se le cae toda la c'apata.
+{RUB. Titulo .Lx(^iiij)[^.v.] Del pulmo<n> q<ue> se faze
+en las despalmaduras.}
+{IN2.} Faze se alos cauallos vna maletia en las manos o en
+los pies q<ue>[ ]llam[a<n>] pulmo<n>. Este no<m>bre ha por ra(^s)[^z]o<n> q<ue> se
+cria enlas despalmaduras una carne sobeiana q<ue> no es
+de su natura & crec'e ta<n>to q<ue> se eguala co<n> el casco o[ ]mas.
+& este no<m>bre ha por q<ue> se faze semeia<n>te p<u>lmo<n> de uaca esta
+dole<n>cia uiene por q<ue> ay muchos q<ue> espalma<n> el cauallo & nol
+saben guarec'er ni<n> ap<r><<e>>miar el maslo como a menest<er>. On-
+de co<n>uiene pora guarec'er esta dolencia derribar el cauallo
+& pon<er> todo el pulmo<n> troa el huesso co<n> un la<m>brox fecho assi.
+{DIAG.} ponido & q<ue>margelo co<n> estos fierros. {DIAG.}
+{DIAG.} mucho fata q<ue> toda la carne huela q<ue>mada & to-
+mar estiercol de bestia & ponergelo enla palma & te<n>ga lo
+assi vn dia fata q<ue> la sangre sea esta<n>cada & tomar azeite
+& sal & moie<n> en ello las estopas & eche<n> la farina de la ca<m>pa-na}
+[fol. 23r]
+{CB1.
+fata .ix. dias. & dende tome<n> los poluos fechos de cal.
+Miel. Sal. Assi como es dicho en la maletia de la c'apata.
+q<ue> se cae. & echargelos de[ ]suso fata q<ue> guarezca q<ue> estos pol-
+uos lo defendran q<ue> no<n> pueda el maslo soberuiar ni<n> ma-
+nar ni<n> uenir y otra accion & q<u><<a>>n<d>o fuere la suela uenida
+fazet le la c'apata dalq<u><<i>>t<r><<a>>n & de escoria molida. & de Sal. &
+tostargelo ta<n>tas uezes co<n> los fierros dichos fata q<ue> se leua<n>-
+te la una foia & ue<n>ga la ot<r><<a>> un<n>a de yuso.
+{RUB. Titulo .Lxvj. dela enfermedat
+q<ue> dize<n> amagadura.}
+{IN2.} Faze se alos cauallos una malautia q<ue>l dize<n> amaga-
+dura. & faze se q<u><<a>>n<d>o el maslo a[ ]uenino & no<n> tiene.
+logar poro salga<n>. & a de manar suso por la corona pues
+co<n>uiene pora guarec'er catar le iuso en la palma co<n> una
+leg<r><<a>> fecha assi. {DIAG.} enel logar do se faze el ueni-
+no & de<n>de tomar el bla<n>co del hueuo batir lo & echar el es-
+puma dello. Pez. Ac'ie<n>so. & boluer lo en uno & catar le el
+amagadura de suso. & la labradura dela palma co<n> ello.
+E ot<r><<o>>ssi ay muchos om<ne>s q<ue> toma<n> el moyuelo del hueuo
+& echa<n> lo enel fuego e q<u><<a>>ndo es tostado pone<n>gelo enel ama-
+gadura. Ot<r><<o>>ssi ay ot<r><<o>>s q<ue> toma<n> el alfen<n>a & el casco dela gra-
+nada & el tan molido & buelue<n> lo en uno & echa<n> le so-
+brel amagadura.
+{RUB. Titulo .Lxvij<<o>>. Dela enfermedat q<ue> dize<n> tin<n>uella.}}
+[fol. 23v]
+{CB1.
+{IN2.} Faze se alos cauallos una enfermedat q<ue>l dize<n> tin<n>ue-
+la & faze se como sarna & faze se en las coronas. & es
+una enfermedat q<ue>l llora toda la corona & messa se et
+faze se esta dole<n>cia q<u><<a>>ndol mete<n> las manos moiadas enel
+estiercol & q<u><<a>>n<d>o mete la mano en el estiercol fresco de om<n>e
+& no<n> gelo alimpia<n>. & conuiene pora guarec'er tomar estopa<<s>>
+& moiar las en el azeyte. & en la sal. & echar de suso la farina.
+del t<r><<i>>go & pon[<er>]gelo en derredor dela corona fasta q<ue> guarezca.
+{RUB. Titulo Lxviij. Dela enfermedat.
+q<ue> dize<n> desaynadura.}
+{IN2.} Faze se alos cauallos una maletia q<ue> dize<n> desaynadura
+& faze se por seer mucho en establo & toma gra<n>d gor-
+den & an las gra<n>des carnes q<ue> les pone<n>. Desce<n>de les la fle-
+ma q<ue> salle del gorde<n> pora las uenas. & lo q<ue> deue seer sang<r><<e>>
+finche se de la flema q<ue> uiene buelta co<n> la gorden & desce<n>-
+de ayuso alas un<n>as. & semeia q<ue> q<u><<a>>n<d>o anda como el om<n>e
+q<ue> anda descalc'o sobre espinas. Ende co<n>uiene pora los gua-
+rec'er. fazer mucho las suelas de todos los q<u><<a>>tro pies con
+una legra fecha assi {DIAG.} Atanto fata q<ue> la suela
+este toda bla<n>ca & guardar le q<ue> no<n> salga sang<r><<e>>. Tomar
+sebo de cabro<n> retido & finq<ue> co<n> aq<ue>llo q<ue> no<n> se puede retir.
+Sal. Affrecho seco. & boluer lo en uino calient. & pon<e>r
+gele en todas las .iiij. suelas assi q<ue> aya y c'umo & faz<er>
+gelo esto ocho dias cada dia dos uezes & tomar. Alq<u><<i>>t<r><<a>>n.}
+[fol. 24r]
+{CB1.
+Seuo de cabro<n>. Cera. Sal. Miel. henchir le las pal-
+mas dello & toma[r] estos fierros (& cale<n>tar los) {DIAG.}
+{DIAG.} & cale<n>tar los & trahergelos sobre esto much
+q<ue>do tanto fasta q<ue> gelo faga todo beuer. & despues tomar
+estopas de lino & fenchir le las cuec'as bie<n> & atargelas
+por q<ue> se enbeua la cale<n>tura de<n>tro enla un[<n>]a et esto fa-
+zer gelo a cabo. de .iiii. dias .i<<a>>. uez fasta q<ue> salga<n> las
+suelas todas foras.
+{RUB. Titulo .Lxix. Dela enfermedat
+que dizen lamparones.}
+{IN2.} Faze se una maletia alos cauallos q<ue>l dic'e<n> lampa-
+rones. Ay ot<r><<o>>s o<mne>s q<ue>l dize<n> cucas. & faze<n> se de sobre
+habu<n>da<n>cia de sangre. & de aiu<n>tamie<n>to de malos hu-
+mores q<ue> desce<n>den por las uenas capituales. & asie<n>-
+tan se en las mismas uenas enlos logares do seles.
+antoia. Estas humores buelue<n> se co<n> la sang<r><<e>> & faze<n> se
+uenino & pues q<ue> son benino fazen se toro<n>dos. & los.
+torondos abren se & mana aq<ue>l benino per ellos. & faze<n>
+una madre q<ue>l llama<n> cabec'a esta madre pare. & si no
+es mucho ayna guarida faze muchos fijos. & cu<n>den
+se por el brac'o. p<r><<i>>m<er>a ment. & del brac'o sube<n> alos pechos.
+& si no<n> son guarecidos desce<n>den alas piernas. & sube<n> alos
+coion<n>es & al uergaio. & pues q<ue> son en estos logares es
+el cauallo p<er>dido. Ende co<n>uiene de dar co<n>seio en esta}
+[fol. 24v]
+{CB1.
+dolencia. catar le la cabeza. & si no<n> fuer iu<n>tada a ner-
+uio espetar por ello un coruiello. & taiar la co<n> una
+nauaia o co<n> un cuchiello mucho agudo & q<u><<a>>n<d>o fuer
+taiada tomar .i. fierro fecho assi. {DIAG.} &
+q<ue>mar la mucho & untar la co<n> azeyt tibio. & echar
+de suso los poluos fechos del estiercol q<ue>mado de om<n>e.
+& boluerlos co<n> farina de t<r><<i>>go cernida & lauar la bie<n> co<n>
+el uino & co<n> la miel. & co<n> sal temprada en uno & echar
+le estos poluos de suso & pora los fijos tomar un fierro
+fecho assi. {DIAG.} e q<ue>mar los todos cada uno
+& meter en cada uno un poq<u><<i>>ello de aziniar. & tener
+lo hu<n> dia & una noch. & depues echar estos poluos
+de suso. los mismos poluos q<ue> de suso son dichos & to-
+mar & t<r><<a>>her el cauallo una pieza rec'ia me<n>t por q<ue>
+se escalie<n>te q<ue>l parezca<n> bie<n> las uenas. & sang<r><<a>>lle en
+amas las uenas delos brac'os capituales q<u><<a>>nto un xe-
+me peq<uen>no so el aiu<n>tamie<n>to delos pechos. E si el caual-
+lo fu<er>e eguado. sacar del tres libras de sang<r><<e>>. & si fu<er>e[ ]de
+q<u><<a>>tro die<n>tes sacarle dos. & si fu<er>e de dos die<n>tes. & rezio.
+sacarle libra & media. & si no<n> fu<er>e rezio tollerle de
+cada edat q<ue> nol saq<ue>n ta<n>to co<n> media libra. & de<n>t to-
+mar este fierro dicho coruo. & cale<n>tarle. & q<u><<a>>n<d>o fu<er>e
+calie<n>t foradargelos todos assi q<ue> entie<n>da el q<ue> lo fiziere
+q<ue> passa la q<ue>madura el lamparo<n>. & q<u><<a>>n<d>o assi fuere<n> q<ue>-mados}
+[fol. 25r]
+{CB1.
+tomar la rayz del pa<n>tafilo<n>. q<ue> es la can<n>a corta
+del no mas lue<n>ga. q<ue> .i. palmo & bermeia. & ala foia
+fecha como oliua saluo q<ue> la no a taman<n>a. & ala me-
+nudiella & po<n>e en cada uno destos la<m>parones una ra-
+yz della. & alos .vij. dias. o a los .viij. dias co<m>plidos.
+s<er>an todos podridos. & caidos. E q<u><<a>>n<d>o fu<er>en caidos to-
+mar azeyt tibio co<n> una pen<n>ola untargelos. & tomar
+los poluos q<ue>mados del om<n>e & boluer la farina del t<r><<i>>go
+co<n> ellos & echargelos desuso. E ay algunos q<ue> los labra<n>
+en esta guisa q<ue> toma<n> un fierro fecho assi. {DIAG. espacio dejado para diagrama}
+& calie<n>ta<n> le fata q<ue> es muy bla<n>co. & q<ue>ma<n>gelos todos
+fata la rayz. quier q<ue> sea<n> sobre neruio q<u><<i>>er sobre uena.
+Et toma<n> cal. Miel. Sal. Carne de puerco mag<r><<a>>. q<ue>ma-
+da. Estiercol q<ue>mado de o<mn>e & buelue<n> lo en uno. & laua<n>ge-
+los co<n> lexia fuert de enzina o de sarmie<n>to neg<r><<a>>l. & laua<n>
+las llagas muy fuert mie<n>tre co<n> ella & echa<n> le estos pol-
+uos fata q<ue> son guaridos.
+{RUB. Titulo .Lxx. Dela enfermedat
+q<ue> dizen aluaraz.}
+{IN2.} Faze se alos cauallos una maletia q<ue> dize<n> aluar(r)az
+q<u><<i>>er dezir ta<n>to como malato. & faze se lo mas dello
+por linage. & lo mas fuert. E ot<r><<o>>ssi se faz por q<ue> los ca-
+uallos faze<n> fornic'io co<n> yeguas q<ue> algunos ot<r><<o>>s caual-
+los q<ue> auien esta maletia lo auie<n> fecho. Ot<r><<o>>ssi se faz}
+[fol. 25v]
+{CB1.
+por seer mucho familiar el un cauallo co<n> el ot<r><<o>>. & co-
+mer & beuer co<n> el. o rascar se co<n> los die<n>tes o ffregar.
+se uno a ot<r><<o>> o por beuer en agua corrie<n>t. & beuer el q<ue> a
+el aluaraz de suso. & el ot<r><<o>> de yuso & por toller [la silla] a este.
+q<u><<a>>n<d>o suda & echar le al ot<r><<o>>. o por echar le su freno mie<n>-
+tre esta la baua en el. E fablamos por exe<m>plo delos.
+sabios antigos q<ue> si el cauall<er>o usa much a[ ]caualgar tal
+cauallo como este. q<ue> se acoge a el la maletia & mayor
+me<n>t en uerano q<u><<a>>n<d>o suda el cauallo. Et fallamos ma<<s>>
+por estos mismos sabios q<ue> el om<n>e q<ue>l g<u><<a>>rda en uerano q<ue>
+se acoge a el esta maletia por razo<n> del baho dela sudor
+q<u><<a>>n<d>o uiene sudado. & del anelo del cauallo q<ue>l da q<u><<a>>n<d>o
+alimpia la cara. & q<u><<a>>n<d>ol echa c'euada o yerua. pues
+co<n>uiene a esta maletia sangrar el cauallo en la ue-
+na del cuello p<r><<i>>m<er>a me<n>t. & sacar le tres libras de san-
+g<r><<e>>. & de<n>t a .ix. dias sangrar le en los brac'os dos mano<<s>>
+sobrel aiu<n>tamie<n>to delos pechos de las uenas p<r><<i>>ncipa-
+les. & sacar le dos libras. & de<n>t a .vj. dias sangralle en
+las piernas destas mismas uenas. vn xem sobre la
+garra & sacar le una libra & media. & q<u><<a>>n<d>o estas tres
+sang<r><<i>>as fuero<n> fechas tomar la belesa q<ue> es una yer-
+ua. q<ue> yuierno & uerano esta siemp<r><<e>> uerde. & a la foia
+redo<n>da. saluo q<ue> ha en somo hu<n> poq<u><<i>>ello. & el sayn de.
+puerco el mas uieio & la piedra sufre. & la sal. & maiar}
+[fol. 26r]
+{CB1.
+lo fuert en uno. & u<n>tallo co<n> ello ta<n>tas uezes fasta q<ue>l fa-
+ga el cuero de( )sollar. de sobre el aluaraz tres o q<u><<a>>tro ue-
+zes. & q<ue> uea q<ue> uiene el pelo enel de su color. Ot<r><<o>>ssi to-
+mar la sang<r><<e>> delas liebres. & untargelo mucho a[ ]menu-
+do co<n> ella. & echar le de suso los poluos del estiercol q<ue>mado
+de om<n>e & molido. & del pie dela col. & delas agallas de ma-
+g<n>a co<n>[ ]q<ue> faze<n> ti<n>ta & del estiercol dela gallina p<r><<i>>eta & fazer
+gelo poluos todo. & echargelos de suso. Ot<r><<o>>ssi tomar dela
+sang<r><<e>> delas golondrinas del p<r><<i>>m<er>o nido & hu<n>targelo mu-
+chas uezes co<n> ello. & q<u><<a>>n<d>o fu<er>e hu<n>tado tomar. Cal. Miel.
+sal. & fazer dello poluos. & cada uez q<ue> lo hu<n>tare<n> echarge-
+los de suso.
+{RUB. Titulo .Lxxi. Dela enfermedat (q<ue> dize<n> sarna)
+q<ue> dize<n> sarna.}
+{IN2.} Faze se alos cauallos vna enfermedat q<ue> dize<n> sar-
+na. & faze se por muchas man<er>as. la una de comi-
+enc'o. & viene de sobre habu<n>dancia de[ ]sang<r><<e>>. & Rasca se
+ta<n>to el cauallo hasta ques desuella todo. & faze se una
+costra. & cu<n>de todo el cuerpo assi q<ue> nol parec'e<n> los pelos.
+& pora guarec'er la. Sangrar el cauallo en la uena de me-
+dio el cuello. & sacar le dos o[ ]tres libras de sangre. Seg<un>d
+fu<er>e la hedat. & su fortalec'a. & tomar uelesa. Piedra suffre
+Say[<n>] uieio. Sal. & bolu<er>lo por q<u><<a>>rtos & maiar lo mucho &
+parar el cauallo al sol mas fuert. & hu<n>tar le mucho.}
+[fol. 26v]
+{CB1.
+co<n> ello .iij. dias o .iiij. & al q<u><<a>>rto dia caera la costra toda
+& fincara el pelo assi fermoso como si salliesse de alca-c'er.
+{RUB. Titulo .Lxxij. & ay ot<r><<a>> [%2]
+natura de sarna.}
+{IN2.} Ay ot<r><<a>> natura de sarna q<ue> se faze de malos humores.
+Q<u><<e>> se aiu<n>ta<n>. & faze toro<n>dos por el cuerpo del cauallo &
+mana aguac'a. Pora esto guarec'er. Sang<r><<a>>r el cauallo
+de la uena capitual q<ue> es en medio del cuello. & sacarle
+tres libras de sangre. & poner un fierro calient fecho
+assi. {DIAG.} q<u><<a>>nto un dedo por cada uno dellos
+q<ue> mana. & untar le una uez fuert mie<n>t<r><<e>> al sol co<n> la uele-
+sa co<n>faccionada assi como es dicho en la cura ante desta
+& tomar los poluos de la cal assi fechos como departi en
+la cura delos lamparon<e>s & echar dellos en cada q<ue>madu-
+ra q<ue>l fiziere<n>.
+{RUB. Titulo .Lxxiij. Delos cauallos q<ue> se
+fazen toro<n>do despolada.}
+{IN2.} Faze se una malautia [a] muchos cauallos q<ue>l salle
+un torondo enel costado q<ue> es gra<n>d como ueuo
+& este se faz de gra<n>d espolada q<ue>l dan faza el yiada. & tal
+espolada como esta se da co<n> muy gra<n>d mal[+]enconia q<ue> ti-
+ene en si el q<ue> enel anda. & es ta<n> fuerte q<ue> como q<u><<i>>er q<ue> no<n>
+rompe el cuero rompe la tela dentro. & por aq<ue>lla ro<m>pe-
+dura salle el redanuelo. E[ ]por este logar se faze el toro<n>do.}
+[fol. 27r]
+{CB1.
+pues co<n>uien<e> pora guarec'er derribar el cauallo. & abrille
+el cuero en drecho del toro<n>do co<n> una nauaia muy sotil
+me<n>t. en guisa q<ue> no<n> ta<n>ga al redan<n>uello & tornall assu lo-
+gar. & tomar un filo fuert & aiu<n>tar la tela foradada &
+atarla co<n> el. & lexar le q<u><<a>>nto .i. palmo delos cabos fuera
+& tomar .i. fierro fecho assi {DIAG.} E q<ue>marle mu-
+cho aq<ue>l forado dela tela q<ue> es atado & coser el cuero. & lexar
+los cabos fuera delos filos. por q<ue> q<u><<a>>n<d>o la tela uaya gua-
+rezie<n>do yran los filos podrecie<n>do & no<n> se encerrara<n> de<n>t<r><<o>>.
+E fazer un ungue<n>t co<n> q<ue>l unten destas cosas tomar.
+Say[<n>] uieio. Cera. Acie<n>so. Pez. & retillo en uno. & echar
+lo en una cosa q<ue> se yele & q<u><<a>>n<d>o fu<er>e vntado echar le de
+suso los poluos fechos del estiercol q<ue>mado.
+{RUB. Titulo .Lxxiiij. Delos cauallos.
+que se fazen agriones.}
+{IN2.} Faze se alos cauallos una dolencia q<ue>l dize<n> agrio<n>
+& fac'e se por q<ue>l descende del padre q<ue> lo a. o por morde-
+dura de ot<r><<a>> bestia o por seer en estable estrecho & ferirse. &
+faze se en los cobdiellos de parte de tras en las piernas
+& guarec'e assi. Raer el cobdiello. & iassar le fondo & menu-
+do & desangralle q<u><<a>>nto podiere & tomar. Pez. Sayn vieio.
+Azeyt. Seuo de cabro<n>. Vinagre. Sal. Arena. & feruillo
+en uno. & tomar una mordaza co<n> un ligaio & mo-
+iar la en ello feruie<n>do & dar le much[o]s fasta q<ue> sea des-pendido.}
+[fol. 27v]
+{CB1.
+{RUB. Titulo .Lxx.v. Dela.
+enfermedat que dize<n> corua.}
+{IN2.} Fac'e se alos cauallos una dole<n>cia q<ue>l dize<n> corua. Et
+dize<n> le assi por q<ue> faze en( )coruar la pierna en q<ue> se
+faz. & faze se a[ ]unos cauallos q<ue> son mucho enfrenado<<s>>
+& aremeten los & q<u><<a>>n<d>o uiene al tener no<n> cata hy me-
+sura si no<n> q<ue>l tiene recia ment. Ot<r><<o>>ssi se faz de gra<n>d.
+affan q<ue> dan al[ ]cauallo mie<n>tre es ioue<n>. o q<u><<a>>n<d>o esta el ca-
+uallo armado aremet<en> le recuesta ayuso & tuerce<n> se los
+neruios de las garras. & anuda<n> se & faze<n> se assi duros
+como si fuessen huessos. Ende co<n>uiene dar co<n>seio co-
+mo guarezca derribar el cauallo & raer le la corua.
+& iassar la fondo & menudo. & dessang<r><<a>>r la. & tomar. Sal
+bermeia. Cenisa de sarmie<n>to neg<r><<a>>l o dela cepa dela enzi-
+na. & boluer en uno & tomar un t<r><<a>>po rezio de lana & fre-
+gargelo tanto fata q<ue> sea desollada toda & q<ue> se cuelga la
+carne fata los neruios q<ue> no es cosa de peligro. & q<u><<a>>n<d>o
+esto fu<er>e fecho. tomar la cal biua. & echargela desuso &
+parar el cauallo en[ ]su estable. & guardar le q<ue> no<n> selo co-
+ma ni<n> se le moie fata .ix. dias. & cada dia req<ue>rirle
+& do zumare echar le la cal. & a[ ]cabo de los .ix. dias le-
+uar le Al rezial & tener le muy gra<n>d piec'a. & q<u><<a>>n<d>ol sa-
+care<n> del agua t<r><<a>>her le fata q<ue> se enxugue. & de<n>de moiar
+le co<n> el azeyte tibio co<n> una pen<n>ola. & echar le los pol-uos}
+{CW. .uos de la cal.}
+[fol. 28r]
+{CB1.
+de la cal.
+{RUB. Titulo de Lxxvj. Dela enfermedat
+que dizen coruazas.}
+{IN2.} Faze se alos cauallos una dolencia q<ue>l dize<n> coruaza.
+& faze se delante o[ ]se acorua la pierna & faze se de gra<n>d
+affan q<ue>l dan. & guarece assi tomar .i. fierro agudo.
+fecho assi. {DIAG.} & metergelo entrel cuero sano. & lo.
+enfermo. & ro<m>p<er> una uexiga q<ue> esta dent<<r>>o & sacar le u-
+na aguaza que se faz y. & untar una pen<n>ola de an-
+sar enel azeit. & depues echar le el azi<n>jar de suso & me-
+tergelo q<u><<a>>nto pudiere<n> por la coruaza suso & atargela
+assi hu<n> dia o una noch depues iassar la coruaza. & to-
+mar. Pez. Vinagre. Arena. Azeyte. Sal. Seuo. Say[<n>].
+& feruillo en uno & moiar un ligaio co<n> una morda-
+za & batirgelo mucho co<n> ello fata q<ue> sea despeso. {RUB. Lxxvij.
+Titulo de los cauallos q<ue>
+an alifafes.}
+{IN2.} Faze se alos cauallos u[<n>]a maletia q<ue>l dize<n> alifafe.
+Et faze se de aiu<n>tamie<n>to de humores malos. q<ue> se
+aiu<n>ta<n> en<e>l. vaga dela garra & passa la fue<n>t de( )lant. &
+gouierna se de la flema q<ue> desce<n>de por la uena capitual.
+& es mest<er> pora guarezer tomar una la<n>c'eta fecha assi.
+{DIAG.} Et met<er>gela co<n>t<r><<a>> suso de[ ]parte de fuera entre
+el cuero sano & el ot<r><<o>>. Et poner le un nuiello de parte}
+[fol. 28v]
+{CB1.
+de dentro de la fue<n>t & pretargelo bie<n> co<n> los dedos assi q<ue>l
+eche todo el alifafe fuera. & rompal la bexiga co<n> lanceta
+& echel el agua fu<er>a & p<r><<e>>mir le dentro & defuera fasta q<ue>
+no<n> finq<ue> ninguna cosa aguaza. & tomar la pegu<n>ta assi
+como es dicho dela cura desuso de coruaza e[ ]lauar lo
+en essa misma guisa. & finq<ue> assi fasta los .ix. dias. &
+de<n>t adela<n>te met<er> le cadal dia en<e>l rezial. & q<u><<a>>n<d>o salga del
+agua & sea enxuto untar le co<n> azeyte tibio. E ay ot<r><<a>>
+cura tomar el seuo del cabro<n> coiudo el mas uieio q<ue> fal-
+lare & la brasa & cale<n>tar el seuo a ella & assi tibio po<ner>gelo
+de sobrel alifafe de fuera & de<n>t<r><<o>> ante q<ue> de<n>t se q<u><<i>>te tres ue-
+zes o q<u><<a>>tro. & de<n>t t<r><<a>>hergelo mucho co<n> la mano fata q<ue>[ ]lo
+faga bie<n> beuer. & esto faz<er> gelo dos uezes al dia fasta q<u><<i>>nze
+dias. & cortar le la uena capitual assi como es dicho.
+{RUB. Titulo .Lxx.viij. Delos cauallos
+q<ue> son tollidos delos lomos.}
+{IN2.} Ay muchos cauallos q<ue> son tollidos delos llo<m>bos E es-
+to les uiene por rac'o<n> q<ue> q<u><<a>>n<d>o uiene<n> sudados co<n> las lo-
+rigas o con om<n>e q<ue> t<r><<a>>hen en[ ]pos si. o co<n> alguna ot<r><<a>> cosa
+semeiable. & en suda<n>do tolle le las lorigas o[ ]las ot<r><<a>>s cosa<<s>>
+q<ue> t<r><<a>>he. & no<n> echa desuso algo q<ue>l deffie<n>da el desfriamie<n>to
+& ent<r><<a>>l el uie<n>to en los lo<m>bos &[ ]enlos huessos de<n>tro. & tuelle
+se delos lo<m>bos assi como si los ouiesse abiertos. de t<r><<a>>ui-
+esso & q<u><<a>>n<d>o om<n>e le q<u><<i>>ere reboluer a golpe finca las an-cas}
+[fol. 29r]
+{CB1.
+en t<ier>ra & no<n> se puede leua<n>tar si no<n> desce<n>de el om<n>e
+del o nol tuelle la pesadura q<ue> trahe desuso o[ ]si desbara
+dela pierna esso mismo fara ni<n> agua corrie<n>t no<n> pasa-
+ra ni<n> q<u><<a>>n<d>o souiere en el establo no<n> podra tener drecha
+me<n>t sus brac'os ni<n> sus piernas mas estara toda uia te<n>-
+dido bie<n> como pue<n>t. & pora esto guarec'er fazer le sang<r><<a>>r
+de parte de de<n>tro delas piernas de las uenas capitua-
+les dos manos sobre las garras. & sacar le .iij. libras de
+Sangre. & tomar. Saluia. Yedra. Tomiello. Pluma
+de p<er>diz. Sal. & cozello todo enel uino mas fuerte q<ue>
+fallare<n>. & q<u><<a>>n<d>o fu<er>e cocho batir le mucho los lo<m>bos co<n> un
+ma<n>dil moiado en este uino calie<n>t q<u><<a>>nto mas lo pudi-
+ere sofrir. & q<u><<a>>n<d>o fu<er>e assi caldeado poner le estas yer-
+uas calie<n>tes sobre los lo<m>bos. & fazergelo al dia dos ueze<<s>>.
+o tres en la noch. esto mismo cada dia fata .x. dias.
+& guisar q<ue> ante q<ue>[ ]lo uno li[ ]tuelga<n> q<ue>l tenga<n> el ot<r><<o>> p<re>sto.
+{RUB. Titulo .Lxxix. Delos cauallos (cauallos) q<ue>
+se les faze<n> finchaduras por si.}
+{IN2.} Faze se alos cauallos unas finchaduras por si enlos
+brac'os & en las piernas & no<n> se duele<n> luego dellas si
+no<n> q<ue> les esta feo fata q<ue><<s>> ua<n> enocha<n>do e[ ]tome<n> algu<n> affa<n>
+& faze<n> se duras. & depues q<ue> endurece<n> no<n> puede<n> gua-
+rezer por ni<n>guna guisa & por( )a esto guarec'er tomar
+luego q<ue> o<mn>e lo uee rayz de maluauisco. Linoso. Alfolua}
+[fol. 29v]
+{CB1.
+Seuo de cabro<n>. & cozer lo mucho en el agua & q<u><<a>>n<d>o fu<er>e
+cocho caldear le mucho las finchaduras co<n> el caldo. &.
+poner le esto desuso. fata .vi. dias. & guardarle q<ue> no<n> ent<r><<e>>
+en agua esto fecho. Tomar olio de linoso & untargelo co<n>
+ello. & fregargelo mucho co<n> las manos fata q<ue> gelo faga<n>
+todo beuer.
+{RUB. Titulo .Lxxx. De la enfermedat q<ue> dize<n>
+esparauan.}
+{IN2.} Faze se alos cauallos una maletia q<ue>l dize<n> esparaua<n>
+& es huesso q<ue> se faze de p<ar>te de de<n>t<r><<o>> dela pierna enlos
+huessos de la iu<n>ctura. & es maletia q<ue>l dece<n>de del padre.
+o[ ]se faze por si de feridura. & sin aiu<n>ctamie<n>to de humo-
+res. & q<u><<a>>n<d>o affan an duele<n> se mucho dela pierna en[ ]q<ue>
+lo a<n> & son dos naturas de esp<ar>auanes uno q<ue> dize<n> boyu-
+no q<ue> se faze co<n> g<r><<a>>nd cerco & llano. & el ot<r><<o>> es q<ue> se faze en.
+este mismo logar e faze se taman<n>o como un g<r><<a>>no.
+de garuanc'o & agudiello deste se duele el cauallo mu-
+cho mas q<ue> dell[ ]ot<r><<o>>. E ay muchos o<mne>s q<ue> los labra<n> cada.
+uno de su guisa por razo<n> q<ue> se dan por sotiles. p<er>o se-
+gu<n>d dize<n> los sabios por guarec'er el cauallo q<ue> nu<n>ca se
+duela q<ue> deue<n> tomar un u<er>dugo de oro & darle una
+uerdugada por medio del espa<r>auan. & ot<r><<o>> de yuso. & o-
+tro de suso q<ue> se tenga<n> ambos co<n> el & guardarle .ix.
+dias. q<ue> no<n> selo coma ni<n> sele moie. & de<n>de adela<n>te met<er>}
+[fol. 30r]
+{CB1.
+le enel rezial dos uezes Al dia. & q[*<u><<a>>]n<d>o salliere del agua
+& fu<er>e enxuto untargelo co<n> el azeyte tibio co<n> un<<a>> pen<n>ola.
+{RUB. Titulo .Lxxxi. Dela enfermedat
+que dize<n> tin<n>uela.}
+{IN2.} Faze se alos cauallos una malautia q<ue>l dize<n> tin<n>uella
+E son de dos naturas de tin<n>uela una q<ue> es dicha an-
+te desta. & esta q<ue> se faze dot<r><<a>> guisa q<ue> la ot<r><<a>> & faze se de p<ar>te
+de tras enlas piernas & comie<n>c'a en los barbeiones. & ua
+subie<n>do fata cerca la garra. & esta dole<n>cia se faze de aiu<n>-
+tamie<n>to delos humores malos. & fincha la pierna mu-
+cho. & llora aguaza. & assi como ua llora<n>do assi se ua.
+mesa<n>do. & podrecie<n>do como si fuesse malautia. & huele
+peor q<ue> ni<n>guna ot<r><<a>> cosa. & si no<n> guaresc'e mucho ayna
+pierde se el cauallo por ello mucho ayna. assi q<ue> sele cae
+toda la carne. A pi<<e>>zas podrida. & cae se la un<n>a. Onde[ ]co<n>-
+uiene dar co<n>seio por rac'o<n> q<ue> guarezca desta maletia.
+Sang<r><<a>>r el cauallo dela uena capitual desa misma pier-
+na donde se enge<n>dra<n> estos mismos humores malos. &
+sacar le dos libras & media de sang<r><<e>>. & sang<r><<a>>lle en los ta-
+lones. & en la fuent dela un<n>a dela misma pierna. &
+iassar le la pierna todo aq<ue>llo q<ue>l mana. & tomar. Alui<n>.
+Ac'ie<n>so. Vidrio. Pez. Farina. de t<r><<i>>go. Farina de ordio. &
+sacar el blanco delos hueuos & batir lo mucho. & e-
+char ende el espuma. & batir estas cosas co<n> ello mu-cho.}
+[fol. 30v]
+{CB1.
+& dende raer le la pierna q<u><<a>>nto tiene la finchadura.
+& iasar la ralas iassaduras por rac'o<n> q<ue> p<re>nda la bitma
+mas fuert. & enboluer le la pierna toda en derredor
+co<n> ello assi lo q<ue> llora como el ot<r><<o>> e[ ]lexar lo assi seer fa<<s>>-
+ta .x. dias. & guardar lo q<ue> no<n> sele coma ni<n> sele moie
+a[ ]cabo delos .x. dias sera la pierna enxuta & desincha-
+da. & caera la bitma.
+{RUB. Titulo Lxxxij. Dela enfermedat q<ue> dize<n>
+Axuague.}
+{IN2.} Faze se alos cauallos una enfermedat q<ue> le(s) dize<n> a-
+xuagues esto se faze de aiu<n>tamie<n>to de malos hu-
+mores. & faze se de muy grand affan q<ue> dan al cauallo al
+yuierno co<n> los lodos & co<n> los gelos. & q<u><<a>>n<d>ol para<n> al estaulo
+nol exuga<n>. & faze<n> se le unas q<ue>brazas gra<n>des sobre los
+barbeiones en aq<ue>llas q<ue>brazas ua mana<n>do una aguaza
+mala. & aq<ue>lla aguaza ua se cu<n>die<n>do & faze se axuague
+& ua subie<n>do toda uia & mana agua clara como de.
+fue<n>t. & rescrebaia la pierna del t<r><<a>>uiesso & q<ue>xal mas en
+yuierno co<n> los yelos q<ue> en uerano. & guarec'e assi & a se
+de labrar enla misma guisa q<ue>[ ]la corua. & essa guarda a
+de auer. & echar le essos mismos poluos.
+{RUB. Titulo .Lxxxiij. Dela enfermedat
+q<ue> dizen gauarro.}
+{IN1.} Faze se alos cauallos una malautia q<ue> dize<n> gauar-ro}
+[fol. 31r]
+{CB1.
+& faze<n> se en la corona & es una maletia biua q[*<ue>] come
+la carne. & q<ue>bra<n>ta los huesos dentro en la mano o en la
+pierna en q<ue> se faz. si no es ayna guarido. & cae en[ ]toda
+llaga q<ue> no es bie<n> guardada. & conocel om<n>e assi q<ue> faze
+un oio peq<ue>n<n>o como de paloma & es buelto co<n> sangre
+& en agua pero no echa desi flema. E faze nido ante q<ue> a-
+parezca. & si no es bie<n> labrado passa de un logar a ot<r><<o>> assi
+q<ue> q<u><<a>>n<d>o sie<n>te la labradura de q<u><<a>>l cosa q<u><<i>>er fuye daq<ue>l logar
+& faze cabeza en ot<r><<o>>. & mueue los huessos & parte los de
+su logar. & si no lo saca om<n>e co<n>[ ]la malautia pierde se el
+cauallo por ende. E[ ]pora esto guarezer ay tres manera<<s>>.
+La p<r><<i>>mera es co<n> los poluos dela cal & dela miel. & dela
+sal assi como es dicho en ot<r><<a>>s curas. & co<n> el estiercol del
+om<n>e. & co<n> la carne mag<r><<a>>. del puerco q<ue>mada buelto co<n>
+ellos. La segu<n>da es maiar los aios bermeios & la sal &
+la pimie<n>ta molida buelto en uno. & tomar .i. cuero
+de suela & fazer enel un forado peq<ue>n<n>o q<ue> sea taman<n>o
+como el oio del gauarro o mas un q<u><<a>>nto & pone[r]gelo
+bie<n> firmado sobre el gauarro & pon<er>gelo desuso. & tenga
+lo .i. dia & una noch. & matar la el gauarro. & come
+la carne enconada q<ue> es der[r]edor del. & esto fecho tuelga<n>
+gelo & laue<n>gelo con el uino fuerte. & eche<n> le de suso.
+los poluos dichos fata q<ue> sea sano. La t<er>cera es tomar .i.
+fierro fecho assi {DIAG: espacio dejado para un diagrama.} q<ue> sea hueco como.}
+[fol. 31v]
+{CB1.
+can<n>auera & q<ue> tage delante bie<n> & cale<n>tar le & catar como
+tome todo el gauarro buelto co<n> delo sano & meterle
+por la carne adent<r><<o>>. Assi per neruio como por uena &
+no<n> lo dexe de fazer por miedo ni<n> por peligro ni<n>guno
+q<ue> no<n> lo ay & met<er> le q<u><<a>>nto una polgada & q<u><<a>>n<d>o fu<er>e ta<n>-
+to entrado rebuelua lo enderredor en guisa q<ue> torne
+aq<ue>l peezuelo. & sacara el gauarro ent<e>ro en el fierro &
+de[<n>]d lauar la llaga co<n> el uino. o co<n> la lexia fuert & echar
+le los dichos poluos de<n>tro fata q<ue> sea guarido.
+{RUB. Titulo Lxxx<<a>>.iiij<<o>>. Dela enfermedat.
+q<ue> dize<n> aristiella.}
+{IN2.} Faze se alos cauallos una dolencia q<ue>l dize<n> ari<<s>>-
+tiella & faze se de comie<n>c'o. (^&)[^e]n guisa de sarna de-
+pues cu<n>de se por las piernas asuso & por las coronas
+delante & llora aguaza amariella & como ua llora<n>do
+assi se ua co<n>die<n>do. & messando enlas piernas de raza
+mayor me<n>t q<ue> si algunos dias tarda de guarec'er llega
+fata las garras & fincha[<n>] se las piernas. & ot<r><<o>>ssi faze
+se de humores malos & es dole<n>cia q<ue> sie<m>pre llora assi.
+uerano como yuierno. E pora esto guarec'er sang<r><<a>>r
+el cauallo en los talones & tomar sangre de cabron
+desuenada & el zumo delas fabas uerdes. & sal & boluer
+lo en uno & fregargelo mucho con ello & otro( )[s]si to-
+mar el estiercol (^de) fresco del o<mn>e. & sal & piedra suffre. &}
+[fol. 32r]
+{CB1.
+fregar gelo mucho co[*<n>] ello. Ay ot[*<r><<a>>] cura iassargelo
+mucho menudo & fondo todo lo q<ue>l llora guarda<n>dol
+las coronas. & tomar. Alui<n>. Ac'ie<n>so. Pez. Vidrio. Sal.
+Farina de t<r><<i>>go. Farina de ordio. & untargelo co<n>[ ]la miel.
+& echar le los poluos destas mismas cosas de suso cada
+dia dos uezes fata q<ue> sea sano.
+{RUB. Titulo .Lxxx.v. Dela enfermedat
+Que dize<n> torc'ones.}
+{IN2.} Faze se una dolencia alos cauallos q<ue>l dize<n> torc'on
+& faze se de frio q<ue> coge & q<ue>xa se mucho al cauallo
+assi q<ue>l faze lleua<n>tar & echar se mucho a[ ]menudo & tie<n>-
+de se todo como puent & q<ue>rella se aq<u><<i>> como o<mn>e q<ue> ha.
+grand dole<n>cia & q<u><<a>>n<d>o ouiere esta dole<n>cia ente<n>dergelo
+an en esta guisa q<ue> buelue la cabeza por se morder.
+en las yiadas e co<n>tuerc'e todo el cuerpo & q<u><<a>>n<d>ol ala u-
+na p<ar>te. & q<u><<a>>ndo ala ot<r><<a>>. & por q<ue> se estuerc'e assi dize<n>le
+torc'o<n>. & guaresce assi sangrar le de la uena de medio
+el cuello & sacar le dos lib<r><<a>>s de sangre. & saldra aq<ue>l frio
+co<n> la flema q<ue> salle buelta co<n> la sangre & si fu<er>e logar
+q<ue> aya agua fonda met<er> el cauallo en el agua fa-
+ta q<ue>l cubra tanto q<ue> aya de nadar & q<ue> nade una
+buena piec'a q<u><<a>><n>to diez passadas en lue<n>go. & si no<n>.
+durare el agua ta<n>to en[ ]fondo. nade lo q<ue> pudiere. & si
+no<n> fu<er>e en logar q<ue> pudiere<n> auer agua fo<n>da tomen}
+[fol. 32v]
+{CB1.
+[*dos gamellas finque<n> las de] agua la mas fria q[*<ue>] pudiere<n>
+& po<n>ga<n> la una del un cabo. & la ot<r><<a>> del ot<r><<o>> & el cauallo en
+medio. & tome<n> dos o<mne>s dos ma<n>diles. uno del un cabo &
+ot<r><<o>> del ot<r><<o>>. & bata<n> lo ta<n>to fata q<ue> sea<n> mucho cansados.
+& q<u><<a>>n<d>o salliere del agua o fu<er>e mucho batido eche<n> le un<<a>>
+sauana de suso. & s<us> ma<n>tas muchas & meta<n> le en su
+estable. & lexen le estar assi q<ue> ande(<n>) por su estable suel-
+to. & sola me<n>te sude o faga orina o camara luego.
+sera guarido.
+{RUB. Titulo .Lxxxvj. Delos cauallos
+Que comen mucha ceuada.}
+{IN2.} Son muchos cauallos q<ue> come<n> mucha c'euada & no<n>
+la puede<n> moler. & fincha<n> co<n> ella eche<n> le .i. libra de
+azeyte. & .i. azu<m>bre de uino co<n> el perexil maiado. & co<n>
+el agrimo<n>ia. & co<n> el uergaio del puerco. & echargelo
+con .i. cuerno por la garga<n>ta. E guarec'e de ot<r><<a>> ma-
+nera tomar dos ombres .i<<a>>. uara gruesa & tomar el
+uno del. vn cabo. & el otro del ot<r><<o>>. & meta<n> la so el uie<n>t<r><<e>>
+& trayangela faza las yiadas assi q<ue> les semeie que
+el cauallo q<u><<i>>ere alc'ar como en[ ]peso & q<u><<a>>n<d>o esto fu<er>e.
+fecho tomar un om<n>e q<ue> aya la mano delgada. & u<n>-
+te se la co<n> azeyte. & po<n>gagela por el fondo<n>. & saq<ue> del
+q<u><<a>>nta c'euada pudiere. & tenga<n> el gauallo .i. dia o dos
+q<ue> nol de<n> a comer nin a[ ]beuer. o. vn dia & una noche.}
+[fol. 33r]
+{CB1.
+{RUB. Titulo delos cauallos q[*<ue>] an .Lxxxvii
+sobre pie.}
+{IN2.} Son muchos cauallos q<ue> han sobre pie. & faze se
+de ferida o de gra<n>d affan. Tomar un uerdugo de
+oro ode fierro. & uerdugalle todo en .iiij. lugares. o en .v.
+Et estar assi .ix. dias. & guarde<n> le q<ue> nolo coma ni<n> se mo-
+ge. & de .ix. dias adela<n>te meta<n> le enel agua. & q<u><<a>>n<d>o sallie-
+re del agua. & fu<er>e enxuto hu<n>te<n>gelo co<n> el[ ]azeyte frio.
+{RUB. Titulo .Lxxxviij. Delos cauallos
+aguados.}
+{IN2.} Faze se alos cauallos una dole<n>cia q<ue>l dize<n> aguadu-
+ra q<u><<i>>er dezir tanto como p<re>so de agua. Et de agua
+se pre<n>de de muchas guisas por lexar le mucho om<n>e
+beuer en un colpe. o por uenir escale<n>tado & passar por el
+agua & nol dar le a[ ]beuer della. o por dexar le beuer mu-
+cho q<u><<a>>n<d>o assi uiene. o q<u><<a>>n<d>o a corrido o uiene de carre-
+ra o de iornada escale<n>tado. & da<n> le agua cerca de la posa-
+da o se a de sesegar. o por ue<n>ir suado & lexar lo en casa
+fria sin muy gra<n>d cobertura. Tomar una la<n>ceta &
+sang<r><<a>>r le. en los t<er>cios de todos los .iiij. pies. & no<n> lexar
+le beuer ni<n> comer hata q<ue> sea sano. E tomar ot<r><<o>>ssi. & fa-
+zer una caldera de c'ernada. & tomar las riestras de
+los aios & paia granada de ordio e cuega bie<n> enla.
+cernada. & q<u><<a>>n<d>o fu<er>e cocha echar el agua en una gamella.}
+[fol. 33v]
+{CB1.
+[*& tomar dos om<ne>s dos] ma[*<n>]diles. & parar se e[*<n>]pan[*<n>]os meno-
+res & moiar los en la cernada & batir le mucho los brac'o<<s>>
+& los pechos. & las espaldas. & depues enboluer le los brac'os
+co<n> la cernada & co<n> las riestras fata somo delas rodiella<<s>>
+& faz<er> esto mismo alas piernas. & enboluergelas fata
+suso delas garras. & fazergelo dos uezes al dia fata
+tres dias. & tener lo assi estos tres dias q<ue> no<n> coma ni<n>
+beua. & al[ ]t<er>cero dia dar le una poca de paia. & depues
+dar le una poca de ataluina de affrechos. & dar le un ce-
+lemi<n> de auena. & assi yr le crecie<n>do uia<n>da en[ ]guisa q<ue>
+no<n> sea tanta la uianda por q<ue> sele torne la dolencia
+a el. & sera mas fuert de guarec'er. Pero co<n> todo esso
+co<n> esto mismo guaresc(i)[<er>]a. E ay muchos q<ue>l da<n> mucho
+uino por la garga<n>ta. & tiene<n> le colgado de freno .i. dia
+o dos. E ay otros q<ue> toma<n> la ceuada cocha. co<n> el uinag<r><<e>>
+& pone<n>gela en[ ]todas .iiij. las suelas calient q<u><<a>>nto mas
+puede<n> muchas uezes al dia. Et ay ot<r><<o>>s q<ue>l sangra<n> en
+las uenas de medio las q<u><<a>>rtiellas. de todos los .iiij. pies.
+Et ay ot<r><<o>>s. q<ue>l pone<n> vn fierro por el ombrigo & sacan
+le una agua Amariella. Et estos todos son sotilezas
+sin pro. Pero no<n> puedo seer q<ue> no<n> diga lo q<ue> cada u-
+no faz mas co<n> todo esto lo dela cernada es mas pro.
+Que ni<n>guna delas ot<r><<a>>s cosas de suso dichas. & no<n> pue-
+de el cauallo tomar uezo. Ot<r><<o>>ssi ay otros q<ue>l pone<n> un}
+[fol. 34r]
+{CB1.
+sedan[*<n>]o enc'ima del cuello dos [*dedos redrados del colodriello].
+{RUB. Titulo delos cauallos q<ue> an .Lxxxix
+las un<n>as secas.}
+{IN2.} Son muchos cauallos q<ue> an las hun<n>as secas adema<<s>>
+por razo<n> de la seq<ue>dat no<n> les puede ten<er> ni<n>guna ferra-
+dura. q<ue> q<u><<a>>n<d>ol echa<n> el clauo por la un<n>a fie<n>de se & no<n> lo pue-
+de tener la un<n>a rezia firme me<n>t. & cae se la ferradura.
+& uien<e> por deste<m>p<r><<a>>mie<n>to q<ue> es enla un<n>a por q<ue> toma el po-
+tro tierno & mete<n> le en estaule. & en estiercol seca la un<n>a
+& del deste<m>p<r><<a>>mie<n>to q<ue> no<n> le dexa<n> andar co<n> la madre q<u><<a>>nto.
+tie<m>po deue q<ue> el agua & el lodo asimpla la un<n>a. & del des-
+te<m>p<r><<a>>mie<n>to. & ot<r><<o>>ssi uien<e> por natura del padre q<ue> q<u><<a>>l un<n>a
+a el padre tal la ha el fijo pues co<n>uiene fazer mucho
+la un<n>a al cauallo co<n> lambrox fecho assi. {DIAG.}
+Fata q<ue> sea toda tierna. & tomar estas cosas & Fenchir
+le las palmas dello. Alq<u><<i>>t<r><<a>>n. Seuo de cabro<n>. Say[<n>] uieio
+cera. Sal. Miel. & tomar unos fierros fechos assi.
+{DIAG.} Et tostar le much las manos
+co<n> ellos fata q<ue> lo ayan todo beuido. & boluer le unas esto-
+pas sobre las un<n>as enlas copas por q<ue> entre enlas u-
+n<n>as toda la cale<n>tura. & estar assi .i. dia o una noch.
+Et esto fazergelo .xviij. dias .vi. uezes al[ ]dia fasta
+q<ue> se leua<n>te la un<n>a seca foias. & q<ue> se mude. & tomar
+manteca cocha de oueias. o crua de uacas .v. l<ibras>. Alui<n>.}
+[fol. 34v]
+{CB1.
+[*m<e>d<i>o m<a>r<avedi>. Abxah<a>m]. m<e>d<i>o. m<a>r<avedi>. Postolico<n> de can<n>utos .v. l<ibras>.
+Acie<n>so .iiij. l<ibras>. Cera med<i>o m<a>r<avedi>. Et tomar estas cosas &
+retir lo q<ue> es de retir. & lo q<ue> fu<er>e de moler molello muchas
+uezes & cernello fata q<ue> sea bla<n>do & q<ue> no<n> aya y ni<n>gu-
+na asp<er>ura. & echar lo en una sarte<n>. & feruir lo en u-
+no. & mie<n>tre feruiere t<r><<a>>her lo co<n> un fuste. & q<u><<a>>n<d>o fu<er>e.
+feruido echar lo en una faltamia. & dexar lo elar
+& q<u><<a>>n<d>o fu<er>e elado untarle la corona q<ue> q<u><<i>>er dec'ir entrel
+pelo & la un<n>a. & co<n> ello tres o q<u><<a>>tro uezes al dia. & q<u><<a>>n<d>o
+fu<er>e la un<n>a mudada de fondo<n> sera temp<r><<a>>da en[ ]somo.
+& por conozer q<u><<a>>n<d>o fu<er>e te<m>p<r><<a>>da fazer le ferrar. & tomar
+la un<n>a q<ue> taiare<n> & reboluer la co<n> la mano. & uera q<ue>
+se tuerce como correa. & no<n> se q<u><<i>>ebra. esto<n>c'e ent<r><<a>>ra el
+clauo por la un<n>a. & cerrar sa & pre<n>d<<r>>a el clauo. & no<n> se
+c'errara com<m>o ante.
+{RUB. Titulo Lxxxx Delos cauallos que se
+alca<n>za<n> las ferraduras.}
+{IN2.} Ay muchos cauallos q<ue> se alca<n>c'a<n> las ferraduras.
+& se desfierra<n> en mucho[s] logares de p<er>iglos & por
+esta razo<n> uiene alos cauallos muertes catiuerios.
+& muchos otros dan<n>os. onde co<n>uiene dar co<n>seio q<ue> se
+fierre assi q<ue> se no<n> pueda alca<n>c'ar fazerle el callo de
+la ferradura rezio. & barcilones. & el de dentro mas
+alto q<ue> el de[ ]fuera. & al fazer dela mano fazergela.}
+[fol. 35r]
+{CB1.
+mas de fuera q[*<ue>] de dent[*<r><<o>>]. & al ferrar q[*<ue>]l yegue el callo. en
+guisa q<ue> el pelo le cubra q<ue> si la mano finca el cauallo
+un poco destrera no<n> se alca<n>c'a assi como q<u><<a>>n<d>o esta sinie<<s>>-
+tra. pero ay muchos q<ue> fierra<n> co<n> ferradura garc'etada. & o-
+tros que la echa[<n>] corta. p<er>o de todos los ferradores el me-
+ior es barcilones.
+{RUB. Titulo .Lxxxxi. Delos cauallos q<ue> no<n>
+c'enan bie<n> su c'euada.}
+{IN2.} Son muchos cauallos q<ue> no<n> cena<n> bie<n> su ceuada.
+Como les es mest<er> a la sazo<n> q<ue> los cauall<er>os se q<u><<i>>ere<n>
+seruir dellos. & fa[lle]ze<n> les por q<ue> menoscaba<n> mucho de s<us>
+facie<n>das por q<ue> co<n>uiene dar co<n>seio assi q<ue> por esta me<n>gua
+no<n> menoscabe ni<n>guno de su fac'ie<n>da. & los cauallos q<ue>
+cobre<n> sus c'euadas onde es mest<er> q<ue> q<u><<a>>n<d>o el cauallo oui-
+ere de fazer algu<n> camino q<ue>l conparta<n> las iornadas
+como aq<u><<i>> sera dicho el p<r><<i>>mer dia q<ue>l den dos lleguas &
+q<ue>l ma<n>de<n> mucho li<m>piar. & de<n>t q<ue>l de<n> una poca de paia o
+de yerua q<u><<a>>l es el tie<m>po. & depues q<ue>l den su[ ]agua & tor-
+nel a[ ]su estar & q<ue>l de<n> ot<r><<o>> poq<u><<i>>ello a roer & eche<n> le su fre-
+no. & sea assi enfrenado el dia todo. & meta<n> le en la boca
+.i. fuste u<er>de. o sarmie<n>to sil pudiere<n> au<er>. & si no eche<n>
+le una poca de sal en la boca. por q<ue> sea trebeia<n>do todol
+dia. & q<ue> se no<n> pre<n>da de agua ni<n> se refrie q<u><<a>>n<d>o ue<n>ga la
+noch. li<m>pie<n>le co<n> de[ ]cabo. & echel m<e>d<i>o celemi de ceuada}
+[fol. 35v]
+{CB1.
+& no mas. & ot[*<r><<o>>] dia echar le su freno. & alimpie<n>le & eche<n>
+le su siella. & ande .vij. o .viiij. leguas. & de<n>t pie<n>sen(s)[l]e
+de como dicho es. saluo q<ue>l eche<n> .i. celemi<n> de ceuada &
+al t<er>cero dia pie<n>sen del desta misma guisa. & de<n>le .iij.
+cel<em>ies dende adela<n>te sus cenas co<m>plidas. & sus iornadas
+como touiere<n> por bie<n>.
+{RUB. Titulo delos cauallos q<ue> no<n> coge<n>
+a om<n>e en siella. Lxxxxij.}
+{IN2.} Ay muchos cauallos q<ue> no<n> q<u><<i>>ere<n> coger a om<n>e en la
+siella por q<ue> uiene<n> por ende much[o]s p<er>iglos. & mucho<<s>>
+dan<n>os. Esta maldat coge enel domar. & en gra<n>d escar-
+mie<n>to de espuelas q<u><<a>>n<d>o son iouenes q<ue> an miedo delas
+espuelas. & no<n> q<u><<i>>ere<n> coger. Onde co<n>uiene de dar conseio
+por q<ue> coia<n> assi como deue<n>. Tomar el cauallo de noch &
+enfrenalle. & enseellar le. & caualgar le & traher le ta<n>to
+fata q<ue>l enoge<n> & q<u><<a>>n<d>o fu<er>e enoiado pare le a su pesebre &
+li<m>pie<n> le much la cara .i. o<mn>e & mie<n>tre le ali<m>piare<n>. ot<r><<o>> o<mn>e
+no<n> faga si no<n> sobir & descender del muchas uezes. & es-
+to mismo faga<n> gelo ot<r><<a>> noch. & usengelo fata q<ue> coia &
+depues q<ue> cogiere en el estaulo faga<n>gelo assi en un co-
+r[r]al. & de<n>de adela<n>te enla cal muchas uezes. & depues fu-
+era enel ca<m>po & assi se yra. vsando fata q<ue> coia doq<u><<i>>era.
+E en este comedio nol faga<n> mal ni<n>gu<n>o.
+{RUB. Titulo .Lxxxx.iij. Delos cauallos q<ue> so<n> delgados.
+& estrechos de cuestas.}}
+{CW. .ay muchos.}
+[fol. 36r]
+{CB1.
+{IN2.} Ay muchos cauallos q<ue> son muy delgados & much estre-
+chos de cuestas en guisa q<ue> no<n> sele puede tener fazq<u><<i>>a
+ninguna sin q<ue> nol eche<n> peyt<r><<a>>l forcado. Ende es mest<er> dar
+co<n>seio por q<ue> aya bonas cuestas. & q<ue> se fazq<u><<i>>e bie<n> tomar el
+cauallo. & leuar le ala riba duna agua corrient q<ue> sea fo<n>do
+assi q<ue>l cubra la meytad delas cuestas o mas. & sang<r><<a>>rle
+en la uena capitual q<ue> uien<e> p<or> medio delas cuestas q<u><<a>>nto
+.i. palmo & una mano e<m>pos dela fazq<u><<i>>a faza la yiada &
+q<u><<a>>n<d>o fu<er>e sang<r><<a>>do meter le luego en el agua en[ ]g<u><<i>>sa q<ue>l cu-
+bra las sang<r><<a>>duras. & salga alli ta<n>ta sa<n>gre fata q<ue> pie<n>se
+q<ue> ay tres libras. & dent. a .ix. dias darle ot<r><<a>> sang<r><<i>>a. & [^e<n>] estos
+mismos lugares. & de esta g<u><<i>>sa fazer le en[ ]todo e p<r><<e>>nda<n>ge-
+las co<n> dos mordazuelas. & de<n>t a .ix. dias fazer le ot<r><<a>> q<ue>l sa-
+que<n> dos libras. & ot<r><<o>>s .ix. dias fazer le ot<r><<a>> q<ue>l saq<ue>[<n>] ot<r><<a>> lib<r><<a>>.
+& cada uez en el agua. & q<u><<a>>n<d>ol sacare<n> del agua dexe<n> le seer
+[^u<n>][ ]poco por q<ue>l de el ayre en las sang<r><<i>>as. & q<ue>l finche algu<n>
+q<u><<a>>nto q<ue> q<u><<a>>nto le hynchare<n> las sang<r><<a>>duras ta<n>to le cres-
+c'ra<n> las cuestas. & esta sang<r><<a>>dura se faga dambas p<ar>tes
+cada uez.
+{RUB. Titulo .Lxxxxiiij. Delos cauallos
+Que son muleros.}
+{IN2.} Ay much[o]s cauallos q<ue> so<n> muleros. & por esta razo<n>.
+uiene<n> much[o]s p<er>iglos alos cauallos q<ue> fallamos en
+los sabios antigos. & un cauallero auie vn tal cauallo &}
+[fol. 36v]
+{CB1.
+auie enemigos. & sopiero<n> lo s<us> enemigos. & por passar a el
+leuaro<n> una mula q<ue> amaua marido. & q<u><<a>>n<d>o se fallaro<n> co<n>
+el diero<n> de mano ala mula. & el cauallo q<u><<a>>n<d>o la sentio.
+faroneo q<ue> no<n> lo podiero<n> q<u><<i>>tar della. & mataro<n> le. & muchos
+ot<r><<o>>s exe<m>plos semeiables destos q<ue> nos dan los sabios q<ue> acae-
+c'e<n> a[ ]tales cauallos como estos. Pues pora toller esta mala
+man<er>a co<n>uien<e> de auer una yeg[u]a. & faz<er>gela saltar tres ue-
+zes o q<u><<a>>tro q<ue> por rac'o<n> dela yegua pierda el de la mula &
+ot<r><<o>>ssi ay ot<r><<a>> man<er>a tomar .i. mulo muy fuert<e>. & soltarle
+en establo. & echar unas sueltas al cauallo. & dexar los pe-
+lear una gra<n>d piec'a fata q<ue> entie<n>da<n> q<ue> el mulo es ademas
+sobrepuesto al cauallo. & q<ue>l tiene por ue<n>zudo. & tollergelo. &
+no<n> auer cuydado ni<n> pesar del una pieza. & tomar le & en-
+drezar le. & por estas dos man<er>as fallo q<ue> se pierde esta mal-dat.
+{RUB. Titulo .Lxxxx.v<<o>> Delos cauallos. [%2]
+q<ue> an malas coronas.}
+{IN2.} Son much[o]s cauallos q<ue> an malas coronas & q<u><<a>>n<d>o suda<n>
+co<n> la siella luego se mata[<n>] o se leua<n>ta<n> onde es mene<<s>>-
+t<er> q<ue> de man<er>a por q<ue> se pueda<n> seruir los caualleros dellos. &
+no<n> sea<n> en dubda de los p<er>der por esta malautia. Tomar. Vina-
+gre. Pez. Sal. ffolli<n>. azeyt. Sayn uieio. Piedra suffre.
+Tanto delo uno como delo ot<r><<o>> & feruirlo en una sarte<n>. & en
+firuie<n>do tomar una mordaza. & un ligaio en ella de lie<n>c'o &
+moiar en esto feruie<n>do & fregargelo mucho co<n> ello fata}
+[fol. 37r]
+{CB1.
+q<ue> sea la pegu<n>ta espe<n>dida. & este assi fata .ix. dias. & de los .ix.
+dias hata los .xv. untar le cada dia dos uezes co<n> azeyte ti-
+bio. & fata los .xv. dias. nol caualg[u]e<n>.
+{RUB. Titulo .Lxxxxvj. De como se deue<n>
+leua<n>tar los cauallos q<u><<a>>n<d>o an de faz<er>
+por campo nueua ment.}
+{IN2.} Como se deue<n> los cauallos leua<n>tar q<u><<a>>n<d>o nueua me<n>te
+los comie<n>za o<mn>e de fazer por ca<m>po por q<ue> no<n> pueda<n> tomar
+malas costu<m>bres assi como de la<n>zar piernas o[ ]reboluer sedas
+o desbocar se catar ombre .i. barbecho q<ue> sea arado muchas.
+uezes por q<ue> zaho<n>de enel & pueda sacar los brac'os escorrecha
+me<n>t. & met<er> le luego por el barbecho ma<n>sa me<n>t. & toda uia yr
+le abiua<n>do co<n> las piernas. & leua<n>ta<n>dol el enfrenadura como
+a m<e>dio el cauallo & leua<n>dol la rie<n>da arecha p<re>nde assi q<ue> q<u><<a>>n<d>o
+uiere q<ue> el se q<u><<i>>ere fortalec'er enel freno como a tesar soltar
+le & de<n>t tirar le la rie<n>da alta yendol abiua<n>do assi poco a poco
+& no<n> q<ue>rie<n>dol forc'ar mas desto. en q<u><<a>>tro. o en .v. dias le fara
+leua<n>tar los brac'os q<u><<a>>nto & como q<u><<i>>siere sin affan del ca-
+uallo. & sin q<ue> no<n> tome mala man<er>a & los saltos q<ue> los faga
+much eguales. & q<u><<a>>nto g<r><<a>>ndes q<u><<i>>siere.
+{RUB. Titulo .Lxxxxvij. Delos cauallos
+que se roc'an.}
+{IN2.} Ay much[o]s cauallos q<ue> se roc'a<n> assi dela<n>te como de c'aga
+Et co<n>fonde<n> se por este logar. & rec'ibe<n> gra<n>d pesar los ca-uall[<er>]os.}
+[fol. 37v]
+{CB1.
+Onde es mest<er> faz<er> la mano de parte de fu<er>a mas
+q<ue> de de<n>tro. & faz<er> le ferradura el callo de de<n>t<r><<o>> mas alto q<ue> el
+de fuera buena piec'a. & sean los can<n>os barc'iloneses E ay
+muchos q<ue>l dan p<er>tigaduras de un fierro por los brac'os en-
+tre las pie[r]nas.
+{RUB. Titulo .Lxxxxviij. Delos cauall<o>s
+que les toma calanbrio.}
+{IN2.} Ay much[o]s cauall<o>s q<ue> les toma(<n>) vna dole<n>cia q<ue>l dize<n> cala<n>brio
+Et q<u><<a>>n<d>o les toma fazel estender las piernas & no<n> se pu-
+ede<n> mouer. & q<u><<a>>n<d>o se mueue<n> lieua<n> la pierna rastra<n>do bie<n>
+como si de todo la ouiesse p<er>dida. & es dole<n>cia en q<ue> recibe<n> los
+cauallos gra<n>d pesar. & ay cauallos a[ ]q<u><<i>> dura una piec'a.
+otros fata m<e>d<i>o dia. Ot<r><<o>>s el[ ]dia todo. Ot<r><<o>>s dos o tres dias. faze
+se enlas piernas de t<r><<a>>s. Tomar la raposa &[ ]de aq<ue>lla mis-
+ma. pierna fazer la coc'er & dar le el caldo a[ ]beuer & tomar
+los huessos & ponergelos do el calambrio toma (el cala<m>brio)
+& colgargelos del cabestro & guisar q<ue> no<n> sele cayan en ni<n>-
+guna sac'o<n> q<ue> mie<n>t<r><<e>> los touiere nol puede tomar.
+{RUB. Titulo .Lxxxxix De como no<n> se puede<n>
+aguar los cauallos.}
+{IN2.} Son much[o]s cauallos q<ue> se agua<n> mucho a[ ]menudo
+no<n> les sabe<n> dar co<n>seio onde es mester q<ue> de( )parta.
+como no<n> pueda ue<n>ir al cauallo. por ni<n>guna manera.
+Tomar las uenas q<u><<a>>tro capitales do<n>de se[ ]leua<n>ta<n> las ot<r><<a>>s}
+[fol. 38r]
+{CB1.
+uenas todas q<ue> son enel cuerpo del cauallo. & conoce<n> se des-
+ta guisa. catar enlos brac'os dos uenas gordas q<ue>l uiene<n>
+de parte de dentro q<ue>l dece<n>de<n> de cima dela cabeza fata fo<n>do<n>
+delas un<n>as. & por q<ue> desce<n>de<n> dela cabec'a dize<n> les capituales
+& q<u><<a>>n<d>o gelas fallare comida dos manos sobre la rodiella.
+en aq<ue>l logar fienda el cuero. & tome este fierro. {DIAG.}
+A( )parte la uena. & tire la uena fu<er>a. & tomar .i. filo rezio
+& atela bie<n>. & lexe colgar los cabos del filo q<u><<a>>nto una mano.
+& tomar .i. guchiello q<ue> taie bie<n> & cortel la uena de yuso del
+atadura. & dexe sa<n>g<r><<a>>r la de fo<n>don q<u><<a>>nto q<u><<i>>siere & corte las
+delos brac'os .i. dia & ot<r><<o>> dia las delas piernas. & en esta mi<<s>>-
+ma man<er>a. & q<u><<a>>n<d>o fu<er>en todas cortas tomar. Azeyt. Seuo.
+Sal. Miel. & feruir lo en uno. & una cuchar de fierro. & q<u><<a>>n<d>o
+feruiere moie<n> un t<r><<a>>po en ello. & q<ue>mel las fendeduras del
+cuero co<n> ello dos o[ ]tres uezes & perdra el aguadura.
+{RUB. Titulo .C. Delos cauall<o>s sus.
+naturas fuera.}
+{IN2.} Son much[o]s cauallos q<ue> t<r><<a>>he<n> sus naturas fu<er>a por rac'o<n>
+de escalentamie<n>to q<ue> les faze<n> yeguas o mulas q<u><<a>>n<d>o
+faze<n> fornic'io co<n> ellas & no<n> las puede<n> coier assi. & faze<n> se
+les enellas bexigas bla<n>cas & q<u><<a>>n<d>o q<u><<i>>ebra<n> estas bexigas ma-
+na dellas agu<<a>>za amariella. & por esta enfermedat a me<<s>>-
+ter tomar. Saluia. Tomiello. Yedra. Sal. pen<n>ola de p<er>diz
+e cozer lo en uno todo. & raer le los lomos & caldeargelos}
+[fol. 38v]
+{CB1.
+mucho co<n> el callo & ponergelos desuso muy calie<n>tes q<u><<a>>nto
+los pueda sofrir cada dia dos uezes fasta .xv. dias & to-
+mar el zumo dela lla<n>ten. & el aluayalde. & las aluuras delos
+vueuos batidos. & sacar el espuma. & bolu<er> lo en uno. & un-
+tarle la natura co<n> ello fata .xv. dias. & paralle una ye-
+gua delante & si pudiere endrec'arse por q<ue> la salte si la.
+maletia es nueua guarezra co<n> ello.
+{RUB. Titulo .CI .Delos cauallos q<ue> se les
+salle el estentino.}
+{IN2.} Ay much[o]s cauallos q<ue> les salle el estentino por fondo<n>.
+& esta enfermedat uiene por q<ue> el cauallo q<u><<a>>n<d>o es
+armado q<ue>l faze<n> mucho correr o[ ]trotar o yr enfreno.
+grand (tr<??>arra)[carrera]. & no<n> puede sofrir tantos. & taman<n>os
+affanes. Tomar .i. moc'o & unte se la mano co<n> aze-
+yte frio. & met<er> le el brac'o por el fondo<n>. & t<r><<a>>her gelos por
+las cuestas de p<ar>te de de<n>tro del fondo<n>. & tomar. pez.
+acienso. & moler lo. & salpicarle co<n> ello el este<n>tino q<ue>
+esta defu<er>a dese<n>t met<er>gelo de<n>tro co<n> los dedos muy sotil
+me<n>t. & pues q<ue> fu<er>e de<n>tro te<n>gale los rostros del fondo<n> mu-
+cho ap<re>tados. & de<n>le .i. poco de farina de t<r><<i>>go buelto co<n>
+la cernada. & luego s<er>a guarido.
+Fasta aq<u><<i>> dep<ar>ti de las enfermedades de los cauallos
+Que sea<n> de guarezer por fierros. & por poluos agora.
+tengo por guisado de departir delas dole<n>cias q<ue> se deue<n>}
+[fol. 39r]
+{CB1.
+guarec'er por yeruas. & por emplastos. p<r><<i>>m<er>a me<n>te q<u><<i>>ero
+dec'ir de como se deue<n> domar los cauallos.
+{RUB. Titulo .C<<o>>.ij<<o>>. De como se deue<n> do-
+mar los cauallos.}
+{IN2.} Si el cauallo estidiere por domar .iij. o. q<u><<a>>tro ann(<n>)os. co<n>-
+uiene q<ue> aya bue<n> domador. & espacioso. & q<ue> sea muy sa-
+bio por q<ue> no<n> dep<re>nda malos costu<m>bros assi q<ue> no<n> se faga restio
+q<ue>[ ]es tal costu<m>bre q<ue> tarde la pierde. & es un linage q<ue>l dize<n>
+baybarbo. & diz q<ue> las costu<m>bres [que] ap<re>nde q<u><<a>>ndol doma<n> de mie<n>-
+tre q<ue> biue sie<m>p<r><<e>> se recuerda dellas. & restiuo q<u><<i>>er ta<n>to dezir
+como ha<re>ro por q<ue> q<u><<a>>n<d>o los ot<r><<o>>s ua<n> adelante el faze se atras
+& esto es por q<ue> el q<ue>l doma no es bie<n> sabio. & q<u><<a>>n<d>ol caualga
+pora domar q<ue>l gaualga entre ot<ra>s bestias & q<u><<a>>n<d>o se q<u><<i>>ere tor-
+nar. no<n> puede & ua atras & faronea. & remie<m>bra se como.
+suele fazer entre ot<r><<a>>s bestias al caualgar. & por esta razon
+p<re>nde esta mala man<er>a en si. & no<n> q<u><<i>>ere yr por la carrera q<ue> o<mn>e
+lo quiere leuar.
+{RUB. Titulo .C.iij. Delos (de) cauallos q<ue> son
+farones como deue<n> yr delant.}
+{IN2.} (A)[E]l q<ue> es haro<n> deue yr dela<n>t de las bestias fata q<ue> lieue las
+sedas & las oreias asesegadas. ot<r><<o>>s sabios suele<n> tomar
+dos fazes de ramas & faz<er> las costales. & atar los bie<n> ancho<<s>>
+assi q<ue> desce<n>da<n> alos costados & pon<e>rgelos desuso. & faz<er>gelos}
+[fol. 39v]
+{CB1.
+leuar por gra<n>d espacio fata q<ue> se a[so]segue co<n> ellos & si el caual-
+lo no<n> quisiere ni<n>guna carga leuar eche le una rastra q<ue> sea
+pesada de mouer co<n> una cuerda. & atar el un cabo ala uiga
+el otro ala cola. & si por ue<n>tura fu<er>e la uiga ta<n> pesada q<ue> se
+tema dela cola p<er>der echela al arzo<n> dela siella abuelta delas
+sedas & faz<er>gela leuar fata q<ue> sea ca<n>sado & en( )cortar la cu-
+erda poco a[ ]poco ca asi costu<m>brara las cosas acostu<m>bradas
+& ante q<ue> much fuelge faga<n> le leuar alguna cosa destas
+dichas.
+{RUB. Titulo .C.iiii. Como puede om<n>e conocer q<u><<a>>n<d>o cresce la san-
+gre alos cauallos.}
+{IN2.} Q<u><<a>>n<d>o la sang<r><<e>> cresce much al[ ]cauallo estos so(s)[n] los signos
+por q<ue> lo puede om<n>e cono(^s)[^c']er. El p<r><<i>>mero es q<ue> se ama mu-
+cho rascar. El segu<n>do fiede much el estiercol q<ue> faze. el t<er>cero
+la orina faz u<er>meia. & espesa. El q<u><<a>>rto a los oios sang<u><<i>>neos
+& turbios. & llorosos. El q<u><<i>>nto q<ue>l naze<n> postiellas por el cuerpo
+& chicas finchaduras. & aq<ue>llas finchaduras sie<n>te om<n>e co<n>
+la mano ca no<n> los puede ueer ante. los cabellos. El sexto
+es q<ue> come menos q<ue> suele. Si tales figuras parec'e<n> como esta<<s>>
+q<ue> auemos dich. Deue<n> sang<r><<a>>r el cauallo en medio del cuello.
+segu<n>d la fuerza e la edat del si fu<er>e fuert<e>. & ouiere .v. an<n>os
+o mas deue<n> le sacar tres libras de sang<r><<e>> si fu<er>e flaco & nue-
+uo libra & m<e>dia. Si de q<u><<a>>tro die<n>tes. dos libras. & sil esto no<n> fa-
+ze<n> aura muchas enfermedades. & malas. & son llamadas de}
+[fol. 40r]
+{CB1.
+muchos no<m>bres. Los unos llama<n> aq<ue>llas enfermedades sarci-
+na q<ue> es en la carne. & forada el cuero. ot<r><<o>>s las llama<n> sarna
+q<u><<a>>n<d>o p<re>nde el cuero. & tal enfermedat no<n> corro<m>pe sola me<n>t
+aq<ue>l cauallo mas todas las [o]t<r><<a>>s bestias q<ue> esta<n> co<n> el en lue<n>go
+tie<m>po ca el .i. cauallo p<re>nde la enfermedat. Del ot<r><<o>> si se ra-
+za co<n> los die<n>tes o se roen uno a ot<r><<o>> o esta<n> en uno o se fre-
+ga<n> uno a otro. o se recibe el uno al ot<r><<o>> el aneldo q<ue> es co<r>ro<m>pi-
+do q<ue> el ayre es fuerte cosa pora mudar los cuerpos de las.
+a<n>i[m]alias o delas s<er>pie<n>tes o delos o<mne>s asi q<ue> les faze<n> mudar las na-
+turas. & saca las de su estado. & t<r><<a>>he las al suyo por ende de-
+fie<n>de alas mug<er>es q<ue> los nin<n>os peq<ue>n<n>os no<n> llegue<n> alos o<mne>s q<ue>
+an cale<n>tura q<ue> aq<ue>lla cale<n>tura uiene dela muchadu<m>bre de
+la sang<r><<e>> [e] del ayre q<ue> es calient. & humido. & p<re>nde mayor cale<n>-
+tura daq<ue>llos o<mne>s. q<ue> an cale<n>tura. q<ue> el cuerpo del o<mn>e es calie<n>t &
+hu<m>ido. & p<re>nde mayor cale<n>tura. Ende luego q<ue> el o<mn>e a ot<r><<o>> llega
+q<ue> a cale<n>tura. recibe el ayre q<ue> es corro<m>pido por estas dos ma-
+n<er>as q<ue> so<n> dichas. & a de enfermar ca el ayre es calie<n>t. & hu<m>ido
+& corro<m>pido co<n> la cale<n>tura delos enfermos por e<n>de enferma<n>
+los sanos q<ue> esta<n> cerca delos enfermos por e<n>de assi como el
+fuego destruye las cosas calie<n>tes. & humidas. Assi el ayre
+destruye la co<m>plisio<n> del o<mn>e por much[a]s enfermedades. & el ca-
+uallo & el nin<n>o so<n> de calie<n>t co<m>plisio<n>. & humida por nat<ur>a p<or>
+e<n>de se corro<m>pe mas ayna por diu<er>sos accide<n>tes.
+{RUB. Titulo .C<<o>>.V<<o>>. Como restan<n>ara la sa<n>g<r><<e>> q<u><<a>>n<d>o salle
+mucha d<e> llaga del cauallo.}}
+[fol. 40v]
+{CB1.
+{IN2.} Qva<n>do salle mucha sang<r><<e>> dela llaga del cauallo assi que
+la no<n> puede restan<n>ar deue o<mn>e tomar .i. pedac'o de fierro
+& q<ue>mar le. & boluer los poluos del zumo delas fortigas. &.
+met<er>gelo sobre la llaga. & atargelo bie<n>. & met<er>gelo assi fata
+t<er>cer dia & tomar los ho<n>gos & q<ue>marlos. & boluer los poluos co<n>
+el estiercol de puerco q<ue> pasc'e & maiar lo todo en uno. & faz<er>.
+un enplasto. & poner gelo de suso o[ ]tomar la c'enisa dela
+cepa de uid uieia. & echar le mucho dello sobre la llaga & fa-
+ga alas uezes esto. & alas uezes lo del estiercol fata [que] q<ue>de de
+sallir la sangre.
+{RUB. Titulo .C.Vj<<o>>. dela enfermedat
+que dize<n> lampastro.}
+{IN2.} Lampastro es una enfermedat q<ue> es ensomo dela bo-
+ca del cauallo ent<r><<e>> los die<n>tes & esta enfermedat na-
+ze de mucha sang<r><<e>>. & con<n>ocela o<mn>e en[ ]esta guisa q<ue> semeia
+el paladar desuso escalones. & ot<r><<o>>s sabios dize<n> las rayas
+& conosce la por q<ue> es el paladar finchado & mas alto q<ue> los
+die<n>tes. & la bestia q<ue> la a no<n> puede comer. & dexa la uia<n>da.
+caer m<e>dia mascada deue tomar o<mn>e .i. fierro agudo enso-
+mo en forma dela let<r><<a>> q<ue> dize<n> es &[ ]q<ue> sea bie<n> coruo. & p<re>nder
+las tres finchaduras co<n> el & taiar faza si co<n>t<r><<a>> los die<n>tes
+dela<n>te fata q<ue> salga la sang<r><<e>>.
+{RUB. Titulo .C<<o>>.vij<<o>>. del mal q<ue> se faze al
+cauallo en la boca.}}
+[fol. 41r]
+{CB1.
+{IN2.} Faze se mal al[ ]cauallo en la boca por razo<n> del comer
+q<ue> es podrido. & ques enge<n>dra de sa<n>g<r><<e>> flematica & ma-
+la del comer por q<ue> es calie<n>t much & no es bie<n> cocha ca el
+bec'o recibe el meior sugo del comer por q<ue> es muy calie<n>t.
+& tornallo en[ ]sang<r><<e>>. & esparzelo por las uenas & parte se
+por todos los mie<m>bros del cuerpo por q<ue> se co<n>forte<n>. & se crie<n>
+por cale<n>tura & por regamie<n>to de la sang<r><<e>>. & dize q<ue> si la sa<n>-
+gre no<n> co<n>uiene ala natura si la [su]p<er>fluidat della no es
+menguada. o no<n> se desfaze por moui[mi]e<n>tos o por usos por los
+q<ue> deue<n> seer te<m>prada o mi<n>guada. o (f)[s]eer fu<er>a echada por sudor
+la natura esfuer(^z)[^c']a se q<u><<a>>nto puede echar fu<er>a las sup<er>flui-
+dades en alguna p<ar>te del cuerpo q<u><<a>>n<d>o la sup<er>fluidat finca
+en algu<n> logar dela humor tal enfermedat p<re>nde no<m>bre d<e>l
+mie<m>bro en q<ue> cae. & por ende le dize<n> el mal dela le<n>gua. au<n>
+dize<n> q<ue> p<re>nde no<m>bre del mie<m>bro abseso. q<u><<i>>er dec'ir ta<n>to como
+c'ercado q<ue> la lengua esta c'ercada delos paladares & delos.
+die<n>tes. Aun tal e<n>fermedat abiene al cauallo por q<ue> es cor-
+ro[<m>]pido por ot<r><<o>> tal humor. Assi como el cauallo q<u><<a>>n<d>o sano
+esta co<n> ot<r><<o>> cauallo q<ue> [a] este mal. p<er>o deuemos saber q<ue> magu<e>r
+q<ue> el cauallo sea de tal linage no<n> puede recebir lig<er>a me<n>t
+la enfermedat del ot<r><<o>> cauallo por el cauallo ni<n> por q<ue> se lle-
+gue a[ ]el si no<n> fu<er>e appareiado co<n> semeiable humor pora
+sofrir tal enfermedat. los semeiables del mal dela le<n>gua
+so<n> estos. Terna el cauallo la lengua desollada & llen<n>a de}
+[fol. 41v]
+{CB1.
+flema & las uenas desuso negras. & la flema sera podrida
+& algunos sabios dize<n> atal flema moruela & ot<r><<o>>s baua
+& corre dela (lengua) boca. & de tal flema desc'e<n>de alos pies
+& a[ ]bes se puede sostener en ellos. Deue o<mn>e p<r><<i>>m<er>a me<n>t aq<ue>lla
+flema. Raer dela le<n>gua. & algunas finchaduras si fu<er>en
+y. & depues fregargelo bie<n> co<n> dos cuchares de oli<n>gre. &[ ]co<n>
+una de sal. & una cabec'a de aios maiado todo en uno. &
+deuel taiar por m<e>d<i>o dos uenas q<ue> so<n> sola le<n>gua. dese<n>de al
+q<u><<a>>rto o Al q<u><<i>>nto dia sang<r><<a>>lle del cuello. Assi q<ue> si fu<er>e el cauallo
+eguado. & rezio q<ue>l saq<ue>n tres libras. si fu<er>e de .iiij<<o>>. die<n>tes
+& rezio .ij. Si de dos die<n>tes. & rezio libra & m<e>d<i>a. & si fu<er>e fla-
+co segu<n>d uiere la flaq<ue>za. Asil me<n>gue la q<u><<a>>lidat dela sa<n>-
+g<r><<e>>. E oy dezir q<ue> ot<r><<o>>s o<mn>es suele<n> en comie<n>c'o dela enfermedat
+taiar le del somo dela leng<u><<a>>. q<u><<a>>nto m<e>d<i>a onza. & si el mal de-
+ce<n>de alos pies sang<r><<a>>lle de todos. los .iiij. pies. c'erca la un<n>a
+de[ ]de<n>t<r><<o>>. & de fu<er>a.
+{RUB. Titulo .C.viij. De la enfermedat.
+que dize<n> ystiuia.}
+{IN2.} Istiuia es una enfermedat q<ue> abien<e> al cauallo enel cuello.
+Et dize<n> q<ue> istiua es tal dole<n>cia q<ue> no<n> se puede el cauallo
+en( )coruar ni<n> puede te<n>der el cuello ni<n> mou<er> le co<n>t<r><<a>> ni<n>gu-
+na p<ar>te ni<n> tomar el comer de t<ier>ra. si no<n> q<u><<a>>n<d>o esta echado.
+& muy g<r><<i>>eue me<n>te. & ot<r><<o>>s sabios dize<n> atal dole<n>c'ia esteua
+por q<ue> se le torna .i. poco el cuello como esteua de aradro}
+[fol. 42r]
+{CB1.
+& tal enfermedat acaec'e de [^i<<a>>] gra<n>d carga. q<ue> toma en las e<<s>>-
+paldas o de gra<n>d seq<ue>dat delos neruios. Deue le o<mn>e leua<n>tar
+la cri<n> del cauallo arriba e fforadar el cuello de part a[ ]part<e>.
+& co<n> una suuiella calie<n>t cerca el cuero assi q<ue> la carne q<ue>
+es cerca el cuello se q<ue>me. mas no<n> ta<n>ga enlos n<er>uios. esto
+deue seer fecho en .v. logares en la lo<n>gueza del cauallo d<e>l
+cuello. & ent<r><<e>> cada .i. forado deue auer .iij. dedos. o una
+mano. & [en] cada forado met<er> una cuerda no<n> much delga-
+da de can<n>amo. o de lino. o de sedas de cola de cauallo.
+Ot<r><<o>>s o<mn>es llama<n> a aq<ue>lla cuerda sedan<n>o. & deue estar assi
+fata .xv. dias.
+{RUB. Titulo .C.ix. Dela enfermedat
+q<ue> dize<n> torta.}
+{IN2.} Torta es una enfermedat q<ue> se faze segu<n>d postema
+& cresce sobre la uena del cauallo. & so el cuero. & faze[s] (^e<n> el)
+en el uie<n>t<r><<e>> del cauallo & dize<n> le torta. por q<ue> cresc'e assi co-
+mo semeia<n>c'a de pa<n>. & ot<r><<o>>s sabios dize<n> le encordio. por q<ue>
+se fac'e so el cuero. Et esta enfermedat nasze de mucha
+sang<r><<e>> podrida. & de humor malo q<ue> anda entre el cuero.
+& la carne. o naze por q<ue> fue la carne ferida & se podrec'e.
+o por q<ue> souo co<n> ot<r><<o>> cauallo q<ue> auie tal enfermedat. Deue
+taiar el cuero en medio dela postema de yuso cerca dela
+(^postema) finchadura [o] fenesce. & mouer e<n>(s) somo toda
+la humor. co<n> .i. fuste ancho. & q<ue>bra<n>talle bie<n> depues pre-mir}
+[fol. 42v]
+{CB1.
+le much. & met<er> dent<r><<o>> .i<<a>>. yerba q<ue> dize<n> sayna. O ffen-
+delle el cuero faza yuso fata q<ue> la fendedura llegue alo
+sano & sacar fuera toda la podredura. & depues fe<n>chir le
+la le<n>gua de stopa de lino & moiada enla ma<n>teca de uaccas
+o en el albura del veuo. & aq<ue>sto deue seer fecho cada dia
+vna (una) uez. fata q<ue> sea sano. E si o<mn>e ente<n>diere q<ue> aq<ue>lla
+enfermedat sea madura do fu<er>e el mayor aiu<n>ctamie<n>to
+de la humor deuelo ferir co<n> .i. fierro calient deyuso. &
+p<re>mirgelo fuert mie<n>t<r><<e>>. & sacar le de amas las p<ar>tes del.
+cuello. & de q<ue> los .vij. dias fuere<n> passados. alos .ix. dia<<s>>
+ot<r><<a>>. Alos .xv. dias ot<r><<a>>. mas deue<n> bie<n> guardar si aq<ue>lla
+enfermedat nasce de gra<n>des hu<m>ores. O de ot<r><<a>>s accide<n>tes.
+{RUB. Titulo .C.x<<o>>. dela enfermedat.
+q<ue> dizen figo.}
+{IN2.} Figo es .i. mal. & es aiu<n>tamie<n>to de hu<m>ores. & es de .iij.
+colores. La una es bermeia. La ot<r><<a>> es cardena la ot<r><<a>>
+neg<r><<a>>. & es sin cabellos. & cresce sobre el cuero e<n> forma de fi-
+go peq<ue>n<n>o maduro. & por ende a tal no<m>bre. & faze se de
+sobre habu<n>da<n>cia de sang<r><<e>> q<ue> es ent<r><<e>> el cuero & la carne. Si
+el figo A( )parec'e much ancho en la cabec'a. P<re>nder un
+pedac'o de cuero. & fazer .i. forado. redo<n>do en medio ta-
+man<n>o como la cabec'a del figo. & pon<er> ent<r><<e>>l cuero forada-
+do. & el dela bestia el arc'iella bie<n> fuert o massa dura de
+muy cernida farina. & fazer tortiellas. & del marru[uio]}
+[fol. 43r]
+{CB1.
+u<er>de bie<n> maiado. & faz<er> las en forma de p(o)[e]ra seg<un>d la gra<n>de-
+za del figo. & poner las sobre un lad<r><<i>>ello o .i. fierro calie<n>t
+ancho. & bie<n> espeso. & depues q<ue> fu<er>en bie<n> calie<n>tes aq<ue>llas tor-
+tiellas poner una sobre aq<ue>l figo. & ap<re>mir le bie<n> mie<n>tre
+q<ue> fu<er>e calie<n>t. & depues q<ue> fu<er>e frio. ot<r><<a>>. & ot<r><<a>>. & ot<r><<a>>. & ot<r><<a>>. fata
+q<ue> aq<ue>l figo comie<n>c'e a enbla<n>dec'er. O aq<ue>llas tortiellas se[ ]pu-
+ede<n> faz<er> de una yerba q<ue>l dize<n> mastuc'io. & nasce en el ag<u><<a>>
+& es tal como berros mas ala foia menor. & cerrada ader-
+redor. E las puede<n> faz<er> de corteza de nogal uerde. & faz<er>
+assi como dixiemos de suso. O taiar el figo todo a[ ]rahiz
+del cuero sano. & dexar alli la sang<r><<e>> desent cob<r><<i>>r la llaga
+de cal biua. o de poluo de crea parme<n>taria. & q<ue>mar el fi-
+go co<n> fierro calie<n>t fata q<ue> llege ala carne sana. & si por
+ue<n>tura algu<n> mal nasiere sobr<e> iu[<n>]ctura. o sobr<e>l neruio
+o sobre la pu<n>cta del espalda deue seer q<ue>mada sabia me<n>t
+assi q<ue> no<n> ta<n>ga. hy el fierro ca farie la lisio<n>. & depues de<<s>>-
+to tomar el estiercol rezie<n>t del buey o de gallo o de palo-
+ma co<n> el xabo<n> bie<n> maiado. & atallo bie<n>. & sea assi fata dos
+dias. & depues desto hu<n>targele .i<a>. uez al[ ]dia co<n> ungue<n>to
+calient q<ue>l dize<n> pe<n>tamiro<n>. o co<n> miel calient fata q<ue> sa-
+ne. & taman<n>a me<n>te se deue g<u><<a>>rdar el cauallo q<ue> no<n> se
+pueda lamer la llaga ni<n> se moie co<n> agua fria. fata .ix.
+dias. O[ ]tomar .i. filo. de sirgo. [*& una] seda de cola de pol-
+lino q<ue> no<n> aya fecho fornic'io. [*& atar] bie<n> el figo cerca}
+[fol. 43v]
+{CB1.
+el cuero sano & q<u><<a>>n<d>o se amoia el philo ap<re>targelo bie<n>. una
+uez o dos o tres. fata q<ue> caya p<or> si. & si nac'iere y ot<r><<a>> uez ta-
+iar le cerca la carne sana. & poner le un cerco de arziella
+tierna. & echar le de la miel feruient de suso. & guardar
+q<ue> nol tanga en<e>l cuero sano q<ue>l q<ue>marie. & a poca de ora t<r><<a>>zel-
+le la miel. & echar le ot<r><<a>> calie<n>te de suso ot<r><<a>> uez si las rayzes
+son fondas. En la carne assi sanara & si muchos figos na-
+ze<n> sang<r><<a>>r el cauallo una uez enel cuello. & ot<r><<a>> enlos costa-
+dos. segu<n>d la fortaleza & la edat q<ue> ouiere.
+{RUB. Titulo .C<<o>>.xi. De neruio del.
+cauallo q<u><<a>>n<d>o corta.}
+{IN2.} El neruio taia(<n>) al cauallo. o apu<n>ctalo por q<ue> es seco. &
+frido. & por ende nol deue tan<n>er agua frida por razo<n> q<ue>
+es hu<m>ida. & fria. ca el neruio podrec'e mucho ayna sil tan<n>e
+el agua. & por esto es de guardar q<ue> al cortamie<n>to ni<n> al[ ]pu<n>c-
+tamie<n>to nol alca<n>c'e agua. Agora deuemos saber q<ue> si el ner-
+uio es taiado q<ue> duele assi como si fues apu<n>tado. o q<ue>ma-
+do. o ferido con piedra. & el dolor es a[ ]guarec'er co<n> cosas
+calie<n>tes. & q<ue> trespasen assi como co<n> olio. o co<n> sayn. o con
+miel. o co<n> uino. & deue seer tanto delo uno como delo al.
+& deue seer el neruio hu<n>tado co<n> estas cosas cochas en uno
+& q<ue>mar el fructo del laurel. & los cominos. & tomar la miel
+& faz<er> un enplasto. & ponergelo desuso. & guardar q<ue> el forado
+no<n> se cierre fata q<ue> salga toda la podredura. Ot<r><<o>>ssi [si] el neruio}
+{CW. .es ferido.}
+[fol. 44r]
+{CB1.
+es ferido por ue<n>t<ur>a de piedra deue seer frotado co<n> agua calie[*<n>]t &
+co<n> c'enisa de enzina. & seer bie<n> ap<re>mido. & de<n>t seer hu<n>tado co<n>
+hu<n> ungue<n>t q<ue>l dize<n> pe<n>tamiro<n> o co<n> ot<r><<o>> ungue<n>t q<ue> sea fecho
+de cosas calie<n>tes & q<ue> sea calient<e> q<u><<a>>n<d>ol u<n>ten & si la carne fu<er>e
+llagada. & si el neruio es nafregado o podrido tomar fari-
+na de fauas o de ordio & la miel & el uino. & cocello en uno
+fasta q<ue> sea bie<n> espeso. & pon<e>r lo sobre la dolor. & sanara. O
+faz[<er>] ot<r><<o>> enplastro de miel. & de rayzes de yedgos. & de malu[au]i<<s>>-
+co & de bretonica o de lirio & pone[r] le sobre la dolor delos n<e>r-
+uios. & atargelo bie<n> & sanara. Et si el neruio fuer taia-
+do en[ ]t<r><<a>>uiesso. o en lue<n>go pued se aiu<n>ctar por ot<r><<a>> guar-
+da. Tomar las lo<m>brices & maiar las co<n> una poca de miel
+& cale<n>tar lo un poco. Al fuego & ponergelo an<te> q<ue> ot<r><<a>> maes-
+t<r><<i>>a muchas uezes sobre la llaga.
+{RUB. Titulo .C.xij. del taiamie<n>to
+delas uenas.}
+{IN2.} Unos o<mn>es dize<n> q<ue> es taiamie<n>to de uenas ot<r><<o>>s asserra-
+mie<n>to. por q<ue> las taia<n> assi como la sierra el madero
+& por ende a no<m>bre serramie<n>to de uenas. (& la.) & la uena.
+por esso la taia<n> por q<ue> la sang<r><<e>>. & la rema no<n> desce[<n>]da alos
+flacos mie<m>bros. & q<u><<a>>n<d>o la uena q<u><<i>>siere<n> taiar deue<n> p<r><<i>>m<er>o
+moiar el cuero. & raer le & fregallo mucho co<n> las ma-
+nos fasta q<ue> parezca la uena. & el agua a de seer calie<n>t.
+pues q<ue> esto fu<er>e fecho leua<n>tel .i. o<mn>e el cuero arriba ot<r><<o>>}
+[fol. 44v]
+{CB1.
+fiendal en lue<n>go segu<n>d q<ue> ua la uena. (& depues.) & depues
+q<ue> fuer el cuero fendido apartar la uena dela carne. & ta-
+iar la assi como es sobredicho en otras curas por q<ue> se de-
+sang<r><<e>> el neruio en q<ue> fuere la enfermedat. & q<ue> se ma<n>te<n>-
+ga el cuerpo co<n> la q<ue> fincare.
+{RUB. Titulo .C<<o>> .& .xiij. Dela enfermedat
+que dize<n> radi<n>c<u>lo.}
+{IN2.} Radi<n>c<u>lo q<u><<i>>er dezir ta<n>to como finchadura ancha et
+de bermeia color. & p<re>nde el cuero ela carne bie<n> por
+fondo<n> con gra<n>d cale<n>tura q<ue> a en[ ]si. & el cauallo echasse
+& bolcasse. & estie<n>de se co<n> el gra<n>d dolor. & faze se en las
+llagas. & en las piernas delos (delos) neruios. & en<e>l espi-
+nazo. & abiene alas uezes q<ue> se faze por si sin ni<n>guna
+ot<r><<a>> dole<n>c'ia enlos logares d(e)[o]los hu<m>ores desce<n>de<n>. & este mal
+no<n> se deue tan<n>er co<n> fierro enel comie<n>c'o q<ue> se mueue<n>
+los hu<m>or<e>s. &[ ]esta(r)[n] en feruor. por q<ue> se no asan<n>e ni<n> cresca
+el dolor en aq<ue>l mie<m>bro en q<ue> se faze ni<n> en los ot<r><<o>>s q<ue> so<n>
+cerca del. & por q<ue> no<n> desce<n>da alas ent<r><<a>>nas. & faga la bestia
+morir. & mas deue<n> pon<er> algunas cosas co<n> q<ue> se asi<m>ple<n>.
+& se senfrie<n> o se alinpie<n> o hu<n>tallos co<n> ungue<n>tos frios
+& hu<m>idos q<ue> tal finchadura nasce de muchos hu<m>ores
+sang<u><<i>>neos q<ue> se escorre<n> delas uenas en algu<n> mie<m>bro
+q<ue> es nafregado. o en alguna part<e> del cuerpo. & pues q<ue>
+el mie<m>bro. o el logar do esta no<n> lo puede<n> fuera echar ni<n>}
+[fol. 45r]
+{CB1.
+mudar aq<ue>lla podredura faze se esta dole<n>cia de<n>de & faze
+se segu<n>d la q<u><<a>>lidat. & la nat<ur>a delos hu<m>ores q<ue> mas so<n> en<e>l
+cuerpo. Ende co<n>uien<e> de sab<e>r q<ue> deue<n> hazer en comie<n>zo
+q<u><<a>>n<d>o cresce la enfermedat & q<u><<a>>n<d>o no<n> puede mas crec'er
+& q<u><<a>>n<d>o descresce mayor me<n>t en tales finchaduras q<ue> acae<<s>>-
+ze<n> por diu<er>sas razo<n>es & por diu<er>sos mie<m>bros. & por esto es
+q<ue> estas enfermedades ag<r><<i>>eue puede<n> guarec'er si co<n> gra<n>d
+sotileza no<n> se acorre om<n>e. & co<n> muy sotiles melezina<<s>>.
+Ende co<n>uiene de sacar luego en come<n>c'o dela sang<r><<e>> q<ue> es
+mucha. & buelta co<n> flema. & sacariela por el co<n>t<r><<a>>rio q<ue> si la
+dole<n>cia fuer dela diestra p<ar>te sacargelo dela siniestra &
+si fuer dela siniest<r><<a>> por la diest<r><<a>>. Et si la dole<n>cia fuer del
+cuerpo ayuso sa<n>g<r><<a>>lle delos mie<m>bros altos. Et si la dole<n>-
+cia es en los mie<m>b<<r>>os mas altos sang<r><<e>>n le en los mas ba-
+xos. Et si por aue<n>t<ur>a la finchadura fu<er>e de lue<n>go tie<m>po
+& la cale<n>tura fuer passada. & la color mudada. & la hu-
+mor espesa. & aiu<n>tada en un logar si se no<n> puede toller
+en ot<r><<a>> man<er>a tome<n> el cauallo & t<r><<a>>yan le fasta q<ue> sea esca-
+le<n>tado. iase<n> le aq<ue>l logar o fu<er>e la humor iu<n>tada & desa<n>-
+g<r><<e>>n gela co<n> un fuste fasta q<ue> salga la sang<r><<e>> como clara.
+& pora enfriar o amollecer estas finchaduras o ot<r><<a>>s
+semeiables deue<n> fazer tal enplasto como most<r><<a>>ra aq<u><<i>>
+Tomar una yerua q<ue> a tres no<m>bres en la fisica. el p<r><<i>>mer
+no<m>bre es moro<n>. el s[e]c<un>do es creysso<n>. el t<er>cero senec'io. & ot<r><<o>>}
+[fol. 45v]
+{CB1.
+q[*<ue>] dize[*<n>] cardo be<n>dicho. & todos estos no<m>bres significa<n> un<<a>>cosa
+& nac'e sobre las paredes. & ala foia u<er>de. & tomar desta yerua
+una poca & del asensio amargo ot<r><<o>> tanto & maiarlo en uno
+co<n> las yemas de los hueuos. & co<n> sayn uieio. & co<n> sal. & co<n> fa-
+rina de ordio. & de auena si fu<er>e yuierno si fu<er>e u<er>ano fari-
+na de t<r><<i>>go. & boluello en uno todo. & met<er>gelo calie<n>t sobre el
+logar do es la dole<n>c'ia. E fazer ot<r><<o>> emplasto tomar tres me-
+suras peq<ue>nas de xugo. del aio & dos de uino. & una de hu<n>-
+to uieio q<ue> no<n> sea salado. & si lo fu<er>e regale<n> lo. & cuele<n> lo &
+fincara la sal & media mesura de miel cruda. & la farina
+del t<r><<i>>go. & bolua<n> lo todo en uno fata q<ue> sea espeso. & si fuer fi<n>-
+chadura poner lo calie<n>t, si fu<er>e llaga frio. Si fu<er>e fincha-
+dura faz<er> ot<r><<o>> enplasto. Tomar tres mesuras de estiercol
+q<ue> no<n> sea moiado. & tres del zumo dela yerba be<n>dicha. & de
+los hueuos. & seuo de carn<er>o & farina de t<r><<i>>go o de ce<n>teno. & bol-
+uello en uno. & cozello un poco. & pon<e>r gelo tibio desuso.
+{RUB. Titulo .C.xiiij. Dela enfermedat
+que dizen cuerno.}
+{IN2.} Faze se al cauallo una enfermedat q<ue> dize<n> cuerno. &[ ]q<u><<i>>er[ ]de-
+zir ta<n>to como la carne dan<n>ada q<ue> leua<n>ta el cuero & endu-
+resc'e assi como cuerno. & fazes alas uezes por q<ue> la carne
+se dan<n>a por gra<n>d carga. & fincha. & ante q<ue> sea la fincha-
+dura abaxada faze<n> leuar al cauallo gra<n>d carga. E faze se
+q<u><<a>>n<d>o el espinac'o es finchado en algu<n> logar. & no<n> es foradado}
+[fol. 46r]
+{CB1.
+& caualgan le ap[*<re>]ssurada me[*<n>]t. o dan le mucho t[*<r><<a>>]baio. & del
+sudor escalie<n>ta se [^el] espinazo. & no<n> dexa<n> folgar co<n> la siella.
+fata q<ue> sea frio. Aun se faz esta enfermedat por ot<r><<a>> g<u><<i>>sa
+por razo<n> q<ue> los pelos del espinazo so<n> muy lue<n>gos. & amo<n>to-
+na<n> se co<n> el sudor. & ot<r><<o>>ssi se faze por q<ue> alguna cosa dura.
+esta ent<r><<e>> la siella & el cuerpo. o por q<ue> la carga no esta ap<re>ta-
+da & ende da<n>c'a. O por q<ue> cuelga mas ala una part<e> q<ue> ala ot<r><<a>>.
+& por ende deue<n> toll<e>r la siella de sobre la bestia. & catar si u<er>a<n>
+alguna finchadura. & si la y ouiere deue<n> luego tomar
+el agua fria. & moiar la finchadura co<n> ella. & fregargelo
+mucho co<n> la mano & ant<e> q<ue> se enfrie tornalle su siella &
+ap<re>targela bie<n> &[ ]dexargela estar assi fata q<ue> sea frio esto de-
+ue<n> gelo faz<er> dos o[ ]t<r><<e>>s uezes en un dia. ca si esta enfermedat
+abie<n> por gra<n> t<r><<a>>baio & p<re>nde fuert me<n>te el espinazo. & los
+costados. &[ ]ant<e> q<ue> estas dos enfermedades sea<n> tollidas mor-
+ra el cauallo. o escapara co<n> muy gra<n>d lisio<n>. Deue<n> raer
+la finchadura. & si enla finchadura no<n> ouiere forado.
+deue<n> la iassar por q<ue> salga la sang<r><<e>> q<ue> es nafregada. & si fu<er>e
+de lue<n>go tie<m>po deue<n> la fregar co<n> el agua calient bien &
+tomar el apio. & el yedgo. & el cardo be<n>dicho & cozer lo e<n>
+uno & co<n> aq<ue>l agua fregargelo mucho por q<ue> me<n>gue la sa<n>-
+g<r><<e>>. Tome<n> un e<m>plasto fecho assi del apio. & delos yedgos
+& delas c'imas del sauco. & co<n> el sayn maiarlo en uno. &
+cozer lo en uno co<n> el uino & pon<e>r lo calie<n>t desuso. Et}
+[fol. 46v]
+{CB1.
+faz[*<er>] otro emplasto co<n> el succo del cardo bendito. & co<n> la
+farina de centeno o de t<r><<i>>go & co<n> los hueuos & poner lo so-
+bre la finchadura calient o foradar el cuero do es la fi<n>-
+chadura en muchos logares co<n> .i. fierro calie<n>t o[ ]pon<e>r .i.
+pan<n>o de lino o de can<n>amo mas ancho q<ue> dos dedos e pon<e>r
+lo en derredor dela finchadura. & tomar .j. pedac'o de say<n>
+de puerco. & destellarlo ardie<n>t & faz<er> q<ue> caya sobr<e> los forados.
+& el pan<n>o. tollergello luego & caualgue<n> la bestia fata q<ue> sude.
+E si fuer mest<er> tomar de aq<ue>lla sayn misma cogida. en una
+cosa. & hu<n>te<n> las llagas co<n> una pen<n>ola esto por q<ue> es de mayor
+fuerc'a. esta sayn q<ue> ot<ra> fasta q<ue> se pueda ri<n>car esta enfermedat.
+Et si mest<er> fu<er>e deue<n> tomar los caracoles sin las co<n>chas. & maiar
+las bie<n> & met<er> las bie<n> segu<n>d el emplasto sobre la finchadu-
+ra. & si mest<er> fu<er>e de caualgar deue<n> dexar el emplasto desuso
+delgado esto deue<n> fazer fata q<ue> sea guarido. & de pues q<ue> el[ ]ue-
+nino fu<er>e ende sallido fenchir la llaga de stopas bie<n> mo<n>dadas
+&[ ]bie<n> picadas una uez al dia.
+{RUB. Titulo .C.xv. de los toro<n>dos q<ue> se faze<n> alos.
+cauallos por el cuerpo. & dize<n> les sarcina.}
+{IN2.} Sarc'ina es una enfermedat q<ue> se faze por q<ue> la carne
+del cauallo es muy gruessa & delos muchos hu<m>or<e>s
+ot<r><<o>>s sabios le dize<n> uerme<n> & q<u><<i>>ere dezir tanto como gusa-
+no por q<ue> los hu<m>ores malos & podridos fazen forados en<e>l
+cuero. & enla carne assi como el gusano q<ue> anda llano}
+[fol. 47r]
+{CB1.
+faz por la t<ier>ra. & esta enfermedat se faz del humor q[*<ue>] es
+espeso como engludo dela sang<r><<e>> q<ue> esta cuaiada fu<er>a delas
+uenas. & faze se de golpes. & de llagas. si fasta dos meses
+no<n> fu<er>en sanas. & tal e<n>fermedat faze se en logar<e>s cauados
+assi como enlas espaldas o en los costados. & aun se faz por
+q<ue> el cauallo esta co<n> ot<r><<a>> bestia q<ue> atal enfermedat deue se
+curar sabia me<n>t. ca se faze alas uezes enlas pu<n>ctas de
+los ombros. & en los n<er>uios. & en las iu<n>cturas. & en los a-
+cabamie<n>tos delos huessos. & en los carnosos. & ento<n>c'e sa-
+na ligera me<n>t. & si tal enfermedat se faze enla dela<n>te-
+ra part<e> del cuerpo si entie<n>de o<mn>e q<ue> se faze de mucha san-
+g<r><<e>> deue sang<r><<a>>r el cauall<o> en la uena del cuello si lo a en
+la pierna o en la garra sangre<n> la del pie & tomar tres
+pun<n>os llenos de gazofilat. &. tres de lla<n>ten. & tres de.
+ag<r><<i>>monia. & una. Rayz de rauano & maiarlo en uno
+co<n> agua de pozo o de cueua .i. poco por q<ue> es estancia. &
+dar le a[ ]beuer al cauallo. o faz<er> ot<r><<o>> enplasto de una yer-
+ua q<ue> dize<n> gazophilat. & de las rayzes del rauano ta<n>to de
+lo uno como delo ot<r><<o>>. & .i. poco de xabo<n> aneio & de miel
+& maia[r] lo bie<n> en uno. & pon<e>r lo sobre todos los forados
+& p<r><<i>>m<er>a me<n>t deue<n> seer Ant<e> bie<n> raydos o deue<n> faz<er> ot<r><<o>> enpla<<s>>-
+to dela ti<n>ta q<ue>mada. & de biua cal. & de xabo<n> aneio. & .i.
+poco de[ ]miel. & faz<er> lo assi como poliadas. & pon<e>r lo sobre
+todos los forados. & si los forados fu<er>en muy chicos en-sanchargelos}
+[fol. 47v]
+{CB1.
+con una nauaia. & esto deue seer dos uezes
+fecho al dia fasta q<ue> la enfermedat sea seca. & si la enfer-
+medat no<n> fuer en los huessos o en los ho<m>bros. mas fu<er>e en
+logar carnoso. assi como en[ ]p<u>lpa meior es esto<n>ze. foradar
+el cuero en lue<n>go co<n> una nauaia & taiar toda la enfer-
+medat fata fo<n>do<n> & pon<e>r sobre la taiadura el enplasto de
+suso dicho. & si esto fiziere<n> deue<n> q<ue>mar la llaga co<n> .i. fi-
+erro calie<n>t. & depues q<ue> fu<er>e q<ue>mada pon<e>r de suso .i. em-
+plasto fecho de farina de ordio o de ce<n>teno. & de yemas
+de hueuos. & de una yerba q<ue> dize<n> ag<r><<i>>monia. & bie<n> ma-
+iado todo en uno. & fenchir los forados fata fo<n>don de pie-
+dra suffre molida. & depues met<er> .i. fierro calie<n>t por cada
+uno delos forados ata<n>to q<u><<a>>nto ent<r><<a>>re la piedra suffre. & de
+t<er>cer dia adelant<e> lauargelo co<n> el bo<n> uino. & echarle y los
+poluos del estiercol q<ue>mados del o<mn>e. & molido. Et ot<r><<o>>ssi se fa-
+ze al cauallo una enfermedat q<ue>l dize<n> sarc'ina. An<te> de
+.ix. dias despues q<ue> come<n>zare a enfermar fie<n>da<n> el cuero
+en medio de la frue<n>t. & pon<e>r le y la rayz duna yerba q<ue>
+dize<n> paratelle. & .i. pedac'o de plomo. & asy sanara.
+{RUB. Titulo .C.xvj. Delos cauallos
+q<ue> no<n> puede<n> mear.}
+{IN2.} Q<u><<a>>n<d>o el cauallo no<n> pu[e]de mear estie<n>de se. & echa se.
+& bolca se a menudo. & esta t<r><<i>>ste & si paresce fin-
+chado en las yngles es sen<n>al de muerte esto acaesce}
+[fol. 48r]
+{CB1.
+por q<ue> anda mucho. & no<n> le dexa[*<n>] parar a mear. & pier-
+de la uolu<n>tad. o por gra<n>d frio q<ue>l p<re>nde a colpe depues
+gra<n>d cale<n>tura. o de finchadura q<ue> se le faze de<n>tro en<e>l
+cuerpo. Deue<n> tomar un manoio de rayz de acorio. & algu-
+nos llama<n> la glagiol. & aq<ue>sta yerua ala flor como de aza-
+fra<n>. & la foia lue<n>ga assi como guchiello. & tomar ot<r><<o>> ma-
+noio de yedgos. & ot<r><<o>> de ag<r><<i>>monia. & ot<r><<o>> de apio. & ot<r><<o>> de cerafo-
+lia. & cozer lo todo enel agua. & echar le da( )q<ue>lla agua calie<n>t
+dos o tres uezes por la garga<n>ta depues t<r><<a>>her le fasta q<ue> comi-
+e<n>ze a[ ]sudar. & desent fregalle mucho co<n> un pan<n>o so el uie<n>tre
+cerca las yiadas. & cobrillo. & lexar lo estar en su estaule. & si
+a[ ]poca de ora no<n> meare. faga<n> le co<n> decabo esto mismo. & q<u><<a>>n<d>o
+esto ouiere<n> fecho dexe<n> le iaz<er> por hu<n> canpo o en logar q<ue> aya
+fue<n>t. Ot<r><<o>>s sabios sang<ra>n le de la uena maest<r><<a>> dela pierna.
+{RUB. Titulo .C.xvij. Delos cauallos q<ue> se les
+faze<n> gusanos en el uientre.}
+{IN2.} Q<u><<a>>n<d>o el cauallo a gusanos enel uie<n>tre assi lo conoszra<<s>>
+q<ue> se echa & se bolca bie<n> amenudo. & rascas los costa-
+dos co<n> los die<n>tes & q<u><<i>>ere rascar el uie<n>tre co<n> los pies de[ ]tras.
+& tiene los cabellos espeluzrados & faze delgado & t<r><<i>>ste. & si
+no<n> le acorre o<mn>e mucho ayna. fie<n>den [^le] los gusanos las ent<r><<a>>n<n>as
+& ent<r><<a>>n en el uie<n>tre. & a de morir por fuerza. o escapara mu-
+y ag<r><<i>>ef. Deue<n> le tomar las ent<r><<a>>nas entregas dela gallina q<ue> sea
+polla o delos pollos. & alzalle la cabeza. & met<er>gelos calie<n>tes}
+[fol. 48v]
+{CB1.
+por la boca. & faz[*<er>] gelas t<r><<a>>gar. esto deue[*<n>] faz[*<er>] tres diasenla
+man<n>an<n>a. & no<n> dar le a comer ni<n> a[ ]beuer fatal medio.
+dia. Et si mas q<u><<i>>siere<n> fazer tome<n> hu<n> manoio de la ca-
+misa del sauco. & ot<r><<o>> dela c'ima q<ue> dize<n> mica q<ue> llama<n>
+algunos gen<er>a. & coz<er> la much en el agua. & colar la co<n>
+.i. pan<n>o. & dargela a[ ]beuer. & si beuer no la q<u><<i>>siere met<er>
+gela por la boca. & faz<er>iela tragar. Otros sabios toma<n>
+c'imas de fauas. & de abro(c)[t]a<n>. &[ ]dela gen<er>a. & taiarlas &
+dargelas a comer. & no<n> dalle a[ ]beuer si no<n> agua salada.
+O[ ]tomar .iij. o q<u><<a>>tro manoios de c'e<n>teno. & met<er>los en u<n>
+poco de agua. & depues poner los cerca t<ier>ra en logar q<ue>
+no les de el uie<n>to. & dexar los fata q<ue> q<u><<i>>eran nazer &[ ]de-
+pues sacar los .i. poco al ayre. & dar le cada dia un ma-
+noio a[ ]comer si touiere el uie<n>tre uazio.
+{RUB. Titulo .C.xviij. De como se deue<n> mouer
+los cauallos depues q<ue> an meado.}
+{IN2.} Q<u><<a>>n<d>o de mayor agudeza es el cauallo tanto mas se e<<s>>-
+tie<n>de q<u><<a>>n<d>o q<u><<i>>er mear. Onde co<n>uiene. q<ue> q<u><<a>>n<d>o a mea-
+do q<ue> corra rezia me<n>t nil deue<n> mouer del logar q<ue> mea
+fata q<ue> aya meado. & sus mie<m>bros en si. por q<ue> si por ue<n>t<ur>a
+ant<e> lo mueue<n>. puede algu<n> mie<m>bro sallir de su logar o
+recebir muy gra<n>d enfermedat o no<n> se puede mouer.
+{RUB. titulo .cxix. Dela enfermedat q<ue>
+dizen purigo.}}
+[fol. 49r]
+{CB1.
+{IN2.} Faze se al cauallo una enfermedat q<ue> dize<n> purrigo
+& dize<n> le assi por arte. & ot<r><<o>>s le dize<n> trop<ro>sona. por q<ue>
+el cauallo se deleyta por rascar co<n> sus die<n>tes. & rasca se a
+menudo. E a( )q<ue>sta purrigo nasc'e de podrida sang<r><<e>>. & ma-
+yor me<n>t q<u><<a>>n<d>o el cauallo t<ra>baia mucho en la oton<n>ada co<n>
+poco comer. & co<n> poco beuer. O naze por q<ue> engruessa co<n> la
+gra<n>d folga<n>za & no<n> lo sa<n>g<r><<a>>n o por q<ue> nol tuelle<n> el poluo.
+q<u><<a>>n<d>o t<r><<a>>baia mucho o del frio q<ue>l toma en colpe. E q<u><<a>>n<d>o de-
+pues de gra<n>d t<r><<a>>baio & de gra<n>d cale<n>tura le dexa<n> estar sin
+cobertura en frio logar. o a frio ayre aq<ue>sta porrigo na-
+ze enel cuello cerca la crin q<u><<a>>n<d>o se comie<n>za de fazer. & na-
+c'e por much[o]s ot<r><<o>>s logares del cuerpo. Deuen en el comie<n>c'o
+sang<r><<a>>r el cauallo si aparec'e<n> signos de mucha sang<r><<e>>. & u<n>-
+tar le todos los logares do es aq<ue>l purrigo co<n> unto calie<n>t
+&[ ]a[ ]t<er>cer dia depues dela sang<r><<i>>a lauargelo bien co<n> lexia
+calient fecha de c'enisa de paia de ordio. & de agua salada
+o de fuent. O co<n> agua cocha co<n> marrubio ue<n>toso. & co<n> las
+c'imas de los yedgos q<ue> an mayor fuerc'a por natura. &
+depues q<ue> fuere<n> cochas. laue<n> las co<n> sal. & fregue<n> le todos
+los logares do a l(o)[a] come(<n>)zo[<n>] & depues q<ue> fu<er>e seca hu<n>te<n> le
+co<n> un ungue<n>to q<ue> se deue Vntar la comec'o<n>. & deue<n> lo.
+faz<er> desta guisa. Tomar las rayc'es duna yerua q<ue> dize<n>
+lapaz. & dela bermeia. & de la q<ue> dize<n> canpi agudo. & las
+rayzes dela yerua be<n>dita. & coz[<er>] las co<n> alguna g<r><<o>>ssura}
+[fol. 49v]
+{CB1.
+fata q[*<ue>] sean muelles. & echar fu[*<er>]a las q<ue> so[*<n>] duras. & las q[*<ue>] fi[*<n>]-
+care<n> taiar las. & maiar las co<n> unto aneio & depues untar
+el cauallo co<n> ello al sol. o[ ]cerca el fuego o[ ]tomar una yer-
+ua q<ue> dize<n> estuesc'o q<ue> se g<r><<i>>a enel agua. & el marru[u]io ber-
+meio por q<ue> es de mayor cale<n>tura. & de mayor secura. & el.
+asensio amargo. & maiar lo co<n> la folli<n>. & fregalle bie<n> co<n>
+{RUB. Titulo .C.xx. Dela enfermedat q<ue> dize<n> escabies.} [%2] ello.
+{IN2.} Faze se al cauallo una enfer-
+medat q<ue> dize<n> scabies. & q<u><<i>>er ta<n>to dezir como sarna.
+& faze se enel cuerpo del cauallo. & dize<n> le assi. por q<ue> es tal
+como escama de pescado. & esta enfermedat nac'e de mu-
+cha sang<r><<e>> podrida. & de hu<m>ores q<ue>l cresc'e<n> en<e>l cuerpo. o q<u><<a>>n-
+do un cauallo q<ue> es sano se rasca co<n> ot<r><<o>> q<ue> a esta enfer-
+medat. o se rasca el sano o se suele rascar el enfermo. &.
+nac'e q<u><<a>>n<d>o li<m>pia<n> el un cauallo co<n> el almofac'a & el ma<n>dil
+del ot<r><<o>> o si come la ceuada q<ue> finca al enfermo o[ ]q<ue> recibe
+el anelo del. pora esta dolencia sanar. lauar el cauallo
+co<n> la lexia & si el cauallo fu<er>e carnudo sang<r><<a>>rlle. & almo-
+fac'ar le mucho co<n> almofaza aguda & lauar le con la
+lexia como es dicho q<ue> deue seer fecha en esta man<er>a to-
+mar las dos partes de cenic'a dela faya. & las dos dela fena-
+za. & la t<er>cera de cal. & bolu<er> lo en uno en alguna cosa co-
+mo en caldera o en ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er & echar de suso agua sa-
+lada. & calie<n>t. & q<u><<a>>n<d>o sea fecha cog<er> la bie<n> limpia. E[ ]deue<n> g<u><<a>>r-dar}
+[fol. 50r]
+{CB1.
+q<ue> esta lexia ta[*<n>] fuert no[*<n>] caya por los ot[*<r><<o>>]s mie<m>bros por q<ue> los.
+messarie todos. & de q<ue> fu<er>e todo seco moiar le co<n> la muera cali-
+ent al sol fuert. o cerca el fuego. & de<n>t u<n>tar le co<n> este u<n>gue<n>t q<ue>
+se faze assi. Tomar los poluos dela piedra sufre. & los del
+alu<m>bre. & los dela rayz dela fortiga & los dela yerba q<ue>l dize<n> la
+yerua del pie del cauallo. & tomar. (^t)(d)[^e]l arge<n>t bif. &[ ]de ca(s)[d]a una
+cosa tomar tres onc'as o[ ]t<r><<e>>s mesuras. E dela enxu<n>dia aneia
+ata<n>to como de las ot<r><<a>>s cosas. & maiar lo en uno. & maiar el
+arge<n>t bif co<n> la ensu<n>dia fata q<ue> pierda la color el arge<n>t bif.
+& desent mesclar los poluos q<ue> auemos dicho co<n> aq<ue>llo q<ue> es
+maiado & bolu<e>r lo bie<n> en uno. & untar la sarna co<n> ello. E
+tomar una yerba q<ue> dize<n> cardo campesino. & semeia cardo fol-
+lon. & tomar la co<n> su rayz. E tomar ot<r><<a>> yerua q<ue> dize<n> minor
+spargula. & ot<r><<a>> q<ue> dize<n> p<r><<i>>migola. & ot<r><<o>>s o<mne>s dize<n> le paralisis &
+destas todas tomar ta<n>to delo uno como de lo ot<r><<o>>. E tomar dos
+ta<n>to de rayz de una yerua q<ue> dize<n> sopo( )narie menor. ot<r><<o>>s le
+dize<n>. maguasiola<n>. ot<r><<o>>s yerua de figo. ot<r><<o>>s yerba de sarna. &[ ]a
+las rayzes redo<n>das & bla<n>cas & las foias foscas. & hu<n> poco a-
+gudas. & tomar las cortezas de una yerba q<ue> dize<n> ruiboy.
+e estas rayzes todas lauar las bie<n>. & maiar las en uno fa<<s>>-
+ta q<ue> sea<n> molidas. & cozer las co<n> la ma<n>teca crua. & co<n> el
+hu<n>to aneio. & colar las co<n> .i. pan<n>o depues echar desuso
+delos poluos dela piedra sufre segu<n>d la q<u><<a>>ntidat deste cal-
+do colado. & boluer lo en uno. & depues untar la sarna}
+[fol. 50v]
+{CB1.
+co[*<n>] ello. O bolu<er> la p<r><<i>>ma corteza de un arbol q[*<ue>] dize[*<n>] barta. & es i[*<n>]-
+gles. & la secu<n>da q<ue> remanec'e faz<er> la bie<n> menuda. & fenchir .i<<a>>.
+olla & fazer en fondo<n> della tres forados muy sotiles. & faz<er> en t<ier>ra
+.i. foyo. chico. & bie<n> redo<n>do. & met<er> en aq<ue>l foyo olla chica & ui-
+driada por q<ue> no<n> pueda beu<er> el[ ]xugo q<ue> cadra de<n>tro. & cercar la
+de t<ier>ra fata la boca. & pon<e>r sobre ella la ot<ra> olla co<n> la corteza
+bie<n> firme. & cobrir la boca [con] .i<<a>>. piedra ancha o co<n> .i<<a>>. coberte-
+ra. & tomar tres partes de arziella. & la q<u><<a>>r( )ta del estiercol del
+cauallo. & bolu<er> le en uno. & atapar las bocas co<n> ello por q<ue> la.
+llama no<n> pueda ent<r><<a>>r de<n>t<r><<o>> ni<n> sallir el baho dellas. & de pues
+cercar las de len<n>a. & faz<er> le bue<n> fuego. & q<u><<a>>n<d>o aura<n> estado .i.
+poco. p<re>nder la olla de yuso. & co<n> el olio q<ue> de<n>tro sera hu<n>tar la
+sarna co<n> .i. pan<n>o. O tomar del cuero del cieruo. & de las dola-
+duras de len<n>o seco q<ue> dize<n> micario lab<us>. & es mac'ano silue<<s>>-
+tre. & delas cortezas del espino negro. & este olio es bono pora
+toda sarna & hu<n>tar el cauallo q<ue> ouiere sarna tres uezes
+al dia co<n> algunos destos hu<n>gue<n>tos. & del dia q<ue> come<n>c'are<n> a
+hu<n>tar fata .vij. dias guarde<n> le q<ue> se le no<n> moie. ni<n> se roya.
+ni<n> se pueda fregar a[ ]ni<n>guna ot<r><<a>> cosa.
+{RUB. Titulo .cxxi. Dela enfermedat.
+q<ue> caen las sedas alos cauallos}
+{IN2.} (R)[C]ahen las sedas dela cola del cauallo por rac'o<n> q<ue> a mucha
+sang<r><<e>> & t<r><<a>>baia much & nol sang<r><<a>>n. o por q<ue>l dan muchos
+colpes sobre la cola deue<n> le leuar. & hu<n>tar assi como si ouie<<s>>-se}
+[fol. 51r]
+{CB1.
+comezo[*<n>] o sarna & sang<r>(<<a>>)[e]n le dela uena de so la cola. E
+si las sedas caen sola me<n>t de la cola fienda<n> la en somo co<n>t<r><<a>>
+arriba fata q<ue> llege A m<e>d<i>o del q<u><<a>>rto nudo q<ue> es en la cola & ta-
+ge<n> el huesso por m<e>dio del t<er>cero nudo. & eche<n> le fu<er>a. & fin-
+chan la fendedura de sal. E faz<er> algunas q<ue>maduras por
+la cola en mec'uerco. & meta<n> en cada una brocha de fuste.
+& dexe<n> la de<n>tro fata .ix. dias. si no<n> ca<n>sare antes.
+{RUB. Titulo .Cxxij. De como pierde[<n>]
+la ligereza los cauallos.}
+{IN2.} Si el cauallo passa por agua fria q<ue>l de los ynoios ariba
+si nol dexa<n> correr .i. poco luego pierde la ligereza de
+correr fata q<ue> sea escale<n>tado porq<ue> los neruios delas pier-
+nas. faze<n> se mas fuertes & no<n> se puede<n> en( )coruar por
+la frior del agua fata q<ue>s escalie<n>te. Deue<n> le met<er> en yui-
+erno poco en el agua. & en el uerano mas.
+{RUB. Titulo .C.xxiij. Dela enfermedat q<ue> dize<n> mula.}
+{IN2.} Faze se al cauallo una enfermedat q<ue> dize<n> mula. & faze
+se en<e>l frio tie<m>po. de a( )chaque de la mucha sang<r><<e>> fle-
+matica q<u><<a>>n<d>o el cauallo anda por mala carrera. & c'eme<n>to-
+sa. & faze gra<n>d iornada. & en la noch dexa<n> le estar enel
+estable. co<n> los pies moiados. & lodosos en t<ier>ra dura o do[ ]a
+poca paia o no<n> a cama. esto<n>c'e por el gra<n>d t<r><<a>>baio. & por q<ue> e<<s>>-
+ta calie<n>t q<u><<a>>n<d>o lo mete<n> en el estauble. desce<n>de<n> los hu<m>ores a
+los pies de t<r><<a>>s & much mas si es en edat. de .vij. an<n>os. &}
+[fol. 51v]
+{CB1.
+aq<ue>llas hu<m>ores esfria[*<n>] se. & cria[*<n>] se cerca la iu<n>ctura sola coxa
+& faze<n> finchamie<n>to ta<n>to q<ue> fincha las coxas desde la un<n>a
+fata el ynoio. & en<e>l yuierno. & en<e>l uerano faze<n> se co<n> fincha-
+dura & en la estat. & en la oton<n>ada sin finchadura. & cono<<s>>-
+ce el o<mn>e esta enfermedat p<or> tal man<er>a. los cabellos maguer
+sean moiados estan sie<m>p<r><<e>> espeluzdrados assi q<ue> semeia<n> sedas de
+puerco. Rayan los cauallos de las coxas & dese<n>t iasen le e<n> mucho<<s>>
+logares ent<r><<e>> la un<n>a &[ ]el ynoio. & taie<n> el peleio en[ ]guisa q<ue> no<n> da-
+n<n>e<n> el neruio. & an<te> q<ue>l iassen. caldee<n> le las coxas co<n> agua calient
+por q<ue> los hu<m>ores se adelgaze<n>. & faga<n> .i. emplasto en esta gui-
+sa. tome<n> dos mesuras de cal. & una de sal. dos de farina de ce<n>te-
+no dela flor & tres de folin. & maiarlo co<n> el uinag<r><<e>> o co<n> el ui-
+no fuert. & met<er> lo calie<n>t alli do es el dolor. & si es la enferme-
+dat de lue<n>go tie<m>po fie<n>da<n> el cuero en el pie de tras sobre la.
+iu<n>ctura. alli o mana. una hu<m>or asi como resina. de pi-
+no. & fendella co<n>t<r><<a>> ariba. &[ ]leua<n>tar co<n> una suuiella de.
+fuste hu<n> neruio q<ue> es y en guisa de g<r><<a>>no de ordio. & sacar
+le dos onzas de sang<r><<e>>. & de si tomar el asensio. & el apio. &
+las rayzes del yedgo. & el hu<n>to aneio. & la estopa de can<n>a-
+mo. o de lino & maiar lo bie<n>. & met<er> el emplasto sobre la
+llaga o sobre la finchadura. & taiar las uenas delas coxas
+de dentro & de fu<er>a.
+{RUB. Titulo .C.xxiiij. Dela enfermedat
+q<ue> dize<n> pahena.}}
+[fol. 52r]
+{CB1.
+{IN2.} Faze se al cauallo una enfermedat q<ue>l dize<n> pahena &
+faze se t<r><<a>>s el pie q<u><<a>>n<d>o anda a[ ]pac'er. & faze se de ferimie<n>-
+to de alguna cosa dura assi como de piedra o de madero.
+& faze se cerca la un<n>a. & sin fi<n>chadura de la coxa. & q<u><<i>>ebra.
+& fie<n>de la humor q<ue> salle de<n>de & da razo<n> por q<ue> todo dolor.
+faz desce<n>d<e>r. la humor q<ue> es chica. & de<n>da reuma de la par-
+tida de suso ala de[ ]yuso. & por ende los logares mas baxos
+an mas de reuma. & de hu<m>or & an mest<er> ayuda de cosas
+secas & calie<n>tes mediana me<n>t. Tome<n> una cuchara llen<n>a
+de miel. & tres de follin. & las telas de las aran<n>as & las c'i-
+mas de las fortigas esto todo maiallo bie<n>. & pon<e>r enplasto
+fecho bie<n> calient sobre la enfermedat fata q<ue> q<ue>de la hu<m>or
+de sallir. O tomar .i<<a>>. cuchar de los poluos de la ti<n>ta & las
+yemas de los veuos & tres puerros co<n> s<us> foias. O tomar
+las .iiij. partes del poluo de uidrio & tres de ti<n>ta. & dos de ce-
+ra .i<<a>>. de hu<n>to aneio. & regalar lo todo en uno. & poner
+lo calie<n>t sobre la enfermedat. O tomar el estiercol calie<n>t
+de o<mn>e o del can q<ue> no aya comido .i. dia Ata<n>to si no<n> seco co-
+mer asi como pa<n> o huessos. & ligargelo & te<n>ga lo alli por
+tres dias. & guardar ques no moie aq<ue>l logar co<n> agua.
+ni<n> co<n> al. O fe<n>der .i. poco la un<n>a & el cuero de amas p<ar>tes cerca
+la enfermedat por q<ue> salga la mala humor. & depues ligar
+de suso algu<n> emplasto de los q<ue>l dixiemos de suso.
+{RUB. Titulo Dela enfermedat q<ue> dize<n>
+Infusura .C.xxv.}}
+[fol. 52v]
+{CB1.
+{IN2.} Faze se al cauallo una enfermedat q<ue>l dize<n> i<n>fusura. &
+faze se por q<ue> come much(o)[a] c'euada q<ue> es muy fuert. o
+por q<ue>l t<ra>he<n> festinosa me<n>t a[ ]beuer. o por q<ue> beue much ante
+q<ue> mee. o an<te> q<ue> faga camara o an<te> ques cuega el com<er> enel
+estomago. o por q<ue> depues de g<r><<a>>nd t<r><<a>>baio da<n>le luego a[ ]beuer.
+& pone<n> le mucha c'euada dela<n>t. & come mucha della &
+por ende muchos o<mne>s da<n>gelo poco a poco. o se faze por q<ue> de-
+pues de gra<n>d t<r><<a>>baio beue luego. & no<n> anda & nol cubre<n>. Et
+muestra lo por tal razo<n> el gra<n>d mouimie<n>to escalie<n>ta el
+cuerpo. & faze desce<n>der las hu<m>or[e]s. & si de mie<n>t<r><<e>> q<ue> los hu<m>or[e]s
+so<n> en mouimie<n>to dan a[ ]beuer al cauallo. (&) mesclas[e] el
+beuer co<n> los hu<m>ores. & desce<n>de alos pies. & fazes aq<ue>lla en-
+fermedat ala bestia & mayor me<n>t alos cauallos por q<ue> an
+las uenas mas anchas q<ue> ot<r><<a>> bestia. & la carne mas liui-
+ana. & si desce<n>de<n> los hu<m>or<e>s ent<r><<e>>l cuero. & la carne fazes[e] le
+y comie<n>zo e guarde<n> q<ue> no<n> beua el cauallo luego q<u><<a>>n<d>o a
+mucho t<r><<a>>baio. mas este .i. poco. & aq<ue>sta enfermedat se co-
+nosc'e en tal man<er>a al cauallo. Anda assi como sobre es-
+pinas. & q<u><<a>>n<d>o esta alto trieme<n> le los pies. & tiene los en-
+coruados. & todo el dia q<u><<i>>ere yazer fata q<ue> q<u><<i>>er co<n> flaq<ue>za. &
+q<u><<a>>n<d>ol sofrena<n> no<n> puede leua<n>tar los pies de t<ier>ra. & si a mu-
+cho q<ue> lo a sobre los ynoios. Sang<r><<e>>n le de amos los carriellos
+e<n>tre el oio. & el oreia. & ligar la cabeza co<n> el cabestro cerca
+la t<ier>ra. O sang<r><<a>>r de amas p<ar>tes en<e>l cuello. & meter le en el}
+[fol. 53r]
+{CB1.
+agua & de mie<n>tre q<ue> corre la sang<r><<e>>. este enel agua fata sobre
+los ynoios. por espac'io de una hora de<n>t adela<n>te met<er> le enel
+agua fata el uie<n>tre en la man<n>ana. & en la tarde tres dias por
+espac'io de tres horas & guardar q<ue> no<n> coma ni<n> beua si no<n> feno
+o estar en frio logar. & al q<u><<a>>rto dia dar le el saluado del t<r><<i>>go co<n>
+el agua calie<n>t. & fata. q<u><<a>>tro dias faz<er> le esta melezina. q<u><<a>>n<d>o
+uiniere del agua tomar la zenisa dela paia del ordio o de
+la fauaza. & faz<er> lexia destas dos cosas no<n> muy fuert. & me<<s>>-
+clar co<n> esta lexia la c'enisa dela len<n>a. & dela paia del ordio. &
+fazer q<ue> no<n> sea muy espeso ni<n> (ni<n>) muy claro. & met<er> de<n>tro
+torc'eiones de feno delgados. & enbolu<er> los pies fata los yno-
+ios & a( )p<re>mir le bie<n> & met<er> de suso de aq<ue>l emplasto entre la<<s>>
+ligaduras. & las coxas &[ ]depues q<ue> fu<er>e ligado untallo co<n> esso
+mismo. E tomar los poluos del ramo del salze. & echargelos
+por las narizes co<n> una can<n>au<er>a. {RUB. [Titulo] Cxxvi.}
+{IN2.} Si el cauallo come c'euada nueua o mucha o ot<r><<a>> legu<n>-
+de q<ue> semeie c'euada. & no<n> lo mascare bie<n>. & finchare co<n>
+ella assi q<ue> la c(o)[a]lor del estomago no<n> la podiere coz<er> por gra<n>d
+finchamie<n>to apesgal el uie<n>tre. & fazel todo co<n>torc'er. & muchas
+uegadas echar &[ ]leua<n>tar ni<n> puede comer ni<n> tener la cabe-
+za alta. & esta t<r><<i>>ste. & estendijas. & q<u><<i>>ere much beuer. por ende
+ay muchos sabios. q<ue> q<u><<a>>n<d>o la bestia ha much t<ra>baiado dexa<n>
+la estar una pieza por q<ue> se enfrie. & q<u><<a>>n<d>o uea<n> q<ue> es te<m>p<r><<a>>do.
+de la calentura q<ue> t<r><<a>>he co<n>sigo. de[<n>]le .i. poco a[ ]comer ante q<ue>}
+[fol. 53v]
+{CB1.
+beua & depues linpie<n> lo much & q<u><<a>>n<d>o es limpiado da<n> le
+su agua. & echa<n> le su c'euada. & esparze<n> iela delant por
+q<ue> no<n> pueda tomar gra<n>d bocado della. & q<ue> la tome poco a
+poco. & la aya de moler e<n>tre los die<n>tes ante q<ue> entre al esto-
+mago fata q<ue> se[ ]acostu<m>bre mascar la bie<n>. & si p<or> ue<n>tura la c'e-
+uada fu<er>e dura moie<n> gela co<n> .i. poco dagua. & q<u><<a>>n<d>o tal cosa
+acaec'iere deue<n> guardar el cauallo q<ue> no<n> beua fata q<ue> faga
+camera. & orina. & si asi no<n> fu<er>e guardado dela g<r><<a>>nd fincha-
+dura de los g<r><<a>>nos dela c'euada q<ue> fincha<n> & de la hu<m>or del a-
+gua. aura por fuerc'a de morir o <<a>>uer muy gra<n>d dole<n>cia
+asi como ueemos en la luc'<er>na q<ue> q<u><<a>>n<d>o mete<n> en la luc'<er>na.
+mucho olio affogas[e] la lu<m>bre o[ ]p<or>[ ]a( )ue<n>tura cael g<r><<a>>nd mena-
+zo<n> asi q<ue> si muchol dura sera en[ ]gra<n>d p<er>iglo. & si el p<r><<i>>mer
+dia no<n> fiziere camara o orina tome<n> las rayzes delos yed-
+gos. & las rayzes de .i<<a>>. yerba q<ue>l dize<n> espada fedie<n>t. &[ ]ot<r><<o>>
+de maluas. & coz<er> las en<e>l agua. & faz<er> beuer al cauallo. Vn
+uaso della. & pues q<ue> la ouiere beuida cubra<n> le bie<n> & faga<n>
+le t<r><<a>>her un poco por q<ue> es( )calient. & si a poca de ora no<n> fizi-
+ere estiercol o orina den le desta misma agua ot<r><<a>> uez a
+beuer. {RUB. Titulo .C.xxvij. Delos cauallos q<ue> ha<n> sob<re> huesso.}
+{IN2.} Como q<u><<i>>er q<ue> de suso de( )p<ar>ti de una enfermedat q<ue>l dize<n>
+sobre huesso agora q<u><<i>>ero dezir de ot<r><<a>> natura. Sobr<e> hue<<s>>-
+so se faze en las can<n>as & en las iu<n>cturas delos (delos) ca-
+uallos. & nac'e tan firme q<ue> se no<n> puede partir del huesso}
+[fol. 54r]
+{CB1.
+& mayor me<n>t en los mie<m>bros magros. & secos q<u><<a>>nto mas tar-
+da de guarec'er ta<n>to peor se duele el cauallo q<ue> acresce asi co-
+mo ot<r><<o>> mie<m>bro. & por ende corq<ue>a mucho & fiere las piedras
+co<n> el pie q<ue> nol puede leua<n>tar de t<ier>ra p<or> los n<er>uios q<u>(<<a>>)[e] son.
+muy fuertes. & los tiene(<n>) encogidos. Et pora guarec'er le
+raher el sob<re> huesso. & hu<n>tar le. & fregalle much co<n> un-
+gue<n>t q<ue>l dize<n> pentamiro<n>. & pon<er> le de suso .i. cuero fuert
+de c'ieruo o .i<<a>>. tabla fecha de box por q<ue> passe bie<n> la cale<n>t<ur>a
+& este ungue<n>to deue se faz<er> destas cosas tomar .iij. parte<<s>>
+de unto aneio. &[ ]dos partes de grossura de hueuos. & esta
+g<r><<o>>ssura faze se asi. tomar los hueuos. & cozellos fata q<ue> sea<n>
+duros & tomar las yemas. & met<er>las en una sarte<n> q<ue> sea.
+sobre el fuego. & bolu<er> los. &[ ]esp<r><<i>>mirlos enla g<r><<o>>ssura q<ue> salli-
+ere dellas boluella co<n> el e<n>xu<n>dia. & tomar ot<r><<a>>s dos partes
+de miel q<ue> no<n> sea(<n>) cocha & tomar .i<<a>>. poca de c'era uirge<n>. & ot<r><<a>>
+poca de resina de pino. & .v. gotas de olio de laurel. & faze
+se asi tomar el fruyto. & maiallo much. & depues cozel-
+lo en el agua & collar lo co<n> .i. pan<n>o de sayal & torcello
+co<n> dos fustes. & pues q<ue> fu<er>e el agua fria cog<er> co<n> .i<<a>>. pen<n>ola
+la g<r><<o>>ssura q<ue> esta de suso. & todas estas cosas pon<e>r las[ ]e<n>
+q<ue> q<u><<i>>er sobrel fuego fata q<ue> sea<n> desfechas. & colar las co<n> .i.
+pan<n>o. & untar los neruios. & mayor mie<n>t<r><<e>> los sobrehu-
+essos. & no<n> poner en<e>l fierro ni<n> fuego q<ue> el sobrehuesso
+co<n> esto se toldra. Ot<r><<o>>ssi foradar el sobrehuesso fatal m<e>dio}
+[fol. 54v]
+{CB1.
+co<n> .i<<a>>. suuiella en muchos logares. & tomar .i. fuste. & fe<n>-
+der le por medio. & tomar del estiercol de cabro<n> o del carn<er>o.
+& una poca del & met<er>lo en un pan<n>o de stopa. & met<er>lo enla
+fendedura del fuste. & moiar lo en la miel o en la ma<n>teca
+cruda o en la enxu<n>dia & pon<e>r le muchas uezes feruie<n>t
+sob[r]e[ ]el[ ]sobrehuesso tantas uezes fata q<ue> se parte el cuero
+bla<n>co. & guardar fata .vij. dias q<ue> no<n> sele moie ni<n> sele co-
+ma. Ot<r><<o>>ssi tomar las dos p<ar>tes de cal. & una de fuert xabo<n>
+& la q<u><<a>>rta de sal. & q<ue>mar lo en una teia sobrel fuego. &[ ]fa-
+zer los poluos & echargelos sobrel cuero. q<u><<a>>ndo fu<er>e[ ]bie<n>[ ]hu<n>-
+tado co<n> olio del linueso. & atargelos desuso bie<n> calie<n>tes. &
+ant<e> q<ue> esto todo faga<n> iassar el sobre huesso. & pon<e>r .i. cuero
+foradado en derredor por q<ue> el poluo no<n> dan<n>e el cuero sano
+& depues hu<n>telo co<n> la miel o co<n> hu<n>to o co<n> ot<r><<o>> ungue<n>t ca-
+lie<n>t q<u><<a>>l q<u><<i>>er. Ot<r><<o>>ssi raer el sobre huesso. desend faz<er> un
+emplasto delas yemas delos hueuos cochos & bie<n> duras
+& metergelo de suso bie<n> calie<n>t cada dia dos uezes fata
+tres dias. Ot<r><<o>>ssi tomar .ix. taiadas dela rayz del vno &
+cale<n>tar las sobre una teia. & met<er> cada por si bie<n> calie<n>tes
+sobrel sobre huesso. & depues q<ue> fu<er>en frias pon<e>r alguna<<s>>
+cosas bla<n>das pora sanar el[ ]cuero.
+{RUB. Titulo .C.xxviij. Del cauallo. q<ue> se alca<n>za
+en el neruio.}
+{IN1.} Q<u><<a>>n<d>o el cauallo se alca[<n>]za enel neruio. & finchal. & a}
+[fol. 55r]
+{CB1.
+las uezes se duele much alas uezes no<n>. Raya<n> la fincha-
+dura. & iassen la en tal guisa q<ue> no<n> dan<n>e el neruio. & le-
+xe<n> le sallir la sangre bie<n>. dese<n>de tome<n> un gallo uieio
+& fie<n>da<n> lo por las espallas. & po<n>ga<n> gelo calie<n>t co<n> todas s<us>
+ent<r>a<<n>>as. & te<n>ga<n> lo dos dias. Ot<r><<o>>ssi tome<n> las rayzes delos
+yedgos. & maie<n> las co<n> una poca de miel. o de ma<n>teca. &
+las rayzes del altea cochas en<e>l agua fata q<ue> sea<n> muelles
+& mage<n> las co<n> unto. & faga .i. enplasto de todo. & ate<n>ge-
+lo bie<n>. sobrel alca<n>c'adura. Ot<r><<o>>ssi tomar dos cuchares de
+sayn. & tres de ol(ui)[in]gre. Vna de miel. & .i<<a>>. de sal. & .i. ua-
+so de uinagre. & delas fezes del azeyt. & dela yerua q<ue> dize<n>
+fuisia. E del uinag<r><<e>>. & .i. manoio de stopas de can<n>amo
+o de lino. & bolu<er> lo todo en uno. & pon<e>r aq<ue>l enplasto .i<<a>>.
+uez al dia sobrel alca<n>c'adura fata q<ue> se parta la dolor.
+Ot<r><<o>>ssi fazer ot<r><<a>>s cochuras peq<ue>n<n>as. c'ercar el Alca<n>c'adura
+co<n> .i. fierro delgado. & coruo en man<er>a de .C. en tal gui-
+sa q<ue> no<n> ta<n>ga al n<er>uio. & tomar el cuero del puerco ui-
+eio q<ue> aya unto en<e>l. & atargelo bie<n> calie<n>te desuso. & si
+por ue<n>tura q<ue>brare el cuero o endureciere por los e<m>plasto<<s>>
+q<ue> pone<n> sobrel alca<n>c'adura. hu<n>te<n> le co<n> el u<n>gue<n>t q<ue> dize<n>
+pe[<n>]tamiro<n>. o untallo co<n> la miel. & el azeyt tibio todo bu-
+elto por egual.
+{RUB. Titulo .C.xxix. Del cauallo
+deslunado.}}
+[fol. 55v]
+{CB1.
+{IN2.} Q<u><<a>>n<d>o al cauallo salliere el hueso dela llun de su logar
+derribar le. & poner le el pie de p<ar>te de de<n>tro de la pier-
+na del cauallo bie<n> suso cabo los coion<e>s. & p<re>mir le fue-
+rt me<n>te el pie fata q<ue>l faga faz<er> sueno al huesso q<ue> ent<r><<e>>
+en[ ]su logar. E q<u><<a>>n<d>o fuere en( )casado. cortal la uena. ma-
+estra. Assi como es dich en ot<r><<a>>s curas.
+{BLNK.}
+{LAT. Hic liber est sc<r><<i>>ptus sit nom<en> d<omi>ni b<e>n<e>dictum. Amen.}
+{BLNK.}
+{LAT. Qui scripsit scribat semp<er> cu<m> d<omi>no uiuat. Amen.}
+{BLNK.}
+{BLNK.}
+{LAT. [^2#Quicu<m> q<ue> hanc or<ati>one<m> dix<er>it ad eleuat<i>one<m> hostie s<anc>te habebit
+ccc. dies Jndulgencie a papa Johanne xxij.
+Aue uerum corpus & sanguis d<o>m<ini> n<ost>ri ih<es>u xp<ist>i natu<s> ex
+maria uirgine uere passum et i<m>molatu<m> in cruce pro ho<m>i<n>e
+cuius latus p<er>foratu<m> uero fluxit sanguine esto michi p<<a>>gatis
+ta<n>tu<m> mortio in exanime. O pie. o. dulcis. o. ihesu fili marie
+misere mei.
+Jte<m> quicu<m>q<ue> ha<n>c or<ati>one<m> dix<er>it ad eleuatione<m> habebit .C. dies.
+indulge<n>cie ab code<m> d<omi>no. Johan<n>e p<a>p<<a>> [x]xij.
+Aue caro xp<ist>i cara immolata crucis [c]ara pro rede<m>ptis hostia
+Morte tua nos amara fac rede<m>ptos luce clara tecu<m> situ gl<ori>a ame<n>]}}
