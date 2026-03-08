@@ -1,0 +1,22 @@
+cff-version: 1.0.0
+message: "If you use these transcriptions, please cite them following the instructions in the README.md file."
+editors:
+  - family-names: Francisco
+      given-names: Gago Jover
+      orcid: https://orcid.org/0000-0002-8273-8791
+  - family-names: F Javier
+    given-names: Pueyo Mena
+    orcid: https://orcid.org/0000-0001-9067-5666
+	title: «TEXT.xxx.txt [substituting xxx with the alphanumeric characters in the file name], semi-paleographic transcription», Old Spanish Textual Archive, [date of download]
+version: 1.0.0
+date-released: 2026-03-07
+publisher: GitHub
+repository: https://github.com/hispanicseminary/OSTA
+license: MIT
+doi: https://doi.org/10.5281/zenodo.7388255 [cambiar esto cuando tengamos el DOI]
+keywords:
+  - "semi-paleographic transcriptions"
+  - "Hispanic Seminary of Medieval Studies"
+  - "Old Spanish Textual Archive"
+  - "medieval studies"
+
