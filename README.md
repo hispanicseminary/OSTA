@@ -186,8 +186,8 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `+`   | used when the logical reading flow of the text contained in a tag is interrupted  |
 |  `(( ))` |  double parentheses, represent the parentheses that appear in the text: `E ((lo q<ue> es peior)) muy aparejado a dar`  |
 |  `%`   | calderón, ¶ , indicates divisions of text which may be akin to paragraphs  |
-| `2%` | calderón two, the text which follows constitutes the concluding portion of the previous line  |
-| `3%` | calderón three, the text which follows it to the end of the line constitutes the concluding portion of the following line  |
+| `%2` | calderón two, the text which follows constitutes the concluding portion of the previous line  |
+| `%3` | calderón three, the text which follows it to the end of the line constitutes the concluding portion of the following line  |
 
 ## Letter Characters
 |   |   |
