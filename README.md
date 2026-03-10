@@ -181,7 +181,7 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `[??]` | denotes the presence of *part of a word* which is illegible:: `fueron a po[??] &`  |
 |  `[??]` | surrounded by a single space denotes the presence of a *full word* which is illegible: `estrellas [??]`  |
 |  `[???]` | denotes the presence of a _phrase_, the combination of two or more illegible words: `[?? ???] quisieres obrar conestas estrellas [??]` |
-| `|` | denotes physical divisions separating segments of text (in a diagram, etc.) |
+| `\|` | denotes physical divisions separating segments of text (in a diagram, etc.) |
 |  `[+]` | links a prefix to its lexical base when they are written separately in the text: `en[+]comjenda`  |
 |  `+`   | used when the logical reading flow of the text contained in a tag is interrupted  |
 |  `(( ))` |  double parentheses, represent the parentheses that appear in the text: `E ((lo q<ue> es peior)) muy aparejado a dar`  |
@@ -281,5 +281,4 @@ Over the years, the following individuals have contributed to preparing these tr
 | Dennis Seniff | Jonathan Burgoyne | Mikel Valladares | Zhao Zhili |
 | Derek Carr | Jordan Robbins | Mirta Alejandra Balestra | Zoraida Sánchez |
 | Dolores Juan Moreno | Jorge Sastre | Molly Kerrigan |  |
-| Dorothy S. Severin | José Antonio Oliver Marroig | Monica Zborowski |  |
-| 
+| Dorothy S. Severin | José Antonio Oliver Marroig | Monica Zborowski |
