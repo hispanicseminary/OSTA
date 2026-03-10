@@ -149,7 +149,7 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `( )` | editorial deletion: `pugnicion de (de) dios`  |
 |  `[^ ]`   | scribal emendation: `& [^a]matala en`, `otra [^ma]nera`  |
 |  `[^#2 ]`   | scribal insertion in a non-original hand: `en la [^2#segu<n>d<a>] casa`  |
-|  `(\^ )`   | scribal deletion: `uini(^ni)eron`, `ymagen(^es)`  |
+|  `(^ )`   | scribal deletion: `uini(^ni)eron`, `ymagen(^es)`  |
 |  `(^#2 )`  | scribal deletion in a non-original hand: `los cauall(^2#eros)[^2#os]`  |
 
 ### Language Tags
