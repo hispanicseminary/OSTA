@@ -23,7 +23,7 @@ This folder contains two Excel tables with metadata about the transcriptions, on
 * **subcorpus:** 
 *  **transcriptor:** the name of the transcriber(s)
 *  **notas:** notes pertaining to the transcription
-*  **versión:** OSTA ersion in which the transcription was added
+*  **versión:** OSTA version in which the transcription was added
 
 `tabla-obras.xlsx`: contains the metadata of each of the works included in OSTA.
 * **abreviatura HSMS:** alphanumeric sequence used by HSMS to identify each transcription `AXP`, `LOP5`
