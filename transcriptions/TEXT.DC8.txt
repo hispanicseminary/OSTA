@@ -3,7 +3,7 @@
 {RMK: [DC8] Castigos y ejemplos de Catón.}
 {RMK: Burgos | Felipe de Junta | 1563.}
 {RMK: Madrid | Biblioteca Nacional de España | R/12736.}
-{RMK: Agueda Rodríguez Molina.}
+{RMK: Águeda Rodríguez Molina.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0059-0001: Castigos y ejemplos de Catón.} {RUB. Exemplos de Caton.}

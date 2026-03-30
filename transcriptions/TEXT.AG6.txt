@@ -3,7 +3,7 @@
 {RMK: [AG6] El sexto libro del [...] rey Amadis de Gaula [...] [y] Florisando [...] principe de Cantaria su sobrino fijo del rey don Florestan.}
 {RMK: Salamanca | Juan de Porras | 1510.}
 {RMK: Londres | The British Library | C.20.e.34.}
-{RMK: Pablo Ancos García, Covadonga Arango, Ivy A. Corfis, Kristin Neumayer, Ana María Rodríguez, Fernando Tejedo Herrero.}
+{RMK: Pablo Ancos García, Covadonga Arango, Ivy A. Corfis, Kristin Neumayer, Ana María Rodríguez Rodríguez, Fernando Tejedo Herrero.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0049-0001: Florisandro de Cantaria.} {MIN. TANTO MONTA}

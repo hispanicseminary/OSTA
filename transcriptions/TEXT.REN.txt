@@ -3,7 +3,7 @@
 {RMK: [REN] Renaldos de Montalbán.}
 {RMK: Toledo | Juan de Villaquirán | 1523.}
 {RMK: París | Bibliothèque Mazarine | Res 369.}
-{RMK: Pablos Ancos García, Covadonga Arango, Ivy A. Corfis, Margaret Franzen, Kristin Neumayer, María Rodríguez, Fernando Tejedo Herrero.}
+{RMK: Pablo Ancos García, Covadonga Arango, Ivy A. Corfis, Margaret Franzen, Kristin Neumayer, María Rodríguez Rodríguez, Fernando Tejedo Herrero.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0231-0001: Libro del noble y esforzado caballero Renaldos de Montalbán (Libro I de don Renaldos).} {ILL. {MIN: armed knight on horseback with BIBLIOTHEQUE MAZARINE stamp.}}

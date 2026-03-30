@@ -3,7 +3,7 @@
 {RMK: [FNA] Fuero general de Navarra (versión C).}
 {RMK:.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/248.}
-{RMK: Franklin Waltman, Jerry Craddock.}
+{RMK: Franklin Waltman, Jerry R. Craddock.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0085-0001: Fuero general de Navarra (versión C).} {IN2.} Anno [???] m<ilesim><<o>> iiij<<c>> dec<i>m<o> q<u>into dia

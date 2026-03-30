@@ -3,7 +3,7 @@
 {RMK: [FNC] Fuero general de Navarra (versión C).}
 {RMK:.}
 {RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 1947.}
-{RMK: Franklin Waltman, Jerry Craddock.}
+{RMK: Franklin Waltman, Jerry R. Craddock.}
 [fol. 1r]
 {CB2.
 {RMK: HSMS-0255-0001: Fuero de Navarra (versión C).} {IN4.} PRologo por quien &

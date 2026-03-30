@@ -3,7 +3,7 @@
 {RMK: [GE4] General estoria (4).}
 {RMK:.}
 {RMK: Roma | Biblioteca Apostólica Vaticana | Urb. Lat. 539.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {CB2.
 {RMK: HSMS-0250-0001: General estoria (4).} {ILL. {RUB. Aqui se comienc'a

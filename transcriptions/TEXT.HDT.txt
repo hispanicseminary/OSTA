@@ -3,7 +3,7 @@
 {RMK: [HDT] Historia de la doncella Teodor.}
 {RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica dela Universidad de Salamanca | 1866.}
-{RMK: David Arbesú Fernández y Francisco Gago Jover.}
+{RMK: David Arbesú Fernández, Francisco Gago Jover.}
 [fol. 91v]
 {CB2.
 {RMK: 29 lines of text corrresponding to the Bocados de oro.}}

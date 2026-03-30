@@ -3,7 +3,7 @@
 {RMK: [RAB] Libro del cuadrante señero.}
 {RMK:.}
 {RMK: París | Bibliothèque de l’Arsenal | 8322.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 136r]
 {CB2.
 {RMK: HSMS-0229-0004: Libro del cuadrante señero.} {RUB. Este es el prologo del libro q<ue> es de saber

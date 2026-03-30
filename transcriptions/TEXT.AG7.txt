@@ -3,7 +3,7 @@
 {RMK: [AG7] El séptimo libro del rey Amadís de Gaula | La corónica de los famosos caballeros Lisuarte de Grecia y Perión de Gaula.}
 {RMK: Sevilla | Jacobo y Juan Cromberger | 1525.}
 {RMK: Madrid | Biblioteca Nacional de España | U/8571 (1).}
-{RMK: Pablo Ancos García, Covadonga Arango, Kristin Neumayer, Ana María Rodríguez, Fernando Tejedo Herrero.}
+{RMK: Pablo Ancos García, Covadonga Arango, Kristin Neumayer, Ana María Rodríguez Rodríguez, Fernando Tejedo Herrero.}
 [fol. 1r]
 {CB1.
 {RMK: folio missing.}}

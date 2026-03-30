@@ -3,7 +3,7 @@
 {RMK: [CL2] El segundo libro del muy valiente y esforzado caballero don Clarián de Landanís.}
 {RMK: Toledo | Juan de Villaquirán | 1522.}
 {RMK: Nueva York | Hispanic Society of America.}
-{RMK: Pablo Ancos García, Patricia Giménez, Kristin Neumayer, Kristin Piazza, Ana María Rodríguez, Fernando Tejedo Herrero.}
+{RMK: Pablo Ancos García, Patricia Giménez, Kristin Neumayer, Kristin Piazza, Ana María Rodríguez Rodríguez, Fernando Tejedo Herrero.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0203-0001: Libro segundo del esforzado caballero don Clarián de Landanís.} {ILL.

@@ -3,7 +3,7 @@
 {RMK: [YMG] Libro de las formas y de las imágenes.}
 {RMK:.}
 {RMK: San Lorenzo de El Escorial | Real Biblioteca del Monasterio de San Lorenzo de El Escorial | h-I-16.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {CB2.
 {RMK: HSMS-0277-0001: Libro de las formas y de las imágenes.} {IN3.} Aqui comienc'a el libro delas for-

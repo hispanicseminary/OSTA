@@ -3,7 +3,7 @@
 {RMK: [LEY] Libro de las leyes.}
 {RMK:.}
 {RMK: Londres | The British Library | Add. 20787.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {HD. {LAT. {IN1.} Sancti spiritus assit nobis gracia.}}
 {CB2.

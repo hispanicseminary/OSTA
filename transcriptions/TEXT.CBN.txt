@@ -3,7 +3,7 @@
 {RMK: [CBN] Libro del arte de las comadres.}
 {RMK: Mallorca | Hernando de Cansoles | 1541.}
 {RMK: Madrid | Biblioteca Nacional de España | R/1322.}
-{RMK: Alejandra Piñeyrua.}
+{RMK: Alejandra Piñeyrúa.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0173-0001: Libro del arte de las comadres.} {ILL.

@@ -3,7 +3,7 @@
 {RMK: [EPS] Epístolas de Séneca a Lucilo.}
 {RMK: Zaragoza | Pablo Hurus | 1496.}
 {RMK: Madrid | Biblioteca Nacional de España | INC/2353.}
-{RMK: Patricia Chacón, Terrence Mannetter.}
+{RMK: Patricia Chacón, Terrence A. Mannetter.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0354-0001: Epístolas de Séneca a Lucilo.} {RUB. Las epistolas

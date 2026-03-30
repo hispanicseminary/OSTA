@@ -3,7 +3,7 @@
 {RMK: [LUH] Lucidario.}
 {RMK: .}
 {RMK: Rouen | Bibliothèque patrimoniale Villon | Ms A-283.}
-{RMK: Mario Cossío Olavide.}
+{RMK: Mario Antonio Cossío Olavide.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0433-0001: Lucidario.} en[ ]tres partes

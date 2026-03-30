@@ -3,7 +3,7 @@
 {RMK: [GE5] General estoria (5) - Biblia romance.}
 {RMK:.}
 {RMK: San Lorenzo de El Escorial | Real Biblioteca del Monasterio de San Lorenzo de El Escorial | I-I-2.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 96r]
 {CB2.
 {RMK: HSMS-0272-0001: General estoria (5) - Biblia romance.} Aqui comjenc'a el p<r><<i>>mero libro delos macabeos

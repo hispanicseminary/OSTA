@@ -3,7 +3,7 @@
 {RMK: [SDS] Silves de la Selva.}
 {RMK: Sevilla | Dominico de Robertis |1549-06-14.}
 {RMK: Madrid | Biblioteca Nacional de España | R/865.} 
-{RMK: Pablo Ancos, Ivy Corfis, David Hildner, David Korfhagen, Rocío Rubio Moirón, Andrea Sánchez Vicente.}
+{RMK: Pablo Ancos García, Ivy A. Corfis, David J. Hildner, David Korfhagen, Rocío Rubio Moirón, Andrea Sánchez Vicente.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0476-0001: Silves de la Selva.} {MIN. Do<n> Silues dela selua.}

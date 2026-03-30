@@ -3,7 +3,7 @@
 {RMK: [PLO] Palmerín de Oliva.}
 {RMK: Sevilla | Juan Varela de Salamanca | 1525.}
 {RMK: Londres | The British Library | C.57.g.17.}
-{RMK: Pablo Ancos García, Covadonga Arango, Kristin Neumayer, Ana María Rodríguez, Fernando Tejedo Herrero.}
+{RMK: Pablo Ancos García, Covadonga Arango, Kristin Neumayer, Ana María Rodríguez Rodríguez, Fernando Tejedo Herrero.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0023-0001: Palmerín de Oliva.} {RUB. Palmerin de Oliua.}

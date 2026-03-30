@@ -3,7 +3,7 @@
 {RMK: [LUA] Lucidario.}
 {RMK: .}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/3369.}
-{RMK: Mario Cossío Olavide.}
+{RMK: Mario Antonio Cossío Olavide.}
 [fol. 1r]
 {CB2.
 {RMK: HSMS-0459-0001: Lucidario.} {IN3.} E en el nonbre de di-

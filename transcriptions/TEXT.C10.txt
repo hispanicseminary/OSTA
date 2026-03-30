@@ -3,7 +3,7 @@
 {RMK: [C10] Tragicomedia de Calisto y Melibea.}
 {RMK: Zaragoza | Jorge Coci | 1507.}
 {RMK: Madrid | Real Academia de la Historia | 2-7-2/3566.}
-{RMK: Jerry Rank, John O'Neill.}
+{RMK: Jerry R. Rank, John O'Neill.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0188-0001: Tragicomedia de Calisto y Melibea.} % Siguese la Comedia o Tragicomedia de Calisto y

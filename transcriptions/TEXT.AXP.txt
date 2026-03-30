@@ -3,7 +3,7 @@
 {RMK: [AXP] Libro del Anticristo.}
 {RMK: Burgos | Fadrique de Basilea | 1497.}
 {RMK: Madrid | Biblioteca Nacional de España | INC/543.}
-{RMK: Francisco Gago Jover, Jacqueline Martin, Alicia Esperesate, Jsabel Berardi, Alba María Fierro, Fan Bingying, Christina Seipelt, Alvaro Cuéllar, Samuel Toledano, Rubén Venzón, Zhao Zhili, Fu Xiaoqiang, Danny Fernando Murillo, Madita Rahel Klein, María Acebes, Zoraida Sánchez.}
+{RMK: Francisco Gago Jover, Jacqueline Martin, Alicia Esperesate, Jsabel Berardi, Alba María Fierro Vega, Fan Bingying, Christina Seipelt, Álvaro Cuéllar González, Samuel Toledano, Rubén Venzón, Zhao Zhili, Fu Xiaoqiang, Danny Fernando Murillo, Madita Rahel Klein, María Acebes Veganzones, Zoraida Sánchez.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0389-0001: Libro del Anticristo.} {RUB. Capitulo primero como el patriar-

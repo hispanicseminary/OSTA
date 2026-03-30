@@ -3,7 +3,7 @@
 {RMK: [GE1] General estoria (1).}
 {RMK:.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/816.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {HD. GENESIS
 L<IBRO> I}

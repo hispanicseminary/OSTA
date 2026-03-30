@@ -3,7 +3,7 @@
 {RMK: [PIC] Picatrix.}
 {RMK:.}
 {RMK: Roma | Biblioteca Apostólica Vaticana | Reg. Lat. 1283a.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {CB2.
 {RMK: HSMS-0251-0001: Picatrix.} [??] signo de tau[*ro] [??] delas figuras que su-

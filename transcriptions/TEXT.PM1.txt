@@ -3,7 +3,7 @@
 {RMK: [PM1] Palmerín de Inglaterra - libro primero.}
 {RMK: Toledo | Fernando de Santa Catalina | 1547-07-24.}
 {RMK: Londres | The British Library | G.10254,55 (vol.1).}
-{RMK: Pablo Ancos.}
+{RMK: Pablo Ancos García.}
 [fol. 1r]
 {CB1.
 {RMK: HSMS-0474-0001: Palmerín de Inglaterra - libro primero.} {MIN.}

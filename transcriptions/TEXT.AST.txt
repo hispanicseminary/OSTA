@@ -3,7 +3,7 @@
 {RMK: [AST] Libros del saber de astronomía.}
 {RMK:.}
 {RMK: Madrid | Madrid: Biblioteca Histórica “Marqués de Valdecilla” de la Universidad Complutense de Madrid | 156.}
-{RMK: Lloyd Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
+{RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {RMK: HSMS-0053-0001: Prólogo a los Libros del saber de astronomía.}
 [fol. 1v]
