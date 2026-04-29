@@ -1,7 +1,7 @@
 {RMK: HSMS-0569.}
 {RMK: Alfonso X el Sabio, rey de Castilla y León.}
 {RMK: [FRS1] Fuero real - Fuero de Palencia y Sevilla.}
-{RMK:.}
+{RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 1877.}
 {RMK: Francisco Gago Jover.}
 [fol. 1r]
@@ -5790,4 +5790,5 @@ guna cosa del navio por aliuiarlo & las cosas q<ue> echare<n>}
 no<n> venjeren a[ ]puerto todos los q<ue> andodiere<n> enel navio
 sean tenjdos de pagar cada vno segund que trahe en<e>l
 navyo E si algunos andare<n> enel navio q<ue> no<n> troxiere<n>
-sy no<n> sus cuerpos no<n> sean tenjdos de dar nada//}
+sy no<n> sus cuerpos no<n> sean tenjdos de dar nada//
+{RMK: following 35 lines are from the Vida de Barlán e Josafá.}
