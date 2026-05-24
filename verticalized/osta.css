@@ -1,0 +1,2147 @@
+.sincrop {
+	background-color: cyan;
+	font-size: 150%;
+	font-weight: bold;	
+}
+.sincroc {
+	background-color: orange;
+	font-size: 150%;
+	padding: 0.25em;
+	font-weight: bold;	
+}
+
+div.paleo {
+		width: 90%;
+		float: left;
+		overflow: auto;
+		vertical-align: top;
+}
+
+div.critico {
+	
+		width: 41%;
+		float: right;
+		overflow: auto;
+		vertical-align: top;
+		font-size: 100%;
+}
+
+p {
+    	padding-left: 1.5em;
+    	padding-right: 1.5em;
+}
+
+FOL {
+    	padding: 1em;
+		text-align: left;
+		border-radius: 25px;
+		border: 2px solid brown;
+		display: block;
+		margin: 30px;
+		vertical-align: top;
+		/* height: 1600px; */
+		overflow: auto;
+		z-index: 999;
+		
+}
+
+FOL::-webkit-scrollbar {
+	width: 12px;
+	background-color: white;
+}
+
+FOL::-webkit-scrollbar-track {
+	background-color: white;
+	border-radius: 25px;
+	border: 1px solid brown;
+}
+
+FOL::-webkit-scrollbar-thumb {
+	background-color: orange;	
+	border-radius: 25px;
+	border: 1px solid brown;
+}
+
+FOL::-webkit-scrollbar-corner {
+	border-radius: 25px;
+	border: 1px solid brown;
+}
+
+folio {
+		font-weight: bold;	
+		font-family: monospace;
+		color: brown;
+		display: block;
+		margin-bottom: 10px;
+}
+
+
+HD, HD1, HD2, HD3 {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+		border-radius: 25px;
+		border: 2px solid blue;
+		color: blue;
+		text-align: center;
+		display: block;
+		line-height: 1.4;
+		margin: 1em;
+		padding: 1em;
+		line-height: 1.6;
+}
+
+CW {
+	
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+		border-radius: 25px;
+		border: 2px solid gray;
+		color: grey;
+		text-align: right;
+		display: block;
+    	padding: 1em;
+    	margin-top: 1em;
+    	line-height: 1.6;
+		font-style: italic;		
+}
+
+CW:hover:after{
+    display: block;
+}
+
+CW:after{
+    content: "Reclamo";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 45%;
+}
+
+SG {
+	
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+		border-radius: 25px;
+		border: 2px solid gray;
+		color: grey;
+		text-align: right;
+		display: block;
+    	padding: 1em;
+    	margin-top: 1em;
+    	line-height: 1.6;
+		font-style: italic;
+}
+
+SG:hover:after{
+    display: block;
+}
+
+SG:after{
+    content: "Signatura";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 45%;
+}
+
+
+LN {
+	cursor: pointer;
+	display: contents;
+}
+
+LNP {
+	cursor: pointer;
+}
+
+LNC {
+	font-size: 50%;
+	vertical-align: super;
+	color: brown !important;
+  	padding-right: 1.5em;
+	font-weight: bold !important;
+}
+
+
+LNCP {
+	font-size: 50%;
+	vertical-align: super;
+	color: brown !important;
+	font-weight: bold !important;
+}
+
+CB {
+		break-inside: avoid;
+		page-break-inside: avoid;
+		page-break-after: always;
+		break-after: column;	    
+		max-height: none;
+	    padding: 1em;
+		border-radius: 25px;
+		border: 2px solid red;
+		display: inline-block;
+		margin-top: 1em;
+		margin-left: 10px;
+}
+
+
+CB1 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 1;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB2 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 2;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB3 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 3;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB4 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 4;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB5 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 5;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB6 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 6;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB7 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 7;
+			padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.6;
+}
+
+CB1 CB {
+		width: 97%;
+}
+CB2 CB {
+		width: 50%;
+}
+CB3 CB {
+		width: 33.3%;
+}
+CB4 CB {
+		width: 25%;
+}
+CB5 CB {
+		width: 20%;
+}
+CB6 CB {
+		width: 16.6%;
+}
+CB7 CB {
+		width: 14.2%;
+}
+
+
+CBP {
+		display: inline;
+}
+
+CB2P {
+			padding: 1em;
+			margin-top: 1em;
+			border-radius: 25px;
+			border: 2px solid white;
+			line-height: 1.4;
+			display: block;
+			text-align: justify;
+			text-justify: inter-word;
+  }
+
+
+
+RMK {
+	color: orange !important;
+	text-align: left;
+}
+
+CMT {
+	color: lime !important;
+	text-align: left;
+}
+
+RUB {
+	color: red !important;
+	font-weight: bold !important;
+	font-size: 100% !important;
+}
+
+RUBP {
+	display: block;
+	color: red;
+	font-weight: bold;
+	font-size: 100% !important;
+	text-align: center;
+	margin: 15px;
+	margin-left: 30%;
+	max-width: 40%;
+}
+
+ABB {
+	font-style: italic;
+}
+
+IN1 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 100%;
+}
+IN2 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 120%;
+}
+IN3 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 130%;
+}
+IN4 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 140%;
+}
+IN5 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 150%;
+}
+IN6 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 160%;
+}
+IN7 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 170%;
+}
+IN8 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 180%;
+}
+IN9 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 190%;
+}
+IN10 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 200%;
+}
+
+IN11 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 210%;
+}
+IN12 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 220%;
+}
+IN13 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 230%;
+}
+
+IN14 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 240%;
+}
+
+IN15 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 250%;
+}
+
+IN16 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 260%;
+}
+
+IN17 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 270%;
+}
+
+IN18 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 280%;
+}
+
+IN19 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 290%;
+}
+
+IN20 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 300%;
+}
+
+IN21 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 310%;
+}
+
+IN22 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 320%;
+}
+
+IN23 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 330%;
+}
+
+IN24 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 340%;
+}
+
+IN25 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 350%;
+}
+
+IN26 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 360%;
+}
+
+IN27 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 370%;
+}
+
+IN28 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 380%;
+}
+
+IN29 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 390%;
+}
+
+IN30 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 400%;
+}
+	
+COPDEL {
+	text-decoration: line-through;
+	color: DarkCyan;
+}
+
+COPADD {
+	text-decoration: underline;
+	color: DarkCyan;
+}
+
+COPADD2 {
+	text-decoration: underline;
+	color: DarkCyan;
+}
+
+EDITDEL {
+	text-decoration: line-through;
+	color: green;
+}
+
+EDITADD {
+	text-decoration: underline;
+	color: green;
+}
+
+GL {
+	color: BlueViolet;
+}
+
+AD {
+	color: chocolate;
+}
+
+
+MIN:after, LMIN:after, RMIN:after, CMIN:after{
+    content: "Miniatura";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+MIN:hover:after, LMIN:hover:after, RMIN:hover:after, CMIN:hover:after{
+    display: block;
+}
+
+DIAG:after, LDIAG:after, RDIAG:after, CDIAG:after{
+    content: "Diagrama";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+DIAG:hover:after, LDIAG:hover:after, RDIAG:hover:after, CDIAG:hover:after{
+    display: block;
+}
+
+SYMB:after{
+    content: "Símbolo";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+SYMB:hover:after{
+    display: block;
+}
+
+ILL:after, LILL:after, RILL:after, CILL:after{
+    content: "Iluminación";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+ILL:hover:after, LILL:hover:after, RILL:hover:after, CILL:hover:after{
+    display: block;
+}
+
+BLNK:after{
+    content: "Espacio en blanco";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+BLNK:hover:after{
+    display: block;
+}
+
+ARB, ARG, ARM, CAL, BAS, CAT, ENG, FRN, GAL, GER, GRK, HEB, ITL, LAM, LAT, PRT, PRV {
+	font-style: italic;
+	font-size: 100%;
+}
+
+
+w:after{
+    content: attr(data1);
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: -50px;
+}
+w:hover:after{
+    display: block;
+}
+
+
+HD:after{
+    content: "Encabezamiento del folio";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 20%;
+}
+HD1:after{
+    content: "Primer encabezamiento del folio";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 20%;
+}
+HD2:after{
+    content: "Segundo encabezamiento del folio";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 20%;
+}
+
+HD3:after{
+    content: "Tercer encabezamiento del folio";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 20%;
+}
+
+HD:hover:after, HD1:hover:after, HD2:hover:after, HD3:hover:after {
+    display: block;
+}
+
+CW:after{
+    content: "Reclamo";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-left: 45%;
+}
+CW:hover:after{
+    display: block;
+}
+
+RMK:after{
+    content: "Comentario del transcriptor";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+RMK:hover:after{
+    display: block;
+}
+
+CMT:after{
+    content: "Comentario del transcriptor";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+CMT:hover:after{
+    display: block;
+}
+
+
+RUB:after{
+    content: "Rúbrica";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+RUB:hover:after{
+    display: block;
+}
+
+RUBP:after{
+    content: "Rúbrica";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+RUBP:hover:after{
+    display: block;
+}
+
+COPDEL:after{
+    content: "Borrado por el copista";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+COPDEL:hover:after{
+    display: block;
+}
+
+COPADD:after{
+    content: "Adición posterior del copista";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+COPADD:hover:after{
+    display: block;
+}
+
+COPADD2:after{
+    content: "Adición posterior del copista";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+COPADD2:hover:after{
+    display: block;
+}
+
+
+EDITDEL:after{
+    content: "Eliminado por el transcriptor";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+EDITDEL:hover:after{
+    display: block;
+}
+
+EDITADD:after{
+    content: "Adición del transcriptor";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+EDITADD:hover:after{
+    display: block;
+}
+
+IN1:after, IN2:after, IN3:after, IN4:after, IN5:after, IN6:after, IN7:after, IN8:after, IN9:after, IN10:after, IN11:after, IN12:after, IN13:after, IN14:after, IN15:after, IN16:after, IN17:after, IN18:after, IN19:after, IN20:after, IN21:after, IN22:after, IN23:after, IN24:after, IN25:after, IN26:after, IN27:after, IN28:after, IN29:after, IN30:after{
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+IN1:after {
+    content: "Inicial de 1 línea";
+}
+IN2:after {
+    content: "Inicial de 2 líneas";
+}
+IN3:after {
+    content: "Inicial de 3 líneas";
+}
+IN4:after {
+    content: "Inicial de 4 líneas";
+}
+IN5:after {
+    content: "Inicial de 5 líneas";
+}
+IN6:after {
+    content: "Inicial de 6 líneas";
+}
+IN7:after {
+    content: "Inicial de 7 líneas";
+}
+IN8:after {
+    content: "Inicial de 8 líneas";
+}
+IN9:after {
+    content: "Inicial de 9 líneas";
+}
+IN10:after {
+    content: "Inicial de 10 líneas";
+}
+IN11:after {
+    content: "Inicial de 11 líneas";
+}
+IN12:after {
+    content: "Inicial de 12 líneas";
+}
+IN13:after {
+    content: "Inicial de 13 líneas";
+}
+IN14:after {
+    content: "Inicial de 14 líneas";
+}
+IN15:after {
+    content: "Inicial de 15 líneas";
+}
+IN16:after {
+    content: "Inicial de 16 líneas";
+}
+IN17:after {
+    content: "Inicial de 17 líneas";
+}
+IN18:after {
+    content: "Inicial de 18 líneas";
+}
+IN19:after {
+    content: "Inicial de 19 líneas";
+}
+IN20:after {
+    content: "Inicial de 20 líneas";
+}
+IN21:after {
+    content: "Inicial de 21 líneas";
+}
+IN22:after {
+    content: "Inicial de 22 líneas";
+}
+IN23:after {
+    content: "Inicial de 23 líneas";
+}
+IN24:after {
+    content: "Inicial de 24 líneas";
+}
+IN25:after {
+    content: "Inicial de 25 líneas";
+}
+IN26:after {
+    content: "Inicial de 26 líneas";
+}
+IN27:after {
+    content: "Inicial de 27 líneas";
+}
+IN28:after {
+    content: "Inicial de 28 líneas";
+}
+IN29:after {
+    content: "Inicial de 29 líneas";
+}
+IN30:after {
+    content: "Inicial de 30 líneas";
+}
+
+IN1:hover:after, IN2:hover:after, IN3:hover:after, IN4:hover:after, IN5:hover:after, IN6:hover:after, IN7:hover:after, IN8:hover:after, IN9:hover:after, IN10:hover:after, IN11:hover:after, IN12:hover:after, IN13:hover:after, IN14:hover:after, IN15:hover:after, IN16:hover:after, IN17:hover:after, IN18:hover:after, IN19:hover:after, IN20:hover:after, IN21:hover:after, IN22:hover:after, IN23:hover:after, IN24:hover:after, IN25:hover:after, IN26:hover:after, IN27:hover:after, IN28:hover:after, IN29:hover:after, IN30:hover:after{
+    display: block;
+}
+
+GL:after{
+    content: "Glosa";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+GL:hover:after{
+    display: block;
+}
+
+AD:after{
+    content: "Adenda";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+AD:hover:after{
+    display: block;
+}
+
+MIN:after{
+    content: "Miniatura";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+MIN:hover:after{
+    display: block;
+}
+
+DIAG:after{
+    content: "Diagrama";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+DIAG:hover:after{
+    display: block;
+}
+
+SYMB:after{
+    content: "Símbolo";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+SYMB:hover:after{
+    display: block;
+}
+
+ILL:after{
+    content: "Iluminación";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+ILL:hover:after{
+    display: block;
+}
+
+BLNK:after{
+    content: "Espacio en blanco";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+}
+BLNK:hover:after{
+    display: block;
+}
+
+
+LAT:after{
+    content: "Latín";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+LAT:hover:after{
+    display: block;
+}
+
+ARB:after{
+    content: "Árabe";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+ARB:hover:after{
+    display: block;
+}
+
+
+HEB:after{
+    content: "Hebreo";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+HEB:hover:after{
+    display: block;
+}
+
+ARG:after, ARM:after, CAL:after, BAS:after, CAT:after, ENG:after, FRN:after, GAL:after, GER:after, GRK:after, ITL:after, LAM:after, PRT:after, PRV:after{
+    content: "Otras lenguas";
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+	margin-top: 20px;
+}
+ARG:hover:after, ARM:hover:after, CAL:hover:after, BAS:hover:after, CAT:hover:after, ENG:hover:after, FRN:hover:after, GAL:hover:after, GER:hover:after, GRK:hover:after, ITL:hover:after, LAM:hover:after, PRT:hover:after, PRV:hover:after{
+    display: block;
+}
+
+
+span:hover {
+	background-color: LawnGreen;
+    color: black;
+    position: relative;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+span[data-title]:hover:after {
+    content: attr(data-title);
+	font-family: "Alef+Regular", "Alef+", "Times New Roman", Georgia, Serif;
+    padding: 4px 8px;
+	text-align: left;
+    color: #333;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    /*white-space: nowrap;*/
+    z-index: 9999;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 4px #222;
+    -webkit-box-shadow: 0px 0px 4px #222;
+    box-shadow: 0px 0px 4px #222;
+    background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+    background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+.cabecera {
+  	padding: 1em;
+	border-radius: 25px;
+	border: 2px solid blue;
+	color: brown;
+	text-align: left;
+}
+.CB {
+		break-inside: avoid;
+		page-break-inside: avoid;
+		page-break-after: always;
+		break-after: column;	    
+		max-height: none;
+        padding: 1em;
+		border-radius: 25px;
+		border: 2px solid red;
+		display: inline-block;
+		margin-top: 1em;
+		margin-left: 10px;
+}
+
+.CB7 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 7;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB6 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 6;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB5 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 5;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB4 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 4;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB3 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 3;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB2 {
+			display: flex;
+			align-items: flex-start;
+			margin-top: 1em;
+			column-count: 2;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+.CB1 {
+			display: block;
+			margin-top: 1em;
+    	    padding: 1em;
+			padding-top: 0em;
+			border-radius: 25px;
+			border: 2px solid black;
+}
+
+DIV.CB1  .CB {
+		width: 97%;
+}
+DIV.CB2  .CB {
+		width: 50%;
+}
+DIV.CB3  .CB {
+		width: 33.3%;
+}
+DIV.CB4  .CB {
+		width: 25%;
+}
+DIV.CB5  .CB {
+		width: 20%;
+}
+DIV.CB6  .CB {
+		width: 16.6%;
+}
+DIV.CB7  .CB {
+		width: 14.2%;
+}
+.FOL {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    padding: 1em;
+	/*width: 97%;*/
+	text-align: left;
+	border-radius: 25px;
+	border: 2px solid brown;
+	margin-top: 15px;
+}
+
+.HD {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+	border-radius: 25px;
+	border: 2px solid blue;
+	width: 99%;
+	color: blue;
+	text-align: center;
+}
+
+.CW {
+	
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+   	padding: 1em;
+	/*width: 97%;*/
+	color: gray;
+	text-align: right;
+	border-radius: 25px;
+	border: 2px solid gray;
+}
+
+.SG {
+	
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+   	padding: 1em;
+	/*width: 97%;*/
+	color: gray;
+	text-align: right;
+	border-radius: 25px;
+	border: 2px solid gray;
+	font-style: italic;
+}
+
+.RMK {
+	color: orange !important;
+	text-align: left;
+}
+
+.CMT {
+	color: orange !important;
+}
+
+.RUB {
+	color: black;
+	font-weight: bold;
+}
+
+.ABB {
+	font-style: italic;
+}
+
+.IN1 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 100%;
+}
+.IN2 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 120%;
+}
+.IN3 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 130%;
+}
+.IN4 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 140%;
+}
+.IN5 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 150%;
+}
+.IN6 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 160%;
+}
+.IN7 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 170%;
+}
+.IN8 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 180%;
+}
+.IN9 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 190%;
+}
+.IN10 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 200%;
+}
+.IN11 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 210%;
+}
+.IN12 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 220%;
+}
+.IN13 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 230%;
+}
+.IN14 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 240%;
+}
+.IN15 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 250%;
+}
+.IN16 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 260%;
+}
+.IN17 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 270%;
+}
+.IN18 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 280%;
+}
+.IN19 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 290%;
+}
+.IN20 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 300%;
+}
+.IN21 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 310%;
+}
+.IN22 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 320%;
+}
+.IN23 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 330%;
+}
+.IN24 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 340%;
+}
+.IN25 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 350%;
+}
+.IN26 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 360%;
+}
+.IN27 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 370%;
+}
+.IN28 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 280%;
+}
+.IN29 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 390%;
+}
+.IN30 {
+	margin-right: 1px;
+    padding: 2px;
+	display: inline-block;
+	border: 2px solid gray;
+	font-size: 400%;
+}
+	
+.COPDEL {
+	text-decoration: line-through;
+	color: DarkCyan;
+}
+
+.COPADD {
+	text-decoration: underline;
+	color: DarkCyan;
+}
+
+.EDITDEL {
+	text-decoration: line-through;
+	color: green;
+}
+
+.EDITADD {
+	text-decoration: underline;
+	color: green;
+}
+
+.GL {
+	color: BlueViolet;
+}
+
+.AD {
+	color: chocolate;
+}
+
+
+.MIN {
+	color: Crimson;
+    font-size: 80%;
+}
+
+.DIAG {
+	color: Magenta;
+    font-size: 80%;
+}
+
+.SYMB {
+	color: Purple;
+    font-size: 80%;
+}
+
+.ILL {
+	color: Aquamarine;
+	font-size: 80%;
+	font-weight: bold;	
+}
+.BLNK {
+	color: MistyRose;
+}
+
+.ARB, .ARG, .ARM, .CAL, .BAS, .CAT, .ENG, .FRN, .GAL, .GER, .GRK, .HEB, .ITL, .LAM, .LAT, .PRT, .PRV {
+	font-style: italic;
+	font-size: 100%;
+}
+
+.folio {
+	font-weight: bold;	
+	font-family: monospace;
+	color: brown;
+}
+
+.word2 {
+	color: black;
+}
+
+.unknown {
+	background-color: MistyRose;
+	font-weight: bold;	
+	color: Red;
+}
+.unknown2 {
+	background-color: MistyRose;
+	font-weight: bold;	
+	color: Blue;
+}
+
+/* OSTA WEB */
+
+.ui-autocomplete {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.ui-tooltip-default{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #a5b5bd;
+
+	background-color: #f2f5f7;
+	color: #555;
+}
+
+.ui-tooltip {
+    padding: 8px;
+    position: absolute;
+    z-index: 9999;
+    box-shadow: 0px 0px 5px rgb(170, 170, 170);
+}
+
+.tooltipstyle {
+	 font-family:"Open Sans", "Verdana", Arial, Helvetica, sans-serif !important;
+	 font-size: 90% !important;
+	 line-height: 130% !important;
+	 background-color: #f2f5f7 !important;
+	 max-width: 500px !important;
+}
+
+body {
+	  background-image: url("sello.png"), url("fondo2.png");
+	  background-repeat: no-repeat, repeat;
+	  -webkit-font-smoothing: subpixel-antialiased;
+	  font-smoothing: subpixel-antialiased;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+table.filtros td {
+	vertical-align: top;
+}
+
+.navegacion {
+    /* text-align: center;*/
+}
+w:after{
+    content: attr(data1);
+    display: none;
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.4;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: -50px;
+}
+w:hover:after{
+    display: block;
+}
+
+.fakeanchorbutton {
+	border-color:darkblue;
+	color:darkblue;
+	background-color:#fbf9f8;
+	font-weight: bold;
+	cursor: pointer;
+    text-decoration:none;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style: solid;
+    font-size: 12pt;
+    padding-top: 5.5px;
+    padding-bottom: 6px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+
+/*.fakeanchorbutton {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    background-color: #003399;
+    border: 2px;
+    border-style: solid;
+    border-color: grey black black grey;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 8px 15px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration:none;
+    margin-left: 2px;
+	margin-top: 20px;
+	width: 134px;
+}
+*/
+
+input.button_ayudalemas {
+    background-image: url('./ayudalemas.png');
+    width: 24px;
+    background-color: transparent; 
+    background-repeat: no-repeat; 
+    background-position: 0px 0px;  
+	margin-bottom: 4px;
+    border: none;          
+    cursor: pointer;        
+    height: 24px;          
+    padding-left: 24px;
+    vertical-align: middle; 
+}
+div.jqi{
+    width: 550px;
+    top: 100px !important;
+}
+input[type="radio"] {
+	margin-left: 2px;
+}
+.rojo{
+	color: red;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.wordframe {
+	border:1px solid rgba(0,102,119,1);
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.filtroframe {
+	border:1px solid rgba(0,102,119,1);
+/*	padding-right: 5px; */
+/*	padding-left: 5px; */
+}
+
+.consultaframe {
+	border:1px solid rgba(0,102,119,1);
+    width: 45%;
+    margin: auto;
+}
+
+.palabra {
+	margin-bottom: 8px;
+	margin-left: 2px;
+}
+
+legend {
+  padding: 0.2em 0.2em;
+/*  border:1px solid rgba(0,102,119,1); */
+  color:rgba(0,102,119,1);
+  font-size:98%;
+  /*text-align:right;*/
+  font-weight: bold;
+  font-variant: small-caps;
+}
+input {
+  margin-left: 12px;
+  /*margin-right: 7px;*/
+}
+input.filtrado {
+  margin-left: 0px !important;
+  width: 130px;
+  height: 35px;
+}
+.ayuda, .add_palabra, .add_distancia, .remove_palabra, .add_OR, .remove_OR {
+	margin-bottom: 5px;
+    padding: 4px 12px 5px 12px;
+    font-weight: normal;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+    background-color: #003399;
+    border: 1px solid #003399;
+    border-radius: 4px;
+	font-size: 90%;
+	font-weight: bold;
+	font-face: 'Verdana';
+}
+
+.distancia {
+	width: 60px;
+}
+
+.add_palabra, .remove_palabra {
+    padding: 4px 12px 5px 12px;
+    font-weight: normal;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,102,119,1);
+    border: 1px solid black;
+    border-radius: 4px;
+	font-size: 90%;
+	font-weight: bold;
+	font-face: 'Verdana';
+}
+.add_OR, .remove_OR {
+    padding: 4px 12px 5px 12px;
+    font-weight: normal;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,102,119,1); /*#733f00;*/
+    border: 1px solid black;
+    border-radius: 4px;
+	font-size: 90%;
+	font-weight: bold;
+	font-face: 'Verdana';
+}
+
+.add_contexto, .remove_contexto {
+    padding: 4px 8px 5px 8px;
+    font-weight: normal;
+    line-height: 1;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,102,119,1);
+    border: 1px solid black;
+    border-radius: 4px;
+	font-size: 90%;
+	font-weight: bold;
+	font-face: 'Verdana';
+}
+
+.remove_mapa {
+    padding: 4px 8px 5px 8px;
+    font-weight: normal;
+    line-height: 1;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,102,119,1); /*red;*/ /*#733f00;*/
+    border: 1px solid black;
+    border-radius: 4px;
+	font-size: 90%;
+	font-weight: bold;
+	font-face: 'Verdana';
+}
+
+input.form, input.hsms, input.pos {
+    width: 180px;
+    height: 30px;
+    box-sizing: content-box;
+    padding: 5px;
+}
+input.lema {
+    width: 180px;
+    height: 30px;
+    box-sizing: content-box;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.ayuda {
+    margin-left: 5px;
+}
+.match {
+    font-weight: bold;
+    color: red;
+}
+.buscador {
+	display: block;
+	margin-right: 2%;
+}
+.buscador0 {
+	display: block;
+	margin-right: 2%;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.consultas {
+	float: left;
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.filtros {
+	float: left;
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.contextos {
+	float: left;
+}
+.ordenado {
+	float: left;
+}
+fol {
+	-webkit-column-count: 1;
+	-moz-column-count: 1;
+	margin-top: 1em;
+	padding: 1em;
+	/*width: 97%;*/
+	text-align: left;
+	border-radius: 25px;
+	border: 2px solid brown;
+	display: block;
+    font-size: 100%;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	line-height: 1.6;
+	background-color: whitesmoke;
+}
+
+foln {
+	color: blue;
+	font-weight: bold;
+	padding: 1em;
+    font-size: 120%;
+}
+
+node {
+	background-color: yellow !important;
+}
+
+line {
+	display: block;
+}
+
+linen {
+		margin-right: 20px;
+		font-size: 70%;
+		color: brown;
+		width: 15px;
+}
+.filtros label {
+	display: block;
+	font-size: 90%;
+	font-weight: bold;
+	margin-right: 0px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+
+}
+
+label {
+	margin-right: 5px;
+	margin-left: 5px;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+select {
+ display: inline-block;
+ vertical-align: middle;
+ height: 35px;
+}
+
+#superResultados {
+	margin-top: 20px;
+}
+
+.x {
+	cursor: help;
+	font-size: 92%;
+}
+
+.y {
+	font-size: 95%;
+}
+
+tr {
+	vertical-align: top;
+}

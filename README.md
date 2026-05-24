@@ -42,6 +42,22 @@ This folder contains two Excel tables with metadata about the transcriptions, on
 * **tipo textual:** basic typology of the work, can be verse or prose
 * **materia-1, materia-2, materia-3:** taxonomic classification of works by subject matter
 
+## Verticalized
+This folder contains the lemmatized and morphologically tagged texts in XML/HTML format. When visualized in a browser the following features are available: abbreviations, additions, and deletions are resolved; the layout of the text in the codex (folio numbers, columns, headings, catchwords and signatures) is preserved; morphological tagging is displayed when hovering over a word; line numbers are added.
+
+When opened in a text editor, such as [Notepad++](https://notepad-plus-plus.org/) or [BBEdit](https://www.barebones.com/products/bbedit/), the text is presented in a verticalized format. Each line identified by the tag `<LN id=' '> </LN>`, and each token by the tag `<w data1=' '> </w>`. The midpoint separates each component in the following order: token•lemma•PoS_tag.
+
+> \<LN id='73'\>\<LNC\>37\</LNC\>\</LN\><br>
+> \<w data1='departiolo•departir·lo•VMIS3S0·PC3CNA00'>departiolo</w><br>
+> \<w data1='&•y•CC'\>&\</w\>
+> \<w data1='fizo•hacer•VMIS3S0'\>fizo\</w\><br>
+> \<w data1='lo•lo•PC3CNA00'\>lo\</w\><br>
+> \<w data1='todo•todo•DI0MS0'\>todo\</w\><br>
+> \<w data1='en•en•SPS00'\>en\</w\><br>
+> \<w data1='seys•seis•MC0000\>seys\</w\><br>
+> \<w data1='dias•día•NCMP000'\>dias\</w\><br>
+> \<w data1='desta•de·este•SPS00·DD0FS0'\>desta\</w\><br>
+
 ## Transcriptions
 This folder contains the semi-paleographical transcriptions.
 
