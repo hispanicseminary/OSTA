@@ -11792,7 +11792,7 @@ arti. j.} Asi lo dixo sant augustin enel li-
 bro contra fausto donde disputo con-
 tra aquel hereje este articulo. dela ces-
 sacion delas cerimonias dela ley de
-Moysen. {LAT. distin. vj. SS. his itaq<ue>m. capi-
+Moysen. {LAT. distin. vj. §. his itaq<ue>m. capi-
 tulo translato. de constitutionibus.}
 % Sin quemar mucha len~a vencio la
 yglesia los herejes dela yglesia primi-
@@ -12014,7 +12014,7 @@ ellos no vieron lo que yo vi: es a saber
 Que segund la dotrina del sancto do-
 tor. la qual sigue Pedro de palude. &
 {LAT. do. flore. in tertia parte summe titulo
-decimoquarto. capitulo secu<n>do. SS. de
+decimoquarto. capitulo secu<n>do. §. de
 ficre.} % Quatro maneras son de ficti-
 on enel baptismo. % La primera no
 creyendo como estos. % La segunda
@@ -12064,7 +12064,7 @@ lo pone asi simpliciter el Scoto como
 diremos: dize mas la florentina: {LAT. quia
 sicut ad sacramentum requiritur inte<n>-
 tio ministri ad conferendum vt dictu<m>
-est in. SS. precedente: ita intentio susci-
+est in. §. precedente: ita intentio susci-
 pientis sacramentu<m> si est adultus pro-
 pria. Si paruulus aliena: vnde defici-
 ente intentione per fictionem nullum
@@ -12163,7 +12163,7 @@ declaro mas abiertamente q<u><<a>>ndo los
 baptizados por fuerc'a rescebian el sa-
 cramento dela fe & el caracter que es
 el signaculo del xp<ist>iano enel anima se-
-n~alado en<e>l. {LAT. c. maiores de baptismo. SS.
+n~alado en<e>l. {LAT. c. maiores de baptismo. §.
 Jtem queritur.} donde diffiniendo di-
 ze. por q<ue> si constrin~essen siempre alos
 que por fuerc'a & contra su voluntad &
@@ -12226,7 +12226,7 @@ pero resciben el caract(a)[e]r & el sacrame<n>-to.}
 {HD. Tratado contra[ ]la carta}
 {CB2.
 Esta dotrina tiene<n> todos los cano-
-nistas. enel capitulo {LAT. maiores. SS. Jtem
+nistas. enel capitulo {LAT. maiores. §. Jtem
 queritur.} Porque es canon & texto a
 que no podemos dar otro ente<n>dimie<n>-
 to. del que el mesmo manifiesta. Dos
@@ -12418,7 +12418,7 @@ contradicion en auto puede ser. % E
 asi si no consentir tomamos o entende-
 mos contrarie por contradicio<n> en au-
 to. % Entonces se sigue la distincion
-dela decretal {LAT. maiores. SS. Jtem queri-
+dela decretal {LAT. maiores. §. Jtem queri-
 tur.} % Por que: o este que contradize
 en auto {LAT. simpliciter} contradize & no co<n>-
 siente: {LAT. o secundum quid.} & dize el Sco-
@@ -12684,7 +12684,7 @@ cumana. de electione in glosa. capitu-
 lo extirpande de preben. cap. decet de
 immunitante ecclesiarum. libro sexto.
 ff. ad. l. aquil. l. ij. f. de impensis. l. si ma-
-ter. in glosa in. l. pe. SS. nullo tamen. C.
+ter. in glosa in. l. pe. §. nullo tamen. C.
 de iureiu.} Enla poesia en infinitos lu-
 gares {LAT. vel pro etiam} se pone. Virgilio
 {LAT. vel priamo miseranda manus Teren-
@@ -12705,7 +12705,7 @@ salutem baptismus cum illa fictio ve-
 rac'i confessione recesserit.} Esto tiene
 ricardo de media villa enel {LAT. quarto di-
 stinctione sexta.} donde faze la distinci-
-on del capitulo {LAT. maiores. SS. Jtem que-
+on del capitulo {LAT. maiores. §. Jtem que-
 ritur} Jtem santo Thomas enla {LAT. par-
 te tertia questione. lxviij. articulo oc-
 tauo.} mueue esta questio<n>. {LAT. An fides re-
@@ -12884,12 +12884,12 @@ nonistas & otros muchos que la inte<n>-
 cion del ministro basta sin la del q<ue> re-
 scibe el baptismo para rescebir el sa-
 cramento & allegan el capitulo {LAT. Spiri-
-tus sanctus. SS. ecclesie. prima questio-
+tus sanctus. §. ecclesie. prima questio-
 ne prima.} & son palabras de sant Le-
 on papa enel libro de blasfemia. Pe-ro}
 {CB2.
 son estas siguientes palabras de
-gratiano enel. {LAT. SS. ecce.} Quando el bap-
+gratiano enel. {LAT. §. ecce.} Quando el bap-
 tismo delos hereges se rescibe con su
 virtud la administracion d<e>l qual bap-
 tismo es tan necessaria que ni el bap-
@@ -13870,7 +13870,7 @@ dumbre del padre la pierde & no<n> tiene
 a su fijo en potestad: o por delicto si es}
 {CB2.
 relegado. {LAT. institu. de quibus modis ins-
-patrie potestatis soluitur. SS. ab hosti-
+patrie potestatis soluitur. §. ab hosti-
 bus.} & asi es cierto q<ue> la razon pri<n>cipal
 destos es: por que es natural la patria
 potestad. la qual fallo el derecho d<e>los
@@ -13907,7 +13907,7 @@ las leyes quisieron que avn de sus co-
 sas non pudiessen los ombres mal v-
 sar. por que conuiene a la republica
 q<ue> ni<n>guno non vse mal de sus cosas {LAT. i<n>sti
-de his q<u><<i>> sunt sui vel alie. SS. recte.} pues
+de his q<u><<i>> sunt sui vel alie. §. recte.} pues
 qua<n>to mas co<n>uiene q<ue> d<e>los fijos co<n>tra
 la re[+]publica q<ue> no<n> vsen mal los padres
 mayor mente offresciendo los alos ri-
@@ -13928,7 +13928,7 @@ manos. por el qual prouee d<e> curador
 & tutor el padre enel testamento. que
 es de {LAT. iure ciuili} & le puede dentro d<e>la
 pupillar edad fazer testamento. como
-son textos. {LAT. insti. de tutelis. SS. p<er>missum
+son textos. {LAT. insti. de tutelis. §. p<er>missum
 ff. de tutelis. l. inuuito. institu. de pupil-
 lari. substi. ff de impube. & alijs sub.} &
 destos puso la comparacion el apos-
@@ -14130,7 +14130,7 @@ tiene potestad en los fijos. por que es
 sieruo alo menos del pecado: & por es-
 te delicto de infidelidad ha perdido[ ]la
 patria potestad como es dicho: & es te-
-xto. {LAT. institu. de his qui sunt sui. SS. ij.}
+xto. {LAT. institu. de his qui sunt sui. §. ij.}
 % La terc'era razon que funda no<n> de-
 uerse tomar los fijos nin~os alos infie-
 les dize pedro d<e> pa<lude>. que es: por que si
@@ -14512,7 +14512,7 @@ que enla fe delos padres se saluaua<n> &
 baptizaua<n>: porq<ue> exp<re>ssa mente dixo co<n>-
 tra la tal cosa. Assi lo declara el arc'o-
 bispo de florencia enla segunda p<ar>te de
-su {LAT. antonina. ti. xij. cij. SS. pueri iudeoru<m>}
+su {LAT. antonina. ti. xij. cij. §. pueri iudeoru<m>}
 cuyas palabras son estas. {LAT. Ex his au<n>t
 que dicit b<ru>tus tho<mas>. & precipue in p<r><<i>>ma
 ratione videtur satis clare elici q<uo>d q<u><<a>>m
@@ -14708,7 +14708,7 @@ zados les quitasse el effecto del baptis-
 mo & no<n> les valiese nada como dize pe-
 dro d<e> palude y no<n> bie<n> por c'ierto como
 dize el arc'obispo de florencia. en la se-
-gunda parte. {LAT. tit. xij. c. ij. SS. pueri.} E di-
+gunda parte. {LAT. tit. xij. c. ij. §. pueri.} E di-
 ze q<ue> es loq<ue> siente santo tho<mas>. lo co<n>trario
 que pedro tiene. E cierta me<n>te de par-
 te delos nin~os no<n> se require otra fe ni
@@ -14938,7 +14938,7 @@ tra la determinacion dela yglesia & d<e>l
 derecho canonigo no<n> insistere en mu-
 chas prueuas. primera mente contra
 el {LAT. c. de iudeis. xlv. di.} & co<n>tra el {LAT. c. ma-
-iores. SS. ite<m> queritur. de baptismo.} do<n>-
+iores. §. ite<m> queritur. de baptismo.} do<n>-
 de expressa mente determina la ygle-
 sia que sean co<m>pulsos a guardar la fe
 que se entiende el sacramento dela fe:
@@ -15139,7 +15139,7 @@ re: aliud est exacta persoluere. iuxta il-
 lud actuu<m>. iiij. Singuli vendebant pre-
 dia sua & poneba<n>t eorum precia spo<n>te
 scilicet ante pedes apostolorum. Jtem
-in. c. consuluisti. ij. q. iiij. SS. spo<n>tanea au-
+in. c. consuluisti. ij. q. iiij. §. spo<n>tanea au-
 tem confessione. j.} voluntaria. se decla-
 ra. todos estos autores & muchos o-
 tros nunca en otra significacion resci-
@@ -15330,7 +15330,7 @@ mittere margaritas ante porcos. s<ed> he-
 retico nondu<m> damnato possumus ex-
 plicare secreta fidei n<ost>re.} Otra tal glo-
 sa esta enel. {LAT. c. que dignior. xxiij. q. i.} so-
-bre la parte deuita enel. SS. final. Don-
+bre la parte deuita enel. §. final. Don-
 de paresce claro que otra cosa es qua<n>-
 to al processo que faze el inquisidor q<ue>
 de aquellos solos inquire que son he-
@@ -15422,7 +15422,7 @@ vn q<ue> es vno delos locos & topicos de
 la logica. porq<ue> si el contrario se falla el
 argume<n>to no<n> vale. este es texto {LAT. in l. no<n>
 aliter. ff. de legatis. iij.} & dela {LAT. ethimo-
-logia. in. l. ij. SS. appellata. ff. certu<m> pe.
+logia. in. l. ij. §. appellata. ff. certu<m> pe.
 l. de terminis. C. de epi<scopu>s & cleri.} E asi
 co<n>cluyo q<ue> sus exposiciones & significa-
 ciones de vocablos no<n> co<n>cierta<n> con la

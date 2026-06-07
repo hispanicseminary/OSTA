@@ -7,7 +7,7 @@
 [fol. 333r]
 {HD. \ 341}
 {CB1.
-{RMK: HSMS-0010-0001: Despertador, que trata de la gran fertilidad riquezas, baratos, armas y cauallos que España solía tener.} {RUB. DESPERTADOR, QVE
+{RMK: HSMS-0010-0002: Despertador, que trata de la gran fertilidad riquezas, baratos, armas y cauallos que España solía tener.} {RUB. DESPERTADOR, QVE
 TRATA DE LA GRAN FERTI-
 lidad, riquezas, baratos, armas, y cauallos
 que Espan~a solia tener, y la causa de
@@ -424,7 +424,7 @@ muchos vezinos de la dicha Marsella, donde hizieron sus
 poblaciones. Alexandro Magno certificado de la grandeza,}
 {CW. riqueza,}
 [fol. 338r]
-{HD. de Espan~a. \ 446}
+{HD. de Espan~a. \ (4)[3]46}
 {CB1.
 riqueza, y fertilidad de Espan~a dio su palabra de venir a ella, lo
 qual le atajo su muerte en Babilonia, segun Quinto Curcio y
@@ -3044,6 +3044,6 @@ dar mucho la tierra, q<ue> natura no falta, ni jamas ha faltado. Cam<ileto>.
 Assi me parece: ya es hora q<ue> os vays a reposar, yo tengo de ma-
 drugar, y tengo larga jornada, la merced que me aueys he-
 cho tengo en mucho. Nuestro sen~or quede con vos.
-Iustino. [Y] vaya con vos, Amen.
+Iustino, vaya con vos, Amen.
 ((?))
 {RUB. Laus Deo.}}
