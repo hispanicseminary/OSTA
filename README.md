@@ -130,7 +130,7 @@ As for the markup language used to encode tags, which always appear enclosed in 
 The following tables list all HSMS tags that are still used today in the paleographic transcription of new texts.
 
 ### Structural Tags
-|   |   |
+| tag  | explanation  |
 |  --- | ---  |
 |  `[fol. ]` | folio, leave of a manuscript or book, consisting of a recto and verso: `[fol. 7r]`, `[fol. 7v]`  |
 |  `{HD. }` | running title, or head, often found at the top of a folio side: `{HD. LEVITICUS}`  |
@@ -159,7 +159,7 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `{RMK: .}` | brief editorial comment on a physical or textual feature: `{RMK: folio has been cut.}`  |
 
 ### Editorial Tags
-|   |   |
+| tag  | explanation  |
 |  --- | ---  |
 |  `[ ]` | editorial emendation: `enel ascen[den]te`  |
 |  `< >` | expansion of scribal abbreviation: `q<ue>`, `cap<itu>lo`, `u<er>dad`  |
@@ -171,7 +171,7 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `(^#2 )`  | scribal deletion in a non-original hand: `los cauall(^2#eros)[^2#os]`  |
 
 ### Language Tags
-|   |   |
+| tag  | explanation  |
 |  --- | ---  |
 |  `{ARB.}` | Arabic  |
 |  `{ARG.}` | Aragonese (not to be used in text written in Aragonese)  |
@@ -191,7 +191,7 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `{PRV.}` | Provençal  |
 
 ### Special Characters
-|   |   |
+| character  | explanation  |
 |  --- | ---  |
 |  `\`  | precedes old folio notation included in the heading tag: `{HD. Prologo. \ 3}`  |
 |  `*`  | marks reconstruction of illegible text: `[*d]esde cabo`  |
@@ -200,30 +200,144 @@ The following tables list all HSMS tags that are still used today in the paleogr
 |  `[??]` | surrounded by a single space denotes the presence of a *full word* which is illegible: `estrellas [??]`  |
 |  `[???]` | denotes the presence of a _phrase_, the combination of two or more illegible words: `[?? ???] quisieres obrar conestas estrellas [??]` |
 | `\|` | denotes physical divisions separating segments of text (in a diagram, etc.) |
-|  `[+]` | links a prefix to its lexical base when they are written separately in the text: `en[+]comjenda`  |
 |  `+`   | used when the logical reading flow of the text contained in a tag is interrupted  |
-|  `(( ))` |  double parentheses, represent the parentheses that appear in the text: `E ((lo q<ue> es peior)) muy aparejado a dar`  |
-|  `%`   | calderón, ¶ , indicates divisions of text which may be akin to paragraphs  |
-| `%2` | calderón two, the text which follows constitutes the concluding portion of the previous line  |
-| `%3` | calderón three, the text which follows it to the end of the line constitutes the concluding portion of the following line  |
+|  `≺ ≻` |  double parentheses, represent the parentheses that appear in the text: `E ≺lo q<ue> es peior≻ muy aparejado a dar`  |
+|  `¶`   | calderón, ¶ , indicates divisions of text which may be akin to paragraphs  |
+| `¶2` | calderón two, the text which follows constitutes the concluding portion of the previous line  |
+| `¶3` | calderón three, the text which follows it to the end of the line constitutes the concluding portion of the following line  |
+| § | in printed texts denotes the reference to a section |
 
 ## Letter Characters
-|   |   |
+| character  | explanation  |
 |  --- | ---  |
-| `c'` | ç |
-| `n~` | ñ |
-| `h~` | ħ |
-| `t'` | ţ |
-| `x~ | ẍ |
-| `s'` | σ |
-| `S'` | Σ |
-| `z'` | ϛ |
-| `Z'` | Ϛ |
+| `ç` | c cedilla |
+| `ñ` | ñ |
+| `cħ` | denotes the palatal phoneme `/č/` |
+| `ţ` | t cedilla |
+| `ẍ` | denotes the palatal phoneme `/š/` |
+| `σ'` | denotes a sigma with the value of `s` |
+| `Σ'` | denotes a sigma with the value of `S` |
+| `ϛ` | denotes a sigma with the value of `z` |
+| `Ϛ` | denotes a sigma with the value of `Z` |
 |  `&` | tironian note  |
-|  `&'` | capital tironian note  |
-|  `a@'`<br>`e@'`<br>`i@'`<br>`o@'`<br>`u@'`<br>   | acute orthographic accent: `confesso@'` confesó  |
-|  ```a@` ```<br>```e@` ```<br>```i@` ```<br>```o@` ```<br>```u@` ```<br>   | grave orthographic accent: ``a@`lguno`` àlguno |
-|  `a@^`<br>`e@^`<br>`i@^`<br>`o@^`<br>`u@^`<br>   | circumflex orthographic accent: `o@^` ô  |
+|  `⅋` | capital tironian note  |
+
+## ASCII to Unicode equivalents
+Originally, the paleographic transcriptions were encoded using only the 95 printable ASCII characters. In 2026, all transcriptions were converted to Unicode to better accommodate the full range of medieval characters and symbols. The following table displays the ASCII-to-Unicode equivalents.
+
+| ASCII | Unicode |
+| --- | --- |
+| a | a |
+| A | A |
+| a@' | á |
+| A@' | Á |
+| a@# | ä |
+| A@# | Ä |
+| a@^ | â |
+| A@^ | Â |
+| a@` | à |
+| A@` | À |
+| b | b |
+| B | B |
+| c | c |
+| C | C |
+| c' | ç |
+| C' | Ç |
+| ch~ | cħ |
+| d | d |
+| D | D |
+| e | e |
+| E | E |
+| e' | ȩ |
+| E' | Ȩ |
+| e@' | é |
+| E@' | É |
+| e@# | ë |
+| E@# | Ë |
+| e@^ | ê |
+| E@^ | Ê |
+| e@` | è |
+| E@` | È |
+| f | f |
+| F | F |
+| g | g |
+| G | G |
+| h | h |
+| H | H |
+| i | i |
+| I | I |
+| i@' | í |
+| I@' | Í |
+| i@# | ï |
+| I@# | Ï |
+| i@^ | î |
+| I@^ | Î |
+| i@` | ì |
+| I@` | Ì |
+| j | j |
+| J | J |
+| k | k |
+| K | K |
+| l | l |
+| L | L |
+| m | m |
+| M | M |
+| n | n |
+| N | N |
+| n~ | ñ |
+| N~ | Ñ |
+| o | o |
+| O | O |
+| o@' | ó |
+| O@' | Ó |
+| o@# | ö |
+| O@# | Ö |
+| o@^ | ô |
+| O@^ | Ô |
+| o@` | ò |
+| O@` | Ò |
+| p | p |
+| P | P |
+| q | q |
+| Q | Q |
+| r | r |
+| R | R |
+| s | s |
+| S | S |
+| s' | σ |
+| S' | Σ |
+| s~ | ſ |
+| t | t |
+| T | T |
+| t' | ţ |
+| u | u |
+| U | U |
+| u@' | ú |
+| U@' | Ú |
+| u@# | ü |
+| U@# | Ü |
+| u@^ | û |
+| U@^ | Û |
+| u@` | ù |
+| U@` | Ù |
+| v | v |
+| V | V |
+| w | w |
+| x | x |
+| X | X |
+| x~ | ẍ |
+| y | y |
+| Y | Y |
+| y~ | ỹ |
+| z | z |
+| Z | Z |
+| z' | ƽ |
+| Z' | Ƽ |
+| % | ¶ |
+| (( | ≺ |
+| )) | ≻ |
+| & | & |
+| &' | ⅋ |
 
 ### Contributors
 Over the years, the following individuals have contributed to preparing these transcriptions.
