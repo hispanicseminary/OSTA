@@ -8,7 +8,7 @@
 {CB1.
 {RMK: HSMS-0178-0001: Breve tratado de la peste con sus causas, señales y curación.} {RUB. BREVE TRA-
 TADO DE PESTE/
-con sus causas/ sen~ales/ y cura-
+con sus causas/ señales/ y cura-
 cion: y de lo que al presente co-
 rre en esta villa de Madrid/
 y sus contornos.}
@@ -17,22 +17,22 @@ el Doctor Antonio Perez Me-
 dico/ y Cirujano de su
 Magestad.
 DIRIGIDO AL DOCTOR
-Andres c'amudio de Alfaro/ supremo
+Andres çamudio de Alfaro/ supremo
 Medico de la Camara de su Mage-
 stad/ y su Protomedico.
 {ILL.}
 CON PRIVILEGIO.
 En Madrid/ Por Luis Sanchez
-An~o M. D. XCVIII.
+Año M. D. XCVIII.
 Ve<n>dese en la esquina de Sa<n>ta Cruz/ y en casa del Autor.}
 [fol. 1v]
 [fol. 2r]
 {CB1.
 {RUB. TASSA.}
 {IN3.} Yo Alonso de Vallejo/ escriuano de
-Camara del Rey nuestro Sen~or/ de los
+Camara del Rey nuestro Señor/ de los
 que residen en el su Consejo/ doy fee/
-que auiendose visto por los sen~ores del vn li-
+que auiendose visto por los señores del vn li-
 bro que compuso el Doctor Antonio Perez/
 Medico y Cirujano que se intitula/ breve trata-
 do de peste/ que con la licencia fue impresso/ le
@@ -40,10 +40,10 @@ tassaron a medio real cada volumen en papel/
 y mandaron que esta tassa se pusiesse al princi-
 pio de cada libro/ para que se entienda en lo q<ue>
 se ha de vender: y para que dello conste/ de
-mandamiento de los dichos sen~ores/ y pedimie<n>-
+mandamiento de los dichos señores/ y pedimie<n>-
 to del dicho Doctor/ di esta fee/ en la villa de
 Madrid/ a veynte y seis dias del mes de Setie<m>-
-bre/ de mil y quinientos y nouenta y ocho an~os.
+bre/ de mil y quinientos y nouenta y ocho años.
 {RUB. Alonso de Vallejo.}}
 [fol. 2v]
 {CB1.
@@ -52,13 +52,13 @@ bre/ de mil y quinientos y nouenta y ocho an~os.
 y vniuersal del pueblo/ y preser-
 uacion de la peste/ co<m>puesto por
 el Doctor Antonio Perez/ tiene priuile-
-gio por quatro an~os/ para que durante
+gio por quatro años/ para que durante
 ellos ninguna persona sin su licencia
 pueda imprimir ni vender el dicho tra-
 tado/ so las penas en el dicho priuilegio
-contenidas: su data en san Lorenc'o/ a
+contenidas: su data en san Lorenço/ a
 veinte y dos dias del mes de Agosto/ de
-mil y quinie<n>tos y noue<n>ta y ocho an~os/
+mil y quinie<n>tos y noue<n>ta y ocho años/
 refrendado de Alonso de Vallejo.}
 [fol. 3r]
 {CB1.
@@ -73,7 +73,7 @@ y por ser el autor muy experimen-
 tado en esta materia .3. de Ago-
 sto .1598.
 {RUB. El D. Francisco Gon-
-c'alez de Sepulueda.}}
+çalez de Sepulueda.}}
 [fol. 3v]
 {CB1.
 {RUB. ERRATAS.}
@@ -86,7 +86,7 @@ del Marmol.}}
 [fol. 4r]
 {CB1.
 {RUB. CARTA DEL AV-
-tor al Dotor Andres c'a-
+tor al Dotor Andres ça-
 mudio de Alfaro/ supremo Medico de la Cama-
 ra de su Magestad, y su
 Protomedico.}
@@ -107,7 +107,7 @@ ger los que por esta villa huuiesse to-cados}
 [fol. 4v]
 {CB1.
 deste mal/ como a la cura dellos/
-dando noticia a V<uestra> m<agestad> y al sen~or Corre-
+dando noticia a V<uestra> m<agestad> y al señor Corre-
 gidor don Rodrigo del Aguila/ dos ve-
 zes en la semana/ de lo que passa: me
 ha parecido ayudar con este breue tra-
@@ -120,14 +120,14 @@ ligencia: y a V<uestra> m<agestad> suplico reciba y fa-
 uorezca este mi pobre trabajo/ con la
 voluntad que se le ofrece/ y le de parte
 de la autoridad que a V<uestra> m<agestad> le sobra.
-Cuya persona nuestro sen~or guarde/ y
+Cuya persona nuestro señor guarde/ y
 en estado aumento.}
 [fol. 5r]
 {CB1.
 {ILL.}
 {RUB. BREVE TRA-
 TADO DE PESTE/
-con sus causas/ sen~ales/ y cura-
+con sus causas/ señales/ y cura-
 cion: y de lo que al presente co-
 rre en esta villa de Madrid/
 y sus contornos.
@@ -224,7 +224,7 @@ naturaleza/ no solo causa enferme-
 dades malinas/ pero engendra pe-
 stilentes/ segun mas/ o menos sea
 el malinado/ alarga<n>dose de su mis-
-ma natural templanc'a: y es tan fa-
+ma natural templança: y es tan fa-
 cil el alterarse/ assi por causas ocul-
 tas/ como manifiestas/ que casi pa-
 rece cosa increyble. Pero palpable-
@@ -266,9 +266,9 @@ zer fuegos/ y sahumerios/ se muda}
 el ayre en bien: y en mal/ quando
 ay algunas inmu<n>dicias/ de las qua-
 les salen malos olores: y tanto qua<n>-
-to fuere el mal olor/ y tanta sera@' la
+to fuere el mal olor/ y tanta será la
 putrefacion/ y corrupcion que de
-ahi saldra@'/ de lo qual el ayre se co-
+ahi saldrá/ de lo qual el ayre se co-
 rrompe/ principalmente si es cras-
 so/ y se detiene sin correr libre/ que
 dize<n> ventilarse/ que assi el mucho
@@ -278,17 +278,17 @@ ver en las prouincias/ que aura pe-
 ste futura de causas manifiestas/ en
 tres cosas.
 La primera, que por la grosse-
-dad del ayre/ y destemplanc'a/ se
+dad del ayre/ y destemplança/ se
 crian muchas inmu<n>dicias de la tie-
 rra/ y animalejos insectiles/ asque-
-rosos/ y ponc'on~osos/ que son ra-
+rosos/ y ponçoñosos/ que son ra-
 tones/ sapos/ culebras/ lagartijas/}
 {CW. salaman}
 [fol. 8v]
 {HD. Tratado +}
 {CB1.
 salamanquesas/ muchas suertes de
-aran~as/ moscas/ moscones/ rena-
+arañas/ moscas/ moscones/ rena-
 cuajos/ y otras mil suertes de sa-
 bandijas.
 La segunda/ que todos los man-
@@ -312,13 +312,13 @@ enfermedades malinas y putridas/}
 {HD. de peste.}
 {CB1.
 ay temor deste mal futuro: y adon-
-de mas huuiere destas sen~ales/ sera@'
+de mas huuiere destas señales/ será
 mas cierto auer de venir ahi pesti-
 lencia.
-Sen~ales/ que de causas ocultas el
+Señales/ que de causas ocultas el
 ayre se va a corromper/ o se corro<m>-
 pera/ son/ q<ue> los tie<m>pos no guarda-
-ron su templa<n>c'a/ como en tiempo
+ron su templa<n>ça/ como en tiempo
 de calor frio/ y en tie<m>po de frio ca-
 lor/ mucha humidad en tiempo se-
 co/ y al contrario: no correr los vie<n>-
@@ -326,7 +326,7 @@ tos Nortes/ q<ue> son frios/ delgados/ y
 secos/ y ha<n> corrido los vientos Su-
 res/ q<ue> son de Mediodia/ y son cras-
 sos/ calientes/ y humedos.
-Sen~ales que el mal anda cerca/
+Señales que el mal anda cerca/
 son/ hallarse algunas auezillas
 muertas/ huyr las aues de las par-
 tes baxas a las altas/ y a las arbole-
@@ -335,12 +335,12 @@ das: otras vezes andarse metie<n>do/}
 [fol. 9v]
 {HD. Tratado +}
 {CB1.
-y escondiendo por c'arc'ales/ y bos-
+y escondiendo por çarçales/ y bos-
 ques/ y por lugares frescos. Quan-
 do las aguas se corr<o>mpen/ hallanse
 pezes muertos y/ otras sabandijas.
-Sen~ales que es pura ira de Dios/
-son/ que no se alcanc'aro<n> de cau-
+Señales que es pura ira de Dios/
+son/ que no se alcançaro<n> de cau-
 sa alguna eficie<n>te/ ni material/ de
 putrefacion/ y corrupcio<n> de ayre/
 solo se vee por los efetos/ estar el
@@ -363,7 +363,7 @@ auerles muerto: y en tal ca-
 so lo mejor es huyr la ira de Dios/
 procurando su gracia.
 Sie<n>do esto pues assi/ como ver-
-daderame<n>te lo es/ sera@' bien/ q<ue> el q<ue>
+daderame<n>te lo es/ será bien/ q<ue> el q<ue>
 quisiere euitar este trabajo procu-
 re estar bien con Dios/ aplacando su
 ira/ porq<ue> co<n>forme nuestros pecca-
@@ -379,11 +379,11 @@ mu<n>dicias: esto es menester huyr/ y
 co<n>uiene a la Republica/ q<ue>se entie-
 rren en hondas fossas los cuerpos
 muertos/ cerra<n>do enterramie<n>tos/}
-{CW. poc'os}
+{CW. poços}
 [fol. 10v]
 {HD. Tratado +}
 {CB1.
-poc'os/ y cueuas donde sale mal o-
+poços/ y cueuas donde sale mal o-
 lor: y procurar que por todo el ay-
 re corra/ y no se dete<n>ga: haga<n>se fue-
 gos por todas partes: los manteni-
@@ -410,21 +410,21 @@ los q<ue> come<n> malos manjares/ y de-sordenadame<n>te:}
 y los q<ue> tienen ma-
 los humores corren mas peligro/
 y mas presto se les pega este mal.
-Sen~ales que ya esta@' alguno con
+Señales que ya está alguno con
 peste/ son/ q<ue> tiene fiebre/ vnas ve-
 zes parece chica: porque lo inte-
 rior se quema/ y lo exterior se en-
 fria/ como pies/ o manos: tiene gra-
-uedad de cabec'a/ sequedad de bo-
+uedad de cabeça/ sequedad de bo-
 ca/ sed grande/ grande angustia/
 co<n>goxa/ e inquietud/ pulsos debi-
 les/ frequentes/ interpolados/ vri-
 nas varias/ bomitos/ y si son verdes
-no ay esperanc'a/ respira con traba-
+no ay esperança/ respira con traba-
 jo/ turbaciones en la vista/ mal dor-
 mir con turbulencia/ y sin proue-
 cho. A los mas aparecen sequillas
-en las ingles/ debaxo de los brac'os/
+en las ingles/ debaxo de los braços/
 y en el cuello/ y carbu<n>cos/ en qual-quier}
 {CW. quier}
 [fol. 11v]
@@ -434,11 +434,11 @@ parte del cuerpo: lo qual se
 haze expeliendo naturaleza de lo
 interior a lo esterior/ lo que puede
 de lo malo y venenoso a las partes
-mas flacas/ y alban~ales: como si en
+mas flacas/ y albañales: como si en
 el higado/ a las ingles salen secas/
 q<ue> dizen landres: si en el pecho/ de-
-baxo de los brac'os: y si en el cele-
-bro/ arroja al pescuec'o/ si puede/ lo
+baxo de los braços: y si en el cele-
+bro/ arroja al pescueço/ si puede/ lo
 que le molesta: y esto no solo en la
 pestilencia qua<n>do la ay aco<n>tece/ pe-
 ro ta<m>bien en otras muchas enfer-
@@ -459,7 +459,7 @@ todo no sean pestile<n>tes/ por no pro-
 ceder de corrupcion de ayre/ son
 empero malinas/ y perniciosas/ y
 traen aparie<n>cia de peste/ y las mis-
-mas sen~ales/ excepto q<ue> no son tan
+mas señales/ excepto q<ue> no son tan
 malinas/ ni se pegan con tanta faci-
 lidad/ por contagio/ ni matan tan-
 tos como vemos/ y obedecen a los
@@ -469,7 +469,7 @@ bados de sanar embiados a sus ca-
 sas/ no hemos visto ayan pegado a
 los demas algo/ de quatrocientos
 y setenta y nueue/ que hasta oy po-
-strer dia de Iunio/ de .1598. an~os. q<ue>
+strer dia de Iunio/ de .1598. años. q<ue>
 se han despedido sanos desta casa/
 y los topamos por el lugar alegres/
 sin que hasta aora se sepa/ que a-
@@ -507,17 +507,17 @@ jantes enfermedades/ como los q<ue>
 tratan y conuersan con los dichos
 enfermos/ para que no se les comu-
 nique algo del trabajo/ au<n>que arri-
-ba esta@' tocado/ assi para la genera-
+ba está tocado/ assi para la genera-
 lidad de los pueblos/ como para la
 particularidad de cada vno: lo
-qual tambien sera@' parte de auiso/
+qual tambien será parte de auiso/
 para qua<n>do fuere verdadera peste.
 {RUB. Remedios tocantes a la preseruacion.}
 {IN3.} LO primero/ procure tener
 el alma limpia de pecados/
 y el cuerpo de malos humo-
 res: como esto se deua hazer la sa-
-grada Escritura nos lo ensen~a/ a do
+grada Escritura nos lo enseña/ a do
 me remito/ qua<n>to a la salud del al-ma.}
 {CW. ma}
 [fol. 13v]
@@ -537,7 +537,7 @@ do<n>de se detiene mucho se corro<m>pe/
 y lo mas cierto es alargarse/ y huir
 con tiempo de las partes donde ay
 este trabajo/ lexos/ y tornar a ellas
-muy tarde/ quando el ayre ya este@'
+muy tarde/ quando el ayre ya esté
 muy limpio/ y puro. Vse sangrarse
 de quando en quando/ y purgarse
 leuemente/ fregamientos algunas}
@@ -545,13 +545,13 @@ leuemente/ fregamientos algunas}
 [fol. 14r]
 {HD. de peste.}
 {CB1.
-vezes: hazer que anden los alban~a-
+vezes: hazer que anden los albaña-
 les del cuerpo obedientes a la ex-
 purgacion. Vsar buenos olores/ sa-
 humerios/ y en las habitaciones/
-casas/ calles/ plac'as/ hagan fuegos
-de len~a/ que purifiquen el ayre/ co-
-mo romero/ enebro/ y otras len~as/
+casas/ calles/ plaças/ hagan fuegos
+de leña/ que purifiquen el ayre/ co-
+mo romero/ enebro/ y otras leñas/
 y arboles/ arbustos, cantuesso/ sal-
 bia/ espliego/ y otras cosas assi.
 Es bueno euitar toda suerte de
@@ -596,23 +596,23 @@ Es bueno/ que los que anduuie-ren}
 entre tales enfermos/ o se ha-
 llaren en partes sospechosas/ de
 mas de lo que arriba diximos/ vsen
-lo siguiente. Tomar cada man~ana
+lo siguiente. Tomar cada mañana
 en ayunas vna cucharada de con-
 serua/ que dizen Diatheseron/ ha-
 zese de dos partes de higos buenos
 pingues/ vna de nuezes mo<n>dadas/
 media de hojas de ruda verde/ octa-
 ua parte de sal/ assi como seys on-
-c'as de higos/ tres de nuezes/ dos de
+ças de higos/ tres de nuezes/ dos de
 ruda/ media de sal/ pistar en vn
 mortero las nuezes/ sal/ y ruda
 muy bie<n>/ y luego echar los higos/
 y todo bie<n> pistado hecho pasta/ to-
 mar vna libra de miel/ media de
-ac'ucar/ y cozerlo todo ju<n>to/ no de-
+açucar/ y cozerlo todo ju<n>to/ no de-
 masiado/ meneandolo y al apartar
 del fuego/ echar poluos de piedra
-vezar sera@' bueno. Y tomar estas}
+vezar será bueno. Y tomar estas}
 {CW. pildoras}
 [fol. 15v]
 {HD. Tratado +}
@@ -622,7 +622,7 @@ uiene a saber/ las pildoras/ que v-
 nos llama<n> de Ruffo/ y otros las lla-
 ma<n> de Rassis/ haze<n>se de dos partes
 de azibar/ vna de mirra/ y media de
-ac'afran con buen vino blanco/ to-
+açafran con buen vino blanco/ to-
 mar peso/ o ca<n>tidad d<e> hasta medio
 real/ o vno/ y quanto mas frescas
 son mejores. Es bueno traer con-
@@ -630,7 +630,7 @@ sigo buenos olores/ vsar de vina-
 gre/ y cosas azedas/ andar limpio/
 mudar camisa/ y ropa limpia/ a me-
 nudo. Yo solo vso tomar cada ma-
-n~ana de la dicha conserua vna/ o
+ñana de la dicha conserua vna/ o
 dos cucharadas/ con vn trago de
 vino/ y quando entro a curar en el
 hospital/ traer vnas hojas de ruda
@@ -644,10 +644,10 @@ por la boca/ vna dragma con vino/}
 o tomar de teriaca magna la terce-
 ra parte de vna dragma/ o la mitad.
 Otros vsan traer saquillos apli-
-cados al corac'on/ en que tienen soli-
+cados al coraçon/ en que tienen soli-
 man/ o piedras preciosas/ y pomas
 de olor: lo qual todo no haze da-
-n~o. La raiz del dictamo/ y tormen-
+ño. La raiz del dictamo/ y tormen-
 tila tomada por la boca en poluo/
 o trayda/ es bueno.
 Dexo de dezir aqui lo que con-
@@ -683,8 +683,8 @@ males/ y animalejos/ que por el lu-
 gar murieren/ cada vezino en su
 pertenencia: y tengan gran cuyda-
 do aya limpieza en las calles, y pla-
-c'as/ y de noche se encie<n>dan hogue-
-ras: y si pudiesse ser auer danc'as/}
+ças/ y de noche se encie<n>dan hogue-
+ras: y si pudiesse ser auer danças/}
 {CW. bayles/}
 [fol. 17r]
 {HD. de peste}
@@ -716,13 +716,13 @@ bien.}
 {RUB. Cura particular}
 {IN3.} LVego pues q<ue> se hallare vn
 enfermo con calentura/ que
-comenc'o@' grande/ aunque
+començó grande/ aunque
 algunas vezes parece chica/ porq<ue>
 lo interior se abrasa/ y lo exterior
 parece se enfria: pero de qualquier
 manera que la cale<n>tura ve<n>ga/ mues-
 tra traer malicia/ y si trae luego
-grauedad de cabec'a/ con gran se-
+grauedad de cabeça/ con gran se-
 quedad de boca/ gran sed/ gran an-
 gustia/ congoxas/ dificultad de an-
 helito/ y respiracio<n>/ gana de vomi-
@@ -730,7 +730,7 @@ tar/ turbule<n>cia en la vista/ mal dor-
 mir/ pulsos varios/ languidos/ du-
 ros/ frequentes/ intercadentes: y si
 con esto ay algunas sequillas con
-dolor en la ingle/ o baxo del brac'o/
+dolor en la ingle/ o baxo del braço/
 o en el cuello/ o si ay grano car-bunculoso}
 {CW. bunculo}
 [fol. 18r]
@@ -749,10 +749,10 @@ nera/ que quantas vezes pareciere
 sangrarse/ sea sie<m>pre de alli/ y si el
 mal estuuiere en entra<m>bas ingles/
 se sangre igualme<n>te de los dos tu-
-dillos/ q<ue> este@' corrie<n>do a la par todo:
+dillos/ q<ue> esté corrie<n>do a la par todo:
 y si el mal fuere debaxo de los bra-
-c'os/ de la misma manera se sa<n>gre d<e>
-los dos brac'os/ y esto es porque no
+ços/ de la misma manera se sa<n>gre d<e>
+los dos braços/ y esto es porque no
 torne el mal ade<n>tro lo q<ue> apu<n>ta/ por
 q<ue> dize Hipocrates/ q<ue> se ha de ayu-
 dar a naturaleza/ y no irle en co<n>tra.}
@@ -775,7 +775,7 @@ dieta/ antes es menester rehazer
 estos espiritus con substancias de
 caldos/ echando en ellos cosas que
 resistan a la putrefaccio<n>/ y mala ca-
-lidad/ como son cosas agrias/ c'u-
+lidad/ como son cosas agrias/ çu-
 mo de limon/ agraz azederas/ y o-
 tras cosas cordiales/ como dando-
 les luego confecio<n> de Alquermes/
@@ -787,14 +787,14 @@ Iacintos/ de cada cosa media drag-ma/}
 y de poluos de Diamargarito<n>
 frio/ y de Diarrodon Abad/ de ca-
 da vno vna dragma/ jaraue de agro
-de cidras co<n> cortezas de c'umo de
+de cidras co<n> cortezas de çumo de
 limones/ o de granadas/ o azede-
-ras/ de cada vno dos onc'as/ co<n> qua-
+ras/ de cada vno dos onças/ co<n> qua-
 tro libras de aguas cordiales/ q<ue> son
 de escabiosa/ de cardobenedicto/
-de escorc'onera/ de le<n>gua de buey/
+de escorçonera/ de le<n>gua de buey/
 y sino huuiere aguas destiladas co-
-zimie<n>to de lo mismo/ an~adiendo di-
+zimie<n>to de lo mismo/ añadiendo di-
 ctamo y tormentila/ y hazer cozi-
 miento/ del qual se tomaran seys li-
 bras/ y las aguas destiladas/ o el co-
@@ -809,7 +809,7 @@ te<m>ple su sed: y para beuer ordina-rio}
 {HD. Tratado +}
 {CB1.
 te<n>ga agua cozida con rayzes de
-escorc'onera/ vn poco de ceuada
+escorçonera/ vn poco de ceuada
 mondada/ cascaras de limo<n>/ y muy
 poquita canela. Esta se haga de
 tres a tres dias/ y sie<m>pre q<ue> quisiere
@@ -819,11 +819,11 @@ esto teriaca co<n> aguas y xaraues cor-
 diales/ lo qual en Inuierno es bue-
 no/ y en co<m>plexiones frias; y qua<n>do
 el veneno principalmente apre-
-he<n>de los humores ((que se conoce/
+he<n>de los humores ≺que se conoce/
 porque ay mas carbuncos/ y mali-
 nos/ y las secas son gra<n>des/ y el cuer-
 po se pone como cardeno/ y colo-
-rado)) suele ser causa de que pierda<n>
+rado≻ suele ser causa de que pierda<n>
 el juizio: en los quales se permite
 sangrar con mas atreuimiento/ y
 euacuar con cristeres algo mas fuer-
@@ -832,17 +832,17 @@ tes/ o co<n> purgas muy suaues/ como}
 [fol. 20r]
 {HD. de peste.}
 {CB1.
-son/ can~afistola/ mana@'/ xaraue ro-
+son/ cañafistola/ maná/ xaraue ro-
 sado sulutiuo/ pulpa de Tamarin-
 dos/ Ruybarbaro.
 {RUB. Receta}
-{IN3.} TOma medula de Can~afisto-
+{IN3.} TOma medula de Cañafisto-
 la/ de Tamarindos/ de cada
-vno media onc'a/ de Ruybar-
+vno media onça/ de Ruybar-
 baro bueno tres escrupulos/ de le-
-tuario de c'umo de rosas/ peso de
+tuario de çumo de rosas/ peso de
 dos reales/ xaraue de agro de cidra
-vna onc'a/ agua de azederas/ lo que
+vna onça/ agua de azederas/ lo que
 bastare/ hagase beuida: Si es en
 Inuierno/ y en complexion fria/ se
 pueden dar pildoras/ de Ruybar-
@@ -886,16 +886,16 @@ ra ello/ y es: Tomar un hueuo fres-
 co/ hazer en el vn agujerico/ y sacar
 por alli la clara; quedando de<n>tro la
 yema/ y hinchir por este agujerico
-el hueuo de ac'afran/ y assi bien lle-
+el hueuo de açafran/ y assi bien lle-
 no a fuego muy manso ponerlo a
 tostar/ dandole bueltas/ hasta q<ue> por
 todas partes la cascara se torne de
-color de ac'afra<n>: y luego en vn mor-
+color de açafra<n>: y luego en vn mor-
 tero de piedra/ con mano de palo/
 molerle con cascara/ hasta q<ue> de la
 corteza no se parezca cosa q<ue> no es-
-te@' muy hecho poluos: y luego a es-
-tos poluos se an~ade simie<n>te de eru-
+té muy hecho poluos: y luego a es-
+tos poluos se añade simie<n>te de eru-
 ca/ de raiz de torme<n>tila/ de dictamo
 bla<n>co/ de cada cosa peso de dos rea-
 les/ simiente de cardobenedicto/}
@@ -915,19 +915,19 @@ se mezcle muy bien/ de manera
 que se puedan formar pelotillas
 desta pasta peso de real y medio ca-
 da vna.
-Tomara pues el enfermo ((como
-esta dicho arriba)) peso de real y me-
+Tomara pues el enfermo ≺como
+esta dicho arriba≻ peso de real y me-
 dio desta pasta en tie<m>po co<n>uinie<n>te/
 y ocasio<n>/ despues de auer hecho al-
 gunas euacuaciones/ y co<n>fortacio-
 nes/ como dicho es. Deshaga<n> esta
 pasta en vn poco de cordial/ arriba
-dicho/ dos partes/ q<ue> son quatro on-c'as/}
-{CW. c'as}
+dicho/ dos partes/ q<ue> son quatro on-ças/}
+{CW. ças}
 [fol. 22r]
 {HD. de peste.}
 {CB1.
-y dos onc'as de muy buen vino
+y dos onças de muy buen vino
 blanco/ y tomada esta beuida se a-
 rrope de manera/ que sude. Todos
 los que bien sudauan/ sanauan. Ta<m>-
@@ -937,7 +937,7 @@ y mas si vomitauan verde/ o azul
 morian todos: Digo morian los q<ue>
 assi vomitauan sin vomitorio/ o co<n>
 el. Daua<n>se fuertes hasta quatro gra-
-nos de poluos de Vigo con ac'ucar
+nos de poluos de Vigo con açucar
 rosado/ y poluos de simie<n>te de re-
 tama.
 Hazie<n>do estas cosas arriba di-
@@ -952,7 +952,7 @@ llo de diaquilon mayor co<n> mucho}
 {HD. Tratado +}
 {CB1.
 armoniaco/ y si vienen con costra
-dura/ y seca/ e@' inflamacion a la re-
+dura/ y seca/ é inflamacion a la re-
 donda/ escarificar la dicha costra
 hasta lo biuo/ y labarla con agua
 sal caliente/ y enjugalla muy bien/
@@ -968,7 +968,7 @@ encima poner vnas planchuelas de
 hilas secas/ y cubrir por encima co<n>
 emplasto de arinas con ogimel. Y
 si a la segunda cura los poluos han
-echo efeto/ aura<n> apan~ado a si/ y re-
+echo efeto/ aura<n> apañado a si/ y re-
 cogido/ todo lo malinado/ ento<n>ces
 se ha de cubrir la costra co<n> leuadu-ra/}
 {CW. ra/}
@@ -1028,7 +1028,7 @@ re tan delgado/ y mortecino/ que
 no se entienda se podra tener ni a-
 pegar: el qual si es possible es bue-
 no conseruar/ por no hazer tan gran-
-de sen~al/ el vnguento Egypciaco/ q<ue>
+de señal/ el vnguento Egypciaco/ q<ue>
 en semeja<n>tes vlceras putridas/ fe-
 culentas/ ambulatiuas/ suele hazer
 milagroso efeto/ assi mezclado co<n>
@@ -1040,7 +1040,7 @@ y limpiarlas co<n> esto/ como aplicado
 co<n> flamulas/ lechinos/ o mechas for-
 ma<n>do la llaga de manera/ q<ue> por to-
 do ande. Hazese pues d<e> vna libra d<e>
-miel/ media de vinagre/ vna onc'a d<e>
+miel/ media de vinagre/ vna onça d<e>
 cardenillo/ y mas d<e> media d<e> alumbre
 todo cozido hasta q<ue> tome cuerpo/}
 {CW. dema}
@@ -1048,7 +1048,7 @@ todo cozido hasta q<ue> tome cuerpo/}
 {HD. Tratado +}
 {CB1.
 demanera que haga correa del car-
-denillo/ y podran an~adir/ o quitar
+denillo/ y podran añadir/ o quitar
 del alumbre/ segun lo quisieren de
 fuerte. Deste vnguento/ mezclado
 con vnguento de Bassilicon/ se car-
@@ -1072,14 +1072,14 @@ tilada/ o su cozimie<n>to es muy cor-dial}
 {HD. de peste.}
 {CB1.
 en semejantes tiempos. Tam-
-bien se vsa ((principalmente co<n> los
+bien se vsa ≺principalmente co<n> los
 que traen gran inflamacion a la re-
-donda)) poner el emplasto de Arna-
+donda≻ poner el emplasto de Arna-
 glossa/ que se haze de hojas de lla<n>-
 ten/ lentejas/ migajon de pan gros-
 sero/ cozido todo en agua/ con vn
 poco de azeite y vinagre/ como pa-
-ra comer. Yo an~ado a este emplas-
+ra comer. Yo añado a este emplas-
 to harina de hauas/ y de cebada/ y
 vn poco de miel/ y leuadura. Algu-
 nos alaban el emplasto de grana-
@@ -1090,7 +1090,7 @@ no/ no alabo. Yo vso/ y me hallo
 bien/ en los que aora a esta casa a-
 cuden/ romper con vna punta de
 vna lanzeta aquello duro/ que
-sen~ala costra/ y dexar correr alguna}
+señala costra/ y dexar correr alguna}
 {CW. sangre/}
 [fol. 25v]
 {HD. Tratado +}
@@ -1100,7 +1100,7 @@ de lauar con agua sal calie<n>te/ y po-
 ner vn pegadillo de visicante/ he-
 cho de partes iguales/ de poluos de
 cantaridas/ oropimente/ y mosta-
-c'a/ encorporados estos poluos co<n>
+ça/ encorporados estos poluos co<n>
 vn poco de leuadura/ y babazas de
 higos secos/ hecho vnguento: y
 luego vn parche encima de diaqui-
@@ -1109,8 +1109,8 @@ dedor/ si ay mucha/ o grande hin-
 chazon/ calor/ y dolor/ vntar con
 azeite rosado/ y vnas gotas de vina-
 gre/ y agua/ que dizen ojirrodino:
-y luego que sen~ala cinta ir cura<n>do/
-como arriba esta@' dicho derriban-
+y luego que señala cinta ir cura<n>do/
+como arriba está dicho derriban-
 do la costra: y si ay corrupcio<n>/
 con la mezcla de poluos de Vigo/ con
 alumbre/ y emplasto de harinas/
@@ -1148,18 +1148,18 @@ despues de auer hecho los reme-
 dios arriba dichos/ de sangrias de
 la misma parte/ segun pareciere a-
 uerlo menester la enfermedad/ y la
-fuerc'a la podra sufrir. Dar beuidas
+fuerça la podra sufrir. Dar beuidas
 largas/ juntamente de cosas cordia-
-les ((como arriba esta@' dicho en la cu-
-ra de carbunculos)) y xaraues atem-
+les ≺como arriba está dicho en la cu-
+ra de carbunculos≻ y xaraues atem-
 perantes/ conforme a la dispusicio<n>
 de la enfermedad/ y co<m>plexion del
 enfermo/ y parte enferma. Luego
 aplicar fome<n>tos euocantes/ y miti-
 gatiuos de cozimie<n>tos de yeruas ta-
 les/ y vnturas de azeites/ como son/
-de lirio/ de ac'ucenas/ de alegria/ de
-manc'anilla/ de neldo/ y otros mas/
+de lirio/ de açucenas/ de alegria/ de
+mançanilla/ de neldo/ y otros mas/
 o menos/ segun la necessidad/ con
 hissopo humedo/ y dialtea/ mez-
 clados algunos azeites destos con}
@@ -1182,7 +1182,7 @@ grassos/ leuadura/ y manteca de
 puerco/ de cada cosa lo que pare-
 ciere/ en vn mortero hecho vn em-
 plasto. Y despues de vntada la par-
-te ((como arriba esta@' dicho)) poner
+te ≺como arriba está dicho≻ poner
 encima vn emplasto bueno calien-
 te/ y en sintiendo que ay ta<n>tica bla<n>-
 dura en la dicha seca/ abrir luego
@@ -1192,9 +1192,9 @@ con vna lanzeta/ segun la retitud/}
 {HD. Tratado +}
 {CB1.
 conforme lo ha menester lo que
-debaxo esta@' supurado/ y sacar la
+debaxo está supurado/ y sacar la
 materia/ menea<n>do dentro con las
-pinc'as/ o tienta. Y si huuiere mu-
+pinças/ o tienta. Y si huuiere mu-
 chas durezas/ y saliere mala mate-
 ria/ arrimar a ellas por de de<n>tro tro-
 ciscos de minio/ que se hazen de le-
@@ -1202,7 +1202,7 @@ uadura dos partes/ y vna parte de
 soliman molido/ poluos de minio
 media parte/ mas/ o menos del so-
 liman/ segu<n> fuerte lo quisieren/ es-
-to hecho pasta y formados pin~o-
+to hecho pasta y formados piño-
 nes/ se ponen en el horno a secar/
 y secos se guardan para este mene-
 ster.
@@ -1210,14 +1210,14 @@ Destos pues arrimar algunos
 alla dentro/ y proceder con las di-
 chas vnciones/ y emplasto/ hasta
 que vengan materias en abundan-
-cia/ y salgan los dichos pin~ones}
+cia/ y salgan los dichos piñones}
 {CW. con}
 [fol. 28r]
 {HD. de peste.}
 {CB1.
 con algo a ellos apegado/ y luego
 proceder limpiando la dicha llaga/
-como arriba esta@' dicho, metiendo
+como arriba está dicho, metiendo
 en ella flamulas/ lechinos/ o me-
 chas/ o espo<n>ja si le pareciere carga-
 da en vnguento Egypciaco/ o mu<n>-
@@ -1251,11 +1251,11 @@ ga: y assi algunas vezes es mejor
 dexar la obra a naturaleza/ y proce-
 der con solo hilas limpias/ y secas/
 q<ue> cometer error/ poniendo cosa
-contraria la templanc'a natural de
+contraria la templança natural de
 la parte/ que en esto tres cosas son
 menester para acertar a hazer lo q<ue>
 conuiene.
-Lo primero/ que la parte este@' te<m>-
+Lo primero/ que la parte esté te<m>-
 plada.
 Lo segundo/ que la causa mate-
 rial/ q<ue> es la sangre/ venga a la parte}
@@ -1269,16 +1269,16 @@ impida/ como es sordezes/ o hume-
 dades demasiadas/ que si esto va
 assi/ sin ninguna ayuda naturaleza
 ayuda/ y cria carne/ que es propia
-obra suya ((el criar cuero/ despues
+obra suya ≺el criar cuero/ despues
 de llena la llaga de carne es obra de
-medicinas.)) Estos encarnatiuos or-
+medicinas.≻ Estos encarnatiuos or-
 dinarios que se vsan/ son poluos de
 raizes de lirios/ Aristoloquia/ peu-
 zedano/ harina de orobos/ myrra/
 y sarcocola/ mezclados con miel
 rosada/ en partes secas: y en hume-
 das de encienso/ y ceuada/ con al-
-go de ac'ibar/ sangre de drago. Des-
+go de açibar/ sangre de drago. Des-
 tos encarnatiuos ay abundancia.
 En partes humedas vnguento Bas-
 silicon/ amarillo/ de media confec-
@@ -1298,7 +1298,7 @@ a fuera co<n> visicante aplicado en la
 parte/ encima de lo duro de la seca
 vn pegadillo/ del que arriba dixi-
 mos de cantaridas/ oropimente/ y
-mostac'a/ y encima deste pegadi-
+mostaça/ y encima deste pegadi-
 llo vn parche grande de diaquilon
 con mucho armoniaco: y a la otra
 cura quiebro aquellas bexigas que
@@ -1317,7 +1317,7 @@ cha materia. Y si con lo que sale de
 las bexigas primeras/ y los demas
 remedios vniuersales/ se quita la
 fiebre/ y acidentes/ passo con solos
-los parches/ sino ay sen~ales de ma-
+los parches/ sino ay señales de ma-
 teria: y assi algunos se acaban de cu-
 rar sin abrir la seca/ quedando les
 alguna dureza q<ue> despues se va qui-
@@ -1350,7 +1350,7 @@ vezes pareciere sufra la virtud/ y la
 enfermedad lo pide/ y es mejor san-
 grar muchas vezes/ que de vna vez
 sacar mucho/ porque no se derribe<n>
-las fuerc'as: las quales se han de sus-
+las fuerças: las quales se han de sus-
 tentar/ y rehazer con mucho cuy-
 dado.
 Las purgas si son fuertes/ y al
@@ -1396,7 +1396,7 @@ tienen las secas en las ingles/ o car-
 bunculos/ de la cintura abaxo con
 ve<n>tosas/ y cristeres/ y euocar mate-
 rias en los males/ y aplicarles en la
-cabec'a algunos remedios.
+cabeça algunos remedios.
 Muchos otros remedios traen
 autores graues/ y otros empiricos/
 y de algunos/ antes de muchos/ te<n>-
@@ -1413,18 +1413,18 @@ arriba dichos/ y modo de curar/
 que es lo que al presente en esta ca-
 sa/ y fuera vso/ sea Dios loado por
 todo:
-{RUB. Copia de otro que se embio a@' don
+{RUB. Copia de otro que se embio á don
 Rodrigo del Aguila/ Corre-
 gidor de Madrid: cumpliose
 luego por su merced. Ponese
 aqui para exemplo.}
 {IN3.} EL Doctor Antonio Perez su-
 plica a su merced/ q<ue> por qua<n>-
-to el esta@' con calentura en la
+to el está con calentura en la
 cama/ y no sabe lo que Dios ha-
 ra de su vida: y aunque el barbe-
 ro platico que se traxo al hospital/
-esta@' ya por el ensen~ado en el cono-cimiento}
+está ya por el enseñado en el cono-cimiento}
 {CW. cimien}
 [fol. 32v]
 {HD. Tratado +}
@@ -1480,7 +1480,7 @@ los corrales/ vno encima de otro/ y}
 alli se pudre<n>/ y se leuanta<n> malos he-
 dores/ y vapores/ de los quales caen
 malos los que siruen/ y aun a la ve-
-zindad alca<n>c'a parte: lo qual es cau-
+zindad alca<n>ça parte: lo qual es cau-
 sa de que sane<n> tarde los enfermos/
 y mueran mas de los que auian de
 morir: y mas/ que son los aposen-
@@ -1516,7 +1516,7 @@ cion es la suya/ y que oficio: esto en
 vn libro/ que para ello aya/ y se no-
 te en que dia entra/ y sale/ sano/ o
 muerto/ y la ropa se ate junta con
-sus calc'as/ c'apatos/ y lo demas/
+sus calças/ çapatos/ y lo demas/
 con vn papel escrito el nombre de
 cuya es. Y todos estos embolto-
 rios/ y atadijos/ se retiren en vna
@@ -1531,9 +1531,9 @@ a cada vno lo suyo: y los que murie-
 ren se entierren en sepulturas hon-
 das/ y se pise bien la tierra/ y se eche
 cal en cima/ porque de ay no salga<n>
-vapores ((los mas vestidos/ o todos
+vapores ≺los mas vestidos/ o todos
 se quemen y se den otros nueuos a
-los que sanare<n>/ esto en la peste fina))
+los que sanare<n>/ esto en la peste fina≻
 Y lo mismo se encomiende por el
 lugar/ se ahonden las sepulturas/ de
 todos los que murieren de qual-
@@ -1553,8 +1553,8 @@ que sacan de las secas/ y llagas/ con
 sus materias/ orinales/ y camaras/
 vomitos y otras suziedades. Todo
 se recoja/ y se eche en la dicha fos-
-sa ((esto se entiende en caso que no
-se quemen)) encima de lo qual se
+sa ≺esto se entiende en caso que no
+se quemen≻ encima de lo qual se
 eche vna espuerta de cal/ o quatro
 de tierra cada dia: y en esta<n>do mas
 que media se a cabe de hinchir de
@@ -1574,7 +1574,7 @@ importa aplicarlas bien calientes.}
 {HD. Tratado +}
 {CB1.
 Para esto se prouea de enebro/ car-
-bon/ y len~a en abundancia/ y que
+bon/ y leña en abundancia/ y que
 las camas esten a largo vnas de o-
 tras/ y en cada cama no aya mas de
 vn enfermo/ y alli aya escrito ca-
@@ -1608,10 +1608,10 @@ Assi mismo aya vna persona de
 fuera/ que sea honrada/ y muy ca-
 ritatiua/ que entre a ver si lo arriba
 dicho se cumple/ principalme<n>te las
-curas y comidas: rin~a las faltas/ y
+curas y comidas: riña las faltas/ y
 aduierta para que se prouea. Es me-
 nester aya puntualidad en todo es-
 to/ para que todo vaya bien/
-y se euite el dan~o que
+y se euite el daño que
 podria venir.
 {RUB. Fin deste tratado.}}

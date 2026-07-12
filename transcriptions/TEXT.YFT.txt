@@ -9,7 +9,7 @@
 {RMK: HSMS-0419-0001: Farsa turquesana.} {ILL. {RUB. Farsa dicha Turquesana
 co<n>tra el turco muy galana}
 {MIN.}}
-{RUB. % Obra nueuame<n>te co<m>puesta por
+{RUB. ¶ Obra nueuame<n>te co<m>puesta por
 Herna<n> lopez d<e> yanguas llamada
 Turquesana. Sobre la carta que
 escriuio el soberuio Turco a n<uest>ro
@@ -23,17 +23,17 @@ uio Turco a n<uest>ro muy s<an>cto padre Cleme<n>te .vij. muy bie<n> ordenada
 actos. E[ne]l primero se introduze el turco & su correo llamado Ma-
 hometo. Enel .ij. el mismo mahometo & dos pastores llamados pe-
 layo & Siluano. Enel .iij. el mismo mahometo y el papa llamado
-cleme<n>te & su alferez dicho Esfuerc'o: y otro correo d<e>l papa: cuyo no<m>-
+cleme<n>te & su alferez dicho Esfuerço: y otro correo d<e>l papa: cuyo no<m>-
 bre es Dilige<n>te. En<e>l .iiij. Cleme<n>te & Carlo q<ue> es el emp<er>ador y esfu-
-erc'o y dilige<n>te. En<e>l .v. & vltimo los dos correos: y el emp<er>ador y el
+erço y dilige<n>te. En<e>l .v. & vltimo los dos correos: y el emp<er>ador y el
 papa & su alferez. La materia d<e>sta obra es burlar d<e>la soberuia del
-turco & alabar ala discrecio<n> d<e>l papa & sublimar n<uest>ra fe: y ensalc'ar el
-animo d<e>l emp<er>ador n<uest>ro sen~or. Va<n> assi mismo tres cartas: la q<ue> escri-
+turco & alabar ala discrecio<n> d<e>l papa & sublimar n<uest>ra fe: y ensalçar el
+animo d<e>l emp<er>ador n<uest>ro señor. Va<n> assi mismo tres cartas: la q<ue> escri-
 uio el turco al papa: & la respuesta: co<n> otra q<ue> el s<an>cto padre embio al
-emp<er>ador. Dirigida al muy magnifico sen~or do<n> dieg<o> d<e>la cueua co-
-me<n>dador de Castil( )nouo. % El turco entrara muy soberuio ve-
-stido ala morisca co<n>el brac'o d<e>recho d<e>snudo: saluo q<ue> te<n>ga ma<n>ga de
-camisa & su espada cen~ida: la carta enla mano: habla<n>do a solas: su
+emp<er>ador. Dirigida al muy magnifico señor do<n> dieg<o> d<e>la cueua co-
+me<n>dador de Castil( )nouo. ¶ El turco entrara muy soberuio ve-
+stido ala morisca co<n>el braço d<e>recho d<e>snudo: saluo q<ue> te<n>ga ma<n>ga de
+camisa & su espada ceñida: la carta enla mano: habla<n>do a solas: su
 correo ha d<e> ser negro: los pastores como pastores: el papa como pa-
 pa: el emp<er>ador como emp<er>ador / el alferez ala salida q<ua>ndo salga<n> ha
 d<e> salir d<e>la<n>te co<n>su va<n>dera: segu<n> la obra lo dara bie<n> a ente<n>der. Y porq<ue>
@@ -46,7 +46,7 @@ Por. M. mahometo.
 Por. D. Dilige<n>te.}
 {CB4.
 Por. p. pelayo.
-Por. E. esfuerc'o.}
+Por. E. esfuerço.}
 {CB4.
 por. S. Siluano.
 Por. K. Carlo.}
@@ -54,7 +54,7 @@ Por. K. Carlo.}
 {RUB. Jntroyto y argumento: que dize
 vn pastor qualquier delos dos.}}
 {CB2.
-% Los que estays enel allarde
+¶ Los que estays enel allarde
 dios os guarde
 porque me passo de largo
 ya me oluidaua el cargo
@@ -65,7 +65,7 @@ no digays que nos lo digo
 embian a dezir comigo
 que calleys primeramente}
 {CB2.
-% Porq<ue> son gra<n>des sen~ores
+¶ Porq<ue> son gra<n>des señores
 y a vn pastores
 y tambien aura correos
 tienen muy huertes desseos
@@ -80,10 +80,10 @@ porq<ue> me salgo del juego.}
 {RUB. Acto primero: interlocutores
 El Turco: & Mahometo.}}
 {CB2.
-{RUB. % El turco a solas.}
-% Mis gra<n>des fuerc'as & man~as
+{RUB. ¶ El turco a solas.}
+¶ Mis gra<n>des fuerças & mañas
 a todo el mundo notorias
-mis sublimadas hazan~as
+mis sublimadas hazañas
 mis infinitas victorias
 Quieren ya
 quel santo nombre de ala
@@ -119,7 +119,7 @@ en q<ue> biuen los xp<ist>ianos
 E sabran
 por testos del alcoran
 n<uest>ro mahoma quien fue
-no menos alcanc'aran
+no menos alcançaran
 qu[e ]es todo burla su fe
 Othomano
 Amurates & Solmano
@@ -129,7 +129,7 @@ tuuieron este respecto
 Destos todos
 por mil maneras & modos
 puedo yo tener jatancia
-mas q<ue> espan~a de sus godos
+mas q<ue> españa de sus godos
 ni de su Carlos la francia
 Pero andar
 muy ruyn cosa es estribar
@@ -148,14 +148,14 @@ no se qual es el mejor}
 [fol. 2v]
 {CB2.
 si es mahometo o mahoma
-abenragel o almanc'or
+abenragel o almançor
 Sea quien fuere
 el primero que viniere
 q<ui>ero embiar co<n>la dema<n>da
 ha cursores. {RUB. ma.} q<ue> nos q<ui>ere
 q<ui>ero yo saber q<ue> ma<n>da
 {RUB. Tu.} Donde estays
-{RUB. ma.} q<ue> es lo q<ue> sen~or mandays
+{RUB. ma.} q<ue> es lo q<ue> señor mandays
 {RUB. T.} q<ui>en eres tu. {RUB. ma.} mahometo
 {RUB. T.} no se por do<n>de os andays
 ven aca ten me secreto
@@ -168,10 +168,10 @@ Quiero veas
 lo que enella va & la leas
 porque ami me satisfaze
 {RUB. ma.} pues lo ma<n>das & desseas
-gran sen~or ami me plaze
+gran señor ami me plaze
 {RUB. T.} Leyla di
 {RUB. ma.} Yo el gra<n> vencedor turqui
-sen~or de hierusalem
+señor de hierusalem
 y del monte sinay
 & de sus tierras tambien
 Jmperante
@@ -233,7 +233,7 @@ qua<n> grande es v<uest>ro poder
 & para que pueden ser
 v<uest>ros reyes y emperadores
 La razon
-que me pone en corac'on
+que me pone en coraçon
 que enderece alla mi fusta
 es tener cierta opinion
 que tengo causa muy justa
@@ -261,15 +261,15 @@ se dira de vos ami
 De belgrado
 donde quedo aposentado
 a veynte del cue<n>to nuestro
-an~o de mi principado
+año de mi principado
 & del perdimiento v<uest>ro
 {RUB. T.} Has la vido
-{RUB. M.} si sen~or ya la he leydo
+{RUB. M.} si señor ya la he leydo
 {RUB. Tu.} ay falta enel escreuir
 {RUB. M.} en qua<n>to yo he conocido
-sen~or no ay mas q<ue> pedir
+señor no ay mas q<ue> pedir
 {RUB. Tu.} vete pues
-{RUB. M.} sen~or yo beso tus pies
+{RUB. M.} señor yo beso tus pies
 {RUB. Tu.} no ve<n>gas sin la respuesta
 {RUB. M.} si ala no me da reues
 sera mi buelta muy presta
@@ -286,7 +286,7 @@ me ofrece<n> la monarchia
 {RUB. Acto segu<n>do inter-
 locutores. Mahometo. Pe-
 layo. Siluano.}
-{RUB. M.} % El camino
+{RUB. M.} ¶ El camino
 da fatiga de contino
 mayorme<n>te si[ ]es muy lue<n>go}
 {SG. A iij}
@@ -312,17 +312,17 @@ que hartas veras alla
 {RUB. S.} Quien te embia
 {RUB. M.} el turco & voy aporfia
 por estos cerros & llanos
-{RUB. P.} ado enderec'as la via
+{RUB. P.} ado endereças la via
 {RUB. M.} all[ ]alfaqui de christianos
 Al qual lleuo
 aquestas cartas de nueuo
 no por mas de apercebillo
 para q<ue> sepa el mancebo
 q<ue> el turco va a destruyllo
-{RUB. S.} Malos an~os
-co<n>[ ]hadas negras & dan~os
+{RUB. S.} Malos años
+co<n>[ ]hadas negras & daños
 q<ue> os vengan ael & a vos
-{RUB. M.} estoy en[ ]reynos estran~os
+{RUB. M.} estoy en[ ]reynos estraños
 amigos quedaos a dios
 {RUB. P.} His huyendo
 juriami q<ue> yos entie<n>do
@@ -338,7 +338,7 @@ con su porra vn papirote
 {RUB. S.} Digo hao
 q<ue> sie<n>tes de aq<ue>l fao fao
 del turco & su presuncion
-{RUB. P.} qu[e ]estimo mas mi c'urron
+{RUB. P.} qu[e ]estimo mas mi çurron
 que todo su barra<n>bao
 Es vn bruto
 puerco ceuil dissoluto
@@ -348,7 +348,7 @@ puerco ceuil dissoluto
 {RUB. P.} Vn vellaco
 muy mayor ladron q<ue> caco
 {RUB. S.} dios le d<e>[ ]su maldicion
-pues hoc'a como berraco
+pues hoça como berraco
 la sagrada religion
 {RUB. P.} tu sabras
 qu[e ]es hijo de sathanas
@@ -358,7 +358,7 @@ es perseguir los de xp<ist>o
 {RUB. S.} Por ventura
 no miraste el escriptura
 que lleuaua el vil guineo
-guste taman~a tristura
+guste tamaña tristura
 que la vida no[ ]desseo
 {RUB. P.} Tengo afan
 por ver tanto rabadan
@@ -390,10 +390,10 @@ que se pierda el coliseo
 {RUB. S.} Yo presumo
 que se tornara en humo
 el fuego que agora encie<n>de
-& sacara poco c'umo
+& sacara poco çumo
 delo q<ue> tentar emprende
 {RUB. P.} Quien podria
-embarac'alle la via
+embaraçalle la via
 ocupase en otras ferias
 por donde de cada dia
 se dobla<n> n<uest>ras miserias
@@ -405,7 +405,7 @@ los ytalianos tenemos
 barato conlos de francia
 de manera
 q<ue>sta bestia avn q<ue> no quiera
-ha por fuerc'a de pensar
+ha por fuerça de pensar
 q<ue> su pendon & vandera
 al mundo ha de subjetar
 {RUB. P.} Quies que hable
@@ -416,7 +416,7 @@ q<ue> no obrasse algu<n> milagro
 {RUB. S.} yo no dubdo
 puesto q<ue>[ ]soy tosco & rudo
 sabie<n>do q<ue> nunca queda
-si no queste cabec'udo
+si no queste cabeçudo
 ha de baquear la rueda
 {RUB. P.} Yo[ ]se bien
 de mas d<e> diez & avn de cie<n>
@@ -440,7 +440,7 @@ como cesar en sus hadas}
 [fol. 4v]
 {CB2.
 mas el senado roma(<n>)no
-le dio en fin de pun~aladas
+le dio en fin de puñaladas
 {RUB. P.} Concrusion
 quien su par de faraon
 & quando al pueblo siguio
@@ -452,10 +452,10 @@ q<ue> por sangre n<uest>ra rauia
 que cuydo & assi lo espero
 q<ue>[ ]ha d<e> mallograr su arabia
 Porque pedro
-tiene caban~a de cedro
-no querra perder tal piec'a
+tiene cabaña de cedro
+no querra perder tal pieça
 causando que vaya riedro
-las manos enla cabec'a
+las manos enla cabeça
 {RUB. P.} Quies que diga
 dende aq<ui> le do vna higa
 so mi capa entre las cejas
@@ -468,8 +468,8 @@ porq<ue> va<n> muy descarriadas
 vamos a n<uest>ras majadas
 {RUB. Acto tercero inter-
 locutores. Mahometo. Esfu-
-erc'o. Cleme<n>te. Dilige<n>te}
-{RUB. M.} % Mil loores
+erço. Cleme<n>te. Dilige<n>te}
+{RUB. M.} ¶ Mil loores
 ala pues delos pastores
 me libro & de su carcoma}
 {CB2.
@@ -485,13 +485,13 @@ quiero luego pesquisar
 do<n>de esta aq<ue>l q<ue> yo busco
 porq<ue> es tan grande lugar
 que<n>[ ]forma en vello me ofus-co
-Hombre di %2
+Hombre di ¶2
 donde biue el alfaqui
 principal delos xp<ist>ianos
 {RUB. E.} esse es que esta cabe ti
-{RUB. M.} yo sen~or beso tus manos
+{RUB. M.} yo señor beso tus manos
 Soy cursor
-del gran turco mi sen~or
+del gran turco mi señor
 q<ue> [e]sta enel reyno de vngria
 el qual con sobra de amor
 aquesta carta te embia
@@ -518,7 +518,7 @@ pero lee essa cartilla
 & sabras de nuestra fe
 el turco como la trilla
 {RUB. E.} Ya la he visto
-esfuerc'ate en jesu christo
+esfuerçate en jesu christo
 {RUB. C.} no vees q<ue> blasfemias estas
 {RUB. E.} ya las he visto & reuisto
 mas el las sacara acuestas
@@ -544,10 +544,10 @@ helo aqui sin mas rodeo
 a su sacra magestad
 {RUB. Di.} Y que mas
 {RUB. C.} en llegando le daras
-con acatamiento[ ]& man~a}
+con acatamiento[ ]& maña}
 {CB2.
 estas cartas que veras
-el qual reposa en espan~a
+el qual reposa en españa
 Muy aflito
 le escriuo este rengloncito
 cosa que puedes saber
@@ -580,21 +580,21 @@ qu[e ]esta tan colateral
 que nos resopla ya al[ ]lado
 Si me viesse
 do nadie no me sintiesse
-alc'aria mil alaridos}
+alçaria mil alaridos}
 [fol. 5v]
 {CB2.
 hasta en tanto q<ue> perdiesse
 dando bozes mis sentidos
 Su furor
-las figuras del sen~or
+las figuras del señor
 quema & co<n>uierte en[ ]cenizas
 Jte<m> los templos de honor
 trastroca en cauallerizas
 Las donzellas
 hazen gran vileza enellas
-despues las ve<n>de<n> en plac'a
+despues las ve<n>de<n> en plaça
 los padres & madres d[e]llas
-muy feroz los despedac'a
+muy feroz los despedaça
 Vltra desto
 segun veras esta puesto
 en lleuar a execucion
@@ -617,10 +617,10 @@ para cobrar por entero
 el sepulchro & lo restante
 Mas no alargo
 sino q<ue> otra vez te encargo
-q<ue> apressures tu tardanc'a}
+q<ue> apressures tu tardança}
 {CB2.
 porq<ue> me echas gra<n> cargo
-y quedo contu esperanc'a
+y quedo contu esperança
 En mi roma
 thesorera & mayordoma
 de n<uest>ra fe y su mysterio
@@ -632,7 +632,7 @@ yo te doy mi bendicio<n>
 {RUB. E.} bien es q<ue> se parta ya
 sin ninguna dilacion
 {RUB. Di.} Voy me pues
-sen~or yo beso tus pies
+señor yo beso tus pies
 {RUB. C.} dios enderece tus vias
 {RUB. E.} si pudieres en vn mes
 no tardes quare<n>ta dias
@@ -659,9 +659,9 @@ q<ue> fauor me quiera dar}
 dame aca tinta & papel
 {RUB. E.} helo aq<ui>. {RUB. C.} dexame estar.
 {RUB. Acto quarto inter-
-locutores. Esfuerc'o. Cleme<n>te.
+locutores. Esfuerço. Cleme<n>te.
 Carlo. Diligente.}
-{RUB. E.} % Muy penoso
+{RUB. E.} ¶ Muy penoso
 q<ue>da el papa & congoxoso
 respo<n>die<n>do aq<ue>lla bestia
 bruto soberuio enojoso
@@ -701,7 +701,7 @@ Qu[e ]es aquesso
 {RUB. C.} la respuesta del processo
 {RUB. E.} mucho desca<n>sara en vella
 {RUB. C.} no tengas pena poresso
-comienc'a luego a leella
+comiença luego a leella
 {RUB. E.} Nos clemente
 sieruo de dios obedie<n>te
 & de su hijo precioso
@@ -721,7 +721,7 @@ Los blasones
 titulos & presunciones
 aca nos mueuen tan poco
 que por abreuiar razones
-dan de vos sen~as de loco
+dan de vos señas de loco
 Vuestro escripto
 soberuio hecho en delito
 co<n> furia de gra<n> giga<n>te}
@@ -730,7 +730,7 @@ co<n> furia de gra<n> giga<n>te}
 se tuuo enlo q<ue> a vn mosq<ui>to
 terna vn feroz elefante
 Nos tenemos
-en corac'on & queremos
+en coraçon & queremos
 sin echarnos a dormir
 con armas velas & remos
 saliros a recebir
@@ -755,7 +755,7 @@ sin gastar mucho almazen
 {RUB. E.} el llega a muy buen co<n>uen
 consu gesto de guineo
 {RUB. M.} escreuiste
-como sen~or prometiste
+como señor prometiste
 {RUB. C.} todo esta ya despachado
 q<ue> la priessa que me diste
 sossegar no me ha dexado
@@ -785,13 +785,13 @@ las cartas d<e> muy bue<n> talle
 antes q<ue> mas tie<m>po espere
 & pies & manos besalle
 lo mejor que yo (su) supiere
-Gran sen~or
+Gran señor
 gran cessar emperador
 augusto rey de romanos
 yo soy del papa cursor
 & beso tus pies & manos
 Mi venida
-a tu[ ]espan~a muy florida
+a tu[ ]españa muy florida
 co<n> priessa & fatigas hartas
 no quiero q<ue> se me pida
 pues lo sabras d<e>stas cartas
@@ -815,12 +815,12 @@ soy alla luego conel
 {RUB. Di.} Manda mas
 {RUB. K.} esto solo le diras
 & buelue con dios amigo
-{RUB. Di.} gran fauor sen~or le das
+{RUB. Di.} gran fauor señor le das
 voyme & dios q<ue>de co<n>tigo.
 {RUB. Acto quinto inter-
 locutores. Mahometo. Dilige<n>-
-te. Cleme<n>te. Carlo. Esfuerc'o.}
-{RUB. Di.} % Satisfecho
+te. Cleme<n>te. Carlo. Esfuerço.}
+{RUB. Di.} ¶ Satisfecho
 voy co<n>[ ]ser hecho mi hecho
 como ami cargo co<n>uiene
 mas quie<n> es este q<ue> viene
@@ -835,7 +835,7 @@ do v(o)[e]nis. {RUB. M.} ve<n>go d<e>[ ]roma
 que no puede ser mejor}
 {CB2.
 {RUB. Di.} q<ui>es en paz hablar sobresso
-qual sirue a mejor sen~or
+qual sirue a mejor señor
 {RUB. M.} esso es plano
 pero si quieres xp<ist>iano
 q<ua>nto ma<n>dares hablemos
@@ -877,17 +877,17 @@ y del infierno otro tanto
 {RUB. M.} q<ue>l moro q<ue> bien biuia
 ala se andaua conel
 {RUB. Di.} despues q<ue> le prometia
-{RUB. M.} moc'as virgines & miel
+{RUB. M.} moças virgines & miel
 {RUB. Di.} Bueno va
 luego si comen alla
-& gozan moc'as gentiles
+& gozan moças gentiles
 sus necessarias aura
 como otros actos ceuiles
 El comer
 sin ha<m>bre no da plaz[e]r
-{RUB. M.} esso por razon se alcanc'a
+{RUB. M.} esso por razon se alcança
 {RUB. Di.} luego si ha<m>bre ha de auer
-no aura bienaue<n>turanc'a
+no aura bienaue<n>turança
 Mas diria
 pero nunca acabaria
 {RUB. ma.} q<ue> diras d<e>las donzellas
@@ -899,7 +899,7 @@ no[ ]terna pena y gemido
 desque vea la desdichada
 con otras a su marido
 {RUB. ma.} Ala sabe
-{RUB. Di.} dime en q<ue> cabec'a cabe
+{RUB. Di.} dime en q<ue> cabeça cabe
 q<ue> biuiendo en ley porcuna
 sin padecer cosa graue
 gozeys de gloria ninguna
@@ -976,7 +976,7 @@ su pago aura de lleuar
 segun dios lo va ordena<n>do
 cerca esto quiero llegar
 q<ue>l papa me esta esperando
-Gran sen~or
+Gran señor
 beso tus pies co<n> honor
 {RUB. C.} cursor tu seas bie<n> venido}
 {CB2.
@@ -989,7 +989,7 @@ tan ayna & mas que yo
 en roma por recta via
 {RUB. E.} Escuchad
 veys aqui su magestad
-aca viene enderec'ado
+aca viene endereçado
 {RUB. K.} deme el pie tu santidad
 {RUB. C.} hijo tu seas bien llegado
 Sus leuanta
@@ -1041,7 +1041,7 @@ tuuiero<n> co<n>tra traydores
 la misma gana q<ue> tienes
 {RUB. K.} Dilacion
 me parece ala sazon
-muy dan~osa & sin p<ro>uecho
+muy dañosa & sin p<ro>uecho
 {RUB. C.} pues de<n> primero vn prego<n>
 porque parta satisfecho
 Diga assi
@@ -1061,28 +1061,28 @@ tu pendon vaya adela<n>te
 {RUB. E.} vn villa<n>cico se cante
 {RUB. K.} alto pues todos digamos.
 {RUB. Villancico}
-% Florezca la fe
+¶ Florezca la fe
 perezca mahoma
 sublimese roma.
-% Razon nos combida
-con brac'os de azero
+¶ Razon nos combida
+con braços de azero
 poner al tablero
 porla fe la vida
 de aquesta partida
 perezca mahoma
 sublimese roma.
-% De turcos paganos
+¶ De turcos paganos
 no quede memoria
 florezca la gloria
 de nuestros christianos
-con fuerc'a de manos
+con fuerça de manos
 ensalcese roma
 perezca mahoma.
-% Morir en tal guerra
+¶ Morir en tal guerra
 lleuando buen zelo
 es yr dela tierra
 derechos al cielo
 perezca del suelo
 la ley de mahoma
 sublimese roma.
-{RUB. % Fin.}}
+{RUB. ¶ Fin.}}

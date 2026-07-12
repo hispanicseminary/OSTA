@@ -15,14 +15,14 @@ prio. {RUB. hec est carta quam fecit d<omi>n<u>s +}
 {IN2.} Hec est carta {RUB. archiep<iscopu>s:}
 q<u><<a>>m fecit d<omi>n<u>s archiep<iscopus>. {IN1.} Do<n>
 Remond<us>. cum om<n>ib<us> poblatorib<us>.
-de alcala. de suis co<n>suetuedinis. &'
+de alcala. de suis co<n>suetuedinis. ⅋
 postea co<n>firmauit succenssor ei<us>. archiep<iscopus> {IN1.} Do<n>
-ioha<nne>s. deinde. archiep<iscopus>. {IN1.} Do<n> celebrun<us> &' postea
-succenssor ei<us>. archiep<iscopus>. {IN1.} Do<n> gonzaluo. &' postea
-succenssor eius. archiep<iscopus>. {IN1.} Do<n> Martino. &' postea
+ioha<nne>s. deinde. archiep<iscopus>. {IN1.} Do<n> celebrun<us> ⅋ postea
+succenssor ei<us>. archiep<iscopus>. {IN1.} Do<n> gonzaluo. ⅋ postea
+succenssor eius. archiep<iscopus>. {IN1.} Do<n> Martino. ⅋ postea
 succenssor ei<us>. archiep<iscopus>. {IN1.} Do<n> Rodrigo simenez.
 octorgo & confirmo.}
-{GL. [^2#c'<i>nq<ue>nta & dos fojas]}}
+{GL. [^2#ç<i>nq<ue>nta & dos fojas]}}
 [fol. 1v]
 {CB1.
 {GL. [^2#1]} {IN2.} Deinde abeat el[ ]senor sus derectos & el con-
@@ -39,7 +39,7 @@ uaya p<er> enemigo & destos .c. M<<or>><auidis> sean partidos
 p<er> .iij[^2#<<es>>]. t<er>cias. la t<er>cia part al[ ]senor & la otra t<er>cia
 part. a[ ]parientes del muerto & la otra t<er>cia part.
 alos fiadores & el omezilio sea del[ ]senor & esto
-esca primero. &' qui estos .c. M<<or>><auidis> ouiere a[ ]pechar.
+esca primero. ⅋ qui estos .c. M<<or>><auidis> ouiere a[ ]pechar.
 pechelos por t<er>cias. t<er>cia part dauer & t<er>cia part
 de ropa & t<er>cia part de ganado. p<er> ap<re>ciamie<n>to
 delos alcaldes iurados p<er>la iura que iuraron.
@@ -61,7 +61,7 @@ p<er> morte domne & de illos .v. habuerit {GL. [^2#oujere]}
 uno manifesto que hele[ ]lo mato. ille {GL. [^2#el]} exeat ini-
 migo & peche las calonas & iure que por auer
 quel dan no<n> uiene manifesto que hele[ ]lo mato;
-et ille exeat inimigo & peche las calonas. &'
+et ille exeat inimigo & peche las calonas. ⅋
 si no<n> ouiere manifesto. firme. a uno. o a[ ]q<u><<a>>ntos
 pudiere ata .v. & a[ ]q<u><<a>>ntos firmare que se acer-
 caro<n> enla[ ]buelta. ta<n>tos se pare<n> en[ ]az & de illos
@@ -78,7 +78,7 @@ ibi fuerunt o aq<ue>l o<mn>e fuit ferido don murio & so-
 uiero<n> ibi delos pies & audieront delas oreias.
 et uieron delos oios. {RUB. Todo o<mn>e q<u><<i>>en sopiere q<ue> so parie<n>t +}
 {GL. [^2#6]} {IN2.} Todo homne q<u><<i>>en sopiere que {RUB. mato & delexare}
-so[ ]parie<n>t mato & delexare de des[+]afiar. al
+so[ ]parie<n>t mato & delexare de des( )afiar. al
 quel mato & a otro hom<n>e desafiare por cobdicia
 de so auer. o por malq<ue>rencia. e si dissiere el[ ]des-
 afiado a tuertom desafia qua sabe quie<n> mato so
@@ -136,7 +136,7 @@ uenga otro dia & si p<re>sa fuere. q<u><<a>>ndo escapare ue<n>-
 ga & delante el iudez & delante .iij<<es>>. bezi<n>nos.
 lo diga si fue de nocte que no<n> pudo uenir &
 {GL. [^2#mug<er> for-
-c'ada]} otro dia uino & si fue p<re>sa q<u><<a>>ndo escapo luego
+çada]} otro dia uino & si fue p<re>sa q<u><<a>>ndo escapo luego
 uino & si el co<n>te<n>dor dixiere que no<n> uino quomo
 inla carta iaze. firme el iudez co<n> .iij<<es>>. bezinos}
 [fol. 4r]
@@ -214,7 +214,7 @@ me. a .ij<<os>>. o. a .iij<<es>>. & alos q<ue> firmare. achelos peche.}
 quisiere p<er> enemigo. & alos que no<n> firmare; sal-
 uense co<n> .xij. xij. bezinos & foras ad aq<ue>l que
 prende p<er> enemigo. salude a todos los otros. Por
-onde los .v. foron des[+]afiados firme co<n> .iij<<es>>. be-
+onde los .v. foron des( )afiados firme co<n> .iij<<es>>. be-
 zinos & co<n>iuren las firmas & respo<n>dan a co<n>iura-
 m<ien>to. q<ue> hi souiero<n> delos pies & los uiero<n> co<n>los oios.
 que[ ]los uiero<n> uenir. dela otra parte. co<n> armas
@@ -268,7 +268,7 @@ demandare suias sean las .iij<<es>>. partes. {RUB. Q<u><<i>>en sin +}
 pendrare peche .Lx<<a>>. sol<do>s & los pe<n>nos dup-
 plados. Q<u><<i>>en pendrare & los pe<n>nos negare.
 firmel el otro co<n> el bezino que fue fiel. que[ ]lo
-{GL. [^2#cada s<oldo> faz'e
+{GL. [^2#cada s<oldo> faƽe
 [.]xij M<<or>><auidis>]} pendro & peche .Lx<<a>>. sol<do>s que mo<n>tan .xij. M<<or>><auidis>
 et sino<n> pudiere firmar. iure el la[ ]manq<u><<a>>dra &
 saluese el otro co<n> .vi. bezinos & el el[ ]seteno &
@@ -422,7 +422,7 @@ io q<u><<i>>[ ]lo apriete & metanlo in lauor del[ ]castielo.
 et desta calona. no<n> aian amor ninguno. {RUB. Iudez +}
 {GL. [^2#38]} {IN2.} IVdez uaia in[ ]fonsado. {RUB. uaia in[ ]fonsado & leue.}
 et leue la[ ]sena & escuse .iij<<es>>. bestias. de co<n>ceio.
-{GL. [^2#39]} {IN2.} ET los medios {RUB. &' los medios alcaldes & los +}
+{GL. [^2#39]} {IN2.} ET los medios {RUB. ⅋ los medios alcaldes & los +}
 alcaldes & los medios fiadores. {RUB. medios fiado-[res]}
 uayan in[ ]fonsado & los otros medios curien
 la[ ]uila & los alcaldes que foren en[ ]fonsado. es-
@@ -550,7 +550,7 @@ aso taliento & nullus homo no<n> faga molino.
 de partes de iuso del otro molino. nin cannal}
 [fol. 12v]
 {CB1.
-qui mal faga al[ ]molino. ni[ ]ala p<re>sa. {RUB. &' ningu<n>no +}
+qui mal faga al[ ]molino. ni[ ]ala p<re>sa. {RUB. ⅋ ningu<n>no +}
 {GL. [^2#60]} {IN2.} ET ningu<n>no om<n>e q<u><<i>> {RUB. o<mn>e q<u><<i>> h<er>edero fuere en[ ]molinos.}
 h<er>edero fuere en[ ]molinos & la[ ]p<re>sa fuere cre-
 bada. o[ ]la casa q<ue>mada. o deraigada & quisiere<n>
@@ -599,7 +599,7 @@ de tierra. {RUB. Q<u><<i>> derompiere casa. o molino. o caba<n>na.}}
 {GL. [^2#no<t><<a>>]} {GL. [^2#66]} {IN2.} QVi derompiere casa de uila. o daldea. o mo-
 lino. o cabanna. o paiar. peche. Lx<<a>>. sol<do>s
 que monta<n> .xij. M<<or>><auidis> & {GL. [^2#cada ss<oldo>
-faz'e xij
+faƽe xij
 d<i>n<er>os]} lo ques fiziere menos
 duplado & enesta derotela la[ ]calona sea el t<er>cio
 del archiep<iscop>o. y el t<er>cio delos fiadores. si[ ]los die-
@@ -620,7 +620,7 @@ a iusticiar & sinol pudiere<n> auer iuren que
 no[ ]lo pueden auer & pechen. todos las calo-
 nas. dobladas & echen sortes & a[ ]q<u><<a>>l caiere la
 {GL. [^2#Cada ss<oldo>
-faz'e (^vij [??]) xij
+faƽe (^vij [??]) xij
 d<inero>s]}}
 [fol. 14r]
 {CB1.
@@ -658,7 +658,7 @@ auer & pierda lo suio. {RUB. Los filios q<ue> ou<<i>>ere<n>. o parie<n>tes +}
 dela morta no<n> pierdan el[ ]auer dela muger mu-
 erta. e los fijos no<n> puedan desafiar. a padre.
 ni a madre. mas desafien los otros parientes.
-e aian las calo<n>nas. {RUB. &' la muger q<ue> so marido mata-re. +}
+e aian las calo<n>nas. {RUB. ⅋ la muger q<ue> so marido mata-re. +}
 {GL. [^2#75]} {IN2.} ET la muger q<ue>so marido matare. los filios {RUB.}
 que ouiere<n>. o parie<n>tes no<n> pierdan su bona
 del marido muerto & ala muger si[ ]la pudiere<n>
@@ -755,7 +755,7 @@ dalcala ode so t<er>mino q<ue> parientes no<n> ouiere<n>.
 o no<n> ielos sopieren & muriere & algo delesare.
 pague<n> la[ ]debda & las mandas & lo demais sea
 del[ ]senor & qui[ ]lo forzare hata que pague<n> las
-debdas & las mandas tornelo dupplado. [%3] {RUB. medietad}
+debdas & las mandas tornelo dupplado. [¶3] {RUB. medietad}
 {GL. [^2#86]} {IN2.} Todo om<n>e {RUB. Todo o<mn>e q<u><<i>> meter q<u><<i>>siere a su m<u>l<ie>r en. +}
 qui meter q<u><<i>>siere a su muger en medietad.
 o muger. a so marido. si filios no<n> ouiere<n> uenga<n>.
@@ -847,13 +847,13 @@ ren pierdanlo o co<n>ceio fuere & si co<n>ceio pendra<n>-
 do. alguno del aldea firiere. o matare. a o<mn>e
 del co<n>ceio. todos q<u><<a>>ntos lo[ ]fiziere<n>. Muera<n> por
 elo & pierdan q<u><<a>>nto que ouiere<n> & sea partido
-por t<er>cios si o<mn>e y muriere. {RUB. &' q<u><<i>> a[ ]maiordomo d<e>}
+por t<er>cios si o<mn>e y muriere. {RUB. ⅋ q<u><<i>> a[ ]maiordomo d<e>}
 {GL. [^2#94]} {IN2.} ET qui a[ ]maiordomo de[ ]fiadores. empara-
 re pe<n>nos. tal calona aia como el iudez.
 {GL. [^2#95]} {IN2.} Ninguno fiador no<n> {RUB. Ninguno fiador no<n> pe<n>dre. +}
-pendre. ni a[+]cote. ni maiordomo. {RUB. ni acote.}
+pendre. ni a( )cote. ni maiordomo. {RUB. ni acote.}
 de fiadores. o andador qui maiordomo de
-fiadores enbiare. el fiador qui a[+]cotare. o pe<n>-
+fiadores enbiare. el fiador qui a( )cotare. o pe<n>-
 drare. o andador embiare peche .v. sol<do>s al[ ]re<n>-
 curoso & si alguno ueniere rencuroso de algu<n>
 fiador p<er> aq<ue>sto. no<n> los iudguen los alcaldes.
@@ -864,11 +864,11 @@ et no<n> tome<n> calonas si no<n> delas cosas conom-bradas. {RUB. M<<or>><auidis
 [fol. 19r]
 {CB1.
 {GL. [^2#97]} {IN2.} EL[ ]escriuano tome .x. M<<or>><auidis> {RUB. El[ ]escriuano tome.}
-por soldada. {RUB. &' tome iud<ez>} {GL. [^2#98]} {IN1.} ET tome el iudez
+por soldada. {RUB. ⅋ tome iud<ez>} {GL. [^2#98]} {IN1.} ET tome el iudez
 por manto .xij. M<<or>><auidis> & non pida. {RUB. El maiordomo.}
-{GL. [^2#99]} {IN1.} ET el maiordomo .vi. M<<or>><auidis> {RUB. &' por facer las +}
+{GL. [^2#99]} {IN1.} ET el maiordomo .vi. M<<or>><auidis> {RUB. ⅋ por facer las +}
 {GL. [^2#100]} {IN2.} ET por facer las carreras al[ ]senor. {RUB. carreras al[ ]senor. +}
-et las iunctas. xxiiij. M<<or>><auidis> {RUB. &' alos sesmeros. +}
+et las iunctas. xxiiij. M<<or>><auidis> {RUB. ⅋ alos sesmeros. +}
 {GL. [^2#101]} {IN2.} ET alos sesmeros & alos {RUB. & alos andadores. sos.}
 andadores. sos derechos & por esto siruan.
 de s<an>ct martin. a s<an>ct martin. {RUB. Ladron q<ue> aduxiere<n> +}
@@ -893,7 +893,7 @@ todo el malfecho & ningu<n>no om<n>e que les[ ]tolie-
 re el[ ]ladron enla[ ]carera o[ ]le[ ]leuare<n>. a iusticiar pe-
 chen. d. M<<or>><auidis> o den el om<n>e & ningu<n>no om<n>e q<ue>
 toliere. el[ ]enforcado. dela forca. a[ ]menos de pla-
-c'er. del iudez & delos iurados & delos alcaldes
+çer. del iudez & delos iurados & delos alcaldes
 peche .c. M<<or>><auidis> si io firmare<n> como fuero es & si
 no<n> salues con .vi. & el el[ ]seteno. {RUB. Aq<ue>l que a cotare<n> +}
 {GL. [^2#103]} {IN2.} AQ<ue>l que {RUB. fiadores. por fiadores de saluo.}
@@ -952,7 +952,7 @@ messare co<n> .i<<a>>. ma<n>no. peche .i. M<<or>><auidi> {RUB. Q<u><<i>>en firie
 {GL. [^2#feridas] {GL. [^2#107]} {IN2.} Qvien firiere co<n> {RUB. piedra. o co<n> arma uedada &}
 piedra. o co<n> arma uedada & delas feridas ossos
 crebantare. por cada osso peches .v. sol<do>s & de todos
-estos ossos. de .xxx. M<<or>><auidis> ariba no<n> passen. {RUB. &' por +}
+estos ossos. de .xxx. M<<or>><auidis> ariba no<n> passen. {RUB. ⅋ por +}
 {GL. [^2#108]} {IN2.} ET por todas plagas {RUB. todas plagas q<ue> sangre exiere.}
 que sangre ixiere & ap<re>ciadas fueren. cada laga.}}
 [fol. 21r]
@@ -1019,7 +1019,7 @@ re co<n> .iij<<es>>. bezinos. o co<n> .ijo<<s>>. alcaldes. p<er> q<u><<a>>ntas n
 ches transnochare<n> sos pe<n>nos tantos .v. sol<do>s le
 pechen & si[ ]lo cogiere in coto & no<n> ielos diere. sie
 peche q<u><<o>>mo si no[ ]lo cogiesse in coto & no<n> responda
-usq<ue> de isto habeat derecho. {RUB. &' ningu<n>no delos fia-dores +}
+usq<ue> de isto habeat derecho. {RUB. ⅋ ningu<n>no delos fia-dores +}
 {GL. [^2#118]} {IN2.} ET ningu<n>no delos {RUB. q<ue> bestias. o ganado.}
 fiadores q<ue> bestias. o ganado. touiere<n> en
 coral. por bi<n>nas. o por defessas. o por cotos. coia<n>le
@@ -1028,7 +1028,7 @@ diere. q<u><<a>>ntas noches tras( )nochare peche .i. M<<or>><auidi>}
 [fol. 22v]
 {CB1.
 et si muriere el[ ]ganado. pechelo dupplado. q<u><<a>>l
-lo fiziere so due<n>no. co<n> .ij<<os>> .bezinos. {RUB. &' otro bezi-no +}
+lo fiziere so due<n>no. co<n> .ij<<os>> .bezinos. {RUB. ⅋ otro bezi-no +}
 {GL. [^2#119]} {IN2.} ET otro bezino que {RUB. q<ue> ganado touiere en co-ral. +}
 ganado touiere en coral. denle pe<n>nos de {RUB.}
 {GL. [^2#prenda de
@@ -1039,10 +1039,10 @@ re pierdas el ganado. {RUB. Todo o<mn>e q<u><<i>> desafiare ad otro +}
 {GL. [^2#120]} {IN2.} Todo om<n>e qui desafiare ad otro {RUB. in co<n>ceio & fiadores.}
 in co<n>ceio & fiadores dixiere<n> usq<ue> al uiernes fia.
 et no<n> qu[i]siere fiar peche .i. M<<or>><auidi> & fie & alos fiadores
-lo peche el. M<<or>><auidi> {RUB. Todo o<mn>e q<u><<i>> des[+]afiare ad otro & el otro}
-{GL. [^2#121]} {IN2.} Todo om<n>e qui des[+]afiare ad otro & el otro des-
-afiare en[ ]refierta. ad aq<ue>l que des[+]afia pechel.
-.i. M<<or>><auidi> & nol preste so des[+]afiamento al ora. {RUB. Ad aq<ue>l +}
+lo peche el. M<<or>><auidi> {RUB. Todo o<mn>e q<u><<i>> des( )afiare ad otro & el otro}
+{GL. [^2#121]} {IN2.} Todo om<n>e qui des( )afiare ad otro & el otro des-
+afiare en[ ]refierta. ad aq<ue>l que des( )afia pechel.
+.i. M<<or>><auidi> & nol preste so des( )afiamento al ora. {RUB. Ad aq<ue>l +}
 {GL. [^2#122]} {IN2.} Ad aq<ue>l qui acotare<n> no<n> {RUB. q<u><<i>> acotare<n> no<n> baia al[ ]senor.}
 baia al[ ]senor. sino<n> prim<er>o uaia al[ ]foro & pues
 el[ ]foro o[ ]lo echare. {RUB. El iudez de q<u><<a>>ntas q<ue> calonas cogie-re. +}
@@ -1072,10 +1072,10 @@ t<er>mino. no<n> de alcauala al[ ]senor. {RUB. Todo o<mn>e q<u><<i>> ad +}
 fiador de dema<n>damie<n>to & fore menzudo. a-
 quel que fio. adugalo co<n> sua bona & denle zepo.
 et metalo hy. o in casa da( )quel a[ ]q<u><<i>>[ ]lo fio & de y.
-[.]iij<<es>>. mazadas enel c'epo & esca se dela fiadura & si}
+[.]iij<<es>>. mazadas enel çepo & esca se dela fiadura & si}
 [fol. 23v]
 {CB1.
-no<n> le diere<n> c'epo. o cadena. enq<ue>[ ]lo meta. metalo
+no<n> le diere<n> çepo. o cadena. enq<ue>[ ]lo meta. metalo
 in[ ]casa. o in corral & sin armas & adugad sua
 bona toda del p<re>so & delo todo & iure que mays
 bona no<n> tiene & no<n> habeat co<n> .ij<<os>>. bezinos lo iure.
@@ -1083,8 +1083,8 @@ et la raiz ala o fuere. ala[ ]la uaia tomar & de( )pu-
 es esca dela fiadura. esto cumplido & si esto no<n>
 cumpliere. peche & si a[ ]pechar ouiere. denle.
 .xxx. dias & a .xxx. dias de el om<n>e. o peche
-las calonas si fore uenc'ido ante alcaldes & si no<n>
-fore uenc'ido ante alcaldes. o ante senor. fagas
+las calonas si fore uençido ante alcaldes & si no<n>
+fore uençido ante alcaldes. o ante senor. fagas
 dueno de uoz. {RUB. de todas las calonas q<ue> so[<n>] esc<r><<i>>ptas.}
 {GL. [^2#cada vij
 s<oldo>s faze
@@ -1132,9 +1132,9 @@ qual que[ ]la puerta touiere .ix. d<ineros> le peche. si io
 firmare<n> peche & si no<n> firmare<n> partan se del. {RUB. De +}
 {GL. [^2#133]} {IN2.} De todas las {RUB. todas las cosas q<ue> los alcaldes ouiere<n> +}
 cosas que los alcaldes ouiere<n> rencura. {RUB. re<n>cura}
-Los fiadores los a[+]coten por al[ ]biernes & los adu-
+Los fiadores los a( )coten por al[ ]biernes & los adu-
 gan a[ ]derecho & si no[ ]los aduxiere<n>. no[ ]les iudgue<n>.
-{GL. [^2#134]} {IN2.} ET si algu<n>no {RUB. &' si algu<n>no bezino dalcala ode so +}
+{GL. [^2#134]} {IN2.} ET si algu<n>no {RUB. ⅋ si algu<n>no bezino dalcala ode so +}
 bezino dalcala ode so t<er>mino {RUB. t<er>mino diere re<n>cura.}
 diere rencura al iudez. por coto. o a fiadores. por
 algunas cosas. si no[ ]les fizieren auer d<er>echo. no[ ]les
@@ -1152,7 +1152,7 @@ blar nos queremos. delexenos & si no<n> quisiere}
 {CB1.
 exir. pendrenle los fiadores & peche .i. Mencal.
 alos alcaldes & prendan dend los fiadores el[ ]q<u><<a>>rto.
-{GL. [^2#137]} {IN2.} ET si[ ]los {RUB. &' si[ ]los alcaldes ma<n>dare<n> alos fiadores exid<e>.}
+{GL. [^2#137]} {IN2.} ET si[ ]los {RUB. ⅋ si[ ]los alcaldes ma<n>dare<n> alos fiadores exid<e>.}
 alcaldes mandare<n> alos fiadores exide fora &
 non quisiere<n> exir. pendre el iudez alos que no<n>
 quisiere<n> exir & pechen sendos me<n>cales & p<re>nda
@@ -1163,7 +1163,7 @@ combrar el[ ]cabildo & iudgar uos emos & no<n> qui-
 sieren excombrar el[ ]cabildo. no[ ]les iudguen & si
 los alcaldes dixiere<n> el sabb<at>o. al poblo delesandos.
 et iudgaremos. el q<u><<i>> no quisiere exir peche .i.
-me<n>cal. al[ ]dela[ ]uila pendren & al[ ]del aldea a[+]cote<n>.
+me<n>cal. al[ ]dela[ ]uila pendren & al[ ]del aldea a( )cote<n>.
 {GL. [^2#139]} {IN2.} De {RUB. de <sant>i ioh<anne>s. usq<ue> a <santa> M<ari><<a>> mediada d<e> agosto haia<n>.}
 <sant>i ioh<ann>es. usq<ue> a <santa> maria mediada d<e> agosto {GL. [^2#no<ta>
 ferias]}
@@ -1212,7 +1212,7 @@ el[ ]amo del aldea p<er> labrar. el amo lo gouierne &
 si in aldea labrare. o el q<u><<i>>nto esperare. el[ ]se co<n>du-
 che & si bueis cansaren. o muriere<n>. labre el iu-
 uero. o el amo quisiere enel t<er>mino & q<u><<a>>ndo el
-iuuero esta lauor fac'iere al[ ]amo. el amo curie
+iuuero esta lauor façiere al[ ]amo. el amo curie
 los bueis. en[ ]agosto el amo de al[ ]iuuero .i. co-
 lazo al pan coier. facta que sea cogido & del
 bestia. o caro co<n>quelo aduga la mies al[ ]era &
@@ -1227,12 +1227,12 @@ quinto. del iuuero & el iuuero no<n> aia poder de
 coger messeguero alas miesses segar sin grado
 del amo & si[ ]lo cogere el iuuero lo peche & el iu-
 uero coia el pan. co<n> el colacio quel dieren & el
-iuuero meta la paia. enel paiar. co<n> el colac'o &
+iuuero meta la paia. enel paiar. co<n> el colaço &
 el amo del al[ ]iuuero. angariela. o[ ]sienga. o bestia
 co<n>q<ue> lo meta & si p<er> culpa del iuuero se[ ]p<er>diere.
 la paia en era. o enel paiar ell[ ]elo peche. &[ ]delos
 dineros que el amo diere por segar las miesses.
-colac'o. o meseguero dando entreguese el amo.
+colaço. o meseguero dando entreguese el amo.
 enla medietad. del iuuero. todo el amo que
 obreriza fiziere. de todo q<u><<a>>nto espisiere. a[ ]sem-
 brar. o a[ ]segar. el iuuero de el[ ]quinto & si el amo
@@ -1250,7 +1250,7 @@ la paia & rastro co<n>q<ue> la faga & del bestia & colazo
 por adozir la paia & por a teiar & si no<n> diere resto-
 io. del foz. o azadon. co<n>q<ue> faga la retama & q<u><<a>>ndo
 fore fecha. del bestia & colazo. co<n>q<ue> lo aduga &
-co<n>q<ue> la teche. &' si p<er> culpa del iuuero. se moiare
+co<n>q<ue> la teche. ⅋ si p<er> culpa del iuuero. se moiare
 la paia enel paiar. pechelo el iuuero & ali[ ]lo pe-
 che & ali[ ]lo aduga. o[ ]la paia se co<n>fundiere. ET
 el iuuero estercole una arenzada de t<ier>ra. por
@@ -1330,7 +1330,7 @@ tomar. tome q<u><<i>>nto de corderos & de la<n>na. delas
 uazias & de cabras & de cabrones .iij<<es>>. meaias
 ala cabeza & q<u><<i>> q<u><<i>>nto tomare. el ochauo dela le-
 che tome o del[ ]q<ue>so. {RUB. Tod pastor q<u><<i>> fore in alcala. o +}
-{GL. [^2#fia<n>c'a de
+{GL. [^2#fia<n>ça de
 pastor]} {GL. [^2#148]} {IN2.} Tod pastor q<u><<i>> fore {RUB. insuo t<er>mino & el amo ouiere.}
 in alcala. o insuo t<er>mino & el[ ]amo ouiere re<n>-
 cura de el & de mandarel fiador por s<an>ct ioh<anne>s &
@@ -1554,7 +1554,7 @@ co<n>ceio. que refertado no<n> sea. por grand me<n>gua.}
 [fol. 33v]
 {CB1.
 que ouieren. esto sea in alcala & en todo so ter-
-mino & q<u><<i>>[ ]lo aduxiere sin plac'er. del co<n>ceio que
+mino & q<u><<i>>[ ]lo aduxiere sin plaçer. del co<n>ceio que
 refertado sea peche .v. M<<or>><auidis> a[ ]fiadores & al iudez.
 et caiales en[ ]p<er>iuro si[ ]lo no<n> ap<re>tare<n> & si elos no[ ]lo
 q<u><<i>>sieren apretar. aprietenlo los alcaldes & los
@@ -1584,7 +1584,7 @@ pan comiere. o so mandado fiziere. o so portiello to-
 uiere. {RUB. Todo omne que uiniere a morar a al-cala. +} {GL. [^2#no<t><<a>>. fasta vn an<n>o]}
 {GL. [^2#180]} {IN2.} Todo omne que uiniere {RUB. hata que.}
 a morar a alcala. hata que more .i. anno. {GL. [^2#p<ar>a llos
-y offic'ios]}
+y offiçios]}
 en[ ]bila. non aya portiello ninguno en bila. {RUB. Todo
 omne dalcala. o de su t<er>mino. que a otro o<mn>e.}
 {GL. [^2#181]} {IN2.} Todo omne dalcala. o de su t<er>mino. que a
@@ -1702,7 +1702,7 @@ fasta pan cogido de era. {RUB. Caualo q<ue> muriere en a-pelido. +}
 en alcala o en so t<er>mino. o en[ ]oste. iure so
 due<n>no que no[ ]lo mato a[ ]sabiendas co<n> .ij<<os>>. bezi-
 nos & denle el co<n>ceio .xv. M<<or>><auidis> & delos por caua-
-lo & iure que todo lo hi metio. {RUB. &' si bonos om<ne>s +}
+lo & iure que todo lo hi metio. {RUB. ⅋ si bonos om<ne>s +}
 {GL. [^2#202]} {IN2.} ET si bonos om<ne>s foren. {RUB. fore<n>. p<er> ma<n>dado del[ ]co<n>cejo.}
 p<er> mandado del co<n>ceio al[ ]rey. o al[ ]senor. o
 algun logar & bestia le muriere en[ ]carera. con-
@@ -1797,14 +1797,14 @@ no & tengase el boie & peche. el ap<re>ciamie<n>to.
 a[ ]caualo crebantare el oio. peche el medio
 caualo & si non quisiere pechar el medio. ap<re>cie<n>
 le quom<<o>> si fosse sano & tomelo & peche el apre-
-ciamiento. {RUB. &' q<u><<i>> a[ ]boie crebantare oio. o a mula.}
+ciamiento. {RUB. ⅋ q<u><<i>> a[ ]boie crebantare oio. o a mula.}
 {GL. [^2#214]} {IN2.} ET qui a[ ]boie crebantare oio. o a mula. o
-a mulo. o a roc'in. o a egua. o a asno. o a
+a mulo. o a roçin. o a egua. o a asno. o a
 asna. crebantare oio. similit<er> peche. {RUB. Q<u><<i>> ferida +}
 {GL. [^2#215]} {IN2.} QVi ferida firiere. a caualo. {RUB. feriere . a caualo.}
 enel[ ]selar peche .v. sol<do>s & a[ ]toda bestia de
 siela qui[ ]la firiere enel selar .similit<er> peche.
-{GL. [^2#216]} {IN2.} ET qui a[ ]caualo. {RUB. &' q<u><<i>> a[ ]caualo. o a[ ]mula. o[ ]mulo.}
+{GL. [^2#216]} {IN2.} ET qui a[ ]caualo. {RUB. ⅋ q<u><<i>> a[ ]caualo. o a[ ]mula. o[ ]mulo.}
 o a[ ]mula. o a[ ]mulo. o a[ ]rozin. o a[ ]iegua. o
 ad asno. o ad asna. firiere(re). co<n> piedra. o con
 palo. in so corpo. q<u><<a>>ntas feridas. o q<u><<a>>ntos palos}
@@ -1923,7 +1923,7 @@ non ouiere hy carnero tomen .i<<a>>. oueia & non {GL. [^2#cotos de[ ]vin<n>as]}
 prenda. Morueco. ni carnero ce<n>cerrado & qui[ ]lo
 tomare dupplelo. {RUB. Boe. o uaca. o caualo. o iegua. o +}
 {GL. [^2#227]} {IN2.} Boe. o uaca. o caualo. o iegua. {RUB. mulo . o mula.}
-o mulo. o mula. o roc'in. o asno. o asna. si[ ]lo {GL. [^2#tr<e>s b<ezino>s]}
+o mulo. o mula. o roçin. o asno. o asna. si[ ]lo {GL. [^2#tr<e>s b<ezino>s]}
 tomaren in los cotos peche .i. Mencal. foras de
 bestia de siela que traian om<n>e p<er> cabestro & per
 puerco peche. Medio .me<n>cal & si el ui<n>nadero lo
@@ -1973,7 +1973,7 @@ cho si recabdo no<n> diere. dond ouo las uuas. o
 fructa peche. como io demandare<n> si forzal die-
 ren & si no<n> salues. como es foro. {RUB. Orto q<u><<i>> fore in +}
 {GL. [^2#231]} {IN2.} ORto qui fore in uila. {RUB. uila. o in aldea si fore.}
-o in aldea si fore serrado que no<n> pueda hy {GL. [^2#uerto c'errado]}
+o in aldea si fore serrado que no<n> pueda hy {GL. [^2#uerto çerrado]}
 entrar .bestia trauada. coia pecho por el & si
 no<n> fore serrado. no<n> coia pecho por el. Boy. o
 uaca. o bestia. qui entrare in orto. peche. i. Me<n>-cal}
@@ -2044,7 +2044,7 @@ por el[ ]escopro .i. M<<or>><auidi> por el dental .i. sol<do>s por
 oreiera .i. sol<do>s por pescuno .i. sol<do>s por cada
 uelorta .i. sol<do>s por el barzon .i. sol<do>s por el
 agujada .i. sol<do>s por la lauija .i. sol<do>s por la
-{GL. [^2#cada s<oldo> faz'e
+{GL. [^2#cada s<oldo> faƽe
 [???] destas
 (^???)]} pala .i. sol<do>s por cada forca .i. sol<do>s por las so-
 gas por cada una .i. sol<do>s & por todas estas co-
@@ -2064,7 +2064,7 @@ uenda de so ganado lo[ ]que q<u><<i>>siere. {RUB. Q<u><<i>> toliere +}
 {GL. [^2#240]} {IN2.} QVi toliere pe<n>nos {RUB. penos al iudez. foras dela}
 al iudez. foras dela porta. en cal peche.
 [.]Lx<<a>>. sol<do>s & qui toliere al andador. o al[ ]sayon. {GL. [^2#cada s<oldo>
-faz'e xij<<s>>
+faƽe xij<<s>>
 d<iner>o<<s>>]}
 en cal. o en carrera. peche. v. M<<or>><auidis> andador.
 o sayon que dissieren. quel reuelaren pe<n>nos.
@@ -2142,12 +2142,12 @@ carneros. ni oueias. mais pechense so da<n>no &
 su calona. {RUB. P<er> .iiij. porcos. facta marzo .M<e>d<ia>. fanega.}
 {GL. [^2#246]} {IN2.} PER .iiij<<or>>. porcos. facta marzo .Media. fane-
 ga & de marzo adelant. duplado. p<er> buie.
-o por uaca. o por iegua. o por roc'in. o por mu-
+o por uaca. o por iegua. o por roçin. o por mu-
 la. o mulo. o asno. o asna. peche. Media. fane-
 ga ala cabeza. {RUB. ERa q<ue> fore i<n> exido in entrada & in.}
 {GL. [^2#heras]} {GL. [^2#247]} {IN2.} Era que fore in exido in entrada & in exi-
 da. en la manana & inla nocte curiela so
-due<n>no & entre dia qui dano fic'iere asi peche
+due<n>no & entre dia qui dano fiçiere asi peche
 quom<<o>> por miesse & de nocte. duplado. {RUB. Galinas +}
 {GL. [^2#248]} {IN2.} Galinas q<u><<i>> dano {RUB. q<ue> dano fiziere<n> in ferren. o in.}
 fizieren in ferren. o in miesse. o in orto
@@ -2248,16 +2248,16 @@ rare en bila co<n> fijos & co<n> muger & la meior
 moranza que in uila la faga. los bueis que
 ouieren. domados. o bachas co<n> que aran. a
 osadas anden en la defesa & otro ganado no<n>.
-&' las bestias dela uila. de siela. o de aluarda
-pascan todo el anno. &' todo om<n>e dalcala que
+⅋ las bestias dela uila. de siela. o de aluarda
+pascan todo el anno. ⅋ todo om<n>e dalcala que
 ieguas ouieren. desde s<an>ct marti<n>. hata p<r><<i>>mer
 dia del mes de marzo. que pascan las ieg<u><<a>>s.}
 [fol. 48r]
 {CB1.
-et no las co<n>tralen nadi. &' otro ganado nin-
+et no las co<n>tralen nadi. ⅋ otro ganado nin-
 gu<n>no no<n> entren enlas defesas des( )de cinq<u><<a>>es-
 ma hatal dia de s<an>ct migael. sino<n> bestia de
-siela. o de aluarda. &' estas calonas que sea<n>
+siela. o de aluarda. ⅋ estas calonas que sea<n>
 delos fiadores & del iudez & si[ ]los fiadores
 no[ ]lo quisiere<n> ap<re>tar. cayales en p<er>iuro & el
 co<n>ceio dalcala ayan poder. de dar caualeros.
@@ -2279,7 +2279,7 @@ ni fiadores. ni iurados. quel caya en p<er>iuro.}
 {CB1.
 et que peche la[^s] calonas dobladas & si io non
 ap<re>taren los otros aportelados. cayales en p<er>iu-
-ro & elos lo pechen. {RUB. &' sobresto ma<n>do el archiep<iscop>o. +}
+ro & elos lo pechen. {RUB. ⅋ sobresto ma<n>do el archiep<iscop>o. +}
 {GL. [^2#266]} {IN2.} ET sobresto ma<n>do el archiep<iscop>o. {RUB. q<ue> ni<n>guno o<mn>e.}
 que ninguno om<n>e qui rencura diere a
 iudez. o ad algun aportelado. no<n> sea osado de
@@ -2312,7 +2312,7 @@ de madre las filias. los h<er>eden. {RUB. Filio. o filia. q<ue> +}
 {GL. [^2#270]} {IN2.} Filio. o filia. que malos {RUB. malos fuere<n>. por al padre.}
 fueren. por al[ ]padre. o por ala[ ]madre. si
 padre. o madre. amos. o el uno. uenieren a
-co<n>ceio & des[+]afiaren en[ ]co<n>ceio que no<n> quiere<n>
+co<n>ceio & des( )afiaren en[ ]co<n>ceio que no<n> quiere<n>
 que h<er>eden. de su auer. sean des( )h<er>edados & no<n>
 partan enso aueR. {RUB. Todo o<mn>e dalcala q<u><<i>> moio<n> ra<n>care.}
 {GL. [^2#271]} {IN2.} Todo om<n>e dalcala ode so t<er>mino qui moion
@@ -2372,7 +2372,7 @@ ayan poder. los del aldea. de dar solares. nin}
 {CB1.
 de[ ]romper la defesa. a[ ]menos delos h<er>ederos dela
 uila. e si[ ]lo fizieren pechen .v. M<<or>><auidis> e no[ ]les uala.
-{GL. [^2#cada ss<oldo> faz'e
+{GL. [^2#cada ss<oldo> faƽe
 [.]xij djn<er>os]}
 {GL. [^2#277]} {IN2.} Todo om<n>e qui {RUB. Q<u><<i>> oueias. o porcos. metiere.}
 oueias. o porcos. metiere. entre los alca-
@@ -2386,18 +2386,18 @@ no<n> h<er>ede & quomo es malfecho sil fiziere el
 padre su mulier auiendo a[ ]bendicion en otra
 muger & si antes le fiziere que aya muger be-
 lada. e despues ouiere muger belada & fiziere
-filios in ela & so padre lo fic'iere filio en co<n>ceio. o
+filios in ela & so padre lo fiçiere filio en co<n>ceio. o
 in az de caualeros que foren in fonsado. h<er>ede.
-o rogare co<m>padres & si esto no<n> fec'iere no<n> h<er>ede. {RUB. Tot +}
+o rogare co<m>padres & si esto no<n> feçiere no<n> h<er>ede. {RUB. Tot +}
 {GL. [^2#279]} {IN2.} Tot om<n>e q<u><<i>> {RUB. o<mn>e q<u><<i>> co<m>prare h<er>edad in[ ]alcala & carta.}
 comprare h<er>edat in[ ]alcala & carta fiziere dia
-de domi<n>go. la robre. enla colac'ion exida dela
+de domi<n>go. la robre. enla colaçion exida dela
 missa & prestel & si no<n> fuere robrada dia de do-mi<n>go}
 [fol. 51r]
 {CB1.
 no<n> preste & si carta touiere robrada & otro
 om<n>e le demandare la h<er>edat. de fiador ala[ ]carta.
-que cumpla lo que iac'et enla carta & responda<n>le.
+que cumpla lo que iaçet enla carta & responda<n>le.
 et si no<n> diere fiador nol responda & sil diere fiador
 ande p<er> el fuero & si dueno de h<er>edat que carta
 ouiere a[ ]firmar. firme co<n>los testigos que fuere<n>
@@ -2406,7 +2406,7 @@ tome dueno de h<er>edat la carta insu mano & iure
 que[ ]lo que[ ]la carta dize uerdad es & p<re>stel la carta.
 et su h<er>edad & si esto no<n> pudiere firmar. o iurar.
 nol preste & si firmare. o iurare. peche el otro
-los cotos. q<u><<o>>mo es esc<r><<i>>pto enla carta dela robra(t')[c']io<n>.
+los cotos. q<u><<o>>mo es esc<r><<i>>pto enla carta dela robra(ţ)[ç]io<n>.
 .c. M<<or>><auidis> los medios a[ ]palacio & los medios al[ ]rencu-
 roso & la h<er>edad toda duplada. {RUB. Q<u><<i>> ui<n>nas pusiere. o +}
 {GL. [^2#280]} {IN2.} QVi ui<n>nas pusiere. o {RUB. casas fiziere. en h<er>edad de.}
@@ -2419,7 +2419,7 @@ otro el q<u><<a>>rto. {RUB. Q<u><<i>> h<er>edad co<m>prare ata .ix. dias no<n> i
 [fol. 51v]
 {CB1.
 {GL. [^2#281]} {IN2.} Tod om<n>e qui h<er>edad comprare ata .ix. dias.
-no<n> ielo sacare parient que sea enla[ ]uec'indad
+no<n> ielo sacare parient que sea enla[ ]ueçindad
 dalcala o de su t<er>mino. despues de .ix. dias pas-
 sados nol recuda & si antes de .ix. dias uiniere
 el parient. co<n> su auer. lo que ouiere pagado &
@@ -2449,7 +2449,7 @@ et si no<n> pudiere<n> firmar. iure due<n>no de ganado
 co<n> .ij<<os>>. bezinos & salue so ganado. {RUB. OM<n>e. o bestia . o +}
 {GL. [^2#284]} {IN2.} OM<n>e. o bestia. o ganado. {RUB. ganado. q<u>e caiere en pozo.}
 que caiere en pozo. o en canal de molino.
-o de ac'e<n>na & y muriere. o[ ]lo matare pared. no<n>
+o de açe<n>na & y muriere. o[ ]lo matare pared. no<n>
 peche due<n>no de pozo ni[ ]de molino. ni[ ]de aze<n>na.
 ni en font. ni de pared. nada & no<n> responda por
 elo. Pared. o casa. que mays alta souiere que
@@ -2471,7 +2471,7 @@ no no<n> uiniere. tengalo el iudez malfiesto. por
 al[ ]senor & si due<n>no uiniere del so honor & lieue-
 lo & esto sea la honor. p<er> moro. o por mora. de fu-
 eras de uila .i. M<<or>><auidi> & p<er> caualo. o por mulo. o por
-mula. o por roc'in. o por iegua .i. mencal & p<er>
+mula. o por roçin. o por iegua .i. mencal & p<er>
 asno. o por asna. o por boy. o por baca. medio
 mencal. {RUB. Per dema<n>danza de hata .ij. M<<or>><auidis> no<n> se.}
 {GL. [^2#286]} {IN2.} PER demandanza de hata .ij<<os>>. M<<or>><auidis> no<n> se eche
@@ -2533,7 +2533,7 @@ o ouiere. fazinas & las falaren .i. due<n>no
 dela mies. o so filio. o so sobri<n>no que lo suio ouiere {GL. [^2#ley delas
 del Rastrojo
 donde tovjere
-fac'ina]}}
+façina]}}
 [fol. 54r]
 {CB1.
 a[ ]eredar. o so iuuero que q<u><<i>>nto ouiere enlas mie-
@@ -2543,18 +2543,18 @@ et iagan si & si esto no<n> quisiere<n> iurar. iure el pastor.
 p<er> su cabeza. que no[ ]las falaro<n> enel restroio. o mies
 auie & tornen los carneros. si fuere<n> biuos tome los
 piedgos & si fuere<n> muertos tornelos dupplados.
-{GL. [^2#295]} {IN2.} ET si puercos tomare<n> enel {RUB. &' si puercos tomare<n>.}
+{GL. [^2#295]} {IN2.} ET si puercos tomare<n> enel {RUB. ⅋ si puercos tomare<n>.}
 restroio. por de dia por .xx. puercos tome<n> .i.
 puerco & por de noche .ij. puercos & de .xL<<a>>. to-
 me<n> .ij. por de[ ]dia & por de noche .iiij. & dend ariba.
 a esta nodicia & por los puercos. que tomare<n> porla
-mies. asi lieue<n> la calona. como por las oueias. {RUB. &' +}
+mies. asi lieue<n> la calona. como por las oueias. {RUB. ⅋ +}
 {GL. [^2#296]} {IN2.} ET tome<n> por bacas & por {RUB. tome por bacas & por.}
 otro ganado. pechen. al[ ]fuero dela uila. de
 .xx. ariba. peche por de[ ]dia .i. M<<or>><auidi> & por de noche.
 .ij. M<<or>><auidis> & dend ariba aesta nodicia peche & atal fuero
 aian & asi lo[ ]lieuen porla iura. cuemo porlas oueias:
-{GL. [^2#297]} {IN2.} ET atal fuero aian. {RUB. &' atal fuero aian. Mieses.}
+{GL. [^2#297]} {IN2.} ET atal fuero aian. {RUB. ⅋ atal fuero aian. Mieses.}
 Mieses & ui<n>nas & ortos & defesas. de palacio
 como lo[ ]delos bezinos dalcala. {RUB. Todo o<mn>e q<u><<i>> iogare dados.}}
 [fol. 54v]
@@ -2572,11 +2572,11 @@ la puerta & ala uenida no<n> de nada. {RUB. Por toda madera. +}
 {GL. [^2#300]} {IN3.} Por toda madera & caruo<n>. q<ue> a {RUB. et caruo<n>. q<ue> a merca-do +}
 mercado dalcala adusiere<n>. no<n> tome<n> portadgo. {RUB.}
 et q<u><<i>>[ ]lo tomare. tornelo duplado & peche. al[ ]iudez.
-et alos fiadores .i. M<<or>><auidi> {RUB. Todo o<mn>e q<ue> des[+]afiare a .v. o<mne>s.}
-{GL. [^2#301]} {IN2.} Todo om<n>e q<ue> des[+]afiare a .v. om<ne>s p<er>[ ]morte dom-
+et alos fiadores .i. M<<or>><auidi> {RUB. Todo o<mn>e q<ue> des( )afiare a .v. o<mne>s.}
+{GL. [^2#301]} {IN2.} Todo om<n>e q<ue> des( )afiare a .v. om<ne>s p<er>[ ]morte dom-
 ne & .i. om<n>e y ouiere manifiesto. q<ue> el lo mato.
 el exca enemigo & peche .c. & .viij. M<<or>><auidis> & los .viij.
-M<<or>><auidis> sean del omec'ilio & el omec'ilio sea del[ ]senor &
+M<<or>><auidis> sean del omeçilio & el omeçilio sea del[ ]senor &
 l[*os] .iiij. saluense co<n> .xij. xij. & salude<n>los & si algu<n>-
 no no<n> cumpliere del saluo. peche .viij. M<<or>><auidis> et sa-
 ludenle. {RUB. Todo om<n>e q<u><<i>> uiniere. a morar a[ ]alcala.}}
@@ -2598,7 +2598,7 @@ Sedis. Archiep<iscopu>s hispania<rum> [*p<r><<i>>]mas. s<ubscribimu>s: et <con>f
 [^Ego. M<artinus> decan<us> tol<e>tan<us> s<ub>s<cribo>]
 [^Ego. B<ernardus> Tol<e>tan<e> Sedis Archid<iaconus> s<ub>s<cribo>]
 [^Ego Mag<ister> d<omi>nic<us> tol<e>tan<e> eccl<es>ie p<re>ce<n>tor s<ub>s<scribo>]
-[^Ego Didac<us> c'apata Mageritor<ensis> Archid<iaconus> s<ub>s<cribo> & iusi sc<r><<i>>bere p<ro> me]
+[^Ego Didac<us> çapata Mageritor<ensis> Archid<iaconus> s<ub>s<cribo> & iusi sc<r><<i>>bere p<ro> me]
 [^Ego. F<errandus> egidij Guadalfaiar<ensis> Archid<iaconus> s<ub>s<cribo>]
 [^Ego. F<errandus>. garsie canonic<us>. s<ub>s<cribo>]
 [^Ego Guill<el>m<us> Giuraldi. Cano<nicus>. s<ub>s<cribo>]
@@ -2608,11 +2608,11 @@ Sedis. Archiep<iscopu>s hispania<rum> [*p<r><<i>>]mas. s<ubscribimu>s: et <con>f
 [^Ego. Mag<ister> Guill<elmus> Cano<nicus> s<ub>s<cribo>]
 [^Ego t<o>letan<us> canonic<us>]}
 [^No<t><<a>> q<ue> el m<a>r<a>ved<i> d<e>los b[*ue]nos mo<n>ta vj
-m<a>r<avedi>s d<e>los q<ue> agora corre<n> &' [???]
+m<a>r<avedi>s d<e>los q<ue> agora corre<n> ⅋ [???]
 mencal monta .xxi.]}
 [fol. 55v]
 {CB1.
-(^Nos don G<onzal><<o>>. por la gr<aci>a de dios Arc'ob<is>po de Toledo
+(^Nos don G<onzal><<o>>. por la gr<aci>a de dios Arçob<is>po de Toledo
 p<r><<i>>mado de las espannas. chancell<er> de castiella. otor-
 gamos & co<n>firmamos este fuero en q<u><<a>>nto nos (^cae) cae se-
 gund n<uest>ra orden. saluos los p<r><<i>>uilegios & las cartas & las co<n>-
@@ -2623,13 +2623,13 @@ desta p<ar>te)
 {GL. [^2#[???]
 [???]
 este [???]]}
-[^2#Nos don G<onzal><<o>>. por la gr<aci>a de dios Arc'ob<is>po de Toledo
+[^2#Nos don G<onzal><<o>>. por la gr<aci>a de dios Arçob<is>po de Toledo
 p<r><<i>>mado de las espannas & chancell<er> de castiella. otor-
 gamos & co<n>firmamos este fuero en q<u><<a>>nto nos cae
 segu<n>d n<uest>ra orden. p<er>o q<ue> sean guardadas las <con>posici-
 ones & las cartas & los p<r><<i>>uilegios seellados co<n> los seellos de
-los Arc'ob<isp>os n<uest>ros Antecessores & del cabildo. e co<n> el
-n<uest>ro & del cabildo. q<ue> son entre los Arc'ob<is>pos & el co<n>-
+los Arçob<isp>os n<uest>ros Antecessores & del cabildo. e co<n> el
+n<uest>ro & del cabildo. q<ue> son entre los Arçob<is>pos & el co<n>-
 ceio de alcala tan bien de villa como de aldeas
 q<ue> (sean) tenemos por bien q<ue> sean guardadas & no<n> sean
 reuocadas ni<n> desfechas por esta co<n>firmacion & por q<ue>
@@ -2638,28 +2638,28 @@ eran bien declarados ca<n>cellamosllos & esc<r><<i>>uiemos
 esta c<on> n<uest>ra mano]}
 [fol. 56r]
 {CB1.
-[^2#nos don G<onzal><<o>> por la gr<aci>a de dios arc'ob<is>po de Toledo p<r><<i>>mado
+[^2#nos don G<onzal><<o>> por la gr<aci>a de dios arçob<is>po de Toledo p<r><<i>>mado
 delas Espan<n>as & chancell<e>r de Castilla. otorgamos & <con>firmamos
 este fuero en q<u><<a>>nto nos cahe segu<n>d n<uest>ra orden. p<er>o q<ue> sean guar-
 dadas las co<n>posit<i>o<n>es & las cartas & los p<r><<i>>uilegios seellados
-co<n> los seellos delos arc'ob<isp>os n<uest>ros ant<e>cessores & d<e>l cab<i>l<d>o
-e d<e>l n<uest>ro & del cabildo q<ue> son ent<r><<e>> los arc'ob<is>pos & el <con>ceio de
+co<n> los seellos delos arçob<isp>os n<uest>ros ant<e>cessores & d<e>l cab<i>l<d>o
+e d<e>l n<uest>ro & del cabildo q<ue> son ent<r><<e>> los arçob<is>pos & el <con>ceio de
 alcala ta<n> bie<n> dela villa com<m>o delas aldeas. q<ue> tenemos
 por bien q<ue> sean guardadas. & no<n> sean reuocadas nj<n> desfe-
 chas por esta co<n>firmat<i>on]
-[^2#Nos don gutierre por la gr<aci>a de dios arc'obispo de Toledo p<r><<i>>mado
+[^2#Nos don gutierre por la gr<aci>a de dios arçobispo de Toledo p<r><<i>>mado
 delas espan<n>as & chanceller de castiella otorgamos & co<n>ffirmamos
 este fuero en q<u><<a>>nto nos cahe segu<n>d n<uest>ra orden p<er>o q<ue> sean guarda-
 das las co<n>posit<i>o<n>es & las cartas & los p<r><<i>>ujlegios seellados co<n> los sellos
-delos arc'obispos n<uest>ros ant<e>cessores & del cabildo. e del n<uest>ro & del cabil-
+delos arçobispos n<uest>ros ant<e>cessores & del cabildo. e del n<uest>ro & del cabil-
 do. q<ue> son ent<r><<e>> los arc[']obispos & el co<n>ceio de alcala tan bie<n> dela
 ujlla como de las aldeas q<ue> tenemos por bie<n> q<ue> sean guar-
 dadas & no<n> sean reuocadas nj<n> desfechas por esta <con>firmat<i>on.]
-[^2#Nos don johan por la gr<aci>a de dios Arc'obispo de Toledo p<r><<i>>mado d<e>las espanyas
+[^2#Nos don johan por la gr<aci>a de dios Arçobispo de Toledo p<r><<i>>mado d<e>las espanyas
 e chanceller de castiella. otorgamos e <con>firmamos este fuero en q<u><<a>>nto nos
 cahe segu<n>t n<uest>ra orden. p<er>o q<ue> sean guardadas las <con>posic<i>o<n>es e las car-
-tas e los p<r><<i>>uilegios seellados co<n> los seellos d<e>los arc'ob<isp>os n<uest>ros antec-
-esores e del cabildo q<ue> son entre los arc'ob<is>pos e el <con>ceio de alcala. ta<n>
+tas e los p<r><<i>>uilegios seellados co<n> los seellos d<e>los arçob<isp>os n<uest>ros antec-
+esores e del cabildo q<ue> son entre los arçob<is>pos e el <con>ceio de alcala. ta<n>
 bie<n> d<e>la uilla como d<e>las aldeas q<ue> tenemos por bien q<ue> sean guarda-
 das e no sean reuocadas nj desfechas por esta <con>firmac<i>o<n> e
 por q<ue> esto ssea mas firme mandamos y poner n<uest>ro seello col-
@@ -2669,85 +2669,85 @@ gado]}
 [^2#Nos do<n> Xemeno por la gracia de dyos Arcopispo d<e> toledo p<r><<i>>mado d<e>las sspa<n>nas
 et ca<n>celler major d<e> Castyella. Atorgamos y co<n>firmamos este fuero En q<u><<a>>nto nos
 cahe segu<n>t n<uest>ra orde<n> p<er>o q<ue> sean guardadas las <con>posiciones e las cartas e
-los p<r><<i>>uilegyos seellados co<n> los seellos d<e> los arc'ob<isp>os n<uest>ros Ant<e>cesores e d<e>l ca-
+los p<r><<i>>uilegyos seellados co<n> los seellos d<e> los arçob<isp>os n<uest>ros Ant<e>cesores e d<e>l ca-
 byldo q<ue> son entre los arc[']ob<is>pos e el[ ]co<n>cejo d<e> Alcala ta<n> bye<n> d<e> la villa
 como d<e> las aldeas que tenemos por byen que sean guardadas e no<n> sean
 reuocadas ny<n> d<e>sfeytas por esta <con>firmacio<n> E por q<ue> esta sea mas firme
 <con>firmamos lo.]
-[^2#Nos don Gil por la gr<aci>a de dios arc'ob<is>po de tol<e>do p<r><<i>>mado d<e>las espan<n>as & cha<n>celler
+[^2#Nos don Gil por la gr<aci>a de dios arçob<is>po de tol<e>do p<r><<i>>mado d<e>las espan<n>as & cha<n>celler
 mayor de castiella Otorgamos & co<n>firmamos este fuero en qua<n>to nos caye
 segu<n>t n<uest>ra orden p<er>o q<ue> ssean g<u><<a>>rdadas las conposiciones & las cartas & los
 p<r><<i>>uil<e>gios sseellados co<n> los ssellos d<e>los arc[']ob<is>pos nuest<r><<o>>s an<te>cessor<e>s & d<e>l
-cab<i>llo q<ue> son entre los arc'ob<is>pos & el concejo de alcala tan bien de
+cab<i>llo q<ue> son entre los arçob<is>pos & el concejo de alcala tan bien de
 uilla com<m>o de las aldeas q<ue> tenemos por bien q<ue> ssean g<u><<a>>rdadas &
 no<n> ssean reuocadas nj<n> desfechas por esta co<n>firmacio<n> E por q<ue> esto
 ssea mas firme confirmamos lo.]
-[^2#Nos don Gonc[']alo por la gr<aci>a de dios Arc'ob<is>po de toledo p<r><<i>>mado
-d<e>las espannias & chanc'eller mayor de castiella Otorga-
+[^2#Nos don Gonc[']alo por la gr<aci>a de dios Arçob<is>po de toledo p<r><<i>>mado
+d<e>las espannias & chançeller mayor de castiella Otorga-
 mos & co<n>firmamos este fuero en q<u><<a>>nto en nos
 caye ssegu<n>t n<uest>ra orden P<er>o q<ue> ssean g<u><<a>>rdadas
 las co<n>posicio<n>es & las cartas & los p<r><<i>>ujlle-
-gios sseellados co<n> los seellos d<e>los Arc'ob<is>pos
+gios sseellados co<n> los seellos d<e>los Arçob<is>pos
 nuestros Antecessores & del cabillo q<ue> son]}
 [fol. 57r]
 {CB1.
-[^2#entre los Arc'ob<is>pos & el c<on>c'eio de Alcala ta<n> bien
+[^2#entre los Arçob<is>pos & el c<on>çeio de Alcala ta<n> bien
 de villa com<m>o de Aldeas q<ue> tenemos por bie<n>
 q<ue> ssean g<u><<a>>rdadas & no<n> ssean rreuocadas nj<n>
-desfechas por esta co<n>firmac'io<n>. E por que
+desfechas por esta co<n>firmaçio<n>. E por que
 esto sea firme nos don gonc[']alo Arc[']ob<is>po ssobredich<o>
 mandamos seellar este fuero con n<uest>ro sseello pen-
 diente & rrobramos lo de n<uest>ro no<n>bre.]
 {SYMB: signature.} Nos {LAT. gundisalu<us>
 Archiep<iscopus> toletan<us>}
-[^2#Nos do<n> gomez' por la grac'ia de dios E d<e>la s<an>ct<a> egl<es>ia de rrom<m>a eleyto
+[^2#Nos do<n> gomeƽ por la graçia de dios E d<e>la s<an>ct<a> egl<es>ia de rrom<m>a eleyto
 co<n>ffirmado d<e>la egl<es>ia de toledo p<r><<i>>mado d<e>las espan<n>as & chanceller mayor de
 castilla otorgamos & co<n>firmamos este ffuero en q<u><<a>>nto en nos caye ssegu<n> n<uest>ra
-orden. Pero q<ue> sea<n> g<u><<a>>rdadas las co<n>pusic'ion<e>s & las cartas & los p<r><<i>>uillejos
-ssellados co<n>los sellos d<e>los Arc'ob<i>spos n<uest>ros Antec'esor<e>s & d<e>l cabildo q<ue>
-sson entre los arc'ob<i>spos & el co<n>ejo de Alcala ta<n> bie<n> de villa com<m>o de Al-
+orden. Pero q<ue> sea<n> g<u><<a>>rdadas las co<n>pusiçion<e>s & las cartas & los p<r><<i>>uillejos
+ssellados co<n>los sellos d<e>los Arçob<i>spos n<uest>ros Anteçesor<e>s & d<e>l cabildo q<ue>
+sson entre los arçob<i>spos & el co<n>ejo de Alcala ta<n> bie<n> de villa com<m>o de Al-
 deas q<ue> tenemos por bien q<ue> sea<n> g<u><<a>>rdadas & no<n> sea<n> rreuocadas nj<n>
 desffechas por esta co<n>ffirmacio<n> E por q<ue> esto sea ffirme nos do<n>
-gom<e>z' eleyto ssobre dicho ma<n>damos sellar este ffuero co<n> n<uest>ro sello
+gom<e>ƽ eleyto ssobre dicho ma<n>damos sellar este ffuero co<n> n<uest>ro sello
 pendie<n>te & rrobramos lo de n<uest>ro no<n>bre. E por q<u><<a>>nto no<n> tenjemos
 aq<u><<i>> n<uest>ro ssello al no<n>brar ma<n>damos lo sellar co<n> n<uest>ro sello d<e>la poridad]
 {SYMB: signature.} {LAT. Gomeci<us>
 elect<us> toletan<us>}}
 [fol. 57v]
 {CB1.
-[^2#yo don g<utie>rre electo & adminjstrador dela egl<es>ia & arc'ob<is>pado de
+[^2#yo don g<utie>rre electo & adminjstrador dela egl<es>ia & arçob<is>pado de
 toledo otorgo & co<n>firmo este fuero en q<u><<a>>nto en mj es p<er>o q<ue>
-sea<n> g<u><<a>>rdadas las co<n>pusic'ion<e>s & cartas & p<r><<i>>ujllejos sellados co<n>los
-sellos delos arc'ob<is>pos pasados & del cabillo d<e>la dicha egl<es>ia &
-q<ue> son entre los dichos arc'ob<is>pos & el co<n>c'ejo de alcala tan
+sea<n> g<u><<a>>rdadas las co<n>pusiçion<e>s & cartas & p<r><<i>>ujllejos sellados co<n>los
+sellos delos arçob<is>pos pasados & del cabillo d<e>la dicha egl<es>ia &
+q<ue> son entre los dichos arçob<is>pos & el co<n>çejo de alcala tan
 bie<n> d<e>la villa com<m>o delas aldeas q<ue> tengo por bie<n> q<ue> sea<n> g<u><<a>>rda-
-das & no<n> sean Reuocadas nj<n> desfechas por esta co<n>firmac'ion
-E por q<ue> esto sea firme co<n>firmolo / e<n>la man<er>a q<ue> el arc'ob<is>po
+das & no<n> sean Reuocadas nj<n> desfechas por esta co<n>firmaçion
+E por q<ue> esto sea firme co<n>firmolo / e<n>la man<er>a q<ue> el arçob<is>po
 don pedro lo co<n>firmo]
 {SYMB: signature.} {LAT. Gutterri<us>}}
 [fol. 58r]
 [fol. 58v]
 {CB1.
-[^2#Yo diego Ramirez de gu[z]man Arc'ediano de toledo Cubiculario de n<uest>ro
+[^2#Yo diego Ramirez de gu[z]man Arçediano de toledo Cubiculario de n<uest>ro
 Sen<n>or el p<<a>>pa prouisor & procurador & vi( )cario general en lo sp<irit>ual et
-t<em>poral enla egl<esi>a c'ibd[*ad] En todo el arc[']ob<<i>><s>po & p<r><<o>>uintia de toledo
+t<em>poral enla egl<esi>a çibd[*ad] En todo el arc[']ob<<i>><s>po & p<r><<o>>uintia de toledo
 por el mucho honrrado Jn xr<ist>o padre & sen<n>or [*d]on pedro de luna por la
-gr<aci>a de dios & dela santa egl<esi>a de Roma arc'o[*b<is>p]o de toledo [*p<r><<i>>]mado delas
+gr<aci>a de dios & dela santa egl<esi>a de Roma arço[*b<is>p]o de toledo [*p<r><<i>>]mado delas
 espan<n>as cha<n>cell<e>r mayor de castilla por el poder amj dado & otorgado por
-el dicho sen<n>or arc'obispo asien<n>o su procurador & p<ro>uisor & bica<rio> sobre dicho
-otorgo & firmo este fuero en no<n>bre del dicho sen<n>or arc'ob<is>p<o> en q<u><<a>>nto en
-mj es para[ ]q<ue> sea<n> g<u><<a>>rdadas las <con>pusic'<i>on<e>s E las ca<rt><<a>>s & los p<r><<i>>uill<e>ios seella-
+el dicho sen<n>or arçobispo asien<n>o su procurador & p<ro>uisor & bica<rio> sobre dicho
+otorgo & firmo este fuero en no<n>bre del dicho sen<n>or arçob<is>p<o> en q<u><<a>>nto en
+mj es para[ ]q<ue> sea<n> g<u><<a>>rdadas las <con>pusiç<i>on<e>s E las ca<rt><<a>>s & los p<r><<i>>uill<e>ios seella-
 dos co<n>los sellos delos arc[']ob<is>pos passados & del cabillo dela dicha egl<es>ia de
-toledo q<ue> son ent<r><<e>> los dichos arc'ob<is>pos E el conc'ejo de alcala tan bie<n> dela
-villa com<m>o delas aldeas & tengo & q<u><<i>>ero en no<n>bre del dicho sen<n>or arc'ob<is>po
-q<ue> sean g<u><<a>>rdadas & no<n> sea<n> Reuocadas nj<n> desfechas por esta <con>fir( )mac'io<n>
-E por q<ue> esto sea firme yo e<ne>l dicho no<n>bre del dicho sen<n>or arc'ob<is>po co<n>-
+toledo q<ue> son ent<r><<e>> los dichos arçob<is>pos E el conçejo de alcala tan bie<n> dela
+villa com<m>o delas aldeas & tengo & q<u><<i>>ero en no<n>bre del dicho sen<n>or arçob<is>po
+q<ue> sean g<u><<a>>rdadas & no<n> sea<n> Reuocadas nj<n> desfechas por esta <con>fir( )maçio<n>
+E por q<ue> esto sea firme yo e<ne>l dicho no<n>bre del dicho sen<n>or arçob<is>po co<n>-
 firmo lo enla manera q<ue> el arc[']ob<is>po do<n> pedro tenorio E los otros
-[*a]rc'ob<is>pos de toledo passados le <con>firmaro<n> en testimo<n>io delo q<u><<a>>l
-Yo el dicho arc'ediano p<ro>uisor & p<ro>curador & bicario sobre dicho
+[*a]rçob<is>pos de toledo passados le <con>firmaro<n> en testimo<n>io delo q<u><<a>>l
+Yo el dicho arçediano p<ro>uisor & p<ro>curador & bicario sobre dicho
 puse aqui mj no<n>bre q<ue> fue fecho & passo lo sobre dicho enla
-dicha villa de alcala de fenares viern<e>s honze dias de marc'o
-An<n>o del nasc'imi<en><<to>> del n<uest>ro saluador Jh<es>u Xr<ist>o de Mill & q<u><<a>>troc'ie<n>-
+dicha villa de alcala de fenares viern<e>s honze dias de março
+An<n>o del nasçimi<en><<to>> del n<uest>ro saluador Jh<es>u Xr<ist>o de Mill & q<u><<a>>troçie<n>-
 tos & siete an<n>os.]
 {SYMB: signature.} {LAT. didacus Remigij
 a<r>chid<iaconus> toletan<us>}}

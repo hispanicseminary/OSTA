@@ -6,32 +6,32 @@
 {RMK: Alba María Fierro Vega.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {ILL. {MIN. CONTRA FVRIA DE FORTVNA NO AY CO<N>SEIO NI SCIENC'IA SI[ ]NO GOVIERNA PRVDENC'IA}
-{RUB. Nuestra Sen~ora del Paular}}
+{RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {ILL. {MIN. CONTRA FVRIA DE FORTVNA NO AY CO<N>SEIO NI SCIENÇIA SI[ ]NO GOVIERNA PRVDENÇIA}
+{RUB. Nuestra Señora del Paular}}
 {RUB. Glosa religiosa y muy christiana sobre las
-Coplas de don Iorge Manrrique que comienc'a. Recuerde el alma dormida.
+Coplas de don Iorge Manrrique que comiença. Recuerde el alma dormida.
 Agora de nueuo compuesta por vn reuerendo padre Monje Cartuxo.}}
 [fol. 1v]
 [fol. 2r]
 {CB1.
-{RUB. % Prologo del auctor en el qual
-enderec'a la obra a su padre co<n>-
+{RUB. ¶ Prologo del auctor en el qual
+endereça la obra a su padre co<n>-
 solandole de ciertos casos
 desastrados que le aui-
 an acaescido. {SYMB: cross.}}
-{RUB. % Prologo.}
+{RUB. ¶ Prologo.}
 {IN9.} SUfrieron con tanto
 animo aquellos generosos antiguos claro
-y muy noble sen~or los desastrados encue<n>-
+y muy noble señor los desastrados encue<n>-
 tros de la fortuna, q<ue> antes les causaua triu<m>-
-pho famoso: que afrentosa verguenc'a su
+pho famoso: que afrentosa verguença su
 combate. E pensando ganar la cruel co<n> la-
 stimar los: perdia con quedar co<n>fusa. Y en
 lugar de aterrar los con deshazer los: los
 nombraua con prouar los. Porque de tal arte succede al bueno co<n>
 las molestias malignas, que lo que al malo fuera causa deshon-
 rra: a el es occasio<n> de fama. Lo que al couarde causa afrenta: al ani-
-moso da corona. Lo que al necio confunde al sabio ensen~a. Quie<n>
+moso da corona. Lo que al necio confunde al sabio enseña. Quie<n>
 podra alabar aq<ue>lla fortaleza y generoso animo de Paulo Emilio
 Quan en poco tuuo el terrible golpe de la fortuna, qua<n>do vie<n>dose
 en la cu<m>bre mas subida de su gl<or>ia, auiendo ve<n>cido aq<ue>l valie<n>te Persa
@@ -46,28 +46,28 @@ es del triumpho. E como viese el noble cauallero al pueblo Ro-
 mano de su desastre entristecido, tuuo al senado y pueblo vna fa-
 bla: y entre otras cosas dignas de notar concluyo ansi. Viendo yo
 honrrados caualleros vuestra felicidad y auiendo temor no nos
-reboluiesse algun dan~o la fortuna, rogue a dios si alguna aduersi-
+reboluiesse algun daño la fortuna, rogue a dios si alguna aduersi-
 dad al pueblo Romano se guardaua: todo en mi casa se conuerti-
 esse. E por tanto estad alegres que todo succede bien, pues oydos
 mis ruegos se tuuo tal modo q<ue> antes de mi mal pesasse a vosotros:
 que yo llorasse el vuestro. Generoso fue por cierto tal animo, que
 con ser lastimado: procuraua el consuelo de los que del se dolian.
-No menos lo fue a mi parecer aquel esforc'ado capitan Crasso, no-
+No menos lo fue a mi parecer aquel esforçado capitan Crasso, no-
 ble caudillo del Romano exercito: el qual peleando contra los
 Parthos, auiendo le muerto los enemigos vn hijo, no menos vali-
 ente q<ue> apuesto, los crueles Phartos por escarnecer al muerto y lasti-
-mar al padre y turbar los contrarios, cortada la cabec'a del fermo-
-so manc'ebo con grandes bozes la mostraua<n> a los Romanos hin-
-cada en vna lanc'a. E preguntauan por escarnio: de que sangre era ta<n>
+mar al padre y turbar los contrarios, cortada la cabeça del fermo-
+so mançebo con grandes bozes la mostraua<n> a los Romanos hin-
+cada en vna lança. E preguntauan por escarnio: de que sangre era ta<n>
 lindo mancebo. Viendo el padre cosa de tanto dolor no por esso
 se amortecio, ni hizo vasquas o mouimiento alguno de desmayo,
-sino co<n> gra<n> animo andaua por los esquadrones dizie<n>do, esforc'ad
-esforc'ad valientes Romanos: que este dolor solamente es mio. No
+sino co<n> gra<n> animo andaua por los esquadrones dizie<n>do, esforçad
+esforçad valientes Romanos: que este dolor solamente es mio. No
 ay porque vosotros desmayeys: pues nuestra victoria en vuestra sa-
 lud co<n>siste. Pues si a Quinto Martio a q<ue> quisiessemos poner halla-
 riamos q<ue> dexa<n>do vn su vnico hijo, en el sepulchro co<n> tanta ygual-
 dad de rostro fue al senado: q<ue> hasta oy dura su admiracio<n>. Por cier-
-to ennoblecido sen~or: quando en la vida y hazan~as destos pienso
+to ennoblecido señor: quando en la vida y hazañas destos pienso
 y co<n> la p<re>steza d<e>l pe<n>samie<n>to aq<ue>lla co<n>uersacio<n> co<n> la de n<uest>ro tie<m>po ju<n>to,
 q<ue>rie<n>do cotejar los hallo ta<n>ta diferencia, q<ue> si el freno de la fe no me
 tuuiese con gran osadia me desbocaria a affirmar los que oy so-
@@ -80,8 +80,8 @@ de los tie<m>pos. Y a la verdad si los antiguos nuestras tra<n>sito-
 rias edades, por la diuersidad y valor de los metales distinguian:
 no del todo se apartaua<n> deste parecer: mas viendo que esta opinion
 es contra fe desamparada de scientia, agena de entendimie<n>to y fue-
-ra de razon con venir todos de vn padre ((que no menos que los
-otros animales enge<n>dro su semejante)) bueluo mi disputa en admi-
+ra de razon con venir todos de vn padre ≺que no menos que los
+otros animales enge<n>dro su semejante≻ bueluo mi disputa en admi-
 racion: y no podiendo a mis pensamientos responder: holgaria
 si ouiesse quien satisfazer me quiera. Pregunto que razon ay por
 donde no digo tan buenos pero mejores que los viejos no sea-
@@ -89,10 +89,10 @@ mos? Por ventura falta nos razon para ser buenos? Fallece nos el
 conoscimiento del bien? No tenemos entendimiento del mal? Fal-
 ta premio de nuestro trabajo? Abaxa se el precio de las virtudes.
 todo esto es al reues. Que es aueriguado si la razon que a noso-
-tros sobra para ser virtuosos, los antiguos alcanc'aran: por vil tu-
+tros sobra para ser virtuosos, los antiguos alcançaran: por vil tu-
 uieran lo que hizieron. Harto es en verdad afrentoso en los chri-
 stianos, si tuuiendo tanta razon de ser buenos no lo son pues los
-paganos sin tener la lo fuero<n>. Confunda se quien tiene esperanc'a
+paganos sin tener la lo fuero<n>. Confunda se quien tiene esperança
 muy cierta de vida eterna, y no menosprecia la temporal por ella:
 pues los que estan en el infierno la menospreciaron. Correr nos
 deuriamos los que andamos perdidos tras esta vida y sus passa-
@@ -101,7 +101,7 @@ el libro que escriuio de senectud: donde en persona de Caton dize
 ansi. Si algu<n> dios me co<n>cediesse q<ue> desta edad tornasse a la cuna: en
 gra<n> manera lo rehusaria. Que no quiero ta<n> poco corrido el ca<m>po
 tornar me al pueblo. Por que en fin que tiene esta vida que de pro-
-uecho sea? Que no dan~oso? Y dado q<ue> dan~o no te<n>ga: nunca esta sin
+uecho sea? Que no dañoso? Y dado q<ue> daño no te<n>ga: nunca esta sin
 fastidio / o molestia. Ni quiero llorar mi vida como otros y de los
 sabios han hecho, ni me pesa porq<ue> he viuido: porque de tal arte vi-
 ui: que pienso no auer nascido en valde. Y parto desta vida como
@@ -109,7 +109,7 @@ de venta, no como de casa: porque nos la dio natura por vn aluer-
 gue en que posassemos, no que morassemos. O clarissimo aquel
 dia en que para aquella congregacion y choro de spiritus camine,
 y desta turbacion y suziedad me parta. O christianos christianos
-si aura agora algunos que esto de corac'on digan o puedan imi-tar}
+si aura agora algunos que esto de coraçon digan o puedan imi-tar}
 {SG. A iii}
 [fol. 3v]
 {CB1.
@@ -119,9 +119,9 @@ tiuo de mi si a estos gentiles imitar en virtudes no bastamos o me-
 jor diziendo no queremos: como a nuestros antiguos catholicos
 seguiremos, que no menos a estos a los brutos excedian?
 No hagamos oy mucho caso si en los humanos no se halla la va-
-lentia y fuerc'as de Sanson, la gentileza y disposicion del rey Saul,
+lentia y fuerças de Sanson, la gentileza y disposicion del rey Saul,
 la fermosura y lindeza de Absalo<n>, las riquezas y joyas de Salomo<n>,
-el corac'on y osadia de Ionatas. Aquellas dema<n>das, aquel esfuerc'o,
+el coraçon y osadia de Ionatas. Aquellas dema<n>das, aquel esfuerço,
 aquellas conquistas, aquellos edificios, y otras cosas que mas son
 de curiosidad: que de prouecho. Mas miremos si se hallara entre
 nosotros la fe y obediencia de Abrahan, la humildad y obras pias
@@ -138,19 +138,19 @@ zemos peores a los presentes. Digna cosa es de llanto por cierto ser
 oy tales los christianos, que conociendo su error los infieles: no
 vienen a la fe por nuestro mal exemplo. Por amor de vn solo dios
 como creera el moro viendo blasfemar al christiano? Viendo pues
-el noble y esforc'ado cauallero don Iorge Manrrique nuestro mal
+el noble y esforçado cauallero don Iorge Manrrique nuestro mal
 viuir, mouido con christiana piedad: en graciosos metros nos a-
 monesta el menosprecio deste mundo, y amor de dios. E porque el
-passado duen~o de nuestra ceguedad desechemos, co<n> dulces y ami-
+passado dueño de nuestra ceguedad desechemos, co<n> dulces y ami-
 gables puntos toca<n>do las co<n>certadas cuerdas de la sentida harpa
 de su ingenio: nos despierta diziendo. Recuerde el alma dormida a-
 biue el seso y despierte. &c. Es su obra tal que no es menester otro
-loor sino la experie<n>cia. Va enderec'ada a su padre sobre su muerte:
-yo por ser a este cauallero por su bo<n>dad y doctri<n>a muy deuoto: co-menc'e}
+loor sino la experie<n>cia. Va endereçada a su padre sobre su muerte:
+yo por ser a este cauallero por su bo<n>dad y doctri<n>a muy deuoto: co-mençe}
 [fol. 4r]
 {CB1.
-a glosar esta obra con intencion de enderec'ar la y cambiar la
-a vuestra merced mi sen~or y mi padre, por cuyo mandado la aca-
+a glosar esta obra con intencion de endereçar la y cambiar la
+a vuestra merced mi señor y mi padre, por cuyo mandado la aca-
 be considerando qua<n>to es bien empleado el fructo de mi ingenio
 tornar al tronco de donde soy fructo, aun que mal maduro / no por
 falta de las ramas sino faltando mi razon. No curo aqui de poner
@@ -162,25 +162,25 @@ tuna ha suffrido, y no menos auer se en el parecido la generosidad
 el animo, q<ue> la valentia del cuerpo: con no auer buelto jamas las
 espaldas en sus afre<n>tas, ni auer desmayado en su desastres: pero lue-
 go diran que soy parte y no recibira<n> aqui mi voto. Pero bendito
-el sen~or que tengo tantos de mi vando, que no haziendo yo aqui
+el señor que tengo tantos de mi vando, que no haziendo yo aqui
 falta: bueluo al proposito de mi glosa, en la qual a v<uestra> m<erced> suplico
 no espere mucha polideza del rustico ni gracia del desgraciado.
 Antes su benigna nobleza supla las faltas de quien menos sabe, y
 reciba la voluntad de quien mas no puede.
-{RUB. % Fin del prologo.}
-{RUB. % Carta co<n>solatoria del religio-
+{RUB. ¶ Fin del prologo.}
+{RUB. ¶ Carta co<n>solatoria del religio-
 so y deuoto padre fray Bernardo Perez Vicario de la casa
 del Paular de la orden de Carthuxa por cuyo mandado
 se imprimio la presente obra. Al muy noble y magni-
-fico sen~or el sen~or Diego de Valdepen~as Regidor
+fico señor el señor Diego de Valdepeñas Regidor
 de ciudad real a quien fue dirigida la presente o-
 bra co<n>sola<n>dole de la muerte de vn hijo suyo.}}
 {SG. A iiii}
 [fol. 4v]
 {CB1.
 {IN8.} SEntencia es muy a-
-prouada, noble y magnifico sen~or, que pri-
-mero se an de vencer los dulc'ores y despu-
+prouada, noble y magnifico señor, que pri-
+mero se an de vencer los dulçores y despu-
 es los dolores. Primero se an de domar las
 p(o)r[o]speridades: y despues las dificultades.
 Y asi es, q<ue> aquel que pone mucho amor y
@@ -190,13 +190,13 @@ y doblado dolor en las aduersidades. Pero aquel q<ue> co<n> animo pru-
 dente, en el tiempo de la paz y mu<n>dano fauor, se acuerda de la des-
 ordenada g($u)[u]erra, que comunmente la aduersa fortuna, suele rebol-
 uer, quando esta capitana toca al arma, su tropel no le causa turba-
-cion: porque lo halla proueydo. Los golpes que se proueen ((dixo
-vn sancto varon)) menos hieren. Hasta aqui muy ennoblecido se-
-n~or: he hablado por enigmas. Pero a quien es notoria la causa de
+cion: porque lo halla proueydo. Los golpes que se proueen ≺dixo
+vn sancto varon≻ menos hieren. Hasta aqui muy ennoblecido se-
+ñor: he hablado por enigmas. Pero a quien es notoria la causa de
 su passion y mi grande compassion: no lo sera encubierto el mo-
 tiuo de mi intencio<n>. No digo yo a mi a quien el deudo de familia-
-ridad y entran~as de religion fuerc'an a sentir y compadecer, sus ri-
-gurosos reueses: pero si en las entran~as naciones y barbaras gentes
+ridad y entrañas de religion fuerçan a sentir y compadecer, sus ri-
+gurosos reueses: pero si en las entrañas naciones y barbaras gentes
 se denunciasen: soy cierto que co<n> autos lamentables serien celebra-
 dos. No soy tan mal co<n>siderado, que no vea que la recordacion de
 semejantes casos, ya sepultados por antiguedad a v<uestra> m<erced> dara pena,
@@ -214,13 +214,13 @@ prudente esta muy ajeno de turbacio<n>es: conoci que necessariame<n>-te}
 [fol. 5r]
 {CB1.
 en su aduersidad auia de crescer su virtud. No se puede negar
-muy noble sen~or que la fortuna no le toco inhumanamente: pero
+muy noble señor que la fortuna no le toco inhumanamente: pero
 en este toque negro y ofuscado: resplandecieron los acendrados
-quilates de su fino oro. Esto tiene esta seruil sen~ora: q<ue> con su toque
+quilates de su fino oro. Esto tiene esta seruil señora: q<ue> con su toque
 al malo descubre y al bueno prueua. O fortuna, quiero platicar co<n>-
 tigo, como si fuesses alguna substancia o persona. Quien te vido
 poco ha con tus olas te<m>pestuosas, trabajar de hundir el nauio deste
-noble sen~or, no sin gra<n> peligro de su perso<n>a, y querer derribar el es-
+noble señor, no sin gra<n> peligro de su perso<n>a, y querer derribar el es-
 cudo de su fama: y al fin do<n>de crescio el rigor de tu malicia: sobro
 el co<n>sejo de su prude<n>cia. No co<n>sideras, que si le robaste su alegria el
 te robo tu fama? Donde esta<n> los sangrie<n>tos triu<m>phos de todos los
@@ -238,14 +238,14 @@ taste le la mudable substancia y parte de la sucession priuando le de
 vn hijo, y tal hijo. Tales so<n> tus obras q<ue> no pudie<n>do sublimar al vir-
 tuoso, por la resiste<n>cia de su virtud: p<ro>curas de affligille co<n> la sobra
 de tu maldad. Pues si te ve<n>cio e<n> la aduersidad: el mu<n>do es testigo. Que
-qua<n>do mostrase tu yra y nega<n>do le tus engan~osos do<n>es: el mostro su
+qua<n>do mostrase tu yra y nega<n>do le tus engañosos do<n>es: el mostro su
 fortaleza en renu<n>ciar tus aueres. Y como sea verdad q<ue> es muy rica
 n<uest>ra natura, si el animo esta libre de auaricia, qua<n>do le desnudase de
 tus auarie<n>tos bienes aparescio su natural riqueza. Quien creyera o
 fortu<n>a q<ue> de todos tus derramados triu<m>phos: en n<uest>ro tie<n>po le auie de
 hazer vn co<m>pe<n>dio de gl<or>ia. Iamas vi caso de fortu<n>a q<ue> moderado co<n>
 prude<n>cia: no tuuiesse dichosa salida. Digo lo porq<ue> si de su generosa
-pla<n>ta noble sen~or: la fortu<n>a corto vn ramo carnal: la prude<n>cia p<ro>spe-
+pla<n>ta noble señor: la fortu<n>a corto vn ramo carnal: la prude<n>cia p<ro>spe-
 ro otro sp<irit>ual, de ta<n> virtuosos pi<m>pollos, q<ue> podemos bie<n> dezir: q<ue> lo q<ue>}
 [fol. 5v]
 {CB1.
@@ -258,29 +258,29 @@ ge<n>dro p<ar>a ser antes de tie<m>po cortado: otro le q<ue>do p<ar>a ser co<n> 
 noblescido. Este es el ramo florido q<ue> aca tenemos a la sombra del
 qual apazibleme<n>te holgamos. El fructo del qual bie<n> demuestra la
 nobleza de su tro<n>co, pues traye<n>do su p<ro>ceder de ta<n> ineffable rama,
-auie por fuerc'a de ser, el fructo como la rama. Este es aquel ramo q<ue>
+auie por fuerça de ser, el fructo como la rama. Este es aquel ramo q<ue>
 en caye<n>do sele la flor del mu<n>do: produzio fructo de religio<n>. Este es
-aquel q<ue> huye<n>do las ho<n>rras de fortuna: alcanc'o te<m>prana corona de
+aquel q<ue> huye<n>do las ho<n>rras de fortuna: alcanço te<m>prana corona de
 prude<n>cia. Este es el ramo de cuya rediuiua simie<n>te: a p<re>cedido el ver-
 gel de nuestros loores. Del qual florido vergel, me parescio al p<re>se<n>te
-coger esta fresca rosa, o p<ar>a hablar claro, religiosa glosa ((q<ue> tal no<m>bre
-me parescio ponelle)) p<ar>a q<ue> salida en publico todos goze<n> de su olor.
-Engan~ar se ha quie<n> por esta obra quisiere juzgar la sciencia del au-
+coger esta fresca rosa, o p<ar>a hablar claro, religiosa glosa ≺q<ue> tal no<m>bre
+me parescio ponelle≻ p<ar>a q<ue> salida en publico todos goze<n> de su olor.
+Engañar se ha quie<n> por esta obra quisiere juzgar la sciencia del au-
 ctor: harto es q<ue> en ella vera vn basta<n>te indicio de su mucha suficie<n>-
 cia. Otras obras suyas de mas calidad se podria<n> sacar a la luz, sino pa-
 reciese ostentacion. Y si yo p<ro>cure q<ue> saliesse esta: fue co<n> temor q<ue> por
 huir mucho la vanagloria: no cayessemos en neglige<n>cia. Assi q<ue> no-
-ble sen~or, reciba la glosa de mi aficion: impressa en las entran~as de
+ble señor, reciba la glosa de mi aficion: impressa en las entrañas de
 mi buena volu<n>tad, q<ue> en lo q<ue> toca a su seruicio, pues al hijo te<n>go por
-padre, resta que al padre tenga por sen~or.
-{RUB. % Breue annotacion del auctor para que la obra
+padre, resta que al padre tenga por señor.
+{RUB. ¶ Breue annotacion del auctor para que la obra
 mejor se entienda.}
-% Auiso al prudente Lector que
-do<n>de quiera que hallare esta diction ((prosigue)) entre dos coplas da a
+¶ Auiso al prudente Lector que
+do<n>de quiera que hallare esta diction ≺prosigue≻ entre dos coplas da a
 entender que la sentencia que quedo suspensa en la primera, se vie-
 ne a perfectionar en la segunda. Ansi mesmo notara que donde
-quiera que esta en el texto esta diction ((pues)) yo puse en la glosa esta
-sen~al {SYMB: cross.} que da a entender que alli empiec'a sentencia de nueuo.}
+quiera que esta en el texto esta diction ≺pues≻ yo puse en la glosa esta
+señal {SYMB: cross.} que da a entender que alli empieça sentencia de nueuo.}
 [fol. 6r]
 {CB1.
 {RMK: HSMS-0358-0002: Coplas por la muerte de su padre.} {RUB. Copla .j.}
@@ -298,10 +298,10 @@ qualquiera tiempo passado
 fue mejor.}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
-Nuestra bienauenturanc'a
+Nuestra bienauenturança
 sufre con tanta clemencia
 nuestro errar
-q<ue> pudie<n>do auer venganc'a
+q<ue> pudie<n>do auer vengança
 mas quiere tener paciencia
 y esperar
 por tanto pues dios oluida
@@ -311,14 +311,14 @@ Sospirando
 abiue el seso y despierte
 contemplando
 Agradezca la nobleza
-de que dios la acompan~o
+de que dios la acompaño
 tan pujante
 quando en su naturaleza
 asi mismo la crio
 semejante
 mire bien y no le impida
 la carne que lo diuierte
-retoc'ando
+retoçando
 {RUB. B} como se pasa la vida
 como se viene la muerte
 tan callando}
@@ -332,7 +332,7 @@ si mira los verdaderos
 del segundo
 y si bien lo quiere ver
 mire en su mas alto grado
-de dulc'or
+de dulçor
 {RUB. C} quan presto se va el plazer
 como despues de acordado
 da dolor
@@ -357,7 +357,7 @@ y acabado
 {RUB. B} si juzgamos sabiamente
 daremos lo no venido
 por passado
-{RUB. C} no se engan~e nadie no
+{RUB. C} no se engañe nadie no
 pensando que ha de durar
 lo que espera
 {RUB. D} mas que duro lo que vio
@@ -373,7 +373,7 @@ es trabajosa tristeza
 con pesar
 lleguese el varon prudente
 a lo eterno que es co<m>plido
-y ensalc'ado
+y ensalçado
 {RUB.} A pues q<ue> vemos lo presente
 qua<n> en vn pu<n>to se es ydo
 y acabado
@@ -400,7 +400,7 @@ su camino
 viendo pues que no duro
 cosa por mas singular
 que se ouiera
-{RUB. C} no se engan~e nadie no
+{RUB. C} no se engañe nadie no
 pensando lo que a durar
 lo que espera
 No tengas por verdaderas
@@ -421,7 +421,7 @@ por tal manera}
 {RUB. A} Nuestras vidas son los rios
 que van a dar a la mar
 que es el morir
-{RUB. B} alla van los sen~orios
+{RUB. B} alla van los señorios
 derechos a se acabar
 y consumir
 {RUB. C} alli los rios caudales
@@ -437,7 +437,7 @@ dela muerte con buen tino
 y compasado
 ala postre no podemos
 escusar nuestro camino
-comenc'ado
+començado
 para que es hazer desuios
 pues para bien comparar
 sin mentir
@@ -445,7 +445,7 @@ sin mentir
 que van a dar a la mar
 que es el morir
 es mar de tanta hondura
-y en tales brac'os partida
+y en tales braços partida
 y de tal massa
 que qual quiera criaturas
 da por pasaje la vida
@@ -453,17 +453,17 @@ si lo pasa
 alla grandes poderios
 muy presurosos a entrar
 y no salir
-{RUB. B} alla van los sen~orios
+{RUB. B} alla van los señorios
 derechos a se acabar
 y consumir}
 {CB2.
 {RUB. Glosa}
 Con su mano vniuersal
 no tenie<n>do quien la mande
-sino vn duen~o
+sino vn dueño
 a todo lo haze ygual
 al mas humilde y al gra<n>de
-y al pequen~o
+y al pequeño
 alli paran las reales
 fuentes y los mas te<m>pranos
 arroycos
@@ -585,7 +585,7 @@ por medio de mil passiones
 cercados de mil pesares
 caminamos
 asi se gana contino
-nuestra holganc'a esperada
+nuestra holgança esperada
 y singular
 {RUB. B} mas cu<m>ple tener buen tino
 para andar esta jornada
@@ -641,7 +641,7 @@ que sin este no gozamos
 del segundo
 si atendemos qual y que
 bien y prouecho conel
-alcanc'aremos
+alcançaremos
 {RUB. A} este mundo bueno fue
 si bien vsasemos del
 como deuemos
@@ -649,7 +649,7 @@ N<uest>ras obras maldigamos
 si alguna se declino
 a malobrar
 q<ue> el mundo si bien pe<n>samos
-jamas a nadie forc'o
+jamas a nadie forço
 en el pecar
 antes digo y cierto se
 que no quiere dios que del
@@ -675,7 +675,7 @@ Descendio el brauo leon
 tornando manso cordero
 sin desden
 y en noble conuersacion
-se nos hizo compan~ero
+se nos hizo compañero
 nuestro bien
 y junto a animales dos
 sin regalo ni consuelo
@@ -696,7 +696,7 @@ angelical
 tuuieramos cada hora
 y tan presta
 {RUB. D} en componer la captiua
-y dexando la sen~ora
+y dexando la señora
 descompuesta}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
@@ -715,7 +715,7 @@ Corporal
 O con quan pujante gana
 veriamos negociar
 los humanos
-en boluer la faz loc'ana
+en boluer la faz loçana
 del hediondo manjar
 de gusanos
 si entre nos pudiesse ser
@@ -723,7 +723,7 @@ tan cierta y possible cosa
 esta tal
 {RUB. B} como podemos hazer
 el anima gloriosa
-angelical {RUB. % Prosigue.}}
+angelical {RUB. ¶ Prosigue.}}
 {CB2.
 {RUB. Glosa}
 Y si nos diera natura
@@ -748,7 +748,7 @@ nuestro saber aqui estriua
 y en aquesto solo mora
 su requesta
 {RUB. D} en componer la captiua
-y dexando la sen~ora
+y dexando la señora
 descompuesta}
 {SG. B}
 [fol. 9v]
@@ -771,7 +771,7 @@ desfallescen}
 En buscar altos estados
 se passa nuestro biuir
 como muerto
-y cuando son alcanc'ados
+y cuando son alcançados
 nos sobre viene el morir
 que es mas cierto
 ved a que vino el heruor
@@ -780,14 +780,14 @@ quasi ardemos
 {RUB. A} ved de quan poco valor
 con las cosas tras q<ue> andamos
 y corremos
-Mas en fin si ya se alcanc'a
+Mas en fin si ya se alcança
 la riqueza desseada
 aquella vez
-paresce que da esperanc'a
+paresce que da esperança
 de vida mas descansada
 en la vejez
 pero aquesto aun es peor
-de las cosas q<ue> alcanc'amos
+de las cosas q<ue> alcançamos
 y tenemos
 {RUB. B} que es este mundo traydor
 aun primero que muramos
@@ -801,7 +801,7 @@ en nuestros mezquinos dias
 desbaratan estas cosas
 transitorias
 dellas qua<n>do en mocedad
-los an~os mas esforc'ados
+los años mas esforçados
 reuerdescen
 {RUB. C} dellas deshaze la edad
 dellas casos desastrados
@@ -827,8 +827,8 @@ de la cara
 {RUB. B} el color y la blancura
 quando viene la vejez
 qual se para
-{RUB. C} las man~as y ligereza
-y la fuerc'a corporal
+{RUB. C} las mañas y ligereza
+y la fuerça corporal
 de juuentud
 {RUB. D} todo se torna g[r]aueza
 quando llega al arrabal
@@ -842,11 +842,11 @@ porque con biuos desseos
 a las cosas perdurables
 no corremos?
 quiero os preguntar natura
-que pintays nuestra nin~ez
+que pintays nuestra niñez
 turbia o clara
 {RUB. A} dezid me la hermosura
 la gentil frescura y tez
-de la cara {RUB. % Prosigue}
+de la cara {RUB. ¶ Prosigue}
 El muy sereno semblante
 la gracia de ojos y cejas
 perfiladas
@@ -870,8 +870,8 @@ y emprestado
 viendo que boluio en torpeza
 la madrastra principal
 de la salud
-{RUB. C} las man~as y ligereza
-y la fuerc'a corporal
+{RUB. C} las mañas y ligereza
+y la fuerça corporal
 de iuuentud
 Lo q<ue> nos mata y destruye
 es nuestro bien y plazer
@@ -941,7 +941,7 @@ con que penen
 {RUB. C} vnos por poco valer
 por quan baxos y abatidos
 que los tienen
-Los ruynes sie<m>pre ensalc'ados
+Los ruynes sie<m>pre ensalçados
 malsines en dignidades
 mas que quieren
 y los buenos afrontados
@@ -960,7 +960,7 @@ se mantienen}
 que nos dexen a desora
 quien lo duda
 {RUB. B} no les pidamos firmezas
-pues que son de vna sen~ora
+pues que son de vna señora
 que se muda
 {RUB. C} que bienes son de fortuna
 que se bueluen co<n> su rueda
@@ -976,7 +976,7 @@ y no estable
 quanto mas lo que procura
 de nos prestar la fortuna
 variable
-si de fuerc'a y gentilezas
+si de fuerça y gentilezas
 la misma componedora
 nos desnuda
 {RUB. A} los estados y riquezas
@@ -984,7 +984,7 @@ que nos dexen adesora
 quien lo duda
 Uiendo pues tal perdicion
 donde a sabiendas biuimos
-engan~ados
+engañados
 busquemos consolacion
 en solo aquel por q<u><<i>>en fuimos
 remediados
@@ -992,7 +992,7 @@ que los aueres y altezas
 aunque la fortuna agora
 bien acuda
 {RUB. B} no les pidamos firmezas
-pues que son de vna sen~ora
+pues que son de vna señora
 que se muda}
 {CB2.
 {RUB. Glosa}
@@ -1024,12 +1024,12 @@ en vna cosa}
 [fol. 11v]
 {CB1.
 {RMK: HSMS-0358-0002: Coplas por la muerte de su padre.} {RUB. Copla .xij.}
-{RUB. A } Pero digo que acompan~en
+{RUB. A } Pero digo que acompañen
 y lleguen hasta la huessa
-con su duen~o
-{RUB. B} por esso no nos engan~en
+con su dueño
+{RUB. B} por esso no nos engañen
 que se va la vida a priessa
-como suen~o
+como sueño
 {RUB. C} y los deleytes de aca
 son en quie<n> nos deleytamos
 temporales
@@ -1044,24 +1044,24 @@ tan liuianos
 que a penas son adquiridos
 quando asi se nos desfazen
 entre manos
-dan fe no por que nos dan~en
+dan fe no por que nos dañen
 y al menos tiempo les cessa
-lo risuen~o
-{RUB. A} pero digo que acompan~en
+lo risueño
+{RUB. A} pero digo que acompañen
 y lleguen hasta la huessa
-con su duen~o {RUB. Prosigue.}
+con su dueño {RUB. Prosigue.}
 Cierto muchos son passados
 de los quales somos ciertos
 que murieron
 que ricos y prosperados
 hasta el tie<m>po de ser muertos
 siempre fueron
-mas aun que contino apan~en
+mas aun que contino apañen
 todo el tiempo con promessa
-de su empen~o
-{RUB. B} por eso no nos engan~en
+de su empeño
+{RUB. B} por eso no nos engañen
 que se va la vida apriessa
-como suen~o}
+como sueño}
 {CB2.
 {RUB. Glosa}
 O diuina magestad
@@ -1091,22 +1091,22 @@ eternales}
 [fol. 12r]
 {CB1.
 {RMK: HSMS-0358-0002: Coplas por la muerte de su padre.} {RUB. Copla .xiij.}
-{RUB. A} Los plazeres y dulc'ores
+{RUB. A} Los plazeres y dulçores
 desta vida trabajada
 que tenemos
 {RUB. B} que son sino corredores
 y la muerte la celada
 en que caemos?
-{RUB. C} no mirando nuestro dan~o
+{RUB. C} no mirando nuestro daño
 corremos a rienda suelta
 sin parar
-{RUB. D} quando vemos el engan~o
+{RUB. D} quando vemos el engaño
 y queremos dar la buelta
 no ay lugar}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
 Mas lo q<ue> mas me hostiga
-y es sen~al que esta encendido
+y es señal que esta encendido
 tu furor
 es ver que aqui no castiga
 tu mano al endurescido
@@ -1114,10 +1114,10 @@ peccador
 y ansi infernales ardores
 se nos guardan por posada
 do paguemos
-{RUB. A} los plazeres y dulc'ores
+{RUB. A} los plazeres y dulçores
 desta vida trabajada
 que tenemos
-Quan claro nos engan~ays
+Quan claro nos engañays
 viles plazeres mundanos
 por tal modo
 que nunca jamas holgays
@@ -1137,10 +1137,10 @@ y nobleza
 de tus deleytes prendidos
 captiuos de tus plazeres
 y riqueza
-en tu campo muy estran~o
+en tu campo muy estraño
 sin temer la gran rebuelta
 del tornar
-{RUB. C} no mirando nuestro dan~o
+{RUB. C} no mirando nuestro daño
 corremos a rienda suelta
 sin parar
 Donde ymos caualleros
@@ -1149,10 +1149,10 @@ y sin senda
 son cauallos muy ligeros
 y ciegos y desbocados
 y sin rienda
-lleuan nos al hondo van~o
+lleuan nos al hondo vaño
 do esta mucha ge<n>te embuelta
 a ahogar
-{RUB. D} quando vemos engan~o
+{RUB. D} quando vemos engaño
 y queremos dar la buelta
 no ay lugar}
 {SG. B iiij}
@@ -1312,7 +1312,7 @@ nos paresces
 ser sin lealtad alguna
 con aquellos que prosperas
 y enrriquesces
-di ponc'on~a y soliman
+di ponçoña y soliman
 de quantos a tu meson
 se acogeron
 {RUB. A} que se hizo el rey don Juan
@@ -1367,8 +1367,8 @@ de los fuegos encendidos
 de amadores?
 {RUB. C} que se hizo aquel trobar
 las musicas acordadas
-que tan~ian
-{RUB. D} que se hizo aquel danc'ar
+que tañian
+{RUB. D} que se hizo aquel dançar
 aquellos ropas chapadas
 que trayan}
 {CB2.
@@ -1386,8 +1386,8 @@ seruidores
 sus tocados sus vestidos
 sus olores
 Lo que veo y lo que hallo
-en tu dan~osa y cruel
-compan~ia
+en tu dañosa y cruel
+compañia
 es ver que a tu mas vassallo
 mas ayna hazes del
 carneceria
@@ -1410,7 +1410,7 @@ de aquellas incruzijadas
 de morian
 {RUB. C} que se hizo aq<ue>l trobar
 Las musicas acordadas
-que tan~ian
+que tañian
 Toda la curiosidad
 desta corte tan honrrada
 que passo
@@ -1420,7 +1420,7 @@ no se vio
 que se hizo aquel mirar
 con que las damas preciadas
 mas prendian
-{RUB. D} que se hizo aquel danc'ar
+{RUB. D} que se hizo aquel dançar
 aq<ue>llas ropas chapadas
 que trayan}
 [fol. 14v]
@@ -1428,7 +1428,7 @@ que trayan}
 {RMK: HSMS-0358-0002: Coplas por la muerte de su padre.} {RUB. Copla .xviij.}
 {RUB. A} Pues el otro su heredero
 don Enrrique que poderes
-alcanc'aua?
+alcançaua?
 {RUB. B} qua<n> blando y qua<n> halaguero
 el mundo con sus plazeres
 se le daua
@@ -1451,9 +1451,9 @@ este rey con los plazeres
 en que estaua
 {RUB. A} pues el otro su heredero
 don Enrrique que poderes
-alcanc'aua? {RUB. Prosigue.}
+alcançaua? {RUB. Prosigue.}
 O quan prospero y luzido
-fue los diez an~os primeros
+fue los diez años primeros
 su reynado
 quan amado y quan temido
 se vio de sus caualleros
@@ -1486,7 +1486,7 @@ y asi de toda Castilla
 perseguido
 conozcamos como digo
 aun que con este fiel
-comenc'o
+començo
 {RUB. D} auiendo le sido amigo
 quan poco duro con el
 lo que le dio}
@@ -1538,8 +1538,8 @@ vino en tanto abatimiento
 y disfauor
 que en Simancas solamente
 hallo se y conoscimiento
-de sen~or
-pues fue forc'oso dexallos
+de señor
+pues fue forçoso dexallos
 que fueron sus poderios
 y ditados
 {RUB. C} los jaezes y cauallos
@@ -1564,7 +1564,7 @@ de los prados}
 que en su vida successor
 se llamo
 {RUB. B} que corte tan excelente
-tuuo: y quanto gran sen~or
+tuuo: y quanto gran señor
 que le siguio
 {RUB. C} mas como fuesse mortal
 metio lo la muerte luego
@@ -1594,9 +1594,9 @@ le paso de vn passador
 heruolado
 que principio tan plaziente
 de gloria fama y honor
-alcanc'o
+alcanço
 {RUB. B} que corte tan excellente
-tuuo: y quanto gran sen~or
+tuuo: y quanto gran señor
 que le siguio}
 {CB2.
 {RUB. Glosa}
@@ -1655,7 +1655,7 @@ maestre que conoscimos
 tan priuado {RUB. Prosigue.}
 aquel sabio aquel prude<n>te
 tan valeroso y tenido
-y gran sen~or
+y gran señor
 tan rico tan eloquente
 en las letras tan sabido
 y en fauor tan amigo y fauorable
@@ -1680,10 +1680,10 @@ sus villas y sus lugares
 y mandar
 Este q<ue> en tanta aparencia
 fortuna nos prometio
-por gran piec'a
+por gran pieça
 dada en Burgos la sente<n>cia
 en Ualladolid perdio
-la cabec'a
+la cabeça
 sus sieruos blancos y loros
 sus riquezas singulares
 y allegar
@@ -1701,7 +1701,7 @@ traxeron tan sojuzgados
 a sus leyes
 {RUB. C} aquella prosperidad
 que tan alta fue subida
-y ensalc'ada
+y ensalçada
 {RUB. D} que fue sino claridad
 que estando mas encendida
 fue amatada}
@@ -1709,7 +1709,7 @@ fue amatada}
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
 Mas por q<ue> con tal tristeza
 nos quexamos q<ue> se atreue
-esta sen~ora
+esta señora
 pues no guarda su firmeza
 si no quando se nos mueue
 cada ora
@@ -1720,10 +1720,10 @@ como bueyes
 maestres tan prosperados
 como reyes {RUB. Prosigue.}
 {SYMB: cross.} A los quales sin temor
-quando vio mas en esfuerc'o
+quando vio mas en esfuerço
 su ditado
 luego les quemo la flor
-con la buelta de su cierc'o
+con la buelta de su cierço
 arrebatado
 despues q<ue> muy soberanos
 los hizo y tan sublimados
@@ -1743,7 +1743,7 @@ pues tan presto fue abatida
 y acabada
 {RUB. C} aquella prosperidad
 que tan alta fue subida
-y ensalc'ada
+y ensalçada
 Quien preciara tus aueres
 quien cobdicia tu nobleza
 y tu mandar
@@ -1765,11 +1765,11 @@ y varones
 {RUB. B} como vimos tan potentes
 di muerte do los escondes
 y traspones
-{RUB. C} y sus muy claras hazan~as
+{RUB. C} y sus muy claras hazañas
 que no hizieron en las guerras
 y en las pazes
-{RUB. D} quando tu cruel te ensan~as
-con tu fuerc'a los atierras
+{RUB. D} quando tu cruel te ensañas
+con tu fuerça los atierras
 y deshazes}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
@@ -1805,23 +1805,23 @@ temerosa
 o si pudo defender
 su cuydado tu presteza
 congoxosa
-sus auenturas estran~as
+sus auenturas estrañas
 su gloria do la destierras
 que la haze?
-{RUB. C} y sus muy claras hazan~as
+{RUB. C} y sus muy claras hazañas
 que hizieron en las guerras
 y en las pazes {RUB. Prosigue.}
 O si con tiempo dexaran
 al mundo fasto mezquino
-y engan~oso
+y engañoso
 quan sueltos q<ue> se hallaran
 para seguir tu camino
 trabajoso
-pues q<ue> sus fuerc'as y man~as
-sus sen~orios y tierras
+pues q<ue> sus fuerças y mañas
+sus señorios y tierras
 y sus hazes
-{RUB. D} Quando tu cruel te ensan~as
-con tu fuerc'a los atierras
+{RUB. D} Quando tu cruel te ensañas
+con tu fuerça los atierras
 y deshazes}
 {SG. C}
 [fol. 17v]
@@ -1867,13 +1867,13 @@ los muros y baluartes
 y barreras}
 {CB2.
 {RUB. Glosa}
-So<n> tus fuerc'as muy sobradas
+So<n> tus fuerças muy sobradas
 y tu poder sobre nos
 valeroso
 por que son siempre guiadas
 por la voluntad de dios
 poderoso
-pues si del va enderec'ada
+pues si del va endereçada
 tu saeta sin desuaro
 tan derecha
 {RUB. C} la caua honda chapada
@@ -1914,10 +1914,10 @@ la victoria
 que ay en ti que con verdad
 o con razon lo llamasses
 bien o gloria
-que sobre ser nos dan~oso
+que sobre ser nos dañoso
 si bien hombre no se adarga
 de su estrena
-{RUB. A} es tu comienc'o lloroso
+{RUB. A} es tu comienço lloroso
 tu salida siempre amarga
 y nunca buena
 En nasciendo nos rodeas
@@ -1953,7 +1953,7 @@ y los desastres a pares
 el mal biuir y offender
 es sin cuento
 los bienes van mas huyendo
-quanto mas con fuerc'a asidos
+quanto mas con fuerça asidos
 los ternas
 {RUB. D} los males vienen corriendo
 y despues de ya venidos
@@ -1972,7 +1972,7 @@ es la partida
 de males y de dolores
 tan poblada
 {RUB. D} de los bienes tan desierta
-de plazeres y dulc'ores
+de plazeres y dulçores
 despoblada}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
@@ -2005,7 +2005,7 @@ es la partida}
 Quien no tiene de holgar
 al tiempo de su partir
 sin gran yerro
-pues alli se viene a alc'ar
+pues alli se viene a alçar
 y del todo concluyr
 su destierro
 mayormente si se acierta
@@ -2015,27 +2015,27 @@ la jornada
 de males y de dolores
 tan poblada
 Que asi q<ue> mas cubrir te q<u><<i>>eras
-disfr(e)[a]c'ado en los plazeres
-con que engan~as
+disfr(e)[a]çado en los plazeres
+con que engañas
 por otras cient mil maneras
 manifiestas quien tu eres
-y tus man~as
+y tus mañas
 y tu triste vida muerta
 de congoxas y temores
 rodeada
 {RUB. D} de los bienes tan desierta
-de plazeres y dulc'ores
+de plazeres y dulçores
 despoblada}
 [fol. 19r]
 {CB1.
-{RUB. % Las nueue coplas que se siguen
+{RUB. ¶ Las nueue coplas que se siguen
 son todas de do<n> Jorge las quales ni el otro glosador toco ni yo las
 entiendo glosar: por no confundir su continuada y sabrosa sentencia.
 Y por que apenas se podria hacer mucho fructo de su glosar con ga-
 star se en tocar historias que son fuera del proposito de nuestro pro-
 cesso. Bien caeran los discretos en lo que digo. Y por que se gastan
 en alabar al maestre: y tengo temor de mi insufficiencia no suba a lo
-increyble: o baxelo tambien ensalc'ado. Las coplas son estas}
+increyble: o baxelo tambien ensalçado. Las coplas son estas}
 {RUB. De don Jorge.}}
 {CB2.
 {RMK: HSMS-0358-0002: Coplas por la muerte de su padre.} Aquel de buenos abrigo
@@ -2051,16 +2051,16 @@ ni los quiero hazer caros
 pues el mundo todo sabe
 quales fueron
 Amigo de sus amigos
-Que sen~or para criados
+Que señor para criados
 y parientes
 que enemigo de enemigos
-que maestre de esforc'ados
+que maestre de esforçados
 y valientes
 que seso para discretos
 que gracia para donosos
 que razon
 que benigno a los subjetos
-y a los brauos y dan~osos
+y a los brauos y dañosos
 vn leon}
 {CB2.
 En ventura Octauiano
@@ -2072,7 +2072,7 @@ y trabajar
 en la bondad vn Trajano
 Tito en liberalidad
 con alegria
-en sus brac'os vn Troyano
+en sus braços vn Troyano
 Marco attilio en la verdad
 que prometia
 Antonio pio en clemencia
@@ -2091,7 +2091,7 @@ de su tierra}
 [fol. 19v]
 {CB2.
 No dexo gra<n>des thesoros
-Ni alcanc'o gra<n>des riquezas
+Ni alcanço gra<n>des riquezas
 ni baxillas
 mas hizo guerras a los moros
 ganando sus fortalezas
@@ -2124,7 +2124,7 @@ en su senectud}
 por su gran abilidad
 por meritos y anciania
 bien gastada
-alcanc'o la dignidad
+alcanço la dignidad
 por su grande valentia
 de la espada
 Y sus villas y sus tierras
@@ -2144,20 +2144,20 @@ tantas vezes por su ley
 al tablero
 despues de tambien seruida
 la corona de su rey
-despues de tanta hazan~a
+despues de tanta hazaña
 en que nos puede bastar
 cuenta cierta
-en la su villa de Ocan~a
+en la su villa de Ocaña
 vino la muerte a llamar
 a su puerta}
 [fol. 20r]
 {CB1.
 {RUB. Copla .xxxvj.}
 {RUB. A} Diziendo buen cauallero
-dexad el mundo engan~oso
+dexad el mundo engañoso
 con halago
-{RUB. B} vuestro corac'on de azero
-muestre su esfuerc'o famoso
+{RUB. B} vuestro coraçon de azero
+muestre su esfuerço famoso
 en este trago
 {RUB. C} pues de vida y de salud
 fezistes tan poca cuenta
@@ -2173,15 +2173,15 @@ que su temporal carrera
 se parasse
 por que esta vida acabada
 la otra que es verdadera
-comenc'asse
+començasse
 vino el dulce mensajero
-aun que al malo muy dan~oso
+aun que al malo muy dañoso
 y aziago
 {RUB. A} diziendo buen cauallero
-dexad el mundo engan~oso
+dexad el mundo engañoso
 co<n> halago {RUB. Prosigue la muerte}
 Pues sabeys que no gozays
-de vuestra espera<n>c'a cierta
+de vuestra espera<n>ça cierta
 y venturosa
 si primero no passays
 con entera fe mi puerta
@@ -2189,8 +2189,8 @@ temerosa
 aun que lo perescedero
 pierda todo lo fermoso
 con mi estrago
-{RUB. B} vuestro corac'on de azero
-muestre su esfuerc'o famoso
+{RUB. B} vuestro coraçon de azero
+muestre su esfuerço famoso
 en este trago}
 {CB2.
 {RUB. Glosa}
@@ -2262,7 +2262,7 @@ de fama tan gloriosa
 aca dexays}
 {CB2.
 {RUB. Glosa}
-Puesto que ayays alca<n>c'ado
+Puesto que ayays alca<n>çado
 fama valor y saber
 y discrecion
 no por tanto dios ha dado
@@ -2303,15 +2303,15 @@ con trabajos y afliciones
 contra moros}
 {CB2.
 {RMK: HSMS-0358-0001: Glosa religiosa y muy cristiana.} {RUB. Glosa}
-quered pues sen~or dexar
+quered pues señor dexar
 lo que ni podeys tener
 ni leuar lo
-pues comenc'ays a tomar
+pues començays a tomar
 lo que aueys de posseer
 sin dexar lo
 si quereys que claro os hable
 sin rodeos sin traslados
-sin sen~ales
+sin señales
 {RUB. A} el biuir que es perdurable
 no se gana con estados
 mundanales
@@ -2329,7 +2329,7 @@ donde moran los peccados
 infernales}
 {CB2.
 {RUB. Glosa}
-El corac'on distraydo
+El coraçon distraydo
 y rebuelto con el feruor
 de lo mundano
 como estara recogido
@@ -2362,10 +2362,10 @@ de paganos
 {RUB. B} esperad el galardon
 que en este mundo ganastes
 por las manos
-{RUB. C} y con esta confianc'a
+{RUB. C} y con esta confiança
 y con la fe tan entera
 que teneys
-{RUB. D} partid con esta esperanc'a
+{RUB. D} partid con esta esperança
 que la otra vida tercera
 ganareys}
 {CB2.
@@ -2402,10 +2402,10 @@ que buscays
 pensad que es esto liuiano
 y que es reyno duradero
 donde vays
-pues oistes buena andanc'a
+pues oistes buena andança
 partid que desta manera
 llegareys
-{RUB. C} y con esta confianc'a
+{RUB. C} y con esta confiança
 y con la fe tan entera
 que teneys {RUB. Prosigue.}
 Si gustassedes los dones
@@ -2414,10 +2414,10 @@ y sin par
 todas estas mis razones
 os serian enojosas
 sin dudar
-y pues ya hazeys mudanc'a
+y pues ya hazeys mudança
 y otras vidas como quiera
 no quereys
-{RUB. D} partid con esta esperanc'a
+{RUB. D} partid con esta esperança
 que la otra vida tercera
 ganareys}
 [fol. 22r]
@@ -2465,7 +2465,7 @@ para todo}
 {CB2.
 {RUB. Glosa}
 Y vos cierto mensajero
-comienc'o de nueva vida
+comienço de nueva vida
 bien venga ya
 muchas gracias os refiero
 pues ansi nuestra partida
@@ -2535,7 +2535,7 @@ como el hombre}
 Pues ves mi alma mezquina
 tan fieramente llagada
 del pecado
-pon le sen~or medicina
+pon le señor medicina
 con que sea remediada
 en este estado
 lieua la a tus aposentos
@@ -2547,7 +2547,7 @@ en tu persona
 Tu que con sobrado amor
 passaste por esta suerte
 en min[i]atura
-por que con tu gran dulc'or
+por que con tu gran dulçor
 perdiese la triste muerte
 su amargura
 tu que nos feziste esentos
@@ -2579,20 +2579,20 @@ que adoraua
 con tanta fe y deuocion
 como de tan buen christiano
 se esperaua
-y comenc'o se a tender
-los brac'os junto a las manos
+y començo se a tender
+los braços junto a las manos
 muy cruzados
 {RUB. A} assi con tal entender
 todos sentidos humanos
 conseruados
 Estando en aquella lid
-segun que por sus sen~ales
+segun que por sus señales
 parescio
 no menos mostro su ardid
 que en las guerras corporales
 que vencio
 consuelo daua en le ver
-acompan~ado de ancianos
+acompañado de ancianos
 muy honrrados
 {RUB. B} Cercado de su muger
 y de sus hijos y hermanos
@@ -2612,7 +2612,7 @@ la victoria
 el qual la ponga en el cielo
 y en su gloria
 deuemos los q<ue> quedamos
-con tanto esfuerc'o lidiar
+con tanto esfuerço lidiar
 en este mundo
 que en esta muerte podamos
 con don Rodrigo gozar
@@ -2626,7 +2626,7 @@ su memoria
 {RUB. FJN.}}
 [fol. 23v]
 {CB1.
-{RUB. % En loor del glosador.}}
+{RUB. ¶ En loor del glosador.}}
 {CB2.
 Don de gran sabiduria
 obra de dulce memoria
@@ -2672,20 +2672,20 @@ rezen las letras primeras}
 [fol. 24r]
 {CB1.
 {SYMB: cross.}
-{RUB. % A gloria y alabanc'a de dios to-
-do poderoso y de su gloriosissima madre y sen~ora nuestra/ para emie<n>-
+{RUB. ¶ A gloria y alabança de dios to-
+do poderoso y de su gloriosissima madre y señora nuestra/ para emie<n>-
 da y exemplo de nuestras vidas se acaba la excele<n>tissima prouecho-
 sa y muy conte<m>platiua glosa sobre las moralidades y doctrinas fa-
 mosissimas de don Jorge Manrrique que co<m>puso y gloso el magni-
-fico y muy reuere<n>do padre el sen~or do<n> Rodrigo de Ualdepen~as me-
-ritissimo prior de la Cartuxa en nuestra sen~ora del Paular/ la qual
+fico y muy reuere<n>do padre el señor do<n> Rodrigo de Ualdepeñas me-
+ritissimo prior de la Cartuxa en nuestra señora del Paular/ la qual
 se imprimio en la florentissima y muy insigne vniuersidad de
 Alcala de Henares en casa de Joan de Brocar/ vista
-primero y aprouada por el muy reuerendo sen~or
-el sen~or Licenciado Pedro de la Gasca/ Uica-
+primero y aprouada por el muy reuerendo señor
+el señor Licenciado Pedro de la Gasca/ Uica-
 rio general en esta metropoli de Toledo/
-a .xxv. dias del mes de Mayo. An~o
+a .xxv. dias del mes de Mayo. Año
 del nascimiento de nuestro se-
-n~or Jesu christo de mil
+ñor Jesu christo de mil
 y quinientos y
 quarenta.}}

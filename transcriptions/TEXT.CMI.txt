@@ -6,7 +6,7 @@
 {RMK: Francisco Gago Jover.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0538-0001: Tratado sobre la materia de los indios que se han hecho esclavos.} {ILL. % Este es un tratado q<ue>
+{RMK: HSMS-0538-0001: Tratado sobre la materia de los indios que se han hecho esclavos.} {ILL. ¶ Este es un tratado q<ue>
 el obispo dela ciudad Real de Chiapa do<n>
 fray Bartholome de las Casas/ o Casaus
 compuso/ por comission del Consejo Real
@@ -23,11 +23,11 @@ otras que al
 p<re>sente los
 ho<m>bres
 el tie<m>po de agora tratan.
-An~o 1552.
+Año 1552.
 {SYMB: fleuron.} {SYMB: cross.} {SYMB: fleuron.}}}
 [fol. 1v]
 {CB1.
-{RUB. % Argumento del siguien-
+{RUB. ¶ Argumento del siguien-
 te tractado.}
 {IN6. {MIN.}} EL obispo dela ciudad
 Real de Chiapa don fray Bartholo-
@@ -36,7 +36,7 @@ me delas casas/ o casaus como tratasse
 Jndias importuname<n>te: sobre la liber-
 tad & remedio general de los Jndios
 y entre otras partes de sus negocios/ fuesse suplicar: q<ue>
-los yndios que tenian los Espan~oles que propiamente
+los yndios que tenian los Españoles que propiamente
 llamauan ellos esclauos: se pusiessen todos en libertad
 allegando que ni vno de ynumerables que se han teni-
 do & tienen: no ha habido justa ni legitima: sino los que
@@ -47,36 +47,36 @@ metio al dicho obispo que diesse por escripto lo que de-
 sta materia sentia. El qual en complimiento del dicho
 mandado & comission real: puso la siguiente conclusion
 con tres corrolarios que son como tres ramas: que ne-
-cessariamente nascen dela verdad con sus prouanc'as.
+cessariamente nascen dela verdad con sus prouanças.
 Enlas quales muestra muy claro la justicia/ o injusticia
 con que se hizieron/ o pudieron hazer en aquel orbe de
 las Jndias/ los yndios que han tenido y tienen los Es-
-pan~oles por esclauos: y la obligacion que ay para liber-
+pañoles por esclauos: y la obligacion que ay para liber-
 tallos.}
 [fol. 2r]
 {CB1.
-{RUB. % Prologo del Obispo para
-los inclitos sen~ores del consejo Real delas Jndias }
-{RUB. % Muy poderosos sen~ores.}
+{RUB. ¶ Prologo del Obispo para
+los inclitos señores del consejo Real delas Jndias }
+{RUB. ¶ Muy poderosos señores.}
 {IN4.} POrq<ue> Uuestra alteza me
 mando que diesse por escripto: lo q<ue> sentia/
 o entendia cerca/ dela materia delos Jndi-
 os que se han hecho esclauos y con titulo d<e>
-esclauos los posseen los espan~oles enlas yndias: pares-
+esclauos los posseen los españoles enlas yndias: pares-
 ciome que seria a vuestra alteza mas agradable por sus
 frequentissimas occupaciones dar mi parecer compen-
 diosamente por la siguiente conclusion con su prueua y
 corrolarios que della dependen.
-{RUB. % Conclusion.}
+{RUB. ¶ Conclusion.}
 {IN3.} TOdos los yndios que se
 ha<n> hecho esclauos e<n>las yndias d<e>l mar Occe-
 ano: desde que se descubrieron hasta oy: an
-sido injustamente hechos esclauos: y los Espan~oles po-
+sido injustamente hechos esclauos: y los Españoles po-
 sseen a los que oy son biuos por la mayor parte con ma-
 la consciencia: aunq<ue> sean delos q<ue> ouieron delos Jndios
-% La primera parte desta conclusion/ se prueua por es-
+¶ La primera parte desta conclusion/ se prueua por es-
 ta razon generalmente: porq<ue> la meno(s)[r] y menos fea & in-
-justa causa que los espan~oles pudieron auer tenido pa-
+justa causa que los españoles pudieron auer tenido pa-
 ra hazer alos yndios esclauos: era mouie<n>do co<n>tra ellos
 injustas guerras: pues por esta causa: de injustas guer-ras:}
 {SG. a ij}
@@ -87,12 +87,12 @@ clauo: luego todos los esclauos q<ue> se han hecho enlas in-
 dias desde que se descubriero<n> hasta oy: han sido hechos
 injustamente esclauos. La menor razon deste argumen-
 to es manifiesta: lo que suppone que es no auer tenido
-los Espan~oles contra los Jndios jamas justa guerra
+los Españoles contra los Jndios jamas justa guerra
 en ninguna parte delas yndias hasta oy: prueuo lo des-
 ta manera. Porque nunca jamas ouo causa ni razon
 justa para hazella: ni tampoco ouo auctoridad del prin-
 cipe: y estas son dos razones q<ue> justifican q<u><<a>>lquiera guer-
-ra ((conuiene a saber)) causa justa y auctoridad del prin-
+ra ≺conuiene a saber≻ causa justa y auctoridad del prin-
 cipe. Que no aya auido causa justa paresce: porq<ue> vistas
 todas las causas que justifican las guerras: ni todas ni
 alguna dellas no se hallara/ q<ue> en esta guerra concurra<n>t.
@@ -120,14 +120,14 @@ llas: nunca vuo ley diuina/ ni humana que guerra con-sintiesse}
 {CB1.
 ni permitiesse: antes la condenan todas: si[ ]no
 queremos affirmar que la ley euangelica: llena de to-
-do dulc'or/ ligereza/ blandura/ y suauidad: se deua de
+do dulçor/ ligereza/ blandura/ y suauidad: se deua de
 introduzir/ como la suya introduxo mahoma. Otra
-causa que podria auer ((conuiene a saber)) por razon de
+causa que podria auer ≺conuiene a saber≻ por razon de
 socorrer los Jnnocentes: eneste caso de agora della no
 es menester tractar. Lo vno porq<ue> nunca por nuestros
-espan~oles tal guerra se ha pretendido: sino matar/ des-
+españoles tal guerra se ha pretendido: sino matar/ des-
 pojar/ y robar los innocentes: vsurpar les sus tierras:
-sus haziendas/ sus estados/ y sen~orios. Lo otro/ por-
+sus haziendas/ sus estados/ y señorios. Lo otro/ por-
 que esta guerra es de {LAT. per accidens:} y no en todas par-
 tes auria lugar/ sino en muy poquitas: y enestas no se-
 ria guerra sino defension. Y auia de ser al modo delas
@@ -137,16 +137,16 @@ cho de mirar: y considerar muchas circunstancias que
 la justificassen: y no fuesse con mas injusticia: que las
 otras guerras. Assi como si porella podrian padescer
 mas innocentes en cuerpos y en animas: que librar se
-pretendian/ y mayores dan~os y escandalos/ infamia/
+pretendian/ y mayores daños y escandalos/ infamia/
 odio/ y aborrecimiento dela fee/ & impedimento dela
 conuersion de infinitos pueblos: y otros muchos in-
 conuinientes. Pues como por ninguna delas dichas
-causas: y no ay otras ((y si las ay a estas seran reduzi-
-bles)) los espan~oles no pudieron hazer contra los yn-
+causas: y no ay otras ≺y si las ay a estas seran reduzi-
+bles≻ los españoles no pudieron hazer contra los yn-
 dios justa guerra: luego nunca tuvieron causa justa.
-[^2#%] Que tampoco ayan tenido auctoridad del Principe:
+[^2#¶] Que tampoco ayan tenido auctoridad del Principe:
 assaz es manifiesto. Porque nunca jamas hasta oy los
-espan~oles guardaron mandado/ ley/ ni orden/ ni instru-
+españoles guardaron mandado/ ley/ ni orden/ ni instru-
 cion que los Reyes catholicos passados diero<n>: ni vna
 ni ninguna de su Magestad: enesto delas guerras: ni
 en otra cosa/ que para bien delos yndios proveydo se
@@ -156,16 +156,16 @@ ria yo a perder la vida. Para prueua desto vean se las}
 [fol. 3v]
 {CB1.
 reside<n>cias de todos los gouernadores passados: y las
-proua<n>c'as q<ue> vnos co<n>tra otros han hecho: y las informa-
+proua<n>ças q<ue> vnos co<n>tra otros han hecho: y las informa-
 ciones q<ue> cada hora aun enesta corte se pueden hazer: y ha-
 llara v<uestra> al<teza> q<ue> vno ni ningu<n> gouernador ha auido/ ni oy
-lo ay ((sacado el visorrey do<n> antonio: y el lice<n>ciado cerra-
+lo ay ≺sacado el visorrey do<n> antonio: y el lice<n>ciado cerra-
 to delos presentes: y el obispo de Cue<n>ca do<n> Sebastia<n> ra-
-mirez enlos passados)) que aya sido christiano: ni temi-
+mirez enlos passados≻ que aya sido christiano: ni temi-
 do a dios: ni guardado su ley/ ni la de sus reyes: y que
 no aya sido destruydor/ robador/ y matador injusto: de
 todo aquel linaje humano. Luego como en todas las
-guerras/ que los espan~oles contra los yndios han he-
+guerras/ que los españoles contra los yndios han he-
 cho: aya faltado verdaderamente causa justa y real au-
 ctoridad: siguese que ayan sido todas injustas: y por co<n>-
 siguiente todos los que las han hecho/ [^2#an sido] ladrones o la-
@@ -173,19 +173,19 @@ tru<n>culos/ y p<er>dones como los llama<n> los d<er>echos. Y p<ar>ece
 enla ley {LAT. hostes ff. de capti. et postlimi.} Y assi q<ue> no ayan
 podido hazer vno ni ningu<n> yndio justame<n>te y segu<n> de-
 recho esclauo: ni e<n> todas las yndias: por esta via lo aya.
-[^2#%] Que la me<n>os mala/ y menos fea & injusta causa q<ue> los espa-
-n~oles pudieron auer tenido & tuvieron: p<ar>a hazer los yn-
+[^2#¶] Que la me<n>os mala/ y menos fea & injusta causa q<ue> los espa-
+ñoles pudieron auer tenido & tuvieron: p<ar>a hazer los yn-
 dios esclauos que hizieron: era y fue mouiendo contra
 ellos injustas guerras: segun las otras fueron llenas al
 menos de mayor nequicia y deformidad: prueuase por
 esta manera. Porque todas las otras causas & vias que
-han tenido los espan~oles sin las delas guerras para ha-
+han tenido los españoles sin las delas guerras para ha-
 zer alos yndios esclauos: han sido espantables: y nunca
 vistas: ni oydas tales cautelas/ tales fraudes/ tales do-
 losas machinaciones: y exquisitas inuentiones/ y no-
 uedades de maldad: para poner en admiracion a todos
 los hombres. Para noticia delo qual: aqui referire de
-muy muchas algunas y pocas. Unos por engan~os q<ue>
+muy muchas algunas y pocas. Unos por engaños q<ue>
 hazian alos yndios que estuuiessen o viuiesen con
 ellos/ o por miedos/ o por halagos: los atrayan a su po-
 der: y despues les hazian confessar delante delas justi-cias}
@@ -199,41 +199,41 @@ do sabidores ellos mismos dela maldad. Otros prouo-
 cauan a algunos yndios malos con media arroba de
 vino/ o por vna camisa/ o otra cosa que les daua<n>: a q<ue>
 hurtassen algunos muchachos huerfanos que carecia<n>
-de padre y madre/ o los traxessen por engan~os: como pa-
+de padre y madre/ o los traxessen por engaños: como pa-
 ra combidallos: y con vna manada dellos venian se a
-los Espan~oles: y hazian les del ojo que los tomassen:
+los Españoles: y hazian les del ojo que los tomassen:
 los quales los atauan/ y metian los enlos nauios: o lle-
 uauan los por tierra/ & sin hierro vendian los por escla-
 uos. Y aquellos plagiarios primeros/ o los otros se-
 gundos que los comprauan: yuan delante del gouerna-
 dor/ o justicia y dezian que los auian comprado por es-
 clauos: y luego sin mas aueriguar los herraua<n>. Otros
-espan~oles yuan delas yslas/ especialme<n>te la espan~ola/ y
-sant Juan/ y Cuba ((dando dello auctoridad y licencia
-la audiencia y las justicias)) co<n> dos/ o tres Nauios ala
+españoles yuan delas yslas/ especialme<n>te la española/ y
+sant Juan/ y Cuba ≺dando dello auctoridad y licencia
+la audiencia y las justicias≻ co<n> dos/ o tres Nauios ala
 Tierra firme/ y[ ]a otras yslas: y de noche saltaua<n> en tier-
 ra/ y al quarto del alua estando los yndios en su pueblo
 seguros en sus camas los salteaua<n>/ y pegaua<n> fuego alas
 casas: matauan los q<ue> podian: y los q<ue> tomauan a vida/
-((de muchos saltos q<ue> hazia<n>)) hinchia<n> los nauios: y traya<n>
+≺de muchos saltos q<ue> hazia<n>≻ hinchia<n> los nauios: y traya<n>
 los a ve<n>der por esclauos. Algunas veces los ha<n> herrado
 co<n> hierro del rey enlas caras: y otras enlos muslos: O-
 tras a muchos delos yndios pusiero<n> les no<m>bres/ nabo-
-rias de por fuerc'a: confundiendo los su misma malicia:
-auiendo verguenc'a de llamarlos esclauos. Aunq<ue> como co-
+rias de por fuerça: confundiendo los su misma malicia:
+auiendo verguença de llamarlos esclauos. Aunq<ue> como co-
 sa muy segura y bie<n> ganada: de vnas manos a otras los
 ve<n>dia<n> y ve<n>de<n>/ y los traspassan. Y desta man<er>a/ y co<n> esta ju-
 sticia/ y orde<n>/ y autoridad/ y rectitud/ y buena co<n>scie<n>cia
-ha<n> traydo alas yslas espan~ola/ y cuba y san jua<n>: dela costa}
+ha<n> traydo alas yslas española/ y cuba y san jua<n>: dela costa}
 {SG. a iiij}
 [fol. 4v]
 {CB1.
 delas perlas/ y de Honduras/ y de Jucata<n>/ y de Panu-
 co/ y en gran manera y en immensa cantidad y con dete-
-stables tyranicas desuerguenc'as del infelice reyno de
-Uenec'uela: y de Guatimala/ y Nicaragua/ p<ar>a lleuar a
-vender a Panama/ y al Peru/ en verdad ((alo q<ue> siento
-y creo)) mas de tres cue<n>tos de animas. Y ningu<n>a vez tra-
+stables tyranicas desuerguenças del infelice reyno de
+Ueneçuela: y de Guatimala/ y Nicaragua/ p<ar>a lleuar a
+vender a Panama/ y al Peru/ en verdad ≺alo q<ue> siento
+y creo≻ mas de tres cue<n>tos de animas. Y ningu<n>a vez tra-
 yan en vn nauio trezientas/ o quatrocientas personas:
 que no echassen enla mar las ciento/ o las ciento y cin-
 cue<n>ta muertas: por no dalles de comer y de beuer. Por
@@ -243,24 +243,24 @@ para muy poco mas de sustentar se los plagiarios que
 los salteauan/ o que de los otros salteadores los com-
 praua<n>. Otros estando los yndios seguros/ y pacificos
 en sus pueblos/ y casas/ y repartidos/ o encome<n>dados/
-siruiendo alos espan~oles con quanto tienen/ embiauan
+siruiendo alos españoles con quanto tienen/ embiauan
 los a llamar: si eran dozientos hombres enel pueblo:
-mandauan al cacique y sen~or del: que les embiasse lue-
+mandauan al cacique y señor del: que les embiasse lue-
 go para tal dia/ y tal hora/ trezientos hombres carga-
-dos de mayz: o para que les hiziessen alguna labranc'a:
+dos de mayz: o para que les hiziessen alguna labrança:
 y como el cacique se entristeciesse: como no tuuiesse tan-
 tos: y se detuuiesse pensando que haria/ o de que cum-
-pliria: lo que el espan~ol le demandaua/ y mandaua: por
+pliria: lo que el español le demandaua/ y mandaua: por
 vn dia/ o dos que se tardasse: leua<n>tauan le que ya no obe-
-decia/ y que estaua alc'ado: y que ya no venia a su man-
+decia/ y que estaua alçado: y que ya no venia a su man-
 dado: pedia luego licencia al tyrano gouernador/ o ca-
 pitan para yr contra el con gente. Y do alla hallaua los
-en sus casas/ o en sus labranc'as trabajando: y mataua
+en sus casas/ o en sus labranças trabajando: y mataua
 los que queria/ y los demas ataualos: trayendolos co-
 mo auidos de buena guerra: y luego se los herraua<n> por
 esclauos. Otros embiauan a dezir a los caciques que
 luego viniesen cincuenta yndios para trabajar en tal
-labranc'a/ o que les traxessen tantas cargas de mayz/ o
+labrança/ o que les traxessen tantas cargas de mayz/ o
 de madera/ o otras cosas: y al tiempo que los querian}
 [fol. 5r]
 {CB1.
@@ -280,11 +280,11 @@ y sin tener hierro del Rey los herraua enla cara con le-
 tras de su nombre. Y algunas veces los herrauan con
 vn hierro caliente el primero que hallaua<n>: como somos
 ciertos desto. Despues que se auia<n> seruido dellos/ o q<u><<a>>n-
-do queria<n>: vendia<n> los todos por esclauos ((sie<n>do todos
-delos yndios libres)) que tenian enco[m]e<n>(m)dados. Quan-
+do queria<n>: vendia<n> los todos por esclauos ≺sie<n>do todos
+delos yndios libres≻ que tenian enco[m]e<n>(m)dados. Quan-
 do las mugeres y los hijos de aquellos que los estaua<n>
 esperando/ para que les diessen y truxessen de comer/ o
-fuessen a hazer sus labranc'as/ o para gozar dela presen-
+fuessen a hazer sus labranças/ o para gozar dela presen-
 cia las mugeres de sus maridos/ y los hijos de sus pa-
 dres: vian boluer los otros sus vezinos preguntan-
 do les porellos: dezian les/ que quedaua<n> para traer yer-
@@ -300,15 +300,15 @@ que manera estauan: y ha acaescido venir los yndios
 cargados de gallinas y comida/ y otras cosas de presen-tes}
 [fol. 5v]
 {CB1.
-para los espan~oles: y topar los enlos caminos como
-ouejas mansas: y comenc'ar a dar cuchilladas enellos:
-para dar a entender q<ue> estauan alc'ados: y despues yuan
+para los españoles: y topar los enlos caminos como
+ouejas mansas: y començar a dar cuchilladas enellos:
+para dar a entender q<ue> estauan alçados: y despues yuan
 al pueblo donde hallauan los demas seguros y descuy-
 dados: y matauan los que querian/ para mostrar q<ue> los
-hallaua<n> de guerra y alc'ados: y los otros trayan presos
+hallaua<n> de guerra y alçados: y los otros trayan presos
 para que se los diessen por esclauos: diziendo q<ue> los ha-
 llauan enel camino armados y les tiraron ciertas fle-
-chas: y q<ue> poresso fuero<n> al pueblo q<ue> estaua alc'ado. Y aun
+chas: y q<ue> poresso fuero<n> al pueblo q<ue> estaua alçado. Y aun
 q<ue> alos malaue<n>turados capitanes y gouernadores esto
 no les passaua por alto/ porque no lo ygnorauan: pero
 porque no pareciesse q<ue> ellos lo mandaua<n> por temor de q<ue>
@@ -316,44 +316,44 @@ en algun tiempo les auia<n> de tomar cuenta: passaua<n> por
 ello: y destos robos y esclauos lleuaua<n> la principal p<ar>te.
 Otros despues de hechas las crueles & injustas guer-
 ras: y repartidos todos los pueblos delos yndios en-
-tre si ((q<ue> es por lo q<ue> siempre rauia<n>)) la primera delas tyra-
-nias & iniquidades era esta: que ellos (^2#excitauan)[^2#exerc'itauan]. Dezia<n> a
-los caciques y sen~ores delos pueblos: aueys me de dar
+tre si ≺q<ue> es por lo q<ue> siempre rauia<n>≻ la primera delas tyra-
+nias & iniquidades era esta: que ellos (^2#excitauan)[^2#exerçitauan]. Dezia<n> a
+los caciques y señores delos pueblos: aueys me de dar
 de tributo/ tantos tejuelos/ o marcos de oro/ cada sesen-
 ta/ o setenta/ o ochenta dias: y esto q<ue> fuesse tierra de oro
 o q<ue> no lo fuesse: dezian los caciques/ daros hemos lo q<ue>
 tuuieremos: y trayan les todo lo q<ue> podia<n> por el pueblo
-aran~ar. Respondia<n> los espan~oles: soys vnos perros y
+arañar. Respondia<n> los españoles: soys vnos perros y
 aueys me de dar el oro q<ue> pido: sino yo os tengo de que-
 mar. Respondia<n> los desuenturados/ no tenemos mas
 porq<ue> no se coge enesta tierra oro. Sobre esto le daua<n> do-
 zientos palos. Despues co<n> grandes amenazas q<ue> les ha-
-zian: y con ac'omallos los perros brauos/ o acometer q<ue>
-los queria<n> quemar: los constren~ian a q<ue> les diessen cada
+zian: y con açomallos los perros brauos/ o acometer q<ue>
+los queria<n> quemar: los constreñian a q<ue> les diessen cada
 sesenta/ o setenta/ o ochenta dias: cincuenta/ o sesenta es-
 clauos. Yuase de miedo el cacique por el pueblo/ o pue-
-blos: si era sen~or de muchos: y tomaua a quie<n> tenia dos}
+blos: si era señor de muchos: y tomaua a quie<n> tenia dos}
 [fol. 6r]
 {CB1.
 hijos vno y a quien tres hijas/ las dos: y a todos los q<ue>
 eran huerfanos/ y no tenian quien boluiesse por ellos
 desamparados: y juntauan su numero/ y no delos mas
 feos/ ni (^2#dispuestos)[^2#indispuestos]: sino escogidos/ como selo mandaua<n>:
-y de tal estatura/ como le daua el espan~ol vna vara: y en-
+y de tal estatura/ como le daua el español vna vara: y en-
 tregauaselos diziendo: ves aqui tu tributo de escla-
 uos. Los clamores y llantos que los padres y las ma-
 dres hazian por el pueblo de ver lleuar sus hijos a ven-
 der: y donde sauian que poco auia<n> de durar: quien po-
-dra encarecellos/ ni contallos? Mandaua el espan~ol al
+dra encarecellos/ ni contallos? Mandaua el español al
 cacique que dixesse alos yndios que quando los lleuas-
 sen a examinar para herrallos: que confessassen que era<n>
 esclauos/ y hijos de esclauos & q<ue> e<n> tantas ferias/ o merca-
 dos auia<n> sido ve<n>didos y co<m>prados: sino q<ue> lo auia de que-
 mar. El caciq<ue> de miedo tenia harto cuydado desto/ y
 los Jndios de obedecelles: aun q<ue> los ouiessen de ha-
-zer pedac'os. Y acaescia ansi como llegauan los indios
+zer pedaços. Y acaescia ansi como llegauan los indios
 vn tiro de piedra de donde los auian de examinar: co-
-menc'ar a dar bozes/ diziendo: yo soy esclauo y hijo
+mençar a dar bozes/ diziendo: yo soy esclauo y hijo
 de esclauo/ y en tantos mercados he sido vendido/
 y comprado por esclauo. Preguntauale el hombre
 perdido del examinador: porque tambien este robaua:
@@ -362,7 +362,7 @@ assi traydos y fatigados: de donde eres tu? Respon-
 dia el yndio/ yo soy esclauo y hijo de esclauo/ y en tan-
 tos mercados vendido/ y comprado por esclauo.
 Mire aqui vuestra Alteza como venian tam[ ]bien en-
-sen~ados. Finalmente assentaua lo assi el escriuano: y co<n>
+señados. Finalmente assentaua lo assi el escriuano: y co<n>
 esta examinacion y justicia con el hierro del Rey los
 herrauan. Todas estas ynfernales cautelas y fraudes
 sabia<n>: y veyan los gouernadores/ y oficiales de su Ma-
@@ -374,9 +374,9 @@ lo hazian en los pueblos que para si aplicauan: como
 tenian mayor poder y lice<n>cia/ y menos cuydado de sus
 almas. Y gouernador vuo que de vna parada jugo qui-
 nientos yndios que se escogiessen enel pueblo que el se-
-n~alaua: y que los tomassen por esclauos. Y esto se deue
+ñalaua: y que los tomassen por esclauos. Y esto se deue
 tener por verdad/ como abaxo dire mas largo: que en-
-tre los yndios auia ((ya que ouiesse algunos)) muy po-
+tre los yndios auia ≺ya que ouiesse algunos≻ muy po-
 quitos esclauos. Otro gouernador/ o por mejor dezir
 destruydor de ho<m>bres tyrano: estando en Mexico/ do-
 zientas leguas de su gouernacion: jugaua dozientos/
@@ -385,10 +385,10 @@ mandar al tyrano q<ue> tenia en su lugar puesto por tenien-
 te: dandole priessa: que le embiasse tantos cientos de es-
 clauos: porque tenia necessidad para pagar dineros q<ue>
 le auian emprestado. Este mismo estando en su reynado
-porque ni aun al Rey conocia ((y estuuo siete an~os que
+porque ni aun al Rey conocia ≺y estuuo siete años que
 nunca hizo entender alos yndios que auia otro Rey/
-ni sen~or enel mundo sino el: hasta que a aquella prouin-
-cia fueron frayles)) juntaua trezientos/ y quatrocie<n>tos
+ni señor enel mundo sino el: hasta que a aquella prouin-
+cia fueron frayles≻ juntaua trezientos/ y quatrocie<n>tos
 y quinientos muchachos/ y muchachas: tomados de
 los pueblos/ los mas dispuestos que enellos hallaua:
 y dezia alos marineros/ y mercaderes q<ue> a aquel puer-
@@ -401,8 +401,8 @@ gauan. Y acaescio por vna yegua dar ochenta animas
 racionales: y ciento por vn harto astroso cauallo. A o-
 tros setenta/ o ochenta dias hazian lo mismo los Caci-
 ques en sus pueblos: tomando los hijos y parientes
-que quedauan: y pagauan al tyrano del Espan~ol/ con
-otros tantos el tributo que le auia sen~alado.
+que quedauan: y pagauan al tyrano del Español/ con
+otros tantos el tributo que le auia señalado.
 Otros allegando los religiosos con blandura y sua-uidad}
 [fol. 7r]
 {CB1.
@@ -412,13 +412,13 @@ os: venian los tyranos y tomauan delas yglesias los
 que querian con gran escandalo delos Jndios: y angu-
 stia y afliction delos Frayles: diziendo que los aui-
 an menester para lleuar cargas: y sacados de alli/ los lle-
-uauan a herrar: y sen~alar por esclauos. % Otros con li-
+uauan a herrar: y señalar por esclauos. ¶ Otros con li-
 cencia delos gouernadores: que la auian a cada passo
 & comunmente se daua a todos: por los grandes serui-
 cios que alos Reyes de Castilla les auian hecho: en
 roballes/ y destruylles/ y despoblalles aquellas tier-
 ras: y ala Yglesia de Jesu Christo: echando tantas ani-
-mas a los Jnfiernos: comenc'aron y acabaron de to-
+mas a los Jnfiernos: començaron y acabaron de to-
 mar otro camino/ que parescia mas honesto: para con-
 sumir aquellas gentes: y este fue rescatar como ellos de-
 zian/ o comparar delos mismos caciques/ con temor q<ue>
@@ -428,17 +428,17 @@ dios. Los caciques para cumplir con ellos andauan
 porel pueblo sacando y destruyendo lo dela manera ar-
 riba dicha: haziendo lo mismo. Esta manera de tirania
 y destruycion de aquellos infinitos pueblos tan horri-
-ble: se hizo tan desuergonc'adamente/ y tan a ojos vis-
+ble: se hizo tan desuergonçadamente/ y tan a ojos vis-
 tas: haziendo esclauos oy los Jndios/ que ayer de sus
 mismos pueblos les seruian: que vie<n>do el gouernador
 ya confuso de saber y consentir tanta y tan cruel injus-
 ticia: que se despoblaua tan rotamente toda la tierra:
-mando que las mercedes quel hazia ((porque ansi las
-llaman ellos)) de dar licencia para rescatar/ o robar del
-pueblo que tenia encomendado el Espan~ol: tantos es-
+mando que las mercedes quel hazia ≺porque ansi las
+llaman ellos≻ de dar licencia para rescatar/ o robar del
+pueblo que tenia encomendado el Español: tantos es-
 clauos: que nadie lo pudiesse hazer de su pueblo: si no
 del pueblo que a otro estuuiesse encomendado. Y assi
-inuentaron otra estran~a cautela. Dezia cada espan~ol a
+inuentaron otra estraña cautela. Dezia cada español a
 su cacique: mirad fulano cacique: vos me aueys de dar}
 [fol. 7v]
 {CB1.
@@ -446,14 +446,14 @@ cincuenta/ o cient esclauos/ y no han de ser de vuestro
 pueblo: sino de otros yndios. El cacique como sabia q<ue>
 no le conuenia otra cosa hazer: y que le yua la vida/ o la
 mala vida enello: yuase al cacique de otro pueblo su ve-
-zino/ y deziale: el diablo que me tiene a cargo ((porque
+zino/ y deziale: el diablo que me tiene a cargo ≺porque
 ansi llaman a los Christianos en la prouincia de Nica-
-ragua donde esta maldad los tyranos hazian)) me pide
+ragua donde esta maldad los tyranos hazian≻ me pide
 tantos yndios para hazer esclauos/ y dize que no sean
 de mi pueblo: damelos tu del tuyo: y darte he yo otros
 tantos del mio. Respo<n>dia el otro cacique: plaze me por
 que lo mismo me pide: y me manda el diablo/ a quien
-me han encomendado/ y tengo por sen~or mio. Lleuaua<n>
+me han encomendado/ y tengo por señor mio. Lleuaua<n>
 los a herrar: y dezian que los auian auido co<n> juramen-
 to/ no de los de su pueblo: sino de otros pueblos age-
 nos/ y todos decian verdad: aun que co<n> ygual maldad
@@ -500,63 +500,63 @@ blos: prendiessen y atassen: prendieron y ataron gran
 numero y cantidad de yndios: y traydos al puerto hi-
 zoles poner enlas caras vnas letras que dezian dester-
 rado. Querie<n>do dar a entender: para escusarse delas pe-
-nas d<e>la cedula: que aquel y aquellos assi sen~alados: por
+nas d<e>la cedula: que aquel y aquellos assi señalados: por
 ser malos los desterrauan por justicia/ porque no conue-
 nia que quedassen enla tierra. Y por esta manera y con
 este titulo/ los vendio por esclauos y pago sus deudas:
-y embio llenos y contentos los nauios. % Este mismo
+y embio llenos y contentos los nauios. ¶ Este mismo
 gouernador vna vez entre otras/ hizo p<ar>a si propio ta<n>tos
 esclauos delos yndios libres q<ue> estauan seguros en sus
 pueblos antes q<ue> fuesse la dicha cedula: q<ue> de solo el q<u><<i>>nto
 pago al rey q<u><<i>>nientos y ta<n>tos castellanos. Lo q<u><<a>>l no pu-
-do ser segu<n> los daua<n> ta<n> barato ((porq<ue> aco<n>tecia dar vn in-
-dio por vn q<ue>so)) sin q<ue> fuesse gra<n>de el numero d<e>llos. Y a se
+do ser segu<n> los daua<n> ta<n> barato ≺porq<ue> aco<n>tecia dar vn in-
+dio por vn q<ue>so≻ sin q<ue> fuesse gra<n>de el numero d<e>llos. Y a se
 de p<re>supponer q<ue> quando el solo p<ar>a si aplicaua/ y hazia ta<n>-
 tos esclauos: q<ue> pagaua del q<u><<i>>nto quinie<n>tos castellanos:}
 [fol. 8v]
 {CB1.
 que seria y[ ]a quantos llegarian los yndios que vendia<n>
-los otros espan~oles: pues que todos desta mercaduria:
+los otros españoles: pues que todos desta mercaduria:
 de todo lo que auian menester de las cosas de Castilla
 se proveyan y desta moneda lo pagauan? Y bien parece
-la priessa que les dieron: porq<ue> agora ocho an~os: vinien-
+la priessa que les dieron: porq<ue> agora ocho años: vinien-
 do para aca: vi aquellas prouincias: y no auia cosa mas
-destruyda ni despoblada/ despues dela ysla espan~ola/ y
+destruyda ni despoblada/ despues dela ysla española/ y
 sus comarcanas en todas las yndias: sie<n>do ellas pobla-
-tissimas y aquella como ellas. Otros engan~ando a mu-
+tissimas y aquella como ellas. Otros engañando a mu-
 chos yndios: p<er>suadian les q<ue> viniessen conellos a casti-
 lla/ y llegados ala ysla de cuba los: vendia<n> por esclauos.
 Y alli ay muchos destos enla habana. Y otros yendo de
-vnas tierras a otras/ a los que engan~auan/ y lleuauan
+vnas tierras a otras/ a los que engañauan/ y lleuauan
 consigo: hazian lo mesmo. Por estas vias tan justas/ y
 tan christianas maneras & otras muchas q<ue> dexo de de-
 zir: han sido tantas las gentes q<ue> aquellos hombres de-
 salmados/ y perdidos y hijos de perdicio<n>: han destruy-
-do: y tanta la corrupcion y desuerguenc'a q<ue> en esto exer-
+do: y tanta la corrupcion y desuerguença q<ue> en esto exer-
 citaron: que sera muy dificultoso creello/ a quien no
 lo vio. Pero assaz es creyble pues todos los mismos q<ue> lo
-hizieron sin temor ni verguenc'a lo confiessan: y todo el
+hizieron sin temor ni verguença lo confiessan: y todo el
 mundo lo sabe: y lo affirma & lo dize. Y harto claro lo te-
 stifica<n> todas las prouincias de Nicaragua: toda la de
-Guatimala: gra<n> p<ar>te dela de Mexico: toda la de Guac'a-
+Guatimala: gra<n> p<ar>te dela de Mexico: toda la de Guaça-
 qualco/ y Tauasco: q<ue> heruia de gente: toda casi totalme<n>-
 te la de Panuco. Dela qual sin otros muchos: escriuio
-el arc'obispo de mexico a este real consejo. Auer embia-
+el arçobispo de mexico a este real consejo. Auer embia-
 do el tyrano cruel q<ue> alli tuvo cargo de destruylla llenos
 de gente veynte y ocho Nauios. Toda tambien la de
 xalisco: donde el gouernador hizo herrar en las caras:
-sin otros infinitos q<ue> el y[ ]los espan~oles q<ue> co<n> el estan hizie-
+sin otros infinitos q<ue> el y[ ]los españoles q<ue> co<n> el estan hizie-
 ro<n>/ y ve<n>diero<n> por esclauos delos yndios de aq<ue>lla prouin-
 cia/ quatro mil y quinientos y sesenta hombres y mu-
-geres/ y nin~os de vn an~o alas tetas de sus madres/ y de}
+geres/ y niños de vn año alas tetas de sus madres/ y de}
 [fol. 9r]
 {CB1.
-(de) dos y de tres/ o de q<u><<a>>tro/ o de cinco an~os: y otros mu-
-chos de catorze an~os abaxo: y algunos saliendo le a res-
+(de) dos y de tres/ o de q<u><<a>>tro/ o de cinco años: y otros mu-
+chos de catorze años abaxo: y algunos saliendo le a res-
 cebir de paz. Y estando prohibido por prouisiones rea-
 les que ya que algunos se hiziessen esclauos: ninguno
-se hiziesse de catorze an~os abaxo. Y esta licencia/ o per-
-mission que hiziessen los de catorze an~os arriba: daua-
+se hiziesse de catorze años abaxo. Y esta licencia/ o per-
+mission que hiziessen los de catorze años arriba: daua-
 se: por las falsissimas & fraudolentas informaciones
 que al consejo hazian los tyranos. Porque nunca ouo
 causa justa en todas las yndias para hazer vno ni nin-
@@ -572,18 +572,18 @@ delos mismos pueblos libres/ como los demas por escla-
 uos. Quando digo libres no se entienda que es a diffe-
 re<n>cia de esclauos: porque no ay alguno que sea esclauo
 si no para significar que son delos pueblos que tienen
-los espan~oles encome<n>dados para doctrinallos y salua-
-llos. % Pues las prouincias de Honduras ((como esta
-dicho)) con esta pestilencia estan destruydas. Enla de ni-
+los españoles encome<n>dados para doctrinallos y salua-
+llos. ¶ Pues las prouincias de Honduras ≺como esta
+dicho≻ con esta pestilencia estan destruydas. Enla de ni-
 caragua: anduuieron cinco/ o seys nauios: tres/ o qua-
-tro an~os al trato: sacando yndios & lleuando a vender
+tro años al trato: sacando yndios & lleuando a vender
 a otras tierras por esclauos. Los Alemanes a quien se
 dio cargo que robasen y destruyessen los reynos de ve-
-nec'uela: mas de veynte an~os yendo y viniendo nauios
+neçuela: mas de veynte años yendo y viniendo nauios
 cargados no entendieron en otra grangeria. Todo lo
 que tengo dicho es verdad: y todas las fealdades de q<ue>
 enesta materia de hazer injustamente esclauos: los espa-
-n~oles han vsado: se puede<n> aqui todas/ o las mas dellas
+ñoles han vsado: se puede<n> aqui todas/ o las mas dellas
 prouar: y vuestra alteza tiene llenos los archiuos de al-gunas}
 {SG. b}
 [fol. 9v]
@@ -595,7 +595,7 @@ abatidos/ y desmamparados q<ue> no tienen ni esperan re-
 medio de pedir su justicia: ma<n>de v<uest>ra alteza a su fiscal co-
 mo cosa q<ue> tanto importa al descargo dela conscie<n>cia de
 su Magestad y de vuestra alteza: q<ue> haga aqui muy lar-
-ga como se puede hazer prouanc'a: y mandelos con justi-
+ga como se puede hazer prouança: y mandelos con justi-
 cia remediar: porque no perezcan los pocos q<ue> quedan:
 como los muchos/ en injusto captiuerio han perecido.
 Pues si estas maneras de hazer los yndios esclauos: ta<n>
@@ -614,34 +614,34 @@ cubrieron hasta oy: no ay vno ni ningun indio q<ue> aya
 justamente y segu<n> derecho natural y diuino sido hecho
 esclauo. Y ansi queda prouada la primera parte de la con-
 clusion.
-% La segunda parte que dize: que los Espan~oles que
+¶ La segunda parte que dize: que los Españoles que
 posseen a los yndios/ q<ue> tienen por esclauos que oy son
 biuos: los tienen con mala consciencia: poco ay que pro-
 uar: pues es cierto segun la ley de Dios que qualquie-
 ra que tiene vsurpado al proximo su capa/ si[ ]no la restitu-
-ye con los dan~os que por tomar se la le hizo: no se pue-
-de saluar: mucho menos sin comparacion los espan~oles
+ye con los daños que por tomar se la le hizo: no se pue-
+de saluar: mucho menos sin comparacion los españoles
 que tienen los yndios por esclauos: si no los ponen lue-go}
 [fol. 10r]
 {CB1.
-en libertad: y les satisfazen por la injuria y dan~os q<ue>
+en libertad: y les satisfazen por la injuria y daños q<ue>
 les hizieron: y los seruicios que dellos han auido se po-
 dran saluar. Porque/ {LAT. non dimittitur peccatum/ nisi re-
-stituatur ablatum} ((como abaxo se dira)) y assi esta<n> todos
+stituatur ablatum} ≺como abaxo se dira≻ y assi esta<n> todos
 en peccado mortal.
-% La tercera parte dela conclusion dize: que tambien
-tienen los espan~oles con mala consciencia los esclauos
+¶ La tercera parte dela conclusion dize: que tambien
+tienen los españoles con mala consciencia los esclauos
 yndios que ouieron delos yndios.
-% Para declaracio<n> y prueua desta parte: suppongo pri-
+¶ Para declaracio<n> y prueua desta parte: suppongo pri-
 mero estos fundamentos y principios.
-% El primero es. Que si no fue enla nueva espan~a don-
+¶ El primero es. Que si no fue enla nueva españa don-
 de los vezinos della eran mas que en otras partes astu-
 tos/ especialmente los Mexicanos: muy pocos/ o nin-
 gunos auia esclauos entre los yndios. Y esto saben lo
 todos aq<ue>llos q<ue> han visto y tratado en muchas y diuer-
 sas partes delas yndias. El q<ue> no ha salido de mexico &
 de sus alderredores: no es marauilla q<ue> sepa poco desto.
-% El segundo fundamento/ o principio es: que este ter-
+¶ El segundo fundamento/ o principio es: que este ter-
 mino Esclauo e<n>tre los yndios/ no denota ni significa:
 lo que entre nosotros. Porque no quiere dezir sino vn
 seruidor/ o persona q<ue> tiene algun mas cuydado/ o algu-
@@ -651,11 +651,11 @@ ser esclauo de yndios: era muy poco menos q<ue> ser su hi-
 jo. Porque tenia su casa y su hogar y su peculio/ y ha-
 zienda & su muger & sus hijos y gozar de su libertad co-
 mo los otros subditos libres sus vezinos: si no era qua<n>-
-do el sen~or auia menester hazer su casa/ o labrar su seme<n>-
+do el señor auia menester hazer su casa/ o labrar su seme<n>-
 tera/ o otras cosas semeja<n>tes q<ue> se hazia<n> a sus t<iem>pos y mu-
 chas de q<u><<a>>ndo en q<u><<a>>ndo: y todo el demas t<iem>po tenia<n> por si y
 d<e>l gozaua<n> p<ar>a si como p<er>sonas libres. Alle<n>de d<e> aq<ue>llo: el tra-
-tamie<n>to q<ue> los sen~ores hazia<n> alos tales sieruos eran bla<n>di-
+tamie<n>to q<ue> los señores hazia<n> alos tales sieruos eran bla<n>di-
 ssimo & suauissimo como si nada les deuiera<n>. Y assi sin co<m>-
 paracio<n> era<n> mas libres q<ue> alos q<ue> llama<n> los derechos ori-ginarios/}
 {SG. b ij}
@@ -665,16 +665,16 @@ y ascripticios. Y esto tambien es clarissimo y
 muy notorio: en especial alos religiosos que han pene-
 trado las lenguas & de industria lo han inquirido y
 bien sabido/ tratando desta materia.
-% Lo tercero suppongo otro principio que es. Que
-entre los yndios mexicanos/ y nueva espan~a/ se hallaro<n>
+¶ Lo tercero suppongo otro principio que es. Que
+entre los yndios mexicanos/ y nueva españa/ se hallaro<n>
 muchas maneras illicitas de hazer esclauos: como q<u><<i>>era
 que careciessen de conocimie<n>to del verdadero dios
 y dela noticia dela ley euangelica: que no consiente ni
 permite cosa illicita y maculada con peccado. Una ma-
-nera injusta fue: que en tiempo de hambre ((y destas po-
+nera injusta fue: que en tiempo de hambre ≺y destas po-
 cas hemos visto en aq<ue>llas tierras por ser fertilissimas
-y felicissimas)) los yndios ricos/ o q<ue> tenian mahiz ((que
-es el trigo de aquella tierra)) diz[ ]que llamauan y persua-
+y felicissimas≻ los yndios ricos/ o q<ue> tenian mahiz ≺que
+es el trigo de aquella tierra≻ diz[ ]que llamauan y persua-
 dian a los pobres que les vendiessen tal hijo/ o tal hija:
 y que les darian mahiz para que comiessen ellos & sus
 hijos. Los quales como la seruidumbre fuesse ta<n> poco
@@ -688,8 +688,8 @@ to no es muy justa: pues en tiempo de hambre y necessi-
 dad todas las cosas son co<m>munes/ segun ley natural por
 la qual eran obligados a darselo gracioso/ o prestado:
 mayormente si era la necessidad extrema.
-% Otra manera de hazer esclauos fue: que aquel que
-era hallado de auer hurtado cinco mac'orcas/ o espigas de
+¶ Otra manera de hazer esclauos fue: que aquel que
+era hallado de auer hurtado cinco maçorcas/ o espigas de
 mahiz: le hazia esclauo de su p<ro>pia auctoridad/ aq<ue>l cuyo
 era el mahiz. Y dize<n> los religiosos que esto han exami-
 nado: q<ue> con fraude y cautela y dolo muchas vezes poni-
@@ -698,47 +698,47 @@ mino: p<ar>a que qualq<u><<i>>era q<ue> passasse porel: cayesse en<e>l lazo}
 [fol. 11r]
 {CB1.
 dela dicha seruidumbre. Esta tambien harto injusta es.
-% Jtem todos los parientes y consanguineos del tal
-ladron ((si ladron se puede dezir)) se hazia<n> por aquel deli-
-to esclauos. Esta muy peor & mas injusta es. % Jtem
+¶ Jtem todos los parientes y consanguineos del tal
+ladron ≺si ladron se puede dezir≻ se hazia<n> por aquel deli-
+to esclauos. Esta muy peor & mas injusta es. ¶ Jtem
 enel juego dela pelota quien: perdia era esclauo: y diz q<ue>
 esto era con fraude y dolo/ persuadiendo/ importunan-
-do/ y engan~ando los mas astutos jugadores: q<ue> comu<n>-
+do/ y engañando los mas astutos jugadores: q<ue> comu<n>-
 mente eran vagabundos: y mostrauan les dos/ o tres
 mantas de algodo<n> para acudiciar alos simples a ellas:
 fingiendo se que no sabian jugar/ y ansi los lleuaua<n> por
-esclauos. % Jtem si se huya el que era esclauo destas ma-
-neras: tomaua el sen~or al mas propinquo deudo que
+esclauos. ¶ Jtem si se huya el que era esclauo destas ma-
+neras: tomaua el señor al mas propinquo deudo que
 aquel tenia/ y auia de ser por el esclauo. Y ansi nunca fe-
-necia en diuersos subjetos la tal seruidumbre. % Jtem
-quando algu<n> hombre libre empren~aua alguna esclaua:
-el duen~o della tomaua a aquel y a su muger si era casa-
+necia en diuersos subjetos la tal seruidumbre. ¶ Jtem
+quando algu<n> hombre libre empreñaua alguna esclaua:
+el dueño della tomaua a aquel y a su muger si era casa-
 do: y auian de servirle mientras la esclaua biuiese: y ale-
 gauan que porque se impidia de seruirle su esclaua con
-la pren~ez. Y diz que esta era comun costumbre en aquella
-tierra. % Jtem si alguno tenia alguna esclaua virgen
+la preñez. Y diz que esta era comun costumbre en aquella
+tierra. ¶ Jtem si alguno tenia alguna esclaua virgen
 y se la violaua otro le hazia esclauo/ y tambien si era ca-
 sado a su muger. Y en esto diz que auia dolo y fraude
 Porque los amos delas esclauas les mandauan q<ue> soli-
-citassen alos estrupradores q<ue> pecassen co<n>ellas. % Jtem
+citassen alos estrupradores q<ue> pecassen co<n>ellas. ¶ Jtem
 quando la esclaua daua algo a sus padres/ o parientes
 dela casa de su amo: luego eran esclauos todos de aquel
-amo. % Jtem muchos mercaderes hurtauan muchos
-muchachos/ o por engan~o los lleuaua<n> a otras tierras:
-y alli los vendian por esclauos. % Jtem daua<n> algunos
+amo. ¶ Jtem muchos mercaderes hurtauan muchos
+muchachos/ o por engaño los lleuaua<n> a otras tierras:
+y alli los vendian por esclauos. ¶ Jtem daua<n> algunos
 mercaderes a vsura el trigo de algunos pobres auian
 menester: y hasta tanto tie<m>po: y ciertas vezes multipli-
 cauan/ o reca<m>biauan: y si ala postrera no podian los po-
-bres pagar: los hazia<n> esclauos. % Jtem si moria el que
+bres pagar: los hazia<n> esclauos. ¶ Jtem si moria el que
 deuia la vsura antes q<ue> la pagasse y no le quedaua<n> hijos}
 {SG. b iij}
 [fol. 11v]
 {CB1.
-no pudiendo la muger pagar: la hazian esclaua. % Jte<m>
+no pudiendo la muger pagar: la hazian esclaua. ¶ Jte<m>
 siendo tie<m>po de hambres: el padre y la madre vendian al-
-gun hijo: sirbiendo algu<n>os an~os asu amo/ o si se hazia
+gun hijo: sirbiendo algu<n>os años asu amo/ o si se hazia
 viejo & tenia hermanos/ o hermanas: salia el y entraua
-enla serbidumbre otro de ellos: & si era moc'o: daua el a-
+enla serbidumbre otro de ellos: & si era moço: daua el a-
 mo alguna cosa alos padres: y padres y hijos a seruirle
 todos eran obligados. Pero qua<n>do los padres/ o otro
 por ellos pagaua lo q<ue> se auia prestado porel: luego era
@@ -747,16 +747,16 @@ auia muy pocos: y los que se vendian: eran los muy hol-
 gazanes por no trabajar. Los quales voluntariame<n>te
 se vendian por dos mantas de algodon: pero el seruicio
 que auian de hazer/ no era mas de para estar en casa de
-sus sen~ores para mandar a otros/ y no pata trabajar.
+sus señores para mandar a otros/ y no pata trabajar.
 Todas estas maneras tengo escritas en latin: q<ue> me dio
 el primer obispo de Mexico/ varon bueno & religioso
 colegidas por los religiosos de sant francisco. Por las
 quales parece bien claro: qua<n> illicitamente los yndios
-tenian a otros yndios por esclauos. % Delo suso dicho
-se sigue: q<ue> porque los yndios era<n> infieles y carecia<n> ((co-
-mo esta tocado)) de conocimie<n>to de Dios/ y dela ley xp<ist>ia-
+tenian a otros yndios por esclauos. ¶ Delo suso dicho
+se sigue: q<ue> porque los yndios era<n> infieles y carecia<n> ≺co-
+mo esta tocado≻ de conocimie<n>to de Dios/ y dela ley xp<ist>ia-
 na: q<ue> sus obras reglasse y del temor delos infiernos/ y d<e>
-esperanc'a q<ue> por sus virtudes se les auia de dar parayso
+esperança q<ue> por sus virtudes se les auia de dar parayso
 eternal: q<ue> assi como eran corruptos y deffectuosos en-
 estas maneras injustas de hazer a sus p<ro>ximos esclauos:
 tambien se deue presumir q<ue> errauan y se corrompian en
@@ -775,7 +775,7 @@ res {LAT. de presumptio.} Y es buena aprobacion la q<ue> resulta
 delas conjecturas como se trata enel cap<itulo> {LAT. afferte} y enel
 cap<itulo> {LAT. quanto. de presumptionib<us>.} y en otras muchas par-
 tes del derecho canonico Y ciuil.
-% Lo q<u><<a>>rto se deue supponer otro principio/ q<ue> n<uest>ra ley
+¶ Lo q<u><<a>>rto se deue supponer otro principio/ q<ue> n<uest>ra ley
 xp<ist>iana y fe de jesu xp<ist>o: do<n>de q<u><<i>>era y qua<n>do q<u><<i>>era q<ue> llega
 alos infieles: ansi como manda/ y suste<n>ta/ & co<n>serua las
 buenas leyes/ y buenas costu<m>bres q<ue> halla entre ellos: a<n>-
@@ -796,12 +796,12 @@ q<ue> los infieles tenia<n>/ o tuuiessen aun q<ue> de palabra no la
 loassen: p<er>o pudie<n>do impedilla la disimulassen/ y mas y
 peor si la obrassen: manifiesto es q<ue> tacitame<n>te ap<ro>barla
 parecia. Por lo q<u><<a>>l aun d<e>las cosas licitas: si de n<uest>ras obras
-sale algu<n> esca<n>dalo/ o ocasion de dan~o sp<irit>ual en q<ue> incurra
+sale algu<n> esca<n>dalo/ o ocasion de daño sp<irit>ual en q<ue> incurra
 n<uest>ro p<ro>ximo: tenemos p<re>cepto d<e> nos abstener: como pare-
 ce enla. 1. ep<isto>la {LAT. ad cor<inthios>} cap<itulo>. 8. do<n>de sant Pablo amonesta
 y manda: q<ue> delas carnes q<ue> los ge<n>tiles ofrecia<n> a sus ydo-
 los/ no comiessen los xp<ist>ianos: porq<ue> no pareciessen ap<ro>-
-bar sus dan~ados sacrificios: puesto q<ue> si se comiera<n> en tie<m>-
+bar sus dañados sacrificios: puesto q<ue> si se comiera<n> en tie<m>-
 po/ o e<n> lugar q<ue> los ge<n>tiles no lo viera<n>/ o no se esca<n>daliza-
 ran/ se pudiera<n> comer sin pecado. Y ansi dize el {LAT. Uidete}}
 {SG. b iiij}
@@ -814,7 +814,7 @@ ficabitur ad manduca<n>dum ydolatitia? Et peribit infir-
 mus in tua consciencia frater: propter quen xp<istu>s mort<us>
 est.} Y mas abaxo dize: {LAT. Quapropter si scandalizat fratre<m>
 meu<m>: non manducabo carne<m> in eternum.}
-% Por manera que somos obligados los christianos de
+¶ Por manera que somos obligados los christianos de
 precepto diuino: a estoruar en quanto nos fuere po-
 sible la dicha ley mala/ o mala costumbre/ o al[ ]menos no
 guardalla: ni obralla: porque no parezca que la apro-
@@ -830,7 +830,7 @@ sar la fee: & dar testimonio delas otras virtudes que te-
 nemos enel anima: por obra/ o por palabras exteriores
 haziendo/ o dexando de hazer algunas cosas/ que para
 lo suso dicho conuienen. Desto trata sancto Thomas.
-{LAT. 22. q. 3 ar. 2. % Lo. 5.} se ha de presupponer: que q<u><<a>>ndo
+{LAT. 22. q. 3 ar. 2. ¶ Lo. 5.} se ha de presupponer: que q<u><<a>>ndo
 de vn contrato/ o obra que hizieren los hombres/ o qui-
 sieren hazer: se dubda/ o deue dudar ser injusta y con pe-
 cado: si la hazen sin dela verdad primero certificarse: a-
@@ -843,7 +843,7 @@ nos son obligados porel euangelio d<e> Christo: a perder
 todo quanto son & tienen antes que cometer vn solo pe-cado}
 [fol. 13r]
 {CB1.
-al menos mortal: segun aquello de nuestro sen~or
+al menos mortal: segun aquello de nuestro señor
 {LAT. luce. 14. Omnis qui no renu<n>tiauerit omnibus q<ue> pos-
 sidet non potest meus esse discipulus.} Y por esto los q<ue>
 en duda/ o dudando dela obra/ si es justa/ o injusta/ o si
@@ -881,7 +881,7 @@ determinaciones arriba referidas: todos dizen que}
 {CB1.
 donde quiera que concurre duda de peccado: deuemos
 tomar el camino que es seguro: y dexar el dubdoso.
-% Lo sexto se supponga que segun las reglas delos de-
+¶ Lo sexto se supponga que segun las reglas delos de-
 rechos humanos confirmaldos por la razon y ley natu-
 ral/ y mucho mas por la ley de charidad & christiana: al-
 gunas vezes se admiten/ o hazen justamente algunas d<e>-
@@ -900,22 +900,22 @@ o por razon de alguna dubda. Y es regla general: que
 quando se ha de escoger de dos/ o de muchas vna enlas
 dudosas: siempre se deue considerar aun que enella no
 aya peccado: qual tiene menos inconuinientes y de do
-menos dan~o se pueda auenturar al proximo. Y esta po-
+menos daño se pueda auenturar al proximo. Y esta po-
 strera regla bien se prueua por el suppuesto precedente.
-[^2#%] Quando se ofrece pues la dificultad por razon dela co<n>-
+[^2#¶] Quando se ofrece pues la dificultad por razon dela co<n>-
 nexidad: no se deuen prohibir alos clerigos que las
 madres y las abuelas y hermanas y hijas/ y otras seme-
 jantes mugeres no las tenga<n> en su casa/ ni apartar los
 padres delos hijos ni los hijos delos padres: como se
 prueua. 81 dist. cap<itulo> {LAT. Cu<m> omnib<us> et 14 q. 5 cap<itulum> deniq<ue>}
 Donde se dize q<ue> si no podemos remediar a vno sin da-
-n~ar a otro por razo<n> d<e>la co<n>nexidad: mejor es no ayudar
-a ambos. Esto se entiende quando los dan~os fuessen
+ñar a otro por razo<n> d<e>la co<n>nexidad: mejor es no ayudar
+a ambos. Esto se entiende quando los daños fuessen
 yguales/ o el vno padeciesse justamente y nos constas-
 se. Y de aqui nace aquella regla: que a ninguno se deue}
 [fol. 14r]
 {CB1.
-de proueer de bien alguno co<n> injusticia y dan~o de otro.
+de proueer de bien alguno co<n> injusticia y daño de otro.
 En la regla {LAT. locupletari lib<er>. 6.} con sus concordancias.
 Por razon de ser difficultosa la separacio<n> y el discernir
 los que estan mezclados: hemos de hazer bien a otros
@@ -927,12 +927,12 @@ fueron malos/ o quales fuero<n> buenos. Por esta mesma
 razo<n> se ma<n>da en el cap<itulo> {LAT. sacris. de sepulturis.} Que q<u><<a>>ndo
 estan enterrados los huessos delos descomulgados co<n>
 los delos fieles: que no se desentierre ninguno: mie<n>tra
-no pudiere<n> ser distinguidos. % Jte<m> por esta razon n<uest>ro
+no pudiere<n> ser distinguidos. ¶ Jte<m> por esta razon n<uest>ro
 rede<m>ptor ma<n>do: q<ue> qua<n>do no se conociessen ni pudiessen
 distinguir los malos delos buenos: se sufriessen y dissi-
 mulassen los malos: porq<ue> mejor es q<ue> se toleren y biuan
 los malos: que no que injustamente algun perjuyzio/
-dan~o/ o muerte padezca<n> los buenos. Desto ay muchos
+daño/ o muerte padezca<n> los buenos. Desto ay muchos
 decretos. {LAT. 11. q. 3} ca<pitul>o {LAT. Nolite recedere.} Con otros tex-
 tos. De aq<u><<i>> es q<ue> se ha d<e> mirar mucho: q<ue>por razo<n>/ o so co-
 lor de punir al delinque<n>te: no se aflija/ o danifiq<ue> y padez-
@@ -940,15 +940,15 @@ ca el innocente. {LAT. Exemplo enim graue est sic latrone<m> re<u><<i>>re-
 re: vt innocentib<us> periculu<m> fiat.} Como e<n>la. {LAT. l. 2. C. {LAT. de his
 qui latro. oculta.} Do<n>de dize el Baldo. {LAT. Quod nec inno-
 ce<n>tes debent capi/ nec grauari in su<m>ptib<us>/ nec i<n> aliquo
-alio. allega. l. 1. §. tribun. eo titulo. % Jte<m> dicit/ q<ue> q<u><<i>> fa-
+alio. allega. l. 1. §. tribun. eo titulo. ¶ Jte<m> dicit/ q<ue> q<u><<i>> fa-
 cit alique<m> capi q<u><<i>> postea apparet innoce<n>s: debet puniri
-ad similitudine<m> supplitij. Et si ((inq<u><<i>>it)) p<er> hoc fuit decapi-
+ad similitudine<m> supplitij. Et si ≺inq<u><<i>>it≻ p<er> hoc fuit decapi-
 tatu<m> q<u><<i>>dam perusij. quod nota. hec bald<us>.} La razon es.
 {LAT. Quia nod debet alteri per alteru<m> iniqua co<n>ditio affer-
 ri. ff. de regu. Ju. Et pena suos debet tenere auctores. l.
 sancimus. c. de penis. Et .ff. eo titu<lo> .l. si pena. Et capi.
 quesiuit. de his fi. amaio. par. capit.} Por esta razon se
-dize enla ley: {LAT. sacius i melius ((aliqui dicunt santius))}}
+dize enla ley: {LAT. sacius i melius ≺aliqui dicunt santius≻}}
 [fol. 14v]
 {CB1.
 {LAT. Et impunitum relinqui facin<us> nocentis: q<u><<a>><m> innocentes
@@ -956,7 +956,7 @@ damnari. ff. de penis. l. absentem.} Por manera q<ue> si aqui
 ay diez hombres los nueue delos quales mataron a vn
 ho<m>bre en realidad de verdad: y son acusados todos diez:
 pero no se sabe qual es el innocente: a todos diez se han
-de dar por libres: porque no acaezca venir dan~o al q<ue> no
+de dar por libres: porque no acaezca venir daño al q<ue> no
 tuuo culpa por la dicha {LAT. .l. absentem.} Por la qual ta<m>bien
 se dize: {LAT. Quod sino<n> apparet quis sit legatari<us>: null<us> erit.
 l. Si fuerit. ff. de reb<us> dubijs. Et si non apparet quis sit
@@ -980,10 +980,10 @@ debere<n>t o<n>es iudicari no<n> irregulares: & sic null<us> repelli.}
 La razon es y sirue p<ar>a todo lo dicho: y ta<m>bie<n> p<ar>a prueua
 del p<re>cede<n>te supuesto: porq<ue> e<n> cessar de ordenar a aq<ue>llos juz-
 ga<n>do los por yrregulares porq<ue> algu<n>os dellos mataro<n> el
-ho<m>bre: no ay peligro algu<n>o: y el dan~o q<ue> les viene en no
+ho<m>bre: no ay peligro algu<n>o: y el daño q<ue> les viene en no
 ordenallos es menor inco<n>uinie<n>te y mal tolerable: p<er>o en
 dalles la pena especialme<n>te d<e> muerte/ o de otra cosa gra-
-ue: es gra<n>dissimo dan~o: y por consiguie<n>te vale mas q<ue> el}
+ue: es gra<n>dissimo daño: y por consiguie<n>te vale mas q<ue> el}
 [fol. 15r]
 {CB1.
 delinque<n>te quede sin ser castigado: porque por este res-
@@ -994,7 +994,7 @@ de sica.} Y ansi queda la regla general prouada: que quan-
 do se ha de escoger de dos/ o de muchas cosas vna delas
 dudosas: siempre se deue considerar aun que enellas no
 ouiesse peccado: qual tiene menos inconuenientes: y
-donde menos dan~o se puede auenturar al proximo: lo q<ue>
+donde menos daño se puede auenturar al proximo: lo q<ue>
 si no se hiziesse auria peccado. De aqui se sigue: q<ue> como
 la libertad delos hombres despues dela vida: sea la cosa
 mas preciosa y estimable: y por consiguie<n>te sea la causa
@@ -1022,24 +1022,24 @@ du<m>:} como se dize en<e>l dicho capitulo. {LAT. Ex literis. De pro-
 bationibus.}}
 [fol. 15v]
 {CB1.
-% Estos principios ansi suppuestos: prueuo la tercera
+¶ Estos principios ansi suppuestos: prueuo la tercera
 parte dela conclusion/ y argumento ansi. Todo aquello
 se tiene con mala consciencia: que el que lo tiene lo ha a-
 uido d<e> aq<ue>l q<ue>l mismo sabe/ o duda/ o d<e>ue y es obligado a
 dudar: tener lo por la mayor parte contra justicia y con-
-tra ley natural & diuina. Pues los espan~oles que tiene<n>
+tra ley natural & diuina. Pues los españoles que tiene<n>
 por esclauos los yndios que ouieron por esclauos com-
 prados/ o conmutados/ o auidos de tributo/ o dados
 de gracia/ o por otra via auidos d<e>los yndios: los ouie-
 ron d<e>llos sabiendo/ o duda<n>do/ o siendo obligados a du-
 dar: que por la mayor parte eran contra justicia y con-
 tra ley natural & diuina hechos esclauos: Luego los es-
-pan~oles q<ue> tenian por esclauos los yndios enlas Yndias
+pañoles q<ue> tenian por esclauos los yndios enlas Yndias
 auidos delos yndios: tienen los con mala consciencia.
 La mayor desta razo<n> es clara & ninguno duda della q<u><<a>>n-
 to ala primera parte: que es qua<n>do lo sabe. Porq<ue> como
 aquel de quien este que agora tiene la cosa la ouo: no tu-
-uiesse algun sen~orio legitimo sobre aq<ue>lla: no pudo tras-
+uiesse algun señorio legitimo sobre aq<ue>lla: no pudo tras-
 pasalla ni dalla de gracia/ o vendella a otro. La razon
 es. Porq<ue> no puede alguno dar ni traspassar mas dere-
 cho a otro: del q<ue> tiene & si ninguno tiene ninguno dar
@@ -1057,7 +1057,7 @@ encia. La razon es: porque comete hurto/ y esta siem-
 pre en pecado mortal/ co<n>tratando la cosa agena contra}
 [fol. 16r]
 {CB1.
-la voluntad de su duen~o: todo el tiempo q<ue> no la restitu-
+la voluntad de su dueño: todo el tiempo q<ue> no la restitu-
 ya: como parece enla .l<ey>. 1 y enla .l<ey>. {LAT. qui ea me<n>te. ff. de fur-
 tis} y en el {LAT. cap<itulum>. si res. 14 q. 5:} y enla regla {LAT. peccatum. De re-
 gu. jur. lib. 6.} y el ladron {LAT. semp<er> est in mora. ff. de condi-
@@ -1074,9 +1074,9 @@ sa enel almoneda publica: la pueda hazer suya. La razo<n>
 es: porque no puede la ley humana: disponer cosa co<n>tra
 la ley natural/ o diuina/ ni contra las buenas costu<m>bres
 que prohiben el hurto y la possession/ o retinencia d<e>la
-cosa agena contra la volu<n>tad de su sen~or: porq<ue> el inferi-
-or ((como son todos los reyes)) no puede establecer cosa
-alguna contra la ley de Dios ((q<ue> es el superior d<e> todos))
+cosa agena contra la volu<n>tad de su señor: porq<ue> el inferi-
+or ≺como son todos los reyes≻ no puede establecer cosa
+alguna contra la ley de Dios ≺q<ue> es el superior d<e> todos≻
 {LAT. 8. distin. cap<itulum>. que contra:} y {LAT. cap<itulum>. final de p<re>su<m>ptionib<us>.} y.
 {LAT. 9 distin. cap<itulum>. 1 y 10 distin. cap<itulum>. 1 y 11 q. 3 cap<itulum>. si d<omi>n<u>s}
 y {LAT. cap<itulum>. julianus} y {LAT. 28 q. 1 cap<itulum>. jam nunc.} Y en otros mu-
@@ -1096,11 +1096,11 @@ como dize el dicho capitulo. {LAT. Grauis.} Y la l<ey>. {LAT. Si nauis.}}
 que compro la tal cosa: aunq<ue> la ley/ o estatuto diga q<ue> si:
 por la misma razon dicha: porques co<n>tra las buenas co-
 stumbres: porel dicho cap<itulo>. que contra.
-% Que tambien incurra enel mesmo vicio de hurto/ o
+¶ Que tambien incurra enel mesmo vicio de hurto/ o
 de robo: no solamente el que sabia la cosa que compra-
 ua ser hurtada/ pero tambien el q<ue> dudaua/ o probable-
-me<n>te deuia/ o era obligado a dudar ((ques la otra parte
-dela razo<n> mayor)) y no hizo dilige<n>cia antes que la ouie-
+me<n>te deuia/ o era obligado a dudar ≺ques la otra parte
+dela razo<n> mayor≻ y no hizo dilige<n>cia antes que la ouie-
 sse/ o comprasse: en saber la verdad del hecho: que no es
 otra cosa: sino negligencia: la qual es dexar de hazer el
 hombre lo que deue y puede no parando mie<n>tes enello:
@@ -1112,7 +1112,7 @@ nadie puede sin peccado hazer cosa en que dude auer de
 incurrir peccado: sin que primero salga dela duda. Di-
 zese ygnorancia y negligencia crassa y supina: quando
 comunmente se dezia/ y se creya por los vezinos/ y por
-las personas que aquellos negocios tratauan/ sen~ala-
+las personas que aquellos negocios tratauan/ señala-
 damente por las personas mas doctas/ y al parecer mas
 temerosas de dios/ y que se les parece no pretender yn-
 teresse temporal: a quien con justa razon se deue dar cre-
@@ -1152,14 +1152,14 @@ La quarta. Quando pide el parecer y co<n>sejo alos que
 son/ o tiene/ o deue tener por sospechosos por algunas
 razones. Enestos quatro casos no es alguno escusado
 si errare/ por consejo de letrados: si haze contra el dere-
-cho. Y por esta semejanc'a se deue regir el que dudare d<e>l
+cho. Y por esta semejança se deue regir el que dudare d<e>l
 hecho. He querido traer/ o referir estas quatro limi-
 taciones: porque en acordar se dellas/ aprouechara mu-
 cho para determinar enlas dudas y negocios/ especial
 mente tocantes alas consciencias delos que se sienten
 cargados: y dessean salir de escrupulos y asegurar se en
 las cosas delas yndias: y assi queda prouada la mayor.
-% La menor tiene dos partes. La vna q<ue> por la mayor
+¶ La menor tiene dos partes. La vna q<ue> por la mayor
 parte los yndios auidos delos yndios por esclauos:
 auer injustamente y co<n>tra ley natural y diuina [^2#sido] hechos}
 {SG. c}
@@ -1172,33 +1172,33 @@ guno niega aun delos mismos pecadores injustos y de
 los que hazen porellos. Y que si algu<n>os auia legitimos
 esclauos: ser muy pocos y estos no conocidos ni deter-
 minados: y ansi no ay que dudar desta parte. La segu<n>-
-da que los Espan~oles los ayan comprado y auido/
+da que los Españoles los ayan comprado y auido/
 o sabiendo que eran injustamente hechos esclauos/ o
-dudando/ o siendo obligados a dudar dello ((que es lo
-mismo que dudar)) por argumento del capi<tulo>. {LAT. si culpa .ibi
+dudando/ o siendo obligados a dudar dello ≺que es lo
+mismo que dudar≻ por argumento del capi<tulo>. {LAT. si culpa .ibi
 si scire debuisti &c. De iuiur. et dam. dat. vnde scire/ et
 debere scire: sunt paria. ff. pro emptore .l. qui fundus. §.
 seru<um>. ff. Si certum peta. l. quod te mihi. in fi. et. C. de
 lib. causa .l. filium. et. C. de episco. audien. l. si legibus.}
 Prueuolo desta manera. Porque todos los yndios q<ue>
-los espan~oles ouieron delos yndios por esclauos: o fue-
-ron auidos delos tributos: que les forc'auan a dar con
-los miedos y amenazas y fuerc'as y agrauios & crueles
+los españoles ouieron delos yndios por esclauos: o fue-
+ron auidos delos tributos: que les forçauan a dar con
+los miedos y amenazas y fuerças y agrauios & crueles
 & inhumanos tratamientos que les hazian: o delas di-
-uersas/ estran~as/ dolosas nuevas e<n> maldad/ & injusticia
+uersas/ estrañas/ dolosas nuevas e<n> maldad/ & injusticia
 y nefandas maneras arriba dichas/ enla prueua dela
 primera parte dela conclusion: y desto no aura hombre
 que dude por las cosas ya referidas: que sean esclauos
 dados y recebidos a sabiendas injustamente por escla-
 uos: y por consiguiente: que los que los tienen: los ten-
 gan y posean con mala consciencia. O los ouieron de
-los yndios comprados/ o por rescate ((como los espan~o-
-les dizen)) y de muchos y de los mas destos es la mis-
-ma razon .Porque dela misma manera que los forc'aua<n>
+los yndios comprados/ o por rescate ≺como los españo-
+les dizen≻ y de muchos y de los mas destos es la mis-
+ma razon .Porque dela misma manera que los forçaua<n>
 violentauan/ y amenazauan que se los diessen por tribu-
-to: assi forc'auan y atormentauan/ y amedrentauan alos
-Caciques y sen~ores diziendoles y levantando les que
-eran ydolatras ((aun antes que pensassen ser Christia-nos))}
+to: assi forçauan y atormentauan/ y amedrentauan alos
+Caciques y señores diziendoles y levantando les que
+eran ydolatras ≺aun antes que pensassen ser Christia-nos≻}
 [fol. 18r]
 {CB1.
 y que dirian alas justicias que adorauan y sacri-
@@ -1207,7 +1207,7 @@ tassen. Y como no tenian tantos quantos les pedian y
 robauan: como parece por el primer suppuesto: daua<n>les
 los yndios libres delos pueblos/ como se dixo en la
 prueua dela conclusio<n> enla primera parte. Y ouo enesto
-ta<n> desma<n>dada y rota corrupcio<n> ((como es notorio)) que
+ta<n> desma<n>dada y rota corrupcio<n> ≺como es notorio≻ que
 ouo de venir a oydos de Su Magestad el clamor y nue-
 uas della: por las quales mando embiar prouision que
 en ninguna manera se entendiesse mas en rescatar.
@@ -1220,11 +1220,11 @@ do los y contratando los antes de auer hecho dili-
 gente examinacion: eran y fueron y son posseedores
 de mala fee: y los tuuieron y tienen/ y posseyeron/ y
 posseen co<n> mala consciencia. Esta sequela es cierta: por-
-q<ue> como tanta multitud de gentes supiero<n> los espan~oles
+q<ue> como tanta multitud de gentes supiero<n> los españoles
 auer sido injusta y prauame<n>te hecha esclauos: y los que
-ouiesse ((si algunos auia)) justos: era<n> y podian ser tan po-
+ouiesse ≺si algunos auia≻ justos: era<n> y podian ser tan po-
 cos: y tambien yndeterminados/ que no se cognoscian:
-fueron los Espan~oles obligados a abstener se delos
+fueron los Españoles obligados a abstener se delos
 tales contratos: hasta certificar se/ si justamente auian
 sido hechos esclauos. Porque por cobdicia del pro-
 uecho temporal: no se pusiessen en peligro de perder
@@ -1233,8 +1233,8 @@ to suppuesto: y porque no fuessen vistos aprouar en
 dubda lo que los infieles hazian que era malo/ como
 se dixo en<e>l quarto. Que dudassen/ o deuiessen dudar:
 y por consiguiente: fuessen obligados a no los contra-
-ctar ((puesto q<ue> algunos ouiesse justame<n>te hechos escla-
-uos)) aunque porlo ya dicho parece estar prouado toda-via}
+ctar ≺puesto q<ue> algunos ouiesse justame<n>te hechos escla-
+uos≻ aunque porlo ya dicho parece estar prouado toda-via}
 {SG. c ij}
 [fol. 18v]
 {CB1.
@@ -1242,13 +1242,13 @@ de nueuo por otras euide<n>tes razones lo quiero pro-
 uar. La primera: porque todas las illicitas maneras q<ue>
 enel. 3. suppuesto se pusiero<n> auer tenido los yndios en
 hazer a yndios esclauos: eran al menos en comun a to-
-dos los espan~oles en aquellas tierras notorias: por la
+dos los españoles en aquellas tierras notorias: por la
 frequente y vehemente fama y della nacida comun y ve-
 hemente opinion/ q<ue> entre ellos auia: por las relaciones
 que les hazian los yndios: en q<ue> concedian auer auido
 entre ellos aquellas corrupciones y tirania plagiaria
 en tiempo de su infidelidad: y mucho mas despues de
-auer llegado los espan~oles. Porque como veyan q<ue> ta<n>to
+auer llegado los españoles. Porque como veyan q<ue> ta<n>to
 preciauan y tan gran diligencia ponian por tener escla-
 uos: mas se incitauan y mas priessa se dauan los yndios
 malos a tyranizar y hazer injustamente esclauos/ o por
@@ -1268,7 +1268,7 @@ hallamos vn yndio enesta tierra que justamente sea es-
 clauo. Y esto era publico ansi las sentencias que se daua<n>
 por los yndios en fauor dela libertad: como las pala-
 bras que los jueces dezian. Luego dubdauan los Es-
-pan~oles cerca desta materia/ o eran obligados a dub-
+pañoles cerca desta materia/ o eran obligados a dub-
 dar. La tercera razon es: porque muchos religiosos
 predicadores y confessores que sabian muy bien las
 lenguas/ y penetraua<n> los secretos delos yndios: tuuie-ron}
@@ -1280,30 +1280,30 @@ cada dia enlos pulpitos y fuera dellos affirmauan: que
 no auia esclauo cierto ni conocido yndio vno ni ningu-
 no. Y a estos tales que no les yua nada enello ni preten-
 dian otra cosa mas dela salud delas animas: eran obli-
-gados los Espan~oles a creer. Al menos bastaua y mu-
+gados los Españoles a creer. Al menos bastaua y mu-
 cho bastaua esta affirmacion delos tales: para causar
-duda enlos Espan~oles. Porque esta es la que se llama
-probable opinion ((conuiene a saber)) quando los mas
+duda enlos Españoles. Porque esta es la que se llama
+probable opinion ≺conuiene a saber≻ quando los mas
 sabios y mas experimentados/ y mas honestos/ y teme-
 rosos de Dios: y que menos interesse pretenden/ o la
 mayor parte dellos: affirman y tienen/ o les parece vna
-cosa ser verdad dan~osa/ o peligrosa: como dize el philo-
+cosa ser verdad dañosa/ o peligrosa: como dize el philo-
 sopho enel. 1. delos topicos. Alos quales son los hom-
 bres: al menos los q<ue> no tienen muchas letras: y comun-
 mente todos los seglares obligados a creer/ y a seguir
-enlas dubdas: sen~alada & infaliblemente si siguen y aco<n>-
+enlas dubdas: señalada & infaliblemente si siguen y aco<n>-
 sejan aquello enlo qual no ay peligro alguno/ o si lo ay
-es menor y de menos riesgo y dan~o q<ue> lo otro de que se
+es menor y de menos riesgo y daño q<ue> lo otro de que se
 duda: y si a caso yerran: llamase probable error: y son los
 que los siguen escusados: y los que no los siguen: arri-
 mando se antes a su parecer: yerran & ignoran improba-
-blemente/ y todo dan~o que de alli se sigue: les es impu-
+blemente/ y todo daño que de alli se sigue: les es impu-
 tado. Y esto tiene sin ningu<n>a duda lugar en aquellos ca-
 sos que los tales siguen: en lo que toca ala co[n]sciencia el
 camino mas seguro: desuiando se de donde ay peligro.
-Luego bien claro esta: los espan~oles en la materia de-
+Luego bien claro esta: los españoles en la materia de-
 los esclauos almenos auer sido obligados a dudar.
-% La quarta razon es: porque ellos mesmos vian y no
+¶ La quarta razon es: porque ellos mesmos vian y no
 podian ygnorar sus propias obras: que por ser ta<n> im-
 portunos y formidables alos yndios y prouocalles co<n>
 miedos y con cosas que les dauan a que les buscasen/
@@ -1312,35 +1312,35 @@ vendiessen/ o rescatassen esclauos: los yndios que esta-uan}
 [fol. 19v]
 {CB1.
 en su infidelidad: sin conocimiento/ ni amor/ ni te-
-mor de dios ((y aunq<ue> lo tuuieran y fueran baptizados:
+mor de dios ≺y aunq<ue> lo tuuieran y fueran baptizados:
 podian creer q<ue> pues los christianos lo hazian y aproba-
-uan no era malo)) por cudicia delo q<ue> les dauan/ o prome-
+uan no era malo≻ por cudicia delo q<ue> les dauan/ o prome-
 tian/ o amenazauan: se corrompian y desmandauan mu-
 cho mas delo de antes/ a hurtar los huerfanos y enga-
-n~ar alos simples q<ue> podian y tambien por fuerc'a: por lo
+ñar alos simples q<ue> podian y tambien por fuerça: por lo
 qual hazian muchos esclauos: & los vendian alos espa-
-n~oles xp<ist>ianos. Y esta fue efficacissima causa d<e> auer muy
+ñoles xp<ist>ianos. Y esta fue efficacissima causa d<e> auer muy
 mayor corrupcion entre los yndios de hazer esclauos
 injustamente q<ue> antes: despues que llegaron los christia-
 nos. Por manera que no solo los incitaron y diero<n> cau-
 sa/ a cometer mayores injusticias plagiarias: pero apro-
 baron aquellos tan grandes peccados contra lo questa
-dicho en<e>l principio. 4. % Pues como estas ocasiones/
+dicho en<e>l principio. 4. ¶ Pues como estas ocasiones/
 o por mejor dezir causas muy propinquas de ta<n>tos ma-
-les: no pudiessen los espan~oles ygnorar: da<n>do las ellos/
+les: no pudiessen los españoles ygnorar: da<n>do las ellos/
 y siendo propias obras suyas: siguese q<ue> dudaron/ o era<n>
-obligados a dudar. % La quinta razon es: porq<ue> co<n>tra-
+obligados a dudar. ¶ La quinta razon es: porq<ue> co<n>tra-
 tauan con gente y personas sospechosas: co<n>tra las qua-
 les segun la recta razon deuieran de sospechar & presu-
-mir q<ue> no era justo/ o q<ue> podia ser injusto lo q<ue> hazian ((co<n>-
-uiene a saber)) la venta y trato delos yndios que les ve<n>-
-dian y co<n>mutaua<n> por esclauos. % Lo vno porq<ue> eran in-
+mir q<ue> no era justo/ o q<ue> podia ser injusto lo q<ue> hazian ≺co<n>-
+uiene a saber≻ la venta y trato delos yndios que les ve<n>-
+dian y co<n>mutaua<n> por esclauos. ¶ Lo vno porq<ue> eran in-
 fieles/ y con temor y sospecha se auia de tratar con ellos:
 por no poner se en peligro de aprouar sus obras injus-
-tas/ por el suppuesto. 4. % Lo otro por las causas dichas
+tas/ por el suppuesto. 4. ¶ Lo otro por las causas dichas
 que les dauan/ assaz sufficientes para presumir contra
-ellos: como esta declarado. % Lo otro por lo que sabia<n>
-los espan~oles/ y era publica voz y fama: auer tenido los
+ellos: como esta declarado. ¶ Lo otro por lo que sabia<n>
+los españoles/ y era publica voz y fama: auer tenido los
 yndios entre si enel tiempo de su infidelidad: diuersas
 maneras/ iniquas & tiranicas de hazer los libres escla-
 uos. Pues como los yndios fuessen sospechosos de aq<ue>l
@@ -1349,13 +1349,13 @@ crimen plagiario: que es hazer contra justicia los hom-bres}
 {CB1.
 libres esclauos por las razones dichas: y esto lo ha-
 zian no vna vez/ sino muchas: como parece en el. 3. prin-
-cipio. Lo qual ((como esta dicho)) era publica fama en-
+cipio. Lo qual ≺como esta dicho≻ era publica fama en-
 tre todos: siguese que se deuia de presumir y sospechar
 contra ellos/ por aquellos almenos que conellos contra-
 tauan: no ser legitimamente hechos/ los que los vendi-
 an por esclauos: y por consiguiente: la razon les deuie-
 ra de ynduzir a dudar y a ello eran obligados. Porque
-la fama publica no tiene necessidad d<e> prouanc'a: ansi co-
+la fama publica no tiene necessidad d<e> prouança: ansi co-
 mo no la tiene la cosa notoria: como se nota en el capitu<lo>.
 {LAT. Quia nos. de appella.} y el Baldo dize en la .l<ey>. {LAT. prouiden-
 dum. C. de postulan.} Que la fama publica prueua la ver-
@@ -1373,7 +1373,7 @@ auian de ser tenidos por tales/ para temer y huyr de
 contractar conellos en aquellos contractos. Porque
 la pez no puede sino ensuziar al que con ella tratar: como
 dize el ecclesiastico. 13: {LAT. Qui tetigerit picem: inquina-
-bitur ab ea.} % Jtem la presumption del derecho tam-
+bitur ab ea.} ¶ Jtem la presumption del derecho tam-
 bien fauorece a esto. Que dizque el que es vna vez ma-
 lo: siempre se presume ser en aquel peccado malo: segun
 la regla: {LAT. semel malus: de regulis iuris libro sexto.} Co-
@@ -1387,8 +1387,8 @@ lo paruuli. 22. question quinta. Et .l. si cui. §. isdem.}}
 {LAT. ff. de accusa.} Y esta presuncion del derecho es liquidissi-
 ma probacion: como dize el texto y la regla & los docto-
 res enla .l<ey>. {LAT. si tutor .C. de periculo tuto.} Pues como los
-yndios no vna sino muchas vezes ((como ya se ha dicho
-y prouado)) hiziessen injustame<n>te esclauos: siguese que
+yndios no vna sino muchas vezes ≺como ya se ha dicho
+y prouado≻ hiziessen injustame<n>te esclauos: siguese que
 siempre se auia de presumir y tener: que hazian y ven-
 dian injustamente esclauos .Porque segun se nota enel
 capi<tulo>. {LAT. ad n<ost>ram. de emptio. et venditio.} Que el contrato
@@ -1397,10 +1397,10 @@ dineros a vsura por la .l<ey>. {LAT. si nolit §. qui assidua .ff. de edi-
 li edicto.} Y desta manera si el vendedor solia ser ladron:
 presume se que aquello que agora vende sea hurtado.
 Pues los yndios solian hurtar y hazer injustamente
-los hombres libres esclauos ((que es ser plagiarios)) lue-
-go los que alos Espan~oles vendian: por recta razon se
+los hombres libres esclauos ≺que es ser plagiarios≻ lue-
+go los que alos Españoles vendian: por recta razon se
 deuian de presumir ser hurtados/ y los que los vendia<n>
-plagiarios. Luego obligados eran los espan~oles/ que
+plagiarios. Luego obligados eran los españoles/ que
 conellos contratauan en aquella mercaduria/ almenos
 a dudar: y aun a temer de ensuziar las almas con la pez
 de aquella tyrania: luego dudaron/ o eran obligados
@@ -1416,22 +1416,22 @@ no no es escusado: si primero no inquiere y es certifica-
 do dela condicion de aquel con quien quiere hazer al-
 gun contracto: y si no hace esta dilige<n>cia: todos los ma-
 les que de alli se siguieren/ con razon le seran imputa-
-dos. Sentencia es esta: para que conozcan los espan~o-
+dos. Sentencia es esta: para que conozcan los españo-
 les delas yndias/ por todas las obras q<ue> alla han hecho: }
 [fol. 21r]
 {CB1.
 biuir en harto peligroso & poco menos q<ue> infernal esta-
 do. Resoluiendo pues todo lo suso dicho al fin que pre-
 tende esta parte/ digo ansi: que como todos los yndios
-que los espan~oles tienen enlas yndias por esclauos: al-
-menos en toda la nueua espan~a y en la nueua Galizia
+que los españoles tienen enlas yndias por esclauos: al-
+menos en toda la nueua españa y en la nueua Galizia
 y enel Reyno de Guatimala/ y enla prouincia de Chia-
 pa/ y enel Reyno de Jucatan/ y enlas prouincias de
 Honduras/ y enla de Nicaragua: y en todas las otras
 partes a do<n>de d<e>las suso dichas/ los ha<n> lleuado: auidos
 de otros yndios/ o por via de tributos/ o rescatados/ o
-comprados ((sacados los que a sabiendas lo hizieron:
-de quien nadie puede dudar auer graueme<n>te peccado))
+comprados ≺sacados los que a sabiendas lo hizieron:
+de quien nadie puede dudar auer graueme<n>te peccado≻
 ciertamente dudaron/ o eran obligados a dudar de a-
 quella injusticia plagiaria: y por ende tuuieron certi-
 dumbre por lo que en el. 5. suppuesto fue prouado: y por
@@ -1464,7 +1464,7 @@ establecidas contra tales ladrones plagiarios/ co-
 mo parece enla .l<ey>. {LAT. fauia.} y enla .l<ey>. {LAT. fi. ff. ad .l. faui. de plagi.}
 y .C<apitulo>. {LAT. eodem titulo} / y para esto vea se lo que se nota enel.
 C<apitulo>. 1. {LAT. de furtis.} por los doctores. lo mismo entie<n>do/ y ansi
-lo affirmo de aquellos Espan~oles que/ a sabiendas los
+lo affirmo de aquellos Españoles que/ a sabiendas los
 ouieron delos otros immediatos/ a quien los yndios
 primero los dieron: aunque passen mil manos. La ra-
 zon es .Porque no ay hombre de qua<n>tos enlas yndias
@@ -1479,7 +1479,7 @@ ne. Y aun a mas se estiende esta su obligacion: que deue
 inquirir por todas las vias y maneras que pudiere: pa-
 ra saber si fueron justa/ o injustame<n>te captiuos los que
 tienen por esclauos. Porque ya que la audiencia lo de-
-terminasse ((como se podria engan~ar)) si por otra parte
+terminasse ≺como se podria engañar≻ si por otra parte
 la verdad se aueriguasse: no quedaua descargado: si lue-
 go no lo pusiesse en libertad: como se tracta bien nota-
 blemente por Jnnocencio y los otros doctores enel. c<apitulo>.
@@ -1501,7 +1501,7 @@ razo<n> se puede assignar/ no vna: sino muchas. La prime-
 ra es .Porq<ue> no se sabe ni puede aueriguar se: si eran aui-
 dos dela parte que la guerra era justa: y es razon q<ue> los
 Christianos antes presumamos ser dela parte no justa:
-porque quic'a no piensen los infieles q<ue> nos plaze y agra-
+porque quiça no piensen los infieles q<ue> nos plaze y agra-
 da vsar y gozar de qualesquiera cosas indiferentemen-
 te/ que ellos mal/ o bien tenian: en especial si saben ellos
 mismos auer auido aq<ue>llos en guerra injusta. Esto deue-
@@ -1516,48 +1516,48 @@ ecclesie dei: sicut ego p<er> o<mn>ia placeo: non quere<n>s q<uam> mihi
 vtile est/ sed quod multis: vt salui fiant.} La. 2. razon es .
 Porque enlas dudas sie<m>pre se a de seguir la via q<ue> es se-
 gura: y dexar la dudosa: y donde menos peligro y do<n>de
-menos riesgo y dan~o ay .En que se presuma no auer sido
+menos riesgo y daño ay .En que se presuma no auer sido
 auidos en justas guerras: por la presuncio<n> q<ue> ya contra
 los yndios por ser infieles/ y por auer peccado ta<n>tas ve-
 zes enesta materia de hazer esclauos/ no legitimame<n>te:
-por lo q<ue> esta dicho enla. 5. razo<n> ((poco antes arriba recita-
-da)) pues no se sabe la verdad: y por co<n>siguie<n>te: q<ue> los ta-
-les no se deua<n> de tener por esclauos menos dan~o y menor
+por lo q<ue> esta dicho enla. 5. razo<n> ≺poco antes arriba recita-
+da≻ pues no se sabe la verdad: y por co<n>siguie<n>te: q<ue> los ta-
+les no se deua<n> de tener por esclauos menos daño y menor
 peligro ay: q<ue> no en q<ue> aq<ue>l padezca injusto catiuerio/ y el
-espan~ol q<ue> lo possee: contra quie<n> tambien ay ta<n> grandes
+español q<ue> lo possee: contra quie<n> tambien ay ta<n> grandes
 y vehementes presunciones y en muchas cosas cerca}
 [fol. 22v]
 {CB1.
-desto se halla culpado: incurra enel anima quic'a jactu-
-ra y muerte eternal. % La tercera: por razon dela diffi-
+desto se halla culpado: incurra enel anima quiça jactu-
+ra y muerte eternal. ¶ La tercera: por razon dela diffi-
 cultad q<ue> ay por la connexidad/ & dificil separacion/ & in-
 certidu<m>bre: Manifiesto es: que [de] cient mil/ & quinientos
 mil yndios/ o al menos de muy muchos q<ue> los yndios a-
 yan dado de gracia/ o por tributos/ o vendidos y co<n>mu-
-tados alos espan~oles por esclauos: no se sabra ni aueri-
+tados alos españoles por esclauos: no se sabra ni aueri-
 guara: ni ho<m>bre de consciencia osara affirmar ser vno to-
 mado e<n>las guerras/ & mucho menos en justas guerras
-delos yndios por esclauo. % Jtem ya q<ue> se supiesse q<ue> en-
+delos yndios por esclauo. ¶ Jtem ya q<ue> se supiesse q<ue> en-
 tre tantos millares auia alguno/ o algu<n>os tomados en
 las guerras por esclauos: como se conosceran/ separara<n>
-& distinguiran? % La quarta: porq<ue> si quisiessemos pa-
+& distinguiran? ¶ La quarta: porq<ue> si quisiessemos pa-
 rar en d<e>zir: q<ue> se deuia d<e> diffirir en dar la libertad a mu-
 chos/ y a tanta multitud: por inquirir el captiuerio de
 algunos/ o de pocos seria: en p<er>juyzio delos muchos: lo
 q<ue> no se puede segun ley & justicia y charidad sufrir: an-
 tes esta prouado enel. 6. principio: q<ue> no se ha d<e> hazer bi-
-en a vnos: con dan~o de otros. Especialmente siendo el
-dan~o de muchos tan grande: como es la priuacion dela
+en a vnos: con daño de otros. Especialmente siendo el
+daño de muchos tan grande: como es la priuacion dela
 libertad: y el prouecho de aq<ue>l que pretende auer aque-
 llos pocos por esclauos/ tam[ ]poco: porq<ue> es bien de hazi-
 enda/ o dineros: y perdella/ o p<er>dellos es mucho menos
-mal. Antes se ha de hazer porel co<n>trario ((conuiene a sa-
-ber)) bien a[ ]todos: como es juzgallos en comun por dig-
+mal. Antes se ha de hazer porel co<n>trario ≺conuiene a sa-
+ber≻ bien a[ ]todos: como es juzgallos en comun por dig-
 nos de su libertad: aunque aya algunos entre ellos: q<ue>
 deuiessen padescer seruidumbre. Porque so color de
 punir al delinquente: no padezcan injustamente tan-
 tos ynnoce<n>tes: como enel dicho. 6. principio parescio.
-% La. 5. porque tratando de que algu<n>os sean esclauos:
+¶ La. 5. porque tratando de que algu<n>os sean esclauos:
 es tratar de imponer pena/ y gran pena como es la ser-
 uidumbre: y no se cognosce a quien se deue dar: luego
 todos deuen de ser juzgados por libres: porque esto tie-
@@ -1566,34 +1566,34 @@ ne menos inconuenientes: como en muchas partes}
 {CB1.
 arriba se ha notado. La. 6. porq<ue> no es vna mesma cosa/
 ni cierto es ygual: ser esclauo delos yndios/ o ser escla-
-uo delos espan~oles: como prouamos enel segundo prin-
+uo delos españoles: como prouamos enel segundo prin-
 cipio. Porq<ue> ser esclauo entre los yndios delos yndios:
 es tener muy poq<u><<i>>to menos q<ue> los propios hijos muy cu<m>-
 plida libertad: & la vida y tractamiento q<ue> tienen co<n> sus
 propios amos: es todo blando y suaue. Pero la serui-
-dumbre q<ue> tienen entre los espan~oles: es toda infernal:
+dumbre q<ue> tienen entre los españoles: es toda infernal:
 sin ninguna blandura/ sin algun co<n>suelo/ y descanso: sin
 dalles vn momento p<ar>a q<ue> resuellen/ y el tratamie<n>to ordi-
 nario de injurias y tormentos durissimo y asperrimo:
 todo lo q<u><<a>>l al cabo y en breues dias les es co<n>uertido en
 pestilencia mortal. Pues si tanta differencia ay de ser el
-yndio esclauo del indio/ o ser del espan~ol esclauo: y esto
+yndio esclauo del indio/ o ser del español esclauo: y esto
 ansi tenian por sus leyes y costu<m>bres: las quales son ju-
 stas: & valen enesta materia de seruidu<m>bre y libertad: por
 el cap<itulo>. {LAT. licet.} y por lo q<ue> alli nota<n> los doctores {LAT. de co<n>jugio
 seruo<rum>:} claro esta: q<ue> no pudieron traspassar mas dere-
-cho alos espan~oles: q<ue> ellos tenian en sus esclauos. Pues
-si los espan~oles tan desmandada y excessiua y cruelme<n>te
+cho alos españoles: q<ue> ellos tenian en sus esclauos. Pues
+si los españoles tan desmandada y excessiua y cruelme<n>te
 se siruen delos yndios: que los yndios les dieron por escla-
-uos ((aunq<ue> verdaderame<n>te se supiesse auer sido en guer-
-ras justas/ justamente hechos/ esclauos)) q<ue> al cabo enla
+uos ≺aunq<ue> verdaderame<n>te se supiesse auer sido en guer-
+ras justas/ justamente hechos/ esclauos≻ q<ue> al cabo enla
 tal ynhumana seruidumbre los matan: manifiesto es q<ue>
 todo aquel demasiado seruicio les roban y vsurpa<n> y les
 son a[ ]pagallo obligados: alle<n>de dela crueldad q<ue> co<n> ellos
 enel tal tratamiento continuo vsan: conel qual al fin los
-destruyen y acaban. % Y porq<ue> ninguna ley ni razon ni
-ordenanc'a ((como tenemos por experiencia)) basta-
-ria: para que moderassen ni pusiessen regla los espan~o-
+destruyen y acaban. ¶ Y porq<ue> ninguna ley ni razon ni
+ordenança ≺como tenemos por experiencia≻ basta-
+ria: para que moderassen ni pusiessen regla los españo-
 les enlos seruicios & tractamientos que delos tales yn-
 dios suelen lleuar: para que no se siruiessen mas dellos/
 de lo que los yndios q<ue> los vendieron les pudieron tras-
@@ -1601,24 +1601,24 @@ passar: por ende q<u><<a>>ndo alguno se hallasse ser entre los indi-os}
 [fol. 23v]
 {CB1.
 justamente hecho esclauo: en ninguna manera segu<n>
-justicia/ al espan~ol se le deue de dexar: sino q<ue> conforme
+justicia/ al español se le deue de dexar: sino q<ue> conforme
 al juyzio de buen varo<n> el yndio le recompense aquel de-
 recho: q<ue> el que se lo vendio/ o dio d<e> gracia tenia/ y le pu-
 do conceder/ o donar/ o traspassar: tomando le en quen-
-ta todo aq<ue>llo demasiado: en q<ue> no tuuo derecho ni sen~o-
+ta todo aq<ue>llo demasiado: en q<ue> no tuuo derecho ni seño-
 rio sobre el q<ue> co<n>tra justicia le vsurpo. Porq<ue> si por negar
 el alime<n>to necessario al q<ue> es v<er>dadero esclauo: y lo echa
-el sen~or de su casa sin dalle remedio en tiempo de enfer-
+el señor de su casa sin dalle remedio en tiempo de enfer-
 medad: lo tiene p<er>dido luego: y desde ento<n>ces segun las
-leyes humanas (({LAT. de latina libertate tollenda .l. vnica. §.
-sed scim<us>} )) y desde entonces goza el esclauo de toda su li-
-bertad: quanto mas deue perder el espan~ol el poco serui-
+leyes humanas ≺{LAT. de latina libertate tollenda .l. vnica. §.
+sed scim<us>} ≻ y desde entonces goza el esclauo de toda su li-
+bertad: quanto mas deue perder el español el poco serui-
 cio quel indio de q<ue> hablamos le deue: y el ser librado d<e>
 tanto mal: pues de necessidad ha de p<er>ecer en aq<ue>lla hor-
 rible seruidumbre? Aunq<ue> menos q<ue> esto es lo que dezi-
-mos ((conuiene a saber)) q<ue> se le recompense en otra cosa:
+mos ≺conuiene a saber≻ q<ue> se le recompense en otra cosa:
 y el indio luego comience a conoscer q<ue> cosa es libertad
-% La. 7. razon es: por causa dela eq<u><<i>>dad & benignidad
+¶ La. 7. razon es: por causa dela eq<u><<i>>dad & benignidad
 de q<ue> enesta materia los derechos canonico y ciuil man-
 dan vsar: porq<ue> siempre hemos de declinar enla via y opi-
 nion benigna aparta<n>do nos dela rigurosa: y si ambas
@@ -1641,21 +1641,21 @@ cap<itulo>. 2. {LAT. de cognatio. spirituali.} y enla .l<ey>. {LAT. sunt p<er>so
 ff. de religio. et sumptis. fune.} Tambien se dize mas be-
 nigna la q<ue> libra: que la que ata .Por la regla {LAT. odia. de re-
 gu. jur.} lib<ro> 6 en la dicha .l<ey>. {LAT. Arrianus ff. de actio. et obli-
-ga.} % De todo lo susodicho se sigue bien claro: que pu-
-es todos los derechos ta<n>to fauorece<n> ((y co<n> mucha razo<n>))
+ga.} ¶ De todo lo susodicho se sigue bien claro: que pu-
+es todos los derechos ta<n>to fauorece<n> ≺y co<n> mucha razo<n>≻
 ala libertad: y segu<n> ellos qua<n>do ay duda se ha de pronu<n>-
 ciar y sentenciar en fauor dela libertad: y este probado
 q<ue> no se pueden conoscer ni discernir si algu<n>os dellos fue-
 ron en justa guerra tomados/ o por otra legitima razo<n>
 hechos esclauos: que todos los yndios de q<ue> hablamos
-auidos d<e>los yndios q<ue> tiene<n> los espan~oles por esclauos:
-se deuen luego sin tardanc'a de necessidad poner en li-
+auidos d<e>los yndios q<ue> tiene<n> los españoles por esclauos:
+se deuen luego sin tardança de necessidad poner en li-
 bertad: porq<ue> aun mucho mejor y seguro es hazer libres
 a muchos no sabie<n>do determinadame<n>te quales ni qua<n>-
 tos son: puesto que sabida la verdad si saber se pudiesse
 deuieran segu<n> justicia ser esclauos: que condenar a vno
-solo co<n>tra justicia ((deuiendo ser libre)) a tanto mal y da-
-n~o como es la seruidumbre: por la regla arriba puesta de
+solo co<n>tra justicia ≺deuiendo ser libre≻ a tanto mal y da-
+ño como es la seruidumbre: por la regla arriba puesta de
 los muchos d<e> homicidio accusados. Qua<n>to mas sie<n>do
 ta<n>tos y tan sin numero los q<ue> contra toda ley y razo<n> fue-
 ron captiuos: y a quien se les ha vsurpado su libertad:
@@ -1665,8 +1665,8 @@ que se hallaran legitimamente esclauos: y estos incerti-
 ssimos: y de mil no se hallara vno: aunque con summa
 diligencia los quieran discernir/ o buscallos. Por ma-
 nera queste es el caso donde las reglas puestas enel sex-
-to principio: tienen muy cierto lugar ((conuiene a sa-
-ber)) que algunas vezes se deuen admittir y admit-
+to principio: tienen muy cierto lugar ≺conuiene a sa-
+ber≻ que algunas vezes se deuen admittir y admit-
 ten justamente algunas determinaciones por ciertos
 respectos y razones que se ofrecen: las quales si ces-
 assen: aquellas cosas con Justicia no se podrian}
@@ -1677,22 +1677,22 @@ go demasiado: como en<e>l caso que tenemos entre manos:
 antes que hazer menos delo necessario: y de muchas co-
 sas seguir la que tiene menos inconuenientes: y todo
 esto parece por el. 5. y el. 6. suppuestos.
-% Por todas las cosas ya dichas y allegadas creo: que
+¶ Por todas las cosas ya dichas y allegadas creo: que
 queda bien prouada la conclusion con sus partes q<ue> di-
 ze. Todos los yndios que se han hecho esclauos en las
 Jndias del mar oceano desde que se descubriero<n> hasta
-oy: han sido injustame<n>te hechos esclauos: y los espan~o-
+oy: han sido injustame<n>te hechos esclauos: y los españo-
 les posseen alos que oy son biuos por la mayor parte co<n>
 mala consciencia: aunque sean delos que ouieron de-
 los yndios.
-{RUB. % Desta conclusio<n> y de sus par-
-tes y dela prouanc'a dellas: infiero los
+{RUB. ¶ Desta conclusio<n> y de sus par-
+tes y dela prouança dellas: infiero los
 siguientes corrolarios.}
-{RUB. % Corrolario primero.}
+{RUB. ¶ Corrolario primero.}
 {IN2.} SU Magestad es obligado de precepto diuino a ma<n>-
 dar poner en libertad todos los yndios: que los es-
-pan~oles tienen por esclauos.
-% Prueua se el corrolario por tres razones. La prime-
+pañoles tienen por esclauos.
+¶ Prueua se el corrolario por tres razones. La prime-
 ra porque su Magestad de precepto diuino es obliga-
 do a hazer justicia: ansi al chico como al grande: segun
 aquello del deu<teronomio> cap<itulo>. 1 y leuitico. 19: {LAT. Justum iuditium
@@ -1710,7 +1710,7 @@ mias. cap<itulo>. 21. y. 22. Donde se dize: {LAT. iudicate mane iudi-
 ciu<m>. i. prius q<uam> aliud negociu<m> faciatis: eruite vi oppres-
 sum de manu calu<m>niantis: ne forte egrediat vt ignis in-
 dignatio mea: et succedatur et no<n> sit qui extinguat.
-% Jtem ibi. facite iudicium et iusticiam/ et liberate vi
+¶ Jtem ibi. facite iudicium et iusticiam/ et liberate vi
 oppressum de manu calu<m>niatoris: et a duena<m> & pupillu<m>
 et vidua<m> nolite contristari: nec opprimetis inique &c.}
 Deste texto saco sant Jeronimo aq<ue>l capitulo q<ue> se pone.
@@ -1732,15 +1732,15 @@ saurizastis vobis ira<m> in nouissimis dieb<us>: ecce merces
 operario<rum> qui messueru<n>t regiones vestras/ que frauda-
 ta est a vobis clamat: & clamor eo<rum> in aures d<omi>ni sabaoth
 introiuit: hec ille.} Pues los yndios q<ue> se tienen por los
-Espan~oles por esclauos/ estan injustame<n>te oppressos y
-padescen fuerc'a y violencia delos mas fuertes q<ue> ellos
-calumniadores y oppressores: q<ue> son los Espan~oles/ co-
+Españoles por esclauos/ estan injustame<n>te oppressos y
+padescen fuerça y violencia delos mas fuertes q<ue> ellos
+calumniadores y oppressores: q<ue> son los Españoles/ co-
 mo esta prouado: y ningun remedio tienen: y esta tyra-
 nia consta/ o deue constar ya por las residencias: por}
 {SG. d}
 [fol. 25v]
 {CB1.
-infinitos processos: & muchas prouanc'as q<ue> se han hecho
+infinitos processos: & muchas prouanças q<ue> se han hecho
 eneste caso y porque es publica boz y fama: y notoria p<er>-
 manente a todo el mundo la desorden y corruption que
 ha auido en hazer esclauos: & no se ha podido ygnorar
@@ -1750,15 +1750,15 @@ y no se deue mas dissimular ni admitir ni oyr: antes
 se deue repeller con gran ygnominia a qualquiera que
 quisiere dorar/ escusar/ differir la execution desta justi-
 cia: pues es el hecho tan notoriamente cierto perpetra-
-do y tan malo. % La. 2. razon: porque los reyes justos
+do y tan malo. ¶ La. 2. razon: porque los reyes justos
 aun entre los gentiles & infieles tienen/ o deuen tener
-por fin: no solo q<ue> sus subditos (^2#v)[^2#b]iuan en paz ((La qual se
+por fin: no solo q<ue> sus subditos (^2#v)[^2#b]iuan en paz ≺La qual se
 adquiere por hazer y executar justicia: segun aquello d<e>
-Esayas. 32. {LAT. Opus justicie pax} )) Pero tambien en quan-
+Esayas. 32. {LAT. Opus justicie pax} ≻ Pero tambien en quan-
 to fuere possible siga<n> el camino delas virtudes: como el
 philosofo trae. 2. 5. y. 8. {LAT. ethico<rum>.} Porq<ue> el fin vltimo de
 qualquiera multitud ayuntada en reyno/ o ciudad: es
-((segu<n> el mismo philosofo)) (^2#v)[^2#b]ivir segun la virtud: mucho
+≺segu<n> el mismo philosofo≻ (^2#v)[^2#b]ivir segun la virtud: mucho
 mas y con mayor razon los principes y Reyes catholi-
 cos & Christianos q<ue> siruen a xp<ist>o: y han de seruir {LAT. in ti-
 more:} son obligados a ordenar su regimiento y en qua<n>-
@@ -1779,10 +1779,10 @@ llo que dize sant Pablo. 1. {LAT. ad corinth. 3. ministri eius}}
 {LAT. cui credidistis: et vnicuiq<ue> sicut d<omi>n<u>s dedit: ego planta-
 ui: Apollo rigauit: sed dominus incrementum dedit.} Y
 un poquito mas abaxo. {LAT. Dei enim sum<us> adiutores.}
-% Que los reyes christianos sean obligados/ a ende-
-rec'ar los subditos q<ue> tienen en sus reynos al seruicio d<e>
-dios & (^2#v)[^2#b]ivir segun la ley Christiana ((en qua<n>to en si fue-
-re)) y enlos actos: que tocan asu officio seglar y real: tra-
+¶ Que los reyes christianos sean obligados/ a ende-
+reçar los subditos q<ue> tienen en sus reynos al seruicio d<e>
+dios & (^2#v)[^2#b]ivir segun la ley Christiana ≺en qua<n>to en si fue-
+re≻ y enlos actos: que tocan asu officio seglar y real: tra-
 ctalo sant augustin libro. 4. cap<itulo>. 3 y libro. 19. cap<itulo>. 16.
 y mas cumplidamente cap<itulo>. 7. y sancto Thomas libro.
 primero capitu<lo>. 14. y. 15. {LAT. de regimine principum.} Don-
@@ -1792,21 +1792,21 @@ officium p<er>tinet ea ratione vita<m> multitudinis bona<m> pro-
 curare secundu<m> quod co<n>gruitad celeste<m> beatitudine<m>: vt
 s. ea precipiat q<ue> ad celeste<m> beatitudine<m> ducunt: et eo<rum> co<n>-
 traria secundu<m> quod fuerit possibile i<n>terdicat. &c. Hec
-ille.} Pues como los espan~oles q<ue> tienen los yndios por
+ille.} Pues como los españoles q<ue> tienen los yndios por
 esclauos injustame<n>te y co<n>tra consciencia esten sie<m>pre en
 pecado mortal: & por co<n>siguiente no (^2#v)[^2#b]iuan vida xp<ist>iana/
 y sean impedimentos para su salvacion: q<ue> es el fin a que
-enderec'a y deue d<e> enderec'ar todo el regimie<n>to y go-
+endereça y deue d<e> endereçar todo el regimie<n>to y go-
 uernacion delos Reyes christianos: siguese q<ue> pues su
-Magestad los puede q<u><<i>>tar facil & muy facilme<n>te ((y aun
-q<ue> fuesse con difficultad)) q<ue> su Magestad es obligado de
+Magestad los puede q<u><<i>>tar facil & muy facilme<n>te ≺y aun
+q<ue> fuesse con difficultad≻ q<ue> su Magestad es obligado de
 precepto diuino a ma<n>dar poner todos los yndios: que
-los espan~oles tienen enlas yndias por esclauos ensu pri-
+los españoles tienen enlas yndias por esclauos ensu pri-
 stina y q<ue> les han vsurpado/ libertad. Porq<ue> a su officio
 real pertenesce: preparar & disponer la materia q<ue> son las
 animas: por sus leyes/ ma<n>dados & prouisiones/ y por la
 administracio<n> y execucion dela justicia/ quitando los
-impedimentos/ y enderec'ando alas virtudes: porq<ue> los
+impedimentos/ y endereçando alas virtudes: porq<ue> los
 ministros sp<irit>uales las pueda<n> apropinq<u><<a>>r y p<er>fecionar por
 sus actos hierarchicos (^2#ecclos)[^2#eccl<esiast>icos] y diuinos: & ansi llegue<n>
 ala vltima disposicion q<ue> se requiere p<ar>a recebir la forma}
@@ -1816,13 +1816,13 @@ ala vltima disposicion q<ue> se requiere p<ar>a recebir la forma}
 que es la gracia del spiritu sancto. La tercera razon es
 porque los Reyes y Principes temporales/ son obli-
 gados de derecho diuino: a ayudar y fauorecer & im-
-partir su fauor y fuerc'as temporales cada y qua<n>do que
+partir su fauor y fuerças temporales cada y qua<n>do que
 fuere<n> menester: para que la sancta madre yglesia crezca
 y su disciplina y reglas se conseruen: y lo que sus mini-
-stros ((que la rigen)) no pueden con el sermo<n> dela doctri-
+stros ≺que la rigen≻ no pueden con el sermo<n> dela doctri-
 na/ ni con la blandura dela disciplina spiritual: enlos q<ue>
 se llaman christianos desobedientes y soberuios effe-
-ctuar: lo consigua por el terror delas armas y fuerc'as q<ue>
+ctuar: lo consigua por el terror delas armas y fuerças q<ue>
 los Reyes tienen y vsan materiales. Y desta manera el
 Reyno celestial crezca y aproueche por industria & ayu-
 da del Reyno terrenal/ porque si esto no fuesse: no seria<n>
@@ -1855,30 +1855,30 @@ de ligurib<us>.} Y en otros muchos. Pues como enlas Jn-
 dias la yglesia y sus ministros q<ue> la rigen y deuen regir:
 no puedan por el sermo<n> dela doctrina: ni por la blandu-
 ra medicinal d<e>la disciplina aprouechar ni remediar la
-perdicio<n> de muchas animas de espan~oles: q<ue> por esta in-
+perdicio<n> de muchas animas de españoles: q<ue> por esta in-
 justicia y oppression estan en continuo peccado mortal:
 los quales por su inobediencia y de muchos obstinada
 voluntad: no curan/ ni temen/ ni estiman las amonesta-
 ciones delos perlados ni amenazas/ ni censuras eccle-
-siasticas: enlo q<u><<a>>l an~aden peccados a peccados: y ansi des-
+siasticas: enlo q<u><<a>>l añaden peccados a peccados: y ansi des-
 crece y se mengua/ y esta afligida la yglesia padescie<n>do
 cada dia grandes tribulaciones & adversidades: y para
 pedir socorro efficaz esta lexos y muy lexos Su Mage-
 stad: y las justicias q<ue> alla tiene no lo dan: siguese su ma-
 gestad ser obligado a ma<n>dar poner los dichos yndios
-((que padece<n> el dicho injusto captiuerio)) en libertad: y
-dar todo su fauor y poner sus fuerc'as temporales: para
+≺que padece<n> el dicho injusto captiuerio≻ en libertad: y
+dar todo su fauor y poner sus fuerças temporales: para
 que aq<ue>llos sea<n> obedie<n>tes & salga<n> de peccado: y los agra-
 uiados ta<m>bien q<ue> son los yndios injustamente esclauos:
 no sean impedidos enla salud de sus animas: tenie<n>do lu-
 gar y oportunidad para ser doctrinados. Y desta mane-
 ra la yglesia co<n>siguira por medio & industria real el fin
-q<ue> pretende: que por si no puede alca<n>c'ar. Y los perlados
-ministros della terna<n> libre y desembarac'ado llano y su-
+q<ue> pretende: que por si no puede alca<n>çar. Y los perlados
+ministros della terna<n> libre y desembaraçado llano y su-
 jecto el pueblo para poder cu<m>plidamente exercer su offi-
 cio pastoral. Y ansi queda por verdadero el primer corro-
 lario: del q<u><<a>>l y de su prueua se sigue el otro. 2. corrolario.
-{RUB. % Corrolario segundo.}
+{RUB. ¶ Corrolario segundo.}
 {IN2.} LOs obispos delas Jndias son de precepto diuino
 obligados y por consiguiente de necessidad: a insi-
 stir y negociar importunamente ante su magestad y su}
@@ -1888,7 +1888,7 @@ stir y negociar importunamente ante su magestad y su}
 real consejo: q<ue> ma<n>de librar dela opp<re>ssion & tyrania q<ue> pa-
 descen los dichos yndios q<ue> se tienen por esclauos/ y se-
 an restituydos asu pristina libertad: & poresto si fuere
-necessario a[+]resgar las vidas.
+necessario a( )resgar las vidas.
 {IN2.} PRuebase quanto ala p<r><<i>>mera parte: el Corrolario:
 {LAT. ratione & auctoritate multiplici: primo sic. Episco-
 pi omnes obliga<n>tur iure diuino: et co<n>sequent de neces-
@@ -1898,14 +1898,14 @@ tes officiu<m>: sed inter hos computantur: no<n> solum regere
 ac docere plebes sibi co<n>missas/ et p<ro>uidere qua<n>tu<m> ad spi-
 ritualia: veru<m> etia<m> defendere: atq<ue> a quib<us> cunq<ue> nocu-
 me<n>tis/ afflictionib<us>/ vel opp<re>ssionib<us> etia<m> corporalib<us>:
-((maxime q<ue> impediu<n>t vel impedire possunt prop<r><<i>>a<rum> ouiu<m>
-salute<m> sp<irit>ualem)) p<re>seruare/ nec no<n> subsidia eisde<m> te<m>pora-
+≺maxime q<ue> impediu<n>t vel impedire possunt prop<r><<i>>a<rum> ouiu<m>
+salute<m> sp<irit>ualem≻ p<re>seruare/ nec no<n> subsidia eisde<m> te<m>pora-
 lia ministrare. Ergo jure diuino et necessitate salutis
 ep<iscop>i orbis indiar<um> insistere apud rege<m> et regale consiliu<m>
 quaten<us> ei<us> modi seruitute iniusta indi opp<re>ssi red<e>an-
 tur pristine libertati/ obliganture. Maior patet p<ro> illud
-joa<nnes>. vlti<mo>. Pasce oues meas quod est ((s<e>c<un>d<u>m chrisostomu<m>
-super dictis verbis/ homelia. 87.)) fratru<m> curam suscipi-
+joa<nnes>. vlti<mo>. Pasce oues meas quod est ≺s<e>c<un>d<u>m chrisostomu<m>
+super dictis verbis/ homelia. 87.≻ fratru<m> curam suscipi-
 as: cura aute<m> est vigil et onerosa/ ac sollicita custodia a-
 nima<rum>. vt de eta. et quali. c. intelligim<us>. §. fi. ibi. circa cu-
 ra<m> tibi co<n>missam/ solicitudine<m> exercere studeas indefes-
@@ -1924,10 +1924,10 @@ pastorib<us> israel: q<u><<i>> pasceba<n>t semet ip<s>os ex eo q<uod> omisera<n>
 {LAT. negligent in greges p<re>dictos act<us> exercere: q<uem> est greges
 culpabiliter atq<ue> damnabiliter non pascere. Jnq<u><<i>>b<us> q<u><<i>>-
 dem comp<re>hendi necessitates tam corp<or>ales vel te<m>porales
-q<u><<a>><m> sp<irit>uales/ quas plebes patiu<n>tur: manifestu<m> est. % Proba-
+q<u><<a>><m> sp<irit>uales/ quas plebes patiu<n>tur: manifestu<m> est. ¶ Proba-
 tur etia<m> minor. 2. p<ro> verba hiero<n>imi/ sup<ra> illud p<ro>uerbio<rum>
 22. erue eos q<u><<i>> ducu<n>tur ad morte<m> &c. Expone<n>s illa: potest
-((inq<u><<i>>t)) mistice accipi. erue eos q<u><<i>> ab hereticis decipiun-
+≺inq<u><<i>>t≻ mistice accipi. erue eos q<u><<i>> ab hereticis decipiun-
 tur: recta<m> fide<m> predica<n>do: libera bono<rum> operu<m> exempla
 mo<n>stra<n>do eos q<u><<i>> a male viuentib<us> catholicis trahunt ad
 interitu<m>. sed & siquos in certamine p<er>secutio<n>is lapsos vel
@@ -1935,8 +1935,8 @@ lapsuros aspexeris: solicita hoc exortatio<n>e ad vita<m> restau-
 rare satage. siquos fame p<er>irutos algere videris: illis da-
 to victu & vestitu recrea. hec hiero<n>i<mus>. vbi patet loq<u><<i>> d<e> sub-
 sidio ta<m> te<m>porali/ q<u><<a>><m> sp<irit>uali: adq<ue> tribue<n>da gregib<us> pasto-
-res a<n>i<m>a<rum> obliga<n>tur. % Tertio p<ro>bet minor p<er> glosa<m> ex al-
-chuino super illud: pasce oues meas: pascere ((ait glosa))
+res a<n>i<m>a<rum> obliga<n>tur. ¶ Tertio p<ro>bet minor p<er> glosa<m> ex al-
+chuino super illud: pasce oues meas: pascere ≺ait glosa≻
 est crede<n>tes in xp<ist>o/ ne a fide deficia<n>t/ co<n>fortare: terrena
 subsidia si necesse est subditis p<ro>uidere: exe<m>pla v<<i>><r>tutu<m> cu<m>
 verbo p<rae>dicatio<n>is impe<n>dere: aduersarijs obsistere: erra<n>-
@@ -1969,10 +1969,10 @@ tia<m>/ ex iustitie autoritate vi<n>dicam<us>. Quod q<u><<i>>a mercena-
 rius non fecit: cum veniente<m> lupu<m> viderit/ fugit. Hec
 Gregorius. Jn q<u><<i>>b<us> quidem verbis satis demo<n>stratur
 ep<iscopu>m iure diuino teneri ac sub ve damnationis eterne/
-((si non facit)) eide<m> co<m>minari: ad liberatione<m> gregis/ de-
+≺si non facit≻ eide<m> co<m>minari: ad liberatione<m> gregis/ de-
 fensione<m>/ preseruatione<m>/ a quibuscusq<ue> nocume<n>tis/ afflic-
 tionib<us>/ totis virib<us> insistere: nec no<n> importune anhelare.
-% Preterea. 6. minor probat decreto<rum> autoritatib<us>.
+¶ Preterea. 6. minor probat decreto<rum> autoritatib<us>.
 vt. 24. Distin. in summa: vbi dicitur: sollicitu<m> quoq<ue> et
 vigilante<m> oportet esse ep<iscopu>m circa defensionem pauperu<m>/
 releuatione<m> oppresso<rum>/ tuitionem monasterio<rum>: quod si
@@ -2009,20 +2009,20 @@ matice ac per pri<us> ad ep<iscop>os vel ecclesia<m> pertinet defensio
 seu protectio eo<rum> omniu<m>: qui ab iniustis hominib<us> in-
 iurias/ viole<n>tias/ exspoliationes/ oppressiones/ graua-
 mina iniuste tam in reb<us> q<u><<a>>m in personis patiuntur: salte<n>
-((de quo nullus dubiat)) quoties iudices seculares/ vel
+≺de quo nullus dubiat≻ quoties iudices seculares/ vel
 malicia/ vel dissimulatione sunt neglige<n>tes: vt legitur
 et notat<ur> in. c. licet ex suscepto. et. ca. ex tenore. vbi bona
 glosa. et. c. ex parte de foro compe. et in. c. super quibus-
 da<m>. in fine de verbo<rum> signi. et in. c. significantib<us>: in p<r><<i>>n.
 de offi. delega. per illos text<us>. et per sup<er>ius allegatos.
-% Circa hanc materiam videatur Jnnocenti<us> notabi-
+¶ Circa hanc materiam videatur Jnnocenti<us> notabi-
 liter in. c. Cum sit generale. de. fo. compe. Et ad p<ro>positu<m>
 n<ost>r<u>m faciunt satis aperte ea que leguntur et nota<n>tur in
 ca. 1. de furtis. vbi tractat<ur> de his q<u><<i>> furantur homines
 liberos/ et ve<n>du<n>t eos: et similiter descienter eme<n>tibus/
 qui pari pena puniu<n>t<ur>/ vt in. l. 1. et in. l. fauia. et in. l. fin.
 ff. ad. l. faui. de plagiarijs.
-% Probatur. 7. Minor/ aurea sente<n>cia sancti Thome
+¶ Probatur. 7. Minor/ aurea sente<n>cia sancti Thome
 22. q. 40. arti. 2. ad. 1. vbi sic ait. Prelati deben resiste-
 re non solum lupis/ qui spiritualiter interficiu<n>t grege<m>:
 sed etiam raptoribus et tira<n>nis qui corporaliter vexa<n>t:
@@ -2038,9 +2038,9 @@ informa. Ad id facit quod guilielm<us> in su<m>ma virtutum
 et vitio<rum> tomo. 2. c. 11. Me<m>bro<rum> que faciu<n>t ad detesta-
 tionem plurium beneficio<rum> vbi inter sex ad que s<er>meum
 obligat se/ qui curam pastoris suscipit: secundum in or-
-dine ponit. s. ad libertatione<m> ((supple)) afflilcto<rum> et oppres-
+dine ponit. s. ad libertatione<m> ≺supple≻ afflilcto<rum> et oppres-
 so<rum>: ad quod allegat illud prouer. 24. Erue eos qui du-
-cuntur ad mortem &c. % Et sic his rationib<us> et auctori-
+cuntur ad mortem &c. ¶ Et sic his rationib<us> et auctori-
 tatibus patet vera<m> esse minore<m> ratio<n>e<m>/ videlicet q<ue> inter
 actus pastorales/ ad quo<rum> exercitium actu efficiendum:
 vt pote ad offitium episcopo<rum> pertinentes obligantur
@@ -2049,7 +2049,7 @@ defensio et tuitio plebium a quibuscu<m>q<ue> nocumentis &
 oppressionib<us> corporalib<us>: maxime que impediunt vel
 impedire possunt propria<rum> ouium salutem spiritualem.
 Et q<u><<i>>a hui<us> modi est detentio seu oppressio/ et tira<n>nis: q<u><<a>>
-indi ((quos habent hispani in seruos)) detinent<ur> et oppri-
+indi ≺quos habent hispani in seruos≻ detinent<ur> et oppri-
 muntur. Ergo iure diuino et necessitate salutis episco-
 pi orbis india<rum> tenent<ur> insistere apud regem et regale
 consilium: quatenus huiusmodi seruitute iniusta indi
@@ -2057,12 +2057,12 @@ oppressi: sue pristine libertati red<e>a<n>tur siue restitua<n>tur
 Patet conseque<n>tia licet iam clareat: quia nulla oppres-
 sio vel tirannis ipsius priuatione libertatis durior vel
 maior: cum nihil sit in reb<us> humanis pretiosi<us> nihil in
-estimabilius propria hominum libertate ((vt ex supra
-decursis apparet)) aut qua efficati<us> ad recipienda<m> fidem
+estimabilius propria hominum libertate ≺vt ex supra
+decursis apparet≻ aut qua efficati<us> ad recipienda<m> fidem
 in hi qui mondu<m> receperunt: vel si receperu<n>t et sunt in
 fide nouelle pla<n>tule: ne ad perfecta<m> credentium me<n>sura<m>
 perueniat: homines impediantur.
-% Secu<n>do probatur sic. 1. pars corrolarij: tali ratione
+¶ Secu<n>do probatur sic. 1. pars corrolarij: tali ratione
 Omnes ho<m>i<n>es obligant iure nature et diuino subueni-
 re inq<u><<a>><n>tu<m> possunt iniuria<m> et opp<re>ssione<m> passis vel patie<n>-tibus.}}
 [fol. 30r]
@@ -2076,7 +2076,7 @@ modocunq<ue> vultis vt facia<n>t vobis homines: et id faci-
 te illis. Hinc est q<uem> naturale est omnib<us> hominib<us>: vt se
 inuice<m> diliga<n>t: cuius signu<m> est: q<uem> quoda<m> nat<ur>ali instinc-
 tu homo/ cuilibet homini etia<m> ignoto subuenit in ne-
-cessitate ((puta)) reuoca<n>do ab errore vie: erige<n>do a casu:
+cessitate ≺puta≻ reuoca<n>do ab errore vie: erige<n>do a casu:
 & alijs huius modi: ac si o<m>i<n>is homo omni homini esset fa-
 miliaris et amicus. Diuino aut<em> iure patet deu. 22. no<n>
 videbis bouem aut ouem fratris tui errantem/ et prete-
@@ -2112,7 +2112,7 @@ esse particeps eius culpe &c. Hec ibi. Jdem per. c. quan-
 te. de sentencia exco. et. c. sicut dignu<m>. de homicidio. et
 hoc lati<us> sanct<us> Thom. in questionibus de veri. q. 3. ar.
 1. c. Et est co<m>munis omniu<m> sententia docto<rum> theologo<rum>
-et canonistarum. % Tunc sic. Si omnes parui et magni
+et canonistarum. ¶ Tunc sic. Si omnes parui et magni
 docti/ vel indocti subdite vel prelati/ priuate seu publi-
 ce persone: tenemur indifferent<ur> subuenire oppressis et
 violentia<m> vel iniuria<m> seu aliud incommodum passis seu
@@ -2134,7 +2134,7 @@ priuatis: ergo et de quo maior. s. de personis constitu-
 tis in dignitate vel potestate: vt dicitur in topicis. Et
 habetur hoc argumentum in. capi. cum in cunctis de
 electi. et. 38. distin. c. si in lactis. Et in alijs iuris locis.
-% Hi nanq<ue> contrahunt quasi cum ecclesia si ecclesia-
+¶ Hi nanq<ue> contrahunt quasi cum ecclesia si ecclesia-
 stici: vel cum populo aut regno/ si existunt seculares: et
 obligant se ex quasi contractu ad iusticiam admini-
 strandam in plebe vel regno/ dum officium assumunt}}
@@ -2176,7 +2176,7 @@ ab inferioribus siue subditis patrantur prelatis et su-
 perioribus imputari: vnde disti. 83. cap<itulo>. prouidendum.}}
 [fol. 31v]
 {CB1.
-{LAT. Simachus papa: no<n> est ((inquit)) gra<n>dis differencia an-
+{LAT. Simachus papa: no<n> est ≺inquit≻ gra<n>dis differencia an-
 lethu<m>. i. morte<m> inferas vel admittas. Morte<m>. n. languen-
 tib<us> p<ro>batur infligere: qui hanc cu<m> possit no excludit.
 Similiter plagiaria<m> seruitute<m> aut similem calamitate<m>
@@ -2189,14 +2189,14 @@ sepe nutriu<n>t pestilentiam: dum austeriorem dissimula<n>t
 adhibere medicina<m>. c. inferio<rum> et. c. facientis culpa<m> pro-
 cul dubio habit: qui q<ue> potest corrigere negligit eme<n>da-
 re: scriptum q<u><<i>>ppe est: no<n> solu<m> qui faciunt: sed etia<m> q<u><<i>> con-
-sentiu<n>t facientib<us> participes iudicantur &c<aeter><<a>>. % Cu<m> er-
+sentiu<n>t facientib<us> participes iudicantur &c<aeter><<a>>. ¶ Cu<m> er-
 go prelati orbis india<rum> ex p<re>cepto diuino et necessitate
 salutis teneant<ur> fugere ac declinare: ne sint participes in
 peccatis mortalib<us> quib<us> detine<n>tes indos in tira<n>nica
 seruitute<m> p<re>fata liga<n>tur: ergo iure diuino obliga<n>tur ad
 insistendu<m> apud d<omi>n<u>m regem ei<us> q<ue> regale co<n>siliu<m>: vt su
 p<r><<i>>stine libertati qua inique spoliati sunt: indi ei<us> modi
-red<e>ant<ur>. % Et breuit ad<e>o alias rationes ad p<ro>bandu<m>
+red<e>ant<ur>. ¶ Et breuit ad<e>o alias rationes ad p<ro>bandu<m>
 dictam p<r><<i>>mam parte<m>: et. 3a. sit in ordine hec/ videlicet.
 Quia episcopi tenentur iure diuino impedire in qua<m>
 tum possu<n>t in plebib<us> sibi co<m>missis omne peccatu<m> morta-
@@ -2217,17 +2217,17 @@ to mortali. Ergo vt agant de eo penite<n>tiam & cessent a
 futuris peccatis p<re>fate tira<n>nidis: obligant<ur> episcopi or-
 bis india<rum> insistere apud regem: vt compellat illos ad re-
 laxandum quos uniuste detinent in ea tirannide.
-% Quarta ratio: episcopi omnes obligant<ur> iure diui-
+¶ Quarta ratio: episcopi omnes obligant<ur> iure diui-
 no p<ro>curare qualiter pax/ quies/ & vnitas semper consis-
 tat & co<n>seruetur in plebe: et turbatores pacis punire/ et
 ad pacem co<m>pellere: vt in. cap<itulo>. treugas. cum ibi not. per
 doctores. de treug. & pace. et. 90. distin. c. studentum est
 episcopis. et. cap<itulo>. placuit. et. cap<itulo>. si q<u><<i>>s. et. cap<itulo> precipim<us>:
 cuius ratio est: q<u><<i>>a ad hoc quod homo vacet diuinis/ in-
-diget tranquillitate & pace ((scim<us> enim & euidentia fac-
+diget tranquillitate & pace ≺scim<us> enim & euidentia fac-
 ti colligimus: quod non nisi in pacis tempore/ bene co-
 litur pacis auctor: prout dicitur in textu extrauaga<n>tis.
-super cathedram. sub titulo de sepulturis in co<m>munib<us>))
+super cathedram. sub titulo de sepulturis in co<m>munib<us>≻
 & pax nihil sit aliud q<u><<a>>m status tranquillus & quietus secu<n>-
 dum Jsidorum in ethimologijs: et secundum August.
 lib. 19. cap<itulis> 13. & 14. de ciuitate dei. Pax est ordinata
@@ -2264,7 +2264,7 @@ greges et oues singule amicitia<m> ad deu<m> et ad ho<m>i<n>es ha-
 bea<n>t. De hoc s<an>ctus th. in summa contra ge<n>tiles lib. 3. c.
 117. et. c. 12. 8. & gay. 12. q. 99. ar. 2. et. 3. facit. 45. dis.
 c. tria sunt. et. c. due sunt. et de consecraci. dist. 2. c. pace<m>.
-% Cu<m> igitur pax sit ordinata co<n>cordia ho<m>inum: ordina-
+¶ Cu<m> igitur pax sit ordinata co<n>cordia ho<m>inum: ordina-
 ta vero concordia tu<n>c inter ho<m>ines dumtaxat seruetur/
 secu<n>dum s<an>ctu<m> tho. vbi immediate supra: qua<n>do vnicuiq<ue>
 quod suu<m> est red<e>itur: q<ue> est iustitie: p<ro>pter q<ue> dicitur E-
@@ -2272,12 +2272,12 @@ sa. 32. op<us> iustitie pax vt supra dictu<m> est. Et hispani n<ost>ri
 abstulerint et actu quotidie iniuste aufera<n>t/ tem ta<n> pre-
 ciosam alienam. s. libertate<m> tot ho<m>inum millib<us>: ob idq<ue>
 oporteat/ i<n>mo necesse sit esse inter vtrosq<ue> discordiam
-magnam/ odiu<m> grande/ rancore<m> immortale<m>: vel quia ((li-
+magnam/ odiu<m> grande/ rancore<m> immortale<m>: vel quia ≺li-
 cet suapte natura indi oppressi patie<n>tissimi et ma<n>suetis-
 simi sint: et exparte forte ipso<rum> hac de causa vt in pluri-
 mu<m> no<n> interueniet pecatu<m>: q<u><<a>>muis no<n> deeru<n>t angustie/ fle-
 t<us>/ suspiria/ gemit<us>/ singult<us>/ & magni dolores: p<er> magni-
-tudine i<n>iusticie/ oneris/ et s<er>uilis laboris)) a p<ar>te tame<m> op-
+tudine i<n>iusticie/ oneris/ et s<er>uilis laboris≻ a p<ar>te tame<m> op-
 p<r><<i>>me<n>tiu<m> nulli dubiu<m>: q<u><<i>>n amicitia vel pax/ nec ad deu<m>/ nec
 ad ho<m>ines seruetur. Et p<er> conseq<ue>ns magnu<m> pecatu<m> medi-
 te: cu<m> ratio<n>e opp<re>ssionis et tiranidis: tu<m> ratio<n>e/ i<m>pedime<n>-
@@ -2302,7 +2302,7 @@ valde charitas: q<ue> doctria fidei et tranquillitate ad<e>is-
 cendi/ q<ue> fidei sunt/ carea<n>t: Hac de causa veri similiter
 iudica<n>da est: et tame<m> medendi cura<m> et studiu<m> hui<us> modi
 languorib<us> apud episcopos ex proprio officia esse/ iure
-diuino indubitatu<m> est. % Quita ratio et vltima/ et hec
+diuino indubitatu<m> est. ¶ Quita ratio et vltima/ et hec
 quidem breuior superioribus est: videlicet. Episcopi q<u><<i>>-
 cunq<ue> obligantur ex iure diuino red<e>ere rationem in
 extremo iudicio/ non solum pro paruiset co<m>munibus
@@ -2342,8 +2342,8 @@ indiaru<m> p<er>tinet iure diuino apud regem et regale consi-
 liu<m> diligent et importune super eade<m> re insistere: et p<ro>p-
 terea eo de iure et de necessitate salutis indubie obli-
 gant. et sic patet. 1. pars corrolarij.
-% Secunda vero pars videlicet:} q<ue> sean obligados los
-obispos por effectuar lo suso dicho ((conuiene a saber))
+¶ Secunda vero pars videlicet:} q<ue> sean obligados los
+obispos por effectuar lo suso dicho ≺conuiene a saber≻
 porq<ue> su magestad y su real co<n>sejo po<n>ga/ o mande poner/
 los yndios dichos injustame<n>te hechos esclauos en liber-
 tad: si p<ar>a ello fuere necessario aresgar las vidas: {LAT. expo-
@@ -2373,7 +2373,7 @@ y agrauiados yndios importuname<n>te q<ue> q<u><<i>>ere dezir con
 gra<n>de solicitud y dilige<n>cia: y baste p<ar>a esto lo q<ue> sant Pa-
 blo dize {LAT. ad[ ]rom<anos>. 17. Qui p<ar>est i<n> solicitudi<n>e. et. 2. ad cho. 2}
 Do<n>de especificame<n>te habla delos obispos a vn obispo:
-{LAT. insta ((inq<u><<i>>t)) oportu<n>e importu<n>e. et infra/ tu vero vigila:
+{LAT. insta ≺inq<u><<i>>t≻ oportu<n>e importu<n>e. et infra/ tu vero vigila:
 in omnib<us> labora &c.} Maxime q<ue> la neglige<n>cia en<e>l perla-
 do todos los doctores la co<n>dena<n> por mortal peccado/ co-
 mo se nota y tracta en<e>l c<apitulo>. {LAT. Ea q<ue> de offi. archidi.} y enel. c<apitulo>.
@@ -2384,7 +2384,7 @@ cio<n> del pastor si la oueja come el lobo: y dize q<ue> no lo vido
 o no lo supo porq<ue> es obligado a velar: y[ ]a poner e<n>la guar-
 da d<e>las ouejas su<m>ma dilige<n>cia: la regla d<e>l d<e>recho lo dize.
 {LAT. No<n> est pastoris excusatio si lup<us> oues comedit et pastor
-nescit.} Esto se prueua por la semeja<n>c'a d<e>l fiador q<ue> trae salo-
+nescit.} Esto se prueua por la semeja<n>ça d<e>l fiador q<ue> trae salo-
 mo<n> e<n>los p<ro>uerbios p<ro>u<erbio>. 6. q<ue> parece ser aq<ue>l el sentido q<ue> pre-
 te<n>dio el sp<irit>u sa<n>cto: y ansi lo trahe sant Gregorio sobre Eze-
 chiel homelia. 11. Y enla tercera parte d<e>l pastoral {LAT. admo-
@@ -2415,23 +2415,23 @@ cautius et plenius accurrendu<m> et consulendu<m>. Ut dici-
 tur in cap<itulo>. vbi periculu<m>. de electio. libro. 6. et hec suffici-
 ant ad probatione<m> toti<us>. 2. corrolarij: ex quibus mo<n>ni-
 bus sequitur.}
-{RUB. % {LAT. Corrolarium tertium.}}
+{RUB. ¶ {LAT. Corrolarium tertium.}}
 {IN2.} DOcta y sanctamente lo hizieron los religiosos de
 la orden de sancto domingo y sant francisco/ y sant
-Augustin enla nueua Espan~a: conueniendo y concerta<n>-
-dose todos a vna: de no absoluer a espan~ol q<ue> tuuiesse yn-
+Augustin enla nueua España: conueniendo y concerta<n>-
+dose todos a vna: de no absoluer a español q<ue> tuuiesse yn-
 dios por esclauos: sin q<ue> primero los lleuasse a examinar
 ante la real audientia: conforme alas Leyes nueuas: pe-
 ro mejor hizieran si absolutamente a ello se determina-
 ran sin que los lleuaran a la audiencia.}
 [fol. 35r]
 {CB1.
-% La primera parte deste corrolario assaz es claro/ y
+¶ La primera parte deste corrolario assaz es claro/ y
 prouara se abundantemente: sino por no alargar tanto
 sola esta razon baste: porque todos los religiosos delas
 dichas tres ordenes/ o dellos tienen sciencia y certidu<m>-
 bre delas injusticias y corrupciones/ que en hazer los
-yndios esclauos: assi por los espan~oles/ como por los yn-
+yndios esclauos: assi por los españoles/ como por los yn-
 dios se tuuieron y vsaron/ o dellos tienen muy gra<n> pro-
 babilidad q<ue> se yguala a sciencia enestas cosas morales
 y offendieran grauemente a Dios y fueran obligados
@@ -2443,12 +2443,12 @@ se pone a confessar/ viste se officio de obispo y de cura/ y
 de juez spiritual: y por consiguiente es obligado como
 ellos a tener sufficie<n>te sciencia/ prudencia y discrecion
 y a sentenciar justa & ygualmente: al menos enlos casos
-donde ay injuria/ o agrauios/ o dan~os de parte. Y si en
+donde ay injuria/ o agrauios/ o daños de parte. Y si en
 ello por poco saber/ o por descuydo y negligencia nota-
 ble yerra: como no mandando restituyr lo vsurpado/ o
 mal ganado/ allende del peccado: el es obligado a resti-
-tuyrlo ala parte agrauiada: y todos los dan~os le son im-
-putados: como al medico se le imputa el dan~o/ o muerte
+tuyrlo ala parte agrauiada: y todos los daños le son im-
+putados: como al medico se le imputa el daño/ o muerte
 que al enfermo viene por su impericia/ o neglige<n>cia/ o
 mal recaudo. Esto parece. {LAT. ff. de offici presidis. l. illici-
 tas. §. Sicuti medico. Et idem dicit glosa. ibi de quoli-
@@ -2480,14 +2480,14 @@ iudex vt sicut non co<m>missit crimen nequitie: ita non ca-
 reat munere scientie. O portet vt sciat cognoscere q<u><<i>>c q<u><<i>>d
 debet iudicare. Judicaria enim potestas hoc postulat:
 vt quod debet iudicare/ discernat &c.}
-% La segunda parte deste corrolario/ que dize que me-
+¶ La segunda parte deste corrolario/ que dize que me-
 jor hizieran los dichos religiosos si absolutamente se
 determinaran: a que sin lleuar los a examinar alas au-
 diencias los libertaran: prueua se por todo lo q<ue> arriba
 esta dicho: especialmente enla tercera parte de la conclu-
 sion/ en la probacion dela proposicion menor por toda
 ella. Porque enla verdad no ay religioso almenos enla
-nueua espan~a: q<ue> no tenga probable & muy probable opi-
+nueua españa: q<ue> no tenga probable & muy probable opi-
 nion/ ala qual es obligado a seguir: que todos los yn-
 dios son injusta & tyranicame<n>te hechos esclauos. Por
 lo qual no deuen curar delas examinaciones q<ue> hazen/
@@ -2503,7 +2503,7 @@ ria delos hombres infinitos esclauos: hechos en aq<ue>llos
 yndianos reynos indeuidame<n>te esclauos: sometiendo
 lo que toca al derecho ala correccio<n> y censura de vuestra
 alteza/ suplicando muy affectuosa y encarecidamente/
-como obispo de vn gra<n> pedac'o dellos: y do<n>de muy gra<n>
+como obispo de vn gra<n> pedaço dellos: y do<n>de muy gra<n>
 cantidad se hizieron: que vuestra Alteza mande co<n> mu-
 cha breuedad libertar los/ para que a tanta confusion/
 obstinacio<n> y perdicio<n> de animas eneste articulo/ se pon-
@@ -2514,18 +2514,18 @@ dres y maestros spirituales/ con su ecclesiastico y spiri-
 tual regimiento y actos hierarchicos: la perfecionen y
 ennoblezca<n> haziendo la capaz de recebir la gracia: que
 por el exercicio delos sanctos sacrame<n>tos han de alcan-
-c'ar: por la qual pueden saluar se salie<n>do del peccado en
+çar: por la qual pueden saluar se salie<n>do del peccado en
 que biuen mortal/ cuyo paradero si vuestra Alteza con
 tiempo del no los libra: seran los fuegos eternales.
 {RUB. {SYMB: fleuron.} {LAT. Laus deo.} {SYMB: fleuron.}}
-{RUB. % A loor y gloria de nuestro se-
-n~or Jesu Christo y dela sacratissima virgen sancta
+{RUB. ¶ A loor y gloria de nuestro se-
+ñor Jesu Christo y dela sacratissima virgen sancta
 Maria. Fue impressa la presente obra enla muy
 noble & muy leal ciudad de Seuilla/ en casa
 de Sebastian Trugillo impressor de li-
-bros. Frontero de nuestra sen~ora
+bros. Frontero de nuestra señora
 de Gracia. Acabosse a doze
 dias del mes de Setiem-
-bre. An~o de mil & qui-
+bre. Año de mil & qui-
 nientos y cincue<n>-
 ta y dos.}}

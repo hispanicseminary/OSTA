@@ -17,7 +17,7 @@ oppinion de quien pone el bissiesto en la fin del Mes de deziembre.}}}}
 {HD. DEL ZARQVIEL}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla pora saber en qual dia entra qual Mes quier de los Meses egipcianos por la op-
-pinion de quien pone el bissiesto en la fin del Mes de Moc're.}}}}
+pinion de quien pone el bissiesto en la fin del Mes de Moçre.}}}}
 [fol. 95v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
@@ -70,7 +70,7 @@ uan de dizeocho en dizeocho.}}}}
 [fol. 101r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares del medio cursso de la luna en el come<n>c'amie<n>to de cada an<n>o de los annos de s<o>s reuolucio<n>es}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares del medio cursso de la luna en el come<n>çamie<n>to de cada an<n>o de los annos de s<o>s reuolucio<n>es}}}}
 [fol. 101v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
@@ -88,11 +88,11 @@ dias pora un anno non bissiesto.}}}}
 [fol. 103r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 103v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 104r]
 {HD. DEL ZARQVIEL}
 {CB1.
@@ -100,62 +100,62 @@ dias pora un anno non bissiesto.}}}}
 [fol. 104v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla dell endrec'amiento uniuerssal de la luna.}}}}
+{ILL. {DIAG. {RUB. Tabla dell endreçamiento uniuerssal de la luna.}}}}
 [fol. 105r]
 {HD. DEL ZARQVIEL}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla del buth del sol & de la luna el q<ue> es so mouimie<n>to diui-so}}}
-%2 {RUB. a una hora.}}
+¶2 {RUB. a una hora.}}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla de la declinacio<n> del sol.}}}}
 [fol. 105v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares de la cabec'a del dragon en el come<n>c'amie<n>to de cada an<n>o de los an<n>os de s<o>s reuolucio<n>es.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares de la cabeça del dragon en el come<n>çamie<n>to de cada an<n>o de los an<n>os de s<o>s reuolucio<n>es.}}}}
 [fol. 106r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares de la cabec'a del dragon en los Meses.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares de la cabeça del dragon en los Meses.}}}}
 [fol. 106v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 107r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 107v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 108r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 108v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 109r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla del complimiento de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla del complimiento de los logares endreçados de Saturno.}}}}
 [fol. 109v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 110r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 110v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 111r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla dell argume<n>to de la luna en el come<n>c'amie<n>to de cada an<n>o de los an<n>os de s<o>s reuoluciones.}}}}
+{ILL. {DIAG. {RUB. Tabla dell argume<n>to de la luna en el come<n>çamie<n>to de cada an<n>o de los an<n>os de s<o>s reuoluciones.}}}}
 [fol. 111v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
@@ -163,110 +163,110 @@ dias pora un anno non bissiesto.}}}}
 [fol. 112r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 112v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 113r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla del complimiento de los logares enderec'ados de Jupiter.}}}}
+{ILL. {DIAG. {RUB. Tabla del complimiento de los logares endereçados de Jupiter.}}}}
 [fol. 113v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 114r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 114v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 115r]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 115v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 116r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 116v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Saturno.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 117r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares endrec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endreçados de Mars.}}}}
 [fol. 117v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 118r]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 118v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 119r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 119v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 120r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla del complimiento de los logares enderec'ados de Mars.}}}}
+{ILL. {DIAG. {RUB. Tabla del complimiento de los logares endereçados de Mars.}}}}
 [fol. 120v]
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Venus.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Venus.}}}}
 [fol. 121r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Ven<u>s.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Ven<u>s.}}}}
 [fol. 121v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 122r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 122v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 123r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 123v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 124r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 124v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 125r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla del complimiento de los logares enderec'ados de Mercurio.}}}}
+{ILL. {DIAG. {RUB. Tabla del complimiento de los logares endereçados de Mercurio.}}}}
 [fol. 125v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
@@ -287,11 +287,11 @@ dias pora un anno non bissiesto.}}}}
 [fol. 128r]
 {HD. DEL ZARQVIEL}
 {CB1.
-{ILL. {DIAG. {RUB. % Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
+{ILL. {DIAG. {RUB. ¶ Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
 [fol. 128v]
 {HD. L<IBRO> DE LAS TABLAS +}
 {CB1.
-{ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos pora cada .10. grados. & es so comenc'amie<n>to
+{ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos pora cada .10. grados. & es so començamie<n>to
 del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete climas.}}}}
 [fol. 129r]
 {HD. DEL ZARQUIEL}

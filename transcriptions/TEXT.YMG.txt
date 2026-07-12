@@ -6,7 +6,7 @@
 {RMK: Lloyd A. Kasten, John Nitti, Wilhelmina Jonxis-Henkemans.}
 [fol. 1r]
 {CB2.
-{RMK: HSMS-0277-0001: Libro de las formas y de las imágenes.} {IN3.} Aqui comienc'a el libro delas for-
+{RMK: HSMS-0277-0001: Libro de las formas y de las imágenes.} {IN3.} Aqui comiença el libro delas for-
 mas & delas ymagenes que son
 en los cielos & delas uertudes & de
 las obras que salen dellas en los cuerpos
@@ -17,18 +17,18 @@ do don ALFONSO; amador de sci-
 encias & de saberes. Por la gracia de dios
 REY; de Castiella. de Toledo. de
 Leon. de Gallizia. de Seuillia. de Cor-
-doua. de Murc'ia de Jahen. & del Algar-
+doua. de Murçia de Jahen. & del Algar-
 be. Et fijo del mucho onrrado REY
 don FERRANDO. Et de la RE-
 YNA donna BEATRIZ. Et fue
-comenc'ado este libro e[*n] el anno xxv<<o>>. de
-su regno. % Et la era de C'esar; en mill &
-trezientos & catorze annos. % Et la del
+començado este libro e[*n] el anno xxv<<o>>. de
+su regno. ¶ Et la era de Çesar; en mill &
+trezientos & catorze annos. ¶ Et la del
 nuestro sennor ih<es>u xp<ist>o; en mill & dozi-
-entos & setaenta & seys annos. % Et aca-
-ba se; en el .xxvij<<o>>. anno de su regno. % Et la
-Era de C'esar; en mill. & trezientos & .xvij.
-annos. % Et la del nuestro sennor ihesu
+entos & setaenta & seys annos. ¶ Et aca-
+ba se; en el .xxvij<<o>>. anno de su regno. ¶ Et la
+Era de Çesar; en mill. & trezientos & .xvij.
+annos. ¶ Et la del nuestro sennor ihesu
 xp<ist>o; en mill & dozientos & setaenta & .ix.
 annos.
 {IN12. {MIN=.}} Por que este
@@ -45,7 +45,7 @@ las obras
 que en el
 son pora ayudar se dellas quando las
 ouieren mester & lo touieren guisado.
-pusiemos aqui enel comienc'o deste
+pusiemos aqui enel comienço deste
 libro sus partes. & las obras de cada par-
 te sennalada mente cadauna por si; se-
 gund que dixieron & prouaron los sa-bios}
@@ -63,10 +63,10 @@ otra manera de ymagenes que se faze<n>
 por los grados delos signos enlas piedras
 & con los metales bueltos enuno. Et a
 en ella; trezientos & sessaenta cap<ito>los.
-{IN1.} [E]t la terc'era es de pitagoras que fabla
+{IN1.} [E]t la terçera es de pitagoras que fabla
 de otras maneras de figuras que suben
 en estos mismos grados que obra an en
-las nacencias delos omnes. % Et a en ella
+las nacencias delos omnes. ¶ Et a en ella
 trezientos & sessaenta cap<ito>los.
 {IN1.} Et la quarta es de yluz que fabla delas
 ymagenes que se fazen en las piedras.
@@ -76,22 +76,22 @@ la treynta & seys cap<ito>los.
 fabla de muchas maneras de ymagenes
 que se fazen en las piedras por las plane-
 tas quando son en sus dignidades & en
-sus horas. % Et a en ella {BLNK.} cap<ito>los.
+sus horas. ¶ Et a en ella {BLNK.} cap<ito>los.
 {IN1.} Et la sesta es de plinio. & de belyenus. &
 de otros sabios. & fabla de ymagenes que
 se fazen en las piedras faziendo dellas
-sortijas. % Et a en ella {BLNK.} cap<ito>los.
+sortijas. ¶ Et a en ella {BLNK.} cap<ito>los.
 {IN1.} La .vij<<a>>. es de utarit. & fabla de siete yma-
 genes que se fazen por las siete planetas;
 en siete piedras sennaladas. & fazen se del-
-las sortijas. % Et a en ella siete cap<ito>los.
+las sortijas. ¶ Et a en ella siete cap<ito>los.
 {IN1.} Et la octaua es de ragiel que fabla de
 .xxiiij. ymagenes que se deuen fazer en
-piedras sennaladas. % Et a en ella .xxiiij.
+piedras sennaladas. ¶ Et a en ella .xxiiij.
 cap<ito>los.
 {IN1.} La .ix<<a>>. es de yacoth que fabla delas aguas
 & delos lodos que son mester en esta obra
-delas piedras. % Et a en ella siete cap<ito>los.
+delas piedras. ¶ Et a en ella siete cap<ito>los.
 {IN1.} Et la .x<<a>>. es de aly que fabla de cuemo se}
 [fol. 1v]
 {CB2.
@@ -100,7 +100,7 @@ glas que son mester en esta sciencia. Et
 a en ella {BLNK.} cap<ito>los.
 {IN1.} Et la .xi<<a>>. es delas ymagenes que se fal-
 lan fechas en las piedras
-{RUB. Aqui comienc'an los cap<ito>los dela prime-
+{RUB. Aqui comiençan los cap<ito>los dela prime-
 ra parte deste libro que fabla delas uer-
 tudes. & delas obras que an las figuras q<ue>
 se fazen enlas piedras por los trezientos
@@ -108,13 +108,13 @@ se fazen enlas piedras por los trezientos
 fazen se otrossi delos metales bueltos en
 uno segund que dize Abolays. Et a en
 ella; trezientos & sessaenta capitolos.}
-% {RUB. Del signo de aries.}
+¶ {RUB. Del signo de aries.}
 {IN2.} El primero es pora ueuir mucho &
 no morir si non en ueiez. Et por
 sanar de ferida entossicada.
-{IN1.} El .ij. es pora cresc'er los arboles ayna; &
+{IN1.} El .ij. es pora cresçer los arboles ayna; &
 leuar mucho fructo
-{IN1.} El .iij. es pora tomar los c'ieruos; & fazer
+{IN1.} El .iij. es pora tomar los çieruos; & fazer
 foyr las culuebras
 {IN1.} El .iiij. pora dannar los arboles que di-
 zen pistaquia; que nunqua lieuen
@@ -143,18 +143,18 @@ sieres.
 res; segura & guardada de todos sus
 enemigos}
 {CB2.
-{IN1.} El .xv. es pora auer esfuerc'o & atreuimi-
+{IN1.} El .xv. es pora auer esfuerço & atreuimi-
 ento.
 {IN1.} El .xvi. pora auer poder de correr much<o>.
-{IN1.} El .xvij. pora uenc'er aqui quisieres;
-& non seer uenc'udo.
+{IN1.} El .xvij. pora uençer aqui quisieres;
+& non seer uençudo.
 {IN1.} El .xviij. por fazer quebrar o perder q<u><<a>>l
 nauio quisieres
 {IN1.} El .xviiij. por quemar qual logar po-
 blado quisieres.
 {IN1.} El .xx. pora sanar de ferida de serpient;
 o de qual quier animal ueninoso.
-{IN1.} El .xxi. pora seer bien rec'ebido & bien
+{IN1.} El .xxi. pora seer bien reçebido & bien
 quisto delos reyes. & de principes. & por
 recabdar con ellos lo q<ue> quisiere.
 {IN1.} El .xxij. por complir las demandas en
@@ -166,7 +166,7 @@ guno a comprar; aqual tienda q<u><<i>>sieres
 quisieres
 {IN1.} El .xxvi. por fazer foyr las palomas de
 qual logar quisieres.
-{IN1.} El .xxvij. por uenc'er a su contendedor
+{IN1.} El .xxvij. por uençer a su contendedor
 en pleytos & en iuyzios. Et seer amado de
 los alcaldes
 {IN1.} El .xxviij. por fazer uenir los omnes
@@ -200,14 +200,14 @@ gar quisieres.
 {IN1.} El .x. es por non uenir mortandades nin
 enfermedades en qual logar quisieres q<ue>
 acaescen por camiamiento de ayre.
-{IN1.} El .xi. pora q<ue> non llore<n> los moc'os; nin aya<n>
+{IN1.} El .xi. pora q<ue> non llore<n> los moços; nin aya<n>
 miedo.
 {IN1.} El .xij. es pora que non aya miedo qual
 naue; o qual baxel quisieres.
 {IN1.} El .xiij. pora oyr en suennos que quier q<ue>
 demande.
 {IN1.} El .xiiij. por guardar los aruoles de q<ue>mazon.
-{IN1.} El .xv. por auer grand fuerc'a enel estomago.
+{IN1.} El .xv. por auer grand fuerça enel estomago.
 {IN1.} El .xvi. pora q<ue> los aruoles no<n> lieuen fructo.
 {IN1.} El .xvij. pora seer bienandant en lauor de
 tierra.
@@ -249,7 +249,7 @@ res llena de mancebos co<n> candelas ardientes.
 {IN1.} El .viij. pora fazer dormir aqui quisieres
 tres dias & tres noches & que adeuine lo que
 diga.
-{IN1.} El .viiij. pora fazer obe[de]c'er a rey o a qui quisi-
+{IN1.} El .viiij. pora fazer obe[de]çer a rey o a qui quisi-
 eres los cauallares & los omnes de lid.
 {IN1.} El .x. pora fazer boluer el seso aq<u><<i>> quisieres.
 {IN1.} El .xi. pora que algun palacio semeie que
@@ -277,10 +277,10 @@ acedrex o de dados.
 perro. & que andan aderredor mucho perros.
 {IN1.} El .xxij. pora auer nombradia de sabio. & no<n>
 le sea grieue ningun saber.
-{IN1.} El .xxiij. pora seer bienandant en toda cac'a
+{IN1.} El .xxiij. pora seer bienandant en toda caça
 de tierra.
-{IN1.} El .xxiiij. pora auer semeianc'a de mugier. &
-la mugier semeianc'a de uaron.
+{IN1.} El .xxiiij. pora auer semeiança de mugier. &
+la mugier semeiança de uaron.
 {IN1.} El .xxv. pora seer gaffo aquel q<ue> quisieres q<ue>
 nunqua sane.
 {IN1.} El .xxvi. pora que non entre ladron en q<u><<a>>l
@@ -295,7 +295,7 @@ que a de uenir.
 {IN1.} El .xxix. pora fazer que semeien perros unos
 a otros los que estudieren en alguna casa.
 {RUB. Del signo de cancro.}
-{IN2.} El primero es pora cresc'er la semiente ta<n>
+{IN2.} El primero es pora cresçer la semiente ta<n>
 bien con agua co<m>mo sin agua.
 {IN1.} El .ij. pora fazer salir el preso dela prision.
 {IN1.} El .iij. pora fazer quebrar q<u><<a>>l quier estrum<en>t.
@@ -337,7 +337,7 @@ logar quisieres.
 {IN1.} El .xxiij. pora hermar la uilla.
 {IN1.} El .xxiiij. pora que cayan los cabellos de los}
 {CB2.
-omnes que se lauen las cabec'as enel ba<n>no
+omnes que se lauen las cabeças enel ba<n>no
 {IN1.} El .xxv. pora ermar el rio de pescado.
 {IN1.} El .xxvi. pora dannar las uinnas; que no<n>
 lieuen uino.
@@ -355,7 +355,7 @@ el ganado delas malas bestias.
 {IN1.} El .iij. pora guardar el om<n>e q<ue>l no<n> fiera saeta.
 {IN1.} El .iiii. pora seer el rey temido & obedecido de
 todos los otros reyes; & de todos los omnes.
-{IN1.} El .v. pora guardar los moc'os chicos; de toda
+{IN1.} El .v. pora guardar los moços chicos; de toda
 occasion.
 {IN1.} El .vi. pora fazer morir los cauallos.
 {IN1.} El .vij. pora non entrar las moscas enla casa.
@@ -382,44 +382,44 @@ natura agra; lieue granadas dulces.
 {IN1.} El .xxi. pora que non llegue al omne ningu-
 na ferida dazot.
 {IN1.} El .xxij. pora auer omne lo que pide.
-{IN1.} El .xxiij. pora fazer semeianc'a de cueruo.
+{IN1.} El .xxiij. pora fazer semeiança de cueruo.
 {IN1.} El .xxiiij. pora fazer abortar toda fembra.}
 [fol. 3r]
 {CB2.
 {IN1.} El .xxv. fazer morir los cauallos.
 {IN1.} El .xxvi. pora semeiar que el arbol(ol) se al-
-c'a & se baxa.
+ça & se baxa.
 {IN1.} El .xxvij. pora fazer quebrar los basos de tierra.
 {IN1.} El .xxviij. pora escalentar el forno del ba<n>no
 con poco fuego.
-{IN1.} El .xxix. pora sanar el omne c'iego.
+{IN1.} El .xxix. pora sanar el omne çiego.
 {IN1.} El .xxx. pora saluar las aues de toda occasio<n>.
 {RUB. Del signo de uirgo.}
 {IN2.} El primero capitolo es pora guardar el
 pan que se non danne.
-{IN1.} El .ij. pora fazer semeianc'a que sube el
+{IN1.} El .ij. pora fazer semeiança que sube el
 omne por el ayre & descende.
 {IN1.} El .iij. pora fazer qual omne quier que
 semeia culuebra a quantos le uieren.
-{IN1.} El .iiii. pora fazer semeianc'a entre omnes
+{IN1.} El .iiii. pora fazer semeiança entre omnes
 que tienen sus cabellos de su[s] barbas en s<us> mano<<s>>.
 {IN1.} El .v. pora que non puedan encender fuego;
 en qual uilla quisieres.
 {IN1.} El .vi. pora entrar om<n>e enel fuego; & non se
 quemar.
 {IN1.} El .vii. pora correr sangre delas mugieres.
-{IN1.} El .viij. pora enc'errar se la natura delas mu-
+{IN1.} El .viij. pora ençerrar se la natura delas mu-
 gieres; que non puedan echar por ella nada.
 {IN1.} El .viiij. pora dannar el fructo de qual ca<m>po
 quier.
 {IN1.} El .x. pora acrescentar el fructo & yr pora bien.
-{IN1.} El .xi. pora auer fuerc'a enlos brac'os & grand
+{IN1.} El .xi. pora auer fuerça enlos braços & grand
 ualentia.
 {IN1.} El .xij. pora seer bienandant. & cumplir sele.
 la demanda o la oracion q<ue> fiziere.
 {IN1.} El .xiij. pora fazer florecer & fazer fructo qual
 madero quier a so hora sin plantar le.
-{IN1.} El .xiiij. pora fazer semeia<n>c'a de toro aquiquier.
+{IN1.} El .xiiij. pora fazer semeia<n>ça de toro aquiquier.
 {IN1.} El .xv. poral om<n>e desnudo que semeie uestido.
 {IN1.} El .xvi. pora seer bien sabidor de agueros de a-
 ues.
@@ -427,11 +427,11 @@ ues.
 sa quiere. & q<ue> se yerme por esta razon.
 {IN1.} El .xviij. pora fazer salir agua corriente de la
 penna.
-{IN1.} El .xix. pora fazer (fazer) semeianc'a entre co<m>-
+{IN1.} El .xix. pora fazer (fazer) semeiança entre co<m>-
 pannas de omnes; que aquel logar es lleno
 de mienbros de omnes.
-{IN1.} El .xx. pora q<ue> no<n> uenga su flor ala moc'a.
-{IN1.} El .xxi. pora fazer semeianc'a q<ue> esta antel el
+{IN1.} El .xx. pora q<ue> no<n> uenga su flor ala moça.
+{IN1.} El .xxi. pora fazer semeiança q<ue> esta antel el
 omne de otra tierra q<ue> querries ueer.}
 {CB2.
 {IN1.} El .xxij. pora aquedar los mouimientos delos
@@ -450,7 +450,7 @@ un gran rio fondo.
 {IN1.} El .xxix. pora gua[^2#r]dar el ganado de toda occasion
 {IN1.} El .xxx. pora semeiar qual logar quiere monte
 muy alto. {RUB. Del signo de libra.}
-{IN2.} El primero cap<ito>lo es pora ancanc'ar a fondo<n>
+{IN2.} El primero cap<ito>lo es pora ancançar a fondo<n>
 del pozo o del pielago que quisiere.
 {IN1.} El .ij. es pora seer bienandant & alabado el ma-
 estro. & aprender bien los disciplos.
@@ -464,7 +464,7 @@ ra o la pesquera. & que semeie carrera llana.
 quisiere.
 {IN1.} El .vij. pora seer a so hora delante qual omne
 quisiere. & por librar sus cosas con el.
-{IN1.} El .viij. pora nunqua fallec'er qual licor q<u><<i>>er
+{IN1.} El .viij. pora nunqua falleçer qual licor q<u><<i>>er
 que este enel uaso maguer q<ue> bazien dello.
 {IN1.} .ix. pora saber bien el arte de nigromancia. &
 seer auenturado en ella.
@@ -491,7 +491,7 @@ quisieres.
 {IN1.} El .xviij. pora dannar la obra q<ue> texen.
 {IN1.} El .xix. pora seer bienauenturado en bestias. &
 seer ellas guardadas de toda occasion.
-{IN1.} El .xx. pora c'egar aqui quisieres.
+{IN1.} El .xx. pora çegar aqui quisieres.
 {IN1.} El .xxi. pora fazer el agua dulce maguer sea
 salada & de mala sabor. & pora que non aya me<n>-
 gua de agua; sobre mar.
@@ -507,7 +507,7 @@ dient a el don quier que sea.
 {IN1.} El .xxvij. pora descobrir se el thesoro soterrado.
 {IN1.} El .xxviij. pora sanar el om<n>e que a morfea o
 que es gafo.
-{IN1.} El .xxix. pora auer bienandanc'a en escriuir. &
+{IN1.} El .xxix. pora auer bienandança en escriuir. &
 en fazer buena letra.
 {IN1.} El .xxx. pora encender fuego do quier que fue-
 re enqual hora quisiere.
@@ -556,13 +556,13 @@ tos estudieren en ella.
 {IN1.} El .xxi. pora seer bienandant en predicar.
 {IN1.} El .xxij. pora q<ue>mar qual quier casa en qual
 logar quier que sea.
-{IN1.} El .xxiij. pora nasc'er los ninnos sin coiones;
+{IN1.} El .xxiij. pora nasçer los ninnos sin coiones;
 en qual casa quisieres. & esto mismo en los de
 la uilla.
 {IN1.} El .xxiiij. pora semeiar qual logar quier lle-
 no de ganados. & puede los uender si quisiere.
-{IN1.} El .xxv. pora abrir qual c'erradura quisieres
-{IN1.} El .xxvi. pora cresc'er & meiorar las palomas
+{IN1.} El .xxv. pora abrir qual çerradura quisieres
+{IN1.} El .xxvi. pora cresçer & meiorar las palomas
 de qual palomar quier & guardar las de oc-
 casyon.
 {IN1.} El .xxvij. pora guardar el pan se<m>brado de lagosta.
@@ -575,7 +575,7 @@ de mancebas assentadas.
 {RUB. Del signo de sagitario.}
 {IN2.} El primero cap<ito>lo es pora semeiar unos
 a otros entre companna q<ue> andan cabe-
-c'a ayuso sobre sus manos.
+ça ayuso sobre sus manos.
 {IN1.} El .ij. pora fazer perder lo q<ue> ouieren alos que
 moran en qual casa quier.}
 [fol. 4r]
@@ -619,11 +619,11 @@ mugier.
 & mugier.
 {IN1.} El .xxv. pora semeiar entre companna de
 omnes unos a otros q<ue> an cuernos en las ca-
-bec'as.
+beças.
 {IN1.} El .xxvi. pora despoiar se omne de sus pa<n>nos
 & andar desnudo.
 {IN1.} El .xxvij. pora seer bienandant en criar aues
-de cac'a.
+de caça.
 {IN1.} El .xxviij. pora fazer andar animal muerto
 que semeie biuo.
 {IN1.} El .xxix. pora fazer que non llueua en qual}
@@ -634,13 +634,13 @@ qual uilla quier de fierro nin de otra muerte
 si non natural.
 {RUB. Del signo de capricornio.}
 {IN2.} El primero capitolo es pora aprender el mo-
-c'o ayna & bien; q<u><<a>>l quier obra de manos.
+ço ayna & bien; q<u><<a>>l quier obra de manos.
 {IN1.} El .ij. pora fazer omne foyr.
 {IN1.} El .iij. pora amansar la bestia braua.
 {IN1.} El .iiij. pora semeiar qual casa quier llena de
 pioios & non querra y ninguno morar.
-{IN1.} El .v. pora auer entendimiento de connosc'er
-en qual logar es el agua c'erca dela uilla.
+{IN1.} El .v. pora auer entendimiento de connosçer
+en qual logar es el agua çerca dela uilla.
 {IN1.} El .vi. pora semeiar el logar q<ue> quisiere lleno de
 uaccas & poder las a uender.
 {IN1.} El .vij. pora no<n> salir el preso dela prision.
@@ -679,7 +679,7 @@ er; quier grand quier pequenno.}
 {CB2.
 {IN1.} El .xxvi. pora fazer foyr las chinches & las
 pulgas.
-{IN1.} El .xxvij. pora fazer alc'ar la yente de qual
+{IN1.} El .xxvij. pora fazer alçar la yente de qual
 uilla quier contra su sennor.
 {IN1.} El .xxviij. pora oyr muy de luenne.
 {IN1.} El .xxix. pora fazer ymagen que saq<ue> peces
@@ -703,9 +703,9 @@ quier.
 ent q<ue> ninguno nol podra tener oio.
 {IN1.} El .viij. pora q<ue> non pueda fazer le mal toxico
 de ninguna manera.
-{IN1.} El .ix. pora sanar dela yteric'ia & de todo mal
+{IN1.} El .ix. pora sanar dela yteriçia & de todo mal
 de figado.
-{IN1.} El .x. pora fazer al cauallo q<ue>l non alcanc'e nin-
+{IN1.} El .x. pora fazer al cauallo q<ue>l non alcançe nin-
 guna bestia nin sele uaya otra.
 {IN1.} El .xi. pora uersificar bien.
 {IN1.} El .xij. pora obrar bien de magica & seer biena<n>-
@@ -720,7 +720,7 @@ de gallinas; & de aues de comer.
 {IN1.} El .xvij. pora q<ue> aborrescan los om<ne>s aqual om<n>e
 quisieres.
 {IN1.} El .xviij. pora echar agua enel uaso & fazer se-
-meianc'a q<ue> nunqua se incha.
+meiança q<ue> nunqua se incha.
 {IN1.} El .xix. pora auer grand seso & gra<n>d ente<n>dimie<n>to.
 {IN1.} El .xx. pora saber uerdaderamente si es el om<n>e
 acusado a derecho.}
@@ -729,14 +729,14 @@ acusado a derecho.}
 non puedan ende furtar nada.
 {IN1.} El .xxij. pora fazer semeiar algun logar lle-
 no de cauallos & de otras bestias.
-{IN1.} El .xxiij. pora q<ue> non pueda cresc'er cabello
+{IN1.} El .xxiij. pora q<ue> non pueda cresçer cabello
 nin uerna enel cuerpo del om<n>e mas delo q<ue> tiene.
 {IN1.} El .xxiiij. pora fazer obrar del fierro lo q<ue> qui-
 siere tan bien co<m>mo si fuesse cera.
 {IN1.} El .xxv. pora la yegua q<ue> para potro que sea
 muy buen cauallo.
 {IN1.} El .xxvi. pora semeiar entre companna que
-esten sin cabec'as.
+esten sin cabeças.
 {IN1.} El .xxvij. pora fazer que aya muchos mures
 en qual casa quier.
 {IN1.} El .xxviij. pora semeiar el omne todo llaga-
@@ -752,7 +752,7 @@ algib.
 enel baxel.
 {IN1.} El .iij. pora perder el alcalde su dignidat.
 {IN1.} El .iiij. pora semeiar que qual quier animal
-que tenga en la mano q<ue>l despiec'a todo. & seer
+que tenga en la mano q<ue>l despieça todo. & seer
 bienandant en hobra de nigromancia.
 {IN1.} El .v. pora nunqua se dannar pannos de lino
 o de lana que esten en alguna casa.
@@ -786,25 +786,25 @@ uerdadero.
 tanniendo ninguno.
 {IN1.} El .xix. pora sanar dela tinna & quel nas-
 can sus cabellos.
-{IN1.} El .xx. pora fazer semeianc'a de serpient.
+{IN1.} El .xx. pora fazer semeiança de serpient.
 {IN1.} El .xxi. pora sanar el ydropico.
-{IN1.} El .xxij. pora guaresc'er dela sarna.
+{IN1.} El .xxij. pora guaresçer dela sarna.
 {IN1.} El .xxiij. pora fazer perder dignidat a otri; &
 ganar la pora si.
 {IN1.} El .xxiiij. pora non roncar mientre durmiere
 {IN1.} El .xxv. pora sanar de torcimiento de oio o de
 minguamiento de uiso.
-{IN1.} El .xxvi. pora auer el buey muy grand fuerc'a
+{IN1.} El .xxvi. pora auer el buey muy grand fuerça
 en toda obra.
 {IN1.} El .xxvij. pora encender fuego q<ue> nunqua mi<n>-
 gue nin se amate por si.
-{IN1.} El .xxviij. pora uenir los c'ieruos aqui quier
+{IN1.} El .xxviij. pora uenir los çieruos aqui quier
 & fazer dellos lo que quisiere.
 {IN1.} El .xxix. pora fazer que se abra la paret ma-
 guer este muy firme.
 {IN1.} El .xxx. pora complir sele lo que demanda-
 re de bien.
-{RUB. {IN1.} Aqui comienc'an los cap<ito>los dela segunda
+{RUB. {IN1.} Aqui comiençan los cap<ito>los dela segunda
 parte que fabla de otra manera de ymage<ne>s
 que se fazen en las piedras. E fazen se otro-
 si; delos metales bueltos enuno. Et fabla
@@ -841,7 +841,7 @@ quisieres.
 quisieres.
 {IN1.} El .xvi. pora mandar aqui quisieres. & pora a-
 uer mugier aqui quisieres.
-{IN1.} El .xvij. pora c'egar aqui q<u><<i>>sieres q<ue> non uea.
+{IN1.} El .xvij. pora çegar aqui q<u><<i>>sieres q<ue> non uea.
 {IN1.} El .xviij. pora fazer casar aqui quisieres.
 {IN1.} El .xix. pora sofrir el agua q<ue> non se safonde.
 {IN1.} El .xx. pora saber las nueuas & las poridades
@@ -856,7 +856,7 @@ sobre qui quisieres.
 {IN1.} El .xxvi. pora arredrar bestias mulares de q<u><<i>> q<u><<i>>siere<<s>>.
 {IN1.} El .xxvij. pora meter cudados & tristezas sobre
 qual uilla quisieres.
-{IN1.} El .xxviij. pora c'egar aqui quisieres.
+{IN1.} El .xxviij. pora çegar aqui quisieres.
 {IN1.} El .xxix. pora fazer uenir buenos uientos sobre
 mar.
 {IN1.} El .xxx. pora destruir qual uilla quisieres por
@@ -865,12 +865,12 @@ somir o por pedrisco.
 {IN2.} El primero cap<ito>lo es pora dar muchas mu-
 gieres a tu prouecho.
 {IN1.} El .ij. pora mostrar derecho & iusticia & paga-
-miento. & enderesc'a la fisica.
+miento. & enderesça la fisica.
 {IN1.} El .iij. pora omillar se los om<ne>s poderosos a ti
 o a otre.}
 [fol. 5v]
 {CB2.
-{IN1.} El .iiij. cap<ito>lo es pora cresc'er las semientes &
+{IN1.} El .iiij. cap<ito>lo es pora cresçer las semientes &
 los aruoles.
 {IN1.} El .v. pora ayudar a arar la tierra.
 {IN1.} El .vi. pora faz<er> foyr aq<u><<i>> quisieres de su tierra a ot<r><<a>>.
@@ -882,21 +882,21 @@ uar ta por las tierras.
 tierra quisieres.
 {IN1.} El .x. pora enuiar los bueytres & los bestiglos
 sobre qual logar quisieres.
-{IN1.} El .xi. pora fazer guerras & matanc'as en q<u><<a>>l
+{IN1.} El .xi. pora fazer guerras & matanças en q<u><<a>>l
 logar quisieres.
 {IN1.} El .xij. pora fazer alegrias & gozos.
 {IN1.} El .xiij. pora auer buena fama & buena no<m>-
 bradia.
 {IN1.} El .xiiij. pora meter amor & amiztad.
 {IN1.} El .xv. pora toller lazeria & cansedat.
-{IN1.} El .xvi. pora dannar la labranc'a dela tierra
+{IN1.} El .xvi. pora dannar la labrança dela tierra
 en qual uilla quisieres.
 {IN1.} El .xvij. pora poblar q<u><<a>>l uilla quisieres.
-{IN1.} El .xviij. pora fazer enfermar & adolesc'er
+{IN1.} El .xviij. pora fazer enfermar & adolesçer
 aqui quisieres.
 {IN1.} El .xix. pora multiplicar las alegrias; &
 los gozos.
-{IN1.} El .xx. pora acresc'er lazerias por malas ga-
+{IN1.} El .xx. pora acresçer lazerias por malas ga-
 nancias.
 {IN1.} El .xxi. pora omillar & temer aquiquisieres.
 {IN1.} El .xxij. pora fazer fremosa forma; & limpia
@@ -907,16 +907,16 @@ creatura.
 {IN1.} El .xxvi. pora saber quanto a enel mundo.
 & muestra las sciencias.
 {IN1.} El .xvij. pora sembrar & plantar.
-{IN1.} El .xxviij. pora amar los moc'os & dexar las
+{IN1.} El .xxviij. pora amar los moços & dexar las
 mugieres.
-{IN1.} El .xxix. pora acresc'er las aguas enlos pozos.
+{IN1.} El .xxix. pora acresçer las aguas enlos pozos.
 {IN1.} El .xxx. pora fazer putas las mugieres de q<u><<a>>l
 uilla quisieres.
 {RUB. Del signo de gemini.}
 {IN2.} El primero cap<ito>lo es pora fazer amar &
 iazer las mugieres unas con otras.
 {IN1.} El .ij. pora guardar los ninnos
-{IN1.} El .iij. pora auer fuerc'a & atreuimie<n>to & sa<n>na.}
+{IN1.} El .iij. pora auer fuerça & atreuimie<n>to & sa<n>na.}
 {CB2.
 {IN1.} El .iiij. pora fazer enfermar aqui q<u><<i>>sieres.
 {IN1.} El .v. pora q<ue>mar qual logar quisieres.
@@ -934,7 +934,7 @@ que las siegan.
 limpiedat & castidat.
 {IN1.} El .xiiij. pora fazer ensannar qual rey quisi-
 eres sobre qual omne quisieres.
-{IN1.} El .xv. pora fazer correr las aguas & cresc'er las
+{IN1.} El .xv. pora fazer correr las aguas & cresçer las
 en qual logar quisieres
 {IN1.} El .xvi. pora minguar la leche delas mug<ie>r<e>s.
 {IN1.} El .xvij. pora meter miedo alos enemigos de q<u><<a>>l
@@ -952,10 +952,10 @@ tristes las madres.
 {IN1.} El .xxvi. pora fazer amar los omnes & iazer
 unos con otros.
 {IN1.} El .xxvij. pora uedar los caminos.
-{IN1.} El .xxviij. pora dar malandanc'a aqui q<u><<i>>sieres
+{IN1.} El .xxviij. pora dar malandança aqui q<u><<i>>sieres
 {IN1.} El .xxix. pora fazer salir de su tierra & de su lo-
 gar & fuyr aqui quisieres.
-{IN1.} El .xxx. pora fazer cresc'er & multiplicar los ar-
+{IN1.} El .xxx. pora fazer cresçer & multiplicar los ar-
 boles. {RUB. Del signo de cancro.}
 {IN2.} El primero cap<ito>lo es pora meter malos di-
 chos & malas sannas sobre qui quisieres.
@@ -981,10 +981,10 @@ sieres; pora tomar los ayna.
 {IN1.} El .xv. pora multiplicar las tus ganancias &
 las de qui quisieres.
 {IN1.} El .xvi. pora dannar las aues & faz<er> las foyr.
-{IN1.} El .xvij. pora fazer la mugier loc'ana & preciar
+{IN1.} El .xvij. pora fazer la mugier loçana & preciar
 se mas que su marido.
-{IN1.} El .xviij. pora enderesc'ar los mulos & las bes-
-tias & esforc'ar las.
+{IN1.} El .xviij. pora enderesçar los mulos & las bes-
+tias & esforçar las.
 {IN1.} El .xix. pora enderesc[']ar los estrumentes de tan-
 ner & de cantar.
 {IN1.} El .xx. pora leuar omne aqual logar quiere
@@ -992,15 +992,15 @@ de tierra.
 {IN1.} El .xxi. pora guardar el telar & las obras del
 texer.
 {IN1.} El .xxij. pora dannar & quebrar la presa & la
-ac'equia que quisieres.
-{IN1.} El .xxiij. pora enderesc'ar los cauallos & meiorar
+açequia que quisieres.
+{IN1.} El .xxiij. pora enderesçar los cauallos & meiorar
 los.
 {IN1.} El .xxiiij. pora fazer om<n>e inuisible.
 {IN1.} El .xxv. pora enuiar las aues que fagan da<n>no
 en qual logar quisieres.
 {IN1.} El .xxvi. pora da<n>nar el ganado a qui q<u><<i>>sieres.
 {IN1.} El .xxvi. pora dannar el ganado que quisieres
-{IN1.} El .xxvij. pora dar atreuimiento & fuerc'a. &
+{IN1.} El .xxvij. pora dar atreuimiento & fuerça. &
 mayor miente en luchar.
 {IN1.} El .xxviij. pora guardar qual edificio & qual
 lauor quisieres.
@@ -1049,7 +1049,7 @@ tierra & por mar.
 sieres en qual uilla quisieres
 {IN1.} El .xxiiij. pora uedar que non engendre q<u><<a>>l
 om<n>e o qual mugier quisieres.
-{IN1.} El .xxv. pora dar riq<ue>za & cresc'er aueres. & abrir
+{IN1.} El .xxv. pora dar riq<ue>za & cresçer aueres. & abrir
 qual puerta o qual cerradura quisieres
 {IN1.} El .xxvi. pora dar enfermedat aqual omne o
 a qual mugier quisieres.
@@ -1076,7 +1076,7 @@ tierra quier que sea.
 ras & en los fijos.
 {IN1.} El .viij. pora fazer que se non empre<n>nen las mu-
 gieres.
-{IN1.} El .ix. pora amar & obedec'er el om<n>e a su mugier.
+{IN1.} El .ix. pora amar & obedeçer el om<n>e a su mugier.
 {IN1.} El .x. pora departir los que se bien quieren; &
 prender aqui quisieres.
 {IN1.} El .xi. pora embiar miedo & enfermedat sobre q<u><<i>>
@@ -1099,7 +1099,7 @@ turas.
 chos delos omnes.
 {IN1.} El .xxi. pora fazer buen maestro & demostrador
 de sciencias.
-{IN1.} El .xxij. pora emblandesc'er & amollesc'er qual
+{IN1.} El .xxij. pora emblandesçer & amollesçer qual
 cosa quisieres.
 {IN1.} El .xxiij. pora multiplicar los aueres & las rique-
 zas en los omnes uiles.
@@ -1112,7 +1112,7 @@ los logares.
 ria o qual companna quisieres.}
 {CB2.
 {IN1.} El .xxviij. pora fazer buena fama & buena
-nombradia. & obedec'er las mugieres aq<u><<i>> q<u><<i>>sieres.
+nombradia. & obedeçer las mugieres aq<u><<i>> q<u><<i>>sieres.
 {IN1.} El .xxix. pora fazer carreras lue[<n>]gas & andar las
 & a qual uilla quisieres.
 {IN1.} El .xxx. pora faz<er> endiablar a qui quisieres.
@@ -1147,15 +1147,15 @@ quisieres.
 {IN1.} El .[^x]viij. pora embiar muerte subitanna aqui
 quisieres.
 {IN1.} El .xix. pora fazer regnar sobre much<o>s om<n>es.
-{IN1.} El .xx. pora enuiar dolor del figado & del bac'o aq<u><<i>>
+{IN1.} El .xx. pora enuiar dolor del figado & del baço aq<u><<i>>
 quisieres.
 {IN1.} El .xxi. pora guardar de occasiones aq<u><<i>> q<u><<i>>sieres.
 {IN1.} El .xxij. pora toller el mal de q<u><<i>> quisieres.
 {IN1.} El .xxiij. pora fazer buen uiento & sabroso en
 uerano & en yuierno.
-{IN1.} El .xxiiij. pora dar sanidat & fuerc'a de mie[<m>]bros
+{IN1.} El .xxiiij. pora dar sanidat & fuerça de mie[<m>]bros
 aqui quisieres.
-{IN1.} El .xxv. pora dar atreue<n>cia & fuerc'a & uenc'er los
+{IN1.} El .xxv. pora dar atreue<n>cia & fuerça & uençer los
 enemigos.
 {IN1.} El .xxvj. pora enuiar miedo aqui quisieres & ue[r]}
 [fol. 7r]
@@ -1163,7 +1163,7 @@ enemigos.
 matar los reyes.
 {IN1.} El .xvij. pora enuiar mansedat & cordura a
 qui quisieres.
-{IN1.} El .xviij. pora arredrar las matanc'as & las
+{IN1.} El .xviij. pora arredrar las matanças & las
 sangres delos omnes.
 {IN1.} El .xxix. pora faz<er> auer miedo aqui q<u><<i>>sieres.
 {IN1.} El .xxx. pora fazer poblar qual logar & qual
@@ -1184,10 +1184,10 @@ sequedat.
 {IN1.} El .viij. pora multiplicar las aguas & los aue-
 res & minguar las semientes & los fijos.
 {IN1.} El .ix. pora fazer fablar de sciencias & de pori-
-dades de saber & cresc'er los dichos uerdaderos.
+dades de saber & cresçer los dichos uerdaderos.
 {IN1.} El .x. pora descobrir & mostrar las figuras de
 las estrellas.
-{IN1.} El .xi. pora fazer cresc'er las miesses.
+{IN1.} El .xi. pora fazer cresçer las miesses.
 {IN1.} El .xij. pora fazer nobleza & alteza. & pora fazer
 regnar por seso & por buenas man<er>as sobre ot<r><<o>>s
 {IN1.} El .xiij. pora mostrar las fuessas delos reyes &
@@ -1197,12 +1197,12 @@ sus thesoros.
 quisieres.
 {IN1.} El .xvi. pora fazer promessas mintrosas & me<n>-
 tiras aqui quisieres.
-{IN1.} El .xvij. pora tornar el corac'on del rey ati & fa-
+{IN1.} El .xvij. pora tornar el coraçon del rey ati & fa-
 zer le amar aqui quisieres.
 {IN1.} El .xviij. pora dannar qual miembro quisie-
 res de qual bestia quisieres
 {IN1.} El .xix. pora fazer beuer toxico aqui q<u><<i>>sieres.
-{IN1.} El .xx. pora multiplicar & cresc'er los aruoles
+{IN1.} El .xx. pora multiplicar & cresçer los aruoles
 & los huertos.
 {IN1.} El .xxi. pora fazer seer puta qual mugier qui-
 sieres
@@ -1224,16 +1224,16 @@ el bendicion.
 zer qual companna quisieres.
 {IN1.} El .ij. pora destruir aqui quisieres. & dannar
 qual logar quisieres por armas & por uiento.
-{IN1.} El .iij. pora fazer guerras & lides. & alc'ar los sier-
+{IN1.} El .iij. pora fazer guerras & lides. & alçar los sier-
 uos sobre los uassallos.
 {IN1.} El .iiij. pora fazer baraias & contiendas en dis-
 putaciones.
-{IN1.} El .v. pora dar fuerc'a & poder de sofrir que quiere.
+{IN1.} El .v. pora dar fuerça & poder de sofrir que quiere.
 {IN1.} El .vi. pora departir & meter malquerencia en-
 tre quales quisieres.
-{IN1.} El .vij. pora faz<er> terre[+]motus en qual uilla qui-
+{IN1.} El .vij. pora faz<er> terre( )motus en qual uilla qui-
 sieres.
-{IN1.} El .viij. pora esflaquec'er miembros & fechos de q<u><<i>>
+{IN1.} El .viij. pora esflaqueçer miembros & fechos de q<u><<i>>
 quisieres & dannar su forma.
 {IN1.} El .ix. pora faz<er> ganar piedras preciosas.
 {IN1.} El .x. pora multiplicar los uiles & los malos o<mne>s
@@ -1250,11 +1250,11 @@ apresos por ellos
 toruar la lid de qui quisieres.
 {IN1.} El .xvi. pora fazer piedat & sofrimiento & toller
 sanna.
-{IN1.} El .xvij. pora c'egar aqui quisieres.
+{IN1.} El .xvij. pora çegar aqui quisieres.
 {IN1.} El .xviij. pora seer uisto & de buena uida.
 {IN1.} El .xix. pora faz<er> tornar el amor & el amiztad a q<u><<i>>
 quisieres.
-{IN1.} El .xx. pora faz<er> cresc'er los aruoles & huertos; & uer-geles.}
+{IN1.} El .xx. pora faz<er> cresçer los aruoles & huertos; & uer-geles.}
 [fol. 7v]
 {CB2.
 {IN1.} El .xxi. pora fazer camiar las leyes & las
@@ -1266,7 +1266,7 @@ omnes a sus mugieres en q<u><<a>>l uilla q<u><<i>>sieres.
 {IN1.} El .xxv. pora arredrar enganno & traycion de q<u><<i>>
 quisieres.
 {IN1.} El .xxvi. pora fazer amar los omnes uiles &
-malos & faz<er> los alc'ar sobre qui quisieres.
+malos & faz<er> los alçar sobre qui quisieres.
 {IN1.} El .xxvij. pora matar los reyes & fazer los en-
 sannar sobre qui quisieres.
 {IN1.} El .xxviij. pora ayudar en carreras & faz<er> saluo
@@ -1290,7 +1290,7 @@ en amar uerdat.
 {IN1.} El .vij. pora fazer amar las mugieres unas
 a otras & que aborrescan los omnes.
 {IN1.} El .viij. pora fazer amar los omnes alos mo-
-c'os & que aborrescan las mugieres.
+ços & que aborrescan las mugieres.
 {IN1.} El .ix. pora faz<er> buena fama & nombradia bue-
 na & riqueza.
 {IN1.} El .x. pora fazer alegrias & gozos & faz<er> llegar en
@@ -1301,17 +1301,17 @@ uegez aq<u><<a>>l grado o aq<u><<a>>l estado quisieres.
 nar ganancias de buena part.
 {IN1.} El .xiiij. pora seer leal & uerdadero & fiel pora o-
 tro omne.
-{IN1.} El .xv. pora dar atreuimiento & fuerc'a & cruele-
+{IN1.} El .xv. pora dar atreuimiento & fuerça & cruele-
 za aqui quisieres.}
 {CB2.
 {IN1.} El .xvi. pora dar alteza & buena no<m>bradia.
 {IN1.} El. xvij. pora dar seso & ente<n>dimie<n>to & atreue<n>cia
 {IN1.} El .xviij. pora fazer desauene<n>cia & desacordan-
-c'a en qual regno quisieres.
-{IN1.} El .xix. pora dar exalc'amiento alos om<ne>s de bu-
+ça en qual regno quisieres.
+{IN1.} El .xix. pora dar exalçamiento alos om<ne>s de bu-
 en linnage.
-{IN1.} El .xx. pora faz<er> alos reyes q<ue> ame<n> matanc'as
-{IN1.} El .xxi. pora fazer aborrec'er los malos & amar
+{IN1.} El .xx. pora faz<er> alos reyes q<ue> ame<n> matanças
+{IN1.} El .xxi. pora fazer aborreçer los malos & amar
 los iustos
 {IN1.} El .xxij. pora meter amor de qual rey quisie-
 res en uoluntad de qui tu quisieres.
@@ -1336,7 +1336,7 @@ entes
 amiztad entre los iustos.
 {IN1.} [E]l .ij. pora fazer besar aqui quisieres & aura en-
 de sabor.
-{IN1.} El .iij. pora alc'ar los uiles omnes sobre los
+{IN1.} El .iij. pora alçar los uiles omnes sobre los
 nobles.
 {IN1.} El .iiij. pora fazer mal & traicion en las ma-
 dres & en l(o)[a]s hermanas.
@@ -1377,7 +1377,7 @@ la uida aqui quisieres
 aqui quisieres
 {IN1.} El .xxv. pora demostrar miraglos & marauilla<<s>>
 {IN1.} El .xxvi. pora redrar dolores & enfermedades.
-{IN1.} El .xxvij. pora dar fuerc'a & poderio aq<u><<i>> q<u><<i>>sieres.
+{IN1.} El .xxvij. pora dar fuerça & poderio aq<u><<i>> q<u><<i>>sieres.
 {IN1.} El .xxviij. pora fazer uenir apriessa & con
 amor aqui quisieres.
 {IN1.} El .xxix. pora fazer aprender & entender &
@@ -1390,7 +1390,7 @@ ias & miedos.
 {IN1.} El .iij. pora fazer amar soberuias & tuertos.
 {IN1.} El .iiij. pora faz<er> seer uil & desp<re>ciado aq<u><<i>> q<u><<i>>sieres.
 {IN1.} El .v. pora dar sanidat de q<u><<i>> quisieres a otro.
-{IN1.} El .vi. pora fazer enfermar & adolesc'er aqui
+{IN1.} El .vi. pora fazer enfermar & adolesçer aqui
 quisieres.
 {IN1.} El .vij. pora amor & cobramiento de amiz-
 tad.
@@ -1404,7 +1404,7 @@ quisieres.}
 {IN1.} El .xi. pora meter miedo alos ninnos & matarlo<<s>>.
 {IN1.} El .xij. pora hermar & baziar las casas & min-
 guar las ganancias.
-{IN1.} El .xiij. pora fazer aborrec'er las maestrias de
+{IN1.} El .xiij. pora fazer aborreçer las maestrias de
 manos
 {IN1.} El .xiiij. pora embiar lazerias & penas aq<u><<i>> q<u><<i>>sieres.
 {IN1.} El .xv. pora fazer morir aqui quisieres.
@@ -1412,7 +1412,7 @@ manos
 se assanne por ninguna cosa.
 {IN1.} El .xvij. pora fazer corrompimiento de ayre en
 los om<ne>s & crescer sembradura & poblacio<n> de tierra.
-{IN1.} El .xviij. pora amar estar sennero & aborrec'er;
+{IN1.} El .xviij. pora amar estar sennero & aborreçer;
 companna delos omnes.
 {IN1.} El .xix. pora fazer truenos & fuertes uientos
 {IN1.} El .xx. pora andar fuera de su logar; & veuir fu-
@@ -1422,21 +1422,21 @@ era de su logar.
 {IN1.} El .xxij. pora toller la uida aqui quisieres; por
 fiebre o por ydropisya.
 {IN1.} El .xxiij. pora fazer amar las mugieres alos
-moc'os que yagan con ellas.
+moços que yagan con ellas.
 {IN1.} El .xxiiij. pora fazer la mugier pagada de su ma-
 rido.
 {IN1.} El .xxv. pora amar buenos fechos & uerdat. & a-
 borrecer los malos.
 {IN1.} El .xxvi. pora matar los malos om<ne>s & dar fuer-
-c'a en lid.
+ça en lid.
 {IN1.} El .xxvij. pora dar uentura & ganancias en sus
 fechos aqui quisieres.
-{IN1.} El .xxviij. pora dar sanidat & fuerc'a; & redra[r] fla-
+{IN1.} El .xxviij. pora dar sanidat & fuerça; & redra[r] fla-
 queza & cansedat.
 {IN1.} El .xxix. pora onrrar el om<n>e a su mugier.
-{IN1.} El .xxx. pora dar fuerc'a & sanidat alos ninnos.
+{IN1.} El .xxx. pora dar fuerça & sanidat alos ninnos.
 & pora criar se bien.
-{RUB. Dela terc'era parte deste libro que fabla segu<n>d
+{RUB. Dela terçera parte deste libro que fabla segu<n>d
 el dicho de pitagoras delas figuras que suben
 en los grados delos doze signos. & delas obras del-
 las en las nascencias. Et a en ella trezientos
@@ -1493,7 +1493,7 @@ quede en ningun logar.
 {IN1.} El .xxiiij. pora seer feminino fermoso & much
 apuesto.
 {IN1.} El .xxv. pora seer grand gastador & luxurioso. &
-sin uerguenc'a.
+sin uerguença.
 {IN1.} El .xxvi. pora {BLNK.}
 {BLNK.}
 {IN1.} El .xxvij. pora seer fermoso & muy apuesto et}
@@ -1501,7 +1501,7 @@ sin uerguenc'a.
 mucho amado.
 {IN1.} El .xxviij. pora seer lazrado. & trabador. & su-
 fridor de muchos lazerios. & pora tener en cora-
-c'on el mal q<ue>l fizieren.
+çon el mal q<ue>l fizieren.
 {IN1.} El .xxviiij. pora seer sotil menestral. & pora
 fazer fremosas obras.
 {IN1.} El .xxx. pora seer engennoso en passar su ti-
@@ -1526,7 +1526,7 @@ muchas perdidas.
 {IN1.} El .xi. pora seer cauallero muy lazrado & non
 quedar en ningun logar.
 {IN1.} El .xij. pora seer enga[<n>]nador. & muy falso & des-
-uergonc'ado.
+uergonçado.
 {IN1.} El .xiij. pora seer cauallero mucho esforc[']ado &
 mucho atreuudo.
 {IN1.} El .xiiij. pora seer sofridor. & perdonador; & de bu-
@@ -1548,9 +1548,9 @@ muchas cosas.
 [fol. 9r]
 {CB2.
 & entendudo.
-{IN1.} El .xxiij. seer de flaco corac'on & de poco prouecho
+{IN1.} El .xxiij. seer de flaco coraçon & de poco prouecho
 {IN1.} El .xxiiij. pora seer de gruessa cara & de poca uer-
-guenc'a
+guença
 {IN1.} El .xxv. pora seer de buenas costumbres; & de
 buena uoluntad.
 {IN1.} El .xxvi. pora seer grand ladron & mucho min-
@@ -1588,7 +1588,7 @@ firme en sus fechos.
 {IN1.} El .xij. pora seer om<n>e suzio & de forma muy fea.
 {IN1.} El .xiij. pora seer om<n>e triste & muy cudadoso q<ue>
 llorara todos sus dias.
-{IN1.} El .xiiij pora seer muy bien enderac'ado en todas
+{IN1.} El .xiiij pora seer muy bien enderaçado en todas
 sus cosas & pora auer mucho bien
 {IN1.} El .xv. pora seer mintroso & engennoso & mo-
 uedezo dun logar a otro & mesturero
@@ -1601,7 +1601,7 @@ nador & de poca fe & de poca cree<n>cia
 {IN1.} El .xix. pora seer falso & de muy fea figura & dan-
 nada & desauenturada
 {IN1.} El .xx. pora seer luxurioso & maldicho.
-{IN1.} El .xxi. pora seer onrrado & enderesc'ado contra to-
+{IN1.} El .xxi. pora seer onrrado & enderesçado contra to-
 do bien.
 {IN1.} El .xxij. pora seer lazrado & mucho trabaiador.
 {IN1.} El .xxiij. pora seer ladron & baraiador & much<o> atre-
@@ -1610,7 +1610,7 @@ uudo & ardit.
 {IN1.} El .xxv. pora seer fuerte & atreuudo & de buena co<m>-
 plexion.
 {IN1.} El .xxvi. pora seer grand baraiador & pora tener en
-el corac'on el mal quel fizieren.
+el coraçon el mal quel fizieren.
 {IN1.} El .xxvij. pora seer religioso & de muchas oraciones
 & lazrara en fazer plazer a dios.
 {IN1.} El .xxviij. pora seer alfaiem o estercolero.
@@ -1633,7 +1633,7 @@ de muchas occasyones.
 nado & de poco conseio.
 {IN1.} El .x. pora seer de buena uida & de mucha penite<n>-
 cia & de muchas or<aci>ones
-{IN1.} El .xi. pora seer largo & franco de corac'on & de bue-
+{IN1.} El .xi. pora seer largo & franco de coraçon & de bue-
 na creencia.
 {IN1.} El .xij. pora seer iniurioso & fazedor de muchos tu-
 ertos & engennoso.
@@ -1651,17 +1651,17 @@ delas fuessas de noche.
 {IN1.} El .xviij. pora seer muy rico & abondado & au-
 ra mucho auer.
 {IN1.} El .xix. pora seer pobre & de muchos mesteres.
-{IN1.} El .xx. pora seer de poca tristeza & rico de corac'on.
+{IN1.} El .xx. pora seer de poca tristeza & rico de coraçon.
 {IN1.} El .xxi. pora seer muy caminero que yra de una
 tierra en otra.
-{IN1.} El .xxij. pora guaresc'er por palabra.
+{IN1.} El .xxij. pora guaresçer por palabra.
 {IN1.} El .xxiij. pora seer suzio & nescio & torpe.
 {IN1.} El .xxiiij. pora seer p<ro>uechoso & abondado de mu-
 cho bien.
-{IN1.} El .xxv. pora seer exalc'ado & no<m>brado.
+{IN1.} El .xxv. pora seer exalçado & no<m>brado.
 {IN1.} El .xxvi. pora seer onrrado entre sus parie<n>tes
 & amado entre sus gentes.
-{IN1.} El .xxvij. pora seer muy co<n>nosc'udo & no<m>brado.
+{IN1.} El .xxvij. pora seer muy co<n>nosçudo & no<m>brado.
 {IN1.} El .xxviij. pora seer gran chufador & ladron. &
 descreydo & engennoso.
 {IN1.} El .xxix. pora seer muy temudo & cauallero
@@ -1679,7 +1679,7 @@ erte corac[']on.
 {IN1.} El .vi. pora seer (seer) cabdiello de much<a>s palauras.
 {IN1.} El .vij. pora seer cabdiello de grand tierra & ami-
 go & conseiador delos reyes.
-{IN1.} El .viij. pora seer cauallero mucho esforc'ado &
+{IN1.} El .viij. pora seer cauallero mucho esforçado &
 meter se en muchas auenturas.
 {IN1.} El .ix. pora seer rico & abondado.
 {IN1.} El .x. pora seer de muchos mesteres & de poco
@@ -1699,7 +1699,7 @@ rientes & de su linnage.
 sus parientes.
 {IN1.} El .xviij. pora seer artero & escarnidor & enga<n>nador
 {IN1.} El .xix. pora seer persona de gruessa natura.
-{IN1.} El .xx. pora tener en corac'on el mal q<ue>l fizieren.
+{IN1.} El .xx. pora tener en coraçon el mal q<ue>l fizieren.
 {IN1.} El .xxi. pora seer buen menestral que labre
 bien con sus manos.
 {IN1.} El .xxij. pora seer escriuano muy ensennado;
@@ -1713,7 +1713,7 @@ grand iogador.
 {IN1.} El .xxvi. pora seer gra<n>d sabidor de sciencias
 {IN1.} El .xxvij. pora seer de muchas occasiones & muy
 desauenturado.
-{IN1.} El .xxviij. pora seer nombrado & esforc'ado; &
+{IN1.} El .xxviij. pora seer nombrado & esforçado; &
 mucho enamorado.
 {IN1.} El .xxix. pora seer matador & uertedor de sa<n>gre
 & enoioso.
@@ -1723,7 +1723,7 @@ de su cuerpo & engannador.
 {IN2.} El primero cap<ito>lo es pora seer sotil franco
 enamorado & bien fablado.
 {IN1.} El .ij. pora seer sabio entendudo & de buena
-uida & ensennador de moc'os.
+uida & ensennador de moços.
 {IN1.} El .iij. pora seer om<n>e religioso.
 {IN1.} El .iiij. pora seer arador & labrador de tierra
 {IN1.} El .v. pora seer ladro<n> robador de camino & maldito.
@@ -1747,12 +1747,12 @@ poco entendimiento.
 {IN1.} El .xvij. pora seer rey onrrado & mucho largo.
 {IN1.} El .xviij. pora seer argudo largo & entendudo.
 {IN1.} El .xix. pora seer largo & soberuio.
-{IN1.} El .xx. pora seer esforc'ado & de fuerte corac'on.
+{IN1.} El .xx. pora seer esforçado & de fuerte coraçon.
 {IN1.} El .xxi. pora seer periuro falso & desauenturado
 {IN1.} El .xxij. pora seer rebatoso enge<n>n[o]so & artero.
 {IN1.} El .xxiij. pora seer artero baraiador & enga<n>nador.
 {IN1.} El .xxiiij. pora seer limpio & de buena fama.
-{IN1.} El .xxv. pora seer rey poderoso & de mucha merc'et.
+{IN1.} El .xxv. pora seer rey poderoso & de mucha merçet.
 {IN1.} El .xxvi. pora seer desfigurado & desauenturado
 {IN1.} El .xxvij. pora seer muy malo & gra<n>d baraiador.
 {IN1.} El .xxviij. pora seer estra<n>no senneriego & malo.
@@ -1763,21 +1763,21 @@ poco entendimiento.
 dido & mucho delibre.
 {IN1.} El .ij. pora seer bueno ensennado & limpio
 {IN1.} El .iij. pora seer ensennado & sabio.
-{IN1.} El .iiij. pora seer enga<n>nador cac'ador & enge<n>noso
+{IN1.} El .iiij. pora seer enga<n>nador caçador & enge<n>noso
 {IN1.} El .v. pora seer p<re>gonero & se<n>nor de naues
-{IN1.} El .vi. pora seer enderesc'ado en sus estados & bie<n>
+{IN1.} El .vi. pora seer enderesçado en sus estados & bie<n>
 abondado.
 {IN1.} El .vij. pora seer om<n>e de dios & religioso & muy
 temeroso.
 {IN1.} El .viij. pora seer onrrado noble & bie<n> abondado.
-{IN1.} El .ix. pora seer lazrado & cac'ador de aues.
+{IN1.} El .ix. pora seer lazrado & caçador de aues.
 {IN1.} El .x. pora seer alegre & gozoso.
 {IN1.} El .xi. pora seer abondado & fazedor de bien.
 {IN1.} El .xij. pora {BLNK.}
 {IN1.} El .xiij. pora seer abondado onrrado & bendicho.
 {IN1.} El .xiiij. pora seer muy feo luxurioso & no<m>brado.
 {IN1.} El .xv. pora seer rey q<ue> ordenara muy bien sus hu-
-estes & uenc'ra los reyes.
+estes & uençra los reyes.
 {IN1.} El .xvi. pora seer guiador de huestes & aura alguna
 sennal en la cara o enel cuerpo.
 {IN1.} El .xvij. pora seer desfigurado boto de aprender.
@@ -1826,18 +1826,18 @@ prouecho assi mismo.
 {IN1.} .xviij. pora. {BLNK.}
 {BLNK.}
 {IN1.} El .xix. pora seer soberuio desauent<u><<r>>ado & loco.
-{IN1.} El .xx. pora seer rey enderec'ado en sus co<n>seios. &
-de noble corac'on & bien rec'ebido.
+{IN1.} El .xx. pora seer rey endereçado en sus co<n>seios. &
+de noble coraçon & bien reçebido.
 {IN1.} El .xxi. pora seer malo & grand contendedor.
 {IN1.} El .xxij. pora seer pastor lazrado.
 {IN1.} El .xxiij. pora seer de mucho bien & de gra<n>d auer.
 {IN1.} El .xxiiij. pora seer abondado & amador de todi bie<n>.
 {IN1.} El .xxv. pora seer omne pagado de su conseio
-& non lo querra rec'ebir de otro.
-{IN1.} El .xxvi. pora seer loco feminino & desuergo<n>c'ado.}
+& non lo querra reçebir de otro.
+{IN1.} El .xxvi. pora seer loco feminino & desuergo<n>çado.}
 [fol. 10v]
 {CB2.
-{IN1.} El .xxvij. pora alcanc'ar todas las cosas q<ue> q<u><<i>>siere;
+{IN1.} El .xxvij. pora alcançar todas las cosas q<ue> q<u><<i>>siere;
 {IN1.} El .xxviij. pora seer fazedor de todo mal & non
 pensar en lo que fiziere.
 {IN1.} El .xxix. pora seer triste & de mucho cudado.
@@ -1847,14 +1847,14 @@ muchos mesteres.
 {IN2.} El primero cap<ito>lo es pora seer perezoso min-
 guado & dannador.
 {IN1.} El .ij. pora seer fuerte & retenedor.
-{IN1.} El .iij. pora seer connosc'udo por pobre.
+{IN1.} El .iij. pora seer connosçudo por pobre.
 {IN1.} El .iiij. pora seer atreuudo osado cauallero mu-
 cho hardido.
 {IN1.} El .v. pora seer de muchos mouimientos de un
 logar a otro.
-{IN1.} El .vi. pora seer fuerte de cuerpo & de corac'on.
+{IN1.} El .vi. pora seer fuerte de cuerpo & de coraçon.
 {IN1.} El .vij. pora seer disputador en su ley; & mucho
-esforc'ado.
+esforçado.
 {IN1.} El .viij. pora seer bozero & grand contendedor.
 {IN1.} El .ix. pora seer rey de grand caualleria.
 {IN1.} El .x. pora seer enoioso.
@@ -1862,7 +1862,7 @@ esforc'ado.
 {IN1.} El .xij. pora seer rico & de grand folgamiento.
 {IN1.} El .xiij. pora seer estranno delas gentes.
 {IN1.} El .xiiij. pora seer uerdadero & auer mucho bien.
-{IN1.} El .xv. pora seer mucho atreuudo & much enderec'ado.
+{IN1.} El .xv. pora seer mucho atreuudo & much endereçado.
 {IN1.} El .xvi. pora seer mi<n>troso t<r><<i>>ste & de mucho cudado.
 {IN1.} El .xvij. pora seer ayudado & de buena fe & de
 buena uoluntad.
@@ -1877,7 +1877,7 @@ poder.
 {IN1.} El .xxiiij. pora seer lazrado flaco & mesquino.
 {IN1.} El .xxv. pora {BLNK.}
 {IN1.} El .xxvi. pora seer dannador & artero.
-{IN1.} El .xxvij. pora seer bien uestido & bien rec'ebido. &
+{IN1.} El .xxvij. pora seer bien uestido & bien reçebido. &
 aura mucho bien.
 {IN1.} El .xxviij. pora seer omne de dios & fuerte & fre-
 moso.
@@ -1885,7 +1885,7 @@ moso.
 desauenturas.
 {IN1.} El .xxx. pora seer maldicho descreydo & artero.}
 {CB2.
-{IN2.} El primero cap<ito>lo es pora seer alc'ado sabio
+{IN2.} El primero cap<ito>lo es pora seer alçado sabio
 & entendudo & ensennado.
 {IN1.} El .ij. pora seer malo mintroso & artero.
 {IN1.} El .iii. pora seer enfermo de muchas enfer-
@@ -1894,7 +1894,7 @@ medades & aura muchos mesteres.
 {IN1.} El .v. pora seer bozero & grand contendedor de pa-
 labras.
 {IN1.} El .vi. pora seer inuidioso dannador & antoiadizo.
-{IN1.} El .vij. pora seer connosc'udo por mucho enamorado.
+{IN1.} El .vij. pora seer connosçudo por mucho enamorado.
 {IN1.} El .viij. pora seer mintroso & pidra por amor de dios.
 {IN1.} El .ix. pora seer muy feo & desfigurado.
 {IN1.} El .x. pora seer caminero & auer mucho bien.
@@ -1906,7 +1906,7 @@ labras.
 chos defendimientos & no<n> seer firme en ellos.
 {IN1.} El .xvi. pora seer fuerte. abondado & leal & bien obe-
 dient.
-{IN1.} El .xvij. pora seer de flaco corac'on.
+{IN1.} El .xvij. pora seer de flaco coraçon.
 {IN1.} El .xviij. pora seer rey artero & minguado.
 {IN1.} El .xix. pora seer grand sabio & usado de pratica.
 {IN1.} El .xx(^i). pora seer artero minguado & de poco seso.
@@ -1934,18 +1934,18 @@ essas.
 [fol. 11r]
 {CB2.
 {IN1.} El .v. pora auer muchos fijos.
-{IN1.} El .vi. pora seer enoioso desuergonc'ado & po-
+{IN1.} El .vi. pora seer enoioso desuergonçado & po-
 bre de uoluntad.
 {IN1.} El .vij. pora seer atreuudo & cauallero mucho
-esforc'ado
-{IN1.} El .viij seer rico & ensennador de moc'os.
+esforçado
+{IN1.} El .viij seer rico & ensennador de moços.
 {IN1.} El .ix. pora seer engannador & much<o> enge<n>noso.
 {IN1.} El .x. pora seer minguado en su figura.
-{IN1.} El .xi. pora seer de flaco corac'on.
+{IN1.} El .xi. pora seer de flaco coraçon.
 {IN1.} El .xij. pora seer om<n>e de baxa uoluntat.
 {IN1.} El .xiij. pora seer grand encendedor de fuego
 {IN1.} El .xiiij. pora seer mesturador & grand dezidor
-de mal de c'aga.
+de mal de çaga.
 {IN1.} El .xv. pora seer peon de aguazil o de merino. o
 delos que tienen tal officio.
 {IN1.} El .xvi. pora seer mucho enamorado.
@@ -1987,7 +1987,7 @@ parientes.
 {IN1.} El .xiij. pora seer muy curioso de cosas agenas
 & trabaiador delo que non deue.
 {IN1.} El .xiiij. pora seer carpe<n>tero & taiador de arboles.
-{IN1.} El .xv. pora auer uillas por fuerc'a & posseer las a
+{IN1.} El .xv. pora auer uillas por fuerça & posseer las a
 {IN1.} El .xvi. pora seer de poco poder & de poco recabdo.
 {IN1.} El .xvij. pora seer abondado en su uida; & auer
 mucho bien.
@@ -2003,13 +2003,13 @@ caminos; por mar & por tierra.
 {IN1.} El .xxv. pora seer pregonero & leal
 {IN1.} El .xxvi. seer dezidor de mal delos omnes & auer
 mucho bien.
-{IN1.} El .xxvij. pora seer desuergonc'ado & non saber
+{IN1.} El .xxvij. pora seer desuergonçado & non saber
 traer ningun fecho a acabamiento.
 {IN1.} El .xxviij. pora seer malo alas yentes.
 {IN1.} El .xxix. pora seer de malos fechos.
 {IN1.} El .xxx. pora seer enfermizo de enfermedades q<ue>
 tarde o nunqua guarecen.
-{RUB. Aqui comienc'an los cap<ito>los dela .iiij<<a>>. parte
+{RUB. Aqui comiençan los cap<ito>los dela .iiij<<a>>. parte
 deste libro que fabla delas uertudes & de las
 obras q<ue> an las figuras q<ue> se fazen en las pie-
 dras por las fazes delos signos segund que di-
@@ -2017,7 +2017,7 @@ ze yluz. & a en ella .xxxvi cap<ito>los.}
 {IN4.} El primero cap<ito>lo es pora seer uen-
 cedor en lides
 {IN1.} El .ij. es pora seer amado delos reyes.
-{IN1.} El .iij. pora seer bien rec'ebido de
+{IN1.} El .iij. pora seer bien reçebido de
 los alcaldes & seer bien andant en meter pazes.
 {IN1.} El .iiij. pora seer amado delas mugieres & pon<er>
 paz entrellas & los maridos. & por auer buen
@@ -2030,14 +2030,14 @@ quisieres.
 {IN1.} El .viij. pora seer bien andant en caminos.}
 [fol. 11v]
 {CB2.
-{IN1.} El .viiij. pora seer bie[<n>]andant en cac'a
+{IN1.} El .viiij. pora seer bie[<n>]andant en caça
 {IN1.} El .x. pora seer bienandant sobre mar & por
 fazer que llueua.
 {IN1.} El .xi. pora toller danno de lluujas & de nie-
 ues & de culuebras & de bestiglos malos.
 {IN1.} (El .xij. pora)
-{IN1.} El .xij. pora non perec'er en la mar & seer bie<n>
-andant en cac'a de uenado de quatro pies.
+{IN1.} El .xij. pora non pereçer en la mar & seer bie<n>
+andant en caça de uenado de quatro pies.
 {IN1.} El .xiij. pora seer ad {BLNK.} & bie<n> q<u><<i>>sto delos reyes.
 {IN1.} El .xiiij. pora non auer danno de orsos nin
 de bestias fieras & por seer poderosos sobre ne-
@@ -2058,15 +2058,15 @@ bras aqual logar quisieres.
 {IN1.} El .xxiij. pora fazer foyr alacranes & culuebras
 & bestiglos malos de qual logar quisieres.
 {IN1.} El .xxiiij. por uedar danno de nieue. & auer mu-
-gieres por fuerc'a & non auer mal en mar.
+gieres por fuerça & non auer mal en mar.
 {IN1.} El .xxv. por seer amado delos omnes
 {IN1.} El .xxvi. por fazer parar mal la fazienda de
 qui quisieres; & q<ue> los om<ne>s le quieran mal.
 {IN1.} El .xxvij. por seer el alcalde amado del rey & de
 los omnes.
-{IN1.} El .xxviij. por seer bienandant en cac'ar por
+{IN1.} El .xxviij. por seer bienandant en caçar por
 tierra & en lauor de tierra.
-{IN1.} El .xxix. por fazer crec'er en bien el ganado; &
+{IN1.} El .xxix. por fazer creçer en bien el ganado; &
 las abeias.
 {IN1.} El .xxx. pora seer bien quisto delos adelanta-
 dos delas uillas & delos escriuanos.
@@ -2078,8 +2078,8 @@ las otras mugieres.
 enla mar & que el pescador tome muchos pescados.}
 {CB2.
 {IN1.} El .xxxv. por seer orgulloso & por faz<er> llouer.
-{IN1.} El .xxxvi. por seer bienandant en cac'a de aues.
-{RUB. Aqui comienc'an los cap<ito>los dela quinta
+{IN1.} El .xxxvi. por seer bienandant en caça de aues.
+{RUB. Aqui comiençan los cap<ito>los dela quinta
 parte deste libro que fabla delas uertudes
 & delas obras q<ue> an las figuras q<ue> se fazen
 las piedras por las planetas q<u><<a>>ndo son en
@@ -2096,12 +2096,12 @@ del goteamiento dela orina.
 {IN1.} El .iiij. pora meter desauenencia entre dos q<ue>
 se quieran bien.
 {IN1.} El .v. pora faz<er> baraia entre los om<ne>s[.] {RUB. De iupiter.}
-{IN1.} El .vi. pora seer preciado delos om<ne>s & pora cresc'er
+{IN1.} El .vi. pora seer preciado delos om<ne>s & pora cresçer
 el auer & auer buena uida; & pora salir todos
 sus fechos a bien.
 {IN1.} El .vij. pora seer amado & onrrado delos alcaldes
 & delos om<ne>s q<ue> iudgan enlas uillas.
-{IN1.} El .viij. pora seer amado & bien rec'ebido de los
+{IN1.} El .viij. pora seer amado & bien reçebido de los
 omnes & pora ayuntar las aues aqual logar
 quisieres.
 {IN1.} El .ix. pora seer temudo delos omnes & de los
@@ -2114,7 +2114,7 @@ mandado.
 lo uieren. {RUB. De mars.}
 {IN1.} El .xiiij. pora seer poderoso en fazer todos fechos
 de bien & de mal & pora non seer uencido nin
-forc'ado.
+forçado.
 {IN1.} El .xv. pora seer temudo de quantos lo uieren.
 & pora fazer estancar la sangre.
 {IN1.} El .xvi. pora seer ualiente & atreuudo.
@@ -2122,7 +2122,7 @@ forc'ado.
 {IN1.} El .xviij. pora fazer tomar fiebres {RUB. Del sol.}
 {IN1.} El .xix. pora rey q<ue> uenzca alos otros reyes. & el
 nunqua seer uencido.
-{IN1.} El .xx. pora non seer uenc'ido & pora recabdar
+{IN1.} El .xx. pora non seer uençido & pora recabdar
 sus cosas ligero. & pora no<n> so[<n>]nar malos sue<n>nos.}
 [fol. 12r]
 {CB2.
@@ -2130,7 +2130,7 @@ sus cosas ligero. & pora no<n> so[<n>]nar malos sue<n>nos.}
 {IN1.} El .xxij. pora sanar los epilenticos.
 {IN1.} El .xxiij. pora auer los reyes uictorya. poder. ex-
 altamiento. & atreuimiento & tuelle la tristeza
-del corac'on.
+del coraçon.
 {IN1.} El .xxiiij. pora recabdar con los reyes lo que
 quisieres. & pora non auer miedo de ladron. &
 (&) pora sanar de enfermedat.
@@ -2144,7 +2144,7 @@ brellos.
 {IN1.} El .xxviij. pora non auer malos pensamie<n>tos.
 & pora sanar dela dolor del figado & del estom<<a>>go.
 {IN1.} El .xxix. pora seer inuisible.
-{IN1.} El .xxx. pora seer bien rec'ebido de cada omne
+{IN1.} El .xxx. pora seer bien reçebido de cada omne
 poderoso de qui ouieres miedo. {RUB. De uenus.}
 {IN1.} El .xxxj. pora seer amado & bien quisto delos
 omnes.
@@ -2153,14 +2153,14 @@ mugieres.
 {IN1.} El .xxxiij. pora seer seruido delos omnes.
 {IN1.} El .xxxiiij. pora escapar de ferida de alacran &
 de culuebra.
-{IN1.} El .xxxv. pora seer bien quisto delos moc'os.
+{IN1.} El .xxxv. pora seer bien quisto delos moços.
 {IN1.} El .xxxvi. pora seer bienandant en caminos.
 {IN1.} El .xxxvij. pora seer auent<u><<r>>ado en merchandia.
 {IN1.} El .xxxviij. pora faz<er> foyr los mures.
 {IN1.} El .xxxix. pora fazer foyr las moscas.
 {IN1.} El .xl. pora fazer foyr las sangusuelas.
 {IN1.} El .xli. pora seer amado delas mugieres.
-{IN1.} El .xlij. pora escapar los moc'os dela maq<ue>da.
+{IN1.} El .xlij. pora escapar los moços dela maq<ue>da.
 {IN1.} El .xliij. pora sanar dela dolor del estomago
 {IN1.} El .xliiij. pora fazer uenir q<u><<a>>l quier mugier.
 {IN1.} El .xlv. pora recabdar todo lo q<ue> quisiere.
@@ -2170,7 +2170,7 @@ de culuebra.
 {IN1.} El .xlviij. pora seer la mugier onrrada & ama-
 da delos omnes & pora seer el omne bien aue<n>-
 turado & onrrado & p<re>ciado delas mugieres.
-{IN1.} El .xlviiij. pora tirar los corac'ones delas mu-
+{IN1.} El .xlviiij. pora tirar los coraçones delas mu-
 gieres contra si; & pora obedecer le las anima-
 lias q<ue> son de uenus. & pora seer la mugier;}
 {CB2.
@@ -2198,15 +2198,15 @@ sanar dela fiebre.
 natura. & pora seer omne alegre & de buen ta-
 lant. & pora sanar dela enfermedat dela male<n>-
 conia. & pora auer poder de iazer muchas uezes
-con mugier. & pora cresc'er este sabor tan bien
+con mugier. & pora cresçer este sabor tan bien
 en la mugier co<m>mo enel uaron.
-{IN1.} El .Lx. pora seer amado & bien rec'ebido & pora
+{IN1.} El .Lx. pora seer amado & bien reçebido & pora
 fazer te seguir qual quier mugier.
 {IN1.} El .Lxi. pora seer amado de q<u><<a>>ntos te uieren; &
 mas delas mugieres.
 {IN1.} El .Lxij. pora seer amado de quantas mugieres
 le uieren.
-{IN1.} El .Lxiij. pora seer amado & rec'ebido de qual q<u><<i>>er
+{IN1.} El .Lxiij. pora seer amado & reçebido de qual q<u><<i>>er
 mugier quel uiere & seguir la.
 {IN1.} El .Lxiiij. pora seguir le qual q<u><<i>>er mugier
 {IN1.} El .Lxv. pora sacar los p<re>sos. {RUB. De mercurio.}
@@ -2228,7 +2228,7 @@ buena memoria & seer onrrado delos omnes.
 tos lo uieren.
 {IN1.} El .Lxxiiij. pora sanar de malenconia.
 {IN1.} El .Lxxv. pora desligar.
-{IN1.} El .Lxxvi. pora guarec'er al epilentico o al loco
+{IN1.} El .Lxxvi. pora guareçer al epilentico o al loco
 o al enfechizado; sanara. {RUB. Dela luna.}
 {IN1.} El .Lxxvij. pora seer amado delos omnes. & me-
 ter amor entre dos q<ue> se quieran mal.
@@ -2249,12 +2249,12 @@ non sele oluide nada.
 & las otras cosas de sobre tierra.
 {IN1.} El .Lxxxvi. pora sanar dela ferida del escorpion.
 {IN1.} El .Lxxxvij. pora {BLNK.}
-{RUB. Aqui comienc'an los cap<ito>los dela sesta parte
+{RUB. Aqui comiençan los cap<ito>los dela sesta parte
 deste libro que fabla delas uertudes & delas o-
 bras q<ue> an las ymagenes q<ue> se fazen en las pie-
 dras por las planetas poniendo las en sortijas
 segund q<ue> dize plinio & hermuz & otros sabios
-Et a en ella .xxiij. cap<ito>los. % De saturno.}
+Et a en ella .xxiij. cap<ito>los. ¶ De saturno.}
 {IN4.} El primero cap<ito>lo es pora q<ue>l obedez-
 can todos los espiritos. & saber los
 thesoros. & someter la toda cosa que
@@ -2282,7 +2282,7 @@ cen a mars.
 {IN1.} El .x. pora seer ledo & gozoso & sano & empren-
 nar sa la mugier de su marido. {RUB. Del sol.}
 {IN1.} El .xi. pora recabdar bien sus mandados & nol
-podra ningun omne malo empec'er.
+podra ningun omne malo empeçer.
 {IN1.} El .xij. pora seer bien quisto delas mugieres
 {IN1.} El .xiij. pora faz<er> muchas uertudes marauillosas.
 {IN1.} El .xiiij. pora se allongar su uida & seer sabidor
@@ -2304,14 +2304,14 @@ pora toller todos los trabaios & los nozimientos.
 delos malos fechos. & pora ganar amor delas gen-
 tes. {RUB. De mercurio.}
 {IN1.} El .xxi. pora razonar & pora disputar. & pora
-uenc'er pleyto & q<ue> uaya mas adelante la su ra-
+uençer pleyto & q<ue> uaya mas adelante la su ra-
 zon q<ue> las otras.
 {IN1.} El .xxij. pora ganar la sabiduria & quanto fi-
 ziere o desseare; auer lo a. {RUB. Dela luna.}
 {IN1.} El .xxiij. pora seer poderoso de todas cosas & gu-
 ardado de toda occasion. & sabra todas las cosas.
 & recabdara todo q<u><<a>>nto demandare.
-{RUB. Aqui comienc'an los cap<ito>los dela setena par-
+{RUB. Aqui comiençan los cap<ito>los dela setena par-
 te deste libro. Et fabla delas uertudes & delas o-
 bras q<ue> an las ymagenes q<ue> se fazen en las pie-
 dras por las planetas segun[^d] q<ue> dize vtarit. Et
@@ -2322,7 +2322,7 @@ son en las tiniebras.}
 {CB2.
 {IN1.} El .ij. pora seer onrrado de todos los om<ne>s co-
 munal mente.
-{IN1.} El .iij. pora seer temudo & esforc'ado & ue<n>c'edor.
+{IN1.} El .iij. pora seer temudo & esforçado & ue<n>çedor.
 en las batallas & en las lides.
 {IN1.} El .iiij. pora seer onrrado delos reyes. & por ganar
 regno & sennorio.
@@ -2332,26 +2332,26 @@ guardado delos espiritos malos.
 nar grand saber & noble.
 {IN1.} El .vij. pora seer onrrado delos omnes & seruido
 delos espiritos.
-{RUB. Aqui comienc'an los cap<ito>los dela .viij<<a>>. parte
+{RUB. Aqui comiençan los cap<ito>los dela .viij<<a>>. parte
 q<ue> fabla delas uertudes & delas propriedades
 que an las ymagenes q<ue> se fazen en las pie-
 dras segund q<ue> dize ragiel. Et a en ella .xxiiij. +}
-{IN4.} El primero es por crec'er {RUB. cap<ito>los}
+{IN4.} El primero es por creçer {RUB. cap<ito>los}
 omne en onrra.
 {IN1.} El .ij. es por seer casto & auer bie<n>
 querencia delos altos omnes
-{IN1.} El .iij. por crec'er en riquezas & por saber lo que
+{IN1.} El .iij. por creçer en riquezas & por saber lo que
 es de uenir.
 {IN1.} El .iiij. por auer salut & onrra & guarda el om<n>e
 en carreras.
 {IN1.} El .v. por prophetizar las cosas q<ue> an de uenir.
 {IN1.} El .vi. por salir de prision & de cuyta.
-{IN1.} El .vij. por poner amista[<n>]c'a en los omnes.
+{IN1.} El .vij. por poner amista[<n>]ça en los omnes.
 {IN1.} El .viij. por auer poder sobre los demonios.
 {IN1.} El .ix. por auer buena color & auer onrra
 {IN1.} El .x. por seer guardado de malos espiritos.
 {IN1.} El .xi. por seer inuisible.
-{IN1.} El .xij. por cresc'er la leche alas mugieres.
+{IN1.} El .xij. por cresçer la leche alas mugieres.
 {IN1.} El .xiij. por auer onrra.
 {IN1.} El .xiiij. por seer saluo de uenino & de fiebre
 {IN1.} El .xv. por auer salut.
@@ -2370,7 +2370,7 @@ de uino.
 {CB2.
 {IN1.} El .xxiiij. por seer guardados los miembros de
 los omnes sanos.
-{RUB. Aqui comienc'an los cap<ito>los dela .ix. parte que
+{RUB. Aqui comiençan los cap<ito>los dela .ix. parte que
 fabla delas aguas & delos lodos q<ue> entran enel ma-
 gist desta scie<n>cia segund yacot. Et a en ella
 ocho capitolos.}
@@ -2386,7 +2386,7 @@ delas ymagenes.
 {IN1.} El .vij. es de otra manera de lodo.
 {IN1.} El .viij. de otro lodo & de reglas q<ue> son mester en
 esta sciencia.
-{RUB. Aqui comienc'an los cap<ito>los dela dezena parte
+{RUB. Aqui comiençan los cap<ito>los dela dezena parte
 que fabla de co<m>mo se deuen labrar & entallar
 las piedras. & de otras reglas que a mester en es-
 ta sciencia segund q<ue> dize aly. & a en ella .xxvij. +}
@@ -2421,7 +2421,7 @@ las partes delos signos. & delas horas. & dela forma}
 {IN1.} El .xvi[.] dela concordia de los sabios en las sazo-
 nes delos tiempos. & qual planeta a poderio
 en cadaun miembro delos sentidos que son
-en la cabesc'a.
+en la cabesça.
 {IN1.} El .xvij. delos dichos de hermes sobrel poder
 delas planetas enlas ymagenes.
 {IN1.} El .xviij. delas planetas qual es maslo o q<u><<a>>l
@@ -2447,12 +2447,12 @@ las quatro naturas; segund en el omne.
 prologo delas cosas. & dela quantia delas yma-
 genes. & de otras cosas.
 {IN1.} El .xxvij. del castigamiento de aly en la fin del
-libro. {RUB. Aqui comienc'an los cap<ito>los dela .xi<<a>>.
+libro. {RUB. Aqui comiençan los cap<ito>los dela .xi<<a>>.
 parte que fabla delas uertudes & delas obra<<s>>
 que an las ymagenes que se fallan en las
 piedras. Et a en ella .Lxxxiij. cap<ito>los. & prime-
 ramente delas ymagenes q<ue> son dela octaua +}
-{IN4.} El primero es por auer {RUB. %2 espera.}
+{IN4.} El primero es por auer {RUB. ¶2 espera.}
 ardimiento & ligereza & por seer
 los cauallos guardados de aguami-
 ento & de todas enfermedades.
@@ -2461,35 +2461,35 @@ pestades. & de enuidia & delos cursos delos demonio<<s>>.
 {IN1.} El .iij. pora seer ue<n>cedor enlas lides.
 {IN1.} El .iiij. pora seer guardado de ydropisya & de oc-
 casyones. & de pestile[<n>]cias & de epidimias.
-{IN1.} El .iiiij. pora q<ue> no<n> pueda empeec'er demonio.
-{IN1.} El .vi. pora seer ue<n>c'edor & meior en todas cosas.
+{IN1.} El .iiiij. pora q<ue> no<n> pueda empeeçer demonio.
+{IN1.} El .vi. pora seer ue<n>çedor & meior en todas cosas.
 {IN1.} El .vij. pora seer siempre sano.}
 {CB2.
 {IN1.} El .viij. pora ganar los honores nueuos &
 guardar los uieios.
 {IN1.} El .ix. pora seer agradabl(^o)[^e] a todos. & seer bie<n>
-quisto & amado de todo el pueblo & obedec'er le
+quisto & amado de todo el pueblo & obedeçer le
 todas las bestias.
 {IN1.} El .x. pora seer agradable & bien quisto de todos
-{IN1.} (E) los omnes. & pora obedec'er le todas las
+{IN1.} (E) los omnes. & pora obedeçer le todas las
 bestias. & pora prender muchos peces. & pora
 nadar enla mar entre los pescados que nol
 fagan mal.
 {IN1.} El .xi. pora comprar & ue<n>der todas cosas.
 {IN1.} El .xij. pora cobrar & poner amor & dileccion
-entre uaron & mugier. & otrossi; entre garc'o-
+entre uaron & mugier. & otrossi; entre garço-
 nes & drudos.
 {IN1.} El .xiij. pora librar de paralisyo & de quartana
 {IN1.} El .xiiij. pora seer bienauenturado en tierra
 & en mar. & pora seer bueno & bie<n>quisto. & co-
 brar lo q<ue> perdio. {RUB. Delas figuras delos signos.}
-{IN1.} El .xv. pora guarec'er de fiebres cotidianas. et
+{IN1.} El .xv. pora guareçer de fiebres cotidianas. et
 guarda(^s)[^r] delas & de su trabaio. & pora auer gr<aci>a
 & uertud pora seer bien razonado. & sotil. & en-
 gennoso en todas cosas.
 {IN1.} El .xvi. pora los q<ue> an fiebre con calentura. o
 calentura atal desta natura.
-{IN1.} El .xvij. pora delibrar & guardar & guarec'er de
+{IN1.} El .xvij. pora delibrar & guardar & guareçer de
 fiebres quartanas & toller las muy ligera me<n>te.
 {IN1.} El .xviij. pora guardar & defender de fiebre terciana.
 {IN1.} El .xix. pora ganar en todas cosas q<ue> comprare
@@ -2501,8 +2501,8 @@ por siempre iamas. {RUB. Delas fig<u><<r>>as delas pl<anet>as.}
 {IN1.} El .xxi. pora podestad de tierra mantener aq<ue>l-
 las cosas q<ue>l son otorgadas & sus derechos.
 {IN1.} El .xxij. pora seer poderoso & bien quisto & bie<n>
-apreso. & pora cresc'er cadadia el poder & la b[^i]en-
-andanc'a.
+apreso. & pora cresçer cadadia el poder & la b[^i]en-
+andança.
 {IN1.} El .xxiij. pora u(e)[a]ler en todos pleitos. & en todas
 cortes & seer conuinient & bien acostu<m>brado.
 {IN1.} El .xxiiij. pora seer amado & bien quisto de
@@ -2532,18 +2532,18 @@ la mesa.
 {IN1.} El .xxxiiij. pora seer defendidos & seguros; de
 sus enemigos.
 {IN1.} El .xxxv. pora sanar dela fiebre aguda. & pora
-saber bien connosc'er las melezinas & las
+saber bien connosçer las melezinas & las
 yerbas. & en saber las bien dar. & pora seer
 muy poderoso & si saliere sangre & la pusie-
 re enel dedo luego sera sano & guarido muy
 bien.
-{IN1.} El .xxxvi. pora non perec'er en rio ni en mar.
+{IN1.} El .xxxvi. pora non pereçer en rio ni en mar.
 & guardar el cuerpo sano & saluo de otro mal
 de fiebre. & de ydropisya. & pora seer poderoso
 & seer bien fablado en pleytos & seer ue<n>cedor.
 & emprennar se la mugier. & ayudar la a en-
-caesc'er. & faze seer bien fablado & amado en
-todas cosas. & pora uenc'er todo pleyto. & dar
+caesçer. & faze seer bien fablado & amado en
+todas cosas. & pora uençer todo pleyto. & dar
 paz & concordia & muchos otros bienes.
 {IN1.} El .xxxvij. pora nunqua auer la enferme-
 dat que dizen colica.
@@ -2568,7 +2568,7 @@ malignos. & pora fallar los thesoros escondidos.
 poro quier que sean.
 {IN1.} El .xlvi. pora sanar todo dolient.
 {IN1.} El xlvij. pora seer agradable & bien quisto
-delos omnes & pora obedec'er le las bestias. et
+delos omnes & pora obedeçer le las bestias. et
 pora tomar muchos peces. & nadando en la mar
 fuyran todas las bestias fieras del. & non y aura
 ninguna q<ue> mal le faga.
@@ -2584,22 +2584,22 @@ uoluntad.
 ento el baron o la mugier.
 {IN1.} El .Li. pora ue<n>cer qual quier bestia fiera que
 te non faga mal.
-{IN1.} El .Lij. pora obedec'er te todos los espiritos que
+{IN1.} El .Lij. pora obedeçer te todos los espiritos que
 moran en las tiniebras o enlos infiernos & po-
 ra fallar los thesoros.
 {IN1.} El .Liij. pora prender las aues.
-{IN1.} El .Liiij. pora ue<n>c'er los enemigos. & quel obe-
+{IN1.} El .Liiij. pora ue<n>çer los enemigos. & quel obe-
 dezcan los omnes.
 {IN1.} El .Lv. pora seer om<n>e agradable & pagable a to-
-dos. & pora obedec'er le q<u><<a>>l mugier q<u><<i>>siere. & pora
+dos. & pora obedeçer le q<u><<a>>l mugier q<u><<i>>siere. & pora
 sonnar qual cosa quisiere.
-{IN1.} El .Lvi. pora obedec'er los omnes & las mugieres.
-& los sp<irit>os. & cresc'er las riquezas & que faga su
+{IN1.} El .Lvi. pora obedeçer los omnes & las mugieres.
+& los sp<irit>os. & cresçer las riquezas & que faga su
 uoluntat qui qu[i]siere
 {IN1.} El .Lvij. pora conuidar le todos & aguardar le
 & seruir le.
 {IN1.} El .Lviij. pora que los enemigos nol puedan
-contrastar. & pora ue<n>c'er las batallas & quel
+contrastar. & pora ue<n>çer las batallas & quel
 teman todos.
 {IN1.} El .Lix. pora saber todas las cosas que tu qui-
 sieres delos sp<irit>os malignos.
@@ -2619,28 +2619,28 @@ malquerientes.
 {IN1.} El .Lxv. pora caualgar & pora ardiment & osa-
 dia & ligereza alos q<ue> se co[<m>]baten & guarir los caual[los]
 {IN1.} El .Lxvi. pora {BLNK.}
-{IN1.} El .Lxvi. pora uenc'er las batallas muy onrrada-
+{IN1.} El .Lxvi. pora uençer las batallas muy onrrada-
 miente.
 {IN1.} El .Lxvii. pora seer muy sabio & muy argudo
 & firme & estable en la cosa que propusiere
-en su cora(co)c'on. & seer agradable a dios & alos o<mne>s.
-{IN1.} El .Lxviij. pora folganc'a & solaz depues dela la-
+en su cora(co)çon. & seer agradable a dios & alos o<mne>s.
+{IN1.} El .Lxviij. pora folgança & solaz depues dela la-
 ziria. & confortamiento & alegria depues de en-
 fermedat.
-{IN1.} El .Lxix. pora obedec'er le todos los q<ue> con el lidi-
+{IN1.} El .Lxix. pora obedeçer le todos los q<ue> con el lidi-
 aren q<ue> ni<n>guno no<n> le podra sostener en batalla.
 {IN1.} El .Lxx. pora seer complido & abondado de todo<<s>>
 bienes. & seer sotil & entendudo & contrastar
 toda calentura mala & embargosa.
 {IN1.} El .Lxxi. pora los plantamientos & las semien-
-c'as & pora fallar los thesoros dela tierra. & es po-
+ças & pora fallar los thesoros dela tierra. & es po-
 ra foyr las serpientes & pora otros muchos bie-
 nes.
 {IN1.} El .Lxxxii. pora los plantamientos & pora ga-
 nar onrra & prez. & pora sanar las bestias de
 toda enfermedat. & pora so<n>nar los thesoros.
 {IN1.} El .Lxxiij. pora amansar & c<r><<i>>ar las bestias brauas.
-{IN1.} El .Lxxiiij. pora cac'ar los uenados.
+{IN1.} El .Lxxiiij. pora caçar los uenados.
 {IN1.} El .Lxxv. pora guardar los fructos de toda tem-
 pestad & otros muchos bienes.
 {IN1.} El .Lxxvi. pora tomar las serpientes [&] las bestia<<s>>
@@ -2649,7 +2649,7 @@ ueninosas.
 {IN1.} El .Lxxviij. pora seer fuerte & plazible a dios &
 alos omnes.
 {IN1.} El .Lxxix. pora sanar de toda malautia.
-{IN1.} El .Lxxx. pora uenc'er la batalla.
+{IN1.} El .Lxxx. pora uençer la batalla.
 {IN1.} El .Lxxxi. pora seer fuerte & poderoso.
 {IN1.} El .Lxxxij. pora auer auene<n>cia marido co<n> mug<ie>r
 {IN1.} El .Lxxxiij. pora seer guardados & saluos los mi-

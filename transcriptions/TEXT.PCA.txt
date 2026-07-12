@@ -1,0 +1,3339 @@
+{RMK: HSMS-0587.}
+{RMK: Juan de Segura.}
+{RMK: [PCA] Proceso de cartas de amores.}
+{RMK: Toledo | Fernando Sancta Cathalina | 1548.}
+{RMK: Viena | Österreichische Nationalbibliothek | *38.F.86 ALT PRUNK.}
+{RMK: Francisco Gago Jover.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0587-0001: Proceso de cartas de amores.} {ILL.} {RUB. Processo de {MIN.}
+cartas de amores.}
+{RUB. ¶ Processo de cartas d<e> amo-
+res \ que entre dos amantes passaron con vna
+carta para vn amigo suyo pidiendole consue-
+lo \ y vna quexa y auiso contra amor: tra-
+duzido del estilo griego en nuestro puli-
+do castellano: por Juan de Segura.
+Dirigido al magnifico señor Galeazo Rotulo
+Osorio &c. Año de mil y quinientos y .xlviij.}}
+[fol. 1v]
+{HD. ¶ Prologo.}
+{CB1.
+{RUB. ¶ Dirigido al magnifico señor
+Galeazo rotulo Osorio mi señor; &c. Hecho por Juan
+de Segura.:.}
+{IN5.} ENla septima ordenança
+d<e>los Corintios \ señor esta p<ro>hibido: q<ue> ningu<n>
+escriptor pueda escriuir \ sino fuere en[ ]cosa
+para el buen exemplo delas gentes \ y bien
+delas republicas \ sopena de la vida. Y avn
+que el titulo desta pequeñuela obra sea cartas de amor: el
+sabio y prudente lector podra colegir el vltimo fin del que
+las escriuio \ que es dar auiso en que paran los vanos pe<n>-
+samientos delos locos mancebos \ al[ ]cabo de auer toda
+su vida gastado en dubdosos cuydados. Assi que avn que
+el titulo sea enconoso \ para que se pueda bie<n> cumplir la ri-
+gurosa ley de los Corintios \ mirando al bla<n>co \ quien fue-
+ra de passion estuuiere conoscera \ que la obra sera antes
+prouechosa que cause daño ≺como algunos dicho an≻ y q<ue>
+se aya bien cumplido la ley corintia \ y la ordenacion d<e>los
+Griegos que dize. Ningun tiempo ser peor que el que no
+era gastado en seruicio delos ho<m>bres. Y como d<e> muchos
+fuesse importunado que traduxesse esta obra del Griego en
+Castellano \ d<e>termine d<e> ponerme al peligro dela furiosa o-
+pinion del vulgo: quiriendo antes del ser con ponçoñosas
+reprehensiones mordido \ q<ue> vsar de ingratitud ≺vicio tan
+abominable≻ no cu<m>plie<n>do lo q<ue> a v<uest>ra merced deuia \ siguie<n>-
+do su volu<n>tad \ q<ue> es q<ue> se diesse prego<n> en publico de mi yno-
+ce<n>cia: mas co<n>suelame vna cosa \ q<ue> es la buena opinio<n> d<e>los
+excele<n>tes griegos \ la qual nos amonesta. Que sie<m>pre la
+ociosidad huygamos \ escriuiendo \ o leyendo cosas anti-
+guas & de creer es q<ue> esta \ no sin gra<n> efecto la escriuiero<n>}
+[fol. 2r]
+{HD. ¶ Prologo.}
+{CB1.
+co<n> este auiso y q<ue>xa d<e> amor \ q<ue> conestas cartas va \ en el q<u><<a>>l
+los lectores leye<n>dole mas ala clara vera<n> \ de q<ue> arte deste
+po<n>çoñoso fuego de amor se an de guardar: vie<n>do y leye<n>do
+enel muchas cosas antiguas \ enlas q<u><<a>>les estan esculpidas
+todas las po<n>çoñas del mu<n>do \ de q<ue> nos hemos de euitar:
+siguie<n>do el estudio d<e> las letras \ y otros nobles exercicios \
+de q<ue> v<uest>ra merced tan a( )bastado esta. Porq<ue> segun aq<ue>l gran
+phil(i)[o]sopho Aristipo dize. Ningu<n>[ ]fruto mas abundoso \ ni
+bienes mas dulces ni mas apacibles \ alos ho<m>bres mor-
+tales cientificos es: q<ue> el exercicio co<n>tino d<e>l estudio enlas
+letras y artes buenas. Porq<ue> segu<n> Casio( )doro \ leyendo
+las hystorias y libros antiguos \ alli el prude<n>te halla para
+ser mas prude<n>te y sabio: no hazie<n>do al caso los titulos de
+las escripturas. Porq<ue> entre los espinosos cardos se sue-
+le<n> hallar las olorosas rosas y flores: assi q<ue> cu<m>plido he mi d<e>-
+seo q<ue> es de seruir a v<uest>ra merced \ y puesto me a mucho pe-
+ligro: y por muchos impedime<n>tos q<ue> los malos d<e>ctratores
+me q<ue>ra<n> poner \ no los estimo en mucho \ porq<ue> no me va na-
+da ensus alaba<n>ças: avn q<ue> bie<n> se q<ue> la verdadera alabança
+esta e<n>la boca d<e>los simples: los q<u><<a>>les no sabe<n> q<ue> cosa es adu-
+lacio<n> \ ni apre<n>diero<n> a[ ]liso<n>gear. E q<ue>rido mas d<e>los tales ser
+reprehe<n>dido alas claras \ q<ue> delos sabios culpado \ en no
+atreuerme a mostrar algo de ta<n>to como te<n>go escripto: p<ar>a
+ver q<ue> gusto da \ en los delicados juyzios de q<ue> este n<uest>ro pue-
+blo ta<n> bastecido esta: o colegir desto poco \ lo mucho q<ue> po-
+dria ser reprehendido \ atreuie<n>dome a otras cosas mas
+arduas sacar. Avnque como te<n>ga por cierto \ mi trabaxo
+dar algu<n> recreo \ ala noble juue<n>tud de v<uest>ra merced: poner
+me he a ser mordido d<e>los co<n>tinuos maldicie<n>tes \ creye<n>do
+sere dellos librado \ co<n> auer tomado ta<n> gra<n> escudo \ como
+es el fauor y delicado juyzio de v<uest>ra merced: cuya magni-
+fica persona nuestro señor prospere con aquel acrecenta-
+miento destado que este su seruidor dessea.:. Uale.:.}
+{SG. A ij}
+[fol. 2v]
+{CB1.
+{RUB. ¶ Comiença la obra.}
+{RUB. ¶ Señora.}
+{IN8.} SJ el encendido amor que en mis abra-
+sadas entrañas se matizo \ qua<n>do mis
+venturosos ojos ≺por veros≻ aqui de-
+buxar pudiesse: bien se que ni vuestra
+mucha honestidad defenderia a( )ver
+piadad de mi \ ni mi abrasado cora-
+ço<n> quedarie quexoso \ de creer como
+cree \ auer de fenezer pues a puesto
+su esperança en v<uest>ra beldad \ donde nunca cree tener hol-
+gança Marauillaros heys señora donde me a[ ]nacido ta<n>
+sobrado atreuimie<n>to \ para poner en efecto mi volu<n>tad de
+escreuiros: mas como la mas sabia delas nacidas \ no[ ]te<n>-
+go dubda conocereys \ q<ue> todos los mortales os somos o-
+bligados \ y como sieruos a señora daros parias: como
+vno dellos no dexe de ymaginar quedaros pudiesse \ q<ue> a
+v<uest>ro merescimie<n>to ygualase: y al[ ]fin no halla<n>do q<ue> \ sacrifiq<ue>-
+os mi coraçon alos encendidos fuegos que v<uest>ra hermosu-
+ra me causaron: en los quales mestoy abrasando \ hasta
+ta<n>to q<ue> pueda alca<n>çar asaber si a sido mi ve<n>tura tanta \ que-
+sta denuciadora d<e> mi mal \ a v<uest>ras[ ]manos a[ ]llegado \ para
+q<ue> por ella sepays lo q<ue> por vos mi vida suste<n>to: y sepa q<ue> ros-
+tro le mostrays \ porq<ue> segu<n> fuere sustente la vida ≺que<n> v<uest>ro
+seruicio desseo co<n>sumir≻ o le de fin co<n> mas breuedad: y pa-
+ra esto no te<n>go a quie<n> poner de mi va<n>do sino al soberano a-
+mor \ al qual suplico acabe co<n> v<uest>ra crueza \ sea avisado por
+v<uest>ra ma<n>o \ si soys seruida d<e> ser mi señora: pues soy como
+sie<m>pre fuy \ y e[ ]ssido v<uest>ro perfecto.:. ¶ Captiuo.:.}
+[fol. 3r]
+{CB1.
+{RUB. ¶ Señora.}
+{IN8.} SJ como a sido vuestro oluido grande \
+fuera el descuydo mio d<e> en vos pe<n>sar \
+ni estuuiera qual estoy \ ni en tan poco
+tiempo huuiera rescebido el galardon
+de mi sobrado atreuimie<n>to: mas como
+sea causado por[ ]quien puede remediar
+lo mucho que mi anima padesce \ doy
+vado en esto \ pensando enlos biuos sos-
+piros que delo mas adentro delas entrañas salen \ ro<m>pie<n>-
+do los manantiales de mis ojos los quales da<n> testimonio
+delo que el ence<n>dido coraçon siente \ viendo no auer he-
+cho vuestra merced caso d<e> su antiguo poseedor \ que ago-
+ra por ser vuestro le acato y suste<n>to como a cosa que ha me-
+recido \ lo que el cuerpo lleno de dolores mio creo çufrir
+no podra. O amor dime que te hecho en que te ofendido
+porque assi me tratas: no lo siento: no lo se: no mentiendo:
+ay de mi que lo que antes darme solia alegria \ agora hallo
+que me causa tormento. O señora mia por piadad os do-
+lays d<e> mi \ no por mi que no lo merezco \ mas por vos que
+soys en quien piadad nunca puede fallecer: mira mi seño-
+ra que es de damas herir \ mas no matar \ cata que mue-
+ro \ sino me remediays es alo vltimo llegada mi triste vi-
+da \ en vuestro seruicio: si pena merescen mis altos pensa-
+mientos por a( )verse puesto donde nunca merescieron: pa-
+gue<n>lo \ mas que meresce mi gozoso deseo: sed verdadero
+bien mio recto juez \ y sentencia quien me( )resce la pena
+y dadsela \ que yo la secutare ta<n> por entero que vuestra vo-
+luntad se cumpla: y hasta tanto que esta sentencia pro( )(n)nu[n]-
+cie vuestra mis(c)[e]ricordia \ suplico aquel dios de amor aflo-
+xe vn poco sus crueles tormentos porque no me den fin \
+el qual sera muy breue si de vuestra mano algun aliuio no
+viene: a este mis( )ero cuerpo y coraçon v<uest>ro. ¶ Captiuo}
+{SG. A iij}
+[fol. 3v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN7.} HAllo ya tan por el cabo mi mal \ que ni se q<ue>
+remedio te<n>ga: ni a quien me q<ue>xe para q<ue> mis
+muchos torme<n>tos publiq<ue>: porq<ue> bien se que
+si publicados fuessen \ no auria segun son
+dama que dellos no se co<m>padeciesse \ sino
+vos \ en quien toda la crueldad del mundo
+en( )cerrada esta: mas ay d<e> mi \ q<ue> digo? q<ue> ha-
+blo? pues en mi señora toda la misericordia esta ju<n>ta: mas
+como la fuerça del peruerso amor ma<n>de la misera le<n>gua
+y el captiuo coraçon se halle desamparado \ nunca espera
+justa defensa que vos hermosa dama teneys \ defendien-
+dos d<e> mis sin fruto mensajeras \ quirie<n>do antes ver mi mu-
+erte q<ue> dar osadia a mi sentido q<ue> sienta \ y amis ojos q<ue> vea<n>
+cosa q<ue> a[ ]manos de v<uest>ra merced aya tocado \ creye<n>do q<ue> co<n>
+ello maculays v<uest>ra fama y honestidad: mira mi señora que
+por libertar vn captiuo de pena \ suelen las semeja<n>te( )s[ ]q<ue>
+vos no tan solamente co<n> palabras procuralles la libertad
+mas avn co<n> obras fauorecelles: las quales avn q<ue> d<e>llo fue-
+ra merescedor yo no pidiera \ porq<ue> creeria ser impossible
+como lo creo alcançar a[ ]rescebillas: mas por v<uest>ra palabra
+so( )la os suplico \ que avn que la merezca \ soy digno della
+por auer puesto mi entero deseo en v<uest>ro seruicio: y pues ta<n>
+poco os a de costar \ hazed cue<n>ta q<ue> remediays vn anima \
+para que desesperada desta vida no salga: como la mia d<e>s-
+te atribulado cuerpo saldra \ si piadad os falta p<ar>a respon-
+derme \ al[ ]menos declarandome v<uest>ra voluntad: porque si
+tal no es \ q<ue> por v<uest>ro me tengays \ darme el pago que mi
+loco desseo merece: y si dello fueredes seruida sin mas im-
+portunaros me terne por el mas ve<n>turoso delos nacidos
+creyendo ser fauorecido dela mas excele<n>te dama q<ue> natu-
+raleza formar pudo: y confiando en vuestra misericordia
+quedo espera<n>do la vida o la muerte q<ue> d<e> v<uest>ras hermosas}
+[fol. 4r]
+{CB1.
+manos venir me puede: quedando como si(e)[e<m>]pre por v<uest>ro
+verdadero. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} SJ assi como a[ ]ssido vuestro atreuimiento so-
+brado \ yo vuiera d<e> ser para co<n> vos corta \
+ni d<e>xarades d<e> pagar v<uest>ra sobrada osadia \
+ni yo de hazer lo q<ue> a[ ]mi[ ]fama y honestidad
+tocaua: mas como la piadad sea tan natu-
+ral d<e>las mugeres \ viendo v<uest>ras cartas pe-
+nosas ≺avnque fingidas≻ no quise d<e>xar de determinarme
+a[ ]responderos \ avn que no se a para mas de co<m>plir mi o-
+bligacion natural: y si dello tomaredes fauor como loco
+enamorado \ y co<n>tinuaredes v<uest>ro vano pensamie<n>to \ si de
+veras os saliere lo q<ue> por burlas aueys come<n>çado \ no ter-
+neys razo<n> de q<ue>xaros de mi como agora[ ]hazeys: y pagan-
+dos la volu<n>tad q<ue> dezis tenerme \ os aconsejo q<ue> desto os a-
+parteys co<n> tie<m>po: porq<ue> no ay pla<n>ta por gra<n>de q<ue> sea q<ue> rezie<n>
+pla<n>tada no se pueda con poca pena quitar: lo q<ue> dexada a-
+raygar a menester mucho trabajo: y esto digos lo por lo q<ue>
+v<uest>ro coraçon merece: porq<ue> d<e> co<n>tino segu<n> he sido informa-
+da \ emplearse en padecer por cosa do<n>de mas conocido
+se tiene el tormento quel alegria: dezisme que sea juez en-
+tre v<uest>ro pensamie<n>to y deseo \ soy contenta \ y mirando lo
+bie<n> hallo \ q<ue> tan[ ]sin culpa sea el vno como el otro \ y q<ue> vos
+solo merezcays la pena \ como dellos gouer($n)[n]ador: la q<u><<a>>l se-
+ra q<ue> jamas en tal locura os ocupeys \ pues es tan claro
+v<uest>ro p<er>dimie<n>to: y no tomeys mas atreuimie<n>to a escriuirme
+porq<ue> silo hazeys \ ni en mi mano sera d<e>xar d<e> hazeros dar
+la pena q<ue> ento<n>ces sera ta<n> merescida \ ni enla v<uest>ra dexar de
+padescella \ como ho<m>bre tan ciego \ segun os mostrays: y
+no mas porq<ue> mas nos ocupeys enlo q<ue> tan poco os va: de
+q<ue> dar delo hecho tan dessabrida quanto vos dello co<n>te<n>to.}
+{SG. A iiij}
+[fol. 4v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN6.} ASi el sobrado co<n>tentamie<n>to mio \ como v<uest>ra
+mucha misericordia \ ha<n> echo e<n> mi penado
+coraço<n> \ ta<n> excele<n>tes muestras d<e> alegria \ q<ue>
+sino mirara alos fines de v($u)[u]estra ta<n> elegan-
+te q($u)[u]a<n> sabia \ letra no fuera mucho que me
+ha( )caesciera lo q<ue> aq<ue>l famoso amador Deo-
+cleciano ingles acaescio co<n> su amiga: que ala primera res-
+puesta que de muchas cartas que le hauia embiado resci-
+bio \ fue ta<n>ta su alegria que de demassiado gozo su alegre
+coraço<n> le rebe<n>to por muchas partes: y pluguiera a dios
+q<ue> assi ami me ouiera acaescido \ antes q<ue> oyr v<uest>ra merced
+por hazerme ta<n> soberanas mercedes ≺como las hechas≻
+quedasse desabrida: porq<ue> siendo ansi no me cumple en<e>l mu<n>-
+do ya mas biuir muriendo \ vie<n>do serme por v<uest>ra merced
+vedado \ q<ue> mi pe<n>samie<n>to y desseo nole emplee \ enlo q<ue> sin
+ello me s( )eria cient mil muertes primero padecer. Mas
+ay de mi sin ente<n>dimie<n>to alguno donde estoy? ques[ ]de[ ]mi?
+quien se me puede ya ygualar? & vaya ya de mi el pesar \ la
+congoxa \ el cuydado \ el miserable desconte<n>tamie<n>to: que
+pues mi señora fue seruida d<e>scriuirme \ este a sido el mas
+excelente fauor que nunca jamas pense alcançar. Quan-
+do mi señora mereci q<ue> de cosa que ouiesse sido mia ≺que a-
+gora vuestra es≻ que es mi coraçon \ tales palabras dixe-
+sedes? No sino que quisistes fauorecerme ta<n> soberaname<n>-
+te \ quanto vuestra suma beldad entre todas las nacidas
+es estremada. Mandaysme q<ue> mas no os escriua \ y silo
+hiziere \ q<ue> me apareje ala pena \ soy co<n>te<n>to de recebilla:
+porque no me puede el soberano amor mayores merce-
+des hazer \ q<ue> mi fin sea causada por vuestra vnica hermo-
+sura: y si soys d<e>llo co<n>te<n>ta \ embiadme a[ ]mandar q<u><<a>>l muerte
+soys seruida q<ue> me de \ q<ue> ento<n>ces conocere ser entre todos}
+[fol. 5r]
+{CB1.
+los amado(o)res antiguos el principal no<m>brado: y esperan-
+do v<uest>ro ma<n>dado \ q<ue>do ta<n> co<n>tento en creer me aueys de ma<n>-
+dar q<ue> muera \ qua<n>to lo estoy en poner esta v<uest>ra piadosa me<n>-
+sajera encima del lugar do<n>de mi abrasado coraço<n> estuuo
+≺que alla mi señora teneys≻ siendo su antiguo posseedor
+vuestro tan cierto. ¶ Captiuo.
+{RUB. ¶ Señora.}
+{IN6.} NJ[ ]se \ ni[ ]entiendo \ vie<n>do mi[ ]libertad tan capti-
+ua \ y conoscido v<uest>ro coraçon ta<n> libre \ y uo ha-
+lla<n>do mayor bien quel morir os embie a supli-
+car de mi penar hordenasedes mi[ ]fin: y vie<n>do
+me en ello tan co<n>forme \ creo q<ue> por ser yo de
+morir co<n>tento \ no fuystes vos dello seruida:
+si es q<ue> al co<n>trario e de pedir las mercedes q<ue> me aueys de
+hazer \ hazemelo mi señora saber para q<ue> no ande ta<n> a cie-
+gas qua<n>to ando \ y mas quando por de<n>de estays passo \ y
+puedo gozar de v<uest>ra excele<n>te vista \ y della me priuays \
+hazie<n>dome quitar todo mi[ ]deleyte: assi como acaescer sue-
+le alos q<ue> a vn ce<n>drado espejo se miran \ y le dexan caer el
+cobertor \ y q<ue>dan priuados de todo el co<n>te<n>to q<ue> de[ ]uerse te-
+nian: assi a mi señora me acaesce las vezes q<ue> fortuna es
+conte<n>ta q<ue> os alca<n>ce a[ ]uer \ q<ue> viendome ami estar como en
+clarificado espejo en vos co<n>templa<n>do \ hechays las ven-
+tanas dela<n>te da<n>dome tanta escuridad \ qua<n>ta mi abrasa-
+do coraçon tiene. Bie<n> creo señora os terne ta<n> molestada \
+qua<n>to es possible \ de mis torpes razones leer: mas como
+otro deleyte no te<n>ga sino ymaxinar enlo q<ue> ta<n>to naturaleza
+esmerar se quiso \ q<ue> es en v<uest>ra suma perficio<n>: ni puede el pe<n>-
+samie<n>to dexar de pe<n>sar enlo q<ue> ta<n>to co<n>tentamie<n>to le causa \
+ni la mano debuxar lo q<u><<a>>l abrasado coraço<n> siente: avn que
+es aqui figurado como lo muerto alo biuo: y bie<n> te<n>go crey-
+do si de cierto a[l]ca<n>çasedes a conocer mi mucha y co<n>tinua
+passio<n> \ no dexaria<n> v<uest>ras hermosas manos desparzir enel}
+[fol. 5v]
+{CB1.
+bla<n>co papel algunas piadosas razones \ de q<ue> ta<n>to la fortu-
+na os quiso adornar. Y espera<n>do algu<n>a co<n>fia<n>do en mi ver-
+dadera fee \ quedo tan ageno de alegria \ qu(a)[a<n>]to tengo d<e>
+contento conosciendome ser tan vuestro. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN5.} (D)[S]J la obligacio<n> delo q<ue> dezis[ ]que por mi pade-
+ceys \ me obliga a hazer lo q<ue> hago: ni v<uest>ra mu-
+cha y d<e>masiada molestia basta para q<ue> yo os
+fauoresca \ sino el temor delo q<ue> como ho<m>bre
+hapassionado hazer podiades($.)[.] y cree q<ue> pa-
+ra auer lugar en mi este temor \ an sido parte los muchos
+exemplos q<ue> en casos semeja<n>tes he oydo: avn q<ue> bien ten-
+go creydo \ q<ue> ya los amantes de agora \ soys como som-
+bra delos[ ]passados. Escreuisme co<n> mucha importu<n>idad \
+q<ue> sino determino de fauoreceros \ q<ue> os embie a[ ]ma<n>dar el
+genero de muerte q<ue> quiero q<ue> os deys: no estoy determina-
+da de daros ta<n>to co<n>tentamie<n>to \ Porq<ue> antes[ ]huelgo que co<n>
+dolores biuays \ y torme<n>tos os aco<m>pañen \ y de desabri-
+mientos os ceueys: y si con[ ]estos materiales os hallays
+tan fuerte q<ue> creys mucho tie<m>po biuir \ al cabo de algu<n> espa-
+cio de tie<m>po q<ue> yo ciertame<n>te te<n>ga en vos conoscida verda-
+dera espiriencia de bue<n> amador \ yo os dare respuesta de
+lo q<ue> dema<n>days: mas hasta ento<n>ces / ni soy co<n>te<n>ta de v<uest>ras
+cartas ver ≺avn q<ue> el estilo dellas algu<n> co<n>tento me caus( )e<n>≻
+ni q<ue> farautes co<n> dadiuas algunas \ de muchas q<ue> me em( )bi-
+ays \ ami ve<n>ga<n>: y por no daros plazer algu<n>o pues nu<n>ca[ ]es-
+pero daros le \ no mas \ d<e> q<ue>dar co<n> vos como sie<m>pre estuue:
+{RUB. ¶ Señora.}
+{IN4.} NO entiendo ya de vos q<ue>xarme porq<ue> segun lo q<ue>
+merezco \ y mereceys \ he recebido ta<n>tas mer-
+cedes q<ue> hauia de tener mas ser \ y estar mas li-
+bre para tomar esfuerço para seruillas: mas}
+[fol. 6r]
+{CB1.
+quie<n> tanto me captiuo q<ue> es el peruerso amor \ y tan libre
+fue a d<e>xaros \ a este yra<n> mis querellas y clamores \ como
+el mas falso señor delos señores \ y aquie<n> mas injusto titu-
+lo los antiguos pusiero<n> \ pues le llamaro<n> justiciero rey \ y
+señor. O falso fementido sin ley razon ni justicia \ como to-
+das tus leyes son falsas \ y sin ningu<n>a razo<n>: alomenos vna
+sobre q<ue> mas es(t)[c]riuas q<ue> dize. Que el ama<n>te q<ue> el cartel[ ]firma-
+re para entrar enla batalla de amor \ para ser ve<n>cedor \
+ha de lleuar el escudo de fee \ firmeça \ costa<n>cia \ esperan-
+ça \ y de sufrimiento matizado \ orlado al( )derredor delas
+cinco eses q<ue> ha de tener para entodo ser perfecto: tu as co<n>-
+fessado todo esto en mi caber \ como has dexado q<ue> se( )a ta<n>
+vencido \ q<ue> palabras tan desabridas de mi señora oyga?
+do<n>de avn palabra de espera<n>ça sino de mayor crueldad ha-
+llar no he po($d)[d]ido? O señora q<ue> os he merecido por q<ue> assi
+soys seruida \ q<ue> rauia<n>do de fin a mis miseros dias. O fuer-
+ças mias desfallece ya todas de vn tropel? O coraço<n> mio
+quie<n> os pudiera dexar co<n> todo v<uest>ro verdadero entendimie<n>-
+to \ para q<ue> vierades despues de yo passado desta vida loq<ue>
+mi señora en su hermoso rostro mostraua. O bien mio que
+todo esto os escriuo aqui porque veays en que todo mi tie<m>-
+po gasto \ que enlo que me mandays que dende en adelan-
+te me ocupe: yo lo hare con[ ]tanta voluntad como cosa que
+mes[ ]mandada por[ ]quien mandar sola me puede que soys
+vos: pues soys vos sola a quien enla tierra doy obide<n>cia /
+y para que conozcays que cumplo vuestro ma<n>dado mu-
+dare mi estilo d<e> biuir \ avn q<ue> era p<ar>a mi muy gustoso todo mi
+tiempo en vos contemplar \ como en cosa que mas deley-
+te recibia \ y porfiare a no hazello \ porque hazie<n>dolo des-
+ta suerte \ me a( )co<m>pañara<n> todos los generos de dolores d<e>
+que me ma<n>days sea sustentado:[ ]y assi q<ue>dare el mas triste d<e>
+los nacidos \ y el mas co<n>tento de todos ellos \ viendo ha-
+sta la fin no poder dexar de ser como soy vuestro.:.
+¶ Captiuo.}
+[fol. 6v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN6.} COmo aquellos que a muerte sentenciados
+son muchas vezes en su sentencia miran: asi
+yo leyendo la vuestra \ halle vn dulçor tan
+mezclado con hazedia \ que dio aliuio al co-
+raçon penoso \ y estas tristes carnes no han
+dexado de temblar hasta este mome<n>to. Y co-
+mo entre algunos muy duros y asperos espinos \ algu<n>as
+rosas muy olorosas salgan \ assi entre vuestras crueles ra-
+zones \ algunas sabrosas he hallado \ que si de mi fueran
+bien entendidas \ escriuiera a v<uest>ra merced con mas tie<n>to
+que estotro dia escriui: mas acaesciome ami con la letra d<e>
+vuestras graciosas manos sacada \ como alos acostum-
+brados a tener poco bien \ que por mucho que tengan no
+lo conozen \ y piensan que lo dulçe es acedo: mas si yma-
+xinara lo que por ser d<e> vuestra beldad sujebcto merecia \
+bien hauia de considerar que hera[ ]impossible dexar de res-
+cebir tan gran fauor \ como fue la esperança tan grande q<ue>
+vuestra merced me da: la qual si bien conociera \ no me a-
+caesciera como al açor que de lexos se abate \ no mira<n>do
+el peligro del fuerte pico dela hermosa garça: assi al[ ]con-
+trario ami me aca(c)[e]scio conla carta de nuestra beldad \ q<ue>
+no mire al bien tan grande que della me resultaua \ hasta
+estar enella ofuscado \ mas cercano ala muerte que ala vi-
+da: la qual ya passare con tanto contentamiento haziendo
+el mandado de v<uest>ra merced \ qua<n>to merezca recebir el ta<n>
+sumo premio q<ue> me es co<n>cedido d<e> boca ta<n> suaue como v<uest>ra
+hermosura posee. Escriuisme mi señora \ q<ue> no soys seruida
+q<ue> mas os escriua \ ni os embie las parias q<ue> os soy obliga-
+do como v<uest>ro sujebcto: es impossible dexaros d<e> seruir mie<n>-
+tras biuiere \ co<n> lo q<ue> por v<uest>ro te<n>go:[ ]sino[ ]fueredes co<n>te<n>ta re-
+cebillo \ daldo a quie<n> mas fuere v<uest>ra volu<n>tad: q<ue> no puedo d<e>-xar}
+[fol. 7r]
+{CB1.
+de hazer lo que la razon me obliga \ y mis abrasados
+fuegos de amor me compelen: estando ceuados humean-
+do enestas abrasadas entrañas mias \ da<n>do testimonio d<e>
+lo q<ue> v<uest>ra extremada gracia y saber en ellas pla<n>taro<n>. Y su-
+plicos bien mio por piedad \ pues claro mis obras den te-
+stimonio delo q<ue> por v<uest>ra causa sustento: avn q<ue> bien se que no
+es con gran parte delo q<ue> mereceys \ que por vos se pase:
+mas a vn cuerpo tan ofrecido al torme<n>to como es el mio \
+por v<uest>ro seruicio \ razon es q<ue> le tengays como mi señora le
+confiesso por v<uest>ro.:. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN5.} NO se a que parte hechar vuestra a ta<n> sobrada por-
+fia \ saluo a come<n>çar a[ ]dar algu<n>[ ]credito alo que
+pormi dezis que passays: y he conocido por lo
+que co<n> vos he passado \ que me acaescido[ ]segun
+suele acaescer \ ala continua gotera enla dura
+piedra: y esto me haze confessar auer rescibido passion de
+vuestra ta<n> cruel vida como os days \ lo q<ue> de aqui adela<n>te
+en( )mendar podeys \ pues tambien el peruerso amor a he-
+cho su tan antiguo qua<n> acostu<m>brado vso: que es no dexar-
+me hazer lo q<ue> ta<n>to ami grauedad y honestidad tocaua \ q<ue>
+era jamas palabra sabrosa os embiar \ para q<ue> adelante
+en v<uest>ro deseo no passarades: mas pues assi es \ q<ue> co<n> esta os
+abro la puerta para v<uest>ra voluntad / mira que la mucha ale-
+gria suele q<ue>rerse comunicar: y pudie ser q<ue> fuesse de vos co-
+municada co<n> persona \ donde fuesse en menos tenida que
+hasta aqui \ y vos p<er>diesedes lo ganado: no os quiero mas
+esto encargar de auisaros \ mireys la grauedad del caso
+y el secreto q<ue> se requiere: y por q<ue> mis padres me llaman no
+puedo mas enesto alargar ≺avn que quisiera en ello no ser
+corta≻ porq<ue> me co<n>suelo q<ue> os doto dignos de subtil entendi-
+mie<n>to do<n>de no es menester mucho almaze<n> co<n> vos gastar \
+no mas \ y asi q<ue>do presta. ¶ A vuestro seruicio.}
+[fol. 7v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN5.} LAs terribles ansias del deseo y( )a casi co<n>ten-
+tas \ an priuado tanto mi ente<n>dimie<n>to: que no
+me dan lugar para con mi torpe le<n>gua poder
+explicar \ las soberanas mercedes d<e> vos res-
+cebidas: y hallo q<ue> para hazellas mirastes q<ue>
+vos las dauades \ & yo las auia de rescebir: porque assi ta<n>
+excessiuas fueron hechas \ como el hazedor extremado:
+donde los terribles fuegos de amor encendiero<n> ta<n>to[ ]mis
+a( )passionados entrañas: q<ue> no dexaro<n> ya lugar do<n>de mas
+esparzirse sus fuegos pudiessen. O espejo do<n>de los mor-
+tales mirar se pueden y do<n>de menos no puedo caber que
+la sabrosa carta q<ue> de v<uest>ras graciosas manos rescibi. O a-
+mor q<ue> si antes de ti me q<ue>xaua agora con razo<n> señor llamar
+te puedo como te llamo. O peruersa d<e>sesperacio<n> q<ue> rodea-
+do tienes mi misero coraço<n> \ alimenta<n>dole de co<n>tino d<e> di-
+uersos y penosos desseos \ cerca<n>dole de crueles tormen-
+tos \ por causa dela estrella q<ue> perfecto claror a mis ojos
+da: sie<n>do dignos d<e> en[ ]mucho ser estimados \ a causa d<e> auer
+me subjectado a vos \ q<ue> todo mi bie<n> alegria y desca<n>so soys
+O como quisiera q<ue> el su<m>mo plazer q<ue> en mi encerrado esta \
+vn poco de lugar dexara desocupado: p<ar>a q<ue> pudiera mi se-
+ñora a cada letra de v<uest>ra carta respo<n>der \ segu<n> q<ue> della sin-
+tiera: mas el sobrado co<n>te<n>tamie<n>to causado por v<uest>ra parte:
+enlo mas secreto de mi coraço<n> \ no le dexa<n> pe<n>sar en otra
+cosa \ q<ue> en solo la ta<n> sobrada merced q<ue> por ser v<uest>ro me aue-
+ys hecho: mas si pe<n>sase q<ue> sueño no es \ no dexaria d<e> escri-
+uiros \ de q<ue> arte os obedecere \ cu<m>plie<n>do v<uest>ra voluntad: y
+mas enlo q<ue> ta<n>to a mi desca<n>so toca \ q<ue> es en<e>l secreto de mis
+altos pe<n>samie<n>tos: mas pues la puerta d<e> v<uest>ra misericordia
+abierto me aueys: no d<e>xare de hazer lo q<ue> soy obligado \ ta<n>-
+to p<ar>a dar co<n>te<n>tamie<n>to amis abrasados desseos \ como p<ar>a
+conseguir mayores mercedes \ que sola mente vos como}
+[fol. 8r]
+{CB1.
+mi señora hazer me podeys: siendo como siempre soy tan
+vuestro perfecto.:. ¶ Captiuo.:.
+{RUB. Señora.}
+{IN6.} SJ el[ ]sobrado co<n>te<n>tamie<n>to mio publicar se pu-
+diesse \ ni se me dexaria de respo<n>der ≺como
+hazeys≻ ni yo d<e>xaria d<e> satisfazer ala d<e>uda
+ta<n> gra<n>de q<ue> sobre mi teneys hechada: mas a
+las fuerças d<e>l desseo q<ue> v<uest>ras sabrosas razo-
+nes apetece<n> \ no ay dilacio<n> q<ue> basta<n>tes fuer-
+ças te<n>ga p<ar>a co<n>tradezillas: y a( )ssi señora de oy mas soy tor-
+nado peor q<ue> el Catulo animal cobdicioso q<ue> nu<n>ca se harta d<e>
+aq<ue>llo q<ue> vna vez gusto toma: pues si le he tomado en rece-
+bir fauores d<e> v<uest>ra beldad \ a vos sola dexo q<ue> lo juzgueys \
+pues creo estays ta<n> harta d<e> mis cartas \ q<u><<a>>nto yo d<e>las v<uest>ras
+cudicioso ≺y mas si mi señora en fauorecerme adela<n>te pas-
+says≻ d<e>zidme quie<n> podra comigo ygualarse? Y assi ala for-
+tu<n>a suplico como aq<ue>l famoso padre d<e> alexa<n>dre \ q<ue> mitigue
+su buelta: porq<ue> p<ar>a ta<n> gra<n> subida no hallo terminos a do<n>de
+em[ ]baxeza de( )ce<n>dirme pueda. Encargays me señora el si-
+le<n>cio \ graue cosa me ma<n>days: porq<ue> por impossible lo tuui-
+era no ma<n>da<n>dome lo v<uest>ra merced \ tener ta<n>to çufrimie<n>to \
+q<ue> todo el mu<n>do mi bue<n> anda<n>ça no conociera: mas pues sie<m>-
+pre os te<n>go d<e> obedescer forçare al coraço<n> \ y assi cu<m>plire
+v<uest>ro ma<n>dado. Sublimays mi e<n>te<n>dimie<n>to \ teneys d<e>masiada
+razo<n>: pues a alca<n>çado a hazerse \ y hazerme ta<n> v<uest>ro sub-
+jecto. Y no me marauillo q<ue> tal sea \ pues fue tocado co<n> los
+subtiles rayos delos ojos basiliscos de v<uest>ra hermosura.
+Una cosa señora os quiero suplicar: q<ue> pues aueys sido ser
+uida d<e> hazedme sieruo v<uest>ro \ y dadome el mayor titulo q<ue>
+principe ni señor enla tierra darme pudiera \ que las ve-
+zes que lugar os sobrare no me dexeys de fauorezer con
+vuestras cartas \ pues son duros cimientos sobre que}
+[fol. 8v]
+{CB1.
+mi[ ]esperança se arrima: porq<ue> me es tan pocas vezes con-
+cedida v<uest>ra vista \ q<ue> ya quando amor es dello co<n>tento \ es-
+toy tal q<ue> a[ ]faltarme vn momento mas \ seria<n> acabadas to-
+das mis cuytas. y porq<ue> creo en todo mi señora mirareys
+mi descanso \ pues me ma<n>days q<ue> le busq<ue> \ desecha<n>do toda
+passio<n> \ socorred al q<ue> su d<e>leyte y gloria a puesto en v<uest>ras so-
+beranas manos: enlas quales teneys las duras cadenas
+q<ue> a mis abrasadas entrañas teneys hechadas: sie<n>do v<uest>ro
+perfec(f)[t]o. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} ANsi an hecho v<uest>ras hermosas y subtiles ra-
+zones pressa en mis entrañas \ como el codi-
+cioso Leo<n> suele hazer \ qua<n>do muy ha<m>brien-
+to esta enla simple oueja. Mas como alos
+terribles encue<n>tros d<e> amor ningu<n> fuerte va-
+ro<n>[ ]resistir pueda: no os deueys d<e> marauillar
+q<ue> vna flaca muger como yo \ sie<n>do de tan fuerte guerrero
+co<m>batida \ vencida se halle. Y ay de mi q<ue> si al tie<m>po q<ue> v<uest>ras
+primeras cartas recibi \ no diera lugar al traydor del de-
+seo cobdicioso de vellas: ni me sintiera como me sie<n>to \ ni
+os huuiera dado vengança de mi \ como ya satisfecho de-
+ueys d<e> estar \ vie<n>do mis apassionadas razones. Mas co-
+mo el coraçon mande las carnes \ y la volu<n>tad le obedez-
+ca \ no puedo de( )xar de escriuiros ta<n> ala clara \ avn q<ue> bien
+te<n>go conocido q<ue> agora q<ue> enlas redes metida me teneys \
+hareys semeja<n>te q<ue> los caçadores hazer suele<n> al haue que
+sin mucho trabaxo se dexa tomar: avn q<ue> torno a pe<n>sar en
+mi \ q<ue> si v<uest>ro coraço<n> esta segu<n> q<ue> lo debuxauades co<n> vuestra
+pluma \ ascuas sera<n> estas peores de amatar q<ue> si de ce<n>dra-
+do alquitra<n> fuessen vntadas. Dezisme q<ue> procure remedia-
+ros con[ ]mis cartas las quales os seran rezios cimientos
+para sustentar vuestra esperança \ yo lo hare \ tanto por[ ]sa-
+tisfazer a mi voluntad \ que es mucha \ por las vuestras}
+[fol. 9r]
+{CB1.
+(vuestras) uer \ como por cumplir vuestro desseo \ deziys d<e>-
+seays verme y que ventura os da poco lugar p<ar>a ello \ yo
+lo procurare lo mas q<ue> pudiere \ y alas dos oras enlas fie-
+stas \ y enlos dias de semana alas cinco \ no dexeys de pa-
+sar por donde soleys: que yo procurare daros el co<n>te<n>to q<ue>
+tanto d<e>sseays \ sin el qual yo quedo \ hallandome con tan
+nueuos cuydados como estoy \ siendo presta.:.
+¶ A vuestro seruicio.:.
+{RUB. ¶ Señora.}
+{IN8.} HAllome tan ageno de mi \ que temo per-
+der el natural entendimiento \ con que
+en vos contemplo \ viendome tan vito-
+rioso que aynas sobrepujaria alos limi-
+tes de amor: y assi como señora piadosa
+a[ ]sieruo regalado quisistes mezclarme
+vn poco de hazedo \ para darme apeti-
+to en tanto dulçe \ para que tanto no me
+ofuscase \ en tan soberanas dulçuras \ lanzadas por vues-
+tra graciosa boca \ dezisme bien mio que quedays sin con-
+tento por los nueuos cuydados d<e> que os sentis ocupada \
+dexarades señora mia morir al q<ue>por deleyte lo rescibia \
+antes que cosa tan agena a vos sintierades \ esperimenta<n>-
+do los varios apetitos del indomito amor \ al[ ]qual ningun
+mortal \ presente \ pasado \ ni por venir \ ta<n>to en cargo es
+como yo \ pues os a herido ygual me<n>te que a este vuestro
+prisionero lastimo \ con sus venenosas ponzoñas: y a mi
+señora[ ]siento en mi mayor mal \ porque antes teniale sen-
+cillo \ ya agora conozco en mi tenelle doblado \ pues sien-
+to vuestro mal y el mio: que avn que del vuestro reciba co<n>-
+tentamiento por creer quel tiempo os demuestra mas ala
+clara mi mortal herida no d<e>xo de sentir y padescer los do-lores}
+{SG. B}
+[fol. 9v]
+{CB1.
+y tormentos de que sereys acompañada. Dadme
+dadme remedio mio como generosa remedio a[ ]mi[ ]mal \
+con apagar el vuestro que mas agora enlas entrañas te<n>-
+go esculpido que el mio: y pues me hazeys mercedes yo
+las rescibo auisandome que horas ≺que dichosas seran≻
+enlas quales gozar pueda de vuestro hermoso rostro y
+aceptolas pues es el primer don que de vuestra beldad
+tengo y ia<n> crecido. que el soberano hazedor auia d<e> criar
+en mi nue($u)[u]as fuerças para podello començar a seruir y
+por no dilatallo mas voy esta tarde auer la isperenci(o)[a] de
+mi desseo y aque resciban los ojos tanto deleyte \ qua<n>to
+todo el cuerpo mio rescibe en ser vuestro.:.
+¶ Captiuo.:.
+{RUB. ¶ Señora.}
+{IN7.} PUes los ojos rescibieron contentamien-
+to con vuestra deleytable vista \ cree no
+menos se gozo el abrasado coraçon \ en
+sentir la sentencia de vuestro vestido: el
+qual plega al[ ]soberano amor esecute en
+mi \ para que del todo me pueda glorifi-
+car \ haziendome merecedor del co<n>te<n>to
+cu<m>plido q<ue> de vuestra beldad venirme puede. Hezistes mu-
+estras de alegria al tie<m>po que par d<e> vos llege \ beso v<uest>ras
+hermosas manos por ta<n> gran fauor: q<ue> si[ ]desto rescibi conte<n>-
+tamiento \ sabelo bie<n> mi infinita aficio<n> \ q<ue> es la secretaria
+de v<uest>ros dulçes fauor(c)[e]s: y sabe dios si quisiera q<ue> aquel po-
+quito de tie<m>po fuera el espacio de mi vida \ porq<ue> no vinie-
+ra a sentir lo q<ue> sie<n>do de v<uest>ra vista quitado padesci \ sintie<n>do
+mayores dolores q<ue> hasta ento<n>zes auia padescido: mas
+traye<n>do ala memoria las dulçes muestras de v<uest>ro agracia-
+do rostro \ diero<n> recreacio<n> ami mucha passio<n>: y assi comu-nicando}
+[fol. 10r]
+{CB1.
+con v<uest>ro verdadero trassunto \ que en mis ence<n>di-
+das entrañas esta esculpido \ ta<n> al[ ]natural como el mismo
+es: passo mi vida no osando mas importunaros aq<ue> me fa-
+uorezcays: avn q<ue> por otra parte \ conosciendo q<ue> los apeti-
+tos de amor fuerças humanas ni razo<n> no atienden \ no de-
+xo d<e> suplicaros lo \ pues esta en v<uest>ra mano el hazello vno:
+y bien veo que soy sobrado en ta<n>to os importunar \ pues
+al[ ]cabo de dos años q<ue> a que os siruo no a tres meses que d<e>
+v<uest>ra suma beldad tan gran bie<n> me vino \ que v<uest>ro me pudie-
+se llamar: y agora os torno a pedir lo que avn no merez-
+co demandaros \ q<ue> es que me hableys vna noche avn q<ue>
+sea desde tan alto \ qua<n>to es v<uest>ro merecimiento: y si a esto
+me atreuo bie<n> teneys mi señora conoscido q<ue> no es por eno-
+jaros \ saluo por hazer lo q<ue> al amor soy obligado: q<ue> es no d<e>-
+xar de pedir a quie<n> me puede dar \ la mayor dadiua q<ue> yma-
+ginar nadie ni co<m>prehender podria \ q<ue> es de v<uest>ras dulçes
+palabras y conuersacio<n> en secreto gozar: bien conozco q<ue>
+os demando mucho \ mas las fuerças que señora ami me
+fuerzan a[ ]pediros lo \ os podrian a vos forçar a conceder
+lo: enlas quales confio como secazes que son de amor \
+vencera<n> la batalla co<n> vuestra beldad comenzada: do<n>de a
+sus tiros no ay resistencia \ menos que ponella ami cora-
+çon para q<ue> dexe de ser v<uest>ro. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} GRan contento me vuiera acarreado vue-
+stra vista \ si dela mia tan sobrados atreui-
+mie<n>tos nos vuiera nacido: mas ya a vos
+no culpo que como hombre aficionado q<ue>-
+rays seguir vuestros desseosos desseos:
+mas culpo ami que he sido la ocasion para
+que para ellos lugar tuuiessedes \ dandos alas para que
+bolasedes sobre mi libertad \ que muy subjeta teneys:}
+{SG. B ij}
+[fol. 10v]
+{CB1.
+si vuestro amor fuera tan verdadero como el mio \
+conte<n>taros deuiades \ de gozar de mis secretas me<n>saje-
+ras \ y tan co<n>tinuas: y no poner en auentura la fama d<e> mi
+persona que muy aparejada estaua \ habla<n>do os como de-
+zis : mas huelgo que me aueys auisado que soys hom-
+bre de bue<n> tomar \ no tenie<n>do miramiento delo recebido:
+y pues a( )ssi es yo me guardare de aqui adela<n>te \ que os de
+osadia alo que si fuerades bien comedido \ no auiades de
+osar en ta<n> poco tiempo demandar. Porque los hombres
+que enlas grandes maderadas echan sus garfios alas
+fuertes vigas \ si son a( )maestrados primero las tie<n>tan mu-
+chas vezes \ si las tienen bie<n> asidas \ que dellas tiren \ pa-
+ra hazer a su voluntad: mas los q<ue> espire<n>ci(a<n>)[a] no les aco<m>pa-
+ña como a vos \ en echa<n>do los garfios tira<n> de rezio co<n> su
+desseo \ y dan de ojos enlas te<m>pestuosas olas del rio \ do<n>-
+de quedan anegados como vos \ que ni vno ni otro ya no
+aureys \ pues tan sin tiento siguistes los vanos desseos
+de vuestro pe<n>samie<n>to \ y no los nobles limites dela razo<n>.
+Y no os respo<n>diera sino fuera por creer que qua<n>do tal me
+escriuistes \ estauades fuera de toda razo<n> \ que el verda-
+dero ama<n>te ha de tener \ para los fauores demandar \ a-
+la dama aquie<n> sirue. Y no mas pues mas no pie<n>so co<n> vos
+conte<n>der \ hasta ta<n>to q<ue> de amor mas isperie<n>cia te<n>gays.:.
+{RUB. ¶ Señora.}
+{IN5.} MAldigo mis manos \ y a mi lengua ma<n>dare d<e>
+aqui adela<n>te te<n>ga sile<n>cio. Mi sentido no sen-
+tira. Mi ente<n>dimiento no sera quie<n> antes ser
+solia \ antes enmudecera para siempre: pues
+me han dado osadia para pedir lo que por fu-
+erças de amor os demande. Mirad mi señora que segun
+la ley de amor \ no merezco ta<n>ta culpa como me echays:}
+[fol. 11r]
+{CB1.
+no porque dexe de conozer que la te<n>go ≺y mucha≻ mas no
+dexo de dezir que no merezco tan gran pena \ que de vue-
+stros dulçes fauores sea priuado \ sin sello primero d<e>la vi-
+da. Quexaysos por lo que la lengua y voluntad pidieron
+& yo me quexo porque no lo posseo. No dexo de confessar
+como he confessado que teneys mucha razon. Mas no d<e>-
+xo de dezir que tengo mas causa \ por causa de vuestra so-
+brada hermosura \ para demandallo \ que no vos para[ ]re-
+prehendermelo: pues en ello demando el aliuio de mis[ ]pe-
+nas \ y el vado para la honda mar de mis tormentos \ co<n>-
+goxas \ y dolores. Si en ver vue sira rigurosa carta mis a-
+tormentadas carnes frios mortales les sobreuinieron:
+bien creo os daran verdadero testimonio dello mis lacri-
+mosos ojos \ y vuestra piadosa me<n>sagera: que assi do par-
+te antes que de mi se despidiesse \ para que mi fatigada a-
+nima no saliesse deste trabajoso cuerpo: mas pues v[u]estra
+merced dello[ ]soys contenta \ yo lo tengo por todo el desca<n>-
+so desta vida: mas no puede el atribulado coraçon mio de-
+xar de sentir con que viento le rodeays \ segun es man-
+dar a sus subjectas carnes mias. Escreuisme mi[ ]señora q<ue>
+no escriuierades si no pensarades que quando os escreui
+estaua fuera de toda razon: si por esto es \ no soys bie<n> mio
+obligada a dexar d<e> hazerme siempre mercedes: pues ra-
+zo<n> despues que amor me sujecto \ de mi se a ausento tan le-
+xos \ que nunca despues aca en ninguna de mis cosas la
+vi: padeciendo tan mortales sospiros por boluella a causa
+de mezclalla con mis obras para no enojaros: que son ca-
+si semejantes alos que por vuestra suma beldad esparzo
+cada momento por los diuersos ayres. Assi que mi señora
+sino quereys el fin deste vuestro sieruo muy cedo ver: bol-
+ue vuestros piadosos ojos contra el \ y no consintays que
+esta vuestra tan crecida crueldad adelante passe: porque
+pasando \ pasarsea<n> enlos limites d<e> mi vida \ y perdereys
+vn tan vuestro. ¶ Captiuo.:.}
+{SG. B iij}
+[fol. 11v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN6.} AUra seys dias que os escriui \ y que comen-
+ço mi mal \ y segun me aueys oluidado \ no
+tengo por marauilla \ ser delos medicos ya
+desafuciado: a causa d<e> hallarme tal \ q<ue> creo
+ser llegados mis vltimos dias: pues en vos
+que erades toda mi salud \ alegria gozo \ y
+contentamie<n>to \ fallecio memoria para fauorecerme. No
+os quiero suplicar por piadad \ q<ue> de mi ayays compasio<n> \
+pues por causa de mis sobradas razones no la merezco:
+mas encargos mi señora \ pues soys verdadera causa de
+mi penosa muerte \ quando de cierto la sepays \ tengays
+memoria de visitar el lugar \ a donde este leal cuerpo fue-
+re sepultado: porq<ue> el anima resciba descanso a donde estu-
+uiere \ viendo el cuerpo ser de vos fauorescido. Una mer-
+ced os quiero suplicar pues es la postrera que os pedire.
+Que a vuestra mensagera a mi aposento embieys \ antes
+que desta presente vida salga ≺tan quexoso de amor como
+dela fortuna≻ para que os embie mis ojos causadores de
+tan gran passion \ pues ellos fueron la causa que vuestros
+reluzie<n>tes rayos de amor en mis entrañas se matizase<n>: y
+si esto hazeys sere el mas contento delos nacidos \ y sino
+fueredes dello contenta \ contentarme he que hasta el vl-
+timo fin d<e> mi vida \ quise sacrificaros aquello que fue cau-
+sa que contra mi os ayrasedes \ y la verdadera razon fue
+el peruerso amor \ querer que no ecediesse d<e> sus limites \
+de no quedar corto \ en su rigor de demandar \ a quien ta<n>-
+to me podia fauorezer \ como vuestra suma beldad \ enlo
+que tanto ami me yua \ que era gozar de vuestros dulzes
+fauores \ creyendo que los merescia por ser tan humilde
+vuestro.:.
+¶ Captiuo.:.}
+[fol. 12r]
+{CB1.
+{RUB. ¶ Señor.}
+{IN8.} SJ tan por espirencia no huuiera cono-
+cido vuestro amor \ no pudiera creer
+lo que tantas vezes me aueys escrip-
+to: y como ya la po<n>çoña de amor aya
+discurrido por todas mis ve<n>as \ a me
+dado tanta passio<n> vuestro mal \ como
+si yo misma lo padesciera. Mas crey-
+do tenia que erades hombre de mas
+animo \ para sufrir las varias bueltas d<e> amor \ mas pu-
+es no lo soys \ deuiades os de atentar en vuestras d<e>ma<n>-
+das \ para que mis respuestas ≺pues no soy a menos o-
+bligada≻ no os llegassen alos terminos en que estays: q<ue>
+segun me dizen \ soys tornado otro rectrato dela muer-
+te. Torna torna en vos \ que hasta oy jamas hirio amor
+de muerte \ que tanto tiempo como vos durase. Y pues
+he sido la causa de vuestro mal \ yo lo remediare \ dela
+mejor forma que pueda \ quando tiempo conuiniente pa-
+ra ello huuiere. Y esto os baste \ y confia que procurare
+que presto sea: Y por no dañaros la cabeça ≺que me di-
+zen que es d<e> do<n>de mas os quexays≻ no mas \ de quedar
+rogando a dios \ os de la salud que yo os desseo: como
+vuestra cierta.:.
+¶ Seruidora.:.
+{RUB. ¶ Señora.}
+{IN6.} SJe<m>pre oy dezir \ q<ue> avn q<ue> los señores alos
+sieruos hieren \ no es co<n> inte<n>cio<n> de acaba-
+lles las vidas: como a mi[ ]co<n> v<uest>ra beldad ha-
+caecido me ha: q<ue> aueys: sido seruida d<e> lle-
+garme alo vltimo d<e> mi vida \ & ya q<ue> vistes
+q<ue> otro remedio[ ]tener no podia \ p<ar>a guare-
+(re)cer d<e>la muerte \ sino v<uest>ro co<n>suelo: me e<m>biastes la medi-cina}
+{SG. B iiij}
+[fol. 12v]
+{CB1.
+para mi mal \ que fue vuestra tan sabrosa quan dulce
+carta: que fue semejante para mi ala redoma de agua des
+Julia gentil enamorada que en da<n>do a beuer con ella r( )esu-
+citaua alos que al punto dela muerte por su causa eran lle-
+gados: y bienauenturado mi mal \ que tan gran bien d<e>l me
+ha salido \ y bienauenturado yo por tenelle \ y dichoso mi
+coraçon pues le a padecido. O quien mi señora veros pu-
+diera al tiempo que mi carta leyades \ para que pudiera
+conozer las diferencias que mis penosas razones en v<uest>ro
+hermoso rostro hazian. O quien pudiera estar presente sin
+que diuisar me podierades \ al tiempo que ta<n>ta misericor-
+dia de mi vuistes: y no pierdo las sobradas mercedes que
+en todo mi descanso me hazeys \ en dezirme sere auisado
+del tiempo del qual pienso hazer cuenta que solamente vi-
+uo: donde creo rescebir de vuestra beldad ta<n> dulçes fauo-
+res \ quanto palabras vienen en esta vuestra letra escrip-
+tas. Escreuisme señora que nos quereys mas alargar co-
+migo por no dañarme la cabeça que es do<n>de todo el mal
+tengo ≺segun os dizen≻ tanto mi bien en ello os engañaro<n>:
+qua<n>to yo lo he sido en no escreuirme vuestra merced mas
+largo: pues es cierto que estoy dentro del parayso el tiem-
+po que leyendo estoy las sabrosas razones de vuestra so-
+brada hermosura: que todo mi mal no a sido sino dentro de
+lo mas viuo del coraçon \ como rayz de donde nasce todo
+mi dolor \ que por deleyte sustento \ desde la ora q<ue>por v<uest>ro
+me tuue: tiniendome como siempre por vuestro.:.
+¶ Captiuo.:.
+{RUB. ¶ Señora.}
+{IN4.} COmo el contento del medico y la sobrada ale-
+gria sean parte p<ar>a desehechar qual( )quier mal:
+assi mi señora siendo vos el verdadero medico
+que de mi ponzoñoso mal me a[ ]guarecido \ con}
+[fol. 13r]
+{CB1.
+a sobrada alegria de vuestra dulçe esperança: a hecho
+en mi tal experiencia que soy tornado dela muerte que ta<n>
+cercana tenia \ ala vida que en seruicio vuestro entiendo
+gastar: y para daros gracias hermosa señora de ta<n> sobra-
+do bien \ auia menester otro mas vibo juyzio y mas despi-
+erto entendimiento que el mio: mas con aquel que de ser
+vuestro soy rodeado se os mi señora dezir \ que nada nos
+puedo ofrezer q<ue> dias no aya q<ue> en vuestro poder no lo te<n>-
+gays \ como señor( )a: y esta os escriuo p<ar>a que conozcays
+enlos terminos que estoy \ como quie<n> tal triaca a beuido:
+estando tan fuerte para vuestro seruicio \ quanto temero-
+so aguardando la ora qua<n>do vuestra beldad sera seruida
+de hazerme las mercedes que ofrescidas me teneys: y
+bienauenturado me puedo llamar pues de tan pequeño
+mal ta<n>to \ bien me aya resultado: que avn q<ue> a efecto no ve<n>-
+gan vuestras sober( )anas mercedes: estoy tan satisfecho
+en auer[ ]sido salidas de vuestra graciosa boca \ quanto si
+rescibido las vuiesse: y como el contento que desto tenga
+sea en mi tan sobrado \ no dexa la mi simple pluma de bor-
+rar el blanco papel con la mano que obedesce ala intelle-
+ctiua dela razon con que es gouernada: y pues señora a-
+ueys remediado el cuerpo \ con tan excessiuos fauores:
+catiuad mas el coraçon[ ]fauoresciendolo \ que no les mas
+rescebir de vos fauor para conlas abrasad(s)[a]s entrañas
+comunicallo \ que hechar poca agua en grande esponja:
+donde por mas que la apremien no muestra auella rescebi-
+do: y assi queda con tal esperança como siempre sea suste<n>-
+tado creyendo nadie sele ygualar \ por ser tan vuestro co-
+mo su antiguo posseedor.:.
+¶ Captiuo.:.}
+[fol. 13v]
+{CB1.
+{RUB. ¶ Señor.}
+{IN5.} DEleyte aueys dado ami coraçon \ que con pe-
+na estaua \ a causa de vuestro mal \ en hazer-
+me saber vuestra mejoria. Y como quien ta<n>to
+contento possee \ no quiero poner en oluido \
+lo que prometido os tengo. y assi os hago sa-
+ber \ q<ue> esta noche mi madre & yo \ vamos a velar a nues-
+tra señora de gracia \ con sola mente la que esta carta os
+dara \ y sera te<m>prano la yda. No os quiero auisar delo
+que hazer deuays \ saluo que os atenteys \ de suerte que
+por lo poco de presente \ no perdays lo mas que a( )dela<n>te
+veniros puede. Y porque para adereçar lo que es mene-
+ster / para el sosiego de mi madre esta noche \ no puedo
+mas alargarme: no mas \ de quedar como siempre estu-
+ue por vuestra.:.
+¶ Seruidora.::
+{RUB. Señora.}
+{IN5.} NO se que me escriua \ ni se que me hable \
+para tan soberanas mercedes como seño-
+ra me hazeys \ auiendo os compadecido
+de veras de mi mal \ que yo por sumo bien
+he tenido: no se porque \ saluo por mostrar
+en todo quien soys \ y quan cumplida naturaleza os for-
+no. Y estimo el auiso enlo que es justo estimarse. Y esti-
+mo tanto la merced \ quanto estimo la vida \ q<ue> para vues-
+tro seruicio sustento. Mucho quisiera que vuestra sole-
+dad fuera encabo \ que os pudiera tener compañia toda
+la noche: mas pues mas no puede ser \ yre a gozar del ti-
+empo \ que v($u)[u]estra merced fuere seruida de fauorecer-
+me \ y los cabizmordidos lugar me diere<n>. Ay os embio}
+[fol. 14r]
+{CB1.
+fructa en que parte dela noche gasteys: que bien creo tie<m>-
+po os sobrara \ como no acostumbrada alos muertos te-
+ner compañia: pues soys recreo y consuelo de tod(a)[o]s los
+biuos. Perdonad mi atreuimie<n>to \ que es[ ]como a señora:
+que sino me confiara en vuestro sobrado agradecimie<n>to \
+a ta<n>[ ]poca cosa ofresceros no me atreuiera: y porque esta
+vuestra mensagera y secretaria de mi coraçon no me da
+mas[ ]lugar \ diziendo no la eche<n> alla enla possada menos \
+no mas \ de quedarme abrasando en<e>l biuo fuego de amor
+de que me sustento \ desde que os me di por vuestro.:.
+¶ Captiuo.:.
+{RUB. ¶ Señora.}
+{IN5.} EL tiempo maldigo y ami poca ventura \ pues
+tan poco dexaro<n> gozar a mi abrasado coraço<n> \
+de vuestra graciosa vista y conuersacion. Po-
+deys mi señora creer que si antes con esperan-
+ça de veros \ la vida sustentaua: agora que de
+vuestra sabrosa y sabia dulzura he participado \ no se co<n>(-)
+que me sustente. Antes bien confiesso que estaua perdido
+por vuestra beldad \ mas agora confiesso que estoy perdi-
+do \ y sin ningun entendimiento \ auiendo de veras conoz-
+cido vuestro mucho saber. O mi señora como me q<u><<i>>sistes
+lleuar a vos \ para que de veras conozciesse la ve<n>taja que
+entre todas las mortales atodas hazeys: y no auia( )d<e>s[ ]me-
+nester mostrarmelo por ta<n> clara espire<n>cia: pues por ta<n>[ ]aue-
+riguado este v<uest>ro verdadero sieruo lo tiene ta<n> conozcido.
+Aclarastesme v<uest>ro coraço<n> da<n>dome a[ ]gozar v<uest>ras precia-
+das manos: halleme ta<n> glorioso q<ue> nos pude respo<n>der segu<n>
+q<ue> quisiera \ & ya q<ue> pude \ el poco t<iem>po no medio lugar Mas.
+cierto credito pe<n>se d<e> mi teniades: mas no me marauillo q<ue>}
+[fol. 14v]
+{CB1.
+como mi señora me dixistes \ son los hombres muy ma-
+los de conozer: mas ya que señora mis traycion tratar
+yo os q<u><<i>>siera \ fuera impossible podello encubrir \ pues mi
+coraçon que alla tan aprisionado teneys \ os descubrera
+la celada \ que poneros quisiera: quanto mas q<ue> con tanta
+fee os siruo \ qua<n>to desseo tengo q<ue> conozcays mi[ ]limpia in-
+tencion para seruiros: dixistesme q<ue> creyades no perse(r)ue[ra]-
+ria enlo començado \ porq<ue> todos los ho<m>bres en conocie<n>do
+son queridos son luego desconocidos \ tiniendo empoco d<e>
+alli en adelante lo que aman: esso mi[ ]señora seria qua<n>do la-
+mor no vuiesse hecho tan grande presa como tiene hecha
+en mis entrañas \ de tal suerte q<ue> mientras mas mercedes
+me hizierdes \ mas hierros hechays ami poca libertad \
+por tenella en vos toda puesta \ como de quie<n> mana toda
+mi gloria \ bien y conte<n>tamiento: do<n>de mi señora conocere-
+ys que si tal pensamiento venir me pudiesse \ perderia an-
+tes la vida que enel vn mome<n>to consentir: pues consintien-
+dole perdia toda la fee d<e>[ ]lealtad \ que este que por vuestro
+se tiene tenia como cierto.
+¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} CReydo bien tenia[ ]que aclara<n>dos el camino \
+no auiades de poder herrar \ y assi me tiene<n>
+tan satisfecha \ vuestras razones como vues-
+tras muchas obras \ dirigidas ami seruicio:
+donde sino pe<n>sase satisfazellas \ me llamaria
+la mas ingrata delas nacidas. vna cosa note
+en vos la noche dela vela \ y fue que todo el tiempo que
+ante mi estuuistes \ no alçastes los ojos del suelo ni casi
+vuestra lengua se meneo a[ ]responderme: no se que fue la
+causa \ si fue del gran espanto que de mi gran fealdad}
+[fol. 15r]
+{CB1.
+recebistes viendola tan cerca: o si fue la espirencia q<ue> los
+verdaderos amantes dan \ al tiempo que ante quien ama<n>
+se ven \ que es que en( )mudezen: no se a[ ]qual destas partes
+lo echar \ y quierolo echar al amor por tener \ del de vos
+tan claras muestras: y dexar d<e> hechallo ami poca hermo-
+sura \ porque avn que menos fuera delo que es \ en se( )r de
+vos querida \ creo en esta parte ningu<n>a poderseme ygua-
+lar. Descubrios el secreto de mi coraço<n> y el v<uest>ro dexastes
+e($n)[n]celado \ no se por que lo hezistes: bie<n> se que me podreis
+dezir que enla carta q<ue> los dias passados me embiastes
+os me aclarastes \ respo<n>die<n>dome alo q<ue> os dixe \ no me sas-
+tisfize que avn q<ue> por v<uest>ra carta este satisfecha mas lo[ ]qui-
+siera ser de vuestra persona entonzes: porq<ue> con la turba-
+cion que teniades no pudierades dexar d<e> dezir verdad \
+lo que sobre pensado no tengo por tan cierto. Y dubdosa
+estoy en vuestros dichos avn que nolo este en vuestro a-
+mor \ y toda esta dubda bie<n> conozco nacer de la mucha fee
+que en mi ay \ y dela poca que para comigo vos teneys:
+mas pues yo me tengo la culpa \ no tengo de que me q<ue>xar
+sino de mi: mas para que satisfagays todas mis quexas \
+venid esta tarde por do<n>de soleys \ que dende alli conoce-
+re en vos ≺avn que dende lexos≻ como quien tan cerca es-
+ta \ lo que dentro de vos teneys: y esperando os quedo \
+tan cierta como siempre estuue vuestra.:.
+¶ Seruidora.:.
+{RUB. ¶ Señora.}
+{IN6.} EN dubda poneys lo que en mi tan sellado es-
+ta \ poniendo asechanças en donde el amor
+mora \ y no enel amor. Catad mi señora que
+la tinta borra el papel blanco \ y le torna d<e> su
+misma color \ tan al[ ]natural que no ay mas
+diferencia \ que estar junta en vn cabo \ o en}
+[fol. 15v]
+{CB1.
+otro esparcida: mira señora que dela misma condicion el
+amor que avn que el coraçon se( )a de vna voluntad entr( )an-
+do el por el \ no d<e>xa lugar q<ue> de su misma mezcla no sea tor-
+nado y conuertido: y assi señora es impossible condenar
+al vno y saluar al otro: qua<n>to mas que estoy en vos ta<n> tras-
+formado \ que soy otra vos: y esto por mas participar de
+mi gloria tan cumplida que en ser[ ]vuestro tengo. Poneys
+me en vuestra letra por dubdoso \ en vuestra sobrada her-
+mosura \ ta<n>to mal en ello ami abrasado coraço<n> causastes \
+quanto co<n>tento recibi \ en ver co<n>fesar por vuestra gracio-
+sa boca \ la mucha aficio<n> que en vos puesta tengo. O ven-
+turoso yo señora mia pues tan ala continua soys conte<n>ta
+de mandar me \ tan aprouecho mio: quanto mas que no
+era menester traerme ala memoria lo que ya por tan anti-
+gua costumbre enella forjada esta \ que es yr a[ ]gozar de
+vuestra soberana vista \ alas oras acostumbradas: de do<n>-
+de todo mi contentamiento mana \ y mi descanso consiste:
+pues no hago cuenta otro rato vibir sino el que mis ve<n>tu-
+rosos ojos ≺por veros≻ os miran. Escreuisme señora que
+passando por donde estays vereys en mi lo que dentro si-
+ento: pluguiesse al soberano dios de amor que assi fuesse \
+que bien tengo creydo de vuestra suma beldad \ que si del
+todo lo conosciessedes: no consentiriades que tan morta-
+les ansias cada momento este vuestro coraço<n> sostuuiesse:
+tinie($n)[n]do por dubdoso su ventura alcançar enteramente a
+gozaros paya siempre por señora: temiendo las bueltas
+dela mudable fortuna: avn que boluiendo en mi conozco \
+que si alguna dama mandar la puede soys vos: y siendo
+ansi no consintireys \ sea aduersa a este vuestro.:.
+¶ Captiuo.:.}
+[fol. 16r]
+{CB1.
+{RUB. ¶ Señor.}
+{IN8.} FEzistes lo que os suplique y muy cum-
+plidamente: y pluguiera a dios que he-
+cho no fuera / porque al[ ]tiempo que os
+mire vide vuestros hermosos ojos sa-
+lir vn tan biuo fuego que mis miseras
+entrañas abraso: de suerte que si por
+mi honestidad no fuera \ yo em[ ]per-
+sona os fuera a dezir: que era lo que en
+vos visto auia \ para mi mal: assi que señor mio\ aqui esta
+esta vuestra sierua \ haze della como fueredes contento:
+que para siempre os tengo de seguir: y mas siendo como
+vos dezis que[ ]me amays ta<n> verdaderamente \ que por se-
+ñora siempre me quereys y amays: y si assi[ ]es \ yo a vos
+por mi[ ]señor mientras biuiere os confessare: do<n>de podre-
+mos dar algun contentamiento al penado coraçon vues-
+tro y mio \ pues en vno juntos assi llamar los puedo: y pa-
+ra que mas a vuestra honrra esto sea \ vuestra amistad
+es mucha con mis hermanos \ hablaselo: y segun la res-
+puesta que os dieren me auisa \ que ansi hare yo \ d<e>lo que
+aca pasare: mas abiertamente os quisiera escreuir \ sino
+que no oso poner el secreto de mi coraçon eneste muerto
+papel: que no se sila ventura que en tales terminos nos a
+puesto \ querra contrariarnos \ como hazello siempre sue-
+le \ en los tiempos mas prosperos: assi que bien mio pone
+en[ ]execucion lo que os escriuo \ y auisame como os tengo
+dicho lo que os responden \ para que os escriua lo que se
+ha de hazer: porque ami me duele y a vuestro mal \ tanto
+como el mio tiniendo os por mi señor \ y siendo yo vuestra
+cierta.:.
+¶ Seruidora.:.}
+[fol. 16v]
+{CB1.
+{RUB. ¶ Señora.}
+{IN8.} SJ el Phenix se torna ceniza \ y della se-
+gun naturaleza otro salir suele: no es d<e>
+marauillar que siendo tan vnico yo enel
+mundo en vuestro seruicio: siendo en vi-
+uos fuegos de amor por vuestra causa
+abrasado: salga de mi ceniza otro yo \ se-
+gun que agora me hallo de nueuo ente-
+ramente ala vida tornado \ co<n> vuestras
+sabrosas razo<n>es: d<e>las quales he colegido \ el sobera<n>o bie<n>
+que mi señora me hazeys \ en quererme por vuestro espo-
+so: lo qual acepto \ con la mayor alegria que jam(e)[a]s mi co-
+raçon nunca huuo: que en vuestros hermanos señora \ no
+he hallado la respuesta tan sabrosa \ qua<n>to mi verdadera
+y honesta voluntad la merecia. No me da passion \ que co-
+mo[ ]seays seruida de darme libertad \ que en do<n>de vos es-
+tuuieredes entre: no aura peligro enla vida q<ue> temer pue-
+da \ para poner mi voluntad en efecto. Y si desto fuerdes
+seruida auisalmelo \ que mas tardia sereys en mandarlo \
+que yo en ponerlo por obra. Despidiero<n>me vuestros her-
+manos \ con dezir que no teniades possib[i]lidad para casar
+comigo \ mal lo hizieron \ que bien sabian que pues yo os
+demandaua \ que tenia para entramos. Avn que segun
+vuestro merecimiento \ tuuieron mucha razon: mas quie<n>
+bie<n> se ama \ no consiste toda la bienaue<n>turança de la vida
+enel tener bienes que presto se acaba<n> \ saluo en<e>l co<n>te<n>tami-
+ento ≺y mas tinie<n>dole ta<n> cu<m>plido de vuestra estremada bel-
+dad como yo le tengo≻ mucho fue su engaño. Auisame mi
+señora co<n> breuedad \ q<ue> es v<uest>ra volu<n>tad \ o si a esto os deter-
+minays \ porq<ue> adereze lo q<ue> p<ar>a ta<n> vnico caso se requirre. Y
+espera<n>do v<uest>ra respuest(o)[a] \ q<ue>do el mas co<n>te<n>to d<e>los nascidos \
+creye<n>do no se passara mucho tiempo \ que no se cumpla mi}
+[fol. 17r]
+{CB1.
+deseo: que es que conozcays verdadera mente \ auentu-
+rar mi estado y vida \ y de mis amigos en vuestro serui-
+cio: como muchas vezes os lo he ofrecido \ tiniendo os[ ]sa-
+crificado mi coraçon a vuestra volu(d)[n]tad: como verdade-
+ro.:. ¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} YA os escreui como la fortuna nunca dexa
+estar las cosas en vn estado: assi por mi ma-
+la suerte a hecho en mi las muestras: porq<ue>
+os hago saber \ que la carta que ante de
+ayer me escriuistes \ a caydo en poder de
+mis hermanos segu<n> he sabido por nuestro
+interprete: y an disimulado comigo \ y me an ma<n>dado oy
+adereçar \ para lleuarme a holgar con vna mi[ ]tia a sant
+Clemente: bien se que es para priuarme de vuestra con-
+uersacion: que no me sera mas que apartarme dela vida:
+no se lo que enella venia que tan acelerada aya sido su[ ]mu-
+dança. O bien mio quien os pudiesse dar a sentir \ y aqui
+os dibuxase las ansias mortales que esta vuestra sierua(-)
+sustenta \ viendo auer de ser quitada ante vos. O coraço<n>
+mio como sufrirte puedes q<ue> no rebientes por mil partes?
+O libertad mia ya perdida: o toda mi alegria tornada ya
+en lloro: como lo dan bien a[ ]conoscer mis fuentes que an-
+tes ojos ser solian: con que de vuestras sabrosas cartas
+gozaua: o[ ]traydora fortu<n>a \ que bie<n> temi tu acelerada cay-
+da: bien temi tu poca costancia. O bien mio que bien lo es-
+creuistes dias ha: si yo enello mirara. O simple de mi que
+escriuo \ porque atormento a[ ]quien se que sabiendo lo que
+passo \ no he menester incitalle a[ ]penar: perdonad señor
+mio que no he podido menos hazer \ de daros a sentir lo
+que siento \ y si quereys mi vida busca maneras como es-creuirme}
+{SG. C}
+[fol. 17v]
+{CB1.
+podays ≺pues verme es impossible≻ y silo haze-
+ys conozcere lo que de vos siempre he creydo \ y sino ha-
+reys me gran bien: porque dareys ocasio<n> para q<ue> mi lasti-
+mado coraçon lançe desi lo que tanta passion le da \ despu-
+es que por vuestra me di. Esta os dara vna esclaua de mi
+madre porque le dixe que aquel gentil hombre que por a-
+qui passaua ≺que bie<n> mio erades vos≻ Le auia d<e> dar vnas
+arracadas muy galanas: porque me auiades dicho que
+era muy hermosa \ dadselas q<ue>si algu<n>[ ]remedio a de auer \
+con quie<n> escreuir me podays \ a d<e> ser conella: por ser muy
+querida de mi señora: y la que mas me a de visitar \ y no
+mas que no me dan mas lugar \ de quedar como siempre
+estuue por vuestra.:. ¶ Seruidora.:.
+{RUB. ¶ Señora.}
+{IN5.} O Ansias mortales mias que ausentes estar
+soleys mucho tiempo ha: veni veni a vues-
+tra antigua morada: no dexeys d<e> acompa-
+ñar a quien con tanta voluntad os llama q<ue>
+soy yo: o verdadera holgança mia donde
+estays vos agora: que no es possible que no sentis lo que
+sie<n>to \ nose porq<ue> mi señora no me escreuistes \ como se auia
+rodeado mi mal: y vuestro destierro de mis ojos: o quien
+auia sido la causa dellos ≺despues de mis malos hados.≻
+para que con pagalle la buena obra que me hazia \ le die-
+ra en pago la muerte: la q<u><<a>>l a vuestros hermanos dado hu-
+uiera \ sino mirara el enojo que daros podia: esta postre-
+ra carta me dio vna dela color de mi coraçon: y dixo me
+luego la leyese que queria aguardar la respuesta: algo[ ]me
+console \ creye<n>do que alos fines de vuestra turbia carta \
+alguna claridad viniera entre tanta tenebregura: y al[ ]fin
+llegando vi lo que por vuestra penosa hermosura me era}
+[fol. 18r]
+{CB1.
+mandado: yo lo hize muy cumplidamente \ dandole arra-
+cadas \ manillas \ y sortijas: muchas cosas co<n>ella me pa-
+saron de amor que comigo quiso emprender \ que esta<n>do
+con mas holgura con vos mi alma quisiera comunicar:
+mas ni el tiempo es conforme para mi segun lo que sien-
+to \ ni a vos q<u><<i>>ero dar tal pesar d<e> escreuiros las palabras
+dulçes que conella passe enamorandola \ para que fuesse
+secreta secretaria de mi angustiado coraçon. La pena q<ue>
+vuestra pena me dio \ no fue menos grande que la del sin
+ventura Piramo: mas nos deueys mi señora tanto fati-
+gar \ que su pena fue sin remedio \ porque no aguardo a q<ue>l
+tiempo le diesse claridad de su engaño \ lo que enel vues-
+tro y mio auelle puede andando el tiempo: que es el que to-
+das las cosas cura: y suplico os mi señora no dexeys d<e> ha-
+zerme la merced que soleys \ pues sabeys muy conozci-
+damente \ que sin[ ]ella siendome vuestra vista quitada \ no
+puedo vna ora tan solamente biuir: y asi quedo aguardan-
+do vuestra carta como antes solia \ con las mayores ansi-
+as que vn coraçon humano sustentar puede : saluo que el
+mio que vuestro es como a ellas acostumbrado: podra[ ]lle-
+uallas \ con la esperança que de vos tiene sera socorrido
+como señora a su tan a( )herrojado.:.
+¶ Captiu(p)[o].:.
+{RUB. ¶ Señor.}
+{IN4.} COmo las cosas que ningun medio no tenga<n>[ ]sea
+la cierta cordura poner vado a sus furiosos li-
+mites ≺avn que el caso no lo requiera≻ assi ami
+acontecido \ q<ue> mira<n>do q<ue> si perezer me d<e>xaua \ p<er>-dia}
+{SG. C ij}
+[fol. 18v]
+{CB1.
+dia el esperança de gozar d<e> vuestros dulçes amores: los
+quales como por ellos apremiada \ an sobrepujado tanto
+en mi \ como suele hazer la nueua llama \ enla hiruie<n>te cal-
+dera: & forzejado co<n> mi voluntad ala muerte resistir \ que
+tan cercana por vuestra causa tenia: hasi que bien mio jus-
+to es que vadeys vuestra vida \ mientras este penoso des-
+tierro dura: y no inuoques a vuestra antigua compañia \
+como en vuestra carta me mostrays \ que viendos de mi
+ausente aueys hecho: avn q<ue> para vn nueuo enamorado \
+y d<e> tal dama \ justo es que padesca penosos cuydados \ y
+mortales angustias \ y continuos desseos \ pues la dama
+en tanto grado lo meresce: y vuestras dadiuas fueron tan
+generosas \ quanto lo es vuestro coraçon: y la dama lo co-
+noce tambien \ y se muestra de tam[ ]buen conocimiento \
+que me dize \ morira por vuestro seruicio: y agora no me
+marauillo sustentar lo que sustento \ pues las que entendi-
+miento ninguno alcançan \ con vuestra sabrosa conuersa-
+cion tal las parays. Mas subtil quisiera que fuera mi len-
+gua \ mas delicado mi juyzio \ para poder escriuiros \ lo q<ue>
+alas dos \ y alas cinco \ mi afligido coraçon passa: que so<n>
+las horas en que mis lacrimosos ojos \ d<e> vuestra agrada-
+ble vista gozar soli(a)[a<n>]: mas d<e>xolo a juzgar a vos \ pues creo
+no estareys muy contento el mismo tiempo \ viendo os[ ]co<n>
+tanta soledad: pues[ ]qua<n>do a vuestro gusto lo posseyades \
+mostrauades con el tener sobrada alegria: g(a)[o]zando dela
+vista de que priuado soys. Todas estas señoras son amis-
+cissimas de sedas de colores: yo casi a ellas semejante: ay
+os embio delo que presentado me an \ que son bolsas \ y al-
+corças: en todas ellas van puestas mis armas \ que so<n> vn
+coraçon rodeado de llamas \ trauesado con vnas saetas
+doradas: rescibi mi voluntad \ que es de seruiros. Y no de-
+xeys[ ]los amores començados \ pues dandose fin a e-
+llos \ se darie a nuestro contento: y mas al[ ]mio como en qui-
+en mas amor su poder a[ ]mostrado \ quirie<n>do daros \ mas}
+[fol. 19r]
+{CB1.
+muestras en mi \ que en ninguna a el sujecta \ hazie<n>dome(-)
+ser tan cierta vuestra.
+¶ Seru[i]dora.:.
+{RUB. ¶ Señora.}
+{IN5.} QUando enla mayor fuerça mis ansias esta-
+uan: agenas de menos esperança \ cobdi-
+ciosas de dar fin a este captiuo de cuerpo
+vuestro \ ento<n>ces llego vuestra piadosa me<n>-
+sagera: por rescatar mi vida con sus dulçes
+razones: las quales hizieron tal imprinsion en mi \ como
+suele hazer el agua muy d<e>sseada enla endurezida tierra:
+y no tan solamente con escreuirme os contentastes \ mas
+embiaste me las mas estremadas donas \ que amante ja-
+mas merescio rescebir: y enellas figurados vnos coraço-
+nes dorados \ a denotar el señorio que sobre el mio tene-
+ys. Escreuisme os embie sedas de colores aque soys afi-
+cio<n>ada \ y no me escreuis quales seran \ no se porque \ o[ ]si
+quereys conocer alas que yo mas aficionado sea: ay[ ]os
+embio de cada cosa vna libra \ para que con vuestras de-
+uotas repartays \ dios sabe si[ ]yo dellas algu<n>a quisiera ser
+para poder veros: mas pues mi ventura no lo quiso quie-
+ro hazer lo que mandays: que es dar vado amis dolores
+y cuytas tan continuas: las colores delas sedas son \ do-
+rado \ verde \ encarnado \ azul \ pardillo \ nara<n>jado \ mo-
+rado \ pauonado \ y grana avn que su significacion de mi(-)
+tan ausente este: y blanco que forçado en mi esta \ a causa
+de mi corta ventura: perdona mi atreuimiento y no diga-
+ys quien os lo embia \ porque mi bien no me afrenteys
+viendo mi cortedad: pues a vos como a[ ]retracto de mi al-
+ma \ este vuestro sieruo se os atreue como a[ ]señora. No d<e>-
+xeys de hazerme esta merced haziendome saber vuestra}
+{SG. (E)[C] iij.}
+[fol. 19v]
+{CB1.
+voluntad: y si fortuna os otorgare \ de alcançar a[ ]saber al-
+gun camino \ por donde aueros ami poder pueda ≺que in-
+possible seria temer el peligro \ que dello sucederseme pu-
+diesse≻ no lo dexeys: porq<ue> creo que no menos desseo tene-
+ys que yo de libre os ver: y no[ ]mas de quedar \ como sie<m>-
+pre estuue vuestro vnico.
+¶ Captiuo.::
+{RUB. ¶ Señor.}
+{IN8.} SJ el mucho contentamiento que en ver
+cosas vuestras rescibo no se me aguase
+con mi tan crecida soledad: no auria in-
+fortu<n>io que temer pudiesse. Res(e)[c]ibi v<uest>ra
+carta y copiosas donas las quales re-
+parti entre estas deuotas y hermosas
+señoras: las quales tuuieron a ta<n> sobra-
+da magnificencia vuestro largo don \ q<ue>
+esparziero<n> en sus loas \ mucha parte delo que yo en vos
+amor mio conoscido te<n>go \ mucho tiempo ha. Escreuisme
+que no os quise escreuir mis colores \ no sabeys señor q<ue>
+son verde \ pardillo \ amarillo \ y naranjado: con las qua-
+les sustento mi vida \ creyendo que non ay cosa por buena
+ni mala que se a que para siempre dure. Muchas señoras
+delas que aqui estan me an[ ]importunado a que fue aqui[ ]mi
+venida les diga: porq<ue> segu<n> la vida q<ue> me doy vie<n>do no po-
+der veros \ doy causa aque por ellas[ ]sea amolestada \ y en-
+tre todas ellas vna escogi \ aquien mi coraçon he descubi-
+erto: enla qual he hallado tanto consuelo \ que te<n>go por mi
+que es verdadero escudo de mi vida segu<n> \ sus consuelos
+son: y segun es estrecha su amistad con la mia \ buen credi-
+to tengo \ que si tengo de hallar vado para lo que bie<n> mio}
+[fol. 20r]
+{CB1.
+me escreuis a de ser por su causa: y assi querria tenella con-
+tenta \ y me hariades gran plazer algo de vuestra mano
+le embiassedes: para que yo en vuestro no<m>bre selo diesse:
+que bien sabeys[ ]que dadiuas quebrantan peñas: y que no
+ay el dia de oy cosa que por interese no se aya: y al bue<n> pa-
+gador no le an de doler prendas: quiero amor mio dezir \
+que al buen amador nole a de doler la liberalidad quan-
+to mas a vos que naturaleza tantos de sus bienes co<n>[ ]vos
+quiso repartir: a[ ]comer[ ]llaman enel refitorio \ ya esta cau-
+sa no puedo mas largo escreuiros: y como tengays tan[ ]co-
+noscida mi voluntad no os quiero dar mas saluas \ saluo
+que( )dar como siempre estuue por vuestra:
+¶ Seruidora.:.
+{RUB. ¶ Jncierto enemigo.}
+{IN5.} NJ se a[ ]que parte lo echar \ ni se que me diga
+como no sepa[ ]la causa \ no se d<e>terminarme.
+Cosa muy nueua para mi a sido no ver car-
+ta vuestra \ al[ ]cabo d<e> quinze dias que ha que
+os escreui: bien days a[ ]conozer vuestro po-
+co amor \ y la impression que la ausencia en vos aya he-
+cho . A mi cargo toda la culpa \ como por quien todo el
+mal sea causado: que si yo no os huuiera tan a va<n>deras des-
+plegadas dado mi libertad \ mostra<n>do os la volu<n>tad q<ue>[ ]os
+tenia: no huuierades menos preciado assi[ ]mis desuentura-
+das cartas ≺por auer a v<uest>ro poder ydo≻ no me marauillo}
+{SG. C iiij}
+[fol. 20v]
+{CB1.
+que delos hombres tales como vos \ y en donde tan poco
+bien cabe \ me aya sucedido lo que co<n> vos passado me ha:
+mucho quisiera saber que aya sido la causa \ si a sido otros
+nueuos amores ≺que lo mas cierto deue ser≻ y si tal es \ en
+mucho tuuiera saber la desuenturada dama que os[ ]ha cre-
+ydo \ para desengañalla: porque no fuera burlada como
+yo \ de vn tan ingrato hombre. Y mal aya la muger q<ue> por
+hombre alguno su vida y honrra auenturare \ como yo
+por vos he echo. Dezid perro enemigo mio \ que vistes
+en mi? para assi oluidarme. Quando fue hombre tan bien
+querido \ ni con[ ]tanta lealtad amado como vos d<e> mi? Nin-
+guno por cierto. Ay de mi sin ventura que si adelante mi-
+rara / no me hallara tan atras \ como agora por vuestra
+causa me conozco. O ojos mios no dexeys de dar testimo-
+nio \ delo que mi abrasado coraçon passa. siendo el mas
+mal empleado que nunca alguno fue. O falso cruel mata-
+dor \ dime si pensauas viendome aqui metida oluidarme:
+porque me vrdiste tan gran lazo \ donde toda mi vida a tu
+causa metida estare. O hermanos mios que mas conocia-
+des deste burlador q<u>e no yo \ pues tan de voluntad pusi-
+stes por obra del apartarme . Pluguiesse a dios avn
+que fuesse luego mi muerte \ que vn momento sola contigo
+me viesse ≺que avnque muger≻ yo te daria el pago q<ue> tus
+malas hobras \ para comigo merezen. Bien[ ]se que en ver
+esta mensagera de mis quexas \ mas te holgaras \ cono-
+ciendo mi tan conocida perdicion: mas pues no me pue-
+do ami voluntad[ ]satisfazer \ aquel alto dios dexo por juez
+entre[ ]mi y ti: y mientras ternas en mi vna capellana tal \
+que sobre ti la tierra muchas vezes cada dia mordera: co-
+mo tu mortal.:.
+¶ Enemiga.:.}
+[fol. 21r]
+{CB1.
+{RUB. ¶ Señora.}
+{IN5.} COmo sos mortales esten subjectos alos cur-
+sos de naturaleza \ por mucho que los quiera<n>
+huyr: no es possible heuitallos: assi alma mia
+me[ ]a[ ]caecido[ ]ami \ q<ue> d<e>sde q<ue>[ ]os[ ]escreui \ he estado
+tan malo de dolor de vn lado \ que ya todos por
+muchas vezes me an tenido por mas muerto que viuo: y
+oy que fue el primer dia que de mi possada sali \ tope vues-
+tra mensagera tan enojada contra[ ]mi \ que segu<n> mi flaque-
+za \ y la alteracion que me causo \ si a vna puerta no me a-
+rimara estos cansados guesos mios \ bien creo no huuie-
+ra lugar de acabar de se( )cutar su saña contrami: la qual
+me dio vna carta tan furiosa contra este vuestro lleno de
+fee amador \ quanto sin culpa merecerla: y por no daros
+mi señora passion \ no quiero responderos a ella \ saluo q<ue>
+amor no tiene lugar vaco en mis entrañas abrasadas \
+donde nueuo fuego lançar pudiesse: quanto mas que seria
+impossible de vuestras sabrosas prissiones me librar \ pu-
+es vuestro captiuerio tengo por soberana gloria. Los di-
+as passados mi señora me escreuistes \ que os auiades d<e>s-
+cubierto a vna religiosa dela[ ]casa \ enla qual auiades ha-
+llado gran reparo para vuestra soledad crecida: doy lo(r)[o]-
+res a dios pues en todo estremaros quiso \ para que en q<u><<a>>l
+quier cabo halleys lo que mas al gusto vuestro toque. Y q<ue>
+rescibiriades plazer que algo embiase para que d<e> mi par-
+te darse lo pudiessedes: porque creeys a de ser mucha par-
+te para cumplir vuestra voluntad \ que para siempre sera
+la mia. Ay le embio paño fino para vn habito \ y vna pie-
+ça de olanda y veynte escudos para tocas \ desculpame
+conella \ y suplicalde de mi parte me embie a[ ]mandar co-
+mo a suyo \ q<ue>por vuestra parte mientras viuiere le sere ho-
+bligado. Y respondeme bien mio con breue( )dad que segu<n>}
+[fol. 21v]
+{CB1.
+mi flaq<ue>za \ y vuestra cruel carta \ no seria mucho a tarda-
+ros algun tiempo \ no huuiesse quien vuestro fauor resce-
+bir pudiesse. Y en lo de vuestra libertad no dexeys de tra-
+talla \ pues no ay cosa por ardua que sea \ que siendo muy
+adelgazada \ no descubra el camino que para tomarse se
+requiera. Y porque creo que en todo mi[ ]señora buscareys
+vuestro contento \ y mi desseado descanso \ no mas \ pues
+mas no puedo ser \ delo que soy vuestro.:.
+¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN6.} TAnto vuestra letra a amansado mi saña \
+qua<n>to mi coraço<n> de vuestro sobrado mal \
+ha rescebido passion. Agora conozco no
+ser digno de pena \ mas tambien hallo no
+dexays de tener culpa \ pues quando tal
+os sentiades \ no poniades diligencia \ pa-
+ra vuestro mal me hazer saber: para que pues con veros
+y seruiros \ ayudar a passar vuestro mal no podia \ estas[ ]d<e>-
+uotas señoras & yo \ a dios por vuestra salud importu<n>ara-
+mos: mas pues ya fuera de todo peligro estays \ toma mi
+señor plazer \ y perdona mi ynocencia \ que bien sabeys \
+que es tan digno de perdon quien no sabe \ como quie<n> no
+vee. Que de verdad os digo \ que si aueys[ ]sido de vuestro
+mal enel cuerpo atorme<n>tado \ esta vuestra sierua lo a sido
+enel cuerpo \ alma y espiritu: de tan diuersos cuydados \
+y tan continuos dolores \ quanto congoxas no me me<n>gua-
+uan: de arte que si respuesta de vos mi señor no huuiera \
+yo diera contento ami abrasado coraço<n>: de tal suerte que}
+[fol. 22r]
+{CB1.
+mi alma para siempre penara \ y mi fama fuera entre los
+mortales estendida. Que bien mio mucha ventaja os he
+lleuado enesta ausencia en padescer: para lo qual a[ ]ssido
+verdadero remedio mio \ para sustentarme la vida \ la se-
+ñora doña Juliana: la qual a tenido en tanto vuestro don \
+que casi segun lo que dize si fuera donde comunicalla pu-
+dierades ≺segun su saber y hermosura≻ tuuiera tantos çe-
+los della \ que fuera peor de amansar que de vuestro des-
+cuydo passado (y sin culpa) mucho querria si possible fues-
+se \ por el quarto falso desta casa co<n> vuestra harpa vna no-
+che os viniessedes: porque he loado vuestra boz ala seño-
+ra doña Juliana \ y solo \ porque no hiziessedes ruydo \ y
+fue siedes sentido: q<ue> a sello correria mucho peligro \ a cau-
+sa dela mucha vigilancia \ que sobre mi puesta tienen. Ay
+os embia la señora doña Juliana vnas rosquillas para so-
+bre comer \ embialde las gracias \ que es noble señora:
+y os es aficionada: y no mas \ de quedar como siempre es-
+tuue por vuestra
+¶ Seruidora.:.
+{RUB. ¶ Señora.}
+{IN5.} UUestro perdon[ ]rescebi[ ]tan[ ]sabroso \ quanto[ ]lo
+es mi coraçon en ser vuestro: y bien tenia cre-
+ydo que siendo certificada de mi ligitima es-
+cusa \ auia de ser tan piadoso \ quanto es vues-
+tra beldad \ entre todas las criadas esmera-
+da. O soberano contentamiento que si escreuiros pudies-
+se los tormentos que cada memento a este abrasado cora-
+çon vuestro sele aumentan \ sin merescellos: ni yo estaria}
+[fol. 22v]
+{CB1.
+tan en fuegos d<e> amor metido \ ni vos d(a)[e]xaria( )des de soco-
+rer de qualquier suerte a este de fee de amor nielado:
+con tanto dolor que milagrosa mente la vida sustenta \ vie<n>-
+dose priuado de vuestra estremada hermosura: O amor
+que no son estos los d<e>leytes q<ue> alos principios prometes \
+no son estos los dulçes fauores que por las penas dizes
+que das: o esperança que tanto a que me sustentas que es
+de ti \ donde estas: cata que deues mirar que muero: y to-
+dos los tiempos deti profetizados ya casi passados son:
+si es que suspenso mientras viuiere me as de tener \ mas
+valdria que melo auisases que no me truxesses dubdoso.
+O señora mia escreuime que enel[ ]tiempo que sola estays y-
+maginays: y si[ ]os pasa por el pensamie<n>to \ que an de tener
+fin ≺y glorioso≻ estos mis muchos cuydados: que yo como
+cobdicioso a nada me se determinar \ porque estoy como
+la alta vela de todos los ayres combatida \ que con aquel
+que le da apresura su huyda. Embiaysme mi bien a[ ]man-
+dar \ vaya hazer lo que en vuestro seruicio deprendi \ ha-
+zello he \ con toda breuedad \ como aquel que desseoso es-
+ta de cumplir vuestro mandado. Ma<n>daysme que solo va-
+ya \ es impossible \ pues siempre estuue acompañado de
+vuestro natural retracto \ que en lo mas profundo de mis
+entrañas esta esculpido \ tan al natural \ quanto naturale-
+za en el esmerar se quiso. Ami señora doña Juliana pies
+y manos de su merced mill vezes beso \ por tan crecidas
+mercedes como me haze \ sin yo merecellas ≺saluo por d<e>
+vuestra suma beldad ser≻ en manos dela qual me encomi-
+endo \ como quien creo a de ser la llaue de todo mi reme-
+dio: el qual mi señora enla memoria os suplico tengays \
+pues sabeys del depender el remedio de mi vida \ con el
+descanso deste a( )pasionado cuerpo vuestro.
+¶ Captiuo.:.}
+[fol. 23r]
+{CB1.
+{RUB. Señor.}
+{IN5.} ORpheo ni Jubal \ ni los afamados \ que en
+tiempos antiguos los infiernos abrian: bie<n>
+creo mi amor \ en la musica no se os ygua-
+lar: porque ansi fueron vuestras bozes \ co-
+mo los ponzoñosos ca<n>tos delas Serenas /
+para los miseros nauegantes: que a todas estas hermo-
+sas religiosas a vos atruxistes: creyendo algun angel en
+los muros de su casa auer baxado \ p<ar>a su recreacion: mas
+el gozo de todas enmi era junto \ como quien tanto do-
+minio \ sobre vos alcançaua: por lo qual venturosa mas q<ue>
+todas no dexo de llamarme. Atodas peso y rescibieron
+pena quando vuestra dulçe armonia cesso \ y ami mas q<ue> a
+todas \ como quien mas gloria rescebia. Todas dixeron
+que hasta la mañana no quisieran que cessar a tan gra<n> dul-
+çura \ yo quisiera q<ue>[ ]mie<n>tras biuiera no huuiera fin: lo vno
+por no ser priuada de cosa tan ami coraçon hapascible: lo
+otro por no pe<n>sar enlo que amor mio me escreuis os escri-
+ua \ quando a solas estoy ymagino. Dezime bien mio \ q<ue>
+puedo ymaginar saluo en vos? Como en quien amor qui-
+so engastarme: y assi los terribles fuegos por vos causa-
+dos en mi abr(o)[a]sado \ coraçon son tantos \ que toda esta ca-
+sa ≺avn que grande≻ tengo dellos esparzida: y si contodo
+el mundo comunicase \ menos libre creya dexalle. Encar-
+gays me muchas bezes por vuestro remedio mire \ bien
+podreys mi señor creer \ que si algu<n> camino hallase \ que
+por angosto que fuesse y aspero \ yo le tornase segu<n> mi mu-
+cha voluntad \ tan llano y domeñable \ que poco trabaxo
+tuuiessedes de porel venir \ a[ ]mas encender los vuestros
+fuegos y mios \ furiosos de amor. No dexeys de venir es-
+ta noche conlas passadas a[ ]tenernos compañia con vues-
+tra suaue boz: porque assi os lo embia a[ ]suplicar la señora}
+[fol. 23v]
+{CB1.
+doña Juliana vuestra intima deuota: y si yo lo tengo volu<n>-
+tad \ o es razon que la tenga \ a vos dexo por juez \ pues
+soys de donde todo mi recreo mana \ sie<n>do yo tan vuestra
+cierta.:.
+¶ Seruidora.:.
+{RUB. ¶ Señora.}
+{IN6.} COmo en vuestra causa fauoreciendo las mi-
+as \ siempre hagays como \ quien della de-
+pe<n>den: no es d<e> marauillar alos antiguos[ ]mu-
+sicos \ la mi musica ygualeys: avn que no de-
+xo de confessar mucha razon tengays \ por
+el nacimiento della \ depender de vuestra[ ]so-
+berana hermosura \ como os escreui: y bienauenturado
+yo \ por caber en mi el no<m>bre de vuestro \ pues es vuestro
+todo lo que loor merece enesta vida tener. Escreuisme q<ue>[ ]si
+hallasedes camino por donde mi mal vadear pudiesse-
+des \ que avn que aspero le parariades domeñable \ por
+dar contento ami passion \ y encender mas mis encendi-
+dos fuegos. Sentencia days mi señora tan sabrosa a[ ]sen-
+tir en vuestras agradables razones \ que no dexa de cau-
+sar gran aliuio alas abrasadas entrañas mias: mas pues
+mas que sentir no se dexa \ co<n>sentilla \ me hallo el mas[ ]glo-
+rioso delos nacidos \ conosciendo de vuestra beldad \ no
+mas de por el lugar dexar cumplidamente de fauorecer-
+me: mas el que a este tiempo me ha llegado espero en[ ]su[ ]so-
+brada piadad \ alos vltimos fines pondra mi desseoso de-
+seo / de su entero contentamiento: sola mente causado por
+vuestra parte \ como principal señora de todo \ como lo so-
+ys \ con tan natural titulo. Embiaysme a[ ]mandar \ vaya a
+esparzir por el ayre mis continuas quexas \ yo lo hare \
+donde pluguiesse a dios tuuiesse la propiedad del Coco
+seluatico \ pues quando con çelo sus fuertes baladros}
+[fol. 24r]
+{CB1.
+da \ todo lo que ante si esta derrueca \ y pudiesse abatir es-
+(f)[s]os muros altos de tras de donde descanso mio \ conten-
+tos vuestros desabridos hermanos fuero<n> poneros. Y no
+me quiero ya mas quexar \ pues tan poco eneste caso me
+haprouecha \ de quedar como conellos estoy tan desabri-
+do \ quanto contento por tan vuestro me hallar.:.
+¶ Captiuo.:.
+{RUB. ¶ Señor.}
+{IN7.} PUes los fines del peruerso y cauteloso a-
+mor \ siempre son dubdosos: si alguien
+cordura tuuiesse \ ninguna esperança en
+ellos pondria \ pues ta<n> varios & indomi-
+tos son. Esto digo porque ya que el reme-
+dio en las manos tenia \ para co<n> vos me
+salir fue mi mala suerte \ embiaros a ro-
+gar \ que a dar recreo con vuestra sabrosa boz \ ami afligi-
+do coraçon viniessedes: y como la propiedad della escrip-
+ta os la tenga: co<n> todas las que a oyros fimos \ vino d<e> no-
+sotras la mayor: y conociendo la musica \ y el dessassosie-
+go de sus religiosas \ ser causado por mi parte: ala maña-
+na lo hizo saber \ a mis padres y hermanos: los quales co<n>
+palabras furiosas a reprehenderme lo vinieron \ manda<n>-
+dome adereçar \ q<ue> cu<m>plia a su honrra \ q<ue> co<n> ellos me fuesse:
+el donde no lo he podido saber: por lo q<u><<a>>l mi coraço<n> en crue-
+les tormentos esta enfuscado \ viendo no tener remedio
+de jamas poder escreuiros \ a[ ]causa que me quieren[ ]sacar
+desta ciudad. Uoy muy consolada por conozer muy clara
+me<n>te \ voy a[ ]morir \ pues ta<m>bie<n> lo m(c)[e]rezco \ sie<n>do de vos a-
+partada. Huelgome q<ue> si[ ]bie<n> me q<ue>reys \ e<n> todo me terneys}
+[fol. 24v]
+{CB1.
+compañia: y pues enesta vida tanpoco ver(m)[n]os hemos
+podido \ bien creo segun nuestros fines \ avn que los cuer-
+pos y almas padezcan \ los coraçones algu<n> remedio ter-
+na<n> de holgança \ vie<n>donos ju<n>tos. Mucha prissa me dan a
+que salga para lleuarme estos mortales enemigos mios \
+ruego a dios que tanta priessa las tres hadas de<n> ha corta-
+lles la vida \ que en hazerme mal ha<n> gastado \ qua<n>ta ellos
+agora me dan \ en priuarme d<e> todo mi co<n>te<n>tamie<n>to. Una
+cosa os suplico pues sera la postrera que eneste caso tan
+cruel y fuerte suplicar os puedo: que tengays ta<n>ta cordu-
+ra en satisfazer vuestra voluntad \ como yo de çufrimien-
+to \ en ver mi total destruycio<n> he tenido. Dela sangre que
+esta enfre<n>te de mi sin ve<n>tura coraçon saque vn poco \ pun-
+ça<n>do encima co<n> vna sotil aguja: la señora doña Juliana os
+lo embiara \ tenedlo por insignia \ dela mucha que por vue-
+stro seruio \ pie<n>so esparzir \ ante mis crueles robadores:
+no mas \ porque me falta<n> ya todas las fuerças hu<m>anas \
+y se me quebra<n>ta el coraço<n> \ y ta<n> aprissa me llama<n> \ qua<n>to
+me dare la muerte \ en teniendo lugar \ y la soledad me a-
+compañare: hazie<n>do bordar en mis letreros vna letr( )a q<ue>
+diga.:.
+¶ La mas sin ventura delas nacidas.:.
+{RUB. ¶ Señora.}
+{IN6.} COmo borrando el blanco papel no pueda di-
+buxar \ lo que mi penoso coraço<n> ha sentido \
+dela ausencia d<e> mi señora: no se deue vuestra
+merced marauillar \ del juyzio que me que-
+do \ oyendolo \ para esta escriuir. Mas co-
+mo las cosas q<ue> en vengança consistan \ mas
+con obras que con palabras se ayan de mostrar: bien creo
+de vuestra merced no sera atribuydo a poco amor. Pues}
+[fol. 25r]
+{CB1.
+si pensase alguie<n> enel ventaja me lleuar \ auria dado mas
+apresurado fin a[ ]mas dias que agora dare. Y como la es-
+perança de saber donde mi señora va \ sea en mi tan gran-
+de \ no me doy tanto al dolor \ que dexe enteras presas a
+la peruersa desesperacio<n> en mis abrasadas entrañas ha-
+zer \ que me priue \ delas fuerças que para satisfacer su
+voluntad[ ]requerian. Mi penosa señora me escriuio auia
+en poder de vuestra merced dexado \ vnas hermosas re-
+liquias sacadas de cerca de su coraçon: suplico a vuestra
+merced yo las aya \ pues otro bien no me queda con quie<n>
+vadear mi mucha cuyta y desigualado dolor pueda: porq<ue>
+en auiendo las me parto a[ ]buscar todo mi remedio: que es-
+conderseme \ segun mi mucha fee seria impossible: porque
+por tan dubdoso ternia el biuir sin[ ]ella \ como el sustentar
+la vida hasta hallalla. Ay embio a vuestra merced cie<n> cas-
+tellanos para que de misas al espiritu sancto \ ala madale-
+na \ y alos reyes \ se digan \ pues tanto mi señora leera a-
+ficionada \ le suplico se ponga enello tanta diligencia \ co-
+mo yo pondria enlas cosas al seruicio de vuestra merced
+tocantes: y porque mi mucha passion no me da lugar a es-
+creuir como queria \ no mas de que dar ta<n> lleno de dolor \
+quanto al seruicio de vuestra merced aparejado.:.
+¶ Beso las manos de vuestra merced.
+{RUB. ¶ Señor.}
+{IN6.} SJ segun el sobrado merecimiento a vuestra
+merced fortuna[ ]le huuiera de tratar \ no die-
+ra lugar a que tan sobrado desabrimiento
+venido le huuiera: mas las cosas que delo
+alto hordenadas estan \ es escusado nadie
+querellas euitar: assi que señor es justo \
+que vuestra merced como catholico crea \ que ninguna co-sa}
+{SG. D}
+[fol. 25v]
+{CB1.
+es por mano de dios hecha que no sea por mejor: y pue-
+de ser que este caso tan arrebatado \ y tan fuera del gusto
+de amos a dos \ sea causa que con mayor breuedad se ju<n>-
+ten ensu seruicio: que pues la intencion es tan buena y san-
+cta \ es impossible que aya mal fin. Y como los hombres
+del mundo mas se risgan y gouiernen por voluntad \ que
+por razon: no me marauillo que los hermanos desta seño-
+ra \ por alguna causa que mouelles deue \ quieran euitar
+el deudo de vuestra merced \ con quien ta<n>to en su honrra
+auentajauan. A torpeza se me terna \ estenderme ta<n>to co<n>
+vuestra merced \ mas como quien (tan) tantas mercedes a-
+ya rescebido \ como soy yo \ no es d<e> marauilla que quiera
+hazer lo que soy obligada \ como fuera de passion \ al ser-
+uicio de vuestra merced: pues con tanta esta \ quanta la[ ]so-
+bra dela razon le obliga. Ay le embio con gran pesar
+vn lienço con obra de seys gotas de sangre \ que aquella
+hermosa señora aqui me dexo \ para que a vuestra mer-
+ced embiase: bien creo no auer cosa enla vida que la ora
+de agora mas contento le cause que el: y huelgo por ser de
+mi mano embiado \ por causar algun contentamiento \ a
+quien tantos me a causado \ sin auellos seruido \ saluo es-
+tar aparejada al seruicio de vuestra merced \ como muy
+cierta.:.
+¶ Seruidora.:.
+{RUB. ¶ Exclamacion.}
+{IN5.} O Fuerte desuentura mia. O penoso cuydado.
+O esperança sin remedio. O recreacion sin
+d<e>le yte algu<n>o. O cuerpo mio do<n>de ta<n>tos gene-
+ros de males se encierran \ que sera de mi \
+sin mi señora \ do<n>de la podre yr a buscar \ q<u>e}
+[fol. 26r]
+{CB1.
+piense hallalla \ que mis enemigos son grandes \ y pode-
+rosos / y tienen de mi sospecha. Ay d<e> mi sin ti señora mia \
+donde estas tu agora \ como ternas mucha razo<n> d<e> llamar
+me sin fee \ ni sin ley \ pues no aguarde alas puertas don-
+de estauas \ y te quite de manos de tus matadores \ y mi-
+os. Mas ay de mi que si esto hiziera \ macular a su fama \
+que ella en ta<n>to tenia: do<n>de me vale mas morir como mue-
+ro \ que no enojalla. O claudia saturnina si d<e> mi mal supie-
+ras \ como segun lo que padezco y he passado \ no me des-
+deñaras para ponerme enel numero delos perfectos he-
+namorados. Qual Dido \ ni qual Julia \ qual Eliçe \ ni Ci-
+la \ a mis males & infortunios ygualara? Ninguna porci-
+erto: que todas estas \ si infortunios en sus amores passa-
+ron \ gozaron de quien bien querian. Mas ay de mi sin
+bien \ pues fuy de mi señora priuado \ que nunca dos ho-
+ras en tanto tiempo \ goze de su conuersacion. O coraço<n>
+mio como te suste<n>tas \ que es tu pensamiento \ que ymagi-
+nas \ porque no tienes compañia Atriola \ que viendose
+priuada de su ama<n>te \ co<n> sus propias manos sus pechos
+abrio y hecho mano de su abrasado coraçon y assi espi-
+ro. O falso de mi porque no la siguo \ no sino que no mo-
+ra en mi fee \ como enel mas falso amador d<e>los nacidos \
+que si morasse \ y esta no me combida a hazello \ mouiesse
+me el fuerte Nutriano: que siendole su amante Ciercea \
+arrebatada d<e> sus ojos \ viendo ser impossible auella \ por
+que vn Uestiglo se la auia arreb(o)[a]tado d<e> sus braços \ y la<n>-
+çado conella ene l hondo pielago del mar: saco sus ojos
+que fue la causa primera de amalla \ y tras esto se lanço
+en la misma mar \ por yr a buscalla \ lleuandole su fee \ don-
+de perescio \ haziendo fin como verdadero amante. O
+amor dexa me ya d<e> tus vanas espera<n>ças \ d<e> tus inciertas
+señales \ de tus varias bueltas \ de tus importunos cuy-
+dados \ y de tus vanos dones \ rodeados d<e> laços tan sa-
+brosos \ quanto ciegos \ para los que te siguimos \ afloxa}
+{SG. D ij}
+[fol. 26v]
+{CB1.
+ya tus prisiones dexa mi libertad \ para que ganando fa-
+ma \ como otros que mas fee tuuieron que yo \ sea entre
+ellos nombrado \ sacrificando mi lastimado cuerpo ala pe-
+nosa ausencia de mi señora. O bien mio como muero en
+ver todos mis miembros tullidos: como se me va acaban-
+do el huelgo \ como el animo me falta. O d<e> vil coraço<n> mio
+esfuerça esfuerça \ que agora es quando animo he menes-
+ter \ para das alos mortales a[ ]conocer \ q<ue> merescia mi[ ]se-
+ñora \ sacrificandote a boz de pregonero por donde mas
+se sepa mi mal sea de saber \ y desaue<n>tura \ que por gloria
+sustento: como hizo aquel perfecto preso de amor Julio d<e>l-
+phico \ quando fue de los porteros lançado del senado ro-
+mano por amador: que ala mitad del pueblo romano a bo-
+zes subidas magnifiesto \ la gloria que de tal caso resce-
+bia: tiniendolo otros por vituperio \ dio vn gran golpe co<n>
+vn puñal en sus pechos \ nombrando a su amiga del( )bora
+la car(ta)( )thaginesa \ se abrio el coraçon por medio y cayo
+muerto ante todos. Este tuuo esfuerço de perfecto ama-
+dor que no yo misero sin ventura. O entendimiento mio q<ue>
+es de vuestros pundonores \ donde estan vuestras sutile-
+zas. O razon como me faltas al tiempo que tanto menes-
+ter te auia: no sino que faltandome mi señora \ luz refulgen-
+te de mis lachrimosos ojos \ me faltaron todos los senti-
+dos \ porque no pudiesse sentir mi gran perdida. Mas ay
+de mi que me aprouecha ro<m>per el ayre co<n> mis clamores \
+pues nin( )gun bien espero: que si tales: y fabricio: y cipia-
+na \ la vnica amadora quexa<n>dose de amor como los auia
+parado \ fueron socorridos \ no terne yo la ventura q<ue> he-
+llos tuuieron. Y ay de mi[ ]sin remedio alguno \ pues otro
+no tengo saluo morir. Y pues siempre de lealtad no pudo
+sino bien suceder \ quiero guardando sus limites embiar
+antes que me parta relacion de todo lo passado ami gran
+amigo. Ho. orz. Y como quien tanto de mi mal se dolera
+pedille[ ]remedio \ y auiso como quien libre de passion esta-ra:}
+[fol. 27r]
+{CB1.
+por ventura aclarara el camino de mi consuelo \ que ta<n>
+ciego le hallo \ quanto yo estoy de sobra de passion \ de q<ue>
+rodeado me hallo: y para esto sera bueno escreuille assi.:.
+{RUB. ¶ Carta. de. Ju<an>. de. s<egur>a. Para su
+leal amigo. Ho. orz. pidiendole
+consuelo sobre sus amores.}
+{RUB. ¶ Señor.}
+{IN6.} DJze aquel sabio Xenocrates en verdadera
+amistad consistir \ bie<n> y mal por vn ygual par-
+ticiparse: y como enlas cosas do<n>de se podria
+algu<n> plazer rescebir \ dellas mi verdadero (a)
+amigo aueys sido participa<n>te: agora delas q<ue>
+tanto me lastima<n> \ no quise d<e>xaros dellas fue-
+ssedes sabidor. Y alos dias passados os di parte de vnos
+dulçes amores \ q<ue> auia en( )prendido \ y diziendos el fin de-
+llos \ no di lugar a v<uest>ras sabias amonestaziones. No me a
+salido como quisiera: a cuya causa estoy alo vltimo de mi
+vida llegado. Ay os embio todo el processo de mi gloria \
+y desue<n>tura: mas p<ar>a cu<m>plir con v<uest>ra amistad \ q<ue> para q<ue> me
+escuseys \ del camino q<ue> tengo come<n>çado \ do<n>de pie<n>so dar
+fin a mis miseros dias. Pues dios os doto d<e> ta<n> polido sa-
+ber merced me hareys[ ]me escriuays \ vie<n>do todo lo passa-
+do si me sobra razo<n> \ p<ar>a hazer lo q<ue> hago \ y sustentar el nu-
+mero de dolores que sustento. Y sobre todo vuestro auiso
+me embia \ con el qual rescibire tanto contentamiento \}
+{SG. D iij}
+[fol. 27v]
+{CB1.
+quanto sin el me hallo \ viendome priuado dela luz de mis
+ojos \ que es mi señora: y no mas de quedar como sie<m>pre
+estuue por vuestro.:.
+¶ Jntimo amigo.:.
+{RUB. ¶ Al dichoso y desdichado / al
+sin ventura y ve<n>turoso / su intimo
+salud embia.}
+{IN5.} UJsto en quanto la fortuna os auia subido: y
+sin perder nada delo ganado \ en quanto
+vuestra desdicha os ha baxado: como quie<n>
+vuestras cosas mi verdadero señor en el a-
+nima siente \ no puedo sino gozar d<e>lo vno \
+y aguar con lagrimas de tristeza lo otro. Que bien pudie
+ser mayor q<ue> el auido? Que mal puede venir q<ue> en gran par-
+te le yguale? ninguno. Luego si el bie<n> es ecessiuo \ este no
+perdiendose \ qual quiera acidente mi señor que os ve<n>ga
+de pesar \ le aueys con vuestro animo generoso de sobre-
+lleuar: pues no discrepando delo principal dela rayz y ci-
+miento de vuestra gloria \ todo lo acessorio es de poca in-
+portancia \ que como de cosa poca no se deue de hazer ca-
+so dello: Y si la ausencia dezis q<ue> os atormentara mucho \
+pensa que en semejantes negozios \ serie mas que biena-
+uenturado el que no la padesciesse \ por espacio de algun
+tiempo. Quanto mas que este cruel \ que tan dulçe se mue-
+stra \ al mejor tiempo haga en semejante gualardon. Y pu-
+es señor soys la fuente de donde sale el saber y consejo[ ]pa-
+ra[ ]todos \ nos falte agora: en gastandole de çufrimiento \
+pues[ ]tanto al presente es necessario. Y mira en todos los
+passados \ cuyas historias se aueys visto \ si algu<n>o huuo \}
+[fol. 28r]
+{CB1.
+que enel fi(l)[n] le durasse la balança de su gloria. Y pues no \
+gran consuelo es para vos señor \ que os llegueys y con-
+formeys con los muchos: tinendo en mucho los fauores
+passados / comprenda cierta \ y tanto delo que esperays
+Y eneste trance aduerso sentille como discreto \ avn que
+perdays mucho \ no perdiendo nada. Y pues[ ]de vuestros
+fauores y penas me aueys querido dar parte ≺lo qual ten-
+go en gran merced≻ no puedo sino rogar a dios perseue-
+re el fauor de vuestra gloria \ & y las penas sentillas total
+mente \ y no en parte. Y para que tomeys algu<n> consuelo \
+y exemplo para vu[e]st(e)ro trabajo \ ay os embio los amo-
+res d<e>l leal amador Luzindaro \ y la hermosa Medusina
+que conesta obra en el griego juntos estauan \ con q<ue> creo
+gran deleyte sentireys \ y aliuio muy gra<n>de para vuestro
+mal: sabrosa letura es \ y muy conforme alo que aueys pa-
+sado en vuestros penosos amores \ plega a dios os suste<n>-
+te la vida \ para que de tanto trabajo \ algun descanso sin-
+tays \ libre de tal ponzoña: y no mas \ de quedar como sie<m>-
+pre me aueys hallado por vuestro.:.
+¶ Jntimo amigo.:.
+{RUB. ¶ Fin.:.}}
+[fol. 28v]
+[fol. 29r]
+{CB1.
+{RMK: HSMS-0587-0002: Queja y aviso contra amor.} {ILL. {MIN: VENUS.}
+¶ Quexa y auiso de vn ca-
+uallero llamado Luzindaro \ contra amor
+y vna dama \ y sus casos \ con deley-
+toso estilo de proceder \ hasta el
+fin de amos: sacado del esti-
+lo Griego en n<uest>ro caste-
+llano por Juan d<e>
+Segura.
+Dirigido al magnifico señor Galeazo rotulo
+Año .M.D. y .xlviij.:.}}
+[fol. 29v]
+{HD. ¶ Prologo.}
+{CB1.
+{RUB. Dirigido al manifico señor Ga-
+leazo rotulo mi señor. &c. hecho
+por Juan de[ ]Segura.}
+{IN5.} DJze Marco varron mag-
+nifico señor: ningun daño ser tan grande qua<n>-
+to es el del tiempo perdido en ociosidad. Y
+como este excelente varon ymita<n>do a otros
+muchos \ o muchos ymitandole a el: tanto[ ]d<e>
+mal desta mala simiente ayan hablado: mirandome ami
+halle ser vno \ delos que mas esta mala ponzoña an beui-
+do: gastando mi tiempo en tan malas obras \ quanto a no
+ser por la dulçe conuersacion de vuestra merced \ no esti-
+mara en mucho ser del todo en este profundo pielago a( )ne-
+gado: mas quiriendo en algo ymitarle recogime a hazer
+cosa \ que avn q<ue> enella no acierte \ costriña ala vieja cos-
+tu<m>bre a mudarse. Y assi toma<n>do la pluma enla mano \ no
+sabia aque de terminarme \ com(a)[o] dezia aquel excelente
+Socrates. Que seria el principio de mi virtud: y como la
+fuerte juue<n>tud siempre en casos mas trabajosos \ y a ella
+mas dulçes se ocupe: assi yo siendo secaz de aquel que en-
+tre los mortales por dioses tenido ≺qua<n>to a sus apetitos≻
+viendo me del desfauorecida co<m>puse esta pequeña ficio<n> \
+por tener ocasion del dezir \ algo delo mucho que a sido
+causa para que del dixesse \ segun que comigo a obrado.
+Y como ninguna cosa pueda ser bien examinada \ sino de
+aquel que por expirencia por tales casos ha passado. A}
+[fol. 30r]{HD.Prologo(r)}
+{CB1.
+si como a buen maestro dirigi al subtil engenio de vuestra
+merced esta obra: para que en ella po<n>ga su dilicada lima:
+para que sie<n>do puesta \ pueda darse enxemplo alos que ve-
+lla querran \ y tomar della la espuma que d<e> tales cosas to-
+mar se suele: que avn que como costumbre antigua quiera<n>
+morder y detraer enesto lo que querran \ no tengo pena.
+Pues se que ninguna cosa \ segu<n> dize el sabio puede auer
+sin reprehension. Y si algun escudo esto ha de[ ]tener es el
+pinzel con que vuestra merced lo a( )delgazara \ como[ ]le
+suplico ≺como a señor pues como a tal escriuo lo haga≻ pa-
+ra que pueda brotar este pequeño pimpollo salido de ar-
+bol tan sin fructo.:.
+{RUB. ¶ Uale.:.}}
+{SG. E ij}
+[fol. 30v]
+{CB1.
+{RUB. ¶ Comiença la obra.}
+{IN5.} UN rey fue en Grecia gran
+sabio enlas artes \ el qual auia vna hija es-
+tremada en hermosura \ ala fama dela q<u><<a>>l
+de todas las partes del mundo acudian a
+su corte: y entre muchos principes y reyes
+que de cada dia venian \ entrellos vino el principe Gari-
+naldo \ hijo del rey de Albania \ el qual en[ ]uiendola fue ta<n>
+presso de su amor \ que no auia dia que por su causa no fue-
+ssen del muchas justas y torneos mantenidas \ y tanta[ ]fue
+la passion y astucia q<ue> el amor a este hermoso principe dio \
+que fue su pena bastante a ser sentida y sabida dela infan-
+ta \ la qual desde entonzes puso tanta aficion con el \ q<ue> ya
+las muestras de su rostro le demostrauan el amor que le te-
+nia. Y el rey su padre como tan sabio fuesse \ y de contino
+velasse sobre su querer \ alcanço a saber el aficion que en-
+tre entramos era \ y acabadas vnas justas que el princi-
+pe mantenia: siendo ya el tiempo en que Diana reynaua
+en su media zona \ haziendo sus conjuros y sinos \ entro a
+donde la infanta estaua \ y tomandola entre sus braços la
+puso muy lueñe \ en vn castillo riberas dela mar cerca de
+las asperezas del monte Tarsino \ y enca<n>tole de tal suer-
+te que nadie en[ ]el entrar no pudiesse: y dexandola deste ar-
+te ya que el alua rompia a su ciudad llego \ sin que nadie le
+sintiesse \ y viniendola ora que la infanta leuantarse solia \
+las damas entraron en su aposento para auella de dar[ ]de
+vestir \ & como no la[ ]fallassen \ començaron hazer gra<n>des
+llantos \ alos quales mucha gente acudio: y como por el
+palacio se dibulgase su perdida \ no falto quien al rey selo
+dixesse: el qual fingiendo otra cosa delo que sabia \ comen-
+ço a embiar por muchas partes mensageros \ para que}
+[fol. 31r]
+{CB1.
+los caminos atajasen \ porque era sospecha que vn jayan
+que alas justas auia venido \ siendo gran magico por la
+deshonrra q<ue> enellas auia rescebido \ auia querido hazer
+este sin sabor al rey: el qual auiendo fecho estos mensage-
+ros \ manda cubrir su palacio de luto \ mas si mucho pesar
+y tristeza todos mostraua<n> \ mucho mas la sentia aquel ena-
+morado principe \ el qual sin dezir cosa \ ni fablar a[ ]nadie \
+se parte dela corte \ como desesperado \ y llegando a su
+reyno \ hallo que su padre era muerto \ y vino le bie<n> para
+la tristeza que consigo lleuaua \ y manda que su palacio y
+corte demostrasen. \ el descanso que su penado coraço<n> sen-
+tia: y vn ayo que desde pequeño le auia criado \ como tan
+sin alegria le viesse: y que de noche ni de dia \ no era otro su
+oficio sino gemir y llorar \ cre yendo que otra fuesse su cuy-
+ta \ mas que la muerte de su padre \ a sus pies se hecha: y
+con gran vehemencia le suplica \ su[ ]pena le fuesse a el ma-
+nifiesta \ pues sabia que rescebiria el tanta parte \ quanta
+la su merce rescebir podria. El principe como tuuiesse mu-
+cha aficion a este anciano cauallero \ no dexo de d<e>scubrir
+le toda su pena desde el prencipio \ hasta enlos terminos
+que al presente estaua: y el anciano cauallero como fuesse
+sabio y sagaz enlos casos de amor \ no curo de responder
+le \ por ver ser escusado: antes le dize que si de la infanta y
+su fortuna queria ser sabidor \ que se partiesse al reyno de
+Otes \ que alli hallaria ala gran sabia Acthelasia \ que le
+daria relacion de todo lo que desseaua: el no aguardo a-
+mas \ que tomando al anciano cauallero ensu compañia \
+con vn escudero encubiertamente dela triste ciudad sale<n> \
+y como fuesse poco el camino \ en poco tiempo llegaron \
+donde aquella gran sabia estaua \ el principe le descubrio
+aque su venida fuesse: y ella en breues palabras dio respu-
+esta a su demanda diziendo. Ualeroso principe podeys
+perder toda espera<n>ça de ver a essa infanta \ porq<ue> ella aya
+passado desta misera vida \ el apassionado amador quan-do}
+{SG. E iij}
+[fol. 31v]
+{CB1.
+estoy oyo \ quedo tal como muerto \ y no aguarda<n>do a
+que la sabia mas le dixesse \ despidiose della y se torno asu
+reyno a do<n>de biuio sie<m>pre en vida muy triste \ por lo que la
+sabia dicho le auia: la qual como supiesse lo que auia passa-
+do y alcançasse por sus artes a saber \ donde la linda infa<n>-
+ta Medusina estaua ≺que ansi auia nombre≻ partiosse pa-
+ra su castillo: y como supiesse los oraculos signos y plane-
+tas del infante Lucindaro hijo del rey de Ectiopia que
+ensu poder tenia \ hizole en sueños aparescer el retrato d<e>
+la linda infanta y como del fuesse visto \ fue tan presso desu
+amor \ que ya vsando del dulçe rigor del \ no pudo mas so-
+segar: esperando la deleytosa Aurora con la qual algun
+descanso pensaua rescebir \ mas venida sintio[ ]la pena do-
+blada \ oyendo las denuciaderas aues del resplandecien-
+te sol: y enesta pena estuuo muchos dias hasta que ya no
+pudiendo se sufrir dio parte della a aquella gran sabia \
+que por madre tenia \ la qual como mejor que el la supies-
+se consolole lo mejor que pudo diziendole: que si pacie<n>cia
+tuuiesse que ella le pondria enel lugar donde aquella her-
+mosa dama estaua \ contal que no pudiesse donde ella esta-
+ua entrar \ mas de vna vez cada dia \ el termino que pues-
+to le fuesse: el se puso de hinojos ante ella \ y besandole sus
+manos le haze juramento de no salir de su ma<n>dado. Y la sa-
+bia le dixo que pues el auia de estar en aquel cabo ta so-
+litario: que ella determinaua de dalle A[ ]gariaje su sobri-
+no para que lo siruiesse : el selo agradescio mucho y le su-
+plica que la partida sea co<n> la mas breuedad que pudiere
+ser: la sabia le dize q<ue> siendo ora luego se partirie: y dando
+les sendos anillos enca<n>tados auie<n>do hecho sus conjuros
+en bre[ue] tie<m>po los puso de<n>tro del castillo del deleyte ≺q<ue> ansi se
+llamaua≻ y pustos alli con dulçes abraços dellos se parte
+diziendoles q<ue> con los dos anillos podria<n> entrar y salir en
+el castillo q<ue> enca<n>tado estaua ≺como arriba diximos[≻] \ ellos
+quedaro<n> co<n> mucha tris(i)[t]eza por ento<n>ces: mas era tanta la}
+[fol. 32r]
+{CB1.
+passio<n> q<ue> el bue<n> amador sentia \ q<ue> priuo ala dela ausencia d<e>
+(de)la gra<n> sabia \ y como d<e> cada dia sintiese doblada pena
+q<ue> hasta alli auia sentido \ y viesse venida la ora q<ue> auie de
+ver a su señora \ sin ningu<n>a dilacio<n> se la<n>ço do<n>de estaua ves-
+tida de p<re>ciosas vestiduras tañendo ta<n> suaue me<n>te en vna
+arpa \ q<ue> a todo hombre hiziera morir por su amor: y como
+viesse al hermoso cauallero fue turbada en[ ]demasia \ por
+q<ue> mucho tie<m>po auia \ q<ue> no auia visto p<er>sona alguna. y como
+entrasse \ pusose d<e> rodillas ante ella \ y co<n> gra<n>des sospiros
+le dize. Soberana señora si tu rectrato pre<n>dio mis se<n>tidos
+agora tu vista a muerto mi coraço<n> \ y como herrido del sin
+fee Cupido dela<n>te de ti me prese<n>to \ p<ar>a q<ue> con piadad \ mis
+q<ue>xas de tu soberana hermosura oydas sea<n>. La infanta co-
+mo estuuiesse ta<n> herrida \ d<e>l amor d<e>l principe Garinaldo \
+echo muy alueñe las palabras d<e>l leal amador \ y no le dio
+por respuesta \ sino q<ue> dela<n>te de su vista se quitasse. Y avn q<ue>
+esta respuesta la excele<n>te dama le dio \ no dexo de q<ue>dar he-
+rida del gra<n> cupido \ a causa dela mucha hermosura d<e>l d<e>s-
+co<n>solado ama<n>te: el q<u><<a>>l como viesse q<ue> sele auia acabado el
+termino d<e> estar co<n> su señora \ y mirasse su ta<n> cruel respues-
+ta \ desesperado q<ue>xa<n>dose co<n>tra el amor sale dizie<n>do. O q<u><<a>>n
+mejor me fuera la muerte \ pues biuie<n>do passo ta<n>tas \ qua<n>-
+tas de mostrar mi sin alegria coraço<n> no puede. O mi seño-
+ra q<ue>no me q<ue>xo de ti \ sino de mi \ pues por mi poco mereci-
+mie<n>to \ ta<n> aspera respuesta d<e> tu gra<n> hermosura alca<n>çe. O
+bie<n> aue<n>turado macias q<ue> tal no<m>bre te puso \ pues te llamo
+engañador. O q<u><<a>>n mal miraste comigo lo q<ue> a otros al prin-
+cipio sueles p<ro>meter \ y dalles por espera<n>ça. Mas ami[ ]sin
+ve<n>tura disteme señor por espera<n>ça dolores \ por espera<n>ça
+cuydados \ sin tener porq<ue> tenellos \ pues nu<n>ca pe<n>se sino e<n>
+q<ue> te agradar. O traydor bien sabias quando me herriste
+por segu<n>da vez. q<ue> estaua lisiado sin vida d<e>la p<r><<i>>mera. Y si[ ]es-
+to sabias \ p<ar>a q<ue> me mostraste ami señora co<n> ta<n> hermosa cru-
+eldad. Pues traydor como dira<n> lo q<ue> dize<n> ta<n> falso algu<n>os
+y por ta<n> verdadero te<n>ido \ q<ue> tu no<m>bre es d<e> piadoso \ no fal-so}
+{SG. E iiij}
+[fol. 32v]
+{CB1.
+ciego engañador \ que tu no<m>bre no es otro \ sino padre
+de crueldades \ rayz de dolores simiente de ponçoña \ ho-
+ja de cedro \ y rama de espino: estos son tus nombres fal-
+so engañador \ q<ue> no manso \ y piadoso \ señor de señores \
+rey de reyes \ mas[ ]se( )gun yo llamote falso ciego d<e> ciegos \
+y cabeça dela ponçoñosa cabeça medusea. Que te podre
+enemigo mio llamar? & que por mas que trabaje en darte tu
+nombre veo no poder de tu vergue<n>ça con( )cluyr con el que
+mejor te quadra \ que es botica d<e> passio<n> \ do<n> delas medeci-
+nas que de ti salen \ son ponzoñosas q<ue>das[ ]por[ ]remedios \
+alos que al fin de su trabajo te piden descanso: y para dar
+sale abres vn bote \ y dasles vna medecina de colo(o)r de
+tu colo(o)r que es encarnado. O quien pudiesse fementido
+quexarse bien de ti \ pues nadie tuuo la razon que yo para
+hazello de ti tengo: sino que la naturaleza me formo tan sin
+ventura \ que no creo poder començar so la mente a d<e>zir
+lo que en ti ay: mas pidiendo fauor a tus contrarias la cas-
+tidad & simpleza \ dire no tanto como enti \ y de ti dezir se
+podria. Confiessas te por justiciero ve<n>iuolo y piadoso. Di-
+me que diras del pago que diste a Philirides siendote ta<n>
+leal \ mas de por nueue años que siruio a su diosa \ que el
+llamaua Yphedra: le hiziste sacar sus ojos y presentarse-
+los \ porque dezia que no tenia con el otro enojo \ sino por
+ellos \ y el viendo esto selos embio: dime traydor por[ ]quie<n>
+sino por[ ]ti? Pues que me diras de Philes \ que le hizis-
+te hazer por su señora. Que falso sin fee d<e> aquel venerable
+mancebo Jphis \ que se colgo dela puerta de su amiga A-
+naxarete. Pues dime que pago diste aquella tan nombra-
+da e[ ]mi(r)serrima Dido. Si eres cruel dios de crueldad \
+mira que hizo porti aquel ati semejante en maldades rey
+Thereo. Y no contento conesto mira el mal que causaste
+en Prone su muger: pues por cumplir con el amor que
+tenia co<n> su hermana Philomena le dio a comer a su hijo
+Jtis. Mira que hizo porti Theseo por Fromena. Mira}
+[fol. 33r]
+{CB1.
+que pago diste a Fedea pues por amor de su amado Ypo-
+lito \ en piedra la tornaste. No te quiero falso amor mas
+enxemplos traer \ por no te honrrar \ por auer tenido po-
+der contra tanta gente \ en el mundo nombrada. Mas[ ]ay
+demi que el mal que eneste modo de maldezirte hallo pa-
+ra mi es \ ver que quanto mas de ti digo \ mas leña echas
+amis crueles fornaças de fuego de amor: y su vapor haze<n>
+distilar de mis pequeñas fuentes \ el dulçor que me causa
+la vida que es mia \ siendo muerte \ de todos los que son
+dignos de su[ ]resplandeziente rostro ver. O quien tuuiesse
+fuerças \ y libre estuuiesse \ para quexarme del mal ami ta<n>
+sin causa hecho. Y es mal de mi querer tan contrario \ pa-
+ra mi esperança \ que el artifizio que para esto po<n>go \ esse
+mesmo haze en mi tal obra \ qual dara testimonio mi plu-
+ma \ enlo que pusiere \ por causa dela que lo ha sido para
+mi desesperacion. Desesperacion que en mi se aposenta \
+para resultar la falta que en mi siempre mora \ por morar
+en mi el refrigerio ≺q<ue> no para mi≻ en su hermoso rostro \ si-
+no para otros \ que con mas ventura hallo que yo: sin se-
+llar mi pena fino con mi fee \ que esta es el arma que mas
+en mi coraçon resistencia muestra \ para sostenerme \ por
+ser dela que nadie no merescio \ sino fue aquel sin par Jo-
+cates primor de amadores: ay: ay: ay. Dime que no pue-
+do dexar de quexarme del que puede remedir mi pena \ y
+acrecentar mi gloria: mas ay de mi que viendo el mal que
+en mi esta aposentado \ por causa de ta<n> cruel señor \ no pue-
+do dexar de quexarme \ como con razon me quexo : pues
+siguiendole me dio el pago que dio ala misera Mira \ que
+encendida enel amor de su padre tuuo echados los lazos
+para dar fin a su vida. O Uenus(a) piadosa ama desta seño-
+ra que pe<n>sando la remediar \ con quitarle esta muerte \ le
+diste otra mayor que fue gozar del amor de su padre \ y tra-
+helle a el engañado como mucho tie<m>po le truxiste \ p<ar>a des-
+pues co<n> feroz mano hazelle perseguir a su hija \ hasta ha-zella}
+[fol. 33v]
+{CB1.
+tornar en arbol de ta<n>to conocimie<n>to \ como el es \ q<ue>
+de co<n>tino llora el mal q<ue> tu le causaste. Pues q<ue> dire de Pe-
+lopea co<n> su padre Thiestes. Que cruel co<n>tra mi de Nicti-
+mene co<n> su padre Nicteo. Mira falso sin fee q<ue> causas. Y
+a de mi q<ue> todo esto q<ue> te he traydo ala memoria q<ue> causaste
+no causo a ningu<n>o destos ta<n>to dolor como ami as causado
+no se q<ue> te mereci p<ar>a q<ue> tanto mal en mi quisiesses encerrar
+no hallo otra causa p<ar>a esto \ mas q<ue> no quisiste dexar d<e> exer-
+citar comigo la costu<m>bre q<ue> de co<n>tino acostu<m>bras tener con
+los q<ue> te sigue<n>. O Pa<n>dio<n> q<ue> tu cuyta no fue ta<n>ta \ qua<n>to es la
+mia ni co<n> ta<n>ta razo<n>. O Diomedes \ o Agameno<n> \ q<ue> no fue
+ta<n>ta v<uest>ra passio<n> \ qua<n>ta fue la mia: q<ue> si a vosotros os quita-
+ro<n> v<uest>ras mugeres \ y despues por ellas v<uest>ros dias fenecis-
+tes \ nos podreys comigo ygualar en tener razon: porq<ue>
+yo biuie<n>do muero dos mil muertes cada m(e)[o]me<n>to \ y veo
+alos ojos q<u><<i>>tar de mi por su volu<n>tad \ la p<r><<i>>ma de gracia \ y
+hermosura q<ue> es mi señora. O Egiola \ o Clitenestra q<ue> no
+fue ta<n>ta v<uest>ra crueldad p<ar>a co<n> v<uest>ros maridos \ qua<n>ta es la q<ue>
+mi señora muestra vsando della co<n>tra m( )i: q<ue> vosotras t( )uui[s]-
+tes razo<n> pues ta<n>to t<iem>po ta<n> alo<n>gados v<uest>ros maridos[ ]tuuistes
+mas mi[ ]señora q<ue> tinie<n>do dela<n>te vn ta<n> captiuo suyo \ por te-
+ner no<m>bre de cruel \ husa comigo lo q<ue> huso \ no me puedo
+co<n>solar: porq<ue> avn q<ue> quiera t( )omar co<n>suelo co<n> aq<ue>l sin ve<n>tura
+dios Apollo por lo q<ue> le passo co<n> su q<ue>rida Daph(a<n>)[n]e \ no[ ]pue-
+do por ser mi dolor mas mortal q<ue> el suyo: q<ue> si el veya a su
+señora desde lexos \ y nu<n>ca podia llegar: y desto se q<ue>xaua
+triste ya q<ue> ya q<ue> llegue llego p<ar>a mas p<er>derme \ q<ue> si el tenia es-
+pera<n>ça q<ue> en llega<n>do gozaria de sus dulçes amores \ triste
+sin ve<n>tura yo q<ue> no te<n>go essa espera<n>ça \ mas te<n>go la isperie<n>-
+cia q<ue> en llega<n>do ami señora \ sere la<n>çado peor q<ue> lo (s)[f]ue Fe-
+reo<n> de su hermana Astocaçia. Ay sin ve<n>tura q<ue> qua<n>to mas
+me meto en q<ue>xar \ ta<n>ta mas gloria hallo e<n> mis penas \ por
+passallas por[ ]quien las passo \ pues passo mas q<ue> passo aq<ue>l
+poeta alema<n> primer inue<n>tor d<e> ca<n>çio<n> de amor \ por aq<ue>lla fa-
+mosa do<n>zella. O si tuuiesse remedio de estar libre p<ar>a mas}
+[fol. 34r]
+{CB1.
+me aprisionar en dulçes hablas de mi señora. O amor pu-
+es me pre<n>diste librame \ y flecha mas tu furibundo arco
+d<e>spues co<n>tra mi \ mas no osas falso soltarme pe<n>sa<n>do que
+pues te conozco no quiera boluer mas ati: no pie<n>ses ta<n> fal-
+sa cosa pues me pusiste en lugar q<ue> tanto mi pena dessea ser
+mas \ p<ar>a tener mas razo<n> de mas q<ue>xarme de quie<n> me q<ue>xo.
+O sin lealtad pues te ve<n>des por lo q<ue> aq<ue>l falso Jano inue<n>to
+como hazer quisiste a aq<ue>l gra<n> Demostenes co<n> Thays \ el
+qual al fin te dio el pago dizie<n>do a Jupiter. O Jupiter no
+co<m>pre por ta<n> caro precio el arrepe<n>timie<n>to. Pues mira fal-
+so sin lealtad como esta en quien pusiste mas fuego por su
+hermosura \ por precio se quiso ve<n>der \ por tener co<m>pañia
+a otras muchas \ y por[ ]dar d<e> ti alos q<ue> despues viniessemos
+el perfecto conocimie<n>to \ q<ue> de ti deuiamos tener. Mas ay
+pormi solo quiero dezir \ q<ue> no solame<n>te por precio le q<ue>rria
+co<m>prar \ p<ar>a co<n> mi señora \ mas darte precio q<ue> fuesse digno
+de tal merced \ como hazer me querido sieruo della.
+Y el precio q<ue> como perfecto amador te ofrezco es. Lo pri-
+mero mi coraço<n> \ ofrezco te mi vida a tu seruicio \ darte he
+mis ojos p<ar>a q<ue> riege<n> tu deleytoso desseo \ mi boca p<ar>a que
+diga tus loores \ mi pecho p<ar>a q<ue> aposentes tus llamas con
+sus hornazas \ p<ar>a q<ue> salgan dellas \ las muestras q<ue> tu dul-
+çor en forma de penas saca \ el vaso de mis entrañas p<ar>a q<ue>
+puedas hazer lugares de crueldad mie<n>tra mas siruiere \
+mi q<ue>rer p<ar>a q<ue> como mas sutil sie<n>ta tu gloria q<ue> tienes en ha-
+zer mal alos q<ue> leal me<n>te te sirue<n> ≺q<ue> no<n> alos (a)[o]tros≻ por q<ue> los
+quieres ceuar \ y mi memoria p<ar>a q<ue> rete<n>ga los hechos tan
+crueles co<n>tra tus secaçes \ mi ente<n>dimie<n>to dexare libre \
+p<ar>a poder sentir la crueldad tan sin causa q<ue> mi señora comi-
+go vso. O fin fee q<ue> co<n> todo qua<n>to te ofrezco \ y te te<n>go ofre-
+cido te me muestras cada credo mas cruel \ o semeja<n>te yo
+ala Salama<n>dria pues co<n> fuego de mi q<ue>rer me alime<n>to \ y
+estoy ta<n> acostu<m>brado a esto \ q<ue> ya no me ap<ro>uecha vsar del
+mantenimie<n>to del Camaleo<n> \ porque mie<n>tra mas frescor}
+[fol. 34v]
+{CB1.
+entr( )a en mis entrañas tanto mas arde mi pena. O gran
+sabio y como dixiste bien \ pues dixiste \ que no ligerame<n>-
+te se puede el hombre apartar del exercicio a q<ue> vna vez se
+a dado \ avn q<ue> por ello se aya visto en muchos peligros:
+no por otro gran sabio aq<ue>sto dixiste sino por mi \ q<ue> avn que
+me a puesto este peruerso amor tantas vezes al[ ]cabo de p<er>-
+derme \ estoy tan acostu<m>brado a tener llamas de biuo fue-
+go e<n> mi \ q<ue>no puedo tomar modo para buscar la medicinal
+medicina para esto: porque quandola quiero buscar \ ha-
+llo me ya tan al cabo \ que he por bien de fenezer \ por qui-
+en todo mi tiempo he gastado \ enella pensando. O luzero
+resplandeziente de mis ojos \ moueos ya auer piadad d<e>
+mi \ pues me aueys dado el pago \ q<ue> mi mal hazer meres-
+cia \ en atreuerme a[ ]presentarme delante de vos \ no mi-
+rando lo que tanto deuia mirar \ que era v<uest>ra grandeza y
+fermosura. Mira mi señora que avn el fabricador de to-
+das las cosas \ no quiere mas del q<ue> contra el se a mostra-
+do \ sino q<ue> se arrepienta. O mi señora que yo bien creydo
+tengo \ que no fuera tanta v<uest>ra crueldad \ para comigo \ co-
+mo mostrastes sino fuera por el peruerso cupido \ querer
+exercitar su antigua costumbre con este su ta<n> captiuo \ y pa-
+ra consolarme por refrigerio cantare vna obra de vn he-
+rido suyo que dize.
+¶ En vos contempla y adora
+La esperança de mi fee
+Soys mi bien vos mi señora
+Desde aquel momento y ora
+Que de vos tan presso fue
+Tan presso que yo no se
+Que tal es mi libertad
+Porque yo siempre sere
+Presso de vuestra beldad.:.}
+[fol. 35r]
+{CB1.
+{IN5.} Ny de mi catiuo sin esperança de remedio \ que
+lo que pense que tomaua por consuelo \ esso me
+ha dado passion doblada \ para mi deletacio<n>:
+no hallo cosa que remedio me trayga \ mas de
+quexarme \ de quien ha sido y es causa de mi
+mal. O peruerso amor que si muchas escusas me pones a
+todo lo que contra ti he dicho \ a esta no me podras respo<n>-
+der. Que escusa me daras alo que por ti hizo la peruersa
+Scila hija del rey Niso \ que como su padre cercado estu-
+uiesse \ del rey Minus de crecta \ vn dia se subio a vna to-
+re alta \ donde le vio armado de armas blancas \ y tu per-
+uerso de su vista la herriste \ & la heciste cortar a su padre
+la cabeça \ & presentarsela. Dime traydor que pago le dis-
+te / por tanto como porti se d<e>spuso \ sino hazella ser despre-
+ciada de su amante \ & abatida de toda la gente suya. O
+fementido que estos son tus pagos que das \ estas son las
+glorias que alos principios prometes \ sino que no te co-
+nocemos \ como nos sometemos debaxo de tu verde van-
+dera. O ciego falso como puedes tanto \ q<ue> tanto mal cau-
+sas. O con quanta razo($n)[n] te quexauas famosa Lucrezia
+diziendo. O tarquino superbo \ o excelente varo<n> no seas
+comouido d<e> tan brutal \ cosa como es el amor: mira señor
+que por vna gloria ≺que no re puede llamar propia mente
+gloria≻ da dos mil millones de dolores: o quan bien dixis-
+te \ prima del primor de castidad. O amor que vn mal tie-
+nes \ que quanto mas los que te siguimos de ti nos quere-
+mos apartar \ tanto mas nos en( )redamos. E pues esto es
+assi no dexes de vsar tu costumbre ≺que par( )a mi buena se-
+ra≻ y vsa con mi senora de tus mañas: para que pueda yo
+cantar \ lo que aquel famosisimo amador Macias canta-
+ua \ diziendo.:.}
+[fol. 35v]
+{CB1.
+{RUB. ¶ Mena.:.}
+¶ Amores me dieron corona de amores
+Porque mi nombre por mas bocas ande
+Entonces no era mi mal menos grande
+Qua<n>do me dauan plazer sus dolores.:.
+{IN6.} Y Avn agora por darme gloria los dolo-
+res que yo passo \ sie<n>tolos por mas gloria \
+que la gloria que resciben aquellos \ que es-
+tando gozando de sus señoras \ sie<n>ten auer
+alcançado el premio que sus trabajos[ ]mere-
+cian: mas deste tal tiempo por mi mal perdi-
+da tengo la espera<n>ça \ de sacar del lo que estos que dicho
+tengo sacaron: mas al fin de mi esperança \ no terne otro
+remedio mas de llamarme \ como avn agora me llamo \
+sepulchro donde esta sepultado el minero de passion: y do<n>-
+de esta encerrado el perfecto seruir de mayor amador q<ue> a
+sido ni sera: y assi quiero llamarme pues veo que prese<n>tes
+ni passados no an guardado la mitad delas leyes que vn
+perfecto amador a de guardar: yo triste sin consuelo veo
+auer passado por todas \ y miro ser de mi diosa \ y señora
+mas abatido y menos preciado \ que quantos amor tuuie-
+ron. O con quanta razon tengo muchas causas para que-
+xarme de ti falso amor \ y vna te quiero preguntar \ y por
+pregunta ponertela. Dime señor q<ue> es la causa ≺pues eres
+tan sabio maestro≻ porque vna dama que es seruida d<e> vn
+galan \ se huelga de dalle passion al cabo que ya le quiere
+pagar el amor que le es deudora por su seruicio \ dandole
+el fauor dela su dulçe boca: y dime porque dado este fauor
+lo vltimo sele niega / y nunca sele co<n>cede: esto en muchas
+se puede ver: pues dizen muchos herridos tuyos \ que da-
+do el fauor dela boca / seles concede el vltimo q<ue> muchas
+niegan. Dizes me sin fee que no eres contento de respon-
+derme \ por darme mas trabajo en alcançar la causa de}
+[fol. 36r]
+{CB1.
+llo:[ ]pues tu quieres & yo quiero rescebir deleyte co<n> el mal
+que me hazes: no te importunare mas enello: mas dexa-
+llo he para los que tu hierres \ y en mi compañia andar q<ue>-
+ran: por ventura con trabajo alcançaremos lo que co<n> mo-
+rir por tu seruicio dezir no nos as querido \ para que ente<n>-
+damos alas que de nosotros nunca fueron ni sera<n> jamas
+entendidas: saluo mi señora que d<e> mi lo es \ por causa de
+no dexar de dezir lo que muchos dizen \ que por no enten-
+der alas damas aquien aman \ no las siruen del arte que
+a sus volu<n>tades les es apacible tal seruicio ≺silo es por he-
+llos echo≻ y no me q<u><<i>>ero llamar ta<n> p<er>fecto en<e>l amor \ que sea
+mas sutil q<ue> tus heridos: mas quiero me llamar mas herido
+q<ue> qua<n>tos ha<n> sido: y por esto osso d<e>zir q<ue> ente<n>dido a mi señora
+q<ue> q<u><<i>>ere dar fin a mi biuir por auella seruido co<n> mi coraço<n> \ q<ue>
+por suyo te<n>go \ sacrificado asus torme<n>tos \ y t(a)[a<m>]bie<n> por glo-
+riarse que mato a quien pudo dar vida \ y no quiso sino ser
+entre todas llamada cruel: como lo fue aque lla no<m>brada
+Medea qua<n>do q<ue>mo a Creon y a su hija Glauca \ & mato
+a sus hijos y huyo de Jason. Otra soys vos reyna mia p<ar>a
+comigo en crueldad: que v<uest>ra beldad ha muerto mis senti-
+dos \ y[ ]a puesto mi dezir en silencio \ por no poder dexar
+de confessar \ lo q<ue> con tanta razo<n> a v<uest>ra grandeza he co<n>fes-
+sado. Y ay de mi q<ue> mi passio<n> sie<m>pre qua<n>to mas anda m(e)[a]s se
+dobla: y q<u><<a>>nto mas mi q<ue>rer quiero afloxar \ ta<n>to mas se me-
+te en crueles prisio<n>es: d<e> quie<n> si me quieres pregu<n>tar p<er>uer-
+so amor: de quie<n> meresce llamarse mas cierto amor q<ue> no
+tu: porq<ue> vsa d<e> tal no<m>bre mas q<ue> tu: q<ue> si tu hieres y das espera<n>-
+ças d<e> algu<n> desca<n>so \ al fin delos trabajos q<ue> passa vn ama-
+dor por[ ]quie<n> ama: puedete anda<n>do el t<iem>po d<e>xar \ co<n> mudar-
+se en otro lugar. Mas mi señora no da espera<n>ças \ sino d<e>
+co<n>tinos trabaxos y passiones \ y al fin por desca<n>so la muer-
+te: y segu<n> yo esta señora mia ≺pues tal vsa≻ se puede llamar
+p<er>fecta me<n>te amor \ como la llamo. O p<r><<i>>mer amor como co<n>
+razo<n> ay causa p<ar>a q<ue> d<e> ti me q<ue>xe: dime sin fee q<ue> pie<n>sas hazer}
+[fol. 36v]
+{CB1.
+de vno que tanto te a seguido \ & tanto te a procurado con-
+tentar como yo: respondesme \ que dar fin amis trabaxos
+& co<n> q<ue> con falso engañador \ con al cabo de ta<n>to tiempo co-
+mo a que te sigo \ auer hecho que mi señora me de por[ ]pre-
+mio menospreciarme. O diosa señora mia como as queri-
+do ser comigo semejante que fue Cadmo co<n> Biblis su her-
+mana \ que requiriendole de amor ella a el \ menosprecio
+Cadmo su carta \ y ausentose muy lueñe della \ y ella
+semeja<n>te ami le siguio muchos años\ & al fin como per-
+fecta amadora \ de lagrimas que derramo ≺como derra-
+mo.≻ Huuieron los dioses por bien de boluella en fue<n>te \
+do<n>de los perfectos amadores a vañarse van. Assi señora
+mia pues a ella me & comparado \ & tan al propio ≺pues
+de ti he sido desechado≻ & siempre tras[ ]ti ando \ diziendote
+mys passiones \ puniendote las delante \ tornandome fue<n>-
+te \ donde llamare a mi señora & co<m>pañera Bliblis \ & a
+ella me quexare \ dela tan ymensa crueldad que comigo
+a vsado \ & vsa la diosa & señora d<e>l amor. E vinie<n>do la ora
+que solia entrar auer a su señora fuesse a su aposento \ & fa-
+llola dando rezios gemidos de amor \ & como viesse en-
+trar a aquel que ella mucho amaua \ sintio alguna altera-
+cion. El se pone de rodillas ante ella / & sin ser ella parte le
+beso sus hermosas manos \ & como sobre si boluiesse \ mi-
+randole con ayrado rostro le manda \ que luego de alli se
+fuesse: y estando sin ningun sentido con mucha passion se sa-
+le & dize. O amor quan falso eres pues de contino das en
+los mas estrechos tiempos \ alguna manera de esperan-
+ça: para que nunca te dexen de seguir \ como ami sin ven-
+tura has hecho \ que ya que al cabo me viste \ hiziste ami
+señora que de mi se acordasse \ da<n>dome sus preciosas ma-
+nos enlas mias \ para que sintiesse lo que otro que yo no
+puede sentir \ pues siento lo que es el merecimiento de mi
+señora. E por mas mal que tu peruerso amor me hagas \
+no dexare de loarme como me loo \ en dezir que fue mi pe-na}
+[fol. 37r]
+{CB1.
+bastante \ a ence(r)[n]der el fuego que en mi ence<n>dido esta:
+y no se apaga ni se apagara \ antes quando en mas estre-
+cho me pusieres \ dire para mas gloria con mi pena resci-
+bir.:.
+¶ Digase mi bien andança
+Suene mi gran sufrimiento
+Ala gala del tormento
+Sufriendo sin esperança.:.
+{IN6.} Y Enesto me estremare mas que todos \ por
+que si algunos aman y an amado \ es porla
+espera<n>ça que tu sin fee amor les das: desto
+no me puedo yo loar \ q<ue> antes quanto mas
+ami señora siruo \ tanta menos esperança
+me das de conseguir alguna gloria suya: y
+esto no pormi ≺que no soy bastante a tanto merescer≻ mas
+por solo ser suyo tomo este atreuimie<n>to en dezir lo que di-
+go: y por mas que desfauorecido de contino este \ no dexa-
+re d<e> seruir y envejezerme en tal seruicio. Y no quiero otro
+fructo de mi pena \ mas de al[ ]fin de mi carrera poderme
+loar \ que muero por la mas agraciada y gentil dama \ q<ue>
+la naturaleza criar pudo: y al amor quexando me d<e>l[ ]dire.:.
+¶ Ay de mi desfauorido
+forçoso me es confessar
+Que este niño de Cupido
+Con arco muy estendido
+Me supo bien acertar..
+{IN4.} DE tal arte que mie<n>tras biuiere por gloria confes-
+sare \ que fuy de ti herrido \ por causa dela mas
+prima dama que ningun antiguo artifiziosa men-
+te pintar pudo. Que ala verdad no se puede lo-ar}
+{SG. F}
+[fol. 37v]
+{CB1.
+aquel gran pintor Apeles que debuxase tan linda figu-
+ra \ como es la que yo en mi coraçon dibuxada traygo pa-
+ra mi mal: y pues tal mal con[ ]tanta gloria no es mal sino vi-
+toria podello sufrir por mi señora quierolo passar y quexar
+me ≺como me quexo≻ de ti cruel amor \ pues tan al contra-
+rio me as dado los fines \ que con mi señora enlos princi-
+pios me prometiste. Mas ay de mi que con razon no me
+deuia quexar de quien tanto bien me hizo \ que fue darme
+osadia de poderme llamar amador de cosa tan delos mor-
+tales deseada \ p<ar>a ser seruida. O co<n> q<u><<a>>nta razo<n> tuuiera aq<ue>l
+primer inuentor de musica Amphion de quexarse de su ve<n>-
+tura si[ ]uiera ami señora: pues viera vn estremo tan al con-
+trario del suyo: que era con la dulçura de su musica \ fabri-
+car vnos tan altos muros como fueron los de Thebas \
+q<ue> por causa d<e>l amor q<ue> alos the( )banos tuuo fabrico \ y como
+co<n> ellos saliesse \ no falto quie<n> dixo q<ue> auia fabricado su mu-
+erte. Todo esto es al contrario en mi señora \ q<ue> con la dul-
+çura de su figura \ a puesto y fabricado en mi triste coraço<n>
+tales muros de fee \ que durara<n> mas que los Thebanos
+duraron: y al cabo que los auia fabricado no falto quie<n> di-
+xo \ que auia formado mi muerte y su gloria \ y que c(o<n>)[o]men-
+çaua enel mundo vna rayz a[ ]sembrarse \ y pre<n>derse enlos
+coraçones por tal señora \ que duraria hasta la fin \ como
+en mi durara. O como dixiste bien gran Tubal excelente
+musico \ pues todo esto que aqui he dicho \ dixiste por tu se-
+ñora la Melia: y pues tal ablaste diziendo que ella era d<e>
+la mas alta hermosura que criada estaua \ no te espantes
+que quiera[ ]dezirlo que tu dixiste por mi señora \ pues
+no solamente excede en hermosura a quantas en nuestros
+tiempos son criadas \ mas se criaran hasta el vltimo fin.
+Y pues esto es verdad mucho deuo d<e> gozarme \ en penar
+por tal diosa d<e> hermosura como peno: y pues el penar por
+mi señora \ a de ser diferente q<ue> la passion que por otra per-
+sona pasar se puede: no se espante nadie que cante de co<n>-tino}
+[fol. 38r]
+{CB1.
+al son de mis dolores \ lo que quexa mi coraçon ta<n> pe-
+noso diziendo.:.
+Mas amor no me consiente
+Espiriencia de tal modo
+Porque mi coraçon siente
+Uuestro d(e)[o]lor muy por todo
+Delos otros diferente.
+{IN6.} Y Pues ansi es ≺como lo es≻ no se d<e>ue nadie
+marauillar \ que mi rostro muestre la difere<n>-
+cia que deue tener \ alos que dize<n> te ner pe-
+na por causa de quie<n> siruen: pues al mi mal
+y gloria \ por[ ]parte de quien la paso \ nadie
+se ygualo \ ni [y]gualara \ pues tengo tanta(-)
+causa para que me sobre razo<n> para ello \ como me sobra.
+Y la passion que se allega a[ ]mas pena darme \ es ver que
+no puedo tanto penar \ quanto meresco que pene por cau-
+sa de mis altos pensamientos. O si como tengo tanta altu-
+ra en amar \ tuuiesse esperança alguna de ser remediado.
+Mas ay d<e> mi \ que mi penar es por demas \ pues veo no
+ser nacido ni nascera el que ami señora ha de merescer.
+Pues que consuelo tomar a vna persona de tan poco me-
+resçimiento como yo \ pormi \ quito del merescimiento d<e>
+mi señora \ y no hallo otro consuelo mas de consolarme co<n>
+muchos exemplos que e[ ]leydo \ de personas de gra<n>[ ]meres-
+cimiento \ someterse a personas muy al[ ]contrario de su[ ]ser
+y esto por causa del amor. Mas ay de mi que lo que tomo
+por co<n>suelo \ esso me co<n>dena mas: q<ue> si q<u><<i>>ero d<e>zir q<ue> muchos
+por amor se sometiero<n> a p<er>so<n>as baxas \ era<n> mortales: mas
+mi señora sin ventura de mi no lo es \ que su estremo de
+beldad \ de saber condicion y maneras \ dezime quien se-
+ra quien piense y( )gualar se le en[ ]todo el mundo \ no ay qui-
+en \ pues sobre todo es aquel mismo dios de amor \}
+{SG. F ij}
+[fol. 38v]
+{CB1.
+y silo es veldo claro pues no haze otras obras sino d<e> per-
+fecto amor: que es aquien sus relumbrantes rayos arro-
+ja \ y con sus basiliscos ojos mira \ que enfermedad mor-
+tal causa: y esto no solo ami \ mas a[ ]quantos estender quie-
+re su vista \ y no los quiero nombrar \ por no dalles tanto
+premio de su dolor \ en llamallos herridos de tal señora.
+E yo Luzindaro osso me nombrar por mi no<m>bre \ porque
+yo no soy mio \ sino d<e> aquella en quie<n> naturaleza esmerar
+se quiso \ para[ ]darme ami la gloria q<ue> rescibo en morir por
+ella. O mas que venturoso pues me puedo glorificar con
+mi pena \ passandola por[ ]quien la passo \ que es por[ ]quien
+da vida \ y la quita quando es contenta. Estando dizie<n>do
+esto oyo vn suaue canto que mucho en su fuego de amor a-
+crescento \ y al sonido se fue a entrar en vn vergel do<n>de la
+suaue melodia se fazia: y andando por los cipreses y rosa-
+les ≺que muchos auia≻ vio estar a su señora en vn alto cor-
+redor \ como de nueuo herida \ cantando con vna harpa
+enlas manos \ con ta<n>ta melo( )dia \ q<ue> como el vnicornio no
+viendo su muerte sela para a escuchar \ estando por vn
+rato adormecido: y como viesse la linda señora al p<er>fecto
+amador \ cesso su deleytable ca<n>to y fuesse: y en[ ]cesando des-
+perto despauorido \ aquel que par no tenia en amar \ y co-
+mo no viesse a su señora \ sintio tanta passion que como des-
+sesperado se sale del vergel \ y no fue en su aposento \ qua<n>-
+do oyo la ora que solia a su señora yr [ ]auer \ y conesto se co<n>-
+solo algun tanto: y sin punto se tardar \ fue a do<n>de la linda
+dama estaua \ y hallola como otras vezes solia: & ya que
+queria començar a hablarla \ oyo vn gran estruendo que
+por el castillo andaua \ y no tardo mucho que entro vn gra<n>
+huego por vna finiestra \ y en entrando pusose en medio d<e>
+amos \ y no fue puesto quando se torno a salir \ por donde
+entrado auia: y estando algo turbados vieron a donde el
+fuego se auia parado \ vn per( )gamino sellado con vn sello
+de fino oro: y la linda dama q<ue> mas cerca se hallo le abrio}
+[fol. 39r]
+{CB1.
+y vio enel como su padre muerto fuesse \ y co<n> el dolor que
+sintio salieronle biuas lagrimas de sus resplandecientes
+ojos. Y Luzindaro como ansi la[ ]uise come<n>çole a dezir \ pe<n>-
+ando que aquello fuesse hecho por su madre y señor ala
+gran sabia Actelasia con grandes gemidos todo su cora-
+çon: y ella conla passion que tenia le dize. Que si quiere bi-
+uir \ que ante ella mas no parezca. Y diziendo esto se sale
+dela sala donde estaua \ y en otra se entra dexando al tris-
+te amador con grande dolor dizie<n>do. No plega a dios mi
+señora que por mi causa la vuestra merced enojo alguno
+resciba \ y gimiendo y llorando tomo vna viguela y come<n>-
+çandola a tocar canto vn verso que dezia.
+¶ Pues lo consiente razon
+El daño que me atormenta
+(C)[Ç]ufra el mal mi coraçon
+Pues que el mal de mi passion
+Dentro del alma se assienta
+Es la razon que ay enel
+Bien de mi dolor mortal
+Y tan gran bien que por el
+Sano yo mas de mi mal
+Adolesciendo mas del.:.
+{IN5.} O Quanta ve<n>tura auia tenido pues mi señora
+auia començado a oyr mi passion por tal ar-
+te:si el peruerso amor de quien yo me que-
+xo no diera luego la buelta comigo en ha-
+zer que viniessen ami señora vnas nueuas
+tales que escureciessen mi bien y se doblase mi mal \ por
+parte de su grandeza: y ansi me dexo tan presso como esta-
+ua \ y co<n> mas passion \ viendo derramar de sus clarificos}
+{SG. F iij}
+[fol. 39v]
+{CB1.
+ojos \ vnas perlas tan orientales \ que al sol su aluor quita-
+ua<n> \ y cegaron tanto mi entendimiento \ viendo a quie<n> ado-
+raua de tal arte \ que quede sin sentido: y quando en mi ≺pa-
+ra ser mas suyo≻ torne \ hallela quexando de quien enten-
+der no pude \ por & estar tan priuado de mi ser: y ya quando
+del todo en mi bolui \ halle que mi señora de todo punto se
+yua y me dexaua \ tal como siempre quito de su ausencia
+estuue: y la causa desto no fue \ sino de quien con razo<n> que-
+xar me deuo ≺como me quexo≻ que es de amor: pues tan
+poco me dexo gozar de quien ta<n>to su vista costadome auia
+y me cuesta. O peruerso si segun co<n>tra ti he dicho \ algo
+me huuiesse de aprouechar \ dime quie<n> jamas tan maltra-
+tado te ha como yo \ cierto no deue ser ninguno: porque ja-
+mas herido tuyo tuuo la causa para hazello que he tenido
+y si alguno puesto a ello se ha \ si contra el te has ayrado \
+ten por cierto que contra mi no podras con justo titulo ha-
+zello \ porque no aura tenido la causa ta<n> basta<n>te como yo.
+Y ay de mi que me pongo contigo en razones \ pensando
+de sujectar ami razon tu furia: y bie<n>[ ]se q<ue> no sere ta<n> suficie<n>te \
+mas co<n>te(r)[n]tarme he co<n> darte a conozer mi volu<n>tad \ ta<n> apa-
+rejada co<n>tra tus obras \ ta<n> sin razo<n> causadas. O dulçura
+de mi pe<n>samie<n>to qua<n> poco gozo me das \ y quan gra<n> causa
+ay p<ar>a penado por tu causa rescebir mucho d<e>le yte co<n>tigo.
+O señora de mi quie<n> pudiesse rescebir parte de tu pena \
+pues sie<m>pre en mi ence<n>dido pecho encerrada estuuo. Ten
+mi señora la propiedad d<e>l feroz Leo<n> comigo \ q<ue> dada par-
+te dela pressa q<ue> toma \ sea de q<u><<a>>lquier arte q<ue> sea \ p<ar>a su man-
+tenimie<n>to \ y pues tu gra<n>deza dize \ q<ue> ya no se alime<n>ta con
+otra cosa \ sino con pena ≺por auella caçado≻ reparta v<uest>ra
+beldad comigo \ q<ue> co<n> ta<n>ta volu<n>tad lo dema<n>do \ quanto es
+mi desseo de passallo \ y cu<m>plillo por v<uest>ra causa. O mi diosa
+q<ue> temo mas v<uest>ra saña \ causada por v<uest>ra pe<n>a: q<ue> teme el rey
+delos vltimos ce<n>tros \ q<ue> la clara luz entre a desparzir la su
+gra<n> te($n)[n]ebregura. Ansi como lo dize introduzie<n>do Pali-
+naroa A caro<n> \ todas las cosas le pon e<n> miedo \ agora te-me}
+[fol. 40r]
+{CB1.
+las auerturas dela tierra \ agora los torromotos \ mu-
+chas vezes le haze te<m>blar la claridad del sol \ rescelando
+no entre p(a)[o]r algu<n>a parte en su reyno. Ansi temo yo señor-
+(r)a mia tu furia \ no entre por las concauidades q<ue> en mi pe-
+cho a hecho por tu casa mi passion: porq<ue> entr(a<n>)[a]da no des-
+parza el alto pe<n>samie<n>to \ q<ue>por todos los lugares del esta
+encerrado. O amor q<ue> no temo de ti otra cosa \ sino q<ue> el fa-
+uor q<ue>me prom(o)[e]tiste qua<n>do al fin viste mi vida \ no sea el q<ue>
+me diste qua<n>do vi a mi señora \ d<e>l arte q<ue> la vi: mas tomallo
+he por vltimo gualardo<n> d<e> mis seruicios \ auer passado pa-
+siones por tal diosa de hermosura: y aquie<n> preguntare de
+mi pena respo<n>delle.
+¶ Ya no espero gualardon
+Ni ay que se me satisfaga
+Que dio vuestra perficion
+Tal valor ami passion
+Que ella consigo se apaga
+Y deuo yo lo que siento
+Avn que me cause mil faltas
+Porque es sobrado discuento.
+Morar passiones tan altas
+En tan baxo pensamiento.
+{IN5.} O Co<n> q<u><<a>>nta razo<n> \ o amadores esto dire d<e> mi \ es-
+to por mi causa \ q<ue> no por mi merescimie<n>to ≺q<ue>
+es mucho≻ por ser ca yo soy: q<ue> por esta causa
+nadie ami se podra llegar co<n> gra<n> parte \ ni ta<m>-
+poco ami passio<n> y gloria \ pues sie<n>to en mi e<n> ta<n>
+poco tie<m>po dos ta<n> gra<n>des[ ]extremos q<ue> fuero<n> passio<n> y alegria
+Mas o sin fee amor q<ue> sino fuera por tu causa \ no pudiera
+yo dexar de gozar de quie<n> ta<n>to q<ue>ria \ co<n> su vista: mas no q<u><<i>>si-
+ste por mostrarte del todo comigo cruel: mas pues ansi[ ]es
+yreme a q<ue>xar al mo<n>te tarsino do<n>de me q<ue>xare \ a quie<n> de co<n>-
+tino aborreciste q<ue> \ es d<e>sca<n>so: y pues mi señora me a[ ]ma<n>da-
+do q<ue> no parezca dela<n>te su vista \ cu<m>plirse a[ ]mas mi desseo
+y su volu<n>tad \ co<n> mi q<ue>xa q<ue> sie<m>pre terne diziendo.}
+{SG. F iiij}
+[fol. 40v]
+{CB1.
+¶ Si ala boz de mis passiones
+Orejas sordas poneys
+Y conesto no podeys
+De aquestas lamentaciones
+Uenceros como hazeys
+Y ansi quedara burlado
+Amor que es encantador
+Y quedo por mi dolor
+En lugar de vos caçado
+Delos engaños de amor.
+{IN6.} C(C)omo tal terne mi señora causa mas para d<e>
+los dos / amor y vuestra belleza me quexar \
+aquien nunca tuue despues q<ue> vi vuestra her-
+mosura \ que es Descanso. Mas que digo q<ue>
+nunca este peruerso amor vso \ ni a vsado
+comigo lo que suele con[ ]todos vsar \ que es
+de dos captiuos suyos herir al huno \ y luego la<n>çar sus do-
+radas flechas contra el otro \ para dalle algun premio / si-
+quiera al principio de su passio<n>($.)[.] mas ya que a mi señora se
+las lançe \ escudarse ha con mi triste coraçon \ y encredu-
+lo de amor dire.
+¶ No puedo creer amor
+Que delas flechas de mi
+As tirado a quien me di
+Avn que no por mi fauor
+Mas por lo que cumple a ti
+Mas ella que como tiene
+Mi alma con gran razon
+Que de toda su passion
+Se escudara sile viene
+Con mi triste coraçon}
+[fol. 41r]
+{CB1.
+{IN8.} SJ esto es \ bienaue<n>turado me puedo lla-
+mar pues alcançe tanto bien \ que mi[ ]se-
+ñora tomasse amparo \ conquien le to-
+ma el memento que piensa tenella pro-
+piamente por señora. Mas ay demi q<ue>
+me hallo tan sin ventura \ que no pienso
+de alcançar tanto bie<n> \ como este para
+mi fuera. Y dizie<n>do esto cayo amorteci-
+da sin ningun sentido en braços de Gariaje su escudero: el
+qual comiença a quexarse de su ventura con grandes ge-
+midos: y estando haziendo gran llanto comiença el perfe-
+cto amador \ a boluerse por aquella sala \ a vna parte y a
+otra: y tornando de todo ensi vertiendo por sus hermosos
+ojos muchas lagrimas \ y sacando de su abrasado pecho
+profundos gemidos \ sale del castillo con su escudero a aq<ue>-
+lla fresca ribera de que el castillo cercado estaua: y quexa<n>-
+dose al fin d<e>l amor se entra en vn barco que cerca della en-
+tre vnas matas se ascondia: y con grandes sospiros comi-
+ença a dezir. O amor que es la causa que tanta furia con-
+tra mi as lançado \ que no solame<n>te as vsado de crueldad
+comigo \ en priuarme dela vista demi señora \ mas as me
+puesto en tal estrecho \ que no busque ya remedio para mi
+vida ≺para mas seruilla≻ a causa de estar la mar tan braua
+mostrandose tan furiosa contra[ ]mi. O maritimas[ ]serpie<n>tes
+o Peçes furibundos \ salid salid ya \ a[ ]tomar mantenimie<n>-
+to en este q<ue> ta<n> sin ve<n>tura sea hallado \ a causa del peruerso
+amor. Avn no vuo acabado esto de dezir quando se haze
+tal alboroto enel mar \ que parescia subir las o( )las a comu-
+nicar con los altos cielos \ y sale della vn furioso delfin \ y
+coge al sin ventura amador \ y vase por la mar adelan-
+te \ hazie<n>do gra<n>de sonido \ el y otros muchos que alrede-
+(r)[d]or del yua<n>: y el barco co<n> su escudero en vn punto fuero<n> la<n>-
+çados enla tierra \ donde fue co<n> gra<n> pesar \ a dar estas nue-
+uas a quien auia causado ta<n>to mal \ que era so señora: & d<e>la}
+[fol. 41v]
+{CB1.
+qual en[ ]su tie<m>po hablaremos. Pues boluiendo al proposi-
+to como el delfin lleuasse al firme amador por la mar ade-
+lante \ sumiose conel enlo mas alto della \ donde no fue su-
+mido qua<n>do se hallo en vnos muy ricos palacios \ labra-
+dos de muy fino rosicler \ de las antiguas historias: y co-
+mo mas ensi boluiesse viose abraçado con vna muy her-
+mosa dueña \ estraña en hermosura: y mira<n>do mas enella
+paresciole auella visto en algun cabo \ y al fin la huuo d<e> co-
+nozer del todo: y co<n> mas animo que a vn hombre tan sin[ ]ser
+se requeria \ con vna boz algo baxa enesta manera la co-
+miença a hablar. O gra<n> Actelasia señora dela sabiduria \
+que es la causa porque me as querido quitar \ de mi ta<n> des-
+seado camino: dexaras me yr a buscar aquien oyera mis
+quexas \ pues con tanta razon quexarme puedo \ de quie<n>
+no tuuo causa de me hazer quexar. E diziendo esto cay sin
+ningun sentido \ enlos braços de aquella famosa sabia: la
+qual mouida a compassion de a si le ver \ acordandose d<e>l
+amor que con Brutalante auia tenido \ y supiesse que cos-
+a era desamar aquien ama \ saca de su manga vn almar-
+raja con agua de gran licor \ y con su agraciada boca en
+sus mojadas fazes la hecha \ y como fuesse de tal propie-
+dad \ en cayendo enel rostro del amante \ tal torna co<n> gra<n>
+pauor \ y sinque palabra pudiesse hablar la sabia lo lleua
+al cabo del palacio \ y por vn postigo que d<e> puro cristal pa-
+recia entran \ y van a dar en vn escalera que de esmerado
+jaspe parecia \ y suben a vna torre donde muchas aues
+sonauan \ y en medio de vn patio della estaua vn gran ca-
+dahalso \ en medio[ ]del qual estaua vn bulto de vn ho<m>bre \ q<ue>
+mas que humano parescia en su figura: el qual estaua mi-
+rando alo baxo del \ mostra<n>do el rostro feroz avn bulto a
+semejança del de cupido \ con su aljaba de saetas y arco
+enla mano echo dos partes \ y los ojos desatapados \
+mostrandose con gra<n> tristeza: y en vna ropa que vestida
+tenia auia vn retulo encarnado que dezia Cupido \ y la}
+[fol. 42r]
+{CB1.
+ropa era de color amarilla muy clara \ demostrando su co<n>-
+tentamiento. La figura que estaua enlo alto era adorna-
+da de vna ropa rozagante de tela de oro \ con vn titulo de
+letras griegas que dezia. Descanso \ y el retulo era bros-
+lado de gruessas trenças delo mismo \ ca denotar el seño-
+rio que sobre el amor tenia. E como eneste lugar la excele<n>-
+te sabia le pusiesse saliosse afuera: y en saliendo no se vio
+mas puerta ni cosa de quantas alli estaua<n> figuradas \ sal-
+uo los dos bultos de Descanso y Cupido. Y como el leal
+amador alli se viesse \ conocio estar enel castillo del monte
+Tarsino \ y como mirasse los dos bultos conoscio lo que
+era \ y con grande animo començo de hablar con el Des-
+canso \ quexandose del amor enesta manera. O como me
+puedo llamar bienauenturado \ y sobre todos dichoso \
+pues con tan poco trabaxo he hallado lo que tanto dessea-
+ua: dame señor licencia y dezirte he mi passion y quexa \ q<ue>
+tengo desse que a tus pies puesto tienes \ sometido a tu ma<n>-
+do. No huuo acabado esto d<e>zir qua<n>do se comie<n>çan gran-
+des bozes y muy dolorosas \ de baxo de do<n>de cupido es-
+taua: y descanso le haze de señas que diga su quexa que co<n>-
+tra aquel mal hechor tiene: el comiença con grandes sospi-
+ros a dezir. Lo primero que gran se(si)[ñ]or deste sin fee amor
+me quexo \ que siendo vno de sus sieruos \ y mas leal que
+ensu casa tenia: porque hasta oy tuuo ninguno que guarda-
+se lo que yo he guard[ad]o \ que es vna ley de su quaderno de
+cinco esses: las quales he todas cumplido \ y nunca se ha-
+llo ninguno que subiesse de las tres \ si($n)[n]o fue aquel g[r]a<n> Ma-
+cias que a quatro llego: y por esto me concedio que amas-
+se la mas hermosa dama que formar se pudiesse \ & ya que
+me otorgo que au( )ella alcançasse \ me querello que me fal-
+so su palabra \ y me quito lo que dado me auia: lo qual supli-
+co a vuestra grandeza me ma<n>de boluer y restituyr. Lo se-
+gu<n>do q<ue> pues costituyo leyes q<ue> las cu<m>pla como las[ ]puso: las
+q<u><<a>>les no ha q<ue>rido cu<m>plir comigo \ q<ue> el ma<n>do pregonar en sus}
+[fol. 42v]
+{CB1.
+cortes muchas leyes e<n>tre las quales fue vna. Que el que
+bien amasse que le fuesse dado por premio fauor de su seño-
+ra \ esta ley comigo a quebrado que por su boca confesso
+quando le seruia que amaua perfecta mente ami señora \
+delo qual señor te traygo testigos que delante se hallaro<n> \
+que fueron Sufrimiento y Esperança: los quales testigos
+llamados \ juraron que era verdad lo que dicho auia. Y
+pues esto señor se ha echo comigo tan contra sus leyes:
+que por premio de mis trabaxos \ me mando mi señora q<ue>
+delante de su presencia ≺vn dia que de ventura auia alc( )an-
+çado de podella adorar≻ me partiesse: manda le que cum-
+pla lo que en sus cortes pregonar mando. Lo vltimo y fi-
+nal excelente señor \ de que me agrauio deste falso enga-
+ñador sin fee es \ contra otra ley que entre las otras pre-
+gonar mando : que fue quel perfecto amador la vida que
+tuuiesse la gastasse con gran dolor \ a causa de su señora.
+Desto señor me quexo co<n>tra el \ que quiriendo cumplir sus
+leyes començe a[ ]tomar el oficio del dolor \ por mi señora \
+segun su gran hermosura: que era gemir y regar mis mexi-
+llas con gruessas lagrimas de dolor del coraçon: y qua<n>to
+mas desto hazia \ tanto señor mas gozo mi afligido cora-
+çon sentia y siente: por ta<n>to le manda que sea tornado tal \
+que meresca hazer obras por mi señora \ que me acarree<n>
+algun dolor: y no tanto descanso como comigo tengo \ en
+hazer lo que el por sus reyes de armas mando dibulgar
+ensus cortes: y diziendo esto se assossego \ mostra<n>do el ros-
+tro algo triste con la pena que sintia. Y el descanso con boz
+amorosa le dize \ que se assosiege que el le dara derecho d<e>
+aquel que en sus cosas jamas le tuuo ni guardo. Y llaman-
+do ala castidad: y Espera<n>ça \ como secaçes suyos les ma<n>-
+da \ que sin tardar traygan luego ala dama porquie<n> aquel
+cauallero penaua: las quales despidiendose tiran el cami-
+no donde la linda dama estaua \ tan acompañada de pas-
+ion cuydado y tristeza \ quanto su buen amigo de ella se a-uia}
+[fol. 43r]
+{CB1.
+partido: que como sea de condicion d<e>las mugeres ser
+piadosas \ y tiniendo amor no le mostrar & assi acaescio a
+esta señora: que mucho tenia \ y mucho mas le crescio \ al
+tiempo que el escudero de su amante llego: el qual como a
+su señor viesse en alta mar y la fuerça delas olas lo echa-
+sen a tierra \ presentose ante la causa que ta<n>to mal le auia
+causado \ y alli le conto todo lo passado: la qual con gran-
+des gemidos començo a[ ]lançar de sus resplandecientes
+ojos muy gruessas lagrimas \ y comie<n>ça a dezir. O amor
+o amor y quanto mal hazes \ y quan engañador eres. O
+como me has hecho corro(r)[m]per en mi pensamiento / el don
+que todas las mugeres mas deuemos mirar \ que es la
+castidad. O mi señor Luzindaro que si tan agra respuesta
+de mi ouiste \ al tiempo que la muerte de mi padre alca<n>ce
+a saber \ no fue señor mas de por no ensuziar mi alto li-
+naje \ que no por falta de quererte contentar: mas no quie-
+ro amor mio dexar de nombrarme \ con aquellos que des-
+ta diosa fortuna se quexaron \ como della me quexo: pues
+ya me auia tenido en algu<n> tie<m>po \ donde mi señor tenia al-
+gu<n> descanso mi coraço<n> \ y no se quiso enesta buelta mucho
+detener: antes me hizo q<ue> por cu<m>plir comigo os desterrase
+de mi vista: y avn no desto co<n>tenta / le plugo dar fin ami vi-
+da \ co<n> hazerme sabidora d<e> v<uest>ra desastrada muerte. O co-
+mo d<e>zias muy bie<n> \ o gra<n> sabio qua<n>do dixiste. No ay cosa
+tan contraria ala razo<n> & ala costa<n>cia como la Fortuna: por
+cierto muy bie<n> pues no basta p<ar>a ella amp[ar]ar o ninguno \ & pu-
+es ta<n> presto sobre vn mal me vino otro mayor \ que fue sa-
+ber de tu perdimie<n>to. O como espusiero<n> los antiguos tu
+no<m>bre ta<m>bie<n> traydora fortuna. Pues dixero<n> q<ue> eras vn su-
+bito y no pe<n>sado caso delas cosas q<ue> suele<n> hacahezer. Y ta<m>-
+bie<n> dixero<n> ser gra<n>de tu fuerça p<ar>a e<n> la prosperidad \ y enla
+aduersidad q<ue> quie<n> no la sabia: porq<ue> quando gozamos d<e> tu
+prospero vie<n>to \ llegamos alos fines desseados \ & qua<n>do
+al contrario somos afligidos. Mas por esso dizen q<ue> das}
+[fol. 43v]
+{CB1.
+y quitas lo que te plaze. O como dixiste por mi y no por o-
+tr(a)[o] gran sabio \ q<ue> esta diosa es poderosa de alçar del pue-
+blo el cuerpo muerto \ y por el contrario de boluer los so-
+beruios triumphos \ en dolorosos llantos & obsequias. Y
+de aqui dizen la fortuna rige la vida y no la sabiduria. Asi
+aca[e]scido ati mi señor \ esta<n>do eneste castillo con prosperos:
+triumphos ≺por mi causa≻ esta traydora fortuna ≺como so-
+la es inuocada \ sola culpada \ sola pe<n>sada \ sola alabada
+sola reprehe<n>dida y honrrada co<n> denuestos y oprouios \ y
+tenida por muchos por ciega \ vagabunda \ incostante \
+incierta \ varia \ y fauorecedora delos indignos≻ diote el
+pago que por mi loca respuesta \ tu seruicio no merescia:
+mas pues assi a[ ]ssido y tu por mi causa te fuyste desespera-
+do a morir \ no es razon que yo mas biua. Y pues aquella
+famosa Tisbe por su amigo Piramo murio co<n> \ otras mu-
+chas: no es razon que yo menos[ ]haga \ pues mi señor Lu-
+zindaro no fue menos perfecto en amarme \ que ellos fue-
+ron a ellas. Y con grandes gemidos[ ]se[ ]ua al aposento de
+su amigo \ donde su escudero estaua: y haziendole leuan-
+tar se sale<n> del castillo del deleyte \ lo qual bie<n> pudieron ha-
+zer porq<ue> los encantame<n>tos no huuiero<n> mas fuerça de q<u><<a>>n-
+to su padre biuio \ y v( )a<n> ribera dela fresca ribera dela bra-
+ua mar: y como alli llegaron \ el escudero le dixo que en a-
+quel lugar auia estado su señor quando del amor quexado
+se auia \ y que aquel[ ]era el varco enque auia partido: Y co-
+mo ella esto oyesse sin ningun detenimiento se lança enel \
+y antes que el escudero acordasse \ ya ella le auia quitado
+los remos. Y con grandes bramidos las furibu<n>das olas
+la[ ]lançan enlo mas alto d<e>la mar. El escudero como aquel
+caso tan espantoso viesse començo con grandes gemidos
+a dezir. O quan mal pude guardar lo que ta<n>to de mi señor
+me fue encomendado. O amor que puedes: y que grande
+traydor es tu poder. O famos( )a[ ]donzella a que te as deter-
+minado por el: que auiendo tantos años que eneste casti-llo}
+[fol. 44r]
+{CB1.
+tan sola y encerrada estauas por tu padre \ no basto pa-
+ra que no hizieses lo que has echo. Quien mas digna ni
+merescedora de fama se puede llamar que tu pues a tal te
+dispusiste? por cierto no se te pueden ygualar \ ninguno de
+aquellos que fama ganaron enel mundo: como fueron aq<ue>l
+famoso Marco actillo: y aquellos famosos Cipiones: y
+Marcelos ni aquel famoso Cesar: ni aq<ue>l famoso rey Per-
+seo: ni aquel tan nombrado Claudio: ni aquel tan famoso
+Marco pompilio no por cierto que ninguno destos sete y-
+gualo: pues todos ellos hizieron casos señalados por de-
+xar desi fama enlas armas \ y librar sus tierras: tu famo-
+sa señora no lo hiziste \ saluo por complir con el amor que
+eras deudora \ a tu tan querido amigo \ y mas le al que q<u><<a>>n-
+tos nasciero<n>. Mas pues ya esto no lo puedo yo remediar
+con mis q<ue>xas y gemidos \ quiero me yr a[ ]guardar el apose<n>-
+to donde mi señor luzindaro y esta famosa dama estuuie-
+ron. Y dizie<n>do esto se va al castillo y cerro las finistras del
+y enel aposento dela linda dama se entra. La qual como
+las brauas ondas la leuasen \ vio de lexos vn gran fuego
+saliendo del muchos truenos y relampagos \ y avn que
+tal vista algun desasosiego en su afligido coraçon mostrar
+auia \ no le mostro: antes como viesse que el fuego p<ar>a ella
+endereçaua: alça las manos al cielo y con grandes bozes
+comiença a dezir. O soberanos dioses y que de seruicios
+tan grandes os he yo echo \ para que querays que yo aq<u><<i>>
+consumida sea deste tan feroz rayo. O traydora fortuna
+como no tengo de temer la muerte q<ue>dar me quieres: pe<n>san-
+do q<ue> te<n>go de temor de ella mouerme a auerte temor: no lo
+pienses que mas coraçon hallaras en mi ≺avn que dizen
+que nada temieron esta ta<n> de todos temida≻ q<ue> no en aq<ue>llos
+famosos varones romanos: como fueron aquel Mar-
+co actilio regulo \ e<n> poder d<e>los carthagine<n>ses \ ni ceraues
+en poder d<e> sete<n>ta tiranos \ de[ ]la( )cedemonia \ ni caridemno
+atenie<n>se en poder d<e> dario: ni theodoro e<n> poder d<e> lissimaco}
+[fol. 44v]
+{CB1.
+si todos estos la muerte no temiero<n> a causa d<e> sus famas \
+no pie<n>ses gra<n> Jupiter q<ue> menos yo la tema \ por satisfazer
+al verdadero amor \ de mi señor Luzindaro. E diziendo
+esto con sus muy agraciadas manos su barco co<n>tra el fue-
+go tiraua con gran animo: y estando enesta porfia con las
+brauas ondas \ llega todo aquel fuego con gran sonido de
+grandes truenos \ y como llego sono vn supito trueno con
+tan gran furor que gran trecho de alli se oyo: y cayo la ex-
+cele<n>te dama algo despauorida \ y como cayesse enel suelo
+tal todo desaparecio saluo el barco \ ado<n>de auia venido \
+y no tardo mucho qua<n>do torno ensi y hallose en vn vergel
+cercado de muy olorosas flores \ sonando muy dulçe y su-
+aue canto \ que mas en su coraçon acrescento fuego de a-
+mor: y mira<n>do a vna parte y a otra vio entre vnos hermo-
+sos acipreses hazerse bullicio delas ramas: y vido salir d<e>
+entre ellas dos donzellas de muy hermosas colores ves-
+tidas \ acompañadas de muchos y diuersos instrume<n>tos
+con tanta hermosura que bien en sus rostros demostraua<n>
+su deydad \ la vna vestida de terciopelo verde co<n> vna red
+delo mismo y en cada ñudo vn coraço<n> de oro esmaltado d<e>
+verde \ traya vnos cabellos que por manto valer podria<n>
+semeja<n>te aquel muy cendrado oro de tibar \ con vna va-
+ra enla mano de vn nara<n>jo y enlo alto vn retulo que d<e>zia \
+esperança \ la otra dama venia vestida toda de terciope-
+lo blanco \ y enla saya traya sembradas muchas ramas
+de palma muy al natural brosladas \ co<n> vnos tan excelen-
+tes cauellos \ que ningu<n> oro seles comparaua \ y enla[ ]ma-
+no vna gran palma que toda la cabeça la rodeaua con vn
+retulo que dezia. Castidad \ y co<n> gra<n> señorio & deydad an-
+te la dama se pone<n>: la qual estaua algo turbada viendo la
+magestad de aquellas hermosas señoras: y la esperança
+como mas veloz delante della se pone y la comiença ha-
+blar. Excelente y hermosa dama nos la castidad y espera<n>-
+ça \ sieruas del soberano descanso \ ante ti nos presenta-mos}
+[fol. 45r]
+{CB1.
+doze palafrenes con muy ricas guarniciones \ y entre he-
+llos otro de estraña hermosura para la linda Medusina \
+y vua estraña bestia para ella \ y vn poderoso cauallo pa-
+ra el gentil amador Luzindaro: y con compañia de mu-
+chas donzellas baxan dela sala a vna hermosa vega \ cer-
+cada de mucha arboleda \ con infinitas fuentes que por
+ella corrian haziendo sabroso ruydo \ y en saliendo Luzin-
+daro da delas espuelas a su poderoso cauallo \ y menea-
+lo por el campo con tanta gracia y apostura \ que era pla-
+zer de miralle \ y bolue muy sosegado donde su señora esta-
+ua \ y tomandola dela rienda tiran su via por donde la sa-
+bia maestra los guiaua \ haziendoles ha cada passo consu
+saber mil generos de plazeres: y quando llegaron ribera
+de la[ ]mar hallaron dos bateles \ cercados d<e> inumerables
+flores de muy diferentes colores \ y entran enellos con
+gran regozijo \ sonando gran numero de instrume<n>tos muy
+acordados: y contemplados vientos mueuen el camino
+del[ ]deleytoso castillo \ no anduuieron mucho quando los te<m>-
+plados ayres gouernados por aquella gran sabia \ se en-
+comiençan a ensoberuecer en ta<n>to grado \ que ya los dos
+amantes come<n>çaua<n> a suplicar a sus dioses por sus almas
+que los cuerpos por perdidos los tenian: & la que mas te-
+mia era aquella sin par Medusina \ que abraçada con su
+buen ama<n>te sin sentido estaua y esta<n>do enesta turbacio<n> ve<n>-
+(ven) asomar vna gruessa nao soltando muchos tiros grues-
+sos de artilleria co<n>tra los bateles: y el batel en que las do-
+ze donzellas yuan \ ponese delante del de los dos aman-
+tes \ & comiençan a soltar los tiros que enel venia<n> \ y ju<n>tos
+los bateles co<n> los q<ue> dela nao auian sacado con veynte ca-
+ualleros \ sale<n> las do<n>zellas destotro armadas co<n> muy lu-
+zidas armas \ y encomie<n>ça<n>se a herrir los vnos alos otros
+co<n> gra<n> furia. El excele<n>te cauall<er>o estaua como espa<n>tado \
+porq<ue> miraua a sus do<n>zellas como hazia<n> co<n> ta<n> fortaleza ar-
+mas co<n> aq<ue>llos cauall<er>os: & mira<n>do porla sabia no la vido}
+{SG. G iiij}
+[fol. 45v]
+{CB1.
+y en su lugar vio vnas armas destremada hermosura \ co<n>
+gran presteza ayudandole su señora se comiença armar \
+y consolando ala linda dama que grandes llantos hazia \
+siendo armado se embuelue con aquellos caualleros que
+en su batalla muy reñida andauan \ y comiença a vna par-
+te y por otra a discurrir \ dando muy fuertes golpes \ co-
+mo aquel que estremada fuerça auia \ y con su ayuda me-
+tieron alos caualleros por donde antes auian salido \ y en-
+trellos entro el hermoso amador \ y no vuo entrado quan-
+do vn gran cauallero armado de armas pardas con vna
+sobre vista azul sembrada de pequeños pauones de plata
+le hiere por cima del yelmo con tanta fuerça que le hi-
+zo a aynojar enel suelo \ y cobra<n>do su escudo que perdido
+auia \ buelue sobre el \ y comiençanse amos a herrir con
+mucha presteza \ y por mucho q<ue> Luzindaro pugnaua por
+herrirl(l)e nunca golpe que le diesse ensus armas menzion
+hazia \ y las suyas andauan ya tintas de su sangre \ y co-
+brando grande corage hecha su escudo alas espaldas \ y
+tomando su espada con amas manos va a herrir al caua-
+llero \ y como el golpe ya viniesse el saco su yelmo y quedo
+en vn rostro tan hermoso para su hedad \ que mas ser no
+podia \ y como sele vuo quitado metiosse de presto con el
+co<n> bue<n> tie<n>to y su golpe fue en vazio \ y como tan cerca de si
+lo viesse luego le conoscio: que sabed que esta era aquella
+gran sabia que todo aquello auia hecho por prouar a su
+criado \ y porque diesse a conozer a su señora su gra<n> esfuer-
+ço \ y como mas ensi tornasse Luzindaro y conociesse a a-
+quella gran maga \ prostrose a sus pies pidiendole perdo<n>
+delo passado y le dize. Excelente señora de contino quie-
+re la vuestra merced meternos e<n> alboroto: ella le respon-
+dio amado hijo quise ver alo que vuestro valor alca<n>çaua \
+y tomandose delas manos se[ ]uan a donde la turbada da-
+ma estaua / tan llena de pena quanto jamas nunca se vio \
+y como a ella llegaron hallaronla vertie<n>do muchas lagri-mas}
+[fol. 46r]
+{CB1.
+por sus resplandecientes fazes \ y como viesse a su a-
+migo ta<n> tinto de sangre ≺que assi parescia estar≻ cayo sin
+sentido en sus braços: y de ver assi a su señora tan bien el
+perfecto amador la tuuo co<m>pañia: la sabia que assi los vio
+y vido que todo lo que queria tenia hecho \ haze a sus do<n>-
+zellas que los tomen y passen ala nao y roziandolos con
+vna agua de ta<n>to licor \ q<ue> era para boluer a qualquier co-
+raçon a su ser ≺por desmayado q<ue> estuuiera≻ boluieron en
+si: y le( )yendo en vn pequeño libro estando ace<n>dida vna ve-
+la bermeja de cera \ salio al borde dela nao \ y hechala en
+vn batel de aquellos en que auian venido: y no vuo caydo
+quando comiença haziendo gran sonido a arder el y[ ]los o-
+tros \ y siendo ardidos sono vn trueno con tanta fuerça \ y
+fiereza que no vuiera hombre humano que çufrillo pudie-
+ra: y a este torromoto despertaron los dos amantes des-
+pauoridos \ y hallaronse junto al puerto del castillo del[ ]de-
+leyte \ cercados dela sabia y sus donzellas: con gran
+regozijo no acordandose delo pass(o)[a]do \ porque las heri-
+das como fuessen hechas por aquella gran sabia supolas
+bien remediar: y con crescidos deleytes comiençan a des-
+sembarcar \ y salidos en tierra suben la via todos juntos \
+del castillo que cerca estaua: y a poco vieron las puertas
+d<e>llabradas de straña hechura: ala entrada tenia doze gra-
+das de alabastro tan aluas que quitauan la vista aquien
+mucho en ellas queria mirar: las puertas eran labradas
+de alambre todas con muchas figuras antiguas \ y enlo
+alto estaua figurada la historia delos amores delos dos a-
+mantes: y entrando enel patio era de gran grandor rode-
+ado de dozientos pilares de jaspe muy hermoso \ y en me-
+dio estaua vna fuente destremado tamaño \ con doze ca-
+ños que dellos agua salia \ y en medio estauan dos cipre-
+ses \ enlos quales estauan gran diuersidad de aues \ que
+muy suaue melodia hazian: y estando mirando esta fuente
+sale Gariage vestido de preciosas ropas \ y puesto de y-nojos}
+{SG. G v}
+[fol. 46v]
+{CB1.
+antes sus señores les beso las manos: y ellos tuuie-
+ron tanto plazer con el \ quanto nunca vuieron: y assi jun-
+tos como estaua<n> entran en vn palacio el qual estaua escul-
+pido de todas las historias antiguas \ y enel estauan pues-
+tas las tablas \ y sentados a comer fuero<n> seruidos destre-
+mados manjares \ con mucho concierto \ y acabando de
+comer vinieron diez donzellas las quatro con i(m)[n]strumen-
+tos de mucha melodia \ y las seys començaron a dançar
+y baylar con tanta gracia & primor \ q<ue> mucho deleyte cau-
+sauan alos leales enamorados. En estas fiestas y otras
+muchas que alli aquella gran sabia les hizo hazer \ estu-
+uieron lo mas del dia: & venida la noche fueron seruidos
+como al comer con mucho regozijo \ &[ ]las mesas alçadas
+vinieron las mesmas donzellas hazer lo que el dia antes
+auian hecho \ & ya que era ora de reposar la sabia tomo a
+los dos amantes de las manos y enotro retraymiento q<ue>
+en el gran palacio estaua los dexo \ donde toda la noche
+repossaron: la mañana venida Actelasia entro en su apos-
+sento a tiempo que ya ellos salian \ y abraçalos co<n>[ ]mucho
+amor \ y dizeles como se quiere yr a reposar \ que pues ya
+los dexaua en su castillo \ q<ue> ella quiere yr a[ ]ver su mo<n>te tar-
+sino donde su vida hazia: ellos le respondieron que hizies-
+se su voluntad \ que bien sabian quel pesar que por ello to-
+mansele serie por demas: mas que le rogauan que los
+visitasse pues tan solos que dauan \ y le suplicauan que tor-
+nase a encantar aquel castillo porque en ningun tiempo \
+persona no pudiesse entrar donde ellos estuuiessen: ella lo
+vuo por bien y con poca premia lo torno a[ ]cerrar como an-
+tes estaua y quiriendo salir del \ la sabia rogo a Gariaje q<ue>
+se quisiesse yr en su co<m>pañia \ el le respo<n>dio que no saldria
+del mandado de sus señores: los quales le dixero<n> q<ue> auria<n>
+por bien que tuuiesse compañia a su señora Actalasia: la
+qual subio enla bestia que auia traydo \ y Gariaje enel ca-
+uallo de Luzindaro \ y antes que hiziesse sus conjuros en}
+[fol. 47r]
+{CB1.
+canto todas las donzellas que consigo auia tray($d)[d]o \ p<ar>a
+el seruicio de aquellos señores \ y saco del seno vna tabla
+pequeña de alambre con vnas letras que assi dezian. En
+el tiempo que los dos Cisnes su vida acabaren \ ento<n>ces
+su nido por la sabia Actelasia sera consumido \ donde pa-
+ra siempre perescera. Y sacada esta tabla escripta en tos-
+cano \ fixola enlo alto dela torre \ donde por todos pudie
+ser vista: y hecho esto torno abraçar alos excele<n>tes ama-
+dores \ que muy tristes por su hida quedauan: & haziendo
+sus signos por el ayre se uan \ donde nunca mas parescie-
+ron: & quedaron[ ]los amantes tan solos \ quanto por su vo-
+luntad escogieron \ para de sus amores gozar: donde he-
+neste vicio duraron contemplando el vno en<e>l otro mucho
+tiempo \ esta<n>do a tanto vicio \ quanto aquella gran sabia
+les quiso dexar \ sabiendo el poco tiempo que en aquella
+vida tan dulçe auian de permanecer: como acaescio \ que
+como las cosas segun naturaleza en vn ser no puedan mu-
+cho tiempo durar: y la[ ]fortuna ande co<n> mucha furia la pros-
+pera buelta de su rueda \ co<n>tra aquellos que en su cumbre
+subidos tiene: ansi auino a estos amantes \ que estando en
+el mejor tiempo de su vida \ gozando de sus dulçes amo-
+res: las tres dioses velozes ensu curso \ quisieron quitarse
+de trabajo con la hermosa Medusina: la qual estando vn
+dia en vn vergel goza<n>do de su dulçe amigo \ sintio passar
+por el ayre vn gran sonido \ y alço los ojos y vido vn agui-
+la negra \ que dando grandes graznidos sobrella estaua
+reboleteando \ ella muy espantada llamo a Luzindaro co<n>
+gran tristeza ≺como aquella que su mal sentia≻ & muestrase
+la que de encima de su cabeça no se quitaua: el como viesse
+a su señora tan triste \ con vn arco turques que la sabia pa-
+ra su deleyte le dexo \ tiro ala cautelosa aguila con gra<n> fu-
+ria \ como aquel que de alli la quisiera quitar \ mas por es-
+so no dexaua ella de hazer las muestras que hazia de gra<n>
+tristeza sinifica<n>do gran passio<n>: y viendo que nada nole ap<ro>-uechaua }
+{SG. G vj}
+[fol. 47v]
+{CB1.
+su tirar dexala \ y en sus braços a su señora toma
+& por la puerta del vergel se sale \ y en saliendo el aguila[ ]se
+fue. Y passaron aquel dia con mucha tristeza amos y dos:
+& y a la[ ]linda Medusina no se sintie como otros dias \ antes
+muy descontenta se mostraua: & no pudiendose y a enlos pi-
+es tener \ se echa en su lecho quexandose grauemente co-
+miença a dezir. O fortuna como de contino enlos casos d<e>
+mayor contentamiento te muestras con furia contra los q<ue>
+algo fauorescido as \ como agora comigo as hecho: & di-
+ziendo esto derrama de sus resplandecientes ojos infini-
+tas lagrimas mirando a su perfecto amador que como sin
+sentido estaua \ goza<n>do de su rostro que turbado parescia
+con el mal dela muerte que sintia: & como el dolor la aque-
+xase llamo a Luzindaro & tomandole el rostro con sus her-
+mosas manos le dize. O mi señor & como temo d<e> dexaros
+en este solitario lugar \ porque mis sentidos se turban \ mi
+lengua comiença ya a enmudecerse \ co<n> el mal que siente:
+& assi abraçados estuuieron dos grandes horas \ no hazi-
+endo otra cosa amos \ mas de derramar de sus ojos gran
+numero de lagrimas \ con el dolor que sentian: & la passio-
+nada Medusina que tal ve ya estar a su señor Luzindaro
+con fuertes gemidos comiença a dezir \ y esclamar con-
+tra la muerte diziendo. O traydora como conozco q<ue> quie-
+res priuarme de todo mi descanso alegria contentamien-
+to \ & consuelo que tenia. O amor como todos los que te[ ]se-
+guimos \ si vuiassemos a conocerte del todo \ quanto pro-
+curariamos de essemirnos d<e> tus rigurosas leyes \ ta<n> mes-
+cladas con desatinos \ quanto diferentes \ segun que alos
+pre<n>cipios las muestras \ alos tristes que por señor te[ ]tene-
+mos. O como dizen muy bien que no ay seso ley ni delige<n>-
+cia \ para poder huyr esta sentencia tuya \ quando alos mi-
+seros mortales debaxo de tu poder sujectas: & tornando
+a[ ]exclamar contra la muerte le dize: O traydora & de to-
+dos tan temida \ como nadie puede huyr desta tu riguro-sa}
+[fol. 48r]
+{CB1.
+ley \ porque qualquier persona que nasce es obligada
+forçosa mente a[ ]morir vna vez: mas ay de mi que murie<n>do
+yo muere mi descanso \ muere mi gloria \ muere mi deley-
+te \ muere el descanso de mi señor Luzindaro. O espejo d<e>
+mis respla(e)n[de]zie<n>tes ojos que mas temo vuestra pena y de-
+sasosigo \ que mi tan supito fin. O como conozco llegarse
+me ya \ no tengo otro consuelo mas de pe<n>sar como dize el
+sabio. La muerte de necessidad a de venir \ y pues assi es
+necessario es que el bueno con esfuerço la aya de çufrir: &
+pues esto no se puede heuitar \ consolaos señor mio \ que
+avnque muera mi cuerpo \ mi alma siempre estara rodea-
+da de vuestro querer \ y exmaltada en vuestro coraçon: &
+diziendo esto començo a titubear \ y el perfecto amador
+con gran esfuerço la toma entre los braços y el rostro co<n>
+el suyo le dize. O perfecto fin donde creo se a de acabar &
+desaraygar del mundo toda perficion de hermosura \ por
+que me dexays tan sin consuelo & amparo. O soberanos
+dioses como creo todos os auer ju<n>tado p<ar>a haze(e)r me mal
+O señora mia hablame ya antes que os vays deste valle
+de amargura \ bolue vuestros resplandecientes ojos ami
+que ya son turbados: hablame espejo donde se solia mirar
+mi coraçon: & diziendo esto cay enel lecho de su señora sin
+ningu<n> acuerdo \ y estando por vn rato assi \ torno despauo-
+rido delo que soñaua \ & viola que vertiendo muchas lagri-
+mas mirando lo estaua \ & con la boz muy baxa como aq<ue>-
+lla q<ue> ya mas hazer no podia le dize. He he a ya señor mio \
+aqui es menester mostrar vuestro esfuerço \ porque sabed
+que no durara mi alma eneste afligido cuerpo dos horas
+encomiendo os lo señor que le pongays donde algun des-
+canso sienta \ pues le aueys enesta miserable vida con el
+sentido. O soberano Jupiter \ o Apolidon \ o Jactuano \
+todos tres veni en mi compañia \ & dexa consuelo a este
+vuestro sieruo y señor mio: y en diziendo esta oracio<n> tomo
+a su tan querido amigo entre sus braços \ y junta la boca}
+[fol. 48v]
+{CB1.
+con la suya dando vn gran sospiro rindio el alma \ y quedo
+colgada delos braços del sin ventura Luzindaro \ el qual
+como assi la viesse y mirasse q<ue> ya aq<ue>llo ningun remedio te-
+nia \ tomo grande esfuerço y començando a destilar mu-
+chas lagrimas sobre las mortezinas fazes dela hermosa
+señora \ con rezios gemidos dize. O amor como con gra<n>
+razon tengo tanta causa para de ti me quexar: que a[ ]ssido[ ]la
+causa falso sin fee que as tenido \ para priuarme dela cosa
+que yo mas enesta misera vida queria. O mi señora como
+terneys razon para de mi os quexar \ vie<n>do mi tarda<n>ça:
+perdoname señora mia \ que ya voy a ver vuestra excele<n>-
+te gloria: y porque creays que lo tengo voluntad dexame
+hazer sacrificio de vuestro cuerpo ala diosa Uenus: que
+luego cumplire \ con lo que a vuestro querer deuo: y como
+hombre ageno de toda gloria ponela encima del lecho ≺q<ue>
+recostado del se auia conlas vascas desa muerte≻ y cubre-
+la con vn paño de fino oro \ y al vergel se va donde el agui-
+la visto auia \ y entrando enel hallo gran numero de aues
+que otra cosa no hazian \ (f)[s]ino consus picos todas las flo-
+res delos arboles lançallas a tierra: y como el sin ventu-
+ra amador aquello mirasse tomo algun consuelo \ viendo
+que se le adereçaua bien su pensamiento: y anduuo por de-
+baxo delos frescos arboles amontona<n>dolas todas \ y he-
+chas montones vido como las tomauan \ y por la puerta
+del vergel se salian co<n> ellas \ y tomando dellas parte por
+el se va lança<n>do grandes gemidos \ derrama<n>do copia de
+lagrimas por sus turbadas fazes \ y estando enesto ve ve-
+nir el aguila que encima dela cabeça de su señora auia he-
+cho aquellas tristes muestras \ y como la viesse le dize. O
+maldita denuciadora de mi mal que quier( )es? o si fuesse ta<n>-
+ta mi ve<n>tura que viniesses agora a denuciar mi fin: porque
+tuuiesse gloria junto co<n> quie<n> de contino mela causo. Y esta<n>-
+do le dizie<n>do esto y otras muchas cosas de gran lastima \
+vio que se abatio cerca del con gra<n>de impetu \ y tan pres-to}
+[fol. 49r]
+{CB1.
+como abaxo / sube por el ayre d(a)[a<n>]do gra<n>des graznidos
+significa<n>do la tristeza que aquel sin ve<n>tura amador tenia:
+el qual como viesse lo que auia hecho fuesse donde auia ba-
+xado y hallo en aquel lugar \ vna gran llama de fuego \ y
+rescibio mucho deleyte con ella \ y tomala en<e>l vaso que es-
+taua y con alguna alegria se sale del vergel \ y entra<n>do en
+el aposento donde a su señora auia dexado \ vio gran par-
+te del cubierta delas flores que las aues auian derriba-
+do \ y con mucho contentamiento \ pensando que queman-
+do el cuerpo de su señora auia mas de descansar \ tomola
+en sus braços y enmedio de aq<ue>llas rosas y flores le la<n>ça:
+y como el lo hizo començose hazer enel palacio gran ru-
+mor de llantos & alaridos \ sin ver quien los hiziesse: lo q<u><<a>>l
+duro gran pieça \ y el sin ventura amador pone el vaso de
+fuego entre las flores \ & como[ ]fuesse puesto el era de tal p<ro>-
+piedad que en breue alço tan gra<n> llama \ como si leña muy
+seca fuera donde se vuiera echado: y no passo mucho tiem-
+po \ quando todo fue en[ ]ceniza conuertido. Y como Luzin-
+daro viesse ser acabado el fuego \ tomo toda la reliquia q<ue>
+del auia quedado en vn grande cofre de oro \ & haze jura-
+mento de no se alimentar de otra cosa hasta que muera \ si
+no del mantenimiento que pueda dar desca<n>so a su penado
+coraçon \ que era aquella sustancia y reliquias \ que de to-
+do su bien le quedaua: pues la muerte & la fortuna no le aui-
+an concedido mas tiempo para gozar de su señora. Y ve-
+nida la ora del comer con muchos llantos le fueron pues-
+tas las tablas como solia<n> \ mas el no toco en nada antes
+sacando el cofre co<n> vna cuchar de fino diama<n>te del poluo
+saca \ y antes q<ue> lo tomasse come<n>ço a dezir. O relicario do<n>-
+de todo mi bie<n> esta \ dame licencia para q<ue> pueda tomar go-
+zo co<n> el sustentamiento \ que cosa ta<n> preciosa como aqui[ ]es-
+ta me puede dar: siquiera porque algun tiempo pueda du-
+rar exclamando \ passion tan fuerte como esta es para mi.
+Y dizie<n>do esto aq<ue>l amador se pone d<e>[ ]rodillas ante el cofre}
+[fol. 49v]
+{CB1.
+y hinchiendo la cuchar del poluo derramando muchas la-
+grimas dando rezios gemidos toma aquel suaue mante-
+nimiento \ y en[ ]tomandole torna a[ ]ceralle \ y alçadas las
+mesas entraron por la puerta seys donzellas vestidas to-
+das de negro \ con arpas enlas manos \ y esta<n>do el sin ve<n>-
+tura amador enel lecho donde su[ ]se( )ñora auia acabado \ co-
+miençan a[ ]cantar y tañer con tanta melodia y suauidad q<ue>
+hizieron adormecer aquel que con la dulçura dela musica
+en su pena auia acrecentado: y assi estuuieron todo el dia
+hasta la noche que tornaro<n> a poner las tablas para dalle
+de cenar \ y quando vuo de abrir el cofre con grandes ge-
+midos començo a dezir. O como veo ya acabarse mi bie<n> \
+& siento fenecerse mi alegria \ & darse fin ami gloria. O so-
+berana señora como mi ma<n>tenimie<n>to seme acaba ya \ pa-
+ra que vaya a[ ]gozar de vuestra soberana morada: & como
+muy desflaquezido estuuiesse del mucho llorar y del no co-
+mer \ no hizo otra cosa sino tomar del poluo lo que tomar
+solia \ y entrar las donzellas que a aquellas horas cada
+dia venian \ & comiençan vna cancion tan dolorosa que le
+sacaron de todo su sentido \ & assi estuuo traspuesto hasta q<ue>
+el alua vino \ la qual salio con tan tristes presagios \ q<ue> quie<n>
+quiera conociera lo que enel dia auia de suceder: & venida
+la hora del comer las donzellas dexaron de tocar las[ ]har-
+pas \ y el perfecto en amor torno ensi tan desflaquecido \
+que ya la habla no podia dar: & como mirasse al relicario
+en que todo su bien estaua encerrado & viesse lo poco que
+del le quedaua \ rescibio tanta passion y congoxa \ & paro-
+se tan triste \ que no sele comparo aquel famoso rey Pria-
+mo \ quando a su gran troya arder veya \ & cay enla cama
+sin sentido \ y estando assi por gran rato eleuado en su pas-
+sion \ alos truenos & relampagos que hazia \ & alos gran-
+des haullidos & bozes que enel castillo sonauan \ desper-
+to muy despauorido \ & con la rauia dela muerte la boz tur-
+bada casi el sentido perdido \ los labios verdes la color d<e>l}
+[fol. 50r]
+{CB1.
+rostro mudada comiença dando grandes gemidos verti-
+endo muchas lagrimas por sus mortezinas fazes a d<e>zir.
+O bienauenturado yo pues veo que ya es tiempo de yr a
+gozar de aquella dulçe y deleytable gloria de mi señora \
+mas nunca perdere quexa de aquel que siempre la tuue d<e>s-
+leal y no duradero amor \ y no dexare de afirmar lo que a-
+quel famoso Macias dixo muy poco antes d<e> su muerte \
+diziendo al amor quan mal pago por tanto tiempo como
+le auia seruido le auia dado: y murio ta<n> d<e>sesperado al[ ]fin[ ]co-
+mo yo \ vie<n>dome priuado d<e>l deleyte de mi señora: el qual
+me fue quitado por el sin fee amor \ que quiso q<ue> durasse tan
+poco mi gloria: pues para esto mejor me fuera nu<n>ca auer
+amado \ ni saber a que saben sus glorias y dolores \ q<ue> tan-
+to en mi aposentados esta<n>: mas ay de mi que falsame<n>te he
+hablado co<n>tra mi señora \ pues he dicho que valiera mas
+nunca auella amado: perdonad bien mio que la fuerça d<e>l
+dolor de verme de vos apartado \ y perezer del arte que
+perezco \ me ha causado dezir lo que he dicho: y porque
+señora creays que no tengo otra gloria \ mas d<e> pensar en
+vuestra gran hermosura \ quiero acabar vuestras reliqui-
+as para en acabandolas \ acabar mi biuir: y dizie<n>do esto
+tomo todo el poluo que le quedaua \ y antes que lo passas-
+(sas)se como estuuiesse tan desflaquecido \ y sin esfuerço nin-
+guno \ atrauessandosele ala garganta lo mas del rindio
+su espiritu \ dando sospiros tan congoxosos \ que alas pie-
+dras mouiera a gran compassion: y en vn punto entraron
+por la puerta y ve<n>tanas mucho numero de aues negras \
+haziendo tan triste llanto que espanto era de ver \ y traye<n>
+enlos picos gran ca<n>tidad de redomas de fuego \ y entran-
+do soltaronlas enla sala y por el castillo y salense por lo al-
+to del dando fuertes graznidos \ como aquellas que d<e>cla-
+rauan el triste fin que las tres hermanas a aquel tan herri-
+do de cupido auian dado \ y en vn punto el castillo y el per-
+fecto amador con todo lo que enel auia se consumio: de tal}
+[fol. 50v]
+{CB1.
+arte que mas cosa no se vido: mas de vna vega muy llana
+con vn alto padron de alabastro labrado de muy hermo-
+sas colores con vnos versos que dezian. Contra el amor
+y escarmiento delos que le siguen sus falsas pisadas \ con
+motes \ galas y inuinciones todas en fauor del traydor a-
+mor: y enlo alto del estaua colgada vna tabla de alambre
+con vnas letras latinas que dezian. Aqui yaze el sin ven-
+tura amador Luzindaro \ el qual antes de su muerte can-
+to los versos que se siguen segun que Macias los canto
+diziendo.:.
+¶ Mena.:.
+¶ Uencen el seso sus dulçes herrores
+Mas no duran siempre segun luego aplaze<n>
+Pues me hizieron del mal que vos hazen
+Sabed al amor desamar amadores.
+¶ Huy[d] vn peligro tan apassionado
+Sabed ser alegres dexad de ser tristes
+Sabed deseruir aquien antes seruistes
+A otro que amores dad vuestro cuydado
+Los quales si diessen por vn ygual grado
+Sus pocos plazeres segun su dolor
+No se quexaria ningun amador
+Ni desesperaria ningun desamado.:.
+{IN6.} Y Como esto parescio viniero<n> seys do<n>zellas
+de estraña hermosura al pie del padron \
+trayendo sueltos sus hermosos cauellos \
+cantaron tan suaue \ que toda persona hu-
+mana se como uiera a dulçura y passion (≻)[≺]y
+esto segun que le tomara≻ dela sentencia de
+los versos que dezia<n>: enlos quales relatauan los amores}
+[...]

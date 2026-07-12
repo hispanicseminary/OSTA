@@ -1,7 +1,7 @@
 {RMK: HSMS-0471.}
 {RMK: Alfonso VIII, rey de Castilla; Bartolomé de Uceda.}
 {RMK: [ALC] Fuero de Alcaraz.}
-{RMK: .}
+{RMK:.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/17799.}
 {RMK: Francisco Gago Jover.}
 [fol. 1r]
@@ -28,7 +28,7 @@ LAS FRAN-
 QUEZAS
 T. XXVIII]} {IN2.} Don alfonso por la gracia {RUB. libro d<e>l rey do<n> alfo<n>so}
 de dios. Rey en uno con mi mug<er> do<n>na
-leonor & con el noble fijo n<uest>ro don Anric. el nac'i-
+leonor & con el noble fijo n<uest>ro don Anric. el naçi-
 miento del qual e<n>noblecio la auandicha cibdat
 con buena cara & co<n> alegre otorgo a los poblado-
 res de alcaraz a los q<ue> son agora y a los q<ue> uer-
@@ -45,25 +45,25 @@ fuentes. con pastos. co<n> Rios. con salynas. con}
 {CB1.
 venas de plata & de fierro. & de todo otro metal.
 {IN3.} Qve si por auent<ur>a vezino {AD. [^.ijj.]} {RUB. d<e>l q<ue> e<n> t<er>mino dalcaraz +}
-de la cibdat om<n>e estra<n>no fallare {RUB. cac'are. o le<n>-na +}
-en el t<er>mino de alcaraz cac'ando con a {RUB. ta-iare.}
+de la cibdat om<n>e estra<n>no fallare {RUB. caçare. o le<n>-na +}
+en el t<er>mino de alcaraz caçando con a {RUB. ta-iare.}
 ues. o con canes. o con Redes. o con ballesta iare.
 o pescando. o madera taiando. o le<n>na fazie<n>do.
 o sal. o fierro. o otro metal o tomando aues
-de cac'a; prenda lo sin calon<n>a. & sea preso fas-
+de caça; prenda lo sin calon<n>a. & sea preso fas-
 ta q<ue> por auer se remida. {AD. [^iij.]} {RUB. d<e>l estrano q<ue> al de la uilla +}
 {IN3.} E si por auent<ur>a el estrano se defendie<n>do {RUB. firiere.}
 al uezino firiere. ol matare; peche la
 calo<n>na q<ue> fiziere a fuero de alcaraz. Et si
 el uezino estos derechos defendiendo al es-
 tra<n>no firiere o matare; no peche calo<n>na por
-ende. {AD. [^iiij.]} {RUB. d<e>l fidalgo q<ue> e<n> la cibdat o e<n> su t<er>mino fuerc'a fizi-ere. +}
+ende. {AD. [^iiij.]} {RUB. d<e>l fidalgo q<ue> e<n> la cibdat o e<n> su t<er>mino fuerça fizi-ere. +}
 {IN3.} Et si por auentura algun Ric o<mn>e o caual-lero {RUB. }
-alguna fuerc'a fiziere en el t<er>mino
+alguna fuerça fiziere en el t<er>mino
 de alcaraz. & hy fuere ferido o muer-
 to; no<n> pechen calo<n>na por ende. Onde ma<n>-
 do q<ue> tod aq<ue>l q<ue> en alcaraz o en su t<er>mino po-
-sadas por fuerc'a tomare. o alguna cosa a}
+sadas por fuerça tomare. o alguna cosa a}
 [fol. 3r]
 {HD. :I<<o>>:.}
 {HD. T<itul><<o>> viij<<o>>.}
@@ -98,7 +98,7 @@ riba; no<n> peche en muros. ni en torres. ni en otras
 cosas ningunas por siempre iamas; {AD. [^ix.]} {RUB. q<u><<a>>les de-uen +}
 {IN3.} Et si al-gunos {RUB. auer un fuero. & un coto.}
 Condes o podestades. o cauall<er>os.
-o ynfanc'ones. si quier sean del Regno
+o ynfançones. si quier sean del Regno
 o de fuera del Regno q<ue> a alcaraz uinieren po-
 blar. tales calo<n>nas ayan como los otros pobla-
 dores. tan bien de uida como de muerte. & a
@@ -218,7 +218,7 @@ no prenda parte en ni<n>guna cosa si non fue}
 {HD. :I<<o>>:.}
 {CB1.
 en omezillo. o en crebantamie<n>to de casa. Et de
-la mug<er> forc'ada. Et de furto. Mas del furto de la
+la mug<er> forçada. Et de furto. Mas del furto de la
 h<er>mandat non aya nada. Aun el palacio no<n> aya par-
 te si no<n> destas calo<n>nas tan sola mie<n>tre q<u><<a>>ndo acae-
 ciere. En la calo<n>na del omezillo q<u><<a>>ndo el se<n>nor de
@@ -231,8 +231,8 @@ heredar. Ca tod aq<ue>l q<ue> casa alquilare se<n>nor es de si
 & de sus cosas. & padre de sus fijos. Ca si alguno
 fuere ue<n>cido de furto. aya el q<ue>relloso el furto do-
 blado. & el palacio prenda el doble otrossi. & no<n> otri.
-El palacio aya parte en la calo<n>na de la mug<er> forc'a-
-da. Et del se<n>nor enc'errado co<n> armas deuedadas
+El palacio aya parte en la calo<n>na de la mug<er> força-
+da. Et del se<n>nor ençerrado co<n> armas deuedadas
 En la casa crebantada. De la plaga del se<n>nor De
 la ferida del se<n>nor. En el creba<n>tamie<n>to del mercado.
 & del conceio. Et en las armas uedadas si en mer-
@@ -293,7 +293,7 @@ da {AD. [^xxviij<<o>>.]} {RUB. del fecho de las ferias. & de su coto.}}
 {HD. L<ibr><<o>>.}
 {CB1.
 {IN3.} Aun a p<ro>uecho & a ondra de la cibdat otor-
-go uos las ferias q<ue> enpiec'en ocho dias
+go uos las ferias q<ue> enpieçen ocho dias
 ante de la fiesta de cinq<u><<a>>esma. & duren
 fata ocho dias passados despues de la fiesta.
 Et tod aq<ue>l q<ue> a estas ferias uiniere si q<u><<i>>er sea
@@ -301,7 +301,7 @@ cristiano. o moro. o iudio; uenga segura me<n>t.
 Et qual q<u><<i>>er q<ue>l enbargare. o mal le fiziere;
 peche mil m<o>r<auedis> al Rey en coto. & tod el da<n>no q<ue> fi-
 ziere doblado al q<ue>relloso. Et si non ouiere de
-q<ue> lo peche; sea iustic'iado. Et si alguno lo ma-
+q<ue> lo peche; sea iustiçiado. Et si alguno lo ma-
 tare; el biuo deyus del sea sot<er>rado. Et sil firi-
 ere; corten le la mano. Et el q<ue> matare; el bi-
 uo deyus del muerto sea sot<er>rado. Mas si fur-
@@ -411,7 +411,7 @@ delexar con la calon<n>a sobredicha. {AD. [^xij.]} {RUB. daq<ue>l q<ue> so-bre +
 {IN3.} Aun qual {RUB. lauor agena e<n>trare. o a re-fierta +}
 q<u><<i>>er q<ue> sobre {RUB. en rayz agena laurare.}
 lauor agena entrare. o en otra cosa de
-la h<er>edat tomada a refierta come<n>c'are a la-
+la h<er>edat tomada a refierta come<n>çare a la-
 urar; prenda la voz de la h<er>edat. & peche
 .x. m<o>r<auedis> en coto. Despues es establecido por q<ue> }
 [fol. 10r]
@@ -461,7 +461,7 @@ adu<er>sario a t<er>cer dia a la puerta del iuez
 poniendoles plazo assi como sobredicho es. {AD. [^xviij.]} {RUB. q<u><<a>>l +}
 {IN3.} Et esto es a sab<e>r {RUB. lauor deue defender la +}
 q<ue> la lauor fecha con aradro {RUB. heredat.}
-con ac'ada. & q<ue> alcanc'a toda la t<ie>ra de sul-
+con açada. & q<ue> alcança toda la t<ie>ra de sul-
 co a sulco: esto puede la h<er>edat defender. mas}
 [fol. 11r]
 {HD. :II<<o>>:.}
@@ -535,14 +535,14 @@ el conceio desse lugar mismo les otorgare o
 les diere. Q<ue> si por auentura el co<n>ceio del al-
 dea esto fazer no quisiere; el iuez de la cib-
 dat & los alcaldes den a essos pobladores lu-
-gar pora fazer casas c'erca las otras casas en
+gar pora fazer casas çerca las otras casas en
 lugar co<n>uiniente mas enp<er>o si alguno su casa
 uendiere. & en es lugar otra fazer quisiere; no<n>}
 [fol. 12v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> xxviij.}
 {CB1.
-la faga si no en cimie<n>to co<m>prado. Mas la roc'a
+la faga si no en cimie<n>to co<m>prado. Mas la roça
 q<ue> alguno fiziere fuera de exido. o de rayz a-
 gena; firme sea. {AD. [^xxv.]} {RUB. de la<<s>> arrotura<<s>>.}
 {IN3.} Avn el arrotura q<ue> cadauno fuera de exi-
@@ -606,7 +606,7 @@ no mal lo calentare. & da<n>no por ende uinie-
 re; peche lo doblado. Mas si la fornera la:
 uez del forno cameare a alguna muger; pe-
 che .v. s<ueldo>s. la meatat al q<ue>relloso. & la meatat
-al almotac'an. & el da<n>no doblado. {AD. [^xxxij.]} {RUB. del fuero. +}
+al almotaçan. & el da<n>no doblado. {AD. [^xxxij.]} {RUB. del fuero. +}
 {IN3.} Los uarones uayan al ua<n>-no {RUB. del va<n>no.}
 de co<n>ceio o daq<ue>l cuyo fuere en el
 dia del martes. & en el dia del yue-
@@ -627,10 +627,10 @@ m<o>r<auedis>. Otrossi peche .x. m<o>r<auedis> qual q<u><<i>>er q<ue> a las mu-
 g<er>es assechare en el va<n>no. Enpero si alguna
 mug<er> en los [^dias] de los uarones entrare en el ua<n>-
 no. o de noche hy fuere fallada. & alguno hy
-la escarnec'iere; o fuerc'a le fiziere; non peche
+la escarneçiere; o fuerça le fiziere; non peche
 por ende calo<n>na. ni salca enemigo. Mas el ua-
-ron q<ue> en otro dia en el ua<n>no a la mug<er> fuerc'a
-fiziere. o la desondrare; sea iustic'iado. {AD. [^xxxiij.]} {RUB. del tes-timonio +}
+ron q<ue> en otro dia en el ua<n>no a la mug<er> fuerça
+fiziere. o la desondrare; sea iustiçiado. {AD. [^xxxiij.]} {RUB. del tes-timonio +}
 {IN3.} Las mug<er>es testi-guen {RUB. de las mug<er>es.}
 en va<n>no. en forno. en fuente. en
 Rio. & aun en s<us> filazas. & en s<us> texe-
@@ -647,7 +647,7 @@ mataren; no<n> aya y por ende calo<n>na. El se<n>-
 nor del ua<n>no abonde a los ua<n>nadores de las
 cosas q<ue> les fuere<n> menester assi como de agua.
 & de las otras cosas & si no lo fiziere; peche. x.
-<sueldos> al almotac'an & al q<ue>relloso. Mas aq<ue>l q<ue> de
+<sueldos> al almotaçan & al q<ue>relloso. Mas aq<ue>l q<ue> de
 las cosas usables del va<n>no alguna cosa furta
 re; corten le las oreias. & si de las cosas de
 los va<n>nadores alguna cosa furtare. por .x. m<o>r<auedis>
@@ -698,7 +698,7 @@ noche; con dos uezinos. {AD. [^xl.]} {RUB. de aq<ue>l q<ue> con los +}
 con los pe<n>nos fuxiere. do q<u><<i>>er q<ue> el mes-
 seguero lo pudiere conseguir; tomel
 pe<n>nos sin calo<n>na. & otrossi faga el se<n>nor dela
-mies. Mas si alcanc'ar nol pudiere<n>. peyndre<n>
+mies. Mas si alcançar nol pudiere<n>. peyndre<n>
 en la casa del se<n>nor del ganado. pe<n>nos q<ue> uala<n>
 en doble del da<n>no con vn uezino. Et si por a-
 uent<ur>a el se<n>nor del ganado defiendiere pen-
@@ -807,12 +807,12 @@ al q<ue>relloso .lx. m<enca>les. & el da<n>no doblado. Mas
 si de noche esto fuere fecho; peche las calo<n>nas
 dobladas. & refaga el da<n>no doblado. Et si por
 da<n>no de dia el acusado negare. & aun no pu-
-diere seer uenc'ido; por el da<n>no de dia yure
+diere seer uençido; por el da<n>no de dia yure
 co<n> .ij. uezinos. & sea creydo. Mas por el da<n>no
 de noche; salue se assi como de furto si nega-
 re. & por testigos no<n> pudiere seer prouado. {AD. [^Lij.]} {RUB. de +}
-{IN3.} Otrossi si algu-no {RUB. aq<ue>l q<ue> mies agena enc'endi-ere. +}
-mies agena a sabiendas enc'e<n>-diere {RUB. }
+{IN3.} Otrossi si algu-no {RUB. aq<ue>l q<ue> mies agena ençendi-ere. +}
+mies agena a sabiendas ençe<n>-diere {RUB. }
 en el ero o en el era; peche .ccc. s<ueldos>.}
 [fol. 18r]
 {HD. :II<<o>>:.}
@@ -831,12 +831,12 @@ de la fiesta de sant migael ni<n>gu-
 no no<n> deue responder por el da<n>no de las mi-
 esses. ni aun el messeguero ni el se<n>nor no<n> ha<n> de
 responder por los pe<n>nos q<ue> fa[^s]ta aq<ue>l dia no<n> fueren
-quitos. {AD. [^Lv.]} {RUB. del q<ue> su restoio o el ageno enc'endiere.}
+quitos. {AD. [^Lv.]} {RUB. del q<ue> su restoio o el ageno ençendiere.}
 {IN3.} Otrossi qual quier q<ue> su restoio encendiere.
 peche q<u><<a>>nto da<n>no fiziere co<n> yura de los
 q<ue>rellosos. Mas qui restoio ageno ence<n>-
 diere. o paia agena cogiere; peche lo con yura
-de su se<n>nor. & otrossi el da<n>no q<ue> por el enc'endimie<n>-
+de su se<n>nor. & otrossi el da<n>no q<ue> por el ençendimie<n>-
 to uiniere. {AD. [^Lvi.]} {RUB. del ganado q<ue> en el era da<n>no fiziere.}
 {IN1.} Otrossi si el ganado de alguno en el era}
 [fol. 18v]
@@ -895,7 +895,7 @@ cubra .iiij. cabriadas del paiar. Esto fecho.}
 {CB1.
 puede se partir del si quisiere. Et otrossi de-
 uedes sab<e>r q<ue> q<u><<a>>ndo el q<u><<i>>ntero no<n> arare; deue es-
-tercolar. o roc'ar. o fazer q<ue> q<u><<i>>er q<ue> p<er>teneciere a la
+tercolar. o roçar. o fazer q<ue> q<u><<i>>er q<ue> p<er>teneciere a la
 la lauor segund le mandare su se<n>nor. Mas el
 se<n>nor del el aradro. & el yuuo con todo su apare-
 iamie<n>to. & vianda pora los bueys. El q<u><<i>>ntero g<u><<a>>r-
@@ -926,9 +926,9 @@ q<ue> todas sean uendimiadas. Et si alguno le
 demostrare su ui<n>na con dos uezinos. & en el tie<m>-
 po de las uendimias o ante la fallare da<n>nada;
 ha de aplazar el g<u><<a>>rdador. ca el deue eme<n>dar
-tod el da<n>no q<ue> de dia contec'iere. Mas por el da<n>-
+tod el da<n>no q<ue> de dia conteçiere. Mas por el da<n>-
 no de la noche non ha de responder. Enpero
-si el da<n>no de noche contec'iere. & fastal tercer
+si el da<n>no de noche conteçiere. & fastal tercer
 dia a su se<n>nor no lo demostrare; peche lo. Otr<<o>>ssi
 peche el da<n>no de dia por q<ue> no diere pe<n>nos. o no<n>
 demostrare el da<n>nador. Mas si por auentura el
@@ -985,7 +985,7 @@ por el can; q<ue> coruo traxiere. si el coruo ouie-
 re dos cobdos en lue<n>go. & en el recoruo un cob-
 do. Ca en lugar de la calo<n>na ha de maiar al
 can; mas no matar. Mas si coruo no traxiere;
-matel en la vi<n>na. Et si nol pudiere alcanc'ar;
+matel en la vi<n>na. Et si nol pudiere alcançar;
 peche el se<n>nor del can assi como dicho es. Si
 ganado o otra bestia en vi<n>na entrare mag<<e>>r
 da<n>no no faga. por q<ue> piso la ui<n>na en entrar &
@@ -1014,7 +1014,7 @@ m<o>r<auedis>. por cada vid. por el sarmie<n>to vii
 m<o>r<auedis>. por qual q<u><<i>>er otro sarmie<n>to q<ue> conponga;
 peche .v. <sueldos>. {AD. [^Lxxij.]} {RUB. del q<ue> parra agena cortare.}
 {IN2.} Qval quier q<ue> parra agena cortare; pe-
-che .x. m<o>r<auedis>. & por el brac'o cinco m<o>r<auedis>.}
+che .x. m<o>r<auedis>. & por el braço cinco m<o>r<auedis>.}
 {CW. & por q<u><<a>>l q<u><<i>>er}
 [fol. 22r]
 {HD. :II<<o>>:.}
@@ -1026,14 +1026,14 @@ cinco sueldos. {AD. [^Lxxiij.]} {RUB. de aq<ue>l q<ue> agraz vendiere.}
 {IN3.} Qval q<u><<i>>er q<ue> agraz uendiere ante q<ue> las ui<n>-
 nas sean uendimiadas; peche .i. m<o>r<auedi>.
 si q<u><<i>>er sea iudio. si q<u><<i>>er cristiano. & esta
-calo<n>na aya el q<ue>relloso. & el almotac'an assi co-
+calo<n>na aya el q<ue>relloso. & el almotaçan assi co-
 mo fuero es. {AD. [^Lxiiij.]} {RUB. de aq<ue>l q<ue> en ui<n>na agena rosas o lilio +}
 {IN3.} Qual quier q<ue> en vi<n>na agena rosas o {RUB. cogiere.}
 lilio cogiere; por cadauna dellas peche
 .i. m<o>r<auedi>. & aun si cogiere binbres. o carden-
 chas. o ca<n>naueras. si pudiere seer prouado. & si
-non; salue se assi como de furto. {AD. [^Lxxv.]} {RUB. de aq<ue>l q<ue> c'u-mac +}
-{IN3.} Qval q<u><<i>>er q<ue> c'umac ageno {RUB. ageno cogie-re. +}
+non; salue se assi como de furto. {AD. [^Lxxv.]} {RUB. de aq<ue>l q<ue> çu-mac +}
+{IN3.} Qval q<u><<i>>er q<ue> çumac ageno {RUB. ageno cogie-re. +}
 cogiere; peche .x. m<o>r<auedis> si pudiere seer {RUB. }
 prouado; si non; salue se assi como
 de furto {AD. [^Lxxvi.]} {RUB. del coto de las ui<n>nas la vendimia co-gida. +}
@@ -1090,7 +1090,7 @@ cido fuere. Si no<n> por el da<n>no de dia; salue se
 con .i. uezino. & por el da<n>no de noche; con .ij. ue-
 zinos. & sea creydo. {AD. [^lxxxij.]} {RUB. del q<ue> en la uez agena el agua +}
 {IN2.} Otrossi qual quier q<ue> en la vez {RUB. tomare.}
-agua tomare. o la taiare. o fuerc'a so-brella}
+agua tomare. o la taiare. o fuerça so-brella}
 [fol. 23v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> lxxxv.}
@@ -1159,7 +1159,7 @@ el se<n>nor del fondon guarde el arbol de da<n>no.
 {IN3.} Si alguno {AD. [^lxxxxi.]} {RUB. del q<ue> el arbol ageno cortare.}
 cortare el arbol ageno q<ue> lieue fruto.
 peche .xxx. m<o>r<auedis>. si uencido fuere. Si
-cortare brac'o; peche .x. m<o>r<auedis>. si uencido fuere.
+cortare braço; peche .x. m<o>r<auedis>. si uencido fuere.
 si non; salue se como de furto. {RUB. del q<ue> noguera +}
 {IN3.} Otrossi qual q<u><<i>>er q<ue> nog<e>ra {RUB. agena descorte-zare. +}
 agena. o otro arbol descorteza {RUB. }
@@ -1228,7 +1228,7 @@ con .xij. uezinos. & sea creydo. & si alguno dellos
 conplir no pudiere; peche assi como sobr<e>dicho
 es. {AD. [^iiij.]} {RUB. Qual es el crebantamiento de la casa.}
 {IN3.} Et deuedes saber q<ue> aq<ue>l solo crebanta la
-casa; el q<ue> con corac'on de ferir entra & fi-
+casa; el q<ue> con coraçon de ferir entra & fi-
 ere. Del q<ue> con armas uedadas a sa<n>nas
 entra; maguer q<ue> no fiera. E el q<ue> contra defen-
 dimie<n>to del se<n>nor de la casa entra. & esta hy. {AD. [^v.]} {RUB. de +}
@@ -1260,7 +1260,7 @@ enemigo. Otrossi qual q<u><<i>>er q<ue> en casa agena es-
 tidiere. & por el ma<n>damie<n>to del se<n>nor de la ca-
 sa exir no<n> quisiere; peche assi como por casa
 crebantada. Et si el se<n>nor de la casa por fu-
-erc'a lo sacare. o lo firiere. o lo matare; no<n>
+erça lo sacare. o lo firiere. o lo matare; no<n>
 peche por ende calo<n>na. ni exca enemigo
 Mas el porfidioso si al se<n>nor de casa firiere;
 o matare. o a alguno de los suyos; peche q<u><<a>>l
@@ -1426,7 +1426,7 @@ de co<n>ceio fiziere; seya suyo & de conceio. & nu<n>-qua}
 {CB1.
 lo alquile a o<mn>e ni<n>guno. Et si alguno a
 otri lo alquilare; peche .lx. m<enca>les. al almo-
-tac'an. & al q<ue>relloso. {AD. [^xxvi.]} {RUB. de aq<ue>l q<ue> en el aldea fizie-re +}
+taçan. & al q<ue>relloso. {AD. [^xxvi.]} {RUB. de aq<ue>l q<ue> en el aldea fizie-re +}
 {IN3.} Otrossi qual q<u><<i>>er q<ue> en al-dea {RUB. defesa.}
 defesa fiziere; faga la a oio del
 aldea. & si non; no uala. {AD. [^xxvij.]} {RUB. De aq<ue>l q<ue> +}
@@ -1509,7 +1509,7 @@ ertas fueren. yure el co<m>prador con .ij. uezinos
 q<ue> aq<ue>llas firmas p<re>sentes eran oyentes & ue-
 yentes aq<ue>lla robracion; & q<ue> la carta es uer-
 dadera. {AD. [^xxxiijj.]} {RUB. de aq<ue>l q<ue> ante a<n>no & dia despues de +}
-{IN3.} Et aq<ue>l q<ue> la rayz {RUB. la robracio<n> forc'ado fuere.}
+{IN3.} Et aq<ue>l q<ue> la rayz {RUB. la robracio<n> forçado fuere.}
 robrada touiere. & alguno por ella a<n>-
 te a<n>no. & dia lo aplazare; de otor as-
 si como fuero es. & el otor dado; aya la Rayz
@@ -1595,7 +1595,7 @@ lo ouiere mester. {AD. [^xlvi.]} {RUB. Q<ue> los molinos fondon<er>os
 no fagan enbargo a los someros; faga se<n>nal +}
 {IN3.} Por q<ue> muchas uegadas suele {RUB. entrellos.}
 auenir q<ue> los fondoneros molinos a
-los someros enpeecen. por g<r><<a>>nt abon-danc'a}
+los someros enpeecen. por g<r><<a>>nt abon-dança}
 [fol. 33v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> xlviij.}
@@ -1750,7 +1750,7 @@ dadas. Mas el ap<r>eciamie<n>to uala en todo tiempo.
 {IN3.} Et si por auentura despues del desposorio
 el esposo con su esposa co<n>uiniere. & des-
 pues la repoyare; peche .c. m<o>r<auedis>. & exca
-enemigo si despu<>es la repoyare. {AD. [^Lxij.]} {RUB. de aq<ue>l q<ue> despues +}
+enemigo si despues la repoyare. {AD. [^Lxij.]} {RUB. de aq<ue>l q<ue> despues +}
 {IN3.} Et si por auentura despu-es {RUB. del desposorio el a ella. +}
 del desposorio el esposo al {RUB. o ella a el repoya-re. +}
 esposa. o la esposa al esposo repoyare. {RUB. }}
@@ -1838,7 +1838,7 @@ padre & de su madre. tan bien en mue-
 ble; como en Rayz. & el padre & la ma-
 dre. los bienes del fijo en mueble. Ca el padre
 non ha de h<er>edar la Rayz q<ue> el fijo de su pat<r><<i>>mo-
-nio alcanc'are. Mas las Rayz q<ue> el padre & la ma-
+nio alcançare. Mas las Rayz q<ue> el padre & la ma-
 dre en uno ganaren; a lo de h<er>edar el padre o
 la madre q<ue> fincare en todos los dias de la su
 vida por derecho del fijo. si el fijo uisquiere .ix
@@ -1853,7 +1853,7 @@ q<ue> mag<u><<e>>r q<ue> el padre q<ue> sobreuisq<u><<i>>ere ha de h<er>edar es-
 ta rayz en todos los dias de la su vida; enpero
 por q<ue> la Rayz; deue tornar a rayz. ha de dar fi-
 adores q<ue> la Rayz ni la da<n>ne ni la malmeta. Mas
-la Rayz q<ue> el fijo de su pat<r><<i>>monio alcanc'are; tor-ne}
+la Rayz q<ue> el fijo de su pat<r><<i>>monio alcançare; tor-ne}
 [fol. 38v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> Lxxvi.}
@@ -1892,13 +1892,13 @@ ni<n>guna cosa; contra su uoluntat dellos. {AD. [^Lxxvij.]} {RUB. Q<ue> los +}
 los malos fechos de sus fijos. si quier
 sean cuerdos. q<u><<i>>er locos. Et si alguno
 con mal fecho en casa de alguno entrare. q<u><<i>>er sea
-collac'o daq<ue>lla casa o dotra; el se<n>nor de casa no
+collaço daq<ue>lla casa o dotra; el se<n>nor de casa no
 responda por el si nol defendiere. Enpero si lo
 defendiere; responda por el. o aduga lo a dere-
 cho. Mas si a la casa del se<n>nor no tornare. o el
 no lo defendiere; no<n> responda por ell. si non
 el padre. & la madre. Enpero si el fijo omezillo
-fiziere ante q<ue> sea casado mag<u><<e>>r q<ue> sea collac'o; ni<n>-
+fiziere ante q<ue> sea casado mag<u><<e>>r q<ue> sea collaço; ni<n>-
 guno no<n> responda por el si non el padre & la ma-
 dre. ca ellos deuen pechar las calo<n>nas. mag<u><<e>>r
 no exca<n> enemigos si en el omezillo no<n> fueren
@@ -1974,7 +1974,7 @@ co<n>tiene co la vi<n>na. & demas las casas q<ue> yo
 fiz. o co<n>pre en tal lugar. & do ge las estas & to-
 do lo al sobredicho forro & q<u><<i>>to. Et do a fula<n> mj
 fijo menor vn ero. o vna ui<n>na con su parte q<ue> al-
-canc'a de particion. Desto son testigos los nom-
+cança de particion. Desto son testigos los nom-
 bres de los quales son esc<r><<i>>ptos en esta carta. F.
 p. d. Era tal. So el rey. So el se<n>nor. So el iuez.
 .f. Merino. f. Sayon d<ieg><<o>> ruuio. {AD. [^Lxxxiij.]} {RUB. Otrossi la particio<n> }
@@ -1999,7 +1999,7 @@ la madre. {AD. [^Lxxxiiij.]} {RUB. Otrossi de la particion.}
 pagadas las debdas. & las helemosi-
 nas. & los pa<n>nos assi como dicho es;
 los fijos o los herederos partan todos s<us> bie-nes.
-{IN3.} Otrossi q<u><<a>>l q<u><<i>>er %2 {AD. [^Lxxxv.]} {RUB. Otrossi de la particio<n>.}
+{IN3.} Otrossi q<u><<a>>l q<u><<i>>er ¶2 {AD. [^Lxxxv.]} {RUB. Otrossi de la particio<n>.}
 q<ue> sin fijos muriere; los mas p<ro>pinquos
 parientes q<ue> el ouiere; hereden s<us> bie-
 nes tan bien en mueble. como en Rayz. Otr<<o>>s-
@@ -2035,7 +2035,7 @@ ouiere & muger quisiere tomar; p<r><<i>>m<er>o}
 {HD. T<itul><<o>> Lxxxix.}
 {CB1.
 de a sus fijos la parte q<ue> de derecho de su ma-
-dre les alcanc'are. & despues tome la. Otrossi
+dre les alcançare. & despues tome la. Otrossi
 si de la segunda mug<er> fijos ouiere. & ella muer-
 ta la t<er>cera quisiere tomar; p<r><<i>>mero parta co<n> los
 fijos de la segunda dando les q<u><<a>>nto les alcan-
@@ -2203,7 +2203,7 @@ la mug<er> al uaron; si no<n> con amor de los h<er>ede-
 ros estando delant. & otorgando lo. {AD. [^C i.]} {RUB. Del testam<en>-to +}
 {IN3.} Et si por auent<ur>a {RUB. q<ue> los h<er>ed<er>os negare<n>.}
 los h<er>ederos la manda o el testam<en>to
-negaren; firmen los cabec'aleros &
+negaren; firmen los cabeçaleros &
 sean creydos. Et los cabecaleros cumplan a
 firma. & el maestro con un vezino. {AD. [^C ij.]} {RUB. De la mug<er>}}
 [fol. 45v]
@@ -2230,7 +2230,7 @@ fijo ante q<ue> casado sea fiziere; vano sea.
 & por ro<m>pudo sea iudgado. q<ue> q<u><<a>>ndo q<u><<i>>er
 q<ue> el seya en poder del padre ni<n>guna cosa no<n>
 puede dar. ni testar. ni mandar. ca todo q<u><<a>>nto
-del otro padre le alcanc'are; todo sera del pa-dre}
+del otro padre le alcançare; todo sera del pa-dre}
 [fol. 46r]
 {HD. :III<<o>>:.}
 {HD. T<itul><<o>> C vi.}
@@ -2241,7 +2241,7 @@ q<ue> sobreuisq<u><<i>>ere. assi como el mueble.
 na falsa ment se fiziere prenada;
 torne lo doblado todo q<u><<a>>ndo espen-
 dio en el asmamie<n>to de la pre<n>nedat a los h<er>e-
-deros del defunto. {AD. [^C vi.]} {RUB. De la crianc'a del huerfano.}
+deros del defunto. {AD. [^C vi.]} {RUB. De la criança del huerfano.}
 {IN3.} El fijo q<ue> despues de la muerte de su
 padre chico fincare; tengal uno con-
 tados sus bienes q<ue> heredo de parte
@@ -2268,11 +2268,11 @@ quier fiziere en los bienes del huerfano;
 peche lo doblado. Mas despues q<ue> el nino fu<er>e
 de .xij. a<n>nos; aya libre poder de yr o de estar
 con aq<ue>l q<ue> a el mas ploguiere. {AD. [^C vij.]} {RUB. del ni<n>no a teta}
-{IN3.} Si el ni<n>no a teta fuere la su nodric'a aya
+{IN3.} Si el ni<n>no a teta fuere la su nodriça aya
 de los bienes del fasta .iij. a<n>nos cada
 a<n>no .xij. m<en>c<a>l<e>s. & vn lecho en q<ue> yaga.
 Et los .iij. a<n>nos pastados; partan lo de la
-nodric'a. & el ni<n>no aya comer & uestir de lo su-
+nodriça. & el ni<n>no aya comer & uestir de lo su-
 yo. {AD. [^C viij.]} {RUB. De la unidat del marido. & de la muger.}
 {IN3.} Maguer q<ue> de suso dicho es q<ue> despues
 de la muerte del marido o de la mu-
@@ -2380,7 +2380,7 @@ do su cauallo & s<us> armas de fuste & de fierro.
 & el lecho en q<ue> yazie con su muger. & sus aues.
 Mas a la bibda den le el lecho en q<ue> yazie con
 su marido. & un campo de un cafiz sembradu-
-ra. & una yunta de bueys. & una aranc'ada de}
+ra. & una yunta de bueys. & una arançada de}
 [fol. 49r]
 {HD. :III<<o>>:.}
 {HD. T<itul><<o>>.}
@@ -2442,7 +2442,7 @@ un uezino. & sea creydo. {AD. [^iiij.]} {RUB. De la bestia q<ue> a o<mn>e firier
 {IN3.} La bestia q<ue> a om<n>e firiere o llagare. el se<n>-
 nor della de el precio al menge q<u><<a>>nto
 el sanar costare. Esto mismo sea de
-brac'o. o de pierna crebada. {AD. [^v.]} {RUB. de la bestia q<ue> a o<mn>e +}
+braço. o de pierna crebada. {AD. [^v.]} {RUB. de la bestia q<ue> a o<mn>e +}
 {IN3.} Si por auentura la bestia al-gun {RUB. matare.}
 om<n>e matare; el se<n>nor de la bes-
 tia peche .ccc. <sueldos>. o de el da<n>nador. Et
@@ -2625,9 +2625,9 @@ o matare; peche por la ferida la calo<n>-
 na a fuero de alcaraz. mas por la mu-
 erte sea metido en mano del q<ue>relloso. & el sa-
 q<ue> del las calo<n>nas. & en cabo del cuerpo faga lo
-q<ue> a el ploguiere. {AD. [^xxij.]} {RUB. De aq<ue>l q<ue> mora agena forc'a-re. +}
+q<ue> a el ploguiere. {AD. [^xxij.]} {RUB. De aq<ue>l q<ue> mora agena força-re. +}
 {IN3.} Otrossi qual quier q<ue> mora agena {RUB. }
-forc'are; peche le las arras assi como
+forçare; peche le las arras assi como
 a manceba de la cibdat desposada.
 {AD. [^xxiij.]} {RUB. De aq<ue>l q<ue> de mora agena fijo engendrare.}
 {IN1.} Otrossi qual q<u><<i>>er q<ue> de mora agena fijo}
@@ -2641,17 +2641,17 @@ fijo no<n> herede ni<n> parta con los h<er>manos q<ue> de
 parte de su padre ouiere; tanto como en
 seruidumbre souiere. Mas despues q<ue> q<u><<i>>to
 fuere; aya parte en los bienes de su padre.
-{AD. [^xxiiij.]} {RUB. De aq<ue>l q<ue> muger forc'are. o rabiere.}
-{IN3.} Otrossi qual quier q<ue> mug<er> forc'are o ra-
+{AD. [^xxiiij.]} {RUB. De aq<ue>l q<ue> muger forçare. o rabiere.}
+{IN3.} Otrossi qual quier q<ue> mug<er> forçare o ra-
 biere el padre ni la madre no q<ue>rien-
 do; peche .ccc. <sueldos>. & exca enemigo.
 tan bien el rabidor como sus ayudadores.
 Et otrossi peche cadauno .ccc. <sueldos>. & excan e-
 nemigos. Et si ella se consintiere despues
 a su rabidor; sea deseredada. & enemiga
-con su rabidor. {AD. [^xxv.]} {RUB. De aq<ue>l q<ue> mug<er> maridada for-c'are +}
+con su rabidor. {AD. [^xxv.]} {RUB. De aq<ue>l q<ue> mug<er> maridada for-çare +}
 {IN3.} Otrossi qual q<u><<i>>er q<ue> mug<er> mari-dada {RUB. }
-forc'are. o la rabiere; sea q<ue>-
+forçare. o la rabiere; sea q<ue>-
 mado. Et si nol pudieren prender;
 todos sus bienes seyan del marido de la mu-
 ger. & el exca enemigo por siempre. Et si de
@@ -2661,18 +2661,18 @@ grado con el ixiere. o en la cibdat. o en su ter-mino}
 {HD. T<itul><<o>> xxviij.}
 {CB1.
 con el fuere tomada; amos sean q<ue>ma-
-dos. {AD. [^xxvi.]} {RUB. Qual mug<er> ha de seer creyda por la fuerc'a.}
-{IN3.} Otrossi qual quier muger q<ue> por forc'ada
-se q<ue>rellare. & del dia del fuerc'a fasta
+dos. {AD. [^xxvi.]} {RUB. Qual mug<er> ha de seer creyda por la fuerça.}
+{IN3.} Otrossi qual quier muger q<ue> por forçada
+se q<ue>rellare. & del dia del fuerça fasta
 tercer dia al iuez & a los alcaldes se
 q<ue>rellare. & touiere las mexillas rascadas; el
-forc'ador fagal derecho yurando con .xij. uezi-
+forçador fagal derecho yurando con .xij. uezi-
 nos. o responda a su par qual mas le ploguiere
 ala q<ue>rellosa. & si cayere; exca enemigo por sie<m>-
 pre. & los ayudadores por un a<n>no. pechando las
 calo<n>nas de .ccc. <sueldos> cada uno por si. {AD. [^xxvij.]} {RUB. De aq<ue>l q<ue> la +}
-{IN3.} Otrossi qual quier q<ue> mo<n>-ia {RUB. mo<n>ia forc'are.}
-o mug<er> de orden forc'are; sea iusti-
+{IN3.} Otrossi qual quier q<ue> mo<n>-ia {RUB. mo<n>ia forçare.}
+o mug<er> de orden forçare; sea iusti-
 ciado sil pudiere<n> prender. & si non; pe-
 che. d. sueldos de las cosas q<ue> ouiere. {AD. [^xxviij.]} {RUB. De aq<ue>l +}
 {IN3.} Et qual quier {RUB. q<ue> a su mug<er> tomare en +}
@@ -2693,7 +2693,7 @@ la puta. o rocinada. o gafa;
 peche dos m<o>r<auedis>. & sobresto yure q<ue> aq<ue>l mal q<ue>l di-
 xo q<ue> no lo sabe en ella. Mas si yurar non q<u><<i>>-
 siere; exca enemigo. Enpero si alguno puta
-paladina forc'are. o denostare; no<n> peche nada.
+paladina forçare. o denostare; no<n> peche nada.
 {IN3.} Otrossi q<u><<a>>l q<u><<i>>er {AD. [^xxx.]} {RUB. De aq<ue>l q<ue> a la mug<er> por los +}
 q<ue> a la muger por {RUB. cabellos la tomare.}
 los cabellos la tomare; peche .x. m<o>r<auedis>.
@@ -2702,7 +2702,7 @@ el tuerto con dos de q<u><<a>>tro co<n>nombrados de su
 collacion. {AD. [^xxxi.]} {RUB. De aq<ue>l q<ue> a la mug<er> a sa<n>nas enpuxare.}
 {IN3.} Otrossi qual quier q<ue> a la mug<er> a sa<n>nas
 enpuxare; peche .v. m<o>r<auedis>. Mas si por
-fuerc'a del enpuxada cayere en t<ier>ra
+fuerça del enpuxada cayere en t<ier>ra
 maguer liuores non faga; peche .x. m<o>r<auedis>. & si la
 llagare; peche .xxx. m<o>r<auedis>. {AD. [^xxxij.]} {RUB. De aq<ue>l q<ue> arrabare
 o tomare los pa<n>nos de la muger despoiada.}}
@@ -2742,7 +2742,7 @@ a su par. {AD. [^xxxvij.]} {RUB. De la q<ue> marido ouiere. & co<n> ot<r><<o>> c
 {IN3.} Otrossi si la mug<er> marido ouiere en ot<r><<o>>
 lugar. & en alcaraz co<n> otro se casare;
 sea q<ue>mada. Et si se<n>nor fiziere; sea
-fostigada por las plac'as. & por todas las cal-
+fostigada por las plaças. & por todas las cal-
 les de la cibdat. & echen la fuera de la cib-
 dat. {AD. [^xxxviij.]} {RUB. Del casado q<ue> barragana paladina touie-re +}
 {IN3.} Otrossi si el o<mn>e {RUB. en el lugar. o en el t<er>-mino. +}
@@ -2778,7 +2778,7 @@ como fuero es. {AD. [^xlij.]} {RUB. De los ligadores. & las liga-deras. +}
 bestias. o otras cosas ligare; sea q<ue>-
 mada. si non; salue se por fierro
 caliente. Si el ligador fuere uaron; sea des-
-quilado. & ac'otado. & echen le de la cibdat.
+quilado. & açotado. & echen le de la cibdat.
 Si negare; salue se por lid. {AD. [^xliij.]} {RUB. De las erbole-ras. +}
 {IN1.} Otrossi la muger {RUB. & las fechize-ras +}
 {RUB. }}
@@ -2805,7 +2805,7 @@ meter las manos. & aya en luengo un palmo.
 & en ancho dos dedos. Mas aq<ue>lla q<ue> ha de le-
 uar el fierro; lieue lo .ix. pies. & ponga lo en ti-
 erra mansa mie<n>tre. Mas enpero p<r><<i>>mera mie<n>tre
-sea bendicho de cl<er>igo missa[+]ca<n>tano. {AD. [^xlvij.]} {RUB. Del cale<n>tar
+sea bendicho de cl<er>igo missa( )ca<n>tano. {AD. [^xlvij.]} {RUB. Del cale<n>tar
 del fierro.}}
 [fol. 57v]
 {HD. L<ibr><<o>>.}
@@ -2856,12 +2856,12 @@ ouiere sospecha q<ue>l faze alef. & la uer-
 dat no pueda. p<ro>uar; la mug<er> salue-
 se yurando con .xij. mugeres vezinas. & seya
 creyda. Mas si non pudiere conplir; puede la
-dexar sin calo<n>na. {AD. [^Lij.]} {RUB. De la nodric'a q<ue> a su criado}}
+dexar sin calo<n>na. {AD. [^Lij.]} {RUB. De la nodriça q<ue> a su criado}}
 [fol. 58v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> Liiij.}
 {CB1.
-{IN3.} Si la nodric'a leche {RUB. diere leche enferma.}
+{IN3.} Si la nodriça leche {RUB. diere leche enferma.}
 enferma diere a su criado; las calo<n>-
 nas pagadas exca enemiga. si por
 aq<ue>lla occasion la criatura muriere. {AD. [^Liij.]} {RUB. Del de-nostamie<n>to +}
@@ -2900,7 +2900,7 @@ se con dos de q<u><<a>>tro co<n>nombrados de su colla-
 cion. {AD. [^Lvi.]} {RUB. De aq<ue>l q<ue> a otro a sa<n>nas enpuxare.}
 {IN3.} Otrossi qual quier q<ue> a otro a sa<n>nas en-
 puxare; peche .ij. m<o>r<auedis>. Si por auen-
-tura por la fuerc'a del enpuxada ca-
+tura por la fuerça del enpuxada ca-
 yere; peche .x. m<o>r<auedis>. Et si liuores fiziere; pe-
 che .xxx. m<o>r<auedis>. si por testigos uencido fuere. &
 si non; salue se co<n> .ij. de quatro co<n>nombrados
@@ -2917,7 +2917,7 @@ manifiesto. & si non; salue se con dos de q<u><<a>>tro
 co<n>nombrados de su coll<aci>on. Otrossi qual q<u><<i>>er
 q<ue> con pu<n>no. o con palma de los ombros ayuso
 a otro firiere; por cadauna ferida peche .ij. m<o>r<auedis>.
-en qual q<u><<i>>er lugar q<ue> fiera co<n> mal corac'on. Et
+en qual q<u><<i>>er lugar q<ue> fiera co<n> mal coraçon. Et
 si negare; salue se co<n> dos de q<u><<a>>tro co<n>nombrados
 de su coll<aci>on. & sea creydo. {AD. [^Lxiij.]} {RUB. De aq<ue>l q<ue> en el cuello. +}
 {IN3.} Otrossi qual q<u><<i>>-er {RUB. o en la cara liuores fiziere. }
@@ -2944,12 +2944,12 @@ se con .xij. uezinos. o responda a su par.
 q<ue> a otro el pulgar le cortare; peche
 cinq<u><<a>>enta m<o>r<auedis>. Si negare; salue se
 con .xij. uezinos. o responda a su par. {AD. [^Lxiij.]} {RUB. De +}
-{IN3.} Otrossi qual q<u><<i>>-er {RUB. aq<ue>l q<ue> brac'o crebare.}
-q<ue> brac'o crebare; peche cinq<u><<a>>enta
+{IN3.} Otrossi qual q<u><<i>>-er {RUB. aq<ue>l q<ue> braço crebare.}
+q<ue> braço crebare; peche cinq<u><<a>>enta
 m<o>r<auedis>. Si negare; salue se con .xij.
-uezinos. o responda a su par. {AD. [^Lxiiij.]} {RUB. De aq<ue>l q<ue> bra-c'o +}
+uezinos. o responda a su par. {AD. [^Lxiiij.]} {RUB. De aq<ue>l q<ue> bra-ço +}
 {IN3.} Et qual quier q<ue> a otro {RUB. cortare.}
-el brac'o cortare; peche cient m<o>r<auedis>.
+el braço cortare; peche cient m<o>r<auedis>.
 {AD. [^Lxv.]} {RUB. De aq<ue>l q<ue> la pierna a alguno crebare.}
 {IN3.} Otrossi qual quier q<ue> la pierna a al-
 guno crebare; peche cinq<u><<a>>enta m<o>r<auedis>.
@@ -3119,7 +3119,7 @@ seer prouado. si non; iure con dos de q<u><<a>>-
 tro co<n>nombrados de su coll<aci>on. & sea creydo.
 {IN3.} Otrossi qual q<u><<i>>er {AD. [^lxxxvi.]} {RUB. De miembro tollido.}
 q<ue> a om<n>e en algun miembro firiere. &
-por aq<ue>lla ocasion la fuerc'a del miem-
+por aq<ue>lla ocasion la fuerça del miem-
 bro p<er>diere; peche el coto q<ue> de suso es dicho;
 del miembro cortado. {AD. [^lxxxvij.]} {RUB. Del palo metido por el culo.}
 {IN3.} Otrossi qual quier q<ue> a alguno fuera de
@@ -3186,7 +3186,7 @@ des. & guardar la pora la lauor de los muros.
 & dar cuenta del auer de las calo<n>nas desta ma-
 nera. {AD. [^lxxxxiij.]} {RUB. Del crebantamiento de las fuessas.}
 {IN3.} Mando q<ue> qual quier q<ue> a om<n>e dessot<er>ra-
-re; q<ue> peche. d. <sueldos>. ca forc'ada mie<n>tre
+re; q<ue> peche. d. <sueldos>. ca forçada mie<n>tre
 lo saco de su casa. Et si alguno las pi-
 edras del sepulcro furtare; tenido es de respon-
 der assi como por fecho del furto. Otrossi q<u><<a>>l q<u><<i>>eR}
@@ -3276,7 +3276,7 @@ de su uezindat. & fasta tres dias despues del}
 {CB1.
 amonestamie<n>to el se<n>nor de la tristega la fedor
 no<n> uedare; peche cada dia .i. m<o>r<auedi>. fasta q<ue> lo ui-
-ede. Por estas calo<n>nas peyndre el almotac'a<n>.
+ede. Por estas calo<n>nas peyndre el almotaça<n>.
 et parta con el q<ue>relloso assi como fuero es.
 {IN3.} Qval quier {AD. [^C iiij.]} {RUB. De las finiestras vedadas.}
 q<ue> touiere la paret de su casa en camara
@@ -3587,7 +3587,7 @@ por .i. a<n>no. Mas si este negare. aq<ue>l q<ue> no uini-
 ere peche la meatat de la calo<n>na; & exca ene-
 migo por siempre. Et el q<ue> negare; salue se
 con .xij. uezinos. o yure solo & responda al
-Rie<>pto. lo q<ue> al q<ue>relloso mas ploguiere. Si li-
+Riepto. lo q<ue> al q<ue>relloso mas ploguiere. Si li-
 diare & uenciere; sea desreptado en el campo
 & saludado en co<n>ceio. Mas si fuere uencido;
 peche la meatat de la calo<n>na. & sea enemigo
@@ -3745,7 +3745,7 @@ q<ue> alguna cosa de aq<ue>llos {RUB. }
 bienes defendiere; el peche todas las
 calo<n>nas del omicida foydo. {AD. [^xxxviij.]} {RUB. De aq<ue>l q<ue> de los bie-nes +}
 {IN3.} Si alguno to-uiere {RUB. del foydo alguna co-sa +}
-por fuerc'a algu-na {RUB. touiere.}
+por fuerça algu-na {RUB. touiere.}
 cosa de los bienes del foydo.}
 [fol. 76r]
 {HD. :V<<o>>:.}
@@ -3796,7 +3796,7 @@ en la prision del iuez fasta q<ue> las pechen. {AD. [^xlv.]} {RUB. Los +}
 {IN3.} Los desafiado-res {RUB. desafiare<n>. & no los otros +}
 si quier sea uno si q<u><<i>>er {RUB. parientes.}
 muchos coian la parte de las calo<n>-
-nas q<ue> alcanc'aren; & no los otros. si derecha}
+nas q<ue> alcançaren; & no los otros. si derecha}
 [fol. 77r]
 {HD. :V<<o>>:.}
 {HD. T<itul><<o>> xlvij.}
@@ -3956,7 +3956,7 @@ tumbre & por fuero. q<ue> q<u><<a>>ndo el marido
 acaba omezillo. o ladronicio. o tal mal-
 dat por q<ue> aya de p<er>der todos sus bienes. esto<n>-
 ce la muger p<r><<i>>mera me<n>t saca toda la meatat
-de todos los bienes q<ue>l alcanc'an. & la otra me-
+de todos los bienes q<ue>l alcançan. & la otra me-
 atat tomen la por las calonas. Onde pora esta
 costumbre desfazer & derraygar; mandamos
 q<ue> qual quier q<ue> o<mn>e matare. o uendiere. o otra
@@ -3969,7 +3969,7 @@ se suele gozar co<n> la ganancia q<ue> su marido le
 traye; no sera marauilla si alguna se doliere
 del p<er>dimie<n>to de las cosas por occasion del ma-
 rido. Por end digna cosa es q<ue> los q<ue> en uno su-
-elen parar los gozos; la tristic'ia q<u><<a>>ndo uiniere
+elen parar los gozos; la tristiçia q<u><<a>>ndo uiniere
 en uno la partan. Et aq<ue>llo q<ue> fincare la<<s>> calo<n>na<<s>>
 co<m>plida<<s>> de mueble, o de Rayz. o de auer; todo}
 [fol. 80v]
@@ -3989,12 +3989,12 @@ a otro se<n>nor. Mas enpero si alguno en
 heredat agena algun tesoro fallare; el se<n>nor
 de la h<er>edat aya la meatat dellos. {AD. [^Lx.]} {RUB. Otro fuero.}
 {IN3.} Otorgo uos demas q<ue> a aq<ue>l q<ue> fuere ten-
-dero el almotac'an nol demande por-
+dero el almotaçan nol demande por-
 tadgo. si q<u><<i>>er sea en la cibdat. si quier
 fuera de la cibdat; si no<n> aq<ue>llo q<ue> de derecho ha
 de demandar. Et maguera q<ue> el mercador en
 la cibdat no<n> paga portadgo. el tendero q<u><<a>>ndo
-en la carrera fuere alcanc'ado; el almotac'an
+en la carrera fuere alcançado; el almotaçan
 tome el portadgo q<ue> de derecho deue dema<n>-
 dar. & non otra calo<n>na. & demas nol faga tor-nar.}
 [fol. 81r]
@@ -4002,7 +4002,7 @@ dar. & non otra calo<n>na. & demas nol faga tor-nar.}
 {HD. T<itul><<o>> ij.}
 {CB1.
 {AD. [^i.]} {RUB. Del escogencia del iuez. & de los alcal-
-des. del escriuano. del almotac'an. & del estable-
+des. del escriuano. del almotaçan. & del estable-
 cimiento de los andadores. & de las soldadas. +}
 {AD. [^LIBRO
 SEXTO]} {IN8. {MIN.}} MANDO: {RUB. dellos.}
@@ -4013,7 +4013,7 @@ sant migael q<ue> el
 conceio ponga iu-
 ez. & alcaldes. es-
 criuano. & andado-
-res. sayon. & almotac'an; cada<n>no por fuero.
+res. sayon. & almotaçan; cada<n>no por fuero.
 {IN3.} Por end dezimos cadan-no. {AD. [^ij.]} {RUB. Otro fuero.}
 por q<ue> ninguno no<n> deue tener ofi-
 cio de conceio. ni portiello; sino por .i.
@@ -4038,7 +4038,7 @@ en la cibdat de alcaraz por nombre
 & cauallo por un a<n>no complido. & el
 cauallo q<ue> uala .xx. m<o>r<auedis>; no<n> sea iuez. ni alcalde.
 {IN3.} Otrossi non sea iuez ni al-calde; {AD. [^ij.]} {RUB. Otro fuero.}
-qui por fuerc'a quisiere el iudga-
+qui por fuerça quisiere el iudga-
 do auer. {AD. [^ij.]} {RUB. De la collacion desacorda<n>te +}
 {IN3.} Otrossi qual quier col-lacion {RUB. en dando iuez.} en el sobredicho dia de su al-
 calde. qual el iuez q<ue> uos demostramos.
@@ -4060,7 +4060,7 @@ escoger iuez. & sobrel q<ue> cayere la suerte sea iuez
 del a<n>no passado escoian al-calde {RUB. }
 de la collacion desacordante.
 {IN2.} Tod aq<ue>l q<ue> iudgado o alcaldia {AD. [^iij.]} {RUB. Otro fuero.}
-por fuerc'a de parientes auer quisiere.
+por fuerça de parientes auer quisiere.
 o de Rey. o de se<n>nor de villa. o lo uendiere
 o en el parte le fiziere ante de la iura; no<n> sea iuez.
 en todos los dias de su vida. ni tenga officio de co<n>-
@@ -4069,15 +4069,15 @@ ceio. ni portiello. {AD. [^iiij.]} {RUB. Del sacram<en>to del iuez. & de lo<<s>>
 el pueblo confirmada; el iuez iure sobre
 los santos euangelios. q<ue> ni<n> por amor
 de parientes. ni<n> por bien q<ue>rencia de fijos. ni por
-cobdicia. ni por uerguenc'a de p<er>sona. ni por ruego.
+cobdicia. ni por uerguença de p<er>sona. ni por ruego.
 ni por p<re>cio de amigos. ni de vezinos. ni de estra<n>-
 nos; no crebante el fuero. ni delexe la carrera de
-iustic'ia. Esto mismo iuren los alcaldes como sobre}
+iustiçia. Esto mismo iuren los alcaldes como sobre}
 [fol. 82v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> vij.}
 {CB1.
-dicho es. Desend el escriuano. & el almotac'an;
+dicho es. Desend el escriuano. & el almotaçan;
 & el sayon. {AD. [^v.]} {RUB. Q<ue> todos yuren en co<n>ceio q<u><<a>>ndo fue-ren +}
 {IN3.} Estos iuren en co<n>ceio. {RUB. escogidos.}
 & deuen iurar fieldat de conceio;
@@ -4204,9 +4204,9 @@ al q<ue>relloso. {AD. [^xiiij.]} {RUB. Del pregon de los pleytos.}}
 {HD. T<itul><<o>> xvi.}
 {CB1.
 {IN3.} La ora del pregonar. o de encerrar plazos sea
-desde tercia fasta ora de sexta. El comie<n>c'o
+desde tercia fasta ora de sexta. El comie<n>ço
 de los plazos sea pregonado en amas la<<s>>
-plac'as. Et el iuez iudgue a su puerta con alcalde
+plaças. Et el iuez iudgue a su puerta con alcalde
 iurado & no con otro. {AD. [^xv.]} {RUB. Si el iuez ixiere fuera de +}
 {IN3.} Si por auentura por alguna ne-cessidat {RUB. la cibdat.}
 el iuez ixiere fuera de la cibdat.
@@ -4315,8 +4315,8 @@ do q<ue> qual quier [^2#q<ue>] de algun alcalde
 en la corte se q<ue>rellare; luego el iuez & los ot<r><<o>>s
 alcaldes costringan lo q<ue> cumpla de derecho al
 q<ue>relloso. & fasta q<ue> esto sea fecho; otro pleyto ni<n>-
-guno no sea tractado. {AD. [^xxix.]} {RUB. Del oficio del almotac'a<n>.}
-{IN3.} El almotac'an otrossi sea sobre las me-
+guno no sea tractado. {AD. [^xxix.]} {RUB. Del oficio del almotaça<n>.}
+{IN3.} El almotaçan otrossi sea sobre las me-
 didas de tod el pan. del vino. del o-
 lio. & de la sal. & sobre las pesas. & la<<s>>
 libras. & sobre carniceros. & tenderos. los olle-
@@ -4334,9 +4334,9 @@ acotare. {AD. [^xxx.]} {RUB. De aq<ue>l q<ue> se q<ue>rellare al mayordomo.}
 alguna destas cosas sobredichas; lu-
 ego peyndre por la calo<n>na del coto q<ue>
 adelante sera dicho. {AD. [^xxxi.]} {RUB. En qual manera la calo<n>na +}
-{IN3.} Et esta calonna {RUB. del almotac'a<n> sea partida.}
+{IN3.} Et esta calonna {RUB. del almotaça<n> sea partida.}
 sea partida en tres partes. el un tercio
-parta lo el almotac'an co<n> el q<ue>relloso. &
+parta lo el almotaçan co<n> el q<ue>relloso. &
 los dos q<ue> fincan sean del conceio pora encerrar
 los portiellos de la cibdat. Et el mayordomo aya
 por soldada .xl<<a>>. m<en>c<a>l<e>s. & qui contradixiere; pe-
@@ -4344,7 +4344,7 @@ che .x. m<o>r<auedis>. & destos auandichos m<o>r<auedis> sea la me-
 atat del iuez & de los alcaldes. & (^de) la meatat
 del mayordomo. & por esta calo<n>na no uaya al
 Rey. & si alguno apellare al Rey; caya del pley-
-to. Si el almotac'an en estas cosas q<ue> sobredicha<<s>>
+to. Si el almotaçan en estas cosas q<ue> sobredicha<<s>>
 son fuere desentendudo. o al q<ue>relloso iusticia no
 fiziere. o conposicion en escondido con alguno
 fiziere; peche .x. m<o>r<auedis> al iuez. & a los alcaldes. &}
@@ -4352,8 +4352,8 @@ fiziere; peche .x. m<o>r<auedis> al iuez. & a los alcaldes. &}
 al q<ue>relloso. {AD. [^xxxij.]} {RUB. De
 dar la cuenta.}}
 {CB2.
-{IN2.} Otrossi si [^2#en] la plac'a. el
-almotac'an me<n>guare}
+{IN2.} Otrossi si [^2#en] la plaça. el
+almotaçan me<n>guare}
 [fol. 88r]
 {HD. :VI<<o>>:.}
 {HD. T<itul><<o>> xxxiiij.}
@@ -4361,11 +4361,11 @@ almotac'an me<n>guare}
 assi q<ue> no<n> aya qui faga iusticia al q<ue>relloso de
 estas cosas q<ue> de suso dixiemos; peche .x M<<or>><auedis>.
 al iuez & a los alcaldes & al q<ue>relloso. sobresto
-el almotac'an de cuenta del almotac'ania. & si
+el almotaçan de cuenta del almotaçania. & si
 en alguna<<s>> cosa<<s>> de enga<n>no fecho fuere ue<n>cido.
 corten le las oreias. & trasquilado por todas las
 calles sea fostigado. o remida se por .c. m<o>r<auedis>. lo q<ue> al
-conceio mas ploguiere. {AD. [^xxxiij.]} {RUB. Q<ue> el almotac'a<n> cada set-mana +}
+conceio mas ploguiere. {AD. [^xxxiij.]} {RUB. Q<ue> el almotaça<n> cada set-mana +}
 {IN3.} Todas las medi-das {RUB. ueya las medida<<s>> +}
 sobredichas. & las pe-sas. {RUB. sobredichas.}
 las de las panaderas. de los tauer-
@@ -4498,7 +4498,7 @@ pudiere; peche el corredor toda la demanda
 doblada. {AD. [^xlix.]} {RUB. Del officio del sayon.}
 {IN3.} El sayon o el p<re>gonero pregone a co<n>ceio
 por mandamie<n>to del iuez. & no<n> de ot<r><<i>>.
-tres uegadas en amas las plac'as.
+tres uegadas en amas las plaças.
 Otrossi pregone los plazos de la puerta del iu-
 ez. Et demas pregone qual q<u><<i>>er cosa q<ue> los al-
 caldes le mandaren. sacado el conceio. & los pla-
@@ -4727,7 +4727,7 @@ ez abra la puerta. & peyndre por la demanda.
 por aue<n>t<ur>a dixiere {RUB. negante.}
 a su peyndrador q<ue> los pe<n>nos non
 ge los tollio. ni<n> ge los defendio. &
-a tuerto aduxo al iuez sobrel; estonc'e prue-
+a tuerto aduxo al iuez sobrel; estonçe prue-
 ue el peyndrador por testimonio daq<ue>l vezi-
 no con q<ue> peyndrar q<ue>rie q<ue>l tollio los pe<n>nos.}
 [fol. 95v]
@@ -5172,7 +5172,7 @@ la peyndra de do-ble}
 {CB1.
 firmare; luego el iuez de la peyndra al fir-
 mador. Et si fasta .ix. dias aq<ue>lla peyndra no
-fuere quita; sea tranc'ada. assi como deste con-
+fuere quita; sea trançada. assi como deste con-
 prada. & uendida del otro. {AD. [^xLi.]} {RUB. Dos alcaldes si q<u><<i>>er
 sean iurados. si quier fechizos; puede<n> firmar.}
 {IN3.} Maguer q<ue> en el capitulo sobredicho sea
@@ -5197,7 +5197,7 @@ contiendas desta manera; coto es. q<ue> qual quier}
 {CB1.
 q<ue> debdo deuiere pagar; delante alcaldes
 o uezinos lo pague. q<ue> firmen con el q<u><<a>>ndo me-
-nester. fuere. {AD. [^xliij.]} {RUB. Q<ue> los moc'os de .xij. an<n>os sean re-cebidos +}
+nester. fuere. {AD. [^xliij.]} {RUB. Q<ue> los moços de .xij. an<n>os sean re-cebidos +}
 {IN3.} Los fijos de los ue-zinos {RUB. e<n> testimo-nio. +}
 de .xij. a<n>nos. firme<n> fata {RUB. }
 .xx. m<en>c<a>l<e>s. De .xx. a arriba; firme
@@ -5286,7 +5286,7 @@ linencioso fuere. aq<ue>lla. {RUB. }
 ora q<ue> fuere reptado demuestre a-
 q<ue>lla linencia a los alcaldes; si de
 fuera fuere. Mas si de dentro fuere la line<n>cia.
-o en lugar q<ue> uerguenc'a aya de demostrar lo;
+o en lugar q<ue> uerguença aya de demostrar lo;
 yure q<ue> por aq<ue>lla line<n>cia delexa de lidiar. & no<n>
 por otra occasion. & sea creydo. Et si aq<ue>lla hora
 la line<n>cia no demostrare. o se no<n> dixiere line<n>-
@@ -5296,7 +5296,7 @@ cioso; despues nol uala aq<ue>lla occasion aponer.}
 {HD. T<itul><<o>>.}
 {CB1.
 mas de tod en todo sea enpareiado. & lidie.
-{IN3.} Aquel q<ue> por {AD. [^Lvi.]} {RUB. Del plazo del linenc'ioso.}
+{IN3.} Aquel q<ue> por {AD. [^Lvi.]} {RUB. Del plazo del linençioso.}
 linencia la lid delexare; los alcal-
 des den le plazo de .ix. dias. q<ue> en
 su uez de otro lidiador comunal. qual adela<n>-
@@ -5309,7 +5309,7 @@ si de cauallo. o de pie quiere lidiar. {AD. [^Lviij.]} {RUB. De a-q<ue>l +}
 q<ue> de cauallo; los alcaldes den le {RUB. }
 plazo de tres .ix. dias. & en cada no-
 uena aq<ue>l q<ue> demanda aduga cinco cauall<er>os q<ue> no
-sean soldadados. ni brac'eros. ni esquierdos. si
+sean soldadados. ni braçeros. ni esquierdos. si
 no assi como el q<ue> fuere reptado. {AD. [^Lix.]} {RUB. De las egual-dades +}
 {IN4.} Et quando fue-ren {RUB. de los lidiado-res. +}
 aduchos. el iuez con los {RUB. }
@@ -5332,7 +5332,7 @@ ta<n>nidos los s<an>c<t>os euangelios. Esto fecho; uayan
 al campo. Et q<u><<a>>ndo fueren en el campo; el iuez
 & los alcaldes demuestren les los moiones del
 campo. Desende partan les el sol. Mas despu-
-es q<ue> enpec'aren de lidiar. si alguno dellos los
+es q<ue> enpeçaren de lidiar. si alguno dellos los
 moiones passare; sea uencido. Mas aq<ue>l q<ue> de-
 manda siempre conbata; & el reptado defienda
 se. Et si por auentura el reptador derrocare al
@@ -5381,7 +5381,7 @@ el iuez con los alcaldes caten fiel
 mientre qual de los lidiadores adu-
 chos sera semeia<n>te al reptado en todas cosas.
 Et si par le fallaren; luchen. Mas enpero pri-
-mero yure cadauno q<ue> toda su fuerc'a demues-
+mero yure cadauno q<ue> toda su fuerça demues-
 tre en aq<ue>lla lucha. Et si el reptador dos uega-
 das le echare en t<ier>ra; aduga aq<ue>l q<ue> demanda o-
 tros cinco en la segunda nouena. & faga assi.
@@ -5397,7 +5397,7 @@ mostrado es. {AD. [^Lxvi.]} {RUB. De las armas de los lidiadores.}}
 {CB1.
 {IN3.} Por fuero estas son las armas del ca-
 uallero. Loriga. yelmo. brafuneras
-de fierro. lanc'a. escudo. & dos cuchi-
+de fierro. lança. escudo. & dos cuchi-
 ellos. Estas mismas sean las armas del peon;
 sacado un cuchiello. {AD. [^Lxvij.]} {RUB. Del lidiador q<ue> las armas +}
 {IN3.} Si por a-uentura {RUB. escondidas leuare al ca<m>po.}
@@ -5410,7 +5410,7 @@ a sabiendas en el campo a algu-
 no de los lidiadores diere; peche
 .c. m<o>r<auedis>. Peche otrossi .lx. m<en>c<a>l<e>s qual quier q<ue> a
 los lidiadores palabra ni<n>guna dixiere. despu-
-es q<ue> la batalla come<n>c'aren. {AD. [^Lxix.]} {RUB. De aq<ue>l q<ue> el moion +}
+es q<ue> la batalla come<n>çaren. {AD. [^Lxix.]} {RUB. De aq<ue>l q<ue> el moion +}
 {IN3.} Sessenta m<en>c<a>l<e>s pech<<e>> {RUB. del ca<m>po passare.}
 otrossi qual quier q<ue> en los moiones
 del campo entrare. Et estas calon-
@@ -5451,18 +5451,18 @@ do q<u><<i>>er q<ue> les ploguiere. si quier ante de
 la batalla. si quier en la batalla. si el ri-
 epto no fuere por furto. o por omezillo. Ca
 si fuere por omezillo. o por furto; no se puede<n>
-conponer sin palacio. la batalla comenc'ada.
+conponer sin palacio. la batalla començada.
 {IN3.} El precio del {AD. [^Lxxiij.]} {RUB. Dela soldada del lidiador +}
 lidiador alquilado: sea .xx. {RUB. alquilado.}
 m<en>c<a>l<e>s. Et si uencido fuere; aya .x. m<enca>l<e>s
 Et si por auentura muerto fuere; aq<ue>l
 los .x. m<en>c<a>l<e>s. sean dados a su muger. o a los here-
 deros del. Mas despues q<ue> en el campo fueren. &
-la batalla comenc'aren; aya .x. m<en>c<a>l<e>s. maguera
+la batalla començaren; aya .x. m<en>c<a>l<e>s. maguera
 q<ue> por conponimie<n>to la batalla finq<ue>. Et si ante q<ue>
 sea armado algun conponi[mi]ento fizieren; no to-
 me nada. Mas despues q<ue> fuere armado fasta
-q<ue> la batalla comienc'e; aya cinco m<en>c<a>l<e>s. si fizie-
+q<ue> la batalla comiençe; aya cinco m<en>c<a>l<e>s. si fizie-
 ren co<n>ponimie<n>to. {AD. [^Lxxiiij.]} {RUB. Del lidiador muerto.}
 {IN3.} Por end mandamos q<ue> aquel sea dicho
 uencido; el q<ue> en el campo fuere mu-
@@ -5471,8 +5471,8 @@ erto. Et el matador no peche calo<n>na}
 {HD. :VIII<<o>>:.}
 {HD. T<itul><<o>>.}
 {CB1.
-por ende. ni exca enemigo. {AD. [^Lxxv.]} {RUB. De las lanc'as de los +}
-{IN3.} Por fuero las puntas de las lan-c'as {RUB. lidiadores.}
+por ende. ni exca enemigo. {AD. [^Lxxv.]} {RUB. De las lanças de los +}
+{IN3.} Por fuero las puntas de las lan-ças {RUB. lidiadores.}
 de los lidiadores no sean enbotadas.
 & echen suertes sobrellas. {AD. [^Lxxvi.]} {RUB. Q<ue> los andadores +}
 {IN3.} Despues q<ue> los {RUB. guarden las armas de los +}
@@ -5556,11 +5556,11 @@ aya derecho. o recobre su debdo. {AD. [^Lxxxviij.]} {RUB. Del debdor +}
 {IN3.} Si la muger o los fijos {RUB. q<ue> es ido al Rey}
 q<ue> los bienes del debdor ouieren dixi-
 eren q<ue> el debdor no<n> es en el t<er>mino.
-ca ydo es al Rey. o en Romeria. o a cac'ar; es-
+ca ydo es al Rey. o en Romeria. o a caçar; es-
 pere el q<ue>relloso fasta q<ue> uenga. {AD. [^Lxxxix.]} {RUB. Del q<ue> es ido en +}
 {IN2.} Otrossi si dixiere q<ue> es ido en {RUB. hueste.}
-hueste; o en Requa [^2#esperel el q<ue>relloso]. {RUB. Del q<ue> es ido a cac'ar}
-{IN3.} Qvando dixiere q<ue> es ido a cac'ar; espe-
+hueste; o en Requa [^2#esperel el q<ue>relloso]. {RUB. Del q<ue> es ido a caçar}
+{IN3.} Qvando dixiere q<ue> es ido a caçar; espe-
 rel assi como dicho es. enpero yuran-
 do la muger q<ue> do quier q<ue> el sea q<ue> nol
 enbie pan. ni ni<n>guna vianda. {AD. [^Lxxxx.]} {RUB. Del q<ue> es ido en +}
@@ -5614,7 +5614,7 @@ a el ni a otro ni<n>guno; fasta q<ue> su auer recobre
 el debdo p<ro>prio de su marido. & luego no
 pagare; sea presa sin calo<n>na. Mas es-
 ta cosa es de esquiuar q<ue> ni<n>guno no meta a mu-
-ger. ni a moc'o ante q<ue> sea de .xij. a<n>nos & mas
+ger. ni a moço ante q<ue> sea de .xij. a<n>nos & mas
 en otra prision; si no en cadena. Ca qual q<u><<i>>er
 q<ue> en otra prision los metiere; peche .x. m<o>r<auedis> al}
 [fol. 114r]
@@ -5625,7 +5625,7 @@ iuez. & a los alcaldes. & al q<ue>relloso. Las pri-
 siones de todos los om<n>es son estas. Carcel.
 Cepo. Cadena<<s>>. Corma<<s>>. Harropeas. Esposas.
 Ma<n>nos & pies atar. si quier delante; si qui-
-er a c'aga. {AD. [^Lxxxxviij.]} {RUB. De aq<ue>l q<ue> sacare el o<mn>e p<re>so de la cibdat.}
+er a çaga. {AD. [^Lxxxxviij.]} {RUB. De aq<ue>l q<ue> sacare el o<mn>e p<re>so de la cibdat.}
 {IN3.} Qval quier q<ue> a om<n>e preso por debdo saca-
 re de la cibdat; peche .x. m<o>r<auedis> en coto.
 la meatat al iuez & a los alcaldes. & la
@@ -5749,7 +5749,7 @@ no pueda det<er>minar; sea en alue-drio}
 del iuez & de los alcaldes. Et si por
 auentura el iudizio no ploguiere a algu-
 no de los contendores; apelle al iudizio de
-conceio. assi como es dicho en el comienc'o.
+conceio. assi como es dicho en el comienço.
 {AD. [^C xij.]} {RUB. Q<ue> cosa deuen tractar en el dia del viernes en +}
 {IN4.} En el dia del {RUB. la camara de los alcal-des. +}
 viernes en la camara de los {RUB. }
@@ -5851,7 +5851,7 @@ sentes el se<n>nor o el alcayd en la camara; peche<n>
 la demanda al q<ue>relloso. por la qual el iudizio
 fuere dado. Por end es aq<ue>sto establecido. q<ue> por
 auentura el iuez o el alcalde por miedo o por
-uerguenc'a del se<n>nor; no iudgue tuerto. {RUB. Otro fu-ero. +}
+uerguença del se<n>nor; no iudgue tuerto. {RUB. Otro fu-ero. +}
 {IN4.} Enpero si el merino entrar q<u><<i>>si-ere {RUB. }
 en la camara de los alcaldes;
 entre & este y; fasta q<ue> los iudizios
@@ -5911,7 +5911,7 @@ ni aq<ue>l q<ue> touiere uoz; en aq<ue>l iudizio no<n> tenga
 la uoz del otro. Fecha la manquadra; responda
 el adu<er>sario otorgando. o negando. mas ante
 q<ue> niegue o manifieste; diga el q<ue>relloso q<ue> dema<n>-
-da. & q<u><<a>>nto. & de razon donde alcanc'a aq<ue>lla de-
+da. & q<u><<a>>nto. & de razon donde alcança aq<ue>lla de-
 manda. Conplida toda la razon; iudguen le
 los alcaldes q<ue> niegue. o manifieste. {AD. [^C xxvij.]} {RUB. De aq<ue>l q<ue> no +}
 {IN3.} Si por auent<ur>a {RUB. q<u><<i>>siere otorgar. o negar. +}
@@ -5991,7 +5991,7 @@ gare solo. & sea creydo. {AD. [^C. xxxi.]} {RUB. Quales firmas son de +}
 {IN3.} Otrossi qual quier q<ue> firmas {RUB. refusar.}
 deuiere recebir; no reciba aduocado
 q<ue> es o fue en aq<ue>l pleyto. ni su enemi-
-go. ni aq<ue>l q<ue> ouiere esp<er>anc'a o parte en la}
+go. ni aq<ue>l q<ue> ouiere esp<er>ança o parte en la}
 [fol. 121v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>>.}
@@ -6084,11 +6084,11 @@ xieredes. dios poderoso q<ue> es rey de los reyes. &
 se<n>nor delos se<n>nores. & iuez de los iuezes. uos
 ayude. & uos salue en este mundo. & en el otro.
 Et si la uerdat encubrieredes en estas cosas q<ue>
-uos p<re>guntaremos por uerguenc'a. o por miedo.
+uos p<re>guntaremos por uerguença. o por miedo.
 o por auer. o por ruego. dios poderoso q<ue> es rey de
 los reyes. & se<n>nor de los se<n>nores uos destruya. &
 uos cofonda en cuerpo. & en alma. con fijos. & co<n>
-mugeres. & con aq<ue>llas cosas q<ue> en u<uest>ros corac'ones
+mugeres. & con aq<ue>llas cosas q<ue> en u<uest>ros coraçones
 mucho amades. Et respondan todos los testigo<<s>>.}
 {CB2.
 amen. {AD. [^C. xxxix.]} {RUB. Del testigo q<ue>
@@ -6113,7 +6113,7 @@ testigo no uala. Dichos los testimonios; ueya<n>
 los alcaldes si los testimonios dellos fueren se-
 meiables. Ca si dessemeiables fueren; el testimo-
 nio dellos no cumple. Mas si por auentura algu-
-no de los testigos por oblidanc'a se delexare ueer
+no de los testigos por oblidança se delexare ueer
 o oyr. o otra cosa; otra uez sea p<re>guntado. si uido;
 & oyo. Et si otorgare; cumple. & si no; no. El ueyer.
 & el oyr. por esso es puesto en el testimonio; ca nin-
@@ -6423,7 +6423,7 @@ yor me<n>te q<ue> a fiel. {AD. [^xxiiij.]} {RUB. De la soldada del fiel.}
 en iudizio fuere uencido; peche la
 despensa q<u><<a>>nta q<ue> su adu<er>sario fiziere.
 en yendo. & en tornando. Al fiel q<ue> con
-ellos fuere den le de consouna c'apatos de dos
+ellos fuere den le de consouna çapatos de dos
 sueldos. & no mas. Mas los adu<er>sarios ensemble
 p<ro>curen al fiel en yendo; & en tornando. {RUB. Despue<<s>>}}
 {CW. de m<e>d<io> a<n>no}
@@ -6438,7 +6438,7 @@ q<ue> si el iuez. o el al-
 calde. o el notario
 o el cogedor. o el
 andador. o el al-
-motac'an. q<ue> casas
+motaçan. q<ue> casas
 pobladas en la cib-
 dat touieren. des-
 pues q<ue> el officio delexaren; despues de m<e>d<io> a<n>no
@@ -6576,13 +6576,13 @@ dado. Ca los assoldadados no pueden es-
 cusar a sus se<n>nores de la yda de la hueste.
 {AD. [^v.]} {RUB. Q<ue> armas an de leuar en la hueste. & ayan ra-ciones. +}
 {IN3.} El cauallero q<ue> en la hueste {RUB. }
-no leuare escudo. lanc'a. & espada;
+no leuare escudo. lança. & espada;
 no tome si no media racion. Otrossi}
 [fol. 133r]
 {HD. :X<<o>>:.}
 {HD. T<itul><<o>>.}
 {CB1.
-el peon q<ue> no leuare lanc'a. & dardo. o porra;
+el peon q<ue> no leuare lança. & dardo. o porra;
 no tome nada. El ballestero de pie q<ue> leua-
 re ballesta con dos cuerdas. & cient saetas;
 tome media racion por ella. Mas por el otra;
@@ -6662,9 +6662,9 @@ esse seer preso. {AD. [^xiij.]} {RUB. Del apartamie<n>to del algara.}
 {IN4.} Qvando quisieren apartar algara. la
 meatat de la conpa<n>na de cada po-
 sada uaya en el algara. & la otra
-meatat finq<ue> en la c'aga. Et si por
+meatat finq<ue> en la çaga. Et si por
 auentura de la meatat de la posada alguno so-
-brare q<ue> no sean pares; otrossi finq<ue> en la c'aga.
+brare q<ue> no sean pares; otrossi finq<ue> en la çaga.
 {IN3.} Aquellos q<ue> en el {AD. [^xiiij.]} {RUB. Del sexmo d<e>l algara.}
 algara fueren; tomen el sexmo de
 todo quanto ellos ganaren. {AD. [^xv.]} {RUB. Q<ue> el al-gara +}
@@ -6726,7 +6726,7 @@ sietmo. ni sexmo. si no<n> tan sola ment de los
 moros. & de las bestias. & de los ganados;
 & de las uaccas. {AD. [^xxij.]} {RUB. Quales bestias son de ere-char. +}
 {IN3.} Las bestias de la {RUB. & quales no.}
-c'aga q<ue> los moros mataren. o firie-
+çaga q<ue> los moros mataren. o firie-
 ren. o crebaren; erechen las. Et las}
 [fol. 136r]
 {HD. :X<<o>>:.}
@@ -6792,10 +6792,10 @@ o en torre p<r><<i>>mera ment entrare; aya
 vn moro de aq<ue>llos q<ue> y fueren fallados.
 Et si dos o mas en uno entraren; ayan aq<ue>l mo-
 ro de comun. {AD. [^xxx.]} {RUB. De las armas refazer.}
-{IN3.} Cauallero o peon q<ue> lanc'a con pendon.
+{IN3.} Cauallero o peon q<ue> lança con pendon.
 o sin pendon en cuerpo de moro p<er>die-
 re a puerta de castiello. o de villa;
-por la lanc'a con pendon aya dos m<o>r<auedis>. & por la sin
+por la lança con pendon aya dos m<o>r<auedis>. & por la sin
 pendon; aya vn m<o>r<auedi>. Otrossi las armas q<ue> en ba-
 talla campal fueren perdidas; sean erechadas.
 {IN3.} Si cauallero o {AD. [^xxxi.]} {RUB. De aq<ue>l q<ue> catiuado fu<er>e +}
@@ -6949,12 +6949,12 @@ enpareiando las con el escri-
 uano. {AD. [^Lij.]} {RUB. De aq<ue>l q<ue> fasta .ix. dias su racio<n> no<n> oui-ere. +}
 {IN3.} Et si por auentura el quadrell<er>o {RUB. }
 fasta .ix. dias a alguno su racion
-q<ue> alcanc'are no ge la ouiere paga-
+q<ue> alcançare no ge la ouiere paga-
 da; doble la al q<ue>relloso. & peche .i. m<o>r<auedi> al iu-
 ez & a los alcaldes. Et si por culpa del esc<r><<i>>ua-
 no aq<ue>sto uiniere; peche el escriuano la dema<n>-
 da doblada. & el m<o>r<auedi> del coro assi como dicho
-{IN3.} Et los .ix. dias %2 es. {AD. [^Liij.]} {RUB. Q<ue> el q<ue>relloso ot<r><<o>> +}
+{IN3.} Et los .ix. dias ¶2 es. {AD. [^Liij.]} {RUB. Q<ue> el q<ue>relloso ot<r><<o>> +}
 passados; el q<ue>rel-loso {RUB. debdor no reciba. +}
 no reciba otro debdor. mas los}
 [fol. 140v]
@@ -7069,7 +7069,7 @@ uer con q<ue> uaya; no peche nada. {AD. [^Lxviij.]} {RUB. Q<ue> el cauall<er>o +
 enfermo. ni el cauallero q<ue> {RUB. }
 su cauallo no touiere en la cibdat.
 no peche nada. El cauall<er>o otrossi q<ue>
-cauallo touiere en alcac'er. o cauallo line<n>ciado
+cauallo touiere en alcaçer. o cauallo line<n>ciado
 touiere; no uaya en apellido. Qvando el ap-
 pellido uiniere al aldea do no ha se<n>na; los es-
 tranos alleguen se al lugar de los p<r><<i>>meros.
@@ -7128,7 +7128,7 @@ Ca despues de tercer dia no an de responder.
 {IN3.} Si el conceio. o los caualgadores. o
 los apellideros batalla campal mez-
 claren & rancare<n>. & ante q<ue> la se<n>na
-torne del alcanc'e alguno el campo despoiare
+torne del alcançe alguno el campo despoiare
 o furto fiziere; peche .cccc. m<o>r<auedis>. & sea desterra-
 do por siempre. & si no<n> ouiere donde lo peche;
 muera por ello. Mas si fuere sospechado. & no}
@@ -7150,7 +7150,7 @@ toda. {AD. [^Lxxvij.]} {RUB. De aq<ue>l q<ue> conceio de bando fiziere.}
 si quier cibdadano. [^2#q<ue>] sin mandamie<n>to
 del iuez & de los alcaldes co<n>ceio fizie-
 (e)re. pora desondrar a se<n>nor. o a otro q<u><<a>>l
-quier. o a fazer fuerc'a a alguno. o a esto con-
+quier. o a fazer fuerça a alguno. o a esto con-
 seio de bando fiziere; peche q<u><<i>>nientos m<o>r<auedis>. otr<<o>>s
 tantos pechen q<u><<a>>ntos q<ue> en conceio o en conseio
 fueren consentidores. de los quales el iuez.
@@ -7199,11 +7199,11 @@ si quier de fuera. {AD. [^Lxxxi.]} {RUB. De aq<ue>l q<ue> mensage de moros +}
 {IN4.} Qval quier q<ue> mensage de {RUB. aduxiere.}
 hueste de moros aduxiere. o de su
 caualgada dellos. si despues el con-
-ceio los acometiere; aya [^2#c'i<n>co] m<o>r<auedis> de aluric'a.
-{AD. [^Lxxxij.]} {RUB. De aq<ue>l q<ue> moro adalil. o cabec'a de enaziado a-duxiere. +}
+ceio los acometiere; aya [^2#çi<n>co] m<o>r<auedis> de aluriça.
+{AD. [^Lxxxij.]} {RUB. De aq<ue>l q<ue> moro adalil. o cabeça de enaziado a-duxiere. +}
 {IN3.} Qval quier q<ue> moro ada-lil {RUB. }
 a conceio aduxiere; aya .x. m<o>r<auedis>.
-Et qui cabec'a de enaziado aduxie-
+Et qui cabeça de enaziado aduxie-
 re; aya .v. m<o>r<auedis>. Et estos morauedis de los el
 conceio. tan bien del adalil. como del enazi-
 ado. {AD. [^Lxxxiij.]} {RUB. De la muerte de los moros adaliles.}}
@@ -7290,7 +7290,7 @@ si campo fuere; quite lo de sant migael a}
 sant migael. Si casa fuere; quite la en todo
 tiempo. Si ni esto. ni aq<ue>llo; quite lo q<u><<a>>ndo q<u><<i>>er
 q<ue> los dineros pudiere auer. Ca la Rayz en al-
-caraz nunqua deue seer tranc'ada; ni lograr so-
+caraz nunqua deue seer trançada; ni lograr so-
 brella. {AD. [^vij.]} {RUB. De aq<ue>l q<ue> rayz enpe<n>nada uender q<u><<i>>siere.}
 {IN3.} Si por auentura aq<ue>l q<ue> la heredat en
 pe<n>nos touiere. o otra cosa alguna de
@@ -7602,7 +7602,7 @@ eda entrar. & sallir; peche .v. m<en>c<a>l<e>s. si
 pudiere seer p<ro>uado. & si non; yure solo. & sea
 creydo. Por todos los otros canes. tan bie<n> g<r><<a>><n>-
 des como chicos; no peche si no dos m<en>c<a>l<e>s. {RUB. De +}
-{IN3.} Qval quier q<ue> {AD. [^xli.]} {RUB. aq<ue>l q<ue> can cac'ador line<n>ciare.}
+{IN3.} Qval quier q<ue> {AD. [^xli.]} {RUB. aq<ue>l q<ue> can caçador line<n>ciare.}
 alan. o sauueso. o galgo. o mastin de
 lobo. o podenco linenciare; peche lo
 assi como sil matasse. & salue se dessa misma
@@ -7672,7 +7672,7 @@ yere; peche otro tanto. si por testigos pudiere
 seer uencido. si no; salue se con .xij. uezinos.
 & sea creydo. Otrossi qui gato ageno en su palo-
 mar matare; no peche nada. {AD. [^Lij.]} {RUB. Del fuero de los
-cac'adores q<ue> en hueste. o en otro lugar uenado.
+caçadores q<ue> en hueste. o en otro lugar uenado.
 firiere<n>. o matare<n>. & el uenado suyo sea daq<ue>l q<ue>
 p<r><<i>>mero lo mouie-re. +}
 {IN9. {MIN.}} MANDO {RUB. }
@@ -7695,19 +7695,19 @@ ende casa. {AD. [^Liij.]} {RUB. De aq<ue>l q<ue> casa fiziere de ezebras.}
 {IN3.} Si alguno fiziere casa pora prender
 uenados. & otro en aq<ue>lla casa uena-
 do prendiere; de la meatat al se<n>-
-nor daq<ue>lla casa. & la otra q<ue> finca sea del cac'ador
+nor daq<ue>lla casa. & la otra q<ue> finca sea del caçador
 {IN3.} Otrossi q<u><<a>>l q<u><<i>>er {AD. [^Liiij.]} {RUB. De aq<ue>l q<ue> fuera fiziere +}
-q<ue> fuerc'a fiziere a aq<ue>l q<ue> {RUB. al cac'ador.}
+q<ue> fuerça fiziere a aq<ue>l q<ue> {RUB. al caçador.}
 de p<r><<i>>mero el uenado mouiere assi
 como dicho es peche por el ezebra .x. m<enca>l<e>s
 & por el cieruo .v. m<en>c<a>l<e>s. & por el puerco iauali
 .vi. m<en>c<a>l<e>s. & sobre tod esto peche .x. m<o>r<auedis> por el cre-
-bantamie<n>to q<ue> fizo. si el cac'ador p<ro>uar pudiere.
+bantamie<n>to q<ue> fizo. si el caçador p<ro>uar pudiere.
 & si no<n>; el sospechado salue se con un uezino.
-& sea creydo. {AD. [^Lv.]} {RUB. Otrossi de aq<ue>l q<ue> fuerc'a fiziere.}
-{IN3.} Aq<ue>l q<ue> fuerca fiziere al cac'ador sobre lie-
+& sea creydo. {AD. [^Lv.]} {RUB. Otrossi de aq<ue>l q<ue> fuerça fiziere.}
+{IN3.} Aq<ue>l q<ue> fuerca fiziere al caçador sobre lie-
 bre. o sobre coneio. o sobre p<er>diz. o so-
-bre aue desta manera; peche la cac'a
+bre aue desta manera; peche la caça
 doblada. & el coto sobredicho de los .x. m<o>r<auedis>.
 si el q<ue>relloso firmar pudiere. & si no<n>; salue}
 [fol. 155v]
@@ -7715,7 +7715,7 @@ si el q<ue>relloso firmar pudiere. & si no<n>; salue}
 {HD. T<itul><<o>>.}
 {CB1.
 se el sospechado con un uezino. & sea creydo.
-{AD. [^Lvi.]} {RUB. De aq<ue>l q<ue> can o aue de cac'ador matare.}
+{AD. [^Lvi.]} {RUB. De aq<ue>l q<ue> can o aue de caçador matare.}
 {IN4.} Qval quier q<ue> can rastrero ageno. o aue so-
 bre su prision matare; peche la por yu-
 ra de su se<n>nor doblada. Et si al can o al
@@ -7725,10 +7725,10 @@ su prision le tolliere; peche .i. m<o>r<auedi>. & la prision
 doblada. Et si por auentura el can. o el aue per-
 dida fuere por aq<ue>lla occasion; peche la por yu-
 ra de su se<n>nor. {AD. [^Lvij.]} {RUB. De aq<ue>l q<ue> en hueste venado moui-ere +}
-{IN3.} Tod aq<ue>l q<ue> en hueste. {RUB. de comie<n>c'o.}
+{IN3.} Tod aq<ue>l q<ue> en hueste. {RUB. de comie<n>ço.}
 o en otro lugar uenado mouiere de
-comienc'o; aq<ue>l q<ue> p<r><<i>>mero le firiere
-aya la cabec'a con q<u><<a>>nto el oreia alcanc'are; si fuere
+comienço; aq<ue>l q<ue> p<r><<i>>mero le firiere
+aya la cabeça con q<u><<a>>nto el oreia alcançare; si fuere
 puerco iauali. si cieruo; aya el cuero. Si ezebra;
 aya la tuerdega lomiello. & de la carne su parte.
 Et qui esto le defendiere; peche ge lo doblado.
@@ -7744,13 +7744,13 @@ nada aya dos partes. Mas el q<ue> p<r><<i>>mero le firie-
 re; aya su fuero assi como escripto es. {AD. [^Lix.]} {RUB. Del ue-
 nado q<ue> los canes aduxieren al poblado.}
 {IN4.} Si los canes uenado aduxieren al
-poblado el cac'ador no y seyendo. a-
+poblado el caçador no y seyendo. a-
 q<ue>llos q<ue> sobreuiniere<n> al uenado; ce-
 uen los canes. & guarden el uena-
 do fasta tercer dia. Mas despues de tercer dia
 partan la carne. & el cuero guarden lo poral ca-
-c'ador. & otrossi guarden los canes pora su se<n>nor.
-{AD. [^Lx.]} {RUB. Del uenado del cac'ador q<ue> en lazo cayere.}
+çador. & otrossi guarden los canes pora su se<n>nor.
+{AD. [^Lx.]} {RUB. Del uenado del caçador q<ue> en lazo cayere.}
 {IN4.} Otrossi si alguno en siguiendo al ue-
 nado. o la prision co<n> canes o con
 aues. el uenado en lazo o en enge<n>no
@@ -7765,10 +7765,10 @@ fallare sin canes; no respo<n>da}
 {HD. T<itul><<o>>.}
 {CB1.
 por el. Et si uenado muerto fallare. & algu<n>
-cac'ador dixiere q<ue> sus canes le mataro<n>. o el
-mismo con saeta; yure el cac'ador co<n> .i. vezi-
+caçador dixiere q<ue> sus canes le mataro<n>. o el
+mismo con saeta; yure el caçador co<n> .i. vezi-
 no. por cieruo. & por ezebra. & por puerco iaua-
-li. & por corc'a. & por otros venados yure solo;
+li. & por corça. & por otros venados yure solo;
 & sea creydo. & aya el venado. Si por auentura
 yurar no quisiere o no pudiere; no ge le den.
 Mas lo q<ue> dezimos de la saeta; dezimos del ue-
@@ -7830,7 +7830,7 @@ cado. ni por otra occasion ni<n>guna. {AD. [^Lxix.]} {RUB. De la condi-cio<n> +}
 {IN4.} El siruiente {RUB. de los siruie<n>tes solda-dados. +}
 soldadado si con alguno {RUB. }
 pleyto de morar fiziere. del entrada
-de marc'o fastal dia de sant ioh<a>n. &
+de março fastal dia de sant ioh<a>n. &
 ante del plazo a su se<n>nor delexare; aya la mea-
 tat de la soldada q<ue> ouiere seruido. Mas aq<ue>l q<ue> de
 la fiesta de sant ioh<a>n fasta la fiesta de sant mi-
@@ -7843,7 +7843,7 @@ aya las dos partes de la soldada q<ue> ouiere ser-
 uido. Mas si dentro en el mes de agosto le dele-
 xare; aya la meatat de la soldada q<ue> ouiere ser-
 uido. De la fiesta de sant migael fastal entrada
-de marc'o si a su se<n>nor delexare; aya la tercera
+de março si a su se<n>nor delexare; aya la tercera
 parte de la soldada q<ue> ouiere seruido. Mas si por
 auentura el se<n>nor ante del plazo a su mancebo e-
 chare de si del todo lo q<ue> ouiere seruido. {AD. [^Lxx.]} {RUB. Quando +}
@@ -7873,8 +7873,8 @@ no se espidiere; pierda la solda-
 da. & sobre tod esto q<u><<a>>ndo quier q<ue> el
 se<n>nor le fallare; aya derecho del. {AD. [^Lxxiij.]} {RUB. De la condi-cion +}
 {IN3.} Esto mismo {RUB. de las camareras & +}
-dezimos de la cam<<a>>-rera. {RUB. de las nodric'as.}
-& de la nodric'a q<ue> cadauno toui-
+dezimos de la cam<<a>>-rera. {RUB. de las nodriças.}
+& de la nodriça q<ue> cadauno toui-
 ere en su casa. sacado ende q<ue> quando se quisie-
 re partir q<ue> tome toda la soldada q<ue> ouiere serui-
 do. ca estas en todo tiempo egual mie<n>tre lazra<n>.
@@ -7891,9 +7891,9 @@ diestra. & la soldada. Mas sil ma-tare;}
 {CB1.
 sea enforcado. o q<ue>mado assi como traydor.
 & esto sea en escogencia de los parie<n>tes d<e>l mu-
-erto. {AD. [^Lxxv.]} {RUB. De la camarera. de la nodric'a; otrossi.}
+erto. {AD. [^Lxxv.]} {RUB. De la camarera. de la nodriça; otrossi.}
 {IN2.} Esto mismo dezimos de la camarera. & de
-la nodric'a; q<ue> a su se<n>nora firiere. o matare.
+la nodriça; q<ue> a su se<n>nora firiere. o matare.
 {IN2.} Se<n>nores llamamos {AD. [^Lxxvi.]} {RUB. Quales son los se<n>nores.}
 los padres de las conpa<n>nas. & otrossi las
 madres. & sus fijos. & sus fijas dellos. {AD. [^Lxxvij.]} {RUB. Del se<n>nor +}
@@ -7921,7 +7921,7 @@ a<n>no complido. {AD. [^Lxxix.]} {RUB. Del tiempo q<ue> el pastor deue +}
 toller sus oueias. tuelga ge las
 ante q<ue> comiencen a parir. & del q<u><<a>>n-
 to ouiere seruido; segund el pleyto
-q<ue> en uno estableciero<n>. Ca despues q<ue> comenc'a-
+q<ue> en uno estableciero<n>. Ca despues q<ue> comença-
 ren a parir; el pastor no<n> deue seer echado de
 su oficio. Mas enpero si el se<n>nor le quisiere
 echar; de le la soldada de tod el a<n>no. & parta
@@ -8047,8 +8047,8 @@ ante del plazo delexaren las cab<r><<a>>s.
 no tome nada de la soldada q<ue> o-
 uiere seruido. Mas si el se<n>nor de
 las cabras toller ge las quisiere despues
-q<ue> comenc'aren a parir; de le la soldada de
-tod el a<n>no. Ca ante q<ue> comienc'en a parir ge
+q<ue> començaren a parir; de le la soldada de
+tod el a<n>no. Ca ante q<ue> comiençen a parir ge
 las puede toller; dando le q<u><<a>>nto ouiere ser-
 uido. El porcarizo aya essa misma condici-
 on. & es fuero; q<ue> el cabrarizo de las cabras.
@@ -8056,7 +8056,7 @@ on. & es fuero; q<ue> el cabrarizo de las cabras.
 {IN3.} La soldada del porcarizo es de tod el a<n>-
 no; sex dineros por cada un puerco.
 o m<e>d<io> almud de trigo. qual al se<n>nor
-mas ploguiere. {AD. [^Lxxxxiij.]} {RUB. De la seguranc'a del uezadero.}
+mas ploguiere. {AD. [^Lxxxxiij.]} {RUB. De la segurança del uezadero.}
 {IN3.} Si el uezadero las bestias del co<n>ceio
 guardar quisiere; de p<r><<i>>mera me<n>t
 sobreleuadores abondados al iuez.}
@@ -8120,7 +8120,7 @@ q<ue>l diere a condesar. & en toda poridat. Otr<<o>>s-
 si sea le fiel en guardar sus cosas. q<ue> no faga
 da<n>no en ellas; ni lo consienta fazer. Et de-
 mas no aya pleyto ni<n>guno con la mug<er> de su
-se<n>nor. ni con la fija. ni co<n> la nodric'a. ni co<n> la
+se<n>nor. ni con la fija. ni co<n> la nodriça. ni co<n> la
 camarera. {AD. [^C. i.]} {RUB. De aq<ue>l q<ue> a su se<n>nor encornudare.}
 {IN4.} Et si por auentura el mancebo assolda-
 dado. o pastor. o boyarizo. o ortelano.
@@ -8148,9 +8148,9 @@ sospechado; responda al Riepto. Et si uencido
 fuere; sea auido por desleal. & exca enemigo
 por siempre. Si por auentura uenciere; sea cre-
 ydo. & en campo desreptado; & aya su soldada
-{AD. [^C. iij.]} {RUB. De aq<ue>l q<ue> con la nodric'a de su se<n>nor co<n>uiniere.}
+{AD. [^C. iij.]} {RUB. De aq<ue>l q<ue> con la nodriça de su se<n>nor co<n>uiniere.}
 {IN4.} Otrossi si el mancebo assoldadado con
-la nodric'a de su se<n>nor co<n>uiniere. & por
+la nodriça de su se<n>nor co<n>uiniere. & por
 occasion del la leche fuere corrupta;
 & el fijo muriere; sea enemigo por si-
 empre. & peche las calo<n>nas del omezillo. Mas
@@ -8192,7 +8192,7 @@ creydo. & no responda a su se<n>nor sobresto.
 {IN4.} Si por auentura el pastor negare la
 res daq<ue>l ganado q<ue> no fue a el echa-
 da. la q<ue> el se<n>nor le demanda; firme
-el se<n>nor con sus aparc'eros. o co<n> vezino<<s>>
+el se<n>nor con sus aparçeros. o co<n> vezino<<s>>
 assi como fuero es; & peche la el pastor. Ma<<s>>
 si el se<n>nor firmar no pudiere; yure el pas-
 tor & sea creydo. {AD. [^C vij.]} {RUB. Q<ue> el pastor no responda a +}
@@ -8241,8 +8241,8 @@ seer tenida. Los se<n>nores de los}}
 {CB1.
 ganados tengan el esculca en el mes de dezi-
 embre. & de enero. & de febrero. & la meatat de
-marc'o. dando de dos caba<n>nas vn cauallero. De
-la meatat de marc'o fastal dia de sant ioh<a>n;
+março. dando de dos caba<n>nas vn cauallero. De
+la meatat de março fastal dia de sant ioh<a>n;
 tenga la el conceio. Del dia de sant ioh<a>n fas-
 tal dia de sant migael; tenga la aq<ue>l q<ue> fuere al-
 cayd de alcaraz. De la fiesta de sant migael fa<<s>>-
@@ -8255,7 +8255,7 @@ Et qui esto no fiziere; monten le las oueias
 El cauallero q<ue> en el esculca andidiere; tenga ca-
 uallo q<ue> uala de .xx. m<o>r<auedis> a arriba. si quier sea cib-
 dadano; si quier aldeano. {AD. [^C x.]} {RUB. Del fuero de la reclo-ua +}
-{IN4.} Mando otrossi q<ue> {RUB. de los cac'ado-res. +}
+{IN4.} Mando otrossi q<ue> {RUB. de los caçado-res. +}
 las reclouas fagan alcal-des, {RUB. }
 & anden al coto dellos. & aq<ue>l-
 los alcaldes iudguen todos los pley-
@@ -8452,9 +8452,9 @@ dido el ap<re>ciadura ouiere recebido. si por auen-
 tura aq<ue>lla ap<re>ciadura alguno aqui la testiguare.
 en aq<ue>l lugar do la heredat uendiere. & la apre-
 ciadura recibio; deue dar otor desta guisa. El
-demandador. & el defendedor deuen calc'ar al
+demandador. & el defendedor deuen calçar al
 fiel. & si assi fuere la cosa como el defendedor di-
-zie; el otro pague el p<re>cio del calc'ado. & la despe<n>-
+zie; el otro pague el p<re>cio del calçado. & la despe<n>-
 sa del fiel; & caya de la demanda. {AD. [^xxi.]} {RUB. Del uestido +}
 {IN3.} Si alguno el uestido testi-guare. {RUB. testiguado.}
 & el tenedor lo defendiere. di-
@@ -8484,11 +8484,11 @@ dixiere q<ue> la compro pa<n>no de trapero co<n>nocido;
 calcen entramos un fiel q<ue> sepa daq<ue>l trapero la
 uerdat daq<ue>lla cosa. Et si el trapero firmare; el
 demandador caya de la demanda. & pague el
-calc'ado & la despensa del fiel. Si por auentura
+calçado & la despensa del fiel. Si por auentura
 el trapero negare. o no pudiere departir la uer-
 dat daq<ue>lla cosa; el defendedor caya de la dema<n>-
-da. & pague el calc'ado. & la despensa del fiel. Ma<<s>>
-por q<ue> los traperos q<u><<a>>ndo los pa<n>nos enuegec'en
+da. & pague el calçado. & la despensa del fiel. Ma<<s>>
+por q<ue> los traperos q<u><<a>>ndo los pa<n>nos enuegeçen
 de rafez no los pueden co<n>nocer; mandamos}
 [fol. 171r]
 {HD. :XII<<o>>:.}
@@ -8627,7 +8627,7 @@ esse tomado. o espere por ello a agosto. {AD. [^xxviij.]} {RUB. Otro fu-ero. +}
 q<ue> pe<n>nos en doble por pan. o por
 vino. o por carne. o por ceuada. to-
 mar no quisiere; peche .i. m<o>r<auedi>. al al-
-motac'an; & al q<ue>relloso. Mas si aq<ue>l q<ue> los pe<n>nos
+motaçan; & al q<ue>relloso. Mas si aq<ue>l q<ue> los pe<n>nos
 metiere fasta .ix. dias no los quitare; den los
 al uendedor sin calo<n>na. & lo q<ue> fincare del precio
 pagado; den lo al se<n>nor de los pe<n>nos. Et si algu-
@@ -8646,8 +8646,8 @@ q<ue>relloso. & duple el tauernero. & pierda todo lo}
 {CB1.
 q<ue> dio sobrellos. Et lo q<ue> dezimos del tauerne-
 ro; es dicho del carnicero. de la panadera. de
-la tendera de la c'agadera. & todas las cosas
-q<ue> a estas son semeiantes. q<ue> el almotac'an las
+la tendera de la çagadera. & todas las cosas
+q<ue> a estas son semeiantes. q<ue> el almotaçan las
 ha de ueyer; ca todas an un coto. {AD. [^xxix.]} {RUB. De aq<ue>l q<ue> sin
 mandamiento fuera del termino peyndrare.}
 {IN4.} Mando q<ue> qual quier q<ue> sin mandamie<n>to
@@ -8700,7 +8700,7 @@ sea creydo. Mas si despues de la yura la cosa ne-
 gada en su poder pudiere seer prouada; de la
 a su se<n>nor doblada. & a palacio otrossi doblada;
 assi como es fuero de furto. Mando otrossi q<ue> si el
-maestro artificiero alguna lauor comenc'are. o tor-
+maestro artificiero alguna lauor començare. o tor-
 re. o eglesia. o libro. o puente. o casa. o molyno
 o ui<n>na. o otra lauor qual quier; acabe la segu<n>d
 el pleyto q<ue> ouiere fecho. Et si non; peche los di-
@@ -8736,7 +8736,7 @@ cauallar del ferrar .ij. <sueldos>. & por la mular. m<e>d<i>o
 mencal. & por la asnar .viij. dineros. Si el se<n>-
 nor de la bestia su ferradura touiere; eche ge
 la el ferrero por un dinero. & si no lo quisiere
-fazer; peche .i. m<o>r<auedi> al almotac'an. & al q<ue>relloso.
+fazer; peche .i. m<o>r<auedi> al almotaçan. & al q<ue>relloso.
 {IN3.} Otrossi si el ferre-ro {AD. [^xxxvi.]} {RUB. De los ferreros. & de +}
 ligon. o reia. o {RUB. las ferramie<n>tas.}
 podadera. o foz. o segur. o otra ferra-mienta.}
@@ -8748,8 +8748,8 @@ lo crebado por sano lo uendiere; por
 yura del comprador refaga aq<ue>lla ferramienta.
 o de le sus dineros. Mas si por auentura esto
 ni aq<ue>llo fazer no quisiere. peyndrel el almota-
-c'an cada dia por .v. <sueldos>. & parta los el almota-
-c'an con el q<ue>relloso assi como fuero es. Otrossi
+çan cada dia por .v. <sueldos>. & parta los el almota-
+çan con el q<ue>relloso assi como fuero es. Otrossi
 si el ferrero al dia establecido la lauor fecha
 no diere; doble la se<n>nal q<ue> por la cosa (q<ue> por la
 cosa) ouiere tomado. Et si azero o fierro came-
@@ -8767,24 +8767,24 @@ Et segund aq<ue>sta cuenta laure aq<ue>llo q<ue> mayor
 o menor fuere. {AD. [^xxxviij.]} {RUB. Del fuero de los costureros.}}
 [fol. 176v]
 {CB1.
-{IN4.} El c'apatero q<ue> los c'apatos carnerunos
+{IN4.} El çapatero q<ue> los çapatos carnerunos
 por cabrunos. o sardon por cordouan.
 o badana por guadameci uendiere;
 peche .i. m<o>r<auedi> al q<ue>relloso. & al preoste
-de los c'apateros. si el q<ue>relloso p<ro>uar pudiere.
+de los çapateros. si el q<ue>relloso p<ro>uar pudiere.
 si non; salue se assi como fuero es. Otrossi q<u><<a>>l
 quier q<ue> auarcas o suelas canteare; peche vn
-m<o>r<auedi> al preoste otrossi. Et todo c'apatero q<ue> a dia
+m<o>r<auedi> al preoste otrossi. Et todo çapatero q<ue> a dia
 establecido la obra fecha no la diere; de la
 yerra doblada. El co<m>prador otrossi q<ue> al dia esta-
 blecido el p<re>cio no pagare. pierda la erra. & el
-c'apatero uenda la obra al q<ue> a el ploguiere. El
-c'apatero cosa el c'apato q<ue> por costura no fallezca
+çapatero uenda la obra al q<ue> a el ploguiere. El
+çapatero cosa el çapato q<ue> por costura no fallezca
 fasta q<ue> la suela sea rota. si no<n>; peche .i. m<o>r<auedi>. la me-
 atat al q<ue>relloso. & la meatat al preoste. & faga
 la coser. Mas si el preoste no quisiere fazer ius-
-ticia; peyndrel el almotac'an por dos m<o>r<auedis>. Ot<r><<o>>si
-el almotac'an peyndre q<u><<a>>ndo el p<re>oste no pudiere.
+ticia; peyndrel el almotaçan por dos m<o>r<auedis>. Ot<r><<o>>si
+el almotaçan peyndre q<u><<a>>ndo el p<re>oste no pudiere.
 {IN3.} Si el pellegero la pel-leia {AD. [^xxxix.]} {RUB. Del fuero de los pel-legeros. +}
 cameare; peche la assi {RUB. }
 como de furto. Mas aq<ue>l q<ue> las pelle-ias}
@@ -8796,7 +8796,7 @@ mal cofechare. o mal apurar; peche el da<n>no
 doblado. Et si la costura de la piel falleciere an-
 te q<ue> sea rota; el pellegero cosa la sin precio. Et
 si no lo quisiere fazer; peche .v. <sueldos>. al almota-
-c'an. & al q<ue>relloso. Otrossi si el pellegero al dia
+çan. & al q<ue>relloso. Otrossi si el pellegero al dia
 co<n>uenido la obra acabada no la diere; torne
 la se<n>nal doblada. Et deuedes saber q<ue> el pelle-
 gero no<n> ha de retener nada de los uentrezuelos
@@ -8824,7 +8824,7 @@ pora si. ni de las pelleias. ni de las otras con-
 posturas; ca todo es del se<n>nor de los vestidos.
 Otrossi el alfayate q<ue> al dia establecido la uestidu-
 ra fecha no la diere; peche .i. m<o>r<auedi> al almota-
-c'an. & al q<ue>relloso. {AD. [^xli.]} {RUB. Del fuero de los texedores.}
+çan. & al q<ue>relloso. {AD. [^xli.]} {RUB. Del fuero de los texedores.}
 {IN4.} Si el texedor filado ageno cameare.
 el q<ue>relloso prouar lo pudiere;
 peche ge lo doblado. & pierda el
@@ -8870,7 +8870,7 @@ las telas fizieren. Assi como si la tela}
 fuere rota. o mal tondida. o contra fuero este<n>-
 dida. Et los texedores an de responder a los
 se<n>nores de las telas. Et deuedes saber q<ue> por
-todas estas calo<n>nas ha de peyndrar el almotac'a<n>.
+todas estas calo<n>nas ha de peyndrar el almotaça<n>.
 {IN4.} Los vinaderos o aq<ue>l-los {AD. [^xliij.]} {RUB. De los vi<n>naderos.}
 q<ue> tauerna touieren; uendan al co<n>-
 to del conceio. & si alguno lo creban-
@@ -8887,7 +8887,7 @@ da; peche .ij. m<o>r<auedis>. El tauernero o el vinadero q<ue>
 por este coto el vino uender no quisiere tenien-
 do lo en casa; peche .ij. m<o>r<auedis>. & sobresto sea p<re>gona-
 do q<ue> fasta vn a<n>no no tenga tauerna. & sea pena-
-do a la su uoluntat del almotac'an. {AD. [^xliiij.]} {RUB. De los le<n>na-
+do a la su uoluntat del almotaçan. {AD. [^xliiij.]} {RUB. De los le<n>na-
 deros.}}
 [fol. 179r]
 {HD. :XII<<o>>:.}
@@ -8895,7 +8895,7 @@ deros.}}
 {CB1.
 {IN3.} Los le<n>naderos & los q<ue> las cargas leua-
 ren uayan dando uozes por las calles
-& por las plac'as; por q<ue> no faga<n> da<n>no.
+& por las plaças; por q<ue> no faga<n> da<n>no.
 Et si por auentura da<n>no fizieren. alguno ronpi-
 endo. o enpellando; peche lo. Enpero si el le<n>na-
 dero firmar pudiere q<ue> yua dando uozes assi q<ue>
@@ -8903,7 +8903,7 @@ el da<n>nado bien lo podrie oyr; no peche nada.
 {IN4.} Los olleros de {AD. [^xlv.]} {RUB. De los olleros de los +}
 los adriellos & de las teias {RUB. adriellos.}
 fagan las teias q<ue> ayan dos palmos
-en luengo. & en el ancho de la cabec'a
+en luengo. & en el ancho de la cabeça
 palmo & m<e>d<i>o. & en el fondon palmo & mano. En
 gordo aya q<u><<a>>nto el arteio del pulgar ha en lue<n>-
 go. & sean assi cochas q<ue> ni por yelo. ni por llu-
@@ -8922,7 +8922,7 @@ fallecieren los adriellos; el adrellero pe-
 che los. El millar de los adriellos sea uendi-
 do por .iij. m<en>c<a>l<e>s. & no mas. Et si por auentura
 alguno este mandamie<n>to passare; peche .x. M<<or>><auedis>.
-al almotac'an & al q<ue>relloso. El ollero q<ue> al dia e<<s>>-
+al almotaçan & al q<ue>relloso. El ollero q<ue> al dia e<<s>>-
 tablecido los adriellos & las teias no pagare;
 pague las dobladas. {AD. [^xlvi.]} {RUB. De los olleros de las olla<<s>>.}
 {IN3.} Si los olleros las ollas mal las coxie-
@@ -8934,8 +8934,8 @@ por tantos dineros sean uendidos. & no por mas.
 alguno ollas uendiere; ue<n>da
 las segund la cuenta sobredicha de
 los dineros. Otrossi aq<ue>l q<ue> a este coto
-non quisiere; peche .i. m<o>r<auedi> al almotac'an; & al q<ue>-relloso.
-{IN4.} Si el carnicero {AD. [^xlviij.]} {RUB. Del fuero +} [%2]
+non quisiere; peche .i. m<o>r<auedi> al almotaçan; & al q<ue>-relloso.
+{IN4.} Si el carnicero {AD. [^xlviij.]} {RUB. Del fuero +} [¶2]
 la carne mortezina. o {RUB. de los carniceros.}
 ganado enfermo. o de puerco. o carne
 mezclada uendiere. assi q<ue> mezcle la carne}
@@ -8945,14 +8945,14 @@ mezclada uendiere. assi q<ue> mezcle la carne}
 {CB1.
 cabruna con la carneruna. o carne fidionda. o
 la carne vieia con la reziente; peche .x. m<o>r<auedis>.
-{IN4.} Qval quier q<ue> cac'a {AD. [^xlix.]} {RUB. De aq<ue>l q<ue> la cac'a +}
+{IN4.} Qval quier q<ue> caça {AD. [^xlix.]} {RUB. De aq<ue>l q<ue> la caça +}
 vendiere assi {RUB. uendiere fuera de la +}
-como liebres. coneios. p<er>dize<<s>> {RUB. plac'a.}
+como liebres. coneios. p<er>dize<<s>> {RUB. plaça.}
 o pescado de Rio. en ni<n>guna casa.
-o fuera de las plac'as. o en su casa misma; peche
-cinco morauedis al almotac'an. & al q<ue>relloso; si
+o fuera de las plaças. o en su casa misma; peche
+cinco morauedis al almotaçan. & al q<ue>relloso; si
 pudiere seer prouado por testigos. {AD. [^l.]} {RUB. De aq<ue>l q<ue> la +}
-{IN3.} Qval quier q<ue> {RUB. cac'a fuera del t<er>mino ue<n>die}
+{IN3.} Qval quier q<ue> {RUB. caça fuera del t<er>mino ue<n>die}
 del t<er>mino de alcaraz a otro lugar re.
 pescado a uender leuare; peche .v. m<o>r<auedis>.
 o yure con dos uezinos. & sea creydo. A los
@@ -8961,7 +8961,7 @@ tenderos. & alos reuen[^de]dores mando q<ue> uendan
 {IN4.} Et qual quier {AD. [^li.]} {RUB. De los tenderos & los +}
 si quier sea tendero {RUB. reuendedores.}
 si quier reuendedor. o carnicero. o
-pescado. o vinadero. o c'apatero. o
+pescado. o vinadero. o çapatero. o
 alfayat. o pellegero. o texedor. o qual quier
 menestral q<ue> el coto no quisiere guardar peche}
 [fol. 180v]
@@ -8995,9 +8995,9 @@ miento de la defesa.}}
 {CB1.
 {IN5.} Qval quier q<ue> en la cibdat morare.
 aya en la villa o en el aldea defesa
-de dos aranc'adas. & ponga en el
+de dos arançadas. & ponga en el
 cerco en derredor cinco cespedes en la
-cabec'a de cinco passos. & defienda la por
+cabeça de cinco passos. & defienda la por
 tod el a<n>no. Si algun cibdadano otrossi en su
 prado mas defesa quisiere auer; cerq<ue>la de
 valladar de tanta altura q<ue> ni<n>guna bestia no
@@ -9012,7 +9012,7 @@ rare; & essa misma condicion. {AD. [^.Lv.]} {RUB. Del fuero d<e>l +}
 os peces del Rio sean {RUB. pescado.}
 uendidos a la sobredicha libra de
 la carne. La libra es firme e afi-
-nada de q<u><<a>>renta & ocho onc'as. La libra de la<<s>>
+nada de q<u><<a>>renta & ocho onças. La libra de la<<s>>
 truchas de xemales fasta mazales; sea uen-dida}
 [fol. 181v]
 {HD. L<ibr><<o>>.}
@@ -9028,7 +9028,7 @@ truchas & los barbos mazales. sean uendido[^2#<<s>>]
 como el pescador pudiere. Mazales dezimos
 si quier sean truchas. si quier barbos; aq<ue>llos
 q<ue> ouiere vn cobdo en luengo sin cola. & sin ca-
-bec'a; el pu<n>no cerrado. El q<ue> no quisiere el pes-
+beça; el pu<n>no cerrado. El q<ue> no quisiere el pes-
 cado assi como dicho es pesar. & uender; peche
 .xv. m<o>r<auedis>. Mas el pescado de mar. & las anguilas.
 sea uendido por aq<ue>l precio q<ue> el conceio viere
@@ -9457,7 +9457,7 @@ por fuero. q<ue> ni cristiano. ni moro. ni
 iudio. no saq<ue> armas de fuste. ni de fierro;
 fuera de la cibdat. Et qual quier q<ue> las sacare
 a uender a los cristianos. o a los iudios; peche
-.xx. m<o>r<auedis>. Et qui fuerc'a le fiziere. & las armas
+.xx. m<o>r<auedis>. Et qui fuerça le fiziere. & las armas
 le tolliere; no peche por ende calo<n>na. Otrossi
 ni<n>gunas armas. ni uasos de oro. ni de plata;
 no sean mortiguados en alcaraz. {AD. [^xxix.]} {RUB. Del iudizio
@@ -9519,14 +9519,14 @@ De la dozena de
 De cuerda}
 {CB2.
 De la libra de seda .i. me<ncal>.
-De piec'a dalq<u><<i>>ce .i. d<inero>.
-De piec'a dalbornoz .i. d<inero>.
+De pieça dalq<u><<i>>ce .i. d<inero>.
+De pieça dalbornoz .i. d<inero>.
 De cuerda descari .i. d<inero>.
 De la dozena de las mil
 pinas. o de ceruales. o
 de gatos .i. d<inero>.
-De piec'a de picot .iiij. d<ineros>.
-De piec'a de buriello .ij. d<ineros>.
+De pieça de picot .iiij. d<ineros>.
+De pieça de buriello .ij. d<ineros>.
 Del arroua de la cera. o de
 la pimie<n>ta .ij. d<ineros>.
 Del arroua del olio .i. d<inero>.}
@@ -9587,7 +9587,7 @@ ninos .iiij, d<ineros>
 Del troxiello de los gua-
 damecis .iiij. d<inero>s.
 De la dozena dellos .i. d<inero>.
-Del arroua del c'umac.
+Del arroua del çumac.
 vn dinero.
 Del arroua de las agal-
 las. vna meaia.
@@ -9601,8 +9601,8 @@ De la dozena de lo<<s>> pa<n>no<<s>>}
 {CB2.
 cardenos .ij. d<ineros>.
 De la tela dalfamia .i. me<ai><<a>>
-De piec'a de bruneta .viij. d<ineros>.
-De piec'a de uerde .viij. d<ineros>.
+De pieça de bruneta .viij. d<ineros>.
+De pieça de uerde .viij. d<ineros>.
 De escarlata .viij. d<ineros>.
 De galabru<n> de g<ra>na .viij. d<ineros>.
 De
@@ -9613,7 +9613,7 @@ De
 De barraganes.
 {BLNK.}
 De segouianos .iiij. d<ineros>.
-De corda de ra<n>c'anes .iiij. d<ineros>.
+De corda de ra<n>çanes .iiij. d<ineros>.
 De la carga de los pexnes
 obrados .i. d<inero>.
 De la carga de los vasos.
@@ -9624,7 +9624,7 @@ obrados .i. d<inero>.}
 {CB2.
 De la dozena de los ca-
 piellos de palma .i. d<inero>
-Del arroua del ac'ucar .i. d<inero>
+Del arroua del açucar .i. d<inero>
 Del arroua de la sayn;
 dos dineros.
 Del arroua del seno .ij. d<ineros>.
@@ -9638,7 +9638,7 @@ mias .i. d<inero>
 De la carga de las ollas
 vn dinero .
 De la carga de los cerci-
-ellos de los cedac'os .i. d<inero>
+ellos de los cedaços .i. d<inero>
 De la dozena del parga-
 mino .i. d<inero>.
 De la dozena de las vay-
@@ -9646,7 +9646,7 @@ nas. vna meaia.}
 {CB2.
 De la dozena de
 {BLNK.}
-De la libra del ac'afran.
+De la libra del açafran.
 vn dinero.
 De la libra del azi<n>jar.
 vn dinero.
@@ -9810,12 +9810,12 @@ de lana .i. d<inero>.
 De la carga de las caldera<<s>>
 a razo<n> de .iiij. q<u><<i>>ntales.
 vn mencal
-De la piec'a de los alq<u><<i>>ces.
+De la pieça de los alq<u><<i>>ces.
 vn dinero.
-De la piec'a de albornoz.
+De la pieça de albornoz.
 vn dinero.
 De cuerda descaris .i. d<inero>.
-De piec'a dalfamias .i. d<inero>.
+De pieça dalfamias .i. d<inero>.
 De la dozena de los pan-
 nos cardenos .ij. d<ineros>.
 De la dozena de las piel-
@@ -9884,7 +9884,7 @@ De troxiello de bruias.
 vn morauedi.
 De troxiello de segouia-
 nos. m<e>d<i>o m<<or>><auedi>
-Diez piec'as de pi<n>parel.
+Diez pieças de pi<n>parel.
 & de pa<n>nos dipre fazen
 vn troxiello.
 Ueynt y cinco de gala-
@@ -9903,11 +9903,11 @@ fazen troxiello.
 de camisas faze<n> t<r><<o>>xiello
 Dos mil cobdos de lyno.
 gordo fazen troxiello.
-Diez piec'as de pa<n>nos de
+Diez pieças de pa<n>nos de
 piteos faze<n> troxiello.
 De cient y cinco pa<n>nos es
 firme de .c. & xxvi. cobdo<<s>>.
-De cuerda de ra<n>c'anes.
+De cuerda de ra<n>çanes.
 quatro dineros.
 De la carga de los pexne<<s>>
 obrados .xij. dineros.
@@ -9922,7 +9922,7 @@ De pexnes. & de vasos.
 obradas .viij. dineros.
 De la carga de los capiel-
 los de palma ij. m<en>c<a>l<e>s.
-Del arroua del ac'ucar .ij. d<ineros>.
+Del arroua del açucar .ij. d<ineros>.
 Del arroua del seuo .ij. d<ineros>.
 Del arroua del unto .iij. d<ineros>.
 Del arroua de la pez .iiij. d<ineros>.
@@ -9939,12 +9939,12 @@ quatro dineros.}
 {CB2.
 De la carga de los cer-
 ciellos de los ceda-
-c'os .ij. dineros.
+ços .ij. dineros.
 De la dozena de las vay-
 nas .i. dinero.
 De la dozena de las
 galochas .iiij. d<ineros>.
-De la libra del ac'afran.
+De la libra del açafran.
 dos dineros.
 De la libra del azi<n>jar.
 vn dinero.
@@ -10022,7 +10022,7 @@ dera; peche .x. m<o>r<auedis>. & pierda q<u><<a>>nto leuare. Null o<mn>e
 q<ue> exidos de conceio laurare. assi de villa como de
 aldeas; peche .lx<<a>>. m<en>c<a>l<e>s. al iuez & a los alcaldes. &
 a los cauall<er>os. & delexe la heredat. Null omne
-q<ue> touiere oueias. vaccas. aparc'adas o acomenda-
+q<ue> touiere oueias. vaccas. aparçadas o acomenda-
 das de fuera de villa; peche .xx. m<o>r<auedis>. Null omne
 de fuera de villa quinten le el ganado. Null om<n>e}
 [fol. 197v]
@@ -10032,9 +10032,9 @@ mandado del conceio. o del Rey; q<u><<i>>nten le el ga-
 nado. de la grey .x. carneros. Del busto de las
 vacas; una uaca la meior. & saq<ue>n los ganados
 de los estremos. Si a ni<n>gun om<n>e ouieren sospe-
-cha q<ue> traye ganado aparc'ado. & no ge lo pudieren
+cha q<ue> traye ganado aparçado. & no ge lo pudieren
 prouar; yure con dos vezinos. & sea creydo. Nen-
-gun om<n>e q<ue> a estos cauallos mano alc'are. o los de<<s>>-
+gun om<n>e q<ue> a estos cauallos mano alçare. o los de<<s>>-
 ondrare. o liuores les fiziere; peche .c. m<o>r<auedis>. & si ma-
 tare; cccc. m<o>r<auedis>. & si fuere preso; iusticien el cuer-
 po. & pierda q<u><<a>>nto q<ue> ouiere. Nengun om<n>e q<ue> el ca-
@@ -10077,10 +10077,10 @@ el iurado q<ue> no la aduxiere; peche la duplada.
 {LAT. Laus tibi xp<ist>e deus quia scripsit bartholomeus
 Finito libro sit laus et gloria xpisto. ameN.}
 Bartholome de vzeda fiz este libro. a traslato lo
-de latin en roma<n>c'e. & fue acabado yueues ot<r><<o>> dia
+de latin en roma<n>çe. & fue acabado yueues ot<r><<o>> dia
 de cathedra s<an>c<t>i petri .xxiij. dias de febrero. & esto<n>ce
 desbarato el conceio de alcaraz a zaen en el campo
-de c'acatin. & tolliero<n> le toda la presa q<ue> leuaua; &
+de çacatin. & tolliero<n> le toda la presa q<ue> leuaua; &
 aduxiero<n> la a alcaraz. & fue desbaratado el pri-
 mer viernes de q<u><<a>>resma. En el era de mill. & ccc e
 treynta y quatro a<n>nos.}

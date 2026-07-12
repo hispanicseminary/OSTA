@@ -16,28 +16,28 @@ el doctor Hieronymo Soriano medico, y
 ciudadano de la ciudad de Teruel,
 del reyno de Ara-
 gon.}
-{RUB. Dirigido al illustrissimo, y reuere<n>dissimo sen~or, do<n> Alo<n>so
-Gregorio, Arc'obispo de la sancta y Metropolitana Igle-
-sia de la ciudad de C'aragoc'a, y del consejo de su Ma-
+{RUB. Dirigido al illustrissimo, y reuere<n>dissimo señor, do<n> Alo<n>so
+Gregorio, Arçobispo de la sancta y Metropolitana Igle-
+sia de la ciudad de Çaragoça, y del consejo de su Ma-
 gestad.}
 {MIN. SOLI DEO HONOR ET GLORIA}
 Con licencia.
-EN C'ARAGOC'A,
+EN ÇARAGOÇA,
 Impresso por Iuan Perez de Valdiuielso,
-an~o .1598.
+año .1598.
 A costa de Angelo Tauano.}
 [fol. 1v]
 [fol. 2r]
 {CB1.
 {RUB. LICENCIA,}
-{IN3. {ILL.}} EL doctor Thomas Gonc'a-
+{IN3. {ILL.}} EL doctor Thomas Gonça-
 lez, en lo espiritual y te<m>po-
 ral, Vicario general de la
-ciudad y Arc'obispado de C'arago-
-c'a, por el illust<rissimo> y reuere<n>diss<imo> sen~or do<n>
+ciudad y Arçobispado de Çarago-
+ça, por el illust<rissimo> y reuere<n>diss<imo> señor do<n>
 Alonso Gregorio, por la gracia de
 Dios, y de la sancta Sede Apostoli-
-ca, Arc'obispo de C'aragoc'a, del con-
+ca, Arçobispo de Çaragoça, del con-
 sejo de su Magestad etc<aetera>. Auiendo
 se nos presentado, por parte del do-
 ctor Hieronymo Soriano medico, vn
@@ -54,20 +54,20 @@ a nuestra Sancta Fe catholica, y bue-nas}
 {CB1.
 costumbres. Por tanto damos li-
 cen[c]ia, para que se pueda imprimir
-en este Arc'obispado. Y mandamos q<ue>
+en este Arçobispado. Y mandamos q<ue>
 antes q<ue> se comiencen a ve<n>der, se nos
 pida lice<n>cia, para q<ue> antes de darla
 se vea si concuerda la impressio<n> con
-el original. Dat<ada> en C'aragoc'a, a .22.
-de Junio de .1598. an~os.
-El doctor Thomas Gonc'alez.
-Por mandado del dicho sen~or doctor
-Thomas Gonc'alez Vicario general.
+el original. Dat<ada> en Çaragoça, a .22.
+de Junio de .1598. años.
+El doctor Thomas Gonçalez.
+Por mandado del dicho señor doctor
+Thomas Gonçalez Vicario general.
 Braulio Gil Notario.
 {IN3. {ILL.}} DAse licencia a Angelo
 Tauano, mercader de li-
 bros, para poder imprimir
-este libro. Fecha en C'aragoc'a, a .13.
+este libro. Fecha en Çaragoça, a .13.
 de Julio, de .1598.
 El Assessor Galuan.}
 {CW. DO}
@@ -84,12 +84,12 @@ S.P.D.}}
 {LAT. {IN6. {ILL.}} QVAM recte veteres Gre-
 ci de rebus omnibus sen-
 serint, vel ex prouerbio
-AEisunir, vdaeisunir ((Praesul il-
-lustrissime)) quilibet co<n>-
+AEisunir, vdaeisunir ≺Praesul il-
+lustrissime≻ quilibet co<n>-
 ijcere poterit. Vnus ete-
-nim ((aiebant)) vir nullus est vir. Si quidem
-egregium quidpiam ab homine vno ((auxi-
-lio distituto)) minime praestari posse ce<n>se-
+nim ≺aiebant≻ vir nullus est vir. Si quidem
+egregium quidpiam ab homine vno ≺auxi-
+lio distituto≻ minime praestari posse ce<n>se-
 bant. Ad quae latinus poeta respiciens, no<n>
 omnia possumus omnes cecinit: mortaliu<m>
 neminem, tanto esse ingenio praeditu<m> in-(n)uens,}}
@@ -101,8 +101,8 @@ gat: cu<n>cta enim scire, diuinum esse potius,
 quam humanum poeta nouerat. Quae om-
 nia cum intuitus acri, & animo essem in-
 tento, statim mihi persuasi, eos Medicos
-((qui sibi solis fidunt, nec Medicos doctissi-
-mos co<n>solunt)) no<n> Medicos, sed Medice fa-
+≺qui sibi solis fidunt, nec Medicos doctissi-
+mos co<n>solunt≻ no<n> Medicos, sed Medice fa-
 cultati aeternas infamiae notas inure<n>tes es-
 se dicendos. Hi enim erroribus referti, in-
 numeros sua manu defodiunt. Consultius
@@ -140,14 +140,14 @@ nititur pede: quorum si deficiat alter, sine
 dubio claudicabit. Nititur nanq<ue>; ratione,
 & experientia, nec illa sine hac, nec sine
 illa haec, boni quicquam adducet. Quare,
-eorum ((quae per experientiam, & longo
-temporis tractu, inuenta sunt vtilia)) am-
+eorum ≺quae per experientiam, & longo
+temporis tractu, inuenta sunt vtilia≻ am-
 plam supellectilem parare sibi, peritissimi
 non recusant, potissimum sane, si a doctis-
 simis experta fuisse intelligant. Galenum
-ita fecisse, nemo ((qui libros medicamen-
+ita fecisse, nemo ≺qui libros medicamen-
 torum secundum genera, & loca viderit,
-ac legerit)) dubitabit. Varia etenim ijs in
+ac legerit≻ dubitabit. Varia etenim ijs in
 libris adducuntur remedia, ab alijs aucto-ribus}}
 {CW. ribus}
 [fol. 4v]
@@ -157,11 +157,11 @@ maco, Asclepiade, Primione, Heraclyde,
 Critone, Archigene, Alexandro, Daemo-
 crate, & tandem ex aliorum doctissimo-
 rum virorum libris deprompta. Galeno
-itaq<ue>; duce ((qui & librum de facile parabi-
-libus conscripsit)) consilium mihi fuit, ex-
-perimenta ((quibus morbo languentium
+itaq<ue>; duce ≺qui & librum de facile parabi-
+libus conscripsit≻ consilium mihi fuit, ex-
+perimenta ≺quibus morbo languentium
 innumerabilitatem, ab anno .1560. in
-hunc vsque diem subleuaui)) paruo in hoc
+hunc vsque diem subleuaui≻ paruo in hoc
 volumine coaceruare. Haeret nanque in
 animo meo de mortalium omnium com-
 modis assidua cogitatio. Non desunt ta-
@@ -202,9 +202,9 @@ tem animum ab omni alia cogitatione
 traducunt. Vnde omnis ratio mihi sua-
 det, vt hos omnes praecipuo quodam
 amore colam, ac obseruem. His igitur in-
-seruire cupiens ((cum saepius precibus me-
+seruire cupiens ≺cum saepius precibus me-
 cum aegerint, vt hunc qualecumq<ue>; la-
-borem typis ma<n>darem)) id statui effectum}}
+borem typis ma<n>darem≻ id statui effectum}}
 {CW. dare}
 [fol. 5v]
 {CB1.
@@ -236,7 +236,7 @@ stituit, ac iudicauit. Idque non sine Spi-ritus}}
 {CW. ritus}
 [fol. 6r]
 {CB1.
-{LAT. sancti impulsu motus ((vt credo))
+{LAT. sancti impulsu motus ≺vt credo≻
 quia in te virtutum myriades splendent,
 ac pullulant. Virtus enim sola cunctis prae
 est rebus humanis, omnia regit, temperat,
@@ -245,9 +245,9 @@ scateas virtutibus, quid miri, si domine-
 ris, imperes, regas, omnia teneas, ac om-
 nia tuo arbitratu disponantur? Cui igitur
 omnium hominum, decentius, ac aptius
-haec ((in arte omnium sine dubio praestan-
-tissima)) admirabilia experimenta potuis-
-sem dicare? Poteris enim ((vt spero)) tua,
+haec ≺in arte omnium sine dubio praestan-
+tissima≻ admirabilia experimenta potuis-
+sem dicare? Poteris enim ≺vt spero≻ tua,
 qua plurimum potes autoritate sola, a
 mordacitate, & liuore momorum haec
 exigua vindicare. Quare, & si longe in-
@@ -256,8 +256,8 @@ lustrissimo donari mereantur, esse sciam,
 humanitas nihilominus, quam in te sum-
 mam esse, omnes Tiariuliani mouimus, &
 summa qua nos prosequeris beneuolen-
-tia effecit, vt hunc meum laborem ((qua-
-liscunq<ue>; sit)) tibi excellentissimo, ac Chri-
+tia effecit, vt hunc meum laborem ≺qua-
+liscunq<ue>; sit≻ tibi excellentissimo, ac Chri-
 stianissimo merito consecrarem. Qui si
 vt in publicum prodeat, a te fuerit iudi-
 catus, non video cur detractorum morsus}}
@@ -269,9 +269,9 @@ nitatis erit, his nostris experimentis lu-
 men, claritatemq<ue>; adferre, quae et si no<n> ad
 Hyppocratis, & Galeni politissimam in-
 cudem sint elaborata, maxima tamen ve-
-ritatis pondera, ex his ((si a doctissimorum
+ritatis pondera, ex his ≺si a doctissimorum
 virorum in vera Medicina fulctoru<m>, ma-
-turo iuditio expendantur)) emere licebit.
+turo iuditio expendantur≻ emere licebit.
 Bene vale, Antistitum decus.
 Illustrissimae, ac reuerendiss<imae> D<ominus> tuae
 humilimus seruus.
@@ -287,7 +287,7 @@ con que nos allegamos
 mas a Dios, es el procu-
 rar la salud a los ho<m>bres,
 sente<n>cia verdaderame<n>te digna, que estu-
-uiesse esculpida, dentro los corac'ones y
+uiesse esculpida, dentro los coraçones y
 memoria de los mortales. De auerla di-
 cho vn Ge<n>til, los christianos deuriamos
 estar corridos, en no ponerla por obra,
@@ -309,9 +309,9 @@ fundados en auaricia las en-
 cubren, no ay duda, sino que offenden a
 la diuina Magestad. Lo mismo haria, si
 las cosas que en discurso de treynta y
-dos an~os, q<ue> exercito la facultad Medica,
+dos años, q<ue> exercito la facultad Medica,
 mediante la immensa bondad y miseri-
-cordia de Dios, he alcanc'ado, las encu-
+cordia de Dios, he alcançado, las encu-
 briesse. Careceria assi mismo del funda-
 mento de todas las virtudes: porque me
 faltaria la piedad. La qual, segun el mis-
@@ -353,7 +353,7 @@ los hay. Como son Vuecherio, Leonar-
 do Fiorauanto, y Fallopio. El Medico
 que dellos se querra aprouechar, si fue-
 re docto, hallara que estan compuestos
-con arte, y methodo, y alcanc'ara la oca-sion}
+con arte, y methodo, y alcançara la oca-sion}
 {CW. sion}
 [fol. 8v]
 {CB1.
@@ -388,7 +388,7 @@ Recopilados por el Doctor
 Hieronymo
 Soriano, natural de la ciudad
 de Teruel.}
-{RUB. % Capitulo primero. De experime<n>-
+{RUB. ¶ Capitulo primero. De experime<n>-
 tos contra tercianas nothas, y do-
 bles, y contra quartanas.}
 {IN6. {ILL.}} MATHIOLO Senes,
@@ -405,7 +405,7 @@ en vaso doble, y con el vapor, o calor del}
 {HD. Libro +}
 {CB1.
 agua, que en el se pone, assi sacada, dada a
-beuer en ca<n>tidad de tres, o quatro onc'as,
+beuer en ca<n>tidad de tres, o quatro onças,
 vn poco antes que al enfermo le vengan
 los desbostezo, y frio, que en muy pocas
 vezes cura de las tercianas, y de las quar-
@@ -418,13 +418,13 @@ terciana notha, en la parte del libro .2.
 de la {LAT. Syntaxis vtriusq<ue> Medicinae,} dize q<ue>
 darle al enfermo al tie<m>po del paroxismo,
 quiero dezir, qua<n>do vienen los despeluz-
-nos, y desbostezos, tres, o quatro onc'as
+nos, y desbostezos, tres, o quatro onças
 del agua infrascripta, que sin duda extirpa
 las tercianas nothas, y las quartanas.
 {RUB. El agua.}
 {IN2.} TOma de rayzes de genciana dos on-
-c'as, de cardo sancto, y de cinco en ra-
-ma ((que es el Penthaphilon)) cada dos ma-
+ças, de cardo sancto, y de cinco en ra-
+ma ≺que es el Penthaphilon≻ cada dos ma-
 nojos, todo junto echado en remojo en
 suero de leche de cabras: despues saca de}
 {CW. todo}
@@ -437,19 +437,19 @@ vaso doble.
 {IN2.} ANtonio Mizaldo, en el cap<itulo> .1. del ca<m>-
 po octauo de su Alexirepo, dize, que
 al tiempo del paroxismo, quando comien-
-c'an los desbostezos, y despeluznos, darle
-al enfermo tres, o quatro onc'as de agua
+çan los desbostezos, y despeluznos, darle
+al enfermo tres, o quatro onças de agua
 de nuezes verdes, sacada por alquitara de
-vidrio, antes que se hagan duras ((que en
+vidrio, antes que se hagan duras ≺que en
 esta tierra vienen cerca de la festiuidad de
-la natiuidad del glorioso Baptista)) que in-
+la natiuidad del glorioso Baptista≻ que in-
 faliblemente curan las tercianas. Es esto
 tanta verdad, que del dia que a mi noticia
 llego, despues de auer hecho las euacuacio-
 nes vniuersales a tantos como la he dado
 han curado: en tal manera, que al q<ue> mas
 vezes se le dieron, fueron quatro. El qual
-fue Iayme Dolz de Marzilla, sen~or de la
+fue Iayme Dolz de Marzilla, señor de la
 varonia de Chinquer, al qual por darsele
 en menor cantidad de la dicha, por estar
 flaco, y ser muy delicado, duro quatro dias.
@@ -463,8 +463,8 @@ dicho mossem Iua<n> Villaroya, doctor Theo-
 logo, Racionero de la parrochial de Sa<n>ctia-
 go de Teruel, y Rector de la villa de Scri-
 che: al qual se la dio Iuan Dojo boticario
-((en cuya casa tenia yo mandado hazer di-
-cha agua, para el dicho caso)) a escondido
+≺en cuya casa tenia yo mandado hazer di-
+cha agua, para el dicho caso≻ a escondido
 del medico q<ue> le visitaua, es cierto quedo
 libre. En el hospital desta ciudad se han li-
 brado muchos, y en otras partes ha do se
@@ -475,13 +475,13 @@ go aqui.
 Desta misma agua di a vna quartanaria,
 criada de la illustre Marianna Sa<n>chez Cu-
 ca<n>da, muger del illustre Melchior de Mar-
-zilla ((hidalgo principalissimo desta ciu-
-dad, y de los del Reyno)) y en tres vezes q<ue>
+zilla ≺hidalgo principalissimo desta ciu-
+dad, y de los del Reyno≻ y en tres vezes q<ue>
 la tomo, quedo libre de las quartanas.
 {RUB. Para curar tercianas.}
-{IN2.} TOma de c'umo de genciana conden-
+{IN2.} TOma de çumo de genciana conden-
 sado, vna dragma de caldo de pollo,
-quatro onc'as de especies de diarrhodon
+quatro onças de especies de diarrhodon
 abbad, y de aromatico rosado vn escrupu-lo,}
 {CW. lo}
 [fol. 11r]
@@ -494,7 +494,7 @@ o juntamente las dos cosas: y assi no ven-
 dra el frio, ni calentura, o alo[ ]menos tan
 poco, y remissamente, que el enfermo no
 hara caso dello.
-{RUB. % Capit<ulo> .2. De Experimentos con-
+{RUB. ¶ Capit<ulo> .2. De Experimentos con-
 tra calenturas agudas, y tauar-
 dillos.}
 {IN4. {ILL.}} PIden estas enfermedades, el no
@@ -523,8 +523,8 @@ oxilapathum, o con ellas coceran el agua.
 Desta agua podran beuer en sus comidas,
 y beuanla qua<n>to pudieren fria y vna, dos,
 o tres vezes, las que el Medico mandare,
-sean tac'as otorgadas de las anchas, y no
-pequen~as: porque con la pequen~a beuida
+sean taças otorgadas de las anchas, y no
+pequeñas: porque con la pequeña beuida
 encienden mas el fuego. Tendra esta agua
 color de aloque. Consejo es de Mizaldo.
 {RUB. Lo que yo tengo por costumbre.}
@@ -536,7 +536,7 @@ man mi opinion los doctissimos Mena,
 en el capit<ulo> .38. de su libro {LAT. de Febribus:} y el
 peritissimo, y excelentissimo Medico Vi-
 ctor Trincauello, en el capit<ulo> .201. del libro
-{LAT. de Febri pestilenti.} Acompan~anos para}
+{LAT. de Febri pestilenti.} Acompañanos para}
 {CW. ello}
 [fol. 12r]
 {HD. de Experimentos. \ 4}
@@ -545,7 +545,7 @@ ello la razon. Porque los thamarindos en
 las calenturas ardientes, y pestilenciales,
 refrigeran moderadamente, euacuan, y re-
 sisten la putrefaccio<n>, como las demas co-
-sas acetosas, enxugan con templanc'a, y
+sas acetosas, enxugan con templança, y
 abren las vias: cosas todas, no solo proue-
 chosas, pero muy necessarias en semejan-
 tes cale<n>turas. Fue del mismo parecer Auer-
@@ -565,7 +565,7 @@ acabado, en el se veran los errores que en-
 tre Medicos triuiales en estos casos se ha-
 zen. Es de aduertir, que si el enfermo tuuiere
 de suyo estomago frio, q<ue> en los cozimien-
-tos an~adan vn poco de macis, o de canela.}
+tos añadan vn poco de macis, o de canela.}
 {CW. Pa}
 [fol. 12v]
 {HD. Libro +}
@@ -592,7 +592,7 @@ poquito de canela, a la hora que te pare-
 ciere auer ocasio<n> para ello: y antes de dar-
 selo, lauale los pies de las rodillas abaxo,
 con cozimiento de lechugas, borrajas, ve-
-len~o, hojas de parra, de sauze, de can~as ver-des,}
+leño, hojas de parra, de sauze, de cañas ver-des,}
 {CW. des}
 [fol. 13r]
 {HD. de Experimentos. \ 5}
@@ -600,7 +600,7 @@ len~o, hojas de parra, de sauze, de can~as ver-des,}
 de flores de camamilla, y de rosas co-
 loradas: en defecto dello, con agua dulce
 caliente.
-{RUB. % Capit<ulo> .3. De Experimentos con-
+{RUB. ¶ Capit<ulo> .3. De Experimentos con-
 tra quartanas.}
 {IN5. {ILL.}} GVillermo Ro<n>doleto, autor gra-
 uissimo, en su Practica, en el
@@ -629,13 +629,13 @@ co granos de gauges, que les dizen en Ca-
 stilla marauillas, y en Latin los Medicos
 caltha, y calendula, y solsequia. Esta beuida
 se ha de continuar algunos dias.
-{RUB. % Capit<ulo> .4. De Experimentos pre-
+{RUB. ¶ Capit<ulo> .4. De Experimentos pre-
 seruatiuos, y curatiuos de pesti-
 lencia.}
 {IN5. {ILL.}} ES de ta<n>ta efficacia el vso de las
 azederas, en tiempo de pesti-
 lencia, que comiendo por las
-man~anas vnas pocas dellas,
+mañanas vnas pocas dellas,
 auiendolas tenido primero a
 remojo en vinagre, se libran de peste. As-
 seguralo Antonio Mizaldo, y que en Fra<n>-
@@ -657,7 +657,7 @@ sanctos nuestros intercessores, se preserua-
 ran, y curaran de pestilencia: y principal-
 mente poniendo por medianera a la sere-
 nissima Reyna de los Angeles, madre del
-hijo de Dios, y sen~ora nuestra: sen~alada-
+hijo de Dios, y señora nuestra: señalada-
 me<n>te en las Iglesias, y en processiones de
 rogarias, cada dia cantandole la Antipho-
 na que se sigue, con su oracion. La qual, a
@@ -722,7 +722,7 @@ Ca<m>po .6. del Alexirepo, que el, y otros
 muchos se libraron, y preseruaron de ser
 infectos de peste, con el orden que se si-
 gue.
-Cada man~ana beuia<n> vna tacilla de vino
+Cada mañana beuia<n> vna tacilla de vino
 blanco, en que auia<n> tenido toda la noche
 a remojo vna dragma de semilla de abro-
 tano, con vnas hojuelas del, y vnos gajos
@@ -740,13 +740,13 @@ pestilencia.}
 {IN2.} ALexandro Benedicto medico Vero-
 nes doctissimo, dize, que el que estu-
 uiere enfermo de peste, luego al princi-
-pio tome dos, o tres onc'as de c'umo de la
+pio tome dos, o tres onças de çumo de la
 yerua dicha calendula, o caltha, y en vul-
 gar gauge, y en auerlo tomado, se cubra
 muy bien, y procure sudar, que sin duda se
 librara, y quedara sano. Lo mismo dize Mi-
 zaldo, y lo trahe por experimento verissi-
-mo, El Doctor Vson, natural de Alcan~iz,
+mo, El Doctor Vson, natural de Alcañiz,
 que de presente reside en ella, con mucho
 credito y aplauso de aquella tierra. Es Me-
 dico doctissimo, y mucho mi amigo, me
@@ -754,7 +754,7 @@ ha certificado, que hallandose en Bolonia
 a do estudio, y se doctoro: corrie<n>do pestile<n>-
 cia, lo vio vsar a su maestro, y que fue el su-
 ccesso, qual Alexandro y Mizaldo lo dize<n>.
-{RUB. % Otro Experimento para lo mis-
+{RUB. ¶ Otro Experimento para lo mis-
 mo.}}
 {CW. Toma}
 [fol. 16r]
@@ -764,7 +764,7 @@ mo.}}
 te de las rayzes, escauala honda, y sa-
 ca della a modo de vna cobertera de olla.
 En el hoyuelo que auras hecho, echaras
-buena cosa de atriaca magna, y c'umo de lo
+buena cosa de atriaca magna, y çumo de lo
 agrio del ponzil, o de limon, y cubrir lo
 has con la misma cobertera que le qui-
 taste a la cebolla, y embolueras muy bien
@@ -772,11 +772,11 @@ la cebolla en vn pergamino, o papel mo-
 jado, y pondras la debaxo la ceniza calien-
 te, hasta que este bien cozida: de manera
 que despues esprimiendola fuerte con vn
-lienc'o delgado, pueda salir el licor della el
+lienço delgado, pueda salir el licor della el
 qual daras al enfermo quelo beua, y pro-
 cure sudar. Es de Mizaldo, en el capit<ulo> .2. del
 Campo .2. del Alexirepo.
-{RUB. % Consejo para tiempo de pestilen-
+{RUB. ¶ Consejo para tiempo de pestilen-
 cia.}
 {IN2.} PRocuren en tie<m>po de pestilencia que-
 mar, assi en casa, como en las calles,
@@ -791,7 +791,7 @@ purgado.}
 Sera prouechoso para lo mismo, lleuar
 consigo pelotillas de buen olor, y cosas
 otras odoriferas.
-{RUB. % Pomo, o pelotilla odorifera con-
+{RUB. ¶ Pomo, o pelotilla odorifera con-
 tra peste, en constitucion fria, y hu-
 meda.}
 {IN2.} TOma de rayzes de valleriana, y de ze-
@@ -804,7 +804,7 @@ ma, de ambar dos granos, de benjui, y de
 estoraque calamita cada dos escrupulos:
 de lino aloes media dragma, de almizque
 tres granos, de labdano purissimo media
-onc'a, todo poluorizado y majado, mez-
+onça, todo poluorizado y majado, mez-
 clar lo has, y con agua de toro<n>gil, o de ma-
 jorana, o de azahar, amassar lo has, y ha-
 ras dello vna pelota, o mas, conforme te
@@ -830,7 +830,7 @@ mas: de ambar odorifero dos granos: de al-
 mizque tres granos, haras lo todo poluo,
 y con agua de arrayan, o de rosas finas, y
 vn poquillo de vinagre mezclado, y haz
-massa, o pelota. Es costumbre an~ader a la
+massa, o pelota. Es costumbre añader a la
 fin vn poco de carbon de sauze, para que
 tome color negro. Son sacadas estas dos
 receptas del cap<itulo> .8. del libro de peste, com-
@@ -848,7 +848,7 @@ lenciales.}
 po .6. de su Alexirepo tratando de la
 ruda, dize. Majar ruda con leuadura bonis-
 sima, y con derritido de puerco, y cebolla,
-y higos secos cozidos, an~adiendo co<n> ello
+y higos secos cozidos, añadiendo co<n> ello
 ammoniaco, cal viua, xabon, cantharidas,
 y vn poco de atriaca magna, hazer de to-
 do emplastro, y ponello sobre el tumor, o
@@ -861,10 +861,10 @@ dello en extremo.
 {IN2.} DOctores muchissimos certifican, que
 la yerua que llamamos clauellina, y
 en Castilla clauel, tiene tanta efficacia y
-propriedad, que da<n>do del c'umo della tres,
-o quatro onc'as al enfermo de pestilencia,
+propriedad, que da<n>do del çumo della tres,
+o quatro onças al enfermo de pestilencia,
 le librara a modo de miraglo.
-{RUB. % Otro para lo mismo.}}
+{RUB. ¶ Otro para lo mismo.}}
 {CW. Anto}
 [fol. 18r]
 {HD. de Experimentos. \ 10}
@@ -872,40 +872,40 @@ le librara a modo de miraglo.
 {IN2.} ANtonio Fumanello, doctissimo Medi-
 co Verones, dize, q<ue> darle al enfermo
 de pestilencia, luego al principio, seys on-
-c'as de agua de nuezes verdes, destilada por
+ças de agua de nuezes verdes, destilada por
 alquitara de vidrio, que cura con admira-
 cion. Ello es mucha verdad, y me consta
 por auello visto y experimentado.
-{RUB. % Cap<itulo> .5. De experimentos contra
+{RUB. ¶ Cap<itulo> .5. De experimentos contra
 sarna.}
-{IN5: incial iluminada.} EL beuer cada man~ana vna escu-
+{IN5: incial iluminada.} EL beuer cada mañana vna escu-
 dillita de cozimiento de esca-
-biosa, o del c'umo della, mara-
+biosa, o del çumo della, mara-
 uillosamente cura la sarna. Au-
 tor Andres Mathiolo Senes
 medico grauissimo. Aduierte empero, q<ue>
-esto, y los vnguentos que se siguen ((aun-
-que seguros)) si pudiere ser, se hagan prece-
+esto, y los vnguentos que se siguen ≺aun-
+que seguros≻ si pudiere ser, se hagan prece-
 diendo primero las euacuaciones vniuer-
 sales, lo que siempre encomiendo.
 {RUB. Vnguento para sarna.}
 {IN2.} TOma de trementina lauada con agua
-de fumaria quatro onc'as, c'umo de
+de fumaria quatro onças, çumo de
 vna naranja, o lima, de sal comun hecha}
 {CW. pol}
 [fol. 18v]
 {HD. Libro +}
 {CB1.
 poluo tres dragmas, de azeyte rosado on-
-c'a y media, de albayalde lauado siete drag-
+ça y media, de albayalde lauado siete drag-
 mas, mezclado todo haz vnguento. Vnta-
 rase cada noche junto al fuego el sarnoso
 con este vnguento, rascandose muy bien
-primero. A la man~ana se ban~ara, y lauara
+primero. A la mañana se bañara, y lauara
 con el siguiente cozimiento.
-{RUB. % Ban~o para sarna.}
+{RUB. ¶ Baño para sarna.}
 {IN2.} TOma de fumaria, de maluas, de roma-
-zas, de rosas, de manc'anilla, de hojas
+zas, de rosas, de mançanilla, de hojas
 de sene, yguales partes, cueza todo en agua
 de fuente. Con este cozimiento se lauara.
 Consejo es de benedicto victor de Faen-
@@ -914,64 +914,64 @@ ro, y bonissimo, despues de las euacuacio-
 nes vniuersales. Deste me he valido, y val-
 go en mis enfermos, con successo feli-
 cissimo.
-{RUB. % Otro para lo mismo.}
+{RUB. ¶ Otro para lo mismo.}
 {IN2.} DE azeyte de laurel, y de azeyte de nue-
-zes tomaras cada dos onc'as, de azey-
-te de henebro tres onc'as, de ros de bota
-onc'a y media, de vidriol Romano, y de sal}
+zes tomaras cada dos onças, de azey-
+te de henebro tres onças, de ros de bota
+onça y media, de vidriol Romano, y de sal}
 {CW. comun}
 [fol. 19r]
 {HD. de Experimentos. \ 11}
 {CB1.
 comun cada tres dragmas, de lithargino
-de oro quatro onc'as, de c'umo de llanten,
-y de agrio de limones cada tres onc'as, de
-vinagre scillitico vna onc'a, mezclalo, y
+de oro quatro onças, de çumo de llanten,
+y de agrio de limones cada tres onças, de
+vinagre scillitico vna onça, mezclalo, y
 haz vnguento.
 {RUB. Otro.}
 {IN2.} DE trementina tomaras nueue vezes,
 lauada con agua de fumaria quatro
-onc'as, de sal molida vna onc'a, de mante-
-ca dos onc'as, de azeyte rosado vna onc'a,
-dos yemas de hueuos, de c'umo de cidra, o
+onças, de sal molida vna onça, de mante-
+ca dos onças, de azeyte rosado vna onça,
+dos yemas de hueuos, de çumo de cidra, o
 de naranja, o de limo<n>, lo que fuere neces-
 sario, mezclalo todo, y haz vnguento.
-{RUB. % Otro vnguento para sarna.}
+{RUB. ¶ Otro vnguento para sarna.}
 {IN2.} DE derretido de puerco toma quatro
-onc'as, de alcreuite viuo vna onc'a, de
-sal blanca media onc'a, de trementina de
+onças, de alcreuite viuo vna onça, de
+sal blanca media onça, de trementina de
 vete, nueue vezes lauada con agua rosada
-vna onc'a, dos claras de hueuos, de mante-
-ca rezie<n>te vna onc'a, de almizque dos gra-
+vna onça, dos claras de hueuos, de mante-
+ca rezie<n>te vna onça, de almizque dos gra-
 nos, mezclalo, y haz vnguento.
 Muchos otros podria traer, pero no los
 aprueuo, porque en ellos entra el azogue.}
-{CW. % Cap<itulo>}
+{CW. ¶ Cap<itulo>}
 [fol. 19v]
 {HD. Libro +}
 {CB1.
-{RUB. % Cap<itulo> .6. De los experimentos con-
+{RUB. ¶ Cap<itulo> .6. De los experimentos con-
 tra lepra.}
 {IN2.} SIendo reziente esta enfermedad, que
-aun no aya vn an~o que affliga al en-
+aun no aya vn año que affliga al en-
 fermo, se puede curar, la inueterada y de
-muchos dias ((si de solo Dios)) no tiene re-
+muchos dias ≺si de solo Dios≻ no tiene re-
 medio. Conocer se ha estar vno leproso, se-
 gun parecer de Leuinio Lemnio, doctor
 grauissimo, echando en la vrina del enfer-
 mo ceniza de plomo quemado, y dexarla
 vn buen rato assi, si se assolare y baxare al
 hondo, no tiene lepra: pero si andare por
-encima, es sen~al que si.
-{RUB. % Experimento cierto contra lepra.}
+encima, es señal que si.
+{RUB. ¶ Experimento cierto contra lepra.}
 {IN2.} AVnque sean muchas las causas de que
 procede la lepra, lo mas ordinario su-
-cede por causa del bac'o. En tal caso Alca<n>-
+cede por causa del baço. En tal caso Alca<n>-
 zio medico Arabe dize, que darles a los le-
-prosos cada noche, y a las man~anas a be-
+prosos cada noche, y a las mañanas a be-
 uer vna escudilla de cozimiento de tha-
-rahi ((que otros dicen tamariz, o thama-
-rid)) con passas, que certissimamente cu-
+rahi ≺que otros dicen tamariz, o thama-
+rid≻ con passas, que certissimamente cu-
 ran. Dize que a el le sucedio en dos mu-geres}
 {CW. geres}
 [fol. 20r]
@@ -984,21 +984,21 @@ de la Bastida calcetero. Verdad es, que en
 la decoccio<n> hize echar hojas de sene. Vso
 deste remedio por tiempo de vn mes, vl-
 timamente le vnte con el vnguento, y le
-hize ban~ar con el ban~o de Amato Lusita-
+hize bañar con el baño de Amato Lusita-
 no, contenido en el capitulo de la sarna.
 Fue Dios seruido curasse contra opinion
 de cinco medicos doctissimos, y comen-
-c'asse yo de alli a cobrar credito, en el an~o
+çasse yo de alli a cobrar credito, en el año
 de .1564.
-{RUB. % Capit<ulo> .7. De experimentos con-
-tra suen~o profundo dicho lithargo.}
-{IN5. {ILL.}} MEzclado el c'umo de la cebolla
+{RUB. ¶ Capit<ulo> .7. De experimentos con-
+tra sueño profundo dicho lithargo.}
+{IN5. {ILL.}} MEzclado el çumo de la cebolla
 con miel y ruda, y hecho tra-
-gar por fuerc'a al enfermo, lo
+gar por fuerça al enfermo, lo
 despierta de aquella profun-
-didad de suen~o. Echadole de
+didad de sueño. Echadole de
 lo mismo dentro de las narizes, limpia la
-cabec'a de los humores dan~osos. Parecer
+cabeça de los humores dañosos. Parecer
 es de Dioscorides, y confirmalo Antonio}
 {CW. Mi}
 [fol. 20v]
@@ -1022,7 +1022,7 @@ spues de los que se auian hecho, se vsaua
 del con muy buena methodo y razon, y
 no perdiendo punto de lo que por las in-
 dicaciones se mostraua, lo que el no alcan-
-c'a, ni entiende, y si en alguna manera,
+ça, ni entiende, y si en alguna manera,
 aquello co<n>fusamente. He lo escripto aqui,
 para que pierda el orgullo, y estudie mas,
 cosa que tanto le conuiene a el, y a mi, y a
@@ -1040,12 +1040,12 @@ los lethargicos, con hortigas pican-
 tes, es remedio marauilloso: para desper-
 talles. Es de Mizaldo.
 {RUB. Otro.}
-{IN2.} FOmentarles la cabec'a, principalmen-
+{IN2.} FOmentarles la cabeça, principalmen-
 te en la sutura coronal, con cozimien-
 to caliente de axedrea, y vinagre fortissi-
 mo, y muy a menudo, es vtilissimo. De vn
 heruario antiguo, y de Mizaldo.
-{RUB. % Capit<ulo> .8. De experimentos contra
+{RUB. ¶ Capit<ulo> .8. De experimentos contra
 apoplexia.}
 {IN5. {ILL.}} HOllerio varon excellentissimo
 en medicina, en el capitulo de
@@ -1064,19 +1064,19 @@ ziere con agua ardiente. Cuenta, que con
 este remedio restauro al Obispo Senecten-
 se, el qual auia veynte y quatro horas que
 estaua priuado de sentido, y mouimiento.
-{RUB. % Capit<ulo> .9. De experimentos contra
+{RUB. ¶ Capit<ulo> .9. De experimentos contra
 perlesia. Es vn azeyte, y fomento, q<ue>
 trahe Rondoleto cap<itulo> De Apople-
 xia.}
 {IN5. {ILL.}} TOma de las tres pimientas, ca-
-da tres onc'as, de lo de adentro,
+da tres onças, de lo de adentro,
 o medula de la simiente de el
 been veynte dragmas, de ray-
 zes de apio, y de hinojo, cada
 tres dragmas, de serapino, y de apopanaco
-((que en mollificar, es efficacissimo)) y de
+≺que en mollificar, es efficacissimo≻ y de
 turbit blanco, de cada cosa dos dragmas y
-media, de agarico bla<n>quissimo onc'a y me-
+media, de agarico bla<n>quissimo onça y me-
 dia, de gingibre tres dragmas, de costo qua-
 tro dragmas, y si fuere reziente vn ma-
 nojo, de hysopo, y de ruda cada vn mano-jo:}
@@ -1089,26 +1089,26 @@ veynte y quatro libras de bue<n> vino, hasta
 que mengue la tercera parte, de manera
 que queden diez y seys libras de vino. Este
 colaran, y echara<n> con el de azeyte de cher-
-ua dos heminas, que son veynte onc'as, o
-tres sextarios, que son sesenta onc'as, y bol-
+ua dos heminas, que son veynte onças, o
+tres sextarios, que son sesenta onças, y bol-
 uer lo han al fuego, que cueza blandamen-
 te, y amorosa vn poquito. Algunos al tie<m>-
-po que hazen este azeyte, an~aden, y con
+po que hazen este azeyte, añaden, y con
 razon, de rayzes de lirio cardeno seys
 dragmas, de capsia dos dragmas, de anis, y
 de cardamomo, cada dragma y media, de
 calamo aromatico, dos dragmas y media:
-de espigasi(j)[l] dos dragmas, de c'umo de can-
+de espigasi(j)[l] dos dragmas, de çumo de can-
 thiuesso dos libras. Echaran en la primera
 decoccion las rayzes de lirio cardeno, y el
 calamo aromatico. En lugar de azeyte de
 cherua, si no lo vuiere, echaran azeyte de
 lirio cardeno, o de almendras amargas, o
 reyrino, o de nuezes, o azeyte que sea ya
-muy an~ejo.
+muy añejo.
 Hechas las euacuaciones vniuersales, vn-
 taranle al paralitico todas las partes para-
-liticadas ((y el origen, que es lo que mas im-porta))}
+liticadas ≺y el origen, que es lo que mas im-porta≻}
 {CW. por}
 [fol. 22v]
 {HD. Libro +}
@@ -1128,7 +1128,7 @@ con, yerua paralysis, majorana, betonica, y
 poleo: de cada cosa vn manojo, en muy
 buen vino blanco: echaras con ello quan-
 do estuuiere coziendo, dos dragmas de
-casthoreo, y onc'a y media de flores de ca<n>-
+casthoreo, y onça y media de flores de ca<n>-
 thuesso.
 {RUB. Consejo.}
 {IN2.} ACerca donde se ayan de hazer las vn-
@@ -1149,7 +1149,7 @@ tir. Solo quiero aduertir, que los paraliti-
 cos, no pongan pieles de zorras, ni otras
 semeja<n>tes, sobre las partes paraliticas: por-
 q<ue> en lugar de recibir prouecho, recibiran
-dan~o, sin sentirlo. Cosa poco aduertida, y
+daño, sin sentirlo. Cosa poco aduertida, y
 co<n>siderada por los medicos, y aun grauissi-
 mos de nuestros tiempos. A los quales di-
 go, q<ue> si dezirlo assi les pareciere cosa gra-
@@ -1157,24 +1157,24 @@ ue, nueua, y fuera de razo<n>, q<ue> lean a Galeno
 en el cap<itulo> .2. del libro .4. {LAT. de Simpliciu<m> medi-
 camentoru<m> [temperamentis et] fac<ultatibus>} y despues de auelle leydo,
 hagan reflexion en la clausula que comie<n>-
-c'a: {LAT. Ergo quae sic calida sunt &c<aetera>} hasta la
+ça: {LAT. Ergo quae sic calida sunt &c<aetera>} hasta la
 palabra que dize, {LAT. dispergat.} Lo que ordi-
 nariamente he aconsejado, y en consultas
 defendido, y de doctissimos varones con-
 cedido, y lo que aconsejare, sera, que los ta-
-les se armen con calc'as, armilla, y mangas
-de pan~o, ten~ido co<n> finissima grana, y qua<n>-
+les se armen con calças, armilla, y mangas
+de paño, teñido co<n> finissima grana, y qua<n>-
 to mas subido fuere, tanto mejor. Porque}
 {CW. ha}
 [fol. 23v]
 {HD. Libro +}
 {CB1.
-haziendolo assi, impedira<n> el dan~o que re-
+haziendolo assi, impedira<n> el daño que re-
 sultaria de lleuar las pieles, qualesquier q<ue>
 sean. Auello aqui de disputar, y prouar, se-
 ria fuera de proposito. Qualquiera que
-desseare saberlo ((y si dezirse puede, cono-
-cer su error)) mas a la larga, y en que me
+desseare saberlo ≺y si dezirse puede, cono-
+cer su error≻ mas a la larga, y en que me
 fundo, pida me lo, que yo respondere, y sa-
 tisfare, en mi casa, y en publico, ante per-
 sonas graues, y doctas en nuestra facultad.
@@ -1185,12 +1185,12 @@ to mas para los doctos.
 liticos, inuencion propria.}
 {IN2.} TOma rayzes de lirio cardeno, y de
 aristholostria redonda cada dos on-
-c'as, de consuelda mayor, de camedreos, de
+ças, de consuelda mayor, de camedreos, de
 iua arthetica, y de iua muscada, de yerua pa-
 ralisis, de pimpinela, de ruda, y de seluia, de
 cada qual vn manojo, de bayas de laurel, y
 de henebro, cada seys dragmas: de flores
-de ca<n>thiuesso, y de romero, cada vn pun~o
+de ca<n>thiuesso, y de romero, cada vn puño
 y medio: de galanga, de zedoaria, y de gin-
 gibre, de clauos de gilofe, de nuezes de}
 {CW. espe}
@@ -1198,17 +1198,17 @@ gibre, de clauos de gilofe, de nuezes de}
 {HD. de Experimentos. \ 16}
 {CB1.
 especias, y de canela, cada tres dragmas: de
-lignoaloes vna onc'a, de encienso, y de al-
+lignoaloes vna onça, de encienso, y de al-
 mastiga, cada diez dragmas, de myrrha, de
 aziuar hepatico, de sarcotola, de bdeli, de
-galbano, y de sangre de drago, cada onc'a y
+galbano, y de sangre de drago, cada onça y
 media: de labdano escogido, de espigasil,
 de mumia si se hallare lo que es, de carpo
-balsamo, de ac'afran, de goma arabiga, y de
+balsamo, de açafran, de goma arabiga, y de
 estoraques liquidos, cada quatro dragmas:
-de castoreo media onc'a, de goma elemmi
-dos onc'as, de diachilon ireado, tres onc'as:
-de aguardie<n>te tres onc'as, de almizque me-
+de castoreo media onça, de goma elemmi
+dos onças, de diachilon ireado, tres onças:
+de aguardie<n>te tres onças, de almizque me-
 di(e)[a] dragma: de trementina bonissima, tan-
 to como pesare todo lo dicho. Todo esto
 mezclado, pongase en alquitara de vidrio,
@@ -1220,13 +1220,13 @@ paraliticadas, curaro<n> muy bien. Entre ellos
 fue Pedro Andres de Oluja, hombre prin-
 cipal, y rico, para el qual se hizo la prime-
 ra vez este azeyte: el qual estando tan pre<n>-
-dado, vino a tanta mejoria, que tres an~os
+dado, vino a tanta mejoria, que tres años
 despues viuio libre, sano, y ando sin ju<n>co,}
 {CW. y mo}
 [fol. 24v]
 {HD. Libro +}
 {CB1.
-y mouio el brac'o como de primero: aunq<ue>
+y mouio el braço como de primero: aunq<ue>
 no tan constante, porque era impossible.
 Assi mesmo curo mossen Antonio Ma-
 ciano, racionero de la parrochial de san
@@ -1235,15 +1235,15 @@ quedando paralitico, y prendado de todo
 vn lado, de vna apoplexia que le dio, pas-
 sadas las euacuaciones vniuersales, se vnto
 con este mesmo azeyte: y con no poder
-mouer el brac'o, ni el pie, sino rastrando,
+mouer el braço, ni el pie, sino rastrando,
 cobro salud entera, y viuio sano mucho
 tiempo, como si tal no vuiera tenido. Mu-
 cho mas alabaria este azeyte, si no vuiera
 sido inuencion mia.
-{RUB. % Cap<itulo> .10. De experimentos contra
+{RUB. ¶ Cap<itulo> .10. De experimentos contra
 gota coral.}
 {IN2.} CVrara sin duda el enfermo, si le dieres
-cada man~ana con agua de majorana
+cada mañana con agua de majorana
 vna dragma, o dos de poluos de rayzes de
 filipendula, y con mas certidumbre, si en
 lo que comiere le echares de los poluos
@@ -1258,22 +1258,22 @@ vniuersales, los he dado a muchos, y
 todos han curado, con grandissima admi-
 racion de aquellos que los auian visto co<n>
 tal accidente. Mas a la larga lo veran en el
-libro de las enfermedades de los nin~os,
+libro de las enfermedades de los niños,
 en el cap<itulo> .30. Laus Deo.
 {RUB. Otro para lo mismo.}
 {IN2.} RAsis, en el primero de los continen-
 tes, da vna dragma de poluos de pire-
 tro, con vn poquito de miel, y esto lo ha-
-ze onze man~anas interpoladas. Affirma
+ze onze mañanas interpoladas. Affirma
 que curan admirablemente. No tengo ex-
 periencia dello, basta ser varon graue.
-{RUB. % Cap<itulo> .11. De experimentos contra
+{RUB. ¶ Cap<itulo> .11. De experimentos contra
 melancholia.}
 {IN2.} PArecer es de Arnaldo de Villanoua
-((aunque no lo creo)) pero por auer si-
+≺aunque no lo creo≻ pero por auer si-
 do grauissimo varo<n>, y excelle<n>tissimo astro-
 logo, lo pongo aqui. Dize assi. Toma al-
-gunos garuanc'os, y pon los al sereno en
+gunos garuanços, y pon los al sereno en
 creciente de luna, vntados con azeyte, y
 remojalos en agua, por espacio de tres ho-ras:}
 {CW. ras}
@@ -1297,7 +1297,7 @@ suero de leche de cabras, dos dragmas de
 los poluos infrascriptos: cuya descripcion
 es esta.
 Toma de epithinio quatro dragmas, de
-lapis[+]lazuli escogido, y de agarico trocisca-
+lapis( )lazuli escogido, y de agarico trocisca-
 do, cada dos dragmas, de escamonea vna
 dragma, y veynte clauillos de gilofe, he-
 cho todo poluo, segun arte, se mezcle, y
@@ -1312,19 +1312,19 @@ muy de veras melancholicos, y mediante
 el auxilio diuino, y el effecto destos pol-
 uos, obtuue felicissimo successo, y cobre
 grande nombre en toda esta tierra, gloria
-a Dios nuestro sen~or.
-{RUB. % Capit<ulo> .12. De experimentos para
+a Dios nuestro señor.
+{RUB. ¶ Capit<ulo> .12. De experimentos para
 deshazer nubes de los ojos, y otras
 enfermedades.}
 {IN5. {ILL.}} DE hinojo verde toma dos ma-
 nojos, de ruda, de celidonia ca-
 da vn manojo, de miel buena
-tres onc'as, de ac'ucar piedra, y
+tres onças, de açucar piedra, y
 de miel rosada colada, cada vna
-onc'a: de tutia alexandrina, y de Sarcocola
+onça: de tutia alexandrina, y de Sarcocola
 nudrida cada dos dragmas: de vino blanco
 bonissimo tres cucharadas buenas, o me-
-dia onc'a, destillese todo por alquitara de
+dia onça, destillese todo por alquitara de
 vidrio. Desta agua haras echar en los ojos
 que tuuieren nubes, despues de las euacua-
 ciones vniuersales. Ha se de co<n>seruar esta
@@ -1337,11 +1337,11 @@ uierta empero, el que della vsare, que si se}
 vinieren los ojos a enramar de sangre, o
 se temiere dello, que pongan en derredor
 de los ojos muy a menudo, refrescando-
-los, vnos lienc'os de lino delgados, moja-
+los, vnos lienços de lino delgados, moja-
 dos en agua de rosas finas, o de llanten, o
-en el c'umo dellas. Con esta agua he cura-
+en el çumo dellas. Con esta agua he cura-
 do, loores a Dios, muchissimos: como en
-el libro de las enfermedades de los nin~os
+el libro de las enfermedades de los niños
 se vera. Hallaranse alli otros remedios pa-
 ra lo mismo muy buenos.
 {RUB. Experimento para vista corta, de-
@@ -1364,7 +1364,7 @@ humor, o flema abundare.}
 {CB1.
 Hallose vno, que por muy largo tiempo
 estuuo sin ver cosa alguna, y con el vso
-deste vino, dentro de vn an~o cobro la
+deste vino, dentro de vn año cobro la
 vista. Tiene la euphragia tal propriedad,
 por ser caliente, y seca, de su naturaleza:
 por lo qual comiendola hecha poluo con
@@ -1379,9 +1379,9 @@ mente, al vso del vino de la euphragia, no
 se le halla ygual para la vista. Si a caso el
 vino fuesse muy fuerte, aguenle con agua
 de hinojo, o de euphragia, y si necessario
-fuere echenle ac'ucar.
+fuere echenle açucar.
 {RUB. Otro para vista impedida.}
-{IN2.} TOma de c'umo de celidonia quanto
+{IN2.} TOma de çumo de celidonia quanto
 quisieres, y con miel purissima cue-
 zelo en vn rescaldo vn poco, y espumalo,
 desta mixtura echa en los ojos, y princi-
@@ -1390,7 +1390,7 @@ palmente si vuiere alguna crassitie en la}
 [fol. 27v]
 {HD. Libro +}
 {CB1.
-nin~a, o nin~eta del ojo: conforme a la do-
+niña, o niñeta del ojo: conforme a la do-
 ctrina de Galeno, en el .8. de {LAT. Simpli<cium> med<icamentorum> [temperamentis et]
 fac<ultatibus>} Pueden tomar de la misma mixtura, y
 co<m>posicion, en lugar de xaraues, y despues
@@ -1407,11 +1407,11 @@ perdida.}
 de verbenaca, de benedicta, dicha sana-
 munda, de la ceratophilago, de agrimo-
 nia, de camedreos, de euphragia, de pim-
-pinella, de quercula menor ((que es otra
-especie de camedreos)) de fragaria, y de sel-
+pinella, de quercula menor ≺que es otra
+especie de camedreos≻ de fragaria, y de sel-
 uia, cada vn manojo, de pimienta siete gra-
-nos, de miel dos onc'as, todo junto echalo
-en remojo en vrina de vn nin~o pequen~o:
+nos, de miel dos onças, todo junto echalo
+en remojo en vrina de vn niño pequeño:
 despues destilalo, y el agua que saldra guar-
 dala en vaso de vidrio. Cierto, segun lo af-firma}
 {CW. firma}
@@ -1426,8 +1426,8 @@ los ojos.}
 {IN2.} CVeze vn par, o vna terna de hueuos
 en caxcara, hasta que se haga<n> muy du-
 ros, despues quitales las hiemas, y hinche
-las claras de ac'ucar poluorizado: y qua<n>do
-el ac'ucar se aura deshecho exprimelas, y
+las claras de açucar poluorizado: y qua<n>do
+el açucar se aura deshecho exprimelas, y
 del licor que saldra, echa en los ojos. Es de
 Fumanello.
 {RUB. Para gota serena, que es obstructio<n>
@@ -1450,7 +1450,7 @@ Fumanello.
 catharactas.}
 {IN2.} TOma pedacillos de marquesitas he-
 chas ascuas, y ahogalas en azeyte co-
-mun, que sea an~ejo, despues haz poluo las
+mun, que sea añejo, despues haz poluo las
 marquesitas, y destilalas por alquitara: desti-
 ladas bueluelas a hazer poluo, y mezcla-
 las con lo que se destilo, y bueluelo todo
@@ -1459,9 +1459,9 @@ vaso de vidrio muy bien atapado, de suer-
 te que no se euapore, y exhale. Desta agua
 echaras sobre las catharactas. Autor Fu-
 manello, y traelo tambien Fallopio.
-{RUB. % Capit<ulo> .13. Para dolor de oydos, y
+{RUB. ¶ Capit<ulo> .13. Para dolor de oydos, y
 otras enfermedades dellos.}
-{IN2.} EChar dentro del oydo c'umo de acel-
+{IN2.} EChar dentro del oydo çumo de acel-
 gas caliente, es admirable remedio pa-ra}
 {CW. ra}
 [fol. 29r]
@@ -1477,7 +1477,7 @@ sordez, dolor, y zumbido de oydos.
 {RUB. Para sordez antigua.}
 {IN2.} DE aziuar tomaras vna dragma, de al-
 mastiga, de semilla de ruda, de mosta-
-za, de ac'afran, de clauos de gilofe, de cada
+za, de açafran, de clauos de gilofe, de cada
 cosa media dragma, cueza todo vn poco
 con miel, de la qual echaras vnas gotillas
 calientes dentro de los oydos, y curara.
@@ -1493,17 +1493,17 @@ Escaua vna cebolla, y hinchela de gordura}
 [fol. 29v]
 {HD. Libro +}
 {CB1.
-reziente de anguilas, y de c'umo de raua-
+reziente de anguilas, y de çumo de raua-
 nos, y de puerros, y con la cobertera que
 le quitastes cubrela, y cuezela debaxo de
 las cenizas: cozida exprimela, y del licor
 que saldra, echaras de<n>tro de los oydos ca-
 liente. De Fumanello.
-{RUB. % Cap<itulo> .14. De Experimentos co<n>tra
+{RUB. ¶ Cap<itulo> .14. De Experimentos co<n>tra
 dolor de muelas y dientes.}
 {IN5. {ILL.}} QValquiera que tuuiere dolor
 de muelas, o de dientes, enxa-
-guese con c'umo de acelgas ca-
+guese con çumo de acelgas ca-
 liente: y se le mitigara muchis-
 simo. Es de Mizaldo, en el ca-
 pit<ulo> .5. del Campo .1. del Alexirepo. El mis-
@@ -1526,7 +1526,7 @@ das. Otros se enxaguan con agua, en que
 se ayan cozido ajos. Pero se ha de aduer-
 tir, que este remedio se ha de aplicar en
 causa fria, y que no aya inflamacion, por-
-que mas dan~aria, y aumentaria el dolor.
+que mas dañaria, y aumentaria el dolor.
 {RUB. Otro para lo mismo.}
 {IN2.} TOma de bayas de henebro, majadas
 vn poco, y vnas nuezes de acipres, y
@@ -1583,7 +1583,7 @@ Aduierte empero, que esto sirue en causa
 fria.
 {RUB. Otro para dolor de muelas en causa
 caliente.}
-{IN2.} VN pedac'o de calabac'a verde tomaras,
+{IN2.} VN pedaço de calabaça verde tomaras,
 y cuezelo, despues de cozido saca el
 xugo, y con el caliente enxaguate los die<n>-
 tes y muelas. es de Mizaldo.
@@ -1625,7 +1625,7 @@ guiente.}
 [fol. 32r]
 {HD. de Experimentos. \ 24}
 {CB1.
-Toma semilla de vellen~o, y esparzela so-
+Toma semilla de velleño, y esparzela so-
 bre vn papel blanco, de tal manera que el
 papel este lleno: toma despues vna vela de
 cera blanca, ence<n>dida, y decantala sobre la
@@ -1633,11 +1633,11 @@ semilla, para que cayendo venga toda a
 modo de dragea. Hecha assi, tomara della
 el que tuuiere dolor de muelas, o las tu-
 uiere gastadas, y la echara sobre vnas as-
-quas ardientes, y recibira aquel c'ahume-
+quas ardientes, y recibira aquel çahume-
 rio, teniendo la boca abierta, atapa<n>do que
 no le de en las narizes, y procurando no
 se esparza aquel humo: y estara assi media
-hora, o por lo menos vn quarto, an~adien-
+hora, o por lo menos vn quarto, añadien-
 do siempre de la semilla assi mezclada co<n>
 la cera. Malo le parecera, pero no dexe de
 hazerlo: porque de alli a tres horas, se ha-
@@ -1666,9 +1666,9 @@ verdad, puedo dezir que es assi, pues yo he
 vsado dello en muchos, y principalmente
 en mi mismo: y co<n> tener, como te<n>go vnas
 rayzes gastadas, y cada dia el dolor me in-
-quietaua, desde agora vn an~o y medio aca
+quietaua, desde agora vn año y medio aca
 que lo hize, no he sentido mas pesadum-
-bre, ni cosa que me estoruasse suen~o, ni
+bre, ni cosa que me estoruasse sueño, ni
 comer
 {RUB. Experimento para sacar muelas sin
 hierro.}
@@ -1719,7 +1719,7 @@ zinas co<n> vn poco de cera, para que no lle-
 gue el pelitre a ellas. Dexar lo has ansi,
 por espacio y tie<m>po de vna hora, despues
 con los dedos, y si no pudieres assirlas, co<n>
-vnas pinc'as sacaras con facilidad las mue-
+vnas pinças sacaras con facilidad las mue-
 las.
 {RUB. Consejo.}
 {IN2.} EN dolor de dientes y muelas, muchos
@@ -1739,8 +1739,8 @@ gros.}
 {IN2.} VNa de las faltas enojosas, y abomina-
 bles, assi en hombres, como en muge-
 res, es el tener los die<n>tes negros, y suzios.
-Remediarase ((precediendo las euacuacio-
-nes vniuersales)) con hazer que vn cirur-
+Remediarase ≺precediendo las euacuacio-
+nes vniuersales≻ con hazer que vn cirur-
 jano los limpie muy bien, y quite la tosca.
 Despues se lauara<n>, y enxaguaran con vino
 blanco odorifero, y muy bueno, en el qual
@@ -1767,12 +1767,12 @@ ctria, cada vna dragma, de piedra espon-
 gia, y de co<n>chas de sepias, de cada cosa vna
 dragma y media: de pimienta, de poleo, de
 pelitre, cada media dragma. Todo muy bie<n>
-molido, passalo por vn cedac'o, y tendras
+molido, passalo por vn cedaço, y tendras
 hecho el poluo. Con este poluo te frega-
 ras cada dia los dientes, enxaguandote pri-
 mero con el vino sobredicho.
 {RUB. Remedio para dolor de muelas.}
-{IN2.} EL licenciado Dionisio Dac'a Chacon,
+{IN2.} EL licenciado Dionisio Daça Chacon,
 en el .3. lib<ro> de las apostemas, en los mie<m>-
 bros particulares, dize en esta manera. Es
 este vn remedio excellentissimo, y presto,
@@ -1783,8 +1783,8 @@ partes, mezcladas con qualquiera hume-
 dad, y tomo vn poquito, y pongole en el
 mismo diente, o muela, y assiento vn cau-
 terio bien encendido encima, metido en
-vna can~ita, y aun embuelta en vnos pa-
-n~os mojados, porque no queme, ni calie<n>-te}
+vna cañita, y aun embuelta en vnos pa-
+ños mojados, porque no queme, ni calie<n>-te}
 {CW. te}
 [fol. 35r]
 {HD. de Experimentos. \ 27}
@@ -1802,7 +1802,7 @@ cho licenciado, quando las muelas, o dien-
 tes estauan gastados, o qua<n>do el dolor era
 intensissimo. Valete del co<n>sejo de los nar-
 coticos, y sabras lo que deues hazer.
-{RUB. % Cap<itulo> .15. De experime<n>tos para lla-
+{RUB. ¶ Cap<itulo> .15. De experime<n>tos para lla-
 gas y vlcerillas que se hazen en
 la boca.}
 {IN5. {ILL.}} VIenen las llagas de la boca, de
@@ -1817,7 +1817,7 @@ Toma de alumbre de roca, de sal gem-mae,}
 {CB1.
 y de alcreuite amarillo, cada dos li-
 bras: de borrax, y de almastiga, cada dos
-onc'as: hazer se ha todo poluo, y poner lo
+onças: hazer se ha todo poluo, y poner lo
 has en alambique con su capello, y reci-
 piente, y dale fuego artificial todo vn dia,
 y saldra vna agua blanca como leche, la
@@ -1836,7 +1836,7 @@ experime<n>tado de muchos en esta ciudad,
 y principalmente, en las que se hazen en-
 tre los labios y dientes.
 {RUB. Otro para lo mismo.}
-{IN2.} MOja muy bie<n>, con el c'umo de las ho-
+{IN2.} MOja muy bie<n>, con el çumo de las ho-
 jas de la consuelda menor, y media-na,}
 {CW. na}
 [fol. 36r]
@@ -1845,7 +1845,7 @@ jas de la consuelda menor, y media-na,}
 las vlceras y llagas de la boca: y te<n>dras
 admirable remedio. Autor Mathiolo Se-
 nes.
-{RUB. % Cap<itulo> .16. De experimentos contra
+{RUB. ¶ Cap<itulo> .16. De experimentos contra
 esquinancia.}
 {IN5. {ILL.}} COnuiene que le sangren con
 presteza, y euacuen. Lo qual
@@ -1855,7 +1855,7 @@ za de golo[n]drinas sobre la gar-
 ganta y cuello. Es de Galeno, en el lib<ro> .11.
 {LAT. de Simp<licium> med<icamentorum> [temperamentis et] facult<atibus>.} Otros vsan del nido
 entero de las golondrinas hecho poluos,
-y con azeyte de ac'ucenas, traydo a modo
+y con azeyte de açucenas, traydo a modo
 de emplastro, y lo ponen sobre la gargan-
 ta y cuello. Pereda lo vitupera, por causa
 de la tierra que hay en el con el estiercol,
@@ -1877,8 +1877,8 @@ sera bueno y apto para cozer y discutir.
 {RUB. Otro para lo mismo.}
 {IN2.} GAleno, en el decimo libro {LAT. de Simpl<icium>
 med<icamentorum> [temperamentis et] facul<tatibus>} dize, que vno de sus mae-
-stros cogia estiercol de perro ((q<ue> no vuies-
-se comido en tres dias sino huessos)) y lo
+stros cogia estiercol de perro ≺q<ue> no vuies-
+se comido en tres dias sino huessos≻ y lo
 secaua, y hazia poluo dello, del qual daua
 con xaraue co<n>uiniente al enfermo de es-
 quinancia. Podrase dar con xaraue de vio-
@@ -1887,10 +1887,10 @@ xaraue de hyssopo, o con dianucum. Vue-
 cherio alaba, para el mismo caso, la ceni-
 za de caracoles que no tienen caxcara, o
 concha, beuida con algun xaraue.
-{RUB. % Capit<ulo> .17. De experimentos con-
+{RUB. ¶ Capit<ulo> .17. De experimentos con-
 tra tos.}
 {IN2.} COmer cebollas, assadas debaxo de las
-cenizas, co<n> ac'ucar, o miel, es muy vtil}
+cenizas, co<n> açucar, o miel, es muy vtil}
 {CW. y pro}
 [fol. 37r]
 {HD. de Experimentos. \ 29}
@@ -1898,7 +1898,7 @@ cenizas, co<n> ac'ucar, o miel, es muy vtil}
 y prouechoso. Autor Mizaldo, en el ca-
 pit<ulo> .2. del .2. campo del Alexirepo.
 {RUB. Otro para lo mismo.}
-{IN2.} BEuer c'umo de seluia con vino, es ad-
+{IN2.} BEuer çumo de seluia con vino, es ad-
 mirable para la tos. Mizaldo en el ca-
 pitulo de seluia.
 {RUB. Otro para lo mismo.}
@@ -1907,24 +1907,24 @@ res, con buen vino blanco, hasta que
 mengue la tercera parte. Cuela el vino ya
 despues de cozido, y dale dello al que tie-
 ne la tos, vna escudillita caliente cada ma-
-n~ana. Es de Fumanello, y prouado.
+ñana. Es de Fumanello, y prouado.
 {RUB. Otro.}
 {IN2.} LAs camuesas mondadas toma, y cor-
 talas a ruedas delgadas, y co<n>fitalas con
 miel, y coma dellas el enfermo. De Fuma-
 nello.}
-{CW. % Cap<itulo>}
+{CW. ¶ Cap<itulo>}
 [fol. 37v]
 {HD. Libro +}
 {CB1.
-{RUB. % Capit<ulo> .18. De experimentos con-
+{RUB. ¶ Capit<ulo> .18. De experimentos con-
 tra asthma.}
 {IN5. {ILL.}} TOma de las puerquezitas, que
 en las bodegas, sotanos, y cille-
 ros andan, y se hallan baxo las
 tinajas del agua: y echalas toda
 vna noche a remojo en vino
-blanco, a la man~ana cuelalo, y dalo a be-
+blanco, a la mañana cuelalo, y dalo a be-
 uer al enfermo: porq<ue> es admirable reme-
 dio. Traelo sobre la Practica de Hollerio,
 Antonio Vallesio, en el capitulo de Or-
@@ -1939,7 +1939,7 @@ al fuego para q<ue> cueza, hasta que quede he-
 cha agua miel, despumandola siempre. To-
 mara desta agua miel el enfermo vna escu-
 dillita, quando se fuere a dormir, y otra a
-la man~ana quatro horas antes de comer,}
+la mañana quatro horas antes de comer,}
 {CW. y to}
 [fol. 38r]
 {HD. de Experimentos. \ 30}
@@ -1955,8 +1955,8 @@ de veras que es admirable.
 {IN2.} IVnto con esto podras vsar del consejo
 de Cardano, y de Alonso Lupeyo, que lo
 tomo del, que es darle al enfermo en ayu-
-nas, media onc'a de c'umo de albahaca cla-
-rificado, y medio escrupulo de ac'afran he-
+nas, media onça de çumo de albahaca cla-
+rificado, y medio escrupulo de açafran he-
 cho poluo. Tengo dello hecha experien-
 cia, y es cierto lo que dizen los autores.
 {RUB. Agua admirable con que cura<n> los
@@ -1964,20 +1964,20 @@ asthmaticos.}
 {IN2.} TOma de dactiles, de culantrillo de po-
 zo, de anis, de rayzes de lirio carde-
 no, de gingibre cortado menudo, de palo
-dulce, de simiente de alac'or, de cada cosa
+dulce, de simiente de alaçor, de cada cosa
 vna dragma: de bayas de laurel, de cebolla
-albarrana preparada, y de pin~ones lim-pios,}
+albarrana preparada, y de piñones lim-pios,}
 {CW. pios}
 [fol. 38v]
 {HD. Libro +}
 {CB1.
-de cada cosa media onc'a, de semilla
-de hortigas vn pun~o, de marrubios, de
+de cada cosa media onça, de semilla
+de hortigas vn puño, de marrubios, de
 escabiosa, de romero, y de hyssopo, de ca-
 da cosa vn manojo: cozera todo en suffi-
 ciente cantidad de agua miel, hasta que la
 tercera parte aya me<n>guado. Tomara della
-el enfermo cada man~ana vna escudillita
+el enfermo cada mañana vna escudillita
 caliente. Es segun Fumanello admirable.
 {RUB. Otro para lo mismo.}
 {IN2.} TOma poluos de bretonica, con agua
@@ -1992,7 +1992,7 @@ no te de el chamedreos por ella: que hay
 muchos que lo hazen assi, que seria mas
 seruicio de Dios, a los tales priualles, que
 dexarles tener botiga.
-{RUB. % Capit<ulo> .19. De experimentos co<n>tra
+{RUB. ¶ Capit<ulo> .19. De experimentos co<n>tra
 dolor de costado.}}
 {CW. Ya}
 [fol. 39r]
@@ -2007,7 +2007,7 @@ euacuaciones vniuersales: aunque no sean
 sino sangrias, como en esta. Considerado
 ello assi, dar al enfermo dragma y media
 de poluos de amapolas, que en Aragon se
-dizen abauoles ((digo de las flores dellos))
+dizen abauoles ≺digo de las flores dellos≻
 con cozimiento de doradilla, o de yerua
 brenca, que es el cula<n>trillo de pozo, es ad-
 mirable remedio en el dolor de costado.
@@ -2019,9 +2019,9 @@ vso con successo felicissimo.
 {RUB. Otro para lo mismo.}
 {IN2.} DIze Antonio Mizaldo, en el Apho-
 rismo .92. de la .2. Centuria de Arcanis
-naturae, que tomar media onc'a de limadu-
+naturae, que tomar media onça de limadu-
 ras de die<n>tes de puerco montes, y co<n> agua
-de ceuada, o de garuanc'os, darla a beuer al}
+de ceuada, o de garuanços, darla a beuer al}
 {CW. enfer}
 [fol. 39v]
 {HD. Libro +}
@@ -2047,7 +2047,7 @@ mezclados (i)[e]n yguales partes, es admira-
 ble, segun Fumanello.
 {RUB. Otro.}
 {IN2.} HAras ceniza de coles coloradas con
-sus rayzes, y con derritido an~ejo de}
+sus rayzes, y con derritido añejo de}
 {CW. puerco}
 [fol. 40r]
 {HD. de Experimentos. \ 32}
@@ -2056,8 +2056,8 @@ puerco, haras vnguento para lo mismo. Es
 de Mizaldo.
 {RUB. Otro para lo mismo.}
 {IN2.} TOma de azeyte de almendras dulces,
-de ac'ucenas, y de jorjolin, cada vna
-onc'a: de emplastro filij zachariae, lo q<ue> fue-
+de açucenas, y de jorjolin, cada vna
+onça: de emplastro filij zachariae, lo q<ue> fue-
 re menester, mezclalo todo, y haz vngue<n>-
 to, con el qual vntaras el lado, y el pecho
 al enfermo. Antes de vntarle, sera proue-
@@ -2071,7 +2071,7 @@ tro vezes, vntaranle con el vnguento, y
 bolueran a poner encima las vexigas ca-
 lientes.
 {RUB. El cozimiento.}
-{IN2.} DE alholuas, de maluauisco, de manc'a-
+{IN2.} DE alholuas, de maluauisco, de mança-
 nilla, y de simiente de lino, tomaras
 lo que quisieres de cada cosa, y cuezelo en
 agua para lo dicho.}
@@ -2084,7 +2084,7 @@ en lugar de las vexigas que digo pongas
 sobre el lado y pecho, podras poner vn pe-
 gado, hecho de emplastro de meliloto, y
 del dicho filij zachariae.
-{RUB. % Capit<ulo> .20. Para remediar a los
+{RUB. ¶ Capit<ulo> .20. Para remediar a los
 que escupen sangre.}
 {IN5. {ILL.}} PVede se echar sangre por la bo-
 ca, y proceder del cerebro, o de
@@ -2093,7 +2093,7 @@ o del estomago, o del liuiano, o
 de la boca y enzias, o por algu-
 na sanguisuela que este assida. Dado que
 de todas estas partes puede salir, ha de ser
-forc'osamente, o por auerse la vena abier-
+forçosamente, o por auerse la vena abier-
 to y dilatado, o por rompimiento della, o
 por crosion, o por corrosion y reseracion.
 Tratar dello aqui, no conuiene: porque es
@@ -2119,9 +2119,9 @@ cabras, y que los continuen tres dias los q<ue>
 assi escupen sangre.
 {RUB. Otro para lo mismo.}
 {IN2.} HEchas las euacuaciones vniuersales,
-desele al enfermo, cada man~ana vna
-onc'a de conserua muy an~eja de rosas colo-
-radas, y tras della vna tac'a de agua de ce-
+desele al enfermo, cada mañana vna
+onça de conserua muy añeja de rosas colo-
+radas, y tras della vna taça de agua de ce-
 uada. Daranle allende desto a tercera no-
 che, quando fuere hora de dormir, y pas-
 sadas por lo menos cinco horas de la ce-
@@ -2133,7 +2133,7 @@ nera.}
 {HD. Libro +}
 {CB1.
 {RUB. El Diacodion.}
-{IN2.} TOma ochenta cabec'as de adormide-
+{IN2.} TOma ochenta cabeças de adormide-
 ras, cuezelas en ochenta sextarios de
 agua, hasta que mengue la tercera parte,
 a saber es, hasta que se marchiten y arru-
@@ -2141,8 +2141,8 @@ guen. Despues cuelalo, y exprimelo muy
 bien, y a la agua assi colada, echale diez li-
 bras de miel, y cueza lo necessario. Este es
 el Diacodion simple. Si le quisieres hazer
-en otra manera, an~aderas al tiempo que
-cueze con la miel, de ac'afran, de myrrha,
+en otra manera, añaderas al tiempo que
+cueze con la miel, de açafran, de myrrha,
 y de sugo de hyppocistidos doze dragmas
 de cada vno: de encienso seys dragmas, y
 de acatia doze. Este es el Diacodion com-
@@ -2155,35 +2155,35 @@ aconseja el excellentissimo Galeno. Fer-
 nelio, en el libro septimo de la {LAT. Methodo
 medendi,} trae otra manera de Diacodio<n>,
 cuya descripcion, es esta.
-Toma doze cabec'as de adormideras, q<ue>}
+Toma doze cabeças de adormideras, q<ue>}
 {CW. no}
 [fol. 42r]
 {HD. de Experimentos. \ 34}
 {CB1.
-no sean muy grandes, ni muy pequen~as, y
+no sean muy grandes, ni muy pequeñas, y
 que no este<n> muy passadas, ni muy verdes:
 de agua de lluuia dos libras, cuezan hasta
-que ayan me<n>guado ocho onc'as del agua,
+que ayan me<n>guado ocho onças del agua,
 y en ser cozida cuela el agua, y en ella assi
-colada echaras quatro onc'as de arrope, de
-miel dos onc'as, y buelua a cozer perfecta-
+colada echaras quatro onças de arrope, de
+miel dos onças, y buelua a cozer perfecta-
 mente, hasta tanto que tenga pu<n>to de xa-
 raue. A la fin del cozelle, antes que le sa-
 quen del fuego, echaran con ello, de pol-
 uos de rosas coloradas, de balaustias, de
-acacia, de vuilla de c'umaque, dos dragmas
+acacia, de vuilla de çumaque, dos dragmas
 de cada vna: de poluos de simiente de ver-
 dolagas, de coral blanco y colorado, cada
 vna dragma. Hecha que sea esta composi-
 cion, guardala. La dosis y cantidad que se
 ha de dar, es de vna dragma y media, hasta
-dos y media, conforme al calor y fuerc'as
+dos y media, conforme al calor y fuerças
 del enfermo. Desta vsamos en esta ciudad
 por orden mio. Tienen la hecha dos boti-
 carios, Hieronymo Valejo, y Iuan Dolio,
 hombres en su arte harto habiles, y que se
 les puede fiar qualquier cosa. Echamos al-
-gunas vezes en ella, en lugar de miel ac'u-
+gunas vezes en ella, en lugar de miel açu-
 car. Podria contar successos marauillosos,}
 {CW. que}
 [fol. 42v]
@@ -2192,9 +2192,9 @@ car. Podria contar successos marauillosos,}
 que con esta composicion, y orden, se han
 conseguido, loores a Dios. Los effectos q<ue>
 haze, y para q<ue> effectos sirue, son muchos.
-Porque allende de que concilia suen~o, in-
+Porque allende de que concilia sueño, in-
 hibe las distilaciones, y corrimientos: con-
-forta el estomago, restan~a, y quita las ca-
+forta el estomago, restaña, y quita las ca-
 maras de sangre, y las colericas. Es vtil en
 las fiebres ardientes, y tauardillos, y a los
 que son molestados con excessiua sed, y vi-
@@ -2203,9 +2203,9 @@ causa de humores subtiles, y mordaces, q<ue>
 vienen casi a sincopizar, y para los que pa-
 decen erysipela en el pecho. Demas desto
 es vtil para los que padecen vaguidos de
-cabec'a, causados de subtiles vapores, y ca-
+cabeça, causados de subtiles vapores, y ca-
 lientes, que suben del estomago, o del co-
-rac'on, o del higado. Assi mismo para los
+raçon, o del higado. Assi mismo para los
 que son molestados con enfermedades en
 las enzias, garganta, y agallas, causadas de
 humores mordaces: y al dolor de muelas,
@@ -2218,7 +2218,7 @@ ble remedio, si vsaren del con methodo y}
 [fol. 43r]
 {HD. de Experimentos. \ 35}
 {CB1.
-consideracion de las fuerc'as del enfermo,
+consideracion de las fuerças del enfermo,
 en otra manera le mataran.
 {RUB. Para los que echan sangre del liuiano.}
 {IN2.} HEchas las diligencias necessarias, assi
@@ -2232,9 +2232,9 @@ le cayga. Tienelo por tan bueno Fuma-
 nello, que en menos de diez y ocho re<n>glo-
 nes, lo encarga muchissimo otra vez Ten-
 dera<n>lo el emplastro o ceroto, sobre vn pe-
-dac'o de aluda, y aunque llegue al estoma-
-go no hara dan~o.
-{RUB. % Capit<ulo> .21. De Experimentos para
+daço de aluda, y aunque llegue al estoma-
+go no hara daño.
+{RUB. ¶ Capit<ulo> .21. De Experimentos para
 que les ve<n>ga leche a las que crian
 quando les falta.}
 {IN2.} POrque las mugeres que crian, en fal-
@@ -2244,7 +2244,7 @@ tarles la leche, por consejo de parte-ras,}
 {HD. Libro +}
 {CB1.
 y de otras hechizeras, comen cosas,
-para si, y a las criaturas dan~osas, como son
+para si, y a las criaturas dañosas, como son
 sardinas, atun, cecina, y otras a estas seme-
 jantes. Conuiene aduertirles, que lo que
 mas deuen hazer, es, comer de bueno, y
@@ -2259,13 +2259,13 @@ mejantes. Pollos, palominos, faysanes, ca-
 brito, ternera, vbres de oueja, y de vaca, pa-
 uon. De pescados truchas, pageles, salmon
 frescos y no salados, baruos, sabogas, y be-
-sugos, leche cozida con hueuos y ac'ucar:
+sugos, leche cozida con hueuos y açucar:
 manjar blanco, arroz, cozido primero en
 agua, y despues con leche: amido<n> cargado
-de ac'ucar, marc'apanes, c'anahorias assadas,
-o confitadas, almendras, pin~ones, y turro-
+de açucar, marçapanes, çanahorias assadas,
+o confitadas, almendras, piñones, y turro-
 nes de alegria, y qualesquiera otros, o be-
-ua buen vino de Torrente, o de Pican~a, o
+ua buen vino de Torrente, o de Picaña, o
 de Yllana, que no sea guixado, y blanco,
 aunq<ue> sea Castellano: y este no puro, guar-dese}
 {CW. dese}
@@ -2277,21 +2277,21 @@ cio demasiado, y de passiones de alma. Pue-
 den creer, que assi tendran mucha, y bue-
 na leche.
 Haze mucho al caso dicho, comer ho-
-jas de lechugas cozidas, y cargadas de ac'u-
+jas de lechugas cozidas, y cargadas de açu-
 car. Si se cozieren con caldo de buen ca-
 pon, o gallina y carnero, seran mucho me-
 jores. Freguense las tetas con las manos,
 vntadas co<n> azeyte de espigasil, y esto amo-
 rosa y blandamente, y assi haran atraccio<n>.
 {RUB. Otro.}
-{IN2.} DEnle a la nodric'a a beuer c'umo de hi-
+{IN2.} DEnle a la nodriça a beuer çumo de hi-
 nojo clarificado, con poluos de anis,
-y de ac'ucar.
+y de açucar.
 {RUB. Otro.}
 {IN2.} DEnle cada noche, quando se vaya a
-dormir, y a las man~anas al alua vna
+dormir, y a las mañanas al alua vna
 escudilla de cozimiento de ceuada limpia,
-y hinojo verde, con vn poco de ac'ucar. Es
+y hinojo verde, con vn poco de açucar. Es
 de Galeno, tengolo por ordinario man-
 darlo, y es admirable.}
 {CW. Otro}
@@ -2311,7 +2311,7 @@ Como el faltar la leche, pueda proceder
 por otras causas que de falta de sangre, si
 vuiere oportunidad de p(i)[e]dir consejo a me-
 dico docto, haganlo.
-{RUB. % Cap<itulo> .22. De experimentos contra
+{RUB. ¶ Cap<itulo> .22. De experimentos contra
 la abundancia de leche.}
 {IN5. {ILL.}} DE abundancia de la materia, sa-
 le copiosa la obra, y effecto. Co-
@@ -2323,18 +2323,18 @@ mucha leche, y ay temor de que les suce-da}
 [fol. 45r]
 {HD. de Experimentos. \ 37}
 {CB1.
-algun dan~o, que se les quite la ceuada,
+algun daño, que se les quite la ceuada,
 y que ayunen. Comera<n> cosas de poco suste<n>-
-to: como son espinacas, acelgas, calabac'as,
+to: como son espinacas, acelgas, calabaças,
 armuelles, pescado cecial, carne muy po-
 ca, y beua agua. Sobre los pechos y tetas,
-dese con vnos pan~os, mojados en claras
+dese con vnos paños, mojados en claras
 de hueuos, y vnguento rosado, o hojas de
 verdolagas. Pongase sobre las tetas, el em-
 plastro que se sigue.
 Toma de semilla de albahaca, y de hor-
 tigas, cada dos dragmas, de harina de ha-
-uas, y de ceuada cada dos onc'as: de yerua
+uas, y de ceuada cada dos onças: de yerua
 buena, de sicuta, dicha en Castilla neua-
 da, y de ruda cada vna dragma, mezclalo
 todo junto, majalo, y haz emplastro.
@@ -2356,8 +2356,8 @@ manteca, vinagre, y quajo de liebre.
 Son los dos de Vuecherio.
 {RUB. Otro para lo mismo.}
 {IN2.} TOma de harina de ceuada, o de alhol-
-uas vna onc'a, de vngue<n>to rosado tres
-onc'as, y vn quajo de cabrito, o de corde-
+uas vna onça, de vngue<n>to rosado tres
+onças, y vn quajo de cabrito, o de corde-
 ro, y mezclalo todo, y con ello vnta las te-
 tas. Es de Fumanello.
 {RUB. Remedio para lo mismo excellen-
@@ -2371,34 +2371,34 @@ liquidas, aunque sea<n> diuersas, de la misma
 suerte quaja la leche. Para lo qual, entre
 las cosas y remedios, que mas haze<n> y apro-
 uechan, es el emplastro que se sigue.
-Toma de miel media onc'a, de estora-ques}
+Toma de miel media onça, de estora-ques}
 {CW. ques}
 [fol. 46r]
 {HD. de Experimentos. \ 38}
 {CB1.
 calamithae tres dragmas, de hiel de
-vaca dos dragmas, de azeyte de ma<n>c'anilla
-vna onc'a, de myrrha, y encienso cada dos
-onc'as y media: mezclese todo, y traygase
+vaca dos dragmas, de azeyte de ma<n>çanilla
+vna onça, de myrrha, y encienso cada dos
+onças y media: mezclese todo, y traygase
 a forma de emplastro, el qual pondran so-
 bre las tetas. Es de Leonardo Fuctisio.
-{RUB. % Capit<ulo> .23. Contra inflammacion
+{RUB. ¶ Capit<ulo> .23. Contra inflammacion
 de tetas.}
 {IN5. {ILL.}} MVchas vezes acaece, que por
 quajarseles la leche en las te-
 tas, se les phlegmonizan. En tal
-ocasion, toma de manc'anilla,
+ocasion, toma de mançanilla,
 de maluauisco, de coronilla de
 rey, de alholuas, de linoso, y de simie<n>te de
-aneldo, de cada cosa vn manojo, o pun~o,
+aneldo, de cada cosa vn manojo, o puño,
 cuezelo en agua, y despues cuela la. En lo
 colado echa de azeyte rosado, y del de
-aneldo, cada dos onc'as, y vna de vinagre.
+aneldo, cada dos onças, y vna de vinagre.
 En este cozimiento mojaras vna esponja,
 con la qual fomentaras las tetas, y hecha
 la fomentacion, les po<n>dras el cataplasmo
 que se sigue.
-Toma de harina de castan~as, y de ceua-da,}
+Toma de harina de castañas, y de ceua-da,}
 {CW. da}
 [fol. 46v]
 {HD. Libro +}
@@ -2410,11 +2410,11 @@ cherio.
 Todo lo dicho, se ha de hazer en el au-
 mento de la inflammacion. En el princi-
 pio, empero della, pondran sobre las te-
-tas vnos lienc'os, mojados en agua y vina-
-gre, o cozimiento de manc'anilla, con vn-
+tas vnos lienços, mojados en agua y vina-
+gre, o cozimiento de mançanilla, con vn-
 guento rosado y vinagre, o hojas de yerua
 mora, mojadas con azeyte y manteca, o
-vnos lienc'os, mojados en c'umo de culan-
+vnos lienços, mojados en çumo de culan-
 tro, y vnguento rosado. Si con estos reme-
 dios, y los que dicho tengo, siruen para el
 aume<n>to, no curare, antes bien passare ade-
@@ -2434,11 +2434,11 @@ ras con vnto de puerco, y las pondras.}
 {RUB. Otro para lo mismo.}
 {IN2.} HAras emplastro de harina de trigo,
 con azeyte y agua, y vnos hilitos de
-ac'afran cortados menudos, y aplicalo.
+açafran cortados menudos, y aplicalo.
 A esto llaman los cirujanos punctas. En-
 gendrado, y hecho el podre, abriranle con
 hierro, o fuego actual, o potencial.
-{RUB. % Cap<itulo> .24. De experimentos contra
+{RUB. ¶ Cap<itulo> .24. De experimentos contra
 ventosidad, crudezas, y flaqueza
 de estomago.}
 {IN2.} ACaece que el estomago lleno de vento-
@@ -2466,15 +2466,15 @@ suelo, con el vso dellos.
 {IN2.} TOma de anis, de alcarauea, de hinojo
 en grano, de cominos rusticos, de pa-
 lo dulce raydo, de diptamno real, y de ca-
-nela escogida cada vna onc'a: de culantro
-preparado seys onc'as: de ac'ucar fino vna
+nela escogida cada vna onça: de culantro
+preparado seys onças: de açucar fino vna
 libra: hagase todo poluo, y no muy subtil,
 por respecto del higado, si lo tuuiere calie<n>-
 te, el que los ha de tomar.
 {RUB. Emplastro para sobre el estomago.}
 {IN2.} POndras sobre el estomago vn pega-
 do, o parche, hecho de emplastro de
-bayas de laurel, en vn pedacillo de pan~o
+bayas de laurel, en vn pedacillo de paño
 de grana fina, cortado a manera de vn es-
 cudito de armas. Es admirable remedio, y
 no tiene par. Es aprouado por los mas do-
@@ -2487,20 +2487,20 @@ y son en medicina. Y no solo aproue-
 cha en este caso, que es de frialdad de esto-
 mago, y ventosidad, pero a los intestinos,
 vtero, y vexiga, y a todas las demas partes
-del cuerpo, y a las entran~as, sie<n>do molesta-
+del cuerpo, y a las entrañas, sie<n>do molesta-
 das de ventosidad y frior. Affirman algu-
 nos doctores, que si en la composicion del
-an~adieren media libra de poluos de estier-
-col de cabra, y vna onc'a de cipero, que es
+añadieren media libra de poluos de estier-
+col de cabra, y vna onça de cipero, que es
 admirable para hidropesia. Muchos boti-
 carios no lo tiene<n> hecho: por lo qual doy
 aqui la composicion, y recepta, de lo que
 entra en el.
 {RUB. Emplastro de bayas de laurel.}
 {IN2.} TOma de encienso, de almastiga, y de
-myrrha, cada vna onc'a: de bayas de
-laurel dos onc'as: de cipero, y de costo ca-
-da media onc'a: de miel rosada colada, la q<ue>
+myrrha, cada vna onça: de bayas de
+laurel dos onças: de cipero, y de costo ca-
+da media onça: de miel rosada colada, la q<ue>
 sea menester para hazer emplastro. Esta es
 la recepta del emplastro de baccis lauri de
 Mesue. Si lo quisieres hazer en tu casa, por
@@ -2515,24 +2515,24 @@ ha de ser hecha poluo subtilissimo, y pas-
 sado por cedacillo espeso. Despues toma-
 ras de miel colada, la ca<n>tidad que sera me-
 nester para hazer emplastro, q<ue> creo sera
-onc'a y media, y la calentaras vn poco al
+onça y media, y la calentaras vn poco al
 fuego. En saca<n>dola, echaran en ella los pol-
 uos de las bayas de laurel, del cipero, y del
 costo. Y quando toda la massa estuuiere ya
-fria, an~aderas el encienso, almastiga, y myr-
+fria, añaderas el encienso, almastiga, y myr-
 rha, y lo mezclaras todo muy bien, y ha-
-ras magdaleones dello. Si quisieres an~a-
+ras magdaleones dello. Si quisieres aña-
 der el estiercol de las cabras, y el cipero,
-an~aderas mas miel, y echaras lo al princi-
+añaderas mas miel, y echaras lo al princi-
 pio co<n> las bayas de laurel, cipero, y costo.
 El estiercol de las cabras syluestres joue-
 nes, si lo pudieres auer, sea, y cojase en la
 primauera, qua<n>do comen las yeruezuelas
 tiernas. Despues lo pondras a enxugar al
-sol, en vn plato, cubierto con vn lienc'o:
+sol, en vn plato, cubierto con vn lienço:
 seco que este, se guardara, para el tie<m>po de
 la necessidad.
-{RUB. % Cap<itulo> .25. De experimentos contra
+{RUB. ¶ Cap<itulo> .25. De experimentos contra
 dolor de estomago, por frior y ven-
 tosidad.}}
 {CW. Toma}
@@ -2546,9 +2546,9 @@ do, y de hinojo, de bayas de
 laurel, yguales partes, cueza to-
 do en sufficiente cantidad de agua, con la
 qual fome<n>taras el estomago, noche, y ma-
-n~ana: de la misma daras con miel rosada
+ñana: de la misma daras con miel rosada
 colada, por la boca. Si en la decoccion, al
-tiempo que se hiziere, quisieres an~ader vn
+tiempo que se hiziere, quisieres añader vn
 poco de poleo montano, que muchos lo
 hazen, estara en tu mano: porque es admi-
 rable. Es de Fumanello.
@@ -2556,8 +2556,8 @@ rable. Es de Fumanello.
 grande de estomago, vomitos, flu-
 xos, ventosidades, y para que cue-
 za bien.}
-{IN2.} TOma de azeyte muy an~ejo vna libra
-de yerua buena, de hyssopo, y de n~eu-
+{IN2.} TOma de azeyte muy añejo vna libra
+de yerua buena, de hyssopo, y de ñeu-
 ta, dicha neuada, cada vn manogito, de vi-
 no odorifero dos libras, cueza todo en fue-
 go amoroso, y bla<n>do, hasta que el vino se}
@@ -2581,7 +2581,7 @@ comido cosas en demasia, o de mala coc-
 cion, o que engendren ventosidades, o si
 hay illuuie, y corrimiento de humores al
 estomago. Procuraras en tal caso, que to-
-me para vomitar quatro, o cinco onc'as
+me para vomitar quatro, o cinco onças
 de vino tibio, en que ayan cozido corte-
 zas de rayzes gruessas de noguera. Es de Fu-
 manello.
@@ -2596,12 +2596,12 @@ diaassam con agua de ceuada. Trae la de-
 scripcion, y composicio<n> del, el doctissimo
 Fernelio, en su antidotario. Haze admira-
 ble effecto, y sin violencia: porque se pue-
-de dar seguramente a vna pren~ada, a cria-
-turas, y viejos, sin temor de dan~o alguno.
+de dar seguramente a vna preñada, a cria-
+turas, y viejos, sin temor de daño alguno.
 {RUB. La composicion del Diaassam de
 Fernelio.}
 {IN2.} DE xaraue de yerua buena, y del de vio-
-las, tomaras cada ocho onc'as, cueze-
+las, tomaras cada ocho onças, cueze-
 los, hasta que lleguen a co<n>sistencia y cras-
 sitie de miel. En auer llegado al punto, sa-
 calos del fuego, y echa co<n> ellos de poluos
@@ -2609,17 +2609,17 @@ de rayzes de melones, de semilla de horti-
 gas, y de simiente de rauanos, echadas pri-
 [me]ro a remojo en agua rosada, y despues en-
 xutas y hechas poluo, de cada cosa vna on-
-c'a: de canela, y de hinojo en grano, cada
+ça: de canela, y de hinojo en grano, cada
 tres dragmas: de poluos subtilissimos: de
-rayzes de assaro dos onc'as: mezclalo todo
+rayzes de assaro dos onças: mezclalo todo
 muy bien, y haz electuario liquido. Es ad-
 mirable y seguro. Puedese dar con agua
 miel, o con agua de ceuada.}
-{CW. % Capit<ulo>}
+{CW. ¶ Capit<ulo>}
 [fol. 50v]
 {HD. Libro +}
 {CB1.
-{RUB. % Capit<ulo> .26. Para reparar el vo-
+{RUB. ¶ Capit<ulo> .26. Para reparar el vo-
 mito.}
 {IN2.} RAzon es, que pues se ha dado orden
 con que poder vomitar, se diga con
@@ -2628,7 +2628,7 @@ mitos, y no les queda en el estomago co-
 sa. A estos digo, les hagan primero que vo-
 miten muy bien, y no les quede cosa en
 el estomago, sino que lo descarguen bien.
-Despues les daran cada man~ana dos onc'as
+Despues les daran cada mañana dos onças
 de miel rosada colada, con vn poquito de
 electuario diacalamintha, y le pondran so-
 bre el estomago, el emplastro q<ue> se sigue.
@@ -2639,9 +2639,9 @@ galia muscada, dragma y media: de claui-
 llos, y de culantro preparado, cada media
 dragma: de corteza de pa<n> tostado, y puesta
 a remojo en vinagre fortissimo, por espa-
-cio de vna hora, dos onc'as: de azeyte de
+cio de vna hora, dos onças: de azeyte de
 membrillos, y de almastiga, cada vna on-
-c'a: de harina de ceuada, lo que te parecie-
+ça: de harina de ceuada, lo que te parecie-
 re que sea menester: mezclar lo has todo,}
 {CW. y trae}
 [fol. 51r]
@@ -2669,11 +2669,11 @@ de Mizaldo.
 con xaraue dellos mismos, y co<n>tinue
 tomar dellas el enfermo en ayunas, y qua<n>-
 do se vaya a dormir.}
-{CW. % Cap<itulo>}
+{CW. ¶ Cap<itulo>}
 [fol. 51v]
 {HD. Libro +}
 {CB1.
-{RUB. % Capit<ulo> .27. Para dolor colico, y de
+{RUB. ¶ Capit<ulo> .27. Para dolor colico, y de
 hijada.}
 {IN2.} EStos dolores, aunque el vno es en los
 intestinos crassos, y el otro en los te-
@@ -2684,17 +2684,17 @@ res frios, gruessos, viscosos, y tenaces, solo
 dire los que en estos casos acostumbro ha-
 zer, con felicissimos successos.
 {RUB. Pocion, y clyster.}
-{IN2.} TOma de manc'anilla dos pun~os, de hi-
+{IN2.} TOma de mançanilla dos puños, de hi-
 nojo en grano vna dragma, cuezelo
-todo en agua. Desta toma quatro onc'as,
-de miel rosada colada, onc'a y media, mez-
+todo en agua. Desta toma quatro onças,
+de miel rosada colada, onça y media, mez-
 clalo todo, y daselo a beuer caliente quan-
 to lo pudiere suffrir. Echale luego vn cly-
 ster de la misma agua, con azeyte de cama-
-milla, y de laurel, y mas dos onc'as de be-
+milla, y de laurel, y mas dos onças de be-
 nedicta. Aduierte empero, que en los do-
-lores colicos, de hijada, de rin~ones, y en
-mugeres pren~adas, la cantidad del cozi-
+lores colicos, de hijada, de riñones, y en
+mugeres preñadas, la cantidad del cozi-
 miento, y de los azeytes que se han de}
 {CW. echar}
 [fol. 52r]
@@ -2706,15 +2706,15 @@ Sera sufficiente cantidad, en tales casos,
 para cada clyster media escudilla de cozi-
 miento, y otra media de azeyte: y assi no
 se causara distension que aumente el do-
-lor, o cause dan~o. Quando auran buelto a
+lor, o cause daño. Quando auran buelto a
 echar, y vaziar los enfermos la medicina
 y clyster, tendran aparejado otro, en esta
 manera.
 {RUB. Clyster.}
-{IN2.} TOma hojas, o rabac'as de puerros, ho-
+{IN2.} TOma hojas, o rabaças de puerros, ho-
 jas de seluia, y de laurel, cuezelas en
 muy buen vino tinto, si ser puede de to-
-nel, y an~ejo: deste vino, despues de cozi-
+nel, y añejo: deste vino, despues de cozi-
 das las yeruas, colado, echaras vna medi-
 cina al enfermo, y sobre la barriga le pon-
 dras las yeruas cozidas. El vino que sobra-
@@ -2728,14 +2728,14 @@ el dolor con ello.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} EChenle de c'umo, y azeyte de ruda vn
+{IN2.} EChenle de çumo, y azeyte de ruda vn
 clyster.
 {RUB. Poluos para lo mismo.}
 {IN2.} DAles a beuer con buen vino, poluos
 hechos de bayuelas secas de hiedra.
 {RUB. Otro experimento para lo mismo.}
 {IN2.} TOma azeyte de joriolin, en cantidad
-de quatro, o seys onc'as, y al que pade-
+de quatro, o seys onças, y al que pade-
 ciere dolor colico, por retencion de hye-
 zes, daselo a beuer. Es de Fumanello. Apro-
 uecha assi mismo para las mucosidades, di-
@@ -2758,18 +2758,18 @@ sa material fria.}
 {IN2.} DE antimonio preparado, toma siete, o
 nueue granos, de goma draga<n>te seys
 granos, de almastiga tres granos, de con-
-serua de yerua buena media onc'a: haz de
+serua de yerua buena media onça: haz de
 todo mezclado vn bocado, o dos, cubier-
 tos de oro, al punto del dia en ayunas, to-
 melos el enfermo. Purgara por vomito, y
-camara muy bien, y sin dan~o alguno. Solo
+camara muy bien, y sin daño alguno. Solo
 aduierto, que no se den, a los que de suyo
 no son aptos para vomitar. Es sacado de
 Iuan Iacobo Vuecherio.
-{RUB. % Capit<ulo> .28. De experimentos con-
+{RUB. ¶ Capit<ulo> .28. De experimentos con-
 tra camaras crudas.}
 {IN5. {ILL.}} DE xaraue de yerua buena to-
-maras dos onc'as, con vn po-
+maras dos onças, con vn po-
 co de canela, de galanga, y
 de calamo aromatico, dos ho-
 ras antes de comer.}
@@ -2784,16 +2784,16 @@ dragma, de almastiga dragma y media, de
 nuez de especias, y de macis, cada media
 dragma de coral colorado, de bolermin, y
 de piedra haematites, cada dos dragmas: to-
-do poluorizado, mezclalo con onc'a y me-
+do poluorizado, mezclalo con onça y me-
 dia de xaraue de yerua buena, y calientalo
 vn poco, y dexale assi por espacio de tres
 horas. Despues echa sobre ello de conser-
-ua an~eja de rosas coloradas, de diacitoni-
+ua añeja de rosas coloradas, de diacitoni-
 tes, de aromatico rosado, y de diagalanga,
-cada vna onc'a, y con xaraue de yerua bue-
+cada vna onça, y con xaraue de yerua bue-
 na, haras electuario cubierto de oro. To-
 mara deste el enfermo, media hora antes
-que coma, y cene, media onc'a, o vna.
+que coma, y cene, media onça, o vna.
 Pondrase assi mismo sobre el estomago,
 vn pegado hecho de emplastro de bayas
 de laurel, y de poluos de gala<n>ga, de clauos,
@@ -2801,11 +2801,11 @@ y de almastiga, co<n> rigido, y traydo a pun-
 to con azeyte de espigasil, o de nuezes de
 especias, que es admirable para tal caso, y
 ocasion.}
-{CW. % Cap<itulo>}
+{CW. ¶ Cap<itulo>}
 [fol. 54r]
 {HD. de Experimentos. \ 46}
 {CB1.
-{RUB. % Cap<itulo> .29. De experimentos contra
+{RUB. ¶ Cap<itulo> .29. De experimentos contra
 camaras medio crudas.}
 {IN5. {ILL.}} COrto quedara, si en dos pala-
 bras no dixera que son cama-
@@ -2814,15 +2814,15 @@ das. Las primeras, son dichas
 de los medicos lienteriae, las
 segundas caeliacae. Las dichas lienteriae, son
 quando assi como se come la cosa, sin alte-
-racion alguna, o mudanc'a, la bueluen por
+racion alguna, o mudança, la bueluen por
 camara. Las celiacas, quando no assi como
 se traga la cosa, se echa y buelue: pero he-
-cha ya alguna alteracio<n> y mudanc'a: de ma-
+cha ya alguna alteracio<n> y mudança: de ma-
 nera que no se vazia hecha la coccion, ni
-sin comenc'arse a hazer. Esto assi entendi-
+sin començarse a hazer. Esto assi entendi-
 do, conuiene que en las celiacas, se haga lo
 mismo q<ue> en las camaras crudas. Solo quie-
-ro contar, lo que el an~o .1587. me sucedio.
+ro contar, lo que el año .1587. me sucedio.
 Acometiome vna caeliaca, tuue trabajo
 con ella, y sabiendo lo que de las caeliacas
 suele suceder, no dexe de tener temor. Fue
@@ -2835,8 +2835,8 @@ pio de la comida vnas tostadas de pan, re-mojadas}
 {CB1.
 en buen vino de tonel, y carga-
 das de poluos de clauos de especias, y de
-canela y ac'ucar, me libre. Verdad es, que
-entonces comenc'auan, y en las enferme-
+canela y açucar, me libre. Verdad es, que
+entonces començauan, y en las enferme-
 dades, el todo es acudir al principio.
 Otros remedios pusiera aqui, pero como
 el intento que lleuo, es solo traer reme-
@@ -2855,7 +2855,7 @@ ponganse sobre el estomago y barriga, vn
 taleguillo, hecho de lo que se sigue.
 {RUB. El taleguillo.}
 {IN2.} TOma de yerua buena seca, y de axen-
-xos secos, cada vn pun~o, de canela, de
+xos secos, cada vn puño, de canela, de
 lignoaloes, de cortezas de ponzil secas, y}
 {CW. de}
 [fol. 55r]
@@ -2864,17 +2864,17 @@ lignoaloes, de cortezas de ponzil secas, y}
 de almastiga, cada dos dragmas, de clauos,
 de macis, de ga(n)langa, y de cla(m)[u]o aromati-
 co, cada vna dragma de rosas secas colora-
-das vn pun~o, mezclalo todo, y haz de to-
+das vn puño, mezclalo todo, y haz de to-
 do ello el taleguillo.
 {RUB. Experimento para qualesquier ca-
 maras.}
 {IN2.} DIze Fallopio, que con vrina de puer-
 co, y ceniza, hagan vnas pelotillas, o
 pildorillas, y al tiempo de la necessidad,
-desaten vna con c'umo de llanten, y em-
+desaten vna con çumo de llanten, y em-
 plastre<n> con ella el ombligo, y al derredor
 del, y que veran raro experimento.
-{RUB. % Cap<itulo> .30. De experimentos contra
+{RUB. ¶ Cap<itulo> .30. De experimentos contra
 camaras de sangre.}
 {IN6. {ILL.}} MAthiolo Senes, tratando
 del azeyte de lentisco, di-
@@ -2894,14 +2894,14 @@ del, cozidas, o fritas como esparagos, que
 es admirable remedio.
 {RUB. Otro.}
 {IN2.} DIze Antonio Mizaldo, que beuer co-
-zimiento de la alcea ((que es la malua
-syluestre)) hecho con vino, que cura admi-
+zimiento de la alcea ≺que es la malua
+syluestre≻ hecho con vino, que cura admi-
 rableme<n>te las camaras de sangre: y si vuie-
 re calentura, que la cuezan con agua. Dize
-que vn medico Espan~ol se lo dixo, y que
+que vn medico Español se lo dixo, y que
 es verissimo. Espantome, empero, de An-
 tonio Mizaldo, que diga, que vn medico
-Espan~ol se lo dixesse: porque Paulo Aegi-
+Español se lo dixesse: porque Paulo Aegi-
 neta, en el lib<ro> .7. dize, la alcea, es especie de
 malua syluestre, y cozida en vino, es muy
 saludable para las camaras de sangre, y mu-
@@ -2924,25 +2924,25 @@ lib<ro> .4. {LAT. de Simpl<icium> medic<amentorum> [temperamentis et] facultatib
 Lauar le han en esta manera, Derritiran
 el seuo, y echar lo han en vn vaso de agua
 de llanten caliente, y menear lo han muy
-bien con vn palo de c'umaque, o de enzi-
+bien con vn palo de çumaque, o de enzi-
 na, como quien bate hueuos, hasta que se
 yele. Esto haran tres, o quatro vezes, mu-
 dando cada vez el agua de llanten. Desta
 manera perdera la acrimonia, y mordaci-
 dad, que tiene el seuo.
 {RUB. Para hazer que duerman.}
-{IN2.} LAs euacuaciones ((sino el sudor)) todas
-cessan con el suen~o. De aqui es, q<ue> en-
+{IN2.} LAs euacuaciones ≺sino el sudor≻ todas
+cessan con el sueño. De aqui es, q<ue> en-
 tre las cosas que mas haze<n> al caso, para re-
 mediar las camaras de sangre, y otras qua-
-lesquier, es el suen~o, y dormir bien. Daran
+lesquier, es el sueño, y dormir bien. Daran
 para ello, a las onze de la noche, al enfer-mo}
 {CW. mo}
 [fol. 56v]
 {HD. Libro +}
 {CB1.
 vna pildora, hecha de lo que se sigue.
-Toma de ac'afran tres granos, de canela
+Toma de açafran tres granos, de canela
 seys granos, de opio peso de vn grano es-
 casamente pesado, y con goma dragante
 dissuelta en agua rosada, haras la pildora.
@@ -2955,38 +2955,38 @@ uencion del doctor Torrella.
 {IN2.} LA primera medicina y clyster, que se
 ha de echar, a los que tienen camaras
 de sangre, se hara de cozimiento de ceua-
-da, vn poquito tostada, y con el dos onc'as
-de ac'ucar blanco: para que absterga, y lim-
+da, vn poquito tostada, y con el dos onças
+de açucar blanco: para que absterga, y lim-
 pie la suziedad de las vlceras de los intesti-
 nos. En boluerla, te<n>gan aparejada otra me-
 dicina de las dichas, o vna de leche azera-
 da, o en que hayan muerto vnos gusanillos
 de rio encendidos.
 {RUB. Otro.}
-Toma de c'umo de llanten, y de poligono}
+Toma de çumo de llanten, y de poligono}
 {CW. mas}
 [fol. 57r]
 {HD. de Experimentos. \ 49}
 {CB1.
-mas ((que es correuela)) cada seys onc'as, de
-azeyte rosado vna onc'a, de seuo de cabro<n>
-lauado, como esta dicho, quatro onc'as, de
+mas ≺que es correuela≻ cada seys onças, de
+azeyte rosado vna onça, de seuo de cabro<n>
+lauado, como esta dicho, quatro onças, de
 sangre de drago, y de bolermin, cada vna
 dragma, todo mezclado, sirua de clyster.
 {RUB. Otro.}
 {IN2.} TOma de ceuada vn poco tostada vn
-pun~o, de arzehueste ((q<ue> es el tapso bar-
-bato de los boticarios)) de hojas de llante<n>,
+puño, de arzehueste ≺q<ue> es el tapso bar-
+bato de los boticarios≻ de hojas de llante<n>,
 y de arrayan cada dos manojos, de rosas
-coloradas vn pun~o: cozera todo en suffi-
+coloradas vn puño: cozera todo en suffi-
 ciente ca<n>tidad de agua. Tomaras de dicho
 cozimiento vna libra, de seuo de cabro<n> la-
-uado, vna onc'a, de c'umo de llanten dos
-onc'as, mezclado todo sirua de clyster.
+uado, vna onça, de çumo de llanten dos
+onças, mezclado todo sirua de clyster.
 {RUB. Remedio contra camaras de sangre.}
 {IN2.} ANtonio Mizaldo escriue, q<ue> auia vno,
 q<ue> curaua las camaras de sangre, prin-
-cipalme<n>te en los nin~os, desta manera. To-
+cipalme<n>te en los niños, desta manera. To-
 maua hojas de azederas, y las echaua a re-
 mojo en muy buen vinagre, y despues las
 cozia entre la ceniza, embueltas en vnas}
@@ -2996,25 +2996,25 @@ cozia entre la ceniza, embueltas en vnas}
 {CB1.
 estopas, mojadas en el mismo vinagre. Ya
 despues de cozidas, las sacaua y exprimia
-el c'umo dellas, y lo sacaua, y daua a beuer
+el çumo dellas, y lo sacaua, y daua a beuer
 con successo felicissimo.
 Hay infinitos, que en los clysteres echan
 poluos de hojas secas de nispolero. Otros
 echa<n> poluos de rosas balaustias, y los dan
 con notable prouecho. Otros tienen por
 vsuales poluos de goma de henebro.
-Si al principio llamares medico ((lo qual
-siempre te aconsejo)) y te quisiere sangrar,
+Si al principio llamares medico ≺lo qual
+siempre te aconsejo≻ y te quisiere sangrar,
 no lo rehuses, en camaras de sangre digo.
-{RUB. % Capit<ulo> .31. De experimentos con-
+{RUB. ¶ Capit<ulo> .31. De experimentos con-
 tra lombrizes.}
 {IN4. {ILL.}} POluos Nursinos tomaras de vna
 dragma, hasta dragma y media,
 segun el subjecto del que los ha
 de tomar: de xaraue de agrio de
-limones ((si vuiere calentura)) y si no de xa-
-raue de yerua buena, vna onc'a, y con agua
-de verdolagas, dalo a beuer tres man~anas
+limones ≺si vuiere calentura≻ y si no de xa-
+raue de yerua buena, vna onça, y con agua
+de verdolagas, dalo a beuer tres mañanas
 en ayunas: y en auellos tomado, echa den-
 tro de vn feruidor leche caliente, y assien-tese}
 {CW. tese}
@@ -3025,7 +3025,7 @@ en el (el) enfermo.
 Passados los tres dias que aura tomado
 los poluos, al quarto luego immedia(d)[t]ame<n>-
 te, tome en ayunas dos, o tres dragmas de
-poluos de hiera con agarico, y vna onc'a
+poluos de hiera con agarico, y vna onça
 de xaraue rosado alexandrino, de nueue
 infusiones, con agua de verdolagas, o con
 cozimie<n>to de yerua buena: guardara aquel
@@ -3035,20 +3035,20 @@ dios.
 {RUB. Los poluos Nursinos.}
 {IN2.} TOma de coralina, dicha de algunos
 yerua mallorquina, de semilla de San-
-tonico cada dos onc'as, de diptamo blan-
+tonico cada dos onças, de diptamo blan-
 co, de bistorta, y de tormentilla, cada vna
-onc'a, poluorizalo todo, y rozialo con vi-
+onça, poluorizalo todo, y rozialo con vi-
 nagre fortissimo: despues pongalo a enxu-
 gar a la sombra. Traelos Amatho Lusita-
 no, en la tercera parte de sus Centurias, en
 la curacion .97.
 {RUB. Otro experimento co<n>tra lo<m>brizes.}
-Toma rayzes de la cruciata ((que es la gen-ciana))}
+Toma rayzes de la cruciata ≺que es la gen-ciana≻}
 {CW. ciana}
 [fol. 58v]
 {HD. Libro +}
 {CB1.
-((menor)) que sean verdes, y majalas, y
+≺menor≻ que sean verdes, y majalas, y
 a modo de emplastro ponlas sobre la bar-
 riga. Dize Mathiolo Senes, que sin duda
 matan las lombrizes: que estan en los in-
@@ -3087,7 +3087,7 @@ vino, despues majalo todo con hiel
 de vaca, y haz emplastro, y ponlo sobre la
 barriga y ombligo.
 {RUB. Otro.}
-{IN2.} HArina de altramuc'os tomaras, y ho-
+{IN2.} HArina de altramuços tomaras, y ho-
 jas de ce<n>taurea menor, hojas de pris-
 cal, hojas de marrubios, y de axenxos, ma-
 jalo todo junto, y echa hiel de vaca, y vn
@@ -3095,7 +3095,7 @@ poquito de vinagre, y haz emplastro.
 {RUB. Agua excellentissima, prouada co<n>-
 tra lombrizes.}
 {IN2.} DE simiente de coles toma vna libra y
-media, de altramuc'os tiernos media}
+media, de altramuços tiernos media}
 {CW. li}
 [fol. 59v]
 {HD. Libro +}
@@ -3103,23 +3103,23 @@ media, de altramuc'os tiernos media}
 libra, de rayzes de grama tres manojos,
 majalo todo, y echalo en vn alquitara de
 vidrio, que se destile. Del agua que dello
-saliere, daras cada man~ana vna dragma, o
-dos. Es de Fumanello. Si dieres vna onc'a
-no hara dan~o.
+saliere, daras cada mañana vna dragma, o
+dos. Es de Fumanello. Si dieres vna onça
+no hara daño.
 {RUB. Cozimiento para lo mismo.}
 {IN2.} TOma rayzes de frexno, cortezas de
 rayzes de granado, rayzes de grama,
 y pan bla<n>quissimo, majalo todo muy bie<n>,
 y en cantidad sufficiente de agua lo co-
 zeras. Deste cozimiento colado, daras ca-
-da man~ana, de dos, a tres onc'as, con vn
-poco de ac'ucar. Dize Fumanello, que ja-
+da mañana, de dos, a tres onças, con vn
+poco de açucar. Dize Fumanello, que ja-
 mas dio esta beuida, que no viesse dello
 notable effecto.
 {RUB. Otro.}
 {IN2.} IVan Iacobo Vuecherio, dize, que dando
 vna dragma de poluos de millefolio a
-los nin~os, y mayor cantidad a los de ma-
+los niños, y mayor cantidad a los de ma-
 yor edad, den se los con vino a beuer,
 dize que es vn remedio admirable contra
 las lombrizes.}
@@ -3132,15 +3132,15 @@ brizes.}
 {IN2.} TOma de agua ardiente, hecha de muy
 bue<n> vino, y rectificada dos vezes, qua-
 tro libras, echala en vn vaso de vidrio, y
-mete con ella de coralina ((que es la yerua
-Mallorquina)) de cardo santo, de simiente
+mete con ella de coralina ≺que es la yerua
+Mallorquina≻ de cardo santo, de simiente
 alexandrina, y de helleboro negro, cada
-quatro onc'as: cubre muy bie<n> el vaso, y po<n>-
+quatro onças: cubre muy bie<n> el vaso, y po<n>-
 lo quinze dias embuelto en estiercol de
 cauallo, despues sacalo, y cuela el agua, y
 guardala. Quando se offreciere que algun
-nin~o tuuiere lombrizes, dale a beuer vna
-onc'a della, y vntale las sienes, y pulsos, y
+niño tuuiere lombrizes, dale a beuer vna
+onça della, y vntale las sienes, y pulsos, y
 estomago con ella, que en espacio de doze
 horas, se hallara libre. Desta agua, dize Fa-
 lopio cosas, q<ue> si ello es assi, como lo creo,
@@ -3163,9 +3163,9 @@ vnguento, con el qual vntaran el estoma-
 go, barriga, y ombligo. Alabalo tanto, y
 cuesta poco, no dexen de prouarlo, que es
 cierto dize verdad.
-{RUB. % Capit<ulo> .32. De experimentos con-
+{RUB. ¶ Capit<ulo> .32. De experimentos con-
 tra almorranas.}
-{IN4. {ILL.}} MOja vn algodo<n> en c'umo de ce-
+{IN4. {ILL.}} MOja vn algodo<n> en çumo de ce-
 bolla, y po<n>telo de manera que
 toque las almorranas, y se abri-
 ran,
@@ -3182,7 +3182,7 @@ admirablemente el dolor.}
 {CB1.
 {RUB. Otro para lo mismo.}
 {IN2.} VNta las almorranas, con vngue<n>to he-
-cho de dos onc'as de azeyte rosado, o
+cho de dos onças de azeyte rosado, o
 violado, y dos dragmas de vnguento po-
 puleon, y vna yema y clara de hueuo.
 {RUB. Otro que resoluiendo y discutiendo,
@@ -3193,9 +3193,9 @@ dras dulces, despues de cozidas majalas, y
 ponlas sobre las almorranas.
 {RUB. Otro remedio para mitiguar el do-
 lor.}
-{IN2.} DE rosas coloradas toma tres onc'as, y
+{IN2.} DE rosas coloradas toma tres onças, y
 dos yemas de hueuos, majalas con vi-
-no blanco, y an~ade vn poco de vnguento
+no blanco, y añade vn poco de vnguento
 rosado, vntaras con esto las almorranas, q<ue>
 mitiguaras el dolor, y encendimie<n>to, que
 causan las almorranas en el assiento. Mi-
@@ -3207,11 +3207,11 @@ repo.}
 {CB1.
 {RUB. Para que se abran.}
 {IN2.} POndras sobre las almorranas rayzes
-de ac'ucenas majadas.
+de açucenas majadas.
 {RUB. Para que se aduerma el dolor, qua<n>-
 do es muy intenso.}
-{IN2.} HAras linime<n>to con vna onc'a de azey-
-te rosado, y onze granos de ac'afran, y
+{IN2.} HAras linime<n>to con vna onça de azey-
+te rosado, y onze granos de açafran, y
 quatro de opio: y con el vntaras las al-
 morranas.
 {RUB. Otro.}
@@ -3224,14 +3224,14 @@ muy molestado, y atormentado con do-
 lor de almorranas, y que en vntarse con
 hiel de puerco, y atriaca magna mezclada,
 que luego quedaua libre.
-{RUB. Para restan~ar la sangre de las al-
+{RUB. Para restañar la sangre de las al-
 morranas.}}
 {CW. Pon}
 [fol. 62r]
 {HD. de Experimentos. \ 54}
 {CB1.
-{IN2.} POndras sobre las almorranas vn pan~o
-de lana, con solo papel ten~ido, y mo-
+{IN2.} POndras sobre las almorranas vn paño
+de lana, con solo papel teñido, y mo-
 jado en cozimiento de hortigas, y de car-
 do santo, hecho en vino azedo, o medio
 agrio.
@@ -3240,7 +3240,7 @@ les remedios.}
 {IN2.} MVchas personas dignas de fe, me ha<n>
 aueriguado, que siendo atorme<n>tados
 con almorranas, solo con lleuar en el bra-
-c'o y pierna yzquierda, que tocasse a la car-
+ço y pierna yzquierda, que tocasse a la car-
 ne vn poco de la yerua dicha pilosella auia<n>
 curado.
 {RUB. Para almorranas, higos, y verrugas
@@ -3258,8 +3258,8 @@ tado, y prouado Fumanello.}
 {CB1.
 {RUB. Para mitiguar el dolor de las al-
 morranas.}
-{IN2.} TOma de azeyte rosado vna onc'a de
-albayalde media onc'a, de goma dra-
+{IN2.} TOma de azeyte rosado vna onça de
+albayalde media onça, de goma dra-
 ga<n>te vn scrupulo, dos dragmas de agua de
 claras de hueuos, y de cera otras dos dra-
 gmas, y haz vnguento. Es del doctissimo
@@ -3283,17 +3283,17 @@ han vsado.}
 {HD. de Experimentos. \ 55}
 {CB1.
 {RUB. El vnguento.}
-{IN2.} TOma de c'umo de cinco en rama ((di-
+{IN2.} TOma de çumo de cinco en rama ≺di-
 cho en latin {LAT. quinque foliu<m>,} en griego
 {GRK. pe<n>taphilo<n>,} de los vale<n>cianos peu de Christ
-y de otros loraga)) quatro onc'as de derri-
-tido de puerco sin sal, vna onc'a y media,
-de azeyte de hiperico<n> vna onc'a, mezclalo
+y de otros loraga≻ quatro onças de derri-
+tido de puerco sin sal, vna onça y media,
+de azeyte de hiperico<n> vna onça, mezclalo
 y haz vnguento, con este se vntara las al-
 morranas el que fuere dellas molestado.
 Este vnguento es admirable, y yo lo te<n>-
 go muy prouado, y no es de marauillar si
-se entiende la facultad del c'umo del pen-
+se entiende la facultad del çumo del pen-
 taphilon, y del azeyte de hipericon.
 {RUB. Consejo.}
 {IN2.} DE los remedios q<ue> entra opio, no vses
@@ -3301,9 +3301,9 @@ sino en caso de mucha necessidad, co-
 mo es, quando el dolor es tan intolerable
 y co<n>tinuo que no dexa dormir, ni reposar
 al enfermo, y assi se debilita, pierde fuer-
-c'as y virtud.
-{RUB. % Cap<itulo> .33. de experimentos contra
-tumor scyrroso del bac'o.}}
+ças y virtud.
+{RUB. ¶ Cap<itulo> .33. de experimentos contra
+tumor scyrroso del baço.}}
 {CW. Toma}
 [fol. 63v]
 {HD. Libro +}
@@ -3314,23 +3314,23 @@ ca<n>tidad que gusto te diere, cue-
 zelas en agua, despues en aque-
 lla agua colada echaras miel, y
 vn poco de vinagre, y haras xaraue largo,
-del qual tomaras cada man~ana dos onc'as,
+del qual tomaras cada mañana dos onças,
 y se deshara la scyrrhosidad. Autor Ma-
 thiolo Senes, y es verissimo.
 Haras que junto con el vso deste xara-
-ue reciba el enfermo sobre el bac'o vapor
+ue reciba el enfermo sobre el baço vapor
 de vinagre fortissimo, en el qual ahoguen
-marquesitas encendidas, o pedac'os de pie-
+marquesitas encendidas, o pedaços de pie-
 dras molares, de molino harinero. Viuien-
-do en Valencia el an~o .1563. me vali desto
-en dos enfermos ((con que vno de los mas
+do en Valencia el año .1563. me vali desto
+en dos enfermos ≺con que vno de los mas
 graues medicos de aquella ciudad auia te-
 nido cuydado dellos, y no auia podido sa-
-lir con su intento)) los quales mediante el
+lir con su intento≻ los quales mediante el
 fauor diuino los cure, despues de las eua-
 cuaciones vniuersales, vsando de lo dicho,
 fue para mi grandissimo conte<n>to, porque
-entonces era nueuo, y comenc'aua a vsar
+entonces era nueuo, y començaua a vsar
 la facultad, en aquella ciudad. No ten-
 gan en poco estos remedios, que cierta-mente}
 {CW. mente}
@@ -3340,11 +3340,11 @@ gan en poco estos remedios, que cierta-mente}
 despues aca, me ha sucedido siem-
 pre muy bien.
 {RUB. Para deshazer las scyrrhosidades
-del bac'o.}
+del baço.}
 {IN2.} TOma hojas de yerua lechera, de la q<ue>
 echa las hojas como alme<n>dro, y hin-
 che dellas vn taleguillo de lino ralo, y po<n>-
-lo sobre el bac'o, es admirable remedio. Lle-
+lo sobre el baço, es admirable remedio. Lle-
 go a mi noticia, que visita<n>do vn cauallero
 valenciano, que se dezia don Seraphin Ce<n>-
 tellas, entramos en platica de cosas, y me
@@ -3370,21 +3370,21 @@ cyphoides: cuya descripcion trae Galeno
 en el libro octauo {LAT. de Compositione me-
 dicamentorum, secundum genera.} Iunto
 con esto, el detenerse de beuer, es lo me-
-jor, si ser pudiere, que en todo vn an~o no
+jor, si ser pudiere, que en todo vn año no
 beua gota, sera echar el sello, y quedara sa-
 no. Leese de vn labrador Italiano, que fue
 a vn medico de los famosos de Italia, a pe-
 dirle consejo para curar de la hydropesia:
-fuele dicho, no beuays en todo el an~o, y
+fuele dicho, no beuays en todo el año, y
 curareys. Fuese el labrador, y co<n> el desseo
-q<ue> de viuir tenia, detuuose vn an~o, o mas,
+q<ue> de viuir tenia, detuuose vn año, o mas,
 que no passo trago, ni comio cozido, y cu-
 ro. Viendose curado, viendose contento,
 dadas gracias a Dios, fue a mostrarse gra-
 to al medico que le dio tan buen consejo,
 y lleuole vn presente, y con regozijo ex-
-cessiuo, le dixo assi Reciba vuestra sen~o-
-ria este pequen~o seruicio, por el buen co<n>-
+cessiuo, le dixo assi Reciba vuestra seño-
+ria este pequeño seruicio, por el buen co<n>-
 sejo que me dio: por el qual, Dios alaba-
 do, ya estoy mejor, y sano. Lo que agora le
 pido, es, me de consejo, si podre ya beuer
@@ -3396,9 +3396,9 @@ algun gotillo. El medico, no se acordaua}
 ya de aquello: porq<ue> el co<n>sejo que el le auia
 dado, auia sido como a muerto, prete<n>dien-
 do que no lo haria: pregu<n>tole quien soys?
-Respo<n>dio. Aquel a quie<n> vuestra sen~oria di-
+Respo<n>dio. Aquel a quie<n> vuestra señoria di-
 xo no podia escapar de la hydropesia, si ya
-no se abstenia de beuer: mas ha de vn an~o
+no se abstenia de beuer: mas ha de vn año
 q<ue> no he beuido gota, ni he gustado caldo,
 ni cosa cozida, ni actualmente humida,
 loores a Dios hallo me sano, vea agora si
@@ -3415,7 +3415,7 @@ guroso, y difficultoso.
 {IN2.} HAras que se embuelua el hydropico
 en arena caliente al reheruidero del
 sol, conforme lo manda Galeno en lo de
-praes(s)ag(a)[i]tione, y lo ensen~a Aetio Capadoz.
+praes(s)ag(a)[i]tione, y lo enseña Aetio Capadoz.
 Puede se calentar la arena en tiempo de}
 {CW. inuier}
 [fol. 65v]
@@ -3426,20 +3426,20 @@ excessiuo.
 {RUB. Otro para lo mismo.}
 {IN2.} TOma de axe<n>xos verdes vna libra, ma-
 jalos bien, y echa sobre ellos tres li-
-bras de ac'ucar fino molido, mezclalo todo
+bras de açucar fino molido, mezclalo todo
 y mezcla con ello de espigasil hecho pol-
-uos, y de esquina<n>to, cada dos onc'as: de ro-
-sas secas vna onc'a: hagase de todo co<n>serua.
-Tomara el enfermo cada man~ana, tres
-horas antes que coma, media onc'a desta
+uos, y de esquina<n>to, cada dos onças: de ro-
+sas secas vna onça: hagase de todo co<n>serua.
+Tomara el enfermo cada mañana, tres
+horas antes que coma, media onça desta
 co<n>serua. Es de Mathiolo Senes, el qual cer-
 tifica que es admirable, y que hizo expe-
 riencia dello en enfermos, de quien ya no
-se tenia confianc'a, y que curaron muy bie<n>.
+se tenia confiança, y que curaron muy bie<n>.
 Dello tengo hecha experie<n>cia, y es mucha
 verdad, y assi lo asseguro por tal.
 {RUB. Otro para lo mismo.}
-{IN2.} ACaeciome en esta ciudad el an~o .1570.
+{IN2.} ACaeciome en esta ciudad el año .1570.
 o .71. que vn labrador de vna aldea, q<ue>
 se llama la aldehuela, tenia vn hijo hydro-
 pico, hectico, co<n> todo el cuerpo vlcerado.
@@ -3449,27 +3449,27 @@ Auia se le hecho, por co<n>sejo de otros me-dicos,}
 {HD. de Experimentos. \ 58}
 {CB1.
 lo que a su parecer humanamente se
-podia hazer. El moc'o siempre empeoraua
+podia hazer. El moço siempre empeoraua
 y su enfermedad passaua adelante. A la sa-
 zon auia llegado de Indias vn medico de
 fama dicho el doctor Escuder, lleuaronle
 para que le viesse, bueltos que fuero<n>, dixo
-el doctor a su padre del moc'o, hermano
+el doctor a su padre del moço, hermano
 vuestro hijo no tiene remedio, anda con
 Dios. Otro dia, el desconsolado padre bol-
-uio, y dixole. Sen~or doctor, gastese
+uio, y dixole. Señor doctor, gastese
 toda mi hazienda, y muera mi hijo, y no sin ha-
 zerle remedios. Respondiole. Id a casa del
 doctor Soriano, y rogalde vaya con vos a
 verle, que despues de Dios, si remedios se
 le han de dar, y hazer, los hara el, que tie-
-ne cosas estran~as. Vino a mi casa, rogome
+ne cosas estrañas. Vino a mi casa, rogome
 fuesse a verle. Respondile. Hermano, do<n>de
 tantos doctores, y tan celebres han anda-
 do, cierto no me pondre, ni tal empren-
 dere. Principalmente, que agora vltima-
 mente aueys lleuado al Indiano, y os ha
-desengan~ado. Boluiose assi desconsolado
+desengañado. Boluiose assi desconsolado
 a donde estaua el doctor Escuder, y diole
 mi respuesta. Embio por mi el doctor, y
 me rogo fuesse alla. Cumpli con lo que}
@@ -3479,10 +3479,10 @@ me rogo fuesse alla. Cumpli con lo que}
 {CB1.
 me ma<n>daua, por ser, como era, medico de
 mucho merecimie<n>to. De buelta fuy co<n> el
-padre del moc'o, a besarle las manos, y de-
+padre del moço, a besarle las manos, y de-
 clararle mi parecer, el qual fue, diziendo
 assi. Yo no hallo remedio, para que Min-
-guez Pelarda ((que assi se llamaua el moc'o))
+guez Pelarda ≺que assi se llamaua el moço≻
 pueda curar. Pero, si a vuestra merced le
 pareciere, hara mucho al caso, lo que aco<n>-
 seja Hieronymo Cardano, en el libro {LAT. de
@@ -3490,14 +3490,14 @@ admirandis curationibus,} diziendo, que el
 lo ma<n>do hazer en vnos enfermos, los qua-
 les, mediante el fauor diuino, conualecie-
 (cie)ron. Dixele lo que se auia de hazer: en
-auerlo oydo, dixo al padre del moc'o. Her-
+auerlo oydo, dixo al padre del moço. Her-
 mano hazed sin faltar punto, lo que el do-
 ctor Soriano os aco<n>sejare. Hizolo assi, fue
 Dios seruido curo y viuio despues cator-
-ce, o quinze an~os. Murio a la postre de ta-
+ce, o quinze años. Murio a la postre de ta-
 uardillo. Lo que se le hizo fue quitarle el
-beuer, y cada man~ana se le dauan tres on-
-c'as de c'umo depurado de chicorias con
+beuer, y cada mañana se le dauan tres on-
+ças de çumo depurado de chicorias con
 quarenta y cinco granos de poluos de es-
 pigasil, y otros tantos de poluos de rayzes
 de rubia, digo que dentro de espacio de
@@ -3511,7 +3511,7 @@ enxutas las vlceras, como miraglo.
 {IN2.} DE vino blanco muy bueno tomaras, y
 echa en el ceniza de henebro, y haz
 lexia. Desta lexia colada que sea, daras ca-
-da man~ana al enfermo quatro onc'as en
+da mañana al enfermo quatro onças en
 ayunas. Veras que hara de vaziar por vri-
 na, y el effecto digno de co<n>sideracion. Te<n>-
 go dello hecha experiencia en muchos, y
@@ -3520,11 +3520,11 @@ y en vn texedor desta ciudad.
 {RUB. Experimento contra hydropesia ve<n>-
 tosa.}
 {IN2.} DE agua de sahuco destilada, tomaras
-quatro onc'as, de poluos de anis, o de
+quatro onças, de poluos de anis, o de
 los escritos en el capitulo delas crudezas
 de estomago, para el Papa Iulio tercero
-vna dragma, de agua de yezgos dos onc'as
-mezclalo, y daselo en las man~anas en ayu-
+vna dragma, de agua de yezgos dos onças
+mezclalo, y daselo en las mañanas en ayu-
 nas continuando treynta dias continuos.
 El prouecho que hara, sera grandissimo,
 y curara con grande admiracion.}
@@ -3536,9 +3536,9 @@ y curara con grande admiracion.}
 {IN2.} AVia vn hombre pobrissimo, segu<n> me
 certificaron, que ni tenia cama, ni co<n>
 que cubrirse. Estaua hydropico, y co<n>stre-
-n~ido de frio, se puso embuelto en vn ester-
+ñido de frio, se puso embuelto en vn ester-
 colero, en el qual estuuo seys, o ocho no-
-ches. Passadas se hallo sano, sin confianc'a
+ches. Passadas se hallo sano, sin confiança
 que dello vuiesse tuuido. No me dixeron
 que estiercol era, basta saber que todo ge-
 nero de estiercol tiene facultad atrahen-
@@ -3551,7 +3551,7 @@ gan sobre la barriga a menudo del mismo
 estiercol seco, remojado primero en vi-
 nagre. Lo mismo haze el estiercol de ca-
 bras, y esto sin duda.
-{RUB. % Cap<itulo> .35. de experimentos contra
+{RUB. ¶ Cap<itulo> .35. de experimentos contra
 mal de piedra.}
 {IN2.} MAthiolo Senes, dize que se ha halla-
 do por experiencia, y co<n>sta por mu-chos}
@@ -3564,14 +3564,14 @@ zes de la yerua anonis, con vino, muchos
 dias, cura del mal de piedra.
 {RUB. Otro.}
 {IN2.} ROndoleto varon doctissimo en Me-
-dicina, dize, que sacar c'umo de verdo-
+dicina, dize, que sacar çumo de verdo-
 lagas, y secarlo, y despues del poluo del to-
 mar muchos dias con cozimiento de pe-
-rexil, o de hinojo, o de garuanc'os, que des-
-haze la piedra de los rin~ones.
-Mizaldo dize, que el c'umo de los puer-
+rexil, o de hinojo, o de garuanços, que des-
+haze la piedra de los riñones.
+Mizaldo dize, que el çumo de los puer-
 ros beuido con vino, cura admirableme<n>te
-el dolor de rin~ones, y lomos.
+el dolor de riñones, y lomos.
 {RUB. Otro para romper la piedra.}
 {IN2.} GAleno, y Auicena dizen, q<ue> tomar vna
 dragma de vidrio quemado, y hecho
@@ -3594,9 +3594,9 @@ despues hazerlo poluo subtilissimo.
 poluo, de dos hasta quatro dragmas.
 y con cozimiento de perexil, dalo al en-
 fermo que lo beua. Es vno de los reme-
-dios que mas limpian los rin~ones, para q<ue>
+dios que mas limpian los riñones, para q<ue>
 no tengan excrementos, rompe la piedra,
-assi de los rin~ones, como de la vexiga,
+assi de los riñones, como de la vexiga,
 y no dexa materia, de que se pueda engen-
 drar la piedra. Es de Mathiolo Senes, y de
 Mesue.
@@ -3606,7 +3606,7 @@ po del Alexirepo, dize. Antes q<ue> par-
 ta la mano desta historia, quiero dezir el
 secreto del rauano, el qual he hallado ser
 marauilloso, y efficacissimo, para dolor co-
-lico, y de rin~ones, que procede por causa de
+lico, y de riñones, que procede por causa de
 piedra, o de ventosidades. Es assi mismo}
 {CW. vti}
 [fol. 69r]
@@ -3620,13 +3620,13 @@ resse, para que lo dixesse, lo encubri, y ne-
 gue. El secreto pues es este.
 {RUB. Secreto del rauano contra piedra.}
 {IN2.} DE cortezas de rauanos fortissimos, to-
-ma vna onc'a(s), de poluos de huessos
+ma vna onça(s), de poluos de huessos
 de niespolas medio molidos, dos dragmas
 maja vn poco las cortezas, y con los pol-
 uos echalas a remojo por tie<m>po de ocho
-horas en quatro onc'as de vino blanco,
+horas en quatro onças de vino blanco,
 cuelalo despues, y dalo a beuer caliente al
-enfermo a la man~ana, y a la noche otro
+enfermo a la mañana, y a la noche otro
 tanto, qua<n>do se vaya a dormir. Este reme-
 dio se ha de iterar algunas vezes, augme<n>-
 tando la cantidad de todo, si te pareciere
@@ -3646,17 +3646,17 @@ saberse por todo el orbe. Doy palabra que
 jamas me ha faltado.
 {RUB. Otro.}
 {IN2.} TOma simie<n>te de retama vna dragma,
-de miel rosada colada vna onc'a, y co<n>
+de miel rosada colada vna onça, y co<n>
 cozimiento de esparagos, y media dragma
 de poluos de goma de cerezo, darse lo has
 a beuer al enfermo. Con esto se rompe la
-piedra de los rin~ones. Autor Fumanello.
+piedra de los riñones. Autor Fumanello.
 Aduierte, que es mas seguro, y se deue an-
 tes vsar, que no del q<ue> arriba esta dicho por
 consejo de Mathiolo, y de Mesue. Porque
 la retama, la simiente digo, es muy la-
 xatiua.
-{RUB. Para la piedra, y dolor de rin~ones.}
+{RUB. Para la piedra, y dolor de riñones.}
 {IN2.} TOma de sene, y de cortezas de auella-
 nas, cada medio escrupulo, de canela
 vn escrupulo, hecho todo poluo, y mez-
@@ -3671,8 +3671,8 @@ nello.}
 gina .83.}
 {IN2.} TOma de miel de romero dos libras,
 de huessos de duraznos vna libra, de
-huessos de niespolas tres onc'as, de piedra
-iudaica quatro onc'as, de almizque vna dra-
+huessos de niespolas tres onças, de piedra
+iudaica quatro onças, de almizque vna dra-
 gma: hagase todo poluo, y encorporese to-
 do bien con la miel, y echenlo en vna al-
 quitara muy bien atapada con barro, y co<n>
@@ -3683,14 +3683,14 @@ Aduertiras empero, al tie<m>po q<ue> los humos,
 y vapores hinche<n> el capello, y el recipie<n>te
 que te<n>gas cuenta con q<ue> por las juntas no
 salga cosa, y sobre el capello, y recipiente
-po<n>dras vnos lie<n>c'os mojados, para que con
+po<n>dras vnos lie<n>ços mojados, para que con
 ellos se conuiertan los vapores en agua.
 Quando sera ya acabada la distilacio<n>, que
 ni humos, ni humidad saldra, dexaras la al-
 quitara, que se quede assi por espacio de
 veynte y quatro horas. Quitaras despues
 el recipiente, y la agua colarla has con vn
-lie<n>c'o de lino, y guardarla has en vn vaso de}
+lie<n>ço de lino, y guardarla has en vn vaso de}
 {CW. vidrio}
 [fol. 70v]
 {HD. Libro +}
@@ -3708,24 +3708,24 @@ remedio certissimo.
 vexiga.}
 {IN2.} DIze Mathiolo senes, que el que tiene,
 o tuuiere piedra en la vexiga, tome
-treynta dias continuos cada man~ana, tres
+treynta dias continuos cada mañana, tres
 horas antes que coma, y cada noche antes
-que cene, cinco onc'as de cozimiento de
-hojas, y ramas verdes de brec'o ((q<ue> en Ca-
-stilla llama<n> bruguera, y los medicos erica))
+que cene, cinco onças de cozimiento de
+hojas, y ramas verdes de breço ≺q<ue> en Ca-
+stilla llama<n> bruguera, y los medicos erica≻
 y que se assiente en vn tino lleno de co-
-zimiento del mismo brec'o, echando en el
-tino y ban~o el mismo brec'o, y assentan-
-dose en el brec'o cozido, entre tanto que
-recibe el ban~o, con tal que el cozimiento}
-{CW. y ban~o}
+zimiento del mismo breço, echando en el
+tino y baño el mismo breço, y assentan-
+dose en el breço cozido, entre tanto que
+recibe el baño, con tal que el cozimiento}
+{CW. y baño}
 [fol. 71r]
 {HD. de Experimentos. \ 63}
 {CB1.
-y ban~o le de sobre el empeyne, y esto se
+y baño le de sobre el empeyne, y esto se
 haga por tie<m>po de treynta dias. Aunque
 Mathiolo dize, que el assentarse en el ba-
-n~o, sea despues de los treynta dias, de auer
+ño, sea despues de los treynta dias, de auer
 tomado el cozimiento: digo yo que to-
 mandolo se deue hazer, pues ello ha de ser
 precedie<n>do euacuaciones vniuersales. Cer-
@@ -3733,9 +3733,9 @@ tifica el mismo Mathiolo, que conocio al-
 gunos que tenian piedra en la vexiga, los
 quales solo con buen orde<n> en solo el co-
 mer, y beuer, y con este remedio, echaron
-la piedra desmenuc'ada, y casi poluo con la
+la piedra desmenuçada, y casi poluo con la
 vrina. Creeria ser bueno beuer dicho co-
-zimiento para la piedra de los rin~ones.
+zimiento para la piedra de los riñones.
 {RUB. Consejo, para antes que se pongan en
 obra los remedios dichos.}
 {IN2.} QVando querras vsar destos reme-
@@ -3745,7 +3745,7 @@ forme le pareciere que sera assegurar tu
 negocio. En otra manera queriendo va-
 lerte destos remedios, sin preceder las eua-
 cuaciones vniuersales, recibiras antes mas
-dan~o que prouecho. Si no vuiere medico,}
+daño que prouecho. Si no vuiere medico,}
 {CW. ni}
 [fol. 71v]
 {HD. Libro +}
@@ -3754,24 +3754,24 @@ ni oportunidad de llamarle, haras te eche<n>
 primero vn clyster co[??], o de aguamiel
 y sal, todo cozido, y despumado, y co<n> azey-
 te. Despues tomaras la beuida q<ue> se sigue.
-Toma de pulpa de can~afistola, seys dra-
+Toma de pulpa de cañafistola, seys dra-
 gmas, de diaphinicon tres dragmas, de
-xaraue rosado alexandrino vna onc'a, des-
+xaraue rosado alexandrino vna onça, des-
 hazlo todo co<n> agua de hinojo, y vna bue-
 na hora antes que comas, tomalo. Passada
 la hora comeras, y no por esso te duer-
 mas de aquellas seys horas.
-{RUB. % Cap<itulo> .36. Para incontinencia de
+{RUB. ¶ Cap<itulo> .36. Para incontinencia de
 vrina, y el mearse sin sentirlo.}
 {IN4. {ILL.}} MAthiolo Senes, dize, que tomar
 algunos dias poluos de las ray-
 zes de bistorta, y de tormen-
-tilla, con c'umo de llanten, su-
+tilla, con çumo de llanten, su-
 prime la vrina.
 {RUB. Otro.}
 {IN2.} IVa<n> Iacobo Vuecherio, dize ser cosa muy
 prouada para la inco<n>tine<n>cia de la vrina,
-beuer cada man~ana agua de verdolagas, co<n>
+beuer cada mañana agua de verdolagas, co<n>
 vna dragma de los poluos infrascriptos.}
 {CW. Los}
 [fol. 72r]
@@ -3779,13 +3779,13 @@ vna dragma de los poluos infrascriptos.}
 {CB1.
 {RUB. Los poluos.}
 {IN2.} TOma de rosas coloradas, y de espodio
-cada vna onc'a, de simie<n>te de verdola-
-gas, dos dragmas, de vuilla de c'umaque, de
+cada vna onça, de simie<n>te de verdola-
+gas, dos dragmas, de vuilla de çumaque, de
 bolermin, y de dedalejos de bellotas, cada
 tres dragmas, de semilla de lechugas, de
 berberis, y de simiente de culantro, cada
 vna dragma, de rosas balaustias dos dra-
-gmas, de agallas onc'a y media, de goma
+gmas, de agallas onça y media, de goma
 dragante, de goma arabiga, y de encienso,
 cada tres dragmas, hagase todo poluo, y co<n>
 myua de membrillos muy bie<n> mezclados,
@@ -3796,7 +3796,7 @@ Entretanto no descuydes de vntar la ve-
 xiga, toda, y en derredor della, con azeyte
 de espigasil, de ruda, de almastiga, o co<n> vn-
 guento (d)[h]echo dellos.
-{RUB. % Cap<itulo> .37. De experime<n>tos contra
+{RUB. ¶ Cap<itulo> .37. De experime<n>tos contra
 corrimiento inuoluntario de si-
 miente.}}
 {CW. Dize}
@@ -3808,7 +3808,7 @@ ba mucho el poluo de la semi-
 lla de lechugas, beuido co<n> agua
 azerada, porque es admirable,
 y prompto remedio. Poner so-
-bre los rin~ones vna pla<n>cha de plomo lle-
+bre los riñones vna pla<n>cha de plomo lle-
 na de agugerillos, es muy prouechoso.
 {RUB. Otro.}
 {IN2.} DE poluos de millefolio toma quatro
@@ -3816,9 +3816,9 @@ dragmas, de bolermin orie<n>tal, dos dra-
 gmas: mezclalo todo. Echa vna dragma,
 destos poluos de<n>tro vn hueuo fresco, y cue-
 zelos en vn brasero, y cometelo, y luego
-beue vna tac'a de agua de grasolla, ((q<ue> es la
-yerua dicha vua crispa)) o de agua de ribes.
-{RUB. % Cap<itulo> .38. De experimentos, para
+beue vna taça de agua de grasolla, ≺q<ue> es la
+yerua dicha vua crispa≻ o de agua de ribes.
+{RUB. ¶ Cap<itulo> .38. De experimentos, para
 que los menstruos baxen a las mu-
 geres.}
 {IN4. {ILL.}} HEchas las euacuationes vniuer-
@@ -3842,11 +3842,11 @@ mas, con xaraue de artemissa, haz treynta
 pildoras, y aromatizalas co<n> poluos de aro-
 matico rosado, de la descripcion de Ga-
 briel.
-Iunto con ello ((si donzella no fuere)) ma<n>-
+Iunto con ello ≺si donzella no fuere≻ ma<n>-
 daras q<ue> dentro de la parte secreta, que lle-
 gue hasta el cuello de la madre, se ponga
 dos, o tres dragmas de tuetano de huesso
-de cieruo, embuelto en vn lienc'o claro, y
+de cieruo, embuelto en vn lienço claro, y
 delgado de lino, hecho a modo de vna ca-
 la: y assido de vn hilo largo, para sacarlo
 quando quisieren. Consejo es de Mizal-
@@ -3858,21 +3858,21 @@ struos.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} BEua cada man~ana con buen vino vna
+{IN2.} BEua cada mañana con buen vino vna
 dragma de poluos de simie<n>te de puer-
 ros, y el vino q<ue> sea blanco. Mizaldo en el
 cap<itulo> .1. del campo .2. del Alexirepo.
 {RUB. Otro.}
-{IN2.} CAda man~ana beua vna escudilla de
+{IN2.} CAda mañana beua vna escudilla de
 cozimie<n>to de tomillo salsero, con vn
 poco de miel cozida, y despumada. Mizal-
 do, cap<itulo> .7. del campo .3. del Alexirepo.
 {RUB. Otro.}
 {IN2.} FOmente la enferma la parte secreta,
 hasta la boca de la madre, con cozimie<n>-
-to de rayzes, y hojas de ac'ucena, y despues
+to de rayzes, y hojas de açucena, y despues
 pongase hasta la boca de la madre vn lie<n>-
-c'o mojado en el mismo cozimiento. Es
+ço mojado en el mismo cozimiento. Es
 muy apropriado este remedio para las re-
 zien paridas, que no les baxa, ni purgan
 bien. Hase de frequentar a menudo este
@@ -3884,14 +3884,14 @@ xirepo.}
 {HD. de Experimentos. \ 66}
 {CB1.
 {RUB. Otro.}
-{IN2.} TOme por las man~anas quatro onc'as
-de c'umo de gaujes, dichos en Castilla
+{IN2.} TOme por las mañanas quatro onças
+de çumo de gaujes, dichos en Castilla
 marauillas, y en latin {LAT. caltha,} y calendula, y
-solsequia, y beualo co<n> vn poco de ac'ucar.
+solsequia, y beualo co<n> vn poco de açucar.
 Es admirable, y co<n>sta por experie<n>cia. Del
 mismo autor en el cap<itulo> .9. del dicho libro.
 {RUB. Otro.}
-{IN2.} BEua cada man~ana vna escudillita de
+{IN2.} BEua cada mañana vna escudillita de
 cozimiento de axenxos, con miel ro-
 sada colada, y po<n>gase abaxo hasta el cuello
 de la madre vna cardada de lana, en el mis-
@@ -3899,7 +3899,7 @@ mo cozimiento mojada, o hojas de axen-
 xos majadas con miel. Mizaldo cap<itulo> .1. del
 campo .6. del Alexirepo.
 {RUB. Otro.}
-{IN2.} CAda man~ana, beua vna escudillita de
+{IN2.} CAda mañana, beua vna escudillita de
 cozimie<n>to de hojas de ruda, y de hy-
 sopo, y de canela, hecho co<n> vino, y fome<n>-
 tese abaxo co<n> el mismo vino. Es muy pro-
@@ -3910,13 +3910,13 @@ po .6. del Alexirepo.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} TOme cada man~ana, vna salerilla de
-c'umo clarificado de hortigas, co<n> vn
+{IN2.} TOme cada mañana, vna salerilla de
+çumo clarificado de hortigas, co<n> vn
 poquito de myrrha. Es efficacissimo re-
 medio, para que les baxen los menstruos.
 Mizaldo en el cap<itulo> .4. del campo .6.
 {RUB. Otro.}
-{IN2.} BEua cada man~ana vna escudillita de
+{IN2.} BEua cada mañana vna escudillita de
 cozimiento de hojas de sabina con
 miel rosada colada, ciertamente baxara la
 costumbre: es muy prouado. Traelo Ga-
@@ -3924,12 +3924,12 @@ leno en el libro .6. {LAT. de simplici(b)<ium> medic<amentorum>
 [temperamentis et] facult<atibus>.}
 {RUB. Otro.}
 {IN2.} DE poluos de matricaria, toma vna on-
-c'a, de poluos de hojas de sabina, otra
-onc'a, de ac'afran dos dragmas, de poluos
+ça, de poluos de hojas de sabina, otra
+onça, de açafran dos dragmas, de poluos
 de hojas de romero vn escrupulo, de san-
 gre de palomas blancas seca, y hecha pol-
 uo tres dragmas, mezclese todo, y cada ma-
-n~ana de<n>le con vn hueuo, o con vino bla<n>-
+ñana de<n>le con vn hueuo, o con vino bla<n>-
 co, o con algun cozimiento al caso, media}
 {CW. dra}
 [fol. 75r]
@@ -3946,16 +3946,16 @@ electuario dicho diacalaminthes, quierolo
 poner aqui, cuya descripcion trae Ferne-
 lio en su Antidotario, en esta manera.
 Toma de poluos de electuario simple,
-de diacalaminthes, media onc'a, de hojas
+de diacalaminthes, media onça, de hojas
 de marrubios, de majorana, de torongil,
 de artemisa, y de sabina, hechas todas pol-
 uo, cada vna dragma, de cypero, de si-
 miente de ruda, de rubia de tintureros,
 de macis, y de canela, cada dos escrupulos,
 hagase todo poluo, y mezclenlo, y con
-sufficiente cantidad de ac'ucar dissuelto
+sufficiente cantidad de açucar dissuelto
 en agua de matricaria, haras electuario.
-Daras deste vna onc'a cada man~ana y ha-
+Daras deste vna onça cada mañana y ha-
 ras que beua despues vn poco de vino
 blanco, o agua de torongil, o de dora-
 dilla.}
@@ -3966,10 +3966,10 @@ dilla.}
 {RUB. El electuario simple de diacalamin-
 tes, es de Galeno, en esta manera.}
 {IN2.} TOma de calamintha, de poleo, de pe-
-rexil, de seseleos, cada dos onc'as, de se-
+rexil, de seseleos, cada dos onças, de se-
 milla de apio, y de puntas de tomillo, cada
-quatro onc'as, de cominos rusticos, diez y
-seys onc'as: de pimienta, quatro libras, ha-
+quatro onças, de cominos rusticos, diez y
+seys onças: de pimienta, quatro libras, ha-
 gase todo poluo subtilissimo. Galeno trae
 esta composicion, en el .4. de tuenda vale-
 tudine y dize que es admirable para incin-
@@ -3978,7 +3978,7 @@ tos, los vazia por euacuacion insensil, y
 que mueue vrina, y prouoca los me<n>struos.
 Seria justo que siempre la tuuiesse<n> hecha
 los boticarios.
-{RUB. % Cap<itulo> .39. De experimentos contra
+{RUB. ¶ Cap<itulo> .39. De experimentos contra
 los demasiados menstruos.}
 {IN2.} QVa<n>do tratamos del escupir, y echar
 sangre por la boca, se dixo, q<ue> la san-
@@ -4001,18 +4001,18 @@ siete primeros son sacados.
 cho esta tantas vezes, de que han de
 preceder las euacuaciones vniuersales. Y
 con esto digo, q<ue> a la q<ue> le baxa demasiado,
-le de<n> a beuer cada man~ana vn poquito de
-c'umo de puerros con leche de muger.
+le de<n> a beuer cada mañana vn poquito de
+çumo de puerros con leche de muger.
 2. Sahume<n>le con seluia, y haran q<ue> cessen
 los menstruos, y corrimientos blancos.
-3. Tome cada man~ana c'umo de yerua
+3. Tome cada mañana çumo de yerua
 buena, con amidon y agua azerada.
-4. Dale poluos de flores de semitel ((q<ue> es
-lo q<ue> se dize amara<n>thus purpurea)) cada ma-
-n~ana, co<n> caldo de pies y manos de carnero.
+4. Dale poluos de flores de semitel ≺q<ue> es
+lo q<ue> se dize amara<n>thus purpurea≻ cada ma-
+ñana, co<n> caldo de pies y manos de carnero.
 5. Pongase hojas de celidonia sobre las
 tetas, y cessaran lo(n)[s] menstruos.
-6. Beua cada man~ana vna escudillita de}
+6. Beua cada mañana vna escudillita de}
 {CW. agua}
 [fol. 76v]
 {HD. Libro +}
@@ -4020,14 +4020,14 @@ tetas, y cessaran lo(n)[s] menstruos.
 agua azerada, con vnos pocos poluos de
 rosas balaustias.
 7. Toma hojas de oliuo verdes, y rozia-
-las con vino blanco, y majalas, y saca el c'u-
+las con vino blanco, y majalas, y saca el çu-
 mo, en el qual mojara vn pedacillo de ve-
 llecino, y lo hara a modo de vna cala, el
 qual se pondra la muger dentro la parte
 secreta.
 {RUB. Otro de Fallopio pag<ina> .63.}
 {IN2.} DE poluos de millefolio, y de hyssopo,
-toma vna onc'a de cada vno: de flor
+toma vna onça de cada vno: de flor
 de granado, y de nuezes de acipres, cada
 vna dragma: y de tierra sigillata dos drag-
 mas, todo hecho poluo sutil, mezclar lo
@@ -4045,7 +4045,7 @@ betas, quemalas, hasta que se hagan ceni-za,}
 {CB1.
 la qual haras dentro de vn puchero.
 Desta ceniza, echaras en vna bolsa de lien-
-c'o, y cuelgala al cuello de la muger, y ces-
+ço, y cuelgala al cuello de la muger, y ces-
 sara la purgacion. Si quieres ver el effecto
 dello ser verdad: po<n> la bolsilla con la ceni-
 za, por espacio de vn dia natural, al cuello
@@ -4057,9 +4057,9 @@ la rubeta y el sapo, son vna misma cosa.
 Dize el mismo Fumanello, que beuer la
 enferma poluos de cuerno de vaca, y de
 los mismos con vinagre hazer vnguento,
-y vntarse los rin~ones y vedija, que admi-
-rablemente restan~a los menstruos.
-{RUB. % Cap<itulo> .40. De experimentos contra
+y vntarse los riñones y vedija, que admi-
+rablemente restaña los menstruos.
+{RUB. ¶ Cap<itulo> .40. De experimentos contra
 las distillaciones que padecen las
 mugeres, dichos menstruos bla<n>cos.}
 {IN2.} MAthiolo Senes, tratando del marfil,
@@ -4078,7 +4078,7 @@ affirma Antonio Mizaldo.
 Despues que entendi lo que ello era, y
 me certifique, con la razon, y autoridad
 de tan graues varones: entre otras muge-
-res, lo he dado a tres sen~oras principales,
+res, lo he dado a tres señoras principales,
 a las quales vna materia blanca, y a vezes
 famosa, les baxaua, de que viuian con gra<n>-
 de descontento. Con solas dos vezes que
@@ -4099,10 +4099,10 @@ dad, pero del fluxo menstrual demasiado.}
 {HD. de Experimentos. \ 70}
 {CB1.
 {RUB. Otro.}
-{IN2.} DE peonia toma tres onc'as, de matrica-
-ria vna onc'a, de cominos vn escrupu-
+{IN2.} DE peonia toma tres onças, de matrica-
+ria vna onça, de cominos vn escrupu-
 lo, cueza todo en sufficiente cantidad de
-agua. Della daras cada man~ana tres onc'as
+agua. Della daras cada mañana tres onças
 a la enferma. Si la agua en que se cozieren
 fuere azerada, sera mejor.
 {RUB. Otro.}
@@ -4116,7 +4116,7 @@ embolueranla en vna toualla, o sabana. Ha-
 rase esto, diez, o doze dias continuos, a las
 noches qua<n>do vaya a dormir. Veras mara-
 uillas con ello. Fallopio, en la pagina .90.
-{RUB. % Cap<itulo> .41. Contra experimentos co<n>-
+{RUB. ¶ Cap<itulo> .41. Contra experimentos co<n>-
 tra mal de madre.}
 Qua<n>do caen en tierra suffocadas por cau-sa}
 {CW. sa}
@@ -4124,7 +4124,7 @@ Qua<n>do caen en tierra suffocadas por cau-sa}
 {HD. Libro +}
 {CB1.
 de la madre, las tristes mugeres, deseles
-c'ahumerio por las narizes, con betun Iu-
+çahumerio por las narizes, con betun Iu-
 dayco, y procuren a menudo huelan el
 olor y suffito del mismo betun, que luego
 bolueran en si. De aqui es, que algunas mu-
@@ -4134,14 +4134,14 @@ continuamente, euiten la suffocacion, y
 paroxismo. Traelo Mizaldo, en el Apho-
 rismo .48. de la primera Centuria.
 {RUB. Otro.}
-{IN2.} TOma de rayzes de brionia ((que la lla-
+{IN2.} TOma de rayzes de brionia ≺que la lla-
 man en Castilla nueza, y en Aragon
-tuca)) vna onc'a, cuezela en buen vino bla<n>-
+tuca≻ vna onça, cuezela en buen vino bla<n>-
 co, dale a[ ]beuer del vna vez cada semana, a
 la muger que tal padece.
 Mathiolo Senes dize, que vna muger,
 por consejo de vn herbolario, lo co<n>tinuo
-todo vn an~o, y curo muy bien, y perfecta-
+todo vn año, y curo muy bien, y perfecta-
 mente.
 {RUB. Para qua<n>do esta en el paroxismo.}
 {IN2.} ALberto Botonnino, medico doctissi-
@@ -4151,7 +4151,7 @@ mo, Cathedratico en la Vniuersidad}
 {HD. de Experimentos. \ 71}
 {CB1.
 de Padua, dize. Tomen las berrugas que se
-haze<n> en las can~as, o quartillas de los pies
+haze<n> en las cañas, o quartillas de los pies
 y manos de los cauallos, sequenlas en el
 horno, hagan despues poluos dellas. Es vn
 admirable remedio, echando dellos sobre
@@ -4160,7 +4160,7 @@ mo por las narizes la muger suffocada, q<ue>
 luego boluera en si, como de muerta, con
 grande admiracion de los que se hallaran
 presentes. No tengo dello experiencia, q<ue>
-por la pequen~a cogida que hay de dine-
+por la pequeña cogida que hay de dine-
 ros en esta tierra, se han desterrado los ca-
 uallos, no han quedado, si los de los pelay-
 res, y cardadores, a los quales, por la bue-
@@ -4170,7 +4170,7 @@ berrugas.
 {IN2.} ENtretanto que estos remedios se ha-
 zen, vna de las mugeres que alli le
 estuuieren al derredor, tome vn poco de
-azeyte de ac'ucena, y desate en el vn gra-
+azeyte de açucena, y desate en el vn gra-
 no de almizque, y tome dello con dos de-
 dos, y secretamente con ellos, le haga fri-
 cacion, hasta la boca de la madre, o pon-gale}
@@ -4178,7 +4178,7 @@ cacion, hasta la boca de la madre, o pon-gale}
 [fol. 79v]
 {HD. Libro +}
 {CB1.
-vna metrenchita ((que es como cala))
+vna metrenchita ≺que es como cala≻
 hecha de simiente de alliaria, conforme
 lo aconseja Mathiolo.
 {RUB. Otro.}
@@ -4211,12 +4211,12 @@ scripcion hallaras al fin desta obra. De Fal-
 lopio, pagina .79. Sirue este remedio para
 lo dicho, y principalmente para qua<n>do se
 aboca y sale la madre.
-{RUB. % Cap<itulo> .42. De experimentos contra
+{RUB. ¶ Cap<itulo> .42. De experimentos contra
 difficultad de partos.}
 {IN5. {ILL.}} QVando le viniere el parto a la
 muger difficultoso, dar le has
 vna escudillita de agua tibia,
-co<n> c'umo de puerros. Es de Mi-
+co<n> çumo de puerros. Es de Mi-
 zaldo.
 {RUB. Otro.}
 {IN2.} DE myrrha toma media dragma, de ca-
@@ -4236,10 +4236,10 @@ dalo a beuer. De Vuecherio.}
 ma vna dragma, daselos co<n> vino. De
 Vuecherio.
 {RUB. Otro.}
-{IN2.} DE canela toma vn escrupulo, de ac'a-
+{IN2.} DE canela toma vn escrupulo, de aça-
 fran medio escrupulo, de trociscos de
 myrrha, dos escrupulos, dalo todo a beuer
-con dos onc'as de agua de sabina, y dos de
+con dos onças de agua de sabina, y dos de
 agua de rubia. De Fumanello.
 {RUB. Otro.}
 {IN2.} CVeze hojas de artemisa, y majalas co<n>
@@ -4247,23 +4247,23 @@ harina de ceuada, y haz emplastro: y
 a la que va de parto, ponganselo sobre la
 barriga, y gordos de las piernas, y veran
 effecto marauilloso. Es de Mizaldo.
-{RUB. % Cap<itulo> .43. De experimentos para
+{RUB. ¶ Cap<itulo> .43. De experimentos para
 echar las parias.}
-{IN2.} DE c'umo de borrajas, de c'umo de puer-
-ros, y de c'umo de perexil, toma de ca-da}
+{IN2.} DE çumo de borrajas, de çumo de puer-
+ros, y de çumo de perexil, toma de ca-da}
 {CW. da}
 [fol. 81r]
 {HD. de Experimentos. \ 73}
 {CB1.
-cosa vna onc'a, dalo a beuer con vino, o
+cosa vna onça, dalo a beuer con vino, o
 azeyte de almendras dulces. Es cosa mara-
 uillosa. Procura tambien se le de sahume-
-rio por las narizes, de cuernos, y vn~as de
+rio por las narizes, de cuernos, y vñas de
 cabras. Mizaldo, cap<itulo> .9. del campo primero
 del Alexirepo.
 {RUB. Otro.}
 {IN2.} TOma media libra de azeyte comun, y
-vna dragma de ac'afran hecha poluo,
+vna dragma de açafran hecha poluo,
 y daselo a beuer. Es de Pascual en su practi-
 ca. Cierto haze marauilloso effecto, siem-
 pre vso del, con muy buen successo.
@@ -4274,7 +4274,7 @@ manello.
 Lo mismo se podra hazer con ammnonia-
 co, oppopanaco, hiel de vaca, y leuadura,
 que es admirable.
-{RUB. % Capit<ulo> .44. Contra el retorcijon de +}}
+{RUB. ¶ Capit<ulo> .44. Contra el retorcijon de +}}
 {CW. bar}
 [fol. 81v]
 {HD. Libro +}
@@ -4287,7 +4287,7 @@ quartos cada vna, y cuezelas
 en muy bue<n> vino, qua<n>do estu-
 uieren medio cozidas, sacalas
 sobre vn cortador, y cortalas menudas,
-cortadas frielas con azeyte de ma<n>c'anilla,
+cortadas frielas con azeyte de ma<n>çanilla,
 o de laurel, y en falta dellos, con azeyte co-
 mun, y qua<n>do estuuiere<n>, como si se vuies-
 sen de comer, ponganselas sobre la barri-
@@ -4300,7 +4300,7 @@ retorcijones, y dolores de barriga, causa-
 dos de humores frios, y ventosidad.
 {RUB. Otro.}
 {IN2.} TOma de galbano quinze granos, de
-maluasia media onc'a, con ella desata
+maluasia media onça, con ella desata
 el galbano, y dalo que lo beua la parida.}
 {CW. Fuma}
 [fol. 82r]
@@ -4309,19 +4309,19 @@ el galbano, y dalo que lo beua la parida.}
 Fumanello lo da por muy experto, yo no
 lo he prouado: porque con lo ante dicho
 estoy contento.
-{RUB. % Cap<itulo> .45. De experimentos para
+{RUB. ¶ Cap<itulo> .45. De experimentos para
 desuencijados y potrosos.}
 {IN4. {ILL.}} MVchas maneras hay de hernias
 y potras: vnas hay que son de
 agua, otras de carne, otras que
-baxa el redan~o, otras que sale<n>
+baxa el redaño, otras que sale<n>
 los intestinos: finalme<n>te hay otras vento-
 sas: son llamadas de los Griegos, hydroce-
 le, sarcocele, epiplocele, enterocele, sarro-
 cele, buborocele, y pneumatocele. Tratare-
 mos en este capitulo, principalme<n>te de la
 enterocele, q<ue> es la intestinal: y de la epiplo-
-cele, q<ue> es la del redan~o: de las demas, lo q<ue>
+cele, q<ue> es la del redaño: de las demas, lo q<ue>
 auremos hallado con larga experie<n>cia, no
 lo callaremos. Ante todas quiero tratar, de
 vn experime<n>to raro, para deshazer la car-
@@ -4340,15 +4340,15 @@ hernia carnosa, aun q<ue> los medicos le auia<n>
 dicho, que solo tenia vn remedio, que era
 o cortarla, o cauterizarla.
 {RUB. Para la hernia intestinal.}
-{IN2.} TOma de papos de typha ((que es el bo-
-hordo)) de hojas de bretonica, de ray-
+{IN2.} TOma de papos de typha ≺que es el bo-
+hordo≻ de hojas de bretonica, de ray-
 zes de gladiolo, y de rayzes de hyppoglo-
 so, yguales partes, lo que quisieres, hazlo
 todo poluo, y mezclalo. Daras deste poluo
 treynta dias continuos al potroso, vna
 dragma en ayunas, con hiemas de hueuos
 assados. Dize Mathiolo Senes, con este re-
-medio, no solo los nin~os, pero los de pro-
+medio, no solo los niños, pero los de pro-
 uecta edad curan. Han de enue<n>dar en este
 medio muy bien los potrosos, poniendo-
 les baxo vn pegado de algu<n> emplastro de
@@ -4371,14 +4371,14 @@ glutinante, y este muy bien enuendado.
 {RUB. Otro.}
 {IN2.} POndra<n>le vn pegado, hecho de empla-
 stro en las botigas, intitulado de pel-
-le arietina, estendie<n>dolo sobre vn pedac'o
+le arietina, estendie<n>dolo sobre vn pedaço
 de piel de carnero, que es vno de los me-
 jores q<ue> ay escritos en todos los autores.
 {RUB. Otro.}
 {IN2.} MAthiolo Senes dize, que tiene muy
 prouado, y experimentado, ponelles
-a los nin~os, que estan desuencijados, so-
-bre las ingles muchas vezes, vnos lienc'os
+a los niños, que estan desuencijados, so-
+bre las ingles muchas vezes, vnos lienços
 mojados en el agua, que se halla de<n>tro las
 vexiguillas de los olmos: y despues sobre
 ellos assentarles muy bien el braguero: y
@@ -4389,20 +4389,20 @@ mente.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} VNguento comitisse toma dos onc'as,
-de vn~a olorosa seys dragmas, de cor-
+{IN2.} VNguento comitisse toma dos onças,
+de vña olorosa seys dragmas, de cor-
 teza de encienso, de aziuar, y de bolermin
 cada dos dragmas, de rayzes de bistorta, y
-de narciso, cada media onc'a: de sangre de
+de narciso, cada media onça: de sangre de
 drago, de sarcocolla, y de axeue, cada tres
 dragmas: hagase todo poluo subtil, y con
 azeyte de membrillos hagase emplastro.
-Deste estenderan sobre vn pedac'o de piel
+Deste estenderan sobre vn pedaço de piel
 de carnero, y se lo pondran al desuenci-
 jado.
-{RUB. % Capit<ulo> .46. De experimentos con-
+{RUB. ¶ Capit<ulo> .46. De experimentos con-
 tra sciatica.}
-{IN4. {ILL.}} TOma c'umo de axedrea, y con
+{IN4. {ILL.}} TOma çumo de axedrea, y con
 harina de trigo haz a modo de
 vnguento, y poner lo has so-
 bre la sciatica, a donde tiene el
@@ -4413,15 +4413,15 @@ Qualquiera que tuuiere dolor sciatico, co<n>-tinue}
 [fol. 84r]
 {HD. de Experimentos. \ 76}
 {CB1.
-tomar cada man~ana vna dragma de
+tomar cada mañana vna dragma de
 poluos de tomillo salsero, con oximel, y
 no ca<n>se con el tomarle, que es admirable.
 {RUB. Otro.}
 {IN2.} EL que tuuiere sciatica, hagase echar ca-
-da dia vn clyster de c'umo de rayzes de
+da dia vn clyster de çumo de rayzes de
 lirio cardeno, con miel rosada colada.
 {RUB. Otro.}
-{IN2.} MAthiolo Senes dize, Tomese c'umo
+{IN2.} MAthiolo Senes dize, Tomese çumo
 de yezgos, y enxuguese al sol, de ma-
 nera que hagan trociscos del: y guarden-
 los. Quando vuiere alguno con dolor scia-
@@ -4434,18 +4434,18 @@ esta manera.
 {RUB. Clyster primero.}
 {IN2.} TOma de maluas, de malcorage, y de
 acelgas, cada vn manojo: de centau-
-re menor, y de manc'anilla, cada medio}
+re menor, y de mançanilla, cada medio}
 {CW. ma}
 [fol. 84v]
 {HD. Libro +}
 {CB1.
 manojo, mas seys higos secos: de saluado
-gruesso pun~o y medio: cueza todo en suf-
+gruesso puño y medio: cueza todo en suf-
 ficiente cantidad de agua.
 Tomaras vna libra deste cozimiento, de
-azeyte de ruda tres onc'as: de miel rosada
-colada dos onc'as: de los trociscos de yez-
-gos media onc'a: de hierapichra, y de dia-
+azeyte de ruda tres onças: de miel rosada
+colada dos onças: de los trociscos de yez-
+gos media onça: de hierapichra, y de dia-
 phenicon, cada tres dragmas: de sal, dos
 dragmas, todo muy bien desatado, y mez-
 clado, echenselo por clyster.
@@ -4454,11 +4454,11 @@ clado, echenselo por clyster.
 acelgas, y de malcorage, cada vn ma-
 nojo de coles, y de iua arthetica, cada me-
 dio manojo: de semilla de anis, y de ruda,
-cada media onc'a: haras cozimiento. Cola-
+cada media onça: haras cozimiento. Cola-
 do que sea este cozimiento, toma vna li-
-bra, de benedicta vna onc'a: de trociscos de
-yezgos media onc'a: de azeyte de ac'ucena,
-y de ma<n>c'anilla, cada dos onc'as: de sal vna
+bra, de benedicta vna onça: de trociscos de
+yezgos media onça: de azeyte de açucena,
+y de ma<n>çanilla, cada dos onças: de sal vna
 dragma: mezclalo, y echenle dello clyster.
 {RUB. Clyster tercero.}
 Toma de cozimiento de poleo, de nepita,}
@@ -4468,9 +4468,9 @@ Toma de cozimiento de poleo, de nepita,}
 {CB1.
 de oregano, de centaurea menor, y de can-
 thiuesso, vna libra: de hiera diacolocyn-
-thidos, vna onc'a: de trociscos de yezgos,
-media onc'a, de azeyte de lombrizes, y de
-ma<n>c'anilla, cada dos onc'as, de sal, vna drag-
+thidos, vna onça: de trociscos de yezgos,
+media onça, de azeyte de lombrizes, y de
+ma<n>çanilla, cada dos onças, de sal, vna drag-
 ma: todo mezclado, echese por clyster. Es
 admirable.
 {RUB. Clyster quarto.}
@@ -4480,30 +4480,30 @@ ue tiempo cure vn dolor sciatico, con vn
 solo clyster, el qual se haze en esta ma-
 nera.
 Toma de rayzes de maluas, y de malua-
-uisco: de verros, o de nastuerc'o, o de erysi-
+uisco: de verros, o de nastuerço, o de erysi-
 mo, cada vn manojo: de simiente de lino,
-y de alholuas, cada vna onc'a: de simiente
+y de alholuas, cada vna onça: de simiente
 de siler montano, y de ruda syluestre, cada
-media onc'a: de flores de camamilla: de ce<n>-
+media onça: de flores de camamilla: de ce<n>-
 taurea menor: de ca<n>thiuesso, y de aneldo,
-cada vn pun~o: de agarico, y de assaro, cada
-media onc'a: cueza todo hasta que queden
+cada vn puño: de agarico, y de assaro, cada
+media onça: cueza todo hasta que queden
 de agua dos libras. En las quales despues de
 coladas, desataras de trementina de vete}
 {CW. vna}
 [fol. 85v]
 {HD. Libro +}
 {CB1.
-vna onc'a: de azeyte de ruda, y de aneldo,
-cada tres onc'as: de maluasia dos onc'as: de
+vna onça: de azeyte de ruda, y de aneldo,
+cada tres onças: de maluasia dos onças: de
 todo mezclado, haras que le eche<n> clyster.
 Co<n>tinuaras lo. Si el enfermo estuuiere du-
-ro de camara, an~aderas al clyster, confec-
+ro de camara, añaderas al clyster, confec-
 cion de hiera, o de benedicta.
 El residuo de las yeruas, y rayzes cozi-
 das, majaras muy bien, y traer lo has a mo-
 do de emplastro, mezcla<n>do con ello vna li-
-bra de derritido de puerco que sea an~ejo,
+bra de derritido de puerco que sea añejo,
 y otra de miel comun: y caliente todo, lo
 pondras sobre la parte affecta.
 Finalmente, todos los remedios, que pa-
@@ -4511,7 +4511,7 @@ ra la gota arthetica diremos, que es la po-
 dagra, y para las passiones de las juntas, ar-
 theticas dichas, son muy buenos para la
 sciatica.
-{RUB. % Capit<ulo> .47. De experimentos con-
+{RUB. ¶ Capit<ulo> .47. De experimentos con-
 tra podagra, y dolor de juntas vni-
 uersales.}
 {IN2.} ANte todas cosas, assi en la sciatica, co-
@@ -4536,24 +4536,24 @@ lib<ro> .2. de la therape(n)[u]tica, en el capitulo de
 podagra, y arthritide, dize. Con tomar el
 enfermo quarenta dias continuos, vna
 dragma de los poluos infrascriptos, con
-agua miel, y despues todo el an~o media
+agua miel, y despues todo el año media
 dragma, cura perfectamente. Dize mas,
 que lo tiene muy prouado, y experimen-
 tado.
 {RUB. Los poluos.}
 {IN2.} TOma de camedreos, de genciana, y de
-la cruciata ((que es la ge<n>ciana menor))
+la cruciata ≺que es la ge<n>ciana menor≻
 de centaurea, de rhapontico, y de aristo-lochia}
 {CW. lochia}
 [fol. 86v]
 {HD. Libro +}
 {CB1.
-redonda, cada media onc'a: hagase
+redonda, cada media onça: hagase
 todo poluo, y mezclese muy bien.
 {RUB. Otro.}
 {IN2.} DIze Mathiolo Senes, que se tome vna
-dragma de simiente de yezgos ((lim-
-pia y preparada)) con cozimie<n>to de iua ar-
+dragma de simiente de yezgos ≺lim-
+pia y preparada≻ con cozimie<n>to de iua ar-
 thetica cada vez, y que curara perfectame<n>-
 te. No solo el podagrico, sciatico, y arthe-
 tico, pero el que tuuiere mal Frances. Por-
@@ -4561,15 +4561,15 @@ que con la virtud que tiene esta simiente,
 de euacuar los humores, que corren a las
 juntas, los haze retroceder dellas, y assi se
 quitan, y mitiguan los dolores. Lo mismo
-dize el doctor Fumanello, y que el c'umo
+dize el doctor Fumanello, y que el çumo
 que sacan del fruto, al tiempo que limpia<n>
 la simiente, que no lo echen, sino que vn-
 ten con el las partes affectas.
 Limpiaran la simiente de los yezgos, en
 esta manera. Cogeran el fructo, al tiempo
 que estuuiere maduro, mucho en ca<n>tidad,
-y con vn lienc'o lo exprimira<n> con las ma-
-nos, y el c'umo que saldra, guardar lo han
+y con vn lienço lo exprimira<n> con las ma-
+nos, y el çumo que saldra, guardar lo han
 para lo dicho. La simiente lauaran con mu-
 chas aguas, hasta que quede limpia, y sal-ga}
 {CW. ga}
@@ -4587,7 +4587,7 @@ sientan sanos y libres. Mas tengan cuenta,
 que quando la vuieren de tomar, tomen
 tres dias antes vn poco de miel rosada co-
 lada, con cozimiento de iua arthetica.
-Desta simiente, acompan~ada con vnos
+Desta simiente, acompañada con vnos
 poluos magistrales, que yo vso, se haze<n> en
 diuersas enfermedades, effectos marauillo-
 sos Bien es verdad, que hay medicos, y bo-
@@ -4620,12 +4620,12 @@ Mathiolo certifica que vio en Bohemia
 algunos, que estauan muy affligidos con
 tales dolores, tanto que no se podian le-
 uantar de la cama, despues solo con el vso
-destos ban~os, vinieron tanto a co<n>ualecer,
+destos baños, vinieron tanto a co<n>ualecer,
 que boluieron a tratar, y entender en sus
 negocios muy sueltos, y destrauados.
-{RUB. % Cap<itulo> .48. De experimentos co<n>tra
+{RUB. ¶ Cap<itulo> .48. De experimentos co<n>tra
 alopecia, quando se les caen los ca-
-bellos de la cabec'a, y barua, y se ha-
+bellos de la cabeça, y barua, y se ha-
 zen como vnas placillas, o eras.}}
 {CW. Dize}
 [fol. 88r]
@@ -4633,7 +4633,7 @@ zen como vnas placillas, o eras.}}
 {CB1.
 {IN5. {ILL.}} DIze Galeno, frega muchas ve-
 zes las erillas a do falta el ca-
-bello con cebolla an~eja, que es
+bello con cebolla añeja, que es
 remedio bonissimo, para que
 buelua a nacer.
 {RUB. Otro.}
@@ -4644,12 +4644,12 @@ chas vezes.
 {IN2.} QVema almendras enteras, o auella-
 nas, y despues echalas a remojo en
 vinagre fuerte, remojadas q<ue> sean, majalas,
-y vnta con ellas las plac'uelas, y curara<n> se-
+y vnta con ellas las plaçuelas, y curara<n> se-
 gun lo siente Galeno.
 {RUB. Otro.}
 {IN2.} PLinio en el capit<ulo> .8. del lib<ro> .24. trata<n>do
 de la facultad del olmo, dize: que el li-
-cor que sale del corac'on del olmo, quan-
+cor que sale del coraçon del olmo, quan-
 do lo podan, puesto a do se cae el cabello,
 haze que buelua a nacer, y el demas no
 cayga.}
@@ -4658,14 +4658,14 @@ cayga.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} EStiercol de cabras, y vn~as quemadas
+{IN2.} EStiercol de cabras, y vñas quemadas
 dellas toma, y mezclalo todo con vi-
 nagre, y vnta a do falta el cabello. Lo mis-
 mo haze el marrubio verde, y majado, y
 puesto alli.
-{RUB. % Capit<ulo> .49. Contra piojos de la ca-
-bec'a.}
-{IN4. {ILL.}} LAuate la cabec'a con lexia he-
+{RUB. ¶ Capit<ulo> .49. Contra piojos de la ca-
+beça.}
+{IN4. {ILL.}} LAuate la cabeça con lexia he-
 cha de ceniza de canthiuesso.
 {RUB. Otro.}
 Toma poluos de canthiuesso,
@@ -4674,8 +4674,8 @@ guento, con el qual vntaras donde vuiere
 piojos, y todos moriran. Los dos son de
 Fallopio, en la pagina .331.
 {RUB. Otro.}
-{IN2.} DE c'umo de hojas de hiedra toma dos
-onc'as: de miel media onc'a: mezclalo
+{IN2.} DE çumo de hojas de hiedra toma dos
+onças: de miel media onça: mezclalo
 todo, y vntar te has con ello. Es de Vue-
 cherio.}
 {CW. Otro}
@@ -4683,24 +4683,24 @@ cherio.}
 {HD. de Experimentos. \ 81}
 {CB1.
 {RUB. Otro.}
-{IN2.} VNtese la cabec'a con azeyte de lau-
+{IN2.} VNtese la cabeça con azeyte de lau-
 rel, y quedara limpio.
 {RUB. Vnguento seguro.}
 {IN2.} ANtonio Mizaldo, en el Aphorismo
 34. de la Centuria quarta, alaba mu-
 chissimo, para que no se crien piojos, en
-las cabec'as de los nin~os, el vnguento si-
+las cabeças de los niños, el vnguento si-
 guiente.
 Toma media libra de encienso, y otra de
 lardo de puerco, y cuezelo en vn puchero
 vidriado, hasta que quede como vnguen-
-to: despues passalo por cedac'o. Si con este
-vnguento, dize, vngieres la cabec'a piojo-
+to: despues passalo por cedaço. Si con este
+vnguento, dize, vngieres la cabeça piojo-
 sa, sin duda quedara limpia de piojos. Este
 remedio es mas seguro para este caso, que
 el vnguento de la ala: el qual es vno de los
-mas perniciosos, dan~osos, y malos para la
-cabec'a sarnosa, y piojosa de los nin~os, por
+mas perniciosos, dañosos, y malos para la
+cabeça sarnosa, y piojosa de los niños, por
 causa de azogue, que entra en el: de donde
 succeden varios accidentes, enfermeda-
 des, y aun la muerte. Digolo por las ma-dres,}
@@ -4708,27 +4708,27 @@ des, y aun la muerte. Digolo por las ma-dres,}
 [fol. 89v]
 {HD. Libro +}
 {CB1.
-y nodric'as inconsideradas, que vsan
+y nodriças inconsideradas, que vsan
 del, o de otros azogados.
 {RUB. Otro.}
-{IN2.} LAuese la cabec'a con cozimie<n>to de al-
-tramuc'os, o de tarabay, o con cozimie<n>-
-to de altramuc'os, y bayas de laurel.
+{IN2.} LAuese la cabeça con cozimie<n>to de al-
+tramuços, o de tarabay, o con cozimie<n>-
+to de altramuços, y bayas de laurel.
 {RUB. Otro.}
 {IN2.} PAulo AEgineta dize, co<n>siguio siempre
-lo que queria, vntando la cabec'a pio-
+lo que queria, vntando la cabeça pio-
 josa con vnguento hecho de staphis agria
-((dicha fabarraz, o paparraz)) y de vinagre,
+≺dicha fabarraz, o paparraz≻ y de vinagre,
 y azeyte.
-{RUB. % Cap<itulo> .50. De vn experimento co<n>-
-tra tin~a.}
-{IN5. {ILL.}} HAras raer la cabec'a del tin~oso,
+{RUB. ¶ Cap<itulo> .50. De vn experimento co<n>-
+tra tiña.}
+{IN5. {ILL.}} HAras raer la cabeça del tiñoso,
 y que le quiten muy bien las
 costrezas. Laue<n>le despues muy
 bien con lexia, y sin enxugarla
-eche<n>le sobre la cabec'a con vn
+eche<n>le sobre la cabeça con vn
 cedacillo, como quien cierne, ceniza por
-todo lo tin~oso.
+todo lo tiñoso.
 Ha de ser la ceniza de carrasca, o de sar-mientos,}
 {CW. mien}
 [fol. 90r]
@@ -4736,11 +4736,11 @@ Ha de ser la ceniza de carrasca, o de sar-mientos,}
 {CB1.
 o de otra qualquier madera, que
 se pueda hazer ceniza fuerte. Lleno muy
-bien todo lo tin~oso de ceniza, ponganle
+bien todo lo tiñoso de ceniza, ponganle
 vna toquilla, o bonetillo, y dexenle assi
 quinze dias, al tiempo que se caera<n> las co-
 strezas, acabaselas de quitar, y de alli ade-
-lante cada noche vntale la cabec'a co<n> vn-
+lante cada noche vntale la cabeça co<n> vn-
 guento arego<n>, y encima ponle vn ceroto
 de diaquilon magno, y limpie<n>lo cada no-
 che, o muden otro nueuo, que co<n> ello cu-
@@ -4749,11 +4749,11 @@ pio, y dize lo ha prouado infinitissimas ve-
 zes, co<n> successo bonissimo. Confiessa que
 lo tomo del doctor Realdo Columbo, me-
 dico Romano, y grandissimo anatomico.
-{RUB. % Capit<ulo> .51. De los lamparones.}
+{RUB. ¶ Capit<ulo> .51. De los lamparones.}
 {IN6. {ILL.}} MAthiolo Senes dize, que
 los lamparones, se desha-
 zen, y descaecen, toman-
-do cada man~ana, con vn
+do cada mañana, con vn
 hueuo fresco, o con miel
 rosada colada, dos drag-
 mas de flores de genista, majadas, o he-
@@ -4763,8 +4763,8 @@ chas poluos.}
 {HD. Libro +}
 {CB1.
 {RUB. Otro.}
-{IN2.} MEsue, da cada man~ana vna onc'a de c'u-
-mo de brionia negra, con vna onc'a
+{IN2.} MEsue, da cada mañana vna onça de çu-
+mo de brionia negra, con vna onça
 de vino, y otra de miel. Dize, este remedio
 es mas efficaz, para curar lamparones, que
 quantos hay.
@@ -4774,9 +4774,9 @@ lamparones, que es admirable, para los cu-
 rar.
 {RUB. Otro.}
 {IN2.} CVraran sin duda los lamparones, si pu-
-sieres sobre ellos vnos lienc'os moja-
+sieres sobre ellos vnos lienços moja-
 dos en agua destilada de biuoras, quitadas
-las cabec'as, y colas. Con la misma agua se
+las cabeças, y colas. Con la misma agua se
 curan las fistolas. Es de Fumanello.
 {RUB. Otro.}
 {IN2.} DIze el mismo autor, que cozer topos
@@ -4807,7 +4807,7 @@ dias, roziando cada dia con meados la are-
 na. Passados los diez dias, sacalo, y embuel-
 uelo otro tanto tiempo en estiercol. Sa-
 cado de alli pon lo al sol, por tie<m>po de vn
-an~o entero. Despues guardar lo has muy
+año entero. Despues guardar lo has muy
 bien, para quando se te offreciere la oca-
 sion.}
 {CW. Pol}
@@ -4819,16 +4819,16 @@ a poco el humor, prouados por mi, y
 hallados verdaderos.}
 {IN2.} TOma de rayzes de aristolochia redo<n>-
 da, de rauanos, de espatula fetida, di-
-cha en Castilla lirio espadan~al, vna drag-
+cha en Castilla lirio espadañal, vna drag-
 ma de cada vnos, de pimpinella, de pe-
 losilla, y de ruda, cada dos dragmas, de es-
 crofularia, y de filipe<n>dula, cada media on-
-c'a, de anis, dos dragmas, de gingibre, vna
+ça, de anis, dos dragmas, de gingibre, vna
 dragma: de turbit, y de sene, cada tres drag-
-mas: de ac'ucar fino, quatro onc'as: hagase
+mas: de açucar fino, quatro onças: hagase
 todo poluo, y muy bien mezclado. Deste
 poluo tomara el enfermo, vna dragma ca-
-da man~ana, o dragma y media, con buen
+da mañana, o dragma y media, con buen
 vino blanco, o agua de retama. Es de Vue-
 cherio, y de Chalmetheo.
 {RUB. Otro.}
@@ -4848,18 +4848,18 @@ tos, sajandolos, y a los otros que no estu-
 uieren aun abiertos, dar orden para que se
 abran, y sajen. Sajados que sean, cargalos
 de la ceniza dicha, despues ponles enci-
-ma vn lienc'o mojado en lexia. Dexar los
+ma vn lienço mojado en lexia. Dexar los
 has assi, hasta que naturaleza escupa la es-
 cata, y lo eche todo afuera, con sus ray-
 zes. Despues cura los lamparones con vn-
 guento mollitiuo. Fallopio lo trae, casi di-
 ze lo mismo Fumanello.
-{RUB. % Capit<ulo> .52. De experimentos para
-restan~ar la sangre de las heridas.}
+{RUB. ¶ Capit<ulo> .52. De experimentos para
+restañar la sangre de las heridas.}
 {IN4. {ILL.}} EL algodon en pelo, dize Ma-
 thiolo, calienta, y enxuga: si lo
 quemares, y del poluo pusieres
-sobre la herida, restan~ara a mo-
+sobre la herida, restañara a mo-
 do de miraglo la sangre.}
 {CW. Otro}
 [fol. 92v]
@@ -4871,13 +4871,13 @@ bistorta, y de tormentilla, y cessara la
 sangre. Mathiolo Senes, en el capitulo de
 Britannica.
 {RUB. Otro.}
-{IN2.} TOma poluos de sapo ((quemado en vn
-vaso de tierra bien cubierto)) y mete-
-los en vn saquillo de lie<n>c'o, y poner lo has
+{IN2.} TOma poluos de sapo ≺quemado en vn
+vaso de tierra bien cubierto≻ y mete-
+los en vn saquillo de lie<n>ço, y poner lo has
 sobre la vena, de la qual sale la sangre, qua-
 tro dedos apartado de la herida. Es de Vue-
 cherio.
-{RUB. % Capit<ulo> .53. De experimentos para
+{RUB. ¶ Capit<ulo> .53. De experimentos para
 curar heridas, principalmente en
 partes carnosas.}
 {IN5. {ILL.}} MIzaldo, en sus Aphorismos, di-
@@ -4892,7 +4892,7 @@ uo: y juntando primero muy}
 bien los labios de la herida, y limpiandola
 muy bien de la sangre, y de otras cosas, to-
 ma claras de hueuos y pon las sobre la he-
-rida, y sobre ello vn lienc'o limpio, enuen-
+rida, y sobre ello vn lienço limpio, enuen-
 dalo, y dexalo assi vnos qua<n>tos dias. Es co-
 sa marauillosa, rara, y prouada.
 {RUB. Otro.}
@@ -4910,8 +4910,8 @@ mi mismo.
 {RUB. Remedio como balsamo, para lo
 mismo.}
 {IN2.} TOma de trementina vna libra, de eu-
-phorbio vna onc'a: de alcreuite me-
-dia onc'a: de sal vna onc'a: de azeyte vna li-
+phorbio vna onça: de alcreuite me-
+dia onça: de sal vna onça: de azeyte vna li-
 bra.}
 {CW. bra}
 [fol. 93v]
@@ -4921,19 +4921,19 @@ Cueza dos horas en fuego blando, y
 floxo: despues cuelalo, y guardalo en vn
 vaso de vidrio. Quando vuiere herida, fo-
 mentala con el caliente: y vniendola muy
-bien, pondras sobre ella vnos lienc'os mo-
+bien, pondras sobre ella vnos lienços mo-
 jados en este balsamo. Es de Vuecherio.
 {RUB. Otro balsamo para lo mismo.}
 {IN2.} DE trementina toma vna libra: de gal-
-bano dos onc'as: de goma elemi, y de
-goma de yedra, cada dos onc'as: de encien-
+bano dos onças: de goma elemi, y de
+goma de yedra, cada dos onças: de encien-
 so: de almastiga, y de myrrha, otras cada
-dos onc'as: de aziuar: de lignaloes: de ga-
+dos onças: de aziuar: de lignaloes: de ga-
 langa: de clauos: de canela: de nuezes de
-especias, y de cubebas, cada vna onc'a: todo
+especias, y de cubebas, cada vna onça: todo
 lo que se pudiere hazer poluo, se haga, y
 mezclalo todo, y echa sobre ello tres on-
-c'as de agua ardiente, y dexalo assi veynte
+ças de agua ardiente, y dexalo assi veynte
 y quatro horas. Destilalo despues con al-
 quitara de vidrio. Es del mismo Vueche-
 rio.
@@ -4948,7 +4948,7 @@ de hipericon, de cada cosa lo que quisie-
 res: de encienso poluorizado: de azeyte de
 oliuas, y de manteca, de cada cosa vn po-
 quito: distilalo por alquitara, y lo que pri-
-mero saldra, guardalo para vsar dello. An~a-
+mero saldra, guardalo para vsar dello. Aña-
 dir le has despues mas fuego, y lo que disti-
 lare guardar lo has, que es admirable para
 curar heridas. Es de Fumanello.
@@ -4964,9 +4964,9 @@ rha, y de aziuar. Es del mismo autor.
 {RUB. Agua, o azeyte de balsamo, para he-
 ridas. De Fallopio.}
 {IN2.} DE clauos de gilofe toma vna libra: de
-aziuar hepatico tres onc'as: de goma
-de yedra vna onc'a: de cortezas de cedro
-tres onc'as: hecho poluo subtil todo, mez-clar}
+aziuar hepatico tres onças: de goma
+de yedra vna onça: de cortezas de cedro
+tres onças: hecho poluo subtil todo, mez-clar}
 {CW. clar}
 [fol. 94v]
 {HD. Libro +}
@@ -4975,13 +4975,13 @@ lo has con cinco libras de treme<n>tina
 pura, y clara, y echaras lo en vna alquitara
 de vidrio, muy bien atapada: lo que disti-
 lare, echalo en vn vaso de vidrio.
-{RUB. % Capit<ulo> .54. Co<n>tra mordeduras de
+{RUB. ¶ Capit<ulo> .54. Co<n>tra mordeduras de
 sierpes, y de otros animales vene-
 nosos.}
 {IN5. {ILL.}} LA rayz del {LAT. cornu cerui sylue-
-stre} ((en Latin dicha coronopus
+stre} ≺en Latin dicha coronopus
 siluestris, y en Castellano guia
-bella)) hecha poluo, y beuida
+bella≻ hecha poluo, y beuida
 co<n> vino, es admirable antido-
 to, contra veneno, y mordeduras de biuo-
 ras, y de otros animales venenosos. Es tan
@@ -5001,7 +5001,7 @@ gre, curan perfectamente las mordeduras
 venenosas.
 {RUB. Para mordedura de perro rauioso.}
 {IN2.} MAthiolo aconseja, que pongan sobre
-la mordedura harina de castan~as, co<n>
+la mordedura harina de castañas, co<n>
 sal y miel mezclada, porque es admirable
 remedio.
 Antes que pongas appositos sobre las
@@ -5024,24 +5024,24 @@ dura.}
 {CB1.
 {RUB. Otro para mordedura de perro ra-
 uioso.}
-{IN2.} DAle a beuer c'umo de yerua buena, y
+{IN2.} DAle a beuer çumo de yerua buena, y
 del mismo le pongan sobre la mor-
 dedura, que para esto tiene particular pro-
 priedad. Assi lo affirma Fumanello. Lo
-mismo dize que puede el c'umo de la ruda
+mismo dize que puede el çumo de la ruda
 beuido, y aplicado.
 {RUB. Otro para lo mismo.}
-{IN2.} DE ceniza de tarahay, toma diez onc'as,
+{IN2.} DE ceniza de tarahay, toma diez onças,
 de genciana hecha poluo, cinco on-
-c'as, de encie<n>so molido, vna onc'a, mezclalo
-todo co<n> agua, y dale della tres onc'as a be-
+ças, de encie<n>so molido, vna onça, mezclalo
+todo co<n> agua, y dale della tres onças a be-
 uer. Despues sobre la mordedura sajada y
 hecha la attraccion con la ve<n>tosa, y muy
 bien esprimida la sangre, ponle el empla-
 stro que se sigue.
 {RUB. El emplastro.}
 {IN2.} TOma de vino, de oppopanaco, de vi-
-nagre, cada tres onc'as, de pez vna li-
+nagre, cada tres onças, de pez vna li-
 bra, mezclalo todo, y haz emplastro. Deste
 pondras diez dias sobre la mordedura, re-nouandolo}
 {CW. nouan}
@@ -5050,7 +5050,7 @@ pondras diez dias sobre la mordedura, re-nouandolo}
 {CB1.
 cada dia, sin poner otro. Es
 de Fallopio.
-{RUB. % Cap<itulo> .55. De experimentos con-
+{RUB. ¶ Cap<itulo> .55. De experimentos con-
 tra vlceras malignas.}
 {IN6. {ILL.}} LAua las vlceras con vino
 en que aya<n> cozido hojas
@@ -5080,23 +5080,23 @@ mas: porque no solo sana las vlceras, que
 no son contumaces, pero las cacohetes, y
 las que traen origen de mal Frances, por
 malignas que sean: tanto, que las vlceras
-corrosiuas, de las partes vergonc'osas, con
+corrosiuas, de las partes vergonçosas, con
 ella se curan admirablemente. Tomolo de
 Galeno, en el li<bro> .8. de los simples, adonde
-nos lo ensen~o, y alabo la carcoma del ol-
+nos lo enseño, y alabo la carcoma del ol-
 mo: la qual limpia, y hinche las vlceras.
 {RUB. Otro para lo mismo.}
 {IN2.} ANtonio Mizaldo, en el Aphorismo
 79. de la .2. Centuria dize, que cono-
 cio hombres, que en el mes de Mayo, ten-
 dian de noche sobre los trigos, touallas, y
-lienc'os delgados, y a la man~ana, antes que
+lienços delgados, y a la mañana, antes que
 el sol les diesse, las torcian, y cogian el ro-
 cio en vn vaso vidriado, despues lo cozia<n>,
 y despumauan: y assi lo guardauan. Quan-
 do se offrecia ocasion de algunas vlceras
 corrosiuas, ponian sobre ellas vnos lien-
-c'os, mojados en este rocio, y con ellos las
+ços, mojados en este rocio, y con ellos las
 limpiauan: en estar limpias, y enxutas, con}
 {CW. la}
 [fol. 97r]
@@ -5108,21 +5108,21 @@ cienso, y axeue, y lo cozian todo junto, y
 con ello dauan fin a la curacion de las vl-
 ceras, y las consolidauan.
 {RUB. Para vlceras corrosiuas, de las par-
-tes vergonc'osas, assi de hombres, co-
+tes vergonçosas, assi de hombres, co-
 mo de mugeres.}
 {IN2.} LAua muy bien las tales partes vlcera-
-das, con c'umo de consuelda mediana,
+das, con çumo de consuelda mediana,
 y menor, que es admirable. Autor Ma-
 thiolo.
 {RUB. Vnguento que diuiname<n>te cura las
 vlceras de las espinillas, y otros.}
-{IN2.} TOma de litargirio de oro, tres onc'as
-de albayalde vna onc'a: de vinagre for-
-tissimo quatro onc'as: de estoraques liqui-
-dos vna onc'a: de cera amarilla quatro on-
-c'as: de azeyte rosado ocho onc'as: de rasina
-de pino cinco onc'as: de azeyte de nuezes
-ocho onc'as: lo que se pudiere hazer pol-
+{IN2.} TOma de litargirio de oro, tres onças
+de albayalde vna onça: de vinagre for-
+tissimo quatro onças: de estoraques liqui-
+dos vna onça: de cera amarilla quatro on-
+ças: de azeyte rosado ocho onças: de rasina
+de pino cinco onças: de azeyte de nuezes
+ocho onças: lo que se pudiere hazer pol-
 uo se haga, y mezclese co<n> todo lo demas,}
 {CW. y}
 [fol. 97v]
@@ -5136,7 +5136,7 @@ alli, hasta tanto que este como vna massa:
 y hecho que sea, vazia el agua, y pondras
 el vnguento en vn vaso vidriado, y cubre
 lo muy bien. Quando se offrecera ocasion
-te<n>deras sobre vn lienc'o vn poco del, y ha-
+te<n>deras sobre vn lienço vn poco del, y ha-
 ras pegado: el qual pondras sobre la vlce-
 ra, y lo mudaras de veynte y quatro ho-
 ras en veynte y quatro. Es cosa muy pro-
@@ -5147,23 +5147,23 @@ nillas, y pantorrillas. Es de Fallopio.
 gendran en las vlceras. De Vue-
 cherio.}
 {IN2.} ECha en la vlcera que tuuiere gusanos
-c'umo de hojas de priscal, o de axen-
+çumo de hojas de priscal, o de axen-
 xos, o de agrimonia, o haras el emplastro
 que se sigue.
-Toma de azeyte de axenxos dos onc'as:}
+Toma de azeyte de axenxos dos onças:}
 {CW. de}
 [fol. 98r]
 {HD. de Experimentos. \ 90}
 {CB1.
-de c'umo de axenxos seys onc'as: de pol-
+de çumo de axenxos seys onças: de pol-
 uos de cominos, de diptamo: y de aziuar,
-cada dos onc'as: de cera, lo que fuere me-
+cada dos onças: de cera, lo que fuere me-
 nester: haz de todo emplastro, siquiera vn-
 guento, del qual pondras sobre las vl-
 ceras verminosas.
-{RUB. % Capit<ulo> .56. De experimentos con-
+{RUB. ¶ Capit<ulo> .56. De experimentos con-
 tra quemaduras.}
-{IN4. {ILL.}} TOma rayzes de ac'ucena, assa-
+{IN4. {ILL.}} TOma rayzes de açucena, assa-
 das baxo la ceniza, y con azey-
 te rosado majalas, y pon las so-
 bre la parte quemada, agora sea
@@ -5187,17 +5187,17 @@ co, que son verdes, vna libra: de azeyte mu-
 chas vezes lauado con agua de flores de
 sahuco, dos libras: cozer lo has todo vn
 poco, despues cuelalo, y exprimelo muy
-bien. En este azeyte colado, echaras de c'u-
-mo de tiernos de sahuco, quatro onc'as: de
+bien. En este azeyte colado, echaras de çu-
+mo de tiernos de sahuco, quatro onças: de
 cera nueua olorosa, otras quatro: bueluelo
-al fuego, y cueza hasta que el c'umo se aya
+al fuego, y cueza hasta que el çumo se aya
 consumido: entonces sacalo del fuego, y
 menealo muy bien, con vna espatula, o co<n>
 vn palo de sahuco, quitada la primera cor-
 teza, antes que se acabe de helar, echar le
-has dentro de verniz liquida ((que se haze
+has dentro de verniz liquida ≺que se haze
 de goma de henebro, y de azeyte de simie<n>-
-te de lino)) dos onc'as: dos claras de hueuos
+te de lino≻ dos onças: dos claras de hueuos
 muy bien batidas, y mezclalo todo muy
 bien: y echalo en vn vaso vidriado, y cu-
 brelo muy bien. Con este vnguento se ha
@@ -5213,7 +5213,7 @@ effecto marauilloso. Traenlo muchos
 doctores, y se vsa mucho en esta tierra. Ha-
 zese de cal, en esta manera.
 Toma de cal viua, lauada diez vezes con
-agua de sahuco, tres onc'as: de tutia onc'a y
+agua de sahuco, tres onças: de tutia onça y
 media: claras de dos, o tres hueuos: de
 azeyte rosado, y de cera, lo que fuere ne-
 cessario, mezclalo, y haz vnguento.
@@ -5223,7 +5223,7 @@ duras.}
 con vnto de anade haz vnguento, co<n>
 el qual vntaras las vlceras de las quema-
 duras.
-{RUB. % Capit<ulo> .57. De experimentos co<n>tra
+{RUB. ¶ Capit<ulo> .57. De experimentos co<n>tra
 empeynes, o empedines.}
 {IN4. {ILL.}} QVema al fuego tronchos de co-
 les coloradas, y con el agua que
@@ -5247,14 +5247,14 @@ dines y barros del rostro. Los dos son de
 Mizaldo.
 {RUB. Otro.}
 {IN2.} ECharas hojas de romazas, majadas co<n>
-sal, y embueltas en vn lienc'o, a remo-
+sal, y embueltas en vn lienço, a remo-
 jo en vinagre fortissimo: despues vnta co<n>
 ellas los empedines. Es de Fumanello.
 {RUB. Otro.}
 {IN2.} VNtaras los empedines, con vnguen-
 to de plomo, que este muy bien he-
 cho. Es admirable remedio. Cierto que ha
-mas de veynte y ocho an~os que vso del,}
+mas de veynte y ocho años que vso del,}
 {CW. con}
 [fol. 100r]
 {HD. de Experimentos. \ 92}
@@ -5264,7 +5264,7 @@ tho Lusitano en sus Centurias.
 {RUB. Otro.}
 {IN2.} VNta los empedines, con azeyte de ros
 de bota, que llaman otros de tartal.
-Es de Fumanello, el qual dize, que el c'u-
+Es de Fumanello, el qual dize, que el çu-
 mo de la celidonia, puesto sobre los em-
 pedines, haze el mismo effecto: y lo mis-
 mo la leche de la yerua lechera, dicha ti-
@@ -5276,7 +5276,7 @@ vn poco de trigo, que este en vn plato de-
 cantado, y el azeyte que del trigo sale, lo
 recogen, y vntan con el los empedines.
 Es algo fuerte.
-{RUB. % Capit<ulo> .58. De experimentos con-
+{RUB. ¶ Capit<ulo> .58. De experimentos con-
 tra verrugas.}
 {IN2.} FRega las verrugas a menudo, con pies
 de gallinas assados sobre las ascuas.}
@@ -5295,7 +5295,7 @@ las cura. Es de Fumanello.
 {RUB. Otro.}
 {IN2.} REfrega muy bien las verrugas, con la
 verrucaria majada, y empapalas del
-c'umo, y se yran descaheciendo. Haganlo
+çumo, y se yran descaheciendo. Haganlo
 cada dia, hasta tanto que no aya verrugas:
 que breuemente se veran sin ellas. Es de
 Galeno, y de Mathiolo. Yo tengo dello
@@ -5303,7 +5303,7 @@ experiencia en mis propias manos, y en
 otras de personas, a quien se les aconseje,
 la verrucaria es la yerua, llamada de Dios-
 corides heliotropio mayor.
-{RUB. % Capit<ulo> .59. Que contiene varios
+{RUB. ¶ Capit<ulo> .59. Que contiene varios
 experimentos para diversas en-fermedades,}}
 {CW. fer}
 [fol. 101r]
@@ -5331,17 +5331,17 @@ cho, de aziuar hepatico, de simiente, y ho-
 jas de matricaria, de simiente de artemi-
 sa, de cada cosa destas vna dragma: de hi-
 gos, de passas, de pulpa de thamarindos, de
-almendras dulces, de pin~ones, cada vna}
+almendras dulces, de piñones, cada vna}
 {CW. on}
 [fol. 101v]
 {HD. Libro +}
 {CB1.
-onc'a: de miel escogida, seys onc'as: de ac'u-
-car, dos libras y siete onc'as: hecho poluo,
+onça: de miel escogida, seys onças: de açu-
+car, dos libras y siete onças: hecho poluo,
 lo que se pueda hazer, y majado, lo demas
 echalo en vn vaso de vidrio, o vidriado, y
 sobre ello echaras siete libras, y siet(a)[e] on-
-c'as de agua ardiente finissima, que sea sa-
+ças de agua ardiente finissima, que sea sa-
 cada de vino potentissimo: cubrelo muy
 bien, y dexalo doze horas. Despues disti-
 lalo con fuego blando, y la primera agua
@@ -5384,17 +5384,17 @@ curan muy bien, los que tienen pasmo.
 La tercera agua, que dicho auemos, es de
 color de sangre, es preciosissima, de la
 qual el que beuiere quinze dias arreo dos
-escrupulos cada man~ana, curara de lepra
+escrupulos cada mañana, curara de lepra
 de perlesia, de hidropesia, de arthetica, de
 podagra, y de otras enfermedades a estas
 semeja<n>tes. Allende desto el que co<n>tinuare
-por vn an~o, tomar dos vezes en la semana
+por vn año, tomar dos vezes en la semana
 media dragma cada vez della con media}
-{CW. onc'a}
+{CW. onça}
 [fol. 102v]
 {HD. Libro +}
 {CB1.
-onc'a de agua de borrajas, retardara la ve-
+onça de agua de borrajas, retardara la ve-
 jez. En co<n>clusion, si vno que estuuiere pa-
 ra morir, beuiere vn poco della, no acaba-
 ra tan presto.
@@ -5406,16 +5406,16 @@ echalo dentro de vna olla con ta<n>tas
 flores, y simiente de hypericon, quanto
 pudiere coger, y empaparse co<n> el azeyte,
 dexalo assi, hasta que el azeyte se buelua
-colorado, despues an~ade sobre ello de tre-
-mentina, quatro onc'as, de nuezes de espe-
-cias, de ac'afran, y de benjui, cada quatro
+colorado, despues añade sobre ello de tre-
+mentina, quatro onças, de nuezes de espe-
+cias, de açafran, y de benjui, cada quatro
 dragmas, de derritido de puerco, ocho on-
-c'as, de millefolio, de rosas coloradas, y de
-consuelda mayor, cada seys onc'as, de vino
-el mejor que se hallare, ocho onc'as, todo
+ças, de millefolio, de rosas coloradas, y de
+consuelda mayor, cada seys onças, de vino
+el mejor que se hallare, ocho onças, todo
 mezclado, pongase vn mes al sol. Passado
 aquel, eche<n>lo en vn vaso de vidrio, y hier-
-ua en ban~o, hasta que el vino se aya con-
+ua en baño, hasta que el vino se aya con-
 sumido, y secado las yeruas. Lo qual hecho}
 {CW. lo}
 [fol. 103r]
@@ -5424,12 +5424,12 @@ sumido, y secado las yeruas. Lo qual hecho}
 lo sacaran del fuego, y colaran, y dexaran
 dentro de vna ampolla muy bie<n> atapada,
 y lo guardara<n>. Es admirable para heridas,
-poniendo sobre ellas, vnos pan~os moja-
-dos de lienc'o de delgado, y que este calie<n>te
+poniendo sobre ellas, vnos paños moja-
+dos de lienço de delgado, y que este calie<n>te
 el azeyte. Es marauilloso contra veneno,
 tauardillo, y modorra adormida, vngie<n>do
 al enfermo con el. De Fallopio.
-{RUB. Del azeyte de c'ufre, de sus virtu-
+{RUB. Del azeyte de çufre, de sus virtu-
 des, y effectos, y de como se ha de
 hazer.}
 {IN2.} TOma pedacillos de alcreuite viuo, y
@@ -5453,7 +5453,7 @@ siempre dentro de la cobertera. Aduierte
 que no saldra azeyte, antes, que del humo
 se haga de<n>tro de la cobertera vna costre-
 za. Quando se vaya acabando el alcreuite,
-vayan an~adiendo, hasta que tengan, la ca<n>-
+vayan añadiendo, hasta que tengan, la ca<n>-
 tidad de azeyte, que quisieren. Este sera
 azeyte odorifero, pero azedo para el esto-
 mago. Podrase tomar por la boca con la-
@@ -5464,7 +5464,7 @@ dor, mueue vrina, enxuga todos los malos
 humores del estomago, sana, y cura todas
 las calenturas, que vienen con accidente
 de frio, como son tercianas, quartanas, y
-quotidianas, deshaze la piedra en los rin~o-
+quotidianas, deshaze la piedra en los riño-
 nes, qualquiera llaga vlcerada, mojada, y
 vntada con el, sana con presteza y segu-
 ridad.
@@ -5479,14 +5479,14 @@ delineada.}
 {CB1.
 Dentro desta olla, al suelo della, han de
 poner vna plancha de hierro, encendida,
-y sobre echaran el alcreuite, digo el c'ufre.
+y sobre echaran el alcreuite, digo el çufre.
 La olla sea de tierra, y la cobertera.
 {=DIAG.}
 Nadie se espante, de que este azeyte ten-
 ga tanta efficacia, que si leyere a Galeno
 en el libro .9. {LAT. de simp<licium> med<icamentorum> [temperamentis et] facul<tatibus>} vera que
 del mismo alcreuite lo dize, y si bien se
-mira, casi de lo que alli ensen~a, es sacado}
+mira, casi de lo que alli enseña, es sacado}
 {CW. todo}
 [fol. 104v]
 {HD. Libro +}
@@ -5497,7 +5497,7 @@ el doctor Albertino Botonno cathedra-
 tico de medicina doctissimo en la insigne
 Vniuersidad Patauina, dize en el capit<ulo> .55.
 del libro, {LAT. de morbis muliebribus,} el azeyte
-de c'ufre, es vno de los mas efficaces reme-
+de çufre, es vno de los mas efficaces reme-
 dios, para consolidar qualquier vlcera, ora
 sea interior, ora exterior, y tengo dello
 muy larga experiencia, y esta muy proua-
@@ -5506,14 +5506,14 @@ tomar, dize que a vna libra de agua de lla<n>-
 ten, o de consuelda, eche<n> dos dragmas del
 dicho azeyte, y lo mezclen. Daran dello
 assi mezclado al enfermo, dos, o tres on-
-c'as, para las vlceras interiores, y para las
+ças, para las vlceras interiores, y para las
 exteriores, vntarles co<n> lo mismo, y hazer
 con ello, clysteres, y pessarios, y calas.
 {RUB. Para conocer si vna parte esta
 esphacelada, y muerta.}
 {IN2.} CVenta Mizaldo, que tiene entendido
-por relacion de vn cirujano espan~ol,
-que las rabac'as verdes, de los puerros, ma-
+por relacion de vn cirujano español,
+que las rabaças verdes, de los puerros, ma-
 jadas, y puestas sobre la parte affecta, por}
 {CW. espacio}
 [fol. 105r]
@@ -5521,24 +5521,24 @@ jadas, y puestas sobre la parte affecta, por}
 {CB1.
 espacio de vna noche, descubriran si esta
 esphacelada, o no. Porque si lo esta, quan-
-do quitaran las rabac'as, quedara negra y
+do quitaran las rabaças, quedara negra y
 moretada, y aura necessidad de cortar
 luego: si empero aura perdido el moreta-
-do y negro, es sen~al que aun no esta espha-
+do y negro, es señal que aun no esta espha-
 celada.
-{RUB. Para que no mal paran las pren~a-
+{RUB. Para que no mal paran las preña-
 das.}
 {IN2.} TOma poluos de rayzes de tormen-
 tilla, y de bistorta, y dar los has a be-
-uer a la pren~ada: y haras que le vnten los
-rin~ones con vnguento, que sea hecho de
+uer a la preñada: y haras que le vnten los
+riñones con vnguento, que sea hecho de
 los mismos poluos, y vinagre: vntar le ha<n>
 tambien la barriga. Auctor Mathiolo.
 {RUB. Agua que hermosea el rostro.}
 {IN2.} DIstilaras por alquitara de vidrio en
-ban~o las rayzes del poligonato, y co<n>
+baño las rayzes del poligonato, y co<n>
 la agua dellas lauate el rostro. Quita esta
-agua las manchas, pan~os, y lunares del ro-
+agua las manchas, paños, y lunares del ro-
 stro. Autores Galeno, y Mathiolo.
 {RUB. Agua para el rostro, odorifera, y +}}
 {CW. excel}
@@ -5550,11 +5550,11 @@ mosissimo, y resplandeciente.}
 {IN2.} TOma de claras de hueuos, cozidos
 duros en agua, dos libras: de tremen-
 tina media libra: de miel de romero esco-
-gida, ocho onc'as: de estoraques liquidos,
-vna onc'a: de benjui, dos onc'as: de agua ro-
-sada, diez onc'as: echenlo todo en alquita-
+gida, ocho onças: de estoraques liquidos,
+vna onça: de benjui, dos onças: de agua ro-
+sada, diez onças: echenlo todo en alquita-
 ra de vidrio bien atapada, con su capello,
-y recipiente, distile en ban~o: tenganle assi
+y recipiente, distile en baño: tenganle assi
 entretanto que saliere humedad. En el
 agua que aura salido, echaras de almizque
 tres granos por cada libra del agua que
@@ -5563,10 +5563,10 @@ con ella: y despues ponla al sol diez dias.
 Bien es harto facil de hazer. Traela Fallo-
 pio, y dize, que la vsaua, y se seruia della la
 condesa de Mirandola, y la embiaua a mu-
-chissimas princesas, y sen~oras illustres.
+chissimas princesas, y señoras illustres.
 De la misma agua, se seruia y vsaua la
 muger del muy illustre don Fernando de
-Gonc'aga, y su hermana la illustriss[i]ma Du-
+Gonçaga, y su hermana la illustriss[i]ma Du-
 quesa de Termine, y la Marquesa de Mas-sa,}
 {CW. sa}
 [fol. 106r]
@@ -5579,11 +5579,11 @@ tud.}
 {IN2.} TOma de derritido de puerco, que no
 sea rancio, ni salado, quatro libras,
 derritelo en vna olla, despues cuelalo co<n>
-vn lienc'o de lino que sea muy delgado, y
+vn lienço de lino que sea muy delgado, y
 blanco, sobre vn cuenco de agua rosada al-
-mizcada ((de tal manera que se pueda lauar
-muy bien)) y echa con ello, por cada li-
-bra de derritido de puerco, vna onc'a de
+mizcada ≺de tal manera que se pueda lauar
+muy bien≻ y echa con ello, por cada li-
+bra de derritido de puerco, vna onça de
 azeyte de clauos de gilofe: lauarlo has to-
 do muy bien en aquella agua rosada, hasta
 que quede blanco como la leche. Despues
@@ -5592,7 +5592,7 @@ cha la pomada. Es tan excellente, que no
 se puede hazer mejor. Vngiendo con ella
 el rostro, lo defiende del sol, del viento, y
 tambien del frio: de manera, que destas co-
-sas, ninguna le puede dan~ar, ni empecer.
+sas, ninguna le puede dañar, ni empecer.
 Desarruga la cara, haze hazer las manos
 lisas, y muy blancas. Echando en ella vn
 poco de lithargirio de oro, cura muy bie<n>}
@@ -5603,12 +5603,12 @@ poco de lithargirio de oro, cura muy bie<n>}
 la sarna, y lo sarpullido que causa el calor,
 como por larga experiencia Fallopio lo affirma.
 {RUB. Agua odorifera, para qualquiera
-principe, y gran sen~or.}
+principe, y gran señor.}
 {IN2.} DE agua rosada finissima, toma ocho
 libras: de agua de pozo, doze libras:
 de almizque vna dragma: de benjui vna
-onc'a: saquese de todo agua por alquitara
-de vidrio en ban~o, hasta q<ue> no salga agua.
+onça: saquese de todo agua por alquitara
+de vidrio en baño, hasta q<ue> no salga agua.
 El agua que vuiere salido, pongan la lue-
 go en vn vaso de vidrio que este muy bie<n>
 atapado, y poner lo han al sol por quin-
@@ -5620,7 +5620,7 @@ ra, echalo en vna ampolla de vidrio, con
 veynte y quatro libras de agua, y cubrela
 muy bien, y este tambie<n> al sol otros quin-
 ze dias. Esta agua sera admirable para la-
-uarse las manos, con solo echar vna onc'a
+uarse las manos, con solo echar vna onça
 della en el agua que traen para lauar.}
 {CW. Para}
 [fol. 107r]
@@ -5631,16 +5631,16 @@ della en el agua que traen para lauar.}
 gas, y con miel, traelas a modo de vn-
 guento, y vnge con ello los labios. Otros
 remedios hallaras, en la Methoda curato-
-ria de las enfermedades de los nin~os.
+ria de las enfermedades de los niños.
 {RUB. Otro.}
 {IN2.} TOma de litargirio de plata, de myr-
 rha, y de gingibre, de cada vno vna
-onc'a: hecho todo poluo subtil, con ygua-
+onça: hecho todo poluo subtil, con ygua-
 les partes de cera nueua, miel, y azeyte,
 traelo a manera de vnguento, y guardalo.
 Quando quisieres vsar del, mojaras pri-
 mero las grietas muy bien con saliua: po<n>-
-dras sobre ellas despues vn lienc'o muy
+dras sobre ellas despues vn lienço muy
 delgado, lleno del vnguento, de manera,
 que assi a dentro, como a fuera, toque las
 grietas, de qualquiera parte, aunque sean
@@ -5656,29 +5656,29 @@ politanas.}
 {IN2.} TOma de agua ardiente diez libras: de
 molledo de pan blanquissimo vna li-
 bra: de goma de ciruelo hecha poluo, seys
-onc'as: de lithargirio de plata, quatro on-
-c'as: de almendras dulces majadas, ocho
-onc'as: echar lo has todo dentro de vna
+onças: de lithargirio de plata, quatro on-
+ças: de almendras dulces majadas, ocho
+onças: echar lo has todo dentro de vna
 alquitara de vidrio, dexalo assi en infu-
 sion ocho dias, despues saquese agua por
-ban~o, hasta que toda la substancia aya sali-
+baño, hasta que toda la substancia aya sali-
 do. Con esta agua se podra<n> lauar el rostro,
 y no se lo enxuguen. Es admirable agua,
 porque haze el rostro admirablemente
 blanco, y muy resplandeciente: prohibe el
-catharro y fluxion de la cabec'a: conforta
+catharro y fluxion de la cabeça: conforta
 el estomago, y alarga la vista. Es de Leonar-
 do Fiorauanto.
 {RUB. Agua para apretar las enzias re-
 laxadas, y los dientes.}
 {IN2.} TOma de balaustias, de agallas verdes,
 y de rosas coloradas secas, cada vn pu-
-n~o: de yerua lechetrezna, vn manogito:}
+ño: de yerua lechetrezna, vn manogito:}
 {CW. de}
 [fol. 108r]
 {HD. de Experimentos. \ 100}
 {CB1.
-de alumbre, onc'a y media, cueza todo en
+de alumbre, onça y media, cueza todo en
 cantidad sufficiente de vinagre, y vino au-
 stero, hasta tanto que de tres partes se co<n>-
 suman las dos. Con este cozimiento te la-
@@ -5691,25 +5691,25 @@ pitulo veynte y cinco del libro sexto.
 simo de Cesar Augusto, daua a los en-
 fermos a comer biuoras, con successo feli-
 cissimo. Autor Marco Antonio Monta-
-n~ana, en el capitulo decimo, de la cura ver-
+ñana, en el capitulo decimo, de la cura ver-
 dadera del cancer.
 {RUB. El modo como se han de preparar
 las biuoras para comer.}
 {IN2.} PRimero, con vn mimbre dalles algu-
-nos verdugac'os, despues quitenles
-las cabec'as, y colas, quatro dedos buenos
+nos verdugaços, despues quitenles
+las cabeças, y colas, quatro dedos buenos
 de cada parte, y quitenles el cuero, o ho-
 llejo, y assi dessolladas lauenlas con agua}
 {CW. sala}
 [fol. 108v]
 {HD. Libro +}
 {CB1.
-salada, y quitenles la barriga, y entran~as, y
+salada, y quitenles la barriga, y entrañas, y
 despues de bien lauadas, con agua salada,
 lauenlas con muy buen vino oloroso, y
-an~ejo, despues tomen vn manogito de
+añejo, despues tomen vn manogito de
 puerros cortados menudos, y de aneldo,
-vna dragma, de azeyte, dos onc'as, y de sal,
+vna dragma, de azeyte, dos onças, y de sal,
 lo que fuere necessario para gusto, y sobre
 ello, echaras la agua que fuere necessaria
 para cozerse, hasta que se desapeguen de
@@ -5738,10 +5738,10 @@ capit<ulo> .22. del lib<ro> .13. de su natural historia.
 Aduierto empero, que luego en ponelle,
 se entumecera el rostro, pero luego se bol-
 uera en su figura natural. El mesmo effecto
-haze el c'umo de las hojas de la tapsia, y es
+haze el çumo de las hojas de la tapsia, y es
 verissimo, y consta de larga experiencia,
 traelo Plinio, en el lib<ro> .13. cap<itulo> .22.
-{RUB. El modo de sacar el c'umo de la gen-
+{RUB. El modo de sacar el çumo de la gen-
 ciana, es el que se sigue.}
 {IN2.} DE las rayzes de la genciana tomaras,
 y bien majadas, y chafadas echalas a
@@ -5750,7 +5750,7 @@ y despues poner lo has todo a cozer, hasta
 tanto que las rayzes naden sobre el agua.
 Hecho que sea este cozimiento, sacar lo
 has del fuego, y dexalo enfriar, ya que este
-frio, cuela aquella agua con vn lienc'o del-
+frio, cuela aquella agua con vn lienço del-
 gado, y exprimele muy bien, y boluer la
 has al fuego, y cueza hasta tanto que ve<n>-
 ga a quedar como miel: y hecha que sea,
@@ -5769,5 +5769,5 @@ uallos, secados en el horno, vna drag-
 ma, y con agua de culantrillo de pozo, o
 de artemisa, dalo a beuer a la muger, es ad-
 mirable. Autor Horacio Eugenio.
-{RUB. % LAVS DEO.}
+{RUB. ¶ LAVS DEO.}
 {ILL.}}

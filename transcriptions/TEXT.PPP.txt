@@ -8,12 +8,12 @@
 {CB1.
 {RMK: HSMS-0514-0001: Pragmática del precio del pan.} {RUB. La declaracion dela prematica.}
 {MIN: PLVS VLTRA.}
-{RUB. % Declaracion dela prematica que su
+{RUB. ¶ Declaracion dela prematica que su
 Magestad[ ]mando hazer del precio
 a que se[ ]ha de vender en estos
 Reynos el pan.}
-% Impressa con priuilegio.
-% Esta tassada por los Sen~ores del su muy alto consejo en cinco marauedis cada pli[e]go.
+¶ Impressa con priuilegio.
+¶ Esta tassada por los Señores del su muy alto consejo en cinco marauedis cada pli[e]go.
 En valladolid por Francisco fernandez de cordoua su impresor.}
 [fol. 1v]
 [fol. 2r]
@@ -22,13 +22,13 @@ En valladolid por Francisco fernandez de cordoua su impresor.}
 {ILL.
 {MIN: PLVS VLTRA.}}
 {RUB. La pregmatica que su Magestad ma<n>-
-do hazer este presente an~o d<e> Mil y[ ]qui-
+do hazer este presente año d<e> Mil y[ ]qui-
 nientos y cinque<n>ta y ocho, Sobre los
 precios aq<ue> se a de vender en estos Rey-
 nos el pan Trigo Ceuada Centeno
 Auena y Panizo.}
-% Impresa con priuilegio.
-% Esta tassada por los Sen~ores del su muy alto consejo a[ ]cinco marauedis cada pliego.
+¶ Impresa con priuilegio.
+¶ Esta tassada por los Señores del su muy alto consejo a[ ]cinco marauedis cada pliego.
 En valladolid por Francisco fernandez de Cordoua su impressor.}
 [fol. 2v]
 [fol. 3r]
@@ -39,19 +39,19 @@ on, de Arago<n>, de Jnglaterra,
 de Francia, delas dos Sicilias de Je-
 rusalem, de Nauarra, de Granada, de
 Toledo, de Uale<n>cia, d<e> Galizia, de Ma-
-llorca, d<e> Seuilla, d<e> Cerden~a, de Cordo-
+llorca, d<e> Seuilla, d<e> Cerdeña, de Cordo-
 ua, de Corcega, d<e> Murcia, d<e> Jae<n>, delo<<s>>
 Algarbes de Algezira, de Gibraltar,
 delas islas de Canaria, delas Jndias
 islas y tierra firme, del mar Oceano,
 Co<n>de de Flandes, y de Tirol. &c<etera>.
-% A los del nuestro co<n>sejo, Preside<n>te &
+¶ A los del nuestro co<n>sejo, Preside<n>te &
 Oydores delas nuestras audiencias,
 alcaldes, alguaziles dela nuestra casa, y corte, y chancillerias, y a
 todos los concejos, corregidores, assistente gouernadores, alcal-
 des y otros juezes & justicias qualesquier de todas las ciudades vi-
-llas y lugares de los n<uest>ros reynos y sen~orios, y a cada vno y qual-
-quier de vos, en vuestros lugares & jurisdiciones. % Saluo y gra-
+llas y lugares de los n<uest>ros reynos y señorios, y a cada vno y qual-
+quier de vos, en vuestros lugares & jurisdiciones. ¶ Saluo y gra-
 cia, ya sabeys la prematica que mandamos hazer y publicar cer-
 ca[ ]de el precio y tassa, a que el Trigo, Ceuada, Centeno y Auena,
 se auia de vender en estos reynos. La qual mandamos se guar-
@@ -91,8 +91,8 @@ manera que los que truxeren el dicho pan, sean bie<n> tratados, y des-
 pachados como conuenga, y los vnos ni los otros no fagades. ni
 fagan enque al, so pena dela nuestra merced, y de diez mill maraue-
 dis para n<uest>ra camara. Dada en la villa de Ualladolid, a .xvj. dias
-del mes de Abril. An~o del nascimiento de nuestro saluador jesu
-christo. de M. y D. y L. y ocho an~os. El Licenciado Uaca de
+del mes de Abril. Año del nascimiento de nuestro saluador jesu
+christo. de M. y D. y L. y ocho años. El Licenciado Uaca de
 Castro. El Licenciado Montaluo. El Doctor Anaya. El licen-
 ciado Arrieta. El Doctor Uelasco. El doctor Cano.
 Yo Francisco del Castillo, escriuano de camara de su M<agestad>. Real la

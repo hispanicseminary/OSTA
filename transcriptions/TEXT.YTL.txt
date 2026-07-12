@@ -15,13 +15,13 @@ guas.:.}
 {MIN.}}
 [fol. 1v]
 {CB1.
-% Triu<m>phos de locura muy apla-
+¶ Triu<m>phos de locura muy apla-
 zibles: y no menos prouechosos: para quien bien los
 gustare. Nueuame<n>te compuestos por Hernan lopez
 de yanguas. Sobre vn dicho del sabio que dice. {LAT. Stul-
 torum infinitus est numerus.} La intencio<n> del auctor
 es: mostrar que cosa es locura: y que cosa es pruden-
-cia: y que nos ensen~a la vna: y que nos ensen~a la otra:
+cia: y que nos enseña la vna: y que nos enseña la otra:
 y quales sigue<n> ala vna: y quales imitan ala otra. Van
 las coplas con doze pies cada vna. Y para ser muy
 bien leydas: los cinco primeros se an de leer a vna par-
@@ -30,7 +30,7 @@ uados. Los quales triumphos imbio a vnas herma-
 nas suyas: para q<ue> en ratos ociosos le leyessen y passas-
 sen tiempo con estas dos primeras coplas.}
 {CB2.
-% Porq<ue> se amadas hermanas
+¶ Porq<ue> se amadas hermanas
 que de contino os preciays
 como perfectas christianas
 de tener en que leays
@@ -43,7 +43,7 @@ os sepays della guardar
 y pensar enlo que dura
 y jamas a de durar.}
 {CB2.
-% Y porque soy todo vuestro
+¶ Y porque soy todo vuestro
 mas por entero que escriuo
 enesto que aqui demuestro
 hermanas os apercibo
@@ -56,7 +56,7 @@ y por no me entremeter
 en vanas ocupaciones
 plugo me enesto entender.}
 {CB1.
-{RUB. % Comienc'a la obra.}}
+{RUB. ¶ Comiença la obra.}}
 [fol. 2r]
 {CB2.
 {IN2.} PEnsando como es razon
@@ -71,20 +71,20 @@ vi que por tema dezia
 vanidades y a de ser
 quanto enel mundo se cria
 saluo a solo dios temer.
-{RUB. % Prosigue.}
-% Note con seso profundo
+{RUB. ¶ Prosigue.}
+¶ Note con seso profundo
 qu[e ]era thema de discreto
 y muy mas sabio que fundo
 a causa del qual respecto
 yo pense dexar el mundo.
 Y partiendo avn monesterio
 a reboluer el salterio
-encontre vna compan~ia
-sen~ora deste hemisperio
+encontre vna compañia
+señora deste hemisperio
 que derecha a mi venia
 con muestras de refrigerio.
-{RUB. % Prosigue.}
-% Vi que eran todas mugeres
+{RUB. ¶ Prosigue.}
+¶ Vi que eran todas mugeres
 y ningun hombre con ellas
 tomando muchos plazeres
 y puesto qu[e ]eran donzellas
@@ -97,8 +97,8 @@ otras dauan tres mil bueltas
 con sus adufres tocando
 a vezes todas rebueltas
 los ojos mal sosegando.
-{RUB. % Prosigue.}
-% La que traye la vandera
+{RUB. ¶ Prosigue.}
+¶ La que traye la vandera
 dexose llegar a mi
 muy alegre y plazentera
 mas que nunca muger vi
@@ -109,20 +109,20 @@ mira si me pides mas
 ella dixo como vas
 maginativo y pensando
 tente vn poco buelue atras
-quic'a seras de mi vando.
-% Respondi no me detengas
-sen~ora por cortesia
+quiça seras de mi vando.
+¶ Respondi no me detengas
+señora por cortesia
 con tus preguntas y arengas
 porque voy lexos la via
 y las jornadas son luengas.
 Esso que pides de mi
-sen~ora no es para ti
+señora no es para ti
 qu[e ]es cosa que pide espacio
 dixo pues que vas tan lacio
 descansa vn poquito aqui
 por parescer del palacio
 soy contento respondi.
-% Y notada su figura
+¶ Y notada su figura
 yo le demande su nombre
 dixo con desemboltura}
 [fol. 2v]
@@ -136,21 +136,21 @@ porque nunca sosegaua
 ni mostraua grauedad
 enlas cosas que parlaua
 sino mucha variedad.
-{RUB. % Prosigue.}
-% De preguntas en pregu<n>tas
+{RUB. ¶ Prosigue.}
+¶ De preguntas en pregu<n>tas
 que de aca y de alla passaron
 todas se llegaron juntas
 y enel medio me tomaron
 con sus artes y repuntas.
-Quien son dix(o)[e] estas sen~oras
+Quien son dix(o)[e] estas señoras
 dixo son mis seruidoras
 lisonja y delectacion
 y nobleza y presuncion
 que me siruen todas oras
 conforme ami condicion
 sin cansarse como moras.
-{RUB. % Prosigue locura.}
-% Esta llaman vanidad
+{RUB. ¶ Prosigue locura.}
+¶ Esta llaman vanidad
 aquestotra fantasia
 aquellotra liuiandad
 esta ciega es ceguedad
@@ -163,8 +163,8 @@ y su condicion y trato}
 {CB2.
 y siempre busca aquel vicio
 que le parece mas grato.
-{RUB. % El auctor}
-% Ansi como descubrio
+{RUB. ¶ El auctor}
+¶ Ansi como descubrio
 su nombre y el nombre dellas
 enel alma me peso
 por ver me metido entrellas
@@ -176,21 +176,21 @@ y de mi se engarrafaron
 y me touieron tan firme
 que mudar no me dexaron
 ni fue en mi mano partirme.
-{RUB. % Prosigue.}
-% En fin por fuerc'a o por grado
+{RUB. ¶ Prosigue.}
+¶ En fin por fuerça o por grado
 oue alli de reposar
 en vn muy florido prado
 dispuesto para holgar
 de sombra y fuentes poblado.
 Desque me vio con sosiego
-comenc'o locura luego
+començo locura luego
 a dezir huelga y no penes
 que si gustas de mis bienes
 loar m[ ]as porque te allego
 segun la congoxa tienes
 a mis plazeres y juego.
-{RUB. % El auctor.}
-% Dixe si me das licencia
+{RUB. ¶ El auctor.}
+¶ Dixe si me das licencia
 bien basta lo que holgado
 q<ue> voy buscando a prudencia
 que tiene mayor estado
@@ -204,8 +204,8 @@ y si ves que desuario
 no soy mucho de culpar
 pero sin duda confio
 que nada puedas tachar.
-{RUB. % El auctor.}
-% Respondi si tu tal prueuas
+{RUB. ¶ El auctor.}
+¶ Respondi si tu tal prueuas
 tenert[e ]e por docta y sabia
 replico si lo reprueuas
 ternas tan sotil la [la]via
@@ -216,9 +216,9 @@ que avn que estaua de camino
 yo locura determino
 descuchar tu probacion
 ala sombra deste pino
-tu comienc'a tu sermon.
-{RUB. % Locura i<n>uoca las musas.}
-% Pues porq<ue> en falta no caya<n>
+tu comiença tu sermon.
+{RUB. ¶ Locura i<n>uoca las musas.}
+¶ Pues porq<ue> en falta no caya<n>
 mis razones de confusas
 y porque algun fauor trayan
 inuoco las nueue musas
@@ -229,10 +229,10 @@ avn que loca parescia
 y con mucha fantasia
 que en su nascencia cobro
 entre su capitania
-sus triumphos comenc'o.
-{RUB. Jatasse d<e> deessa: y comenc'a.}}
+sus triumphos començo.
+{RUB. Jatasse d<e> deessa: y comença.}}
 {CB2.
-% Si alos quel vino y el pan
+¶ Si alos quel vino y el pan
 con sus industrias hallaron
 por dioses honra les dan
 y templos les dedicaron
@@ -244,9 +244,9 @@ y por tal siempre acatada
 reuerenciada y seruida
 que avn que me te<n>ga por nada
 yo soy principio de vida.
-{RUB. % El auctor.}
-% Yo dixe declare me esso
-que no alcanc'a mi saber
+{RUB. ¶ El auctor.}
+¶ Yo dixe declare me esso
+que no alcança mi saber
 respuso en breue processo
 te lo dare yo a entender
 si notas lo que confiesso.
@@ -256,8 +256,8 @@ qu[e ]es vna criada mia
 dela muger el varon
 ningun cuydado ternia
 y no auria generacion.
-{RUB. % Co<n>cluye su prueua.}
-% Luego mas que claro esta
+{RUB. ¶ Co<n>cluye su prueua.}
+¶ Luego mas que claro esta
 que por yo me entrexerir
 nadie me contradira
 quel principio del viuir
@@ -269,24 +269,24 @@ milita so mi vandera}
 {SG. a iij}
 [fol. 3v]
 {CB2.
-y entre las vn~as la lleuo
+y entre las vñas la lleuo
 ora quiera ora no quiera
-ala prouanc'a me atreuo.
-{RUB. % Triu<m>pho de infancia.}
-% Los pequen~itos infantes
+ala prouança me atreuo.
+{RUB. ¶ Triu<m>pho de infancia.}
+¶ Los pequeñitos infantes
 en nasciendo hago aplazie<n>tes
 con sus bo($n)[n]itos semblantes
 y con dichos balbucientes
 y con hechos ygnorantes.
 Mando los luego besar
-y con amor abrac'ar
+y con amor abraçar
 avn que lloren de despecho
 pues quien juzga con derecho
 no me podra reprouar
 que no es locura tal hecho
 que passa con su criar.
-{RUB. % Triu<m>($p)[p]ho de adolesce<n>cia.}
-% Pues sin duda adolesce<n>cia
+{RUB. ¶ Triu<m>($p)[p]ho de adolesce<n>cia.}
+¶ Pues sin duda adolesce<n>cia
 edad a todos graciosa
 muy agena es de prudencia
 pues que no huelga con cosa
@@ -298,9 +298,9 @@ y el plazer y avn el vigor
 pues juzga si es bien discreta
 persona que en tal error
 por huyr de mi se meta.
-{RUB. % Triu<m>pho de viejos.}}
+{RUB. ¶ Triu<m>pho de viejos.}}
 {CB2.
-% Quanto mas de mi se alexa<n>
+¶ Quanto mas de mi se alexa<n>
 las gentes muy menos biuen
 y los que nunca me dexan
 siempre descanso resciben
@@ -312,7 +312,7 @@ y quanto son mas anejos
 mas sin vigor y virtud
 tanto siguen mis consejos
 que valan mas que salud.
-% Con mi fauor animados
+¶ Con mi fauor animados
 oluidan el conoscerse
 precian se de enamorados
 muchos dellos y traerse
@@ -324,12 +324,12 @@ ni miran inconuenientes
 ni gota de pies y manos
 ni los dichos delas gentes
 que los tienen por liuianos.
-% Algunos por remo(c)[c']arse
+¶ Algunos por remo(c)[ç]arse
 con lo que yo les adiestro
 no paran hasta casarse
 porque no falte cabestro
 con que puedan bien atarse.
-Torno los a nin~os ser
+Torno los a niños ser
 enel estado y saber
 chupo me les los sentidos}
 [fol. 4r]
@@ -338,20 +338,20 @@ hasta que de enloquecidos
 se mueren a su plazer
 arrugados carcomidos
 sin sentir el padescer.
-{RUB. % Co<n>cluye en razo<n> dela vida.}
-% Delo qual queda prouado
+{RUB. ¶ Co<n>cluye en razo<n> dela vida.}
+¶ Delo qual queda prouado
 por razones conoscidas
 lo que dicho as mirado
 que con mi gastan sus vidas
 las gentes de grado en grado.
 Respondi cierto locura
-tu prouanc'a es clara y pura
+tu prouança es clara y pura
 mas yo te ruego declares
 si sabes en que lugares
 haze vida la cordura
 pues por la tierra y las mares
 andas triumphando segura.
-% Respondio aquessa sen~ora
+¶ Respondio aquessa señora
 por quien hazes tal pregunta
 no se do viue ni mora
 porque deue ser defunta
@@ -363,11 +363,11 @@ todas las vezes que estriua
 en contra de mi celada
 mi gran poder la captiua
 de pies y manos atada.
-% Y con este temor mio
-ya que conosce mis man~as
+¶ Y con este temor mio
+ya que conosce mis mañas
 por no andar en desafio}
 {CB2.
-deue estar enlas montan~as
+deue estar enlas montañas
 muerta de hambre y de frio.
 Y tambien tengo recelo
 que deue estar enel cielo
@@ -376,9 +376,9 @@ porque tiene so su vanda
 muy pocos eneste suelo
 y en todo el mundo no manda
 ni comigo medra vn pelo.
-{RUB. % Prosigue las condi-
+{RUB. ¶ Prosigue las condi-
 ciones de prudencia.}
-% Mas tan poco es marauilla
+¶ Mas tan poco es marauilla
 para quien su ley bien sabe
 que tenga chica cadrilla
 porque en pura razon cabe
@@ -390,7 +390,7 @@ ni tomen vanos officios
 y que viuan donde quiera
 con honestos exercicios
 y freno enla parladera.
-% Manda mas q<ue> sie<m>pre velen
+¶ Manda mas q<ue> sie<m>pre velen
 no para tomar de( )p( )orte
 y que sus sentidos buelen
 sobre las cumbres del norte
@@ -405,7 +405,7 @@ las sigan con diligencia}
 {CB2.
 y los trabajos mayores
 los reciban en paciencia.
-% Dize que dexen los juegos
+¶ Dize que dexen los juegos
 y los pongan en oluido
 y que recelen los fuegos
 y las frechas de cupido
@@ -418,7 +418,7 @@ de quantas quieren hazer
 los que juegan a mi hito
 sino todo a su querer.
 {RUB. Prosigue alabando se.}
-% Y por ser anchas mis leyes
+¶ Y por ser anchas mis leyes
 sin tener regla ninguna
 tengo a mi ma<n>dar las greyes
 que estan debaxo la luna
@@ -430,8 +430,8 @@ ni piense que menos valga
 dios es desto buen testigo
 y el que en mi carra caualga
 de todo el mundo es amigo.
-{RUB. % Triumpho de mundanos.}
-% Hago locos de tal suerte
+{RUB. ¶ Triumpho de mundanos.}
+¶ Hago locos de tal suerte
 tan desuariados y t(a)[o]ntos
 que jamas pie<n>san q<ue> ay muerte}
 {CB2.
@@ -444,11 +444,11 @@ ni visiones ni fa[n]tasma
 en mis effetas perduran
 ningun espanto los pasma
 a mil trances se auenturan.
-{RUB. % Triumpho de desseos.}
-% A muchos saco de quicios
+{RUB. ¶ Triumpho de desseos.}
+¶ A muchos saco de quicios
 reboluiendo sus desseos
 querrian cambiar sus officios
-quic'a por otros mas feos
+quiça por otros mas feos
 por viuir mas a sus vicios.
 Quiere el suelto ser casado
 el casado ser letrado
@@ -457,9 +457,9 @@ el labrador ser pastor
 el pastor ser vn soldado
 el soldado mercador
 el mercader ser perlado.
-{RUB. % Triumpho de sentidos
+{RUB. ¶ Triumpho de sentidos
 y primero del gusto.}
-% Mira si en cargo me son
+¶ Mira si en cargo me son
 los que tengo conuertidos
 que conforme a mi intencion
 les trastoco los sentidos
@@ -473,9 +473,9 @@ causo les mas quando quiero
 quel vacon viejo y robusto
 sepa a capon o carnero
 y a[ ]netar el agro musto.
-{RUB. % Triumpho del veer.}
-% Alguno tiene muger
-tan desalin~ada y fea
+{RUB. ¶ Triumpho del veer.}
+¶ Alguno tiene muger
+tan desaliñada y fea
 que nadie la quere veer
 ni para si la dessea
 por su torpe parescer.
@@ -486,22 +486,22 @@ que por muy cierto no crea
 que tiene ala reyna dido
 o ala gentil melibea
 y que su par no a nascido.
-{RUB. % Prosigue.}
-% Y si el cuytado alcanc'asse
+{RUB. ¶ Prosigue.}
+¶ Y si el cuytado alcançasse
 en que mar de sirtes entra
 antes que con mi topasse
 claro esta que se ahorcasse
 viendo que tan mal encue<n>tra.
 Y si la muger supiesse
 el parto sin que pariesse
-y el criar nin~os y nin~as
-y las quistiones y rin~as
+y el criar niños y niñas
+y las quistiones y riñas
 que passa sin interesse
-mas queria cauar las vin~as
+mas queria cauar las viñas
 si yo no la socorriesse.}
 {CB2.
-{RUB. % Triumpho del oyr}
-% Otros hago enel oyr
+{RUB. ¶ Triumpho del oyr}
+¶ Otros hago enel oyr
 de orejas tan rebatidas
 que puedo claro dezir
 que son conformes a midas
@@ -512,9 +512,9 @@ y campanas por cencerros
 y los ladridos de perros
 por canciones especiales
 y los gritos delos cer(r)[d]os
-por dulc'aynas celestiales.
-{RUB. % Triu<m>phos de oler y palpar.}
-% Algunos biuen con mi
+por dulçaynas celestiales.
+{RUB. ¶ Triu<m>phos de oler y palpar.}
+¶ Algunos biuen con mi
 que enel oler dan tal baque
 que perfumes de rabi
 los tienen por estoraque
@@ -526,8 +526,8 @@ que alo le(r)[n] llaman rugoso
 y la pluma del herizo
 tienen por pel de raposo
 y lo hueco por macizo.
-{RUB. % Triu<n>fos d<e> diuersas nacio<n>es.}
-% Busco qua<n>tas inuencio<n>es
+{RUB. ¶ Triu<n>fos d<e> diuersas nacio<n>es.}
+¶ Busco qua<n>tas inuencio<n>es
 pueden ami caso ser}
 {SG. a v}
 [fol. 5v]
@@ -535,15 +535,15 @@ pueden ami caso ser}
 ando por todas regiones
 prouocando a mi poder
 todas las generaciones.
-Hago que se precie espan~a
-de guerra cosa estran~a
+Hago que se precie españa
+de guerra cosa estraña
 y venecia de riqueza
 y escocia de sotileza
-y de musica bretan~a
+y de musica bretaña
 y germania de nobleza
-y francia de mucha man~a.
-{RUB. % Prosigue.}
-% Con la theologia sciencia
+y francia de mucha maña.
+{RUB. ¶ Prosigue.}
+¶ Con la theologia sciencia
 los de paris hago vfanos
 y las artes de eloquencia
 apropio alos ytalianos
@@ -555,8 +555,8 @@ y las trampas doy a roma
 a egipto la astrologia
 y a grecia que siempre coma
 gloria de philosofia.
-{RUB. % Triu<m>pho d<e> enamorados.}
-% Por otras formas si puedo
+{RUB. ¶ Triu<m>pho d<e> enamorados.}
+¶ Por otras formas si puedo
 que tengo de astuta y fal(f)[s]a
 otros mil cuentos enredo
 a que gusten de mi salsa
@@ -569,9 +569,9 @@ y tanto quanto aman mas}
 son los tristes desamados
 esto tu te lo sabras
 del tiempo de tus cuydados.
-{RUB. % Triu<m>phos de celosos.}
-% Otros hago muy celosos
-para su dan~o(so) auisados
+{RUB. ¶ Triu<m>phos de celosos.}
+¶ Otros hago muy celosos
+para su daño(so) auisados
 y los tales sospechosos
 muchas vezes son venados
 por mostrarse muy raposos.
@@ -582,25 +582,25 @@ ni por hermanos ni madres
 otros lloran por hijastra
 todos estos son confadres
 delos que mi carro a[r]rastra.
-{RUB. % Triu<m>phos de holgazanes.}
-% Otros son de otro cendal
+{RUB. ¶ Triu<m>phos de holgazanes.}
+¶ Otros son de otro cendal
 si[ ]quies que por ellos entre
 su poco o mucho caudal
 luego le emplean enel vientre
 como en boca de costal.
-Otros tambien en[ ]uelen~o
-que gasten la vida en suen~o
+Otros tambien en[ ]ueleño
+que gasten la vida en sueño
 y en juegos y vanos ocios
 otros se dan a negocios
-que cumplen para otro duen~o
+que cumplen para otro dueño
 y destos tales socrocios
-tres mil les pego y ensen~o.
-{RUB. % Triu<m>phos de codiciosos.}}
+tres mil les pego y enseño.
+{RUB. ¶ Triu<m>phos de codiciosos.}}
 [fol. 6r]
 {CB2.
-% Otros con hazienda agena
+¶ Otros con hazienda agena
 les doy gra<n>des presumpciones
-y ala man~ana se suena
+y ala mañana se suena
 que hazen ya cedibones
 o moran enla cadena.
 Otros van por otro senda
@@ -609,9 +609,9 @@ y montones de dineros
 para que sus herederos
 puedan poner buena tienda
 y ceuar bien sus gargueros
-avn que se mal[+]rote y venda.
-{RUB. % Prosigue.}
-% Estos hago tan sedientos
+avn que se mal( )rote y venda.
+{RUB. ¶ Prosigue.}
+¶ Estos hago tan sedientos
 por adquerir y ganar
 que van do quieren los vie<n>tos
 por las furias dela mar
@@ -624,7 +624,7 @@ avn que su persona sea
 pobre quanto puede ser
 y de muy baxa ralea.
 {RUB. Triu<m>pho de escuderos pobres.}
-% A muchos hago preciar
+¶ A muchos hago preciar
 quando les faltan los algos
 que en cada parte y lugar
 se estimen de muy hidalgos
@@ -635,10 +635,10 @@ a manera del palacio
 y con aquella jactancia
 ganan por mi tal ganancia
 que hambre sed y cansacio
-c'ufran con mucha constancia
+çufran con mucha constancia
 hasta dar consigo en lacio.
-{RUB. % Triumpho de cantores.}
-% Passar quiero alos ca<n>tores
+{RUB. ¶ Triumpho de cantores.}
+¶ Passar quiero alos ca<n>tores
 pues su capitana soy
 prueuo lo con los primores
 y requiebros que les doy
@@ -650,8 +650,8 @@ como tratan con bemol
 todos son muy bemolados
 avn que como el caracol
 muchos se traen sus estados.
-{RUB. % Triumpho de jugadores.}
-% Otros traygo muy ceuados
+{RUB. ¶ Triumpho de jugadores.}
+¶ Otros traygo muy ceuados
 en lo biuo de mis fuegos
 son tan dados a los dados
 y alos neypes y a otros juegos
@@ -666,8 +666,8 @@ otros que jueguen por ellos}
 {CB2.
 y avn el perder o ganar
 partillo por los cabellos.
-{RUB. % Triumphos de rusticos.}
-% Con ser yo de tal metal
+{RUB. ¶ Triumphos de rusticos.}
+¶ Con ser yo de tal metal
 doy algunos tal conuen
 que avezes toman el mal
 de mejor gana quel bien
@@ -679,8 +679,8 @@ cada vez que selo dan
 vanse por los viricuetos
 alla se huelgan y estan
 tornados brutos perfectos.
-{RUB. % Prosigue dellos.}
-% Los tales nunca codician
+{RUB. ¶ Prosigue dellos.}
+¶ Los tales nunca codician
 honrras ni cosa suprema
 en bouedades se enuician
 la nescedad es su tema
@@ -692,14 +692,14 @@ alli tienen la memoria
 di en que me podran pagar
 esta vida transitoria
 que ansi les hago gozar.
-{RUB. % Dizen que los sabios
+{RUB. ¶ Dizen que los sabios
 son tristes y viuen poco.}
-% El que con prudencia va
+¶ El que con prudencia va
 hable: calle: cene: o coma}
 {CB2.
 siempre graue y triste esta
 ni da plazer ni lo toma
-siendo moc'o es viejo ya.
+siendo moço es viejo ya.
 Biue este tal vida breue
 porque no ay en quese ceue
 ni ay pesar de mayor peso
@@ -707,8 +707,8 @@ que siempre biuir en seso
 mas quien mis xarauas beue
 nunca esta triste ni preso
 ni piensa que nada deue.
-{RUB. % Triu<m>pho de parasitos.}
-% Vna cosa se de cierto
+{RUB. ¶ Triu<m>pho de parasitos.}
+¶ Vna cosa se de cierto
 puesto que yo sepa poco
 quel plazer esta muy muerto
 do faltan locos o loco
@@ -720,14 +720,14 @@ porque son aparejados
 para lo que les conuiene
 que es quitalles de cuydados
 mientra yanta y mie<n>tra cene.
-{RUB. % Co<n>cluye ser todos suyos.}
-% Si por tu dicha o fortuna
+{RUB. ¶ Co<n>cluye ser todos suyos.}
+¶ Si por tu dicha o fortuna
 te diesse dios vn tal hipo
 que subiesses enla luna
 como otro tiempo menipo
 avn que natura repugna.
 Claramente juzgarias
-ser muchas las compan~ias}
+ser muchas las compañias}
 [fol. 7r]
 {CB2.
 que con mis artes alago
@@ -735,8 +735,8 @@ hago en fin quanto me pago
 con estas criadas mias
 no gasto la vida en vago
 ni las noches ni los dias.
-{RUB. % Triu<m>pho de mugeres.}
-% Avn que de mi de<n> querellas
+{RUB. ¶ Triu<m>pho de mugeres.}
+¶ Avn que de mi de<n> querellas
 las mugeres mis hermanas
 breuemente dire dellas
 en palabras claras llanas
@@ -748,8 +748,8 @@ que en sus afeytes y trages
 veras que digo verdad
 sin que comigo varages
 poniendo contrariedad.
-{RUB. % Triumpho de viejas.}
-% Mas delas que yo me rio
+{RUB. ¶ Triumpho de viejas.}
+¶ Mas delas que yo me rio
 son vnas viejas rugosas
 que estan en tal desuario
 que presumen de hermosas
@@ -762,8 +762,8 @@ allende de otras buxetas
 tantas que no se dezillas
 por vender se por mocetas.}
 {CB2.
-{RUB. % Prosigue.}
-% Y puesto quel mundo ria
+{RUB. ¶ Prosigue.}
+¶ Y puesto quel mundo ria
 de vellas en tales rentas
 con ser de mi confadria
 ellas se viuen contentas
@@ -775,11 +775,11 @@ no tener en vna paja
 que sientan sus deuaneos
 y si alguno las vltraja
 ponense mas camafeos.
-{RUB. % Prosigue.}
-% Precianse de mil primores
-a cabo de cincuenta an~os
+{RUB. ¶ Prosigue.}
+¶ Precianse de mil primores
+a cabo de cincuenta años
 avn que entonces los amores
-ya son a su costa y dan~os
+ya son a su costa y daños
 con los nueuos amadores.
 Ven que la vida se passa
 pero no le ponen tassa
@@ -788,8 +788,8 @@ esta sentencia no oluida
 que avn que se venda la massa
 en quanto su amigo pida
 ninguna vieja es escassa.
-{RUB. % Triu<m>phos de artist(e)[a]s.}
-% Mas porq<ue>[ e]s nu<n>ca acabar.
+{RUB. ¶ Triu<m>phos de artist(e)[a]s.}
+¶ Mas porq<ue>[ e]s nu<n>ca acabar.
 de mil cuentos las dos partes
 yo las quiero ya dexar
 por passar alos que en artes
@@ -803,21 +803,21 @@ no podrian viuir dos horas
 de fatigados perdidos
 con sus sciencia[s] matadoras
 en que siempre estan metidos.
-{RUB. % Triu<m>pho de gramaticos.}
-% Que gramatico podria
+{RUB. ¶ Triu<m>pho de gramaticos.}
+¶ Que gramatico podria
 passar su desauentura
 leyendo noche y de dia
 si no tuuiesse ala cura
-contino por compan~ia.
+contino por compañia.
 Hazen rueda de pavon
 con soberuia y presuncion
-entre los nin~os passeando
+entre los niños passeando
 conel gesto amenazando
 poniendo en gran confusion
 a todos los de su vando
 sino saben la lecion.
-{RUB. % Triu<m>pho de rethoricos.}
-% Los rethoricos no menos
+{RUB. ¶ Triu<m>pho de rethoricos.}
+¶ Los rethoricos no menos
 son de mi jurisdicion
 no po<n>go le<n>gua enlos buenos
 porque no es mi condicion
@@ -830,24 +830,24 @@ buscando mil inuenciones
 por induzir a su intento
 las oyentes condiciones.}
 {CB2.
-{RUB. % Triu<m>pho de poetas.}
-% Que dire de los poetas
+{RUB. ¶ Triu<m>pho de poetas.}
+¶ Que dire de los poetas
 como me buscan y siguen
 en sus versos y copletas
 y en quantas obras prosiguen
 avn que tu en ellos te metas
 Cada qual dellos se jacta
 qu[e ]es su gracia {LAT. gratis data}
-huelgan de ser sen~alados
+huelgan de ser señalados
 y conel dedo mostrados
 toda fama les es grata
 no piden otros ducados
 con mi fauor ni otra plata.
-{RUB. % Prosigue.}
-% Muchos se tiene<n> por menas
+{RUB. ¶ Prosigue.}
+¶ Muchos se tiene<n> por menas
 dexo a parte los latinos
 que con las obras agenas
-an~adiendo desatinos
+añadiendo desatinos
 venden por ricas sus venas.
 Dizen y no saben que
 troban sin saber que es pie
@@ -856,15 +856,15 @@ y sobre esto quieren ceptro
 de trobadores de fe
 tal es hernando tu metro
 respuse ya yo lo se.
-{RUB. % Triumpho de logicos.}
-% Delos logicos sophistas
+{RUB. ¶ Triumpho de logicos.}
+¶ Delos logicos sophistas
 dixo te quiero dezir
 y de sus tr<o>[a]mpas a oxuistas
 y replicar y surtir
 con cautelosas conquistas}
 [fol. 8r.]
 {CB2.
-Comienc'an con es no es
+Comiençan con es no es
 rebuellen manos y pies
 traen casos en disparates
 mueuen sobre ellos debates
@@ -872,7 +872,7 @@ por la haz y por lenues
 y quedan se tan orates
 que nunca sanan despues.
 {RUB. Triumpho de astrologos.}
-% Los astrologos profundos
+¶ Los astrologos profundos
 mathematicos mas sabios
 que fingen de nueuo mundos
 y tractan los astrolabios
@@ -884,8 +884,8 @@ medir a palmos el cielo
 y segun sus aluedrios
 poner la gente en recelo
 con sus juyzios baldios.
-{RUB. % Triumpho de medicos.}
-% Los sequaces de galieno
+{RUB. ¶ Triumpho de medicos.}
+¶ Los sequaces de galieno
 y de hipocras y auicena
 de mi mano los ordeno
 yo les doy muy bien de cena
@@ -898,8 +898,8 @@ y los medicos deuauan}
 {CB2.
 con dos passos que passean
 dos mil presentes les manan.
-{RUB. % Prosigue.}
-% Hago que los mas ydiot(e)[a]s
+{RUB. ¶ Prosigue.}
+¶ Hago que los mas ydiot(e)[a]s
 sean tenidos por apolos
 destos ay trezientas flotas
 que no tres ni quatro solos
@@ -911,8 +911,8 @@ procede mas dela cura
 que no dela enfermedad
 porquel mas nescio procura
 tentar mayor nescedad.
-{RUB. % Triumpho de juristas.}
-% Entre los mas eruditos
+{RUB. ¶ Triumpho de juristas.}
+¶ Entre los mas eruditos
 hago preciar los juristas
 de prudentes y peritos
 con sus grados de reuistas
@@ -924,8 +924,8 @@ traen el mundo allaribon
 en contienda reboltosa
 pero siempre su bolson
 conla pecunia reposa.
-{RUB. % Prosigue.}
-% Porque delas disciplinas
+{RUB. ¶ Prosigue.}
+¶ Porque delas disciplinas
 que enel mundo son halladas
 aquellas hago mas dignas}
 [fol. 8v]
@@ -939,8 +939,8 @@ y tambien del desuario
 con que el logico porfia
 la gramatica es rocio
 y trato de behetria.
-{RUB. % Prosigue.}
-% Solos los medicos hago
+{RUB. ¶ Prosigue.}
+¶ Solos los medicos hago
 y los juristas tambien
 que gozen copioso pago
 de su trabajo y conuen
@@ -952,22 +952,22 @@ come caldo de altramuz
 mas al q<ue> aboga o al que cura
 yo le doy muy buen capaz
 y de perdizes hartura.
-{RUB. % Triu<m>pho de theologos.}
-% Enla sacra theologia
+{RUB. ¶ Triu<m>pho de theologos.}
+¶ Enla sacra theologia
 bien se que ay varones doctos
 que con prudencia y porfia
 de mi biuen muy remotos
-y de mi capitan~ia.
+y de mi capitañia.
 Mas ay otros principiantes
-que de nueuo calc'an guantes
+que de nueuo calçan guantes
 que al fin de siete lectiones
 mueue<n> tan arduas questiones
 tan subtiles tan pujantes}
 {CB2.
 que causan admiraciones
 a todos los circunstantes.
-{RUB. % Dize algunas.}
-% Quiero poner te presentes
+{RUB. ¶ Dize algunas.}
+¶ Quiero poner te presentes
 algunas en que los meto
 buscan como ay acidentes
 enla hostia sin subjecto
@@ -979,8 +979,8 @@ que consagrara aquel dia
 o su missa en que parara
 item si entonces podia
 ser hombre christo ala clara.
-{RUB. % Prosigue.}
-% Mueuen mas alteraciones
+{RUB. ¶ Prosigue.}
+¶ Mueuen mas alteraciones
 yo soy la que los insisto
 si aura muchas filiaciones
 enel mismo jesu christo
@@ -990,10 +990,10 @@ si (e)[a]n[ ]los muertos de comer
 despues de resuscitados
 y los cuerpos ya gastados
 de que suerte podran ser
-vn~idos y conformados
+vñidos y conformados
 sin vn pelo fallescer.
-{RUB. % Prosigue.}
-% Luego procuran bolar
+{RUB. ¶ Prosigue.}
+¶ Luego procuran bolar
 sobre los pulpitos todos
 para esgrimir y mostrar
 las manos hasta los codos
@@ -1002,13 +1002,13 @@ y por los de( )dos hablar}
 {CB2.
 Buscan nueua introducion
 con tema y salu[t]acion
-algunas vezes son~ada
+algunas vezes soñada
 otras vezes forgicada
 y diuiden su sermon
 cada qual como le agrada
 para dar prosecucion.
-{RUB. % Prosigue.}
-% El euangelio sagrado
+{RUB. ¶ Prosigue.}
+¶ El euangelio sagrado
 que dios manda declarar
 dexan se lo entreuerado
 no lo saben bien mascar
@@ -1020,13 +1020,13 @@ y muchos doctores mas
 no hablo yo en varon docto
 porque lleua otro compas
 que los de mi vando noto.
-{RUB. % Prosigue.}
-% Luego enla parte primera
+{RUB. ¶ Prosigue.}
+¶ Luego enla parte primera
 mueue<n> questio<n> muy profunda
 si adan fue mas si no fuera
 y passan se ala segunda
 satirica y lastimera.
-Sudan y lanc'an saetas
+Sudan y lançan saetas
 no acaban hasta cumpletas
 de dezir mal delos vicios
 hasta que salen de quicios
@@ -1034,9 +1034,9 @@ despues traen dos fabuletas
 causantes riso y bullicios
 este es el fin de sus tretas.}
 {CB2.
-{RUB. % Triu<m>pho de grandes.}
-% Suele prudencia ocupar
-los grandes reyes y sen~ores
+{RUB. ¶ Triu<m>pho de grandes.}
+¶ Suele prudencia ocupar
+los grandes reyes y señores
 en pensar & imaginar
 como esten sus seruidores
 contentos y a su mandar.
@@ -1047,8 +1047,8 @@ dize les que sean luzeros
 y nortes de pudicicia
 no golosos por dineros
 ni metidos en cobdicia.
-{RUB. % Prosigue.}
-% Yo porque sean allegados
+{RUB. ¶ Prosigue.}
+¶ Yo porque sean allegados
 a mis artes todos ellos
 priuo los dess(e)os cuydados
 puesto que ay algunos dellos
@@ -1060,25 +1060,25 @@ la pesca de rios y mares
 no se puede defender
 de sus huecos paladares
 alli se va a fenescer.
-{RUB. % Triu<m>pho de cac'adores.}
-% Cac'ador que ami se abrac'a
+{RUB. ¶ Triu<m>pho de caçadores.}
+¶ Caçador que ami se abraça
 yo le prendo de tal fiebre
-que por andar siempre a cac'a
+que por andar siempre a caça
 tras vna perdiz o liebre
-lo que le cumple se trac'a}
+lo que le cumple se traça}
 [fol. 9v]
 {CB2.
 Doy podencos: galgos: canes
-ac'ores: y gauilanes
+açores: y gauilanes
 girifaltes y neblies
 tagarotes baharies
 halcones con alcotanes
 y sacres y alfanequies
 destrucion de carne y panes.
-{RUB. % Triumphos de edifica-
+{RUB. ¶ Triumphos de edifica-
 dores y alquimistas.}
-% Otros suelo prouocar
-a dan~osos exercicios
+¶ Otros suelo prouocar
+a dañosos exercicios
 hago los edificar
 tantas formas de edificios
 hasta que no hay que gastar.
@@ -1089,22 +1089,22 @@ quando piensan hazer oro
 y reparar las arquetas
 yo sola conellos moro
 agotadas las buxetas.
-{RUB. % Triu<m>pho de perlados.}
-% Alos notables perlados
+{RUB. ¶ Triu<m>pho de perlados.}
+¶ Alos notables perlados
 tambien les manda cordura
 que siempre esten ocupados
 enla sagrada escriptura
 curando de sus ganados.
-Pero yo tengo mis man~as
-y mis cautelas estran~as
+Pero yo tengo mis mañas
+y mis cautelas estrañas
 hago les poner vicarios
 y juezes arbitrarios
-que pelen bien sus caban~as}
+que pelen bien sus cabañas}
 {CB2.
 porque sean mis tributarios
-anexos a mis hazan~as.
-{RUB. % Triumpho de clerigos.}
-% Delos prestes bien podria
+anexos a mis hazañas.
+{RUB. ¶ Triumpho de clerigos.}
+¶ Delos prestes bien podria
 dar te muy largo processo
 tal que nunca acabaria
 avn que tambien te confiesso
@@ -1114,11 +1114,11 @@ y quanto la yglesia mana
 enlos pueblos do residen
 huelgan se que los combiden
 mas si esta la oueja sana
-o con ron~a no lo piden
+o con roña no lo piden
 por tenerme por hermana.
-{RUB. % Prosigue.}
-% Por huyr delo ferial
-rezan fiestas rec'agadas
+{RUB. ¶ Prosigue.}
+¶ Por huyr delo ferial
+rezan fiestas reçagadas
 y si rezan bien o mal
 o van las oras mascadas
 no hazen mucho caudal.
@@ -1126,11 +1126,11 @@ Desto soy la causa yo
 quando conellos esto
 la culpa no me la quites
 y quieren mas dos ardites
-que de pintanc'a les do
+que de pintança les do
 o dos pares de confites
 que pronunciar bien o no.
-{RUB. % El auctor.}
-% Yo dixe pues tantos son
+{RUB. ¶ El auctor.}
+¶ Yo dixe pues tantos son
 los que tienes so tu imperio
 locura dame perdon}
 [fol. 10r]
@@ -1141,12 +1141,12 @@ Porque no puedo pensar
 que a ti te dexan entrar
 alla por ningun postigo
 respondio: hernando amigo
-quiero te desengan~ar
+quiero te desengañar
 y si notas lo que sigo
 sabras si me dan lugar.
-{RUB. % Moderacio<n> de locura.}
-% No soy yo tan maldiziente
-por mostrar me gran sen~ora
+{RUB. ¶ Moderacio<n> de locura.}
+¶ No soy yo tan maldiziente
+por mostrar me gran señora
 que enla religiosa gente
 donde la prudencia mora
 se poner lengua ni diente.
@@ -1157,12 +1157,12 @@ si en algo mi lengua toca
 tocara enlas opiniones
 delos de prudencia poca
 pero no en cuerdos varones.
-{RUB. % Triumpho de religiosos.}
-% Hago mo<n>jes y hermitan~os
+{RUB. ¶ Triumpho de religiosos.}
+¶ Hago mo<n>jes y hermitaños
 del tal modo y qualidad
-que presumen q<ue> en dos an~os
+que presumen q<ue> en dos años
 heredan la santidad
-por estar del siglo estran~os.
+por estar del siglo estraños.
 Piensan que en po(r)[c]o saber
 roban todo el merecer
 so sus habitos y mantos
@@ -1171,8 +1171,8 @@ por l(a)[o] qual cuenta los cantos}
 pues que no saben leer
 se podrian bien llamar santos
 si idiotas es santos ser.
-{RUB. % Prosigue.}
-% Otros con bozes grosseras
+{RUB. ¶ Prosigue.}
+¶ Otros con bozes grosseras
 y psalmos mal entendidos
 presumen mas que de veras
 que deleytan los oydos
@@ -1181,14 +1181,14 @@ Otros piensan porque van
 a pedir hueuos y pan
 a bozes de puerta en puerta
 que tienen la gloria cierta
-no se si se engan~aran
+no se si se engañaran
 yo pienso que es mas abierta
 para los que algo les dan.
-{RUB. % Prosigue.}
-% Otros hago muy agudos
+{RUB. ¶ Prosigue.}
+¶ Otros hago muy agudos
 en cosas que lieua el flato
-sobre contar bien los n~udos
-del cordon y del c'apato
+sobre contar bien los ñudos
+del cordon y del çapato
 o si son blandos o crudos.
 Otros ponen su sentir
 sobre el color del vestir
@@ -1197,23 +1197,23 @@ otros van por otros fines
 que te quiero descubrir
 miden quatro celemines
 pueden la cugulla hinchir.
-{RUB. % Prosigue.}
-% Vnos son de vna ralea
+{RUB. ¶ Prosigue.}
+¶ Vnos son de vna ralea
 otros van por otro son
-los vnos cin~en correa
+los vnos ciñen correa
 los otros cuerda o cordon}
 [fol. 10v]
 {CB2.
 y sobresto ay gran pelea.
-Mas sino van bien cen~idos
+Mas sino van bien ceñidos
 luego son reprehendidos
 delos superiores dellos
 otros sobre los cabellos
 si no los traen bien medidos
 al marco que mandan ellos
 son grauemente punidos.
-{RUB. % Prosigue.}
-% Ay alguno que se estima
+{RUB. ¶ Prosigue.}
+¶ Ay alguno que se estima
 de religioso en la gana
 viste cilicio por cima
 y junto al cuerpo trae lana
@@ -1225,12 +1225,12 @@ otros no toman dinero
 si no vienen de camino
 avn que gustan por entero
 los mosquitos enel vino.
-{RUB. % Prosigue.}
-% Traen entrellos diferencias
+{RUB. ¶ Prosigue.}
+¶ Traen entrellos diferencias
 nota las y no te assombres
 vandillos y competencias
 a causa delos cognombres
-con que dan~an sus co<n>ciencias.
+con que dañan sus co<n>ciencias.
 Vno yo soy agustino
 otro yo soy bernardino
 otro yo soy carmelita
@@ -1239,8 +1239,8 @@ otro yo benedictino
 otro yo soy jacobita
 otro yo soy brigidino.}
 {CB2.
-{RUB. % Escusa las monjas.}
-% Enlas monjas no me meto
+{RUB. ¶ Escusa las monjas.}
+¶ Enlas monjas no me meto
 por ser tan hermanas mias
 por que tu si eres discreto
 conuersando las dos dias
@@ -1252,11 +1252,11 @@ digo que los mas que son
 no son hermanos en christo
 sino en cisma y diuision
 ala qual yo los insisto.
-{RUB. % Prosigue.}
-% Con sus pe<n>samie<n>tos vanos
-tales varajas comienc'an
+{RUB. ¶ Prosigue.}
+¶ Con sus pe<n>samie<n>tos vanos
+tales varajas comiençan
 que de llamarse christianos
-paresce que se auerguenc'an
+paresce que se auerguençan
 por cogno<m>bres muy liuianos.
 Las cerimonias que hazen
 enlos templos donde yazen
@@ -1265,8 +1265,8 @@ son tan diuersas y tantas
 con que ami sola complazen
 que cien lenguas y gargantas
 para esto no satisfazen.
-{RUB. % Prosigue.}
-% Vn secreto te reuelo
+{RUB. ¶ Prosigue.}
+¶ Vn secreto te reuelo
 delos que a mi se me offrecen
 que pie<n>san que es poco el cielo
 para lo que ellos merescen
@@ -1277,14 +1277,14 @@ que siempre peces comio}
 {CB2.
 otro conto mil millones
 de ayunos y deuociones
-que con ac'otes passo
+que con açotes passo
 otro no se que visiones
 que el angel le reuelo.
-{RUB. % Prosigue.}
-% Otros se que se loaron
+{RUB. ¶ Prosigue.}
+¶ Otros se que se loaron
 delos que son mis priuados
 que nunca blanca tomaron
-sin tener guantes calc'ados
+sin tener guantes calçados
 desque en religion entraron.
 Otros mucho mis deuotos
 traen cugullas de pilotos
@@ -1293,7 +1293,7 @@ que han estado en vn lugar
 todas sus vidas immotos
 otros de mucho cantar
 muestra<n> los gargueros rotos.
-% Otros dieze<n> que en verdad
+¶ Otros dieze<n> que en verdad
 de beuer siempre agua fria
 o de estar en soledad
 han cobrado letargia
@@ -1302,14 +1302,14 @@ Quierome agora reyr
 como dios a de dezir
 a todos de grado en grado
 qu[e ]es dela ley que os he dado
-que del calc'ar y vestir
+que del calçar y vestir
 no tengo ningun cuydado
-ni del cabello y cen~ir.
+ni del cabello y ceñir.
 {RUB. Prosigue mas lo q<ue> dios dira.}
-% La caridad que mande
+¶ La caridad que mande
 vnos con otros tratar}
 {CB2.
-y la esperanc'a y la fee
+y la esperança y la fee
 que al cielo suele bolar
 qu[e ]es della por donde fue.
 Yo no siento que respuesta
@@ -1319,9 +1319,9 @@ pues vestir no haze al monge
 sino la vida compuesta
 quel alimpie que lesponge
 lo que vana gloria presta.
-{RUB. % Concluye locura triu<n>-
+{RUB. ¶ Concluye locura triu<n>-
 fando del auctor}
-% Digo en fin que como lapa
+¶ Digo en fin que como lapa
 me pego sin resistencia
 y que ninguno se escapa
 de mi copiosa potencia
@@ -1333,11 +1333,11 @@ sigue sigue mi ventura
 que mientra con mi viuieres
 pues la vida poco dura
 no te faltaran plazeres.
-{RUB. % El auctor.}
-% Desque sus nueuas me dio
+{RUB. ¶ El auctor.}
+¶ Desque sus nueuas me dio
 por orden de grado en grado
 el camino me impid[i]o
-que lleuaua comenc'ado.
+que lleuaua començado.
 Por dexar el mundo yo
 vi que en hermitas y templos
 se sembrauan sus exemplos
@@ -1348,8 +1348,8 @@ atome de pies y manos}
 y causome mil destemplos
 en mis pensamientos sanos
 con tan diuersos dexemplos.
-{RUB. % Fiction.}
-% Estando enesta pendencia
+{RUB. ¶ Fiction.}
+¶ Estando enesta pendencia
 cercado de confusion
 vi que asomaua prudencia
 sin ninguna alteracion
@@ -1361,22 +1361,22 @@ tras ella fue su manada
 que punto no reparo
 y la prudencia llegada
 desta manera hablo.
-{RUB. % Reprehe<n>sio<n> de prude<n>cia.}
+{RUB. ¶ Reprehe<n>sio<n> de prude<n>cia.}
 Espantada soy de ti
 tu discrecion a d(e)[o] mora
 hernando que hazias aqui
 con aquella burladora
 siempre enemiga de mi.
-Respondi sen~ora mia
+Respondi señora mia
 a mis solas me venia
 por aqui por te topar
 y eneste mismo lugar
-ella con su compan~ia
+ella con su compañia
 me vinieron a encontrar
 y me estoruaron la via.
-{RUB. % Prosigue el auctor.}
-% Dixome quel mundo todo
-se lanc'aua por su puerta
+{RUB. ¶ Prosigue el auctor.}
+¶ Dixome quel mundo todo
+se lançaua por su puerta
 y que tu andauas deltodo
 desterrada y medio muerta}
 {CB2.
@@ -1388,8 +1388,8 @@ pero que locas y locos
 auie numero infinito
 que t[e ]estan haziendo cocos
 por cumplir con su apetito.
-{RUB. % Respuesta de prude<n>cia.}
-% Respuso no me doy nada.
+{RUB. ¶ Respuesta de prude<n>cia.}
+¶ Respuso no me doy nada.
 desu dezir y parlar
 como loca desuariada
 mas cierto ouiera pesar
@@ -1401,8 +1401,8 @@ dezir te mi parescer
 no lo pongas en oluido
 ni te torne a[ ]n( )loquescer
 locura como a perdido.
-{RUB. % El auctor.}
-% Tenerte en notable gracia
+{RUB. ¶ El auctor.}
+¶ Tenerte en notable gracia
 dixe si no te fatigas
 que sin arte ni fallacia
 lo que me cumple me digas
@@ -1416,9 +1416,9 @@ todo lo roba y lo pasce
 no a quien le vaya ala mano}
 [fol. 12r]
 {CB2.
-{RUB. % Prosigue descubrie<n>-
-do sus engan~os.}
-% Muere se el doto y no doto
+{RUB. ¶ Prosigue descubrie<n>-
+do sus engaños.}
+¶ Muere se el doto y no doto
 no queda grande ni chico
 ni el bien vestido ni el roto
 no escapa pobre ni rico
@@ -1430,13 +1430,13 @@ fortuna gira su rueda
 tiempo viene y tiempo va
 todo lo dulce se hazeda
 y nunca en vn ser esta.
-{RUB. % Concluye su pares-
+{RUB. ¶ Concluye su pares-
 cer p[r]udencia.}
-% Y pues ay siempre muda<n>c'a
+¶ Y pues ay siempre muda<n>ça
 en quanto esta so la luna
-poniendo en dios su esperanc'a
+poniendo en dios su esperança
 por sabio tengo al que pugna
-por la bienauenturanc'a.
+por la bienauenturança.
 Desta no tienen cuydado
 los que locura a burlado
 y con locura se mueren
@@ -1444,10 +1444,10 @@ mas los que ami me creyeren
 viuiendo la auran buscado
 no quando ya conoscieren
 que esta el fin aparejado.
-{RUB. % El auctor toma el
+{RUB. ¶ El auctor toma el
 co<n>sejo de prudencia.}}
 {CB2.
-% Yo dixe bien me paresce
+¶ Yo dixe bien me paresce
 lo que dizes y me aplaze
 porque claro mas meresce
 el que mas seruicios haze
@@ -1459,19 +1459,19 @@ que busque mi saluacion
 respondio muy plazentera
 mejor es en religion
 ami veer que no defuera.
-{RUB. % El auctor lo aprueua
+{RUB. ¶ El auctor lo aprueua
 y da fin a su obra.}
-% Respo<n>di pues que a tu veer
+¶ Respo<n>di pues que a tu veer
 esso te paresce a ti
 yo aprueuo tu parescer
 y digo que sera ansi
 no te quiero detener.
 Dixo pues queda en buen ora
-yd con dios dixe sen~ora
+yd con dios dixe señora
 ansi me dixo y se fue
 yo mi camino tome
 para do tristeza mora
 no se quando llegare
 que avn no soy llegado agora.
-{RUB. % {LAT. Deo gratias.}}
-{RUB. % Yanguas.}}
+{RUB. ¶ {LAT. Deo gratias.}}
+{RUB. ¶ Yanguas.}}

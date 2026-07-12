@@ -37,11 +37,11 @@ cte sebastiane: tu nobiscu<m> semper mane/ atque per tua merita/ nos qui
 sumus in hac vita/ defende sana & rege/ & a peste nos protege: presen-
 tans nos trinitati/ & virgini cr<ist>i matri: vt sic vitam finiamus/ que mer-
 cede<m> habeamus: & martiru<m> confortiu<m>: & deu<m> videre primu<m>. {RUB. Or<ati>o}
-% O sancte sebastiane magna est fides tua/ intercede pro nobis ad
+¶ O sancte sebastiane magna est fides tua/ intercede pro nobis ad
 dominu<m> nostrum jhesum cr<ristu>m: vt a peste epidimie siue morbo libere-
 mur .v. Ora p<ro> nobis beate martir sebastiane. Ut digni efficiamur
 promissionibus cr<rist>i. {RUB. Oratio.}
-% Omnipotens sempiterne deus/ qui meritis & precibus beati seba-
+¶ Omnipotens sempiterne deus/ qui meritis & precibus beati seba-
 stiani gloriosissimi martiris tui: quanda<m> generalem pestem homini-
 bus mortiferam reuocasti: presta supplicibus tuis/ vt qui pro co<n>simi-
 li peste reuocanda/ sub tua confidentia ad ipsum confugium/ ipsius
@@ -50,7 +50,7 @@ berentur. Per d<omi>n<u>m nostru<m> ihesum cr<istu>m filiu<m> tuum. &c<etera>.}}
 [fol. 42r]
 {HD. Septimo fo<lio>. \ XXXX}
 {CB2.
-{RUB. Comie<n>c'a el tractado de la pe-
+{RUB. Comie<n>ça el tractado de la pe-
 ste de maestre velasco de taranta: pro-
 thomedico excellentissimo del rey de
 francia.}
@@ -72,10 +72,10 @@ ra alguna seguridad: & ahu<n> con el ayu-
 da de dios perfecta para la tal dole<n>cia[.]
 E porq<ue> dize seneca. Muy buena co-
 sa es seguir las pisadas de los otros.
-yo no co<n>fiando en mis pequen~as fu-
-erc'as: delibere de seguir excelle<n>tes au-
+yo no co<n>fiando en mis pequeñas fu-
+erças: delibere de seguir excelle<n>tes au-
 ctores en esta materia. exhorta<n>do em-
-pero co<n> rostro vergonc'oso & lleno de
+pero co<n> rostro vergonçoso & lleno de
 temor al que lo leera: q<ue> reciba co<n> gra-
 cia & amor lo que fuere bien dicho: &
 no lo quiera roer con enuidiosa rabia[.]
@@ -85,36 +85,36 @@ caridad & amor interpreta<n>do: & tray-
 galo al mejor entendimie<n>to.
 {RUB. Siguense los capitulos del
 tractado.}
-% Ca<pitulo> .j. de q<ue> manera & por q<ue> causas
+¶ Ca<pitulo> .j. de q<ue> manera & por q<ue> causas
 & en que tie<m>po se causa la pestile<n>cia.
-% Capi<tulo> .ij. de los sen~ales & prenosti-
+¶ Capi<tulo> .ij. de los señales & prenosti-
 cos: & del apartarse del lugar don-
 de reyna.}
 {CB2.
-% Capi<tulo> .iij. de la preseruacion della:
+¶ Capi<tulo> .iij. de la preseruacion della:
 corrigiendo el aire: & apartandose
 del lugar en donde esta.
-% Cap<itulo> .iiij. del preseruarse della por
+¶ Cap<itulo> .iiij. del preseruarse della por
 euacuacion.
-% Capi<tulo> .v. del guardarse della con el
+¶ Capi<tulo> .v. del guardarse della con el
 comer & beuer.
-% Capi<tulo> .vj. de la conseruacion por el
+¶ Capi<tulo> .vj. de la conseruacion por el
 exercicio en la epidimia.
-% Capi<tulo> .vij. de la co<n>seruacion del sue-
-n~o & de la vigilia en la peste.
-% Capi<tulo> .viij. de la co<n>seruacion de los
+¶ Capi<tulo> .vij. de la co<n>seruacion del sue-
+ño & de la vigilia en la peste.
+¶ Capi<tulo> .viij. de la co<n>seruacion de los
 accidentes del anima: & del vsar co<n>
 muger: en tie<m>po de la peste.
-% Capi<tulo> .viiij. en el qual se ponen los
+¶ Capi<tulo> .viiij. en el qual se ponen los
 remedios razonables: de los q<u><<a>>les
 si alguno vsare: sera co<n> el ayuda de
 dios co<n>seruado de la tal dole<n>cia.
-% Cap<itulo> .x. del socorro que se deue fa-
+¶ Cap<itulo> .x. del socorro que se deue fa-
 zer a los feridos de peste.
-% Capi<tulo> .xj. de que manera se deue so-
+¶ Capi<tulo> .xj. de que manera se deue so-
 correr: hauida consideracio<n> al apo-
 stema de la pestilencia.
-% Capi<tulo> .xij. d<e> la dieta en la pestile<n>cia.
+¶ Capi<tulo> .xij. d<e> la dieta en la pestile<n>cia.
 {RUB. Capitulo primero: de q<ue> ma-
 nera: & por que causas: y en que tiem-
 po se cause la pestilencia.}
@@ -140,7 +140,7 @@ de dize ypocras. En el autu<n>no: con-
 uiene saber setiembre/ octobre/ & no-
 uie<m>bre/ reynan dolencias acutissimas
 & comunmente luengas: y en los mas
-mortales. El verano/ que son marc'o
+mortales. El verano/ que son março
 abril/ & mayo: es el mas sano tiempo
 & menos mortifero. en el .iij. d<e> los an-
 forismos: en <e>l .x. anforismo. Esto mis-
@@ -173,7 +173,7 @@ estar mas aparejados: emp<er>o ella es
 dolencia contagiosa. & assi puede infe-
 cionar a los otros/ de qualquiere com-
 plexion que sean: como proceden de-
-llos malos fumos & poc'on~osos/ que
+llos malos fumos & poçoñosos/ que
 corrompen el aire & los humores: y el
 aire que espiran es ya corrupto: & co-rrompe}
 {CB2.
@@ -196,7 +196,7 @@ no tan infecionado/ como esta alli en
 donde estan siempre. & ahun el lugar
 no deue ser angosto: mas spacioso: &
 el aire se deue siempre mudar & alte-
-rar a la parte del frio. % La peste al-
+rar a la parte del frio. ¶ La peste al-
 gunas vezes viene en el fin del autu<n>-
 no: assi como si el estio fuere muy llu-
 uioso/ o que haya reynado mucho el
@@ -214,7 +214,7 @@ re maligna la influencia & costellaci-
 on: assi como q<u><<a>>ndo saturno esta en su
 casa. conuiene saber en capricorno/ o
 aquario: agora esta. porq<ue> ago-
-ra a .xxv. de octubre del an~o mil qua-
+ra a .xxv. de octubre del año mil qua-
 trocientos & diez: quando este tracta-
 do fue compilado: saturno estaua en
 el .xij. grado del capricorno: & tanbie<n>}
@@ -265,9 +265,9 @@ ne rodeados & cercados/ no es puro:}
 {CB2.
 segun el auicen<n>a en la segu<n>da fen. del
 primero. Por consiguiente despues
-quando el aire se podrece/ comie<n>(c)[c']a de
-fazer podrec'er el humor: que esta cer-
-cado del corac'on/ porq<ue> a el se allega
+quando el aire se podrece/ comie<n>(c)[ç]a de
+fazer podreçer el humor: que esta cer-
+cado del coraçon/ porq<ue> a el se allega
 mas cerca: segu<n> dize el p<r><<i>>ncipe Aboa-
 li en la .ij. fen. del primero: en la doctri-
 na segunda: en la sum<m>a primera: en el
@@ -291,7 +291,7 @@ pestilenciales/ aquellos cuya comple-
 xion es caliente & humida: & los que
 son muchachos & mancebos: porque
 la complexion caliente & humida/ los
-sen~orea mas. E dize mas por lo qual
+señorea mas. E dize mas por lo qual
 les conuiene muchas vezes diminuir
 la sangre: & acrescentar el vso de las
 cosas que enfrian & dessecan[.] E ahun
@@ -358,10 +358,10 @@ del mal: q<ue> nos que los vemos/ deue-
 mos estar cabe el fuego: porque alte-
 ra al aire: consumiendo los malos hu-
 mores: & por esso los fumos engen-
-drados de buenas & limpias len~as/
+drados de buenas & limpias leñas/
 mediante el fuego reparan el aire nue-
-uo: para que no dan~e a los que reso-
-llan: antes mas ayuda al corac'on/ co<n>-
+uo: para que no dañe a los que reso-
+llan: antes mas ayuda al coraçon/ co<n>-
 fortandolo: & preseruandolo del mal
 porque no es corrupto. por consiguie<n>-
 te como los tiempos de la pestilencia
@@ -373,11 +373,11 @@ el estio & en el jnuierno. por tanto en
 el processo del presente tractado con
 el ayuda de dios/ veremos alguna di-
 uersidad.
-{RUB. Capitulo .ij. de los sen~ales &
+{RUB. Capitulo .ij. de los señales &
 prenosticos que muestran la peste.}
 {IN3.} PRonosticaremos la pesti-
 lencia venidera/ q<u><<a>>ndo los
-sen~ales susodichos/ o algu-
+señales susodichos/ o algu-
 nos/ o muchos dellos pa-
 reciere<n>: co<n>uiene saber qua<n>do en la fin
 del estio: y en el p<r><<i>>ncipio del autu<n>no se
@@ -389,7 +389,7 @@ strellas que caen. Ca ento<n>ce se faze &
 causa en los cuerpos gran resolucion
 como estas cosas no se causen ni faga<n>
 sino de vna exalacio<n> inflamable. La
-segunda sen~al es/ muchedumbre de al-gunos}
+segunda señal es/ muchedumbre de al-gunos}
 [fol. 44r]
 {HD. Septimo fo<lio>. \ XXXXII}
 {CB2.
@@ -409,7 +409,7 @@ sin lluuia: & soplaren vientos de me-
 diodia: & hay turbacio<n> de ayre de hu-
 mido & caliente quasi ocho dias: & de-
 spues aclarece/ & se torna a enturbe-
-c'er: & acahece esto muchas vezes: en-
+çer: & acahece esto muchas vezes: en-
 tonce viene la pestilencia en el estio: &
 junto con esto son los dias calientes
 & las noches frias. Por semejante
@@ -425,7 +425,7 @@ mo quando faze dos/ o tres dias calu-
 ra/ & otros tantos frio. Es tanbien
 de notar/ q<ue> quando acahece putrefaci-
 on de aire/ algu<n>as vezes mas son da-
-n~ados los que estan en el ayre bueno
+ñados los que estan en el ayre bueno
 q<ue> en el malo: segu<n> se ha visto muchas
 vezes d<e> los presos & catiuos: que esta<n>
 en el fondon de las torres/ & de los que
@@ -440,7 +440,7 @@ de la peste. Onde auice<n>na en el ca<pitulo>. de
 aere bono dize. Qua<n>do en el aire aca-
 hece putrefaction: el q<ue> esta descubier-
 to la recibe antes/ q<ue> el que esta costre-
-n~ido & secreto. ca en otra manera el
+ñido & secreto. ca en otra manera el
 descubierto es el mejor. Onde con la
 peste viene<n> algunas vezes morbiles:
 otras sarrampio<n> en personas gra<n>des
@@ -463,16 +463,16 @@ hombre mas seguro: ca el que no esta
 en el aire corrupto & podrido: no es co-
 rrumpido del: assi como no muere en
 la guerra el que no esta en <e>lla. E si es
-forc'ado estar en el lugar donde muere<n>
+forçado estar en el lugar donde muere<n>
 la primera ayuda se toma del ayre de
 la casa en donde mora. La (la) casa de-
 ue estar limpia de qualesquier suzieda-
 des: mayorme<n>te de las que engendra<n>
 fedor: & deue star lexos de muladares
-& de stan~os/ & las bocas de las latri-
+& de staños/ & las bocas de las latri-
 nas esten entonces muy atapadas: &
 quando el aire es spesso y nubloso/ no
-se leuante de man~ana. esso mismo q<u><<a>>n-
+se leuante de mañana. esso mismo q<u><<a>>n-
 do sopla el vie<n>to austral/ o subsolano}
 {SG. f. iiij}
 [fol. 44v]
@@ -482,11 +482,11 @@ mas entonce faga<n>se los perfumes q<ue>
 dire mas abaxo. E quando se leua<n>te
 huela vinagre/ y agua rosada. lo qual
 olido/ vale en tie<m>po caliente & frio. ca
-restri(n)n~e & confuerta el corac'on. No
+restri(n)ñe & confuerta el coraçon. No
 vaya por la villa: mas occupese en al-
 go dentro de casa co<n> las puertas cerra-
 das: & las ventanas co<n> vidrio: o co<n> pa-
-n~o encerado: por q<ue> entre la luz/ & no
+ño encerado: por q<ue> entre la luz/ & no
 el aire podrido. Por consiguie<n>te es-
 quiuese qualq<u><<i>>er fedor: & acrescie<n>tese
 te<m>pradamente buenos olores. Empe-
@@ -495,10 +495,10 @@ si en el jnuierno se oliere<n> algu<n>as cosas
 calie<n>tes/ o se p<er>fuma la casa co<n> ellas co-
 mo es almisque/ ambar/ no hay yerro
 algu<n>o: como dize el auice<n>na: que nos
-ensen~a alterar el aire co<n> ambar/ encie<n>-
+enseña alterar el aire co<n> ambar/ encie<n>-
 so/ lignu<n>aloe/ & cosas semeja<n>tes. Se-
 gundo yo prueuo/ q<ue> estas cosas odori-
-feras no dan~an: porq<ue> los malos olo-
+feras no dañan: porq<ue> los malos olo-
 res & fedores nuezen mucho: segu<n> ha-
 uemos visto: por co<n>siguie<n>te las cosas
 aromaticas/ & buenos olores ayudan
@@ -509,38 +509,38 @@ trario en el contrario. Tercio q<ue> estos
 olores dessecan el aire: lo qual es ne-
 cessario en la pestile<n>cia/ que viene en <e>l
 jnuierno. Quarto q<ue> co<n>fuerta<n> el cora-
-c'on/ & el cerebro. E si se dize q<ue> es mu-
+çon/ & el cerebro. E si se dize q<ue> es mu-
 cho de temer q<ue> no se escaliente el cora-
-c'on: respondo q<ue> no se escalienta<n>/ ni se
+çon: respondo q<ue> no se escalienta<n>/ ni se
 corrompen los humores que esta<n> en-
 derredor por el calor del aire/ ni ahun
 por aq<ue>l poco fumo/ o vapor: que sale
 de las cosas aromaticas: mas antes
 del ayre corrupto & podrido[.] E si se di-
 ze q<ue> estos vapores calie<n>tes son vn ca-
-rro del ayre podrecido al corac'o<n>. No}
+rro del ayre podrecido al coraço<n>. No}
 {CB2.
 es verdad: ca avn sin estos: el aire po-
 drido & corrupto entra en los rinconci-
-llos & cueuas del corac'on: ca quera-
+llos & cueuas del coraçon: ca quera-
 mos/ o no: atrahemos el aire resolla<n>-
 do. Resta pues q<ue> estas cosas no da-
-n~an : mayorme<n>te en <e>l jnuierno. ca este
+ñan : mayorme<n>te en <e>l jnuierno. ca este
 vapor resoluido de las cosas aromati-
 cas/ es poco: & familiar a la natura: &
 por el son recreados los spiritus: segu<n>
 q<ue> podemos ver en los que se amorte-
 cen. Fagase pues el perfumar de ma-
-n~ana: & mayorme<n>te para los ricos en
+ñana: & mayorme<n>te para los ricos en
 el tiempo frio: con ambar/ incienso: &
-aloes/ storaques/ laudano/ ac'afran/
+aloes/ storaques/ laudano/ açafran/
 mastec/ clauos de girofle/ & canela. lo
 qual quando arde/ echa buen olor. E
 algunas vezes co<n> goma arabiga: & co<n>
 todas estas cosas/ o algu<n>as dellas: &
 si todas no se podieren hauer: fagase
 el perfum co<n> romero/ enebro/ sauina/
-& acoro. & estas len~as sen~aladamente
+& acoro. & estas leñas señaladamente
 ardan en la casa/ o perfumese co<n> ellas
 pusiendolas sobre carbones encendi-
 dos. Estas cosas susodichas son aro-
@@ -577,7 +577,7 @@ con vidrio/ o tela encerada. Empero
 en tie<m>po caliente: como es en el estio/
 o en el autu<n>no: ponganse cabe las pa-
 redes de la casa/ o camara/ ramos de
-salze/ de tamariz/ o de can~as: & derra-
+salze/ de tamariz/ o de cañas: & derra-
 men juntos por la casa: & fojas de sal-
 ze/ o de violas: & ruxe<n> la casa co<n> agua
 de fuente/ vinagre/ & agua rosada: &
@@ -592,7 +592,7 @@ tagion: & si lo fiziere<n>: buelua<n> el rostro
 & huelan vinagre: & faga<n> vnas canti-
 ploras: & jnchan vasos de agua: que
 esten atapados con cera: & despues
-faga<n>les vn agujero pequen~ito co<n> vn
+faga<n>les vn agujero pequeñito co<n> vn
 punzon: y el agua que saliere/ caya so-
 bre vn bacin/ que faga melodia.
 {RUB. Capitulo .iiij. de la preserua-
@@ -627,11 +627,11 @@ parece pues q<ue> comu<n>mente co<n>uiene el
 purgar de los humores calie<n>tes. Em-
 pero en todo tie<m>po/ quier calie<n>te q<u><<i>>er
 frio/ es buena esta recepta de pilloras
-de mirra/ ac'afra<n>/ aloe/ ac'ucri. y es bu-
+de mirra/ açafra<n>/ aloe/ açucri. y es bu-
 ena en qualquiere edad aparejada a
 purgar: & en qualquiere complexion.
 ca assi como descruma<n> la olla quando
-comienc'a de feruer: assi estas pilloras
+comiença de feruer: assi estas pilloras
 alimpian las cosas superfluas que se
 allegan cabe los mie<m>bros principales
 guardan assimesmo la sangre de pu-
@@ -641,7 +641,7 @@ los mancebos sanguineos vna vez
 en cada luna/ en ayunas/ o a drag-
 mas/ o a onzas de la vena mediana:
 o de la del figado: & algunas vezes de
-la del bac'o. ca por la tal sangria cessa
+la del baço. ca por la tal sangria cessa
 el bullir de la sangre/ o de la colera en
 las venas: o vieda q<ue> no se faga. & de-
 uese fazer en poca qua<n>tidad: porq<ue> si
@@ -655,8 +655,8 @@ dire despues mas abaxo/ & segu<n> la do-
 ctrina de los antiguos: esta sangria
 particular se deue fazer/ sino q<ue> algu<n>a
 cosa particular empache: como es la
-flaqueza de la virtud: la pequen~ez del
-figado: la pren~ez: fluxo de almorra-
+flaqueza de la virtud: la pequeñez del
+figado: la preñez: fluxo de almorra-
 nas/ o de purgacion. Onde rasis. Si
 en el cuerpo se muestra algu<n> mouimie<n>-
 to de sangre: luego sin tardar se deue
@@ -671,7 +671,7 @@ mero. capi<tulo> .xxx.
 {RUB. Capitulo .v. de la preseruaci-
 on de la peste con solas viandas.}
 {IN3.} POrq<ue> el mal regimiento
-dan~a a la conseruacion de
+daña a la conseruacion de
 la sanidad: por ta<n>to la ter-
 cera ayuda es de las vian-
 das conuenientes a esta disposicion. E
@@ -694,14 +694,14 @@ dizes/ starnas/ & de otras aues qua-lesquier:}
 saluo d<e> las q<ue> mora<n> en el agua
 porq<ue> las tales engendra<n> humores vi-
 scosos: & luego corruptibles. el cabri-
-to es bueno/ & el carnero/ & los gac'a-
-pos/ & farnacas/ y liebres pequen~itas[.]
+to es bueno/ & el carnero/ & los gaça-
+pos/ & farnacas/ y liebres pequeñitas[.]
 Todas estas viandas comanse co<n> al-
 gun agror: ca la mayor parte de las co-
 sas acetosas & agras/ aprouechan p<ar>a
 la preseruacion de la peste. & quando
 estas cosas se bullen en el agua: deue<n>-
-se poner dentro en la olla/ ac'afran/ vi-
+se poner dentro en la olla/ açafran/ vi-
 nagre/ agraz: & con las carnes susodi-
 chas puede vsar de algunas salsas/ co-
 mo es salsa camelina: porq<ue> en ella se
@@ -754,16 +754,16 @@ en tales tiempos/ qua<n>do el ayre es co-
 rrupto/ parecen participar en la mali-
 cia. & no deuen beuer del agua q<ue> esta
 mucho en la superficie de la tierra: &
-muy somera. E si quic'a comieren al-
+muy somera. E si quiça comieren al-
 gu<n>a fruta: sea aquella acetosa: como
-son las mac'anas crudas: & la tal fru-
+son las maçanas crudas: & la tal fru-
 ta sea assada: porque el fuego le quita
 la malicia: & la mala impression dexa-
 da en ella por la costellacion & aire co-
 rrupto: coma lechugas & verdolagas
 con vinagre. la acetosa es la mejor de
 todas las yerbas para los tales: co-
-mo sea fria & seca: & enfrie el corac'on
+mo sea fria & seca: & enfrie el coraçon
 & la sangre/ q<ue> esta en sus camarillas
 & retretes. Algunas vezes puede<n> co-
 mer perexil/ moradux/ mayorana/ sal-
@@ -780,7 +780,7 @@ tinto muy claro. Guardese de vino}
 ypocras/ porque es caliente & bulle:
 esso mismo de la clarea. & guardense
 esso mismo de qualquier confectio<n> de
-miel: & de ban~o de agua calie<n>te: mas
+miel: & de baño de agua calie<n>te: mas
 co<n> agua & vinagre se puede lauar las
 manos/ & los pies/ & las piernas: vse
 de regimiento para enfriar & dessecar
@@ -789,7 +789,7 @@ de exercicio/ & de vsar carnalmente.
 Esta es la sentencia de haly. {LAT. in libro
 regali.} Guardese esso mismo d<e> las co-
 sas excessiuamente dulces: como son
-passas/ datiles/ figos/ secos/ miel/ ac'u-
+passas/ datiles/ figos/ secos/ miel/ açu-
 car. & de las confectiones & letuarios
 que dellas se fazen: segun dicho es/ si-
 no que sean medicinales.
@@ -804,7 +804,7 @@ bajo escaliente & faga mucho alentar
 & resollar: & por consiguiente atraher
 aire corrupto: el q<u><<a>>l atrahido muchas
 vezes/ altera & corru<m>pe los humores
-del corac'o<n>: que se contiene<n> en las par-
+del coraço<n>: que se contiene<n> en las par-
 tes vitales. Por ende el exercicio sea
 poco en lugar temprado/ & no al sol
 caliente: guardese de baylas/ & de qualq<u><<i>>er
@@ -817,9 +817,9 @@ ne por el exercicio co<n>sumir & euacuar}
 {HD. Tractado. +}
 {CB2.
 {RUB. Capi<tulo> .vij. de la preseruacion
-de la peste/ por suen~o & vigilia.}
+de la peste/ por sueño & vigilia.}
 {IN4.} LA quinta ayuda se toma
-del suen~o & vigilia. Con-
+del sueño & vigilia. Con-
 uiene pues dormir de no-
 che en camara bien cerra-
 da/ & perfumada/ en la manera susodi-
@@ -832,7 +832,7 @@ dense mucho del dormir de mediodia
 especialme<n>te en el jnuierno: y en tiem-
 po caliente/ quando los dias son gra<n>-
 des. & si se houiere de fazer: fagase en
-lugar templado: quitado el calc'ado:
+lugar templado: quitado el calçado:
 & fagase mucho despues de hauer co-
 mido. ca los que luego despues de ha-
 uer comido se echan a dormir: sienten
@@ -849,7 +849,7 @@ cion de la peste en otra manera.}
 dandose de los acidentes
 del anima: por e<n>de guarde<n>-
 se de la ira: porq<ue> la ira es
-vn feruor de calor: q<ue> esta en el corac'o<n>
+vn feruor de calor: q<ue> esta en el coraço<n>
 por el fuerte mouimie<n>to del alma .ij.
 de morbo. capi<tulo> .ij. Esso mismo se de-
 ue esquiuar la mucha alegria/ ca esca-
@@ -883,7 +883,7 @@ de buen regimiento: sera librado con el
 ayuda de dios/ de la peste. El primer
 remedio es vsar las pindolas que po-
 ne el rasis & el Auicenna.
-% Recipe {LAT. aloes/ succotrini p<ar>tes du-
+¶ Recipe {LAT. aloes/ succotrini p<ar>tes du-
 as: crocer orientalis: mirra an<<a>>. parte<m>
 vna<m>. sumatur omni die quasi .<onza>. s<emi>. vel
 [.]<onza> .j.} Estas pindolas no dexan corro<m>-
@@ -911,31 +911,31 @@ las superfluidades colericas que esta<n>
 en el stomago: & alimpia los esten-
 tinos de las fiezes & horruras. & por
 esso vale para preseruar de putrefacti-
-on. Tercio ende se pone ac'afra<n>. El q<u><<a>>l
+on. Tercio ende se pone açafra<n>. El q<u><<a>>l
 consta por relacion de todos los mae-
 stros doctos ser cordial. & por esso es
 bueno. Segundo vale por otro. Ca di-
 ze auice<n>na/ por auctoridad del alca<n>zi:
-q<ue> el ac'afran nunca altera los humo-
-res: mas co<n>serua el corac'on: & co<n>fuer-
+q<ue> el açafran nunca altera los humo-
+res: mas co<n>serua el coraçon: & co<n>fuer-
 ta los estentinos. Tercio esto mismo
-dize galieno: q<ue> el ac'afran repara los
+dize galieno: q<ue> el açafran repara los
 humores podridos: & no muda cosa
 algu<n>a dellos: mas co<n>serualos ygual-
 mente. Quarto vale/ porq<ue> segun co-
 stantino en pantegni: faze penetrar
 la medicina en do<n>de se pone: fasta los
 lugares mas arredrados: & fasta el co-
-rac'on. Siguese pues por la razo<n> & doc-
+raçon. Siguese pues por la razo<n> & doc-
 trina de las cosas precedientes/ q<ue> esta
 medicina es muy buena. Ahun segu<n>
 mi consejo mejor es q<ue> se tome en pil-
 doras: porq<ue> no es ta<n> ascorosa a la bo-
 ca. Ca assi como la miel es el extremo
-de las cosas dulc'es: assi el aloe es de
+de las cosas dulçes: assi el aloe es de
 las amargas[.] Segundo porq<ue> quier se
 de en gran quantidad para ablande-
-c'er & laxar/ quier en poca para preser-
+çer & laxar/ quier en poca para preser-
 uar/ mas tie<m>po tura en <e>l cuerpo. & por
 consiguie<n>te la virtud preseruatiua de
 putrefaction: tura & queda mas tiem-
@@ -950,53 +950,53 @@ sicos/ que dize q<ue> el boliarmini beuido
 con vinagre: es co<n>ueniente mucho a
 esta dolencia y este beuido vale por
 tres cosas. Primeramente porq<ue> en-
-fria el corac'on & los humores: & los fa-
+fria el coraçon & los humores: & los fa-
 ze estar sin bullir: assi como si pusie-
 ssen agua fria en la olla qua<n>do fierue/
 q<ue> luego cessa el feruor: o si ante de fer-
 uer/ la pusieren poco a poco: nu<n>ca fer-
 uera: antes matara el calor. Uale se-
 gundamente porq<ue> angosta las vias y
-caminos del corac'on/ & de los otros
+caminos del coraçon/ & de los otros
 mie<m>bros principales: para q<ue> el fumo
 eleuado/ no llegue a ellos/ ni el aire
-exterior toque el corac'on/ & lo altere.
+exterior toque el coraçon/ & lo altere.
 Uale terceramente: porq<ue> co<n>sume las
-humidades que estan cabe el corac'on
+humidades que estan cabe el coraçon
 & las seca. Empero si touiesse los pe-
 chos flacos/ o tos: quiten el vinagre
-& pongan vino. % El tercer remedio
+& pongan vino. ¶ El tercer remedio
 es tomar atriaca: q<u><<a>>ntidad de vna aue-
 llana: dos vezes en la semana: & porq<ue>
 escalie<n>ta mucho/ tomese con agua ro-
 sada/ o acetosa. Ca la atriaca enforte-
-ce & confuerta el corac'o<n>: defendiendo-
-le de la poc'on~a: & esto faze de su mis-
+ce & confuerta el coraço<n>: defendiendo-
+le de la poçoña: & esto faze de su mis-
 ma propiedad por entero: si quier spe-
 cie. Por esso atestigua auice<n>na/ q<ue> el
 que vsare de la triaca: ante de ser feri-
 do de peste: no morira de la tal dolen-
 cia: ante escapara della. {LAT. in .iiij. cano-
-nis.} % El .iiij. remedio es tomar mi-
+nis.} ¶ El .iiij. remedio es tomar mi-
 tridad en la manera & quantidad suso-
 dicha: o con suco de limones/ o de ci-
 dras: porq<ue> son cosas co<n>trarias a la po-
-c'on~a. % El .v. remedio es de maestre}
+çoña. ¶ El .v. remedio es de maestre}
 [fol. 47v]
 {HD. Tractado. +}
 {CB2.
 [j]oha<n> jayme: q<ue> el que tomasse vn boca-
-do de ac'etosa de man~ana: & otro a la
+do de açetosa de mañana: & otro a la
 noche/ o a viesperas: a tarde hauia pe-
-stile<n>cia y esto p<ro>uo en si mismo. % El
+stile<n>cia y esto p<ro>uo en si mismo. ¶ El
 [.]vj. remedio es tomar dos vezes cadal
 dia de puluere torme<n>tille/ con el agua
 del acetosa/ o de la buglossa/ o de meli-
 ssa/ o de scabiosa/ o por si sin agua/ o
 masque<n> la rayz por si: & comanla: ca
-defiende el corac'on de venino: & de fu-
-mos poc'on~osos. & sin escale<n>tar desse-
-ca de su propiedad. % El seteno reme-
+defiende el coraçon de venino: & de fu-
+mos poçoñosos. & sin escale<n>tar desse-
+ca de su propiedad. ¶ El seteno reme-
 dio es tomar cadal dia de la simie<n>te del
 cidro/ & de la simiente de los limones/
 quasi media dragma: con xarabe ace-
@@ -1005,35 +1005,35 @@ guna agua de las susodichas. maestre
 joha<n> jayme: al qual yo vi/ atestigua q<ue>
 la simie<n>te del cidro/ & la rayz de la tor-
 mentilla: & la atriaca lieua<n> la ventaja
-% El .viij. remedio es tomar dos ve-
+¶ El .viij. remedio es tomar dos ve-
 zes al dia caparas adobadas co<n> vina-
-gre. y esto segun Auicena. % El .ix.
+gre. y esto segun Auicena. ¶ El .ix.
 remedio es/ q<ue> conuiene con los otros
 en el efecto & obra: & no es apartado
 de otro alguno/ q<ue> es lauarse muchas
 vezes en el dia las manos co<n> vinagre
 & agua rosada/ o con vinagre solo: &
-leuar en la mano vn pan~o/ o spo<n>ja mo-
-jada en el/ & olerla. % El .x. remedio
+leuar en la mano vn paño/ o spo<n>ja mo-
+jada en el/ & olerla. ¶ El .x. remedio
 es este: {LAT. q<u><<i>> recipiatur flo<rum> nenufaris
 ros<arum> .ru<bearum>. an<<a>> .<onza> .ij. omniu<m> sandalo<rum> an<<a>>.
 <onza> .j. camphore scrupulu<m> .j. misceantur
 & co<n>quassentur: & pona<n>tur in sindone
 et odore<n>tur.} & si el tiempo fuesse frio
-an~adan del lignumaloes <onza> .j. Nota
+añadan del lignumaloes <onza> .j. Nota
 ahunq<ue> el agua rosada tomada/ o oli-
 da/ muchas vezes aprouecha. porque
-enfria & confuerta el corac'on & los mie<m>-
-bros spiritales/ & vitales % El .xj. re-
+enfria & confuerta el coraçon & los mie<m>-
+bros spiritales/ & vitales ¶ El .xj. re-
 medio es/ tomar de lapide besoartico}
 {CB2.
 porq<ue> es apropiado contra venino/ co<n>
 alguna de las aguas susodichas. & no
-dan~aria: si pusiessen en estas cuerno
+dañaria: si pusiessen en estas cuerno
 de olicorni quando las tome<n>/ porq<ue> de-
-fiende el corac'on de venino: & de fu-
-mos veninosos. % El .xij. remedio
-es: q<ue> si cada man~ana & tarde se toma-
+fiende el coraçon de venino: & de fu-
+mos veninosos. ¶ El .xij. remedio
+es: q<ue> si cada mañana & tarde se toma-
 sse vn bocado deste letuario que se si-
 gue: & beuiessen sobre el vna poquita
 de agua de acetosa: co<n> vn poquito de
@@ -1041,7 +1041,7 @@ vinagre. Recipe {LAT. boli armenici <onza> .vj.
 scamonia electi <onza> .ij. zuccari libr<a> .j.
 fundatur zuccaru<m> cu<m> aqua rosata vel
 acetose:} es cosa q<ue> aprouecha mucho.
-% El .xiij. remedio es/ sangrarse vna
+¶ El .xiij. remedio es/ sangrarse vna
 vez al mes: con buen regimie<n>to de co-
 mer & beuer/ & otras cosas &c<etera>.
 {RUB. Capi<tulo> .X. de que manera han
@@ -1059,11 +1059,11 @@ gu<n>as vezes es flaco & debile de fuera:
 & los gruessos no p<ar>ece<n> tener calor de
 fuera: mas de de<n>tro es fuerte. & p<ar>esce-
 les a ellos q<ue> arda<n> de de<n>tro. & luego se
-representa<n> sen~ales de fiebre aguda/ co<n>-
+representa<n> señales de fiebre aguda/ co<n>-
 uiene saber sequedad de boca & de len-
 gua: & gran set: & difficultad de reso-
-llar: dolor de las entran~as cerca el co-
-rac'o<n>: y algu<n>as vezes en <e>l anca: algu<n>as
+llar: dolor de las entrañas cerca el co-
+raço<n>: y algu<n>as vezes en <e>l anca: algu<n>as
 en <e>l stomago: algu<n>as en los pechos: &
 assi d<e> las otras. luego le hiede la vrina
 y lo q<ue> echa por baxo/ y la suor y el alie<n>-to/}
@@ -1076,16 +1076,16 @@ sangre<n>le luego vn poco de la vena lla-
 mada basilica. digo vn poco por q<ue> des-
 pues se pueda fazer mayor sangria q<u><<a>>n-
 do se descubriere la landra: y enfrie<n> le
-el corac'on co<n> qualquier manera de en-
+el coraçon co<n> qualquier manera de en-
 friar: enramen la casa: & escampe<n> por
-ella juncos/ salze: & fojas de can~as: &
+ella juncos/ salze: & fojas de cañas: &
 lechugas/ & verdolagas/ & cosas se-
 mejantes. ruscien la casa co<n> agua fria
 & vinagre: & guela sie<m>pre vinagre/ ca<m>-
 phora/ agua rosada: o el pomo susodi-
 cho. Si esta costipado & indigesto: fa-
 ga<n>le vn cristel laxatiuo. Recipe {LAT. mal-
-ue bismalue/ mercurialis/ sicle/ branc'e
+ue bismalue/ mercurialis/ sicle/ brançe
 arsine an<<a>>. manipulu<m> .j. ordei no excor-
 ticati: ca<n>tabri. an<<a>>. q<u><<a>>rtu<m>. s<emi>. fiat decoc-
 tio/} en la q<u><<a>>l se disuelua la cassia( )fistula
@@ -1096,7 +1096,7 @@ o pona<n> ende gera pigra/ & benedicta:
 si touiere dolor en los renes/ o en las
 ancas: segun q<ue> pareciere al phisico/ q<ue>
 obrare en el. & confuerte<n>le sie<m>pre el co-
-rac'on co<n> pitthimas & cosas cordiales
+raçon co<n> pitthimas & cosas cordiales
 que enfrie<n>. Empero si la fiebre susodi-
 cha fuere junta co<n> el apostema/ quier
 sea diuiesso/ quier entras/ o carbuncu-
@@ -1105,21 +1105,21 @@ uiere el apostema en los sobacos: san-
 grenle de la vena basilica de aq<ue>lla par-
 te. & si en el cuello/ de la vena llamada
 cephalica de aquella parte. & siempre
-que touiere fiebre/ deuemos come<n>c'ar
+que touiere fiebre/ deuemos come<n>çar
 por la euacuacion/ junto co<n> la sangria
 sino q<ue> algo particular empeezca. co-
 mo es la debilidad d<e> la virtud/ o la po-
 ca edad & imperfectio<n> de aquella &c<etera>. &
 luego deue vsar de cosas confortati-uas}
 {CB2.
-para el corac'on. Algunos q<u><<i>>eren
+para el coraçon. Algunos q<u><<i>>eren
 q<ue> le de<n> medicina laxatiua. la qual si le
 fuere dada/ sea muy flaca/ assi como
 es la cassia/ la manna/ (c)[t]amarindos/
 violas/ pruna/ ruybarbo: & cosas se-
 meja<n>tes: & no se de fuerte medicina:
 porq<ue> si materia mala/ calie<n>te & corrup-
-ta & furiosa se enderec'asse a los este<n>ti-
+ta & furiosa se endereçasse a los este<n>ti-
 nos: causaria fluxo de vie<n>tre & muer-
 te. E porq<ue> esta dole<n>cia es subita: & la
 materia inquieta: por esso subitame<n>te
@@ -1147,7 +1147,7 @@ se ponitur: quia infrigidad & co<n>fortat
 aqua endiuie: refrigerat} el figado. El
 agua de la verdolaga enfria el stoma-
 go. El agua rosada confuerta el cora-
-c'on/ & lo enfria. El ac'ucar por todas
+çon/ & lo enfria. El açucar por todas
 las otras cosas se torna frio: & co<n> esto
 nudre/ confuerta y enfria: & junto co<n>
 esto co<n>serua de putrefactio<n>. & por esso
@@ -1168,7 +1168,7 @@ eius succi limonis .o<n>z<a> .j. &. s<emi>. floru<m> ne-
 nufaris: omniu<m> sandaloru<m>: camphore
 [.]an<<a>> .<onza> .s<emi>. aceti albi. o<n>z<a> .j. duas panis
 zuccari: fiat sirupus. succus buglosse}
-confuerta & alimpia el corac'o<n>. Qui(u)[n]-
+confuerta & alimpia el coraço<n>. Qui(u)[n]-
 to se pueden dar lac acetosum/ & siero
 de cabras. si touiere gran set: denle
 agua fria de fue<n>te/ quanta podiere be-
@@ -1195,20 +1195,20 @@ co<n>serue ro<sarum> .an<<a>>. vncia<n> semis: seminis
 acetose: seminis citri vel limonis .an<<a>>.
 dragma<m> vna<m>: panoru<m> auri/ octo: pa-
 nis zuccari libr<am>. vna<m>. fiat mixtura ad
-modu<m> zuccari rosaru<m>:} puedense an~a-
+modu<m> zuccari rosaru<m>:} puedense aña-
 der limadura de oro & d<e> plata/ aljofar}
 {CB2.
-c'aphir/ jacincto/ esmeralda/ os de cor-
+çaphir/ jacincto/ esmeralda/ os de cor-
 nu cerui/ raedura de marfil/ coral bla<n>-
 co y bermejo/ been: & {LAT. similia cordialia[.]}
-E porq<ue> el corac'on sie<m>pre deue ser de-
+E porq<ue> el coraçon sie<m>pre deue ser de-
 fendido & confortado de<n>tro & de fue-
 ra: segun dize el principe alboali en el
 quarto del canon .j. cap<itulo>. {LAT. antiquissimi
 antiquoru<m> &c<etera>.} Por esso se faze vna
 tal pitthima de la parte de fuera: para
 que sea defendido/ porq<ue> mas deue ser
-ayudado en este caso el corac'o<n> q<ue> otro
+ayudado en este caso el coraço<n> q<ue> otro
 mie<m>bro alguno. Recipe {LAT. aque acetose
 libram semis: aque rosaru<m>: aque endi-
 uie/ aque melisse. an<<a>>. quantu<m> sufficit:
@@ -1217,10 +1217,10 @@ nenufaris/ seminis lactuce/ seminis
 papaueris. an<<a>>. vncia<m> semis: aceti albi
 fortissimi: quantu<m> sufficit: misceantur
 et fiat epithima:} & pongase sobre la
-parte del corac'on que este muy frio. &
+parte del coraçon que este muy frio. &
 quando fuere escalie<n>tado: quite<n>gele:
 & ponga<n>le otro. ponga<n> tanbien en el
-apostema/ y en la parte del corac'on/ ca-
+apostema/ y en la parte del coraçon/ ca-
 be el apostema atriaca: & bueno seria
 si le diessen vn trosico de ca<m>phora/ co<n>
 alguna de las beuidas susodichas.
@@ -1230,11 +1230,11 @@ a la apostema.}
 {IN4.} NO se deue tener en poco
 en manera alguna/ o dese-
 stimar el confuerto del co-
-rac'on: antes se deue fazer
+raçon: antes se deue fazer
 dentro & de fuera. por consiguie<n>te pri-
 merame<n>te se considera el apostema: &
 si se fallare vermejo/ o cetrino: bie<n> se-
-ra. & si luego comienc'a a crec'er con su
+ra. & si luego comiença a creçer con su
 bermejura/ o cetrinidad: bien sera.
 Empero si el apostema es negro/ o q<ue>
 decline a negro: ningu<n>o escapara del}
@@ -1243,10 +1243,10 @@ decline a negro: ningu<n>o escapara del}
 {CB2.
 tal[.] E porq<ue> los apostemas son malos
 por la conuersion de la materia dellos
-en substancia poc'on~osa: de necessidad
+en substancia poçoñosa: de necessidad
 corrompe el miembro: & altera su sub-
-sta<n>cia & color: & an~ade mala qualidad
-que va por las arterias al corac'on: se-
+sta<n>cia & color: & añade mala qualidad
+que va por las arterias al coraçon: se-
 gun pone Auicenna. {LAT. fen .iij. quarti.}
 Por e<n>de sobre el apostema deuemos
 poner cosas attractiuas: que abran
@@ -1267,18 +1267,18 @@ mosus:} & pongan otra vez la ventosa
 para q<ue> salga sangre/ & los fumos ve-
 ninosos/ q<ue> dende sube<n>: tornen atras
 & no se po<n>ga ende repercussiuos: por-
-q<ue> ayudara<n> el fumo poc'on~oso yr al co-
-rac'on. ni tanpoco vnctos: como son
+q<ue> ayudara<n> el fumo poçoñoso yr al co-
+raçon. ni tanpoco vnctos: como son
 insundias & cosas semejantes: a lo me-
 nos en el principio. ca cerraria<n> los po-
 ros. por esso erran los que pone<n> azey-
 te rosado/ & vinagre/ & azeyte/ agraz
-& boli[+]armini: & cosas semeja<n>tes. Em-
+& boli( )armini: & cosas semeja<n>tes. Em-
 pero en lugar de defensiuos: se puede<n>
-poner entre la parte del corac'on y el
+poner entre la parte del coraçon y el
 apostema para cerrar los poros: & no
 permeter que vengan los fumos po-
-c'on~osos al corac'on. Quinto segun
+çoñosos al coraçon. Quinto segun
 Auicenna: fagase vn tal emplastro.
 Recipe {LAT. capilli veneris recentis atri-
 plicis volubilis minoris radicu<m> enisci}}
@@ -1306,8 +1306,8 @@ abra en el .iiij. dia con nauaja/ o con
 lanceta. yo algunas vezes fize abrir
 estas apostemas: & ninguna cosa de
 ellas salia. sino vna poquita de san-
-gre. & en la segunda visita/ salia poc'o-
-n~a: & despues podredura. No se espe-
+gre. & en la segunda visita/ salia poço-
+ña: & despues podredura. No se espe-
 re pues por consiguiente perfecta ma-
 duracion: mas abranla luego: & des-
 pues de abierta: pongan sobre ella
@@ -1318,7 +1318,7 @@ stema/ tomandole con tenazas: & cor-
 tandole. lo qual yo no aprueuo por el
 graue dolor que ende se causa: por el
 qual las virtudes se enflaquescen & de-
-rriban. % Segundo por el grande
+rriban. ¶ Segundo por el grande
 fluxo de sangre. Por ende el mas se-
 guro modo es/ el susodicho. Empe-
 ro si se faze vesica alguna/ o carbun-
@@ -1343,52 +1343,52 @@ la forma susodicha. {LAT. post ista dimittan-
 tur restauratoribus/ vt incarne<n>tur[.]} E
 es de aduertir q<ue> estas dole<n>cias son ta<n>
 malas & peligrosas: q<ue> los phisicos se
-engan~an comunmente: ca veen en la
-vrina buenos sen~ales: & buena ypo-
+engañan comunmente: ca veen en la
+vrina buenos señales: & buena ypo-
 stasi: & no embargante esto: muere el
 doliente. la razon de lo qual es: porq<ue>
-la materia es muy poc'on~osa: & abho-
+la materia es muy poçoñosa: & abho-
 rrecible. & la natura la dexa. & no le
 osa entrar: mas conuiertese antes al
 comer & beuer: faziendo buena dige-
 stion; & ypostasis en las aguas. & assi
-mueren los dolie<n>tes[.] % Tercio se pre-
+mueren los dolie<n>tes[.] ¶ Tercio se pre-
 gunta: por q<ue> muere<n> algunos/ & otros
 no digo que co<n>siderando la rayz ba-
 xa: & este negocio dendel cimiento/ al-
 gunos cuerpos hay mas dispuestos a
 recebir la tal corrupcion: como los cu-
-erpos de los nin~os. Ca la action del
+erpos de los niños. Ca la action del
 age<n>te/ es en el cuerpo bien dispuesto
 segu<n> Aristotiles: mas qua<n>to a la rayz
 superior: porq<ue> aquella influe<n>cia mas
 mira a vno q<ue> a otro. assi como satur-
-no dan~a a todos; saluo a sus scolares
+no daña a todos; saluo a sus scolares
 & hombres de su complexio<n>: a los qua-
-les no dan~a/ & son muchos[.] % Quar-
+les no daña/ & son muchos[.] ¶ Quar-
 to se pregunta: por que mas en vn lu-
 gar que en otro respondo que por lo
 susodicho puedes soltar esta question}
 {CB2.
 que vna misma influencia/ mas lue<n>go
-tie<m>po mira vn lugar q<ue> otro. % Quin-
+tie<m>po mira vn lugar q<ue> otro. ¶ Quin-
 to se pregunta: por que los que scupe<n>
 sangre/ mueren antes/ & infeccionan
 mas a los otros. respondo/ q<ue> es porq<ue>
 aquel scupir de sangre/ es por el apo-
 stema rompido: que esta cabe el cora-
-c'on: & porque esta mas cabe el cora-
-c'on: por esto mas/ & mas presto ma-
-ta. % Sexto se pregunta/ por que esta
-materia poc'on~osa mas infecciona &
-va al corac'on q<ue> a los otros miembros.
+çon: & porque esta mas cabe el cora-
+çon: por esto mas/ & mas presto ma-
+ta. ¶ Sexto se pregunta/ por que esta
+materia poçoñosa mas infecciona &
+va al coraçon q<ue> a los otros miembros.
 respondo que esto faze por su entera
-propiedad: porque el venino & poc'o-
-n~a de su virtud specifica/ va la corac'o<n>[.]
-O es de dizir que estos fumos poc'o-
-n~osos enfecionan a todos los miem-
-bros: empero mas presto es dan~ado
-el corac'on. porque es mas passible/ &
+propiedad: porque el venino & poço-
+ña de su virtud specifica/ va la coraço<n>[.]
+O es de dizir que estos fumos poço-
+ñosos enfecionan a todos los miem-
+bros: empero mas presto es dañado
+el coraçon. porque es mas passible/ &
 de natura que se indigna mas[.] La die-
 ta destos es/ como la d<e> los febraticos
 que tienen fiebre aguda. empero den-
@@ -1400,7 +1400,7 @@ dire mas abaxo.
 la pestilencia.}
 {IN4.} Esta dole<n>cia es tan mala &
 peligrosa: que los spiritus
-del corac'on & d<e>l cuerpo se
+del coraçon & d<e>l cuerpo se
 resueluen mas/ & se disuel-
 uen/ q<ue> en alguna otra fiebre. E por
 esso mas hauemos nosotros mene-
@@ -1420,13 +1420,13 @@ ze por la manera susodicha: en la cura
 & por viandas que enfrien. La prime-
 ra vianda es/ q<ue> cueza<n> vna polla/ o po-
 llo/ lleno de agraz/ & de verdolagas:
-co<n> ac'afran: & den de aquel caldo al do-
+co<n> açafran: & den de aquel caldo al do-
 liente: & {LAT. fiat colaticium.} Segu<n>do que
 le den ordias/ & auenas: con leche de
 almendras. & puede comer de vna po-
 lla las extremidades: con succo de li-
 mo<n>/ o de cidra/ o de agraz. Tercio de<n>-
-le aues pequen~as bullidas/ o assadas
+le aues pequeñas bullidas/ o assadas
 con acetosa. & confuertenle algunas
 vezes con buenas viandas: ahunque
 le sean algun ta<n>to contrarios. & con-
@@ -1435,7 +1435,7 @@ aquellos/ que fazen virilmente sobre
 aquello: co<n>uiene saber sobre la restau-
 racion: & comen reziame<n>te/ escapan.
 & son palabras del auice<n>na {LAT. .iiij. cano-
-nis. cap<itulus> .j.} Denles mac'anas & peras
+nis. cap<itulus> .j.} Denles maçanas & peras
 assadas en el rescaldo/ & cosas semeja<n>-
 tes. Puedenles tanbien dar pies de
 carnero: con vinagre. Si les diere<n> vi-
@@ -1450,9 +1450,9 @@ escapan. Sean pues considerados/ &
 imaginados ma<n>jares diuersos. en los
 quales tome plazer el dolie<n>te: & se de-
 lecte algun tanto: para q<ue> sea de tanta
-obediencia: q<ue> o por fuerc'a/ o por gra-
+obediencia: q<ue> o por fuerça/ o por gra-
 do tome de aq<ue>llos. & los manjares to-
-dos decline<n> a acetosidad. % Aquel fa-
+dos decline<n> a acetosidad. ¶ Aquel fa-
 bricador de los planetas & de las coste-
 llaciones/ y de las influencias: & q<ue> tie-
 ne imperio sobre la mar: & sobre los

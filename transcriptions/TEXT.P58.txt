@@ -6,9 +6,9 @@
 {RMK: José Manuel Fradejas Rueda.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0516-0001: Pragmática sobre la impresión y libros.} {RUB. % Pregmatica sobre la impression: y libros. %}
+{RMK: HSMS-0516-0001: Pragmática sobre la impresión y libros.} {RUB. ¶ Pregmatica sobre la impression: y libros. ¶}
 {ILL. {MIN.}
-% La orden que se ha de tener
+¶ La orden que se ha de tener
 en imprimir los libros, ansi los impressores como los
 q<ue> los dan a imprimir. Y ansi mesmo los libreros enla
 forma q<ue> los han de vender, y las dilige<n>cias que los
@@ -16,32 +16,32 @@ vnos y los otros son obligados a hazer, juntame<n>te
 con la orden que se ha d<e> tener en visitar las librerias
 ansi de los libreros como de otras qualesquier perso-
 nas, ansi ecclesiasticas como seglares.
-% Con priuilegio. %
-% Tassado a cinco marauedis el pliego.
-% Impresso en Ualladolid en casa de Sebastian
-Martinez, este an~o de. 1558.}}
+¶ Con priuilegio. ¶
+¶ Tassado a cinco marauedis el pliego.
+¶ Impresso en Ualladolid en casa de Sebastian
+Martinez, este año de. 1558.}}
 [fol. 1v]
 {CB1.
 {IN6.} DOn Phelippe por la gracia de
 Dios Rey de Castilla, de Leon, de Aragon, de Inglate-
 rra, de Francia, de las dos Secilias de Hierusalem, de
 Nauarra, d<e> Granada, de Toledo, de Ualencia, de Gali-
-zia, de Mallorca, de Seuilla de Cerden~a, de Cordoua,
+zia, de Mallorca, de Seuilla de Cerdeña, de Cordoua,
 de Corcega, de Murcia, de Jaen de los Algarbes de
 Algecira, de Gibraltar, de las yslas de Canaria, de las Yndias yslas & tie-
 rra firme del mar Oceano, Conde de Flandes & de Tirol. &c<etera>. A los d<e>l nue-
 stro consejo presidentes & oydores de las nuestras audiencias, alcaldes d
 la nuestra casa y corte y chancillerias, y a todos los corregidores asiste<n>te
 gouernadores y otros qualesquier juezes & justicias de todas las ciuda-
-des villas y lugares d<e> los nuestros reynos y sen~orios, & a cada vno & qual
+des villas y lugares d<e> los nuestros reynos y señorios, & a cada vno & qual
 quier d<e> vos en vuestros lugares & jurisdiciones,& a otras qualesquier per-
-sonas a quien lo contenido en esta nuestra carta toca & atan~e, salud & gra-
+sonas a quien lo contenido en esta nuestra carta toca & atañe, salud & gra-
 cia. Sepades q<ue> nos somos imformados q<ue> como quiera q<ue> enla pregma-
-tica de los sen~ores reyes catholicos de gloriosa memoria nuestros proge-
+tica de los señores reyes catholicos de gloriosa memoria nuestros proge-
 nitores esta proueydo y dada orden cerca de la impression y venta de li-
 bros que en estos reynos se hiziere<n>. Y como quiera que ansi mismo por los
 Ynquisidores y ministros del sancto officio, y por los prelados & sus probi-
-sores y hordinarios, en cada vn an~o se declaren y publique<n> los libros que
+sores y hordinarios, en cada vn año se declaren y publique<n> los libros que
 son reprobados. & en que ay herrores y heregias prohibiendo so graues
 censuras y penas contra los que los tienen, leen y encubren, toda via nilo
 probeido por la dicha pregmatica ni las dilige<n>cias que los dichos inqui-
@@ -50,28 +50,28 @@ estos rey nos muchos libros, assi impressos en ellos como traydos de fue-
 ra, en latin y en roma<n>ce y otras le<n>guas en que ay heregias, herrores, y fal-
 sas dotrinas sospechosas y escandalosas y de muchas nouedades co<n>tra
 nuestra sancta fee catholica & religion, y que los hereges que en estos tiem-
-pos tienen preuertida & dan~ada tanta parte de la Christiandad procura<n>
+pos tienen preuertida & dañada tanta parte de la Christiandad procura<n>
 con gran astucia por medio de los dichos libros, sembrando con cautela
-y disimulacion en ellos sus herrores derramar & imprimir en los corac'o-
-nes de los subditos y naturales destos reynos ((q<ue> por la gracia de Dios))
+y disimulacion en ellos sus herrores derramar & imprimir en los coraço-
+nes de los subditos y naturales destos reynos ≺q<ue> por la gracia de Dios≻
 son tan catholicos christianos sus heregias y falsas opiniones, y que ansi
-no se probeye<n>do de remedio suficie<n>te, el dan~o podria venir a ser muy gra<n>-
+no se probeye<n>do de remedio suficie<n>te, el daño podria venir a ser muy gra<n>-
 de, como por experie<n>cia se ha visto en el que en las otras prouincias se ha
-hecho, y en el que en estos reynos se ha come<n>c'ado. Y otro si somos informa-
+hecho, y en el que en estos reynos se ha come<n>çado. Y otro si somos informa-
 do que en estos reynos ay y se venden muchos libros en latin y en roma<n>-
 ce y otras lenguas impressas en ellos. & traydos de fuera de materias va-
 nas desonestas y de mal exemplo de cuya letura & vso se siguen grandes
 & notables inconuenientes, cerca de lo qual por los procuradores de cor-
 tes nos ha sido con gran instancia suplicado pusiesemos remedio, & porq<ue>
 a nos pertenesce proueer en todo lo suso dicho como en cosa y negocio ta<n>
-importante al seruicio d<e> Dios nuestro sen~or y nuestro, y al bie<n> y beneficio}
+importante al seruicio d<e> Dios nuestro señor y nuestro, y al bie<n> y beneficio}
 [fol. 2r]
 {CB1.
 de los nuestros subditos y naturales hauiendo se por nos ma<n>dado pla-
 ticar en nuestro conseio, y co<n>(n)sultado con la serenissima princesa d<e> Por-
 togal nuestra muy cara & muy amada hermana gouernadora destos
 nuestros reynos por nuestra ausencia dellos. Fue acordado que deuia-
-mos mandar dar esta nuestra carta: la qual queremos que ay a fuerc'a d<e>
+mos mandar dar esta nuestra carta: la qual queremos que ay a fuerça d<e>
 ley & pregmatica sancion, por la qual mandamos que ningun librero
 ni mercader de libros ni otra persona alguna de qualquier estado & co<n>-
 dicio<n> q<ue> sea, trayga, ni meta, ni te<n>ga ni[ ]ve<n>da ningu<n> libro ni obra impressa
@@ -87,7 +87,7 @@ do<n>de se pueda leer y entender.
 {IN2.} OTro( )si mandamos & de(s)[f]endemos que ningun librero ni otra perso-
 na alguna trayga ni meta en estos reynos libros de romance
 impressos fuera dellos de qualquier materia calidad & facultad, no sie<n>-
-do impressos co<n> lice<n>cia firmada del nuestro no<m>bre. y sen~alada delos del
+do impressos co<n> lice<n>cia firmada del nuestro no<m>bre. y señalada delos del
 nuestro consejo, so pena de muerte y de perdimiento de bienes. y en
 quanto a los libros de romance de los impressos fuera deste reyno ha-
 sta agora & antes de la publicacion desta nuestra carta y pregmatica
@@ -95,7 +95,7 @@ se ouieren traydo seyendo de los bedados y prohibidos por el sancto
 officio, se guarde lo contenido & dispuesto en el precedente capitulo y
 en los de mas que no fueren de los prohibidos, siendo como dicho es,
 de los impressos fuera del reyno, sean obligados los que los tuuieren
-a los presentar al corregidor o alcalde mayor d<e>la cabec'a del partido,
+a los presentar al corregidor o alcalde mayor d<e>la cabeça del partido,
 el qual embie ante los del nuestro conseio la memoria de los que son
 para que visto se prouea, y entretanto no los tengan ni bendan so pena
 de perdimiento de sus bienes, y que sean desterrados destos reynos
@@ -105,7 +105,7 @@ qualquier facultad que sea en latin ni en romance ni otra lengua
 se pueda imprimir ni imprima en estos reynos sin que primero el tal li-
 bro o obra sean presentados en nuestro consejo & sean vistos y examina-
 dos por la persona o personas a quien los del nuestro consejo lo come-
-tieren, y hecho esto se le de licencia firmada de nuestro nombre y sen~a-lada}
+tieren, y hecho esto se le de licencia firmada de nuestro nombre y seña-lada}
 {SG. Aij}
 [fol. 2v]
 {CB1.
@@ -116,17 +116,17 @@ la dicha forma incurra en pena de muerte y en perdimie<n>to de todos sus
 bienes: & los tales libros y obras sean publicamente quemados.
 Por que fecha la presentacion y examen dicha en nuestro consejo y
 hauida nuestra licencia se podra en el tal libro o obra alterar o mu-
-dar o an~adir d<e> manera que la suso dicha diligencia no bastase para
+dar o añadir d<e> manera que la suso dicha diligencia no bastase para
 que d<e>spues no se pudiese imprimir en otra manera y con otras cosas de
 las que fueron vistas y examinadas para obiar esto, & que no se pueda
 hazer fraude: mandamos que la obra & libro original que en nuestro co<n>-
 sejo se presentare hauiendo se visto y examinado, y parecie<n>do tal que se
-deue dar licencia. sea sen~alada & rubricada en cada plana & oja de vno
+deue dar licencia. sea señalada & rubricada en cada plana & oja de vno
 de los nuestros escriuanos de camara que residen en el nuestro conse-
-jo qual por ellos fuere sen~alado, el qual al fin del libro ponga el nume-
-ro & cuenta de las ojas y lo firme de su nombre, rubricando y sen~ala<n>do
+jo qual por ellos fuere señalado, el qual al fin del libro ponga el nume-
+ro & cuenta de las ojas y lo firme de su nombre, rubricando y señala<n>do
 las emiendas que en el tal libro ouiere,& saluando las al fin, y que el tal
-libro & obra ansi rubricado sen~alado & numerado se entregue para que
+libro & obra ansi rubricado señalado & numerado se entregue para que
 por este & no de otra manera se haga la tal impression, y que despues de
 hecha sea obligado el que assi lo imprimiere a traer al nuestro co<n>sejo el
 tal original que se le dio con vno o dos bolumenes de los impressos pa-
@@ -137,7 +137,7 @@ gio si le ouiere. y el nombre del auctor y del impressor & lugar donde se
 imprimio: & que esta misma orden se tenga y guarde en los libros que
 hauiendo ya sido impressos se tornare<n> dellos a hazer nueua impressio<n>.
 & que esta tal nueua impression no se pueda hazer sin nuestra lice<n>cia & sin
-que el libro donde se ouiere de hazer sea visto & rubricado y sen~alado en
+que el libro donde se ouiere de hazer sea visto & rubricado y señalado en
 la manera y forma que dicha es, en las obras & libros nueuos: lo qual
 ma<n>damos que se guarde & cumpla ansi so pena que el que lo imprimie-
 re o diere a imprimir o vendiere impreso en otra manera, & no hauien-
@@ -146,14 +146,14 @@ de perdimiento de bienes y destierro perpetuo destos reynos & ma<n>da-
 mos que en nuestro consejo aya vn libro enquadernado en que se po<n>ga
 por memoria las licencias que para las dichas impressiones se dieren
 y la vista y examen dellos & las personas a quien se dieron, y el nombre
-del auctor, con dia mes & an~o.
+del auctor, con dia mes & año.
 {IN3.} Y Porque hauiendose de hazer & guardar lo suso dicho en todos los li-bros}
 [fol. 3r]
 {CB1.
 y obras generalmente, que en estos reynos se ouiesen de imprimir
-seria de gran embarac'o & impedimento, permitimos que los libros mi-
+seria de gran embaraço & impedimento, permitimos que los libros mi-
 ssales breuiarios, diurnales, libros de canto para las yglesias y mona-
-sterios. horas en latin y en romance, cartillas para ensen~ar nin~os,
+sterios. horas en latin y en romance, cartillas para enseñar niños,
 {LAT. flos sanctorum} constituciones sinodales, artes de gramatica, voca-
 bularios y otros libros de latinidad de los que se han impresso en estos
 reynos. no siendo los dichos libros de que se ha dicho obras nueuas, si
@@ -178,7 +178,7 @@ pleytos que se puedan libremente imprimir.
 {IN1.} Y Porque somos informados que en estos reynos ay & se tienen por
 algunas personas obras & libros escriptos de mano que no esta<n> im-
 pressas, las quales comunican publican & confieren con otros, de cuya
-letura & comunicacion se han seguido inconuinientes & dan~o, manda-
+letura & comunicacion se han seguido inconuinientes & daño, manda-
 mos y defendemos que ninguna persona de qualquier calidad o con-
 dicion que sea no tenga ni comunique ni confiera ni publique a otros
 libro ni obra nueua de mano que sea de materias de doctrina de sagra-
@@ -197,11 +197,11 @@ si se reprouaren & rompieren se ponga memoria en el dicho libro.
 como adelante enteramente y co<n> efecto, conuiene visitar y ver los li-
 bros que ansi en poder de los libreros & mercaderes de libros, como de
 otras algunas personas assi seglares como ecclesiasticas y religiosos
-ay & ouiere, mandamos y encargamos a los Arc'obispos, Obispos y
+ay & ouiere, mandamos y encargamos a los Arçobispos, Obispos y
 prelados destos reynos, a cada vno en su districto y juridicio<n> y diocesi,
 que con mucha diligencia & cuydado por si o por personas doctas de le-
 tras & conciencia que para esto diputaren juntamente con nuestra justi-
-cia & corregidores de las cabec'as de los partidos, alos quales manda-
+cia & corregidores de las cabeças de los partidos, alos quales manda-
 mos se junten con ellos, vean & visiten las librerias y tiendas de los li-
 breros y mercaderes de libros y de qualesquier otras personas parti-
 culares ecclesiasticas & seglares que les pareciere: y que los libros que
@@ -211,7 +211,7 @@ quiera manera o facultad que sean en latin o en romance, o otras len-
 guas, aunque sean de los impressos con licencia nuestra, embien d<e>llos
 relacion firmada de sus nombres a los del nuestro consejo para que
 lo vean & prouean, y en el entretanto los depositen en la persona de con-
-fianc'a que les pareciere. Y en las vniversidades de Salama<n>ca, Ualla-
+fiança que les pareciere. Y en las vniversidades de Salama<n>ca, Ualla-
 dolid. Alcala: mandamos que las vniuersidades en su claustro no<m>bren
 dos doctores o maestros que juntamente co<n> los prelados & diputados
 por ellos y nuestras justicias hagan en los dichos lugares de Sala-
@@ -223,7 +223,7 @@ sus monasterios. & los libros que particularmente tienen los frayles y
 monjas de sus ordenes, y embien relacion al nuestro consejo segu<n> & co-
 mo esta dicho en los prelados & justicias, & mandamos que se haga de
 aqui adelante por los dichos prelados & justicias y personas & religio-
-sos en cada vn an~o vna vez, guardando lo que dicho es.
+sos en cada vn año vna vez, guardando lo que dicho es.
 {IN2.} Y Mandamos que las penas en que incurrieren conforme a esta nue-
 stra carta los que fueren o vinieren contra lo en ella dispuesto se apli-
 que en esta manera, la tercia parte para nuestra camara, & la otra tercia
@@ -237,16 +237,16 @@ hagays guardar y cumplir y executar todo lo en esta nuestra carta con-
 tenido. Y porque esto sea publico y venga a noticia d<e> todos, y ninguno
 pueda pretender ignorancia, mandamos que esta nuestra carta sea pu-
 blicada en nuestra corte y en todas las ciudades villas y lugares d<e>los
-nuestros reynos y sen~orios, en las plac'as & mercados y otros lugares
+nuestros reynos y señorios, en las plaças & mercados y otros lugares
 acostumbrados, por pregonero y ante escriuano publico, & los vnos ni
 los otros no fagades ni fagan ende al so pena de la nuestra merced &
 de diez mill marauedis para la nuestra camara. Dada en la villa de
 Ualladolid a siete dias del mes de Septiembre de mill & quinientos &
-cincuenta & ocho an~os.
+cincuenta & ocho años.
 {RUB. La Princesa.}
 yo Juan vazquez de Molina secretario de su Catholica Ma-
 gestad la fize escreuir por su ma<n>dado, su Alteza en su nombre.
-% Juan de vega, El licenciado vaca de Castro. El licenciado Mo<n>-
-taluo, El licenciado Otalora, El licenciado Diego de mun~atones
+¶ Juan de vega, El licenciado vaca de Castro. El licenciado Mo<n>-
+taluo, El licenciado Otalora, El licenciado Diego de muñatones
 El licenciado Pedrosa, El doctor velasco, Doctor Cano.
 Registrada Martin de vrquiola, Martin de vrquiola por chanziller.}

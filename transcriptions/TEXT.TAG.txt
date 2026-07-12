@@ -1,13 +1,13 @@
 {RMK: HSMS-0522.}
 {RMK: Fray Juan de Plasencia.}
-{RMK: [TAG] Doctrina cristiana en lengua espan~ola y tagala.}
+{RMK: [TAG] Doctrina cristiana en lengua española y tagala.}
 {RMK: Manila | Keng Yong | 1593.}
 {RMK: Washington | Library of Congress	| Lessing J. Rosenwald collection, 1302.}
 {RMK: Francisco Gago Jover.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0522-0001: Doctrina cristiana en lengua espan~ola y tagala.} {ILL. {MIN.}} Doctrina Christiana, en
-lengua espan~ola y[ ]tagala cor-
+{RMK: HSMS-0522-0001: Doctrina cristiana en lengua española y tagala.} {ILL. {MIN.}} Doctrina Christiana, en
+lengua española y[ ]tagala cor-
 regida por los Religiosos de las
 ordenes Jmpressa con licencia, en
 S<an> gabriel de la orden de. S<anto>. Domi<n>go
@@ -21,7 +21,7 @@ Juan de cuellar]}}
 A. a. b. c. d. e. f. g. h. ij. l. m. n. o.
 p. q. r r. s. s. t. u. v. x. y. z. z.
 uocales. a. e. i. o. u. & <con>. <rum>. <us>
-Ba. be. bi bo bu. (C)[C']a c'e. c'i. c'o. c'u
+Ba. be. bi bo bu. (C)[Ç]a çe. çi. ço. çu
 Da. de di do du. Fa fe fi fo fu.
 Gua gue gui guo gu. Ha he hi.
 ho hu. Ja je ji jo ju. La le li.
@@ -34,8 +34,8 @@ xo xu. ya ye yi yo yu. Za ze zi.
 zo zu.}
 [fol. 2v]
 {CB1.
-Ban ben bin bon bun (C)[c']an c'en
-c'in c'on c'un. Dan den din don.
+Ban ben bin bon bun (C)[ç]an çen
+çin çon çun. Dan den din don.
 dun. Fan fen fin fon fun. Guan
 guen guin guon gun. Han hen
 hin hon hun. Jan jen jin jon jun.
@@ -50,7 +50,7 @@ xun. Yan yen yin yon yun. Zan
 zen zin zon zun.}
 [fol. 3r]
 {CB1.
-Ba<n> be<n> bi<n> bo<n> bu<n>. C'a<n> c'e<n> c'i<n> c'o<n> c'u<n>.
+Ba<n> be<n> bi<n> bo<n> bu<n>. Ça<n> çe<n> çi<n> ço<n> çu<n>.
 Da<n> de<n> di<n> do<n> du<n>. Fa<n> fe<n> fi<n> fo<n> fu<n>.
 Guan guen guin guon gun. Ha<n>.
 he<n> hi<n> ho<n> hu<n>. Ja<n> je<n> ji<n> jo<n> ju<n>. La<n> le<n>.
@@ -60,13 +60,13 @@ que<n> qui<n> quo<n> qu<n>. Ra<n> re<n> ri<n> ro<n> ru<n>. Sa<n>
 se<n> si<n> so<n> su<n>. Ta<n> te<n> ti<n> to<n> tu<n>. Ua<n> ve<n>.
 vi<n> vo<n> vu[<n>]. Xa<n> xe<n> xi<n> xo<n> xu<n>. Ya<n> ye<n>.
 yi<n> yo<n> yu<n>. Za<n> ze<n> zi<n> zo<n> zu<n>.
-{RUB. % El abc. en[ ]le<n>gua tagala.}
+{RUB. ¶ El abc. en[ ]le<n>gua tagala.}
 {RMK: 1 line of text in tagalog alphabet.}
-{RUB. % El {LAT. pater noster.}}
+{RUB. ¶ El {LAT. pater noster.}}
 PADRE nuestro que estas en}
 [fol. 3v]
 {CB1.
-los c'ielos, sanctificado sea el tu
+los çielos, sanctificado sea el tu
 nombre. Uenga a[ ]nos el tu reyno.
 Hagase tu voluntad, asi en la[ ]tier-
 ra como en el cielo. El pan nues-
@@ -84,9 +84,9 @@ Libranos de mal. Amen.
 [fol. 4v]
 {CB1.
 {RMK: 8 lines of text in tagalog alphabet.}
-{RUB. % El aue Maria}
+{RUB. ¶ El aue Maria}
 {IN2.} DJos te salue Maria. lle-
-na de gracia. El se(n)[n~](o<n>)[o]r es
+na de gracia. El se(n)[ñ](o<n>)[o]r es
 contigo. bendita tu entre todas
 las mugeres. Y bendito el[ ]fructo.
 de tu uientre Jesus. Santa Ma-ria}
@@ -101,19 +101,19 @@ amen. Jesus.
 {CB1.
 {RMK: 1 line of text in tagalog.}
 {RMK: 7 lines of text in tagalog alphabet.}
-{RUB. % El credo en Roma<n>ce:}
+{RUB. ¶ El credo en Roma<n>ce:}
 {IN2.} CReo en dios padre, todo
-poderoso. Criador del c'ie-
+poderoso. Criador del çie-
 lo y dela tierra. Y en Jesuchristo.
-su vnico hijo se(n)[n~](o<n>)[o]r n<uest>ro. Que fue
-conc'ebido del espiritu sancto. Y}
+su vnico hijo se(n)[ñ](o<n>)[o]r n<uest>ro. Que fue
+conçebido del espiritu sancto. Y}
 [fol. 6r]
 {CB1.
-Y nac'io dela virgen sancta Ma-
+Y naçio dela virgen sancta Ma-
 ria. Padescio so el poder de po<n>cio
-Pilato. Fue cruc'ificado, muer-
+Pilato. Fue cruçificado, muer-
 to, y[ ]sepultado, descendio alos
-infiernos. y[ ]al[ ]terc'ero dia resuscito.
+infiernos. y[ ]al[ ]terçero dia resuscito.
 dentre. los muertos. Subio alos cie-
 los, y esta asentado ala diestra de
 dios padre todo poderoso. dende
@@ -122,7 +122,7 @@ muertos. Creo enel espiritu[ ]sa<n>to.
 y la sancta yglesia catholica. la
 comunio<n> delos sanctos. La remi-
 sion de los peccados. La resurec-
-c'ion dela carne. La vida perdu-rable.}
+çion dela carne. La vida perdu-rable.}
 [fol. 6v]
 {CB1.
 que nunca se[ ]a( )caba. Ame<n>:.
@@ -136,10 +136,10 @@ que nunca se[ ]a( )caba. Ame<n>:.
 [fol. 8r]
 {CB1.
 {RMK: 3 lines of text in tagalog alphabet.}
-{RUB. % La salue Regina}
+{RUB. ¶ La salue Regina}
 {IN2.} SAlue te dios reyna y ma-
 dre de[ ]misericordia. vida
-dulc'ura y esperanc'a n<uest>ra. Dios
+dulçura y esperança n<uest>ra. Dios
 te salue a[ ]ti llamamos los deste-
 rrados hijos de Eua. A ti suspi-
 ramos gimiendo y llorando en
@@ -163,19 +163,19 @@ to. Amen.
 [fol. 9v]
 {CB1.
 {RMK: 13 lines of text in tagalog alphabet.}
-% Los Articulos de la fee,}
+¶ Los Articulos de la fee,}
 [fol. 10r]
 {CB1.
 son catorze. Los siete pertenesce<n>
 ala diuinidad. Y los otros siete
-ala humanidad de n<uest>ro Sen~or Je-
+ala humanidad de n<uest>ro Señor Je-
 suchristo Dios y hombre verda-
-dero. Y los siete que pertenesc'en
+dero. Y los siete que pertenesçen
 ala diuinidad son estos.
 {IN2.} El primero. creer en un so-
 lo dios todo poderoso.
 El segundo. creer que es dios pa-
-dre. El terc'ero. creer q<ue> es dios hi-
+dre. El terçero. creer q<ue> es dios hi-
 jo. El quarto. creer que es dios
 spiritu[ ]sancto. El quinto creer
 que es criador. El sexto. creer
@@ -183,25 +183,25 @@ q<ue> es fabulador. El septimo. creer}
 [fol. 10v]
 {CB1.
 que es glorificador
-% Los que pertenesc'en ala sa<n>-
+¶ Los que pertenesçen ala sa<n>-
 ta humanidad. Son estos.
 EL Primero. creer que nues-
-tro Se(n)[n~](o<n>)[o]r Jesuchristo. en qua<n>to
-hombre fue conc'ebido del spiri-
-tu sancto. El segundo. que nasc'io
+tro Se(n)[ñ](o<n>)[o]r Jesuchristo. en qua<n>to
+hombre fue conçebido del spiri-
+tu sancto. El segundo. que nasçio
 del vientre virginal dela virgen
 sancta Maria, siendo ella virge<n>
 antes del parto, y[ ]enel[ ]parto. y[ ]des-
 pues del parto. El tercero. que
 rescibio muerte y pasion por sal-
 uar a nosotros peccadores. El quar-
-to: que desc'endio alos infiernos,}
+to: que desçendio alos infiernos,}
 [fol. 11r]
 {CB1.
 y[ ]saco[ ]las animas delos sanctos
 padres que alla estauan esperan-
 do su sancto advenimiento. El
-quinto. que resuscito al[ ]terc'ero
+quinto. que resuscito al[ ]terçero
 dia. El sexto. creer que subio
 alos cielos. y se assento ala dies-
 tra de dios padre todo poderoso.
@@ -237,9 +237,9 @@ daron. Amen.}
 [fol. 15r]
 {CB1.
 {RMK: 11 lines of text in tagalog alphabet.}
-% Los mandamientos dela
+¶ Los mandamientos dela
 lei de dios son diez. Los tres
-pertenesc'en al honor de Dios.}
+pertenesçen al honor de Dios.}
 [fol. 15v]
 {CB1.
 y[ ]los otros siete al prouecho del
@@ -247,7 +247,7 @@ proximo.
 {IN2.} EL primero. amaras a dios
 Sobre todas las[ ]cosas. El
 segundo. no juraras[ ]su sancto nom-
-bre en vano. El terc'ero. sanctifi-
+bre en vano. El terçero. sanctifi-
 caras las fiestas. El quarto. hon-
 rraras atu padre y madre. El
 quinto. no mataras. El sexto
@@ -255,7 +255,7 @@ no fornicaras. El septimo. no hur-
 taras. El octauo. no leuantaras fal-
 So testimonio. El noueno. no
 dessearas la muger de tu proxi-
-mo. El dezeno. no cobdic'iaras.}
+mo. El dezeno. no cobdiçiaras.}
 [fol. 16r]
 {CB1.
 los bienes agenos. Estos diez
@@ -274,20 +274,20 @@ a ti mesmo.
 [fol. 17v]
 {CB1.
 {RMK: 6 lines of text in tagalog alphabet.}
-{RUB. % Los mandamientos dela sa<n>-
+{RUB. ¶ Los mandamientos dela sa<n>-
 cta madre yglesia, son cinco.}
 {IN2.} El primero. oyr missa ente-
 ra los domingos y[ ]fiestas
 de guardar. El segundo. con-
 fesar alo menos una vez en el
-an~o. El tercero. comulgar de
+año. El tercero. comulgar de
 necessidad por pascua florida.}
 [fol. 18r]
 {CB1.
 El quarto. ayunar quando lo
 manda la sancta madre ygl<es>ia.
 El quinto. pagar diezmos y
-primic'ias.
+primiçias.
 {RMK: 10 lines of text in tagalog.}}
 [fol. 18v]
 {CB1.
@@ -296,7 +296,7 @@ primic'ias.
 [fol. 19r]
 {CB1.
 {RMK: 5 lines of text in tagalog alphabet.}
-{RUB. % Los sacramentos dela san-
+{RUB. ¶ Los sacramentos dela san-
 cta madre ygl<es>ia son siete.}
 El primero baptismo. El segu<n>-
 do confirmacion. El tercero Pe-
@@ -312,10 +312,10 @@ septimo. Orden de matrimonio.
 [fol. 20r]
 {CB1.
 {RMK: 6 lines of text in tagalog alphabet.}
-{RUB. % Los peccados mortales
+{RUB. ¶ Los peccados mortales
 son siete.}
 El primero: soberuia. El se-
-gundo. Auaric'ia. El terc'ero.
+gundo. Auariçia. El terçero.
 Luxuria. El quarto yra. El
 quinto. Gula. El sexto. Embi-
 dia. El septimo Accidia.
@@ -324,7 +324,7 @@ dia. El septimo Accidia.
 {CB1.
 {RMK: 7 lines of text in tagalog.}
 {RMK: 6 lines of text in tagalog alphabet.}
-{RUB. % Las obras de misericordia +}}
+{RUB. ¶ Las obras de misericordia +}}
 [fol. 21r]
 {CB1.
 {RUB. que qualquier christiano deue
@@ -339,18 +339,18 @@ mir al que esta captiuo. Uestir
 al desnudo, que lo ha menester.
 Dar posada alos peregrinos.
 Enterrar los muertos.
-{RUB. % Las otras siete obras
+{RUB. ¶ Las otras siete obras
 misericordia spirituales, son +}}
 [fol. 21v]
 {CB1.
-{RUB. estas.} Ensen~ar alos sim-
+{RUB. estas.} Enseñar alos sim-
 ples que no saben. Dar conseio
 al que lo ha menester. Castigar
 al que ha menester castigo. Per-
 donar al que erro contra ti. Su-
 frir las injurias de tu proximo
-con pacienc'ia, al doliente, y al sa-
-(n)[n~](u<n>)[u]do. Consolar los tristes,
+con paciençia, al doliente, y al sa-
+(n)[ñ](u<n>)[u]do. Consolar los tristes,
 desconsolados. Rogar a dios
 por los viuos y por los muertos.
 {RUB. Amen.}
@@ -365,7 +365,7 @@ por los viuos y por los muertos.
 [fol. 23r]
 {CB1.
 {RMK: 13 lines of text in tagalog alphabet.}
-{RUB. % La confesion en Romanc'e}}
+{RUB. ¶ La confesion en Romançe}}
 [fol. 23v]
 {CB1.
 Jo[ ]peccador mucho herrado me
@@ -386,7 +386,7 @@ toles san Pedro y san Pablo,}
 {CB1.
 y a sanct Juan baptista, y a todos
 los sanctos y sanctas que[ ]rue-
-guen por mi a nuestro sen~or Je-
+guen por mi a nuestro señor Je-
 suchristo. Amen.
 {RMK: 10 lines of text in tagalog.}}
 [fol. 24v]
@@ -399,28 +399,28 @@ suchristo. Amen.
 [fol. 25v]
 {CB1.
 {RMK: 6 lines of text in tagalog alphabet.}
-{RUB. % Las preguntas en Roma<n>ce}
+{RUB. ¶ Las preguntas en Roma<n>ce}
 P<regunta>. Eres christiano? R<espuesta>. si por la mi-
 sericordia de dios. P<regunta>. que cosa es
 christiano? R<espuesta>. El hombre bapti-
-zado que cree lo que ensen~a di-
+zado que cree lo que enseña di-
 os, y[ ]la sancta yglesia madre[ ]n<uest>ra.
-P<regunta>. qual es la sen~al del christiano
+P<regunta>. qual es la señal del christiano
 R<espuesta>. la sancta cruz. P<regunta>. A quien}
 [fol. 26r]
 {CB1.
 adoran los christianos? R<espuesta> a n<uest>ro
-sen~or dios. P<regunta>. que cosa dios?
-R<espuesta>. la primera causa, el princ'i-
+señor dios. P<regunta>. que cosa dios?
+R<espuesta>. la primera causa, el prinçi-
 pio de todas las cosas, El que hi-
-c'o todas las cosas, y el no tiene
-princ'ipio ni fin. P<regunta>. quantos dio-
+ço todas las cosas, y el no tiene
+prinçipio ni fin. P<regunta>. quantos dio-
 ses ay? R<espuesta>. vn solo dios. P<regunta>. qua<n>-
 tas personas? R<espuesta>. tres. P<regunta>. como
 se[ ]llama la primera? R<espuesta>. Dios
 padre. P<regunta>. como se llama la segu<n>-
 da? R<espuesta>. Dios hijo. P<regunta>. como se lla-
-ma la terc'era? R<espuesta>. dios spiritu
+ma la terçera? R<espuesta>. dios spiritu
 sancto. P<regunta>. son por ventura tres
 Dioses? R<espuesta>. no son tres dioses.}
 [fol. 26v]
@@ -431,7 +431,7 @@ sonas se hizo hombre? R<espuesta>. la se-
 gunda persona que es el hijo.
 P<regunta>. como se hizo hombre? R<espuesta>. por
 obra del spiritu[ ]sancto. en las
-entra(n)[n~](a<n>)[a]s de sancta Maria virge<n>
+entra(n)[ñ](a<n>)[a]s de sancta Maria virge<n>
 antes del parto. y despues del
 parto. P<regunta>. para q<ue>se[ ]hizo hombre?
 R<espuesta>. para poder morir en rescate
@@ -442,14 +442,14 @@ El peccado de nuestros prime-ros}
 [fol. 27r]
 {CB1.
 padres Adan y Eua, del
-qual todos partic'ipamos, y fue-
+qual todos partiçipamos, y fue-
 ra de esto, los peccados actua-
 les con que ofenden a[ ]dios ca-
 da dia. P<regunta> como rescato alos ho<m>-
 bre? R<espuesta>. murio en la cruz y to-
 mo asu cargo los peccados de
 todos los hombres. P<regunta>. despues
-de muerto n<uest>ro sen~or Jesuchris-
+de muerto n<uest>ro señor Jesuchris-
 to que hizo su alma? R<espuesta> baxo
 alos infiernos Junta conla diui-
 nidad, y saco las animas delos
@@ -458,17 +458,17 @@ guardando su sancto adueni-miento}
 [fol. 27v]
 {CB1.
 P<regunta>. El cuerpo de nuestro
-sen~or Jesuchristo fue sepultado?
+señor Jesuchristo fue sepultado?
 R<espuesta> si P<regunta> resuscito? R<espuesta> si. P<regunta> qua<n>-
-do? R<espuesta>. al terc'ero dia, de su muer-
+do? R<espuesta>. al terçero dia, de su muer-
 te. P<regunta> quedose aca enla tierra nu-
-estro se(n)[n~](o<n>)[o]r Jesuchristo? R<espuesta>. no,
-sino subio alos c'ielos, despues
+estro se(n)[ñ](o<n>)[o]r Jesuchristo? R<espuesta>. no,
+sino subio alos çielos, despues
 de quarenta dias desu Resurrec-
 cion y esta asentado ala diestra
 de dios padre todo poderoso.
 P<regunta>.que asiento tiene alla enel
-c'ielo? R<espuesta>. El mas abentaxado
+çielo? R<espuesta>. El mas abentaxado
 de todos. P<regunta> ay dia en que ve<n>dra
 a juzgar viuos y muertos R<espuesta>. si.}
 [fol. 28r]
@@ -484,7 +484,7 @@ uer a viuir todos los que muere<n>
 buenos y malos? R<espuesta> an de vol-
 uer a viuir y[ ]Juntarse el cuerpo
 conel alma para ser juzgados
-de christo nuestro Se(n)[n~](o<n>)[o]r. P<regunta>
+de christo nuestro Se(n)[ñ](o<n>)[o]r. P<regunta>
 despues de Resuscitados los
 cuerpos delos hombres an de}
 [fol. 28v]
@@ -502,7 +502,7 @@ mas. P<regunta>. que es la sancta ygle-
 sia? R<espuesta>. todos los hombres
 christianos que creen en di-
 os, Juntamente con su cabe-
-c'a Jesuchristo que esta en}
+ça Jesuchristo que esta en}
 [fol. 29r]
 {CB1.
 el cielo, y su vicario enl( )a tierra
@@ -518,7 +518,7 @@ voluntad de[ ]nunca mas boluer
 a peccar. P<regunta>. Enesta sancta ygl<es>ia
 ay comunion delos sanctos? R<espuesta>.
 Si. P<regunta>. que es la comunion delos
-sanctos? R<espuesta>. la partic'ipac'ion}
+sanctos? R<espuesta>. la partiçipaçion}
 [fol. 29v]
 {CB1.
 delos buenos christianos enlas
@@ -526,11 +526,11 @@ buenas obras y sacramentos.
 P<regunta>. quando leuanta la ostia el pa-
 dre en la missa para que la ado-
 ren los christianos quien esta
-alli? R<espuesta>. Jesuchristo n<uest>ro sen~or
+alli? R<espuesta>. Jesuchristo n<uest>ro señor
 dios y hombre verdadero como
 esta enel cielo. P<regunta>. Enel caliz
 quien esta? R<espuesta>. la sangre ver-
-dadera de n<uest>ro sen~or Jesuchris-
+dadera de n<uest>ro señor Jesuchris-
 to como aquella que derramo
 en la cruz. P<regunta>. que esta el chris-
 tiano obligado a hazer: para

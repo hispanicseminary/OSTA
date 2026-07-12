@@ -1,0 +1,1909 @@
+{RMK: HSMS-0581.}
+{RMK: Diego del Castillo Villasante.}
+{RMK: [TCU] Tratado de cuentas.}
+{RMK: Burgos | Alonso de Melgar | 1522-05-30.}
+{RMK: New York | Columbia University | SMITH 657 1522 C27.}
+{RMK: José Manuel Fradejas Rueda.}
+[fol. 1r]
+{CB1.
+{RMK: HSMS-0581-0001: Tratado de cuentas.} {RUB. ¶ Tratado de cue<n>tas
+hecho por el licenciado Diego del
+Castillo: natural d<e>la cibdad de Mo-
+lina. Enel qual se contiene que cosa
+es cue<n>ta: y a quien: y como an de dar
+la cue<n>ta los tutores: y otros admini-
+stradores de bienes agenos. Obra
+muy necessaria y p<ro>uechosa. La qual
+el hizo en latin: y assi la presento al
+Rey n<uest>ro señor. y porq<ue> parescio a su
+magestad q<ue> puesta en roma<n>ce seria
+mas general: por su mandado la tra-
+slado en n<uest>ra lengua Castellana.}
+{RUB. Con preuilegio Real.
+1522.}}
+[fol. 1v]
+{HD. Prologo.}
+{CB1.
+{RUB. ¶ Muy alto Muy pode-
+roso señor Rey don Carlos: electo Em-
+perador semper augusto.}
+{IN6.} HAllase escrito por de-
+recho canonico {GL. [^Canonico. {RMK: marginal gloss in Latin.}]}. Y leyes destos
+Reynos {GL. [^Reynos. {RMK: marginal gloss in Latin.}]}. Que las leyes deuen
+ser claras: y hordenadas por esti-
+lo que todos las entiendan: y que
+ningu<n>o por ellas reciba engaño {GL. [^Engaño. {RMK: marginal gloss in Latin.}]}.
+E ansi es que seyendo escuras: avn los pruden-
+tes errarian en el entendimiento dellas: quanto
+mas los indotos y que poco sabe<n> {GL. [^Saben. {RMK: marginal gloss in Latin.}]}. Y caye<n>do to-
+dos enel lazo de ignora<n>cia: v<uest>ra magestad como
+nuestro Rey y señor: y como hazedor d<e>las dichas
+leyes: seria obligado / a nos sacar del. {GL. [^Del. {RMK: marginal gloss in Latin.}]} ¶ Porq<ue>
+los Reyes de españa pueden hazer leyes. {GL. [^Leyes. {RMK: marginal gloss in Latin.}]} Y los
+subditos y naturales / son obligados de biuir por
+ellas. Y el q<ue> no las guardasse y fuesse contra ellas
+seria punido. {GL. [^Punido. {RMK: marginal gloss in Latin.}]} Pues hazie<n>do leyes por estilo es-
+curo / y tal que no se pueda entender: seria causa
+que a muchos sin culpa se diesse pena: y por escu-
+sar este daño: los cristianissimos principes ante-
+cessores de v<uest>ra magestad: mandaron escriuir en
+romance castellano: {GL. [^Castellano. {RMK: marginal gloss in Latin.}]} Y por claro estilo: las leyes
+que hizieron en estos sus reynos. ¶ Y desta cau-
+sa vuestra magestad me ma<n>do: que boluiesse de
+latin en nuestro roma<n>ce castellano: el tratado q<ue>
+en dias passados hize, para saber de que manera
+tienen de dar cue<n>ta los tutores: y curadores: ma-
+yordomos: y thesoreros: y los otros que / an teni-do}
+[fol. 2r]
+{HD. Prologo \ f<oli>o II}
+{CB1.
+en administracion bienes agenos. ¶ porq<ue>
+los legos que en adelante touieren administra-
+cion de tales bienes: puedan saber como se tiene<n>
+de auer / en dar cuenta dellos. ¶ Y desta manera
+la obra sera vniuersal / y se aprouecharan todos
+della: y quisiera que fuera tal / co<n> que vuestra ma-
+gestad fuera seruido: y los subditos y naturales
+destos sus reynos en algo aprouechados: y que
+se ordenara por estilo que hiziera cessar el dezir
+de muchos: la grande falta que en todo tendra.
+¶ Y pues mi poco saber no puede escusar lo que
+digo: conozcan alomenos los que esta obra vie-
+ren: la pro<m>pta volu<n>tad que como leal subdito va-
+ssallo de vuestra Magestad / me mouio / a co<m>plir
+su mandado: el qual entre sabios y prudentes / es-
+cusa d<e> toda reprehensio<n>: pues todos somos obli-
+gados / a complir el mandado de nuestro rey y se-
+ñor. Y el que no lo cu<m>pliesse seria culpado. {GL. [^Culpado. {RMK: marginal gloss in Latin.}]} ¶ E
+ansi yo el licenciado Diego del Castillo: natural
+dela villa de Molina lugar noble / y del titulo y
+corona Real de vuestra magestad. Dexado el de-
+zir de aquellos que con mucha razon podran de-
+traer desta obra: anteponie<n>do el ma<n>dado de vue-
+stra Magestad la come<n>ce. Yra comprouada en
+la margen de cada plana / con determinacion de
+algunas leyes y capitulos: y comparecer de algu-
+nos doctores: por que si algo bueno dixere se atri-
+buya a ellos. ¶ E por que enla manera de dar y
+tomar la cuenta concurren muchas & diuersas
+cosas: ansi este tratado se diuidira en muchas
+partes que sera<n> catorze. ¶ Enla primera se dira
+que cosa es cuenta / o razon. ¶ Enla segu<n>da quie<n>}
+{SG. a ij}
+[fol. 2v]
+{HD. Prologo.}
+{CB1.
+son obligados / a dar la. ¶ En la tercera / a quie<n> se
+tiene d<e> dar. ¶ En la quarta en q<ue> manera se tiene
+de dar la cue<n>tas. ¶ En la quinta qua<n>do. ¶ En la
+sesta donde / o en q<ue> lugar. ¶ En la setena que co-
+sas se requieren q<ue> tenga en si el libro de cuentas.
+¶ En la octaua en que cosas se dara credito al li-
+bro del administrador: y en q<ue> no. ¶ En la noue-
+na q<ue> cosas puede<n> hazer los administradores por
+razon de su officio: y que no pueden fazer. ¶ En
+la dezena si dada la cuenta / ouo yerro en ella: se
+ayan de poner personas que la reuean: y otra vez
+la cuenten: y si parescido el yerro: se aya de retra-
+tar la primera cue<n>ta. ¶ En la onzena hasta qua<n>-
+to tiempo se podra pedir que se torne / a hazer la
+cue<n>ta. ¶ En la dozena en que manera hecha la
+cuenta se tiene de fazer pago delo que sobra. En
+la trezena si dada la cuenta / y hecho pago delo q<ue>
+sobra: se hallan algunas cosas en poder del que
+administro los bienes / o que se / a hecho rico des-
+pues que tomo el officio: se presuma auer lo acq<u><<i>>-
+rido por razon del officio / o de do<n>de. ¶ En la ca-
+torzena si sera obligado el administrador de dar
+copia delas cuentas & / a quien. Y de que manera
+se tiene de hazer el instrume<n>to delas cue<n>tas qua<n>-
+do son fechas. y de que manera hara las posicio-
+nes el que pide cuenta. y de que manera senten-
+ciara el juez sobre las cuentas. Y si se puede ape-
+lar dela sentencia que se da sobre las cuentas / o
+en que el juez manda contar / o que se pague lo
+contado. Lo qual todo visto parescera fenescida
+la cuenta: entre el señor y el administrador: y el
+debate que sobre ella tuuieren.}
+[fol. 3r]
+{HD. Parte primera. III}
+{CB1.
+{RUB. ¶ Comie<n>ça la primera parte.}
+{IN6.} QUanto a la primera
+parte en que diximos que cosa es
+cuenta / o razon: es de saber que
+cuenta / o razo<n> se dize en muchas
+maneras. ¶ La primera se dize
+razon cierta y no dudosa confir-
+macio<n>. Dize se cierta y no dudosa: por que la cue<n>-
+ta que tiene de dar el administrador / a de ser cier-
+ta: y no a de tener duda / de que se presuma co<n>tra
+el que no dize verdad. {GL. [^Uerdad. {RMK: marginal gloss in Latin.}]} ¶ Dize se tambie<n> cue<n>ta
+o razon. vn mouimiento dela voluntad en aque-
+llas cosas que se pueden discernir / o conoscer. {GL. [^Conoscer. {RMK: marginal gloss in Latin.}]}
+¶ Tambien se dize cuenta / o razon: de algun di-
+cho / o hecho cierta confirmacio<n>. ¶ En otra ma-
+nera se dize cuenta / o razon / vn mouimie<n>to que
+procede del entendimiento por causas sensitiuas
+o intellectiuas / segu<n> la subjeta materia: para mo-
+strar / o disponer / o necessario co<n>cluyr alguna co-
+sa. como seria en lo que se da y rescibe: por que de
+necessidad se tiene de co<n>cluyr: mostrando lo que
+se rescibio: en que manera se dio / gasto / o pago.
+¶ Ansi mismo se dize cuenta / o razon: vn moui-
+miento del animo que d<e>clara por vista / y obra la
+voluntad: y distingue y aparta lo verdadero / d<e>lo
+falso. {GL. [^Falso. {RMK: marginal gloss in Latin.}]} ¶ Y estas diffiniciones avn que son cier-
+tas: mejor y mas propiame<n>te caen enla cuenta y
+razo<n> / que los testiguos tiene<n> de dar d<e> sus dichos:
+que no en la cuenta y razon que los administra-
+dores tienen de dar de su officio. y por esto po<n>go}
+{SG. a iii}
+[fol. 3v]
+{HD. Parte primera.}
+{CB1.
+otra diffinicion mas conuenible a nuestro caso.
+¶ Y digo q<ue> la cuenta y razo<n> / q<ue> tiene de dar el ad-
+ministrador: es vna memoria d<e>lo q<ue> da y rescibe. {GL. [^Rescibe. {RMK: marginal gloss in Latin.}]}
+porq<ue> delo q<ue> rescibe / tiene de dar cuenta por me-
+moria. y ansi mismo delo q<ue> da.. ¶ E ansi los mer-
+caderes y personas q<ue> tienen cuenta con otros:
+assientan en sus libros: en vna parte el rescibio: y
+en otra parte lo q<ue> dan. Y quando aueriguan sus
+cue<n>tas con otros: entra<n> por dacta / y rescibo. ¶ O-
+tros assie<n>ta<n> en vna plana / lo q<ue> deue<n>: y en otra pla-
+na / lo q<ue> deue<n> de auer. y qua<n>do hazen cuenta: en-
+tra<n> con deue. y deue auer.. ¶ Otros contadores /
+entra<n> por cargo y descargo: hazie<n>do cargo al ad-
+ministrador de todo lo que rescibio. y rescibie<n>do
+le en descargo / todo lo q<ue> dio y gasto. ¶ Y qualq<u><<i>>e-
+ra d<e>stas maneras de assentar y contar: son basta<n>-
+tes para salir con la cuenta: mas las dos prime-
+ras parece<n> mejores. y la postrera algo grossera:
+por entrar por cargo y descargo. ¶ Y porq<ue> arri-
+ba se nombra cuenta / o razon: y algunos podria<n>
+pe<n>sar que son diuersas. digo que en derecho en-
+tre cuenta y razon no se haze differencia. {GL. [^Di(s)[f]ere<n>cia. {RMK: marginal gloss in Latin.}]} Y an-
+si podemos saber que cosa es cuenta.
+{IN3.} QUanto ala segu<n>da par-
+te en que diximos / quie<n> son obligados
+a dar c($u)[u]enta. digo que si vno ma<n>do / a
+otro en su testame<n>to: por manda / o herencia / to-
+dos sus bienes: y que / a cierto tiempo los restitu-
+yesse / a otro: sera obligado el q<ue> primero fue insti-
+tuydo: de dar cue<n>tas delos bienes q<ue> q<ue>daron / d<e>l di-
+cho testador. {GL. [^Testador. {RMK: marginal gloss in Latin.}]} ¶ Yte<m> los tutores / y curadores / de}
+[fol. 4r]
+{HD. Parte segunda. \ IIII}
+{CB1.
+los menores / y de sus bienes: fenescido el tie<m>po
+dela tutela / y curaduria: son obligados / a dar
+cue<n>ta y razon delos bienes q<ue> rescibiero<n>: y d<e>los
+frutos dellos: y en q<ue> los gastaron / & distribuye-
+ron. {GL. [^Distribuyero<n>. {RMK: marginal gloss in Latin.}]} ¶ Y ta<m>bien son obligados / a dar cuenta
+los mayordomos: resceptores: sindicos: y( )co-
+nomos: limosneros: rectores: thesoreros: go-
+uernadores: y administradores: d<e>los bienes de
+las yglesias: mo<n>esterios: y hospitales. {GL. [^Hospitales. {RMK: marginal gloss in Latin.}]} ¶ Ta<m>-
+bie<n> si dos p<er>sonas / o mas tiene<n> co<m>pañia: y el vno
+dellos trae el trato / y mercadurias: es obliga-
+do de dar cue<n>ta / a su co<m>pañero: delo q<ue> rescibio
+dela ganancia q<ue> ouo: y delo q<ue> dio / pago / distri-
+buyo / y gasto: y d<e>lo q<ue> se p<er>dio. {GL. [^Perdio. {RMK: marginal gloss in Latin.}]} ¶ Ansi mesmo
+la madre si administro los bienes d<e> sus hijos
+como tutora / o en otra q<u><<a>>lq<u><<i>>er manera: es obli-
+gada / a dar cue<n>ta d<e>llos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Lo q<ue>l es v<er>dad: en
+las cosas q<ue> son algo en ca<n>tidad. Mas si fuesse
+en pequeña ca<n>tidad: la madre no es obligada
+a dar cue<n>ta / a sus hijos d<e>lla. {GL. [^Della. {RMK: marginal gloss in Latin.}]} ¶ Mas si la ma-
+dre se casasse co<n> otro segunda / o tercera vez. di-
+go q<ue> es obligada / a dar cuenta / a los hijos del
+p<r><<i>>mero marido: d<e> todo lo q<ue> vino a su poder ha-
+sta la menor cosa d<e> todo lo q<ue> rescibio. {GL. [^Rescibio. {RMK: marginal gloss in Latin.}]} ¶ Ansi
+mesmo el avuela: es obligada a dar cue<n>tas a los
+nietos: d<e>los bienes q<ue> rescibio d<e>llos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} Otrosi el
+padre si es tutor d<e>l hijo: es obligado a dar cue<n>-
+ta y razo<n> d<e>los bienes q<ue> rescibio d<e>su hijo. {GL. [^Hijo. {RMK: marginal gloss in Latin.}]} Mas
+si el padre touiesse los bienes d<e>l hijo: no como
+tutor. saluo como ligittimo administrador. en
+tal caso el padre no sera obligado / a dar cue<n>ta
+d<e>los bienes q<ue> rescibio d<e> su hijo. {GL. [^Hijo. {RMK: marginal gloss in Latin.}]} Ansi mismo}
+{SG. a iiij}
+[fol. 4v]
+{HD. Parte segunda.}
+{CB1.
+el esecutor de testame<n>to / o de vltima volu<n>tad: es
+obligado a dar cue<n>tas d<e>lo que gasto / o distribuyo
+por el anima del defunto. {GL. [^Defu<n>to. {RMK: marginal gloss in Latin.}]} ¶ Jtem el hermano
+mayor que despues dela muerte de su padre ad-
+ministro los bienes de su herma<n>o menor: es obli-
+gado a le dar cuenta dellos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Y si por caso el
+hijo estando en poder de su padre / biuo el padre
+administro sus bienes: sera obligado a dar cuen-
+ta d<e>llos: muerto el padre: a los otros sus herma-
+nos. {GL. [^Herma<n>os. {RMK: marginal gloss in Latin.}]} Y si aura salario por negociador de aq<ue>lla
+administracio<n>. sino se mantuuo delos bienes d<e>l
+padre. {GL. [^Padre. {RMK: marginal gloss in Latin.}]} ¶ Y si quisieres saber en que cosas el pa-
+dre no es legittimo administrador delos bienes
+del hijo: digo que delos bienes que el hijo gana
+en la guerra. y del acostamiento que le dan. y los
+bienes que el letrado gana / por razo<n> de su officio.
+y delo que algu<n> pariente / o estraño da al hijo de
+otro: con tal co<n>dicion: que el padre no aya el vso-
+fruto delos tales bienes. y delo que el hijo gana:
+esta<n>do casado. el padre no tiene vso( )fruto: ni es le-
+gittimo administrador delos bienes del hijo. y si
+de qualesquier d<e>stos bienes fuesse tutor: o los to-
+masse en su poder. sera obligado / a dar cue<n>tas de-
+llos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Y avn en caso q<ue> el padre touiesse vso( )fru-
+to / en los bienes del hijo: seria obligado de dar
+cuenta al hijo: si el padre se casa segunda vez. {GL. [^Uez. {RMK: marginal gloss in Latin.}]}
+¶ Jtem si el padre dolosamente destribuyesse / o
+mal gastasse los bienes d<e>l hijo: seria obligado / a
+dar cue<n>tas dellos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Ansi mesmo si el padre fue-
+sse furioso: y el hijo fuesse su tutor / o curador de
+sus bienes: sera obligado el hijo / a dar cuenta de-
+llos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Tambien los cogedores delos tributos}
+[fol. 5r]
+{HD. Parte tercera. \ V}
+{CB1.
+reales: dezmeros: terceros: decanos: y mayordo-
+mos. son obligados / a dar cuenta delos bienes
+y hazienda que administraron. {GL. [^Administraron {RMK: marginal gloss in Latin.}]} ¶ Jtem los the-
+soreros: susceptores: resceptores: arcarios: prepo-
+sitos: prebostes: cogedores. y todos los que admi-
+nistran bienes de otros: son obligados / a dar cue<n>-
+ta dellos. {GL. [^Dellos {RMK: marginal gloss in Latin.}]} ¶ Jte<m> los mayordomos / y perlados:
+son obligados a dar la dicha cuenta. Cuenta. {GL. [^{RMK: marginal gloss in Latin.}]} ¶ Jtem el
+que es nombrado por esecutor del testamento / a
+pias causas / o d<e> otra manera: es obligado / a dar
+cuenta: en que gasto los bienes que le fueron da-
+dos. {GL. [^Dados. {RMK: marginal gloss in Latin.}]} ¶ Y generalme<n>te todos los administrado-
+res de bienes agenos: son obligados / a dar cuen-
+ta dellos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} ¶ Y es de saber: que todos los que ad-
+ministra<n> bienes de otros: como quier que se no<m>-
+bren: todos se dizen procuradores. y procurador
+se dize: todo aquel que por mandado de otro / ad-
+ministra los negocios agenos: en juyzio / o fuera
+d<e>l. {GL. [^Del. {RMK: marginal gloss in Latin.}]} ¶ Y en tanto los que administran bienes de
+otros: son obligados / a dar cuenta dellos: que si
+por caso cometiesse algun delito: por el q<u><<a>>l le ouie-
+ssen de dar pena de muerte: se tiene de differir la
+muerte: hasta q<ue> el administrador: aya dado cue<n>-
+ta al señor: delos bienes que administra. y de sus
+negocios / y causas. {GL. [^Causas. {RMK: marginal gloss in Latin.}]} lo qual es de notar.
+{IN3.} QUa<n>to a la tercera parte
+en que diximos / a quien tiene de dar la
+cuenta el administrador: digo que el le-
+gatario / o heredero / a quien mando el testador
+que restituyesse alguna ma<n>da / o herencia: tiene
+de dar cuenta / a aquel / a quien el testador man-do}
+{SG. a v}
+[fol. 5v]
+{HD. Parte tercera.}
+{CB1.
+hazer la dicha restitucio<n>. {GL. [^Restitucio<n>. {RMK: marginal gloss in Latin.}]} ¶ Y el tutor feneci-
+do el tie<m>po de su tutela: es obligado de dar cue<n>ta
+al menor / hecho mayor. {GL. [^Mayor. {RMK: marginal gloss in Latin.}]} ¶ Y los juezes en estos
+reynos / muchas vezes tienen por costu<m>bre: fene-
+scido el tiempo dela tutela: de dar curador / a los
+bienes delos menores. y enel instrumento dela
+curaduria: dan poder / a los curadores: que tome<n>
+cuenta / a los tutores: del tiempo que administra-
+ron los bienes delos menores. y este poder basta
+para tomar la cuenta: y no para mas. {GL. [^Mas. {RMK: marginal gloss in Latin.}]} ¶ Ytem
+el curador es obligado: de dar cuenta / a su pupi-
+lo: hecho mayor de veynte y ci<n>co años. y si el me-
+nor muere ante que llegue / a esta hedad: el tutor
+y el curador / son obligados de dar cuenta / a sus
+herederos. {GL. [^Herederos. {RMK: marginal gloss in Latin.}]} ¶ Los re[ce]ptores: gouernadores: li-
+mosneros: procuradores: perlados: sindicos: y
+otros officiales delas yglesias: monesterios: y os-
+pitales: son obligados / a dar cuenta dela admini-
+stracion que touieron / a los obispos: y perlados:
+y capitulos: y conuentos: a quien son subjetos / o
+aq<ue>llos / a quien los tales perlados dieron poder
+para tomar la cue<n>ta por ellos. {GL. [^Ellos. {RMK: marginal gloss in Latin.}]} ¶ Pero es de sa-
+ber que el curador: por virtud del poder q<ue> le fue
+dado: ni las otras personas nombradas por los
+perlados: o gouernadores delos pueblos. Ni aq<ue>-
+llos que son nombrados por otras qualesquier
+personas particulares: por virtud del poder que
+les fue dado: no pueden hazer mas de tomar la
+cue<n>ta: y traer la ante el juez: per lado: o gouerna-
+dor: para que vista: conoscida: y jurada: la pronu<n>-
+cie por bien hecha. {GL. [^Hecha. {RMK: marginal gloss in Latin.}]} Y de fenescimiento de cuen-
+ta al tutor: o administrador. E si por caso el cura-dor:}
+[fol. 6r]
+{HD. Parte tercera. \ VI}
+{CB1.
+o el contador: diesse el fenescimie<n>to de cue<n>-
+ta al tutor / o al que administro: o dixesse que da
+por quito al tutor: por que dio buena cuenta: y
+no fue alcançado: o que fue alcançado en tan-
+tos marauedis / y aquellos le pago: no valdria
+el tal fenescimie<n>to / o fin y quito cosa alguna. {GL. [^Alguna. {RMK: marginal gloss in Latin.}]}
+Alomenos podran los menores pedir restitu-
+cion: {LAT. Jn integru<m>.} {GL. [^{LAT. Jntegru<m>.} {RMK: marginal gloss in Latin.}]} Ni para prouar el tutor por
+el tal instrumento que ya dio cue<n>ta: no le apro-
+uecha por que la confession / {GL. [^Confessio<n>. {RMK: marginal gloss in Latin.}]} o el co<n>trato: {GL. [^Contrato. {RMK: marginal gloss in Latin.}]} que
+haze el curador en perjuyzio de su menor: ni el
+q<ue> haze el administrador en perjuyzio dela vni-
+uersidad: {GL. [^Universidad. {RMK: marginal gloss in Latin.}]} monesterio: o yglesia: {GL. [^yglesias. {RMK: marginal gloss in Latin.}]} no les daña
+en cosa alguna. y si dañar les pudiesse / gra<n>des
+fraudes y engaños harian los curadores: y o-
+tros administradores / a sus menores y seño-
+res. Y el derecho y leyes / mas se hizieron por
+escusar daños: {GL. [^Daños. {RMK: marginal gloss in Latin.}]} que para adquirir prouechos:
+y sino paresciesse realmente que la cuenta fue
+fecha: y el menor fecho mayor: o sus herederos
+otra vez pidiessen cuenta / a su tutor: seria obli-
+gado / a la dar: pues no paresce la cuenta que
+dio. Y si el tutor / o administrador dixesse que
+quiere prouar con testiguos / que dio la cue<n>ta:
+no bastaria: pues que no paresce si fue dada ju-
+ridicamente: {GL. [^Juridicamente. {RMK: marginal gloss in Latin.}]} Como se dira mas largamente
+en la quarta parte deste tratado. y por que avn
+que el señor quisiesse alegar yerro de cue<n>ta: no
+paresciendo la cuenta: no se podria prouar el
+yerro. Y como el que alega el herror: es obliga-
+do / a prouar lo: ansi el que dize y alega que dio
+cuenta: es obligado de prouar lo por ella: que}
+[fol. 6v]
+{HD. Parte quarta.}
+{CB1.
+la dio. {GL. [^Dio. {RMK: marginal gloss in Latin.}]} ¶ Otrosi el compañero es obligado de
+dar cuenta a su co<m>pañero. {GL. [^Co<m>pañero. {RMK: marginal gloss in Latin.}]} ¶ Y el sieruo / o escla-
+uo tiene de dar cuenta a su señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Los admini-
+stradores delas cibdades / y delos otros lugares
+del reyno: tiene<n> de dar la cuenta / al gouernador /
+presidente / assiste<n>te / o corregidor d<e>la tal cibdad:
+juntamente con los regidores veynte quatros: o
+jurados d<e> aquella ciudad. {GL. [^Ciudad. {RMK: marginal gloss in Latin.}]} Y la causa por que / a
+estos se tiene de dar la cue<n>tas: es por que represen-
+tan todo el pueblo. y ansi las leyes destos reynos
+dizen: q<ue> los regidores delas cibdades / con el pre-
+sidente / o juez que reside enla prouincia: puede
+hazer / thesoreros / y receptores en su prouincia:
+por q<ue> representan todo el pueblo. {GL. [^Pueblo. {RMK: marginal gloss in Latin.}]} y por esta cau-
+sa en los ayuntamientos: no puede<n> entrar / saluo
+los veynte quatros regidores / o jurados / co<n> el assi-
+ste<n>te / corregidor / o gouernador. {GL. [^Gouernador. {RMK: marginal gloss in Latin.}]} ¶ Y por que no
+andemos / a saber por menudo / a quien se tiene d<e>
+dar cuenta: digo que se tiene de dar / a todas las
+personas que pretenden auer interesse della. {GL. [^Della. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUa<n>to a la quarta parte
+en que diximos: de que manera se tie-
+ne de dar la cuenta: digo que muchas
+cosas se requieren que interuenga<n> en la cuenta /
+para que sea valedera. ¶ Lo p<r><<i>>mero que el admi-
+nistrador: exiba el libro que tuuiere / delo que re-
+scibio y gasto. {GL. [^Gasto. {RMK: marginal gloss in Latin.}]} ¶ Lo segundo que los que hizie-
+ren la cue<n>ta: auerigue<n> la verdad d<e>lo que se resci-
+bio / y justamente gasto. {GL. [^Gasto. {RMK: marginal gloss in Latin.}]} ¶¶ Lo tercero que el
+administrador de y entregue al señor / lo q<ue> justa-
+mente se hallare / y aueriguare que fue alcança-do.}
+[fol. 7r]
+{HD. Parte quarta. \ VII}
+{CB1.
+{GL. [^Alca<n>çado. {RMK: marginal gloss in Latin.}]} ¶ Lo quarto satisfazer al señor todo aque-
+llo que mal gasto / o distribuyo. {GL. [^Distribuyo. {RMK: marginal gloss in Latin.}]} ¶ Lo qui<n>to que
+el administrador muestre que los deudores con
+quien contrato: tenian de que pagar al tiempo
+que contrato conellos. {GL. [^Conellos. {RMK: marginal gloss in Latin.}]} De manera q<ue> si los deu-
+dores eran abonados al tiempo del co<n>trato: avn
+que despues perdieran sus bienes / o se hiziessen
+pobres: el peligro y p<er>dida sera del señor. ¶ Mas
+si el deudor era obligado / a pagar la deuda / a ci-
+erto plazo: y hasta el plazo tuuo de que pagar: y
+el administrador dexo passar tanto tiempo des-
+pues del plazo: que tuuo lugar y tiempo el deu-
+dor de perder sus bienes: en tal caso / por auer sey-
+do el administrador negligente: sera obligado / a
+pagar la deuda. {GL. [^Deuda. {RMK: marginal gloss in Latin.}]} Y si los deudores no tenian de
+que pagar al tiempo del contrato: sera obliga-
+do el administrador de pagar la deuda al señor:
+por lo que ya dicho es. ¶ Lo sexto se requiere
+que el administrador de cuenta tambien delas
+cosas que era obligado de hazer / y no las hizo:
+como delas que hizo. {GL. [^Hizo. {RMK: marginal gloss in Latin.}]} ¶ Quiero dezir que si el
+señor tenia algunos heredamientos de pan: y
+no los sembro en tiempo conuenible / o auiendo
+quien los tomasse / a renta / no los quiso dar: y se
+quedaron por labrar y arrendar / o tenia el señor
+ganado mayor / o menor de vientre / o de cria: y
+no les echo muruecos / o machos en sus tiem-
+pos: para que multiplicassen y criassen / o tenian
+costumbre de yr / a estremo de verano / o de inui-
+erno: y no quiso embiar los / o los embio fuera de
+tiempo pudie<n>do embiar los / o si era<n> salinas y en
+tiempo del verano no fue remisso en hazer sacar}
+[fol. 7v]
+{HD. Parte quarta.}
+{CB1.
+agua y hazer sal / o era<n> viñas y no quiso labrar las:
+ni cojer en tiempo la vua: y se perdio / o en otras
+cosas semeja<n>tes: sera obligado el administrador
+delo pagar al señor. ¶ Lo septimo se req<u><<i>>ere que
+el administrador de al señor todas las escrituras
+que le pertenesce<n>: {GL. [^Pertenescen. {RMK: marginal gloss in Latin.}]} Y si no q<u><<i>>siere dar las / podra
+el señor jurar {LAT. i<n> lite<m>} sobre ellas: {GL. [^Ellas. {RMK: marginal gloss in Latin.}]} Y pagar el admi-
+nistrador lo que jurare / seyendo primero tassada
+y moderada la cantidad por el juez: {GL. [^Juez. {RMK: marginal gloss in Latin.}]} Y proua<n>do
+se primero la escritura. {GL. [^Escritura. {RMK: marginal gloss in Latin.}]} ¶ Esto es v<er>dad en caso
+que el administrador no quiere dar la escritura /
+o la perdio por su dolo / o culpa: mas si se perdio
+por algun caso fortuyto / o no pensando: ansi co-
+mo por fuego / o por agua / o se la hurtaron con
+otras sus escrituras / o con otras cosas: no sera
+obligado / a pagar la. {GL. [^Pagarla. {RMK: marginal gloss in Latin.}]} porq<ue> pues no fue en cul-
+pa / no le sera dada pena. {GL. [^Pena. {RMK: marginal gloss in Latin.}]} ¶ Lo octauo se req<u><<i>>e-
+re que enla tassacion delos frutos que mandare<n>
+pagar al administrador porque no los cobro por
+su negligencia: se aya consideracio<n> a lo que solia
+rentar comunme<n>te: y no a lo que el señor estima-
+re: ni a lo que el administrador dixere. {GL. [^Dixere. {RMK: marginal gloss in Latin.}]} ¶ Lo no-
+ueno se requiere que la cue<n>ta se de entera y bue-
+na: y que no se de / a pedaços. co<n>tando vn dia par-
+te delo rescebido: y otro dia parte delo gastado.
+mas que se cuente todo lo que el administrador
+rescibio / y lo que rento lo rescebido: sin dexar co-
+sa alguna d<e>llo por contar y aueriguar. {GL. [^Aueriguar. {RMK: marginal gloss in Latin.}]} ¶ Lo de-
+zeno se requiere que se cuente primero el resci-
+bo ante que la dacta: lo que el administrador re-
+scibio / ante que lo que gasto. {GL. [^Gasto. {RMK: marginal gloss in Latin.}]} ¶ Lo onzeno se re-
+quiere que se de la cuenta / a aluedrio de buen}
+[fol. 8r]
+{HD. Parte quarta. \ VIII}
+{CB1.
+varon: {GL. [^Uaron. {RMK: marginal gloss in Latin.}]} Quiero dezir q<ue> ansi en contar como en
+tassar lo rescebido y gastado: no se cue<n>ta desorde-
+nadame<n>te / o demasiado precio ni / a precio baxo:
+mas q<ue> guarden los co<n>tadores en todo / el medio.
+¶ Lo dezeno que si son muchos los administra-
+dores: todos juntos den la cuenta / y no cada vno
+dellos por si / o por su parte. y si la diesse el vno de-
+llos no bastaria: por quanto / a todos juntamen-
+te se dio el administracion: mas si cada vno d<e>llos
+administro por su parte: sera cada vno d<e>llos obli-
+gado / a dar cue<n>ta d<e>los bienes que administro: {GL. [^Administro. {RMK: marginal gloss in Latin.}]}
+E si el vno fuere alcançado: no sera el otro obli-
+gado / a lo pagar: por quanto los bienes se diero<n>
+a los administradores diuididamente: pero si ju<n>-
+tamente se les dieron los bienes y la administra-
+cion dellos: juntamente tienen de dar la cuenta.
+y cada vno dellos sera obligado por la admini-
+stracion del otro: por que se entie<n>de obligar se el
+vno por el otro: {GL. [^Otro. {RMK: marginal gloss in Latin.}]} Como seria en muchos tutores:
+procuradores: a quien juntame<n>te se entregassen
+los bienes del menor. ¶ Lo trezeno es obligado
+el administrador de entregar al señor los bienes
+que del rescibio / que no estan justamente gasta-
+dos / y poner lo en possessio<n> dellos. {GL. [^Dellos. {RMK: marginal gloss in Latin.}]} Y si el admi-
+nistrador no quisiesse restituyr los: podra el se-
+ñor prender lo / y tener lo preso: fasta que los re-
+stituya: {GL. [^Restituya. {RMK: marginal gloss in Latin.}]} Avn que esta conclusion / no la he visto
+guardar: por temor dela pena que esta puesta co<n>-
+tra los que cometen carcel priuada: y por q<ue> vna
+ley de estilo que lo dize no esta prouada. ¶ Lo ca-
+torzeno se requiere que si la cuenta se haze entre
+compañeros: se cuente / o descuente todo aquello}
+[fol. 8v]
+{HD. Parte quarta.}
+{CB1.
+que por razon dela compañia cada vno delos co<m>-
+pañeros perdio. Y lo mesmo seria si por razo<n> del
+officio qualq<u><<i>>er otro administrador ouiesse per-
+dido alguna cosa: no por su dolo / o culpa. {GL. [^Culpa. {RMK: marginal gloss in Latin.}]} ¶ Jte<m>
+si el tutor / o el administrador por las causas / pley-
+tos / o negocios / del menor / o del señor saliere de
+su lugar: & hiziere gastos / en comer y posadas / y
+otras cosas necessarias / a su camino / moderados
+los gastos: se le tienen de tomar en cuenta. {GL. [^Cuenta. {RMK: marginal gloss in Latin.}]} ¶ Y
+por que algunos podrian preguntar: Quien tie-
+ne de nombrar las personas que hagan y aueri-
+guen las cuentas. digo que / a pedimiento delas
+partes el juez podra compeler al tutor y curador
+y / a qualquier otro administrador: y al señor que
+nombren personas que hagan las cuentas / y las
+partes tienen de nombrar las: y si alguna delas
+partes no quisiere de su parte nombrar persona
+podra el juez en su deffecto nombrar la: y delos
+nombrados tiene de rescebir el juez juramento /
+que haran las cuentas bien y lealmente: y mira-
+ran y guardaran ygualme<n>te el derecho de cada
+vna delas dichas partes sin afficcion {GL. [^Afficio<n>. {RMK: marginal gloss in Latin.}]} &c<eter><<a>>. ¶ Y al
+dar destas cuentas / y al hazer deste juramento / y
+hazer los: tienen de estar presentes las partes.
+Lo qual es contra muchos que aueriguan cue<n>-
+tas entre otros: que no los dexan estar presentes
+al tiempo delas cuentas. y es hierro: por q<ue> si los
+contadores no oyen a las partes: no pueden bie<n>
+aueriguar la verdad y el derecho dellas: verdad
+es que para platicar los contadores sobre algu-
+nos partidos: si los passaran en cuenta / o no po-
+dran hazer que las partes no este<n> presentes: por}
+{CW. {SYMB: hand.} que no}
+[fol. 9r]
+{HD. Parte quinta. \ IX}
+{CB1.
+que no se podria bien platicar ni aueriguar la
+verdad en presencia delas partes / a causa que ca-
+da vna dellas contradiria y pornia en bozes lo q<ue>
+se dixesse contra el.
+{IN3.} QUanto a la qui<n>ta parte
+en que diximos quando el administra-
+dor es obligado / a dar la cuenta. digo q<ue>
+el señor puede pedir cuenta al administrador: y
+el compañero / a su compañero en fin de cada vn
+año. {GL. [^Año. {RMK: marginal gloss in Latin.}]} ¶ Esto es verdad saluo que en caso que el
+señor / o el compañero no pidiessen cuenta al ad-
+ministrador / o al compañero: que estonce basta-
+ra que el administrador / o el compañero de<n> cue<n>-
+ta al tiempo / que passado el año se la pidiere. {GL. [^Pidiere. {RMK: marginal gloss in Latin.}]}
+¶ Mas si fue assentado entre el señor y el admi-
+nistrador: que dende / a cierto tiempo le de cuen-
+ta: bastara que el administrador de cuenta al tie<m>-
+po que fue assentado. y no podra ser compelido /
+a que la de ante: avn que sea passado el año que
+arriba diximos y mucho mas tiempo. {GL. [^Tiempo. {RMK: marginal gloss in Latin.}]} ¶ Saluo
+en caso que el tenedor delos bienes los admini-
+stre mal / y como no deue: o se haze sospechoso di-
+ssipando sus bienes propios / juga<n>do los / o distri-
+buyendo los en cosas desonestas: que en mal ga-
+sta<n>do sus bienes propios de presumir es / que ga-
+stara peor los agenos / o quando el administra-
+dor se quiere ausentar por mucho tiempo / muy
+lexos / o muy / a parte de su prouincia: que eston-
+ce dara cuenta ante que llegue el tiempo que fue
+assentado: y en otros casos semejantes. {GL. [^Semeja<n>tes. {RMK: marginal gloss in Latin.}]} ¶ Otro-
+si en caso que el señor pide cuenta al administra-dor}
+{SG. b}
+[fol. 9v]
+{HD. Parte quinta.}
+{CB1.
+con engaño / o el compañero / a su compañe-
+ro: por que saben que el administrador / o el com-
+pañero tiene<n> el libro de sus cue<n>tas en otras par-
+tes: donde tuuieron causa justa de los leuar: y en
+tan breue tiempo como es vn año: no lo podria<n>
+traer. Como podria ser entre muchos mercade-
+ros y sus haziendas: que tratan en flandes desta
+tierra / y en otras partes: que estonçe avn que pa-
+sse el año que no diessen cuenta: no serian culpa-
+dos. {GL. [^Culpados. {RMK: marginal gloss in Latin.}]} ¶ Es otro caso en q<ue> el administrador no
+es obligado / a dar cuenta al señor / qua<n>do son pa-
+ssados treynta años despues que fenescio el tie<m>-
+po de su administracion: {GL. [^Administracion. {RMK: marginal gloss in Latin.}]} Saluo si fuesse admi-
+nistrador d<e> yglesia / o monesterio: que hasta qua-
+re<n>ta años es obligado / a dar la. {GL. [^Darla. {RMK: marginal gloss in Latin.}]} ¶ Ansi mesmo
+si el administrador dio al señor vna vez cue<n>ta so-
+le<n>nemente y como deuia / y la cuenta paresce co-
+mo dixe en la quarta parte deste tratado: no sera
+otra vez obligado / a dar cuenta. {GL. [^Cue<n>ta. {RMK: marginal gloss in Latin.}]} Dixe solenne-
+mente y como deuia: por que si dio cue<n>ta / a quie<n>
+no tenia de darla / o falto en dar la cuenta / las co-
+sas que se requerian / o no parece la cuenta: {GL. [^Cuenta. {RMK: marginal gloss in Latin.}]} Es
+tanto como si no la diera: mas si dio cuenta ante
+quien / y como deuia: no seria el administrador
+obligado / a la dar otra vez: saluo en caso que he-
+cha cuenta / alguna delas partes dixesse que vuo
+yerro en ella: que estonces se tornaria / a hazer de
+la manera que se dize en la dezena parte d<e>ste tra-
+tado. ¶ Algunos quieren dezir que tambien el
+administrador no es obligado / a dar cue<n>ta: qua<n>-
+do el señor le remitio que no la diesse: {GL. [^Diesse. {RMK: marginal gloss in Latin.}]} Otros di-
+zen que el tutor es obligado de dar cuenta / a su}
+[fol. 10r]
+{HD. Parte sexta. \ X}
+{CB1.
+menor: avn q<ue> el testador en su testamento ouiesse
+mandado que no la diesse. {GL. [^Diesse. {RMK: marginal gloss in Latin.}]} Otros dizen que esta
+remission no haze libre al administrador de pa-
+gar lo que deue: ni lo haze libre de dolo / o enga-
+ño si alguno ouiesse cometido contra el señor en
+la administracion que tuuo de sus bienes: encu-
+briendo / o hurtando alguna parte dellos: mas q<ue>
+obra solamente que no le tomen cuenta rezia / o
+muy estrecha. {GL. [^Estrecha. {RMK: marginal gloss in Latin.}]} Y esta tercera opinion es mas
+aprobada: y si es verdadera muchos administra-
+dores se engañan / pensando que quando los se-
+ñores mandan en sus testamentos / o en otra ma-
+nera / a sus herederos: que no les tomen cuenta
+dela administracion que tuuiero<n> / que son libres
+dela dar: y / a mi ver no son libres / mas para que
+no les sea tomada estrecha cuenta: saluo en caso
+que claramente el señor diesse por libre al admi-
+nistrador: que no de cuenta por alguna manera
+dela administracion que tuuo: y que el da por to-
+mada la cuenta: y lo da por libre delo que fue al-
+cançado / por que se lo pago: que en tal caso sera
+libre el administrador: ansi por auer ya dado cue<n>-
+ta: como por la liberacion d<e>l señor / en quanto di-
+ze / que pago lo alca<n>çado: y lo da por q<u><<i>>to de ello. {GL. [^Ello. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto a la sexta parte
+en que diximos donde / o en que lugar
+se tiene de dar la cue<n>ta: podremos bre-
+uemente dezir que se tiene de dar la cuenta / o ra-
+zon: donde se tuuo la administracion. {GL. [^Administracion. {RMK: marginal gloss in Latin.}]} ¶ En ta<n>-
+to que si el administrador no se halla enel lugar
+que tuuo la administracion / saluo en otra juridi-cion /}
+{SG. b ij}
+[fol. 10v]
+{HD. Parte sexta.}
+{CB1.
+o lugar / a de ser remetido al lugar do<n>de tu-
+uo la administracion: para que alli de cuenta de-
+los bienes q<ue> administro: {GL. [^Administro. {RMK: marginal gloss in Latin.}]} Y si q<u><<i>>sieres saber por-
+q<ue> / a de ser remitido: digo q<ue> por dos razone(ç)[s]. La p<r><<i>>-
+mera porq<ue> ausentando se del lugar do<n>de tuuo la
+administracio<n> / cometio delito: porq<ue> no se tenia d<e>
+ausentar / fasta ser dada la cue<n>ta. y por razo<n> d<e>l de-
+lito / el mas p<r><<i>>ncipal juez / es aq<ue>l do<n>de se comete. {GL. [^Comete. {RMK: marginal gloss in Latin.}]}
+Y como a<n>te juez mas p<r><<i>>ncipal se tiene de hazer la
+remissio<n>: para q<ue> ante el d<e> cue<n>ta el administrador
+delos bienes q<ue> administro / o del cargo q<ue> tuuo: {GL. [^Tuuo {RMK: marginal gloss in Latin.}]}
+¶ Otra razo<n> se puede dar mas euidente y clara
+por do<n>de el administrador tiene d<e> dar cue<n>tas enel
+lugar q<ue> administro los bienes: y es porq<ue> el dere-
+cho p<re>sume / q<ue> alli se podra mejor saber la verdad
+do<n>de co<n>trato. {GL. [^Contrato. {RMK: marginal gloss in Latin.}]} ¶ Y en ta<n>to es v<er>dad q<ue> deue ser re-
+mitido: q<ue> si el señor quiere co<n>uenir al administra-
+dor enel lugar do<n>de se ausento: q<ue> se tiene d<e> hazer
+la remissio<n> pidie<n>do la el administrador: la razon
+desto es: porq<ue> la remissio<n> no se haze p<r><<i>>ncipalme<n>te
+en fauor del señor: mas porq<ue> mejor la v<er>dad d<e>los
+dos se auerigue. y ansi pidie<n>do la remissio<n> q<u><<a>>lq<u><<i>>era
+dellos se hara y deue hazer. {GL. [^Hazer. {RMK: marginal gloss in Latin.}]} ¶ Saluo en caso q<ue>
+los dos co<n>sintiesse<n> en co<n>tar ante otro juez q<ue> lo po-
+dria<n> hazer: pues / a ellos toca el p<ro>uecho y el daño.
+{IN3.} QUanto a la setena parte
+en q<ue> diximos q<ue> cosas / a de tener en si el
+libro de cue<n>tas para q<ue> este ordenado co-
+mo deue: digo q<ue> / a de tener p<r><<i>>mero escrito todo a-
+q<ue>llo q<ue> el administrador recibio d<e>l señor. ¶ Lo se-
+gu<n>do todo lo q<ue> dio al señor y / a otros por su ma<n>da-do:}
+[fol. 11r]
+{HD. Parte setena. \ XI}
+{CB1.
+y lo q<ue> gasto en su p<er>sona y bienes d<e>l señor: y en
+sus negocios y causas. ¶ Y el libro d<e> cue<n>tas d<e>l ad-
+ministrador q<ue> no tiene dacta y rescibo: no es bie<n>
+ordenado / y haze sospecha contra el administra-
+dor. y es obligado / a pagar al señor el interesse q<ue>
+se p<ro>uasse: {GL. [^Prouasse. {RMK: marginal gloss in Latin.}]} En ta<n>to q<ue> si[ ]no escriue el administra-
+dor todo lo q<ue> rescibe delos deudores del señor: es
+obligado el administrador delo pagar con el do-
+blo. {GL. [^Doblo. {RMK: marginal gloss in Latin.}]} Y esta dacta y rescibo q<ue> arriba diximos / to-
+do ju<n>to se dize libro d<e> cue<n>tas. {GL. [^Cuentas. {RMK: marginal gloss in Latin.}]} ¶ Y avn q<ue> esto sea
+verdad / no se entie<n>de que la dacta y rescibo d<e> ne-
+cessidad an de estar escritos y assentados en vn li-
+bro / o volume<n>: mas basta que el rescibo este asse<n>-
+tado en vn volumen / y la dacta / o gasto en otro: y
+el vno y el otro libro / en que esta la dacta y resci-
+bo: se dize libro de cuentas. {GL. [^Cuentas. {RMK: marginal gloss in Latin.}]} Toda via es mejor
+que el rescibo y el gasto este<n> assentados en vn vo-
+lumen: por que no aya sospecha contra el admi-
+nistrador: que estando / a parte quito / añadio / o
+mudo partido alguno / creciendo el gasto / o hazi-
+endo otros fraudes. ¶ Y si el administrador es
+thesorero / contador / o receptor delas rentas y tri-
+butos reales: tiene de poner en cabeça del libro
+de cuentas el nombre del principe que estonces
+reyna: y el dia en que rescibe los tributos y ren-
+tas y otros bienes d<e>l señor: y el dia mes y año / en
+que los dio / gasto y pago. {GL. [^Pago. {RMK: marginal gloss in Latin.}]} ¶ Ansi mesmo se req<u><<i>>-
+ere que en la dacta pongan los administradores
+la causa por que dizen que dieron / o gastaro<n> los
+marauedis / o cosas que tienen assentado enel li-
+bro de cuentas: por que los contadores puedan
+conoscer si la causa del gasto fue justa / o bastan-te.}
+{SG. b iij}
+[fol. 11v]
+{CB1.
+{GL. [^Bastante. {RMK: marginal gloss in Latin.}]} ¶ Ansi mesmo es necessario que el admini-
+strador escriua enel libro de cue<n>tas estensamen-
+te / o por menudo lo que gasto: y en que lo gasto /
+y a quien lo dio y pago. {GL. [^Pago. {RMK: marginal gloss in Latin.}]} ¶ Y si el libro del admi-
+nistrador no tuuiesse escrito el dia / mes / y año en
+que rescibio los bienes del señor: y el dia en que
+los dio / gasto / o distribuyo / y la causa del gasto: la
+cuenta seria intricada y no se podria contar dere-
+chamente: y la tal cuenta causaria sospecha con-
+tra el administrador: {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} Y por ende estaria en cul-
+pa: y con otro algu<n> indicio no careceria de pena:
+y no podrian los contadores passar en cuenta el
+partido: que no tuuiesse las cosas ya dichas: por
+que seyendo como dicho es la cuenta entricada
+y oscura: los contadores no podra<n> co<m>prehender
+ni conocer si esta hecho algun fraude / o engaño
+en ella: {GL. [^Enella. {RMK: marginal gloss in Latin.}]} Y no pudiendo bie<n> conoscer la v<er>dad: no
+podrian justamente passar lo assentado. {GL. [^Assentado. {RMK: marginal gloss in Latin.}]} ¶ De
+do<n>de se sigue q<ue> los co<n>tadores no tiene<n> de dar cre-
+dito alguno al libro d<e>l administrador: saluo qua<n>-
+do allende dela dacta y rescibo esta assentado en
+cada vn partido el dia / mes / y año: en q<ue> dize que
+dio / gasto / y pago: y la causa del gasto. {GL. [^Gasto. {RMK: marginal gloss in Latin.}]} ¶ Esto es
+verdad en caso que el señor niega lo co<n>tenido en
+aquel partido: mas si lo conosciesse / o confessasse
+se tiene de passar en cue<n>tas: porq<ue> la co<n>fession d<e>l se-
+ñor quita y amueue toda sospecha. {GL. [^Sospecha. {RMK: marginal gloss in Latin.}]} ¶ Ansi mes-
+mo es verdad q<ue> el partido en q<ue> no esta puesto el
+dia / mes / y año / y la causa: no tiene de ser rescebi-
+do en cuenta: quando el partido es tal en q<ue> el ad-
+ministrador dize q<ue> dio / gasto / pago: o dize otra
+cosa en su fauor. Mas si dize q<ue> rescebio / avn q<ue> no}
+[fol. 12r]
+{HD. Parte setena. \ XII}
+{CB1.
+te<n>ga puesto en q<ue> dia se tiene d<e> rescebir co<n>tra el ad-
+ministrador el tal partido. {GL. [^Partido. {RMK: marginal gloss in Latin.}]} Y assi dezimos q<ue> en
+la recepta no se req<u><<i>>ere dia: mas enla dacta si. {GL. [^Si. {RMK: marginal gloss in Latin.}]} Lo
+mesmo d<e>zimos en la causa: q<ue> avn q<ue> en la dacta se
+aya de espressar: no es necessario q<ue> enel recibo se
+espresse. ¶ Y qua<n>do alguna causa se no<m>bra en la
+dacta: an de mirar los co<n>tadores q<ue> sea justa y tal
+q<ue> baste / para q<ue> tome<n> en cue<n>ta el gasto: porq<ue> muy
+estrecha y vrge<n>te causa / a de mouer al co<n>tador pa-
+ra que passe en cue<n>ta lo gastado. ¶ Y doy por co<n>-
+sejo / a los co<n>tadores: q<ue> no passen en cue<n>ta las es-
+pensas / o gastos q<ue> los administradores dixeren
+auer hecho: saluo en caso q<ue> les co<n>sto claramente
+la causa d<e>l gasto q<ue> da: dizie<n>do lo q<ue> gastaro<n> / y en q<ue>
+y porq<ue> lo gastaro<n>. y si paresciere a los co<n>tadores
+q<ue> la causa d<e>l gasto no es basta<n>te: no passara<n> en cu-
+enta el gasto. Exe<m>plo se puede poner en vna casa
+q<ue> esta hecha / dize el administrador q<ue> la d<e>rribo y
+la torno a hazer: an d<e> saber los co<n>tadores porq<ue> la
+d<e>rribo esta<n>do hecha: y si dixere q<ue> la d<e>rribo porq<ue>
+se q<ue>ria caer / esta es causa justa. y si el administra-
+dor la prouare: bastara para q<ue> passen en cue<n>ta lo
+q<ue> paresciere justa y ordenadamente gastado: y si
+no se p<ro>uare q<ue> tenia necessidad de derribar la: no
+passara<n> en cue<n>ta el gasto: porq<ue> la causa por que se
+gasto no fue justa / mas confusa y mala. {GL. [^Mala. {RMK: marginal gloss in Latin.}]} ¶ Y an-
+si los cojedores de los tributos reales son obliga-
+dos de embiar por escrito a la corte / que quanto
+cobraron: y en que lo gastaro<n>: y de que manera:
+y porq<ue> causa. y lo q<ue> gastaron: {GL. [^Gastaron. {RMK: marginal gloss in Latin.}]} An de dezir y no<m>-
+brar por su no<m>bre p<ro>pio / a quie<n> diero<n> / o pagaro<n> lo
+q<ue> dize<n>. {GL. [^Dizen. {RMK: marginal gloss in Latin.}]} ¶ Y ansi no<m>brada cue<n>ta los administra-dores}
+{SG. b iiij}
+[fol. 12v]
+{HD. Parte setena.}
+{CB1.
+y cogedores de los tributos reales: an de
+rescebir las copias de lo que les mandan cobrar
+Dizie<n>do que cobre de pedro tantos marauedis:
+y de Juan tantos. y ansi quando cobraren tiene<n>
+de assentar por escrito: que cobraron de Pedro
+tanto / y de Juan tanto: {GL. [^Tanto. {RMK: marginal gloss in Latin.}]} Y ansi se vsa en los luga-
+res destos reynos en la cobrança dela moneda
+forera / y otros tributos. y en los lugares que tie-
+nen por encabeçamiento las alcabalas / y tercias
+de sus altezas: que qua<n>do los lugares las repar-
+ten entre si: dan / a vn receptor / o cojedor vna co-
+pia en escrito delo que mandan cobrar de cada
+vn vezino. y ansi el cogedor / o receptor assienta
+por escrito lo que de cada vno / a cobrado. ¶ Y si
+desta manera no se diesse y tomasse la cuenta: los
+que la resciben / no podrian conoscer ni compre-
+hender si algun engaño el re[ce]ptor / cogedor / tutor
+curador / o otro qualquier administrador aya he-
+cho en ella. {GL. [^Enella. {RMK: marginal gloss in Latin.}]} Lo qual yo vi y halle co<n> otros dipu-
+tado para tomar y rescebir cue<n>ta / a vn receptor
+por comission de los muy altos y cristianissimos
+principes don Ferna<n>do / y doña Ysabel: rey y rey-
+na nuestros señores de gloriosa memoria: en las
+quales halle que en la dacta / pagos / y gastos que
+el receptor dezia auer hecho: tenia co<n>tado y asse<n>-
+tado enel libro de cuentas / vna cosa tres vezes. y
+el vn partido estaua bien apartado del otro. y de-
+zia desta manera. En primero de Mayo de mill
+y quinientos años / di a Gonçalo herna<n>dez diez
+mill marauedis por mandado de los señores ju-
+sticia y regidores: porq<ue> fuesse a la corte de sus al-
+tezas. Y en otro partido d<e>zia / en primero d<e> Ma-yo}
+[fol. 13r]
+{HD. Parte setena. \ XIII}
+{CB1.
+de mill y quinientos años: di a Gonçalo her-
+nandez cinco mill marauedis por mandado de-
+los señores justicia y regidores / por que fuesse / a
+la corte de sus altezas. y en otro partido dezia de
+la mesma manera q<ue> le auia dado cinco mill ma-
+rauedis / y por la mesma causa. De manera que
+si passaran en cue<n>ta estos tres partidos: lleuara
+el receptor injustamente diez mill marauedis. y
+visto el libramiento con que justicia y regidores
+mandaron dar al receptor diez mill marauedis:
+y vista la fecha y dia en que se los dio: y la causa q<ue>
+fue para que fuesse a la corte de sus altezas: se aue-
+riguo que no fue mas de vn camino: ni fueron li-
+brados mas de diez mill marauedis. ¶ Tambie<n>
+hallamos enel libro de cuentas de ciertos coge-
+dores d<e>las alcabalas: enel tiempo que estos rey-
+nos los tomaron por encabeçamiento: que fue
+enel año de mill y quatrocie<n>tos y nouenta y nue-
+ue años: que cogieron y cobraron mucha mas
+cantidad delo que fue ma<n>dado que cobrassen: lo
+qual parescio vista la copia que les fue dada por
+donde cobrassen juntamente con el libro delo q<ue>
+rescibieron: ansi por los conoscimie<n>tos y cartas
+de pago q<ue> hezimos traer / a los deudores / a quie<n>
+fue repartido que pagassen alcabala. ¶ Y desta
+causa digo que las personas diputadas para to-
+mar cuenta de otros: deuen ser cautos y sabidos
+en tomar las. y que esten reziamente auisados:
+por que muchos administradores dan por ente-
+ro vn partido: y despues lo dan en muchos otra
+vez por menudo: y doblan y avn redoblan los ga-
+stos que solamente vna vez hizieron. y si gastaro<n>}
+{SG. b v}
+[fol. 13v]
+{HD. Parte octaua.}
+{CB1.
+dos marauedis / dizen que fueron tres: y estos ta-
+les deuen ser punidos / en pena del doblo. {GL. [^Doblo. {RMK: marginal gloss in Latin.}]} ¶ Y
+por ellos se dize que muchos officiales y admini-
+stradores / son lobos robadores y perros de corte
+que con diuersas maneras y grandes astucias y
+engaños: sin que los sienten deguellan las oue-
+jas / y se beuen la sangre dellas: {GL. [^Dellas. {RMK: marginal gloss in Latin.}]} Y avn digo por
+lo que vi muchas vezes / que no se contentan co<n>
+la sangre: mas tambien se comen la carne hasta
+que llegan al huesso / y aquel se comeria<n> sino fue-
+sse tan duro: y tambien lo dexa<n> pensando que so-
+bre( )porna carne nueua / y se la tornaran a comer.
+Y si algunos q<u><<i>>sieren pensar en todas partes po-
+dran hallar muchos administradores ricos q<ue> de
+ante ningunos bienes tenian / y yo los vi. Y a los
+señores pobres / o muy alcançados y adeudados
+ta<m>bie<n> se dize q<ue> estos tales administradores y rece-
+ptores / muchos males sabe<n> y comete<n> mas q<ue> otros. {GL. [^Otros. {RMK: marginal gloss in Latin.}]}
+Y es porq<ue> los dineros ciega<n> los ojos d<e>los admi-
+nistradores: codicia<n>do hazer suyo el di<n>ero age<n>o. {GL. [^Ageno. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto a la octaua par-
+te en que diximos en que cosas se dara
+credito al libro delos administradores
+y en que no / por que esta parte es vna delas prin-
+cipales deste tratado: hago della tres mie<m>bros.
+¶ El primero es / o pregu<n>tamos: si el libro de cue<n>-
+tas prueua en fauor de quien lo escriuio. ¶ O si
+prueua contra quien lo escriuio. ¶ O co<n>tra otro
+tercero. ¶ Quanto a lo primero si prueua en fa-
+uor de quie<n> lo escriuio: algunos dizen que en las
+cosas que dependen dela voluntad del q<ue> lo escri-uio /}
+[fol. 14r]
+{HD. Parte octaua.}
+{CB1.
+bien prueua: {GL. [^Prueua. {RMK: marginal gloss in Latin.}]} Como seria si en vna escritu-
+ra dixesse vno: yo dexo y mando mis bienes a los
+pobres / o a tal yglesia. ¶ Y si es cosa q<ue> no depe<n>de
+dela voluntad del q<ue> lo escriuio: saluo q<ue> el officio
+lo constriñe / a que lo escriua: ay en esto tres opi-
+niones: vna q<ue> no prueua cosa alguna: {GL. [^Alguna. {RMK: marginal gloss in Latin.}]} Sino fue-
+sse con escritura de algu<n> d<e>functo q<ue> fue bue<n> hom-
+bre: q<ue> esto<n>ce co<n> otros indicios / o presunciones di-
+zen q<ue> prueua enterame<n>te en fauor d<e>l administra-
+dor. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} ¶ Fue otra opinion q<ue> las escrituras de los
+mercaderes avn q<ue> sean escrituras en su fauor ha-
+zen media proua<n>ça: y q<ue> co<n> su jurame<n>to haze<n> pro-
+uança entera. {GL. [^Entera. {RMK: marginal gloss in Latin.}]} Y esta opinion no aplaze a otros
+doctores ni a cino. {GL. [^Cino. {RMK: marginal gloss in Latin.}]} Antes la reprueuan por vna
+razon q<ue> me paresce buena dize<n> ansi: q<ue> no puede
+mas obrar ni prouar la escritura que vno haze q<ue>
+su mesma boz biua: pues cierto es que el dicho d<e>
+vn hombre sobre jurame<n>to que dize por su boca /
+que sabe alguna cosa que es en su fauor: no haze
+media prouança. {GL. [^Proua<n>ça. {RMK: marginal gloss in Latin.}]} Por que en su fauor ninguno
+d<e>ue ser creydo: ni puede ser testigo: avn q<ue> sea ho<m>-
+bre puesto en dignidad / o d<e> mucha auctoridad. {GL. [^Autoridad. {RMK: marginal gloss in Latin.}]}
+Pues cierto es si tuuiessemos la segu<n>da opinio<n>
+ya dicha: q<ue> seria cosa fea y absurda: q<ue> toda la pro-
+uança dependiesse de vn solo ho<m>bre creye<n>do a su
+libro q<ue> el mesmo escriuio y a su jurame<n>to: seyen-
+do notorio q<ue> de derecho diuino y vmano: alome-
+nos son necessarios dos testiguos para hazer pro-
+uança entera en fauor de otros. {GL. [^Otros. {RMK: marginal gloss in Latin.}]} Qua<n>to mas en
+su fauor del que testifica / do<n>de ay mas sospecha:
+y do<n>de la ay se req<u><<i>>ere mayor proua<n>ça. {GL. [^Proua<n>ça. {RMK: marginal gloss in Latin.}]} Y se diesse
+credito a vno por su libro y por su jurame<n>to: dos}
+[fol. 14v]
+{HD. Parte octaua.}
+{CB1.
+vezes lo contariamos por testigo / y haria fee en
+su propio caso / mas que enel ageno: lo qual no es
+justo. ¶ Fue otra opinion y tercera / que la escri-
+tura del administrador / o de otro qualquiera / co<n>
+otros indicios prueua en fauor del q<ue> la escriuio:
+y de otra manera q<ue> no prueua. {GL. [^Prueua. {RMK: marginal gloss in Latin.}]} Y ponen vn exe<m>-
+plo diziendo ansi. Cierto es que la co<n>fession que
+vno haze en ausencia dela otra parte / a quien to-
+ca la confession / no prejudica al confessante: avn-
+que el notario dela causa assiente y ponga por es-
+crito en los otros autos del processo la confessio<n>.
+y si esto es verdad: dizen que menos deue valer
+quando alguno en su camara en ausencia dela
+otra parte / escriue en su libro lo que quiere. Pe-
+ro a esta razon algunos respo<n>den diziendo. Que
+no / a lugar en nuestro caso: por que la confessio<n>
+que d<e>zimos fue simple avn que el notario la asse<n>-
+to por escrito: pero que en nuestro caso interuie-
+ne escritura que siempre habla: la qual quando
+viene / a tu poder habla contigo / ansi como dezi-
+mos en la carta que yo te embio q<ue> haze fee. {GL. [^Fee. {RMK: marginal gloss in Latin.}]} ¶ Es-
+to algunos restriñen dizie<n>do que no / a lugar / en
+caso que alguno hizo que / a otro escriuiesse el li-
+bro de cuentas: que no prouaria contra el si le es-
+timo en ausencia dela otra parte: ansi como dixi-
+mos en la confession que se haze en juyzio en au-
+sencia dela otra parte / y se assienta por escrito. {GL. [^Escrito. {RMK: marginal gloss in Latin.}]}
+Y dize<n> que vna cosa es en la carta que yo embio
+a otro que esta ausente: que confessando algo en
+ella es visto confessar lo en presencia de aquel / a
+quien la embio: pues le embio la carta para que
+la vea: y otra cosa es enel libro que se haze en au-sencia /}
+[fol. 15r]
+{HD. Parte octaua. \ XV}
+{CB1.
+a instancia d<e>l que lo escriue: que no tuuo
+animo de co<n>fessar lo que escriue en presencia de
+otra parte: y por esto aquella tal co<n>fession que se
+haze enel libro de cuentas / no valdria en perjuy-
+zio del que lo escriuio. {GL. [^Escriuio. {RMK: marginal gloss in Latin.}]} ¶ Finalmente en( ) boluie<n>-
+do los doctores estos dos articulos que arriba di-
+ximos: si el libro de cuentas prueua en fauor de
+quien lo escriuio / o contra quien lo escriuio / dize<n>
+y concluyen: que si el que lo escriuio es hombre
+de buena fama haze media prouança: y que con
+otros indicios prueua enteramente en fauor de
+aquel que lo escriuio. ¶ Mas que contra el que
+escriuio el libro / prueua el libro enteramente sin
+otro indicio ni prouança alguna. ¶ En tanto q<ue>
+si vn mercader / o administrador / o qualquiera
+otra persona escriuiesse en su libro / que vno d<e>po-
+sito enel cient mill marauedis: y en otro partido
+del mesmo libro escriuio: que de aquellos cient
+mill marauedis / le tiene restituydos y pagados
+cinquenta mill marauedis: que aquel que dize q<ue>
+d<e>posito / podra rescebir en su fauor lo que el mer-
+cader dize que deposito ante el: y no rescebir lo q<ue>
+dize que le pago. Y ansi d<e>zimos que el libro prue-
+ua contra el que lo escriuio: {GL. [^Escriuio. {RMK: marginal gloss in Latin.}]} Y no en su fauor.
+¶ De aqui tambien dezimos que vno puede te-
+stificar contra si: mas no por si en su fauor. {GL. [^Fauor. {RMK: marginal gloss in Latin.}]} Y si
+enel libro del administrador se dixesse: recebi cie<n>t
+mill marauedis / mas / o menos: prejudicaria tal
+co<n>fession al administrador: en los cient mill ma-
+rauedis. {GL. [^Marauedis. {RMK: marginal gloss in Latin.}]} Puesto que algunos quieran dezir q<ue>
+esta confession es incierta: y que la confession in-
+cierta no perjudica. {GL. [^Perjudica. {RMK: marginal gloss in Latin.}]} ¶ Enel tercero articulo si}
+[fol. 15v]
+{HD. Parte octaua.}
+{CB1.
+el libro delas cue<n>tas haze fee en p<er>juyzio de otro
+tercero: algunos doctores dizen que si el libro de
+cue<n>tas fue fecho por auctoridad publica ansi co-
+mo hazen los contadores / a quie<n> se da entera fee
+por que estan puestos para assentar en los libros
+de cue<n>tas por auctoridad real: este tal libro haze
+fee. {GL. [^Fee. {RMK: marginal gloss in Latin.}]} ¶ No solamente quando affirma que vno
+pago: mas tambien haze fee si dixesse que algu-
+no no pago. {GL. [^Pago. {RMK: marginal gloss in Latin.}]} ¶ E si el libro de cuentas no es he-
+cho por razon de officio publico: esto<n>ce no haze
+fee. {GL. [^Fee. {RMK: marginal gloss in Latin.}]} ¶ Saluo en caso que por estatuto / o costum-
+bre se le diesse entera fee: q<ue> estonce prueua el tal
+libro. {GL. [^Libro. {RMK: marginal gloss in Latin.}]} ¶ Y de aqui oy dezimos que los libros de
+los contadores del rey por que estan aprouados
+por auctoridad real: y ansi mesmo el libro de cue<n>-
+tas de cambiadores y de otros mercaderes: que
+juran en su arte y officio / por que suceden en lu-
+gar de aquellos que tenian officio publico / haze<n>
+media prouança: avn que ellos no tengan officio
+publico / si son ho<m>bres aprouados y de buena fa-
+ma. {GL. [^Fama. {RMK: marginal gloss in Latin.}]} ¶ Y ansi los derechos: {GL. [^Derechos. {RMK: marginal gloss in Latin.}]} Que dize<n> que la es-
+critura prouada / o que haze qualq<u><<i>>era persona /
+haze media proua<n>ça: se entiende quando la per-
+sona que la hizo / era p<er>sona de buena fama y ho<n>-
+rrada. ¶ Y es de notar que quando el mercader
+o cambiador es aprouado en su arte y officio: su li-
+bro haze entera fee. {GL. [^Fee. {RMK: marginal gloss in Latin.}]} Pero si el mercader por su
+voluntad tomo el officio de mercader / o cambia-
+dor: como haze<n> oy en este reyno los mercaderes
+tenderos y otros que venden publicame<n>te: su li-
+bro no haze entera fee por si / ni contra otros / ni
+menos hazen media prouança. Por que este tal}
+[fol. 16r]
+{HD. Parte octaua. \ XVI}
+{CB1.
+mercader / o tendero: es persona priuada / y no
+persona publica. {GL. [^Publica. {RMK: marginal gloss in Latin.}]} ¶ Y ansi en juyzio vi muchas
+vezes que algunos mercaderes que vendien pa-
+ños y sedas: y tenderos que vendien merceria /
+pedian a otros algunas quantias de marauedis
+que dezian auer les vendido fiado: y presentaua<n>
+sus libros de cuentas en prueua delo que dezian
+y no fue dado a su libro entera fee / ni avn media:
+mas de quanto con vn testigo / y el juramento d<e>l
+mercader en pequeña / o mediana su<m>ma juzga-
+uan por el: y no de otra manera. {GL. [^Manera. {RMK: marginal gloss in Latin.}]} ¶ Pero en ca-
+so que vno escriuio en su libro por mandado de
+otro que le deue ta<n>tos marauedis / hara prueua
+contra aquel tercero que lo ma<n>do escreuir: pro-
+uando solamente el mandado que lo assentasse
+que le deuia / o daua tanto. {GL. [^Tanto. {RMK: marginal gloss in Latin.}]} Y ansi yo vi algunos
+que tomauan mercaderias y dixeron al merca-
+der que assentasse en su libro como le deuia tan-
+tos marauedis de paño que le vendio: y esto se
+haze muchas vezes entre labradores y estudian-
+tes / y avn entre escuderos que pocas vezes tie-
+nen dinero con mercaderes de quien toman al-
+go fiado. y en esto concluyen los doctores que so-
+bre este caso habla<n>: y en verdad si con sus dichos
+passassemos en los dichos tres articulos: tanta
+duda tendriamos agora despues de vistos como
+ante. ¶ Por tanto so emie<n>da y correcion d<e>los q<ue>
+mas sienten / para saber mejor la v<er>dad: d<e>sta par-
+te hago otra mayor distincio<n>. ¶ O pregu<n>tamos
+en q<ue> cosas se dara credito al libro de cue<n>tas y en q<ue>
+cosas no se da credito. ¶ O pregu<n>tamos de q<ue> ma-
+nera se prouara aq<ue>llo q<ue> no se prueua por el libro}
+[fol. 16v]
+{HD. Parte octaua.}
+{CB1.
+de cuentas. ¶ Quanto a lo primero en que se da-
+ra credito al libro de cuentas: digo que o habla-
+mos en las cosas que el administrador rescibio
+del señor: y en esto se da entero credito al libro de
+cuentas / en perjuyzio del administrador: segun
+que arriba esta dicho. {GL. [^Dicho. {RMK: marginal gloss in Latin.}]} Mas si el administrador
+dize por su libro de cuentas: que cobro de Fulano
+tantos marauedis: es duda si se dara credito al
+tal libro: para que sea libre aquel de quien dize q<ue>
+rescebio y cobro ta<n>to: digo q<ue> si el tal administra-
+dor era d<e>l fisco prueua / su libro la paga: avn q<ue> la
+confession d<e>l administrador sea menos sole<m>ne. {GL. [^Sole<m>ne. {RMK: marginal gloss in Latin.}]}
+Mas si el que hizo esta confession / era procura-
+dor de alguna persona priuada: y tenia poder pa-
+ra cobrar y dar carta de pago: avn que diga que
+cobro: si aquel de quien dize que cobro: no proua-
+sse que pago: no prejudicara al señor la confessio<n>
+del procurador. {GL. [^Procurador. {RMK: marginal gloss in Latin.}]} Y puesto que el procurador en
+el instrumento tenga poder de confessar lo que
+rescibe: y confessasse auer recebido / no prejudica-
+ra al señor su confession. {GL. [^Co<n>fessio<n>. {RMK: marginal gloss in Latin.}]} Por tanto sea cauto
+el que paga al procurador de otro / q<ue> haga el pa-
+go por ante escriuano / o testigos: y el escriuano
+assiente en la carta de pago: que pago en su prese<n>-
+cia / y delos testigos. y lo mesmo si alguno paga
+al tutor / o curador de otro. {GL. [^Otro. {RMK: marginal gloss in Latin.}]} ¶ Y si dezimos en
+las cosas que el administrador dize que dio / o ga-
+sto / por que tiene necessidad de prouarlo. {GL. [^Prouarlo. {RMK: marginal gloss in Latin.}]} Dezi-
+mos que si la dacta espensa / o gasto: fue / o es en
+grande cantidad / de que se puede hazer escritu-
+ra publica: {GL. [^Publica. {RMK: marginal gloss in Latin.}]} Digo que se tiene de prouar co<m>pli-
+damente con testiguos / o escrituras: y es la cau-sa}
+{CW. {SYMB: hand.} sa que.}
+[fol. 17r]
+{HD. Parte octaua. \ XVII}
+{CB1.
+/ que pues los administradores saben / o deuen
+saber q<ue> son obligados a dar cuenta: se deuen pro-
+ueer de manera que lo que gastaren y pagaren:
+lo paguen ante quien lo puedan prouar: o tome<n>
+escritura delo que pagaron / o dieron: y por cuyo
+mandado. {GL. [^Mandado. {RMK: marginal gloss in Latin.}]} ¶ De manera que en gasto de mu-
+cha su<m>ma / no se dara credito al libro del admini-
+strador solo / ni con su juramento: avn que sea / o
+aya seydo ho<m>bre de buena fama y de mucho cre-
+dito y honrra. ¶ Enel segundo caso quando la
+dacta / o gasto fue en pequeña cantidad: o se hizo
+por menudo: ansi como en los gastos que los tu-
+tores hazen en dar de comer y vestir a sus meno-
+res: o el mayordomo / o despe<n>sero haze en dar de
+comer a su señor y a los suyos: o en los gastos q<ue>
+hazen en edificios de fortalezas y casas / y vnas
+labores de panes / viñas / y ganados y otras ha-
+ziendas semejantes: delos q<u><<a>>les gastos no se pue-
+de hazer publica escritura: ni se puede p<ro>uar por
+testigos la cantidad que se gasto: digo que si los
+tales gastos son virisimiles / o de creer / o paresce<n>
+por vista dela obra: tales y semejantes gastos co-
+mo estos se prouan por el libro de cuentas: junta-
+mente con el juramento del administrador / si es
+biuo. {GL. [^Biuo. {RMK: marginal gloss in Latin.}]} ¶ Lo mismo seria quando los gastos se
+pueden prouar naturalmente ansi como arriba
+diximos: si el tutor / o curador dio de comer y ve-
+stir al menor: que naturalmente dos personas /
+o mas pueden ver y juzgar / que aquel menor no
+podia passar sin comer y vestir: y puede<n> tassar na-
+turalmente lo que el tutor pudo gastar en cada
+vn año con el menor. E ansi podrian aueriguar}
+{SG. c}
+[fol. 17v]
+{HD. Parte octaua.}
+{CB1.
+si lo que el tutor dize que gasto por menudo con
+el menor es verisimile / o de crecer naturalmen-
+te: y estonce avn que el gasto por menudo sea en
+grande su<m>ma: se a de dar credito al libro d<e>l admi-
+nistrador / juntamente con su juramento. {GL. [^Juramento. {RMK: marginal gloss in Latin.}]} ¶ Y
+ansi mesmo d<e>zimos que los gastos se puede<n> pro-
+uar por vna vista y conoscimie<n>to secreto. De ma-
+nera que si el tutor / o administrador dixesse q<ue> ga-
+sto en hazer vna casa mill ducados: los que vie-
+ren la casa y saben quanto cuesta en aq<ue>lla tierra
+la madera / cal / y piedra / y clauazon / y los jorna-
+les delos officiales de aquel officio de canteria y
+carpinteria y otras cosas que enla casa estan ga-
+stadas podra<n> conoscer si el gasto que el admini-
+strador dize auer hecho enla casa es cierto / o no.
+Y esta prouança y aueriguacion hecha por bue<n>
+conoscimiento: es bastante sin testigos ni escritu-
+ra: y en ella sera creydo el libro del administra-
+dor. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} ¶ Tambien los gastos se pueden prouar
+por otras co<n>jecturas que parescieren al juez an-
+te quien se debate sobre ellas: las quales como co<n>-
+sistan en hecho no se puede dar cierta regla. {GL. [^Regla. {RMK: marginal gloss in Latin.}]}
+¶ Y por esto digo que no fue buena la conclusio<n>
+y opinion de los doctores: en quanto dixero<n> que
+si el administrador auia seydo buen ho<m>bre / tenia<n>
+d<e> dar credito a su libro: por que como paresce no
+tenemos de auer consideracion a que sea bue<n> ho<m>-
+bre / o no: saluo a la cantidad del gasto si es gra<n>de
+o pequeña: si el gasto avn que sea grande aya he-
+cho por menudo / avn que es verdad que en la du-
+da del gasto siendo verisimile: se da mas credito
+al libro del administrador que fue / o es buen ho<n>-bre:}
+[fol. 18r]
+{HD. Parte octaua. \ XVIII}
+{CB1.
+que se daria al que no fue tal. ¶ Tambien se
+prueua la dacta por la escritura en que el juez / o
+el señor / mandaro<n> al administrador que hiziesse
+el pago / o el gasto con la carta de pago de quie<n> se
+mando dar / o pagar: la qual prouança es mas se-
+gura que otra y mas cierta. Y por ser mas cierta
+doy por consejo a los tutores / curadores / y otros
+administradores de bienes agenos: que si otro q<ue>
+el señor les demandare dineros / o otra cosa: que
+no los den ni paguen sin mandamiento / o carta
+del señor / o de juez: por que por deffecto de proua<n>-
+ça / o por auer pagado lo que el señor no deuia / o
+tenia causa de no pagar lo: los contadores no lo
+passaran en cuenta: y digo que ante consientan
+que por justicia les pidan / y selo manden pagar
+por sentencia / para que con ella prueue<n>: que no
+estar en duda si pagaro<n> justame<n>te / o si podra<n> pro-
+uar lo. ¶ De manera que es bien tomar conosci-
+miento / libramiento / o mandamiento del señor
+de como ma<n>do pagar / y carta de pago de como
+pago: por que la proua<n>ça por escritura es proua<n>-
+ça prouada: por que prueua lo que reza. {GL. [^Reza. {RMK: marginal gloss in Latin.}]} ¶ Y si
+por caso el señor escriuiesse al administrador de-
+sta manera: alla va Fulano / dalde entero credito
+en lo que os dixere. Si aquel moço dixo al admi-
+nistrador que el señor le ma<n>daua que le diesse ta<n>-
+tos mill marauedis: bastaria esta carta para que
+el administrador sea libre si se los dio. {GL. [^Dio. {RMK: marginal gloss in Latin.}]} ¶ Es ver-
+dad q<ue> qua<n>do la deuda es clara puede el admini-
+strador pagar la. {GL. [^Pagar la. {RMK: marginal gloss in Latin.}]} Mas porq<ue> sobre si fue la deu-
+da clara o no / podria auer debate entre el señor y
+el administrador: ante d<e>ue el administrador qui-tar}
+{SG. c ij}
+[fol. 18v]
+{HD. Parte octaua.}
+{CB1.
+se de d<e>bate que ponerse enel: y por que vea el
+administrador que sobre deuda conoscida pue-
+de auer causa por do<n>de pague el administrador
+lo que pago de sus bienes. Pongo exemplo. En
+estos reynos en todas las ciudades y villas / o en
+la mayor parte dellas esta conoscido y situado el
+salario que tiene<n> de auer: los gouernadores / assi-
+stentes / corregidores / veynte quatros / regidores
+jurados: y otros officiales de los ayuntamie<n>tos. {GL. [^Ayuntamientos. {RMK: marginal gloss in Latin.}]}
+Y el mayordomo / o receptor podria pagar su sa-
+lario al corregidor / o regidor: por que es notorio
+que se le deue: y ansi lo pagan sin libramiento al-
+guno: mas si por caso el assiste<n>te / corregidor / o re-
+gidor / ouiessen estado / o estouiessen ausentes de
+su officio por mas tiempo delo que tienen facul-
+tad: aurian les de quitar por( )rata del salario que
+se les deue: pues si estouiesse pagado por cosa al-
+guna no le escusara el receptor delo pagar de sus
+bienes / y no se lo tomaran en cuenta: por que pa-
+go lo q<ue> no se deuia. {GL. [^Deuia. {RMK: marginal gloss in Latin.}]} ¶ Y quieren dezir muchos
+que los officiales no puede<n> pagar vn solo mara-
+uedi de su voluntad. {GL. [^Uoluntad. {RMK: marginal gloss in Latin.}]} Saluo en caso que aya co<n>-
+tra el señor verdadera obligacion. {GL. [^Obligacio<n>. {RMK: marginal gloss in Latin.}]} ¶ Y por que
+algunos podrian dezir qua<n>do la dacta se dize ser
+hecha en gran ca<n>tidad / o en pequeña: para que
+aya lugar d<e> ser creydo el libro del administrador
+digo que esto se dexa / a aluedrio del que lo tiene
+de juzgar: mirada la calidad d<e>las personas y de-
+los bienes que se dieron en administracion / y de
+los gastos: y dela cosa en que se hiziero<n>. Y auida
+consideracio<n> del tiempo en que se hizo el gasto. {GL. [^Gasto. {RMK: marginal gloss in Latin.}]}
+¶ Y si por caso el señor y el administrador diffie-ren}
+[fol. 19r]
+{HD. Parte nouena. \ XIX}
+{CB1.
+sobre alguna cantidad pequeña que el admi-
+nistrador dize que dio al señor: y el señor lo niega
+digo q<ue> se tiene de referir en juramento del señor
+si rescibio aq<ue>lla quantidad: y no del administra-
+dor. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} Sino fuesse en caso que conoscidame<n>te el
+señor fuesse vn hombre roto de conciencia y de
+mal trato. y el administrador fuesse hombre de
+buena fama / que estonce los contadores rescibi-
+ran jurame<n>to d<e>l administrador / y no del señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto ala nouena par-
+te que diximos que pueden hazer los
+administradores por razon de su offi-
+cio: y que no pueden hazer. ¶ Digo que por ma<n>-
+dado de su señor / o del juez pueden pagar lo con-
+tenido enel mandamiento del señor / o del juez.
+¶ Ytem pueden pagar se a si mesmos de su sala-
+rio: y de todo lo demas que se les deue por razon
+de los bienes que administraro<n>. y ansi como los
+administradores puede<n> pagar a otros lo que de-
+rechamente les es deuido: puede<n> pagar a si mes-
+mos. {GL. [^A[ ]ssi[ ]mesmos. {RMK: marginal gloss in Latin.}]} ¶ Jtem pueden vender / o enagenar to-
+das las cosas que pueden perescer por tiempo: {GL. [^Tiempo. {RMK: marginal gloss in Latin.}]}
+Especialmente quando son viejas que mas pre-
+sto son corrompidas y perdidas: ansi como si fue-
+sse pan en grano / azeytes / vino / carneros viejos
+fruta / ortalizas / y otras cosas que muy presto se
+corrompen y pierden: y si por caso no los vendie-
+ssen en sus tiempos y se perdiessen: sera obligado
+el administrador delo pagar de sus bienes: avn
+que el señor no le aya dado poder para vender
+las. {GL. [^Ue<n>derlas. {RMK: marginal gloss in Latin.}]} ¶ Ytem si tiene debate con otro sobre algu-na}
+{SG. c iij}
+[fol. 19v]
+{HD. Parte nouena.}
+{CB1.
+cosa del señor / y su justicia del esta dudosa: po<n>-
+dra el administrador este debate en mano de per-
+sonas que lo determinen: y avn podra el mesmo
+administrador co<n>certarse con la mesma parte. {GL. [^Parte. {RMK: marginal gloss in Latin.}]}
+¶ Lo q<u><<a>>l es v<er>dad saluo en caso que el administra-
+dor fingiesse tener d<e>bate / y duda sobre aq<ue>lla cosa
+y no la ouiesse: q<ue> esto<n>ce no valdria la tra<n>sacio<n> q<ue> el
+administrador hiziesse. {GL. [^Hiziesse. {RMK: marginal gloss in Latin.}]} ¶ Y lo que dicho es q<ue> el
+administrador puede co<m>prometer / y amigable-
+me<n>te co<n>certar se quando a lugar el administra-
+dor es tal q<ue> tiene libre administracio<n>: ansi como el
+padre en los bienes d<e>l hijo: o qua<n>do es otro q<ue> tie-
+ne poder co<n> libre administracio<n>. {GL. [^Administracion. {RMK: marginal gloss in Latin.}]} Y co<n> d<e>creto d<e>l
+juez. ¶ Jte<m> puede dexar en jurame<n>to de aq<ue>l con
+quie<n> litiga / o con quie<n> tiene d<e>bate la cosa sobre q<ue>
+pleytea<n>: en caso q<ue> no puede auer prueua de testi-
+gos ni de carta con q<ue> se pueda ayudar / y fuesse el
+pleyto dudoso. {GL. [^Dudoso. {RMK: marginal gloss in Latin.}]} ¶ Jte<m> quando vende el admini-
+strador algunas cosas d<e>l señor de los que el dere-
+cho les permite: puede clarame<n>te sacar las enel
+almoneda. {GL. [^Almoneda. {RMK: marginal gloss in Latin.}]} ¶ Saluo en aq<ue>l q<ue> es administrador
+de alguna yglesia / o monesterio q<ue> no puede com-
+prar lo por alguna manera. {GL. [^Manera. {RMK: marginal gloss in Latin.}]} ¶ Jte<m> puede hazer
+y renouar el instrumento / o co<n>tracto del señor q<ue>
+esta ya roto. {GL. [^Roto. {RMK: marginal gloss in Latin.}]} ¶ O ente<n>die<n>do instrume<n>to por q<u><<a>>l-
+q<u><<i>>er edificio d<e> casa / o fortaleza / o molino q<ue> esta ro-
+to / o desbaratado / o para caer: y a menester repa-
+ro: podra el administrador reparar lo / y rehazer
+lo: con ta<n>to q<ue> el juez lo vea / o haga ver y declarar
+q<ue> tiene necessidad de reparo. {GL. [^Reparo. {RMK: marginal gloss in Latin.}]} ¶ Jte<m> puede ena-
+genar sus bienes p<ro>pios. {GL. [^Propios. {RMK: marginal gloss in Latin.}]} ¶ Jte<m> puede empeñar
+los bienes propios del señor por su mandado. {GL. [^Mandado. {RMK: marginal gloss in Latin.}]}}
+[fol. 20r]
+{HD. Parte nouena. \ XX}
+{CB1.
+¶ Jtem puede remitir / o perdonar la deuda del
+señor que no es liquida: por que la tal remission
+no es donacion. {GL. [^Donacio<n>. {RMK: marginal gloss in Latin.}]} Mas doy por consejo a los tu-
+tores y administradores que no remitan ni per-
+donen ni suelten deuda alguna que se deua al se-
+ñor / puesto que no sea liquida: por que la remis-
+sion avn que no sea donacion: es manera / o espe-
+cie de enagenacio<n>. {GL. [^Enagenacio<n>. {RMK: marginal gloss in Latin.}]} La qual no puede hazer el
+tutor / o administrador sin causa justa / o necessa-
+ria: y con decreto / o auctoridad de juez. {GL. [^Juez. {RMK: marginal gloss in Latin.}]} ¶ Jtem
+puede dar al maestro del señor tanta quantidad
+que sastifaga el trabajo q<ue> passo el maestro en mo-
+strar / o enseñar el officio al menor / o al señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]}
+¶ Y generalmente puede hazer todo aquello q<ue>
+paresca ser en vtilidad y prouecho del señor. De
+manera que si va sobre negocios del menor / o d<e>l
+señor a algunas partes: puede tomar de los bie-
+nes que administra lo que vuiere menester para
+su mantenimiento. {GL. [^Mantenimiento. {RMK: marginal gloss in Latin.}]} Saluo en caso que por de-
+recho fuesse tassado al administrador cierto sa-
+lario: por que estonce no podria cobrar mas de
+aquel / assi como es enel salario de los tutores. {GL. [^Tutores. {RMK: marginal gloss in Latin.}]}
+¶ Mas si el administrador dio / o pago alguna
+quantidad que el señor no deuia / o tenia compe<n>-
+sacion: no le sera rescebido en cuenta. {GL. [^Cue<n>ta. {RMK: marginal gloss in Latin.}]} ¶ Jtem
+si con el dinero del Señor el tutor / o administra-
+dor da a logro: sera obligado el administrador / o
+tutor a restituyr y a pagar de sus propios bienes
+lo que injustamente lleuo / o gano. {GL. [^Lleuo. {RMK: marginal gloss in Latin.}]} ¶ Jtem si
+no paga en tiempo lo que el señor deue / y le haze<n>
+costas por ello: sera tenido y obligado el admini-
+strador a las pagar de sus bienes p<ro>pios. {GL. [^Propios. {RMK: marginal gloss in Latin.}]} Y no}
+{SG. c iiij}
+[fol. 20v]
+{HD. Parte nouena.}
+{CB1.
+delos bienes del señor. ¶ Jtem si fue negligente
+en cobrar las deudas que se deuian al señor. y los
+deudores se fueron con las deudas: las pagara el
+administrador de sus bienes al señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} Mas si
+prouasse el administrador que no pudo deman-
+dar las deudas por justo impedimie<n>to que tuuo
+si los deudores se fueron con las deudas en este
+tiempo: no sera el administrador obligado a pa-
+gar las pues no fue en culpa. {GL. [^Culpa. {RMK: marginal gloss in Latin.}]} Y para q<ue> sea obli-
+gado el administrador: tiene de prouar el señor
+que el deudor se fue por culpa del administrador
+por que presume el derecho q<ue> el administrador
+no fue en culpa. {GL. [^Culpa. {RMK: marginal gloss in Latin.}]} Mas si prouare el señor que ve-
+nido el tiempo dela paga tenia el deudor de que
+pagar: y dexo el administrador passar tanto tie<m>-
+po que vuo lugar de perder el deudor sus bienes
+o de yr se con ellos: bastara esta proua<n>ça para co-
+noscer que fue el administrador en culpa: en no
+cobrar en tiempo la deuda: y por razo<n> dela culpa
+sera obligado a pagar la. {GL. [^Pagarla. {RMK: marginal gloss in Latin.}]} ¶ Jtem si el admini-
+strador co<n>trato con alguna persona que no era
+abonado en aquella qua<n>tidad: si el deudor se fue
+o por no tener de que pagar / no se puede cobrar
+la deuda: sera obligado el administrador dela pa-
+gar de sus bienes al señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Y avn en caso que
+el administrador contrato con alguno muchas
+vezes y tenia de que pagar / y se fue con las deu-
+das del señor: sera obligado el administrador a
+las pagar: por q<ue> fue en culpa contratar muchas
+vezes con vno. {GL. [^Uno. {RMK: marginal gloss in Latin.}]} ¶ Saluo en caso que el tutor / o
+administrador dixo a su madre / o parientes del
+menor / o d<e>l señor: si fiaria la tal mercaduria a Fu-lano}
+[fol. 21r]
+{HD. Parte nouena. \ XXI}
+{CB1.
+/ o si contrataria con el: y le dixeron que si. q<ue>
+en tal caso avn q<ue> el deudor se ausente con la deu-
+da: no sera el administrador obligado a pagar
+la. {GL. [^Pagarla. {RMK: marginal gloss in Latin.}]} ¶ Jtem no puede soltar ni remitir la deuda
+que se deue liquida y claramente al señor: {GL. [^Señor. {RMK: marginal gloss in Latin.}]} Avn
+que la deuda sea odiosa / y el administrador sea le-
+gittimo. {GL. [^Legitimo. {RMK: marginal gloss in Latin.}]} ¶ Entiende se que no puede remitir
+la espressamente dizie<n>do el administrador yo os
+suelto tal deuda que deueys al señor cuyo admi-
+nistrador soy / mas calladamente dexando de pe-
+dir la deuda / bie<n> puede remitir la. Y esto podria
+ser desta manera: dexa<n>do el señor de pedir la deu-
+da por tiempo / o espacio de diez / veynte / o treyn-
+ta años: segun condicion / o calidad d<e>la deuda se
+pierde y perescriue por espacio deste tiempo. Y
+passado este tie<m>po el señor no la podra pedir por
+estar prescrita. {GL. [^Prescripta. {RMK: marginal gloss in Latin.}]} Mas en este caso ternia por ci-
+erto que el señor avn que pedir no pueda la deu-
+da al deudor por estar prescrita: podra cobrar la
+del administrador: por auer seydo negligente en
+cobrar la / y dexar la perder por tiempo. ¶ Ytem
+si el administrador pleytea temerariame<n>te / o co<n>-
+tra justicia: deue pagar las costas / y no el señor. y
+la execucion se tiene de hazer en bienes del admi-
+nistrador. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} ¶ Jtem no puede comprometer pa-
+ra que sentencien los juezes amigablemente. {GL. [^Amigablemente. {RMK: marginal gloss in Latin.}]}
+¶ Jtem no puede empeñar la cosa del señor: sal-
+uo por cosa que sea en vtilidad y prouecho del se-
+ñor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Jtem no puede hazer gracia d<e> cosa que
+sea del señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Jtem no puede dissipar / o mal
+baratar / ni destruyr los bienes d<e>l señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Jte<m>
+si rescibe mas delo que deue / los deudores del se-ñor /}
+{SG. c v}
+[fol. 21v]
+{HD. Parte nouena.}
+{CB1.
+pidiendo lo el sabidamente: tiene de ser pu-
+nido en pena del doblo. {GL. [^Doblo. {RMK: marginal gloss in Latin.}]} ¶ Jtem si no escriuio
+en su libro lo que rescebio / o cobro: es obligado a
+pagar lo con pena del doblo. {GL. [^Doblo. {RMK: marginal gloss in Latin.}]} ¶ Jtem no puede
+el official / o administrador p<er>donar los derechos
+que se deuen al señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]} ¶ Jtem si es negligente
+en cobrar lo que es deuido al señor: no le tiene de
+ser pagado salario alguno. {GL. [^Alguno. {RMK: marginal gloss in Latin.}]} ¶ Jte<m> el official no
+puede pedir ni cobrar los derechos que se deue<n>
+al señor de alcabalas y otras cosas: sin que prime-
+ro muestre el libro a los deudores. {GL. [^Deud($u)[o]res. {RMK: marginal gloss in Latin.}]} ¶ Algunos
+podrian sobre lo que dicho es formar vna duda:
+el tutor quiso ve<n>der / o enagenar algunos bienes
+del menor / y ansi los vendio con auctoridad de
+juez: y en la venta no interuinieron las cosas ne-
+cessarias: el comprador se fue con lo comprado:
+si por caso el señor quiere tener recurso / si lo po-
+dra tener contra el tutor / o contra el juez: digo q<ue>
+teniendo el tutor de que pagar: tiene primero de
+auer recurso contra el tutor. Y si no tiene de que
+pagar / el tutor puede cobrar lo del juez: por que
+dio licencia que se vendiessen los bienes del me-
+nor sin causa justa. {GL. [^Justa. {RMK: marginal gloss in Latin.}]} ¶ Jtem puedes tener por re-
+gla general que todos los administradores / son
+obligados a su señor de qualquiera dolo / o gran-
+de culpa en que fue / en cobrar las deudas delos
+deudores. {GL. [^Deudores. {RMK: marginal gloss in Latin.}]} ¶ Y algunas vezes son obligados
+los officiales de lo que hizieron en daño d<e>l señor
+y de lo que dexaro<n> de hazer por culpa muy liuia-
+na. {GL. [^Libiana. {RMK: marginal gloss in Latin.}]} Y puedes poner exemplo en caso que otro
+administrador se hallaua mas diligente / que to-
+masse la administracion. {GL. [^Administracion. {RMK: marginal gloss in Latin.}]}}
+[fol. 22r]
+{HD. Parte dezena. \ XXII}
+{CB1.
+{IN3.} QUanto a la dezena par-
+te en que diximos si dada la cue<n>tas vuo
+yerro en ella se ayan de poner p<er>sonas
+que las reuean y otra vez la cuenten: y si paresci-
+do el yerro se aya de retratar la primera cuenta.
+¶ Digo que ansi como la confession muchas ve-
+zes hecha y examinada por yerro no dañan al co<n>-
+fitente / o confessante y puede reuocar la. {GL. [^Reuocarla. {RMK: marginal gloss in Latin.}]} Ansi
+la cue<n>ta muchas vezes hecha si yerro interuino
+en ella / no empece y se tiene de tornar a hazer pi-
+diendo lo qualq<u><<i>>era de las partes. {GL. [^Partes. {RMK: marginal gloss in Latin.}]} ¶ Y de aqui
+se nota que si algunos mercaderes hizieron / su-
+maron / y aueriguaron sus cuentas muchas ve-
+zes: aquel que fue por ellas alcançado: si dixere q<ue>
+interuino yerro en ellas: podra pedir q<ue> se torne<n>
+a hazer y reuer / y se mire si vuo en ellas yerro. {GL. [^Hierro. {RMK: marginal gloss in Latin.}]}
+¶ Lo qual es verdad puesto que sobre lo co<n>tado
+y sumado / y aueriguado interuenga entre ellos
+estipulacion. {GL. [^Estipulacio<n>. {RMK: marginal gloss in Latin.}]} La qual estipulacio<n> se haze y cau-
+sa desta manera. {GL. [^Manera. {RMK: marginal gloss in Latin.}]} Diziendo el que alcanço al
+otro. Prometes de pagar me a tal dia ta<n>tos ma-
+rauedis que te alcanço por esta cuenta: y el alcan-
+çado dixesse que lo promete: que puesto que el al-
+cançado lo prometa podra pedir que otra vez se
+vean las cuentas y se mire si vuo yerro en ellas. {GL. [^Enellas. {RMK: marginal gloss in Latin.}]}
+¶ Saluo en caso que hecha cuenta las partes pi-
+dieron al juez que las pronu<n>ciasse por sentencia:
+y mandasse al alcançado que a tantos dias pa-
+gasse el alcance. {GL. [^Alcance. {RMK: marginal gloss in Latin.}]} Por si entre ellos vuo transa-
+cion. {GL. [^Tra<n>sacion. {RMK: marginal gloss in Latin.}]} Que en tal caso no se tornaria<n> a hazer las
+cue<n>tas: avn q<ue> alguno de aq<ue>llos entre quie<n> se co<n>to}
+[fol. 22v]
+{HD. Parte dezena.}
+{CB1.
+diga que vuo yerro en ellas. {GL. [^En ellas. {RMK: marginal gloss in Latin.}]} Y causasse la tran-
+sacion desta manera. {GL. [^Manera. {RMK: marginal gloss in Latin.}]} El señor y el administra-
+dor tienen debate sobre alguna cosa / conciertan-
+se que la partan y diuidan en cierta manera: si d<e>s-
+pues alguno dellos dixesse q<ue> ouo yerro enla cue<n>-
+ta: no se tornara a hazer pues que ya los dos se
+concertaron. ¶ Y quando la cue<n>ta por razon de
+yerro se torna a hazer / se tienen de poner dos per-
+sonas que la reuean: las quales personas tienen
+de nombrar cada vna delas partes la suya. {GL. [^{RMK: marginal gloss in Latin.}]} Y si
+alguna delas partes no quisiere nombrar la: el
+juez a pedimiento d<e>la otra parte compelera que
+la nombre. {GL. [^Nombre. {RMK: marginal gloss in Latin.}]} Y si por mandado del juez no quisi-
+ere nombrar la / podra el juez nombrar la: y val-
+dra lo que aueriguaren los dos nombrados: y si
+por caso las partes / nombran las dos personas
+que reuean las cuentas / y no se conciertan en la
+reuista / podra el juez poner vn tercero / y passara
+el juez la aueriguacion q<ue> los dos hizieron. ¶ Y
+estas personas nombradas para reuer las cuen-
+tas / an de jurar que bien y fielmente las veran y
+reueran. {GL. [^Reueran. {RMK: marginal gloss in Latin.}]} Y los no<m>brados tienen de oyr las par-
+tes: si dixeren que vuo yerro en la su<m>ma / o si vuo
+yerro en q<ue> dexaro<n> otras cosas por contar: & no se
+traxeron en la cuenta para q<ue> lo auerigue<n>: y si se
+prouare el yerro / y aq<ue>l yerro fue en gran quan-
+tidad: el juez retractara la primera cuenta en lo
+que fue errado. {GL. [^Herrado. {RMK: marginal gloss in Latin.}]} Y si el yerro fue en pequeña
+qua<n>tidad / no se reueria la cue<n>tas ya hecha. {GL. [^Hecha. {RMK: marginal gloss in Latin.}]} ¶ Y
+es de notar que la aueriguacion de cuentas que
+hazen los primeros / o postreros contadores no
+tiene fuerça de sentencia para que pueda ser ese-cutada:}
+[fol. 23r]
+{HD. Parte dezena. \ XXIII}
+{CB1.
+mas es de saber que an de hazer y aueri-
+guar las cuentas dizie<n>do ansi: que an auerigua-
+do auer recebido el administrador tantas mill
+marauedis y auer dado y gastado tanto y que d<e>s-
+contado el gasto del rescibo alca<n>ça el señor al ad-
+ministrador tantas mill marauedis: y los conta-
+dores hecha esta aueriguacion la traera<n> ante el
+juez y escriuano: y juraran que an fecho y aueri-
+guado la cuenta bien y lealme<n>te: y que no an po-
+dido alcançar a saber otra cosa: y el juez exibidas
+las cuentas las vera atentamente: y mirara si an
+passado los co<n>tadores alguna cosa que no se pu-
+do passar justamente / o si dexaron de passar algo
+que deuieran tomar en cuenta: y mandara por
+sentencia que pague el administrador el alcançe
+o el señor si fue alcançado. {GL. [^Alcançado. {RMK: marginal gloss in Latin.}]} Lo qual es co<n>tra mu-
+chos contadores / y co<n>tra otras personas que se
+nombran para hazer y aueriguar cuentas / y pa-
+ra tassar casas / fortalezas / y otras cosas. Los qua-
+les hazen su tassacion: y hecha dizen q<ue> la pronu<n>-
+cian por sentencia. y algunos juezes que poco sa-
+ben mandan executar aq<ue>lla sentencia / dada por
+los tassadores: y muchas vezes hize dar por nin-
+gunas las tales sentencias y execuciones: porq<ue>
+los tassadores / ni contadores / no tiene<n> poder pa-
+ra sentenciar / mas de para tassar y aueriguar: y
+el juez tiene de sentenciar lo tassado y auerigua-
+do. {GL. [^Aueriguado. {RMK: marginal gloss in Latin.}]} ¶ Jtem es de notar que la aueriguacion he-
+cha por los contadores puestos por el juez / haze
+entera fee: quando fueron puestos entre p<er>sonas
+priuadas: mas si se hiziesse entre personas publi-
+cas / como es entre el fisco del rey y sus contado-res /}
+[fol. 23v]
+{HD. Parte onzena.}
+{CB1.
+o entre yglesias y sus sindicos & inconomos
+no hazen entera fee. {GL. [^Fee. {RMK: marginal gloss in Latin.}]} ¶ Finalmente es de notar
+q<ue> las primeras cuentas se tienen de rehazer pro-
+uando se primero que interuino yerro en ellas: {GL. [^Ellas. {RMK: marginal gloss in Latin.}]}
+Esto es verdad quando las cuentas primeras se
+hizieron injustamente por personas que tuuie-
+ron poder bastante para hazer las: porq<ue> de otra
+manera seria la cue<n>tas como si nunca se hiziera: {GL. [^Hiziera. {RMK: marginal gloss in Latin.}]}
+Ansi como el tutor / o el curador diessen cuenta a
+su menor: mas si el curador tomasse cuenta al tu-
+tor sin auctoridad de juez: contra la tal cue<n>tas po-
+dria el menor pedir ser restituydo. {GL. [^Restituydo. {RMK: marginal gloss in Latin.}]} Y si la diesse
+co<n> auctoridad de juez / no podra ser restituydo. {GL. [^Restituydo. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto a la onzena par-
+te en que diximos si vna d<e>las partes di-
+xo q<ue> vuo yerro en la cuenta: hasta qua<n>-
+to tiempo podra pedir q<ue> se torne a hazer y se vea
+si vuo yerro en ella: digo que si vna delas partes
+pide que se retrate la cue<n>ta / por razon de alguna
+gracia / o suelta q<ue> los co<n>tadores hizieron en ella:
+ansi como si los contadores admittiero<n> al tutor /
+o administrador alguna execucion que no deuie-
+ran admittir / o por que contauan en principio lo
+que contar no podian: estonce podra el agrauia-
+do pedir que tornen a hazer las cuentas dentro
+de veynte años despues que las primeras cuen-
+tas se hizieron. {GL. [^Hizieron. {RMK: marginal gloss in Latin.}]} ¶ Mas sino pide que se retra-
+te la cuenta por esta razo<n> / saluo por que se herro
+en la cuenta: podra pedir que se retrate<n> fasta tre-
+ynta años. {GL. [^Años. {RMK: marginal gloss in Latin.}]} Y aquellos passados no se puede pe-
+dir co<n>tra ella cosa alguna: por que tiene ya la cue<n>-ta}
+[fol. 24r]
+{HD. Parte dozena. \ XXIIII}
+{CB1.
+por el tra<n>scurso d<e>ste tie<m>po fuerça de sente<n>cia. {GL. [^Se<n>te<n>cia. {RMK: marginal gloss in Latin.}]}
+¶ Y esto a lugar no solamente enel administra-
+dor d<e>l fisco: mas en otro q<u><<a>>lq<u><<i>>er administrador. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto a la dozena par-
+te en que diximos que hecha la cuen-
+ta / se tiene de hazer pago del alcançe.
+Digo que si el alcançe es de cosa mueble / o semo-
+uiente: el administrador tiene de dar al señor lo
+que sobra: y si es rayz / lo tiene de poner en posse-
+ssion della. {GL. [^Della. {RMK: marginal gloss in Latin.}]} ¶ Mas a mi ver este no es bastan-
+te remedio para q<ue> el señor cobre los bienes: sal-
+uo en caso que el tutor / o administrador se los en-
+trega de su voluntad: mas si no quiere dar los al-
+gunos quieren dezir que podra el señor prender
+al administrador y tener lo preso / hasta ser paga-
+do: si no es tambien administrador de otro y que
+ansi se vsa en Salama<n>ca y çamora. {GL. [^çamora. {RMK: marginal gloss in Latin.}]} Y que si no
+pudo el señor pre<n>der lo / podra pedir al juez que
+lo prenda / o mande prender y tener preso / hasta
+que sea pagado: y el juez ansi lo deue hazer aui-
+da primero informacion dela deuda: y que aya
+sospecha co<n>tra el administrador que se ausenta-
+ra con ella. {GL. [^Ella. {RMK: marginal gloss in Latin.}]} Esto es ansi en caso que no ay con-
+trato ni sentencia contra el administrador. mas
+si ay cuenta aueriguada por sentencia / o contra-
+to: sera entregado el señor por via de execucio<n>. {GL. [^Execucio<n>. {RMK: marginal gloss in Latin.}]}
+Y si no se hallan bienes en que lo executen: esta-
+ra preso el administrador hasta que pague / o ha-
+ga cession de bienes. {GL. [^Bienes. {RMK: marginal gloss in Latin.}]} Y si el señor es persona pre-
+uilegiada como es el fisco: la yglesia / algu<n> menor
+o vniuersidad podra cobrar sus bienes / dela per-sona}
+[fol. 24v]
+{HD. Parte trezena.}
+{CB1.
+en quien el administrador los enageno: pi-
+diendo restitucion {LAT. in integrum.} {GL. [^{LAT. Jntegru<m>.} {RMK: marginal gloss in Latin.}]} ¶ Y por el co<n>-
+trario si el señor fue alcançado: podra el admini-
+strador tener en si los bienes del señor / fasta que
+sea pagado. {GL. [^Pagado. {RMK: marginal gloss in Latin.}]} Y si bienes no tiene del señor: po-
+dra pedir execucion del alcançe si fue sentencia-
+do / segun que arriba diximos del señor contra el
+administrador. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]}
+{IN3.} QUanto ala trezena par-
+te en que diximos si el administrador
+paga al señor el alca<n>ce / y aquel hecho:
+se hallan en su poder del administrador / o q<ue> esta
+hecho rico / se p<re>suma auer lo mal lleuado / o hur-
+tado de los bienes del señor / o que lo gano co<n> sus
+bienes / o si se presume que lo gano de otra parte
+por su industria: esta question o pendencia es co<n>-
+tinua entre los señores y administradores sobre
+la qual ay diuersas opiniones. ¶ Una q<ue> los offi-
+ciales del fisco y delas cibdades y otros lugares:
+se presume auer ganado con el officio que tuuie-
+ron: lo que despues d<e>l officio se halla que tiene<n>. {GL. [^Tienen. {RMK: marginal gloss in Latin.}]}
+Pero que no a lugar esto en los que tuuiero<n> ad-
+ministracio<n> de bienes de otros particulares. {GL. [^Particulares. {RMK: marginal gloss in Latin.}]} E
+dizen q<ue> esta opinion guardan muy bien muchos
+señores tyranos / que pocas vezes sus hazedores
+salen de sus manos con dinero alguno: por que
+se lo toman con color que lo ganaro<n> con sus bie-
+nes: y esto affirman por que dizen que aquellas
+cosas que el official haze durante el officio se pre-
+sume auer las hecho por respecto del officio. {GL. [^Officio. {RMK: marginal gloss in Latin.}]}
+¶ Y de aqui tambien dize<n> que si el official dura<n>-te}
+[fol. 25r]
+{HD. Parte trezena.}
+{CB1.
+su officio compro alguna cosa se presume auer
+lo comprado con los bienes del officio / o cargo q<ue>
+tuuo. {GL. [^Tuuo. {RMK: marginal gloss in Latin.}]} ¶ Y mediante esta presuncion dizen que
+el señor podra pedir y cobrar del administrador
+todo aquello que el administrador compro y ga-
+no durante el officio. Mas que si el administra-
+dor contra esta presuncion quisiere prouar que
+vuo aquellos bienes que tiene de otra parte: assi
+como por erencia / o por donacion que le fue he-
+cha / o que los compro / o gano de otra manera.
+Esta prouança sera bastante para excluyr la pre-
+suncion que estaua co<n>tra el administrador. Alo-
+menos dizen que sera bastante aquella presun-
+cion para que puedan poner a torme<n>to al admi-
+nistrador. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]} Y declare donde vuo los bienes que
+se halla<n> en su poder fenescido el cargo que tuuo.
+¶ Otros dizen. {GL. [^Dize<n>. {RMK: marginal gloss in Latin.}]}. Que si esta opinion fuesse ver-
+dadera / seria de notar: pero q<ue> no les paresce ver-
+dadera. Antes dizen que no se presume el tutor
+auer se enriq<ue>cido con los bienes del menor: avn
+que el tutor fuesse pobre al tie<m>po que tomo la tu-
+tela: y se requiere mayor prouança para conuen-
+cer al tutor. ¶ En tanto que si el tutor / o admini-
+strador o($u)[u]iessen procur(o)[a]do el officio. {GL. [^Officio. {RMK: marginal gloss in Latin.}]} No se pre-
+sume auer ganado lo que tienen con el officio: ni
+se presume tener encubiertos algunos bienes d<e>l
+señor si no se prouasse. {GL. [^Prouasse. {RMK: marginal gloss in Latin.}]} Por que qualquier ho<m>-
+bre se presume ser bueno si no se prueua al co<n>tra-
+rio. {GL. [^Contrario. {RMK: marginal gloss in Latin.}]} Y dizen que la primera opinion a lugar en
+los prelados d<e>las yglesias y monesterios que ad-
+ministran los bienes en tanto que biuen. Y que
+si estos no distribuyessen en obras pias lo que les}
+{SG. d}
+[fol. 25v]
+{HD. Parte trezena.}
+{CB1.
+sobra / y lo detienen ansi: es visto guardar lo y re-
+seruar lo para su yglesia. Y que este tal prelado
+ni por i<n>dustria / ni por obra no se presume que ga-
+na cosa alguna. Y por esto se p<re>sume ser dela ygle-
+sia lo que gano. {GL. [^Gano. {RMK: marginal gloss in Latin.}]} Pero que nosotros hablamos
+en administrador q<ue> gana para si y no para otro.
+Y por consiguiente que no a lugar lo que se dize
+del prelado dela yglesia: ni los officiales de seño-
+res temporales. ¶ De donde concluyen que ha-
+blando en prelado todo lo que tiene fenescido su
+officio que el su[ ]prelatura se presume auer lo ga-
+nado y auido del officio dignidad / o prelatura q<ue>
+tuuo y sera dela yglesia / sino se prouasse q<ue> lo vuo
+de herencia / o donacion etc<eter><<a>>. ¶ Mas que habla<n>-
+do en otro administrador no a lugar la dicha
+presuncio<n>. ¶ En verdad la question de suso pro-
+puesta es dudosa por la auctoridad y fundamen-
+tos de los que sobre ella escriuiero<n>: mas por que
+paresceria yerro auer la propuesto y no concluy-
+do. De manera que justame<n>te sea clara so enmi-
+enda de mejor juyzio / conforma<n>do me con el pa-
+rescer de otros que sobre este articulo escriuiero<n>
+Digo que los contadores / los juezes / y las otras
+personas que desto quisieron saber la verdad y
+juzgar como deuen: an de co<n>siderar que si el offi-
+cial / o administrador es p<er>sona que puede nego-
+ciar y entender en cosas / o tratos en que puede
+ganar / y es persona industriosa: presumiran que
+gano lo que tiene por industria de su p<er>sona / y no
+con los bienes del señor: especialmente si el admi-
+nistrador es persona industriosa y tiene bienes
+suyos propios con que trataua al tiempo que to-mo}
+[fol. 26r]
+{HD. Parte trezena. \ XXVI}
+{CB1.
+el cargo que estonce se presume que gano lo
+que tiene con sus bienes / y con su industria. {GL. [^Jndustria. {RMK: marginal gloss in Latin.}]}
+¶ Mas quando el administrador es persona a
+quie<n> es prohibido que no pueda negociar ni tra-
+tar: presume el derecho que gano lo que tiene co<n>
+los bienes del señor / o injustamente. {GL. [^Jnjustamente. {RMK: marginal gloss in Latin.}]} ¶ Ansi
+mesmo digo que si el administrador dio buena
+cuenta se presume que ningu<n> fraude hizo en los
+bienes del señor: ante auer ganado lo que tiene
+por su industria. {GL. [^Jndustria. {RMK: marginal gloss in Latin.}]} ¶ Y por el co<n>trario si el admi-
+nistrador no dio buena cuenta: se presume auer
+ganado lo que tiene con los bienes del señor. {GL. [^Señor. {RMK: marginal gloss in Latin.}]}
+¶ Jtem si el administrador encubrio algunas co-
+sas de los bienes que administro y le fueron ha-
+llados fenescida la cuenta: se conosce auer teni-
+do voluntad de las hurtar. {GL. [^Hurtar. {RMK: marginal gloss in Latin.}]} Y lo demas que tie-
+ne auer lo ganado con los bienes del señor. ¶ Fi-
+nalmente esto esta en bue<n> conoscimiento y alue-
+drio del juez / no paresciendo el co<n>trario. {GL. [^Contrario. {RMK: marginal gloss in Latin.}]} Si ter-
+na sospecha contra el administrador por ser mal
+hombre y de malos tratos / o por que le hallaron
+encubiertos algunos bienes del señor / o por que
+dio mala cue<n>ta / o si ay alguna presuncion que fa-
+uorezca al administrador: ansi como si es ho<m>bre
+de buena fama / o que dio buena cuenta / o que es
+hombre que tiene trato / o hazienda con que pue-
+da auer ganancia: que tales presunciones como
+estas escluyen qualquiera otra presuncion que
+aya contra el administrador. {GL. [^Administrador. {RMK: marginal gloss in Latin.}]}
+{RUB. ¶ Sigue se la catorzena y final
+parte dela presente obra.}}
+{SG. d ij}
+[fol. 26v]
+{HD. Parte catorzena.}
+{CB1.
+{IN3.} QUanto ala postrera y fi-
+nal parte d<e>ste tratado en que diximos
+si se tiene de dar copia de las cuentas:
+y como se[ ]tiene de hazer el instrumento hechas
+las cuentas y las posiciones y sentencia. y si es
+obligado el juez de executar la sente<n>cia / avn que
+se apele della. ¶ Quanto a lo primero digo que
+se tiene de dar copia de las cuentas autenticame<n>-
+te al señor y a las otras personas a quien perte-
+nesce derecho en ellas. {GL. [^Ellas. {RMK: marginal gloss in Latin.}]} ¶ Y el instrumento de
+las cuentas se tiene de hazer en esta manera. A
+tantos dias de tal mes y año / ante mi el escriua-
+no publico y testigos deyuso escritos / Fulano / y
+Fulano contadores: tomados entre Fulano / y Fu-
+lano para hazer y aueriguar sus cuentas: las hi-
+zieron y aueriguaro<n> en la manera que se sigue.
+Aqui assentara el escriuano el tenor de las cuen-
+tas segun que se aueriguaron: y luego al pie de-
+llas assentara. Y assi hechas y aueriguadas las
+dichas cuentas: los dichos contadores estando
+presentes las partes / o estando ausentes Dixero<n>
+que las dauan y dieron por bien hechas / en qua<n>-
+to a su noticia vino / y ellos alcançaron a saber. Y
+si las partes las consintieron y aprouaron y vuie-
+ron por buenas tambien lo assentara: y firmara<n>
+los contadores las cuentas / o otros por ellos si-
+no saben escreuir / y porna los testigos ante quie<n>
+se pronuncia. {GL. [^Pronu<n>cia. {RMK: marginal gloss in Latin.}]} Y tambien las partes las an por
+buenas firmar an este aucto: por que puesto que
+tenga este aucto semejança de juyzio / o de aucto
+de juyzio: tiene fuerça de pacto / y es menester q<ue>}
+[fol. 27r]
+{HD. Parte catorzena. \ XXVII}
+{CB1.
+se firme por leyes destos reynos. {GL. [^Reynos. {RMK: marginal gloss in Latin.}]} ¶ Las posicio-
+nes se pornan desta manera por parte del señor.
+Po<n>go por posicio<n> y si me fuere negado p<ro>uar en-
+tie<n>do / q<ue> en ta<n>tos dias de tal mes y año: Fulano to-
+mo de mi en administracion tales bienes: y q<ue> en
+cada vn año d<e>los q<ue> tuuo la dicha administracio<n>
+re<n>taro<n> ta<n>tos marauedis / o ta<n>tas hanegas de pa<n>. {GL. [^Pan. {RMK: marginal gloss in Latin.}]}
+¶ La sente<n>cia se tiene de formar desta manera / q<ue>
+vistas las cue<n>tas hechas entre Fulano / y Fulano
+ma<n>do q<ue> aq<ue>llas guarde<n> y cu<m>plan las partes / como
+en ella se co<n>tiene. {GL. [^Contiene. {RMK: marginal gloss in Latin.}]} ¶ En qua<n>to a la sente<n>cia si tie-
+ne d<e> ser executada: digo que se tiene de executar
+aun q<ue> se apele della. {GL. [^Della. {RMK: marginal gloss in Latin.}]} Y dados los pregones a los
+bienes en q<ue> se hiziere la execucio<n> se rematara / y se
+hara pago delo ala<n>çado. al señor: da<n>do primero
+fia<n>ça el señor q<ue> pagara lo q<ue> rescibiere co<n> el doblo
+si en segu<n>da insta<n>cia fuere la sente<n>cia reuocada. {GL. [^Reuocada {RMK: marginal gloss in Latin.}]}
+¶ Y si enla segu<n>da insta<n>cia la sente<n>cia se co<n>firma-
+re q<ue>dara pagado el señor d<e>lo q<ue> alca<n>ço al admini-
+strador: y ansi q<ue>dara entre ellos la cue<n>tas y d<e>bate
+q<ue> tuuiero<n> fenescido. ¶ Y esta cuenta se da delos
+bienes te<m>porales a la qual son obligados solame<n>-
+te los q<ue> administra<n> bienes de otros. ¶ Otra cue<n>-
+ta y razo<n> / todos generalme<n>te somos obligados a
+dar de nuestras obras en la venida de nuestro re-
+de<m>ptor Jesu cristo el dia del juyzio. {GL. [^Juyzio. {RMK: marginal gloss in Latin.}]} A el plega q<ue>
+hagamos en este mu<n>do tales obras: y que admi-
+nistremos nuestra vida de tal manera q<ue> demos
+buena cue<n>ta: y tal que merescamos oyr aquella
+dulce boz. {LAT. Venite benedicti patris mei. &c<eter><<a>>. Ame<n>.
+Finis.
+Laus i<n>menso deo.}}
+{SG. d iij}
+[fol. 27v]
+{HD. Tabla dela presente obra.}
+{CB1.
+¶ Comiença la tabla dela pre-
+sente obra: en la qual se hallaran las partes que
+en ella se contienen ordenadame<n>te por el nume-
+ro de sus hojas. Primeramente.
+¶ El prologo dela presente obra. Folio. j.
+j. ¶ La primera parte que trata que cosa es cuen-
+ta y razon. Folio. iij.
+ij. ¶ Segunda parte que co<n>tiene quienes son obli-
+gados a dar cuenta. Folio. iij.
+iij. ¶ Parte tercera trata a quie<n> tiene d<e> dar la cue<n>ta
+el administrador albacea / o cabeçalero. F<oli>o. v.
+iiij. ¶ Quarta parte trata de que manera se tiene de
+dar la cuenta. Folio. vj.
+v. ¶ Quinta parte la qual trata quando el admini-
+strador sera obligado a dar la cue<n>ta. Folio. ix.
+vj. ¶ La sexta parte que co<n>tiene donde / o en que lu-
+gar se tiene de dar la cuenta. Folio. x.
+vij. ¶ La setena parte que trata que cosas a de tener
+en si el libro de cuenta para estar ordenado co-
+mo deue. Folio. x.
+viij. ¶ Parte octaua trata en q<ue> cosas se dara credito
+al libro d<e>los administradores y en q<ue> no. F<oli>o. xiij
+ix. ¶ Parte nouena la qual contiene que pueden
+hazer los administradores por razo<n> de su offi-
+cio / y que no pueden hazer. Folio. xix.
+x. ¶ Parte dezena que trata si dada la cuenta vuo
+yerro en ella que se ayan de poner personas q<ue>
+la reuean / y otra vez la cuenten. Folio. xxij.
+xj. ¶ Parte onzena q<ue> trata si vna d<e>las partes dize q<ue>
+vuo yerro enla cue<n>ta / fasta qua<n>to tie<m>po podra
+pedir q<ue> se torne a hazer / y se reuea. F<oli>o. xxiij.}
+[fol. 28r]
+{HD. Tabla dela presente obra. \ XXVIII}
+{CB1.
+xij. ¶ Parte dozena que trata que hecha la cuenta
+se tiene de hazer pago del alcance al señor d<e>la
+hazienda. Folio. xxiiij.
+xiij. ¶ Parte trezena que contiene si el administra-
+dor paga al señor el alcançe: y aquel hecho se
+halla que esta rico: y se p<re>sume auer lo mal lle-
+uado / o hurtado / o que lo gano por su indu-
+stria de otra parte. Folio. xxiiij.
+xiiij. ¶ Parte catorzena y final que trata si se tiene d<e>
+dar copia delas cue<n>tas: y como se tiene de ha-
+zer el instrume<n>to hechas las cue<n>tas / y las po-
+siciones y sentencias. Folio. xxvj.
+{RUB. Fin dela tabla.}
+¶ Aqui se da fin a la presente
+obra y tratado de cuentas / hecho por el licencia-
+do Diego d<e>l castillo: natural d<e>la cibdad de Mo-
+lina. Co<n> priuilegio Real que ninguno lo pueda
+vender ni imprimir en estos reynos: saluo la per-
+sona / o personas que su poder ouiere<n> / por espa-
+cio de diez años: segun que por la cedula y priui-
+legio de sus Magestades paresce. Es impresso
+en la muy noble y mas leal cibdad de Burgos
+por Alonso de Melgar. Acabose a. xxx. dias del
+mes de Mayo / Año de mill y. D. y. xxij. años.}
+[fol. 28v]
+{CB1.
+{ILL. {LAT. HAEC POSI-
+TA EST IN
+RVINAM.}}}

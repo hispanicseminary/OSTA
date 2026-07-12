@@ -6,14 +6,14 @@
 {RMK: Julio F Hernando.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0425-0001: Farsa de la concordia.} {RUB. % Farsa nueuamente compuesta por Hernan lopes de
+{RMK: HSMS-0425-0001: Farsa de la concordia.} {RUB. ¶ Farsa nueuamente compuesta por Hernan lopes de
 Yanguas: sobre la felice nueua dela concordia / y paz / &
 concierto de nuestro felicisimo Emperador
 semper augusto: y del xp<ist>ianissi-
 mo Rey d<e> Fra<n>cia.}
-% Farsa llena de alegrias
+¶ Farsa llena de alegrias
 porla paz de n<uest>ros dias.
-% Yanguas.}
+¶ Yanguas.}
 [fol. 1v]
 {CB1.
 {IN5.} FArsa nueuamente co<m>( )puesta por Hernan lo-
@@ -23,14 +23,14 @@ emp<er>ador semper augusto: & del christianissi-
 mo Rey de francia. Enla qual se introduzen
 ocho p<er>sonas: vn Correo / el Tiempo / el Mu<n>do / la Paz / la
 Justicia / la Guerra / Desca<n>so y Plazer. Dirigida al illu-
-stre & muy magnifico sen~or: el sen~or do<n> Fra<n>cisco dela cue-
-ua: mayorazgo[ ]& primo( )genito del illustrissimo sen~or el se-
-n~or do<n> Beltra<n> d<e> la cueua: Duq<ue> d<e> Alburq<ue>que. Las p<er>sonas
-entraran desta manera. El correo como correo: tan~endo
+stre & muy magnifico señor: el señor do<n> Fra<n>cisco dela cue-
+ua: mayorazgo[ ]& primo( )genito del illustrissimo señor el se-
+ñor do<n> Beltra<n> d<e> la cueua: Duq<ue> d<e> Alburq<ue>que. Las p<er>sonas
+entraran desta manera. El correo como correo: tañendo
 su corneta el q<u><<a>>l entra en tres partes dela obra cada vez
 muy de prissa / el Tiempo y el mundo: como viejos / y en ha-
 bitos de pastores: saluo que el tiempo lleuara vn instru-
-mento para tan~er / qual el quisiere. La Paz entrara muy
+mento para tañer / qual el quisiere. La Paz entrara muy
 bien atauiada: como gentil dama / y la Justicia tambien:
 saluo que la Paz lleuara vn ramo verde de oliua enla ma-
 no: o de laurel: y la justicia vna vara. La Guerra entrara:
@@ -38,35 +38,35 @@ en habito de Romera: co<n> sus veneras y co<n> su bordo<n> enla
 mano. Descanso y plazer: entraran como pastores man-
 cebos muy regozijados. El argume<n>to y su<m>ma desta obra
 no es mas de dar desca<n>so alos letores y auditores: dicie<n>-
-do el bien que dela paz al mundo viene: y los dan~os q<ue> de
+do el bien que dela paz al mundo viene: y los daños q<ue> de
 la guerra se (se) siguen. Fue tomada la materia: del psalmi-
-sta de vnas palabras q<ue> dizen {LAT. ((justicia & pax osculate su($n)[n]t))}
+sta de vnas palabras q<ue> dizen {LAT. ≺justicia & pax osculate su($n)[n]t≻}
 y de vn verso de virgilio q<ue> dize. {LAT. Jam redit & virgo redeu<n>t
 saturnia regna.} Y porq<ue> todo vaya declarado. los no<m>bres
 delas personas se entenderan por estas letras.
-% Por. C. correo. por. T. tiempo. por. M. mundo. por. P
+¶ Por. C. correo. por. T. tiempo. por. M. mundo. por. P
 paz. por. J. justicia. por. G. romera q<ue> es la guerra. por. D
 descanso($.)[.] por. Pl. plazer. Va diuidida en cinco actos: co-
 mo enella pareze. Entra cada copla enel pie quebrado.
-{RUB. % Acto primero interlocutores
+{RUB. ¶ Acto primero interlocutores
 corre[o] tiempo y mundo.}}
 [fol. 2r]
 {CB2.
 {RUB. T} Que bozina es la que siento
 quien la toca tan de prissa
-si tan~en por dicha a[ ]missa
+si tañen por dicha a[ ]missa
 o si zurre qual que vie<n>to.
 Yo no veo
 por todo aqueste rodeo
-ningun zagal q<ue> la tan~a
-jurare que viene a espan~a
+ningun zagal q<ue> la taña
+jurare que viene a españa
 por aqui qual q<ue> correo.
-No me engan~o
-quiero dexar mi reban~o
+No me engaño
+quiero dexar mi rebaño
 y la capa no me engorre
 helo aqui la posta corre
-gesto trae de buen pican~o
-Ha sen~or
+gesto trae de buen picaño
+Ha señor
 {RUB. C} no me embaraces pastor
 solo vn punto por tu vida
 {RUB. T} de donde es vuestra venida
@@ -86,11 +86,11 @@ pues ay paz sin auer guerra
 se muestren regozijados
 reuerdezca<n> los collados
 y los vales y la sierra.
-Las montan~as
-los bosques bren~as estran~as.
+Las montañas
+los bosques breñas estrañas.
 los solanos & sombrios
 fuentes arroyos y rios
-sientan gozo en sus entran~as.
+sientan gozo en sus entrañas.
 Los poblados
 biuan de oy mas descansados}
 {CB2.
@@ -144,7 +144,7 @@ Alegria
 no aprouecha yo queria
 antes que de aqui passasse
 cantaros que dios guardasse
-tan chapada compan~ia.
+tan chapada compañia.
 Baylar quiero
 si juro a diez verdadero
 pues tengo ronca la boz
@@ -176,7 +176,7 @@ avn que es razo<n> que dios obre
 si quiera por que se cobre
 su sepulcro sacro( )santo.
 De plazer
-no me harto de tan~er}
+no me harto de tañer}
 {CB2.
 o quien fuera agora orfeo
 Amfion Terpa<n>dio o Museo
@@ -208,8 +208,8 @@ que soy el tiempo tu amigo
 que huelgo mucho contigo.
 {RUB. M} O vejaz
 mas verde vienes que agraz
-{RUB. T} sabe te que ya retoc'o
-{RUB. M} aque f(i)in te tornas moc'o
+{RUB. T} sabe te que ya retoço
+{RUB. M} aque f(i)in te tornas moço
 {RUB. T} porque ay enla tierra paz.
 {RUB. M} Enla tierra?
 {RUB. T} si que nunca veras guerra
@@ -232,7 +232,7 @@ y por le seruir ayuna.
 que dixo no se en que ley
 aquel sabio mas que humano
 que tiene dios en su mano
-siempre el cora(c)[c']on del rey.
+siempre el cora(c)[ç]on del rey.
 {RUB. T} Dentro y fuera
 quiere dios q<ue> el buen rey q<ui>era
 aquello que mas le aplaze
@@ -276,7 +276,7 @@ que se mostro rebotada
 {RUB. M} no a dexado de ser necia
 Avn que marcos
 tenga tesoros y varcos
-y el leon las vn~as fieras
+y el leon las vñas fieras
 fuera mejor poner arcos
 a cesar y a sus vanderas.
 {RUB. T} La jatancia
@@ -320,7 +320,7 @@ y a[ ]j(e)[a]no no le veremos.
 {RUB. M} Sus andar
 bien se yo en q<ue> ha de parar
 este mi gozo & plazer
-comienc'a tie<m>po a tan~er
+comiença tie<m>po a tañer
 que es razo<n> ya de baylar
 {RUB. T} Alto mundo
 o que son tan perjocundo
@@ -332,13 +332,13 @@ lo baylado basta ya
 {RUB. M} como tu tiempo quisieres
 {RUB. T} parece que oyo mugeres
 callemos llegate aca
-{RUB. % Acto segundo interlo-
+{RUB. ¶ Acto segundo interlo-
 cutores. Paz Correo Ju-
 sticia.}
-{RUB. P} Vala me nuestra sen~ora
+{RUB. P} Vala me nuestra señora
 qu[e ]es esto no lo adeuino
 quien passa por el camino
-tan~endo corneta agora.
+tañendo corneta agora.
 Bien es ver
 quien viene para saber
 si a dicha trae qual q<ue> nueua}
@@ -398,7 +398,7 @@ para mi entre las mas gentes
 entre las fieras serpientes
 vi mayor conformidad
 Los leones
-de feroces corac'ones
+de feroces coraçones
 desi no me desecharon
 y los tigres se alegraron
 basiliscos y escorpiones.
@@ -418,12 +418,12 @@ si cesar no socorrierra
 que mi nombre se perdiera
 y no hallara sosiego.
 Pero agora
-hallo me tan gra<n> sen~ora
+hallo me tan gra<n> señora
 con esta carta que trayo
-quien sen~or se halla el mayo
+quien señor se halla el mayo
 qua[n]do al mu<n>do pinta & dora.
 Ya bien puedo
-lanc'ar de mi (t)[l]ado el miedo
+lançar de mi (t)[l]ado el miedo
 con tan cierta relacion}
 {CB2.
 pues me saco de prision
@@ -479,7 +479,7 @@ y te libre de malicia
 La paz veo
 ya se cumple mi desseo
 quiero hablar desde agora
-dios te salue paz sen~ora
+dios te salue paz señora
 por cuya vista rodeo.
 {RUB. P} O bien vengas
 para que al mu<n>do sostengas
@@ -505,7 +505,7 @@ la vara te ha confirmado
 me hallo con tal hermana
 mas escucha vn poco agora
 quien sera aquella que llora
-por aquella tras montan~a.
+por aquella tras montaña.
 {RUB. P} Gran mal trae
 a cada passo se cae
 trage muestra de romera}
@@ -517,11 +517,11 @@ jamas visto ni pensado
 don( )de tan presto has venido
 qu[e ]es esto por do he subido
 en ta($n)[n] fragoso collado.
-Todo es pen~as
-xarales montes y bren~as
+Todo es peñas
+xarales montes y breñas
 qu[e ]es de mis ciudades ricas
 o[ ]benditas paxaricas
-q<ue> estays por aqui estremen~as.
+q<ue> estays por aqui estremeñas.
 Escuchad
 si quiera por caridad
 mis[ ]congoxas y querellas
@@ -538,7 +538,7 @@ nadie diga bien me estoy
 sepan sepan todos oy
 que fort(n)[u]na a todos miente
 Quan pujante
-me visto mil an~os ante
+me visto mil años ante
 guerra de todos[ ]temida
 agora veo me cayda
 y no veo quien me le(t)[u]ante
@@ -561,7 +561,7 @@ sin duda me echaran menos
 & de hambre moriran.
 Capitanes
 gentiles hombres galanes
-con otros bison~os fieros
+con otros bisoños fieros
 andando yo enlos oteros
 quien suplira sus affanes
 Otro mal
@@ -600,12 +600,12 @@ desde el punto en que naci
 nunca me vi[ ]tan desierta
 que hare doy me por (n)[m]uerta
 la justicia viene aqui.
-{RUB. % Acto tercero i<n>ter locu-
+{RUB. ¶ Acto tercero i<n>ter locu-
 [to]res. Justicia. Guerra. P.
 Tiempo. Mundo.}
-% Entra justicia
+¶ Entra justicia
 {RUB. J} Nos escondays que parlays
-{RUB. R} sen~ora no digo nada
+{RUB. R} señora no digo nada
 {RUB. J} sed presa desta vegada
 {RUB. R} por que presa me lleuays
 {RUB. J} Mi prision
@@ -614,12 +614,12 @@ sera por la inquisicion
 {RUB. J} no cureys dessas porfias
 que nos prendo a sin razon
 Embaydora
-{RUB. R} no lo soy por dios sen~ora
+{RUB. R} no lo soy por dios señora
 ni en mi trage ay tal manera
 soy vna pobre romera
 que por sus pecados llora.
 {RUB. J} Satanas
-nunca jamas dan~a mas
+nunca jamas daña mas
 quando huye dela cruz
 que quando es angel de luz
 o enel habito que vas.
@@ -630,7 +630,7 @@ pues sabed que las beatas
 ansi van las estaciones.
 {RUB. J} Vos soys tal
 que a( )lec(r)[t]o furia infernal
-mas en dan~ar no se esmera
+mas en dañar no se esmera
 ni tesifona y megera}
 {SG. A v}
 [fol. 5v]
@@ -638,7 +638,7 @@ ni tesifona y megera}
 nunca atraman tanto mal.
 Por vellaca
 os quiero atar avn estaca
-{RUB. R} a mi sen~ora porque
+{RUB. R} a mi señora porque
 {RUB. J} llegaos que yos lo dire
 {RUB. R} no me apreteys que esto flaca.
 {RUB. J} No penseys
@@ -663,8 +663,8 @@ es el que es mayor ladron
 o mas hombres a matado.
 Por tres blancas
 hazes mil personas mancas
-otros hazes mil pedac'os
-otros sin manos o brac'os
+otros hazes mil pedaços
+otros sin manos o braços
 otros quoxos con sus trancas.
 Vos quemays
 las miesses donde llegays
@@ -692,7 +692,7 @@ dexan por andar se en vicios
 vos los bolueys haraganes
 vos soys madre de rufianes
 & fuente delos bullicios(os)
-{RUB. R} Pues sen~ora
+{RUB. R} Pues señora
 yo se que soy pecadora
 mas algun bien me dio dios
 {RUB. J} esse bien dezildo vos
@@ -792,8 +792,8 @@ yo hare que no te yguales
 conla paz santa y venigna.
 Tu no sabes
 avn que tus cosas alaues
-quien es la paz y sus man~as
-sus condiciones y entran~as
+quien es la paz y sus mañas
+sus condiciones y entrañas
 que las cantan ya las aues?
 Enel cielo
 no tienen mayor consuelo
@@ -839,10 +839,10 @@ si lo bueno te desplaze
 con que la vida te quita
 {RUB. P} Muera muera
 tan cautelosa romera
-{RUB. R} ay sen~ora que esto atada
+{RUB. R} ay señora que esto atada
 {RUB. P} no se me da desso nada}
 {CB2.
-don~a ceuil hechizera.
+doña ceuil hechizera.
 {RUB. R} Gran dolor
 no ay por aqui algun pastor
 aquien mouiessen mis bozes
@@ -853,7 +853,7 @@ la boz tiene de muger
 {RUB. R} ay que me matan deberas
 {RUB. T} si la comen bestias fieras
 {RUB. M} asmo que esso deue ser
-{RUB. % Acto q<ua>rto inter( )locutores.
+{RUB. ¶ Acto q<ua>rto inter( )locutores.
 Tie<m>po. Mu<n>do. Paz($.)[.] Guerra
 Justicia. Descanso. Plazer.}
 {RUB. T} Aca estays ambas a[ ]dos
@@ -873,8 +873,8 @@ esta romera es la guerra
 puerta del ciego profundo.
 {RUB. M} No me agrada
 porque la teneys atada
-{RUB. P} por que acabe sus engan~os
-{RUB. M} juro ami que estotros an~os
+{RUB. P} por que acabe sus engaños
+{RUB. M} juro ami que estotros años
 que estaua mas engallada
 {RUB. T} Quan humilde
 sesta sin faltalle tilde
@@ -887,7 +887,7 @@ como raposa se inclina
 {RUB. J} plaze me de buena gana
 {RUB. P} tu mundo enlos pestorejos
 {RUB. R} estos deuen ser los viejos
-que acusaron a[ ]susan~a.
+que acusaron a[ ]susaña.
 {RUB. M} Cata cata
 atada de pies y pata
 vsays de vuestra malicia
@@ -951,7 +951,7 @@ pero de mi tal no digas.
 como alos pobres soezes.
 {RUB. J} esso quede
 para quien todo lo puede
-& lo alcanc'a & sabe todo
+& lo alcança & sabe todo
 {RUB. P} a ti[ ]porne yo del lodo
 que no aura quien me lo viede.
 {RUB. T} Dime paz
@@ -961,13 +961,13 @@ mejor es que la desates
 {RUB. J} no hablas como sagaz.
 Si se suelta
 podra ser que de tal buelta
-segun sus artes & man~as
-que ytalias francias y espan~as
+segun sus artes & mañas
+que ytalias francias y españas
 todo lo ponga en rebuelta}
 [fol. 7v]
 {CB2.
 {RUB. R} No ayays miedo
-{RUB. T} pues juraldo y alc'a el dedo
+{RUB. T} pues juraldo y alça el dedo
 {RUB. R} yo lo juro delo hazer
 el dedo no puede ser
 porque esta atado y no puedo
@@ -1011,23 +1011,23 @@ dinos lo pues que te alexas
 como vas hecha romera
 {RUB. R} a poco que estuue en roma
 {RUB. D} o ladrona toma toma
-{RUB. P[l]} huys don~a bordonera.
+{RUB. P[l]} huys doña bordonera.
 {RUB. D} Grida grida
 ya la g($u)[u]erra es despedida
 para nunca mas boluer
 huelga plazer a plazer
 gozemos de oy mas la vida.
-Que a mil an~os
-que pastores y reban~os
+Que a mil años
+que pastores y rebaños
 andamos cabez( )caydos
 {RUB. Pl} ya son los tiempos venidos
-que dan fin a nuestros dan~os.
+que dan fin a nuestros daños.
 {RUB. D} Ora andemos
-quic'a la paz toparemos
+quiça la paz toparemos
 por estos verdes collados
 {RUB. T} dos zagales repicados
 siento venir escuchemos.
-{RUB. % Acto qui<n>to inter( )lo-
+{RUB. ¶ Acto qui<n>to inter( )lo-
 cutores. D. P. Pl. J.
 T. y M.}
 {RUB. D} Dios os guarde dios os guarde
@@ -1064,12 +1064,12 @@ no se de a humo muerto
 {RUB. J} Tus razones
 segun descanso dispones
 me dan de claro a entender
-que en espan~a hemos de ver
+que en españa hemos de ver
 gentes detodas naciones.
 {RUB. Pl} A manojos
 pienso ver con sendos ojos
 los arimaspos venir
-los[ ]quales suelen ren~ir
+los[ ]quales suelen reñir
 con grifos y auer enojos.
 {RUB. D} Digo mas
 que con tus ojos veras
@@ -1080,10 +1080,10 @@ bueltos los pies cara tras.
 andar por nuestros estremos
 los que llaman ofigenes
 que en[ ]tocando dan mil bienes
-qua<n>do ponc'on~a beuemos
+qua<n>do ponçoña beuemos
 {RUB. D} Muy continos
 andaran los androginos
-sin verguenc'a y sin empacho
+sin verguença y sin empacho
 cada qual es he<m>bra o macho
 & van por ambos caminos.
 {RUB. Pl} Con sosiego
@@ -1091,7 +1091,7 @@ los hyrpios veremos luego}
 {CB2.
 que entre los otros se estreman
 los quales nunca se queman
-descal(c)[c']os por cima el fuego
+descal(c)[ç]os por cima el fuego
 {RUB. D} Veras le( )dos
 muy sosegados[ ]y quedos
 los milones como vienen
@@ -1124,15 +1124,15 @@ caualleros los pigmeos
 en cabrones co<n>tra gruas
 {RUB. J} O que edad
 que tiempo de caridad
-es llegado a nuestra espan~a
-{RUB. T} cada qual en su caban~a
+es llegado a nuestra españa
+{RUB. T} cada qual en su cabaña
 terna gran seguridad.
 {RUB. M} Ya es tornada
 (a)[o]tra vez la edad dorada}
 [fol. 8v]
 {CB2.
 saturno ya resucita
-la pla(c')[t]a y cobre se quita
+la pla(ç)[t]a y cobre se quita
 la de hierro es acabada.
 {RUB. D} Los pertrechos
 daldos todos por dese[c]hos
@@ -1188,13 +1188,13 @@ las alcaualas dexadas
 {RUB. D} Los venados
 andaran muy hermanados.
 conlos canes mas ventores
-y las pal(a)[o]mas y ac'ores
+y las pal(a)[o]mas y açores
 conformes por los collados
 {RUB. Pl} Y avn saldran
 las lechuzas donde estan
 sin temor a medio dia
-& las garc'as tomaran
-halcones en compan~ia
+& las garças tomaran
+halcones en compañia
 {RUB. T} Razon sobra
 pues la paz haze tal obra
 que todos nos gasagem( )o( )s
@@ -1205,11 +1205,11 @@ de quatro baylemos los tres
 tu mundo haz nos el son
 {RUB. M} poneos todos en[ ]jubon
 y sacudid bien los pies
-Sus que tan~o
-{RUB. D} pardios qu[e ]es son de pican~o
+Sus que taño
+{RUB. D} pardios qu[e ]es son de picaño
 {RUB. Pl} baylemos ala barrisca
-{RUB. T} no nos tan~as la morisca
-sino el villano de antan~o
+{RUB. T} no nos tañas la morisca
+sino el villano de antaño
 {RUB. M} Soy contento
 andad todos con buen tiento}
 [fol. 9r]
@@ -1221,10 +1221,10 @@ que con su vista me aliento
 y no mudes el compas
 que el son mismo da codicia
 la gala dela justicia
-{RUB. M} buena c'apoteta[ ]das.
+{RUB. M} buena çapoteta[ ]das.
 Yo he gozado
 delas bueltas que aueys dado
-tan~e me tu tiempo vn poco
+tañe me tu tiempo vn poco
 y veras como las floco
 haz me vn son muy repicado
 {RUB. T} Alto mundo
@@ -1237,7 +1237,7 @@ pues que no tiene segundo.
 {RUB. D} si estoy: bien sera que hipe
 biua el princip($e)[e] philippe
 {RUB. Pl} juro al mundo bueno vas.
-{RUB. M} Paz sen~ora
+{RUB. M} Paz señora
 baylad vos vn poco agora
 por libertad tan feliz
 {RUB. P} guarde dios la Emperatriz}
@@ -1251,12 +1251,12 @@ ninguna bayla tam[ ]bien
 {RUB. D} Que plazer
 es de vella reboluer
 {RUB. M} juro a diez que ami me espa<n>ta
-{RUB. J} biua mil an~os la infanta
+{RUB. J} biua mil años la infanta
 conlo que esta por nacer.
 {RUB. T} Bien esta
 muy noche se haze ya
 que hemos estado mil horas
-{RUB. Pl} pues digan estas sen~oras
+{RUB. Pl} pues digan estas señoras
 que mandan y han( )si sera
 {RUB. P} Que os vistays
 y con nosotras os vays
@@ -1269,93 +1269,93 @@ las dos diremos en alto
 otros dos contras mayores
 {RUB. M} alto nadie quede falto.}
 {CB1.
-{RUB. % Villancico}
-% De alla vienen bienes
+{RUB. ¶ Villancico}
+¶ De alla vienen bienes
 do esta nuestro bien.}
 {CB2.
-% En nuestros estremos
+¶ En nuestros estremos
 tal cesar tenemos
 que por el veremos
 a Jerusalem.}
 {CB2.
-% El quita los (cl)[d]a(u)[n~]os
-de nuestros reban~os
-pues biua(<n>) lo[*s] an~os
+¶ El quita los (cl)[d]a(u)[ñ]os
+de nuestros rebaños
+pues biua(<n>) lo[*s] años
 de Matusale[*m.]}
 {CB1.
-{RUB. % Fin}
-% Roguemos oy dia
+{RUB. ¶ Fin}
+¶ Roguemos oy dia
 pues paz nos imbia
 que mucha alegria
 le de dios. Amen.
-{RUB. % Yanguas.}}
+{RUB. ¶ Yanguas.}}
 [fol. 9v]
 {CB1.
-{RMK: HSMS-0425-0002: Dedicación a don Francisco de la Cueva.} {RUB. % Dedicacio<n> desta obra: al illustre y muy ma-
-gnifico sen~or el sen~or don Francisco dela cue-
+{RMK: HSMS-0425-0002: Dedicación a don Francisco de la Cueva.} {RUB. ¶ Dedicacio<n> desta obra: al illustre y muy ma-
+gnifico señor el señor don Francisco dela cue-
 ua: enla qual dize el autor quanto le deue por
 las mercedes que del recibe.}}
 {CB2.
-% Del peli(gr)[can]o se cuenta
+¶ Del peli(gr)[can]o se cuenta
 ser vn aue enlos desiertos
 que assi misma se ensangrienta
 por no ver sus hijos muertos.
-% Jtem por dalles ce(n)[u]ico
+¶ Jtem por dalles ce(n)[u]ico
 se pone en tan gran estrecho
 que se saca con su pico
 sangre biua de su pecho.
-% Y dado que aquesto haga
+¶ Y dado que aquesto haga
 con tormentos tan esquiuos.
 al fin el mismo se paga
 con tornar sus hijos biuos.
-% Mas si vos a vos quitays
+¶ Mas si vos a vos quitays
 del pecho lo que comeys
 y a vuestro yanguas lo days
 gran ventaja le hazeys.
-% El cisne siempre fue blanco
+¶ El cisne siempre fue blanco
 no puede dexar de sello
 el gallo contino es franco
 nadie tiene duda dello
-% Pues assi se me figura
+¶ Pues assi se me figura
 que es blanca vuestra nobleza
 y faltaros la franqueza
 ya seria contra natura.
-% Suele el aguilla soltar
-la presa quando es pequen~a
-y tambien dar la ciguen~a
+¶ Suele el aguilla soltar
+la presa quando es pequeña
+y tambien dar la cigueña
 alos suyos ruyn manjar.}
 {CB2.
-% Mas vos ylustre sen~or
+¶ Mas vos ylustre señor
 la presa mayor soltays
 y el manjar que a vos quitays
 es lo mas dulce y mejor.
-% El hidalgo gauilan
+¶ El hidalgo gauilan
 quando prende el paxarico
 a vezes suffre el affan
 sin ceuar enel su pico.
-% Y por sus obras suaues
+¶ Y por sus obras suaues
 manda[n] la ley y el derecho
 que franquee las otras aues
 y por el no paguen pecho.
-% Son en vos estos esmaltes
+¶ Son en vos estos esmaltes
 tan prouados y tan ciertos
 que a sacres & girifaltes
 les podeys fra<n>q<ue>ar los puertos.
-% Yo vn cernicalo [t]orc'uelo
+¶ Yo vn cernicalo [t]orçuelo
 con ver qual os hizo dios
 no he hallado otro consuelo
 para mi bien sino a vos
-% Pluguiera dios[ ]q<ue> yo fuera
+¶ Pluguiera dios[ ]q<ue> yo fuera
 otro phenix enla vida
 para que yo os la offreciera
 y fuera bien offrecida.
-% Mas offrezco os gra<n> sen~or
+¶ Mas offrezco os gra<n> señor
 mi farsa que tenga escudo
 pues soys tal y tan deudo
 de aquel gran emperador.}
 {CB1.
-% Porque si se sella enella
+¶ Porque si se sella enella
 vuestro illustre nombre y claro
 ella[ ]terna tal manparo
 que ninguno ose mordella.
-{RUB. % Yanguas.}}
+{RUB. ¶ Yanguas.}}

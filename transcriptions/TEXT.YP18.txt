@@ -14,10 +14,10 @@ de Yanguas: co<n> otras muchas
 preguntas, y respuestas
 muy curiosas.
 Agora nueuamente corregidas,
-an~adidas, y emendadas.}
+añadidas, y emendadas.}
 {MIN.}
 {RUB. Impressas en Barcelona, por Sebastian
-de Cormellas, al Call, An~o. 1618.}}
+de Cormellas, al Call, Año. 1618.}}
 [fol. 1v]
 {CB1.
 {RUB. PROLOGO
@@ -29,15 +29,15 @@ zir Pregu<n>tas, con sus respuestas.
 La qual, por no estar ocioso co<m>-
 puso a imitacion de Aristoteles,
 y de Plutarco, y de Alexandro
-Afro[diseo]. De cuyas entran~as mano@`,
+Afro[diseo]. De cuyas entrañas manò,
 para prouecho, vtilidad, y passa-
 tiempo de los lectores, no poca
 parte de lo q<ue> en ella se trata. Fin-
 ge la obra a manera de Dialogo:
 q<ue> dos personas estando ociosas
 en las largas noches d<e>l inuierno
-((la vna se llama Desseo, y la otra
-Reposo)) para passar tie<m>po acor-
+≺la vna se llama Desseo, y la otra
+Reposo≻ para passar tie<m>po acor-
 daron q<ue> el vno preguntasse, y el
 otro respo<n>diesse todas las pre-
 gu<n>tas, y respuestas q<ue> aqui se tra-
@@ -83,7 +83,7 @@ algun sabroso entremes.
 A mi plaze
 lo que a ti te satisfaze,
 mira tu que te contenta:
-comienc'a tu aquella cuenta,
+comiença tu aquella cuenta,
 que mas a tu gusto haze.
 {RUB. Desseo.}
 Tengo en tanto
@@ -94,7 +94,7 @@ hazerte ciertas preguntas.
 Pregunta, que no me espanto.
 {RUB. Desseo.}
 Ya yo se,
-que nada preguntare@`
+que nada preguntarè
 puesto que sea muy escura,}
 {CW. que}
 [fol. 3r]
@@ -113,7 +113,7 @@ que de mi saber pudieres,
 yo lo dire sin reproche,
 y mientras passa la noche
 pregunta lo que quisieres.
-{RUB. Comienc'a el
+{RUB. Comiença el
 desseo sus preguntas,
 y dize.}
 {RUB. Pregunta.}
@@ -126,9 +126,9 @@ que los mismos propios n<uest>ros?}
 {HD. Preguntas +}
 {CB1.
 {RUB. Respuesta.}
-Porque para ageno dan~o
+Porque para ageno daño
 mil cuentos de ojos tenemos
-ciegos para nuestro engan~o
+ciegos para nuestro engaño
 nuestras faltas no las vemos.
 {RUB. Pregunta.}
 Porque pues que parten ju<n>tos
@@ -144,7 +144,7 @@ mil quilates que el oyr.
 Otros puntos se me ofrecen
 no se sus secretos dellos,
 porq<ue> a los muertos le crecen
-las vn~as, y los cabellos?
+las vñas, y los cabellos?
 {RUB. Respuesta.}
 Claros puntos me parecen
 no ay que detener en ellos,}
@@ -156,12 +156,12 @@ porque las carnes descrecen
 parecen que crecen ellos.
 {RUB. Pregunta.}
 Muchas vezes lo conjugo,
-y no alcanc'a mi aluedrio:
+y no alcança mi aluedrio:
 porque cozido el Besugo
 se pone el caldero frio?
 {RUB. Respuesta.}
 Porque la virtud del fuego
-sino topa para[+]vante,
+sino topa para( )vante,
 no reposa con sossiego
 penetra, y passa adelante.
 {RUB. Pregunta.}
@@ -193,10 +193,10 @@ No me negueys, au<n>q<ue> ocupe<n>
 mis dichos vuestros consejos,
 dezidme, porque los viejos
 duerme<n> poco, y mucho escu-pen?
-{RUB. Respuesta.} %2 ((
+{RUB. Respuesta.} ¶2 ≺
 Velan sin poder dormir,
 porque humor no los ocupa,
-y es fuerc'a quel viejo escupa,
+y es fuerça quel viejo escupa,
 por no poder digerir.
 {RUB. Pregunta.}
 Yo quiero de vos saber,
@@ -206,11 +206,11 @@ hazedme desto la salua,}
 {HD. Y Respuestas.}
 {CB1.
 porque jamas la muger
-moc'a, ni vieja no es calua?
+moça, ni vieja no es calua?
 {RUB. Respuesta.}
 Porque las mugeres son,
-si mi saber no tropiec'a,
-llenas de humor de cabec'a,
+si mi saber no tropieça,
+llenas de humor de cabeça,
 a la contra del varon.
 {RUB. Pregunta.}
 Mi lengua todo lo escarua,
@@ -224,7 +224,7 @@ por ser la muger sanguina
 para sangre es menester.
 {RUB. Pregunta.}
 Si mi pregunta os agrada,
-hazedme sen~or saber,
+hazedme señor saber,
 porque tiene la muger
 la voz tan alta, y delgada?}
 {SG. A 5} {CW. Res}
@@ -240,16 +240,16 @@ mas que los ho<m>bres estrecha.
 Otro puntillo de nueuo
 me dezid de hoz y coz:
 porque remuda la voz
-el moc'o que va a mancebo?
+el moço que va a mancebo?
 {RUB. Respuesta.}
 Mi respuesta noos asso<m>bre,
 mas tenedla por segura:
 porque entonces la natura
 abre mas garganta al hombre.
 {RUB. Pregunta.}
-Porq<ue> si alguno ha vergue<n>c'a
+Porq<ue> si alguno ha vergue<n>ça
 si quiera sea gordo, o flaco,
-con ella luego comienc'a
+con ella luego comiença
 a sudar por so el sobaco?
 {RUB. Respuesta.}
 Porque Dios puso tal arte
@@ -269,11 +269,11 @@ se pone luego amarillo?
 Muy clara esta la razon,
 porq<ue> en la afrenta mas dura,
 la sangre luego procura
-socorrer al corac'on.
+socorrer al coraçon.
 {RUB. Pregunta.}
-Porque flacos, y esforc'ados
+Porque flacos, y esforçados
 y en fin todos quantos viuen,
-quando verguenc'a reciben
+quando verguença reciben
 se ponen muy colorados?
 {RUB. Respuesta.}
 La respuesta esta muy clara
@@ -300,9 +300,9 @@ si molido lo comemos
 el calor del conocemos,
 y entero no nos calienta?
 {RUB. Respuesta.}
-Tened sen~or por muy cierto
+Tened señor por muy cierto
 que su virtud no ha perdido,
-mas mientras no esta@` molido
+mas mientras no està molido
 tiene el vigor encubierto.
 {RUB. Pregunta.}
 Porq<ue> el gozo demasiado
@@ -311,11 +311,11 @@ a veces a muchos mata}
 [fol. 7r]
 {HD. Y Respuestas.}
 {CB1.
-segun esta@` ya prouado
+segun està ya prouado
 morir assi Policrata?
 {RUB. Respuesta.}
 Porque el soberano plazer
-lanc'a tanta virtud fuera,
+lança tanta virtud fuera,
 que quando quiere boluer
 es perdida y no ay manera.
 {RUB. Pregunta.}
@@ -327,7 +327,7 @@ suspiran tan a menudo?
 Porque con la gran passio<n>
 qua<n>do estan muy desco<n>te<n>tos
 estan con sus pensamientos
-pellizcando al corac'on.
+pellizcando al coraçon.
 {RUB. Pregunta.}
 Porque las aguas de fue<n>tes,
 en el verano estan frias,
@@ -348,8 +348,8 @@ pues lo vemos claramente,
 el chico sabe mas arte
 q<ue> el grande, y es mas prude<n>te?
 {RUB. Respuesta.}
-Muy clara esta@` la pregunta,
-porque esta@` el alma mas junta
+Muy clara està la pregunta,
+porque està el alma mas junta
 a qualquier que lo demande
 en el chico, que en el grande.
 {RUB. Pregunta.}
@@ -392,18 +392,18 @@ mas ella qual es se queda.}
 {CB1.
 {RUB. Pregunta.}
 Porque si alguno bosteza,
-o se esta@` esperezando,
+o se està esperezando,
 de solo estalle mirando
 nos pega aquella pereza?
 {RUB. Respuesta.}
 Son cosas de calidad
-segun por razon se alcanc'a,
+segun por razon se alcança,
 que piden conformidad,
-y en nos hallan semejanc'a.
+y en nos hallan semejança.
 {RUB. Pregunta.}
 Porque los que aterecen,
 quando se llegan al fuego,
-les duelen las vn~as luego,
+les duelen las vñas luego,
 hasta que ya se escalecen?
 {RUB. Respuesta.}
 Porque el frio, y el calor
@@ -420,7 +420,7 @@ cae en el ojo quando andays,}
 si el otro luego cerrays
 tardan en salir poquito?
 {RUB. Respuesta.}
-Porque la fuerc'a del ver
+Porque la fuerça del ver
 del sano al otro traspassa,
 y si la mosca es escassa
 hazela luego expeler.
@@ -449,7 +449,7 @@ deciende naturalmente,
 y muy gran trabajo siente
 de subir contra su grado.
 {RUB. Pregunta.}
-Porque los nin~os do moran
+Porque los niños do moran
 segun muestra la experiencia,
 en naciendo luego lloran
 a vozes sin resistencia?
@@ -473,7 +473,7 @@ los poros, y espiraderos,}
 y si caen enlos candiles
 empalagan los gargueros.
 {RUB. Pregunta.}
-Declaradme sen~or mio
+Declaradme señor mio
 porque con vn mismo alie<n>to
 lo que es caliente resfrio,
 y lo que es frio caliento?
@@ -483,7 +483,7 @@ porque el aliento apretamos,
 calienta si lo dexamos
 boquiabiertos yr su via.
 {RUB. Pregunta.}
-Porq<ue> si verguenc'a auemos
+Porq<ue> si verguença auemos
 qua<n>do en culpa nos hallamos
 luego los ojos baxamos,
 y en el suelo los ponemos?
@@ -515,7 +515,7 @@ todos ellos crespos son?
 Porque el sobrado calor
 cuya virtud es secar
 los haze secos de humor,
-y por fuerc'a ha<n> de encrespar.
+y por fuerça ha<n> de encrespar.
 {RUB. Pregunta.}
 Esta question me absolued
 los que hidropicos estan,}
@@ -527,7 +527,7 @@ porque tienen mayor sed
 quanto mas agua les dan?
 {RUB. Respuesta.}
 Porque el agua detenida
-q<ue> en el cuerpo esta@` embalsada
+q<ue> en el cuerpo està embalsada
 tornase toda salada,
 y a beuer mas le combida.
 {RUB. Pregunta.}
@@ -536,14 +536,14 @@ la dura cera enternece,
 y el blando barro endurece,
 y los linos haze blancos?
 {RUB. Respuesta.}
-Tres preguntas sen~or son
+Tres preguntas señor son
 de bien diuersa materia:
 mas la causa es la sazon
 que el sol halla en la materia.
 {RUB. Pregunta.}
 Porque si miran la luna
-por tras tela de cedac'o,
-por solo aquel embarac'o
+por tras tela de cedaço,
+por solo aquel embaraço
 parecen muchas siendo vna?}
 {CW. Res}
 [fol. 11v]
@@ -570,7 +570,7 @@ do quier que estan trabajando
 entendiendo en sus labores,
 a menudo estan cantando?
 {RUB. Respuesta.}
-Porque el tan~er, y cantar,
+Porque el tañer, y cantar,
 dan al alma tal conorte}
 {CW. que}
 [fol. 12r]
@@ -605,7 +605,7 @@ no ve el principio ni el fin.}
 {RUB. Pregunta.}
 Porq<ue> los hombres ayrados
 vencidos de sus enojos
-lanc'an fuego por los ojos,
+lançan fuego por los ojos,
 y los tienen inflamados?
 {RUB. Respuesta.}
 Porque la sangre con ira,
@@ -633,9 +633,9 @@ tienen siempre los estremos
 muy frios, o sollamados?
 {RUB. Respuesta.}
 Porque si alegres estan
-el calor los acompan~a,
+el calor los acompaña,
 si tristes, y con afan,
-huye dellos, cosa estran~a.
+huye dellos, cosa estraña.
 {RUB. Pregunta.}
 Esta questio<n> no es muy alta,
 ni como alta la pido:
@@ -648,7 +648,7 @@ haze la cascara saltar
 lo que no puede al mojado.
 {RUB. Pregunta.}
 Destas pregu<n>tas no graues
-a vos sen~or se encaminan:
+a vos señor se encaminan:
 dezidme, porque las aues,
 como sabeys nunca orinan?}
 {SG. B} {CW. Res}
@@ -671,18 +671,18 @@ a solas desocupado
 para en sus males pensar
 doblasele su cuydado.
 {RUB. Pregunta.}
-Porque los nin~os oyendo
+Porque los niños oyendo
 las canciones de sus amas
 quedan con ellas durmiendo
 en las cunas, o en las camas?
 {RUB. Respuesta.}
-Porque la musica esta@`
+Porque la musica està
 en las almas claramente,}
 {CW. y en}
 [fol. 14r]
 {HD. Y Respuestas,}
 {CB1.
-y en sentilla el nin~o ya
+y en sentilla el niño ya
 descansa porque la siente.
 {RUB. Pregunta.}
 Porque los q<ue> estan beodos
@@ -691,8 +691,8 @@ por muy cierto tienen todos
 que ven las cosas dobladas?
 {RUB. Respuesta.}
 Porque el demasiado vino
-tiene siempre tanta fuerc'a,
-que haze al ojo que tuerc'a
+tiene siempre tanta fuerça,
+que haze al ojo que tuerça
 el ver por doble camino.
 {RUB. Pregunta.}
 Porque los que son visojos
@@ -703,7 +703,7 @@ tienen la vista derecha?
 Porque caso que los tienen
 algo a nuestro ver co<n>trechos
 como en la vista conuienen,
-es fuerc'a mirar derechos.}
+es fuerça mirar derechos.}
 {SG. B 2} {CW. Pre}
 [fol. 14v]
 {HD. Preguntas, +}
@@ -716,7 +716,7 @@ de aquel mismo tono, y talle?
 {RUB. Respuesta.}
 Quando no puede espaciar
 por campos llanos y tendidos
-ha por fuerc'a de tornar
+ha por fuerça de tornar
 su retumbe a los oydos.
 {RUB. Pregunta.}
 Otra questio<n> quiero agora
@@ -729,7 +729,7 @@ de estar sobre otros licores
 y llama su calidad
 tras si los otros humores.
 {RUB. Pregunta.}
-Porque los moc'os, y viejos
+Porque los moços, y viejos
 mientra la vista nos dura,}
 {CW. ve}
 [fol. 15r]
@@ -744,13 +744,13 @@ despues haze reflexion
 si atras halla inconueniente.
 {RUB. Pregunta.}
 Mi saber no dissimula
-lo que no puede alcanc'ar:
-quiero os sen~or preguntar,
+lo que no puede alcançar:
+quiero os señor preguntar,
 porque no pare la mula?
 {RUB. Respuesta.}
 Por ser la mula engendrada
 de diuersos animales,
-su simiente esta@` dan~ada
+su simiente està dañada
 por ser de tantos metales.
 {RUB. Pregunta.}
 Porque la hormiga flaca
@@ -763,8 +763,8 @@ los vemos todos partidos?}
 {CB1.
 {RUB. Respuesta.}
 Dentro alla do los encierra
-con la boca, pies y brac'os,
-los haze todos pedac'os,
+con la boca, pies y braços,
+los haze todos pedaços,
 porque no nascan so tierra.
 {RUB. Pregunta.}
 Porq<ue> el gallo en sus estalas
@@ -777,7 +777,7 @@ para que con el espanto
 se despierten las gallinas,
 a que gozen de su canto.
 {RMK: HSMS-0413-0002: Preguntas.} AQVI COMIEN-
-c'an todas las pregu<n>tas con la
+çan todas las pregu<n>tas con la
 declaracion dellas.
 {RUB. Pregunta.}
 {IN2.} QVe es el cuerpo sin se<n>tido
@@ -790,7 +790,7 @@ das sin vivir,}
 mueuese sin ser mouido,
 y haze cosas muy sentidas
 sin sentir.
-Este nunca esta@` adormido
+Este nunca està adormido
 mas siempre mide medidas
 sin medir,
 tiene el seso tan perdido
@@ -830,11 +830,11 @@ Nunca yo hize maldad
 a vna madre que tenia,
 mas despues siendo en edad
 sin ninguna piedad
-me echo@` de su compan~ia.
+me echò de su compañia.
 Con mis bocas mas de cien
 donde la hallo la trago,
 ni le hago mal, ni bien,
-mas por fuerc'a no se quien
+mas por fuerça no se quien
 deshaze quanto yo hago.}
 {CW. Es}
 [fol. 17r]
@@ -850,14 +850,14 @@ hasta quitar los vestidos.
 Y despues de ser desnudos
 estos cuerpos ya nombrados
 se tornaron luego mudos
-y sus amos muy san~udos
+y sus amos muy sañudos
 de presto los han quitado.
 Es el torno de la seda.
 {RUB. Pregunta.}
-En vn sepulcro vi estar %3 ((
+En vn sepulcro vi estar ¶3 ≺
 mas de veynte cuerpos muer-tos
 y tan grandes vozes dar
-que me pare@` a escuchar
+que me parè a escuchar
 si gritauan con concierto.
 Y vilos que vozeauan
 con sus vozes tan polidas
@@ -872,20 +872,20 @@ Son los organos.
 {RUB. Pregunta.}
 Vna casa bien tejada
 de pino muy bien cubierta,
-ella esta@` tan bien cerrada
-que esta@` en ella gente armada
+ella està tan bien cerrada
+que està en ella gente armada
 y no ay postigo, ni puerta.
 El primer combate es fuego
 el segundo martillada,
 quitanles las armas luego
 tomanlos de buen sossiego
 como gente desarmada.
-Es la pin~a.
+Es la piña.
 {RUB. Pregunta.}
 Digamos de aquel ladron
 que come hijos agenos
 y a los suyos de sus senos
-los saca del corac'on,
+los saca del coraçon,
 y los haze criar buenos.
 Dando vozes, y alaridos
 por los montes, y poblados
@@ -902,7 +902,7 @@ Quatro Reyes bie<n> guerreros
 salieron a pelear
 con sus quatro escuderos
 y valientes caualleros
-sin esfuerc'o les faltar.
+sin esfuerço les faltar.
 Y tan rezio pelearon
 todos juntos con denuedo
 que ningunos no escaparon,
@@ -927,7 +927,7 @@ Es el peyne.
 {RUB. Pregunta.}
 Quien es aquel Cauallero
 que en virtudes es tan grande
-esforc'ado, y muy guerrero,
+esforçado, y muy guerrero,
 liberal mas que Alexandre,
 muy galan hidalgo entero.
 Parte todo quanto tiene
@@ -937,9 +937,9 @@ lo demas parte con ellas,
 y de zelos se mantiene.
 Es el gallo.
 {RUB. Pregunta.}
-Quien es aquel esforc'ado
+Quien es aquel esforçado
 que solo puede vencer,
-mas despues de acompan~ado,
+mas despues de acompañado,
 aunque vaya b[i]en armado
 no tiene tanto poder.
 Y al tiempo de su nacer
@@ -970,31 +970,31 @@ de manto verde vestido.
 Es cosa que bien se toca
 de la haz, y del enues,
 tiene dientes, y no boca,
-tiene cabec'a, y no pies.}
+tiene cabeça, y no pies.}
 {CW. Es}
 [fol. 19v]
 {HD. Preguntas, +}
 {CB1.
-Es la cabec'a de ajos.
+Es la cabeça de ajos.
 {RUB. Pregunta.}
 Qual es la cosa tan baxa
 y tan blanca en su nacion,
 tiene manos de Leon,
-y cuerpo de calabac'a.
-Anda, corre, buela, y cac'a,
-y haze vida en bren~a obscura,
+y cuerpo de calabaça.
+Anda, corre, buela, y caça,
+y haze vida en breña obscura,
 y muestra a la criatura
 como viuira en su casa.
 Es la hormiga.
 {RUB. Pregunta.}
-Qual es aquel que no peco@`,
+Qual es aquel que no pecò,
 y sin culpa fue prendido,
 y en vna prision metido
 hasta el dia que murio?
 Habla casi como yo,
 es discreto aunque villano,
 tiene nombre de Christiano
-y nunca se bautizo@`?
+y nunca se bautizò?
 Es la ventosidad.
 {RUB. Pregunta.}
 Pues q<ue> soys tan bue<n> letrado,}
@@ -1006,7 +1006,7 @@ dezidme esto que es,
 que ha redondos los pies,
 y el cuerpo enclauillado.
 Lleua, tambien es lleuado
-donde manda su sen~or,
+donde manda su señor,
 canta y es buen cantor,
 mas canta desentonado.
 Es el carro.
@@ -1039,17 +1039,17 @@ Es la granada.
 {RUB. Pregunta.}
 Quien se viste vestiduras
 bordadas de mil maneras
-cada an~o y, sin costuras,
+cada año y, sin costuras,
 que en mirar a sus figuras
 os espanta bien de veras.
-Y aquellas sen~ales vienen
-por su engan~o man[i]fiesto,
+Y aquellas señales vienen
+por su engaño man[i]fiesto,
 y han dexado este protesto
 para siempre porque penen?
 Es la sierpe.
 {RUB. Pregunta.}
 Qual es la cosa q<ue> en murie<n>-do
-recibe menos fatiga, %2 ((
+recibe menos fatiga, ¶2 ≺
 y con su vida viuiendo
 su cuerpo va deshaziendo}
 {CW. con}
@@ -1083,12 +1083,12 @@ Y entre ciento vna destas}
 [fol. 21v]
 {HD. Preguntas +}
 {CB1.
-hallara@`s que sea buena,
+hallaràs que sea buena,
 esta a vezes nos da pena
 y nos causa mil requestas?
 Es la espada.
 {RUB. Pregunta.}
-Qual animal sen~or, es
+Qual animal señor, es
 que en naciendo luego llora,
 y si ha de yr, luego a la hora
 ha de yr con quatro pies.
@@ -1121,12 +1121,12 @@ Que cosa muerta ha nacido
 a manera de ataud,
 madrasta le dio virtud,
 por dos despues florecido
-en las aguas nauego@`
+en las aguas nauegò
 de dentro del mar profundo
 y despues vna voz dio
-que se oyo@` por todo el mu<n>do?
+que se oyò por todo el mu<n>do?
 Es el huevo, del qual nacio vn
-gallo, y ca<n>to@` en l[a ]arca de Noe.
+gallo, y ca<n>tò en l[a ]arca de Noe.
 {RUB. Pregunta.}
 Del vno hazed dos
 de dos hazed quatro,
@@ -1144,9 +1144,9 @@ que todos generalmente
 muy cub[i]erta, y escondida,
 y en parte agena metida.
 mas querida de su gente.
-Por ella sera@` saluado
+Por ella serà saluado
 todo el mundo, condenado,
-y mira@` que respondeys
+y mirà que respondeys
 que auie<n>do aquesto acertado
 dos vezes me lo direys.
 Es la verdad.
@@ -1173,14 +1173,14 @@ y tiene tanto poder
 que en todas cosas se pone?
 Es el nombre.
 {RUB. Pregunta.}
-Quie<n> es ((dad presto salida))
+Quie<n> es ≺dad presto salida≻
 el que murio, y no nacio,
 y el que nacio, y no murio
 en aquesta mortal vida?
 Es Adam, y Enoch.
 {RUB. Pregunta.}
 El que no ocupa lugar,
-y en todo lugar esta@`,
+y en todo lugar està,
 y vida, y muerte nos da,
 como se puede llamar?
 Es el viento.
@@ -1196,8 +1196,8 @@ que a do tiran sie<m>pre aciertan.
 Son los ojos.
 {RUB. Pregunta.}
 Quie<n> es la que a todos viste
-y en vestir jamas se adrec'a
-tiene cuerpo, y no cabec'a
+y en vestir jamas se adreça
+tiene cuerpo, y no cabeça
 tiene pico, y no resiste?
 Es la aguja de coser.
 {RUB. Pregunta.}
@@ -1218,7 +1218,7 @@ Dezidme quie<n> son las mudas}
 [fol. 24r]
 {HD. Y Respuestas}
 {CB1.
-que ensen~an, y nos doctrinan,
+que enseñan, y nos doctrinan,
 hijas de torpes peludas,
 nietas de las que no orinan?
 Son las letras.
@@ -1254,8 +1254,8 @@ Esto es soplando la vela.
 Quien dize<n> que fue nacido
 mucho antes que el Messias
 y vemosle en nuestros dias
-nin~o que nunca ha crecido.
-Es el nin~o Cupido.
+niño que nunca ha crecido.
+Es el niño Cupido.
 {RUB. Pregunta.}
 Vnos presos lamentauan
 porque estauan revestidos,

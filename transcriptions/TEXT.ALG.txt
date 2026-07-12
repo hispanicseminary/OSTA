@@ -21,7 +21,7 @@ y de su curacion. +}
 {MIN.}
 {RUB. EN MADRID,
 En casa de Pedro Madrigal.
-An~o. 1599.
+Año. 1599.
 Esta tassado a {BLNK.} marauedis cada pliego.}}
 [fol. 1v]
 [fol. 2r]
@@ -45,7 +45,7 @@ y facultad para que vos o la persona que vuestro poder
 ouiere, y no otra alguna, podais imprimir el dicho li-
 bro intitulado Arte de la Algebra, que de suso se haze
 mencion, en todos estos Reynos de Castilla, por tiempo
-y espacio de diez an~os, que corran y se quenten desde
+y espacio de diez años, que corran y se quenten desde
 el dia de la data desta nuestra cedula, so pena q<ue> la per-
 sona o personas que sin tener vuestro poder lo impri-
 miere, o vendiere, o hiziere imprimir o vender, pierda
@@ -56,7 +56,7 @@ sea la tercia parte para la persona que lo acusare, y la
 otra tercia parte para nuestra Camara, y la otra tercia
 parte para el juez que lo sentenciare: con tanto que to-
 das las vezes q<ue> ouieredes de hazer imprimir el dicho
-libro, dura<n>te el tiempo de los dichos diez an~os, le tray-gays}
+libro, dura<n>te el tiempo de los dichos diez años, le tray-gays}
 {CW. gays}
 [fol. 2v]
 {CB1.
@@ -87,9 +87,9 @@ nuestro Consejo, y a otras qualesquier justicias destos
 nuestros Reynos, que guarden y cumplan esta nuestra
 cedula, y lo en ella contenido. Fecha en el Pardo a vein-
 te y tres dias del mes de Noviembre de mil y quinien-
-tos y nouenta y ocho an~os.
+tos y nouenta y ocho años.
 YO EL REY.
-Por mandado del Rey nuestro sen~or.
+Por mandado del Rey nuestro señor.
 Don Luys de Salazar.}
 [fol. 3r]
 {CB1.
@@ -104,12 +104,12 @@ conocen ni tratan sino pastores, o labradores rusticos,
 o mugercillas, que a falta de otro entretenimiento para
 biuir, sen entra por este portillo, o por mejor dezir, corral
 sin puerta: y lo que peor es, se salen con ello, pretendiendo
-examen, y alcanc'andole, sin que ningun buen entendi-
+examen, y alcançandole, sin que ningun buen entendi-
 miento perciba como se les pueda conceder, ni concedido,
-como puedan sin ensen~amiento ni arte salir con el fin que
+como puedan sin enseñamiento ni arte salir con el fin que
 se pretende en casos tan dificultosos como en esta mate-
 ria se ofrecen, sino es a caso, o errando. De manera, que ya
-es fuerc'a, pues de los Medicos ni hombres doctos nadie
+es fuerça, pues de los Medicos ni hombres doctos nadie
 quiere poner en este ministerio las manos, dar a los que
 no lo son, orden y modo como no sean tan ignoran-
 tes en todo lo necessario, para conseguir el fin que se
@@ -117,7 +117,7 @@ pretende en enfermedades tan graues como lo son. Y
 assi pienso que quien con buen animo considerare es-
 te trabajo y buen zelo mio, me tendra por disculpa-
 do, pues la necessidad obliga a escoger del mal lo menos,
-acomoda<n>do el lenguaje y estilo a la trac'a y ingenio de los
+acomoda<n>do el lenguaje y estilo a la traça y ingenio de los
 que siguen esta parte de Algebra, dexando para los do-ctos}
 [fol. 3v]
 {CB1.
@@ -126,7 +126,7 @@ tades, y la interpretacion de lugares obscuros y dificulto-
 sos de Hipocrates, y de los mas Medicos antiguos, que
 de lo vno y de lo otro no ay menos que en la mas difi-
 cultosa parte de la Medicina, pues aqui no es nuestra
-pretension mas, que ensen~ar con breues y claras palabras,
+pretension mas, que enseñar con breues y claras palabras,
 lo que de todas las decisiones de dificultades de lugares
 obscuros esta resuelto y aueriguado, para que con esta no-
 ticia, sin mas disputa, se sepa como se han de poner las
@@ -158,7 +158,7 @@ De la luxacion o desconcierto de las coyunturas, y de sus
 especies. Cap<itulo> VI. fo<lio> 8.
 De las causas de las luxaciones y desconciertos de las co-
 yunturas. Cap<itulo> VII. fol<io> 9.
-De las sen~ales de la parte desco<n>certada. Cap<itulo> VIII. fo<lio> 10.
+De las señales de la parte desco<n>certada. Cap<itulo> VIII. fo<lio> 10.
 Del pronostico y juyzio que se ha de hazer de las luxa-
 ciones. Cap<itulo> IX. fo<lio> 11.
 De lo que ha de considerar el Algebrista antes de poner
@@ -175,13 +175,13 @@ Del sitio en que los miembros se han de poner despues de
 curados. Cap<itulo> XIII. fo<lio> 22.
 Del tiempo y reglas de desligar las partes desco<n>certadas.
 Cap<itulo> XV. fol<io> 22.
-Del desconcierto de la cabec'a, y nudos de la ceruiz, y
+Del desconcierto de la cabeça, y nudos de la ceruiz, y
 huessos de las asillas. Cap<itulo> XVI. fo<lio> 23.
 De algunas luxaciones en particular por via de exem-
 plo, en especial de la quixada baxa. Cap<itulo> XVII. f<olio> 29.
 Del desconcierto del ombro. Cap<itulo> XVIII. fo<lio> 31.
 De la reposicion y concierto del cobdo. Cap<itulo> XIX. fo<lio> 41.
-De la luxacion de la mun~eca y palma, y dedos de la ma-
+De la luxacion de la muñeca y palma, y dedos de la ma-
 mo. Cap<itulo> XX. fo<lio> 44.
 Del desconcierto del muslo o huesso de la cadera. Cap<itulo>
 XXI. fo<lio> 45.
@@ -212,7 +212,7 @@ brado, saber primero con claridad y certidu<m>bre,
 las figuras naturales de todos los huessos: y la que
 d[e ]j($e)untarse vno con otro, resulta en el cuerpo y
 en cada parte suya. Porque assi visto el hombre
-que de algun dan~o destos enfermare, se conozca
+que de algun daño destos enfermare, se conozca
 con mas facilidad, si dista de su natural compos-tura}
 {CW. tura}
 [fol. 5v]
@@ -234,7 +234,7 @@ qual deue el Algebrista considerar cerca del co-
 nocimiento de los huessos, muchas cosas, que to-
 das son necessarias y vtiles para diuersos fines.
 La primera, que los huessos de su natural tem-
-planc'a, son frios y secos, y de naturaleza de tierra:
+plança, son frios y secos, y de naturaleza de tierra:
 y en esta razon, quando se quiebran, se les deuen
 aplicar medicinas frias y secas, semejantes a su na-
 turaleza: aunque para juntarlos sea necessario al-
@@ -244,7 +244,7 @@ dira.
 La segunda es, saber la grandeza del huesso
 quebrado, o desconcertado, para saber por aqui
 el modo de tratarlos, pues los grandes se concier-
-tan con mas facilidad que los pequen~os. Demas}
+tan con mas facilidad que los pequeños. Demas}
 {CW. que de}
 [fol. 6r]
 {HD. los Algebristas \ 2}
@@ -253,24 +253,24 @@ de los grandes, vnos ay huecos, y dentro no tiene<n>
 nada, como el huesso de la fre<n>te, encima y en me-
 dio de las cejas: y otros ay que estan llenos de me-
 dula o tuetano, como el huesso de la pierna, y ca-
-nillas de brac'os, y la quijada de abaxo: y de la de
+nillas de braços, y la quijada de abaxo: y de la de
 arriba el huesso gra<n>de. Assimismo entre los hues-
 sos grandes, ay vnos que ni tienen medula, ni ca-
-uidad, como los siete huessos de la cabec'a, y el
+uidad, como los siete huessos de la cabeça, y el
 de la espalda, y las vertebras del huesso grande,
 llamado Sacro, que esta al cabo del espinazo: y
-el de la cadera, y el que haze el carcan~al. Fuera de
-todos estos, ay otros pequen~os, y sin medula o
+el de la cadera, y el que haze el carcañal. Fuera de
+todos estos, ay otros pequeños, y sin medula o
 tuetano, porque todos son macizos, como los
-huessos pequen~os de la cara, y los de la palma de
-la mano, y los pequen~uelos que ay en las coyun-
+huessos pequeños de la cara, y los de la palma de
+la mano, y los pequeñuelos que ay en las coyun-
 turas de los dedos, que son semejantes a simiente
 de alegria, y assimismo los dientes.
 La tercera consideracion, es, para entender
 el numero de los huessos de que cada parte se co<m>-
 pone. Porque es assi, que ay algunas que consta<n>
-de varios huessos, de vn taman~o y figura, en los
-quales no se ofrece pequen~a dificultad quando
+de varios huessos, de vn tamaño y figura, en los
+quales no se ofrece pequeña dificultad quando
 se desconciertan, como acontece en la mano, y
 empeyne del pie. En las quales partes, a vezes
 por componer y concertar vno, se desconcierta
@@ -291,9 +291,9 @@ Para noticia de lo suso dicho conuiene consi-
 derar en los huessos dos maneras de figuras: Vna
 que es propria de cada huesso, segun el mie<m>bro de
 quie<n> es el huesso, como es la figura del huesso del
-brac'o, que no puede seruir para la pierna: y la del
+braço, que no puede seruir para la pierna: y la del
 huesso de la pierna, que no puede seruir para el
-brac'o, y assi de las demas. Otra figura ay que pue-
+braço, y assi de las demas. Otra figura ay que pue-
 de ser comun a huessos de diferentes partes. Esta
 es vna eminencia que tienen algunos huessos, ne-
 cessaria para muchos oficios que co<n> ella haze na-
@@ -301,24 +301,24 @@ turaleza, como la tiene el huesso del muslo, y
 otros muchos huessos. Es esta eminencia en dos
 maneras. Vna que es parte del mismo huesso do<n>-
 de esta, que no es otra cosa sino vna parte de aquel
-huesso mas leuantada y sen~alada, de la qual en al-
+huesso mas leuantada y señalada, de la qual en al-
 gunos huessos se halla vna sola, como en el rayo
-o huesso del brac'o, vna de cada parte como cabe-
-c'a. {GL. [^Llama<n>la Apophysis]} Y en otros huessos se hallan mas, como en el
-otro huesso del brac'o, y en el muslo, y en el
-huesso semejante a cun~a, que esta en lo baxo de}
-{CW. la ca-bec'a}
+o huesso del braço, vna de cada parte como cabe-
+ça. {GL. [^Llama<n>la Apophysis]} Y en otros huessos se hallan mas, como en el
+otro huesso del braço, y en el muslo, y en el
+huesso semejante a cuña, que esta en lo baxo de}
+{CW. la ca-beça}
 [fol. 7r]
 {HD. los Algebristas. \ 3}
 {CB1.
-la cabec'a, y en el huesso de la frente, y en los nu-
+la cabeça, y en el huesso de la frente, y en los nu-
 dos de las espaldas.
-La segunda manera de an~adidura que ay en
-los huessos, es, quando a alguno se le an~ide en lo
+La segunda manera de añadidura que ay en
+los huessos, es, quando a alguno se le añide en lo
 alto o baxo del, algun pedacillo de huesso, que
 parece enxerido, como si huuiera faltado algo pa-
 ra llegar a su perfecion y deuida grandeza, y se lo
-huuiera an~adido naturaleza con otro pedac'o de
+huuiera añadido naturaleza con otro pedaço de
 huesso, tan pegado y enxerido, que parecen vn so-
 lo huesso: lo qual se hizo para mayor seguridad,
 que si a caso se quebrasse no fuesse del todo. {GL. [^Llama<n>la Epiphysi]} De-
@@ -327,16 +327,16 @@ huessos que tienen tuetano, como vn cobertor,
 para que estuuiesse mas guardado: no obstante
 que aya algunos, que no tienen esta cobertura, y
 tienen tuetano, como la quijada inferior. Fuera
-de lo qual sirue tambien esta an~adidura, para que
+de lo qual sirue tambien esta añadidura, para que
 los ligamentos se inxeran y fortalezcan alli, y de
 alli se produzgan o nazcan, resudando, o colando
 por aquella parte humidad y materia para este
 efecto. Aliende desto sirue<n> de fortaleza a los hues-
 sos mayores, como las bassas a los pilares: aun-
-que en los nin~os es tan blanda esta an~adidura, co-
+que en los niños es tan blanda esta añadidura, co-
 mo ternilla, y luego se les endureze con la edad:
-de manera, que ni se echa de ver ser an~adidura,
-ni se puede despegar sino con gran fuerc'a; o po-
+de manera, que ni se echa de ver ser añadidura,
+ni se puede despegar sino con gran fuerça; o po-
 dreciendose, o coziendose mucho el huesso. Fue}
 {CW. tan}
 [fol. 7v]
@@ -365,7 +365,7 @@ ay diferentes maneras de desconcertarse, y di-
 ferentes modos y artificios para concertarlos. De
 manera, que no bastara saber que se ha de tornar
 el huesso a su lugar, sino que tambien es necessa-
-rio saber el modo que cada coyuntura y dan~o en
+rio saber el modo que cada coyuntura y daño en
 ella, quiere, y le es proprio para reduzirse: porque
 de otra manera se haze la obra con tanto dolor,
 que inflamada la parte, o llamado a la coyuntura}
@@ -407,15 +407,15 @@ dentro de si por alguna parte, pueden recebir y}
 esconder otro huesso: y otras ay que no pueden
 recibir ninguno, sino antes el tal huesso es rece-
 bido de otro: y ansi el primero tiene en si cauidad,
-y el segundo emine<n>cia, o cabec'a, como es el hues-
-so del brac'o por lo alto, que entra en la cauidad del
+y el segundo emine<n>cia, o cabeça, como es el hues-
+so del braço por lo alto, que entra en la cauidad del
 huesso del hombro. Ay tambien otros, que jun-
 tamente reciben y son recebidos, como se vee
-en las comissuras de los huessos de la cabec'a. Ta<m>-
+en las comissuras de los huessos de la cabeça. Ta<m>-
 bien ay otros, que por vna simple y casi llana vnio<n>
 o juntura, se reciben y junta<n> con tan fuerte vnio<n>,
 que es mas firme que las demas, como se vee en
-la segunda especie de an~adidura de huessos, de
+la segunda especie de añadidura de huessos, de
 que arriba queda hecha mencion. Hallanse tam-
 bien otros huessos, que no se juntan, ni pueden,
 sino por medio de alguna cosa que los pega y afi-
@@ -465,10 +465,10 @@ do con vn ligamento o atadura se cerca al rede-dor}
 {HD. Instituciones para +}
 {CB1.
 la coyuntura, como se vee en las coyunturas
-de manos, pies, y brac'os. Y la otra es, vn ligamen-
+de manos, pies, y braços. Y la otra es, vn ligamen-
 to redondo, que sale de enmedio de la cauidad
 del huesso que recibe, y se inxere en medio de la
-cabec'a que entra en aquella cauidad, como se vee
+cabeça que entra en aquella cauidad, como se vee
 en todos los huessos que hazen grandes moui-
 mientos, como es el huesso del muslo, que tiene
 ambas ataduras. Hizo naturaleza esta inuencio<n> de
@@ -488,7 +488,7 @@ por si, y de sus especies en particular.
 {RUB. De la coyuntura o articulacion.
 Cap<itulo> III.}
 {IN2.} LA que propriamente es coyuntura o articu-
-lacion, se haze y forma, quando la cabec'a de
+lacion, se haze y forma, quando la cabeça de
 vn huesso entra en la cauidad de otro, para mo-uerse}
 {CW. uerse}
 [fol. 10r]
@@ -496,7 +496,7 @@ vn huesso entra en la cauidad de otro, para mo-uerse}
 {CB1.
 en ella como en su quicio. {GL. [^Llama<n>la Diarthrosis]} Y no obsta que
 los autores viejos llamen solamente articulo a la
-cabec'a del huesso que entra en el otro, porque en
+cabeça del huesso que entra en el otro, porque en
 el comun modo de hablar, por articulo, siempre
 entendemos la coyuntura.
 Desta vnion que acabamos de dezir, ay dos es-
@@ -505,18 +505,18 @@ tan dos huessos vno recebido en otro, como esta
 dicho: pero atados por defuera con vn ligamen-
 to, tan floxamente que se puedan hazer moui-
 mientos grandes, y euidentes, como se vee en las
-coyunturas de piernas y brac'os, dedos, y otras mu-
+coyunturas de piernas y braços, dedos, y otras mu-
 chas partes. El otro se haze tambien de dos hues-
 sos, pero de tal manera juntos y pegados sin liga-
 mento alguno, que o no puedan hazer moui-
-miento, o sea muy pequen~o y obscuro. {GL. [^Llama<n>la Synarthrosis.]}
+miento, o sea muy pequeño y obscuro. {GL. [^Llama<n>la Synarthrosis.]}
 La primera destas dos especies de coyuntu-
 ras que diximos hazerse, para que el cuerpo haga
 mouimientos sensibles y grandes, que esta traua-
 da con ligamento, tiene tres especies y modos de
 hazerse entre si diferentes. Porque la primera se
 haze quando la cauidad del huesso que recibe es
-muy honda, y la cabec'a del que es recebido tie-
+muy honda, y la cabeça del que es recebido tie-
 ne la ceruiz muy larga, como se vee en la coyun-
 tura del muslo con el huesso de la cadera: de la
 qual figura ay pocas en el cuerpo humano. {GL. [^Llamada Enarthrosis.]} La
@@ -525,9 +525,9 @@ segunda se forma y haze, quando la cauidad del}
 [fol. 10v]
 {HD. Instituciones para +}
 {CB1.
-huesso que recibe es superficial, y la cabec'a del q<ue>
+huesso que recibe es superficial, y la cabeça del q<ue>
 es recebido, casi llana, como la coyuntura de la
-mun~eca, y de la cabec'a, con el primer nudo o ver-
+muñeca, y de la cabeça, con el primer nudo o ver-
 tebra del cuello. {GL. [^Llamada Arthrodia]} No pongo aqui todos los exem-
 plos que se pueden poner, porque no parece ne-
 cessario, antes para gente sin letras seria confusio<n>:
@@ -537,13 +537,13 @@ quando los huessos que hazen la coyuntura en-
 tran vno en otro, y aquel que recibe, tambien en-
 tra en el recibido, a manera de las fixas o visa-
 gras que se ponen en las puertas o ventanas, que
-vna entra con vna cabec'a en la otra, y esta co<n> dos
-cabec'as en la que entro en ella, a la manera que
-vemos hazerse las comissuras de la cabec'a, que
+vna entra con vna cabeça en la otra, y esta co<n> dos
+cabeças en la que entro en ella, a la manera que
+vemos hazerse las comissuras de la cabeça, que
 cada huesso recibe y es recebido. {GL. [^Llamada Ginglymos]} Aunque las co-
 missuras propriamente pertenecen a otra suerte
 de coyuntura, como se dira adelante. Esta coyun-
-tura se vee en el cobdo con el brac'o, en la pierna
+tura se vee en el cobdo con el braço, en la pierna
 con la tibia, y en los mas de los nudos de las
 espaldas, aunque en esto ay duda, pero
 no es se decission para
@@ -570,10 +570,10 @@ fiere de la verdadera coyuntura, porq<ue> no se junta<n>
 los huessos con ligamento como en ella.
 Tiene esta especie de coyuntura tres modos
 de hazerse, de los quales el vno propriamente se
-llama costura, por la semejanc'a que con ella tie-
+llama costura, por la semejança que con ella tie-
 ne, la qual es vna vnion de huessos, que se haze en-
 trando vno en otro alternatiuamente, como se
-vee en las comissuras de la cabec'a, que cada hues-
+vee en las comissuras de la cabeça, que cada hues-
 so recibe del otro, y es recibido del. {GL. [^Sutura.]} La otra se ha-
 ze, como quando vn huesso a manera de clauo
 entra en otro, como los dientes en sus vasos, y la
@@ -587,12 +587,12 @@ qual ay mas euidente mouimiento, pero ponese
 debaxo desta especie, y no de coyuntura, porque
 no tiene ni se junta con ligamento, sino que co-
 mo vn quicio de puerta se rodea a vna y a otra par-
-te sobre ella la cabec'a. La tercera se haze con vna
+te sobre ella la cabeça. La tercera se haze con vna
 [*simple juntura de vn huesso con otro. En la qual]
 tambien no se vee cauidad ni eminencia, como
 se vee en los huessos del rostro y nariz, quedando
 solo por muestra de ser juntura vna como raya o
-sen~al entre los dos huessos. {GL. [^Harmonia]}
+señal entre los dos huessos. {GL. [^Harmonia]}
 {RUB. De la juntura de los huessos que se haze
 quando en medio dellos ay algo que
 los junta. Cap<itulo> V.}
@@ -605,7 +605,7 @@ sos quebrados, que los tiene juntos vn callo o po-
 ro, que por esto no es natural, como lo otro. {GL. [^Llamada Symphisis]} Y as-
 si mismo se dize junta de huessos con alguna cosa
 intermedia, para que se distinga de la que arriba
-llamamos an~adidura de huesso, que se haze sin
+llamamos añadidura de huesso, que se haze sin
 ningun medio, sino pegandose vn huesso a otro}
 {CW. quando}
 [fol. 12r]
@@ -637,7 +637,7 @@ los modos de los desconciertos o luxaciones
 dellos. Tanto que si distinctamente no los co-
 noce, seria impossible, o dificultosissimo po-
 der reduzir los miembros desconcertados a
-su lugar. Y assi es necessario ensen~ar aora que}
+su lugar. Y assi es necessario enseñar aora que}
 {CW. cosa}
 [fol. 12v]
 {HD. Instituciones para +}
@@ -649,7 +649,7 @@ que por essa orden se torne a componer.
 turas, y de sus especies. Cap<itulo> VI.}
 {IN2.} EL desconcierto o luxacion de las coyu<n>turas,
 no es otra cosa que vna salida o cayda de la
-cabec'a del huesso de su proprio lugar a otra parte
+cabeça del huesso de su proprio lugar a otra parte
 no natural, con lo qual el mouimiento se impide
 o pierde: de donde consta, que desconcierto en
 las coyunturas, es la enfermedad que los Medi-
@@ -659,11 +659,11 @@ juntura. De lo qual se puede colegir, presupues-
 to todo lo dicho, que puede auer quatro maneras
 de apartarse vnos huessos de otros. La primera,
 quando los que estauan juntos o pegados a la lar-
-ga, se apartan, como las dos canillas de los brac'os,
+ga, se apartan, como las dos canillas de los braços,
 y de las piernas, y el huesso ancho de las espaldas
 que suele apartarse del ombro, el qual vicio pro-
 priamente se llama apartamiento: y lo mismo
-acontece en las an~adiduras de los huessos, quan-
+acontece en las añadiduras de los huessos, quan-
 do se apartan. La segunda es, quando la coyuntu-
 ra se afloxa o alarga, sin acabarse de salir el huesso
 de su cauidad, sino que solo se afloxa o relaxa la}
@@ -674,7 +674,7 @@ de su cauidad, sino que solo se afloxa o relaxa la}
 atadura, de manera que co<n> facilidad se puede des-
 concertar, o salir del todo el huesso de su lugar. La
 tercera es, la que propriamente se llama luxacio<n>,
-que es, quando la cabec'a del huesso sale de su pro-
+que es, quando la cabeça del huesso sale de su pro-
 prio seno o cauidad: lo qual se haze, o perfetame<n>-
 te y del todo, y entonces se llama propriamente
 luxacion: o sale algo y no del todo, y se llama im-
@@ -682,7 +682,7 @@ perfecta luxacion o torcedura. Y aunque es assi,
 que entrambas luxaciones se hallan en el cobdo
 y mano, y pierna, y dedos de los pies, la perfecta
 por la mayor parte se halla en el huesso del mus-
-lo y cadera, y en el del brac'o y ombro: lo qual sa-
+lo y cadera, y en el del braço y ombro: lo qual sa-
 bemos se puede hazer de vna de quatro maneras,
 como es, saliendo el huesso a la parte superior, o a
 la interior, o a la parte diestra, o a la siniestra. Y
@@ -695,7 +695,7 @@ la espalda: ni los huessos de enmedio de la palma
 se pueden salir hazia los lados, porque lo estoruan
 los vezinos que estan a cada parte: como tampo-
 co la rodilla hazia delante, porque lo estorua la
-choquec'uela que esta antepuesta. Dexo aqui de
+choqueçuela que esta antepuesta. Dexo aqui de
 dezir, que ay otras diferencias de luxaciones, co-
 mo son, ser vnas simples, y otras compuestas: las}
 {CW. simples}
@@ -717,7 +717,7 @@ chazon dura, que o se entra hazia el articulo, o
 haze que se estire el ligamento mas de lo que
 conuiene, o echa el huesso de su lugar. La ter-
 cera se haze, o por alguna violencia externa,
-de golpe, cayda, torcedura, o fuerc'a: o por cau-
+de golpe, cayda, torcedura, o fuerça: o por cau-
 sa interna, corriendo algun humor a lo interior
 de la cauidad del articulo, y endureciendose en
 (en) ella, y ansi sacando los huessos de su lugar.
@@ -725,21 +725,21 @@ Demas de las quales causas que con euidencia
 podemos conocer, muchos vemos luxados, o
 desconcertados desde su nacimiento: o por ser
 cosa heredada de sus padres, o porque en el vien-
-tre de sus madres recibieron algun dan~o, o por-
+tre de sus madres recibieron algun daño, o por-
 que de ruyn mantenimiento de sus madres, les}
 {CW. corre}
 [fol. 14r]
 {HD. los Algebristas. \ 10}
 {CB1.
 corre a las criaturas tanto humor frio y delgado a
-las coyunturas, que las afloxa y haze los dan~os di-
-chos: a las quales causas se an~ide mala formacion
-de las cabec'as de los huessos, que las haze mas de-
+las coyunturas, que las afloxa y haze los daños di-
+chos: a las quales causas se añide mala formacion
+de las cabeças de los huessos, que las haze mas de-
 presas, y la cauidad menos honda: y assi vemos, q<ue>
 por esta razo<n> el ombro se desconcierta mas vezes.
-{RUB. De las sen~ales de la parte desconcertada.
+{RUB. De las señales de la parte desconcertada.
 Cap<itulo> VIII.}
-{IN2.} MVchas sen~ales se ofrecen al Algebrista, pa-
+{IN2.} MVchas señales se ofrecen al Algebrista, pa-
 ra conocer qualquiera desconcierto de co-
 yuntura, si las quiere considerar con atencio<n>. Por-
 q<ue> si es total y perfecta, perderse ha del todo el mo-
@@ -760,7 +760,7 @@ bro esta mas gruesso q<ue> el natural, como aco<n>tece en}
 [fol. 14v]
 {HD. Instituciones para +}
 {CB1.
-la pierna, y en el brac'o, hasta la rodilla y cobdo:
+la pierna, y en el braço, hasta la rodilla y cobdo:
 q<ue> si vna canilla se aparta de otra, estara mas grues-
 so cada vno de los dichos miembros, que lo era
 en su natural.
@@ -778,12 +778,12 @@ de la coyuntura se vera vna como cauidad, por
 donde se pueden entrar los dedos, y tambien por-
 que si le quisieremos reduzir a su lugar, se hara
 con facilidad, pero con la misma se tornara a caer.
-Ansimismo ay sen~ales de que esta concerta-
+Ansimismo ay señales de que esta concerta-
 da la coyuntura, y que se ha reduzido el huesso a
 su lugar, como son las contrarias a las dichas: no
 auer hoyo ni tumor en ninguna parte, mandar el
 miembro sin dolor y enteramente, estar del tama-
-n~o del otro, como es el brac'o del otro brac'o, y la
+ño del otro, como es el braço del otro braço, y la
 pierna de la otra: principalmente, si al concertar
 se sintio algun sonido en la parte desconcertada,
 si acaso queda sin dolor, porque si queda con el}
@@ -807,7 +807,7 @@ de las luxaciones. Cap<itulo> IX.}
 puede reponer o concertar cada coyuntura
 quando se desconcierta, es necessario aduertir, q<ue>
 en los cuerpos robustos, carnosos y musculosos,
-con mucha dificultad y fuerc'a se desconciertan
+con mucha dificultad y fuerça se desconciertan
 las coyunturas, y con mucha mayor se concier-
 tan y restituyen. Y por el contrario en los flacos,
 con mucha facilidad se hazen los desconciertos
@@ -822,7 +822,7 @@ tir, que ay vnas coyunturas, que con facilidad se}
 {CB1.
 desconciertan, y otras que co<n> dificultad, y lo mis-
 mo es en la restitucion: como es el huesso ancho
-de la espalda con el del ombro, y en el brac'o el ra-
+de la espalda con el del ombro, y en el braço el ra-
 yo se aparta y torna a juntar con el del cobdo: y
 en la pierna el huesso de la espinilla del de la pan-
 torrilla. Los quales, si vna vez se apartan con difi-
@@ -834,9 +834,9 @@ interiores, que tambien se apartan con facilidad,
 y con la misma se juntan: pero con mucha difi-
 cultad, o nunca se retienen y sanan. Lo qual acon-
 tece muchas vezes en los que se hazen gibosos
-por corrimiento de la cabec'a: y en las demas lu-
+por corrimiento de la cabeça: y en las demas lu-
 xaciones que de la misma causa se hazen en las
-caderas, piernas, o brac'os. La razon es euidente,
+caderas, piernas, o braços. La razon es euidente,
 porque luego se hinchen las cauidades de humi-
 dad, que quaxada alli, no da lugar a que se con-
 cierte la parte: y a vezes suele como en las verte-
@@ -852,7 +852,7 @@ curables: pero mucho mas dificultosas, si am-bas}
 {HD. los Algebristas. \ 12}
 {CB1.
 causas se juntassen: porque el remedio de la
-vna es notable dan~o de la otra. Tambien son difi-
+vna es notable daño de la otra. Tambien son difi-
 cultosas de reduzir las dislocaciones donde ay do-
 lor, inflamacion o llaga: y no solo dificultosas, pe-
 ro aun si se porfia en reponer los tales huessos, pe-
@@ -864,13 +864,13 @@ le acontecer a los que procuran reduzir las luxa-
 ciones o desconciertos enuejecidos: y assi tengo
 por mayor prudencia y mejor consejo, declaran-
 do la dificultad de la reducion, dexarla de hazer,
-que excitar nueuo dan~o por intentar curar el in-
+que excitar nueuo daño por intentar curar el in-
 curable.
 Assi mismo se mire mucho en la reducion
 del huesso que tiene llaga, porque en semejante
 caso la extension, que precisamente es necessa-
 ria para la reposicion y concierto, no puede
-hazerse sin nueuo dan~o: y sino se repone, es cier-
+hazerse sin nueuo daño: y sino se repone, es cier-
 ta la manquedad, porque si se dexa para adelan-
 te, la parte llagada se inflama, y assi ni se puede
 luego reponer, aunque seria mejor, porque la ex-
@@ -889,13 +889,13 @@ ro, que no por reponer el huesso antes, ponerle
 con la extension la vida en peligro, por los dolo-
 res y conuulsiones. No obstante todo lo dicho, se
 puede reduzir y afirmar con breuedad la luxacio<n>
-o desconcierto de las partes pequen~as, demas de
+o desconcierto de las partes pequeñas, demas de
 que las tales en menos dias se afirman, como las
 que son en las coyunturas gra<n>des de catorze dias
 para adelante, pies y manos a veynte, sino son los
 huessos que se juntan con los huessos de la pier-
 na, cobdo, o rodilla, que tardan quare<n>ta: y el hues-
-so del carcan~al sesenta, y el ombro cincuenta: y
+so del carcañal sesenta, y el ombro cincuenta: y
 assi de los demas huessos segun la grandeza ma-
 yor o menor de la coyuntura.
 {RUB. De lo que ha de considerar el Algebrista an-
@@ -916,19 +916,19 @@ mento esta floxo, o duele: lo qual es cierto ser, por-
 que recibio golpe en si, o en la carne: o se torcio y
 estendio, sin que la coyuntura se desconcertasse,
 o desconcertandose: porque del efecto que resul-
-tare en la parte assi dan~ada, se ha de sacar la razon
+tare en la parte assi dañada, se ha de sacar la razon
 y modo de curarla. Y assi conuiene, que lo torci-
 do, extenso, o doloroso, no se intente reponer ni
 concertar con ignorancia de las cosas dichas, pen-
 sando que es desconcierto, porque con el gran
 dolor que se haze queriendo estender o menear
-el miembro, se hazen dan~os irreparables: por lo
+el miembro, se hazen daños irreparables: por lo
 qual solo es necessario mitigar los dolores, como
 se dira adelante. Assimismo conuiene aduertir, q<ue>
 el articulo desconcertado no admite ningun re-
 medio, ni medicina, hasta que se reponga y torne
 a su lugar, porque si queda fuera y se aplican re-
-medios, se haze el dan~o incurable. De la misma
+medios, se haze el daño incurable. De la misma
 manera conuiene aduertir en la coyuntura que
 tiene floxo el ligamento, que hasta enxugar y
 desecar aquella humidad, si se ponen medicinas
@@ -936,7 +936,7 @@ astringe<n>tes, se haze mas dificultosa la cura, y mas
 cierta la manquedad. Y assi en cada caso destos
 se deue guardar su regla propria y necessaria, de
 manera que si se mudasse, el enfermo correria
-riesgo de los dan~os dichos.
+riesgo de los daños dichos.
 Por las mismas razones conuiene, que antes}
 {CW. que}
 [fol. 17v]
@@ -971,9 +971,9 @@ que se haga con tres condiciones. La primera,}
 {HD. los Algebristas. \ 14}
 {CB1.
 ablandando primero el miembro desconcerta-
-do ((si a caso se ha tardado en llamar el artifice))
+do ≺si a caso se ha tardado en llamar el artifice≻
 con fomentos de cozimiento de simiente de
-lino, violetas, maluas, manc'anilla, y malua-
+lino, violetas, maluas, mançanilla, y malua-
 uisco, y azeytes molificatiuos y calientes, tra-
 tando la parte moderada y blandamente, por-
 que sin dolor se dexe estender: para lo qual
@@ -981,13 +981,13 @@ conuiene azeyte de almendras dulces con en-
 jundia de gallina, con seuillo de cabrito, o con
 cosas semejantes. La segunda, que la extension
 se haga poco a poco, a vna parte y a otra, em-
-pec'ando blandamente, y luego vn poco mas
+peçando blandamente, y luego vn poco mas
 recio, sin menear a ninguna parte, sino esten-
 diendo derechamente la parte desconcertada,
 para que assi el huesso despues de auer hecho
 lugar, meneandose a diuersas partes, se pon-
 ga en el sitio necessario. Y aduierta el artifice,
-que empec'ada vna vez la extension, no cesse
+que empeçada vna vez la extension, no cesse
 hasta que el vn huesso este enfrente del otro. La
 tercera, que en estando assi, vaya poco a po-
 co cessando y afloxando, y que el ministro que
@@ -1004,7 +1004,7 @@ la extension particulares aduertencias: porque si}
 con el desconcierto se juntare contusion o carne
 magullada, hecha primero sangria, por temor de
 la mortificacion de la parte, conuendra con me-
-dicinas digerentes ((quales diremos adelante)) re-
+dicinas digerentes ≺quales diremos adelante≻ re-
 soluer lo corrido, y laxar la parte con blanduras,
 por la dureza del cuero: lo qual se hara con coci-
 miento de maluauiscos, y de rays de lirio, o con
@@ -1013,7 +1013,7 @@ co, temiendo siempre que la parte no se mortifi-
 que, o laxando mucho, o resoluiendo con mayor
 atraccion. Y assi los grandes artifices vsan de la
 miga de pan con vino tinto y rosas, cozida con
-manc'anilla o su azeyte: y si huuiere mucho ca-
+mançanilla o su azeyte: y si huuiere mucho ca-
 lor, con el de arrayan. Aprouecha tambien como
 se vsa, poner claras de hueuo con poluos de rosas
 y arrayan y azeyte rosado, o poner vna cataplas-
@@ -1041,7 +1041,7 @@ o mal situado el huesso, primero que la extensio<n>
 se haga, conuiene con enseuados y con vnturas,
 por algunos dias, ablandar la parte, porque pueda
 sufrir la extension mas sin dolor: lo qual se haze
-con cozimiento de cabec'a y pies de cabrito, o car-
+con cozimiento de cabeça y pies de cabrito, o car-
 nero, con rayzes de maluauisco y violetas, alhol-
 bas, y linaza: o con agua y azeite: o con azeytes o
 gorduras de injundias de gallina, conejo, o gato,
@@ -1064,8 +1064,8 @@ mo quede manco, que por concertarle antes de}
 {HD. Instituciones para +}
 {CB1.
 curar la llaga, ponerle en riesgo de la vida: pero
-la prudencia nos ensen~a, que prouar a hazerlo no
-dan~ara, sino pudiendo salir con ello se dexa, y pu-
+la prudencia nos enseña, que prouar a hazerlo no
+dañara, sino pudiendo salir con ello se dexa, y pu-
 diendose hazer buenamente se consigan ambas
 cosas, que son reposicio<n> del huesso, lo qual hecho
 se consigue lo segundo, que es la curacion de la
@@ -1102,14 +1102,14 @@ como perlesia los cure. Para lo qual es necessario
 poner cuydado en resoluer lo humido que causa
 aquella floxedad, aplicando a la parte vn emplas-
 tro de miga de pan tostado, mojandolo en vino
-de cozimiento de palo, saluia, y con el c'umo de la
-misma saluia, y manc'anilla, romero, y cantuesso,
+de cozimiento de palo, saluia, y con el çumo de la
+misma saluia, y mançanilla, romero, y cantuesso,
 y con medicinas semejantes: o hazer vn encera-
-do con caran~a, y azeyte de menjuy, o el confor-
+do con caraña, y azeyte de menjuy, o el confor-
 tatiuo de Bigo co<n> poluos de saluia y ruda, y azey-
 te de hyperico<n>, de terme<n>tina, de raposo, o laurel,
 o con balsamo, de los quales todos se puede hazer
-vn emplastro con caran~a, o tecamaca: procuran-
+vn emplastro con caraña, o tecamaca: procuran-
 do primero se purgue el cuerpo, y vse de ma<n>jares
 secos y calientes, porque de otra manera no sera<n>
 de tanto prouecho los remedios dichos. Y si esto
@@ -1126,7 +1126,7 @@ son las que se diran en la mitigacion del dolor.}
 {HD. Instituciones para +}
 {CB1.
 Suele[n] el dolor y la inflamacion impedir casi
-del todo ((hasta que se mitiguen)) la extension de
+del todo ≺hasta que se mitiguen≻ la extension de
 la parte desconcertada, y de la misma manera la
 reposicion o concierto della: por lo qual co<n>uiene
 obrar con suauidad y mansamente, para no hazer
@@ -1135,7 +1135,7 @@ se siguen inflamaciones, y se hinche el vacio del
 huesso, de manera q<ue> se consigue perpetua man-
 quedad: y assi conuiene fomentar primero la par-
 te con agua caliente, o con agua y azeyte de alme<n>-
-dras dulces, de manc'anilla, de lombrizes, violado
+dras dulces, de mançanilla, de lombrizes, violado
 o rosado. Haze el mismo efecto poner vna car-
 dada de lana suzia, mojada en alguno de los azey-
 tes, o en manteca, o enjundia de gallina, huyen-
@@ -1160,13 +1160,13 @@ parche del defensiuo de bolo armenico, y en la
 parte misma desco<n>certada, el cerato liquido, que
 se haze de sola cera y azeyte rosado, cuyo vso es
 hasta el septimo, singular remedio. Y lo mismo
-se haze con pan~os de leche y azeyte rosado, procu-
+se haze con paños de leche y azeyte rosado, procu-
 rando que esto se ponga sobre la inflamacion, y
 no en la coyuntura qua<n>to fuere possible: a lo qual
-se pueden an~adir vnas gotas de vinagre, o algun
-c'umo frio, como no sea astringente, ni muy frio,
+se pueden añadir vnas gotas de vinagre, o algun
+çumo frio, como no sea astringente, ni muy frio,
 porque no impidan la transpiracion de la parte,
-como es de lechuga, calabac'a, o escarola en poca
+como es de lechuga, calabaça, o escarola en poca
 cantidad: y desde vn poco, fomentar la parte co<n>
 azeyte rosado caliente. Y sino pareciere aproue-
 char, se llame cirujano docto q<ue> o lo saje, o lo abra
@@ -1176,12 +1176,12 @@ me Medico que mire si sera bien hazer en la par-
 te contraria vna fuente, o alguna otra manera de
 diuersion.
 Y si en la luxacion o desconcierto se juntare
-huesso quebrado y llaga, no es pequen~a dificultad
-saber por donde se ha de comenc'ar la cura. En el
+huesso quebrado y llaga, no es pequeña dificultad
+saber por donde se ha de començar la cura. En el
 qual caso, pospuestas opiniones, lo primero que
 deue hazerse, es, ju<n>tar los huessos quebrados y cu-
 rar la llaga, porque esto se puede hazer con poca
-extension, y sin dan~o de la llaga, y la reposicion
+extension, y sin daño de la llaga, y la reposicion
 del articulo no, sino con mayor y mas peligrosa,}
 {CW. y assi}
 [fol. 21v]
@@ -1213,7 +1213,7 @@ rando poco a poco, y concertando y reponiendo
 los huessos, de manera que quede<n> hechas ambas
 composiciones con vn solo trabajo, con lo qual se
 cumple lo que pide la complicacion de los dos
-dan~os.}
+daños.}
 {CW. Del.}
 [fol. 22r]
 {HD. los Algebristas. \ 18}
@@ -1225,7 +1225,7 @@ nes dichas, deue guardar el Algebrista para
 concertar las partes desconcertadas, las condicio-
 nes siguientes. La primera, que la reposicion se
 haga blandamente, porque no se haga nueua co<n>-
-tusion o atricion, entre la cabec'a del huesso, y la
+tusion o atricion, entre la cabeça del huesso, y la
 cauidad o seno, porque suele quebrarse la orilla o
 margen de la dicha cauidad: en especial, padecie<n>-
 do en esta obra, venas, neruios, arterias, musculos
@@ -1233,7 +1233,7 @@ y cuero, de donde suelen recrecerse dolores y in-
 flamaciones, y otros muchos accidentes. La se-
 gunda, que para hazerse con presteza de vna vez,
 es necessario poner la parte que se esta estirando
-tan derecha, que la cabec'a del huesso llegue a es-
+tan derecha, que la cabeça del huesso llegue a es-
 tar enfrente del seno donde ha de entrar, de ma-
 nera que en dexandole y afloxandole, de suyo
 buelua a su natural lugar: pero conuiene no de-
@@ -1241,7 +1241,7 @@ xarle de las manos, hasta q<ue> se vea estar assi situado
 como esta dicho. La tercera, que tentando pri-
 mero la cauidad con los dedos, con ellos mis-
 mos se llegue y reponga, procurando desuiar
-la cabec'a del huesso de las orillas y margines de
+la cabeça del huesso de las orillas y margines de
 la cauidad, de manera que conste y se perci-
 ba estar ya la cauidad ocupada con su huesso.}
 {CW. Para}
@@ -1251,23 +1251,23 @@ ba estar ya la cauidad ocupada con su huesso.}
 Para todo lo qual conuiene yr procurando en es-
 ta obra, que el huesso que esta caydo se leuante: el
 que salio hazia lo alto, se baxe, de manera que la
-cabec'a del huesso que antes se parecia, ya no se
+cabeça del huesso que antes se parecia, ya no se
 percibe por estar en su lugar y cauidad natural: lo
 qual facilmente se conocera, por quedar la parte
 sin dolor, y semejante a la otra parte sana: assimis-
 mo del sonido o estruendo q<ue> el huesso hizo quan-
 do entro en su lugar: todo lo qual se deue hazer
-con blandura y suauidad mas que con fuerc'a,
+con blandura y suauidad mas que con fuerça,
 pues poniendo con la extension el huesso en bue-
 na figura, casi de su proprio mouimiento se recoge
-en su lugar con la fuerc'a de los ligamentos: porq<ue>
+en su lugar con la fuerça de los ligamentos: porq<ue>
 la compresion de los huessos que con los dedos se
 haze, siendo con porfia y apretadamente, es cau-
 sa de inflamacion y dolor. De manera que para
 hazerse como conuiene, juntamente se han de yr
 haziendo la extension y reposicion, y assi aunque
 es necessario con los dedos tocar la cauidad del
-huesso, y la cabec'a del otro, para ponerlos enfren-
+huesso, y la cabeça del otro, para ponerlos enfren-
 te y ajustarlos, se puede yr hazie<n>do sin violencia,
 afloxando como esta dicho la extension poco a
 poco, y mirandose encaxe de todas partes al jus-
@@ -1330,7 +1330,7 @@ conuiene poner estas medicinas calientes, porq<ue>
 no se enfrie la coyuntura, y lo que a ella corriere.
 Y para que lo contuso se resuelua mejor, aproue-
 cha tambien hazer este remedio con los mismos
-poluos y miel, que en los nin~os es singular medi-
+poluos y miel, que en los niños es singular medi-
 cina. Pero si con auerse reduzido el articulo, toda-
 via el dolor durare por la contusion que precedio,
 conuendra fomentar la parte con azeyte rosado
@@ -1351,14 +1351,14 @@ entiende que en la parte ay principio de infla-
 macion. El segundo se puede hazer con pez, re-
 sina, o termentina, principalmente donde fue-
 re necessario firmar la parte, sin tener respeto a
-otro accidente mas que solo esforc'ar y afirmar
-la coyuntura, an~adiendo para esto los poluos
+otro accidente mas que solo esforçar y afirmar
+la coyuntura, añadiendo para esto los poluos
 de toda bizma, derritiendo la pez, y procu-
 rando no se requeme, y poniendola sobre
-vnos pan~os o estopas, y aplicandola con los pol-
+vnos paños o estopas, y aplicandola con los pol-
 uos a la parte: y conuiene no mudarle ni hazer
 violencia, hasta que conste estar ya el articu-
-lo firme y seguro, sino es en caso que dan~en,
+lo firme y seguro, sino es en caso que dañen,
 o den dolor por su sequedad y dureza, que
 entonces conuendra por su sequedad y dure-
 za renouarse al septimo dia blandamente, y
@@ -1372,7 +1372,7 @@ que con el primer cataplasma se hallo dolorosa-mente}
 {CB1.
 la parte: la segunda postura sea del cerato
 Baruaro, diapalma, o el de minio, o el oxicroceo,
-cerato simple, o el rosado, poniendo pan~os sobre
+cerato simple, o el rosado, poniendo paños sobre
 la parte antes de ponerle, con vino de granadas,
 con hypocistides, cortezas de granadas y balaus-
 tias: y si quisieres, por dos o tres dias se ponga es-
@@ -1392,10 +1392,10 @@ es de gran efecto vn emplastro que lleua rayzes
 de maluauiscos, y de coho<m>brillo amargo, y hojas
 de maluas, de cada vno vn manojo, y quebran-
 tandolo todo junto se cueza hasta que se pueda
-sacar por cedac'o: o bien majado, se an~idan de ha-
+sacar por cedaço: o bien majado, se añidan de ha-
 rina de [*alholbas], y [*simiente de lino], de cada vno
-onc'a y media, azeyte comu<n> quatro onc'as, enjun-
-dia de puerco dos onc'as, y con el mismo cozimie<n>-
+onça y media, azeyte comu<n> quatro onças, enjun-
+dia de puerco dos onças, y con el mismo cozimie<n>-
 to, si fuere menester se mezcle. Assimismo se}
 {CW. puede}
 [fol. 25r]
@@ -1404,26 +1404,26 @@ to, si fuere menester se mezcle. Assimismo se}
 puede vsar diaquilon simple, y gomado, fregan-
 do primero la parte para ablandar lo calloso, con
 hyssopo humido, y aun fomentarla con lauadu-
-ras de lana suzia: a lo qual todo se pueden an~adir
-cosas que resueluan, como en los nin~os y muge-
+ras de lana suzia: a lo qual todo se pueden añadir
+cosas que resueluan, como en los niños y muge-
 res el cerato de beronica: y en los demas alguno
-de los dichos, o la grossura o lodo de los ban~os de
-ac'ufre.
+de los dichos, o la grossura o lodo de los baños de
+açufre.
 No es cosa dificultosa ligar los miembros ya
 concertados y curados, si se aduierte, que aunque
 los antiguos pusieron muchas maneras de ligadu-
 ras, la experiencia ha mostrado bastar el vso de
 tres ligaduras o vendas que aqui diremos. La vna
-que se haze dos cabec'as, cogiendo vna venda lar-
+que se haze dos cabeças, cogiendo vna venda lar-
 ga por ambas partes hasta el medio, y yr con am-
 bas manos ligando la parte, hasta venir a poner
 los cabos, o juntos al medio, o auiendo comen-
-c'ado a vendar desde el medio, acabar en cada vno
-a su parte. La otra es, vna venda de vna cabec'a
+çado a vendar desde el medio, acabar en cada vno
+a su parte. La otra es, vna venda de vna cabeça
 que se coge por sola vna parte toda, y con ella se
-ha de vendar el miembro, empec'a<n>do de vna par-
+ha de vendar el miembro, empeça<n>do de vna par-
 te y acabando en la otra: de manera que si preten-
-demos prohibir el fluxo, conuiene empec'ar a ve<n>-
+demos prohibir el fluxo, conuiene empeçar a ve<n>-
 dar de la parte mas baxa, y acabar en la mas alta
 y mas junta al cuerpo. La tercera es, la ligadura
 que se llama galapago, que es vna venda en me-
@@ -1435,7 +1435,7 @@ dio ancha ygualmente por todas partes, y de ca-da}
 vno de los dos lados salen tres o quatro rama-
 les, que se vienen a atar vnos con otros, propria li-
 gadura de huessos quebrados y desconcertados,
-y principalme<n>te para abrac'ar todas las otras. En
+y principalme<n>te para abraçar todas las otras. En
 la manera de ligar, ora sea con la vna venda, ora
 con la otra, deue guardar el artifice esta orden:
 que de tal manera se haga la compression, que
@@ -1447,23 +1447,23 @@ no de la ligadura. No he querido aqui poner las
 diferencias de lazos y nudos que los antiguos vsa-
 ron, tan varios y diferentes vnos de otros como
 era la parte desconcertada, porque el vso nos ha
-ensen~ado que con lo dicho se satisfaze a todos los
+enseñado que con lo dicho se satisfaze a todos los
 miembros, pues el fin es contener lo concertado:
 y esta claro de que manera cada miembro puede
 mejor concertarse: mirando para esto, que el bra-
-c'o que se desconcierta de su ombro, se ha de ligar
-con el otro ombro, por debaxo del brac'o contra-
-rio, comenc'ando la ligadura desde el brac'o des-
+ço que se desconcierta de su ombro, se ha de ligar
+con el otro ombro, por debaxo del braço contra-
+rio, començando la ligadura desde el braço des-
 concertado y llegando al ombro proprio, y bol-
 uiendola por el pescuezo o por el cuerpo al
 otro ombro: el muslo con las caderas ambas:
-el cobdo con el brac'o y ombro mismo: el talon
+el cobdo con el braço y ombro mismo: el talon
 con la pierna hasta la rodilla: la quixada con la}
-{CW. cabec'a,}
+{CW. cabeça,}
 [fol. 26r]
 {HD. los Algebristas. \ 22}
 {CB1.
-cabec'a, y assi de las mas partes del cuerpo, aco-
+cabeça, y assi de las mas partes del cuerpo, aco-
 modando la ligadura a que con firmeza tenga el
 miembro curado.
 {RUB. Del sitio en que los miembros se han de
@@ -1516,7 +1516,7 @@ huuiere dolor, y tenerla assi hasta que se entienda
 conforme a las reglas dadas, que la parte tiene su-
 ficiente firmeza: en el qual tiempo sera necessa-
 rio fortalezer la dicha parte, con cozimientos de
-rosas, axenxios, manc'anilla, y saluia, o con el c'u-mo}
+rosas, axenxios, mançanilla, y saluia, o con el çu-mo}
 {CW. mo de}
 [fol. 27r]
 {HD. los Algebristas. \ 23}
@@ -1528,20 +1528,20 @@ do, y tornando a hazer los mismos fome<n>tos, pro-
 curando que el enfermo no haga mouimiento
 ni exercicio alguno con la parte, hasta que el tie<m>-
 po y medicinas se la tengan bien firme.
-{RUB. Del desconcierto de la cabec'a, y nudos de
+{RUB. Del desconcierto de la cabeça, y nudos de
 la ceruiz, y huessos de las asillas.
 Cap<itulo> XVI.}
 {IN2.} SVelen pocas vezes los huessos q<ue> de cada lado
 de la garganta hazen las asillas, desconcertar-
-se, pero quando acontece es cosa engan~osa y difi-
-cultosa de concertarse: y el engan~o mana de pa-
+se, pero quando acontece es cosa engañosa y difi-
+cultosa de concertarse: y el engaño mana de pa-
 recerse este desconcierto al del ombro, y la difi-
 cultad de no poderse hazer extensio<n>. Pero lo que
 todos los autores encomiendan, es, vna ligadura
 fuerte, que estando el enfermo tendido en el sue-
 lo, y apretando con las manos el huesso salido ha-
 zia fuera, no pudiendo reduzirle, porque con la
-fuerc'a no se quiebre, mandan que se lie apretada-
+fuerça no se quiebre, mandan que se lie apretada-
 mente, y que este assi muchos dias, que algunos
 autores encomiendan quarenta, pero parece difi-
 cultosa de sufrir tantos dias ta<n>ta apretura, y las me-
@@ -1550,11 +1550,11 @@ dicinas quiere<n> que sea como de huesso quebrado.}
 [fol. 27v]
 {HD. Instituciones para +}
 {CB1.
-Aunque es posible que la cabec'a se desco<n>cier-
+Aunque es posible que la cabeça se desco<n>cier-
 te y aparte del primer nudo de la ceruiz, sobre
 quien esta articulada: con todo esso acontece des-
 concertarse hazia la parte de detras, y entonces
-la cabec'a se cae hazia delante ahirmando la barba
+la cabeça se cae hazia delante ahirmando la barba
 al pecho. Pero porque este desconcierto es co<n> mu-
 cha celeridad mortal, no me parece gastar tiem-
 p(e)[o] en procurar reduzirle, assi por la dificultad, co-
@@ -1587,16 +1587,16 @@ desconcierta: pero de qualquiera manera que sea,
 conuiene para la restitucion, sentar el enfermo
 en vna silla baxa, y que vn ministro le tenga fir-
 memente por los ombros, y el Algebrista tome
-la cabec'a con dos manos, y alc'andola vn poco
+la cabeça con dos manos, y alçandola vn poco
 la menee a todas partes, hasta que vea que el en-
 fermo la puede menear por si, y que sin dolor
-se puede hazer, que es la sen~al de estar concerta-
-da. Y entonces tuerc'a algo la cabec'a hazia el
+se puede hazer, que es la señal de estar concerta-
+da. Y entonces tuerça algo la cabeça hazia el
 lado contrario que tenia antes que se descon-
 certasse, y aplique las vizmas y medicinas que
 estan dichas: mirando que la ligadura no im-
 pida la respiracion ni la comida, sino procuran-
-do firmar la ceruiz con los ombros y cabec'a
+do firmar la ceruiz con los ombros y cabeça
 con mediana apretura. Para lo qual se aduier-
 te que la vizma se ha de poner por la parte de
 detras, y que esta sea de virtud astrictiua, pa-
@@ -1615,13 +1615,13 @@ sas: la primera por causa interior, y la otra}
 por causa o caso exterior. La primera se haze por
 defluxo de algun humor, que corriendo de todo
 el cuerpo o de alguna parte principal, como de la
-cabec'a, o engendrandose alli, o trayendose con
+cabeça, o engendrandose alli, o trayendose con
 dolor, calor o exercicio, se humedece, y se afloxa<n>
 los ligamentos con que se atan y juntan las vnas
 con las otras, de manera que con facilidad se apar-
 tan, saliendo alguna dellas hazia afuera, o hazia
 dentro, o a alguno de los lados. La segunda es
-causa exterior, como es cayda, o golpe, o fuerc'a
+causa exterior, como es cayda, o golpe, o fuerça
 de alguna cosa violenta, que rompiendo o esti-
 rando las dichas ataduras, echa alguna de las ver-
 tebras fuera, o dentro, o a los lados. De todos los
@@ -1643,8 +1643,8 @@ hazia afuera, es como lo representa esta figura,}
 {=DIAG.}
 que muestra que se ha de estender el cuerpo del
 enfermo sobre vna mesa firme, y boca abaxo,
-poniendo vna faxa de lienc'o por debaxo de los
-brac'os, y otra por las hijadas, y dando los cabos
+poniendo vna faxa de lienço por debaxo de los
+braços, y otra por las hijadas, y dando los cabos
 dellas a dos ministros que tiren a la par y blanda-
 mente, el vno hazia arriba, y el que tiene la faxa}
 {CW. que}
@@ -1657,7 +1657,7 @@ a su lugar la vertebra que estuuiere fuera y hizie-
 re gibosidad. Y si con esto no se reduxere, con-
 uendra tomar dos tablas de tres dedos de ancho
 cada vna, y de vn palmo largas, y menos de vn
-dedo gruessas, embueltas en lienc'o o estopas, y ha
+dedo gruessas, embueltas en lienço o estopas, y ha
 de poner la vna de vn lado de la vertebra o verte-
 bras que hazen gibosidad, y la otra del otro, y con
 las manos apretarlas, vna vez la vna, y otra vez la
@@ -1667,9 +1667,9 @@ que sin concitar mucho dolor se pudieren hazer,
 hasta reduzir la vertebra a su lugar. Para lo qual se
 considere, que si fuere la gibosidad de algunos
 dias, conuendra primero con vnturas ablandar el
-espinazo, y cada dia por la man~ana yr haziendo
+espinazo, y cada dia por la mañana yr haziendo
 la dicha labor poco a poco: para lo qual es pro-
-prio instrumento este escan~o, que es el artificio
+prio instrumento este escaño, que es el artificio
 que para mas cosas puede ser vtil, y es casi la figu-
 ra del que los antiguos llamaron Glosocomion, o
 a lo menos le parece mucho, porque se le puede
@@ -1681,10 +1681,10 @@ trumento tiene, cuya figura es esta.}
 {=DIAG.}
 Pero aduierta el artifice, que en el obrar no
 sea tan sin consideracion que con el co<m>primente,
-que es aquel palo con que se aprieta el cerro, dan~e
+que es aquel palo con que se aprieta el cerro, dañe
 o quiebre las salidas o puntas que las vertebras tie-
 ne<n> hazia afuera, y assi sera necessario poner sobre
-las vertebras salidas vn colchonzillo o cabec'alejo}
+las vertebras salidas vn colchonzillo o cabeçalejo}
 {CW. de}
 [fol. 30v]
 {HD. Instituciones para +}
@@ -1694,7 +1694,7 @@ ga la reduccion. Es este artificio admirable y de
 gran prouecho, para quando el primero no ha si-
 do de suficiente efecto, o esta enuejezida la gibo-
 sidad. Y deue aduertir, que de la misma manera
-ha de atar el enfermo por debaxo de los brac'os, y
+ha de atar el enfermo por debaxo de los braços, y
 por las caderas, y que por las dos garruchas que
 se representan arriba y abaxo vayan poco a poco
 haziendo la extension, hasta que con el compri-
@@ -1704,9 +1704,9 @@ y restituyda la vertebra, conuendra luego poner
 la vizma, o medicinas que aprieten y conforten,
 aplicando de vn lado y de otro vnas tablas mas
 delgadas que las dichas, embueltas tambien en
-lienc'o, o en estopas, y bien ligadas, vna del vn la-
+lienço, o en estopas, y bien ligadas, vna del vn la-
 do del espinazo, y otra del otro, de manera que no
-se dan~en las espinas, o salidas de los huessos, y
+se dañen las espinas, o salidas de los huessos, y
 que por los lados sin este peligro, se apriete la
 vertebra desconcertada, y se tenga firme en su
 lugar, donde se restituyo. Y boluiendo el en-
@@ -1733,7 +1733,7 @@ huesso a su lugar: para lo qual conuendra que se
 hagan algunas vnturas de cosas blandas a terce-
 ro dia, y luego tornar a apretar las correas. Pero
 ha se de aduertir, que el respaldar ha de tener
-de pan~os, lana, o algodon en la parte que cor-
+de paños, lana, o algodon en la parte que cor-
 responde al huesso salido vn colchonzillo, o
 saquillo, para que con blandura se vaya hazien-
 do la compression. Puedese hazer el respaldar
@@ -1742,7 +1742,7 @@ bre.
 Y si la gibosidad, o salida de algun huesso
 del espinazo se huuiere hecho por corrimien-
 to de algunos humores a las dichas partes, de-
-ue aduertirse que el dan~o viene, porque la tu-
+ue aduertirse que el daño viene, porque la tu-
 nica que cubre las dichas vertebras, que trae
 origen del pelicraneo, recibe alli algun humor
 frio y humedo, que embebiendose en ella la
@@ -1764,9 +1764,9 @@ facilidad en qualquiera mouimiento alguna de-
 llas, o mas se salgan, como esta dicho. En los
 quales vicios caen facilmente los cuerpos tier-
 nos y humidos: y en especial acontece hazer-
-se este dan~o muchas vezes por descuydo, o de-
+se este daño muchas vezes por descuydo, o de-
 masiada curiosidad de las amas que crian los
-nin~os afloxandolos, o apretando las emboltu-
+niños afloxandolos, o apretando las emboltu-
 ras mas de lo que conuiene. Demanera que
 comprimiendo el huesso del pecho, y las cos-
 tillas corbandose, aprietan los nudos o verte-
@@ -1782,7 +1782,7 @@ uiene aduertir, que en estas luxaciones, si}
 [fol. 32r]
 {HD. los Algebristas. \ 28}
 {CB1.
-dende la nin~ez empiezan, nunca se sanan, an-
+dende la niñez empiezan, nunca se sanan, an-
 tes cada dia recrecen dellas nueuos acidentes,
 porque a los tales no les crecen mucho las costi-
 llas, sino torciendose siempre de fuera para a-
@@ -1794,15 +1794,15 @@ quier exercicio. Y assi mismo se les siguen a
 los tales frequentes destilaciones al pulmon, con
 que se hacen de corta vida. Y si la gibosidad es
 enfrente del septo transuerso, o muy vezina a
-el, padecen de ren~ones y bexiga, de mas de
-los dichos dan~os, pesados acidentes, y embar-
+el, padecen de reñones y bexiga, de mas de
+los dichos daños, pesados acidentes, y embar-
 becen tarde, y no tienen sucession. Y final-
 mente son de vida miserable y calamitosa los
 que tienen este mal por herencia: los quales
 no crecen en el espinazo, aunque en piernas
-y brac'os lleguen a su perfecion, presupuesto
+y braços lleguen a su perfecion, presupuesto
 que por la mayor parte son flacos de piernas y
-brac'os. En todo lo qual se aduierte, que es me-
+braços. En todo lo qual se aduierte, que es me-
 nos peligrosa y mas facil de curar la gibosidad
 en que muchas vertebras se desconciertan, que
 quando es vna sola, porque se haze en arco,
@@ -1815,24 +1815,24 @@ sola.}
 {CB1.
 Tambien es de mucha consideracion el des-
 concierto del huesso grande, llamado rabadilla,
-que no suele ser de pequen~o dan~o. Desconcierta-
+que no suele ser de pequeño daño. Desconcierta-
 se de golpe, o cayda con mucha violencia: su se-
-n~al es, no poder llegar el calcan~ar a las assentade-
+ñal es, no poder llegar el calcañar a las assentade-
 ras, ni aun doblar las rodillas, ni sentarse sino en
 cosa blanda, o en silla agujerada, ni aun hazer ca-
 mara sino con mucha dificultad: con todo esto,
 ni se desconcierta del todo, ni se llama verdadera
 luxacion, sino casi luxacion. El modo de concer-
-tarse es, meter vn dedo por el sienso, y con fuerc'a
-y man~a tornarle a leuantar, y con la otra mano
+tarse es, meter vn dedo por el sienso, y con fuerça
+y maña tornarle a leuantar, y con la otra mano
 ayudar a ygualarle, y en estando fuera y en su lu-
 gar, poner las medicinas restrictiuas dichas, y pro-
 curar que el enfermo, por espacio de veynte dias,
 haga la camara en silla que este perforada, y qua<n>-
 do se echare en la cama, que ponga las assentade-
 ras sobre vn rodete de lana o estopas, porque no
-se torne a comprimir el huessec'uelo con ahirmar
-sobre el. En los nin~os y personas delicadas, basta-
+se torne a comprimir el huesseçuelo con ahirmar
+sobre el. En los niños y personas delicadas, basta-
 ra leuantar con ambas manos la carne y cuero
 que esta encima, a manera de quien pellizca, por-
 que con la carne leuanta y trae consigo al huesso.
@@ -1844,22 +1844,22 @@ se conocera por la desigualdad que en la parte se}
 [fol. 33r]
 {HD. los Algebristas. \ 29}
 {CB1.
-echa(r) de ver entrandose hazia adentro la cabec'a
+echa(r) de ver entrandose hazia adentro la cabeça
 della, y saliendo hazia afuera todo el cuerpo de la
 costilla mas que las otras: y porque estorua de
-enderec'arse el cuerpo, haze dificultad en la respi-
+endereçarse el cuerpo, haze dificultad en la respi-
 racion, y da dolor semejante al dolor de costado,
 por la estension de los musculos intercostales, y
 por el viento y humor que alli acude con dolor.
 El orden de reduzir las costillas a su lugar, es,
 procurar poner el cuerpo derecho, haziendo al
-enfermo q<ue> alce los brac'os y se asga de alguna cosa
-que sea mas alta que el, y alli haga fuerc'a. Y el ar-
-tifice entonces con vna mano ponga fuerc'a en
+enfermo q<ue> alce los braços y se asga de alguna cosa
+que sea mas alta que el, y alli haga fuerça. Y el ar-
+tifice entonces con vna mano ponga fuerça en
 la parte que estuuiere alta en la costilla, y fuera de
 las otras: y con la otra procure estirar hazia arriba
 o pellizcar el cuero cerca del espinazo donde
-esta el hoyo de la cabec'a de la costilla: y alc'ando
+esta el hoyo de la cabeça de la costilla: y alçando
 hazia arriba el cuero como esta dicho, si fuere la
 luxacion hazia abaxo: o hazia el lado, si fuere ha-
 zia el otro, se procure reduzir la costilla a su lugar.
@@ -1888,18 +1888,18 @@ portante y mas frequente.
 Entre las partes desconcertadas, que no redu-
 zidas traen peligro, vna es la quixada de abaxo,
 que aunque es assi que acontece raras vezes des-
-concertarse, porque tiene la cabec'a del huesso q<ue>
-entra en la cabec'a grande y cercada de huessos,
-y fuertes morzillos, y otra cabec'a pequen~a q<ue> ayu-
+concertarse, porque tiene la cabeça del huesso q<ue>
+entra en la cabeça grande y cercada de huessos,
+y fuertes morzillos, y otra cabeça pequeña q<ue> ayu-
 da tambien a su firmeza: con todo esto, aunque
 no tiene mas que vna manera de desconcertarse
 hazia vna sola parte, tambien lo haze, y no con pe-
-quen~o trabajo y dificultad de su reposicion, si de
+queño trabajo y dificultad de su reposicion, si de
 vna vez no se entiende el modo que deue auer
 en reduzirla.
 Acontece este caso quando la boca se abre
 mucho bocezando, o de qualquiera manera,
-porque entonces el processo o cabec'a aguda de
+porque entonces el processo o cabeça aguda de
 la dicha mexilla se cae abaxo del huesso jugal}
 {CW. donde}
 [fol. 34r]
@@ -1915,7 +1915,7 @@ de abaxo estan mas afuera que los de arriba, y
 los musculos de las sienes estan tensos y du-
 ros. Pero si sola vna parte se desconcierta, aque-
 lla parte de la quixada esta mas afuera y mas se-
-n~alada, la barba se tuerce hazia la parte descon-
+ñalada, la barba se tuerce hazia la parte descon-
 certada, y el huesso se tuerce a la parte contraria
 de la desconcertada, y los dientes no pueden
 juntarse.
@@ -1923,12 +1923,12 @@ Es tan molesto y de riesgo este mal, que pi-
 de particular diligencia, y presto hecha, porque si
 assi no es, luego se concitan fiebres continuas,
 inflamaciones, dolores, conuulsiones, y sue-
-n~os profundos con excrementos viliosos, de
-manera que al onzeno amenac'a a peligro por la
+ños profundos con excrementos viliosos, de
+manera que al onzeno amenaça a peligro por la
 vezindad de los musculos temporales, y del ce-
 lebro, lo qual todo con la breuedad de la reduc-
 cion cessa.
-Conciertase este dan~o si se tiene cuenta en
+Conciertase este daño si se tiene cuenta en
 que consiste, con facilidad, porque presupues-
 to que no ay mas de vna manera de descon-
 cierto, que es porque los processos agudos de la}
@@ -1937,14 +1937,14 @@ cierto, que es porque los processos agudos de la}
 {HD. Instituciones para +}
 {CB1.
 quixada salen hazia arriba, lleuados de los mus-
-culos, por auer salido las cabec'as de la dicha qui-
+culos, por auer salido las cabeças de la dicha qui-
 xada de su lugar. La primera obra que deue de ha-
 zer el artifice es, la extension o retraccion hazia
 abaxo, porque desta manera se pondran enfren-
 te los processos de sus cauidades, que los lleuan co-
 mo dicho es hazia arriba los musculos. Y hecha
 la dicha extension hazia abaxo, se han de guiar
-luego hazia atras a las cauidades de la cabec'a o
+luego hazia atras a las cauidades de la cabeça o
 quixada superior, y immediatamente se han de
 guiar hazia arriba: lo qual se haze, metiendo los
 dedos pulgares dentro en la boca en los dos la-
@@ -1952,7 +1952,7 @@ dos sobre las muelas, y lo restante de la mano a la
 barba, y assi puesta la mano se haga el primer mo-
 uimiento y extension hazia abaxo, y el segundo
 adentro, y el tercero hazia arriba, como esta di-
-cho. Para lo qual, conuiene que la cabec'a este fir-
+cho. Para lo qual, conuiene que la cabeça este fir-
 me, teniendola algun ministro, o arrimandola a
 alguna parte que este bien situada, y que no se me-
 nee al mouimiento que se hiziere. Pero si el des-
@@ -1980,11 +1980,11 @@ topas mojadas en claras de hueuos, con poluos
 de rosas, arrayan, almastiga, balaustias, y otros se-
 mejantes: auiendo primero vntado los muscu-
 los temporales con azey[t]e rosado, o de lombri-
-zes, y luego puestos encima los pan~os y estopas
+zes, y luego puestos encima los paños y estopas
 dichas, se ligue con vna venda que tome la bar-
 ba, y en llegando a las orejas se parte en tres ra-
 males cada parte, que la vna se ate a la parte pos-
-terior de la cabec'a, y la otra a la frente, y la terce-
+terior de la cabeça, y la otra a la frente, y la terce-
 ra se ate en la coronilla, poniendo vna tira que
 ate la de detras con la de delante, y este ansi ven-
 dado, comiendo cosas liquidas, vno o dos dias,
@@ -1999,13 +1999,13 @@ cessario mas tiempo.}
 {RUB. Del desconcierto del ombro.
 Cap<itulo> XVIII.}
 {IN2.} ESTA coyuntura que constituye el ombro,
-hecha del huesso del brac'o, y del de la espal-
+hecha del huesso del braço, y del de la espal-
 da, es vna de las que con mas facilidad se descon-
 ciertan por muchas razones. La primera, porque
 el huesso de la espalda, que en su extrema parte
 en el ombro tiene la cauidad, en que se recibe la ca-
-bec'a del huesso del ombro, es poco caua o hueca,
-y la cabec'a del huesso del brac'o no tiene ceruiz, y
+beça del huesso del ombro, es poco caua o hueca,
+y la cabeça del huesso del braço no tiene ceruiz, y
 el ligamento es floxo y solo a la redonda. La otra,
 porq<ue> esta coyu<n>tura es simple, vniforme, no como
 la de la rodilla, que es doblada. Demas desto esta
@@ -2016,38 +2016,38 @@ concertarse de quatro maneras, aunque otros po-
 nen mas: conuiene a saber, atras, adelante, arriba,
 abaxo: pero en realidad de verdad pocas vezes, y
 no sin vehementissimas causas puede salirse y
-desco<n>certarse el brac'o hazia arriba, por la mucha
+desco<n>certarse el braço hazia arriba, por la mucha
 margen y orilla que alli tiene la cauidad del hues-
 so de la espalda.
 Conocerseha el desco<n>cierto del ombro, por mu-
-chas sen~ales, en especial por siete: la primera, porq<ue>
+chas señales, en especial por siete: la primera, porq<ue>
 el ombro queda desemejante al otro sano: la segu<n>-da,}
 {CW. da,}
 [fol. 36r]
 {HD. los Algebristas. \ 32}
 {CB1.
 porq<ue> en el ombro parece vna cauidad que no
-solia auer, y debaxo del brac'o vna dureza redon-
-da: la tercera, q<ue> en lugar de vna cabec'a redonda,
+solia auer, y debaxo del braço vna dureza redon-
+da: la tercera, q<ue> en lugar de vna cabeça redonda,
 que naturalmente se vee en el huesso de la espal-
 da junto al ombro, quando esta caydo, parece el
-ombro agudo, porq<ue> la cabec'a del huesso del bra-
-c'o que le hazia redo<n>do esta cayda debaxo del bra-
-c'o: la quarta, el cobdo no se puede llegar a las cos-
+ombro agudo, porq<ue> la cabeça del huesso del bra-
+ço que le hazia redo<n>do esta cayda debaxo del bra-
+ço: la quarta, el cobdo no se puede llegar a las cos-
 tillas, sino con gran dolor: la quinta, que no pue-
-de el enfermo leuantar el brac'o a la cabec'a, por-
+de el enfermo leuantar el braço a la cabeça, por-
 que la coyuntura del ombro no puede mouerse
 hazia arriba, demas de que ningun otro moui-
 miento, o muy obscuro, y con dolor se puede ha-
-zer: la sexta, que el brac'o desconcertado esta mas
-largo que el otro, sino es quando la cabec'a del
+zer: la sexta, que el braço desconcertado esta mas
+largo que el otro, sino es quando la cabeça del
 huesso, despues de salida de su cauidad es lleua-
 da de los musculos hazia arriba, que enton-
 ces se acorta: la septima, que las partes cerca
 de la asilla hazen vnas como arrugas o ple-
-gaduras en el brac'o desconcertado, y las ay en
+gaduras en el braço desconcertado, y las ay en
 la parte anterior y posterior: lo qual es, quan-
-do se encoge el brac'o por los morcillos que le
+do se encoge el braço por los morcillos que le
 tiran arriba, como esta dicho. Pero si alguna vez,
 como suele acontecer, el ombro se desconcerta-
 re hazia la parte anterior, en essa misma parte se
@@ -2061,7 +2061,7 @@ auer, y el cobdo se inclina y tuerce hazia atras a
 las espaldas, quanto la coyuntura se salio y desco<n>-
 certo hazia adelante.
 Presupuestos estos modos de desconcierto, y
-sus contrarios, con las contrarias sen~ales, aunque
+sus contrarios, con las contrarias señales, aunque
 acontece<n> raras vezes, se deue considerar, que aun-
 que sea ansi que se haga a vna sola parte, digo a la
 inferior, o a la anterior, por la mayor parte los mo-
@@ -2069,21 +2069,21 @@ dos de concertarse, y reduzir el huesso a su lugar,
 y tornar a formar el ombro son de dos maneras:
 vna con solas las manos, y otra con instrumen-
 tos y artificios que los antiguos para este fin vsa-
-ron. La primera ((aunque Hippo<crates> ha puesto otras
+ron. La primera ≺aunque Hippo<crates> ha puesto otras
 muchas q<ue> no digo por escusar obscuridad y co<n>fu-
-sion)) es propria y particular para cuerpos tiernos
-femeniles y nin~os: la qual se haze, poniendo to-
-da la mano cerrada debaxo del brac'o, para que
+sion≻ es propria y particular para cuerpos tiernos
+femeniles y niños: la qual se haze, poniendo to-
+da la mano cerrada debaxo del braço, para que
 con los nudos de enmedio de los dedos el huesso
 del ombro se empela hazia arriba, yendo el bra-
-c'o al rededor hasta que puesto enfrente de su ca-
+ço al rededor hasta que puesto enfrente de su ca-
 uidad se encaxe, teniendo el cuerpo los minis-
 tros firme, porque no se menee el mouimiento
-del brac'o. Y assi torno a aduertir, que esta mane-
+del braço. Y assi torno a aduertir, que esta mane-
 ra de desconcertar no es para todos cuerpos, por-
 que en los duros y dificultosos de reduzirse, esta-
 ra el ligamento y membranas mas estirados, y
-se pondran a ventura de mas dan~o, por inflamar-se}
+se pondran a ventura de mas daño, por inflamar-se}
 {CW. se con}
 [fol. 37r]
 {HD. los Algebristas. \ 33}
@@ -2101,15 +2101,15 @@ se pudiere hazer la reduccion, se vsara de instru-
 mentos.
 El segundo modo es, estender el enfermo en
 el suelo, y que dos ministros se pongan vno a la
-cabec'a, y le ponga vna faxa de lienc'o ancha por
+cabeça, y le ponga vna faxa de lienço ancha por
 la horcaxadura, y el pie sobre el ombro: y el
-otro se ponga a los pies y le afirme el calcan~ar de-
-baxo del brac'o, y con ambas manos tire del bra-
-c'o desconcertado: y assi tirando ambos ministros
+otro se ponga a los pies y le afirme el calcañar de-
+baxo del braço, y con ambas manos tire del bra-
+ço desconcertado: y assi tirando ambos ministros
 a la par de las partes dichas, el huesso que estaua
-debaxo del sobaco con el calcan~ar del ministro
-tirando del brac'o hazia abaxo, y el ministro de la
-cabec'a tirando del cuerpo hazia arriba, teniendo
+debaxo del sobaco con el calcañar del ministro
+tirando del braço hazia abaxo, y el ministro de la
+cabeça tirando del cuerpo hazia arriba, teniendo
 el pie sobre el ombro firme, de manera que el cuer-
 po no se le menee, se haze la reduccion y con-
 cierto con mas facilidad y seguridad, como lo
@@ -2122,9 +2122,9 @@ muestra esta figura.}
 El tercer modo es poner el sobaco del enfer-
 mo sobre el ombro de vn hombre, que o sea mas
 alto que el enfermo, o este puesto en algun lugar
-mas alto, demanera, que pueda alc'ar en peso al
+mas alto, demanera, que pueda alçar en peso al
 enfermo, y en este tiempo que assi le tuuiere le
-ha de estar tirando del brac'o hazia abaxo, y me-neandole}
+ha de estar tirando del braço hazia abaxo, y me-neandole}
 {CW. neandole}
 [fol. 38r]
 {HD. los Algebristas. \ 34}
@@ -2133,22 +2133,22 @@ por el cobdo hazia la parte misma do<n>-
 de el huesso estuuiere salido. Demanera, que si
 fuere el desconcierto hazia adelante, buelua el
 cobdo hazia las costillas del pecho: porque ponie<n>-
-dole ansi la cabec'a del huesso que por alli se pare-
+dole ansi la cabeça del huesso que por alli se pare-
 ce, boluera hazia atras a entrar en su cauidad: y
 otro ministro entonces con ambas manos car-
 gue sobre el ombro desconcertado, y procure en-
 caminar el huesso.
 Pero si no estuuiere sino caydo hazia abaxo,
-como es lo mas ordinario, la cabec'a del ombro
+como es lo mas ordinario, la cabeça del ombro
 del ministro que le toma a questas, se ponga de-
 baxo del sobaco del enfermo puntualmente en
-la cabec'a del huesso desco<n>certado, para que apes-
+la cabeça del huesso desco<n>certado, para que apes-
 gando el cuerpo hazia abaxo, y tirando este mis-
-mo ministro del brac'o el huesso suba hazia arriba
+mo ministro del braço el huesso suba hazia arriba
 a buscar su lugar, ayudando el otro ministro aba-
 xar el ombro, para que busque su huesso, que va
 subiendo con el peso del cuerpo y extension del
-brac'o, como lo muestra esta figura.}
+braço, como lo muestra esta figura.}
 {CW. El}
 [fol. 38v]
 {HD. Instituciones para +}
@@ -2159,7 +2159,7 @@ to y artificio para este caso hechizo, es, que se ha-
 ga vna muleta, cortado lo alto della donde assien-
 ta el sobaco a manera de vna media luna buelta
 hazia arriba, y tenga en medio vna bola bien afir-
-mada del taman~o de vna naranja, y el enfermo}
+mada del tamaño de vna naranja, y el enfermo}
 {CW. encaxe}
 [fol. 39r]
 {HD. los Algebristas. \ 53}
@@ -2168,9 +2168,9 @@ encaxe alli el sobaco, y este fixa la horquilla en al-
 gun pedestal, y este mas alta que el enfermo, pa-
 ra que afirme y cuelgue sobre el sobaco todo el
 cuerpo, y por el otro lado el ministro le estire el
-brac'o hazia abaxo, y hazia adelante, hasta que
+braço hazia abaxo, y hazia adelante, hasta que
 se vea que el huesso entro en su lugar, y el enfer-
-mo se baxo hazia el suelo, que es cierta sen~al de
+mo se baxo hazia el suelo, que es cierta señal de
 auer entrado el huesso en su lugar: y no se pone
 aqui esta muleta figurada, por ser instrumento
 claro. Puedese hazer el mismo artificio, aunque
@@ -2182,9 +2182,9 @@ ouillo de hilo bien afixado, y alli ponga el enfer-
 mo el sobaco desconcertado, y dos ministros le-
 uante<n> el madero de manera que el enfermo se le-
 uante medio pie del suelo, y otro ministro este
-tirando y meneando el brac'o como esta dicho,
+tirando y meneando el braço como esta dicho,
 hasta que se vea que el enfermo ha abaxado algo
-hazia el suelo, que es euidente sen~al de auerse re-
+hazia el suelo, que es euidente señal de auerse re-
 duzido el huesso a su lugar, como lo muestra esta
 figura.}
 {CW. El}
@@ -2209,19 +2209,19 @@ La qual como se vee no es otra cosa sino vna}
 {CB1.
 escalera, excepto que en cada passo o en algunos,
 tiene vna como bola, o pelota, o corcoba en me-
-dio, adonde poniendo el brac'o en el escalon, y
+dio, adonde poniendo el braço en el escalon, y
 encaxando aquella bola debaxo del sobaco, y le-
 uantando la escalera en alto de manera que el
 enfermo quede algo leuantado, del suelo, y ti-
 rando vn ministro de vna venda que ha de estar
-atado por cima del cobdo, o de todo el brac'o, y
-otro por el pescuec'o del enfermo, tirando ambos
-hazia abaxo, y teniendo el otro brac'o atado ha-
+atado por cima del cobdo, o de todo el braço, y
+otro por el pescueço del enfermo, tirando ambos
+hazia abaxo, y teniendo el otro braço atado ha-
 zia atras, la cabeza del huesso se repone y entra en
 su lugar, y entonces baxando la escalera de mane-
-ra que el brac'o quede en la misma figura en que
+ra que el braço quede en la misma figura en que
 se concerto, se saque la escalera sin menear el
-brac'o, porque no se torne a desconcertar, y assi se
+braço, porque no se torne a desconcertar, y assi se
 ponga en la cama, y se cure en pie antes que se
 acueste y se ponga<n> las medicinas, y assi con man-
 sedumbre se eche en la cama. La postura y mo-
@@ -2229,7 +2229,7 @@ do de reposicion se muestra por esta figura que
 se sigue, aduirtiendo que la extension se ha
 de yr haziendo muy poco a poco, de mane-
 ra que como se fuere haziendo vaya el huesso
-((con la corcoba q<ue> estuuiere hecha en el escalon))
+≺con la corcoba q<ue> estuuiere hecha en el escalon≻
 poniendose enfrente de la cauidad del otro hues-
 so.}
 [fol. 41r]
@@ -2247,7 +2247,7 @@ aora el enfermo este sentado, aora en pie: y es,}
 {HD. Instituciones para +}
 {CB1.
 tomar vn madero, que este en vn pedestal o bas-
-sa afixado y bien firme, y por la cabec'a del passar
+sa afixado y bien firme, y por la cabeça del passar
 vn clauo redondo no muy gruesso, y el madero
 ha de estar por aquella parte hecha vna como
 muesca o cauidad de quatro dedos de ancho, la
@@ -2255,30 +2255,30 @@ qual ha de atrauessar el clauo para que sirua de
 exe en la tabla que en el se pusiere. Porque en la
 dicha cauidad se ha de poner vna tabla gruessa de
 dos dedos, y ancha de quatro o cinco, como fue-
-re el huesso del brac'o del enfermo: y esta ha de
+re el huesso del braço del enfermo: y esta ha de
 ser mas angosta por la parte de delante, adonde
-ha de assentar la mun~eca, y por la otra parte ha de
-ser tan ancha como quepa el brac'o por el sobaco,
+ha de assentar la muñeca, y por la otra parte ha de
+ser tan ancha como quepa el braço por el sobaco,
 y en aquella parte ha de tener dos como orejas,
 vna de cada lado, y en medio dellas vna media
 bola que encaxe debaxo del sobaco, y meter por
 los agujeros dichos el clauo despues de atado el
-brac'o ((como lo muestra la figura de la plana si-
-guiente)) demanera que el brac'o ha de yr bien
+braço ≺como lo muestra la figura de la plana si-
+guiente≻ demanera que el braço ha de yr bien
 ligado por toda la tabla, y assi puesto el enfer-
 mo, y tenido por vn ministro fuertemente, para
 que el cuerpo no se leuante, entonces el artifice
-que tuuiere el brac'o procure baxarle hazia aba-
+que tuuiere el braço procure baxarle hazia aba-
 xo por la mano: porque quanto el mas baxare la
 tabla hazia abaxo sobre el exe dicho, mas se le-
 uantara la otra parte de la tabla que tiene la bola,
 y esta debaxo del sobaco, y leuantara consigo la}
-{CW. cabec'a}
+{CW. cabeça}
 [fol. 42r]
 {HD. los Algebristas. \ 38}
 {CB1.
 {=DIAG.}
-cabec'a del huesso que ha de estar afirmado so-
+cabeça del huesso que ha de estar afirmado so-
 bre la media bola que esta en el cabo de la tabla,
 y es este instrumento de los que pocas vezes fal-
 ta en su obra}
@@ -2290,21 +2290,21 @@ Para este mismo caso ay otro instrumento
 no de menos vtilidad, el qual se haze tomando
 dos maderos que esten juntos en vn pie o bassa,
 y afijarlos firmemente, pero apartarlos el vno
-del otro vn palmo, y por la cabec'a dellos passar
+del otro vn palmo, y por la cabeça dellos passar
 vn madero muy gruesso y redondo como exe,
 y poner debaxo deste otro atrauessado de made-
-ro a madero, y atar a el el brac'o del enfermo en
+ro a madero, y atar a el el braço del enfermo en
 estando puesto el sobaco en el exe dicho, y esta<n>-
-do assi el brac'o se ha de estirar hazia abaxo, ora
+do assi el braço se ha de estirar hazia abaxo, ora
 por vn ministro, ora hechas las ligaduras al cobdo
 y atadas en el dicho instrumento, como esta en
 la figura, y entonces el enfermo que ha de estar
 puesto de pies sobre vn madero de tres dedos de
 alto, ha de quedar como colgado, quitandole
 lo que tenia a los pies, y desta manera colgando
-el cuerpo y estirando el brac'o con las cuerdas, o
+el cuerpo y estirando el braço con las cuerdas, o
 por ministro, subira el huesso a su lugar con la
-fuerc'a del cuerpo y extension del brac'o, como lo
+fuerça del cuerpo y extension del braço, como lo
 muestra esta figura.}
 {CW. Quando}
 [fol. 43r]
@@ -2314,9 +2314,9 @@ muestra esta figura.}
 Quando el desconcierto del ombro es hazia
 dentro, que se conoce porque ay cauidad hazia
 afuera, y ay tumor hazia el pecho, conuiene ha-
-zer menos extension en el brac'o, porque a vezes
+zer menos extension en el braço, porque a vezes
 suele bastar menear el cobdo hazia el pecho, por-
-que la cabec'a del huesso buelua hazia atras: para
+que la cabeça del huesso buelua hazia atras: para
 lo qual el enfermo se deue poner casi boca abaxo,
 aunque tengo por mejor sitio estar sentado: y lo}
 {CW. mas}
@@ -2324,7 +2324,7 @@ aunque tengo por mejor sitio estar sentado: y lo}
 {HD. Instituciones para +}
 {CB1.
 mas seguro para el suso dicho desconcierto es,
-que se ponga en la escala, y atado el brac'o a la gar-
+que se ponga en la escala, y atado el braço a la gar-
 rucha della, como se muestra en su parte mas ba-
 xa, y puesto el enfermo en vn escalon tan alto
 que no pueda llegar al suelo sino con solas las
@@ -2358,28 +2358,28 @@ luxacion, porque el huesso del ombro se parece}
 {HD. Instituciones para +}
 {CB1.
 hazia arriba, como vna pelota junto al pescue-
-c'o y debaxo del brac'o se percibe grande caui-
-dad: y el cobdo de aquel brac'o no se puede juntar
+ço y debaxo del braço se percibe grande caui-
+dad: y el cobdo de aquel braço no se puede juntar
 a las costillas sin gran dolor, y assi no puede hazer
 mouimiento alguno.
 Para restituyr y desconcertar esta dislocacion
 conuiene poner el enfermo boca arriba en el sue-
-lo, o en algun escan~o, y que el artifice tire del bra-
-c'o hazia abaxo mansamente, y entonces otro mi-
-nistro tome la cabec'a que arriba del ombro esta-
+lo, o en algun escaño, y que el artifice tire del bra-
+ço hazia abaxo mansamente, y entonces otro mi-
+nistro tome la cabeça que arriba del ombro esta-
 ua salida, y la vaya con los dedos guiando y empe-
 liendo hazia abaxo, hasta que entre en su cauidad.
 Y si desta manera no se pudiere reduzir, pongase
-el brac'o del enfermo por vn poco mas arriba del
+el braço del enfermo por vn poco mas arriba del
 cobdo, debaxo del sobaco de vn ministro, que sea
 algo mayor que el enfermo, y procure abaxarle
 assi teniendo con las manos asido el cobdo del en-
-fermo, y otro estira<n>do el brac'o, y como estuuiere
+fermo, y otro estira<n>do el braço, y como estuuiere
 hecha la extension el artifice con ambas manos
-procure reduzir la cabec'a del huesso a su lugar.
+procure reduzir la cabeça del huesso a su lugar.
 Pero conuiene no prouarlo hasta que vea que la
-cabec'a del huesso esta bie<n> enfrente de la cauidad:
-porque de otra manera si haze fuerc'a para repo-
+cabeça del huesso esta bie<n> enfrente de la cauidad:
+porque de otra manera si haze fuerça para repo-
 ner el huesso, es cosa verisimil quebrarse algo de
 la margen de la cauidad del huesso, que suele ser
 causa de perpetua manquedad. Y en lo demas re-
@@ -2411,36 +2411,36 @@ tad dicha de boluer a concertarse.
 Esta coyuntura se desconcierta tambien a qua-
 tro partes, aunque no se veen algunas dellas muy
 frequentemente. La vna hazia dentro a la ple-
-gadura del brac'o: otra hazia afuera, digo al cob-
+gadura del braço: otra hazia afuera, digo al cob-
 do: otra a la parte superior, y otra a la inferior:}
 {CW. todo}
 [fol. 45v]
 {HD. Instituciones para +}
 {CB1.
 todo esto demas de otra manera de desconcierto
-que suele padecer el brac'o de medio abaxo, que
+que suele padecer el braço de medio abaxo, que
 es quando se aparta el rayo del cobdo.
 Esta vltima manera de desconcierto se cono-
-ce facilmente, porque el brac'o junto al cobdo se
+ce facilmente, porque el braço junto al cobdo se
 pone mas gruesso en redondo: pero si el cobdo
 es el que se desconcierta a la parte interior, fa-
-cilmente se conocera, porque el brac'o esten-
+cilmente se conocera, porque el braço esten-
 dido no se podra doblar: hazese el cobdo me-
 nor, y en la parte anterior o interior, se parece
-o sen~ala tumor, que no suele auer: y en la poste-
+o señala tumor, que no suele auer: y en la poste-
 rior o exterior ay euidente cauidad: y finalmen-
 te, del todo se impide el mouimiento. Pero si
 el desconcierto es a la parte posterior o exte-
-rior, las mismas sen~ales lo muestran, excepto
+rior, las mismas señales lo muestran, excepto
 que el tumor es a la parte posterior, y la caui-
 dad se representa a la parte interior. Y si fuere
-hazia la parte superior del brac'o, es lo mismo,
-que en la parte alta del brac'o estara el tumor
+hazia la parte superior del braço, es lo mismo,
+que en la parte alta del braço estara el tumor
 o huesso salido, y en la inferior la cauidad:
 y quando se haze a la parte inferior el desconcier-
-to, las sen~ales seran del todo contrarias.
+to, las señales seran del todo contrarias.
 En esta parte corre mucho riesgo de man-
-quedad el brac'o, si con mucha breuedad no se
+quedad el braço, si con mucha breuedad no se
 concierta, porque el dolor es mucho, y si se hin-
 che la cauidad, co<n> dificultad se puede concertar,
 por ser la parte muy neruiosa, y la carne poca.}
@@ -2451,15 +2451,15 @@ por ser la parte muy neruiosa, y la carne poca.}
 La orden que ha de tener el artifice en redu-
 zir esta coyuntura, es, que si el desconcierto
 fuere hazia la parte anterior, conuiene luego po-
-ner el brac'o coruado, como llegado al pecho,
+ner el braço coruado, como llegado al pecho,
 y luego aduertir que puede reduzirle de vna de
 quatro maneras. La primera, quando la luxa-
 cion fuere imperfecta, solo con doblar el cob-
 do, poniendo los dedos en la plegadura del
-mismo brac'o, que con facilidad se reduze, es-
-tendiendo con la vna mano el brac'o, y con la
+mismo braço, que con facilidad se reduze, es-
+tendiendo con la vna mano el braço, y con la
 otra yr reponiendo: pero aduierta que no ha
-de estirar el brac'o para enderecharle, sino en
+de estirar el braço para enderecharle, sino en
 la figura que estuuiere, asiendo de junto a las
 sangraduras, procurar ensanchar la coyuntura,
 y con la otra mano procurar meter el huesso
@@ -2467,35 +2467,35 @@ en su lugar. La segunda, es quando la luxa-
 cion es perfeta, y del todo esta el huesso fue-
 ra de su lugar: y entonces es necessario hazer
 extension primero, teniendo vn ministro el
-brac'o cerca del ombro para arriba, y otro el
+braço cerca del ombro para arriba, y otro el
 cobdo para abaxo, pero torciendole a diuersas
 partes, porque no conuiene estender el bra-
-c'o que saldria el cobdo hazia fuera. Y si des-
+ço que saldria el cobdo hazia fuera. Y si des-
 ta manera no se concertasse, conuiene poner
 luego vna pelota, o cosa redonda en la cor-
-badura del brac'o donde se haze la sangria, o poner
-el brac'o arrimado a vna columna, como esta}
+badura del braço donde se haze la sangria, o poner
+el braço arrimado a vna columna, como esta}
 {CW. adelan-te}
 [fol. 46v]
 {HD. Instituciones para +}
 {CB1.
-adelante figurado, y prouar a doblar el brac'o te-
-niendo con firmec'a aquella pelota alli puesta, has-
+adelante figurado, y prouar a doblar el braço te-
+niendo con firmeça aquella pelota alli puesta, has-
 ta que el cobdo, doblando moderadamente el
-brac'o por la columna, y teniendo el ministro la
-mano puesta en la mun~eca del enfermo, le vaya
+braço por la columna, y teniendo el ministro la
+mano puesta en la muñeca del enfermo, le vaya
 poco a poco doblando, teniendo por sobre el
 cobdo hecha vna atadura, que puesta por deba-
-xo del brac'o vaya estirando y afloxando, de ma-
+xo del braço vaya estirando y afloxando, de ma-
 nera que se buelua a su natural sitio el cobdo, con
 el menos dolor que sea possible, por escusar los
-dan~os dichos: la figura es la que se sigue.}
+daños dichos: la figura es la que se sigue.}
 {CW. La}
 [fol. 47r]
 {HD. los Algebristas. \ 43}
 {CB1.
 {=DIAG.}
-La tercera, es tener estendido el brac'o sin mu-
+La tercera, es tener estendido el braço sin mu-
 cha abertura, por las razones dichas, y atar vna
 venda al cobdo, y el cabo della al pie del artifice,
 a manera de estribo: y estirando con el pie se ha
@@ -2521,7 +2521,7 @@ dedos pulgares.}
 Y si la luxacion fuere hazia la parte posterior,
 facilmente con solas las manos, la que fuere re-
 ciente, se repondra. Pero porque los musculos
-que hazen la extension del brac'o son fuertes, y
+que hazen la extension del braço son fuertes, y
 la extension por esso ha de ser dolorosa, conuen-
 dra que el artifice vnte las manos para hazer la
 obra, con azeyte o de alme<n>dras o de alegria: y si
@@ -2531,7 +2531,7 @@ le ser de prouecho. Y estas mismas reglas y mo-
 dos se deuen guardar en las luxaciones del cob-
 do hazia la parte inferior y superior. Y auiendo-
 se hecho la reposicion se vse de medicinas que
-mitiguen dolor en todo el brac'o: y en la parte
+mitiguen dolor en todo el braço: y en la parte
 concertada claras de hueuos, y poluos restricti-
 uos con azeyte de arrayan o rosado: y si no ay
 dolor, es de gran prouecho el cerato rosado, o
@@ -2539,31 +2539,31 @@ poner estopas y poluos con claras de hueuos, o
 vizma de termentina y pez, y luego la ligadu-
 ra: pero aduiertase que donde huuiere dolor no
 ha de ser muy apretada, y sino le huuiere, lo que
-baste a que no se torne el brac'o a descon-
+baste a que no se torne el braço a descon-
 certar, y teniendole en postura pa-
 ra esto conueniente.}
 {CW. De la}
 [fol. 48v]
 {HD. Instituciones para +}
-{HD. De la luxacion de la mun~eca y palma, y
+{HD. De la luxacion de la muñeca y palma, y
 dedos de la mano. Cap<itulo> XX.}
 {CB1.
-{IN2.} COmponese la mun~eca de ocho huessos, de
+{IN2.} COmponese la muñeca de ocho huessos, de
 quatro en quatro juntos, por marauillosa ar-
 te, y con grande ligadura atados, y assi se descon-
 cierta con gran dificultad. Pero quando a caso
 aconteciere, conocerse ha por la eminencia que
-el huesso desconcertado representa en la mun~e-
+el huesso desconcertado representa en la muñe-
 ca. Assimismo es de aduertir, que se desconcierta
 esta parte hazia afuera, o hazia dentro: arriba, o
 abaxo: lo qual se conocera de la salida que haze
-el huesso del brac'o hazia aquella parte, y del ho-
+el huesso del braço hazia aquella parte, y del ho-
 yo que dexa en la contraria: y porque quando se
 desconcierta a fuera se encorba y encoge la ma-
 no: y quando hazia adentro, en que la mano se
 buelue hazia arriba: y si se desconcierta hazia ar-
-riba, se tuerce hazia el dedo pequen~o: porque la
-varia insercion de los huessos del brac'o con los
+riba, se tuerce hazia el dedo pequeño: porque la
+varia insercion de los huessos del braço con los
 huessos de la palma lo causa y haze ansi.
 Componese la palma de la mano de quatro
 huessos, de los quales los dos de enmedio no se
@@ -2578,7 +2578,7 @@ los vnos y los otros se pueden desconcertar hazia}
 {CB1.
 la palma, o hazia el empeyne o alto de la mano. Y
 assi conuiene considerar para conocerlo, las mis-
-mas sen~ales, y hazer la reposicio<n>, teniendo la ma-
+mas señales, y hazer la reposicio<n>, teniendo la ma-
 no en vna mesa, y por encima con los dedos o
 co<n> algo duro, apremiar hasta que el huesso de los
 quatro dichos, que ha salido hazia arriba, o hazia
@@ -2590,7 +2590,7 @@ en vna tabla en el suelo, y con el pie apretandola
 hasta q<ue> el huesso se reduzga a su lugar: pero lo mas
 seguro es con los dedos.
 Y si los dedos de la mano se desconcertaren,
-por las mismas sen~ales se vera si es el desconcier-
+por las mismas señales se vera si es el desconcier-
 to a la parte anterior, o posterior, o a los lados: y
 assimismo la reducion se hara como esta dicho,
 pero con vna leue estension, y con los dedos
@@ -2606,19 +2606,19 @@ proprio, como la del ombro, que raras vezes}
 {HD. Instituciones para +}
 {CB1.
 puede medio desconcertarse, como el cobdo, y
-mun~eca, y otras partes. Quiero dezir, que no pue-
+muñeca, y otras partes. Quiero dezir, que no pue-
 de en parte salir de su seno, y en parte quedar
-dentro: porque la cabec'a es grande y el seno
+dentro: porque la cabeça es grande y el seno
 tambien, y el cerco la rodea casi toda, y los li-
 gamentos, o ataduras son fuertes: de manera
 que no puede quando sale de su lugar dexar de
-salir toda la cabec'a del huesso, y assi en esta coyun-
+salir toda la cabeça del huesso, y assi en esta coyun-
 tura por la mayor parte se haze perfeta luxacion.
 Tiene por causa este desconcierto de la cade-
 ra las que son exteriores, como golpe, cayda, o
 salto, y semejantes acontecimientos: o interio-
 res, como de fluxo de humores a la cauidad, que
-impiden el lugar de la cabec'a del huesso, o a los li-
+impiden el lugar de la cabeça del huesso, o a los li-
 gamentos afloxa de manera, q<ue> dexan quando el
 muslo se menea salir el huesso de su lugar: ora cor-
 ra de otra parte alli el humor, ora en el mismo ar-
@@ -2649,7 +2649,7 @@ se, y faltarles carne: assi porque se dexa de exerci-
 tar, como por la compression de las venas y arte-
 rias, y neruios, que necessariamente se sigue, por
 salirse el huesso de su lugar. Por lo qual falta<n>doles
-el calor natural, y no recibie<n>do el del corac'on, ni
+el calor natural, y no recibie<n>do el del coraçon, ni
 trahe ma<n>tenimiento, ni cueze lo q<ue> trahe. Y assi
 este huesso del muslo qua<n>do se desconcierta, no
 crece, por do<n>de aunq<ue> sane<n> y se restituya<n>, siempre
@@ -2660,7 +2660,7 @@ lescentes, porque en los demas hazense mas del-
 gados, pero no se acortan.
 Este huesso si hazia dentro se desco<n>certare, la
 pierna parecera mas larga q<ue> la otra, caye<n>do hazia
-abaxo la cabec'a del huesso del muslo, y la rodi-
+abaxo la cabeça del huesso del muslo, y la rodi-
 lla en los tales se sale hazia fuera, y lo mismo
 toda la pierna, de manera, que no la puede}
 {CW. el}
@@ -2675,24 +2675,24 @@ donde estaua el huesso, y finalmente, solo pueden
 andar sobre los dedos de los pies y coxeando, has-
 ta que se acostumbran, por hazer el huesso nue-
 uo lugar donde ande. Y si la luxacion fuere hazia
-afuera, las sen~ales seran al contrario de las dichas,
-porque la pierna se acorta, saliendo la cabec'a del
+afuera, las señales seran al contrario de las dichas,
+porque la pierna se acorta, saliendo la cabeça del
 huesso hazia arriba, y abaxo, como se dixo en-
 tre el sieso y los testiculos, queda hecho hoyo:
 y la nalga de aquel lado se leuanta y haze mayor,
 y la rodilla, pierna y pie se recogen hazia aden-
-tro, y el calcan~al no llega al suelo. Pero si hazia la
+tro, y el calcañal no llega al suelo. Pero si hazia la
 parte anterior fuere el desco<n>cierto, la pierna que-
 da estendida que no puede doblarse, porque los
 musculos en que ha de hazer aquel mouimien-
-to estan apretados con la cabec'a del huesso: la vri-
+to estan apretados con la cabeça del huesso: la vri-
 na se les suprime, porque tambien se aprieta la
-bexiga con la cabec'a del mismo: las nalgas que-
+bexiga con la cabeça del mismo: las nalgas que-
 dan arrugadas, y que parecen sin carne, por auer-
 se inclinado el muslo a la parte anterior. Y si la
-luxacion fuere a la parte posterior, las sen~ales se-
+luxacion fuere a la parte posterior, las señales se-
 ran contrarias a las dichas: la pierna se acorta por-
-que el seno queda en la parte baxa, y la cabec'a del
+que el seno queda en la parte baxa, y la cabeça del
 huesso a la alta: las ingres estan floxas, y por lo}
 {CW. alto}
 [fol. 51r]
@@ -2719,10 +2719,10 @@ pero en las demas luxaciones, en todas es neces-
 saria como se dira en cada vna.
 La luxacion del muslo hazia adentro, aunque
 no es necessaria extension, pero con todo esso
-conuiene estirar algo, lo q<ue> baste a poner la cabec'a
+conuiene estirar algo, lo q<ue> baste a poner la cabeça
 del huesso en buena figura, y enfrente de su caui-
 dad, meneando las manos el artifice, con el mus-
-lo todo hazia adentro, porque salga la cabec'a del
+lo todo hazia adentro, porque salga la cabeça del
 muslo hazia afuera a buscar su assiento. Para lo
 qual se vera esta figura que esta adelante, que es}
 {CW. vna}
@@ -2730,12 +2730,12 @@ qual se vera esta figura que esta adelante, que es}
 {HD. Instituciones para +}
 {CB1.
 vna mesa, y en medio della vn madero del alto
-de vn pie, y gruesso como vna mun~eca, bien fixa-
+de vn pie, y gruesso como vna muñeca, bien fixa-
 do, al qual ha de llegar el enfermo despues de
 tendido en la mesa a la horcaxadura, porque el
 cuerpo no se baxe hazia abaxo, ni se menee a nin-
 guna parte al estender la pierna, aunque ha de ser
-poco. Y porque la cabec'a del huesso que por alli
+poco. Y porque la cabeça del huesso que por alli
 haze correspondencia con el dicho palo, se buel-
 ua hazia afuera, apretando y tirando el cuerpo ha-
 zia abaxo, por la ligadura que ha de estar atada
@@ -2748,11 +2748,11 @@ na parte, o darse a algun ministro que tire quando
 le fuere dicho: y puesto desta manera, han de ti-
 rar ambos ministros blandamente, y el artifice
 con las manos por la ingre y debaxo della, enca-
-minando la cabec'a del huesso hazia su cauidad.
+minando la cabeça del huesso hazia su cauidad.
 Esto mismo se puede hazer, poniendo el enfer-
 mo en algun instrumento como passo de escale-
 ra, que ahirmando en la ingre donde esta la cabe-
-c'a del huesso, se leuante hazia arriba la escalera
+ça del huesso, se leuante hazia arriba la escalera
 con el enfermo, tirando algun ministro de la pier-
 na enferma hazia dentro. Esta escalera queda fi-
 gurada atras: y de lo dicho esta es la figura.}
@@ -2765,7 +2765,7 @@ Lo mismo se puede hazer tomando al enfer-
 mo algun ministro sobre el ombro ahorcaxado,
 de manera que el ombro del ministro sirua de pa-
 lo, y ha de menearse con el de manera que la ca-
-bec'a torne hazia fuera. Y deue mucho mirarse, q<ue>
+beça torne hazia fuera. Y deue mucho mirarse, q<ue>
 assi como el huesso vaya llega<n>do cerca de su seno,}
 {CW. ha de}
 [fol. 52v]
@@ -2787,13 +2787,13 @@ nas, y de que sin dolor puede menear la que antes
 no podia.
 La orden de curar esta luxacion, es, poner la
 medicina y vizma que se ha dicho. La ligadura
-sea con vna faxa de dos cabec'as, echada por la in-
+sea con vna faxa de dos cabeças, echada por la in-
 gre y cruzada por defuera del muslo, lleuando el
 vn cabo por sobre el vientre, y el otro por las es-
 paldas, que se vayan a atar al lado contrario, po-
 niendo en el lugar donde auia estado el huesso al-
-gun bulto de pan~os bien apretados, para que no
-de lugar a la cabec'a del huesso a tornarse a salir de
+gun bulto de paños bien apretados, para que no
+de lugar a la cabeça del huesso a tornarse a salir de
 su cauidad, y entrar alli donde solia. Y no se des-
 ate en quatro o cinco dias, sino huuiere acciden-
 te que obligue a ello: y este el enfermo en la cama
@@ -2806,11 +2806,11 @@ que no se menee el huesso curado, ponien-
 do las piernas en la media figura.
 En la luxacion deste huesso que se haze ha-
 zia afuera, el enfermo se ha de poner en la mesa o
-escan~o boca abaxo, y la ligadura ha de ser como
+escaño boca abaxo, y la ligadura ha de ser como
 esta dicho en el desconcierto, hazia adentro, aun-
-que en este caso ha de empec'ar la ligadura de la
-parte de fuera, con aquel bulto de pan~o que ten-
-ga la cabec'a del huesso que no se torne a salir a
+que en este caso ha de empeçar la ligadura de la
+parte de fuera, con aquel bulto de paño que ten-
+ga la cabeça del huesso que no se torne a salir a
 fuera, y lleuar la ligadura hazia la ingre, y de alli
 auiendola cruzado ha de subir otra vez al mismo
 lado, y cruzandola sobre el mismo muslo se eche
@@ -2839,13 +2839,13 @@ quiera caso.}
 Y si la luxacion fuere hazia la parte anterior,
 el enfermo se ha de situar y echar del lado sano, y
 ligarse como esta dicho: y luego se ponga encima
-de la cabec'a del huesso, que se parece hazia afue-
-ra, vn bulto de pan~os hecho llano, y con la mano
+de la cabeça del huesso, que se parece hazia afue-
+ra, vn bulto de paños hecho llano, y con la mano
 al tiempo de la extension el artifice procure lle-
-uar la cabec'a del huesso a su lugar: y sino pudiere,
+uar la cabeça del huesso a su lugar: y sino pudiere,
 ponga encima del huesso salido la rodilla, y procu-
 re baxar el huesso hasta su cauidad. Y quando por
-las sen~as dichas entendiere que esta dentro, le
+las señas dichas entendiere que esta dentro, le
 ponga la vizma y ligadura como se dixo en lo
 passado, comprimiendola mas moderadamen-
 te, de manera que no de dolor, ni haga en la parte
@@ -2871,7 +2871,7 @@ Y si la luxacion destos huessos de la cadera
 fuere enuejezida, de manera que se entienda
 que ay humor, callo, o carne dentro del vazio
 del huesso, tienese por cosa sin duda ser irreme-
-diable el dan~o: porque es cosa muy prouada que
+diable el daño: porque es cosa muy prouada que
 con dificultad se puede ablandar ni resoluer lo
 que alli esta, para reduzir el huesso a su lugar. Y
 aunque se resoluiesse, es mal segura la extension
@@ -2881,7 +2881,7 @@ de, y se torna a hazer nueuo afluxo y atraccion
 de humores a la parte: y assi nunca llegan a perfe-
 ta salud. Pero no por esso se deue dexar de prouar
 a hazer lo que fuere possible, con blanduras, vapo-
-res, ban~os, y fomentos, hasta que se vea alguna
+res, baños, y fomentos, hasta que se vea alguna
 manera de mejoria en la parte: y entonces la ex-
 tension, ni ha de ser de vna vez, ni violenta, sino
 acostumbrando primero a los musculos, y procu-
@@ -2899,8 +2899,8 @@ mendras dulces, de azeyte de alegria, de enxun-dias}
 {HD. Instituciones para +}
 {CB1.
 de aue, de culebra, de raposo, y de buche de
-garc'a, y de otras semejantes. Los vapores de co-
-zimiento de saluia, manc'anilla, violetas, malua-
+garça, y de otras semejantes. Los vapores de co-
+zimiento de saluia, mançanilla, violetas, malua-
 uisco, coronilla[ ]de[ ] rey, alholbas, linaza, y extremi-
 dades de cabrito, y bauazas de las mismas cosas,
 con vino, o sin el. Puedese poner encima algun
@@ -2910,8 +2910,8 @@ La misma dificultad tiene restituyr este hues-
 so por corrimiento de humores que afloxan los
 ligamentos: aunque en tal caso se suele reparar
 quando algun Medico cuerdo da su consejo: pur-
-gando al enfermo, sudandole, y ban~andole con
-ban~os de azufre: o hazie<n>dole alguna fuente, y po-
+gando al enfermo, sudandole, y bañandole con
+baños de azufre: o hazie<n>dole alguna fuente, y po-
 niendo en la parte emplastros resolutiuos de pol-
 uoras, de gomas, y de otras cosas semejantes, y so-
 bre todo darle sobre la misma parte algunos cau-
@@ -2942,7 +2942,7 @@ dran algunas tablas, de manera que no se pueda
 doblar la pierna hasta que este bien consolidada
 la parte, y entonces poco a poco probar a doblar
 la rodilla, y si se estuuiere en su lugar el dicho
-huesso, es sen~al que ya los ligamentos estan re-
+huesso, es señal que ya los ligamentos estan re-
 parados: pero sino, conuendra tornar a po-
 ner nueua vizma y ligadura hasta que este bien
 firme.
@@ -2952,22 +2952,22 @@ a la exterior, y la vltima a la posterior: porque
 a otra parte con dificultad se puede desconcer-
 tar, porque se ata co<n> dos ligame<n>tos fortissimos, y
 la choquezuela ta<m>bien estorba: demas de q<ue> tiene
-la cabec'a y el seno do<n>de entra doblado, y assi a las
+la cabeça y el seno do<n>de entra doblado, y assi a las
 demas se desco<n>cierta con facilidad, porq<ue> cauidad}
-{CW. y ca-bec'as}
+{CW. y ca-beças}
 [fol. 56v]
 {HD. Instituciones para +}
 {CB1.
-y cabec'as no son muy hondas: y de la misma ma-
+y cabeças no son muy hondas: y de la misma ma-
 nera con facilidad se restituye. Las causas son las
 mismas, salto, o cayda, o correr muy apressurada-
 mente: y conocerse ha este desconcierto, porque
-no se puede doblar la pierna, ni llegar el calcan~ar a
+no se puede doblar la pierna, ni llegar el calcañar a
 las assentaderas. El desco<n>cierto que se haze hazia
 adentro, o fuera, no tiene necessidad de mucha
 extension, que con las manos facilmente se con-
 cierta. Pero para restituyr la que se haze hazia
-atras, se ha de poner el enfermo en vn escan~o de
+atras, se ha de poner el enfermo en vn escaño de
 moderada altura, y el artifice se ponga en medio,
 de manera que pueda con las manos componer
 la rodilla, atando el muslo primero por la parte al-
@@ -2981,7 +2981,7 @@ si quisiere hazerla de otra manera, aprouechese
 desta figura, que es a proposito para piernas que-
 bradas, subiendo la atadura que se muestra deba-
 xo de la rodilla, encima della. Y si esto no bastare,
-se ponga alguna cosa redonda de pan~os, o made-
+se ponga alguna cosa redonda de paños, o made-
 ra embuelta en ellos, de manera que puesta en la
 corba sobre el huesso que alli haze bulto, apretan-
 do con las ligaduras y manos, el huesso torne a su}
@@ -3015,20 +3015,20 @@ se aparta este huesso del de la canilla. Tambien se
 aparta del talon con las mismas causas, como
 se vee por la extuberancia que haze en vna parte,
 y hoyo en la otra: lo qual quando es solo vn pe-
-quen~o apartamiento, facilmente se concierta: pe-
+queño apartamiento, facilmente se concierta: pe-
 ro quando es del todo el huesso salido de su naui-
 cula o lugar, es muy doloroso y dificultoso. El
 mismo riesgo corre de desconcierto el huesso del
-calcan~al con el huesso del talon que acabamos de
+calcañal con el huesso del talon que acabamos de
 dezir, lo qual acontece en saltos, golpes, o torce-
 duras de pies, y esto mas vezes hazia dentro que
 hazia afuera. Todas estas luxaciones piden ex-
-tension con las manos y con fuerc'a, procurando}
+tension con las manos y con fuerça, procurando}
 {CW. reduzir}
 [fol. 58r]
 {HD. los Algebristas. \ 54}
 {CB1.
-reduzir la cabec'a del huesso que se parece, al hoyo
+reduzir la cabeça del huesso que se parece, al hoyo
 que esta en el otro lado: y puesta la vizma, hazer
 ligadura fuerte y firme, porque de otra manera es
 cierto q<ue> con facilidad se torna<n> a salir todos estos
@@ -3037,12 +3037,12 @@ partes se desco<n>cierta el talon, porq<ue> puede a la par-
 te interior, exterior, anterior, y posterior. Si a la
 parte interior, lo baxo del pie se echa hazia afue-
 ra: si a la exterior, al contrario: si a la parte ante-
-rior, el tendon del calcan~al se endurece y pone
+rior, el tendon del calcañal se endurece y pone
 hazia adentro, y el pie se haze menor, porque la
 canilla y su articulo se retraen a la parte anterior:
-pero si a la parte posterior, el calcan~al se esconde
+pero si a la parte posterior, el calcañal se esconde
 y no parece, porque el articulo se cayo hazia el
-calcan~al y la planta, y parecen mayores. Y aduier-
+calcañal y la planta, y parecen mayores. Y aduier-
 tase que la reduccion deste huesso se ha de con-
 seruar en la cama, por lo menos quarenta dias, y
 renouar poluos restrictiuos, y clara de hueuo a
@@ -3052,46 +3052,46 @@ pez y termentina.
 gullada. Cap<itulo> XXIIII.}
 {IN2.} En las caydas o golpes de las coyunturas, de
 tres maneras sin desco<n>certarse ni hazerse lla-
-ga suele<n> las partes recebir dan~o. La vna hazie<n>dose}
+ga suele<n> las partes recebir daño. La vna hazie<n>dose}
 {CW. contusion}
 [fol. 58v]
 {HD. Instituciones para +}
 {CB1.
 contusion de la carne, la otra con extension de
 los ligamentos y tendones, y la tercera por atri-
-cion de las partes neruiosas, a los quales dan~os lla-
+cion de las partes neruiosas, a los quales daños lla-
 ma el vulgo, quando no halla huesso desconcer-
 tado, ni mudada la figura de la parte, carne rehu-
-yda, y no dize mal. Conocerse ha este dan~o
+yda, y no dize mal. Conocerse ha este daño
 adonde es, del dolor que por el tendon y partes
 neruiosas es grande, aunque no tanto en la car-
 ne, y en el ligamento ninguno: mas que no po-
-der menear la parte, ni hazer bien ni con fuerc'a
+der menear la parte, ni hazer bien ni con fuerça
 el oficio que antes: y constara esto de que no ay
 huesso salido hazia ninguna parte, ni hoyo en la
 otra. Pero de qualquiera manera de las tres di-
 chas sea, no conuiene auer descuydo en el reme-
 dio, porque de lo que con el dolor, y la destem-
-planc'a que en la parte se causa, facilmente se en-
+plança que en la parte se causa, facilmente se en-
 tra en la coyuntura, y se haze el desconcierto que
 antes no auia.
 En la curacion destos efectos, lo que conuie-
 ne es, no hazer extension en ninguna manera, ni
 se procure menear, ni apremiar la parte, sino que
 con diligencia se vnte con azeyte rosado, y om-
-pha<n>cino, y se cure con estopas, o pan~os mojados
+pha<n>cino, y se cure con estopas, o paños mojados
 en claras de hueuos, y poluos de rosas y arrayan:
 tambien es vtil tomar estos mismos poluos y vi-
 no caliente y pan blando, y hazer dello vna pu-
 chada y ponerlo: y si huuiere dias que se hizo el}
-{CW. dan~o}
+{CW. daño}
 [fol. 59r]
 {HD. los Algebristas. \ 55}
 {CB1.
-dan~o, sea con vino cozido con romero y espliego
+daño, sea con vino cozido con romero y espliego
 y saluia, y pan, o saluados, y arrope: pero si estuuie-
 re la parte dura, y dolorosa, y fria, con algun ense-
-bado, y poluos de espliego y manc'anilla, se cu-
+bado, y poluos de espliego y mançanilla, se cu-
 re, poniendo despues vn confortante de Vigo, o
 Gillenseruen, como en todas las luxaciones al
 cabo deue hazerse.
@@ -3103,7 +3103,7 @@ sal, obliqua, longitudinal, y desigual, de mane-
 ra que el huesso quede como sierra: y lo que mas
 conuiene saber es, que la curacion ha de ser toda
 vna: aunque el modo de juntar los huessos pida
-particular man~a y modo en el artifice, de mane-
+particular maña y modo en el artifice, de mane-
 ra que con los dedos se procure ajustar y juntar el
 vn huesso con el otro, que luego se conocera es-
 tar juntos en la ygualdad de la parte, y en el des-
@@ -3118,7 +3118,7 @@ y en el sonido que el miembro quebrado haze}
 {HD. Instituciones para +}
 {CB1.
 meneandole, y por el vehemente dolor causado
-en los musculos y neruios punc'ados y heridos del
+en los musculos y neruios punçados y heridos del
 huesso quebrado, o torzidos con la mala figura
 del miembro, o estirados por lo mismo. Y assi
 mismo se conocera por la flaqueza, o impossibili-
@@ -3138,11 +3138,11 @@ continuydad con huesso es enfermedad grande,
 porque por marauilla se haze sin que todo el hues-
 so se quiebre, lo que no acontece en la carne. Y
 mas que toda quebradura de huesso se haze en lu-
-gar profundissimo donde no alcanc'an las manos
+gar profundissimo donde no alcançan las manos
 del artifice. Pero aun en esto ay mas y menos pe-
 ligro: porque la quebradura del huesso grande
-se cura con mas dificultad, que la del pequen~o: la
-que se haze en muchos pedac'os, con mas que la
+se cura con mas dificultad, que la del pequeño: la
+que se haze en muchos pedaços, con mas que la
 simple: y la q<ue> se haze con llaga, au<n> mas peligrosa,}
 {CW. que}
 [fol. 60r]
@@ -3157,7 +3157,7 @@ y enfermedades que se le complican conforme a
 la parte que se rompe con el huesso, digo neruio,
 vena, arteria, o te<n>do<n>, o carne: en especial si la que-
 bradura fue hazia adentro: o si se apartaron algu-
-nos huessos: si punc'an la carne, o neruio los que-
+nos huessos: si punçan la carne, o neruio los que-
 brados, o si se siguio grande inflamacion. Ta<m>bien
 es necessario, q<ue> sepa el artifice, que las tales que-
 braduras, son enfermedades largas, y que ha<n> me-
@@ -3170,7 +3170,7 @@ garse a menudo la parte co<n> agua calie<n>te, y por mu-
 dar frequentemente las ligaduras y ferulas: o por
 estar en demasia apretadas, o floxas, o por menear
 la parte quebrada. Assi mismo por la region, o
-tiempo del an~o contrario a la consolidacion de-
+tiempo del año contrario a la consolidacion de-
 masiado frio, o caliente.
 En el modo de curar las q<ue>braduras de los hues-
 sos, deue el artifice co<n>siderar muchas cosas para
@@ -3187,7 +3187,7 @@ que tiene la parte, antes que se cure, o sobreuiene
 despues de curado.
 Cerca de lo primero se aduierte, que la que-
 bradura transuersal del huesso sin llaga, seria pos-
-sible en los nin~os alguna vez juntarse por prime-
+sible en los niños alguna vez juntarse por prime-
 ra intencion, sin que sea necessario engendrarse
 callo: pero en los demas se deuen considerar y
 hazer cinco cosas. La primera, juntar el huesso:
@@ -3198,7 +3198,7 @@ Para juntar los dos huessos que se apartaro<n> por
 quebrarse, es necessario que se haga extension, li-
 gando las partes quebradas como lo muestran es-
 tas dos figuras con la passada, q<ue> son co<n>uenie<n>tes pa-
-ra qualquiera parte de pierna o brac'os quebrados.}
+ra qualquiera parte de pierna o braços quebrados.}
 {CW. Pero}
 [fol. 61r]
 {HD. los Algebristas. \ 57}
@@ -3207,7 +3207,7 @@ ra qualquiera parte de pierna o brac'os quebrados.}
 Pero con ellas o sin ellas, la extension se ha de ha-
 zer con mucho recato y cuydado: y que en qua<n>to
 se va haziendo, el artifice con ambas manos vaya
-ygualando los huessos, y enderec'ando la parte
+ygualando los huessos, y endereçando la parte
 quebrada, y tornandola a su figura, porque luego
 en quebrandose la pierde, y los huessos se aparta<n>,}
 {CW. y a ve-zes}
@@ -3216,7 +3216,7 @@ en quebrandose la pierde, y los huessos se aparta<n>,}
 {CB1.
 y a vezes se pone el vno sobre el otro, y assi se acor-
 ta la dicha parte quebrada, sino es quando tiene
-dos huessos como el brac'o, por lo qual conuiene
+dos huessos como el braço, por lo qual conuiene
 hazer la extension, porq<ue> si se hiziesse sin ella la re-
 posicion, seria possible quebrarse la punta de los
 huessos, y hazerse dificultosa y dolorosa la cura-
@@ -3226,7 +3226,7 @@ calenturas, espasmos, y desmayos. Y si tambien
 es poca, digo menos de lo que conuiene, quebra<n>-
 tarse han las puntas de los huessos quebrados: y
 assi co<n>uiene en los huessos gra<n>des, como de bra-
-c'os, o piernas, y que tiene<n> morzillos grandes, ha-
+ços, o piernas, y que tiene<n> morzillos grandes, ha-
 zer mayor extension: y menor en los menores,
 como en el rayo del cobdo, mirando de qualquie-
 ra manera que se haga, la figura de la parte, y que
@@ -3234,9 +3234,9 @@ conforme a ella se vaya haziendo la extension:
 y si la quebradura es reciente del primero dia,
 mas al seguro se puede hazer la extension que
 quando ha passado algun tiempo, porque es
-verisimil auerse empec'ado a inflamar, o a lo
+verisimil auerse empeçado a inflamar, o a lo
 menos a correr a la parte algo. La extension se
-puede hazer en los nin~os y tiernos, con las ma-
+puede hazer en los niños y tiernos, con las ma-
 nos: y en los demas, con ligaduras: y en otros
 con instrumentos, como son los figurados pa-
 ra las luxaciones. Y assi esto hecho, se conoce-
@@ -3259,16 +3259,16 @@ que todas tienen tres oficios: vno tener los hues-
 sos firmes: otro prohibir el corrimiento: y otro
 aplicar las medicinas a la parte quebrada. Y as-
 si vemos que se vsan mas frequentemente qua-
-tro maneras de ligaduras: vna que empiec'a de
+tro maneras de ligaduras: vna que empieça de
 la parte quebrada hazia arriba, y dadas tres o
-quatro bueltas se acaba alli: otra que empiec'a
+quatro bueltas se acaba alli: otra que empieça
 tambien de la parte quebrada, y baxa dando
 otras tantas bueltas hazia abaxo: y otra que
-empec'ando de la parte inferior del miembro
+empeçando de la parte inferior del miembro
 quebrado, y dando bueltas y subiendo hazia
 arriba cubre las otras dos ligaduras: la quarta,
 y con la qual todas las demas se pueden escu-
-sar, es, vna venda de lienc'o sin costura, lar-
+sar, es, vna venda de lienço sin costura, lar-
 ga y blanda, y moderadamente ancha, o si el
 miembro fuere desigual, angosta, cogida
 por ambas partes hasta el medio, que por esso}
@@ -3276,7 +3276,7 @@ por ambas partes hasta el medio, que por esso}
 [fol. 62v]
 {HD. Instituciones para +}
 {CB1.
-se llama de dos cabec'as: la qual se ha de empec'ar
+se llama de dos cabeças: la qual se ha de empeçar
 a poner desde enmedio del huesso quebrado,
 dando alli dos o tres bueltas, y subir con la vna
 parte della hazia arriba, y baxar con la otra hazia
@@ -3288,16 +3288,16 @@ ceder desta manera. Que primero se situe el mie<m>-
 bro como conuiene, y luego se vnte y riegue co<n>
 azeyte rosado o myrtino, de almastiga, o ompha<n>-
 cino: y lo mas vtil y necessario es, poner vnos pa-
-n~os mojados en estos azeytes sobre todo el mie<m>-
+ños mojados en estos azeytes sobre todo el mie<m>-
 bro, para que se pueda desatar y despegar sin do-
 lor, si a caso se inflamare la parte, y para impedir
 la dicha inflamacion, lo qual se puede fomentar
 con vino tinto mezclado co<n> alguno de los dichos
 azeytes: y hecho esto, se han de poner vnas plan-
 chetas a manera de asplenios, que es la figura de
-vn bac'o, cruzadas vna sobre otra, que den vna
+vn baço, cruzadas vna sobre otra, que den vna
 buelta a la parte quebrada por sobre la quebradu-
-ra, vnas empec'ando de arriba para abaxo, y otras
+ra, vnas empeçando de arriba para abaxo, y otras
 de abaxo para arriba: las quales han de yr mojadas
 con claras de hueuos, y poluos restrictiuos, con
 vn poco de azeyte rosado: o se mojen solo en cla-
@@ -3315,17 +3315,17 @@ tina y echan encima poluos de pez, y los demas
 restrictiuos, o co<n> los mismos y vino tinto: lo qual
 hecho, se ha de vendar la parte con las dos liga-
 duras primeras, o lo que mas seguro es, con la ve<n>-
-da de dos cabec'as, no apretando mucho, ni poco,
+da de dos cabeças, no apretando mucho, ni poco,
 y sobre ella poner las tablillas que se vsan, delga-
-das y embueltas en estopas, o en lienc'o: han de
+das y embueltas en estopas, o en lienço: han de
 ser mas largas que la quebradura de vn lado y de
-otro: y en brac'o, o pierna, que lleguen poco me-
+otro: y en braço, o pierna, que lleguen poco me-
 nos que de coyuntura a coyuntura, y estas pues-
 tas por quatro partes, o por lo menos en tres, al-
 rededor de la parte quebrada, se venden y aten
 por cima con la ligadura que llaman Galapago,
 como arriba esta dicho. Y mirese otro dia, si se
-hincha pie o mano del brac'o o pierna quebra-
+hincha pie o mano del braço o pierna quebra-
 do, porque en tal caso, o la ligadura esta floxa, y as-
 si recibe la parte, o apretada, que atrae: y en mi-
 diendolo conforme al sentimiento del enfermo,
@@ -3379,11 +3379,11 @@ blanco, por la penetracion de los mantenimien-
 tos gruessos: y si por la costumbre del enfermo,
 los manjares huuieren de ser delgados, conuie-
 ne que sean en alguna mas cantidad: para lo qual
-es de grande efecto el c'umo de la yerua que lla-
+es de grande efecto el çumo de la yerua que lla-
 man primula veris, tomado por la boca algu-
 nos dias, o el poluo de la rayz de lagrimonia, o
-el c'umo della, o de sieteenrama, con vino: y por
-la parte de fuera, en los nin~os basta poner emplas-
+el çumo della, o de sieteenrama, con vino: y por
+la parte de fuera, en los niños basta poner emplas-
 tro de harina volatil, con clara de hueuo: y en los
 demas, el que se haze con bolo armenico, encien-
 so, myrra, azibar, acacia, tragacanto, ladano, ygua-
@@ -3411,14 +3411,14 @@ ga con muchas cosas, en especial en este caso,
 auiendo precedido sangria, con lana suzia embe-
 uida en azeyte rosado y vinagre, o con vna espon-
 ja mojada con lo mismo, y con fomentarse la
-parte con azeyte de manc'anilla, de lombrizes, y
-puesto encima vn pan~o mojado en vino tinto,
+parte con azeyte de mançanilla, de lombrizes, y
+puesto encima vn paño mojado en vino tinto,
 todo esto aplicado tibio: assimismo aprouecha el
 ceroto rosado.
 La inflamacion se mitigara, presupuesta la san-
 gria, con emplastro de maluas y ma<n>teca de vacas,
 o con otro hecho de rayzes de maluauiscos, flor
-de ma<n>c'anilla, violetas, cozido, y majado, y mezcla-
+de ma<n>çanilla, violetas, cozido, y majado, y mezcla-
 do con harina de ceuada, y arrope, y con azeyte
 rosado violado, y con vino tinto.
 La comezon se quita como arriba esta dicho:
@@ -3448,7 +3448,7 @@ algunos, es boluerle a quebrar, tengo por mejor,
 quitarles el atreuimiento, que darles ocasion a q<ue>
 se arrojen a hazer lo que no saben como sucede-
 ra si bueluen a quebrarle, aunq<ue> quando se va ha-
-ziendo el callo, puede yr el artifice aderec'ando y
+ziendo el callo, puede yr el artifice adereçando y
 componiendo la parte, de manera que poco a po-
 co se buelua a su antigua figura.
 Entre las cosas que mayor consideracion pide<n>
@@ -3468,14 +3468,14 @@ saque, y entonces se ha de juntar lo mejor que sea
 possible, mirando q<ue> no se acorte el miembro por
 juntarle, y q<ue> sino se junta parece impossible que
 estando tan apartados los huessos quebrados, por
-salir algun pedac'o, se engendre callo en tanta dis-
+salir algun pedaço, se engendre callo en tanta dis-
 tancia: y assi porque no quede la parte floxa sin la
 firmeza del huesso, conuiene juntarle aunq<ue> que-
 de corto el miembro, y que se engendre callo. Pe-
 ro si aunque aya llaga el huesso queda cubierto,
 se aduierta que la extension ha de ser con mas tie<n>-
 to y blandura, y la reposicion con mucha mas di-
-ligencia. Y en esta manera de cura, se ha de an~adir
+ligencia. Y en esta manera de cura, se ha de añadir
 otra intencion, que es la vnion de las partes de la
 carne, con puntos o ligadura, sobre lo qual se han
 de poner medicinas q<ue> mitiguen el dolor, y prohi-
@@ -3515,7 +3515,7 @@ teria se expurgue bien, y que no haga seno, que
 no poner los tales remedios. Pero si el huesso que
 se desnudo de la carne estuuiere fuera de la heri-
 da, de manera que no se pueda boluer a dentro
-sin gran dolor y dan~o, aconsejan los sabios Medi-
+sin gran dolor y daño, aconsejan los sabios Medi-
 cos, que se corte el huesso con sierra, o lima, o co-
 mo mejor se pueda hazer, para tornarle blanda-
 mente adentro, adonde aunque sea con defor-
@@ -3535,10 +3535,10 @@ fortatiuas, como son vinos estipticos cozidos co<n>
 clauos, arrayan, y otras semejantes medicinas: pe-
 ro lo mas cierto es vn emplastro que se haze de
 azeyte de arrayan, y de almastiga, de cada vno
-dos onc'as: cera y resina, cada tres onc'as: poluos
+dos onças: cera y resina, cada tres onças: poluos
 de encienso, de almastiga, y de pez griega, cada
 seys dragmas: de nuezes de especias, tres dragmas:
-ac'afran, media dragma: la qual medicina es sin-
+açafran, media dragma: la qual medicina es sin-
 gular en el tiempo del inuierno. Pero si el tiem-
 po fuere estuoso, se haga con azeyte rosado, y
 sebo de carnero, de cada vno seys dragmas: de

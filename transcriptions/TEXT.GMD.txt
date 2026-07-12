@@ -11,7 +11,7 @@ QVE HIZO DON GEOR-
 ge manrrique a la muerte del Maestre de Santiago
 don Rodrigo manrrique su padre dirigida
 a la muy alta y muy esclarescida y
-christianissima Princesa don~a
+christianissima Princesa doña
 Leonor Reyna de
 Francia.
 Con otro romance y su glosa.
@@ -19,8 +19,8 @@ Con otro romance y su glosa.
 Impreso en Leon}
 [fol. 1v]
 {CB1.
-{RUB. % Prohemio de la obra.}
-% A( )viendo princesa muy esclarescida
+{RUB. ¶ Prohemio de la obra.}
+¶ A( )viendo princesa muy esclarescida
 la obra del claro don George excedido
 a otra qual quiera que yo e leydo
 maguer que otras muchas e visto en mi vida
@@ -28,7 +28,7 @@ viendo pues obra yo tanto subida
 juntando el desseo de en algo hos seruir
 acuerda esta glosa sobre ella escreuir
 la mi mano torpe temblando encogida.
-% Teniendo muy alta sen~ora respecto
+¶ Teniendo muy alta señora respecto
 a muchas razones que me an obligado
 y assi le suplico que sea aceptado
 mi limpio motiuo supliendo el defecto
@@ -36,7 +36,7 @@ v<uest>ra prudencia contemple el obgecto
 y no se desprecie tampoco mi rima
 en quien van infusas no siendo muy prima
 sentencias doctrinas de hondo subjecto
-% Con grande desseo tambien e querido
+¶ Con grande desseo tambien e querido
 la obra del testo hazer renouada
 afin que si fuesse por vieja dexada
 renueue y no sea del todo en oluido
@@ -44,15 +44,15 @@ el mi nueuo metro maguer mal pulido
 sera por ser nueuo por dicha mirado
 con el qual el otro sera renouado
 y en mas que de antes por caso tenido.
-% Don George querria poderme tornar
+¶ Don George querria poderme tornar
 afin q<ue> el ingenio que tuuo tuuiesse
 por que dexar en el mundo pudiesse
 renombre tan digno qual el fue a dexar
 y no solamente de su buen trobar
 nascio la su fama de tanta memoria
-con su grand esfuerc'o gano mayor gloria
+con su grand esfuerço gano mayor gloria
 en hecho de armas y bien pelear.
-% Si bien paras mientes lector entendido
+¶ Si bien paras mientes lector entendido
 al hondo cimiento de aquesta materia}
 [fol. 2r]
 {CB1.
@@ -62,7 +62,7 @@ de do sacar puedes sin ser muy leydo
 al pro de tu alma mill bienes cada ora
 mas poco se prescian las obras agora
 aquellas que hablan por simil sentido.
-% La obra pues alta sen~ora del testo
+¶ La obra pues alta señora del testo
 estando tan clara de si sin glosar la
 ornar la procuro mas no declarar la
 ni glosa no fue necessaria sobre esto
@@ -70,7 +70,7 @@ osando mi metro mal hecho y compuesto
 remoto de sciencia con ella juntar
 refugio ami rima pensando hallar
 en vn tal dechado tan sabio y honesto.
-% Y cierto si el sabio benigno lee
+¶ Y cierto si el sabio benigno lee
 no suple mi falta con su discrecion
 aquella fue sola mi denostacion
 de donde yo pienso sacar mas honor
@@ -78,17 +78,17 @@ el qual lector puede prestar me fauor
 fingiendo si quiera mejor q<ue> mi rima
 recelo del vulgo que siempre lastima
 aflige mi ingenio con grande temor.
-% No solo ami seso lo tal acontesce
+¶ No solo ami seso lo tal acontesce
 conoscido siendo por insuficiente
 infinitos otros de ingenio excellente
 a( )queste recelo y temor enmudesce
 si esto que digo a los sabios empesce
 ved que hara pues a mi no lo siendo
 mas esto no obstante medroso y tremiendo
-vendremos al fin el sen~or lo enderesce.
-% Y puesto que sea segun lo que creo
+vendremos al fin el señor lo enderesce.
+¶ Y puesto que sea segun lo que creo
 vencida de sciencia del testo mi obra
-mas quiero reproches sufrir y c'oc'obra
+mas quiero reproches sufrir y çoçobra
 juyzios y tachas pues no soy Orpheo
 lo qual a( )vn que claro ya casi lo veo
 del arte que digo que en obra tan santa
@@ -97,23 +97,23 @@ satisfaziendo tambien al desseo}
 {SG. a ij}
 [fol. 2v]
 {CB1.
-% El hombre que lenguas de los detractores
+¶ El hombre que lenguas de los detractores
 recela no cure jamas de escreuir
 viendo que de ellas no puede h(y)u[y]r
 ingenio muy biuo ni grandes primores
 de quien no se escapan muy doctos doctores
 ornados de sciencias y honores doctrinas
 rauiosas de embidia las lenguas malignas
-falsamente buscan dan~ar su honores.
-% Resciba pues Reyna de gran merescer
-aqueste pequen~o seruicio y presente
+falsamente buscan dañar su honores.
+¶ Resciba pues Reyna de gran merescer
+aqueste pequeño seruicio y presente
 nascido del zelo de quien solamente
 cobdicia seruicio poder os hazer
 y si este desseo que siento crescer
 segun que desseo seguir se pudiesse
 con gran osadia si en ello hos siruiesse
 osare la vida a la muerte ofrescer.
-% De mi osadia si fui muy osado
+¶ De mi osadia si fui muy osado
 en este presente con grand afeccion
 guardando el respecto le pido perdon
 vmilmente siendo de ynojos hincado
@@ -122,8 +122,8 @@ me[ ]dio la ocasion por lo qual lo merezco
 a do confiando el prohemio fenezco
 no quiero prolixo ser mas ni pessado.
 {RUB. Fin del prohemio.}
-{RUB. % A los lectores.}
-% Algunas razones en este presente
+{RUB. ¶ A los lectores.}
+¶ Algunas razones en este presente
 prohemio pudiera mejores poner
 mas sepan lectores que no pudo ser
 que cierto su horden lo no me consiente
@@ -133,7 +133,7 @@ de las doze coplas que son el testigo
 las letras primeras vera solamente.}
 [fol. 3r]
 {CB1.
-{RUB. Comienc'a la obra.}
+{RUB. Comiença la obra.}
 {RUB. Testo.}
 {RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Recuerde el alma adormida
 abive el seso y despierte
@@ -157,7 +157,7 @@ poco a[ ]poco vuestros dias
 del bivir,
 pues por robarnos la vida
 esta contino la muerte
-ac'echando.
+açechando.
 Recuerde el alma dormida
 abive el seso y despierte
 contemplando.
@@ -165,16 +165,16 @@ Contemple que fue criada
 para bivir en el cielo
 sempiterno,
 y velando este en celada
-no la engan~e lo del suelo
+no la engañe lo del suelo
 ques infierno.
 Este siempre apercebida
-y con corac'on muy fuerte
+y con coraçon muy fuerte
 este pensando,
 Como se passa la vida
 como se viene la muerte
 tan callando.}
 {CB2.
-Consu guadan~a en las manos
+Consu guadaña en las manos
 con la qual viene heriendo
 a nuestra vida.
 abrid los ojos Christianos
@@ -182,7 +182,7 @@ porq<ue> no hos tome durmie<n>do
 su venida.
 Mil vezes me paro a ver
 en este mundo cuytado
-engan~ador,
+engañador,
 Qua(m)[n] presto se va el[ ]plazer
 como despues de acordado
 da dolor.
@@ -207,7 +207,7 @@ y acabado,
 si juzgamos sabiamente
 daremos lo no venido
 por passado
-No se engan~e nadie no
+No se engañe nadie no
 pensando que ha de durar
 lo que espera
 mas que duro lo que vio
@@ -249,7 +249,7 @@ fenescida,
 pues aquesto se acabo
 y su[ ]grandeza y mandar
 se consumiera
-No se engan~e nadie no
+No se engañe nadie no
 pensando que ha de durar
 lo que espera.
 Los que vuestros pensamientos
@@ -269,7 +269,7 @@ por tal manera.}
 {RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Nuestras vidas son los rios
 que van a dar en el mar
 q<ue> es el morir
-alli van los sen~orios
+alli van los señorios
 derechos a se acabar
 y consumir,
 alli los rios caudales
@@ -301,7 +301,7 @@ aqueste ser,
 Christianos Moros Jodios
 alli tienen de yr a dar
 no hay que huir,
-Alli van los sen~orios
+Alli van los señorios
 derechos a se acabar
 y consumir.}
 {CB2.
@@ -317,7 +317,7 @@ pues ynicos
 Alli van rios caudales
 alli los otros medianos
 y mas chicos.
-No hay alli ningun sen~or
+No hay alli ningun señor
 que tenga ningun criado
 ni subgeto
 el Papa y Emperador
@@ -364,7 +364,7 @@ el verdadero camino
 de inuocar
 muy buena intencion tuvieron
 q<ue> es llamar a dios contino
-al comenc'ar
+al començar
 Mas yo en estos mis renglones
 por huir de aquellas sectas
 y tenores.
@@ -492,7 +492,7 @@ si bien vsassemos del
 como deuemos.
 Por que aquel que en esta guerra
 pelea como baron
-muy esforc'ado
+muy esforçado
 quando dexare la tierra
 hallara gran galardon
 aparejado.
@@ -550,7 +550,7 @@ que son al fin sino lloros
 si por su causa la gloria
 al fin nos niegan,
 despues que con gran sudor
-si algo dellos alcanc'amos
+si algo dellos alcançamos
 fenescemos,
 Ved de quan poco valor
 son las cosas tras que andamos
@@ -575,7 +575,7 @@ ellas mesmas si miramos
 nos hazen siempre sufrir
 muy mas cuydados.
 Siendo tal su calidad
-no nos traygan engan~ados
+no nos traygan engañados
 pues perescen,
 dellas deshaze la edad
 dellas casos desastrados
@@ -600,8 +600,8 @@ de la cara
 la color y la blancura
 quando viene la vejez
 qual separa,
-las man~as y ligereza
-y la fuerc'a corporal
+las mañas y ligereza
+y la fuerça corporal
 de juventud
 todo se[ ]torna graueza
 quando llega al arraval
@@ -633,7 +633,7 @@ La color y la blancura
 quando viene la vejez
 qual se[ ]para.}
 {CB2.
-Los deleytes y dulc'ores
+Los deleytes y dulçores
 que en la fresca hedad tuvieres
 si mirases,
 todos se tornan dolores
@@ -642,8 +642,8 @@ y pesares,
 pierdese la fortaleza
 deste cuerpo terrenal
 y la virtud,
-Las man~as y ligereza
-y la fuerc'a corporal
+Las mañas y ligereza
+y la fuerça corporal
 de juventud.
 Turbase el entendimiento
 los sentidos corporales
@@ -676,7 +676,7 @@ se mantienen.
 Pues aquellos tan presciados
 los nueue que tanta fama
 consiguieron
-tan valientes y esforc'ados
+tan valientes y esforçados
 como vna encendida llama
 fenescieron,
 ya son muertos estos todos
@@ -701,8 +701,8 @@ en esta vida.}
 Aquellas tan brabas gentes
 q<ue> el poder de los Romanos
 sojuzgaron
-y a Espan~oles tan valientes
-con la fuerc'a de sus manos
+y a Españoles tan valientes
+con la fuerça de sus manos
 los domaron,
 ya es perdido su poder
 muchos en poco tenidos
@@ -728,7 +728,7 @@ se mantienen.}
 que nos dexan a desora
 quien lo duda
 no les pidamos firmeza
-porque son de vna sen~ora
+porque son de vna señora
 que se muda,
 que bienes son de fortuna
 quien rebuelue con su rueda
@@ -739,7 +739,7 @@ en vna cosa.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glo<sa>.}}
 {CB2.
 Assi que no ay que fiar
-en ser muy grandes sen~ores
+en ser muy grandes señores
 y muy ricos
 pues los vemos abaxar
 al estado de pastores
@@ -753,14 +753,14 @@ quien lo duda.
 Con quanto trabajo andamos
 contino tras este amor
 tan desuelados
-y quando ya lo alcanc'amos
+y quando ya lo alcançamos
 tenemos menos plazer
 y[ ]mas cuydados,
 estos bienes y grandeza
 en quien todo el mundo adora
 y tras quien suda
 No les pidamos firmeza
-por que son de vna sen~ora
+por que son de vna señora
 que se muda.}
 {CB2.
 Y pues ya todos sabemos
@@ -771,7 +771,7 @@ quando los bienes nos quita
 y da pobreza,
 no tomeys passion ninguna
 por quanto quitar os pueda
-esta engan~osa
+esta engañosa
 Que bienes son de fortuna
 que rebuelue con su rueda
 apresurosa.
@@ -789,12 +789,12 @@ ni ser estable ni queda
 en vna cosa.}
 [fol. 8r]
 {CB1.
-{RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Pero digo que acompan~en
+{RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Pero digo que acompañen
 y lleguen hasta la huessa
-con su duen~o
-por esso no nos engan~en
+con su dueño
+por esso no nos engañen
 que se va la vida apriessa
-como suen~o
+como sueño
 y los de( )leytes de aca
 son en que nos deleytamos
 temporales
@@ -810,24 +810,24 @@ de los bienes nos despoja
 que con sudor
 procuramos
 de aquistar
-mas sus trances no hos ensan~en
+mas sus trances no hos ensañen
 a( )hunq<ue> mas se hos muestre abiessa
-y con mal zen~o
-Pero digo que acompan~en
+y con mal zeño
+Pero digo que acompañen
 y lleguen hasta la huessa
-con su duen~o.
-Nadie tenga confianc'a
+con su dueño.
+Nadie tenga confiança
 en sus bienes ni el mendigo
 desespere
-que presto haze mudanc'a
+que presto haze mudança
 la fortuna como digo
 quando quiere
-mas sus promessas no hos dan~en
+mas sus promessas no hos dañen
 por q<ue> el bien de su promessa
-es muy pequen~o
-Por esso no nos engan~en
+es muy pequeño
+Por esso no nos engañen
 que se va la vida apriessa
-como suen~o.}
+como sueño.}
 {CB2.
 Pues la vida d<e> este suelo
 tan breue y perescedera
@@ -835,7 +835,7 @@ es como vemos
 procuremos la del cielo
 para siempre duradera
 pues podemos
-por q<ue> el sen~or nos dara
+por q<ue> el señor nos dara
 plazeres si bien obramos
 immortales
 y los deleytes de aca
@@ -843,10 +843,10 @@ son en que nos deleytamos
 temporales.
 Como el cauto pescador
 que a pescar gana su vida
-con la can~a
+con la caña
 es este mundo traydor
 que con deleytes combida
-y nos engan~a
+y nos engaña
 y los deleytes q<ue> el da
 con que tanto nos holgamos
 son mortales
@@ -855,16 +855,16 @@ que por ellos speramos
 eternales.}
 [fol. 8v]
 {CB1.
-{RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Los plazeres y dulc'ores
+{RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Los plazeres y dulçores
 d<e> esta vida trabajada
 que tenemos
 que son si no corredores
 y la muerte es la celada
 en que caemos,
-no mirando a n<uest>ro dan~o
+no mirando a n<uest>ro daño
 corremos a rienda suelta
 sin parar
-des( )que vemos el engan~o
+des( )que vemos el engaño
 y queremos dar la buelta
 no hay lugar.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glosa.}}
@@ -874,11 +874,11 @@ aquel gozo sempiterno
 tan glorioso
 por vn poco de plazer
 que lleua el alma al infierno
-ponc'on~oso,
+ponçoñoso,
 que aprouecha peccadores
 a la fin d<e> esta jornada
 que hazemos:
-Los plazeres y dulc'ores
+Los plazeres y dulçores
 d<e> esta vida trabajada
 que tenemos.
 La ciega sensualidad
@@ -900,10 +900,10 @@ bien verdadero
 por donde los ciegos guian
 guay de los que van detras
 si cae el primero,
-tras aquesta todo el an~o
+tras aquesta todo el año
 sin pensar ni hazer cuenta
 de acabar
-No mirando a n<uest>ro dan~o
+No mirando a n<uest>ro daño
 cor<r>emos a rienda suelta
 sin parar.
 Do cumple tener la brida
@@ -912,10 +912,10 @@ al sentido
 por q<ue> esta carne podrida
 o cuerpo que tanto amamos
 sea seruido,
-no mirando el yerro estran~o
+no mirando el yerro estraño
 que al alma pone en rebuelta
 en esta mar
-Des( )que vemos el engan~o
+Des( )que vemos el engaño
 y queremos dar la buelta
 no hay lugar.}
 [fol. 9r]
@@ -930,7 +930,7 @@ que diligentia tan biua
 tuvieramos toda ora
 y tan presta
 en componer la capti($u)[u]a
-dexandonos la sen~ora
+dexandonos la señora
 descompuesta.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glosa.}}
 {CB2.
@@ -981,7 +981,7 @@ y con presuncion altiva
 mas trabajamos agora
 en[ ]hazer fiesta
 Y en componer la capti($u)[u]a
-dexandonos la sen~ora
+dexandonos la señora
 descompuesta.}
 {SG. b}
 [fol. 9v]
@@ -1008,7 +1008,7 @@ lo poco que ha de durar
 vuestro poder,
 biuid como virtuosos
 que no son vuestras hechuras
-mas alc'adas
+mas alçadas
 Que estos reyes poderosos
 que vemos por escrituras
 ya passadas.
@@ -1037,14 +1037,14 @@ reseruados
 Co<n>tra quien no hay cosa fuerte
 ni Papas ni Emperadores
 ni perlados.
-Ni la fuerc'a de Sanson
-ni el esfuerc'o tan crescido
+Ni la fuerça de Sanson
+ni el esfuerço tan crescido
 del Troyano
 no tuvieron discrecion
 para hauerse defendido
 de su[ ]mano:
 que a[ ]todos toca esta suerte
-Reyes principes sen~ores
+Reyes principes señores
 de ditados
 Assi los trata la muerte
 como alos pobres pastores
@@ -1079,10 +1079,10 @@ que sus males ni los vimos
 ni sus glorias.
 Por q<ue> es mas iusta razon
 ahun( )que poco se acostumbra
-en n<uest>ra Espan~a
+en n<uest>ra España
 hablar de nuestra nacion
 pues su fama nos alumbra
-q<ue> en la estran~a
+q<ue> en la estraña
 pues tan dignos son Hispanos
 como los de quien dezimos
 de memorias
@@ -1132,10 +1132,10 @@ delas eras?
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glosa.}}
 {CB2.
 Que es de aquel buen do<n> Ferna<n>do
-de Aragon que las Espan~as
+de Aragon que las Españas
 tanto honrro?
 contra Moros peleando
-do mucho con sus hazan~as
+do mucho con sus hazañas
 los menguo,
 tantos grandes donde estan
 y tanto noble baron
@@ -1159,7 +1159,7 @@ como truxeron.}
 La jouentud muy vfana
 mirad no hos ciegue Xp<ist>ianos
 tened tiento.
-por que oy sois y no man~ana
+por que oy sois y no mañana
 q<ue> el biuir se va entre manos
 como viento.
 Que aprouechan los arreos
@@ -1171,7 +1171,7 @@ y cimeras?
 Huye los lazos del amor
 tu que sigues su vandera
 muy goloso
-no te engan~e su dulc'or
+no te engañe su dulçor
 por q<ue> es cebo de[ ]buytrera
 cauteloso
 los amorosos desseos
@@ -1190,8 +1190,8 @@ delos fuegos encendidos
 de amadores,
 que se hizo aquel trobar
 las musicas acordadas
-que tan~ian
-que se hizo aquel danc'ar
+que tañian
+que se hizo aquel dançar
 aquellas ropas chapadas
 que trayan.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glo<sa>.}}
@@ -1216,7 +1216,7 @@ por tus encubiertas vias
 no veraces
 di cruel que nos inflamas
 con los tus fuegos fetidos
-dan~adores
+dañadores
 Que se hizieron las llamas
 delos fuegos encendidos
 de amadores.}
@@ -1232,7 +1232,7 @@ de aquellas cosas passadas
 que solian
 Que se hizo aquel trobar
 las musicas acordadas
-que tan~ian.
+que tañian.
 Que fue delas inuenciones
 de aquel tiempo y atauios
 tan bordados
@@ -1242,7 +1242,7 @@ y estacados
 donde yremos a[ ]buscar
 las damas tan arreadas
 que seruian
-Que se hizo aquel danc'ar
+Que se hizo aquel dançar
 aquellas ropas chapadas
 que trayan.}
 {SG. b iii}
@@ -1250,7 +1250,7 @@ que trayan.}
 {CB1.
 {RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Pues el otro su heredero
 don Enrrique que poderes
-alcanc'aua
+alcançaua
 quan blando quan halaguero
 el mundo con sus plazeres
 se le daua,
@@ -1263,19 +1263,19 @@ lo que le dio.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glo<sa>.}}
 {CB2.
 Los poderes terrenales
-no defienden a su duen~o
+no defienden a su dueño
 de la muerte
-ni las fuerc'as corporales
-q<ue> en poluo grande y pequen~o
+ni las fuerças corporales
+q<ue> en poluo grande y pequeño
 se conuierte,
 do el poder del que refiero
 que con tantos desplazeres
 gouernaua
 Pues el otro su heredero
 don Enrrique que poderes
-alcanc'aua.
+alcançaua.
 El q<ue> en este lisongero,
-mundo falso y engan~oso
+mundo falso y engañoso
 se confia
 agua coge con harnero
 pues lo vemos mentiroso
@@ -1294,7 +1294,7 @@ de este modo el mundo trata
 a quien mas muestra tener
 en su fauor,
 de esta suerte al de quien digo
-como a nin~o con la miel
+como a niño con la miel
 lo regalo,
 Mas veras quan enemigo
 quan contrario quan cruel
@@ -1341,10 +1341,10 @@ los edificios reales
 llenos de oro.
 En ser mucho poderosos
 no consiste nuestra bue($n)[n]a
-auenturanc'a
+auenturança
 sino en ser muy virtuosos
 que al fin nos libra de pena
-y da holganc'a,
+y da holgança,
 y menos seguras vidas
 acarrean los caudales
 no lo ygnoro,
@@ -1355,12 +1355,12 @@ del thesoro.}
 Pues procura por hazer
 como escuses la cayda
 del infierno
-no te en( )gan~e el gran poder
+no te en( )gañe el gran poder
 q<ue> el poder de aqueste vida
 no es eterno,
 que valieron los vassallos
 a este Rey ni poderios
-tan alc'ados,
+tan alçados,
 Los jahezes y cauallos
 de su gente y atauios
 tan sobrados.
@@ -1383,7 +1383,7 @@ de los prados.}
 q<ue> en su vida successor
 se llamo
 que corte tan excelente
-tubo y quanto gran sen~or
+tubo y quanto gran señor
 que lo siguio,
 mas como fuesse mortal
 metio lo la muerte luego
@@ -1400,14 +1400,14 @@ al qual durante su vida
 le quitaron la obediencia
 del burlando
 por ser hombre negligente
-con verguenc'a y deshonor
+con verguença y deshonor
 sele quito
 Y su hermano el innocente
 en su vida successor
 se llamo.
 Quien penso que su[ ]poder
 con su jubentud florida
-a compan~ado
+a compañado
 hauia de fenescer
 tan presto y tambien de vida
 ser priuado,
@@ -1415,10 +1415,10 @@ aquel que tan crudamente
 la muerte en su fresca flor
 se lo lleuo
 Que corte tan excelente
-tubo y quanto gran sen~or
+tubo y quanto gran señor
 que[ ]lo siguio.}
 {CB2.
-Puso lo este engan~ador
+Puso lo este engañador
 de mundo en el mayor ser
 de aquesta vida
 por dar le mayor dolor
@@ -1458,10 +1458,10 @@ que fueron sino pesares
 al dexar.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glosa.}}
 {CB2.
-Pon en Dios tu confianc'a
+Pon en Dios tu confiança
 no en fauores ni en estado
 yo te auiso
-que quien mas de aquesto alcanc'a
+que quien mas de aquesto alcança
 n(e)[o] es mas presto aposen(d)[t]a(t)[d]o
 en parayso,
 por que no es muy perdurable
@@ -1489,16 +1489,16 @@ coronado,
 pero yendo lo a prender
 no hallo quien se pusiesse
 a su costado
-do el correr can~as y toros
+do el correr cañas y toros
 por donde yua y los juglares
 al entrar,
 Sus infinitos thesoros
 sus villas y sus lugares
 su mandar.
-Aquel que mas de treynta an~os
+Aquel que mas de treynta años
 el reyno como le plugo
 gouerno,
-fortuna con sus engan~os
+fortuna con sus engaños
 en las manos de vn verdugo
 lo entrego,
 tanta plata y tantos oros
@@ -1518,7 +1518,7 @@ truxeron muy sojuzgados
 a sus leyes
 aquella prosperidad
 que tan alta fue subida
-y ensalc'ada
+y ensalçada
 que fue sino claridad
 que quando mas encendida
 fue amatada.
@@ -1560,7 +1560,7 @@ quando la triste partida
 fue llegada
 Aquella prosperidad
 que tan alta fue subida
-y ensalc'ada.
+y ensalçada.
 Do<n> Joa<n> pacheco y su hermano
 fuero<n> los de quien hauemos
 relatado
@@ -1581,11 +1581,11 @@ y varones
 como vimos tan potentes
 si muerte do los ascondes
 y traspones,
-y sus muy claras hazan~as
+y sus muy claras hazañas
 que hizieron en las guerras
 y en las pazes
-Quando tu cruel te ensan~as
-con tus fuerc'as las atierras
+Quando tu cruel te ensañas
+con tus fuerças las atierras
 y deshazes.
 {RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. Glo<sa>.}}
 {CB2.
@@ -1603,27 +1603,27 @@ tantos Marqueses y Condes
 y varones.
 A do nos lleuaste aquel
 catholico Rey Fernando
-y sus hazan~as
+y sus hazañas
 y la excelente Ysabel
 por la qual el huvo el mando
-en las Espan~as.
+en las Españas.
 y otros fuertes y valientes
-que con tus fuerc'as fecondes
+que con tus fuerças fecondes
 descompones
 Como vimos tan potentes
 di muerte do los es( )condes
 y traspones.}
 {CB2.
 Que fue dela otra Ysabel
-Reyna n<uest>ra de Alleman~a
+Reyna n<uest>ra de Allemaña
 Emperatriz
 hija del Rey don Manuel
-de Philippe Rey de Espan~a
+de Philippe Rey de España
 genitriz
-los hijos de las Espan~as
+los hijos de las Españas
 que ganaron tantas tierras
 que los hazes
-Y sus muy claras hazan~as
+Y sus muy claras hazañas
 que hizieron en las guerras
 y en las pazes.
 Fue n<uest>ro gran Cordoues
@@ -1632,11 +1632,11 @@ por tu mano
 y el de Pescara despues
 y el de Leyua el es cogido
 Castellano
-no valen fuerc'as ni man~as
+no valen fuerças ni mañas
 contra ti que no destierras
 los solazes
-Que si tu cruel te ensan~as
-con tus fuerc'as los atierras
+Que si tu cruel te ensañas
+con tus fuerças los atierras
 y deshazes.}
 [fol. 14v]
 {CB1.
@@ -1660,7 +1660,7 @@ con el merino,
 con aquel mesmo temor
 nos hazes glotona andar
 tu de[ ]contino,
-que con fuerc'as indomables
+que con fuerças indomables
 todo lo trocas y partes
 quando quieres,
 Las huestes innumerables
@@ -1733,7 +1733,7 @@ pues me hallo insufficiente
 para mas loor le dar
 q<ue> el le dio.}
 {CB1.
-{RUB. % Esto que se sigue es lo que don George
+{RUB. ¶ Esto que se sigue es lo que don George
 dixo en loor de su padre.}}
 {CB2.
 {RMK: HSMS-0360-0002: Coplas por la muerte de su padre.} Aquel de buenos abrigo
@@ -1749,16 +1749,16 @@ ni los quiero hazer caros
 pues el mundo todo sabe
 quales fueron.
 Amigo de sus amigos
-que sen~or para criados
+que señor para criados
 y parientes
 que enemigo de enemigos
-que maestro de esforc'ados
+que maestro de esforçados
 y valientes,
 Que seso, para discretos
 que gracia para donosos
 que razon,
 muy benigno alos subjetos
-y alos brabos y dan~osos
+y alos brabos y dañosos
 vn leon.}
 {CB2.
 En ventura octauiano
@@ -1770,7 +1770,7 @@ y trabajar,
 en la bondad vn trajano
 tito en liberalidad
 con alegria
-en su[ ]brac'o vn archiano
+en su[ ]braço vn archiano
 marco tulio en la verdad
 que prometia.
 Antonio pio en clementia
@@ -1788,7 +1788,7 @@ de su tierra.}
 [fol. 15v]
 {CB2.
 No dexo grandes thesoros
-ni alcanc'o muchas riquezas
+ni alcanço muchas riquezas
 ni baxillas
 mas hizo guerra a los Moros
 ganando sus fortalezas
@@ -1812,7 +1812,7 @@ hizo tratos tan honrrosos
 que le dieron muy mas tierra
 que tenia.
 Estas sus v[i]ejas historias
-que con su brac'o pinto
+que con su braço pinto
 en la iuuentud
 con otras nueuas victorias
 agora las renouo
@@ -1820,7 +1820,7 @@ en la senectud:
 por su grande habilidad
 por meritos y anciania
 bien gastada,
-alcanc'o la dignidad
+alcanço la dignidad
 de la gran cavalleria
 de la espada.}
 {CB2.
@@ -1828,7 +1828,7 @@ Y sus villas y sus tierras
 occupadas de tiranos
 las hallo
 mas por cercos y por guerras
-con la fuerc'a de sus manos
+con la fuerça de sus manos
 las cobro:
 pues v<uest>ro Rey natural
 si delas obras que obro
@@ -1842,23 +1842,23 @@ al tablero:
 despues de tambien seruida
 la corona de su Rey
 verdadero,
-despues de tanta hazan~a
+despues de tanta hazaña
 a que no puede bastar
 cuenta cierta:
-en la su villa de ocan~a
+en la su villa de ocaña
 vino la muerte a[ ]llamar
 a su puerta.
 {RUB. Dize la muerte.}
 Diziendo buen cavallero
-dexad el mundo engan~oso
+dexad el mundo engañoso
 con halago
-v<uest>ro corac'on de azero
-muestre su esfuerc'o famoso
+v<uest>ro coraçon de azero
+muestre su esfuerço famoso
 en este trago
 pues que de vida y salud
 hezistes tan poca cuenta
 por la fama
-esfuerc'e la virtud
+esfuerçe la virtud
 pura sufrir esta afrenta
 que hos llama.}
 [fol. 16r]
@@ -1893,10 +1893,10 @@ de paganos
 esperad el galardon
 que en este mundo ganastes
 por las manos,
-y con esta confianc'a
+y con esta confiança
 y con la fe tan entera
 que teneys
-partid con buena esperanc'a
+partid con buena esperança
 que la otra vida tercera
 hallareis.}
 {CB2.
@@ -1940,5 +1940,5 @@ y ahun que la vida murio
 nos dexo harto consuelo
 su memoria}
 {CB1.
-{RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. % Haz aquello que quisieras
+{RMK: HSMS-0360-0001: Glosa sobre la obra que hizo don George Manrrique.} {RUB. ¶ Haz aquello que quisieras
 A( )ver hecho quando mueras}}

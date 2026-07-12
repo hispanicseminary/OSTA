@@ -7,11 +7,11 @@
 [fol. 6v]
 {CB1.
 {RMK: HSMS-0338-0001: Ordenamiento de las tafurerías.} {AD. [^2#(...)
-%. Ti<tu><<l>><<o>> .x<<o>>. de[ ]las tahurerias q<ue>l q<ue> ren<i>ega q<ue>[ ]le corte<n> dos dedos d<e>[ ]la(s) lengua
-%. Ti<tu><<l>><<o>> .ij. q<ue>l q<ue> gana co<n> dados falsos comete hurto & (^por la [??])[^si no oviere de q<ue> pagar las setenas] q<ue>[ ]le ac'ote<n> co<n> los dados al pescuec'o
-% & por la 2a vez q<ue>[ ]le corte<n> el pulgar derech~o
-% Ti<tu><<l>><<o>> .xxiij. q<ue> sobre el cuerpo de ot<r><<o>> no puede njgu<n>o jugar
-%. Ti<tu><<l>><<o>> .xxjx. q<ue>[ ]la vigilia de naujdad & el dia puede<n> los x<r><<i>>[<sti>]anos jugar
+¶. Ti<tu><<l>><<o>> .x<<o>>. de[ ]las tahurerias q<ue>l q<ue> ren<i>ega q<ue>[ ]le corte<n> dos dedos d<e>[ ]la(s) lengua
+¶. Ti<tu><<l>><<o>> .ij. q<ue>l q<ue> gana co<n> dados falsos comete hurto & (^por la [??])[^si no oviere de q<ue> pagar las setenas] q<ue>[ ]le açote<n> co<n> los dados al pescueço
+¶ & por la 2a vez q<ue>[ ]le corte<n> el pulgar derecħo
+¶ Ti<tu><<l>><<o>> .xxiij. q<ue> sobre el cuerpo de ot<r><<o>> no puede njgu<n>o jugar
+¶. Ti<tu><<l>><<o>> .xxjx. q<ue>[ ]la vigilia de naujdad & el dia puede<n> los x<r><<i>>[<sti>]anos jugar
 (...)]}}
 [fol. 7r]
 {HD. \ .j.}
@@ -19,22 +19,22 @@
 {AD. [^3#Ih<es>us]}
 {AD. [^3#Este ljbro es d<e>[ ]los ordenamje<n>tos & es esta la tabla o Repertorio]}
 {AD. [^4#tabla de[ ]los ordenamj<ent>os]}
-{AD. [^4#% don alonso]}
+{AD. [^4#¶ don alonso]}
 Ordenamjento de[ ]las tafurerias q<ue> fue fecho en la era de mj(~)ll & CCC xiiij
 an<n>os:./
 (...)}
 [fol. 9v]
 {CB1.
 {AD. [^4#titulos de los ordenamj<ent>os de q<ue> ariba se faze mj<n>sion]}
-{AD. [^3#aq<u><<i>> comje<n>(c)[c']an los titulos d<e>[ ]los ordenamj<ent><<o>>s]}
+{AD. [^3#aq<u><<i>> comje<n>(c)[ç]an los titulos d<e>[ ]los ordenamj<ent><<o>>s]}
 Titulo primo de[ ]los q<ue> descreen:./
 Titulo segundo de[ ]los q<ue> juegan con dados de engan<n>o & con escaq<ue>tes de en-
 gan<n>o & los q<ue> saben fincar los dados:./
-Titulo terc'ero de[ ]los q<ue> juegan con dados comun(~)ales a juegos de( )partidos:./
+Titulo terçero de[ ]los q<ue> juegan con dados comun(~)ales a juegos de( )partidos:./
 Titulo quarto de[ ]los q<ue> jugaren con dados de tabla:.[/]
 Titulo qujnto de[ ]los q<ue> echaren los dados a perder:./
 Titulo vj. de[ ]los q<ue> dieren palmada o pun<n>ada o tirare de[ ]los cabellos o die-
-re coc'es en las tafurerias:./
+re coçes en las tafurerias:./
 Titulo setimo de[ ]los q<ue> q<ue>brantaren el tablero con cochiello o en otra man-
 era:./
 Titulo viij<<o>>. de[ ]los q<ue> toujeren pen<n>os en las tafurerias:./
@@ -45,15 +45,15 @@ ujere las tafurerias aRendadas sobre sy(~):./
 Titulo xj<<o>> de los q<ue> ponen pley(~)tos & posturas en Rason de[ ]los dados en las
 tafurerias o en otro lugar:.[/]
 Titulo xij<<o>> de[ ]los q<ue> pararen la parada al tablero & la ganaren:./
-Titulo xiij<<o>> de[ ]los q<ue> van a la mano al q<ue> lanc'a los dados:./
+Titulo xiij<<o>> de[ ]los q<ue> van a la mano al q<ue> lança los dados:./
 Titulo xiiij<<o>> q<u><<a>>ndo el tablajero o otros algunos fasen amor a alguno o
-le fian los pen<n>os & ponen dia c'ierto a[ ]q<ue> ge[ ]los paguen & los traen a[ ]traspa-
-so sobre ello & van sobre ello ante los alcall(~)es q<ue> non ay(~)an terc'er dia
+le fian los pen<n>os & ponen dia çierto a[ ]q<ue> ge[ ]los paguen & los traen a[ ]traspa-
+so sobre ello & van sobre ello ante los alcall(~)es q<ue> non ay(~)an terçer dia
 njn (^n)[^N<<u>>]eue dias njn ferias sy(~) non q<ue> paguen a[ ]ocho dias los dineros
 fechos & costas & missiones:./
 Titulo xv<<o>> de[ ]los tablajeros q<ue> encubrieren o consentieren algunas de las
 cosas q<ue> defiende este (^e)[^l]ibro de[ ]las tafurerias:./
-Titulo xvi<<o>> de[ ]los q<ue> forc'aren en las tafurerias:./
+Titulo xvi<<o>> de[ ]los q<ue> forçaren en las tafurerias:./
 Titulo xvij<<o>> de[ ]los q<ue> fuy(~)eren con dineros o con pen<n>os de[ ]las tafurerias:./
 Titulo xviij<<o>> de los q<ue> fasen las bueltas de[ ]las paradas en las tafure-
 rias:.[/]}
@@ -94,16 +94,16 @@ Titulo xxxvij<<o>> de los q<ue> son sabidores de[ ]los dados & ganan dinero a[ ]
 [fol. 10v]
 {CB1.
 Titulo xxxviij<<o>> de[ ]los q<ue> aRiendan las tafurerias del Rey(~):./
-Titulo xxxix de los q<ue> se q<u><<i>>eren alc'ar al Rey(~) com(~)o ay(~)an la alc'ada:./
+Titulo xxxix de los q<ue> se q<u><<i>>eren alçar al Rey(~) com(~)o ay(~)an la alçada:./
 Titulo xl de los q<ue> qujsieren jugar las tablas o jaldeta o vallesta o te-
 juelo o dardo o a[ ]la via de[ ]la capa en q<ue> manera lo han de faser & com(~)o:./
 Titulo xl( )j de com(~)o han de ju(g)[r]ar los xpi<sti>anos en Rason de[ ]las tafure-
 rias:./
 Titulo xl( )ij com(~)o han de jurar los judios en Rason de las tafurerias:./
 Titulo x(^x)[^l]iij com(~)o han de jurar los moros en Rason de las tafurerias:./
-Titulo xl( )iiij<<o>> el q<ue> sacare tablaje sin lic'enc'ia del tablajero q<ue> pena meresc'e:./
-Titulo xl( )v<<o>> del q<ue> acogiere jugador en su casa sin lic'enc'ia del tablagero
-q<ue> pena meresc'e:./
+Titulo xl( )iiij<<o>> el q<ue> sacare tablaje sin liçençia del tablajero q<ue> pena meresçe:./
+Titulo xl( )v<<o>> del q<ue> acogiere jugador en su casa sin liçençia del tablagero
+q<ue> pena meresçe:./
 Titulo xlvj<<o>> sy(~) el alcall(~)e non fesjere luego derecho q<ue>[ ]lo tomen por testi-
-monjo & lo muestren al Rey(~) o a sus justic'ias:./
+monjo & lo muestren al Rey(~) o a sus justiçias:./
 (...)}
