@@ -8,7 +8,7 @@
 {RMK: HSMS-0199-0001: Fábulas de Esopo.}
 [fol. 1v]
 {CB1.
-{MIN. I($S)[S]OPO} {RMK: S is reversed.}}
+{MIN. I($S)[S]OPO}}
 [fol. 2r]
 {CB1.
 {IN9.} COmjença la vida del Esopo muy
