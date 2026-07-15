@@ -1,6 +1,6 @@
 {RMK: HSMS-0198.}
 {RMK: desconocido.}
-{RMK: [RHJ] Glosa al romance "Rey que no hace justicia''.}
+{RMK: [RHJ] Glosa al romance "Rey que no hace justicia".}
 {RMK:.}
 {RMK: Madrid | Real Biblioteca | II/1520 (2).}
 {RMK: Charles B. Faulhaber.}
