@@ -1867,7 +1867,7 @@ de ganados.}
 à todos la muerte yguala
 por vn son
 no ay ò muerte à quien no espa<n>-tes
-co<n> tu mortaja y tu pala [¶2]
+co<n> tu mortaja y tu pala [%2]
 y tu açadon
 tratas los por vna suerte
 son gra<n>des por ti y menores
@@ -2895,7 +2895,7 @@ Sus grandes hechos y claros
 no cumple que los alabe
 pues los vieron.
 ¶ Dios tiene el premio guarda-do
-al justo que bien obrare [¶2]
+al justo que bien obrare [%2]
 y bien hiziere
 por tanto no es coronado
 si no el que bien peleare
@@ -3316,7 +3316,7 @@ por su grande valentia
 del espada}
 {CB2.
 {RMK: HSMS-0366-0001: Glosa famosa sobre las coplas de don Jorge Manrique.} ¶ Pues buela el tie<m>po en q<ue> esta-mos
-y el fin n<uest>ro q<ue> ha de ser [¶2]
+y el fin n<uest>ro q<ue> ha de ser [%2]
 no es dudoso
 nuestra virtud estendamos
 aunque sea al parescer
@@ -3479,7 +3479,7 @@ Despues de tanta hazaña
 en que no puede bastar
 cuenta cierta.
 ¶ Despues de haber ya triu<m>pha-do
-despues en fin ha de ser [¶2]
+despues en fin ha de ser [%2]
 todo en calma
 despues de haber acabado
 con buenas obras hazer
@@ -4150,7 +4150,7 @@ de la trinidad tan alta
 hos llamays señora esclaua
 y hos dezis
 qua<n>to humildad mas se esmal-ta
-en vos, y mas baxo caua [¶2]
+en vos, y mas baxo caua [%2]
 mas subis.
 ¶ Hezistes tan alto el buelo
 con vuestra humildad señora

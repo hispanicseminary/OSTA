@@ -120,9 +120,9 @@ der sin q<ue>rellant.
 {IN1.} De reptamie<n>to de co<n>çello
 o de se<n>nor.
 {IN1.} De missiones q<ue> pone fillo
-{IN1.} De plaços. ¶2 en padre.
+{IN1.} De plaços. %2 en padre.
 {IN1.} En quales dias deue om<n>e
-{IN1.} De razonadores. ¶2 pleitear.
+{IN1.} De razonadores. %2 pleitear.
 {IN1.} Como deue seer feito pe-
 deamiento de h<er>edat.
 {IN1.} Qvanto poder an las iu-
@@ -134,7 +134,7 @@ en caualgada.
 {IN1.} En quales cosas deuen
 responder el padre & la ma-
 dre por el fillo. & el fillo por
-{IN1.} Fillo bort no<n> ¶2 ellos.
+{IN1.} Fillo bort no<n> %2 ellos.
 deue responder por el padre.
 {IN1.} El marido no<n> puede alle-
 nar sos bienes sin uolun-
@@ -150,7 +150,7 @@ del marido.
 nos no an partidos lures
 bienes. por maleficio d<e>l uno
 non deue p<er>der el otro so drei-to.
-{IN1.} Dela<n>t qual iusti-cia ¶2
+{IN1.} Dela<n>t qual iusti-cia %2
 deue q<u><<i>>scuno respo<n>der.
 {IN1.} De tenienças de a<n>nos & de
 dias. o de mas o de menos.
@@ -162,7 +162,7 @@ emparar sos bienes aq<ue>l q<u><<i>> se
 defiende por pobreza que
 no<n> puede pagar lo q<ue> deue.
 {IN1.} Daq<ue>l qui se defiende por te-niença.
-{IN1.} De prueuas. ¶2
+{IN1.} De prueuas. %2
 {IN1.} Qvando la dema<n>da ujene
 en si o en no.
 {IN1.} De testimonias.
@@ -170,12 +170,12 @@ en si o en no.
 stos testimonias por testimo-
 niar. {IN1.} De cosas ditas en
 iudiçio. & no<n> las puede om<n>e
-{IN1.} Qvales ¶2 reuocar.
+{IN1.} Qvales %2 reuocar.
 deuen seer escriuanos de
 conçello.}
 {CB2.
 {IN1.} Qvales cartas deue<n> auer
-{IN1.} Qvando ¶2 ualor.
+{IN1.} Qvando %2 ualor.
 iura es judgada ad alguno.
 {IN1.} En qual manera deuen
 iurar los iudios.
@@ -188,7 +188,7 @@ qui pleitea<n> loca me<n>t.
 rueco de las ouellas. o qui
 fara da<n>no a otro.
 {IN1.} De degollar cabras o ouel-las.
-{IN1.} Si bestia de .iiij. ¶2
+{IN1.} Si bestia de .iiij. %2
 piedes o de dos o de mas. fi-
 zieren da<n>no.
 {IN1.} De arbores tallados. o re<n>-
@@ -210,10 +210,10 @@ tre dos uezinos.
 {CB2.
 {IN2.} Qvando alguno faze ma-
 leficio por ma<n>damie<n>to
-{IN1.} De p<r><<i>>estamos. ¶2 dotro.
+{IN1.} De p<r><<i>>estamos. %2 dotro.
 {IN1.} Daquel qui luega & p<re>nde
 loguero. {IN1.} De ma<n>çebos
-{IN1.} De coma<n>das. ¶2 soldadados.
+{IN1.} De coma<n>das. %2 soldadados.
 {IN1.} De usuras.
 {IN1.} De co<n>pras & uendidas.
 {IN1.} De co<n>uenie[<n>]ças entre con-
@@ -295,21 +295,21 @@ nos. & molinos. {RUB. Lib<er> Octa-uus. +}
 dan carceles.
 {IN1.} De traydores.
 {IN1.} Daq<ue>llos qui dan uenino
-{IN1.} De los qui ¶2 a otri.
+{IN1.} De los qui %2 a otri.
 crebantan caminos q<ue> son
 en guarda del rey.
 {IN1.} Contra qui fore prouada
-{IN1.} De homezidio. ¶2 falseza.
+{IN1.} De homezidio. %2 falseza.
 {IN1.} De adult<er>io. & de muller q<ue>
 es corro<m>puda por fuerça.
 {IN1.} Qvi ropa bienes dotro por
-{IN1.} De furto. ¶2 fu<<e>>rça.
+{IN1.} De furto. %2 fu<<e>>rça.
 {IN1.} De h<er>ederos de ladrones.
 {IN1.} De malfeitor q<u><<i>> ixe de forno
 o de molino. o de banno. o}
 {CB2.
 de tauierna. & depues hy
-{IN1.} De penas. ¶2 torna.
+{IN1.} De penas. %2 torna.
 {IN1.} Qval pena deue auer qui
 crebanta se<n>nal de rey.
 {IN1.} Como deuen seer partidas
@@ -559,7 +559,7 @@ tre. & di ena<n>t no<n> pueda auer
 mas plaço. mas deue rede-
 mir aq<ue>lla (^h<er>edat) heredat
 en q<u><<a>>l que manera q<u><<i>>siere o po-diere.
-{IN2.} Si om<n>e forano ¶2
+{IN2.} Si om<n>e forano %2
 pendrare bestia ad algun
 om<n>e en çiudat. no<n> deue tra-
 yer la bestia daq<ue>lla çiudat.
@@ -787,7 +787,7 @@ prar aq<ue>lla part. & esperar
 troa q<ue>l t<er>mino del enpenna-
 mie<n>to sea co<n>plido. bien lo
 puede fer de raçon segunt
-{IN2.} Qvando ¶2 fuero.
+{IN2.} Qvando %2 fuero.
 algun om<n>e pendrare a
 otro alguna bestia por al-
 gun clamo. & depues la da-
@@ -887,7 +887,7 @@ el pe<n>nal q<ue> non foron los fruj-
 tos q<ue> el en recebio. deue le re<n>-
 der las missiones todas entre-
 ga me<n>t aq<ue>l qui enpenno la
-{IN2.} Pendras q<ue> ¶2 h<er>edat
+{IN2.} Pendras q<ue> %2 h<er>edat
 son feitas a infanço<n> por
 uillano. o a uillano por in-
 fançon. en otra tierra o en
@@ -949,7 +949,7 @@ o comendada. el se<n>nor de la
 bestia no la deue traher. mas
 aq<ue>l por qui la pendran; la
 deue render sines toda falli-da.
-{IN2.} Qvi pendra al ¶2
+{IN2.} Qvi pendra al %2
 se<n>nor por so om<n>e. o lo de-
 sempare el se<n>nor. o le faga
 co<n>plir dreito al clama<n>t;
@@ -980,7 +980,7 @@ dra. deue dar buena & abo<n>-dosa}
 fiança. q<ue> tie<n>ga aq<ue>lla
 pendra de manifiesto. & que
 no<n> se alçe co<n> ella. nj la alle-ne.
-{IN2.} Si algun om<n>e ¶2
+{IN2.} Si algun om<n>e %2
 quisiere pendrar a otro
 por clamo q<ue> aura del de di-
 neros o de otra cosa q<ue>l cum-
@@ -1031,7 +1031,7 @@ nera fore feito. ne<n>gun om<n>e
 no<n> puede nj deue pendrar;
 al exarich. por clamo ne<n>gu-
 no q<ue> aya del se<n>nor de la here-dat.
-{IN2.} Nengun om<n>e ¶2
+{IN2.} Nengun om<n>e %2
 non deue pendrar so ue-
 zino si no<n> es fiador suyo. &
 si lo pendrare; deue dar de
@@ -1067,7 +1067,7 @@ si por uentura lo fiziere. no
 es pendrador. mas ropador
 manifiesto. & assi deue seer
 iutgado segu<n> q<u><<a>>nto & q<u><<a>>l fore
-{IN2.} Si alguno ¶2 el feito.
+{IN2.} Si alguno %2 el feito.
 pusiere fiança contra o-
 tro. & dixere a so fiança. Si
 da<n>no uos ueniere desta fia<n>-
@@ -1089,7 +1089,7 @@ ra. E si el segundo ouiere te-
 stimonias; tener sa aquella
 heredat. {RUB. Como deuen uen-
 der los fiadores heredades en-pe<n>nadas +}
-{IN2.} Qvando algun ¶2 {RUB.}
+{IN2.} Qvando algun %2 {RUB.}
 om<n>e enpe<n>na a otro sos casa<<s>>
 o sos ca<m>pos. o otra h<er>edat. co<n> car-
 ta. o con fiança. & co<n> testimo-
@@ -1224,7 +1224,7 @@ ren a el fiança de dreito. o q<ue>
 le emiende el tuerto q<ue> le fa-
 ze. & aq<ue>sto feito deue recobrar
 so cosa q<ue> era testada en tal
-{IN2.} Nengu<n> om<n>e ¶2 manera.
+{IN2.} Nengu<n> om<n>e %2 manera.
 non puede testar por si;
 mismo segu<n> fuero a otro por
 clamo q<ue> aya del. sos mueble<<s>>.
@@ -1366,7 +1366,7 @@ aq<ue>llas cartas. si las podra
 auer. & si non por fuero no<n>
 puede auer mas largo pla-
 zo por dema<n>dar aq<ue>llas car-tas.
-{IN2.} Segun fuero ¶2
+{IN2.} Segun fuero %2
 daragon antigo & confir-
 mado q<u><<a>>ndo çalmedina o ot<r><<o>>
 bayle fiziere poner la sen-
@@ -1406,7 +1406,7 @@ q<ue> tiene luego. & nu<n>q<u><<a>> ia mas
 tienga tal logar. & torne do-
 blado todo q<u><<a>>nto auia preso;
 ad aq<ue>l de qui recebio el ser-ujcio.
-{IN2.} Tot om<n>e qui ¶2
+{IN2.} Tot om<n>e qui %2
 es de seruicio del rey. & el
 bayle de la uilla le mostra-
 ra la se<n>nal del rey. por deu-
@@ -1441,7 +1441,7 @@ de ir ena<n>t q<u><<a>>nto q<u><<i>>ere; troa q<ue>
 sea ante la iusticia. Mas de-
 pues q<ue> fore ante la iusticia
 no<n> lo puede mas alargar de
-{IN2.} Om<n>e qui se [¶2] .x. dias.
+{IN2.} Om<n>e qui se [%2] .x. dias.
 reclama a otor por qual
 quiere cosa. deue dar fia<n>ça
 q<ue> dara aq<ue>l otor a .x. dias.
@@ -1878,7 +1878,7 @@ q<ue>l fillo faga. no<n> deue<n> fer ni
 conplir dreito por el. ni en-
 cara de deudas quel deuandi-
 to fillo faga. nj de otras co-sas.
-{IN2.} Si el padre o la [¶2]
+{IN2.} Si el padre o la [%2]
 madre dieren a lur fillo.
 o a lur filla cierta & det<er>mi-
 nada part dalguna h<er>edat.
@@ -1988,7 +1988,7 @@ de met<er> al clama<n>t en la h<er>edat
 daq<ue>l infançon. troa q<ue> page
 sos dineros al clama<n>t. o q<ue> lo
 traya daq<ue>lla fiançaria en q<ue> lo
-{IN2.} Todo pleito [¶2] puso.
+{IN2.} Todo pleito [%2] puso.
 q<ue> fore entre om<ne>s albarra-
 nos. ço es assab<er> entre om<ne>s
 estranios. pues q<ue> firmado
@@ -2109,7 +2109,7 @@ sabe o al qui no es en la tierra
 o al qui no<n> (^lo sabe) es de edat.
 ço es q<ue> no ha .xiiij. a<n>nos. no<n>
 le nueze tenie<n>ça de anno &
-{IN2.} Qvi terna h<er>edat [¶2] dia.
+{IN2.} Qvi terna h<er>edat [%2] dia.
 por otro en coma<n>da. o q<ue> sea
 exarich o bayle. o la terna
 en pe<n>nos. o en q<u><<a>>l q<u><<i>>er q<ue> mane-
@@ -2261,7 +2261,7 @@ mados. con las otras cosas
 q<ue> son ditas de suso. Mas esto
 no nueze al menor. ço es ad
 aq<ue>l qui no es de edat de .xiiij.
-{IN2.} Qval q<u><<i>>ere [¶2] a<n>nos.
+{IN2.} Qval q<u><<i>>ere [%2] a<n>nos.
 infançon. o otro q<ue> non sea
 infanço<n>. q<u><<i>> fore tenient d<e> al-
 guna heredat en paz. ço es
@@ -2561,7 +2561,7 @@ si no<n> lo podiere p<ro>uar. jure aq<ue>l
 de qui se rencura; q<ue> no<n> lo ferio.
 & partasse del. Qual tauier-
 na comunal; no ha torna nj
-{IN2.} Tod om<n>e [¶2] batalla.
+{IN2.} Tod om<n>e [%2] batalla.
 qui se faze infançon. si el
 cauall<er>o qui tiene la uilla. o
 qual quier otro se<n>nor o esta
@@ -2625,7 +2625,7 @@ uerdadero. & abondoso;
 non sea caydo del pleito. nj ue<n>-
 çido. Mas deue dar la iusticia
 otro dia por recebir las testi<m>o-nias.
-{IN2.} Torna nj ba-talla [¶2]
+{IN2.} Torna nj ba-talla [%2]
 no ha logar entre x<r><<i>><sti>a-
 no & iudio & moro. Mas q<u><<i>>scu-
 no dellos se defiende del otro;
@@ -2654,7 +2654,7 @@ fuesse iudgada por fuero co<n>tra
 tales testimo<n>ias. nu<n>q<u><<a>> podria
 trobar el iudio o el moro testi-
 mo<n>ias x<r><<i>><sti>anos. q<u><<i>> testimo<n>iassen
-¶2 por ellos.}
+%2 por ellos.}
 [fol. 20v]
 {CB2.
 {RUB. Como deuen ser destreytas las
@@ -2666,7 +2666,7 @@ do quier & q<u><<a>>ntas uegadas q<ue> me-
 ster lo aya. deue seer costrenido
 de fer el testimonio. por el sen-
 nor o por la cort o esta aq<ue>sta te-stimonia.
-{IN2.} Si el se<n>nor [¶2]
+{IN2.} Si el se<n>nor [%2]
 de la uilla quisiere prouar
 alguna cosa co<n>tra ad alguno
 de la uilla. ont es el sennor;
@@ -2683,7 +2683,7 @@ uilla. E si por ue<n>tura no<n> pue-
 de auer tales testimonias. q<u><<a>>-
 les el fuero iudga. p<re>nga una
 iura daq<ue>l de q<u><<i>> ha clamo & par-ta
-{IN2.} Aquesto es [¶2] se del.
+{IN2.} Aquesto es [%2] se del.
 puesto & establido. q<ue> q<u><<i>> q<u><<i>>ere
 que fara testimonias sobre al-
 guna cosa. no son tenudos de
@@ -2706,7 +2706,7 @@ questas testimonias; deue
 fer a ellos todas lures missio-
 nes. q<u><<a>>ntas faran fuera de
 lures casas. por razo<n> daq<ue>st
-{IN2.} Qvi co<n>pra [¶2] testimonio.
+{IN2.} Qvi co<n>pra [%2] testimonio.
 o p<re>nde heredat en pe<n>nos.
 & en toda mierca o fianças
 & testimonias ha. deue<n> seer
@@ -2826,7 +2826,7 @@ son tenudos las testimonias
 de testimoniar di ena<n>t. ni de
 dar fia<n>ça de lures iuras. por
 q<ue> an conplido lo q<ue> fuero ma<n>-da.
-{IN2.} Pues q<ue> la iusticia [¶2]
+{IN2.} Pues q<ue> la iusticia [%2]
 aura iudgado sobre qual}
 {CB2.
 quiere dema<n>da. ta<n> bien a in-
@@ -2988,7 +2988,7 @@ lo q<ue> h<er>eda por so padre. si don-
 cas no<n> fuesse donadio q<ue>l fos-
 se dado de so padre segu<n>t fue-
 ro. co<n> carta. & co<n> fia<n>ça. & co<n> te-stimonias.
-{IN2.} Qvando ¶2
+{IN2.} Qvando %2
 algunas co<n>uenie<n>ças so<n> fei-
 tas entre algunos q<u><<i>> q<u><<i>>er sean.
 de ue<n>dida. o de pe<n>nal. de dono.
@@ -3179,7 +3179,7 @@ tramas las partidas q<u><<i>>siere<n> de-
 zir q<ue> tenie<n>tes son daq<ue>lla dema<n>-
 da q<ue> es feita. sean recebidas
 las prueuas de entramas las
-{IN2.} Pastor qui [¶2] partidas.
+{IN2.} Pastor qui [%2] partidas.
 fiziere clamo dalgu<n> omne
 q<ue>l ha ropado (de ropado) de so grey
 entro a .x. ouellas. puede re-
@@ -3188,7 +3188,7 @@ bos de so se<n>nor. E si demanda
 mas de .x. ouellas. & aq<ue>l qui
 las ha ropadas ueniere de nie-
 go. es hy batalla de escudo &
-{IN2.} Si alguno [¶2] de baston.
+{IN2.} Si alguno [%2] de baston.
 fiziere dema<n>da a otro q<ue>l es
 tenudo de fer alguna cosa por
 co<n>ueniença. & el otro a qui es
@@ -3239,7 +3239,7 @@ de .x. s<ueldo>s. en suso entro en .c.
 s<ueldo>s. deue dar un iurador. E si
 la dema<n>da fore de .c. s<ueldo>s. en su-
 so; aya batalla de escudo & de ba-ston.
-{IN2.} Si el iudio o el ¶2
+{IN2.} Si el iudio o el %2
 moro fiziere dema<n>da al x<r><<i>><sti>a-
 no entro en .vj. dineros. & ue-
 niere de niego el x<r><<i>><sti>ano. deue}
@@ -3710,7 +3710,7 @@ al tenie<n>t de la h<er>edat. q<ue> nunq<u><<a>>
 mas el ni otro de so genollo.
 no<n> dema<n>de n<<i>> pueda dema<n>dar
 alguna cosa en aq<ue>lla h<er>edat q<ue>
-{IN2.} Qval q<u><<i>>ere [¶2] dema<n>daua.
+{IN2.} Qval q<u><<i>>ere [%2] dema<n>daua.
 q<ue> dema<n>de a otro. casas. cam-
 pos. o vi<n>nas. q<u><<a>>les q<u><<i>>ere otras
 heredades. las quales el otro pos-
@@ -3858,7 +3858,7 @@ aq<ue>stos boalares puede fer q<u><<i>>scu-
 na uilla de<n>tro en sos t<er>minos. &
 uedar a los uezinos de la ot<r><<a>> uil-
 la q<ue> no y pascan. troa q<ue> ellos
-{IN2.} Qvi passara ¶2 y pascan.
+{IN2.} Qvi passara %2 y pascan.
 por la uilla o por el mercado
 o por otro logar co<n> so bestia car-
 gada. o non cargada. & no<n> di-
@@ -3871,7 +3871,7 @@ q<u><<a>>l es el da<n>no. co<n> la calonia
 Mas si dize ayec ayec. o fuera
 dela<n>t ad altas uozes. no<n> deue
 em<en>dar el da<n>no ni peitar la calo-nia
-{IN2.} Si passare algun [¶2]
+{IN2.} Si passare algun [%2]
 can o alguna otra bestia por
 el c<er>rado de alguno. & fiziere da<n>-
 no ad alguno de sos uezinos.
@@ -3993,7 +3993,7 @@ muerta la bestia muerta a so
 sennor de la bestia ujua. E si
 la bestia uiua & la muerta fo-
 ren de un se<n>nor. no<n> y [a] calonia
-{IN2.} Si alguno [¶2] ne<n>guna.
+{IN2.} Si alguno [%2] ne<n>guna.
 ouiere mala bestia & dixere
 a so uuespet. huespet guar-
 dat a uos & a uostra co[<n>]panna
@@ -4053,7 +4053,7 @@ crueba las con un pa<n>no & tie<n>-
 ga las assi pendradas. troa q<ue>l
 se<n>nor de las abellas le refaga
 entegra me<n>t el da<n>no que le aura<n>
-{IN2.} Si buey o al-guna [¶2] feito.
+{IN2.} Si buey o al-guna [%2] feito.
 otra bestia fiere a o-
 tra qual q<u><<i>>er se sea. si la mata;
 el sennor de la bestia qui mato
@@ -4073,7 +4073,7 @@ so. faziendo enp<er>o testimonio}
 {CB2.
 segu<n>t fuero. & abonda encara
 el adulero q<u><<i>> es puesto de los
-{IN2.} Qval can [¶2] uezinos.
+{IN2.} Qval can [%2] uezinos.
 quier q<ue> sea. si matare a ca<n>
 de caça. el se<n>nor del can q<u><<i>> ma-
 tara al otro deue em<en>dar tanta
@@ -4247,7 +4247,7 @@ dar lur sobrino co<n> enga<n>no.}
 Aq<ue>l mismo iudiçio es entre
 todos aq<ue>llos q<u><<i>> deuen fer par-
 ticion de heredat o de mue-bles.
-{IN2.} Si dos fillos [¶2]
+{IN2.} Si dos fillos [%2]
 son o mas de un padre &
 de una madre. no puede ne<n>-
 guno emparar alguna co-
@@ -4536,7 +4536,7 @@ p<er>dio por so culpa. deue estor-
 cer. & aq<ue>sta iura no<n> a torna
 de batalla. Aq<ue>l iudicio mis-
 mo es de q<u><<a>>l q<u><<i>>ere otra cosa lo-gada.
-{IN2.} Si alguno [¶2]
+{IN2.} Si alguno [%2]
 logare sos casas por cierto
 p<re>cio. troa tiempo sabudo. di-
 ze el fuero. q<ue> si el se<n>nor de las
@@ -5267,7 +5267,7 @@ fore de mayor ualor. deue dar
 uno a otro tal fia<n>ça. q<ue> los sos
 bienes ualan tanto como el
 pleito o la q<u><<a>>ntidat de la dema<n>-da
-{IN2.} Nengun om<n>e [¶2] es.
+{IN2.} Nengun om<n>e [%2] es.
 non puede dema<n>dar al cla-
 mant fia<n>ça de riedra; si p<r><<i>>m<er>o
 no<<L>> diere fiança de dreito.
@@ -5297,7 +5297,7 @@ fiança no es tenudo de respon-
 der le dento<n>ç ena<n>t. & aq<ue>l a qui
 la dema<n>da es feita puede alle-
 nar aq<ue>lla h<er>edat & fer a so uo-lu<n>tat.
-{IN2.} Aq<ue>l a qui la ¶2
+{IN2.} Aq<ue>l a qui la %2
 demanda es feita deue dar
 fiador de apareçer a dreito en
 el comienço de q<u><<a>>l quier pley-
@@ -5421,7 +5421,7 @@ Aq<ue>lla fiança deue seer infanço-
 na ont aquella heredat es. E si
 por ue<n>tura non podiere auer
 tal fiança. deue la dar de cruç
-{IN2.} Qval segu<n>t [¶2] & cu<n>ple.
+{IN2.} Qval segu<n>t [%2] & cu<n>ple.
 fuero tot om<n>e q<u><<i>> faze dema<n>-
 da a otro. deue dar fia<n>ça de rie-
 dra sobre toda dema<n>da de h<er>edat
@@ -5476,7 +5476,7 @@ uer fia<n>ça de negu<n> logar; me-
 ta se en poder de la cort. troa
 q<ue> aya conplido dreito al cla-
 mant. E con tanto deue seer
-{IN2.} Qvando [¶2] oydo.
+{IN2.} Qvando [%2] oydo.
 alguno entra fiador por
 otro. & uede aq<ue>st fiador que}
 [fol. 41r]
@@ -5519,7 +5519,7 @@ segu<n>t fuero daragon assi se fa-
 ze la torna. q<ue> luego q<u><<a>>ndo da fi-
 ança de la iura; luego deue dar
 aquel qui dema<n>da; fiança de
-{IN2.} Tot omne [¶2] la torna.
+{IN2.} Tot omne [%2] la torna.
 qui quier sea qui es tenudo
 por fiador de pagar ad alguno.
 alguna su<m>ma de dineros. o de
@@ -5665,7 +5665,7 @@ le<n>terosa mientre. sera costre-
 nido dar la cosa dema<n>dada. o fer
 o pagar. & sera torm<en>tado en pena
 de .Lx. s<ueldo>s. por pagar a la cort
-{IN2.} Tot om<n>e [¶2] del logar.
+{IN2.} Tot om<n>e [%2] del logar.
 qui fore fiador & negare q<ue>
 non es fiador en iudizio. Si
 fore p<ro>uado contra el leal mie<n>-
@@ -5981,7 +5981,7 @@ stas espensas pueda<n> seer paga-
 das; deue<n> seer pagadas daq<ue>l-
 los bienes q<ue> deuen p<re>nder en
 aua<n>t part aq<ue>l qui romane-çe
-{IN2.} Si el marido [¶2] biuo.
+{IN2.} Si el marido [%2] biuo.
 no<n> ouiere algunos bienes
 sedie<n>tes. deue assignar por ar-
 ras a la mull<e>r infançona .d.
@@ -6107,7 +6107,7 @@ las despensas de lur sepultura
 treitas ante de la particion;
 aq<ue>l mismo iudicio es. segu<n>t
 q<ue> es en los fueros de los infan-çones.
-{IN2.} (E)[A] la uillana [¶2]
+{IN2.} (E)[A] la uillana [%2]
 en el tiempo de sos bodas; le
 deuen seer assignadas sos arra<<s>>.
 & una casa de .xij. bigas. &
@@ -6177,7 +6177,7 @@ infa<n>çones.}
 lana. q<ue> faze adult<er>io biuie<n>do
 so marido. deue p<er>der las ar-
 ras sin esp<er>ança de recobrar
-{IN2.} Todas aquellas [¶2] las.
+{IN2.} Todas aquellas [%2] las.
 cosas q<ue> el padre o la madre
 dan [^al] marido co<n> lur filla. Si
 quiere mueble o sedie<n>t; to-
@@ -6279,7 +6279,7 @@ ad alguno de lures fillos
 de h<er>edat alguna. q<ue> no<n> deue
 auer la millor h<er>edat ni la pe-
 or. mas una de las comuna-les.
-{IN2.} Si muerta la [¶2]
+{IN2.} Si muerta la [%2]
 mull<e>r p<r><<i>>m<er>a. el padre qui-
 siere casar co<n> la segunda. de-
 ue partir co<n> los fillos de la p<r><<i>>-
@@ -6368,7 +6368,7 @@ mandaro<n> escreuir assi como
 dito es de suso. Et aq<ue>sta carta
 de tal destin es ualedera por sie<m>-
 pre en iudizio & fuera de iudi-zio.
-{RUB. En qual manera deue<n> +} [¶2]
+{RUB. En qual manera deue<n> +} [%2]
 {RUB. ser puestos cabec[']aleros.}
 {IN2.} Si acaeçiere q<ue> alguno mue[re]
 en logar yermo. o en logar
@@ -6596,7 +6596,7 @@ madre ad aq<ue>stos fillos assi dese-
 redados & desafillados. bie<n> los
 pueden recebir en lur amor
 si quisieren. & h<er>edar los segu<n>t
-{IN2.} (S)[E]l fillo o la [¶2] fuero.
+{IN2.} (S)[E]l fillo o la [%2] fuero.
 filla. el sobrino o la sobrina
 q<ue> son ricos; deuen seer destrei-
 tos por la iusticia o por el se<n>nor
@@ -6818,7 +6818,7 @@ la infançona aya sennorio en-
 tegra ment o en partida. si q<u><<i>>er
 sea muller o filla daq<ue>l se<n>nor en
 aq<ue>lla uilla. o en aq<ue>l castiello. o
-{IN2.} Qvando quier [¶2] logar.
+{IN2.} Qvando quier [%2] logar.
 q<ue>l se<n>nor de la uilla o estara
 el infançon. o y aura h<er>edades.
 o possessiones. o el se<n>nor dup-
@@ -6926,7 +6926,7 @@ nera es del cauero soldadado.
 q<ue> co<n> un colpe q<ue> faga despada.
 o de lança se puede ir o partir
 de la batalla. sin se<n>nal de trai-cion.
-{RUB. De cau<er>o q<ue> faze dan-no +} [¶2]
+{RUB. De cau<er>o q<ue> faze dan-no +} [%2]
 {IN2.} Cauero {RUB. o otro en bofort.}
 o q<u><<a>>l quier otro q<u><<a>>ndo tiene}
 [fol. 51v]
@@ -7004,7 +7004,7 @@ les negar so m<er>ce. assi q<ue> non fa-
 ra tuerto a nenguno. E no<n> de-
 ue nenguno dezir q<ue> sufre pe-
 na; pues q<ue> por so culpa lo me-resce.
-{IN2.} Los caueros & [¶2]
+{IN2.} Los caueros & [%2]
 los otros qui cobdicia<n> usar
 el uso de las armas. mujtas
 uegadas paran taulado. & cor-
@@ -7682,7 +7682,7 @@ re el muro. o adobe el muro
 o lexe ta<n>ta carrera entrel m<ur>o
 & so casa; q<ue> pueda passar ca-
 uallero armado. o bestia car-gada.
-{IN2.} El rey puede [¶2]
+{IN2.} El rey puede [%2]
 frauguar moneda. & pa-
 rar taulas por q<u><<i>>scunas de
 las çiudades. q<u><<a>>ndo le ploguie-
@@ -8077,7 +8077,7 @@ suso. en quiscu<n> logar. si fidan
 de n<uest>ra gr<aci>a. & de n<uest>ra amor. Da-
 da fo en lerida en el a<n>no de la
 natiuidat del se<n>nor. de .M.cc.
-{IN2.} Ivdio qui [¶2] .xL.ij.
+{IN2.} Ivdio qui [%2] .xL.ij.
 co<n>pra ostillas algunas. o
 uestiduras. o algunos otros
 muebles. los q<u><<a>>les lieua<n> de uen-
@@ -8121,7 +8121,7 @@ guno de los casos deuanditos;
 si p<r><<i>>m<er>a mie<n>tre no es p<ro>uada la
 ferida. segu<n>t q<ue> la prueua d<e>ue
 seer feita entre x<r><<i>><sti>ano. & iudio.
-{IN2.} Jvdio o moro [¶2] & moro.
+{IN2.} Jvdio o moro [%2] & moro.
 no<n> puede uender a x<r><<i>><sti>ano. here-
 dat ni possession q<ue> aya; sin co-
 sentimiento del rey. o de so ba-
@@ -8167,7 +8167,7 @@ no por qui la pendra es feita.
 q<ue> no<n> es so exarich. Aq<ue>sto feito
 aq<ue>lla pendra deue seer lexada
 al moro o al iudio. sin embar-go
-{IN2.} Tot om<n>e [¶2] ne<n>guno.
+{IN2.} Tot om<n>e [%2] ne<n>guno.
 qui fore trobado leuando
 moros. a tierra de moros. sin}
 [fol. 60v]
@@ -8181,7 +8181,7 @@ yo. Enp<er>o los cuerpos dellos ço es
 del qui los lieua & de los moros.
 deuen seer rendidos al rey. o al
 m<er>ino del logar. o aq<ue>sto achae-ciere.
-{IN2.} Moros o moras [¶2]
+{IN2.} Moros o moras [%2]
 q<ue> habitan en las heredades
 del rey. si se camian por seer en
 las heredades del rey de los infa<n>-
@@ -8518,7 +8518,7 @@ linero si alguno embiare sin}
 [fol. 63r]
 {CB2.
 message so çiuera al moli-no.
-{IN2.} Si en un mismo [¶2]
+{IN2.} Si en un mismo [%2]
 rio foren dos molinos ue-
 zinos. & molieren daq<ue>l mis-
 mo rio o daq<ue>lla misma ag<u><<a>>.
@@ -8702,7 +8702,7 @@ do por prueua de falsa carta.
 L(e)[a] segunda q<ue> peite al sennor
 (.s<ueldo>s) .Lx. sol<idos>. La t<er>cera q<ue> nunq<u><<a>>
 sea recebido en ne<n>gun pleito.
-{IN2.} Testimo-nias [¶2] en testimo<n>io.
+{IN2.} Testimo-nias [%2] en testimo<n>io.
 p<ro>uadas de falsedat.
 deue<n> seer esquiradas en las ca-
 beças en cruces. & deuen seer
@@ -8712,7 +8712,7 @@ sennaladas en las fruentes}
 en cruces con el batallo de la ca<m>-
 pana rusie<n>t. & assi sean itados
 de la uilla layda me<n>t. o aq<ue>sto
-{IN2.} Jtado deue [¶2] acaeçiere.
+{IN2.} Jtado deue [%2] acaeçiere.
 seer de la uilla tot om<n>e contra
 qui fore p<ro>uado q<ue> aura iurada
 falsa iura. & depues nu<n>q<u><<a>> deue
@@ -8843,7 +8843,7 @@ q<u><<i>>er sea se<n>nor daq<ue>l edeficio. o
 daq<ue>l arbol. si q<u><<i>>er sea estranio
 aq<ue>l edificio o aq<ue>l arbol. no<n>
 sea rendido por culpa ni por
-{IN2.} Nengun [¶2] maleficio.
+{IN2.} Nengun [%2] maleficio.
 omne qui mata so enemi-
 go.}
 [fol. 65v]
@@ -9395,7 +9395,7 @@ nor de la uilla. los .xL. s<ueldo>s. Et
 en q<u><<i>>scuno caso de los deuandi-
 tos deue<n> auer la nouena part
 la iusticia. & los sayones los
-{IN2.} Qval quier [¶2] arienços.
+{IN2.} Qval quier [%2] arienços.
 çiudadano. o uillano q<ue> firie-
 re a infançon ermunio. troa
 espraymiento de sagne. o lo}

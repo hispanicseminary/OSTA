@@ -405,7 +405,7 @@ adios mercaderos q<ue> voyme a fynar}
 {CB1.
 ¶ {RUB. Diƽe la muerte.} ¶
 ¶ De oy mas no<n> curedes de pasar e<n> fla<n>de<<s>>
-Estad aq<u><<i>> q<ue>do & yredes ver ¶3 la tienda q<ue> tr<<a>>ygo
+Estad aq<u><<i>> q<ue>do & yredes ver %3 la tienda q<ue> tr<<a>>ygo
 de buuas y landres
 de gra<ci><<a>> las do no<n> las q<u><<i>>ero vender
 vna sola dellas vos fara caer
@@ -747,7 +747,7 @@ Se pierde del todo co<n> gra<n>d afliçio<n>}
 {CB1.
 ¶ {RUB. Diƽe la muerte} ¶
 ¶ Don rrabi. (rrabi) barbudo q<ue> syenpre estudia<<s>>-tes.
-En<e>l talmud. E enlos [^2#sus] doctores ¶2
+En<e>l talmud. E enlos [^2#sus] doctores %2
 E dela verdad. jamas no<n> curastes
 Por lo q<u><<a>>l. avredes penas & dolores
 llegad vos aca. co<n> los dançadores

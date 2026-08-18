@@ -168,7 +168,7 @@ este capit<u>lo. a .ix. capitulos desta razon.
 {IN1.} El capit<u>lo .ix. fabla en las costellat<i>o<n>es
 de los accaecem<en>tos q<ue> accaece<n> entre las
 yentes unas co<n> otras. & desto ay .viij.
-{IN1.} El .x<<o>>. capit<u>lo fabla en las ¶2 capit<u>los
+{IN1.} El .x<<o>>. capit<u>lo fabla en las %2 capit<u>los
 costellationes q<ue> significan los gran-des}
 [fol. 3r]
 {CB2.
@@ -220,23 +220,23 @@ planetas. q<ue> son. Saturno. Jupit<er>. & Mar<<s>>.
 de las planetas oppositas.
 {IN1.} El capit<u>lo .xx. fabla enla costellation
 q<ue> significa mata<n>ça de rey. co<n> enga<n>no
-{IN1.} El capitulo .xxi<<o>>. ¶2 & traycion.
+{IN1.} El capitulo .xxi<<o>>. %2 & traycion.
 fabla apartadame<n>t en la opposition
 de iupit<er>. & de Saturno. & en det<er>menar
 la bona signification de la mala.
 {IN1.} El capit<u>lo .xxij<<o>>. fabla en las costella-
 tiones de las quadraduras del Sol
 con mars. quales son bonas. & q<u><<a>>les
-{IN1.} El capitulo .xxiij<<o>>. fabla de ¶2 malas.
+{IN1.} El capitulo .xxiij<<o>>. fabla de %2 malas.
 las q<ue>ma<n>tes. & es de muyt fuertes &
 de uiriguadas sig<nif><<i>>cat<i>ones & cyertas.
-{IN1.} El capit<u>lo .xxiiij<<o>>. ¶2 & es en dos maneras.
+{IN1.} El capit<u>lo .xxiiij<<o>>. %2 & es en dos maneras.
 fabla en las costellat<i>ones que signi-
 fican karistia en uiandas.
 {IN1.} El capit<u>lo .xxv<<o>>. fabla en las costellat<i>o-
 nes [^q<ue> significan] rafeçia. & habo<n>dantia de pan & de
 las otras uiandas. & es p<ar>tido en dos
-{IN1.} El capit<u>lo .xxvi<<o>>. fabla en ¶2 manera<<s>>.
+{IN1.} El capit<u>lo .xxvi<<o>>. fabla en %2 manera<<s>>.
 saber el precio del pan en cada mes.
 {IN1.} El capit<u>lo .xxvij<<o>>. fabla en conocer la
 fortuna. & la i<n>fortuna de los signos.
@@ -1601,7 +1601,7 @@ la .xi<<a>>. ¶ Et en la tercera figura}
 son iupit<er> & mars en la .viij<<a>>. casa.
 & el sol en la .v<<a>>. ¶ Et en la .iiij<<a>>. fi-
 gura son iupit<er> & mars. en la .viij<<a>>.
-casa. & sol en la .xi<<a>>. ¶3 {RUB. en esta manera.}
+casa. & sol en la .xi<<a>>. %3 {RUB. en esta manera.}
 {RUB. {IN1.} Et depues camiaron las figuras +}}
 {CB1.
 {=DIAG=. | prima. Jupit<er>. Mars. Sol. |
@@ -2103,7 +2103,7 @@ mars en la .xij<<a>>. ¶ En la t<er>cera fig<ur>a}
 es saturn<us> en la .ix<<a>>. casa. Jupit<er> &
 mars en la .vi[<<a>>]. ¶ En la quarta fi-
 gura es saturn<us> en la .ix<<a>>. casa. Ju-
-pit<er> & mars en la .xij[<<a>>]. ¶3 {RUB. en esta man<er>a.}
+pit<er> & mars en la .xij[<<a>>]. %3 {RUB. en esta man<er>a.}
 {RUB. {IN1.} Et depues camyaron las figuras}}
 {CB1.
 {=DIAG=. | prima. Sol. sat<ur>n<us>. Jupit<er>. |
@@ -2834,7 +2834,7 @@ la setena casa. Saturnus et iupit<er>
 son en la quarta casa. ¶ En la
 quarta figura es el Sol en la .vij<<a>>.
 casa. Saturnus et iupit<er> son en la
-{RUB. {IN1.} Et depues camyaron +} [¶2] x<<a>>. casa.
+{RUB. {IN1.} Et depues camyaron +} [%2] x<<a>>. casa.
 {RUB. las figura[s] en esta otra manera.}}
 {CB1.
 {=DIAG=. | prima. Jupit<er>. Sat<ur>no. Mars. |
@@ -4472,7 +4472,7 @@ es iupit<er> en el asce<n>de<n>t. el sol
 en la q<u><<a>>rta casa. Saturn<us> es en la .x<<a>>.
 ¶ En la q<u><<a>>rta fig<ur>a es el sol en la .iiij<<a>>.
 casa. Jupit<er> en la .vij<<a>>. Saturn<us> en
-{RUB. {IN1.} Et depues camyaron +} ¶2 la .x<<a>>.
+{RUB. {IN1.} Et depues camyaron +} %2 la .x<<a>>.
 {RUB. las figuras en esta otra manera.}}
 {CB1.
 {=DIAG=. | p<r><<i>>ma. Sol. Mars[.] Jupit<er>. |
@@ -4491,7 +4491,7 @@ el sol en el asce<n>de<n>t. Mars en la
 quarta casa. Jupit<er> en la .vij<<a>>. ¶ En
 la q<u><<a>>rta figura es el sol en el asce<n>-
 de<n>t. Jupit<er> en la .vij<<a>>. casa. Mars en
-{RUB. {IN1.} Et depues camyaron +} ¶2 la .x<<a>>.
+{RUB. {IN1.} Et depues camyaron +} %2 la .x<<a>>.
 {RUB. las figuras en esta otra manera.}}
 {CB1.
 {=DIAG=. | p<r><<i>>ma. M<<a>>rs. Jupit<er>. Sol. |
@@ -4552,7 +4552,7 @@ es Mars en el ascendent. el sol en
 la q<u><<a>>rta casa. Jupit<er> en la .vij<<a>>. ¶ En
 la q<u><<a>>rta figura es mars en el asce<n>-
 de<n>t. Jupit<er> en la .vij<<a>>. casa. el sol en
-{RUB. {IN1.} Et depues camyaron las +} ¶2 la .x<<a>>.
+{RUB. {IN1.} Et depues camyaron las +} %2 la .x<<a>>.
 {RUB. figuras [^en] esta otra manera.}}
 {CB1.
 {=DIAG=. | prima. M<<a>>rs. Sat<ur>n<us>. Jupit<er>. |
@@ -5167,7 +5167,7 @@ sera en aq<ue>llos enemigos. & q<ue> el rey
 los uencera. & fara dellos lo q<ue> q<u><<i>>siere.
 & por a esto fizieron las figuras en }
 {CB1.
-{RUB. {IN1.} Et estas son las figura<<s>>.} [¶2] esta manera.
+{RUB. {IN1.} Et estas son las figura<<s>>.} [%2] esta manera.
 {=DIAG=. | prima. Sol. M<<a>>rs. |
 s<ecund>a. Sol. M<<a>>rs. |
 tercia. Sol. M<<a>>rs. |
@@ -6298,7 +6298,7 @@ casa. Jupiter en la .vij<<a>>. Saturno
 en la .x<<a>>. ¶ En la octaua figura
 es saturno en el asce<n>de<n>t. Mars
 en la quarta casa. Jupit<er> en la
-{RUB. {IN1.} Et depues camyaron las +} [¶2] vij<<a>>.
+{RUB. {IN1.} Et depues camyaron las +} [%2] vij<<a>>.
 {RUB. (las) figuras en esta otra manera.}}
 {CB1.
 {=DIAG=. | prima. Jupit<er>. Sol. M<<a>>rs. |
@@ -7294,7 +7294,7 @@ cidentes accaeceran sobre los ene-
 migos. & quando tu parares Myen-
 tes en estas costellationes. & en estos
 iudizios. acertaras. & non erraras
-{RUB. {IN1.} El t<er>cero capitulo delas +} [¶2] con dyos[.]
+{RUB. {IN1.} El t<er>cero capitulo delas +} [%2] con dyos[.]
 {RUB. planetas q<u><<a>>n<d>o son q<ue>madas. q<ue> signifi-
 can mata<n>ça delos Reyes. & delos senno-res. +}
 {IN2.} Sepas q<ue> de las q<ue>madas ay {RUB.}
@@ -7505,7 +7505,7 @@ Mars en la .viij<<a>>. casa. Saturno
 en la .xi<<a>>. ¶ En la quarta figura
 es Jupit<er> en el ace<n>de<n>t. sat<ur>no en la .v<<a>>.}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta Manera. ¶2 casa. Mars en la
+{RUB. {IN1.} Et depues camyaron las figuras en esta Manera. %2 casa. Mars en la
 .viij<<a>>.}
 {=DIAG=. | prima. Sol. Jupit<er>. M<<a>>rs. |
 s<ecund>a. Jupit<er>. Sol. M<<a>>rs. |
@@ -7891,7 +7891,7 @@ son Saturno Jupit<er> & el Sol en
 el ace<n>de<n>t. Mars en la .vij<<a>>. casa.
 En la quarta figura son sat<ur>no Jupit<er> & el sol en el acende<n>t. Mars enla .ix<<a>>.
 casa. ¶ En la quinta figura Son saturno. Jupit<er> & el sol en el acendent
-{RUB. {IN1.} Et depues camyaron las figuras en esta manera.} ¶2 Mars en la .xi<<a>>. casa
+{RUB. {IN1.} Et depues camyaron las figuras en esta manera.} %2 Mars en la .xi<<a>>. casa
 {=DIAG=. | prima. Sat<ur>n<us>. Jup<iter>. Sol. M<<a>>rs. |
 s<ecund>a. Sat<ur>n<us>. Jupit<er>. sol. M<<a>>rs. |
 tercia. Sat<ur>n<us>. Jup<iter>. Sol. M<<a>>rs. |
@@ -8162,7 +8162,7 @@ son Jupit<er> Mars & el Sol en la .vii<<a>>.
 casa. Saturno en el acendent.
 ¶ En la quarta figura son iupit<er> Mars & el sol en la .vij<<a>>. casa. Saturno en la
 t<er>cera. ¶ En la quinta figura Son Jupit<er>. Mars & el Sol en la .vii<<a>>. casa. Sat<ur>no
-{RUB. {IN1.} Et depues camyaron las figuras en esta manera. [¶2] en la .v<<a>>.}}
+{RUB. {IN1.} Et depues camyaron las figuras en esta manera. [%2] en la .v<<a>>.}}
 [fol. 68v]
 {HD. CAPITULO +}
 {CB1.
@@ -8437,7 +8437,7 @@ en la sexta. ¶ En la tercera fig<ur>a
 Son Saturno Mars & el Sol en la
 segonda casa. Jupit<er> en la .viij<<a>>.
 ¶ En la quarta figura Son Saturno Mars & el Sol en la s<egond>a casa. Jupit<er>
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la xij<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la xij<<a>>.
 {=DIAG=. | prima. Jupit<er>. Sol. Mars. Sat<ur>no. |
 s<ecund>a. Jupit<er>. Sol. Mars. Saturno. |
 tercia. Sol. M<<a>>rs. Saturno. Jupit<er>. |
@@ -8549,7 +8549,7 @@ figura Son Jupit<er> Mars & el Sol
 en la s<egond>a casa. Saturno en la .viij<<a>>.
 ¶ En la quarta figura Son Jup[^i]t<er> Mars & el Sol en la s<egond>a casa. Saturno en 
 la .x<<a>>. ¶ En la quinta figura Son Jupit<er> Mars & el Sol en la s<egond>a casa. Sat<ur>no
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la .xij<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la .xij<<a>>.
 {=DIAG=. | prima. Saturno. Sol. Mars. Jupit<er>. |
 s<ecund>a. Saturno. Sol. Mars. Jupit<er>. |
 tercia. Sol. Mars. Jupit<er>. Saturno. |
@@ -8566,7 +8566,7 @@ tercera figura Son Jupit<er> Mars
 en la decima. ¶ En la quarta
 figura Son Jupiter Mars & el Sol en la quarta casa. Saturno en la .xij<<a>>.
 ¶ En la quinta figura son Jupit<er> Mars & el Sol en la q<u><<a>>rta casa. Saturno en
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] la segonda.}
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] la segonda.}
 [fol. 74r]
 {HD. X}
 {CB1.
@@ -9936,7 +9936,7 @@ septima casa. Jupit<er> en la q<u><<a>>rta.
 ¶ En la quarta figura es el Sol
 en la .vij<<a>>. casa. Jupit<er> en la .x<<a>>. ¶ En la .v<<a>>. figura es el Sol en la .vij<<a>>. casa.
 Mars en la quarta. ¶ En la .vi<<a>>. figura es el Sol en la .vij<<a>>. casa. Mars en
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] la .x<<a>>.}
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] la .x<<a>>.}
 [fol. 85r]
 {HD. XIIII}
 {CB1.
@@ -10109,7 +10109,7 @@ en la t<er>cera. Sat<ur>no en la .vij<<a>>. ¶
 En la .viij<<a>>. figura es Mars en la
 viij<<a>>. casa. Saturno en la .vii<<a>>. Jupit<er>}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la .ix<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la .ix<<a>>.
 {=DIAG=. | p<r><<i>>ma. Saturno. M<<a>>rs. Jupit<er>. |
 s<ecund>a. M<<a>>rs. Jupit<er>. Saturno. |
 tercia. Jupit<er>. Mars. Saturno. |
@@ -10456,7 +10456,7 @@ t<er>cera. el Sol en la .v<<a>>. ¶ En la q<u><<a>>rta
 figura Son Saturno & iupit<er> en
 la .x<<a>>. casa. el Sol en la t<er>cera. Mars}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} ¶2 en la .v<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} %2 en la .v<<a>>.
 {=DIAG=. | prima. Sol. Sat<ur>no. M<<a>>rs. Jupiter. |
 s<ecund>a. Jupit<er>. Sat<ur>no. M<<a>>rs. Sol. |
 tercia. Sat<ur>no. M<<a>>rs. Jupit<er>. Sol. |
@@ -10837,7 +10837,7 @@ en la .ix<<a>>. Saturno en la .xi<<a>>. ¶ En
 la q<u><<a>>rta fig<ur>a son Mars. & el sol en la
 q<u><<a>>rta casa. Jupit<er> en la .xi<<a>>. Saturno}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la
 nouena.
 {=DIAG=. | prima. Jupit<er>. M<<a>>rs. sol. Saturno. |
 s<ecund>a. Sat<ur>no. M<<a>>rs. Sol. Jupiter. |
@@ -10856,7 +10856,7 @@ en la .vi<<a>>. ¶ En la t<er>cera fig<ur>a. son Mars
 figura son Mars. & el Sol en la .vij<<a>>.
 casa. Jupit<er> en la .xij<<a>>. Saturno}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la
 segonda.
 {=DIAG=. | prima. Jupit<er>. Sol. Mars. Saturno. |
 s<ecund>a. Jupit<er>. Mars. Sol. Saturno. |
@@ -10912,7 +10912,7 @@ regnado fuere aq<ue>l signo acende<n>t
 o .x<<a>>. casa. o q<ue> sea significador. daq<ue>l
 Rey. por qual otra manera quier.
 & Judga aq<ue>l destruymento ad aq<ue>l
-{RUB. {IN1.} Et por a esto fizieron las +} ¶2 Rey.
+{RUB. {IN1.} Et por a esto fizieron las +} %2 Rey.
 {RUB. figuras en esta otra manera.}}
 {CB1.
 {=DIAG=. | prima. Jupit<er>. M<<a>>rs. Sat<ur>no. Sol. |
@@ -12124,7 +12124,7 @@ enla quarta casa. Saturno. & Jupiter en la .x<<a>>.
 Mars enla quarta casa. Saturno & Jupit<er> en la .xij<<a>>. ¶ En la quinta
 figura es el Sol en acende<n>t. Saturno. & Jupit<er> en la s<egond>a casa. Mars
 enla
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} ¶2 quarta.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} %2 quarta.
 {=DIAG=. | prima. Sol. Jupiter. Saturno. M<<a>>rs. |
 s<ecund>a. Jupit<er> Saturno. Sol. M<<a>>rs. |
 t<er>cia. Jupit<er>. Saturno. Sol. M<<a>>rs. |
@@ -12588,7 +12588,7 @@ Saturno. & Mars en la .vi<<a>>. Jupiter en la decima.
 Saturno enla quarta. Jupit<er> (^enla .viij<<a>>. & Mars.) [^& Mars. enla .viij<<a>>.] ¶ En
 la .v<<a>>. figura es el Sol en la s<egond>a casa. Jupit<er>. & Mars en la
 .viij<<a>>. Saturno en la
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} ¶2 decima.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} %2 decima.
 {=DIAG=. | prima. Sol. Sat<ur>no. Jupit<er>. M<<a>>rs. |
 s<ecund>a. Sol. Sat<ur>no. M<<a>>rs. Jupit<er>. |
 tercia. Sol. Jupit<er>. Sat<ur>no. M<<a>>rs. |
@@ -12719,7 +12719,7 @@ cera figura son Saturno & Mars enla quarta casa.
 Jupit<er> en la .vi<<a>>. el Sol en la .x<<a>>. ¶ Enla quarta figura
 son Jupit<er> & Mars enla quarta casa. el sol enla .x<<a>>. Saturno enla .xij<<a>>.
 {IN1.} E(E)nla quinta figura son Jupit<er> & Mars enla q<u><<a>>rta casa. saturno enla .vj<<a>>.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] el Sol enla .x<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] el Sol enla .x<<a>>.
 {=DIAG=. | p<r><<i>>ma. Sat<ur>no. Jup<iter>. M<<a>>rs. Sol. |
 s<ecund>a. Sat<ur>no. M<<a>>rs. Jupit<er>. Sol. |
 tercia. Sat<ur>no. M<<a>>rs. Sol. Jupit<er>. |
@@ -12737,7 +12737,7 @@ casa. Jupit<er> enla .vij<<a>>. el Sol enla .xi<<a>>. ¶ En la
 quarta figura es saturno en lacendent. Jupit<er>. &
 Mars enla quinta casa. el sol enla .xi<<a>>. ¶ En la
 quinta figura son Jupit<er> & Mars enla .v<<a>>. casa. Saturno enla .vij<<a>>. el sol
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] enla .xi<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] enla .xi<<a>>.
 {=DIAG=. | prima. M<<a>>rs. Sol. Jupit<er>. Sat<ur>no. |
 s<ecund>a. Jupit<er>. Sol. M<<a>>rs. Sat<ur>no. |
 tercia. Sol. Jupit<er>. M<<a>>rs. Sat<ur>no. |
@@ -13234,7 +13234,7 @@ figura es sol en acende<n>t. Jupit<er> & Saturno enla s<egond>a casa. Mars en la
 tercera. ¶ Enla octaua figura es el Sol en acende<n>t. Jupit<er> en la s<egond>a
 casa. Mars enla tercera. caput enla .vij<<a>>. ¶ Enla nouena figura es
 el Sol en ace<n>de<n>t. Jupit<er>. & Saturno enla s<egond>a casa. Mars en la t<er>cera. caput
-{RUB. {IN1.} Et depues camyaron las figuras desta otra manera.} ¶2 en la .xi<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras desta otra manera.} %2 en la .xi<<a>>.
 {=DIAG=. | prima. caput. Jup<iter>. saturno. M<<a>>rs. Sol. |
 s<ecund>a. Jupit<er>. sat<ur>no. M<<a>>rs. caput. Sol. |
 tercia. Jupit<er>. sat<ur>no. caput. Sol. |
@@ -14110,7 +14110,7 @@ Mars en la quinta casa. Sol en la .xi<<a>>. Jupit<er>. & Saturno enla .xij<<a>>.
 octaua figura son Mars. & caput en la quinta casa. Sol en la undecima.
 Jupit<er>. & Saturno son en la duodecima. ¶ En la nouena figura es Mars
 en la quinta casa. caput en la nouena. Jupit<er>. & Saturno en la .xij<<a>>. Sol
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] enla .xi<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] enla .xi<<a>>.
 {IN1.} En la primera figura destas es caput en ace<n>de<n>t. Sol en la t<er>cera casa.
 Mars enla nouena. Jupit<er>. & Saturno en la .xij<<a>>. ¶ Enla segonda figura
 es el Sol enla t<er>cera casa. caput enla .v<<a>>. Mars enla .ix<<a>>. Jupit<er>. & Saturno.
@@ -14253,7 +14253,7 @@ Mars enla .viij<<a>>. caput enla .xij<<a>>. ¶ En la .vii<<a>>. figura son Jupit
 el [Sol] en la s<egond>a casa. caput enla q<u><<a>>rta. Mars en la .xij<<a>>. ¶ Enla .viij<<a>>. figura son
 Jupit<er>. Saturno. & el sol enla s<egond>a casa. caput enla .viij<<a>>. Mars en la .xij<<a>>. ¶ En
 la .ix<<a>>. figura son Jupit<er>. saturno. & el sol enla .ix<<a>>. casa. Mars. & caput en la
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera} [¶2] duodecima.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera} [%2] duodecima.
 {=DIAG=. | prima. Sol. M<<a>>rs. caput. Jup<iter>. sat<ur>no. |
 s<ecund>a. caput. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. |
 tercia. Sol. M<<a>>rs. Jup<iter>. saturno. caput. |
@@ -14649,7 +14649,7 @@ figura es el Sol en la s<egond>a casa. Mars en la quarta. Jupit<er>. & Saturno e
 la .vi<<a>>. caput enla .viij<<a>>. ¶ Enla octaua figura es el Sol en la s<egond>a casa.
 Mars enla quarta. Jupit<er> & Saturno enla .vi<<a>>. caput enla .xij<<a>>. ¶ Enla
 .ix<<a>>. figura es sol enla s<egond>a casa. Mars & caput enla q<u><<a>>rta. Jupit<er>. & Saturno en
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} ¶2 la sexta.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} %2 la sexta.
 {=DIAG=. | prima. M<<a>>rs. caput. Jup<iter>. sat<ur>n<us>. sol. |
 s<ecund>a. caput. M<<a>>rs. Jup<iter>. sat<ur>n<us>. sol. |
 t<er>cia. M<<a>>rs. Jup<iter>. sat<ur>n<us>. sol. caput. |
@@ -17186,7 +17186,7 @@ Mars. & el Sol enla .xij<<a>>. ¶ En
 la .xij<<a>>. figura es saturno en la
 vi<<a>>. casa. Jupit<er> en la .ix<<a>>. Mars & el}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figura<<s>> en esta otra manera.} [¶2] Sol en la .xij<<a>>.
+{RUB. {IN1.} Et depues camyaron las figura<<s>> en esta otra manera.} [%2] Sol en la .xij<<a>>.
 {=DIAG=. | prima. Jupit<er>. Sol. Saturno. M<<a>>rs. |
 s<ecund>a. Jupit<er>. sol. Sat<ur>no. M<<a>>rs. |
 tercia. Jupit<er>. Sol. Sat<ur>no. M<<a>>rs. |
@@ -17566,7 +17566,7 @@ duodecima figura es Mars en
 la nouena casa. Saturno et
 Jupiter en la undecima. Sol en}
 {CB1.
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] la duodecima.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] la duodecima.
 {=DIAG=. | prima. sat<ur>no. Jupit<er>. M<<a>>rs. Sol. |
 s<ecund>a. sat<ur>no. Jupit<er>. M<<a>>rs. Sol. |
 tercia. Sol. M<<a>>rs. sat<ur>no. Jupit<er> |
@@ -17654,7 +17654,7 @@ la duodecima. ¶ Enla octaua figura es el Sol en la tercera casa. Sat<ur>no
 & Jupit<er> en la xi<<a>>. Mars en la .xij<<a>>. ¶ En la nouena figura es el Sol en la
 sexta casa. Saturno & Jupit<er> en la .xi<<a>>. Mars en la .xij<<a>>. ¶ En la decima fi-
 gura es el Sol en la nouena casa. saturno. & Jupit<er> en la .xi<<a>>. Mars en la
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} ¶2 duodecima.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} %2 duodecima.
 {=DIAG=. | prima. sat<ur>no. Jupit<er>. Sol. M<<a>>rs. |
 s<ecund>a. sat<ur>no. Jupit<er>. M<<a>>rs. Sol. |
 tercia. Sol. M<<a>>rs. sat<ur>no. Jupit<er>. |
@@ -17686,7 +17686,7 @@ tercera casa. Mars e la .vi<<a>>. Saturno. & Jupiter en la duodecima. (^Enla)}
 {HD. XXXVI}
 {CB1.
 ¶ En la decima figura es el Sol en la quinta casa. Mars en la .vi<<a>>. Sat<ur>no
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] & Jupiter en la .xij<<a>>.
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] & Jupiter en la .xij<<a>>.
 {=DIAG=. | prima. Jupit<er>. M<<a>>rs. Sol. sat<ur>no. |
 s<ecund>a. Jupit<er>. M<<a>>rs. Sol. sat<ur>n<us>. |
 tercia. Jupit<er>. M<<a>>rs. Sat<ur>no. Sol. |
@@ -17911,7 +17911,7 @@ sol enla .xij<<a>>. ¶ En la octaua figura es Jupit<er> en la tercera casa. Satu
 & Mars enla .xi<<a>>. Sol en la .xij<<a>>. ¶ En la nouena figura es Jupit<er> en la
 sexta casa. Saturno. & Mars en la .xi<<a>>. Sol en la .xij<<a>>. ¶ En la decima
 figura es Jupit<er> en la nouena casa. Saturno. & Mars enla .xi<<a>>. Sol en
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] la duodecima.}
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] la duodecima.}
 [fol. 169r]
 {HD. XXXVI}
 {CB1.
@@ -18348,7 +18348,7 @@ xi<<a>>. Sol enla .xij<<a>>. ¶ En la quarta figura es Jupit<er> en la .vi<<a>>.
 en la .ix<<a>>. Saturno en la .xi<<a>>. Sol en la .xij<<a>>. ¶ Enla quinta figura es mars
 en la .vi<<a>>. casa. Saturno en la .ix<<a>>. Jupit<er> enla .xi<<a>>. Sol en la .xij<<a>>. ¶ Enla .vi<<a>>.
 figura es mars en la .vi<<a>>. casa. Jupit<er> en la nouena. Saturno en la .xi<<a>>. sol
-{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [¶2] en la duodecima
+{RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.} [%2] en la duodecima
 {=DIAG=. | prima Sol. M<<a>>rs. Jupit<er>. Sat<ur>no. |
 s<ecund>a. M<<a>>rs. Jupit<er>. Sat<ur>no. Sol. |
 tercia. M<<a>>rs. Sol. Jupit<er>. Sat<ur>no. |

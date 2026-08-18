@@ -161,8 +161,8 @@ q<ue> desecha<n> .f<oli><<o>> .cxljx. ley .iij.
 {HD. \ Lij}
 {CB1.
 {LAT. S<an>c<t>i sp<ir><<i>><tu>s adsit nobis gr<<a>><ti>a. AmeN.}
-{LAT. {IN2.} IN p<r><<i>>ncip[*io] erat u<er>bu<m>: et u<er>bu<m> erat ap<u>d d<eu>m & d<eu>s [¶2] {RUB. Initiu<m> <sant>i euang<e>lij [*secundum] +}
-[*er]at u<er>bum. Hoc erat in p<r><<i>>ncipio ap<u>d d<eu>m. Om<n>ia p<er> ip<su>m facta su<n>t [¶2] {RUB. ioh<ann>em.}
+{LAT. {IN2.} IN p<r><<i>>ncip[*io] erat u<er>bu<m>: et u<er>bu<m> erat ap<u>d d<eu>m & d<eu>s [%2] {RUB. Initiu<m> <sant>i euang<e>lij [*secundum] +}
+[*er]at u<er>bum. Hoc erat in p<r><<i>>ncipio ap<u>d d<eu>m. Om<n>ia p<er> ip<su>m facta su<n>t [%2] {RUB. ioh<ann>em.}
 et sine ip<s>o f<a>c<tu>m est ni(c)hil. Quod f<a>c<tu>m est in ip<s>o uita erat: & uita erat lux ho-
 minu<m>. ⅋ lux in tenebris lucet: & tenebre eam no<n> co<m>prehenderu<n>t. Fuit homo miss<us>
 a d<e>o cui nome<n> erat ioh<ann>es. Hic ue<n>it in testi<m>o<n>ium ut testimoniu<m> p<er>hib<er>et de lu-
@@ -507,11 +507,11 @@ tençias sean guardadas por nos & por ellos. de guisa q<ue> el poder te<m>-
 poral. & el sp<irit>ual: q<ue> ujene todo de dios se acuerde en uno. Et las sen-
 te<n>çias q<ue> los p<re>lados pusiere<n> sobre estas cosas sean bien tenjdas. fasta
 q<ue> la emje<n>da sea fecha. Et q<u><<a>>ndo la emjenda fuere fecha: la sente<n>çia sea
-¶2 luego tollida.}
+%2 luego tollida.}
 [fol. 57v]
 {HD. Libro .j<<o>>. .T<itulo> .v<<o>>. & [.]vj<<o>>.}
 {CB1.
-{IN2.} DEfendemos q<ue> nj<n>gun xpi<sti>ano. nj<n> judio nj<n> otro om<n>e. [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} DEfendemos q<ue> nj<n>gun xpi<sti>ano. nj<n> judio nj<n> otro om<n>e. [%2] {RUB. Ley .iiij<<a>>.}
 nj<n>guno no<n> sea osado de co<m>prar. nj<n> de tomar. a pen<n>os caliçes nj<n>
 libros. nj<n> cruƽes nj<n> uestimie<n>tas nj<n> otros ornamje<n>tos q<ue> sean dela egl<es>ia. Et si
 alguno lo tomare ent<er>guelo libre mje<n>t<e> ala egl<es>ia sin p<re>çio nj<n>gu<n>o. Et man-
@@ -647,7 +647,7 @@ reçebir esta prueua: nj<n>guno dellos no<n> judgue su pl<e>ito. mas den le otro
 om<n>e q<ue> lo judgue q<ue> no<n> sea sospechoso o amas las p<ar>tes abengansse en algu<n>o
 q<ue> los judgue. Et si no<n> se q<u><<i>>sieren abenjr en dos om<ne>s bonos. q<ue> reçiban la prue-
 ua d<e>la sospecha aq<ue>llos alcall<e>s mismos constringan los fasta q<ue> se abengan entrello<<s>>
-{IN2.} Estas son las razones. por q<ue> pueden los alcall<e>s seer [¶2] {RUB. .Ley .x<<a>>.}
+{IN2.} Estas son las razones. por q<ue> pueden los alcall<e>s seer [%2] {RUB. .Ley .x<<a>>.}
 desechados por sospechosos d<e>los pleytos q<ue> no<n> los judgue<n>. Si el al-
 call<e> ha parte enla dema<n>da sobre q<ue> es [^el] pl<e>ito: o si es parient<e> de alguna d<e>las
 partes fasta aq<ue>l grado q<ue> dize la nouena ley d<e>l titulo d<e>las prueuas q<ue> no<n>
@@ -807,7 +807,7 @@ d<e>la uoz: o lo de el uozero esc<r><<i>>pto al alcall<e>. Et qui cont<r><<a>> e
 jamas uozero en nj<n>gun pl<e>ito por otro. ¶ {RUB. Tit<u>lo .x<<o>>. delos p<er>soneros}
 {GL. [^[*¶ en q<ue> ay
 xix leys.]]}
-{IN2.} LAs p<ar>tes q<ue> pl<e>ito ouiere<n>: si no<n> pudiere<n> o no<n> q<u><<i>>siere<n> por [¶2] {RUB. .Ley .j<<a>>.}
+{IN2.} LAs p<ar>tes q<ue> pl<e>ito ouiere<n>: si no<n> pudiere<n> o no<n> q<u><<i>>siere<n> por [%2] {RUB. .Ley .j<<a>>.}
 si uenir al pl<e>ito den p<er>son<er>os ant<e>l alcall<e> o enbien los co<n> su carta
 de p<er>son[<er>]ia q<ue> sea fecha por mano del esc<r><<i>>uan<o> publico o si no<n> sea seellada
 con su Seello o de otro seello q<ue> sea con<n>osçido. {RUB. .Ley .ij<<a>>.}
@@ -818,16 +818,16 @@ si fuere pleyto q<ue> caya en justiçia de cuerpo o de mjembro. Et en todo
 pl<e>ito pueda dar vozero el duen<n>o d<e>la uoz o su p<er>son<er>o. Et el duen<n>o d<e>la
 uoz pueda cambiar su p<er>son<er>o o su uozero q<u><<a>>ndo q<u><<i>>siere. Et de su gua-
 lardo<n> a aq<ue>l a q<u><<i>>en tuelle la p<er>soneria o la uoz si por su culpa no<n> la p<er>diere.
-{IN2.} Si acaesçiere q<ue> Rey o jnfant<e> fijo de Rey & de Reyna o [¶2] {RUB. .Ley .iij<<a>>.}
+{IN2.} Si acaesçiere q<ue> Rey o jnfant<e> fijo de Rey & de Reyna o [%2] {RUB. .Ley .iij<<a>>.}
 arçob<is>po o ob<is>po aya pl<e>ito co<n> otro alguno den cada uno dellos q<u><<i>>
 razone por si. ca no<n> es guisado q<ue> otro om<n>e les contradiga lo q<ue> ellos dixiere<n>.
-{IN2.} Niguna mug<er> no<n> razone pl<e>ito ageno nj<n> pueda seer p<er>son<er>a [¶2] {RUB. .Ley .iiij<<a>>.}
+{IN2.} Niguna mug<er> no<n> razone pl<e>ito ageno nj<n> pueda seer p<er>son<er>a [%2] {RUB. .Ley .iiij<<a>>.}
 de ot<r><<e>> mas su pl<e>ito p<ro>p<r><<i>>o o de sus fijos seyendo su tutora puedalo
-¶2 razonar si quisiere.}
+%2 razonar si quisiere.}
 [fol. 62v]
 {HD. Libro .j<<o>>. .T<itulo> .x<<o>>.}
 {CB1.
-{IN2.} TOdo marido pueda sin otra p<er>son<er>ia dema<n>dar & responder [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} TOdo marido pueda sin otra p<er>son<er>ia dema<n>dar & responder [%2] {RUB. Ley .v<<a>>.}
 por su mug<er>. Et todo parient [^por su parient] fasta en aq<ue>l grado q<ue> ma<n>da la
 nouena (la) ley deste fuero del titulo d<e>las testimo<n>ias. q<ue> no<n> pueda tes-
 tiguar el uno por el otro. Et esto sea dando fiador por el q<ue> dema<n>da-
@@ -897,7 +897,7 @@ fuere judgado. Et si el dema<n>dador no<n> ujnjere. nj<n> embiare otro nj<n>gu<n
 no<n> pueda dema<n>dar por el maguer q<ue> de recabdo q<ue> estara por ello: si
 no<n> fuere daq<ue>llos q<ue> son nombrados en la q<u><<i>>nta ley deste titulo. Ca en
 poder es del dema<n>dador de fazer su dema<n>da q<u><<a>>ndo ouiere guisado.
-{IN2.} Si much<o>s an un pl<e>ito deso uno q<u><<i>>er en dema<n>dar q<u><<i>>er en [¶2] {RUB. Ley .xv<<a>>.}
+{IN2.} Si much<o>s an un pl<e>ito deso uno q<u><<i>>er en dema<n>dar q<u><<i>>er en [%2] {RUB. Ley .xv<<a>>.}
 responder den todos un p<er>son<er>o. ca no<n> es razo<n> q<ue> un pl<e>ito se ra-
 zone por muchos. {RUB. .Ley .xvj<<a>>.}
 {IN2.} Qvien q<u><<i>>er q<ue> de p<er>son<er>o en su pl<e>ito cont<r><<a>> otro. no<n> de p<er>son<er>o mas
@@ -905,14 +905,14 @@ poderoso q<ue> es su co<n>tendedor. mas si om<n>e poderoso ouiere pl<e>ito
 con om<n>e pobre. Et no<n> q<u><<i>>siere por si traer el pl<e>ito: de p<er>son<er>o q<ue> no<n> sea
 mas poderoso q<ue> aq<ue>l con q<u><<i>>en ha el pl<e>ito. Et si el pobre ouiere pl<e>ito
 co<n> om<n>e poderoso: pueda dar por si ta<n> poderoso com<m>o es su co<n>tendedor.
-{IN2.} Otrossi ma<n>damos q<ue> assi com<m>o el duen<n>o d<e>la uoz q<u><<i>>ere [¶2] {RUB. Ley .xvij<<a>>.}
+{IN2.} Otrossi ma<n>damos q<ue> assi com<m>o el duen<n>o d<e>la uoz q<u><<i>>ere [%2] {RUB. Ley .xvij<<a>>.}
 ganar por aq<ue>llo q<ue> el p<er>son<er>o gana o meiora en su pl<e>ito. assi
 mandamos q<ue> sufra el dan<n>o q<ue> por el le ujniere: si por su razo<n> el pl<e>ito
 le empeorare. Pero si el p<er>son<er>o a sabiendas / o por algu<n> engan<n>o algu<n>a
 cosa fiziere o manjfestare en el pl<e>ito o testigos q<ue> auja no<n> q<u><<i>>siere dar;
 o cartas q<ue> tenja p<ar>a pro de su pl<e>ito no<n> q<u><<i>>siere mostrar. Et el duen<n>o
 d<e>la uoz por y p<er>diesse su pl<e>ito: el p<er>s(e)[o]n<er>o sea tenjdo del pechar q<u><<a>>nto por el p<er>d[*io.]
-{IN2.} Si alguno diere p<er>son<er>o en algu<n> pl<e>ito: & ante q<ue> el [¶2] {RUB. .Ley .xviij[<<a>>].}
+{IN2.} Si alguno diere p<er>son<er>o en algu<n> pl<e>ito: & ante q<ue> el [%2] {RUB. .Ley .xviij[<<a>>].}
 p<er>son<er>o entre en la uoz co<n> el co<n>tendedor: muriere el duen<n>o d<e>la}
 [fol. 64r]
 {HD. Libro .j<<o>>. .T<itul>[*<<o>>] .x[*<<o>>]. \ Lxiiij<<o>>}
@@ -1027,7 +1027,7 @@ la cosa q<ue> otro tenja ant<e> q<ue> la ganasse por derech<o>. {RUB. .Ley .iij<
 {IN2.} Qvi la cosa q<ue> es metida en co<n>tienda de juyzio reçibiere sabie<n>-
 do q<ue> era en contienda sea tenudo de respo<n>der & de fazer dere-
 ch<o> a aq<ue>l q<ue> la dema<n>daua assi com<m>o era tenudo aq<ue>l de q<u><<i>>en la reçibio.
-{IN2.} Sj alguna cosa fuere metida en co<n>tienda de juyzio; [¶2] {RUB. .Ley .iiij<<a>>.}
+{IN2.} Sj alguna cosa fuere metida en co<n>tienda de juyzio; [%2] {RUB. .Ley .iiij<<a>>.}
 Et aq<ue>l q<ue> la toujere: la enagenare ant<e> q<ue> sea librada por
 juyzio. o por abene<n>çia: en poder del dema<n>dador ssea d<e>la dema<n>dar
 a aq<ue>l q<ue> la enageno: o a aq<ue>l q<ue> la reçibio.}
@@ -1059,7 +1059,7 @@ a aq<ue>l q<ue> la enageno: o a aq<ue>l q<ue> la reçibio.}
 [fol. 66v]
 {HD. Libro .ij[*<<o>>]. .T<itul>[*<<o>>] .j[*<<o>>].}
 {CB1.
-{IN3.} TO-D-O Om<n>e q<ue> morare so algun sen<n>orio & fiziere y algun [¶2] {RUB. Ley .j<<a>>.}
+{IN3.} TO-D-O Om<n>e q<ue> morare so algun sen<n>orio & fiziere y algun [%2] {RUB. Ley .j<<a>>.}
 fech<o> malo por q<ue> deua auer pen<<a>> del cuerpo o del auer
 Et passare morar a otr(^a)[^o] sen<n>orio alli resp(^a)[^o]nda. & alli
 tome juyzio ant<e> aq<ue>l alcall<e> en cuya t<ie>rra fuere el fecho. Et no<n> se pue-
@@ -1137,7 +1137,7 @@ deroso no<n> q<u><<i>>siere exir d<e>l juyzio por ma<n>dado del alcall<e>. peche
 dor q<ue> es d<e>la otra p<ar>te. Et echelo el alcall<e> d<e>l juyƽio abiltadamjent<e>.
 Et todos los q<ue> no<n> q<u><<i>>siere<n> del juyzio salir por ma<n>dado del alcall<e>. peche<n>
 cada uno dellos dieƽ .m<a>r<avedis>. la meetad al Rey. & la meetad al alcall<e>.
-{IN2.} Por q<ue> los come<n>dadores de q<u><<a>>l q[<u><<i>>]er orden: q<ue> son puestos [¶2] {RUB. Ley .viij<<a>>.}
+{IN2.} Por q<ue> los come<n>dadores de q<u><<a>>l q[<u><<i>>]er orden: q<ue> son puestos [%2] {RUB. Ley .viij<<a>>.}
 en las baylias no<n> pueden auer sus mayores p<ar>a dema<n>dar sus
 derechos: sobr<e> las cosas q<ue> p<er>tenesçen a sus baylias. Et por q<ue> aqu[*i] re[*s]-
 çiben dan<n>os & menoscabos las baylias. Estableçemos q<ue> todo Come[<n>]dador
@@ -1239,7 +1239,7 @@ mje<n>tre q<ue> en pl<e>ito andidiere<n>. Et las p<ar>tes no<n> sean osadas de g
 meter. nj<n> de g<e>lo dar en njgu<n>a manera. Et la p<ar>te q<ue> cont<r><<a>> esto fizie-
 re: pierda el pl<e>ito: si p<ro>uado le fuere. Et el alcall<e> peche doblado al
 Rey aq<ue>llo q<ue>l p<ro>metiero<n>. o q<ue> ende reçibio. Et nu<n>ca jamas sea alcall<e>.
-{IN2.} Qvando el alcall<e> ma<n>dare peyndrar: testar o embargar [¶2] {RUB. .Ley .iij<<a>>.}
+{IN2.} Qvando el alcall<e> ma<n>dare peyndrar: testar o embargar [%2] {RUB. .Ley .iij<<a>>.}
 algu<n>a cosa o el mismo judgare algu<n> juyzio q<ue> no<n> sea afina-
 do pueda lo eme<n>dar: si ente<n>diere q<ue> erro en lo q<ue> judgo o q<ue> ma<n>do. Et
 emjende lo fasta t<er>çer dia. Et si algu<n>a d<e>las p<ar>tes se agrauiare. & se
@@ -1399,7 +1399,7 @@ Et si a estos plazos no<n> ujniere o no<n> embiare p<er>son<er>o: aya la pena
 q<ue> es puesta cont<r><<a>> los rebeldes. saluo si ant<e> q<ue> el alcall<e> lo diesse por
 ue<n>çido ujnjesse & mostrasse razo<n> derecha d<e>las q<ue> dizen en la ley
 postrema del titulo d<e>los p<er>son<er>os por q<ue> no<n> pudo uenir a los plazos.
-{IN2.} Aq<ue>llos q<ue> seyendo p<re>sentes en la villa o en el logar [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} Aq<ue>llos q<ue> seyendo p<re>sentes en la villa o en el logar [%2] {RUB. .Ley .vj<<a>>.}
 o en su t<er>mjno o en su judgo fuere<n> y aplazados. al menos
 la una uegada. en p<er>sona: desi otras dos uegadas en su morada.
 & no<n> quisiere<n> uenir o co<m>plir de derech<o>. nj<n> embiar p<er>son<er>o. en nj<n>gu<n>o
@@ -1439,7 +1439,7 @@ njer fasta [??] an<n>o. & pudier mostrar sin alongamje<n>to de pl<e>ito. embargo
 {CB1.
 o raƽo<n> derecha. por q<ue> no<n> pudo uenir nj<n> enbiar p<er>son<er>o a los plaƽos:
 el alcall<e> deuel faƽer tornar sus bienes & oyr le a derech<o> con su contendedor.
-{IN2.} Qvando los conte<n>dedores entre si pone<n> plaƽo. a q<ue> sean [¶2] {RUB. .Ley .vij<<a>>.}
+{IN2.} Qvando los conte<n>dedores entre si pone<n> plaƽo. a q<ue> sean [%2] {RUB. .Ley .vij<<a>>.}
 ant<e>l alcall<e> sin ma<n>dado del alcall<e>: el q<ue> no<n> ujniere al plaƽo.
 no<n> aya pena. si no<n> si la pusiere<n>: mas si algu<n> plazo fuere puesto
 por ma<n>dado del alcall<e>. & los contendedores entre si se aujnjere<n>. & ca-
@@ -1480,7 +1480,7 @@ no<n> deue seer aplaƽado de ot<r><<o>> menor juez nj<n> el marido. nj<n> la mug
 tre faze sus bodas. nj<n> aq<ue>llos q<ue> uan a enterrar a algu<n>o de sus parie<n>tes
 o de sus paniguados o de sus s<er>uie<n>tes. Et apla(^??)[^ƽ]amje<n>to q<ue> fuere fech<o>
 cont<r><<a>> estos atales no<n> uala nj<n> sean tenidos de yr a tal aplaƽamje<n>to.
-{IN2.} Por q<ue> acaesçe q<ue> los q<ue> faƽe<n> aplaƽar alos otros no<n> [¶2] {RUB. .Ley .x<<a>>.}
+{IN2.} Por q<ue> acaesçe q<ue> los q<ue> faƽe<n> aplaƽar alos otros no<n> [%2] {RUB. .Ley .x<<a>>.}
 q<u><<i>>ere<n> uenir al plazo: & si ujene<n> no<n> q<u><<i>>ere<n> dema<n>dar: o ua<n> se de ant<e>
 el alcall<e> sin su ma<n>dado; ant<e> q<ue> dema<n>den: ma<n>damos q<ue> por q<u><<a>>l q<u><<i>>er destas
 cosas caya el dema<n>dador en la pena delos dos din<er>os d<e>l emplazamje<n>to
@@ -1761,7 +1761,7 @@ creedes & coydades defender bue<n> pl<e>ito & uerdadero. & la jura fecha. el alc
 deue p<re>gu<n>tar sobr<e> la jura. a cada una d<e>las partes q<ue>l diga<n> uerdat. & la part<e>
 q<ue> no<n> q<u><<i>>siere (^refiere) responder ala su p<re>gu<n>ta. Mandando g<e>lo el alcall<e>. deue
 la dar. & fazer esc<r><<i>>uir por con<n>osçida. & por manifiesta. q<u><<a>>nto en razo<n> de aq<ue>lla
-{IN2.} IVdios aujendo a jurar la jura d<e>la manq<u><<a>>dra. deue<n> [¶2] {RUB. .Ley .iij<<a>>.} ¶2 p<re>gu<n>ta.
+{IN2.} IVdios aujendo a jurar la jura d<e>la manq<u><<a>>dra. deue<n> [%2] {RUB. .Ley .iij<<a>>.} %2 p<re>gu<n>ta.
 la fazer en esta man<er>a. el alcall<e>. o el esc<r><<i>>uan<o>. q<ue> ha de reçebir la jura
 deue tomar al judio o judia por la mano: Et deue assi dezir. juras me tu
 fulan judio. por aq<ue>l dio de abraham & de ysaach & de iacob. diga juro. jura<<s>>
@@ -1776,7 +1776,7 @@ q<ue> ech<o> moyses alos fijos de isr<ae>l q<u><<a>>ndo adoraro<n> el ydolo. res
 [fol. 78r]
 {HD. Libro .ij<<o>>. .T<itul>[*<<o>>] .vij[*<<o>>.] \ [*Lxxviij<<o>>]}
 {CB1.
-{IN2.} MOros an su jura apartada en esta man<er>a. Deue el moro [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} MOros an su jura apartada en esta man<er>a. Deue el moro [%2] {RUB. Ley .iiij<<a>>.}
 estar en pie. & tornar se de cara & alçar la mano contral meridie:
 a q<u><<i>> llama[<n>] ellos alq<u><<i>>bla: & el q<u><<i>> ouiere a tomar la jura. deue dezir estas
 palabras. juras me tu fulan moro. por aq<ue>l dios q<ue> no<n> ha otro si no<n> el.
@@ -1847,7 +1847,7 @@ esc<r><<i>>pto o por ot<r><<a>> carta o por tres testigos llamados & rrogados se
 mjent<e> a ueer fazer la paga Et q<ue> testiguen sobr<e> jura. q<ue> la ujero<n> fazer
 o q<ue> uiero<n> & oyero<n> com[<m>]ol q<u><<i>>to aq<ue>l la debda. Et prueua q<ue> de otra guisa sea
 fecha no<n> vala. Et llamamos Rua do ha alcall<e>s & m<er>cado. & justiçia de suyo.
-{IN2.} Qvando algun om<n>e fiziere dema<n>da cont<r><<a>> otro sobre bestia. [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} Qvando algun om<n>e fiziere dema<n>da cont<r><<a>> otro sobre bestia. [%2] {RUB. Ley .ij<<a>>.}
 o sobre otro ganado q<u><<a>>l q<u><<i>>er. aq<ue>l q<ue> toujere la bestia o el ganado
 lo deue tener. mje<n>tre q<ue> andudiere<n> en pl<e>ito. Et si este tenedor dixiere q<ue>
 en su casa nasçio o dixiere el t<iem>po de q<u><<a>>ndo lo ha: o en com<m>o lo ouo & q<ue> es
@@ -1917,7 +1917,7 @@ ant<e> q<u><<i>> las amenazo Et si las firiere todas o alguna dellas peche al
 Rey [??] ala part<e> q<ue> las aduxiere la pena sobr<e>dicha. d<e>los q<u><<a>>renta .m<a>r<avedis>.
 [???]. Et ala testimonja q<ue> firiere. la calon<n>a de las feridas q<ue>
 el fuero ma<n>da doblada. Et demas peche doze .m<a>r<avedis>. al alcall<e> ant<e> q<u><<i>>en
-{IN2.} Todo om<n>e q<ue> a otro dema<n>dare auer & el ot<r><<o>> [¶2] {RUB. Ley [.]vij[<<a>>].} ¶2 la firiere.
+{IN2.} Todo om<n>e q<ue> a otro dema<n>dare auer & el ot<r><<o>> [%2] {RUB. Ley [.]vij[<<a>>].} %2 la firiere.
 con<n>osciere la debda. Et dixiere q[*<ue>] g<e>la ha pagada o g<e>la q<u><<i>>to pon-
 gal el alcall<e> plazo a q<ue> g<e>lo prueue. assi com[*<m>]o fuero es. Et si lo p<ro>uare va-
 la. Et si no<n> lo pudiere p<ro>uar. meta el auer o pen<n>os q<ue> lo ualan. en mano
@@ -1955,7 +1955,7 @@ no<n> sea reçebido en testimo<n>io si no<n> jurare. Et si las testimo<n>ias no<
 siere<n> jurar q<ue> digan uerdat d<e>lo q<ue> saben a los plazos q<ue> el alcall<e> les pu-
 siere a aq<ue>l q<ue> las a aduƽir. por ma<n>dado del alcall<e>. sean tenidas de pe-
 char a aq<ue>l q<ue> pierde por me<n>gua de su testimo<n>io ta<n>to com<m>o por me<n>gua della<<s>> p<er>dio
-{IN2.} Si algu<n> om<n>e oujere menester p<ar>a su pl<e>ito testimonjas [¶2] {RUB. Ley .x<<a>>.}
+{IN2.} Si algu<n> om<n>e oujere menester p<ar>a su pl<e>ito testimonjas [%2] {RUB. Ley .x<<a>>.}
 de om<ne>s q<ue> sean dolientes de guisa q<ue> no<n> puedan uenir testimo-niar}
 [fol. 81r]
 {HD. Libro .ij<<o>>. .T<itul>[*<<o>>] .ix[*<<o>>]. \ Lxxxj}
@@ -2021,7 +2021,7 @@ dixiere q<ue> las no<n> q<u><<i>>ere o no<n> puede adozir: el alcall<e> embie su
 {HD. Libro .ij<<o>>. .T<itul>[*<<o>>] .ix[*<<o>>]. \ Lxxxij}
 {CB1.
 alcall<e> daq<ue>l logar o son q<ue> las reciba assi com<m>o ma<n>da la ley deçima deste libro.
-{IN2.} Si alguno q<u><<i>>siere contra dezir las testimonias q<ue> aduzen [¶2] {RUB. Ley .xvj<<a>>.}
+{IN2.} Si alguno q<u><<i>>siere contra dezir las testimonias q<ue> aduzen [%2] {RUB. Ley .xvj<<a>>.}
 contra el en algun pl<e>ito: luego q<ue> las testimonias se abriere<n> di-
 ga lo q<ue> q<u><<i>>siere contra ellas. Et desi el alcall<e>. del plazo. qual ujere guisa-
 do. pora dezir lo q<ue> q<u><<i>>siere contra ellas. Et despues q<ue> contradixiere: del
@@ -2089,7 +2089,7 @@ cosas: o de ot<r><<o>>s pl<e>itos q<u><<a>>les q<u><<i>>er por los esc<r><<i>>ua
 fuere<n> puestos assi com<m>o ma<n>da la primera ley del titulo d<e>los esc<r><<i>>uanos
 publicos. fagan se co<n> tres testigos. alo menos sin el esc<r><<i>>uano. & ualan.
 Et si por aue<n>tura muriere<n> los testigos no<n> dexen de ualer las cartas.
-{IN2.} Qvando algun om<n>e aduxiere carta en juyzio p<ar>a p<ro>uar [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} Qvando algun om<n>e aduxiere carta en juyzio p<ar>a p<ro>uar [%2] {RUB. Ley .ij<<a>>.}
 aq<ue>llo q<ue> dema<n>da muestre la al su co<n>tendedor antel alcall<e>. & del
 el traslado della. Et el alcall<e> del plazo p<ar>a otro dia a q<ue> uenga dezir
 lo q<ue> q<u><<i>>siere cont<r><<a>> la carta & contra lo q<ue> dize en ella. {RUB. .Ley .iij<<a>>.}
@@ -2116,7 +2116,7 @@ el alcall<e> aq<ue>llos contra q<u><<i>>en son fechas aq<ue>llas cartas. Et si l
 galas renouar el alcall<e> & valan [*&] no<n> de otra guisa. {RUB. .Ley .vj<<a>>.}
 {IN2.} Njngun om<n>e no<n> pueda p<ro>uar su dema<n>da por nj<n>gun traslado de car-
 ta fuera si fuere t<r><<a>>slado renouado assi com<m>o ma<n>da la ley ant<e> desta.
-{IN2.} Qvien aduxiere cartas algunas antel alcall<e>. p<ar>a p<ro>uar [¶2] {RUB. .Ley .vjj<<a>>.}
+{IN2.} Qvien aduxiere cartas algunas antel alcall<e>. p<ar>a p<ro>uar [%2] {RUB. .Ley .vjj<<a>>.}
 su dema<n>da. Et las cartas se contradixiere<n> la una a la otra. nj<n>-
 guna dellas no<n> uala. Ca en su poder era de demostrar aq<ue>lla carta q<ue> a-
 yudaua a su pl<e>ito. & no[<n>] otra. Ot<r><<o>>ssi ma<n>damos q<ue> si alguno ganare car-
@@ -2224,7 +2224,7 @@ por dez<<i>><r> q<ue> sobre aq<ue>lla cosa q<ue>l demandan no<n> fizo ningu<n>a 
 da en juyzio a aq<ue>l de q<u><<i>>en lo el ouo q<u><<i>>er q<ue> lo ouiesse por herencia q<u><<i>>er
 por donaçio<n> q<u><<i>>er por ot<r>a g<u><<i>>sa q<u><<a>>l q<u><<i>>er: mas si aq<ue>lla cosa q<ue>l dema<n>da<n> touo
 ta<n>to tie<m>po q[<ue>] la aya ganado por t<iem>po puedesse por tal defenssion amparar.
-{IN2.} Si algu<n>o demandare a otro en juyzio. Et el dema<n>dador [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} Si algu<n>o demandare a otro en juyzio. Et el dema<n>dador [%2] {RUB. Ley .iij<<a>>.}
 l(^o)[^e] touiere forçado de algu<n>a cosa bie<n> se pueda defender de no<n>
 responder le fasta q<ue>l ent<er>gue daq<ue>llo q<ue>l touiere forçado. Ca no<n> es razo<n>
 q<ue> el forçado entre en boz co<n> el forçador. A menos de seer entregado. Et
@@ -2240,14 +2240,14 @@ dar nj<n>guna cosa en juyzio demje<n>tra lo fuere. Pero si algu<n>o ouiere}
 algu<n>a dema<n>da cont<r><<a>> el descom<u>lgado no<n> se pueda defender el descom<u>lgado de respon-
 der. Ca no<n> es derech<o> q<ue> el descom<u>lgad(a)[o] aya galardon de lo q<ue> meresçe pena. Ca
 much(^a)[^o]s se dexarien estar en descom<u>lgatio[<n>] por no<n> fazer derech<o> a sus co<n>tendedores.
-{IN2.} Q<u><<a>>Ndo algu<n>o es tenudo a ot<r><<o>> de fazer casa. o ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} Q<u><<a>>Ndo algu<n>o es tenudo a ot<r><<o>> de fazer casa. o ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er [%2] {RUB. .Ley .v<<a>>.}
 o de pagar algu<n> debdo a plazo sen<n>alado si aq<ue>l a q<u><<i>> es tenudo ante
 del plazo le dema<n>dare no<n> sea tenido de le responder. Et el alcall<e> del otro ta<n>-
 to de plazo adelante q<u><<a>>nto dema<n>do ante del plazo. {RUB. Ley .vj<<a>>.}
 {IN2.} Qvien su contendedor aplazare ant<e>l alcall<e> q<ue> no<n> deuiere. el apla-
 zado no<n> sea tenudo de responder si no<n> q<u><<i>>siere. Et aq<ue>l q<ue>l aplazo
 pechel las costas q<ue> fizo por razo<n> del aplazamjento por q<ue> lo aplazo poro
-{IN2.} Qvien q<u><<i>>er q<ue> aya defenssion sobre la [¶2] {RUB. .Ley .vij<<a>>.} ¶2 no<n> deuie.
+{IN2.} Qvien q<u><<i>>er q<ue> aya defenssion sobre la [%2] {RUB. .Ley .vij<<a>>.} %2 no<n> deuie.
 dema<n>da q<ue>l faze su conte<n>dedor si la defenssion rem(^e)[^a]ta todo el
 pl<e>ito com<m>o si es de pl<e>ito q<ue>l aya fecho su contendedor q<ue> nu<n>cal dema<n>dasse
 aq<ue>llo q<ue>l dema<n>da o de paga q<ue>l aya fecha daq<ue>l auer q<ue>l uiene dema<n>dando
@@ -2290,18 +2290,18 @@ tida maguer q<ue> el uno dellos sea tenedor d<e>la cosa no<n> se pueda defen-
 der por t<iem>po q<ue> no<n> de su derecho a cada uno d<e>los ot<r><<o>>s q<u><<a>>ndo q<u><<i>>er q<ue> g<e>lo dema<n>den.
 Ot<r><<o>>ssi ma<n>damos q<ue> si algu<n>a cosa fuere furtada. & alguno la touiere ascondi-
 da no<n> se pueda defender por t<iem>po q<ue> no<n> responda a su duen<n>o q<u><<a>>ndo q<u><<i>>er q<ue> gela
-{IN2.} DEmientra q<ue> algu<n>o no<n> fu<er>e de edat o fuere [¶2] {RUB. .Ley .iij<<a>>.} ¶2 demandare.
+{IN2.} DEmientra q<ue> algu<n>o no<n> fu<er>e de edat o fuere [%2] {RUB. .Ley .iij<<a>>.} %2 demandare.
 en p<r><<i>>sion o sandio no<n> pierda su heredat por t<iem>po nj<n> otra cosa. Ca la
 pena del perder por t<iem>po no<n> es dada: si no<n> cont<r><<a>> aq<ue>llos q<ue> pueden demandar
 su derecho. & non la demandan. {RUB. Ley .iiij<<a>>.}
 {IN2.} Qvando alguno morare o estudiere fuera dela tierra. & pudo uenir
 ala t<ie>rra a dema<n>dar su derecho. si por .xxx. an<n>os estido q<ue> no<n> uino
 nj<n> enbio dema<n>dar aq<ue>l q<ue> la cosa touiere por .xxx. an<n>os nol responda ala dema<n>da
-¶2 si no<n> q<u><<i>>siere}
+%2 si no<n> q<u><<i>>siere}
 [fol. 86v]
 {HD. Libro .ij<<o>>. .T<itul><<o>> .xij<<o>>.}
 {CB1.
-{IN2.} NIngu<n>a cosa q<ue> sea de sen<n>orio de .Rey. no<n> se pueda p<er>der en [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} NIngu<n>a cosa q<ue> sea de sen<n>orio de .Rey. no<n> se pueda p<er>der en [%2] {RUB. Ley .v<<a>>.}
 njngu<n> t<iem>po. mas q<u><<a>>ndo q<u><<i>>er q<ue> el o su voz la dema<n>dare cobre la. Ot<r><<o>>ssi
 ma<n>damos q<ue> las cosas de <santa> egl<es>ia q<ue> se no<n> pierdan por menor t<iem>po d<e>lo q<ue>
 ma<n>daron los <santos> padres. Et esto es por q<u><<a>>renta an<n>os. {RUB. .Ley .vj<<a>>.}
@@ -2309,7 +2309,7 @@ ma<n>daron los <santos> padres. Et esto es por q<u><<a>>renta an<n>os. {RUB. .Le
 los q<ue> los dema<n>dan por sieruos. Non los puedan demandar nj<n> tor-
 nar a s<er>uidu<m>bre. Et si andaren fuydos por çinq<u><<a>>enta an<n>os. Et andare<n> por
 libres no<n> los pueda nj<n>gu<n>o dema<n>dar por sieruos despues de çinq<u><<a>>enta an<n>os
-{IN2.} Por q<ue> es estableçido en las leyes q<ue> por tie[<m>]pos sen<n>alados. [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} Por q<ue> es estableçido en las leyes q<ue> por tie[<m>]pos sen<n>alados. [%2] {RUB. Ley .vij<<a>>.}
 pierde om<n>e su derecho. Por ende q<ue>remos dar conseio a aq<ue>llos q<ue>
 q<u><<i>>siere<n> dema<n>dar su derecho. Onde estable<<s>>çemos q<ue> si algun om<n>e q<ue> fuere
 en la t<ier>ra o fuera d<e>la t<ier>ra. & q<u><<i>>siere toller el tie<m>po por q<ue> no<n> pierda su de-
@@ -2331,7 +2331,7 @@ mayor o le acaesciesse otro embargo derecho por q<ue> no<n> pudiesse el pl<e>ito
 [fol. 87r]
 {HD. Libro .ij<<o>>. .T<itul>[*<<o>>] .xij<<o>>. \ Lxxxvij}
 {CB1.
-{IN2.} TEnemos por bien q<ue> assi se defienda el lego del cl<er>igo [¶2] {RUB. Ley .ix<<a>>.}
+{IN2.} TEnemos por bien q<ue> assi se defienda el lego del cl<er>igo [%2] {RUB. Ley .ix<<a>>.}
 por an<n>o & dia com<m>o el cl<er>igo se defienda del lego. Et esto sea
 enlas cosas del cl<er>igo & no<n> enlas dela Eg<es>ia. {RUB. .Ley .x<<a>>.}
 {IN2.} MAndamos q<ue> si alguno comie[<n>]c[']a a dema<n>dar a otro en juyzio
@@ -2345,7 +2345,7 @@ si fu<er>e el tenedor della. Pero si el otro om<n>e de q<u><<i>> ouo el aq<ue>ll
 cosa la touo ante por un t<iem>po & el despues por ot<r><<o>> t<iem>po en g[<u><<i>>]sa q<ue> se co<m>-
 plio el an<n>o & dia entre amos. ma<n>damos q<ue> se pueda amparar por
 t<iem>po Et esto mismo sea q<u><<a>>ndo se gana la cosa por mayor t<iem>po de an<n>o & dia.
-{IN2.} SI por auent<ur>a el tenedor d<e>la h<er>edat o de ot<r><<a>> cosa no<n> [¶2] {RUB. .Ley .xii<<a>>.}
+{IN2.} SI por auent<ur>a el tenedor d<e>la h<er>edat o de ot<r><<a>> cosa no<n> [%2] {RUB. .Ley .xii<<a>>.}
 fu<er>e p<re>sente. & aq<ue>l q<ue> dize q<ue> la cosa es suya ujnjere ant<e>l al-
 call<e> q<ue>rellar se del tenedor d<e>la cosa & el tenedor no<n> es enla t<ier>ra el
 alcall<e> metalo en tene<n>cia d<e>la dema<n>da ante testigos. Et te<n>ga la
@@ -2374,7 +2374,7 @@ el alma. com<m>o a om<n>e q<ue> iura falsedat. Et el responda ame<n>. Et si ouie
 a iurar sobre fecho ageno o debda q<ue> otro fizo por q<ue> el es tenido. jure
 q<ue> el no<n> lo sabe nj<n> lo cree ni<n> lo oyo dezir a aq<ue>l por q<u><<i>>en a el fazen la d[*e]-
 manda. Et echen le confusion sobr<e>dicha. Et el responda amen. Et de si ssea q<u><<i>>to.
-{IN2.} Si alguno iurare q<ue> faga algu<n>a cosa q<ue> sea contra sen<n>orio [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} Si alguno iurare q<ue> faga algu<n>a cosa q<ue> sea contra sen<n>orio [%2] {RUB. Ley .ij<<a>>.}
 de Rey. o a dan<n>o de su tierra o en peligro de su alma asi com<m>o
 matar o furtar o forçar o ot<r><<a>> cosa desag<u><<i>>sada semeiante destas: tal iura-
 me<n>to no<n> uala nj<n> lo cu<m>pla. Ca el iurame<n>to q<ue> es cosa <santa> no<n> fue estable-
@@ -2400,7 +2400,7 @@ q<ue> uean com<m>o jura. Et ssean ende test(^g)[^i]gos si fuere mester. {RUB. .L
 {IN2.} TOdo om<n>e q<ue> dema<n>da fiziere a otro sobr<e> algu<n>a cosa q<ue> dize q<ue>l de-
 ue o q<ue>l fizo o q<ue>l deue fazer si p<ro>uar no<n> g<e>lo pudiere saluesse el
 dema<n>dado por su iura. Et si lo no<n> q<u><<i>>siere iurar sea uençido d<e>la demanda.
-{IN2.} Q<u><<a>>Ndo el q<ue> dema<n>da algu<n>a cosa en iuyzio dixiere a su [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} Q<u><<a>>Ndo el q<ue> dema<n>da algu<n>a cosa en iuyzio dixiere a su [%2] {RUB. .Ley .vj<<a>>.}
 co<n>tendedor q<ue> el q<u><<i>>ere dexar aq<ue>lla dema<n>da en su iura & estar por
 ella: en su escogençia sea de lo iurar & sea q<u><<i>>to o de tornar la iura al dema<n>-
 dador & estar por ella. Ca muchos son q<ue> por uergue<n>ça de iurar ante q<u><<i>>e-
@@ -2421,7 +2421,7 @@ a q<ue> uengan antel a oyr su juyzio. Et desq<ue> aplazades fueren amas
 las partes para oyr iuyzio. Et algu<n>a dellas no<n> q<u><<i>>siere uenir al plazo.
 El alcalle de el iuyzio co<n> la parte q<ue> uinjere assi com<m>o si amas las parte<<s>>
 estudiessen presentes: ssaluo si q<u><<i>>sieren atender de gracia fasta otro dia.
-{IN2.} Pves q<ue> las razones fuere<n> acabadas de g<u><<i>>sa q<ue> mas no<n> [¶2] {RUB. .Ley .ij<<a>>.}}
+{IN2.} Pves q<ue> las razones fuere<n> acabadas de g<u><<i>>sa q<ue> mas no<n> [%2] {RUB. .Ley .ij<<a>>.}}
 [fol. 88v]
 {HD. Libro .ij<<o>>. .T<itulo> .xiiij<<o>>.}
 {CB1.
@@ -2458,7 +2458,7 @@ judgare<n> de sen<n>as g<u><<i>>sas nj<n>gu<n>o de sus juyzios no<n> uala. Et si
 mas de dos q<u><<i>>er sean [*alcall<e>s] p<ar>a todos los pl<e>itos iudgar. q<u><<i>>er sean dados de
 Rey o de otros alcall<e>s p<ar>a algu<n>os pl<e>itos sen<n>alados judgar q<u><<i>>er sean toma-
 dos por abene<n>cia de las partes aq<ue>l iuyzio uala q<ue> diere la mayor p<ar>te dellos
-{IN2.} DEspues q<ue> el alcalle diere sente<n>cia o juyzio afinado [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} DEspues q<ue> el alcalle diere sente<n>cia o juyzio afinado [%2] {RUB. Ley .v<<a>>.}
 sobre todo el pl<e>ito no<n> pueda en<n>ader nj<n> toller nj<n> mudar nj<n>gu<n>a
 cosa en la sente<n>cia mas. sob[*re] las costas & los esq<u><<i>>lmos pueda en esse
 mismo dia [*q<ue>] diere la sente<n>cia judgar segu<n>t q<ue> fuere de derecho. P<er>o si el
@@ -2466,13 +2466,13 @@ alcalle diere juyzio q<ue> no<n> sea afinado. com[<m>]o sobre testigos adozir. o
 bre mas plazo dar o no<n> en algu<n>a cosa o sobre ot<r><<a>>s cosas q<ue> acaesciere<n>
 enel pl<e>ito en tal com<m>o esto bien puede su juyzio mudar. o meiorar si en-
 tendiere q<ue> es mayor derecho aq<ue>llo q<ue> emjenda. q<ue> aq<ue>llo q<ue> auia judgado.
-{IN2.} Qvando algu<n>a delas partes fuere ue<n>çida por juyzio [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} Qvando algu<n>a delas partes fuere ue<n>çida por juyzio [%2] {RUB. .Ley .vj<<a>>.}
 afinado en algu[<n>] pl<e>ito q[<u><<i>>]er sea dema<n>dador q<u><<i>>er defendedor el alcall<e>
 iudgue las costas al ue<n>çedor.
 ¶ {RUB. Titulo .xv<<o>>. d<e>los pl<e>itos q<ue> fuere<n> acabados q<ue> no<n> sean mas dema<n>dado<<s>>}
 {GL. [^¶ en q<ue> ay
 iij [*leys].]}
-{IN2.} SJ algu<n> pl<e>ito fuere acabado por juyzio afinado de q<ue> no<n> [¶2] {RUB. .Ley .j<<a>>.}
+{IN2.} SJ algu<n> pl<e>ito fuere acabado por juyzio afinado de q<ue> no<n> [%2] {RUB. .Ley .j<<a>>.}
 se alço nj<n>gu<n>a d<e>las partes o si se alço & fuere confirmado por
 aq<ue>l q<ue> lo deuie confirmar: njgu<n>a d<e>las partes no<n> pueda mas tornar en
 aq<ue>l pleyto. maguer q<ue> diga q[*<ue>] fallo de nueuo cartas o testigos o otra
@@ -2534,13 +2534,13 @@ dor en las costas. Et este el pl<e>ito en aq<ue>l estado en q<ue> estaua ala hor
 da fasta q<ue> la alçada sea judgada. Et si el q<ue> a de judgar el alçada fallare al-
 guna cosa mudada por fuerça o por otra cosa desag<u><<i>>sada torne el pl<e>ito enel
 estado en q<ue> era en t<iem>po d<e>l alçada ante q<ue> la alçada judgue. Et despues iudgue
-{IN2.} MAndamos q<ue> njngu<n>o om[<n>]e no<n> se pueda [¶2] {RUB. .Ley .v<<a>>.} ¶2 la alçada
+{IN2.} MAndamos q<ue> njngu<n>o om[<n>]e no<n> se pueda [%2] {RUB. .Ley .v<<a>>.} %2 la alçada
 alc[']ar al Rey de nj<n>gun juyzio si la dema<n>da no<n> ualiere. Diez .m<a>r<avedis>.
 o dende ariba. Et de diez [.]m<a>r<avedis>. ayuso no<n>. P[<er>]o si el Rey fu<er>e en la uilla o
 en su t<er>mjno. q<u><<i>>en q<u><<i>>siere alçesse a el de todo juyzio. q<u><<i>>er sea de gra<n>t dema<n>da
 q<u><<i>>er de peq<ue>na. Ot<r><<o>>ssi ma<n>damos q<ue> assi com<m>o el judio puede apellar del
 juyzio q<ue> diere<n> cont<r><<a>> el si se agrauiare assi pueda apellar el x<r><<i>><sti>ano si q<u><<i>>siere.
-{IN2.} EL Rey o aq<ue>l q<ue> ha de judgar el alçada fecha sobre [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} EL Rey o aq<ue>l q<ue> ha de judgar el alçada fecha sobre [%2] {RUB. .Ley .vj<<a>>.}
 agraujamje<n>to fecho ante del juyzio afinado. vea el juyzio del
 alçada & las razones por q<ue> la alçada fue fecha. Et si fallare q<ue> el juyzio
 fue derecha mjente dado confirme el juyzio. Et embie amas las partes
@@ -2580,7 +2580,7 @@ perder se yen las cosas & nasçrie<n> ende muchos dan<n>os. P<er>o bie<n> q<ue>r
 {HD. Libro .ij<<o>>. .T<itul>[*<<o>>] .xvjj[*<<o>>]. \ xcj}
 {CB1.
 q<ue> en tales pl<e>itos se pueda q<ue>rellar a aq<ue>l q<ue> entendiere q<ue> es ag<r><<a>>uiado por el alcall<e>.
-{IN2.} SJ algu<n> om<n>e se agrauiare del juyzio q<ue> el alcall<e> diere & se [¶2] {RUB. .Ley .ix<<a>>.}
+{IN2.} SJ algu<n> om<n>e se agrauiare del juyzio q<ue> el alcall<e> diere & se [%2] {RUB. .Ley .ix<<a>>.}
 alçare. el alcall<e> no<n> le denueste njn le diga mal. por ello. mas
 reçiba el alçada & faga assi com<m>o ma<n>da la ley. Ot<r><<o>>ssi ma<n>damos q<ue> aq<ue>llos
 q<ue> se alçaren q<ue> no<n> sean osados de dez<<i>><r> al alcalle q<ue> iudgo tuerto nj<n> otro de-
@@ -2640,14 +2640,14 @@ guisa no<n> g<e>las judgue.
 {CB1.
 {GL. [^[*¶ en q<ue> ay] xiiij<<a>>
 [*leys]]}
-{IN4.} ESTablesçemos & [¶2] {RUB. Tit<u>lo p<r><<i>>m<er>o delos casamje<n>tos.} {RUB. Ley .j<<a>>.}
+{IN4.} ESTablesçemos & [%2] {RUB. Tit<u>lo p<r><<i>>m<er>o delos casamje<n>tos.} {RUB. Ley .j<<a>>.}
 mandamos q<ue> todos los casamie<n>tos se faga<n> por aq<ue>llas pala-
 bras q<ue> manda <santa> Egl<es>ia. Et los q<ue> casaren sean tales q<ue> pue-
 da<n> casar sin peccado. Et todo casamie<n>to faga se co<n>çegera
 miente & no<n> a furto. de g<u><<i>>sa q<ue> si fuere mester q<ue> se pueda p<ro>uar por muchos.
 Et q<u><<i>> a furto fiziere casamjento peche Cien .m<a>r<avedis>. al Rey. Et si los no<n> ouie-
 re todo lo q<ue> ouiere sea del Rey. Et por lo q<ue> fincare sea el cuerpo a m<er>çet d<e>l Rey.
-{IN2.} SJ el padre o la madre dalguna mugier q<ue> sea en cabellos [¶2] {RUB. .Ley .ij<<a>>.}
+{IN2.} SJ el padre o la madre dalguna mugier q<ue> sea en cabellos [%2] {RUB. .Ley .ij<<a>>.}
 muriere. Et alguno la pidiere para casamie<n>to a sus h<er>manos
 Et fuere tal q<ue> la mugi<er> & los h<er>manos sean entergados en[<e>]l. Et por mal
 q<ue>rençia o por cobdiçia de retener lo suyo o por deseredar la si casare sin
@@ -2703,7 +2703,7 @@ sa non vala. {RUB. Ley .vjjjj<<a>>.}}
 {IN2.} SJ algu<n>os se otorgaren por marido & por mug<ie>r. Et ante q<ue> ayan
 de veer uno co<n> otro. Amos o el vno dellos q<u><<i>>sieren tomar orde<n>
 pueda<n> lo fazer. Et si alguno fincare al sieglo pueda casar sin pena.
-{IN2.} SJ algu<n>os se prometier(^o)[^e]<n> por palabra o por iura q<ue> [¶2] {RUB. .Ley .x<<a>>.}
+{IN2.} SJ algu<n>os se prometier(^o)[^e]<n> por palabra o por iura q<ue> [%2] {RUB. .Ley .x<<a>>.}
 casara<n> vno con otro sean tenidos de lo complir. P<er>o si ante q<ue> ayan
 de veer uno co<n> otro. alguno dellos se otorgare co<n> otro en tal guisa q<ue>
 sea casamie<n>to de presente este vala & no<n> lo p<r><<i>>m<er>o. {RUB. .Ley .xj<<a>>.}
@@ -2748,7 +2748,7 @@ ouiere fijos de dos maridos o de mas. cada unos d<e>los fijos hereden las
 arras q<ue> dio su padre: de g<u><<i>>sa q<ue> los fijos del un padre. no<n> parta<n> enlas
 arras q<ue> dio el padre delos otros. Et si el padre o la madre q<u><<i>>sieren dar
 arras por su fijo no<n> puedan dar mas del diezmo delo q<ue> puede heredar d<e>llos.
-{IN2.} SJ alguno fuere ta<n> pobre en<e>l t<iem>po q<u><<a>>ndo casare. Et no<n> ouiere [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} SJ alguno fuere ta<n> pobre en<e>l t<iem>po q<u><<a>>ndo casare. Et no<n> ouiere [%2] {RUB. Ley .ij<<a>>.}
 de q<ue> dar arras. Et p<ro>metiere ala mug<ie>r co<n> q<u><<i>> casa q<ue> g<e>las dara
 daq<ue>llo q[*<ue>] despues ganare: mandamos q<ue> q<u><<a>>ndo q<u><<i>>er q<ue> ella dema<n>dare a su
 marido. q<ue>l ent<er>gue las arras q<ue>l p<ro>metio q<ue> gelas de. de g<u><<i>>sa q<ue>l no<n> de ma<<s>>
@@ -2770,7 +2770,7 @@ arras q<ue> diere a su mug<ie>r. maguer q<ue> lo ella otorgue. Et otrossi
 ella no<n> las pueda malmeter nj<n> enagenar mjentre q<ue> el marido viujere. ma-
 guer q<ue> el lotorgue nj<n> despues de su muerte mjentre q<ue> fijos del viuos
 ouiere fueras ende la q<u><<a>>rta parte assi com<m>o ma<n>da la ley primera deste tit<u>lo.
-{IN2.} SJ el esposo dalguna mug<ie>r diere algunas donas en [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} SJ el esposo dalguna mug<ie>r diere algunas donas en [%2] {RUB. .Ley .v<<a>>.}
 pan<n>os o en ot<r><<a>>s cosas a su esposa & muriere el esposo ante q<ue> aya
 q<ue> veer con ella & la beso ante q<ue> mur(^??)[^i]esse. la esposa aya la meetad delas
 donas q<ue> del tenia. Et la otra meetad tornela a sus herederos del o a q<u><<i>> el
@@ -2813,7 +2813,7 @@ ganare o lo comp<r><<a>>re. Saluo si q<u><<i>>siere meter al ot<r><<o>> en parte
 te. Et la mug<ie>r soltera q<ue> estudiere por mançeba de otro soltero no<n> aya
 parte en lo q<ue> el ganare / o comp<r><<a>>re nj<n> el en lo q<ue> ella. saluo si se q<u><<i>>siessen
 meter en parte. o si se mostrasse q<ue> se ganara / o se co<m>prara co<n> el auer de
-{IN2.} SJ ante q<ue> el marido & la mug<ie>r oujere<n> [¶2] {RUB. .Ley .ij<<a>>.} ¶2 amo(e)[s] a dos.
+{IN2.} SJ ante q<ue> el marido & la mug<ie>r oujere<n> [%2] {RUB. .Ley .ij<<a>>.} %2 amo(e)[s] a dos.
 en uno juras o palabras de casamje<n>to fiziere<n> o p<ro>metiere<n> algu<n>
 donadio. el uno al ot<r><<o>> maguer q<ue> despues casen en vno: el donadio s(^a)[^e]a
 daq<ue>l a q<u><<i>> fuere fecho o p<ro>metido. Et no<n> aya y el otro parte nj<n> sus here-
@@ -2908,7 +2908,7 @@ por medio. Et aya la pared de consouno. Et si el uno no<n> q<u><<i>>siere dar su
 parte del logar del çimie<n>to nj[*<n>] de fazer la pared el otro faga la pared
 en lo suyo & sea suya. Et si aq<ue>l q<ue> no<n> q<u><<i>>so fazer la pared arrimare al-
 guna cosa a aq<ue>lla pared: tomelo todo el duen<n>o q<ue> fizo la pared & sea suya.
-{IN2.} EL om<n>e q<ue> ouiere fijos de vna mug<ie>r si casare co<n> ot<r><<a>> [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} EL om<n>e q<ue> ouiere fijos de vna mug<ie>r si casare co<n> ot<r><<a>> [%2] {RUB. .Ley .vj<<a>>.}
 mug<ie>r o si la mug<ie>r ouiere fijos de otro marido & casare con
 algun om<n>e. Et q<u><<a>>l q<u><<i>>er dellos ante q<ue> ayan partido fiziere alguna ga-
 nancia. o co<m>pra q<u><<i>>er sea mueble q<u><<i>>er rayz q<u><<i>>er vinjendo todos de co<n>so-
@@ -2984,7 +2984,7 @@ dicho es. Et vala la partiçion. [*Pero si el plazo] q<ue>l fuere puesto o amo u
 niere diziendo & mostrando por si razo<n> derecha. por q<ue> no<n> deue partir con el:
 aq<ue>l alcalle en cuyo judgo fuere la rayz o la cosa q<ue> dize<n> q<ue> era por partir
 oya los & judgue los sin alongamje<n>to de pl<e>ito aq<ue>llo q<ue> fallare por derecho.
-{IN2.} POr q<ue> acaesçe muchas uezes. q<ue> ante q<ue> los fructos sean [¶2] {RUB. Ley .xj<<a>>.}
+{IN2.} POr q<ue> acaesçe muchas uezes. q<ue> ante q<ue> los fructos sean [%2] {RUB. Ley .xj<<a>>.}
 cogidos de las heredades muere el marido o finca el marido &
 muere la mug<ie>r. Establesçemos q<ue> si los fructos aparesçen en la heredat
 ala sazo<n> dela muerte q<ue> se parta<n> por medio entre los biuos & los here-
@@ -3006,7 +3006,7 @@ fecha la compra. {RUB. .Ley .xiij[<<a>>].}
 Et los unos q<u><<i>>sieren partir. Et los ot<r><<o>>s no<n>. lo q<ue> los mas & lo<<s>>
 meiores fizieren partiendo vala. & no<n> se pueda desfazer la partiçio<n>
 por la menor partida. si no<n> mostraren razo<n> derecha por q<ue> no<n> deua ualer
-{IN2.} DEspues q<ue> la partiçio<n> fuere fecha entre los h<er>ederos [¶2] {RUB. Ley .xiiij[<<a>>].}}
+{IN2.} DEspues q<ue> la partiçio<n> fuere fecha entre los h<er>ederos [%2] {RUB. Ley .xiiij[<<a>>].}}
 [fol. 98r]
 {HD. Libro .iij<<o>>. .T<itul><<o>> .iiij<<o>>. \ xcviij<<o>>}
 {CB1.
@@ -3025,7 +3025,7 @@ por q<ue> yua el Rio a aq<ue>l cuya era. Et si por aue<n>tura por fuerça de nje
 o de lluujas a ta<n>to cresçiere el Rio q<ue> entro t<ie>rras agenas: aq<ue>llas t<ie>rras
 finq<ue>n por suyas daq<ue>l q<ue> las ante auia. Et com<m>o q<u><<i>>er q<ue> cubiertas sean da-
 gua pueda las vender o dar o enagenar assi com<m>o ante q<ue> fuessen cu-bierta<<s>>
-{IN2.} Qvando algu<n>os arboles estan en [¶2] {RUB. Ley .xvj[<<a>>].} [¶2] dagua.
+{IN2.} Qvando algu<n>os arboles estan en [%2] {RUB. Ley .xvj[<<a>>].} [%2] dagua.
 t<ie>rra de algun om<n>e & cuelgan las ramas sobre la t<ie>ra del otro
 todo el fructo sea daq<ue>l en cuya t<ie>rra esta el arbol. Mas si algun fruto ca-
 yere en la t<ie>rra agena sobre q<ue> cuelgan las ramas: el sen<n>or del arbol lo
@@ -3104,12 +3104,12 @@ da q<ue> fiziere de sus cosas diere su poder a otro q<ue> el q<ue> la}
 {CB1.
 ordene & la de en aq<ue>llos logares o el uiere por bien. pueda lo fazer. Et lo
 q<ue> el ordenare o diere: vala. assi com<m>o si la ordenasse aq<ue>l q<ue>l dio el poder.
-{IN2.} MAndamos q<ue> njngu<n> sieruo nin religioso nj<n> mug<ie>r nj<n> [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} MAndamos q<ue> njngu<n> sieruo nin religioso nj<n> mug<ie>r nj<n> [%2] {RUB. Ley .vij<<a>>.}
 om<n>e q<ue> no<n> sea de edat de veynt<e> & çinco an<n>os nj<n> loco njn here-
 ge. njn moro njn judio nj<n> mudo nj<n> sordo por natura nj<n> om<n>e q<ue> sea da-
 do por aleuoso o por traydor nj<n> om<n>e q<ue> sea judgado a muerte nj<n> om<n>e
 q<ue> sea echado de tierra q<ue> no<n> puedan seer cabeçaleros en njngu<n>a ma<n>da.
-{IN2.} Q<u><<a>>Ndo algu<n> om<n>e q<u><<i>>siere fazer su manda: las testimo<n>ias [¶2] {RUB. .Ley .viij<<a>>.}
+{IN2.} Q<u><<a>>Ndo algu<n> om<n>e q<u><<i>>siere fazer su manda: las testimo<n>ias [%2] {RUB. .Ley .viij<<a>>.}
 q<ue> q<u><<i>>siere q<ue> sean en<e>lla faga las rogar o las ruegue. ca si no<n>
 fuere<n> rogadas o combidadas no<n> deue<n> seer pesq<u><<i>>sas dela manda. Et
 maguer q<ue> en la manda algu<n>a cosa ssea ma<n>dada a algu<n>o no<n> lo puedan
@@ -3156,7 +3156,7 @@ didas: los herederos co<n>tradixiere<n> los cabeçal<er>os no<n> uendan nj<n> pa
 q<ue> la manda sea librada por derecho si deue ualer o no<n>. Et si los herede-
 ros fuere<n> en la tierra & no<n> co<n>tradixiere<n>. Et los cabeçaleros pagare<n> o
 uendiere<n> no<n> sean tenidos de responder por ello assi com<m>o sobredicho es.
-{IN2.} SJ algu<n> om<n>e ouiere parte en algu<n>a manda & la cont<r><<a>>llare [¶2] {RUB. Ley .xij[<<a>>].}
+{IN2.} SJ algu<n> om<n>e ouiere parte en algu<n>a manda & la cont<r><<a>>llare [%2] {RUB. Ley .xij[<<a>>].}
 en juyzio para desfaz<er> la & porfiare en desfaz<er> la fasta q<ue> den
 el iuyzio pierda q<u><<a>>nto q<ue>l fue mandado en aq<ue>lla manda: maguer sea
 judgado q[*<ue>] vala la manda. Ot<r><<o>>ssi mandamos q<ue> si el cabeçalero en q<ue>}
@@ -3169,7 +3169,7 @@ Et responda alos q<ue> deujeren auer alguna cosa de la ma<n>da. Ot<r><<o>>ssi si
 muerto ma<n>da a algu<n>o q<ue> sea guardador de su fijo & de sus bienes assi
 com<m>o manda la ley segunda del titulo de la guarda delos huerfanos. Et
 el no<n> lo q<u><<i>>siere seer pierda q<u><<a>>nto le mando el muerto en su manda.
-{IN2.} TOdo om<n>e q<ue> fuere cabeçalero de algu<n>a manda. [¶2] {RUB. Ley .xiij<<a>>[.]}
+{IN2.} TOdo om<n>e q<ue> fuere cabeçalero de algu<n>a manda. [%2] {RUB. Ley .xiij<<a>>[.]}
 si della q<u><<i>>siere husar o a su mano uinjere muestre la antel
 alcalle del dia q<ue> finare el q<ue> fizo la manda fasta un mes. Et el alcall<e>
 fagala leer ante si conçeieramjent<e>. Et si el cabeçal<er>o. esto no<n> fiziere
@@ -3246,7 +3246,7 @@ ros deue<n> fincar assi com<m>o si fuessen legitimos. P<er>o q<ue> los fijos d<e
 gos missa ca<n>tanos q<ue> fuero<n> fechos despues q<ue> sus padres fuero<n> ordena-
 dos de missa no<n> deue<n> heredar en los bienes de sus padres: saluo en aq<ue>l-
 lo q<ue> el padre les mandare. o si los fiziere herederos en vida o en mue[*rte]
-{IN2.} SJ om<n>e soltero fiziere fijos con mug<ie>r soltera. Et [¶2] {RUB. .Ley .vj<<a>>.}
+{IN2.} SJ om<n>e soltero fiziere fijos con mug<ie>r soltera. Et [%2] {RUB. .Ley .vj<<a>>.}
 despues casare co<n> ella: estos fijos sean herederos legitimos:
 ta<n> bien en los bienes del padre com<m>o dela madre. {RUB. .Ley .vij<<a>>.}
 {IN2.} SJ el om<n>e q<ue> muriere dexare su mug<ie>r prenada. & no<n> ouiere ot<r><<o>>s
@@ -3264,7 +3264,7 @@ catada q<ue> no<n> pueda fazer engan<n>o. Et si la criat<ur>a muriere ante q<ue>
 zada hereden toda la buen<n>a q<ue>l p<er>tenesçia: los parientes mas p<ro>pinq<u><<o>>s del pa-
 dre & no<n> la madre. Et si despues q<ue> fuere baptizada muriere: herede lo
 la madre en toda su vida Et despues torne se la Rayz a los parientes
-{IN2.} SJ om<n>e q<ue> ouiere mug<ie>r casare [¶2] {RUB. .Ley .viij<<a>>.} ¶2 mas p<ro>pinq<u><<o>>s
+{IN2.} SJ om<n>e q<ue> ouiere mug<ie>r casare [%2] {RUB. .Ley .viij<<a>>.} %2 mas p<ro>pinq<u><<o>>s
 co<n> otra & ouiere fijos della: si esta co<n> q<u><<i>> casa no<n> sopiere q<ue> el era ca-
 sado a ot[<r><<a>>] parte. Estos fijos sean herederos. Et ella aya la meytad d<e>los
 bien<e>s q<ue> ganaren amos de consouno. Et si por aue<n>tura ella lo sabie lo<<s>>
@@ -3278,7 +3278,7 @@ tura despues ouiere fijos de bendiçio<n> hereden ellos. Et no<n> aq<ue>l q<ue> 
 Et esto mismo sea por el fijo de la barragana q[*<ue>] fue reçebido por fijo &
 heredado por el padrastro o por ot<r><<o>> algu<n>o q<ue> lo reçiba por fijo assi com<m>o
 manda la ley postrem<er>a q<ue> es en<e>l titulo delos q<ue> son reçebidos por fijos.
-{IN2.} SJ el marido o la mug<ie>r muriere: el lecho q<ue> auie<n> [¶2] {RUB. .Ley .x<<a>>.}
+{IN2.} SJ el marido o la mug<ie>r muriere: el lecho q<ue> auie<n> [%2] {RUB. .Ley .x<<a>>.}
 cutiano finq<ue> al viuo. Et si se casare tornelo a partiçio<n> co<n> los
 herederos del muerto. Otrossi no<n> sea tenido nj<n>gu<n>o de traher a par-
 tiçio<n> las joyas nj<n> las donas q<ue> traxo co<n>sigo en casamje<n>to: nj<n> los pan<n>o<<s>>}
@@ -3319,12 +3319,12 @@ de padre o de madre: el auuelo de parte del padre herede lo q<ue> fue
 del padre. Et el auuelo de parte de la madre herede lo q<ue> fue dela
 madre en su vida. segu<n>t dize la ley segu<n>da deste titulo. Et de las
 gana<n>çias amb(^a)[^o]s los auuelos hereden de consouno egual mjente. {RUB. Ley +}
-{IN2.} TOdo om<n>e o toda mug<ie>r [¶2] {RUB. .xv<<a>>.}
+{IN2.} TOdo om<n>e o toda mug<ie>r [%2] {RUB. .xv<<a>>.}
 q<ue> orden tomare pueda faz<er> su ma<n>da de todas sus cosas fasta
 un an<n>o complido Et si ante del an<n>o no<n> la fiziere: el an<n>o passado
 no<n> la pueda fazer mas sus fijos hereden todo lo suyo. Et si fijos
 o njetos o dende ayuso no<n> ouiere hereden lo los parientes mas p<ro>pinq<u><<o>>s.
-{IN2.} Qvando el om<n>e q<ue> ouiere fijos de vna mug<ie>r casare [¶2] {RUB. .Ley .xvj<<a>>.}
+{IN2.} Qvando el om<n>e q<ue> ouiere fijos de vna mug<ie>r casare [%2] {RUB. .Ley .xvj<<a>>.}
 co<n> ot<r><<a>> q<ue> ouiere fijos de otro marido. Et amos ouieren fijos de
 co<n>souno. Si el marido o la mug<ie>r muriere los fijos q<ue> fuere<n> daq<ue>l muer-
 to parta<n> comunal mjente toda su buena. Et si algu<n>o delos h<er>manos
@@ -3348,7 +3348,7 @@ los del otro. no<n> deue<n> heredar por muchos q<ue> sean. mas de aq<ue>lla}
 {CB1.
 parte q<ue> h<er>edaria su padre o su madre si viuo fuesse. Et esto mismo sea
 delos p<r><<i>>mos & de los segundos [??]a[??]os q<ue> heredan por mas p<ro>pinq<u><<o>>s
-{IN2.} TOda cosa q[*<ue>] el padre o la madre diere<n> a algu<n>o [¶2] {RUB. .Ley .xviij<<a>>.}
+{IN2.} TOda cosa q[*<ue>] el padre o la madre diere<n> a algu<n>o [%2] {RUB. .Ley .xviij<<a>>.}
 de sus fijos en casamje<n>to: sea tenudo el fijo de lo aduzir a par-
 tiçio<n> [*co<n>] los [*ot<r><<o>>s h<er>manos] despues d<e>la muerte del padre o de la madre q<ue>
 g<e>lo dio. mas no<n> los fructos nj<n> los esq<u><<i>>lmos nj<n> las gana<n>çias q<ue> co<n> ello fizo.
@@ -3357,7 +3357,7 @@ tenudo de tornar a partiçio<n> la meetad delo q<ue>l diero<n> en casamje<n>to. 
 amos murieren tornelo todo q<u><<a>>ntol dieren a partiçio<n> co<n> los otros h<er>manos:
 P<er>o q<ue> la costa de las bodas nj<n> los uestidos nj<n> las joyas no<n> deue seer costre<n>-
 njdo q<ue> lo traya a partiçio<n> nj<n> el cl<er>igo lo q<ue>l dieren el padre o la madre p<ar>a escusa.
-{IN2.} QVando algu<n>o fiziere heredero a aq<ue>l a q<u><<i>>en deuie [¶2] {RUB. .Ley .xix<<a>>.}
+{IN2.} QVando algu<n>o fiziere heredero a aq<ue>l a q<u><<i>>en deuie [%2] {RUB. .Ley .xix<<a>>.}
 algu<n>as cosas o q<ue>l era fiador si reçibiere la herençia pierda la
 demanda q<ue> auia cont<r><<a>> el o cont<r><<a>> sus bienes. mas si tal fuere a q<ue> no<n> fizo
 manda por q<ue> era su p<ro>pinq<u><<o>>: si heredare co<n> otros ent<er>gue se p<r><<i>>m<er>o de su
@@ -3365,7 +3365,7 @@ debda. Et despues partan lo q<ue> dende fincare. {RUB. .Ley .xx[<<a>>].}
 {IN2.} DEffendemos q<ue> njngun cl<er>igo nj<n> lego no<n> pueda en vida nj<n> en
 muerte judio nj<n> moro nj<n> herege nj<n> om<n>e q<ue> no<n> sea x<r><<i>><sti>ano faz<er>
 su heredero. Et si algu<n>o lo fiziere no<n> vala. Et el Rey herede todo lo suyo.
-{IN2.} MAguer q<ue> el fijo q<ue> no<n> es de bendiçio<n> o q<ue> no<n> es fijo [¶2] {RUB. Ley .xxj<<a>>.}
+{IN2.} MAguer q<ue> el fijo q<ue> no<n> es de bendiçio<n> o q<ue> no<n> es fijo [%2] {RUB. Ley .xxj<<a>>.}
 natural no<n> deue heredar segu<n>d q<ue> dicho es. P<er>o si el Rey lo q<u><<i>>sie-
 re faz<er> m<er>çet puedal faz<er> legitimo & sea heredero ta<n> bie<n> com<m>o si fuesse
 de mug<ie>r de bendiçio<n> Et assi com<m>o el papa ha poder llenera mjente en
@@ -3392,7 +3392,7 @@ mes a los q<ue> fuere<n> menores de edat de seze an<n>os assi varones com<m>o
 mugieres de les tutor segu<n>d q<ue> manda la ley. q<ue> guarde a ellos & a sus
 bienes. & q<ue> de cue<n>ta cadan<n>o a algu<n>o de sus parientes por mandado
 del alcalle. Et si pariente no<n> ouiere para ello a algu<n> om<n>e bono d<e>la vezindat
-{IN2.} Qvando los huerfanos vinjere<n> a edat de seze an<n>os [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} Qvando los huerfanos vinjere<n> a edat de seze an<n>os [%2] {RUB. Ley .iij<<a>>.}
 complidos fagales el alcalle desembargar sus bien<n>es si ente<n>-
 dieren q<ue> sabra<n> dellos bien vsar. Et si ouiere y alguno dellos de mal
 recabdo o de malas costu<m>bres o taffur o ta<m>buero o loco o desmemo-
@@ -3403,7 +3403,7 @@ ende g<u><<a>>rdador fasta q<ue> los huerfanos sean de veynte & çi<n>co an<n>os
 q<ue> vea el alcalle q<ue> sera mester por q<ue> los bien<n>es no<n> se pierdan nj<n> se ena-
 gene<n>. Et entre ta<n>to q<ue> los bienes de los huerfanos son so la tutoria o so
 la guarda no<n> pueda el alcalle ende tomar nj<n> mjnistrar por si nj<n>gu<n>a cosa.
-{IN2.} SJ algu<n>os huerfanos q<ue> sean menores de edat de seze [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} SJ algu<n>os huerfanos q<ue> sean menores de edat de seze [%2] {RUB. Ley .iiij<<a>>.}
 an<n>os fincare<n> sin padre & sin madre los parie<n>tes mas p<ro>pinq<u><<o>>s}
 [fol. 104v]
 {HD. Libro .iij[*<<o>>]. .T<itul>[*<<o>>] .vij<<o>>.}
@@ -3427,7 +3427,7 @@ o algu<n>a cosa dellos. responda les sobrellos: q<u><<a>>ndo q<u><<i>>er q<ue> g
 sin ot<r><<o>> alongamje<n>to de pl<e>ito & no<n> se pueda deffender por an<n>o & dia. Et
 q<u><<a>>ndo el padre o la madre muriere & fijos fincare<n>: entren los fijos
 en los bienes del muerto o ot<r><<o>>s h<er>ederos derechos si fijos no<n> oujere.
-{IN2.} SJ el padre muriere & fijos del fincare<n> sin edat [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} SJ el padre muriere & fijos del fincare<n> sin edat [%2] {RUB. .Ley .v<<a>>.}
 la madre no<n> casando: tome a ellos & a sus bien<n>es si q<u><<i>>siere.
 Et tenga los en su guarda fasta q<ue> sean de edat. Et los bien<n>es delos
 fijos. Reçiba los por esc<r><<i>>pto ante los parie<n>tes mas p<ro>pinq<u><<o>>s del muer-
@@ -3525,7 +3525,7 @@ si se tornare moro o judio. o sy yoguiere en catiuo & no<n> le q<u><<i>>siere q<
 q<u><<a>>nto pudiere. P<er>o si por aue<n>tura padre o madre deseredare por alguna
 destas cosas fijo o njeto o visnjeto o dende ayuso assi com<m>o sobredich<o>
 es. Et despues le p<er>donare o le heredare q<ue> sea heredero assi com<m>o era ante.
-{IN2.} QVando fijo o otro heredero por ruego o por falago [¶2] {RUB. .Ley .iij<<a>>.}
+{IN2.} QVando fijo o otro heredero por ruego o por falago [%2] {RUB. .Ley .iij<<a>>.}
 a su padre o auuelo tuelle de faz<er> la manda q<ue> q<ue>rria fazer.
 Et faze g<e>la fazer dot<r><<a>> g<u><<i>>sa no<n> deue auer la pena q<ue> manda la ley.
 ca aq<ue>l deue auer la pena q<ue> por fuerça enbarga al padre o al auuelo}
@@ -3584,7 +3584,7 @@ no<n> pueda desfaz<er> la ue<n>dida. Et si el comprador no<n> q<u><<i>>siere
 pagar el p<re>cio pierda la sen<n>al q<ue> dio: & no<n> vala la ue<n>dida. Et si el
 comprador no<n> diere sen<n>al por la ue<n>dida & diere algu<n>a partida del
 p<re>çio no<n> se pueda desfazer la uendida fueras por abene<n>çia dama<<s>> la<<s>> p<ar>tes
-{IN2.} TOda uendida q<ue> fuere fecha por esc<r><<i>>pto. uala despues [¶2] {RUB. .Ley .iij<<a>>.}
+{IN2.} TOda uendida q<ue> fuere fecha por esc<r><<i>>pto. uala despues [%2] {RUB. .Ley .iij<<a>>.}
 q<ue> el esc<r><<i>>pto fuere fecho mas ante q<ue> el esc<r><<i>>pto sea fecho: q<u><<a>>l
 q<u><<i>>er de las partes pueda lo desfazer. mas si no<n> fuere fecho por es-
 c<r><<i>>pto pueda la desfazer ante q<ue> el p<re>cio sea dado o parte dello. Et
@@ -3601,7 +3601,7 @@ cauallo q<ue> el Rey mandaua q<ue> n(n)j[n]gu<n> cauallo no<n> ualiesse mas de c
 .m<a>r<avedis>. Et el conseiaual q<ue> uendiesse ante q<ue> llegasse el mandado del Rey. o
 dixo ot<r><<a>> cosa semeiable por q<ue>l engan<n>o. Et esto mismo mandamos si el
 vendedor por tal engan<n>o uendiere sus cosas por mas q<ue> no<n> valieren.
-{IN2.} NJngu<n> om<n>e no<n> pueda desfazer uendida q<ue> faga por [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} NJngu<n> om<n>e no<n> pueda desfazer uendida q<ue> faga por [%2] {RUB. .Ley .v<<a>>.}
 dez<<i>><r> q<ue> uendio mal su cosa mag<uer> q<ue> sea uerdat fueras ende si la
 cosa ualia q<u><<a>>ndo la uendio mas dos ta<n>to de por q<u><<a>>nto la el uendio. co-
 m<m>o si ualie la cosa diez .m<a>r<avedis>. & uendio la el por q<u><<a>>tro .m<a>r<avedis>. Ca el uen-
@@ -3620,7 +3620,7 @@ Et torne aq<ue>lla cosa agena q<ue> uendiera a su duen<n>o co<n> otro tanto delo
 suyo. Mas q<u><<i>> a sabiendas comprare la cosa agena tornela a su due<n>-
 no co<n> ot<r><<o>> ta<n>to delo suyo. Et esto mismo q<ue> es dicho enlas uendidas
 de suso: mandamos en las cosas agenas q<ue> fueren dadas o cambiada<<s>>.
-{IN2.} TOdo om<n>e q<ue> algu<n>a cosa uendiere a otro & le pusiere [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} TOdo om<n>e q<ue> algu<n>a cosa uendiere a otro & le pusiere [%2] {RUB. Ley .vij<<a>>.}
 en tene<n>çia della sea tenjdo delo defender co<n> ella a derecho.
 q<u><<a>>ndo q<u><<i>>er q<ue> algu<n>o g<e>lo dema<n>dare por juyzio: si el comp<r><<a>>dor gelo}
 {CW. dixiere}
@@ -3660,7 +3660,7 @@ re tomar en si la boz pued[*a] lo faz<er>. Et si fuere ue<n>çido de g<u><<i>>sa
 venzca por juyzio aq<ue>lla misma cosa q<ue> dema<n>daua el alcalle
 faga g<e>la entergar & faga dar al comprador el p<re>cio q<ue> auia dado por
 ella co<n> las costas & missiones q<ue> auia fechas por aq<ue>lla razo<n> assi com<m>o dicho es.
-{IN2.} DEffendemos q<ue> nj<n>gun om<n>e no<n> puede uender om<n>e libre. [¶2] {RUB. Ley .ix<<a>>.}
+{IN2.} DEffendemos q<ue> nj<n>gun om<n>e no<n> puede uender om<n>e libre. [%2] {RUB. Ley .ix<<a>>.}
 P<er>o si el se consentiere uender por auer parte del p<re>çio. si des-
 pues el otro por el q<u><<i>>siere desfazer la uendida por tal razo<n> no<n> pueda.
 Et si el despues o ot<r><<o>> por el q<u><<i>>siere tornar el p<re>cio al co<m>prador sea te-
@@ -3679,7 +3679,7 @@ ley sexta deste titulo tan bien el uendedor com<m>o el co<m>prador si lo co<m>-
 pro a sabiendas. Et el sen<n>or del sieruo ayalo co<n> todo lo q<ue> gano des-
 pues q<ue> p<ro>uare q<ue> es suyo si no<n> le fuere p<ro>uado q<ue> lo mando uender.
 Et si fijos fizo en este comedio sean del sen<n>or cuyo es [^2#el] sieruo.
-{IN2.} QVando algu<n> om<n>e uendiere su sieruo o su sierua: si [¶2] {RUB. Ley xj<<a>>.}
+{IN2.} QVando algu<n> om<n>e uendiere su sieruo o su sierua: si [%2] {RUB. Ley xj<<a>>.}
 el cont<r><<a>> aq<ue>l q<ue> fue su sen<n>or se leua<n>tare soberuiosa mjent<e>
 & le apusiere algu<n> mal. de el p<re>çio a aq<ue>l q<ue>l co<m>pro & reçiba su sier-
 uo & uengue se del assi com<m>o q<u><<i>>siere fueras q<ue> no<n> le mate nj<n> le tuel-
@@ -3695,7 +3695,7 @@ q<ue> auia el sieruo si lo uendio co<n> q<u><<a>>nto q<ue> auia. Et si por aue<n
 tura el sieruo uendido auia fecho algu<n> mal o algu<n> dan<n>o. El q<u><<i>> lo
 compro si lo no<n> sabia tornel a aq<ue>l de q<u><<i>>en lo compro & reçiba su p<re>çio
 Et el p<r><<i>>mer sen<n>or o de el sieruo dan<n>ador / o san<n>e el dan<n>o q<ue> fizo.
-{IN2.} TOdo om<n>e q<ue> heredare de pat<r><<i>>monio / o de auuelengo [¶2] {RUB. Ley .xiiij<<a>>.}
+{IN2.} TOdo om<n>e q<ue> heredare de pat<r><<i>>monio / o de auuelengo [%2] {RUB. Ley .xiiij<<a>>.}
 q<u><<i>>siere uender. si om<n>e daq<ue>l auuelengo onde ujn[??] la rayz.
 la q<u><<i>>siere comp<r><<a>>r tanto por tanto ayala ante q<ue> ot<r><<o>> om<n>e njngu<n>o. Et
 si dos o mas la q<u><<i>>sieren si son en (^a)[^e]gual grado de parentesco par-
@@ -3739,7 +3739,7 @@ dor o q<u><<a>>l mas q<u><<i>>siere aq<ue>l q<ue> la compro. {RUB. .Ley .xvij<<a
 parte en la lauor & ante q<ue> sea partido lo q<u><<i>>siere uender o
 despues pueda lo fazer. mas si el sen<n>or de la t<ie>rra o sus herederos
 ta<n>to por ta<n>to lo q<u><<i>>sieren comp<r><<a>>r sea tenido d<e>lo uender a el ante q<ue> a ot<r><<o>>.
-{IN2.} POr q<ue> fallamos por p<r><<i>>uilegios & por fu<er>o & vso & [¶2] {RUB. .Ley .xviij<<a>>.}
+{IN2.} POr q<ue> fallamos por p<r><<i>>uilegios & por fu<er>o & vso & [%2] {RUB. .Ley .xviij<<a>>.}
 costu<m>bre de antigo t<iem>po g<u><<a>>rdado siempre fasta aq<u><<i>> q<ue> nj<n>gun [*fi]-
 dalgo om<n>e nj<n> mugier no<n> ouiero<n> casa nj<n> solar nj<n> ot<r><<a>> heredat en ver-
 uiesca si no<n> co<n> lice<n>çia sp<ec>ial d<e>los sen<n>ores d<e>l logar & co<n> co<n>se<n>timje<n>to &
@@ -3767,8 +3767,8 @@ dan<n>ase q<ue> el dan<n>o fuesse suyo & no<n> del comprador Ca en es[*tas] tres
 uendedor deue auer el dan<n>o & no<n> el co<m>p<r><<a>>dor. P<er>o si algu<n> pro y vinjere sea d<e>l co<m>p<r><<a>>dor.
 {GL. [^[*¶ en q<ue> ay
 v leys]]}
-{IN2.} LOs cambios son tan allegados alas uendidas q<ue> adur [¶2] {RUB. Tit<u>lo .xj<<o>>. d<e>lo<<s>> ca<m>bios.}
-se entie<n>de<n> en much<o>s de logares si es ue<n>dida o si es cambio. Et [¶2] {RUB. Ley .j<<a>>}
+{IN2.} LOs cambios son tan allegados alas uendidas q<ue> adur [%2] {RUB. Tit<u>lo .xj<<o>>. d<e>lo<<s>> ca<m>bios.}
+se entie<n>de<n> en much<o>s de logares si es ue<n>dida o si es cambio. Et [%2] {RUB. Ley .j<<a>>}
 por esto fazemos ente<n>d<er> q<u><<a>>ndo es ue<n>dida o q<u><<a>>ndo es cambio. Ca si algu<n>o
 da a ot<r><<o>> cauallo por cauallo o por mula o da ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er por ot<r><<a>> cosa
 q<ue> no<n> sea din<er>os este es ca<m>bio & no<n> uendida. Mas do q<u><<i>>er q<ue> se de cosa q<u><<a>>l q<u><<i>>er
@@ -3796,7 +3796,7 @@ son sp<irit>uales. q<ue> pueda una egl<es>ia ca<m>biar co<n> ot<r><<a>>. Et mag<
 puede ca<m>biar co<n> ot<r><<a>> cosa sp<ir>ital com<m>o sobredich<o> es no<n> puede fazer
 ca<m>bio d<e>l sp<ir>ital co<n> el t<em>poral nj<n> co<n> la egl<es>ia nj<n> co<n> ot<r><<o>>. com<m>o de caliz sa-
 g<r><<a>>do o de cosa sag<r><<a>>da por cauallo o por mula o por otra cosa t<em>poral.
-{IN2.} MAndamos q<ue> q<u><<a>>n<d>o la egl<es>ia q<u><<i>>siere cambiar algu<n>a cosa. [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} MAndamos q<ue> q<u><<a>>n<d>o la egl<es>ia q<u><<i>>siere cambiar algu<n>a cosa. [%2] {RUB. Ley .v<<a>>.}
 d<e>las t<em>porales: q<ue> la no<n> ca<m>bie si no<n> co<n> otra egl<es>ia. fuera si fu<er>e
 y g<r><<a>>nt su p<ro>uech<o>. P<er>o si el Rey algu<n>a h<er>edat o ot<r><<a>> cosa t<em>poral q<ue> sea
 de la egl<es>ia ouiere<n> mester p<ar>a algu<n>a cosa g<u><<i>>sada sea tenjda la egl<es>ia
@@ -3820,7 +3820,7 @@ aq<ue>l q<ue> g<e>la dio no<n> g<e>lo q<u><<i>>so toller. {RUB. .Ley .ij<<a>>.}
 {IN2.} TOda cosa q<ue> un om<n>e diere a ot<r><<o>> & la metiere en su poder
 o le diere ende carta: no<n> g<e>la pueda despues toller si no<n>
 por algu<n>a d<e>las cosas q<ue> ma<n>da la ley. o si dio cosa q<ue> no<n> podia dar.
-{IN2.} SJ el marido q<u><<i>>siere dar algo ala mug<ie>r o la mug<ie>r [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} SJ el marido q<u><<i>>siere dar algo ala mug<ie>r o la mug<ie>r [%2] {RUB. Ley .iij<<a>>.}
 al marido no<n> auien[*do] fijo puede lo fazer despues q<ue> fuere
 el an<n>o passado desq<ue> casare & no<n> ante. Et si despues desta donacio<n>
 ouiere fijo no<n> vala. fueras q<u><<a>>nto en su q<u><<i>>nto. Et si ante q<ue> se otor-
@@ -3831,7 +3831,7 @@ nasçiere parta egual mjent<e> co<n> los ot<r><<o>>s h<er>manos si los ouiere. E
 si nj<n>gu<n> h<er>mano no<n> ouiere de parte de su padre. & el padre auje ma<n>-
 dado todo lo suyo. aq<ue>llos a q<u><<i>> fizo la ma<n>da parta<n> entre si la q<u><<a>>rta p<ar>-
 te d<e>lo q<ue> auie. Et las tres partes aya este fijo o fija q<ue> despues nasçiere.
-{IN2.} TOda cosa mueble q<ue> om<n>e ma<n>dare por man<er>a de [¶2] {RUB. .Ley .iiij<<a>>.}
+{IN2.} TOda cosa mueble q<ue> om<n>e ma<n>dare por man<er>a de [%2] {RUB. .Ley .iiij<<a>>.}
 donaçio<n> q<ue> q<u><<i>>ere dar en su vida a egl<es>ias o a pobres o en ot<r><<o>>s
 logares de limosna o p<ar>a q<u><<a>>ndo se ordenare cl<er>igo o p<ar>a boda de lego:
 el q<ue> la mandare sea tenudo de dar la. {RUB. Ley .v<<a>>.}
@@ -3850,17 +3850,17 @@ sea de todo om<n>e q<ue> fuere iudgado p<ar>a iusticiar o q<ue>l sea dema<n>dada
 aya de seer justiciado. Et el Rey deuiere dende a auer todo lo suyo o parte
 dello: mandamos q<ue> no[*<n>] pueda ende dar nada. por q<ue> el Rey mengue nj<n>gu<n>a
 cosa de lo q<ue> deuie ende auer o otro sen<n>or q<u><<a>>l q<u><<i>>er q<ue> aya derecho de lo auer.
-{IN2.} DOnaciones q<ue> se faze<n> en dos man<er>as en manda por [¶2] {RUB. Ley [.]vij<<a>>.}
+{IN2.} DOnaciones q<ue> se faze<n> en dos man<er>as en manda por [%2] {RUB. Ley [.]vij<<a>>.}
 razo<n> de muerte. Et en sanidat sin manda. la donaçio<n> q<ue> es fecha
 por manda. pueda la aq<ue>l q<ue> la fizo dar a otro o retener la p<ar>a si si q<u><<i>>siere. Et
 la q<ue> es fecha dot<r><<a>> g[*<u><<i>>]s[a] no<n> la pueda toller a aq<ue>l q<ue> la dio. Si no<n> por las ra-
 zones q<ue> manda la ley. Et esto sea si la donaçio<n> fuere fecha assi com<m>o ma<n>da la
-{IN2.} DOnaçio<n> q<ue> fuere fecha por fuerça o por mjedo: [¶2] {RUB. Ley .viij<<a>>.} ¶2 ley.
+{IN2.} DOnaçio<n> q<ue> fuere fecha por fuerça o por mjedo: [%2] {RUB. Ley .viij<<a>>.} %2 ley.
 no<n> uala. Ot<r><<o>>ssi mandamos q<ue> si algu<n>o fiziere donaçio<n> de todo
 lo q<ue> ouiere. mag<uer> q<ue> no<n> aya fijos no<n> vala. Et si fijos ouiere o njetos o
 dende ayuso no<n> pueda dar mas de su q<u><<i>>nto. Et si por aue<n>tura mas diere
 la donaçio<n> no<n> uala en aq<ue>llo q<ue> es de mas. Et vala en aq<ue>llo q<ue> pudo dar
-{IN2.} LAs cosas q<ue> diere el Rey a algu<n>o: no<n> g<e>las puede toller [¶2] {RUB. .Ley .ix<<a>>.}
+{IN2.} LAs cosas q<ue> diere el Rey a algu<n>o: no<n> g<e>las puede toller [%2] {RUB. .Ley .ix<<a>>.}
 el nj<n> otro njngu<n>o sin su culpa. Et aq<ue>l a q<u><<i>> las diere faga del-
 las a su uolu<n>tat assi com<m>o delas ot<r><<a>>s sus cosas. Et si muriere sin ma<n>-
 da ayan las sus herederos. Et no<n> pueda su mug<ie>r demandar parte
@@ -4060,7 +4060,7 @@ re q<ue> lo sacara sin dan<n>o. Et los ot<r><<o>>s q<ue> dema<n>dare<n> co<n> aq
 los q<u><<i>>siere dar: dela a aq<ue>l q<ue> diere los fiadores. Et si cada uno dellos
 q[*<u><<i>>]siere dar fiadores assi com<m>o sobredicho es tenga la o la ponga en
 un monest<eri>o o en egl<es>ia do este segura fasta q<ue> el pl<e>ito sea librado.
-{IN2.} SJ casa dalguno se ençendiere: & los q<ue> ua<n> ayudar [¶2] {RUB. Ley .viij<<a>>.}
+{IN2.} SJ casa dalguno se ençendiere: & los q<ue> ua<n> ayudar [%2] {RUB. Ley .viij<<a>>.}
 p<ar>a matar el fuego algu<n>a cosa d<e>las suyas o delas q<ue> tenie
 en g<u><<a>>rda robaren o furtare<n>: el q<ue> lo robo peche la a aq<ue>l q<ue> la p<er>dio assi
 com<m>o manda la ley delos q<ue> roban. Et si la furto peche la assi com<m>o
@@ -4070,7 +4070,7 @@ su duen<n>o. Et si no<n> gela furtaro<n> nj<n> gela robaro<n> nj<n> ardio en la 
 g<e>la fallaren o q<ue> la uendio o la enageno: peche las nouenas. assi com<m>o
 ma<n>da la ley delos furtos. Et si la p<er>dio por furto o por robo assi
 com<m>o sobredicho es. Et la despues cobrare & la negare aya esta misma pena.
-{IN2.} QVien su casa diere en g<u><<a>>rda a s<er>uiente ageno o a [¶2] {RUB. Ley .ix<<a>>.}
+{IN2.} QVien su casa diere en g<u><<a>>rda a s<er>uiente ageno o a [%2] {RUB. Ley .ix<<a>>.}
 mayordomo sin ma<n>dado de su sen<n>or & la p<er>diere o se fuere
 co<n> ella. el sen<n>or no<n> sea tenjdo dela pechar. mas el dema<n>dela a q<u><<i>>en
 la dio en comje<n>da. P<er>o si algu<n>o toujere posaderia por ostalage q<ue>l
@@ -4090,7 +4090,7 @@ duen<n>o q<u><<a>>ndo lo dema<n>do. fueras ende si la comje<n>da era de bestia o
 en q<ue> ouiesse [*de] fazer costa. Et retouo aq<ue>lla comje<n>da por la costa q<ue> auia auer
 no<n> gela q<ue>riendo el duen<n>o pagar. Ca si en este comedio se p<er>diesse la cosa en
 comje<n>da por algu<n>a occasio<n> sin culpa daq<ue>l q<ue> la tenja: no<n> q<ue>remos q<ue> la peche.
-{IN2.} SJ algu<n>o touiere algu<n>a cosa de dos om<n>es o de mas en ¶2 {RUB. Ley .xj<<a>>.}
+{IN2.} SJ algu<n>o touiere algu<n>a cosa de dos om<n>es o de mas en %2 {RUB. Ley .xj<<a>>.}
 comje<n>da no<n> la de al uno menos del ot<r><<o>>. saluo si fuesse puesto. Et si
 la diere a q<u><<a>>l q<u><<i>>er dellos sin mandado d<e>los ot<r><<o>>s: pech<e>la a cada uno dellos en-
 t<er>amjent<e> de plano o lo q<ue> ualia. Et si le diere<n> carta o esc<r><<i>>pt<ur>a algu<n>a assi co<m>-
@@ -4163,7 +4163,7 @@ si se dan<n>are peche el dan<n>o a bien uista delos alcalles co<n> el luguer del
 t<iem>po q<ue> se siruio dela bestia. Et si mas lexos la leuare o mas t<iem>po
 la toujere de q<u><<a>>nto puso co<n> el duen<n>o sil muriere o si se dan<n>are peche
 la bestia al duen<n>o. & el dan<n>o co<n> el aloguer assi com<m>o sobredicho es.
-{IN2.} SJ algu<n>o lugare su casa a ot<r><<o>> a plazo: no<n> gela pueda [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} SJ algu<n>o lugare su casa a ot<r><<o>> a plazo: no<n> gela pueda [%2] {RUB. Ley .ij<<a>>.}
 toller fasta el plazo: fueras si q<u><<i>>siere refazerla aujendo lo
 mester la casa: o si en<e>lla fiziere dan<n>o taiando la madera o otro dan<n>o
 semejable. Et en esta g<u><<i>>sa no<n> le dema<n>de el sen<n>or el aluguer: mas pa-
@@ -4171,7 +4171,7 @@ gue por el t<iem>po q<ue> y moro. Otrossi el alogador no<n> la pueda dexar fasta
 el plazo: fueras si pagare todo el loguer. Et si la casa ouiere mester
 de se reffazer. Et el sen<n>or no<n> la q<u><<i>>siere reffazer afrontando g<e>lo aq<ue>l
 q<ue> la tiene pueda g<e>la dexar. Et de el loguer del t<iem>po q<ue> y moro & no<n> ma<<s>>.
-{IN2.} ALcalde nj<n> ot<r><<o>> om<n>e nj<n>guno no<n> sea osado de arrendar nj<n> [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} ALcalde nj<n> ot<r><<o>> om<n>e nj<n>guno no<n> sea osado de arrendar nj<n> [%2] {RUB. Ley .iij<<a>>.}
 de lugar cosa nj<n>gu<n>a q<ue> sea de co<n>çeio. mas q<u><<a>>ndo tal cosa fuere
 de arrendar o de logar ayuntesse el co<n>çeio & arrende se o al(^ue)[^og]uesse por
 todos o por aq<ue>llos q<ue> diere el co<n>çeio por arrendar o por alogar la cosa
@@ -4195,7 +4195,7 @@ dela heredat a bien uista delos alcalles: {RUB. .Ley .vj<<a>>.}
 sea osado de la meter a ot<r><<a>> cosa si no<n> a aq<ue>lla p<ar>a q<ue> la logo & co<m>-
 mo la alogo. Et q<u><<i>> al fiziere todo el dan<n>o q<ue>l ujnjere peche lo a su due<n>-
 no maguer q<ue> no<n> aya ot<r><<a>> culpa. Si no<n> en q<u><<a>>nto la uso de ot<r><<a>> guisa q<ue> la auje logada.
-{IN2.} TOdo om<n>e pueda arrendar o logar sus cosas a plazo sabido [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} TOdo om<n>e pueda arrendar o logar sus cosas a plazo sabido [%2] {RUB. Ley .vij<<a>>.}
 o p<ar>a siempr<e>. Et si el q<u><<i>> las diere o el q<u><<i>> las tomare muriere
 ante del plazo sus herederos sea<n> tenidos de co<m>plir aq<ue>llo q<ue> el era tenjdo
 de co<m>plir si no<n> muriesse. Et uala el pl<e>ito assi com<m>o fue puesto. {RUB. .Ley .viij<<a>>.}
@@ -4228,7 +4228,7 @@ lo fazer. Et el debdor no<n> se pueda amparar por dez<<i>><r> q<ue> fiador tiene
 del. Ca mag<uer> q<ue> dio fiador no<n> es q<u><<i>>to d<e>la debda. Ot<r><<o>>ssi si q<u><<i>>siere demandar al
 fiador pueda lo faz<er>. Ca pues q<ue> amos le son tenidos en su poder (^o)[^e]s de dema<n>-
 dar a q<u><<a>>l dellos q<u><<i>>siere fueras si la fiadura fuere fecha por algu<n>a postura en ot[*<r><<a>>] man<er>a.
-{IN2.} QVando algu<n>o tomare dos fiadores o mas por algu<n>a cosa [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} QVando algu<n>o tomare dos fiadores o mas por algu<n>a cosa [%2] {RUB. Ley .iiij<<a>>.}
 q<u><<i>>er diga cada uno por todo q<u><<i>>er no<n>: en su uoluntad sea de dema<n>dar
 a todos de so uno o a q<u><<a>>l q<u><<i>>er dellos. Et si al uno dema<n>dare. Et lo el pagare sea
 tenido de dar le & otorgar le la voz q<ue> el auje contra los ot<r><<o>>s. Et desi este q<ue> pa-
@@ -4276,14 +4276,14 @@ la fiadura. {RUB. Ley .x<<a>>.}}
 Et si ante del plazo co<n> otorgamje<n>to del fiador alongare aq<ue>l pla-
 zo el fiador no<n> sea tenido dela fiadura. Et si no<n> le alongo el plazo mag<uer>
 q<ue> el debdor al dia nol fue dema<n>dado q<ue> pagasse: el fiador sea tenido de q<u><<a>>ntol
-{IN2.} SJ el fiador pechare por aq<ue>l a q<u><<i>> fio. despues [¶2] {RUB. Ley .xj<<a>>.} ¶2 enfio
+{IN2.} SJ el fiador pechare por aq<ue>l a q<u><<i>> fio. despues [%2] {RUB. Ley .xj<<a>>.} %2 enfio
 del plazo q<ue> co<n> el puso o al plazo q<ue> el alcalle pusiere. si la fiadu-
 ra no<n> fue fecha a plazo pechel q<u><<a>>nto por el pecho con las costas si al-
 gu<n>as fizo por esta razon: de g<u><<i>>sa q<ue> lo q<u><<i>>te en saluo. Et esto se entiende
 q<u><<a>>ndo el q<u><<i>> lo metio en la fiadura no<n> gelo njega: mas sil negare en juy-
 zio q<ue> nol metio en la fiadura & el fiador g<e>lo p<ro>uar: pechel doblado aq<ue>l-
 lo q<ue> por el pecho & las costas si algu<n>as fizo. mas no<n> dobladas.
-{IN2.} LAs fiaduras se fazen en doze man<er>as. o en los [¶2] {RUB. .Ley .xij<<a>>.}
+{IN2.} LAs fiaduras se fazen en doze man<er>as. o en los [%2] {RUB. .Ley .xij<<a>>.}
 pl<e>itos q<ue> faze<n> o pone<n> los om<ne>s entressi fuera de juyzio. o
 en los juyzios si en los pl<e>itos mag<uer> q<ue> el debdor sea co<n>dempnado por
 juyzio no<n> se entiende por co<n>de<m>pnado el fiador fasta q<ue> sea oydo & jud-
@@ -4298,7 +4298,7 @@ calle co<n> aq<ue>l a q<u><<i>> fia q<ue> no<n> q<u><<i>>ere fincar enla fiadura
 ca<n> en ella. Et si el debdor no<n> ouiere la q<u><<a>>ntia en q[*<ue>] fuere conde<m>pna-
 do puede el alcall<e> complir su juyzio en los bien<n>es del fiador. mag<uer>
 q<ue> no<n> le llame nj<n> le oya por juyzio. seyendo la fiadura manjfiesta
-{IN2.} DErecho & razo<n> es. q<ue> si algu<n>o tenje<n>do debdor o fiador [¶2] {RUB. Ley .xiij<<a>>.}}
+{IN2.} DErecho & razo<n> es. q<ue> si algu<n>o tenje<n>do debdor o fiador [%2] {RUB. Ley .xiij<<a>>.}}
 [fol. 119r]
 {HD. .Libro .iij<<o>>. .T<itul><<o>> .xvij<<o>>. / cxix}
 {CB1.
@@ -4311,12 +4311,12 @@ todos los otros debdores o fiadores finq<ue>n q<u><<i>>tos daq<ue>lla demanda. E
 si q[*<u><<i>>]siere dema<n>dar a todos o a algunos dellos en uno q<ue> o q<u><<a>>les q<u><<i>>er dellos q<ue>l
 pague<n> o q<ue>l cu<m>plan aq<ue>llo q<ue>l p<ro>metiero<n> o q<ue>l deue<n> o en q<ue>l fuero<n> fiadores pue-
 da lo fazer & no<n> se pueda escusar el uno por el ot<r><<o>> de responder cada q<ue> fuere<n> dema<n>dados.
-{IN2.} SJ por aue<n>tura el fiador muriere ante q<ue> sea q<u><<i>>to dela [¶2] {RUB. .Ley .xiiij<<a>>.}
+{IN2.} SJ por aue<n>tura el fiador muriere ante q<ue> sea q<u><<i>>to dela [%2] {RUB. .Ley .xiiij<<a>>.}
 fiadura sus herederos sean tenjdos por la fiadura assi com<m>o el mis-
 mo era tenjdo. Otrossi si aq<ue>l q<ue> reçibio el fiador muriere ante q<ue> sea pa-
 gado sus herederos puedan demandar la fiadura al fiador o a sus here-
 deros assi com<m>o lo podria demandar aq<ue>l q<ue> reçibio el fiador si biuo fuesse.
-{IN2.} A Todas las cosas a q<ue> es tenido el debdor a todas es [¶2] {RUB. .Ley .xv[<<a>>].}
+{IN2.} A Todas las cosas a q<ue> es tenido el debdor a todas es [%2] {RUB. .Ley .xv[<<a>>].}
 tenjdo el fiador. & no<n> a mas. Et ot<r><<o>>ssi todas las deffensiones q<ue>
 el debdor ha p<ar>a si sobrel p<r><<i>>ncipal todas las ha el fiador & las pued(^a)[^e]
 razonar & defender se por ellas. maguer q<ue> el debdor q<ue>l metio en la fi-
@@ -4372,7 +4372,7 @@ le diere por ellos. Et ent<er>gue se delo q<ue> ha sobrellos. & delo q<ue> ouier
 mission o de pena algu<n>a si la puso [*con el] q<ue> sea con derecho. Et lo demas delo
 a su duen<n>o. Et si no<n> fuere en la tierra [*el] duen<n>o delos pen<n>os de g<u><<i>>sa q<ue>l no<n> pue-
 [*da a]frontar: passado el plazo & el tercer dia uendalos assi com<m>o sobredich<o> es.
-{IN2.} DEffendemos q<ue> njngu<n>o no<n> sea osado de peyndrar a otro [¶2] {RUB. .Ley .ij<<a>>.}
+{IN2.} DEffendemos q<ue> njngu<n>o no<n> sea osado de peyndrar a otro [%2] {RUB. .Ley .ij<<a>>.}
 por njngu<n>a cosa sin mandado del alcalle o del merino si en<e>l pl<e>ito
 [*no<n>] fuere puesto q<ue> peyndre por si q<u><<a>>ndo q<u><<i>>siere sin a[l]calle / o sin merino. Et si
 algu<n>o lo fiziere torne la peyndra a su duen<n>o. Et peche otro ta<n>to com<m>o es la
@@ -4382,7 +4382,7 @@ pagar el debdo al plazo o ante del plazo del sus pen<n>os. & reçiba
 debdo. Et si ante del plazo o del t<iem>po q<ue> ma<n>da la ley. los uendiere / o los hu-
 sare a dan<n>o de los pen<n>os o no<n> los ent<er>gare al plazo por algu<n>a malicia:
 sea tenjdo de dar la ualia delos pen<n>os. Et la meatad mas de q<u><<a>>nto ualien.
-{IN2.} QVi pen<n>os tomare dotro o qui peyndrare a otro tengalos [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} QVi pen<n>os tomare dotro o qui peyndrare a otro tengalos [%2] {RUB. Ley .iiij<<a>>.}
 pen<n>os o la peyndra manifiesta mjent<e>. Et si los ascondiere o los
 negare. ayan la pena q<ue> manda la ley delos furtos. {RUB. Ley .v<<a>>.}
 {IN2.} MAndamos q<ue> njngu<n>o no<n> peyndre bueyes nj<n> uacas co<n> q<ue> aran nj<n> otras
@@ -4405,7 +4405,7 @@ otrossi la buen<n>a del tutor & del guardador empen<n>ada al huerfano. {RUB. Ley
 buen<n>a: & despues ganare mas delo q<ue> auie a aq<ue>l tie<m>po todo aq<ue>l-
 lo q<ue> despues ganare sea ta<n> bie<n> empen<n>ado com<m>o lo primero. mas si algu<n>a
 cosa empen<n>are no<m>brada mjent<e>: aq<ue>lla sola mjent<e> sea empen<n>ada & no<n> ma<<s>>.
-{IN2.} TOda cosa q<ue> es defendida por la ley q<ue> no<n> se pueda ue[*<n>]der. [¶2] {RUB. Ley .viij<<a>>.}
+{IN2.} TOda cosa q<ue> es defendida por la ley q<ue> no<n> se pueda ue[*<n>]der. [%2] {RUB. Ley .viij<<a>>.}
 deffendemos q<ue> se no<n> pueda empen<n>ar. Et aq<ue>llas cosas q<ue> se pue-
 den uender aq<ue>llas se puede<n> empen<n>ar. {RUB. .Ley .ix<<a>>.}
 {IN2.} DEfendemos q<ue> njngun om[<n>]e no<n> meta en pen<n>os cosa agena nj<n> la
@@ -4414,7 +4414,7 @@ pen<n>ada no<n> la empen<n>e a ot<r><<o>> por mas. nj<n> en ot<r><<a>> g<u><<i>>
 toujere. Et q<u><<i>> cont<r><<a>> esto fiziere peche lo q<ue> empen<n>are a su duen<n>o do-
 blado. Et si la su cosa empen<n>are en dos logares o en mas peche a
 cada uno daq<ue>llos a q<u><<i>> la empen<n>are el doblo de lo q<ue> aq<ue>lla cosa ualiere.
-{IN2.} Qvis q<u><<i>>er q<ue> pen<n>os tomare por su debdo. si los ue<n>diere [¶2] {RUB. Ley .x<<a>>.}
+{IN2.} Qvis q<u><<i>>er q<ue> pen<n>os tomare por su debdo. si los ue<n>diere [%2] {RUB. Ley .x<<a>>.}
 assi com<m>o ma<n>da la ley. Et por el p<re>cio delos pen<n>os no<n> fuere
 ent<er>gado de su debdo pueda dema<n>dar lo q<ue> fincare del debdo.
 ¶ {RUB. Titulo .xix<<o>>. d<e>las debdas & delas pagas.} {RUB. .Ley .p<r><<i>>m<er>a.}
@@ -4471,7 +4471,7 @@ te no<n> de nada. Et si el merino o el sayon no<n> fiziere la ent<er>ga assi com
 g<e>la mandare faz<er> el alcall<e> & fiziere algu<n>a tardança o rebuelta a sabie<n>da<<s>>
 o dan<n>o de algu<n>a delas partes peche diez .m<a>r<avedis>. a aq<ue>l a q<u><<i>> fiziere el dan<n>o
 si el pl<e>ito valiere sesenta [.]m<a>r<avedis>. Et si ualiere mas o menos peche segu<n>d [^esta razo<n>]
-{IN2.} QVando algu<n>o es debdor por emp<re>stido o por uendida o por [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} QVando algu<n>o es debdor por emp<re>stido o por uendida o por [%2] {RUB. Ley .v<<a>>.}
 ot<r><<a>> c(^a)[^o]sa semeiable a dos o a m(^o)[^a]s el p<ri>m<er>o sea ent<er>gado p<r><<i>>mera
 mjent<e> maguer q<ue> el otro le dema<n>dare ante. Et si en un t<iem>po fue fecha la
 debda. todos los debdores q<ue> de un t<iem>po son sean ent<er>gados comunal mjent<e>
@@ -4481,7 +4481,7 @@ a dos o a mas por omeziello o por furto o por otra calon<n>a el q<ue> p<r><<i>>m
 dema<n>dare: aq<ue>l sea ante ent<er>gado maguer q<ue> sea dante tenjdo a algu<n>o d<e>los
 otros. Et si todos en uno dema<n>daren todos sean ent<er>gados cada uno segu<n>d
 q<ue> fuere su debdo maguer q<ue> el dan<n>o sea fecho ante alos unos q<ue> alos otro<<s>>.
-{IN2.} (s)[S]J alguno fuere ent<er>gado en heredat dotro por debda. [¶2] {RUB. Ley vj<<a>>.}}
+{IN2.} (s)[S]J alguno fuere ent<er>gado en heredat dotro por debda. [%2] {RUB. Ley vj<<a>>.}}
 [fol. 122r]
 {HD. .Libro .iij<<o>>. .T<itul><<o>> .xix<<o>>. \ cxxij}
 {CB1.
@@ -4534,7 +4534,7 @@ no<n> deue<n> responder por los malefiçios q<ue> fiziero<n> de q<ue> son q<u><<
 na te<m>poral por la muerte saluo si fuessen maleficios por q<ue> ouiessen a
 fincar sin sepultura. Ca ento<n>ce tenjdos son por ellos de eme<n>dar en q<u><<a>>nto
 cu<m>pliere la herençia & no<n> mas. O si fuessen peccados de heresia o de trayçio<n>.
-{IN2.} ARçob<is>po o ob<is>po o otro p<re>lado de <santa> egl<es>ia sean tenjdos [¶2] {RUB. Ley .xiij<<a>>.}
+{IN2.} ARçob<is>po o ob<is>po o otro p<re>lado de <santa> egl<es>ia sean tenjdos [%2] {RUB. Ley .xiij<<a>>.}
 de pagar los debdos q<ue> fiziero<n> sus antecessores a pro de la egl<es>ia.
 mas las debdas q<ue> no<n> fuero<n> fechas a pro de la egl<es>ia pague<n> las los he-
 rederos del q<u><<i>> las fizo. Et no<n> la egl<es>ia. {RUB. .Ley .xiiij<<a>>.}
@@ -4553,7 +4553,7 @@ Et si aq<ue>l q<ue> auje de reçebir el debdo: no<n> q<u><<i>>siere reçebir par
 todo no<n> sea costren<n>jdo delo reçebir: & puedalo despues dema<n>dar co<n> toda la
 pena: mas si el debdor q<u><<i>>siere pagar parte del debdo: salua toda la pena: el
 reçebidor sea tenjdo de reçebir la & pueda en esta razo<n> dema<n>dar toda la pena.
-{IN2.} SJ el debdor q<ue> ha dado fiador de pagar a plazo: no<n> pagare [¶2] {RUB. Ley .xvj<<a>>.}
+{IN2.} SJ el debdor q<ue> ha dado fiador de pagar a plazo: no<n> pagare [%2] {RUB. Ley .xvj<<a>>.}
 al plazo. el fiador pueda pagar el debdo maguer q<ue> g<e>lo defie<n>da
 el debdor. Et pueda despues dema<n>dar a aq<ue>l q<ue>l metio por fiador todo lo
 q<ue> el pagare por la fiudura. {RUB. .Ley .xvij<<a>>.}
@@ -4579,7 +4579,7 @@ sean ent<er>gados del cuerpo del debdor & delas cosas q<ue> el traxiere despues 
 q<ue>l traxo fuere ent<er>gado de lo suyo: maguer q<ue>l aya traydo assegurado a el & a su<<s>>
 cosas delos otros. P<er>o si el q<ue>l traxo lo embiare o lo deffendiere. no<n> sea tenjdo
 de responder alos otros por el: si no<n> le embio o si nol defendio deuedando g<e>lo
-{IN2.} MAguer q<ue> mug<ie>r de su marido no<n> pu[*<e>d]a [¶2] {RUB. Ley .xix<<a>>.} ¶2 el alcall<e>.
+{IN2.} MAguer q<ue> mug<ie>r de su marido no<n> pu[*<e>d]a [%2] {RUB. Ley .xix<<a>>.} %2 el alcall<e>.
 fiar nj<n>(n) fazer debda nj<n> estar en juyzio: mjentra q<ue> [*uida] fiziere
 en uno. sin otorgamje<n>to de su marido. P<er>o si fuere mug<ie>r q<ue> ue<n>da o compre
 por si o aya mester de mercadure uala todo debdo & toda cosa q<ue> fiziere
@@ -4610,7 +4610,7 @@ gelo dexe tomar Esto mismo [*sea en sieruo] q<ue> fuxiere [*ala] egl<es>ia por d
 si el cl<er>igo no<n> le q<u><<i>>siere dar o no<n> le mandare tomar puedal tomar su debdor & sacar [*lo de]
 la egl<es>ia. Et el sen<n>or ot<r><<o>>ssi a su sieruo no<n> le firiendo nj<n> le lisiando nj<n> le tresnando mal.
 Et [*q<u><<i>>] dotra g<u><<i>>sa sacare por fuerça su debdor o su sieruo dela egl<es>ia peche el sac<r><<i>>legio.
-{IN2.} SJ aq<ue>l q<ue> es tenjdo de pagar algu<n> debdo a otro: diere en paga [¶2] {RUB. Ley .xxij<<a>>.}
+{IN2.} SJ aq<ue>l q<ue> es tenjdo de pagar algu<n> debdo a otro: diere en paga [%2] {RUB. Ley .xxij<<a>>.}
 bestia o ot<r><<a>> cosa de q<ue> el ot<r><<o>> sea pagado: vala tal paga. Et mas no<n> gela pue-
 da dema<n>dar. Ot<r><<o>>ssi si el diere otro su debdor: por mano q<ue>l pague aq<ue>l debdo & el ot<r><<o>>
 lo reçibiere: no<n> sea tenjdo de responder le mas por este debdo maguer q<ue> el otro no<n>
@@ -4664,7 +4664,7 @@ razo<n> & derecho es q<ue> faga ante emjenda a dios q<ue> alos om[*n<e>s].}
 [fol. 125r]
 {HD. .LIBRO. QUARTO. T<itul><<o>> .I<<o>>. \ [*cxxv]}
 {CB1.
-{IN3.} NJNgun x<r><<i>><sti>ano non sea osado de tornar judio nj<n> moro [¶2] {RUB. Ley .j<<a>>.}
+{IN3.} NJNgun x<r><<i>><sti>ano non sea osado de tornar judio nj<n> moro [%2] {RUB. Ley .j<<a>>.}
 {GL. [^¶ e[*n q<ue> ay j
 ley]]}
 nj<n> sea osado de faz<er> su fijo moro nj<n> iudio. Et si algu<n>o lo
@@ -4693,7 +4693,7 @@ com<m>o es sobr<e>dicho. el cuerpo & el auer este a m<er>cet del Rey. {RUB. Ley 
 {IN2.} FJrme mjente deffendemos q<ue> nj<n>gun iudio no<n> sea osado de sossa-
 car x<r><<i>><sti>ano njngu<n>o q<ue> se torne a su ley. nj<n> delo retaiar.
 Et el q<ue> lo fiziere muera por ello. Et todo lo q<ue> ouiere sea del Rey.
-{IN2.} SJ el iudio dixiere denosto algu<n>o cont<r><<a>> dios o cont<r><<a>> [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} SJ el iudio dixiere denosto algu<n>o cont<r><<a>> dios o cont<r><<a>> [%2] {RUB. Ley .iij<<a>>.}
 <santa> maria o cont<r><<a>> ot<r><<o>> <santo> peche Çient<o> m<a>r<avedis> al Rey por cada}
 [fol. 125v]
 {HD. .Libro .iiij<<o>>. .T<itul><<o>> .ij<<o>>.}
@@ -4705,7 +4705,7 @@ cinq<u><<a>>enta .m<a>r<avedis>. al Rey. & no<n> la faga mas. {RUB. .Ley .v<<a>>
 {IN2.} IUdio ninguno no<n> faga emp<re>stido a husuras nj<n> de ot<r><<a>> man<er>a sobre cuerpo de
 x<r><<i>><sti>ano nj<n>gu<n>o. Et el q<ue> lo fiziere pierda todo q<u><<a>>nto diere sobrel. Et x<r><<i>><sti>ano pue-
 da se yr libre mjente q<u><<a>>ndo q<u><<i>>siere. Et pena nj<n> pl<e>ito q<ue> sobre si faga p<ar>a no<n> se poder yr
-{IN2.} NJngun judio q<ue> diere a husuras: no<n> sea [¶2] {RUB. .Ley .vj<<a>>.} ¶2 no<n> vala.
+{IN2.} NJngun judio q<ue> diere a husuras: no<n> sea [%2] {RUB. .Ley .vj<<a>>.} %2 no<n> vala.
 osado de dar mas caro de dar tres por q<u><<a>>tro por todo el an<n>o. Et si mas
 caro lo diere no<n> vala. Et si demas tomare tornelo doblado a aq<ue>l de q<u><<i>> lo tomo.
 Et pl<e>ito nj<n>gu<n>o q<ue> contra esto fuere fecho. no<n> uala. Ot<r><<o>>ssi ma<n>damos q<ue> no<n> sea osa-
@@ -4779,12 +4779,12 @@ uar pechelo co<n> otro tal a su duen<n>o o el p<re>çio sobredicho doblado sobre
 la calon<n>a sobredicha del taiar. {RUB. .Ley .iij<<a>>.}
 {IN2.} SJ algun om<n>e vin<n>a agena taiare o derraygare o q<ue>mare peche
 a su duen<n>o ot<r><<a>>s dos ta<n>tas & ta<n> buen<n>as sin aq<ue>lla q<ue> dan<n>o q<ue> deue fincar
-{IN2.} SJ algu<n>o ent<r><<a>>re o tomare por fuerça [¶2] {RUB. .Ley .iiij<<a>>.} ¶2 a su duen<n>o.
+{IN2.} SJ algu<n>o ent<r><<a>>re o tomare por fuerça [%2] {RUB. .Ley .iiij<<a>>.} %2 a su duen<n>o.
 algu<n>a cosa q<ue> otro te<n>ga en jur & en poder & en paz si el força-
 dor algu<n> derecho y auie: pierda lo: Et si derecho no<n> y auie ent<er>guelo co<n>
 otro ta<n>to delo suyo (^&)[^o] co<n> la ualia [^dello] a aq<ue>l a q<u><<i>> lo forço. mas si algu<n>o tiene q<ue>
 ha derecho en algu<n>a cosa q<ue> otro toujere en jur de paz: dema<n>de g<e>lo por el fuero.
-{IN2.} Qvien tolliere pen<n>os o ent<er>ga al sayon o al andador [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} Qvien tolliere pen<n>os o ent<er>ga al sayon o al andador [%2] {RUB. Ley .v<<a>>.}
 peyndrando o ent<er>gando o faziendo ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er de su offiçio
 por juyzio o por mandado del alcalle peche la calon<n>a doblada assi en la
 ferida com<m>o en la fuerça. Et q<u><<i>> amparare peyndra al m<er>yno o al offiçial
@@ -4813,7 +4813,7 @@ dexare al sen<n>or sin culpa del sen<n>or ante del plazo pierda
 la soldada. & peche otro tanto. Et si el sen<n>or le ouiere algo dado de
 su soldada. & el ma<n>çebo lo negare. El sen<n>or sea creydo por su jura
 fasta un .m<a>r<avedi>. Et si algu<n> dan<n>o le fiziere: peche g<e>lo. Et no<n> le fiera por ello.
-{IN2.} SJ algu<n> om<n>e firiere a otro. Et el ferido diere la voz [¶2] {RUB. Ley .x<<a>>.}
+{IN2.} SJ algu<n> om<n>e firiere a otro. Et el ferido diere la voz [%2] {RUB. Ley .x<<a>>.}
 al merino o alos alcall<e>s: maguer q<ue> se abenga co<n> aq<ue>l q<ue>l
 firio por los fieles o por si o por ot<r><<o>> q<u><<a>>l q<u><<i>>er: no<n> pierda el merino la
 calon<n>a o aq<ue>l q<ue> la ouiere de auer pue<<s>> la uoz le fuere dada. {RUB. Ley .xj<<a>>.}
@@ -4862,7 +4862,7 @@ no della sea en hueste o en otro logar. Et q<u><<i>> lo fiziere peche
 doblado q<u><<a>>nto ende tomo o mando tomar si en<e>llo auia derecho. Et si
 no<n> auia [^y] derecho pechelo a tres duplo co<n> todo aq<ue>llo q<ue> dende leuo. Ca
 mayor culpa es forçar en la casa q<ue> en otro logar. Et por ende es mayor la pena.
-{IN2.} AQ<ue>llos q<ue> uan en hueste si algu<n>a cosa forçare<n> o [¶2] {RUB. Ley .xv[<<a>>].}
+{IN2.} AQ<ue>llos q<ue> uan en hueste si algu<n>a cosa forçare<n> o [%2] {RUB. Ley .xv[<<a>>].}
 rrobaren pechen q<u><<a>>tro a ta<n>to a aq<ue>llos a q<u><<i>> lo robaro<n> contando
 aq<ue>llo q<ue> tomaro<n>. Et si no<n> ouiere[*<n>] de q<ue> lo pechar peche<n> lo q<ue> ouiere<n>. Et
 por la mayoria esten a m<er>çet del Rey. Et si los om[*<n>]es q<ue> leuaro<n> co<n>sigo
@@ -4873,13 +4873,13 @@ orio & fiziere co<n> ellos roba q<u><<i>>er sea din<er>os q<u><<i>>er cauallos [
 tias o ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er pechela co<n> diez atanto a aq<ue>l a q<u><<i>> lo tomo. Et aq<ue>llos
 q<ue> fueren con el peche cada uno dellos veynte .m<a>r<avedis>. al Rey. Et si no<n> ouie-
 ren de q<ue> los pechar pechen aq<ue>llo q<ue> ouiere<n>: & por lo de mas esten a m<er>cet d<e>l Rey.
-{IN2.} Qvi al robador mostrare algu<n>a cosa q<ue> robo peche la ualia [¶2] {RUB. Ley .xvij<<a>>.}
+{IN2.} Qvi al robador mostrare algu<n>a cosa q<ue> robo peche la ualia [%2] {RUB. Ley .xvij<<a>>.}
 de aq<ue>llo q<ue> fuere robado por su demostramje<n>to & el robador aya
 [*la] pena q<ue> manda la ley sobredicha. {RUB. .Ley .xviij<<a>>.}
 {IN2.} SJ algu<n>a roba fuere fech(^e)[^a]. Et fallare<n> a algu<n>o algu<n>a cosa daq<ue>llo
 q<ue> fue robado: el sea tenido de dezir los ot<r><<o>>s q<ue> fuero<n> co<n> el en
 aq<ue>lla roba. Et si los no<n> q<u><<i>>siere manifestar aya toda la pena de la roba.
-{IN2.} NJngu<n> om<n>e no<n> sea osado de robar nj<n> de forçar a om<n>e [¶2] {RUB. Ley .xix<<a>>.}
+{IN2.} NJngu<n> om<n>e no<n> sea osado de robar nj<n> de forçar a om<n>e [%2] {RUB. Ley .xix<<a>>.}
 vienda<n>t nj<n> a ot<r><<o>> om<n>e q<ue> este en lauor de bueyes o en otra lauor q<ue>
 sea de fuera. Et el q<ue> robare o foçare tales om<n>es peche q<u><<a>>tro a ta<n>to da-
 q<ue>llo q<ue> robare & si otro dan<n>o fiziere tan bie<n> de muerte com<m>o dotra cosa}
@@ -4927,7 +4927,7 @@ guardar no<n> sea tenjdo de pechar les el dan<n>o. {RUB. Ley .xxiiij<<a>>}
 egl<es>ia nj<n> robar camjno: nj<n> foradar egl<es>ia nj<n> casa p<ar>a furtar
 nj<n> fazer falsedat nj<n>guna nj<n> traycio<n> nj<n> aleuosia por ma<n>dado de su sen<n>or
 Et si lo fiziere ta<n> bie<n> el com<m>o el q<ue> lo ma<n>dare ayan la pena q<ue> ma<n>da la ley.
-{IN2.} EL q<ue> peyndra fiziere tengala manjfiesta & co<n>çeiera mjente [¶2] {RUB. Ley .xxv<<a>>.}
+{IN2.} EL q<ue> peyndra fiziere tengala manjfiesta & co<n>çeiera mjente [%2] {RUB. Ley .xxv<<a>>.}
 Et si el duen<n>o le diere fiadores. sobre la peyndra p<ar>a complir
 de derecho & la leuare o la t<r><<a>>snochare sin ma<n>dado del alcalle o del meri-
 [no] pechela com<m>o si fuesse de rrobo. ¶ {RUB. Titulo q<u><<i>>nto delas penas.} {RUB. Ley .j<<a>>.}
@@ -5000,7 +5000,7 @@ mal de su cuerpo. Et aun q<ue> lo no<n> faga sin la pena delas arras q<ue> es
 puesta en la ley. pierda todo q<u><<a>>nto deue auer de q<u><<a>>nto ganaren en uno. Et aya
 lo el marido. Et si mal fiziere de su cuerpo muera por ello assi com<m>o ma<n>da
 la ley. Et si dot<r><<a>> g<u><<i>>sa sse partiere de su marido por su uolu<n>tad no<n> gelo co<n>sie<n>ta la egl<es>ia.
-{IN2.} TOdo om<n>e q<ue> foradare casa o egl<es>ia q<ue>brantare para furtar [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} TOdo om<n>e q<ue> foradare casa o egl<es>ia q<ue>brantare para furtar [%2] {RUB. Ley .vij<<a>>.}
 muera por ello maguer q<ue> no<n> furte y nada. Et si algu<n>o furtare al-
 guna cosa q<ue> vala q<u><<a>>renta .m<a>r<avedis>. o dende ayuso peche las nouenas. las dos
 partes al duen<n>o del furto. & las siete partes al Rey. Et si no<n> ouiere de
@@ -5012,12 +5012,12 @@ mer furto. Et si furtare ot<r><<a>> vez muera por ello. Et si el furto p<r><<i>>
 ualiere mas de q<u><<a>>renta .m<a>r<avedis>. peche las nouenas com<m>o sobredicho es. Et si
 no<n> ouiere de q<ue> las pechar corten le las oreias & el pun<n>o. Et si om<n>e fidal-
 go de q<u><<i>>nje<n>tos sueldos fiziere furto q<u><<a>>l q<u><<i>>er de çi<n>co .m<a>r<avedis>. arriba enforq<ue>n
-{IN2.} OMne q<ue> no<n> fuere ladron con<n>osçido [¶2] {RUB. .Ley .viij<<a>>.} ¶2 lo por ello.
+{IN2.} OMne q<ue> no<n> fuere ladron con<n>osçido [%2] {RUB. .Ley .viij<<a>>.} %2 lo por ello.
 o encartado (^o)[^E] robare camjno. peche lo q<ue> robare a su duen<n>o
 doblado. Et al Rey çient<o> .m<a>r<avedis>. (^O)[^E] si fuere ladron con<n>osçido o encartado &
 robare camjno muera por ello. Et delo q<ue> ouiere peche el robo a su
 duen<n>o doblado. Et si fuere tomado con el robo maten le luego sin dete-njmje<n>to
-{IN2.} SJ alguno peyndrare a ot<r><<o>> sin mandado [¶2] {RUB. Ley .ix<<a>>.} ¶2 nj<n>gu<n>o
+{IN2.} SJ alguno peyndrare a ot<r><<o>> sin mandado [%2] {RUB. Ley .ix<<a>>.} %2 nj<n>gu<n>o
 del alcalle o del merino: torne la peyndra doblada al q<ue> peyn-
 dro fueras si fizo pl<e>ito sobre si q<ue>l pudiesse peyndrar. {RUB. Ley .x<<a>>.}
 {IN2.} TOdo mal deue seguir al q<ue> lo faze: si el otro no<n> es parçicuero
@@ -5041,7 +5041,7 @@ dan<n>o q<ue> ende ujniere por prueua o por iura daq<ue>l q<ue> reçibio el dan<
 {CB1.
 Et si algu<n>a destas cosas fiziere por occasion. peche el dan<n>o a bien
 uista de om<n>es buen<n>os puestos por el alcalle & no<n> aya y otra pena.
-{IN2.} SJ algu<n> om<n>e desonrrare noujo o nouia en<e>l dia de [¶2] {RUB. Ley .xiij<<a>>.}
+{IN2.} SJ algu<n> om<n>e desonrrare noujo o nouia en<e>l dia de [%2] {RUB. Ley .xiij<<a>>.}
 su boda peche sesaent(^e)[^a] .m<a>r<avedis>. Et si los no<n> oujere: peche lo q<ue>.
 oujere. & por lo al yaga un an<n>o en<e>l çepo. Et si ante pudiere co<m>plir
 el pecho salga dela p<r><<i>>sion. {RUB. .Ley .xiiij<<a>>.}
@@ -5084,7 +5084,7 @@ tan abiertos & tan grandes com<m>o solian estar. Et los herederos
 dela vna parte & de la ot<r><<a>> no<n> sean osados dela ensangostar. Mas si q<u><<i>>sie-
 re fazer cerraduras a sus t<ie>rras o a sus heredades fagan las en lo suyo.
 Et si algu<n>o cont<r><<a>> esto fiziere: por la osadia peche q<u><<a>>tro .m<a>r<avedis>. al Rey. Et
-{IN2.} LOs ujandantes puedan [¶2] {RUB. Ley .iiij<<a>>.} ¶2 desfaga lo q<ue> fizo.
+{IN2.} LOs ujandantes puedan [%2] {RUB. Ley .iiij<<a>>.} %2 desfaga lo q<ue> fizo.
 sus bestias & sus ganados meter a pasçer en los logares q<ue> no<n> sea<n>
 [*ç]errados nj<n> desfesados. Et puedan y descargar & folgar por vn dia o por
 dos alo mas. saluo si el duen<n>o del logar q<ue> otorgare q[<ue>] finq<ue> y mas. Et
@@ -5113,7 +5113,7 @@ rido & faga dellos lo q<ue> q<u><<i>>siere & de q<u><<a>>nto an. assi q<ue> no<n
 matar el uno dellos & dexar el ot<r><<o>>. P<er>o si fijos derecheros oujere<n>
 amos o el uno dellos sus fijos hereden sus bienes. Et si por aue<n>-
 tura la mugier no<n> fuere en culpa: mas fue forçada no<n> aya pena.
-{IN2.} SJ mug<ie>r desposada derecha mjente casare co<n> otro q<ue> sabia com<m>o [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} SJ mug<ie>r desposada derecha mjente casare co<n> otro q<ue> sabia com<m>o [%2] {RUB. Ley .ij<<a>>.}
 era desposada o fiziere adulterio: el & ella co<n> sus bienes sean me-
 tidos en poder del esposo assi q<ue> sean sus sieruos. mas q<ue> no<n> los pueda
 matar nj<n> lisiar. Et otrossi dessus cosas dellos q<ue> faga el lo q<ue> q<u><<i>>siere si
@@ -5176,7 +5176,7 @@ fecho. luego l(^a)[^o] fagan saber al Rey. Et el q<ue> lo no<n> fiziere peche ç
 .m<a>r<avedis>. al .Rey. ¶ {RUB. Titulo .ix<<o>>. d<e>los q<ue> dexan la orden & d<e>los sodomjta<<s>>.}
 {GL. [^[*¶ e]n q[*<ue>] ay
 [*i]j l[*eys]]}
-{IN2.} SJ algu<n> mo<n>ge o otro om<n>e de orden dexare el abito el [¶2] {RUB. .Ley .j<<a>>.}
+{IN2.} SJ algu<n> mo<n>ge o otro om<n>e de orden dexare el abito el [%2] {RUB. .Ley .j<<a>>.}
 Rey lo torne ala orden. maguer q<ue> njngu<n>o no<n> lo acuse. nj<n> aya
 nu<n>ca mayor logar en la orden. & sea delos menores de la orden en gra-
 ue penjte<n>çia. P<er>o si algu<n>o por su uoluntad se tornare ala orden ante
@@ -5196,7 +5196,7 @@ pues a terçer dia q<ue> sean colgados por las piernas fasta q<ue> mueran
 & nu<n>ca dende sean tollidos. ¶ {RUB. Titulo .x<<o>>. d<e>los q<ue> fuerçan o roban las mugiere<<s>>.}
 {GL. [^[*¶ en] q[<ue>] ay [*x]
 le[*ys]]}
-{IN2.} SJ algu<n>o yog<u><<i>>ere con mugier de su padre: fagan le [¶2] {RUB. Ley j<<a>>.}
+{IN2.} SJ algu<n>o yog<u><<i>>ere con mugier de su padre: fagan le [%2] {RUB. Ley j<<a>>.}
 com<m>o a traydor. Et si (l)e[l] yoguiere co<n> la barragana faga<n> le
 com<m>o a aleuoso. Et si yoguiere con mugier de su h<er>mano o co<n> su}
 [fol. 133v]
@@ -5240,12 +5240,12 @@ q<ue> es dela mug<ie>r escossa: es de otra mug<ie>r q<u><<a>>l q[*<u><<i>>]er q<
 saluo q<ue> no<n> deue<n> seer catados por las mug<ie>res. Et la q<ue> q<ue>rellare maliçiosa
 mjente. & no<n> lo pudiera p<ro>uar por algu<n>as razones o demostranças no<n>
 sea oyda mas en la q<ue>rella. Et el alcalle fagal dar çinq<u><<a>>enta açotes por toda la uilla.
-{IN2.} Q<u><<a>>Ndo muchos se ayuntan & l(^o)[^i]euan algu<n>a mug<ie>r por fuer[*ça] [¶2] {RUB. Ley iiij<<a>>.}
+{IN2.} Q<u><<a>>Ndo muchos se ayuntan & l(^o)[^i]euan algu<n>a mug<ie>r por fuer[*ça] [%2] {RUB. Ley iiij<<a>>.}
 si todos yoguieren con ella muere<n> por ello Et si por aue<n>tura uno
 fuere el forçador & yoguiere co<n> ella muer(^e)[^a]. Et los ot<r><<o>>s q<ue> fuere<n> co<n> el pe-
 che cada uno cinq<u><<a>>enta .m<a>r<avedis>. la meatad al Rey & la meatad ala mugier
 q<ue> priso la fuerça. Et no<n> se pueda nj<n>gu<n>o escusar por q<ue> [*diga q<ue>] fue con su sen<n>or.
-{IN2.} TOdo o(^o)[^m]<n>e q<ue> leuare o robare mug<ie>r casada por [*fuerça] [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} TOdo o(^o)[^m]<n>e q<ue> leuare o robare mug<ie>r casada por [*fuerça] [%2] {RUB. .Ley .v<<a>>.}
 maguer q<ue> no<n> aya q<ue> veer con ella. sea metido co<n> todos sus bie-
 nes en poder de su marido q<ue> faga del & de sus bienes lo q<ue> q<u><<i>>siere. Et si
 ouiere fijos o dende ayuso hereden lo suyo: & del cuerpo faga el marido
@@ -5259,18 +5259,18 @@ finq<ue> en poder de los otros. Et sea uendido com<m>o sobredicho es. {RUB. Ley 
 q<ue> veer co<n> ella q<u><<i>>er no<n> muera por ello. Et si fijos derechos
 o dende ayuso ouiere hereden lo suyo. Et si no<n> los oujer(^o)[^e] aya el
 Rey la meatad de lo q<ue> aq<ue>l oujere & la otra me(^e)[^a]tad el monesterio donde
-¶2 fuere la monja}
+%2 fuere la monja}
 [fol. 134v]
 {HD. .Libro .iiij<<o>>. .T<itul><<o>> .x<<o>>.}
 {CB1.
-{IN2.} SJ los parientes de mjentre q<ue> el padre viue conseiare<n> [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} SJ los parientes de mjentre q<ue> el padre viue conseiare<n> [%2] {RUB. Ley .vij<<a>>.}
 o consintiere<n> com<m>o algu<n>a mug<ie>r sea leuada por fuerça q<u><<i>>er
 sean h<er>manos q<u><<i>>er otros ayan la pena q<ue> es puesta contra los q<ue> lie-
 uan las mug<ie>res por fuerça fueras ende q<ue> no<n> mueran. Et si despue<<s>>
 de la muerte del padre: los h<er>manos o los otros parientes q<ue> la tie-
 nen en poder & la diere<n> a robador o lo consintiere<n> q<ue> la lieue<n> pechen la
 meatad de q<u><<a>>nto ouieren: & aya lo aq<ue>lla q<ue> fue leuada por fuerça.
-{IN2.} SJ el padre o la madre o el uno dellos conseiaren [¶2] {RUB. Ley .viij<<a>>.}
+{IN2.} SJ el padre o la madre o el uno dellos conseiaren [%2] {RUB. Ley .viij<<a>>.}
 o consintiere<n> rrobo de su fija q[<ue>] fuere desposada: pechen al
 esposo quatro tanto daq<ue>llo q<ue> ouieren a dar en casamjento con ella.
 Et desto aya la meytad el esposo. Et el q<ue> la leuo por fuerça aya
@@ -5320,7 +5320,7 @@ ello. mas si por auentura ella no<n> sabie q<ue> era sieruo partasse
 del luego q<ue> lo sopiere & no<n> aya pena. Et si luego q<ue> lo sopiere
 no<n> se q<u><<i>>siere partir del aya la pena sobredicha. Et esto mis-
 mo sea delos om[*<n>]es libres q[*<ue>] casaren co<n> las mugieres q<ue> fuere<n> sierua<<s>>.
-{IN2.} QVien su sieruo casare co<n> sierua dotro sin sabiduria [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} QVien su sieruo casare co<n> sierua dotro sin sabiduria [%2] {RUB. Ley .iiij<<a>>.}
 del sen<n>or dela sierua: los fijos q<ue> fizieren en vno: sea<n>}
 [fol. 135v]
 {HD. .Libro .iiij<<o>>. .T<itul><<o>> .xij<<o>>.}
@@ -5369,7 +5369,7 @@ q<ue> la uerdadera esc<r><<i>>ptura touiere<n> en fialdat si la ascondiere<n> q<
 mostrar q<u><<a>>ndo g<e>la demandare<n> o rompiere<n> o desatare<n> la carta. Et si fu<er>e
 p<ro>uado aq<ue>llo q<ue> era esc<r><<i>>pto en la carta vala. Et si el esc<r><<i>>uano publico
 algu<n>as destas cosas fiziere. aya la pena q<ue> manda la ley p<r><<i>>m<er>a deste tit<u>lo.
-{IN2.} TOdo om<n>e q<ue> fiziere carta falsa sobre ue<n>dida o sobre [¶2] {RUB. .Ley .v<<a>>.}
+{IN2.} TOdo om<n>e q<ue> fiziere carta falsa sobre ue<n>dida o sobre [%2] {RUB. .Ley .v<<a>>.}
 donadio o sobre ma<n>da de om<n>e muerto o de otro pl<e>ito q<u><<a>>l
 q<u><<i>>er p<ar>a toller a algu<n>o su derecho: o para faz<er> le ot<r><<o>> mal: tal carta no<n>
 uala. Et el q<ue> la fizo. Et el q<u><<i>> la mando faz<er>: aya la pena q<ue> manda la
@@ -5381,7 +5381,7 @@ mes o el era o por ot<r><<a>> g<u><<i>>sa q<u><<a>>l q<u><<i>>er muera por ello.
 meatad de todos sus bienes. Et la ot<r><<a>> meytad ayan sus herederos. Et
 esta misma pena ayan aq<ue>llos q<ue> el seello del Rey falsaren. Et si cl<er>i-
 go algu<n>a destas cosas fiziere aya la pena q<ue> manda la ot<r><<a>> ley segu<n>da deste tit<u>lo.
-{IN2.} QVien fiziere m<a>r<avedi>s en oro falsos: muera por ello. [¶2] {RUB. Ley .vij<<a>>.}
+{IN2.} QVien fiziere m<a>r<avedi>s en oro falsos: muera por ello. [%2] {RUB. Ley .vij<<a>>.}
 assi com<m>o los q<ue> faze<n> falsa moneda. Et q<u><<i>> los rayere co<n> luna
 o con ot<r><<a>> cosa: o los serçenare pierda la meytad de todo q<u><<a>>nto ouiere}
 [fol. 136v]
@@ -5412,7 +5412,7 @@ se deffienda. Et si gelo no<n> p<ro>uare: el mismo aya la pena. Et si amo<<s>>
 lo sopieren amos ayan la pena. ¶ {RUB. Titulo .xiij<<o>>. d<e>los furtos & d<e>las cosa<<s>> +}
 {GL. [^[*¶ en q<ue> ay] xvj
 [*leys]]}
-{IN2.} MAndamos q<ue> aq<ue>llos q<ue> fueren conseieros ¶2 {RUB. encubierta<<s>>.} {RUB. Ley .j<<a>>.}
+{IN2.} MAndamos q<ue> aq<ue>llos q<ue> fueren conseieros %2 {RUB. encubierta<<s>>.} {RUB. Ley .j<<a>>.}
 en algun furto o lo tomare<n> a sabiendas. & lo encubriero<n>.
 ayan tal pena com<m>o aq<ue>llos q<ue> fiziero<n> el furto. {RUB. .Ley .ij<<a>>.}
 {IN2.} SJ el om<n>e q<ue> fallare algu<n>a cosa: q<u><<i>>er moros q<u><<i>>er bestias}
@@ -5466,7 +5466,7 @@ com<m>o manda la ley sexta del titulo de las penas. Et el ladron aya aq<ue>lla
 misma pena. Et si no<n> ouiere de q<ue> pechar sufra la pena q<ue> es puesta
 contra los ladrones. Et si no<n> pudiere mostrar el otor: peche esta pena do-
 blada: q<ue> ladron semeia q<u><<i>> la cosa de furto compra del ladron a sabie<n>da<<s>>.
-{IN2.} NJngu<n> om<n>e no<n> compre nj<n>gu<n>a cosa de njngun om<n>e [¶2] {RUB. .Ley .viij<<a>>.}
+{IN2.} NJngu<n> om<n>e no<n> compre nj<n>gu<n>a cosa de njngun om<n>e [%2] {RUB. .Ley .viij<<a>>.}
 q<ue> no<n> con<n>osca: fueras si tomare bue<n> fiador. Et si dot<r><<a>> g<u><<i>>sa lo
 comp<r><<a>>re de otor al plazo: q<ue>l pusiere el alcalle. Et si no<n> pudiere auer
 el otor salue se por su cabeça. q<ue> el no<n> sabie q<ue> aq<ue>lla cosa q<ue> compro era
@@ -5526,7 +5526,7 @@ cosas: muera por ello. Et q<u><<i>> lo fiziere a sieruo aya le pena dela ley
 sobredicha delos sieruos. {RUB. (Ley .iij<<a>>.)} ¶ {RUB. Tit<u>lo .xv<<o>>. d<e>los sieruos foydos & d<e>los +}
 {GL. [^¶ en q<ue> ay vij
 leys]}
-{IN2.} SJ algu<n>o ascondiere el [¶2] {RUB. q<ue> los asconde<n> o los faze<n> foyr} {RUB. Ley .j<<a>>.}
+{IN2.} SJ algu<n>o ascondiere el [%2] {RUB. q<ue> los asconde<n> o los faze<n> foyr} {RUB. Ley .j<<a>>.}
 sieruo a su sen<n>or q<ue>l fuxiere deue dar con aq<ue>l mismo otro
 tan buen<n>o a su duen<n>o. {RUB. .Ley .ij<<a>>.}
 {IN2.} NJngu<n>o no<n> sea osado de soltar sieruo ageno de fierros nj<n>
@@ -5544,7 +5544,7 @@ las cosas q<ue>l fallo. Et si mas lo toujere o lo traspusiere peche lo}
 {HD. Libro .iiij<<o>>. .T<itul>[*<<o>>] .xvj[*<<o>>]. \ cxxxjx}
 {CB1.
 con otro ta<n> buen<n>o assu duen<n>o. Et si lo auer no<n> pudiere peche dos ta<n> buen<n>o<<s>>.
-{IN2.} SJ algu<n>o conseiare a sieruo ageno q<ue> fuya o q<u><<a>>ndo [¶2] {RUB. Ley .iiij<<a>>.}
+{IN2.} SJ algu<n>o conseiare a sieruo ageno q<ue> fuya o q<u><<a>>ndo [%2] {RUB. Ley .iiij<<a>>.}
 sopo q<ue> querie foyr. sil dio talegas ol dessemeio ol dio otra
 ayuda algu<n>a co<n> q<ue> se fue. o lo ascondio q<u><<a>>ndo fuxo: peche a su duen<n>o
 aq<ue>l mismo con ot<r><<o>> tan buen<n>o si pudiere seer fallado. Et si no<n> pu-
@@ -5592,7 +5592,7 @@ dat: non pueda demandar el precio q<ue> auie taiado. Et esto mismo
 sea si puso delo sanar a plazo sen<n>alado & no<n> lo sano. {RUB. (Ley .iij<<a>>.)} {RUB. Titulo +}
 {GL. [^[*¶] en q<ue> ay
 xj [*leys]]}
-{IN2.} TOdo om<n>e q<ue> matare a otro a sabie<n>das [¶2] {RUB. xvij<<o>>. delos homeziellos} {RUB. [^Ley] [*^.j][<<a>>.]}
+{IN2.} TOdo om<n>e q<ue> matare a otro a sabie<n>das [%2] {RUB. xvij<<o>>. delos homeziellos} {RUB. [^Ley] [*^.j][<<a>>.]}
 muera por ello. Et si mochos fuere<n> los matadores muera<n>
 por ello. Saluo si matare su enemjgo con<n>osçido o deffendiendo se o
 sil fallare yaziendo con su mug<ie>r do q<u><<i>>er q<ue>l falle o sil fallare en su ca-
@@ -5617,7 +5617,7 @@ rederos & non pechen el homeziello. {RUB. .Ley. .iij<<a>>.}
 {IN2.} TOdo om<n>e q<ue> fallare<n> muerto liuorado en algu<n>a casa. Et no<n> sopiere<n>
 q<u><<i>>l mato: el morador dela casa sea tenjdo de mostrar q<u><<i>> lo mato.
 si no<n> sea tenjdo de responder de la muerte. saluo el derecho p<ar>a defender se si pudiere.
-{IN2.} SJ aq<ue>l q<ue> matare a otro sin derecho fuxiere q<ue> no<n> lo [¶2] {RUB. .Ley .iiij<<a>>.}
+{IN2.} SJ aq<ue>l q<ue> matare a otro sin derecho fuxiere q<ue> no<n> lo [%2] {RUB. .Ley .iiij<<a>>.}
 pudieren auer p<ar>a faz<er> justiçia del. los alcalles o las otras justi-
 cias del Rey. tome<n> de sus bienes sesaenta {GL. [^dize en ot<r><<o>>s
 fueros quj-
@@ -5700,11 +5700,11 @@ v leys]}
 muerto. Et le tomare las uesti(^t)[^d]uras o algu<n>a d<e>las ot<r><<a>>s cosas q<ue>l
 meten por onrra: muera por ello. Et si lo abriere & no<n> tomare algu<n>a
 cosa peche treze .m<a>r<avedis>. los medios al Rey. & los medios alos hered<er>os del
-¶2 muerto}
+%2 muerto}
 [fol. 141v]
 {HD. Libro .iiij<<o>>. .T<itul><<o>> .xviij<<o>>.}
 {CB1.
-{IN2.} TOdo om<n>e q<ue> fuessa agena en q<ue> no<n> fue njngu<n> om<n>e soterrado [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} TOdo om<n>e q<ue> fuessa agena en q<ue> no<n> fue njngu<n> om<n>e soterrado [%2] {RUB. Ley .ij<<a>>.}
 tomare sin grado de su duen<n>o. Et soterrare y q<u><<i>>er pariente q<u><<i>>er
 otro amjgo ent<er>gue la fuessa libre a cuya era o a sus herederos. Et por la o-
 sadia peche treze [.]m<a>r<avedis>. assi com<m>o manda la ot<r><<a>> ley. Et si om<n>e algu<n>o yaze
@@ -5718,7 +5718,7 @@ faz<er> dellas otra lauor. Et aq<ue>l q<ue> lo fiziere peche treze [.]m<a>r<aved
 ley. Et lo q<ue> tomo tornelo en su logar. Et q<u><<i>> las q<ue>brantare o las derribare
 por desonrra o por viltança peche treze [.]m<a>r<avedis>. al Rey. Et treze [.]m<a>r<avedis>. a los
 herederos del muerto & torne las en su logar si fuere<n> sanas o si no<n> otras
-{IN2.} DEffendemos fjrme mjentre q<ue> njngu<n> cl<er>igo [¶2] {RUB. Ley .iiij<<a>>.} ¶2 ta<n> buen<n>as.
+{IN2.} DEffendemos fjrme mjentre q<ue> njngu<n> cl<er>igo [%2] {RUB. Ley .iiij<<a>>.} %2 ta<n> buen<n>as.
 seglar nj<n> religioso no<n> sea osado de uender nj<n> p<re>cio nj<n>gu<n>o tomar.
 p<ar>a dar fuessas o logar en q<ue> las fagan. Et si algu<n>o lo fiziere peche lo
 todo doblado a aq<ue>l de q<ue> lo tomo: & peche diez .m<a>r<avedis>. la meatad al Rey. Et la
@@ -5751,7 +5751,7 @@ sen<n>ores en las huestes del Rey q<u><<a>>ndo g<e>lo ellos ma<n>daren. Et esto 
 mandamos delos q<ue> son acostados dot<r><<o>> q<ue> toujere<n> t<ie>rra o m<a>r<avedis>. por esta razo<n>
 Et si aq<ue>llos q<ue> fueren y se tornaren ante [^2#deL plaƽo sin] mandado pierda<n>
 la t<ie>rra o los m<a>r<avedis>. Et torne<n> q<u><<a>>nto del sen<n>or leuaron por razo<n> daq<ue>ste hueste.
-{IN2.} SJ el Rey oujere batalla enplazada q<u><<i>>er co<n> moros [¶2] {RUB. Ley .ij<<a>>.}
+{IN2.} SJ el Rey oujere batalla enplazada q<u><<i>>er co<n> moros [%2] {RUB. Ley .ij<<a>>.}
 q<u><<i>>er con x<r><<i>><sti>anos o con otros quales q<u><<i>>er en q<ue> el aya de seer / o ot<r><<o>>
 en su logar por su mandado. Et ric om<n>e / o jnfançon / o cauall<er>o / o otro
 o[^2#m<n>]e q<u><<a>>l q<u><<i>>er q<ue> su mandado reçibiere / o daq<ue>l / a q<u><<i>> el da su poder q<ue> uayan
@@ -5759,7 +5759,7 @@ e[^2#n su] logar. Et no<n> fu<er>e ala batalla al plazo q<ue>l mandaron: pierda 
 q<ue> [^2#ha com<m>o] aleuoso. Et sea todo del Rey: si fijos legitimos o dende ayuso
 no<n> ouje[^2#re & s]i los oujere aya la meytad. Et del cuerpo faga el Rey lo [q<ue>]
 q<u><<i>>siere. Et esta misma pena ayan los q<ue> se tornaren sin ma<n>dado ante d<e>l plazo.
-{IN2.} Q<u><<a>>Ndo el Rey fiziere pregonar su hueste q<u><<i>>er cont<r><<a>> moro<<s>>: [¶2] {RUB. Ley .iij<<a>>.}
+{IN2.} Q<u><<a>>Ndo el Rey fiziere pregonar su hueste q<u><<i>>er cont<r><<a>> moro<<s>>: [%2] {RUB. Ley .iij<<a>>.}
 q<u><<i>>er cont<r><<a>> ot<r><<o>>s q<u><<a>>les q<u><<i>>er los conçeios o los ot<r><<o>>s q<u><<a>>les q<u><<i>>er q<ue> deue<n>
 ir sin soldada a ella: si no<n> fuere<n> al plazo q<ue> les fue mandado assi com<m>o
 deue<n>: pechen la fonssadera assi com<m>o ma<n>dare el Rey. Et esta mjsma}
@@ -5814,7 +5814,7 @@ demandar por acusanças. Et si fu<er>e pl<e>ito de debda q<u><<a>>l q<u><<i>>er 
 / o de comp<r><<a>> / o de lauor algu<n>a q<ue> aya de fazer / o de ot<r><<a>> cosa q<u><<a>>l q<u><<i>>er en q<ue>
 no<n> deua auer justicia de muerte nj<n> de pena de cuerpo nj<n> echamjento de
 tierra nj<n> p<er>dimjento del auer: puedan se demandar por q<ue>rella & no<n> por acusaçio<n>.
-{IN2.} NJngu<n> om<n>e desmemoriado nj<n> descom<u>lgado no<n> pueda [¶2] {RUB. Ley [*.iiij<<a>>.]}
+{IN2.} NJngu<n> om<n>e desmemoriado nj<n> descom<u>lgado no<n> pueda [%2] {RUB. Ley [*.iiij<<a>>.]}
 acusar otro: por si nj<n> por ot<r><<o>>. Otrossi cl<er>igo de orden sagrada
 no<n> pueda acusar por si nj<n> por ot<r><<o>>. P<er>o si algu<n> mal le fiziere<n> a el o a
 om<n>e q<ue> el aya derecho delo demandar pueda lo q<ue>rellar: por auer emje<n>-
@@ -5877,7 +5877,7 @@ o por do la pudiere saber. si el q<ue> dio la q<ue>rella dixiere q<ue> lo no<n> 
 cosa fu<er>e fecha q[*<u><<i>>]er en uilla. q<u><<i>>er en yermo. q<u><<i>>er de noche q<u><<i>>er de dia. Et nj<n>gu<n>o no<n>
 diere q<ue>rella al Rey. el Rey de su officio sepa uerdat por pesq<u><<i>>sa. o por do q<u><<i>>er [^2#q<ue> lo]
 pueda saber. Ca razo<n> es: q<ue> los fechos malos & desag<u><<i>>sados no<n> finq<ue>n sin p[^2#ena]
-{IN2.} SJ el Rey de su offiçio fiziere pesq<u><<i>>sa gen<er>al en uilla o en t<ie>rra [¶2] {RUB. Le[*y .xij<<a>>.]}
+{IN2.} SJ el Rey de su offiçio fiziere pesq<u><<i>>sa gen<er>al en uilla o en t<ie>rra [%2] {RUB. Le[*y .xij<<a>>.]}
 o sobre estado dela uilla o de la t<ie>rra. los dichos & las pesq<u><<i>>sas [^2#uealas]
 el Rey o q<u><<i>> el mandare. & no<n> sea tenjdo de mostrar las a ot<r><<o>> njngu<n>o. [^2#mas sy]
 fiziere pesq<u><<i>>sa sobre ot<r><<o>> algu<n>o o sobre algu<n>os om<n>es sen<n>lada mjent[^2#re Et so]-
@@ -5888,13 +5888,13 @@ quisas o en los dichos dellas & ayan todas sus deffensiones [^2#q<ue> deue<n> au
 [fol. 144v]
 {HD. Libro .iiij[*<<o>>]. .T<itul>[*<<o>>] .xxj<<o>>.}
 {CB1.
-{IN2.} DEspues q<ue> algu<n> om<n>e acusado de algu<n> mal fecho fu<er>e dado [¶2] {RUB. .Ley .xiij<<a>>.}
+{IN2.} DEspues q<ue> algu<n> om<n>e acusado de algu<n> mal fecho fu<er>e dado [%2] {RUB. .Ley .xiij<<a>>.}
 por q<u><<i>>to por juyzio. nj<n>gu<n>o nol pueda despues acusar daq<ue>l fecho mis-
 mo. fueras ende si los acusare de tuerto q<ue>l ayan fecho a el / o a algu<n>o de sus
 parie<n>tes fasta aq<ue>l grado en q<ue> no<n> puede seer testimonja o de sus vasallos o de
 om<n>es de sus co<m>pan<n>as. & jurare q<ue> no<n> sopo q<u><<a>>ndo el ot<r><<o>> daq<ue>l fecho lo acusaua.
 Et si p<ro>uare q<ue> por falso juyzio o por falsas prueuas: fue dado por q<u><<i>>to.
-{IN2.} EL acusado pueda ser q<u><<i>>to d<e>la acusaçio<n> en tres man<er>as. [¶2] {RUB. Ley .xiiij<<a>>.}
+{IN2.} EL acusado pueda ser q<u><<i>>to d<e>la acusaçio<n> en tres man<er>as. [%2] {RUB. Ley .xiiij<<a>>.}
 La p<r><<i>>m<er>a es. si el Rey por algu<n> gozo q<ue> oujere com<m>o sil naçiesse
 fijo uaron o ue<n>çiere batalla lo q<u><<i>>tare: sera q<u><<i>>to. mag<uer> q<ue> no<n> q<u><<i>>era su acusador.
 La ot<r><<a>> es si muriere el acusador ante del juyzio o faze fecho por q<ue> deu(^e)[^a]
@@ -5916,7 +5916,7 @@ dar m[^2#ag<u>er q<u><<i>> s]ea mas p<ro>pinq<u><<o>>. & uala aq<ue>l iuyzio q<u
 [^2#en q<ue> ay .xxjx leys]
 {GL. [^[*¶ en] q<ue> ay x[*xjx
 l]ey[*s]]}
-{IN2.} A[^2#gntiua] mjente los fijos dalgo co<n> consentimjento delos reyes [¶2] {RUB. Ley .j<<a>>.}
+{IN2.} A[^2#gntiua] mjente los fijos dalgo co<n> consentimjento delos reyes [%2] {RUB. Ley .j<<a>>.}
 [^2#pusi]eron entresi amiztad & diero<n> se fe unos a ot<r><<o>>s de se la tener.}
 [fol. 145r]
 {HD. Libro .iiij<<o>>. .T<itul>[*<<o>>] .xxj<<o>>. \ [*cxlv]}
@@ -6009,7 +6009,7 @@ reptador q<u><<i>>siere p<ro>uar lo q<ue> dixo por testigos o por cartas: po<n>g
 el Rey plazo a q<ue> g<e>lo prueue. Et si lo p<ro>uare co<n> fijos dalgo o por cartas
 q<ue> deua<n> ualer segu<n>d q<ue> manda la ley. vala la prueua. Et si no<n> lo pudiere
 p<ro>uar co<n> fijos dalgo o por cartas q<ue> deua ualer segu<n>d q<ue> manda la ley. no<n> vala.
-{IN2.} SJ por auent<ur>a el reptador no<n> q<u><<i>>siere p<ro>uar lo q<ue> dize: si no<n> [¶2] {RUB. .Ley .xiij<<a>>.}}
+{IN2.} SJ por auent<ur>a el reptador no<n> q<u><<i>>siere p<ro>uar lo q<ue> dize: si no<n> [%2] {RUB. .Ley .xiij<<a>>.}}
 [fol. 146v]
 {HD. Libro .iiij[*<<o>>]. .T<itul>[*<<o>>] .xxj[*<<o>>].}
 {CB1.
@@ -6039,7 +6039,7 @@ si dixiere q<ue> riepta por aq<ue>l q<ue>l manda reptar no<n> sea oydo. Ca en ri
 to no<n> deue seer reçebido p<er>ssonero {RUB. .Ley .xvj<<a>>.}
 {IN2.} MAg<uer> q<ue> costumbre es q<ue> el reptador cometa al reptado despue<<s>>
 q<ue> son en<e>l plazo si el reptado cometer q<u><<i>>siere en antes pueda lo faz<er>.
-{IN2.} QVien por algu<n> fecho reptare a dos o a mas [¶2] {RUB. .Ley .xvij<<a>>.}}
+{IN2.} QVien por algu<n> fecho reptare a dos o a mas [%2] {RUB. .Ley .xvij<<a>>.}}
 [fol. 147r]
 {HD. Libro .iiij[*<<o>>]. .T<itul>[*<<o>>] .xxj[*<<o>>]. \ [*cxlvij]}
 {CB1.
@@ -6057,7 +6057,7 @@ rebuelta desagui[sa]da: no<n> finq<ue> q<u><<i>>to muerto nj<n> viuo. {RUB. Ley 
 {IN2.} MAndamos q<ue> pues q<ue> algu<n>o reptare a ot<r><<o>>: q<ue> esten en tregua
 por si & por sus parientes. Et q<ue> se guarden unos a otros
 en todas las ot<r><<a>>s cosas si no<n> en<e>l Riepto & en lo q<ue> p<er>tenesçe al Riepto.
-{IN2.} SJ el reptador matare en<e>l campo al reptado o el [¶2] {RUB. .Ley .xx[<<a>>].}
+{IN2.} SJ el reptador matare en<e>l campo al reptado o el [%2] {RUB. .Ley .xx[<<a>>].}
 reptado al reptador; el viuo no<n> finq<ue> enemjgo delos parie<n>-
 tes del muerto por razo<n> daq<ue>lla muerte. Et el Rey fagalo p<er>do-
 nar & asegurar delos parie<n>tes del muerto si de algu<n>os ouiere
@@ -6140,7 +6140,7 @@ ot<r><<o>> q<u><<a>>l q<u><<i>>er q<ue> no<n> sea fidalgo. {RUB. Ley .xx(viij)[i
 go: no<n> pueda reptar saluo a otro tal. Et nj<n> deue seer alcalle nj<n>
 testigo: nj<n> auer adelantamje<n>to nj<n>gu<n>o en hueste nj<n> en ot<r><<o>> logar nj<n> of-
 ficio nj<n>guno de Rey: nj<n> seer en par dot<r><<o>> en palacio nj<n> en cortes. {RUB. Ley. +}
-{IN2.} TOdo traydor & todo aleuoso: muera por la trayçion o [¶2] {RUB. .xx(j)x<<a>>.}
+{IN2.} TOdo traydor & todo aleuoso: muera por la trayçion o [%2] {RUB. .xx(j)x<<a>>.}
 por la aleuosia q<ue> el fiziere. Et lo del traydor sea todo del Rey:
 mag<uer> q<ue> aya fijos de bendiçio<n>. njetos o dende ayuso. ¶ {RUB. Titulo .xxij<<o>>.
 del recibimje<n>to delos fijos} {RUB. Ley .j<<a>>.}
@@ -6157,7 +6157,7 @@ zo<n> q<ue> om<n>e de menor edat pueda reçebir por fijo a om<n>e de
 mayor edat q<ue> si o de tanta com<m>o el. Mas q(^<ue>)[^<u><<i>>] algu<n>o reçibiere [por] fijo: re-
 cibal tal q<ue> por edat le pudiesse auer por fijo. Et q<u><<i>> dot<r><<a>> g<u><<i>>sa lo reçibie-
 re tal recibjmje<n>to no<n> uala. si no<n> fu<er>e fecho co<n> otorgamje<n>to del Rey
-{IN2.} NJngu<n> om<n>e de orden nj<n> nj<n>gu<n> [¶2] {RUB. .Ley .iij<<a>>.} ¶2 ante o despues.
+{IN2.} NJngu<n> om<n>e de orden nj<n> nj<n>gu<n> [%2] {RUB. .Ley .iij<<a>>.} %2 ante o despues.
 castrado no<n> pueda reçebir nj<n>gu<n>o por fijo si no<n> por ma<n>dado
 o por otorgamjento de Rey. {RUB. .Ley .iiij<<a>>.}
 {IN2.} MAndamos q<ue> nj<n>gu<n>a mug<ie>r sin ma<n>dado o sin otorgamje<n>to del
@@ -6167,7 +6167,7 @@ Rey no<n> pueda reçebir a nj<n>gu<n>o por fijo. P<er>o si algu<n>a mug<ie>r}
 {CB1.
 ouo fijo & lo p<er>dio en s<er>uicio del Rey tal com<m>o esta pueda reçebir a
 q<u><<i>>en q<u><<i>>siere q<ue> pueda heredar por fijo sin ma<n>dado & sin otorgamje<n>to de Rey.
-{IN2.} SJ algu<n>o q<ue> fu<er>e reçebido por fijo dot<r><<o>> muriere sin ma<n>da: [¶2] {RUB. Ley .v<<a>>.}
+{IN2.} SJ algu<n>o q<ue> fu<er>e reçebido por fijo dot<r><<o>> muriere sin ma<n>da: [%2] {RUB. Ley .v<<a>>.}
 ante q<ue> aq<ue>l q<ue> lo reçibio por fijo. los sus parie<n>tes mas p<ro>pinq<u><<o>>s
 hereden lo suyo: & no<n> aq<ue>l q<ue> lo reçibjo por fijo: nj<n> nj<n>gu<n>o de sus parie<n>tes.
 Otrossi ma<n>damos q<ue> si aq<ue>l q<ue> lo reçibio por fijo no<n> fiziere ma<n>da he-
@@ -6175,7 +6175,7 @@ rede la q<u><<a>>rta parte de sus bienes. Et si ma<n>da fiziere: no<n> le pueda 
 ler la q<u><<a>>rta parte. Et las tres q<u><<a>>rtas hereden sus parie<n>tes mas p<ro>pin-
 quos. Et si el despues muriere sin manda. los sus parie<n>tes mas
 p<ro>pinq<u><<o>>s hereden lo suyo. & no<n> los parientes daq<ue>l q<ue> lo reçibio por fijo.
-{IN2.} Q<u><<a>>Ndo algu<n>o q<u><<i>>siere reçebir a algu<n>o por fijo. reciba lo [¶2] {RUB. Ley .vj<<a>>.}
+{IN2.} Q<u><<a>>Ndo algu<n>o q<u><<i>>siere reçebir a algu<n>o por fijo. reciba lo [%2] {RUB. Ley .vj<<a>>.}
 delante el Rey el alcalle conçeiera mjente en tal man<er>a: llame
 lo. & digal sen<n>or si ant<e>l Rey fu<er>e. Et si fu<er>e antel alcalle: diga: alcalle
 este reçibo yo aq<u><<i>> por fijo. & daq<u><<i>> adelante q<u><<i>>ero q<ue> ande por mjo fijo. de
@@ -6192,7 +6192,7 @@ de fidalgo si su padre fu<er>e fidalgo. Et esto se entiende de los fijos nat<ur>
 ¶ {RUB. T<itul><<o>> .xxiij<<o>>. d<e>las cosas q<ue> son desechadas & delos q<ue> las desechan}
 {GL. [^¶ en q<ue> ay iij
 leys]}
-{IN2.} SJ algu<n> njn<n>o o ot<r><<o>> de menor edat. fu<er>e desechado [¶2] {RUB. Ley .j<<a>>.}
+{IN2.} SJ algu<n> njn<n>o o ot<r><<o>> de menor edat. fu<er>e desechado [%2] {RUB. Ley .j<<a>>.}
 por su padre o por ot<r><<o>> sabiendo lo el & consentiendo lo su padre}
 [fol. 149v]
 {HD. Libro .iiij[*<<o>>]. [*.T<itul><<o>> .xxiijj<<o>>].}
@@ -6275,7 +6275,7 @@ se acordaren de echar algu<n>as cosas del naujo [*por] [^2#aljuj(^r)[^a]<r>] lo
 Et las cosas q<ue> echare<n> a puerto no<n> ujnjere<n>: todos l[^2#os q<ue> andare<n>] en el na-
 [^2#ujo sea<n>] tenjdos de pagar cada uno segu<n>d q<ue> [^2#tro[*xiere en el]] naujo. Et si
 [^2#algu<n><<o>>s andare<n> en[<e>]l naujo q<ue> no<n> t<r><<o>>xiere<n> syno<n> sus] cuerpos: no<n> sea<n>
-{IN2.} ASi [^2#todos los omeƽiellos.] [¶2] {RUB. [*Ley .iij<<a>>.]} ¶2 tenjdos de dar nada.
+{IN2.} ASi [^2#todos los omeƽiellos.] [%2] {RUB. [*Ley .iij<<a>>.]} %2 tenjdos de dar nada.
 com<m>o todas las ot<r><<a>>s penas & calon<n>as q<u><<a>>les q<u><<i>>er se deue<n> coger
 al seys ta<n>to: por vn din<er>o seys din<er>os destos nouenes q<ue> agora anda<n>.
 Et por un .m<a>r<avedi>. seys [.]m<a>r<avedis>. a diez din<er>os el .m<a>r<avedi>. {RUB. Ley .iiij<<a>>.}

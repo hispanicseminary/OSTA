@@ -3206,7 +3206,7 @@ toma el guiamie<n>to. ot<r><<o>> p<ar>a guarescer el mie<m>bro segu<n>t}
 {HD. \ Lxxj}
 {CB1.
 la su nasce<n>çia & d<e> la su co<m>pannia. a otro. {RUB. Capitulo d<e> la en-fermedat +}
-{AD. [^] {SYMB.}} {IN2.} Enxie<m>pllo. Cue<n>ta q<ue> la enfermedat q<ue> no<m>bra-mos ¶2 {RUB.}
+{AD. [^] {SYMB.}} {IN2.} Enxie<m>pllo. Cue<n>ta q<ue> la enfermedat q<ue> no<m>bra-mos %2 {RUB.}
 q<ue> antes acaesçio: en el figado. ¶ Et apego-
 se en los cabos en el ficado humores viscosos. o espe-
 sos. o muchos. ¶ Dixo .G<alien><<o>>. q<ue> si fuere la enfermedat

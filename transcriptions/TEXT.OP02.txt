@@ -476,7 +476,7 @@ xiiij. horas. E el dia .x.}
 {RUB. ij} d {RUB. Francisco confessor d}
 e {RUB. e}
 {RUB. x} f Sa<n>ta fe virge<n>: & marco pa-pa {RUB. f}
-g [¶2] & martyr {RUB. g}
+g [%2] & martyr {RUB. g}
 {RUB. xviij A h}
 {RUB. vij} b Dionisio co<n> sus co<m>pañeros {RUB. i}}
 [fol. 12r]
@@ -2026,7 +2026,7 @@ es maria enel cielo gozan se los ange-
 les & alabantes bendizen al señor. {RUB. An<tifona>.}
 Maria virgen es reçebida. {RUB. Psalmo.}
 {LAT. Jubilate deo omnis terra: seruite d<omi>no}
-{IN2.} [^2#A]Legrad vos a di-os [¶2] {LAT. [^2#¶] in leticia}
+{IN2.} [^2#A]Legrad vos a di-os [%2] {LAT. [^2#¶] in leticia}
 toda la tierra: seruid al señor
 en alegria. {IN1.} [^2#E]ntrad en el acatamiento
 del en[ ]gozo. {IN1.} [^2#S]abed q<ue> esse señor es di-
@@ -2520,7 +2520,7 @@ tome[ ]a pedro}]}
 jua<n> consigo y
 comen(c)[ç]o. &c<etera>.}]}
 {MIN.}}
-{IN2.} [^2#M]Jem-bra [¶2] {RUB. yno.} {LAT. Memento salutis}
+{IN2.} [^2#M]Jem-bra [%2] {RUB. yno.} {LAT. Memento salutis}
 te señor fazedor dela salud
 como en otro tie<m>po tomaste la forma
 del n<uest>ro cuerpo nascie<n>do d<e>la v<ir>ge<n>[ ]sin ma<n>-
@@ -2531,7 +2531,7 @@ muerte. {IN1.} [^2#G]l<or>ia sea a ti señor q<ue> naciste de
 v<ir>gen co<n> el padre & co<n>el spiritu s<an>cto por
 sie<m>pre. Ame<n>. {RUB. A<ntifona>.} Reçebida es sa<n>cta ma-
 ria. {RUB. Psalmo.} {LAT. Deus in nomine tuo sal-uum}
-{IN2.} [^2#D]Jos [¶2] {LAT. [^2#¶] me fac.}
+{IN2.} [^2#D]Jos [%2] {LAT. [^2#¶] me fac.}
 tu nombre saluo me faz: & iuzga
 me enla tu virtud. {IN1.} [^2#S]eñor dios oye[ ]la
 mi oracio<n>: por las orejas reçibe las pa-
@@ -2569,7 +2569,7 @@ buscais. {LAT. Jo<hannem>}}]}
 {MIN.}}
 tribulacio<n>: et sobre los mis enemigos
 miro el mi ojo {IN1.} [^2#G]l<or>ia. {RUB. Psalmo.} {LAT. B<e>n<e>dixisti}
-{IN2.} [^2#S]Eñor tu be<n>dixiste [¶2] [^2#¶] {LAT. d<omi>ne terra<m>}
+{IN2.} [^2#S]Eñor tu be<n>dixiste [%2] [^2#¶] {LAT. d<omi>ne terra<m>}
 la tu tierra: tiraste la captiuidad
 de iacob. {IN1.} [^2#T]u dexaste la maldad del tu
 pueblo: et encubriste todos los peca-
@@ -2809,7 +2809,7 @@ y el my poderio es en iherusalem. Gra-
 cias a dios. {RUB. v<erso>.} Derramada es la gra-
 cia e<n>la tu boca. Por esso te[ ]bendixo di-
 os por sie<m>pre. {GRK. Kyri eleyso<n>.} Señor oye.
-{IN1.} [^2#S]Eñor. [¶2] E a ti ve<n>ga. {RUB. Oracion}
+{IN1.} [^2#S]Eñor. [%2] E a ti ve<n>ga. {RUB. Oracion}
 dios que diste al humanal lina-
 ge galardon de salud perdurable por
 la v<ir>ginidad ho<n>rrada dela bienauetura-
@@ -2954,7 +2954,7 @@ todas las mugeres. Bendito es el fru-
 to del tu vientre. {GRK. Kyri eleyson Christe
 eleyson. Kyri eleyson.} {RUB. v<erso>.} Señor oye la
 mi oracion. E a ti venga la my clamor.
-{IN2.} [^2#S]Eñor dios miseri-cordioso [¶2] {RUB. [^2#¶] Oracion.}
+{IN2.} [^2#S]Eñor dios miseri-cordioso [%2] {RUB. [^2#¶] Oracion.}
 otorga ayuda ala nue-
 stra flaqueza: porque aquellos que fa-
 zemos la memoria dela sancta madre
@@ -3241,7 +3241,7 @@ como. {RUB. &c<etera>. An<tifona>.} La mano siniestra del se-
 estra me abraçara. {RUB. An<tifona>.} Bo(ç)[c]a soy mas
 hermosa. {RUB. Psalmo.} {LAT. Letatus sum in his
 que dicta sunt michi: in domum domi-ni}
-{IN2.} [^2#I]O me alegre en [¶2] [^2#¶] {LAT. ibimus.}
+{IN2.} [^2#I]O me alegre en [%2] [^2#¶] {LAT. ibimus.}
 aquellas cosas q<ue> me son dichas:
 enla casa del señor iremos. {IN1.} [^2#L]os n<uest>ros
 pies eran estantes: enlos tus palacios
@@ -3644,7 +3644,7 @@ Todos tus s<an>ctos. {RUB. Todo se dize como
 e s arriba notado.} Be<n>diga nos & guar-
 de nos el todo poderoso dios et miseri-
 cordioso padre et hijo et espiritu sancto
-{IN2.} [^2#D]Jos te [¶2] [^2#¶] Amen. {RUB. Cantico}
+{IN2.} [^2#D]Jos te [%2] [^2#¶] Amen. {RUB. Cantico}
 salue reyna d<e> misericordia: vida
 dulçor et esperança nuestra salue te di-
 os. A ty llamamos los desterrados hi-
@@ -3659,7 +3659,7 @@ O misericordiosa maria. {RUB. v<erso>} Dios te
 salue maria llena de gracia el señor es
 contigo. Bendita tu en las mugeres
 et bendito es el fruto del tu vientre.
-{IN2.} [^2#T]Odo poderoso [¶2] [^2#¶] {RUB. Oracion.}
+{IN2.} [^2#T]Odo poderoso [%2] [^2#¶] {RUB. Oracion.}
 et sempiterno dios q<ue> aparejaste
 por obra del tu espiritu sancto el cuer-
 po & la anima dela virge<n> gloriosa porq<ue>}
@@ -3737,7 +3737,7 @@ las oracio<n>es en<e>l officio delos muertos
 las an<tifon>as q<ue> so<n> notadas co<n> cada vno del-
 los: se deuen dezir el viernes et el mar-
 tes a maytines. An<tifona>.} Por tu belleza.
-{IN2.} [^2#E]L mi co-raçon [¶2] {RUB. Psalmo.} {LAT. Eructauit.}
+{IN2.} [^2#E]L mi co-raçon [%2] {RUB. Psalmo.} {LAT. Eructauit.}
 exprimio buena palabra:
 digo yo las mis obras el rrey. {IN1.} [^2#L]a mi
 le<n>gua es pluma de escriuano: escriuien-
@@ -4359,7 +4359,7 @@ sa<n>to. {IN1.} [^2#T]u solo eres señor muy alto iesu}
 [fol. 70v]
 {CB1.
 xp<ist>o en la gloria de dios padre. Amen
-{IN2.} [^2#S]Eñor dios otorga a [¶2] {RUB. [^2#¶] Oracion.}
+{IN2.} [^2#S]Eñor dios otorga a [%2] {RUB. [^2#¶] Oracion.}
 nos tus sieruos q<ue> te rogamos q<ue>
 gozemos dela salud perdurable del
 cuerpo & del anima que por la rogaria
@@ -4423,7 +4423,7 @@ Llenos son los cielos et[ ]la tierra dela
 tu gloria salua nos enlas alturas. Ben-
 dito es el que viene enel nombre del se-
 ñor salua nos enlas alturas.
-{IN2.} [^2#P]Adre nuestro [¶2] {LAT. [^2#¶] Pater noster}
+{IN2.} [^2#P]Adre nuestro [%2] {LAT. [^2#¶] Pater noster}
 que eres e<n>los cielos: el tu no<m>bre
 sera sa<n>tificado. Uenga el tu reyno. La
 tu voluntad sea fecha enel cielo y enla
@@ -4441,7 +4441,7 @@ dos del mundo aue merced denos.}
 {CB1.
 {IN1.} [^2#C]ordero de dios que tyras los peca-
 dos del mundo da a nos paz. {RUB. Comuni-canda}
-{IN2.} [^2#B]Jenauenturadas son [¶2] {RUB. [^2#¶]}
+{IN2.} [^2#B]Jenauenturadas son [%2] {RUB. [^2#¶]}
 las entrañas de maria virge<n> que
 truxieron el hijo de dios. {RUB. Oracion}
 {IN2.} [^2#S]Eñor tomadas las ayudas de
@@ -4482,7 +4482,7 @@ Que por la tu sa<n>ta cruz redemiste el mu<n>-
 do. {GRK. Kyri eleyso<n> Christe eleyson. Kyri
 eleyso<n>. } {RUB. v<erso>.} Tu q<ue> padeçiste por nos señor
 aue merced de nos. {RUB. v<erso>.} Señor oye.
-{IN2.} [^2#S]Eñor iesu christo [¶2] {RUB. [^2#¶] Oracion}
+{IN2.} [^2#S]Eñor iesu christo [%2] {RUB. [^2#¶] Oracion}
 hijo de[ ]dios biuo pon la tu passi-
 on & la tu cruz & la tu muerte entre el tu
 iuyzio et la mi anima agora y enla ora
@@ -4499,7 +4499,7 @@ del espiritu santo dios por todos los si-
 glos delos[ ]siglos. Ame<n>. {RUB. v<erso>.} Señor oye
 la mi oracion. E a ti venga. Bendiga-
 mos al señor. Gr<aci>as a dios. {RUB. ¶ Aq<u><<i>> co-miença +}
-{IN2.} [^2#S]Eñor dios entie<n>de [¶2] {RUB. p<r><<i>>ma}
+{IN2.} [^2#S]Eñor dios entie<n>de [%2] {RUB. p<r><<i>>ma}
 enla mi ayuda {IN1.} [^2#S]eñor no tardes
 en me ayudar. {IN1.} [^2#G]loria sea al pa[dre]. {RUB. [^2#¶] yno}
 {IN2.} [^2#E]Nla hora dela prima fue ihesu a
@@ -4543,7 +4543,7 @@ por la tu sa<n>ta cruz redemiste el mundo.
 como en prima. ¶ Aq<u><<i>> comiença sesta.}
 {IN2.} [^2#S]Eñor dios entiende enla mi ayu-
 da. {IN1.} [^2#S]eñor no tardes {IN1.} [^2#G]loria sea
-{IN2.} [^2#E]Nla hora dela sesta el señor [¶2] {RUB. yno}
+{IN2.} [^2#E]Nla hora dela sesta el señor [%2] {RUB. yno}
 iesu christo fue crucificado: & en-
 tre los ladrones deshonrradamente}
 {SG. k .ij}
@@ -4628,9 +4628,9 @@ da nos aquella gracia del espiri-
 tu santo que alos tus discipulos enel
 dia de pe<n>thecostes embiaste. E esto te
 rogamos por iesu christo nuestro señor
-{IN2.} [^2#D]Jos entiende enla [¶2] {RUB. ¶ A prima}
+{IN2.} [^2#D]Jos entiende enla [%2] {RUB. ¶ A prima}
 mi ayuda. {IN1.} [^2#S]eñor no tar<des>. {IN1.} [^2#G]l<or>ia.
-{IN2.} [^2#D]Ela virgen maria fue [¶2] {RUB. [^2#¶] yno.}
+{IN2.} [^2#D]Ela virgen maria fue [%2] {RUB. [^2#¶] yno.}
 christo nascido: enla cruz puesto}
 {SG. k .iiij}
 [fol. 76v]
@@ -4647,7 +4647,7 @@ dia de pe<n>tecostes alos suyos co<n>-
 forto: de le<n>guas de fuego los i<n>flamo: &
 dexar los huerfanos les denego. {RUB. An<tifona>.}
 Uen sa<n>to esp<irit>u. {RUB. Oracio<n>.} Todo podero-so.
-{IN2.} [^2#D]Jos entiende en [¶2] {RUB. ¶ A sesta}
+{IN2.} [^2#D]Jos entiende en [%2] {RUB. ¶ A sesta}
 la mi ayuda. {IN1.} [^2#S]eñor no tardes
 en me ayudar. {IN1.} [^2#G]loria sea al pa<dre>. {RUB. [^2#¶] yno}
 {IN2.} [^2#E]Ntonçe rescibieron la gracia de
@@ -4656,7 +4656,7 @@ todos conoçieron: et[ ]a diuersas partes
 del mundo salieron: et ala fe christiana
 muchos conuertieron. {RUB. An<tifona>.} Uen san-
 to espiritu. {RUB. Oracion.} Todo poderoso.
-{IN2.} [^2#D]Jos entie<n>de enla mi [¶2] {RUB. ¶ A nona}
+{IN2.} [^2#D]Jos entie<n>de enla mi [%2] {RUB. ¶ A nona}
 ayuda. {IN1.} [^2#S]eñor no. {IN1.} [^2#G]loria. {RUB. yno}
 {IN2.} [^2#E]L espiritu santo fue llamado co<n>-
 solador: don de dios caridad fu-ente}
@@ -4675,13 +4675,13 @@ d<e> todo mal: que no nos e<m>peza el enemi-
 go infernal: mas q<u><<i>>ere nos te[ ]rogamos
 librar et guardar. Amen. {RUB. An<tifona>.} Uen san-
 to espirit(it)u. {RUB. Oracio<n>.} Todo po( )deroso.
-{IN2.} [^2#C]Onuierte nos [¶2] {RUB. ¶ A completas}
+{IN2.} [^2#C]Onuierte nos [%2] {RUB. ¶ A completas}
 dios dela n<uest>ra salud. [^2#¶] desuia.
-{IN2.} [^2#E]L espiritu <con>solador nos q<u><<i>>e-ra [¶2] {RUB. yno}
+{IN2.} [^2#E]L espiritu <con>solador nos q<u><<i>>e-ra [%2] {RUB. yno}
 ayudar: adereçar n<uest>ros passos
 & nos alu<m>brar: por q<ue> q<u><<a>>ndo viniere dios
 a iuzgar: nos q<u><<i>>era a la su diestra mano
-{IN2.} [^2#E]Stas horas cano-nicas [¶2] ap<ar>tar. Ame<n>
+{IN2.} [^2#E]Stas horas cano-nicas [%2] ap<ar>tar. Ame<n>
 con deuocio<n>: a ti esp<irit>u sa<n>to
 co<n> piadosa razo<n>: dixe[ ]porque nos guar-
 des en n<uest>ra tribulacio<n>: & porque nos lie-
@@ -5565,7 +5565,7 @@ do no puede dar: porq<ue> dados los nue-
 stros coraçones alos tus ma<n>damie<n>tos
 & q<u><<i>>tado el miedo delos enemigos sea<n>
 los tie<m>pos en paz por el tu defe<n>dimie<n>to
-{IN2.} [^2#S]Eñor dios q<ue>ma los. [¶2] {RUB. [^2#¶] Oracion.}
+{IN2.} [^2#S]Eñor dios q<ue>ma los. [%2] {RUB. [^2#¶] Oracion.}
 n<uest>ros lomos y el nuestro coraçon
 con fuego del espiritu santo porque co<n>
 cuerpo casto siruamos a ti et co<n> limpio
@@ -5860,7 +5860,7 @@ durable los alu<m>bre. {RUB. v<erso>} Dela puerta de-
 los infiernos. Libra señor las sus ani-
 mas. {RUB. v<erso>.} Señor oye la mi oracion. E a
 ti venga el mi clamor. Rogamos al se-ñor.
-{IN2.} [^2#S]Eñor que feziste. [¶2] [^2#¶] {RUB. Oracio<n>.}
+{IN2.} [^2#S]Eñor que feziste. [%2] [^2#¶] {RUB. Oracio<n>.}
 resplandescer entre los tus apo-
 stolicos sacerdotes tu sieruo nuestro
 papa et no menos sus cardenales et
@@ -5890,7 +5890,7 @@ obispos por dignidad pontifical et sa-
 cerdotal: da a nos te rogamos que sea-
 mos sie<m>pre a su co<m>paña ayuntados. E
 esto te rogamos por iesu xp<ist>o n<uest>ro señor
-{IN2.} [^2#S]Eñor dios dador [¶2] {RUB. [^2#¶] Oracion.}
+{IN2.} [^2#S]Eñor dios dador [%2] {RUB. [^2#¶] Oracion.}
 de perdon et fazedor dela huma-
 nal salud rogamos ala tu cleme<n>cia que
 alos de n<uest>ra generacio<n> & congregacion
@@ -6596,7 +6596,7 @@ da q<ue> fare mezquino do fuyre si no a ty
 señor mi dios. Quando vinieres enel
 dia trasero. {RUB. v<erso>.} Mi a<n>i<m>a es muy turbada
 mas tu señor acorrela. Quando vinie[res].
-{IN2.} [^2#Q]Uie<n> me dara q<ue> tu. [¶2] {RUB. Lection .vj.}
+{IN2.} [^2#Q]Uie<n> me dara q<ue> tu. [%2] {RUB. Lection .vj.}
 me guardes enel infierno el me
 asco<n>das fasta q<ue> passe el tu furor: & deter-
 mines tie<m>po en q<ue> te acuerdes d<e> mi. Pi-
@@ -7536,7 +7536,7 @@ siglos delos siglos. Amen.
 {RUB. [^2#¶] Oracion a dios padre v<erso>.}
 {MIN.} {IN1.} [^2#P]adre delos cielos di-
 os: amerce<n>deate de nos
-{IN2.} [^2#M]Uy al-to [¶2] {RUB. Oracio<n>.}
+{IN2.} [^2#M]Uy al-to [%2] {RUB. Oracio<n>.}
 señor & santissi-
 mo padre todo podero-
 so dios eternal q<ue> ineffa-
@@ -7563,7 +7563,7 @@ dadero por todos los siglos delos si-
 glos. Amen. {RUB. [^2#¶] Oracion al hijo. v<erso>.}
 {MIN.} {IN1.} [^2#H]ijo d<e> dios y rede<n>tor d<e>l
 mu<n>do aue merced d<e> nos
-{IN2.} [^2#S]Eñor ie-su [¶2] {RUB. Oracio<n>}
+{IN2.} [^2#S]Eñor ie-su [%2] {RUB. Oracio<n>}
 xp<ist>o hijo d<e> dios
 biuo q<ue> eres verdadero &
 todo poderoso dios[ ]sple<n>-
@@ -7994,7 +7994,7 @@ xp<ist>o & caliz del nueuo testame<n>to
 la q<u><<a>>l fue derramada por el humanal li-
 naje. Ruego te señor q<ue> te plaga d<e> auer
 merced dela mi a<n>i<m>a. Ame<n>. {RUB. La oracio<n>.}
-{IN2.} [^2#A]Nima de iesu xp<ist>o. [¶2] [^2#¶] {LAT. A<n>i<m>a xp<ist>i.}
+{IN2.} [^2#A]Nima de iesu xp<ist>o. [%2] [^2#¶] {LAT. A<n>i<m>a xp<ist>i.}
 santifica me. Cuerpo d<e> iesu xp<ist>o
 salua me. Agua del lado de iesu xp<ist>o la
 ua me. O bue<n> iesu xp<ist>o oye me: & no per-
@@ -8187,7 +8187,7 @@ la q<u><<a>>l dexaste a tus discipulos q<ue>-
 de & p<er>manezca sie<m>pre firme enel mi co-
 raço<n>: & sea entre mi et todos los enemi-
 gos mios assi visibles como no visibles
-{IN2.} [^2#L]A paz del señor [¶2] [^2#¶] Amen.
+{IN2.} [^2#L]A paz del señor [%2] [^2#¶] Amen.
 el vulto del señor: el cuerpo del
 señor: la sa<n>gre del señor n<uest>ro iesu xp<ist>o sea
 siempre a mi pecador el en mi ayuda et

@@ -2685,7 +2685,7 @@ gra<n> plazer & ma<n>dola poner en escrito: & marauillaronse dela
 bondad de jofre & desseaua<n> q<ue> se fallasse co<n> tabla<n>te.
 {RUB. Capitu<lo> .xx. como jofre llego al casti-
 llo del hierro y espero alli fasta que supo que tablante era ve-nido +}
-¶2 {RUB. a ricamonte.}
+%2 {RUB. a ricamonte.}
 {IN4.} DIze el cue<n>to q<ue> desq<ue> jofre libro ala do<n>zella & asu her-
 mano & los embio ala corte q<ue> anduuo todo aq<ue>l dia
 que no hallo poblado ningu<n>o: & que ya bie<n> noche}
@@ -2720,7 +2720,7 @@ nes dichas & de su padre & boluiose p<ar>a el castillo d<e> rica mo<n>te.
 {RUB. Capi<tulo> .xxi. como Jofre fue a rica mo<n>-
 te y fallo ay a tabla<n>te y d<e>las razo<n>es q<ue> entrellos passaro<n>: & co-
 mo se co<m>batio co<n>el y lo ve<n>cio y libro al co<n>de don milia<n>: & alos +}
-¶2 {RUB. trezie<n>tos cauall<er>os q<ue> tenia presos.}
+%2 {RUB. trezie<n>tos cauall<er>os q<ue> tenia presos.}
 {IN4.} DIze la ystoria q<ue> jofre yua por el camino pe<n>sando e<n>
 aq<ue>llas dos do<n>zellas: & como ambas era<n> de bue<n> li-
 naje & señoras de vassallos & ambas ge<n>tiles avn q<ue>}

@@ -1163,7 +1163,7 @@ sçen Los otros.}
 {HD. T<itul><<o>> iij}
 {CB2.
 {RUB. ¶ Ley p<r><<i>>m<er>a q<ue> cosa sso<n> los artic<u>los e<n> ssi mi-smos +}
-[A]rtic<u>los sson dich<o>s Razon<e>s çiert-as ¶2 {RUB. }
+[A]rtic<u>los sson dich<o>s Razon<e>s çiert-as %2 {RUB. }
 & uerdaderas q<ue>los apostolos ordena-
 ron & pusiero<n> e<n> la ffe por la gr<açi>a del sp<irit>u ss<anc>to q<ue>
 n<uest>ro ssen<n>or ih<es>u xp<ist>o enbio en<e>llos. & estos artic<u>los
@@ -8281,7 +8281,7 @@ res en las cosas cosas tenporales p<ar>a ssa-
 ber bie<n> gou<er>nar ss<us> ob<is>pados & ma<n>ten<er>
 ss<us> cosas. {RUB. ¶ Ley xxx<<a>> & viij<<o>> Qual-
 es p<er>lados deuen sser castos & ver-gonçosos +}
-{IN2.} Castos & vergo<n>çosos deue<n> ¶2 {RUB. }
+{IN2.} Castos & vergo<n>çosos deue<n> %2 {RUB. }
 ss<er> los p<er>lados en dich<o> & en ffecho ¶
 Ca aq<ue>llos q<ue> co<n> ss<us> manos han de <con>ssag<r><<a>>r
 el cuerpo de n<uest>ro ssen<n>or ih<es>u x<pist><<o>> & lo ha<n> de
@@ -10556,7 +10556,7 @@ lo fiziere el ob<is>po deue ss<er> vedado por vn An<n>o
 por q<ue> ssemeja q<ue>lo faz por mal q<ue>rençia o por de-
 samor mas q<ue> por ot<r><<a>> cosa {RUB. ¶ Ley xxx<<a>> & ij<<a>>
 d<e>los cl<er>jgos q<ue> ordenan amjdos ssi rreçibe<n> sse-n<n>al +}
-{IN3.} {LAT. Xaract<i><<r>>} ta<n>to ¶2 {RUB. de orden o no<n>}
+{IN3.} {LAT. Xaract<i><<r>>} ta<n>to %2 {RUB. de orden o no<n>}
 q<u><<i>>ere dez<ir> en latjn com<m>o ssen<n>al
 q<ue> ffjnq<u><<a>> ffecha d<e>la cosa co<n>
 q<ue> sse ffaz ¶ E estas ssen<n>ales las vnas sson

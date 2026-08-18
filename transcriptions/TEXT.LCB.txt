@@ -120,7 +120,7 @@
 {IN1.} Tit<u>llo Lxxxxix. d<e> como no<n> se puede<n> los cau<<a>>llos ag(r<<a>>)uar.
 {IN1.} Tit<u>llo C. Delos cau<<a>>llos sus nat<ur>a<<s>> fu<er>a.
 {IN1.} Tit<u>llo C.i delos cau<<a>>llos q<ue> les salle el este<n>tino. [^2#fasta aqui]
-{IN1.} Tit<u>llo C.ij d<e> como se deue<n> domar los cau<<a>>llos. [¶2] [^2#departe]
+{IN1.} Tit<u>llo C.ij d<e> como se deue<n> domar los cau<<a>>llos. [%2] [^2#departe]
 {IN1.} Tit<u>llo C.iij. d<e> los caua(<<a>>)llos q<ue> so<n> faron<e>s como deue<n> yr dela<n>t.
 {IN1.} Tit<u>llo C.iiij. d<e> como puede o<mn>e conoçer q<u><<a>>n<d>o cresce la sa<n>g<r><<e>>
 {IN1.} Tit<u>llo C.v. Como restan<n>ara la sa<n>g<r><<e>> q<u><<a>>n<d>o salle mucha d<e>la llaga.
@@ -190,7 +190,7 @@ das. & los beços de fondon un poco colgados. & au<er> chico
 trecho desdel oio fastal carriello. do se aju<n>ta la cabeça enel. [cuello]
 & las uariellas anchas & delgadas & fendidas. & el cuello
 luengo & delgado & alto. {RUB. Tit<u>lo .ij<<o>>. delos cauallos q<ue> son mal +}
-{IN2.} Si el cauallo fuere boq<u><<i>> muelle. deuen [¶2] {RUB. enfrenados}
+{IN2.} Si el cauallo fuere boq<u><<i>> muelle. deuen [%2] {RUB. enfrenados}
 le raer la boca si fuere descolmellado. sino<n> descolme-
 llarlo. & raer en guisa q<ue> no<n> le finq<ue> huesso mal parado
 ni<n>guno. & tomar estos fierros. {DIAG.}
@@ -206,8 +206,8 @@ ga(r)[s] & tornadas. Et si co<n> este freno no<n> endereçare. echalle}
 {CB1.
 este otro. {DIAG.} q<ue> dizen garçon de puerta. las camas
 largas & tornadas com<m>o dicho es. {RUB. Titulo .iij<<o>>. del cauallo q<ue> anda +}
-{IN2.} Sj el cauallo andudiere teso en<e>l freno. o se ate-sare [¶2] {RUB. teso en el fre-no +}
-al correr q<u><<a>>ndol arremete<n>. dolar le la boca. Assi q<ue> [¶2] {RUB.}
+{IN2.} Sj el cauallo andudiere teso en<e>l freno. o se ate-sare [%2] {RUB. teso en el fre-no +}
+al correr q<u><<a>>ndol arremete<n>. dolar le la boca. Assi q<ue> [%2] {RUB.}
 las uariellas gelo puedan sofrir. esto entendra el q<ue>[ ]lo fizie-
 re. q<u><<a>>n(t)[d]o uiere q<ue> el cuchiello co<n> q<ue>[ ]lo faze falla el huesso tier-
 no. Esto<n>ce es la boca aparada en su derecho. Et daq<ue>lla
@@ -216,12 +216,12 @@ Et q<u><<a>>n(t)[d]o fuere guarido echel este freno q<ue> a nombre tarin
 quadrado. & aya las camas largas & rezias & {DIAG.}
 vn poco tornadas. & cortalle los neruios de
 amas partes assi com<m>o es dicho del cauallo boq<u><<i>> muelle.
-{IN2.} Sj el cauallo fuere [¶2] {RUB. Titulo .iiij<<o>>. del cauallo tjrador.}
+{IN2.} Sj el cauallo fuere [%2] {RUB. Titulo .iiij<<o>>. del cauallo tjrador.}
 tjrador. & se fuere teso. & non se quisiere tener. ende-
 reçar le [la] boca. & cortar le los neruios assi com<m>o dicho es.
 & aparte<n>gelos con este fierro. {DIAG.} & dexel guaresçer
 & echel este freno q<ue> a no<m>bre. Tarin quadrado de dos pulgar<e>s.
-{IN2.} (L)[S]j el caua-llo [¶2] {RUB. Tit<u>lo .v<<o>>. del cauallo q<ue> se rebuelue} [¶2] {DIAG.}
+{IN2.} (L)[S]j el caua-llo [%2] {RUB. Tit<u>lo .v<<o>>. del cauallo q<ue> se rebuelue} [%2] {DIAG.}
 se rebuelue. raer le la boca dela diestra
 parte. & tostargela mucho dela siniestra co<n> estos fierros.
 {DIAG.} & tomar vn fierro fecho assi.
@@ -238,7 +238,7 @@ ella com<m>o dicho es. & dexar le guareçer. & echar le este freno
 {DIAG.} Tarin q<u><<a>>drado de buelta. & prima<n> le la guardia
 dela diestra p<ar>te. & las camas largas & tornadas.
 {RUB. Tit<u>lo .vij<<o>>. del cauallo q<ue> se teme de la boca. & ua el freno barbe-ando}
-{IN2.} Sj el cauallo se teme dela boca & ua el freno barbean-do, [¶2]
+{IN2.} Sj el cauallo se teme dela boca & ua el freno barbean-do, [%2]
 & q<u><<a>>ndol arremete<n> no<n> le osan tener el freno firme
 mente. por mjedo q<ue> se alçe & se dexe caer co<n> el om<n>e. A este
 cauallo conujenele raer la boca vn poco. & tomar estos fi-
@@ -256,12 +256,12 @@ ner le dos gormeras. la vna com<m>o a otros frenos. & la otra
 de cadena & mas estrecha. & las camas lue<n>gas & tesas.}
 [fol. 6r]
 {CB1.
-{IN2.} Si el [¶2] {RUB. Tit<u>lo .ix<<o>>. del cauallo q<ue> [a] el cuello muelle.}
+{IN2.} Si el [%2] {RUB. Tit<u>lo .ix<<o>>. del cauallo q<ue> [a] el cuello muelle.}
 cauallo ouiere el cuello muelle por endereçar c<on>uiene
 fazer le todas las cosas q<ue> faze<n> al q<ue> se rebuelue. & echar le este
 freno {DIAG.} q<ue> a nombre vano. & las camas luengas
 & tornadas. {RUB. Tit<u>lo .x<<o>>. del cauallo q<ue> no<n> se quier +}
-{IN2.} Son muchos cauallos q<ue> no<n> se q<u><<i>>eren [¶2] {RUB. coger en<e>l freno}
+{IN2.} Son muchos cauallos q<ue> no<n> se q<u><<i>>eren [%2] {RUB. coger en<e>l freno}
 coger en<e>l freno. en com<m>o quier q<ue> en al no<n> faze[<n>] mal.
 saluo q<ue> se faze<n> tesos. & paran se sobre los braços. Raerle
 la boca & cortar le los neruios como dicho es & poner le un pet<r><<a>>l
@@ -500,7 +500,7 @@ siniestro toda la can<n>a. & subir de parte de dentro toda la pi-
 erna & tomar ya q<ue> dela hijada. & los oios ambos darços
 & no<n> sorteados ni<n> pi<n>tos. & las c<r><<i>>nes. & las sedas de su mis-
 ma color. & las sedas dela cola q<ue> descendan derechas fasta
-{RUB. Titulo .xxx<<o>>iii<<o>>. Dela q<ue> dize<n> cenizoso.} [¶2] fondo.
+{RUB. Titulo .xxx<<o>>iii<<o>>. Dela q<ue> dize<n> cenizoso.} [%2] fondo.
 {IN2.} La sexta color es cenizoso & es aq<ue>l q<ue> a color de çenisa
 & deue auer una estrella blanca mas q<ue> la ot<r><<a>> color
 & el pie siniestro el talo<n> & crines & sedas. & can<n>as p<r><<i>>etas
@@ -1024,7 +1024,7 @@ lo elar. & untar le mucho la corona co<n> ello dos uezes
 o tres al dia. & q<u><<a>>n<d>o le hu<n>tare<n> saq<ue>n el plomo & torne<n>
 gelo luego. fata .ix. dias. & de .ix. dias adela<n>t no<n> ten-
 ga mas el plomo. & el untar no<n> dexe fasta q<ue> sea sa-no.
-{RUB. Titulo .Lxi. Dela enfer[medat] que se cae [¶2]
+{RUB. Titulo .Lxi. Dela enfer[medat] que se cae [%2]
 la çapata toda al cauallo.}
 {IN2.} Ay muchos cauallos q<ue> se le[s] cae(n) la çapata toda este
 mal les uiene q<u><<a>>n<d>o se agua<n>. & estan muchos dia<<s>>
@@ -1321,7 +1321,7 @@ parar el cauallo al sol mas fuert. & hu<n>tar le mucho.}
 {CB1.
 co<n> ello .iij. dias o .iiij. & al q<u><<a>>rto dia caera la costra toda
 & fincara el pelo assi fermoso como si salliesse de alca-çer.
-{RUB. Titulo .Lxxij. & ay ot<r><<a>> [¶2]
+{RUB. Titulo .Lxxij. & ay ot<r><<a>> [%2]
 natura de sarna.}
 {IN2.} Ay ot<r><<a>> natura de sarna q<ue> se faze de malos humores.
 Q<u><<e>> se aiu<n>ta<n>. & faze toro<n>dos por el cuerpo del cauallo &
@@ -1856,7 +1856,7 @@ lear una gra<n>d pieça fata q<ue> entie<n>da<n> q<ue> el mulo es ademas
 sobrepuesto al cauallo. & q<ue>l tiene por ue<n>zudo. & tollergelo. &
 no<n> auer cuydado ni<n> pesar del una pieza. & tomar le & en-
 drezar le. & por estas dos man<er>as fallo q<ue> se pierde esta mal-dat.
-{RUB. Titulo .Lxxxx.v<<o>> Delos cauallos. [¶2]
+{RUB. Titulo .Lxxxx.v<<o>> Delos cauallos. [%2]
 q<ue> an malas coronas.}
 {IN2.} Son much[o]s cauallos q<ue> an malas coronas & q<u><<a>>n<d>o suda<n>
 co<n> la siella luego se mata[<n>] o se leua<n>ta<n> onde es mene<<s>>-
@@ -2525,7 +2525,7 @@ el cauallo co<n> ello al sol. o[ ]cerca el fuego o[ ]tomar una yer-
 ua q<ue> dize<n> estuesço q<ue> se g<r><<i>>a enel agua. & el marru[u]io ber-
 meio por q<ue> es de mayor cale<n>tura. & de mayor secura. & el.
 asensio amargo. & maiar lo co<n> la folli<n>. & fregalle bie<n> co<n>
-{RUB. Titulo .C.xx. Dela enfermedat q<ue> dize<n> escabies.} [¶2] ello.
+{RUB. Titulo .C.xx. Dela enfermedat q<ue> dize<n> escabies.} [%2] ello.
 {IN2.} Faze se al cauallo una enfer-
 medat q<ue> dize<n> scabies. & q<u><<i>>er ta<n>to dezir como sarna.
 & faze se enel cuerpo del cauallo. & dize<n> le assi. por q<ue> es tal

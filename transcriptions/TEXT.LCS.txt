@@ -35,7 +35,7 @@
 {SYMB: cross.} {IN1.} Diego gonc[']ales de medina
 {SYMB: cross.} {IN1.} Ioh<a>n garcia de camargo
 {SYMB: cross.} {IN1.} Francisco m<artine>s [^2#El] bueno d<e>los
-Joh<a>n g<onzale>s de medina. ¶2 seze}
+Joh<a>n g<onzale>s de medina. %2 seze}
 {CB2.
 {SYMB: cross.} {IN1.} Diego m<artine>s de santo domingo.
 {SYMB: cross.} {IN1.} Ferant m<artine>s de frias, alcalle
@@ -494,7 +494,7 @@ yordomos segu<n>t es dicho & despues
 el cabillo ayudenlos a cobrar lo p<ar>a
 ssi.
 {RMK: HSMS-0513-0002: Lista de cofrades de la Cofradía de Santiago, 1370-1385.} {IN2.} Estos sson los confradres d<e>l[ ]huerto d<e>l
-{SYMB: cross.} {IN1.} Ioh<a>n de ca<n>branas. ¶2 Rey.
+{SYMB: cross.} {IN1.} Ioh<a>n de ca<n>branas. %2 Rey.
 {SYMB: cross.} {IN1.} Ihoan de Sanchestel.
 {SYMB: cross.} {IN1.} Pero garcia de camargo alcalle.
 {SYMB: cross.} {IN1.} Alffon<so> g<arçi>a su h<er>mano.
@@ -505,7 +505,7 @@ ssi.
 {SYMB: cross.} {IN1.} Ihoan Royz de sanchestel.
 {SYMB: cross.} {IN1.} Gonçalo gil cozin<er>o mayor d<e>l Rey.
 {SYMB: cross.} {IN1.} Alffon<so> ferr<ande>z fijo de do<n> ferra<n>t m<artine>z el
-{SYMB: cross.} {IN1.} Guillem fabre alcall<e>. ¶2 jouen.
+{SYMB: cross.} {IN1.} Guillem fabre alcall<e>. %2 jouen.
 {SYMB: cross.} {IN1.} Gonçalo gutierrez.
 {SYMB: cross.} {IN1.} Sancho ferrandez.
 {SYMB: cross.} {IN1.} Ferra<n>t g<arçi>a fijo de f<e>rr<an>t g<arçi>a de camargo

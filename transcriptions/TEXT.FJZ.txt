@@ -79,7 +79,7 @@ eruos foidos. & d<e>los q<ue> l<os> faz[en] f[*oir.]
 {IN1.} En el .x<<o>>. libro. {IN1.} Titulo delas parti-ciones.}
 [fol. 1v]
 {CB2.
-& delos fitos. ¶3
+& delos fitos. %3
 {IN1.} Delas particiones. & delas tierras arre<n>-dadas.
 {IN1.} (^d)Delos q<ue> tiene<n> alguna cosa .L. an<n>os. o .xxx.
 {IN1.} Delos t<er>minos & delos fitos.
@@ -90,7 +90,7 @@ da delos fisicos.
 {IN1.} Delos mercadores.
 {IN2.} En el .xii<<o>>. libro; {IN1.} (t)Titulo de toll<er>
 las seytas & las c<om>pan<n>as d<e>los h<er>eges.
-{IN1.} De tenprar el iuyz. ¶3 l<os> iudios.
+{IN1.} De tenprar el iuyz. %3 l<os> iudios.
 {IN1.} Delas leys d<e> todos los h<er>eges & d<e> todos
 {IN1.} Delos hereges & del<os> iudios & d<e>las seytas.
 {IN3.} El p<r><<i>>mer titulo es dela elec-
@@ -155,7 +155,7 @@ como o en q<u><<a>>l man<er>a se g<u><<a>>rde cada uno.}
 delas cosas q<ue> deue. faz<er>. & delos decebi-
 mientos q<ue> tenia cada uno a n<uest>ro sen<n>or
 ¶ {RUB. Dela electio<n> delos p<r><<i>>ncipes & d<e>lo q<ue> +}
-{IN2.} En esta ley dize como ¶2 {RUB. ganan.}
+{IN2.} En esta ley dize como %2 {RUB. ganan.}
 deue<n> seer esleydos los principes.
 & q<ue> las cosas q<ue> ellos ganan. deue<n> fincar
 al Regno q<ue> los Reys son dichos Reyes.
@@ -260,7 +260,7 @@ ha. esta ley fue fecha en el q<u><<a>>rto co<n>-
 ceio de toledo. & {RUB. Del amonestami-
 ento d<e>los ob<is>pos c<ontr><<a>> los p<r><<i>>ncipes como
 deuen seer ma<n>ssos. & ate<m>plados c<ontr><<a>> s<us> so-metidos. +}
-¶2 {RUB.}}
+%2 {RUB.}}
 {CB2.
 {IN3.} Pues q<ue> nos c<om>plimos las cosas q<ue> p[er]tene-
 ce<n> a <santa> egl<es>ia muy omildosa mient<re> co-
@@ -1053,7 +1053,7 @@ ble. & la gl<or>ia celestial. ameN.
 & del fazedor dela ley. {LAT. T<i>t<u>l<us> prim<us>.}}
 {IN1.} Qval deue seer el arte d<e> faz<er> las leyes .i<<a>>.
 {IN1.} Del fazedor d<e> las leyes como las deue hu-sar
-{IN1.} Qve d<e>ue auer en si el fazedor ¶2 .ii<<a>>.
+{IN1.} Qve d<e>ue auer en si el fazedor %2 .ii<<a>>.
 delas leyes .iii<<a>>.
 {IN1.} De q<ue> uida d<e>ue seer el fazedor d<e> las leyes .iiij<<a>>.
 {IN1.} Como deue dar co<n>seio el fazedor d<e> las leyes .v<<a>>.
@@ -1324,7 +1324,7 @@ deue p<r><<i>>m<er>a mientre fazer. .xx<<a>>.
 gar aya nonbre iuyz. .xxiij<<a>>.
 {IN1.} Qve todo atamie<n>to q<ue> fuer fecho por for-
 cia d<e>l alcall<e> d<e>pues d<e>l iuyzio no<n> dado d<er>echo
-¶2 no<n> uala .xxiiij<<a>>.}
+%2 no<n> uala .xxiiij<<a>>.}
 [fol. 10r]
 {HD. II}
 {CB2.
@@ -2314,7 +2314,7 @@ do derecho. ne<n> segundo la Ley. faga en-
 mienda por el danno. & por el tuerto
 q<ue> fizo como el deuia costrenir a ot<r><<i>> q<ue>
 fiziesse tal cosa. El Rey don flauio res-cindo.
-{RUB. T<itu>lo delos q<ue> no<n> quieren ue-nir +} ¶2
+{RUB. T<itu>lo delos q<ue> no<n> quieren ue-nir +} %2
 {RUB. por mandado del Rey. xxxi.}
 {IN2.} Todo o<mn>e q<ue> n<on> quiere uenir por ma<n>-
 dado el Rey. o q<ue> diz por engan<n>o
@@ -2741,7 +2741,7 @@ puede demandar q<ue>l muestre el ma<n>-
 dado. q<ue> pueda sab<e>r por q<ue> Razo<n>. o
 por q<u><<a>>l cosa se q<ue>rella del. & como ma<n>-
 daron q<ue>l p<er>sonero q<ue> se q<ue>rellasse. Ley
-{RUB. Del q<ue> no<n> sabe razonar +} ¶2 antigua.
+{RUB. Del q<ue> no<n> sabe razonar +} %2 antigua.
 {RUB. por si; q<ue> lo de esc<r><<i>>pto al uozero .iijo.}
 {IN2.} Si algun om<n>e n<on> sabe o no<n> q<u><<i>>ere
 dezir su q<ue>rella por si. delo en es-
@@ -3163,7 +3163,7 @@ om<n>e quiere demandar debda al muerto.
 o dalgu<n> tuerto q<ue>l fiziesse puede lo pro-
 uar ant<e>l iuyz por buenas testimo<n>ias
 o por bon esc<r><<i>>pto. El Rey don flauio citasi-undo
-{RUB. Delos q<ue> aduze<n> los o<mne>s q<ue> di-gan +} ¶2
+{RUB. Delos q<ue> aduze<n> los o<mne>s q<ue> di-gan +} %2
 {RUB. falso testimonio. viij<<o>>.}
 {IN3.} Si algu<n> om<n>e faz a ot<r><<o>> q<ue> diga falso
 testimonio c<on>t<r><<a>> ot<r><<o>> om<n>e el q<ue> lo
@@ -3800,7 +3800,7 @@ co<n> o<mn>e godo. & q<ue> la
 mug<ie>r goda pue-
 de casar co<n> el o<mn>e
 romano .i<<o>>.]}
-{IN4.} El cuidado delos p<r><<i>>nci-pes ¶2 .x<<o>>.
+{IN4.} El cuidado delos p<r><<i>>nci-pes %2 .x<<o>>.
 es estonce conplido
 q<u><<a>>ndo ellos piensan del
 p<ro>uecho del pueblo. ni<n>
@@ -4280,15 +4280,15 @@ con otro. iij<<o>>.
 su h<er>mana por fuerça en uida del padre.
 o depues d<e> su muerte. iiij<<o>>.
 {IN1.} Qvien lieua por fuerça ela esposa agie-na.
-{IN1.} Si alguno de aq<ue>llos ¶2 v<<o>>.
+{IN1.} Si alguno de aq<ue>llos %2 v<<o>>.
 q<ue> lieua<n> las mug<ie>r<e>s por fuerça si le mata<n>. vj<<o>>.
 {IN1.} Fasta q<u><<a>>nto tie<m>po pueden seer acusados
 l<os> q<ue> lieua<n> las mug<ie>r<e>s por fuerça. vij<<o>>.
 {IN1.} Si el sieruo lieua por forcia la mugier
-{IN1.} Si el sieruo lieua por ¶2 libre. viij<<o>>.
+{IN1.} Si el sieruo lieua por %2 libre. viij<<o>>.
 forcia la mug<ie>r lib<r><<e>> q<ue> fue sierua & es lib<r><<e>>. viiij<<o>>
 {IN1.} Si el sieruo lieua por forcia la sierua agie-na.
-{IN1.} Del<os> q<ue> engan<n>an las fijas. ¶2 x<<o>>.
+{IN1.} Del<os> q<ue> engan<n>an las fijas. %2 x<<o>>.
 o las mug<ie>r<e>s agienas & las biudas. xj<<o>>.
 {IN1.} Del<os> o<mne>s libres. & d<e>l<os> sieruos q<ue> aiudaron
 a leuar la mug<ie>r por forcia. xij<<o>>.
@@ -4482,19 +4482,19 @@ por mug<ie>r .vij<<o>>.
 {IN1.} Si la mug<ie>r libre faz por su grado adul-
 terio con quien se q<u><<i>>er. .viij<<o>>.
 {IN1.} Si la mug<ie>r libre faz adult<er>io co<n> marido
-{IN1.} Qve los sieruos & las sier-uas ¶2 agieno .ix<<o>>.
+{IN1.} Qve los sieruos & las sier-uas %2 agieno .ix<<o>>.
 deue<n> seer torme<n>tados por adult<er>io d<e>l<os>
 ¶ sen<n>ores .x<<o>>.}
 {CB2.
 {IN1.} Si el sieruo es fecho libre por encobrir
-{IN1.} Delas cosas delos q<ue> fa-zen ¶2 el adult<er>io .xi<<o>>.
+{IN1.} Delas cosas delos q<ue> fa-zen %2 el adult<er>io .xi<<o>>.
 adulterio. .xij<<o>>.
 {IN1.} Delas p<er>sonas q<ue> pueden acusar el adul-t<er>io
-{IN1.} Si el o<mn>e libre o sieruo faz adul-terio ¶2 .xiij<<o>>.
+{IN1.} Si el o<mn>e libre o sieruo faz adul-terio %2 .xiij<<o>>.
 por forcia con la mug<ie>r libre .xiiij<<o>>.
 {IN1.} Si el o<mn>e libre o sieruo no<n> sabiendo el se<n>-
 nor o sabiendolo faz adult<er>io c<on> la sierua
-{IN1.} Dela sierua q<ue> faz adult<er>io ¶2 agen<n>a xv<<o>>.
+{IN1.} Dela sierua q<ue> faz adult<er>io %2 agen<n>a xv<<o>>.
 {IN1.} Delas putas libres o sieruas. xvi<<o>>.
 {IN1.} Del fornicio delos cl<er>igos. .xvij<<o>>
 {RUB. Si la mug<ie>r faz adult<er>io co<n> ot<r>o seyendo +}
@@ -4826,16 +4826,16 @@ dos del<os> padres <santos>. {RUB. {LAT. Tit<u>l<us> q<u><<i>>nt<us>.} Del<os>
 q<ue> casan c<on> las parie<n>tas. & d<e>l<os> q<ue> lexa<n> el habito +}
 {IN1.} Delos casa-mientos {RUB. de religio<n>. & d<e>l<os> sodomiticos.}
 q<ue> son fechos en adult<er>io en
-{IN1.} Del<os> casamie<n>tos ¶2 parentesco .i<<o>>.
+{IN1.} Del<os> casamie<n>tos %2 parentesco .i<<o>>.
 q<ue> son fechos en adult<er>io. o en paren-
 tesco. o co<n> las sagradas u<ir>gines. o con
 biudas. o co<n> las penetenciales .ij<<o>>.
 {IN1.} Delos barones. & delas mug<ie>r<e>s q<ue> lexa<n>
 los pannos & la cercenadura dela or-den
-{IN1.} Del enganno q<ue> fazen ¶2 .iij<<o>>.
+{IN1.} Del enganno q<ue> fazen %2 .iij<<o>>.
 las biudas. .iiij<<o>>.
 {IN1.} Delos q<ue> iazen co<n> l<os> o<mne>s & d<e>l<os> sodomi-ticos
-{IN1.} Delos q<ue> iazen co<n> las ¶2 .v<<o>>.
+{IN1.} Delos q<ue> iazen co<n> las %2 .v<<o>>.
 mug<ie>r<e>s del<os> padres. o d<e>l<os> h<er>manos .vi<<o>>.
 {RUB. Del<os> casamientos q<ue> son fechos en adul-
 terio en parentesco. .i<<o>>.}
@@ -5324,16 +5324,16 @@ nas. & de aq<ue>ll<os> q<ue> no<n> son de un padre.
 o de una madre. & no<n> an herederos fu-
 eras l<os> h<er>manos & las h<er>manas. v<<o>>.
 {IN1.} Si aq<ue>l q<ue> muere lexa auuelo o auue-la
-{IN1.} Si aq<ue>l q<ue> muere auie sobri-nos ¶2 vi<<o>>.
+{IN1.} Si aq<ue>l q<ue> muere auie sobri-nos %2 vi<<o>>.
 de su h<er>mano. o de su h<er>mana. vij<<o>>
 {IN1.} Si aq<ue>l q<ue> muere a tio del padre o dela
-{IN1.} Que la mug<ie>r puede ¶2 madre. viij<<o>>.
+{IN1.} Que la mug<ie>r puede %2 madre. viij<<o>>.
 auer parte en toda heredat. .viiij<<o>>.
 {IN1.} Que la mug<ie>r puede auer toda here-
 dat. & aq<ue>l q<ue> es en grado mas p<ro>pinco de-
 ue auer la heredat. .x<<o>>.
 {IN1.} Del h<er>edamiento del marido & dela
-{IN1.} Dela heredat de ¶2 mug<ie>r. .xi<<o>>
+{IN1.} Dela heredat de %2 mug<ie>r. .xi<<o>>
 l<os> cl<er>igos & delos monges. .xij<<o>>.}
 [fol. 37r]
 {HD. IIII}
@@ -5348,10 +5348,10 @@ uenir ygual mientre co<n> l<os> fijos
 ala buena del padre. .xiijj<<o>>.
 {IN1.} Que la mug<ie>r no<n> deue auer nada
 delo q<ue> gana el marido co<n> l<os> s<us> sier-uos
-{IN1.} Delo q<ue> gana<n> el ¶2 della. xv<<o>>.
+{IN1.} Delo q<ue> gana<n> el %2 della. xv<<o>>.
 marido & la mug<ie>r seyendo casados.
 {IN1.} Del njn<n>o como puede auer la he[re]-dat.
-{IN1.} Como los padres de-uen ¶2 xvi<<o>>.
+{IN1.} Como los padres de-uen %2 xvi<<o>>.
 ganar la h<er>edat del<os> nin<n>os .xvij<<o>>.
 {IN1.} Del<os> q<ue> nace<n> depues dela muerte
 del padre. .xviij<<o>>.
@@ -5904,9 +5904,9 @@ q<u><<i>>en no<n> ha padre nj<n> madre. .i<<o>>.
 del<os> negocios del<os> huerphanos. ij<<o>>.
 {IN1.} Como deue o<mn>e recebir la guarda del<os>
 huerphanos o q<u><<a>>nto deue auer de s<us> co-sas.
-{IN1.} Que l<os> q<ue> defenden los ¶2 iij<<o>>.
+{IN1.} Que l<os> q<ue> defenden los %2 iij<<o>>.
 huerphanos no<n> les faga<n> faz<er> nengun
-{RUB. Que aq<ue>l es di-cho ¶2 escripto. iiij<<o>>.
+{RUB. Que aq<ue>l es di-cho %2 escripto. iiij<<o>>.
 huerphano q<u><<i>>en no<n> ha padre +}
 {IN2.} GRande pia-dade {RUB. nj<n> madre .i<<o>>.}
 es dar conseio al<os> meno-
@@ -6055,13 +6055,13 @@ deuen seer deseredados. .i<<o>>.
 {IN1.} Quanto puede la mug<ie>r mandar
 de sus arras. .ij<<o>>.
 {IN1.} Delas cosas q<ue> dan l<os> padres en las
-{IN1.} Delos fijos q<ue> no<n> ¶2 uodas. .iij<<o>>.
+{IN1.} Delos fijos q<ue> no<n> %2 uodas. .iij<<o>>.
 son de un padre. iiij<<o>>.
 {IN1.} Delo q<ue> gana<n> l<os> fijos ujujendo el
 padre o la madre. .v<<o>>.
 {IN1.} Del<os> obispos q<ue> q<u><<i>>eren toller alas
 egl<es>ias lo q<ue> dizen q<ue> touioron t<r><<i>>nta
-{IN1.} Que l<os> sieruos delas ¶2 an<n>os .vi<<o>>.
+{IN1.} Que l<os> sieruos delas %2 an<n>os .vi<<o>>.
 egl<e>sias no<n> sean franq<ue>ados nj<n> se ca-
 sen con mug<ie>r<e>s libres .vij<<o>>.
 {RUB. Q<ue> l<os> fijos nj<n> l<os> nietos n<on> d<e>ue<n> seer desereda-dos +}
@@ -6677,7 +6677,7 @@ q<ue> ganan. .ij<<o>>.
 {IN1.} Delas cosas q<ue> son ganadas en la lid
 & delo q<ue> da el sen<n>or. .iij<<o>>.
 {IN1.} Delas cosas q<ue> son dadas en la lid & ga-nadas.
-¶ {RUB. Si aq<ue>l q<ue> aiuda a ot<r><<i>> en ¶2 iiij<<o>>.
+¶ {RUB. Si aq<ue>l q<ue> aiuda a ot<r><<i>> en %2 iiij<<o>>.
 la lid. o s<us> fijos desemparan el padro<n>
 en la lid. o sus fijos. .i<<o>>.}
 {IN2.} Si algun o<mn>e diere armas a aq<ue>l q<ue>l
@@ -6752,7 +6752,7 @@ menos precio q<ue> non ualie. .viij<<o>>.
 {IN1.} Si algu<n> om<n>e toma la cosa q<ue> diz q<ue>
 es agena. ix<<o>>.
 {IN1.} Delos q<ue> uenden o dan las cosas age-nas
-{IN1.} Qve ni<n>guno non ue<n>da ¶2 .x<<o>>.
+{IN1.} Qve ni<n>guno non ue<n>da %2 .x<<o>>.
 ni<n> de la cosa q<ue>[ ]les demandada. xi<<o>>.
 {IN1.} Si el o<mn>e libre sufre q<ue>l uendan. xij<<o>>.
 {IN1.} Delos q<ue> uenden los o<mne>s libres & las
@@ -7105,7 +7105,7 @@ dellos tomar o dier mas deue<n> rece-
 bir .C. azotes. {RUB. {LAT. Tit<u>l<us> q<u><<i>>nt<us>.} Delas co-
 sas encom<en>dadas o enprestadas.}
 {IN1.} Delas cosas q<ue> son dadas por precio
-{IN1.} Delas animalias ¶2 a guardar. i<<o>>
+{IN1.} Delas animalias %2 a guardar. i<<o>>
 q<ue> son enprestadas pora lauor. .ij<<o>>
 {IN1.} Delas cosas enp<re>stadas q<ue> se pierden
 por fuego o por furto. .iij<<o>>.
@@ -8088,7 +8088,7 @@ dela ujda. o dela muerte de algu<n> o<mn>e. i<<o>>.
 {IN1.} Del<os> iuyzes o del<os> ot<r><<o>>s o<mne>s q<ue> toman
 conseio co<n> l<os> adeujnos. o c<on> l<os> sort<er>os. iij<<o>>.
 {IN1.} Del<os> encantadores p<ro>uj<n>ços. & del<os> q<ue>
-{IN1.} (^Del<os> o<mne>s q<ue> fazen) ¶2 los c<on>seian. iiij<<o>>.
+{IN1.} (^Del<os> o<mne>s q<ue> fazen) %2 los c<on>seian. iiij<<o>>.
 (^algun mal alos o<mne>s. o alas anima-
 lias. o alas ot<r><<a>>s cosas.) .v<<o>>.
 {RUB. Si el o<mn>e libre toma c<on>seio c<on> l<os> adeuinos o c<on>
@@ -8201,10 +8201,10 @@ parto dela mugier.}
 {IN1.} Delos o<mne>s q<ue> fazen algu<n> mal al<os> o<mne>s o
 alas a<n>i<m>alias o alas ot<r><<a>>s cosas. .i<<o>>.
 {IN1.} Delos q<ue> fazen abortar las mug<ie>r<e>s por
-{IN1.} Si el o<mn>e libre faz ¶2 yeruas .ij<<o>>.
+{IN1.} Si el o<mn>e libre faz %2 yeruas .ij<<o>>.
 abortar la mug<ie>r libre por forcia .iij<<o>>.
 {IN1.} Si la mug<ie>r libre faz abortar la mug<ie>r
-{IN1.} Si el om<n>e libre ¶2 libre .iiij<<o>>.
+{IN1.} Si el om<n>e libre %2 libre .iiij<<o>>.
 faz abortar la sierua. .v<<o>>.
 {IN1.} Si el s<ier>uo faz abortar ala mug<ie>r libre. vi<<o>>.
 {IN1.} Delos q<ue> mata<n> los fijos enel uientre
@@ -8620,7 +8620,7 @@ delas sieruas. {RUB. {IN1.} Titulo .v<<o>>. Delas lagas
 {IN1.} Si algu<n> o<mn>e mata a otro por enpuxon
 o por alguna uentura. .iij<<o>>.
 {IN1.} Si el q<ue> q<u><<i>>ere ferir un om<n>e & mata a
-{IN1.} Si algun om<n>e mu-erre ¶2 otro. iij<<o>>.
+{IN1.} Si algun om<n>e mu-erre %2 otro. iij<<o>>.
 en departir. .v<<o>>.
 {IN1.} Si algu<n> o<mn>e mata a ot<r><<o>> de peq<ue>na ferida. vi<<o>>.
 {IN1.} Si algu<n> o<mn>e mata a ot<r><<o>> en iogo. vij<<o>>.
@@ -8635,9 +8635,9 @@ alguna uentura. .ix<<o>>.
 ¶ nj<n> ala sierua. xiij<<o>>.}
 {CB2.
 {IN1.} Qve todo o<mn>e puede acusar al q<ue> faze o-miziello
-{IN1.} Qve los parientes ¶2 .xiiij<<o>>.
+{IN1.} Qve los parientes %2 .xiiij<<o>>.
 & los estran<n>os puede<n> acusar al q<ue> faz omi-ziello
-{IN1.} Si el q<ue> faz omiziello ¶2 .xv<<o>>.
+{IN1.} Si el q<ue> faz omiziello %2 .xv<<o>>.
 fuyer ala eglesia. .xvi<<o>>.
 {IN1.} Del<os> q<ue> mata<n> s<us> padres & de s<us> cosas. xvij<<o>>.
 {IN1.} Delos q<ue> mata<n> sus parientes. xviij
@@ -9233,7 +9233,7 @@ q<ue> peche otro tanto por ello. .xviij<<o>>.
 {IN1.} Delas cosas q<ue> o<mn>e toma en pelig<r><<o>> de agua .xviiij<<o>>.
 {IN1.} Dela buena & del<os> h<er>ed<er>os del ladron. .xx<<o>>.
 {IN1.} Si algu<n> o<mn>e dexa el ladro<n> o el malfechor q[ue]
-{IN1.} Del sieruo q<ue> faze fur-to ¶2 prendio .xxi<<o>>.
+{IN1.} Del sieruo q<ue> faze fur-to %2 prendio .xxi<<o>>.
 a su sen<n>or o a ot<r><<o>> sieruo del sen<n>or .xxij<<o>>.
 {IN1.} Fasta q<ue> tie<m>po el q<ue> p<re>nde el ladron lo de-
 ue presentar antel iuyz. .xxiij<<o>>.
@@ -9644,7 +9644,7 @@ delos om<ne>s q<ue> guardan. .iiij<<o>>.
 {IN1.} Qve el malfechor no<n> deue seer iulga-
 do en ascuso mas paladina mient<re> .vij<<o>>.
 {IN1.} Qve el iuyz no<n> deue parcir al mal-fechor.
-¶ {RUB. Si algun o<mn>e accusa el +} ¶2 vi<<o>>.
+¶ {RUB. Si algun o<mn>e accusa el +} %2 vi<<o>>.
 {RUB. ladron antel iuyz. & depues se faz end<e> +}
 {IN2.} Si algu<n> o<mn>e accuso ¶ {RUB. afuera .i<<o>>.}
 a ot<r><<o>> de furto antel iuyz & depues
@@ -9952,7 +9952,7 @@ cont<r><<a>> sus sen<n>ores q<ue> corronpe<n> la moneda .i<<o>>.
 {IN1.} Delos q<ue> falsan la moneda & l<os> m<o>r<auedi>s ij<<o>>.
 {IN1.} Delos q<ue> falsan el oro. .iij<<o>>.
 {IN1.} Si el orez furta alguna cosa del oro q<ue>l
-{IN1.} Qve nj<n>gun om<n>e ¶2 dan. .iiij<<o>>.
+{IN1.} Qve nj<n>gun om<n>e %2 dan. .iiij<<o>>.
 no<n> refuse la moneda derecha. .v<<o>>.
 ¶ {RUB. Que l<os> sieruos deue<n> seer tormentados c<on>t<r><<a>>
 s<us> sen<n>ores q<ue> corronpe<n> la moneda .i<<o>>.}
@@ -10011,19 +10011,19 @@ el ochauo. {RUB. {LAT. {IN1.} Titul<us> .i<us>.} Del<os> comete-dores
 pados si el mancebo o el sieruo faz algun
 tuerto por su mandado. .i<<o>>.
 {IN1.} Si algun om<n>e es echado por forcia dello
-{IN1.} Si muchos om<ne>s se ajun-tan ¶2 suyo. .ij<<o>>.
+{IN1.} Si muchos om<ne>s se ajun-tan %2 suyo. .ij<<o>>.
 por fazer mal de consuuno. .iij<<o>>.
 {IN1.} Si algun om<n>e es encerrado en su casa
 tras su puerta por forcia. iiij<<o>>.
 {IN1.} Qve ni<n>gun om<n>e no<n> tome lo q<ue> otro tie-ne
-{IN1.} Si algun om<n>e ¶2 por forcia. .v<<o>>.
+{IN1.} Si algun om<n>e %2 por forcia. .v<<o>>.
 enbida otros por faz<er> algun robo. .vi<<o>>.
 {IN1.} Qve si el sen<n>or no<n> es en la casa si es en hu-
 este ni<n>gu<n> o<mn>e no<n> le deue guerrear la casa .vij<<o>>.
 {IN1.} Si los sieruos fazen algu<n> mal mientre
 el sen<n>or es en la hueste. .viij<<o>>.
 {IN1.} Delos q<ue> uan en la hueste q<ue> roban algu-na
-{IN1.} Qve aq<ue>l q<ue> tiene al-guna ¶2 cosa .viiij<<o>>.
+{IN1.} Qve aq<ue>l q<ue> tiene al-guna %2 cosa .viiij<<o>>.
 partida dela roba no<m>bre los otros
 sus conpan<n>eros q<ue> fueron con el. .x<<o>>.
 {IN1.} Delos q<ue> muestran alos robadores algu-
@@ -10313,7 +10313,7 @@ huertos. & delas miesses. & delas ot<r><<a>>s cosas.}
 {IN1.} Si algun o<mn>e destruye huerto agen<n>o. ij<<o>>
 {IN1.} Si aq<ue>l q<ue> taia aruol. si mata o<mn>e o laga. iij<<o>>.
 {IN1.} Si el aruol [^q<ue>] es taiado dela una parte fa-ze
-{IN1.} De vin<n>a taiada. ¶2 danno. iiij<<o>>.
+{IN1.} De vin<n>a taiada. %2 danno. iiij<<o>>.
 o arrancada. o delos panes. .v<<o>>.
 {IN1.} Delos sotos taiados o q<ue>mados. vi<<o>>.
 {IN1.} Si algun o<mn>e taia los palos del<os> setos. vij<<o>>.
@@ -10622,7 +10622,7 @@ uolu<n>tad de su sen<n>or. .ix<<o>>.
 {IN1.} Si algu<n> o<mn>e encierra ganado agen<n>o q<ue>
 nol fizo dan<n>o. .x<<o>>.
 {IN1.} Si algun o<mn>e trilla pan era co<n> ganado
-{IN1.} Si algu<n> o<mn>e mata ga-nado ¶2 agen<n>o. xi<<o>>.
+{IN1.} Si algu<n> o<mn>e mata ga-nado %2 agen<n>o. xi<<o>>.
 agen<n>o por alguna ferida. .xij<<o>>.
 {IN1.} Si la a<n>i<m>alia se amesce co<n> otro grey agen<n>a .xiij<<o>>.
 {IN1.} Si el o<mn>e faz algu<n> espanto ala a<n>i<m>alia por
@@ -10643,7 +10643,7 @@ tias deuelo mostrar el lugar & dezir
 lo alos uezinos. .xxi<<o>>.
 {IN1.} Delos q<ue> encierran el camino. .xxij<<o>>.
 {IN1.} Quanto t<er>reno deue o<mn>e lexar cerca del
-{IN1.} Si el o<mn>e tuelle al q<ue> ¶2 camino. .xxiij<<o>>.
+{IN1.} Si el o<mn>e tuelle al q<ue> %2 camino. .xxiij<<o>>.
 ua su camino q<ue> no<n> pazca el ganado .xxiiij<<o>>.
 {IN1.} Qve los pastos q<ue> no<n> son cerrados q<ue> no<n> sean
 defendidos al<os> q<ue> passa<n> por camino. xxv<<o>>.
@@ -13714,7 +13714,7 @@ soldos. al q<ue> Recibio el tuerto. &
 si no<n> oujere onde los pague. Reciba.
 Cient. & L. azotes. antel iuyz.
 {RMK: HSMS-0209-0002: Sentencias.} ¶ {RUB. Estas sentencias fizo el Rey don alfo<n>-so +}
-{IN2.} Qvi a sabiendas q<ue>ma casa en vil-la. ¶2 {RUB.}
+{IN2.} Qvi a sabiendas q<ue>ma casa en vil-la. %2 {RUB.}
 deuenlo q<ue>mar por ende. &
 d<e>los bienes d<e>l deuen ent<r><<e>>gar al du-
 eno d<e>l p<re>cio d<e>la casa. & d<e>lo q<ue> y p<er>dio.
@@ -13858,7 +13858,7 @@ dado. a aq<ue>l q<ue> fue p<r><<i>>ndado deue}
 seer la p<r><<i>>nda tornada en q<u><<a>>tro doblos por
 enmienda. Libro segu<n>do. en el titulo
 segundo ley q<ue> co<m>pieça. Si algu<n> o<mn>e lib<r><<e>>
-{IN2.} Aq<ue>llo q<ue> es fecho enga-nosa ¶2 o s<ier>uo
+{IN2.} Aq<ue>llo q<ue> es fecho enga-nosa %2 o s<ier>uo
 mjent<r><<e>>. o en traspasso q<ue> no<n>
 deue ualer. En el libro .ij<<o>>. {LAT. titul<us> .i<us>.} ley
 q<ue> [*com<ien>]ça. q<u><<a>>ntas pestile<n>cias so<n> auenj-
@@ -13881,7 +13881,7 @@ ageno. & lib<r><<o>> .vj<<o>>. titulo .i<<o>>. si algu<n> s<ier>uo
 Et lib<r><<o>> .viiij<<o>>. titulo .i<<o>>. ley q<ue> com<ien>ça. El
 s<ier>uo q<ue> fuye. Et lib<r><<o>> .iij<<o>>. titulo .vi<<o>>. ley
 q<ue> com<ien>ça. la muger q<ue> fuer lexada de
-{IN2.} A ne<n>guno no<n> deue en-peecer ¶2 su marido.
+{IN2.} A ne<n>guno no<n> deue en-peecer %2 su marido.
 lo q<ue> en su p<le>yto fuer fecho.
 el no<n> esta<n>do p<re>se<n>te. lib<r><<o>>. [*ij<<o>>] tit<u>lo .ij<<o>>. ley q<ue>
 com<ien>ça. por ende castiga la ley. & este

@@ -193,7 +193,7 @@ No me negueys, au<n>q<ue> ocupe<n>
 mis dichos vuestros consejos,
 dezidme, porque los viejos
 duerme<n> poco, y mucho escu-pen?
-{RUB. Respuesta.} ¶2 ≺
+{RUB. Respuesta.} %2 ≺
 Velan sin poder dormir,
 porque humor no los ocupa,
 y es fuerça quel viejo escupa,
@@ -854,7 +854,7 @@ y sus amos muy sañudos
 de presto los han quitado.
 Es el torno de la seda.
 {RUB. Pregunta.}
-En vn sepulcro vi estar ¶3 ≺
+En vn sepulcro vi estar %3 ≺
 mas de veynte cuerpos muer-tos
 y tan grandes vozes dar
 que me parè a escuchar
@@ -1049,7 +1049,7 @@ para siempre porque penen?
 Es la sierpe.
 {RUB. Pregunta.}
 Qual es la cosa q<ue> en murie<n>-do
-recibe menos fatiga, ¶2 ≺
+recibe menos fatiga, %2 ≺
 y con su vida viuiendo
 su cuerpo va deshaziendo}
 {CW. con}

@@ -96,13 +96,13 @@ ni<n> sup<er>biosos ni<n> de ma-[la]}
 [fol. 2r]
 {CB1.
 {RMK: HSMS-0085-0003: Fuero general de Navarra (versión C).} Como q<u><<o>>ando uillanos casados ouiendo fijos de ganancia & mu-ere [^2#22]
-el uno el otro parte(<n>) con[ ]eyllos. & los de pareylla como [¶3] q<ue> pena
+el uno el otro parte(<n>) con[ ]eyllos. & los de pareylla como [%3] q<ue> pena
 Villana & biuda como deue dar p<ar>t alas c<r><<e>>aturas a<n>te q<ue> case & si no<n> faç. [^2#23]
-[^2#¶] (^2#4)[^2#5] {RUB. Titulo de tenienças.} [¶3] mala uoz.
+[^2#¶] (^2#4)[^2#5] {RUB. Titulo de tenienças.} [%3] mala uoz.
 De teniença de heredat de quoranta aynnos sen [^2#1]
-.xix. Como entra la orden en[ ]teniença de heredat. [¶3] [^2#2]
+.xix. Como entra la orden en[ ]teniença de heredat. [%3] [^2#2]
 Q<u><<o>>anta te<n>ienca sen mala uoz le uale al q<ue> vi<n>na planta de nue-uo [^2#3]
-En q<u><<o>>ales casos deue ser p<ro>uado teniença de heredat. [¶3] [^2#4]
+En q<u><<o>>ales casos deue ser p<ro>uado teniença de heredat. [%3] [^2#4]
 De dos q<ue> ayllegue<n> en[ ]teniença sobre h<er>edat q<u><<o>>al a q<u><<o>>al deue dar fia-dor. [^2#5]
 De como non ual teniença entre el Rey et el fidalgo [^2#6]
 et como sen quereyllant al Rey non deue responder.
@@ -122,7 +122,7 @@ yerno suegro por prueua o por iura. & enq<ue> caso deue ser p<ro>uado. [^2#1]
 Q<u><<o>>antos et quoales testigos abastan entodas cosas. [^2#3]
 Quoal deue ser el testimonio entre franco et nauarro. [^2#4]
 Que deue fazer el testimonio et quoanto deue ser Rico [^2#5]
-et como se deue saluar si non se acuerdan. [¶3] se absconde
+et como se deue saluar si non se acuerdan. [%3] se absconde
 Delant q<u><<i>>en deue<n> ser reçebidos los testigos & q<ue> pena ha el q<u><<i>> [^2#6]}
 [fol. 2v]
 {CB1.
@@ -135,13 +135,13 @@ En q<u><<o>>ales casos uale la testigoança dela muger. & [^2#11]
 (et) si alguno a q<ue> diga q<ue> no es fijo daq<ue>ill por cuyo es te<n>ido.
 Q<u><<o>>ales testigos deue<n> ualer & q<u><<o>>ales no. q<uoa>n<d>o pone<n> por bonos o<mne>s. [^2#12]
 .xxiiij. En q<u><<o>>al man<er>a deue s<er> dema<n>dado au<er> co<n> carta. & el otro en q<u><<o>>al man<er>a [^2#13]
-[^2#¶] (^2#6) {RUB. [^2#7 Titulo de escriuanos.]} [¶2] se deue defender.
+[^2#¶] (^2#6) {RUB. [^2#7 Titulo de escriuanos.]} [%2] se deue defender.
 Quoal escriuano deue ser en conueniencas que se
 fazen entre xp<<i>><sti>iano ho iudio ho moro. [^2#1]
 En quoal manera sse conosce la falsa carta. [^2#2]
 En quoal manera et ata quoanto tiempo es te-
 nido om<n>e de responder a[ ]carta que emienta a logro. [^2#3]
-[^2#¶] (^2#7) {RUB. [^2#8 Titulo de iuras.]} [¶3] ante q<ue> iure q<u><<i>> la deue s<aluar>.
+[^2#¶] (^2#7) {RUB. [^2#8 Titulo de iuras.]} [%3] ante q<ue> iure q<u><<i>> la deue s<aluar>.
 Ata q<ue> tiempo no deue iurar muger preynada. & si mue-re [^2#1]
 .xxv. En q<u><<o>>ales tie<m>pos ningu<n>o no<n> deue jurar saluo por cierta<<s>> cosas. [^2#2]
 En quoal manera deuen iurar los iudios en su iura. [^2#3]
@@ -3510,7 +3510,7 @@ treme<n>. Tre<m>bles & cayas en esta ho-
 ra si falso o co<n> engayno iuras o mie<n>-
 tes. Euas & goarda aesta seynal de
 salomon tu Rey. & de maymo<n>. pod<e>roso
-[¶2] Rey tuyo.
+[%2] Rey tuyo.
 {=DIAG: four boxed lines surrounding a Maltese cross.
 {LAT. potentissime
 Maymon rex regum
@@ -10956,7 +10956,7 @@ calonia & los ladrones iusticia.
 {RUB. Q<u><<e>> calo<n>ia ha q<u><<i>> furta canes de +}
 {IN2.} Qvi furtare {RUB. casa mausti<n> o +}
 galgo q<ue> caça & q<ue> traye cor-reya
-al pescuec[']o con la sortieyl-la ¶2 {RUB. otros canes.}}
+al pescuec[']o con la sortieyl-la %2 {RUB. otros canes.}}
 [fol. 88r]
 {HD. [^2#L<ibro> 5] \ .lxxxv.}
 {CB2.

@@ -860,7 +860,7 @@ endo hy a otro. por cuydar q<ue>
 sera deffendido. por la egl<es>ia.}
 {CB2.
 {RUB. T<itulo>. delas leyes & de s<us> establecimie-ntos +}
-{IN2.} La ley ama et ensenna las co-sas ¶2 {RUB. }
+{IN2.} La ley ama et ensenna las co-sas %2 {RUB. }
 que son de dios et es fu-
 ente de ensennamiento et ma-
 estra de derecho et de iusticia &
@@ -1581,9 +1581,9 @@ non q<u><<i>>siere dar o cartas q<ue> te-
 nia pora p<ro> de su pleyto n<on> q<u><<i>>siere
 most<r><<a>>r & el duen<n>o dela uoz p<or> hy per-
 diesse su pleyto el p<er>son<er>o sea tenido del pe-char
-{IN1.} Si alguno diere personero en al-gun [¶2] q<u><<a>>n-to
-pleyto et ante q<ue> el perso-nero [¶2] p<or> hy
-entre en la uoz con el con-tendor [¶2] p<er>dio.
+{IN1.} Si alguno diere personero en al-gun [%2] q<u><<a>>n-to
+pleyto et ante q<ue> el perso-nero [%2] p<or> hy
+entre en la uoz con el con-tendor [%2] p<er>dio.
 muriere el duenno dela
 uoz q<ue>l dio por personero. tal p<er>-
 soneria; non uala mas. Et si
@@ -1779,7 +1779,7 @@ dema<n>dador sea dela demandar
 a aq<ue>l q<ue>la enageno o<n> a aq<ue>l q<ue>la
 recibio. {RUB. Libro segundo. T<itulo>. delos
 iuyzios & ante q<u><<i>>e<n> deue respo<n>der el dema<n>-dado +}
-{IN5.} Todo om<n>e q<ue> mora-re ¶2 {RUB. }
+{IN5.} Todo om<n>e q<ue> mora-re %2 {RUB. }
 so algu<n> sen<n>o-
 rio & fiziere hy
 algu<n> fecho malo
@@ -2479,8 +2479,8 @@ q<ue>l demandan si o no<n>. si non
 parare ante si. algun deffen-
 dimiento. con derecho por q<ue> no<n>
 le deua; a responder {RUB. T<itulo>. delas con-noce<n>-cias. +}
-{IN1.} Todo om<n>e q<ue> fiziere dema<n>da a ¶2 {RUB. +}
-ot<r><<o>> en iuyzio & aq<ue>l a[ ]q<u><<i>> dema<n>da-ren ¶2 {RUB. }
+{IN1.} Todo om<n>e q<ue> fiziere dema<n>da a %2 {RUB. +}
+ot<r><<o>> en iuyzio & aq<ue>l a[ ]q<u><<i>> dema<n>da-ren %2 {RUB. }
 o so personero o so uozero
 connosciere lo q<ue>l demandan;
 non sea tenudo de dar otra pru-
@@ -7329,7 +7329,7 @@ sin la pena dela descomunio<n>
 de s<an>c<t>a Egl<es>ia en q<ue> cae; sea el cu-
 erpo & q<u><<a>>nto ouiere a mercet
 del Rey. {RUB. Titulo delos iu-dios +}
-{IN2.} Deffendemos ¶2 {RUB. .}
+{IN2.} Deffendemos %2 {RUB. .}
 que ningun judio no<n>
 sea osado de leer Libros nin-
 gunos q<ue> fablen en su ley. &
@@ -8145,7 +8145,7 @@ fuere. desfaga q<u><<a>>nto y fiziere
 con su mission & por la osadi-
 a. peche al Rey. Beynte mo-
 rauedis. {RUB. Tit<ul>o delos adulte-rios. +}
-{IN2.} Si mugier casada. ¶2 {RUB. }
+{IN2.} Si mugier casada. %2 {RUB. }
 fiziere adult<er>io amos
 sean empoder del marido et
 faga dellos lo q<ue> quisiere. & de
@@ -9293,7 +9293,7 @@ o la lisiada. sea de aquel que
 el danno fizo.}
 {CB2.
 {RUB. Tit<u>lo delos q<ue> dessotierra<n> los muer-tos. +}
-{IN2.} Si algun omne abriere o ¶2 {RUB. }
+{IN2.} Si algun omne abriere o %2 {RUB. }
 lo mandare abrir Luzi-
 ello. o fuessa de muerto. & le to-
 mare las uestiduras. o alguna<<s>>

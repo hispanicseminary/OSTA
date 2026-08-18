@@ -221,7 +221,7 @@ ta o çerada.
 ¶ Cap<itu>lo .xxxv. dela cayda O dela batidu-
 ra del falcon en q<ue> se el fiere[.]
 ¶ Cap<itu>lo .xxxvj<<o>>. del falco<n> q<ue> tiene las t<r><<i>>pas
-¶2 de fuera.}
+%2 de fuera.}
 [fol. 6v]
 {CB1.
 ¶ Cap<itu>lo .xxxvij. del falcon q<ue> tiene las qujxadas
@@ -232,7 +232,7 @@ a tu falcon[.]
 eren mudar. & como faras. para q<ue> tu falcon
 mude bie<n> & ayna.
 ¶ Cap<itu>lo .xL. como faras de q<ue> tu falco<n> fuere mu-dado
-¶ Cap<itu>lo .xLj. delos açores[.] [¶2]
+¶ Cap<itu>lo .xLj. delos açores[.] [%2]
 ¶ Cap<itu>lo .xLij. delos gaujlanes.
 ¶ Cap<itu>lo .xLiij. delos esmerejones.
 ¶ Cap<itu>lo .xLiiij. delos alcotanes.
@@ -658,7 +658,7 @@ falco<n> mataua la grua & no<n> era muy gra<n>de
 Otrosy todos los baharys. asi sardos como
 mallorqujs & de romañja. & tagarotes
 son muy buenos. perdiguero(ro)[s] ca su lige-reza
-¶2}
+%2}
 [fol. 13v]
 {CB1.
 es enlo baxo & buela<n> el pecħo por el suelo. &
@@ -845,7 +845,7 @@ remo<n>tar. P<er>o en brama<n>te. & en fra<n>çia bu[e]-
 lan co<n>ellos enla Rybera mas no<n> son altos
 mas los torçuelos son mejores para ello. &
 qua<n>do lo catares p<ar>a mje<n>tes que sea descarga-do
-¶2}
+%2}
 [fol. 16v]
 {CB1.
 delas espaldas & de buena carne & buena cu-
@@ -1095,7 +1095,7 @@ E desque oujeres escogido & tomado [^tu falco<n>]
 lo primero q<ue> faras luego esse dia. bañjalo co<n>
 el oropime<n>te que sea vna onça bie<n> molido &
 muy çernjdo & dagelo seco en poluo echando
-¶2 gelo}
+%2 gelo}
 [fol. 20v]
 {CB1.
 por todo el floxel & ponje<n>dole en todas sus
@@ -1159,7 +1159,7 @@ ssa & sy otro tie<n>to no<n> tienes. cata lo vie<n>to
 ariba & a las Riberas. ca ally recudra & sy
 lo cobrares & toujere(^s) Ralea tiragela delas
 manos en manera que el entienda que te pe-so
-[¶2]}
+[%2]}
 [fol. 21v]
 {CB1.
 & ssi alg<un><<a>> nocħe durmjo fuera de tu poder. car-
@@ -1651,9 +1651,9 @@ toujeren. Ca no<n> puede seer menos aue<n>-
 tura que estar enla ve<n>tura q<ue> lo tiene
 ombre por p<er>dido. {RUB. c<apitul><<o>> .x<<o>>ij<<o>>. dela pur-
 ga comu<n>. p<ar>a purgar el falco<n> del cuerpo.}
-{IN3.} (p)[P]Or mucħas maneras ¶2 {RUB.}
+{IN3.} (p)[P]Or mucħas maneras %2 {RUB.}
 acaesçe los falconeros auer mene<<s>>-ter
-¶2}
+%2}
 [fol. 29v]
 {CB1.
 de ser purgados enlos cuerpos espeçial me<n>-
@@ -2088,7 +2088,7 @@ segu<n>da nocħe & sy la no<n> fiziere dale el tarta-
 go syn otra detene<n>çia E mucħos cac[']ador<e>s
 son por esta Razon en gra<n> culpa. ca puesto
 que no<n>los requjeren en catarlos las plum<<a>>-das
-¶2}
+%2}
 [fol. 36v]
 {CB1.
 si las faze<n> o no<n> faze<n>. avn peor que no<n> dexan
@@ -2200,7 +2200,7 @@ cħo les viene este mal & otros mucħos &
 del comer. tenplado nu<n>ca les puede ve-
 njr daño E andan sanos.
 {RUB. cap<itu>lo .xx. sy el falcon tiene lonbrizes[.]}
-{IN3.} (p)[P]Or me<n>g<u><<a>>. delas purgas ¶2
+{IN3.} (p)[P]Or me<n>g<u><<a>>. delas purgas %2
 que no<n> son fecħas a los falcones qua<n>do les
 cu<n>ple se engendran las lo<n>brizes enel bucħe
 & que esto sea verdad. ay mucħos caçadores
@@ -2340,7 +2340,7 @@ enpos çiertos. Señalada me<n>te al pollo.}
 [fol. 40v]
 {CB1.
 {RUB. cap<itu>lo .xx<<o>>ij<<o>>. sy el falcon tiene piedra.}
-{IN3.} (l)[L]Os falcones que amenudo ¶2
+{IN3.} (l)[L]Os falcones que amenudo %2
 su[e]len comer via<n>das gruesas & malas
 engendran. piedra E esta piedra se
 engendra enla tripa por donde el falco<n> tue-
@@ -2738,7 +2738,7 @@ dale sen[~]uelo & de comer.
 ¶ Despues que tu falco<n> sepa ya andar sus
 tornos E fueres en ribera dexa bolar prj-
 mero el falco<n> maestro & que vea las ana-des
-¶2}
+%2}
 [fol. 47r]
 {CB1.
 & esto<n>ce ecħa tu falcon & dexalo andar con
@@ -3038,7 +3038,7 @@ fermosura como antes hera. & sy le q<ue>dare
 nuue O paño lançale el poluo del coral bla<n>-
 co bien çernjdo. co<n> vna peñola & sanara.
 {RUB. c<apitul><<o>> .xxxj. del falcon q<ue> ha ytropico O yncha-zon.}
-{IN3.} (a)[A]n vna dolençia los falcones ¶2 {RUB.}
+{IN3.} (a)[A]n vna dolençia los falcones %2 {RUB.}
 q<ue> es llamada tropigo E esta dole<n>çia se
 enge<n>dra enel vientre del falcon & señala-
 da mente desta dole<n>çia. son naturales mucħo
@@ -3110,7 +3110,7 @@ gujsa que no<n> desuelde lo que esta soldado
 Otros ha q<ue> gelo cubren en logar del baldre<<s>>
 co<n> la peliçiela dela fiel del aue & pegase me-
 jor. {RUB. .c<apitul><<o>> .xxvj. del falcon q<ue> ha clauos +}
-{IN2.} (n)[N]On enbargando ¶2 {RUB. enlos pies.}
+{IN2.} (n)[N]On enbargando %2 {RUB. enlos pies.}
 que todos los falcones ha<n> algunas vega-das}
 [fol. 53r]
 {CB1.
@@ -3879,7 +3879,7 @@ falcon en logar do estas occasiones Resçibe.}
 [fol. 66r]
 {CB1.
 {RUB. c<apitul><<o>> .xxxvj. del falcon que tiene las t<r><<i>>pas de +}
-{IN3.} (a)[A]lgunas vezes sallen las tripas [¶2] {RUB. fuera.}
+{IN3.} (a)[A]lgunas vezes sallen las tripas [%2] {RUB. fuera.}
 al falcon de golpes de garças O por ot<r><<a>>s
 ocasiones & qua<n>do vieres al tu falcon
 las t<r><<i>>pas assy fuera derriba el falco<n> sobre

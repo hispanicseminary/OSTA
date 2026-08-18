@@ -150,7 +150,7 @@ en adulterio ¶
 ¶ Que calo<n>ia ha q<u><<i>> matare al<ca>l<d>e d<e>l Rey o a m<er>ino
 ¶ De [bestia] q<ue> mata aotra bestia
 ¶ En q<ue> caso la bestia no es homiziera
-¶ De dos vestias q<ue> se mata<n> q<u><<o>>al <e>s omiziera ¶2
+¶ De dos vestias q<ue> se mata<n> q<u><<o>>al <e>s omiziera %2
 ¶ Que emienda deue s<er> f<e>c<h>a por muert de cauay-lo
 ¶ Que pena ha el q<u><<i>> es malm<er>jent de cauaylo
 ¶ En q<ue> caso no ha calonia q<u><<i>> mata can
@@ -192,7 +192,7 @@ en adulterio ¶
 ¶ Que calonia ha q<u><<i>> furta can<e>s de caza
 ¶ Que emie<n>da deue faz<er> q<u><<i>> furtare gato
 ¶ Que calonia ha q<u><<i>> furta açtor
-¶ Que calonia [ha] q<u><<i>> furta gauila<n> ¶2
+¶ Que calonia [ha] q<u><<i>> furta gauila<n> %2
 ¶ Que calonia ha q<u><<i>> furta haue de gayol<<a>>
 ¶ Que calonia ha q<u><<i>> furta piedra e<n> pedre[ra]
 ¶ Que calonia ha q<u><<i>> furta yerba e<n> mo<n>t}
@@ -327,7 +327,7 @@ en q<ue> falla
 ¶ Los seynnores sollarigos q<uoa>ndo cobra<n>
 ¶ Quoando los villanos d<e>l Rey o d<e>los mo<n>[asterios]
 [^2#T<itul><<o>> delos villanos del Rey & los monas-t<er>ios]
-¶ Quoanta pecha deue auer jnfancon ¶2
+¶ Quoanta pecha deue auer jnfancon %2
 ¶ Como el rey deue cobrar la peyta
 ¶ Como el Rey & los monasterios q<u><<i>>taro<n>
 ¶ Que peyta puede toyller el Rey al vil[lano]
@@ -6658,7 +6658,7 @@ vozero en aq<ue>illa cosa por q<ue> es
 fiador. donde dize el antigo fia-
 dor no<n> ha palabra. {RUB. De como deue
 hombr<e> quitar & q<uoa>ndo d<e>la fiadur<ia> asu fia-dor +}
-{IN3.} Aquj muestra el fuero en ¶2 {RUB.}
+{IN3.} Aquj muestra el fuero en %2 {RUB.}
 q<u><<o>>al manera deue hombre
 quitar al fiador q<ue> tiene
 pendrado. Es assaber q<ue> nj<n>gun hom-
@@ -8849,7 +8849,7 @@ tenjent daq<ue>illa honor assi como era de
 p<r><<i>>m<er>o deue saluar el bassaillo/ et eme<n>-
 dar li todas las q<ue>reillas q<ue> ha deill el
 seyn<n>or. {RUB. Como no deue s<er> Reptado todo el <con>-ceio +}
-{IN3.} Si algun hombre fuere q<ue> quiera ¶2 {RUB.}
+{IN3.} Si algun hombre fuere q<ue> quiera %2 {RUB.}
 reptar atodo el conçeio d<e>la villa
 no<n> son tenjdos los d<e>la villa por
 eillo de Responder nj de saluar/ mas si
@@ -9251,7 +9251,7 @@ do matare aotro ganado el homjçie-
 ro dando no<n> ayan q<ue>reilla del seyn<n>or
 {RUB. Por muerte de quoales es el omjçie-
 ro et como si su bestia matare es omjçie-ra +}
-{IN3.} Si hun fidalgo matare aotro. no<n> ¶2 {RUB.}
+{IN3.} Si hun fidalgo matare aotro. no<n> %2 {RUB.}
 deue au<er> homjçidio el Rey. mas
 si matare a[ ]franco/ o a villano
 /o a judio/ o a[ ]moro deue hau<er> homjçi-
@@ -10957,7 +10957,7 @@ et enlos otros vedados q<ue> tienen veda-
 dos los vezi<n>os entresi. {RUB. En vilas fa-
 zeras los ganados como deue<n> pasçer
 trasfumo o los l<egu>mjnas no<n> son conosçi-dos +}
-{IN3.} En villas fazeras los ganados ¶2 {RUB.}
+{IN3.} En villas fazeras los ganados %2 {RUB.}
 d<e>la vna villa no<n> deuen passar
 ala otra villa trasfumo. por
 Razon d<e>las pazturas nj deuen entrar}
@@ -11115,7 +11115,7 @@ hombre entrasse por fuerça/ o por furtar
 et taiasse vimbre/ o/ otra arbor pague
 la callonja et el dayn<n>o {RUB. Como deue<n>
 dar los vezinos logar o pazca al ganado en-fermo +}
-{IN3.} Si ganados enfermaren adaq<ue>ill q<ue> ¶2 {RUB.}
+{IN3.} Si ganados enfermaren adaq<ue>ill q<ue> %2 {RUB.}
 los vezi<n>os acusaren q<ue> el su ganado
 es enfermo. deuen li dar paztura
 apartada do pueda pasçer su ganado.
@@ -11155,7 +11155,7 @@ daq<ue>illas yerbas/ el seyn<n>or d<e>l gana-
 do enfermo no<n> es tenjdo de fazer
 emjenda/ a[ ]nj<n>gu<n>o por fuero {RUB. Ata q<u><<o>>-
 ando puede ten<er> los ganados en<e>l pu-erto +}
-{IN3.} Agora vos contaremos d<e>los ¶2 {RUB.}
+{IN3.} Agora vos contaremos d<e>los %2 {RUB.}
 puertos. et d<e>las t<ier>ras daq<u><<i>>ent
 puertos. Es assaber q<ue> los
 pueblos p<ar>tieron las t<ier>ras. y el pu-
@@ -11538,7 +11538,7 @@ suya. et ata( )q<ue> sea cresçida. deue li
 dar .v. s<ueldo>s. cada ayn<n>o. al seyn<n>or
 d<e>la arbor. por la pro q<ue> solia leuar
 del arbor. {RUB. Del qui taia vit o vjm-bre +}
-{IN2.} Otrossi todo hombre quj taiare ¶2 {RUB.}
+{IN2.} Otrossi todo hombre quj taiare %2 {RUB.}
 vit/ o vimbre. aieno deue pechar
 .v. s<ueldo>s de callonja por cada vit
 /o por cada vimbre. et ha de pechar
@@ -12070,7 +12070,7 @@ molinero segu<n>t q<ue> sobr<e>d<i>c<h>o es. maguera el
 mollinero por auer paz/ lieue el pan mesu-
 rado/ et tornelo mesurado {RUB. Que emj-
 enda deue ser fecha por molino q<ue> fre-sa +}
-{IN2.} Si el molino fresa la çeuera. deue ¶2 {RUB.}
+{IN2.} Si el molino fresa la çeuera. deue %2 {RUB.}
 Render el molinero la farina fresa-
 da. et .ij. q<u><<o>>artalles de çeuera. et
 deue moller el saluado q<ue> saldra d<e>la fa-

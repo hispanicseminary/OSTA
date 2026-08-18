@@ -338,7 +338,7 @@ de peynno et de emien[^da.]
 {IN1.} DElos p<ro>curadores.
 {LAT. {IN1.} Quod cuiuscu<m>q<ue> uniu<er>sitatis}
 {IN1.} Quede quoal quiere uniu<er>si-daz
-{LAT. {IN1.} DE negocijs gestis} ¶2
+{LAT. {IN1.} DE negocijs gestis} %2
 {IN1.} DElos negotios que son le-
 uados.
 {LAT. {IN1.} DE dilationib<us>.}
@@ -545,7 +545,7 @@ otras possessiones.
 de agoa.
 {LAT. {IN1.} DE usu et habitat<<i>>one}
 {IN1.} DE usage et de habidamie<n>-to.
-{LAT. {IN1.} DE usu fructu.} ¶2
+{LAT. {IN1.} DE usu fructu.} %2
 {IN1.} DE auer uso de fruito.
 {LAT. {IN1.} DE iure iteneru<m> publicar<um>}
 {IN1.} DEl dreito delas carreras
@@ -1526,7 +1526,7 @@ assignado por lalcalde el pei<n>-
 ndrado no<n> mostrare instru-
 me<n>t o albara como dito es de
 suso. deue pagar. lx<<a>>. s<ueldo>s. de pe-na.
-{IN2.} Si el om<n>e {RUB. {LAT. De eodem}} ¶2
+{IN2.} Si el om<n>e {RUB. {LAT. De eodem}} %2
 forano quisiere fazer pe-
 indra en uilla ho en uillero
 o seynnora ha en aq<ue>illa uil-
@@ -1599,7 +1599,7 @@ de suso. ¶ Et qui en otra gui-
 sa fiziere esta peyndra dela
 infançona en .lx<<a>>. s<ueldo>s. es tenido
 por calonia adaq<ue>illa infa<n>-çona
-{IN2.} El logrero {RUB. {LAT. De eode<m>}} ¶2
+{IN2.} El logrero {RUB. {LAT. De eode<m>}} %2
 no<n> puede peindrar por
 si ni por el seynnorio & esto
 por uileza del logro. & por el
@@ -2358,7 +2358,7 @@ de infançon deue ser dado
 al q<ue>reillant que lo tienga
 ata que sea pagado de su deu-
 da con la rientas del moli-no.
-{IN2.} Suele ser {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} Suele ser {RUB. {LAT. De eodem.}} [%2]
 que el seynnor da su}
 {CB2.
 heredat al laurador pora cier-
@@ -2383,7 +2383,7 @@ dos. el peyndrador deue recebir
 tal fiador dado por el laurador
 et render li los peynnos que to-
 mo. & si no<n> tomo. no<n> deue to-mar
-{IN2.} Cada un {RUB. {LAT. De eodem}} [¶2]
+{IN2.} Cada un {RUB. {LAT. De eodem}} [%2]
 peyndrador de quoal q<u><<i>>e-
 re <con>dition o dignidat q<ue> sea
 tenido es de peyndrar segu<n>t
@@ -2392,7 +2392,7 @@ et segunt aq<ue>illa forma tener
 los peynnos en manifiesto. q<u><<a>>r
 qui en otro guisado peyndra-
 re. no es dito peyndrador mas
-{IN2.} La bestia {RUB. {LAT. De eodem}} [¶2] robador.
+{IN2.} La bestia {RUB. {LAT. De eodem}} [%2] robador.
 que es comu<n> de dos. puede}
 [fol. 19v]
 {HD. {LAT. L<IBER>} +}
@@ -2428,7 +2428,7 @@ nido de recebir paga del su
 deudo. & por razo<n> dela <com>payn-
 nia sera obligada la p<ar>t del co<m>-
 paynno<n> al <com>paynno<n> q<ue> faga
-{IN2.} Si el {RUB. {LAT. De eodem}} [¶2] el deudo.
+{IN2.} Si el {RUB. {LAT. De eodem}} [%2] el deudo.
 peyndrador acreyere el}
 {CB2.
 peynno al peyndrado q<ue> aq<ue>il
@@ -2553,7 +2553,7 @@ ra aue<n>tura conteciesse que
 aq<ue>ill peynno ouiesse a p<er>ir
 en alguna guisa sera teni-
 do el peyndrador por aq<ue>ill
-{IN2.} Qvan-do {RUB. {LAT. De eodem}} [¶2] peynno.
+{IN2.} Qvan-do {RUB. {LAT. De eodem}} [%2] peynno.
 peyndra deue ser fei-
 ta por huest o pidido o por
 cena o por quoal quiera ot<r><<o>>
@@ -4129,7 +4129,7 @@ tor dizier euad a qui fia<n>ça so-
 bre estas cosas. En otra gui-
 sa si assi no<n> fuere feito. no
 es dado el auctor de como de-ue.
-{IN2.} SI la de-manda {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} SI la de-manda {RUB. {LAT. De eodem.}} [%2]
 del possesor mo-
 uida demandare el possessor
 plazo por mo<n>strar sus instru-
@@ -7522,7 +7522,7 @@ ho no<n> podiere; no<n> puede s<er>
 feito <con>streynnimie<n>to nin-
 guno <con>tra el marido o co<n>-
 tra tal fiador qui es mingo-ado.
-{IN3.} El fiador {RUB. {LAT. De eode<m>.}} ¶2
+{IN3.} El fiador {RUB. {LAT. De eode<m>.}} %2
 de riedra qui deue s<er>
 dado al cl<er>igo ho a or-
 den de religio<n> sobre dema<n>-
@@ -13294,17 +13294,17 @@ QUIERE Q<UE> AL-guna
 heredat possediere con in-
 strumento publico dada a eill q<ue>
 la possedia. o uendida o camia-
-da o lexada por testament legitti-mo. ¶2}
+da o lexada por testament legitti-mo. %2}
 {CB2.
-¶2 del qui fino por aynno
+%2 del qui fino por aynno
 et dia sin mala uotz es assa-
 ber sin interruption. non
 puede depues ser li deman-
 dada aq<ue>illa possession. mas
 auer la por siempre. ¶ En-
-p<er>o esta p<re>scr<<i>>ption non puede ¶2}
+p<er>o esta p<re>scr<<i>>ption non puede %2}
 {CB2.
-¶2 nozer ad aq<ue>ill qui no<n> sabia esta
+%2 nozer ad aq<ue>ill qui no<n> sabia esta
 p<re>scription q<uoa>n<d>o se fazia. o al me-
 nor o ala eglesia. o al qui es fue-
 ra de tierra. ni ad aq<ue>ill por quie<n>
@@ -13401,7 +13401,7 @@ sera si el dito possessor p<ro>ua-
 re el titulo de su possession;
 non por p<re>scription. mas por
 instrume<n>to publico. & abas-ta<n>t.
-{IN2.} SI alguno fiziere {RUB. {LAT. De} +} [¶2]
+{IN2.} SI alguno fiziere {RUB. {LAT. De} +} [%2]
 molino en log<<a>>r {RUB. {LAT. eodem.}}
 de otro o ya fue molino de
 antigo tiempo. & ena<n>çare
@@ -14432,7 +14432,7 @@ p<ro>cesso del iuditio lo que el o-
 tro se alabo a p<ro>uar; no<n> deue
 ser mandado a iurar en nin-
 guna guisa ad aq<ue>ill qui ni-ega.
-{IN2.} Quoan-do {RUB. {LAT. De eodem.}} ¶2
+{IN2.} Quoan-do {RUB. {LAT. De eodem.}} %2
 alguno quiere dar
 testigos ante el rey sobre su
 infançonia deue ser clama-do}
@@ -14605,7 +14605,7 @@ qui affirma de p<ro>uar. Quar
 naturalme<n>t la prueua del ni-
 ego; si dentro en si no ouiere
 la affirmatiua no es dita pru-eua.
-{IN2.} SEyendo {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} SEyendo {RUB. {LAT. De eodem.}} [%2]
 present. et ueyendo aq<ue>il
 contra qui los testigos so<n> dados
 deuen ser recebidas las iuras
@@ -14934,7 +14934,7 @@ Et esto a log<<a>>r; entre los
 om<ne>s de quoal quiere <con>di-
 tion que sean quoando es
 mouido tal negotio o plei-to.
-{IN2.} AQueill {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} AQueill {RUB. {LAT. De eodem.}} [%2]
 a qui son iudgados los
 testigos offrescie<n>do a eillos
 segunt la costu<m>pne del fu-
@@ -15586,7 +15586,7 @@ nada empues aq<ue>ill tiempo
 o ante aq<ue>ill tiempo por ayno
 et dia. o por mas. non p<er>dria
 el creedor ren del su dreito por-ende
-{IN7. {MIN=.}} Ma-gu-er {RUB. {LAT. De co<n>-fessis.} +} ¶2
+{IN7. {MIN=.}} Ma-gu-er {RUB. {LAT. De co<n>-fessis.} +} %2
 {RUB. Delos +}
 {RUB. qui manifi-esta<n> +}
 aq<ue>-l {RUB. algu<n>a +}
@@ -17509,7 +17509,7 @@ ser seynnalados; iura<n>do q<ue> no a
 dont pagu<<a>>r pueda. & renu<n>cia<n>-
 do a todos sus bienes daq<ue>illa
 solle<m>pnidat que es deuida; sea q<u><<i>>to
-{RUB. {LAT. De eodem}} [¶2] daq[<ue>]illa dema<n>da
+{RUB. {LAT. De eodem}} [%2] daq[<ue>]illa dema<n>da
 {IN2.} NJingun religioso. o q<ue> sea}
 [fol. 127v]
 {HD. {LAT. L<IBER>} +}
@@ -17715,13 +17715,13 @@ dios suelen iurar la mayor
 iura que eillos fazen. & la for-
 ma dela iura demanda en
 la fin deste uolu<m>pne failla-ras.
-{IN2.} SI algu-no {RUB. {LAT. De eodem.}} ¶2
+{IN2.} SI algu-no {RUB. {LAT. De eodem.}} %2
 fuere accusado de
 furto de agoa. & esto no<n> li pu-
 ede ser p<ro>uado; iura<n>do q<ue> aq<ue>il
 furto non fizo; no es tenido
 de deffender la su iura por ba-tailla.
-¶2}
+%2}
 [fol. 129r]
 {HD. III}
 {CB2.
@@ -18021,7 +18021,7 @@ et saillio dela gramatica o
 dela sc<r><<i>>ptura et ortographia
 es part griegua. & quiere di-
 zir tanto como dreita esc<r><<i>>p-tura.
-{IN2.} FAmi-lia {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} FAmi-lia {RUB. {LAT. De eodem.}} [%2]
 son ditos aq<ue>illos q<u><<i>>
 por razon & dreito natural.
 o por dreito de linada; so<n> en
@@ -19663,7 +19663,7 @@ los anteditos. no<n> pierda aq<ue>il-
 la cosa. o non sea puynnido
 en quoal se q<u><<i>>ere otra mane-
 ra aq<ue>ill de quien era aq<ue>illa
-{IN2.} Si el buye {RUB. {LAT. De eodem.}} [¶2] cosa.
+{IN2.} Si el buye {RUB. {LAT. De eodem.}} [%2] cosa.
 o otra bestia quoal se
 quiere matare la bestia de
 quoal se quiere otro om<n>e.
@@ -20763,7 +20763,7 @@ nera deue iurar que la <con>pr<<a>>
 tan solame<n>t pora si. & no<n> por<<a>>
 otro ninguno. q<u><<a>>r si pora o-
 tro la quiere. no<n> deue ser oy-do.
-{IN2.} Si entre los {RUB. {LAT. De eodem}} [¶2]
+{IN2.} Si entre los {RUB. {LAT. De eodem}} [%2]
 h<er>manos o cormanos
 fuere feito p<ar>amie<n>to de p<ar>tiR.
 la heredat ala quoal eillos so<n>
@@ -20850,7 +20850,7 @@ gotio es finado porq<ue> aq<ue>illa
 p<ar>tilla es acabada. que q<uo><<a>>l
 se q<u><<i>>ere delas p<ar>tidas con a-
 q<ue>ill instr<ument>o puede departir
-{IN2.} Uno {RUB. {LAT. d<e> eod<em>}} ¶2 aq<ue>illa p<ar>tilla.
+{IN2.} Uno {RUB. {LAT. d<e> eod<em>}} %2 aq<ue>illa p<ar>tilla.
 de marido et muiller}
 {CB2.
 muerto; todos los fillos daq<ue>ill
@@ -23371,7 +23371,7 @@ la poss<essi>on del otro.
 ¶ {RUB. {LAT. jncipit liber quint<us>. De re-
 b<us> creditis.} Es assab<e>r. De las
 cosas que acreden el uno +}
-{LAT. {IN1.} DE reb<us> creditis.} [¶2] {RUB. al otro.}
+{LAT. {IN1.} DE reb<us> creditis.} [%2] {RUB. al otro.}
 {IN1.} DE las cosas q<ue> acreden}
 {CB2.
 el uno al otro.
@@ -23387,7 +23387,7 @@ da del uno al otro.
 ren por soldada.
 {LAT. {IN1.} DEpositi}
 {IN1.} DE la cosa q<ue> es dada ad al-çar
-{LAT. {IN1.} DE usuris.} ¶2
+{LAT. {IN1.} DE usuris.} %2
 {IN1.} DEl logro.
 {LAT. {IN1.} QUod mut<us> cause.}
 {IN1.} Razon de miedo
@@ -23416,7 +23416,7 @@ dor.
 {LAT. {IN1.} DE no<m>i<n>at<i>one a<n>toris}
 {IN1.} QVoando & como se
 deue no<m>pnar el ac-tor.
-{LAT. {IN1.} DE iure emphi-teatico} ¶2
+{LAT. {IN1.} DE iure emphi-teatico} %2
 {LAT. & <con>dit<i>one
 utilis do<mi>ni <ue>l directj.}
 {IN1.} DEl dreito de <con>trac-
@@ -24163,7 +24163,7 @@ daynno que uino por aq<ue>illa
 perdida. Et eixo mismo es
 de tener de todas las cosas q<ue>
 son dadas en goarda & en al-çado.
-{IN2.} Todo {RUB. {LAT. De eodem.}} ¶2
+{IN2.} Todo {RUB. {LAT. De eodem.}} %2
 alçado se faze general-
 ment por gr<aci>a daq<ue>ill qui da
 el alçado. Empero alas ue-
@@ -24306,7 +24306,7 @@ melo. q<u><<a>>r io lo podia uender
 o aillenar a mi pro ante q<ue> se
 mories; si tu lo ouiesses re<n>-
 dido. en el tie<m>po q<ue> te lo dema<n>-de.
-{IN6. {MIN=.}} N-Jngun {RUB. {LAT. De vsuri<<s>>} +} [¶2]
+{IN6. {MIN=.}} N-Jngun {RUB. {LAT. De vsuri<<s>>} +} [%2]
 {RUB. Es assab<e>r.
 De logro.}
 o<mn>e
@@ -26335,7 +26335,7 @@ mas. ¶ Fiador de dreito et fi-
 ador de riedra. deuen ser dados
 tales. quoales; son ditos de
 suso. en la rubrica de satisda<n>-do.
-{IN2.} SJ aq<ue>ill q<ue> {RUB. {LAT. De eodeM.}} [¶2]
+{IN2.} SJ aq<ue>ill q<ue> {RUB. {LAT. De eodeM.}} [%2]
 es religioso o dado ala
 religion fuere dema<n>dado so-
 bre alguna poss<essi>on o h<er>edat.
@@ -26731,7 +26731,7 @@ sera mingoa ala fortaleza
 del fuero. por tal que por tal
 manera podiesse p<ro>ueer ad
 aq<ue>illos que fazian el <con>trac-to.
-{IN2.} SI el fiador {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} SI el fiador {RUB. {LAT. De eodem.}} [%2]
 fuere clamado a iudi-
 tio. et negare que no es fia-
 dor. et depues fuere ue<n>cido
@@ -26839,7 +26839,7 @@ fillos o delas fillas con in-
 strum<en>to publico. sobre al-
 guna poss<essi>on. o sobre algu<n>a
 heredat. o sobre todos sus bie-nes.
-{IN2.} E otrosi {RUB. {LAT. De eodem}} [¶2]
+{IN2.} E otrosi {RUB. {LAT. De eodem}} [%2]
 los ifançones puede<n>
 assignar o dar oltra la su p<ar>t
 a .i. delos fillos o delas fillas.
@@ -27059,7 +27059,7 @@ q<ue> son dadas en uida. & en la
 muert. & quoa<n>to a usage et a
 p<ro>p<<i>>edat. son comunes entre el
 marido & la muill<e>r todas aq<ue>il-las cosas.
-{IN7. {MIN=.}} ¶2
+{IN7. {MIN=.}} %2
 {RUB. {LAT. De solutio-
 nib<us>.} Es assab<e>r. De
 las pagas.}
@@ -27128,11 +27128,11 @@ la madre.
 {IN1.} DElos testamentes.
 {LAT. {IN1.} DE tutorib<us> manumisso-
 ribu<us>. spondalarijs cabeçala-rijs.}
-{IN1.} DElos tutores delos ¶2
+{IN1.} DElos tutores delos %2
 manumissores spondal<er>os
 et cabeçaleros.
 {LAT. {IN1.} DE natis ex da<m>pnatu coy-tu.}
-{IN1.} DEl fillo que es nasci-do ¶2
+{IN1.} DEl fillo que es nasci-do %2
 del aiu<n>tamie<n>to del uaro<n>}
 [fol. 196r]
 {HD. VI}
@@ -27145,7 +27145,7 @@ testado.}
 tran en los bienes daq<ue>il-
 los qui mueren sin testam<en>t.
 {LAT. {IN1.} DE inoffitio so testame<n>-to}
-{IN1.} DEl ordenamiento ¶2
+{IN1.} DEl ordenamiento %2
 del testament que es nozi-
 ble ni es feito de como de-
 uia.
@@ -27848,7 +27848,7 @@ fiaduria daq<ue>illa q<u><<a>>ntidat q<ue> la
 torne empues la su muert.
 o en pues la su uiudat <con>tra
 la forma que se siegue no<n> go-ardada.
-{IN2.} Muiller {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} Muiller {RUB. {LAT. De eodem.}} [%2]
 cipdadana o de burgo
 aqueilla que franq<u><<a>> es dita}
 {CB2.
@@ -29891,7 +29891,7 @@ Et en quoal guisa deua ser
 demostrado el testament al
 legatario. de suso es dito ex-
 pressame<n>t. en el titulo de ede<n>-do.
-¶2}
+%2}
 {CB2.
 {RUB. {LAT. De substitutionibus.} Es
 assaber. Delas substitutio-
@@ -31181,7 +31181,7 @@ non son yfançones. {RUB. {LAT. De eode<m>}}
 re al om<n>e de signo del rey; pa-
 gue el homicidio segu<n>t el fue-
 ro daqueill logar; do se fizo el
-{IN2.} QVi cre-bantare {RUB. {LAT. De eode<m>}} [¶2] ho<m>icidio.
+{IN2.} QVi cre-bantare {RUB. {LAT. De eode<m>}} [%2] ho<m>icidio.
 palatio del infa<n>-
 çon que sea dela sierra entroa
 los montes de pirenos; paga-
@@ -33802,7 +33802,7 @@ riere o li sacare sangre en g<u><<i>>-
 sa que sea creido por dreito
 que no<n> lo quiso matar nin
 lo quiso en flaquir pagara
-{IN2.} IVdio o moro {RUB. {LAT. De eodeM}} [¶2] .l. s<ueldo>s.
+{IN2.} IVdio o moro {RUB. {LAT. De eodeM}} [%2] .l. s<ueldo>s.
 non puede uender heredat o
 possession sino<n> por licentia.
 del rey o de su baille. dela quo-
@@ -34902,7 +34902,7 @@ q<ue>ill logar fuere p<re>sa aq<ue>illa ca-
 la caça co<n> su cuero sera daq<ue>ill
 caçador. & la otra mittad da-
 q<ue>illos qui la tomaro<n> o mata-ron.
-{IN2.} TOda caça {RUB. {LAT. De eodem}} ¶2
+{IN2.} TOda caça {RUB. {LAT. De eodem}} %2
 que en lazo o en otro i<n>-
 strumento paro cayere; daq<ue>-ill}
 {CB2.
@@ -35428,7 +35428,7 @@ el cuerpo deill ualga menos.
 por aq<ue>illa p<re>son; si por ue<n>tura
 <con>ueniere a eill conbater por
 aq<ue>illa cosa dont es eill accu-sado
-{IN2.} ITem estables-cemos {RUB. {LAT. DE eode<m>}} ¶2
+{IN2.} ITem estables-cemos {RUB. {LAT. DE eode<m>}} %2
 por fuero que si algu-
 no leuare pleito <con>tra el otro
 que sea crimen capital. por
@@ -35902,7 +35902,7 @@ ouieron coraçon o entendi-
 miento o uoluntad de enga-
 ynnar; quitos deuen ser et
 sueltos de toda achaquia de
-{IN2.} UN om<n>e {RUB. {LAT. De eode<m>}} [¶2] falsedat.
+{IN2.} UN om<n>e {RUB. {LAT. De eode<m>}} [%2] falsedat.
 enemigoso & <con>trario a
 cantidat recebio en su comj-enda}
 [fol. 259r]
@@ -36020,7 +36020,7 @@ fuesse <con>tescida quoa<n>to ad a-
 queill qui la mouio. Mas q<u><<o>>a<n>-
 to ad aq<ue>ill a qui es mouida
 la barailla; sera dita de uentu-ra.
-{IN2.} NJnguno {RUB. {LAT. De eodem.}} ¶2
+{IN2.} NJnguno {RUB. {LAT. De eodem.}} %2
 que matare assu enemi-
 go; non deue leuar sus cosas
 del muerto. por tal que non
@@ -36275,7 +36275,7 @@ eblo. et encara delos barba-
 ros. certas el rey o la su cort.
 pena de dineros podria pone-
 r en este caso segunt su uolu<n>-tad.
-{IN2.} Si con cuti-eillo {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} Si con cuti-eillo {RUB. {LAT. De eodem.}} [%2]
 con espada. con la<n>-
 ça. con baillesta. o con otras
 armas de fierro o dara<m>pne. o
@@ -37117,7 +37117,7 @@ sa. et mientre eillos disputaua<n>
 sobre estas cosas; lalcalde dio
 por iudit<i>o et bien que aq<ue>illos
 testigos non podian ser torna-dos.
-{IN2.} QUoando {RUB. {LAT. De eodem.}} [¶2]
+{IN2.} QUoando {RUB. {LAT. De eodem.}} [%2]
 alguno faillare el ladro<n>
 con su gato que li fue furtado;
 deue finq<u><<a>>r luego .i. palo en me-
@@ -37183,7 +37183,7 @@ de; sino<n> fuere sabidor parc[']on-
 ero daq<ue>illa malfeitria[.] Quar
 aq<ue>illos logares; comunes son
 a todos pora saillir et pora en-trar.
-{IN2.} Maguer al-guno {RUB. {LAT. De eodem}} [¶2]
+{IN2.} Maguer al-guno {RUB. {LAT. De eodem}} [%2]
 que quiera fazer
 el malefitio sailliere de tu ca-
 sa en aq<ue>ill mismo dia et en a-
@@ -37534,7 +37534,7 @@ ra por calonia .CCl. s<ueldo>s q<uoa>n<d>o}
 {HD. {LAT. L<IBER>} +}
 {CB2.
 esto li fuere p<ro>uado abastada-ment
-{IN2.} Qui quiere {RUB. {LAT. De eode<m>.}} [¶2]
+{IN2.} Qui quiere {RUB. {LAT. De eode<m>.}} [%2]
 que alguno maillare
 enla presentia dela yfanço<n>a
 en quoal se quiere guisa; de-

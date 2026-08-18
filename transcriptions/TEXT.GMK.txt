@@ -291,7 +291,7 @@ para andar esta jornada
 sin errar.}
 {CB2.
 [¶] Muy bien entiende el Christia-no
-el fin d<e> aquesta jornada, ¶2
+el fin d<e> aquesta jornada, %2
 pero no se le da nada,
 como si fuesse en su mano
 no ser tan presto acabada.
@@ -339,7 +339,7 @@ en este siglo, y en el
 lo creemos,
 {RUB. a} Este mundo bueno fue
 si bien vsassemos del
-como deuemos. ¶3
+como deuemos. %3
 ¶ Que en el mundo a do viui-mos
 Dios su ley nos quiso dar:
 y para poder gozar,
@@ -523,7 +523,7 @@ en la tierra que pisamos
 nos boluemos,
 {RUB. a} Ued de quan poco valor
 son las cosas tras que anda-mos,
-y corremos. ¶2
+y corremos. %2
 ¶ Pues las riquezas, y bienes
 hombre, porq<ue> curas dellos,
 que esta<n>do viuo, y entre ellos
@@ -900,7 +900,7 @@ en nosotros hallaremos
 lo que en los otros buscamos
 Sigamos a los Christianos
 los que en nuestro Dios pusi-mos
-las memorias: ¶2
+las memorias: %2
 {RUB. b} Dexemos a los Romanos,
 avn que oymos y leymos
 sus historias.}

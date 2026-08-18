@@ -22,11 +22,11 @@ fle. El qui nasçiere en el sera amador de solaz
 cen a alegria.
 {IN1.} En el tercero grado sube una donzella desnu-
 ya. El qui nasciere en el sera pobre & lazrado &
-{IN1.} Enel quarto grado sube una mu-gier ¶2 desnuyo.
+{IN1.} Enel quarto grado sube una mu-gier %2 desnuyo.
 que tiene en la mano un estrument quel
 dizen queber. El qui nasciere en el sera assaca-
 dor de nueuas & de muchas palabras & grand
-{IN1.} Enel quinto grado sube un ¶2 mintiroso
+{IN1.} Enel quinto grado sube un %2 mintiroso
 toro roxo. El qui nasciere en el sera mucho a-
 bondado de todo bien & engennoso.
 {IN1.} Enel .vi<<o>>. grado sube un omne con tres uacas
@@ -47,7 +47,7 @@ mucho artero.
 {IN1.} Enel .xi<<o>>. grado sube un cueruo negro q<ue> (^??) [^tiene]
 [^la cabeça alçad<<a>>.] El qui naciere en el sera cauall-
 ero. muy lazrado & non quedara en ningun
-{IN1.} Enel .xij<<o>>. grado sube un omne que ¶2 logar.
+{IN1.} Enel .xij<<o>>. grado sube un omne que %2 logar.
 deguella a otro omne. El qui nasciere enel
 sera engannador & mui falsso. & desuergonça-
 do.}
@@ -269,7 +269,7 @@ El qui nasciere en el sera ladron. & baraiador
 & mucho ardido.
 {IN1.} Enel .xxiiij. grado sube un omne partido
 El qui nasciere en el sera enamorado & grand
-{IN1.} Enel .xxv. grado sube una mu-gier ¶2 amador.
+{IN1.} Enel .xxv. grado sube una mu-gier %2 amador.
 suzia. El qui nasciere enel sera fuerte
 & atreuudo & de buena complexon.
 {IN1.} Enel .xxvi. grado sube un can ladrant.
@@ -384,7 +384,7 @@ de bestias. El qui nasciere en el sera enge<n>no-
 so. & mucho mintroso & falsso.
 {IN1.} Enel .vij. grado sube un omne con un sier-
 uo. El qui nasciere en el sera abondado en su
-{IN1.} Enel .viij. grado sube una mugi-er ¶2 uida.
+{IN1.} Enel .viij. grado sube una mugi-er %2 uida.
 que rie. El qui nasciere en el sera de much-
 as perdidas en su auer & de muchas occasio<n>es
 {IN1.} Enel .ix. grado sube un omne tuerto que ti-
@@ -420,7 +420,7 @@ su fazienda.
 {IN1.} Enel .xvij. grado sube una mugier que i[*u]-
 ega alos dados. El qui nasciere en el sera taf-
 ur & escarnidor. & furtador delas fuessas de no-che.
-{IN1.} Enel .xviij. grado sube una donzel-la ¶2
+{IN1.} Enel .xviij. grado sube una donzel-la %2
 que iuega con un dinero de plata. El qui
 nasciere enel sera mui rico & abondado. & aura
 mucho auer.
@@ -438,7 +438,7 @@ yra de una tierra en otra.
 palabra.
 {IN1.} Enel .xxiij. grado sube figura de agua de car-
 ne. El qui nasciere en el sera suzio & nescio & tor-pe.
-{IN1.} Enel .xxiiij. grado sube agua uertida ¶2
+{IN1.} Enel .xxiiij. grado sube agua uertida %2
 El qui nasciere enel sera aprouechoso & [*a]bonda-
 do de mucho bien.
 {IN1.} Enel .xxv. grado sube un cauall[*o] cauallero
@@ -570,7 +570,7 @@ chada. El qui nasciere enel sera rico abondado
 & folgado.
 {IN1.} Enel .xiij. grado sube figura de lecho doro.
 El qui nasciere en el sera ioglar & grand ioga-dor.
-{IN1.} Enel .xiiij. grado sube una mano ¶2
+{IN1.} Enel .xiiij. grado sube una mano %2
 taiada. El qui nasciere enel sera de poco conse-io}
 {CB2.
 & dubdoso en sus fechos.
@@ -727,13 +727,13 @@ El q<u><<i>> nasciere en el sera t<r><<i>>ste & llorara mucho.
 el sera de poco seso & de flaco conseio.
 {IN1.} Enel .xij. g<r><<a>>do sube un neg<r><<o>> rie<n>do. & tiene co<n>sigo .i<<a>>.
 maçana. El q<u><<i>> nasciere enel sera abo<n>dado & ense<n>-nado
-{IN1.} Enel .xiij. g<r><<a>>do sube un arbol ¶2 & li<m>pio.
+{IN1.} Enel .xiij. g<r><<a>>do sube un arbol %2 & li<m>pio.
 de yzimin. El qui nasciere en el sera alegre
 gozoso & amara affeytamiento.
 {IN1.} Enel .xiiij. g<r><<a>>do sube un o<mn>e co<n> las rodiellas fin-cadas.}
 {CB2.
 El q<u><<i>> nasciere enel s<er>a ladro<n> falso descreydo. &
-{IN1.} Enel .xv. g<r><<a>>do sube un toro g<r><<a>>nd. El q<u><<i>> ¶2 m<<a>>ldich<o>
+{IN1.} Enel .xv. g<r><<a>>do sube un toro g<r><<a>>nd. El q<u><<i>> %2 m<<a>>ldich<o>
 nasciere enel sera bannador & aura mucho bie<n>.
 {IN1.} Enel .xvi. grado suben dos cuerpos diu<er>sos. El
 qui nasciere enel sera de poco seso & de poco conse-
@@ -1011,7 +1011,7 @@ nasciere enel sera manso & grand soffridor.
 {IN1.} Enel sesto g<r><<a>>(^??)[^do] (^???) [^sube un mulo co<n> siella. El
 q<u><<i>> nascier]
 en el sera caminero que non quedara en ningun
-{IN1.} En el septimo grado sube omne io-gando. [¶2] lugar.
+{IN1.} En el septimo grado sube omne io-gando. [%2] lugar.
 con culuebras. El qui nasciere enel uenzra
 sus enemigos siempre.
 {IN1.} (e)Enel .viij. grado sube una gallina negra. El
@@ -1020,7 +1020,7 @@ qui nasciere enel sera loco. & de duro entendimie<n>to
 ere enel sera soberuioso & de gruesso entendimie<n>to
 {IN1.} Enel .x. grado sube una cabeça. El qui nasciere en
 el sera sin recabdo en su conseio & de muchas pala-bras.
-{IN1.} Enel .xi. grado sube omne con escorpion [¶2]
+{IN1.} Enel .xi. grado sube omne con escorpion [%2]
 El qui nasciere en el sera atreuudo & mucho ardido.
 {IN1.} Enel .xij. grado sube una mugier tendida. El q<u><<i>>
 nasciere enel {BLNK.}
@@ -1053,7 +1053,7 @@ nasciere enel sera pastor lazrado.
 nasciere enel aura mucho bien & grand auer.
 {IN1.} Enel .xxiiij. grado sube muger con uerga doro
 el qui nasciere enel sera abondado & amador de to-do
-{IN1.} Enel .xxv. grado sube un adib. El ¶2 bien.
+{IN1.} Enel .xxv. grado sube un adib. El %2 bien.
 qui nasciere en el sera omne que se pagara mu-
 cho de su conseio & nonlo querra recebir de otro
 {IN1.} Enel .xxvi. grado sube omne robado. El qui na-
@@ -1146,7 +1146,7 @@ muchos mouimientos de un lugar en otro.
 el qui nasciere en el sera disputador.
 {IN1.} Enel .vij. grado sube fecho dubdoso. El qui na-
 ciere en el sera disputador en su ley & mucho esf-orçado.
-{IN1.} Enel .viij. grado sube omne arrema-ngado [¶2]
+{IN1.} Enel .viij. grado sube omne arrema-ngado [%2]
 pora lidiar. El qui nasciere enel sera bo-
 zero & grand contendedor.
 {IN1.} Enel .ix. grado sube fuego ardient. El qui na-
@@ -1155,7 +1155,7 @@ sciere en el sera Rey de grand caualleria.
 ciere en el sera enoioso.
 {IN1.} Enel .xi. grado sube ximio. & can & osso. El qui
 nasciere enel sera de poca fe & de poco ensennami-ento.
-{IN1.} Enel .xij. grado sube omne assentado ¶2
+{IN1.} Enel .xij. grado sube omne assentado %2
 en una siella. El qui nasciere en el sera rico & de
 grand folgamiento.
 {IN1.} Enel .xiij. grado sube omne auenedizo. El q<u><<i>>
@@ -1169,7 +1169,7 @@ mucho atreuudo & mucho enderençado
 {IN1.} Enel .xvi. grado sube luengo camino. El qui}
 {CB2.
 nasciere en el sera mintroso triste & de mucho cue-dado.
-{IN1.} En el .xvij. grado suben buenas nue-uas ¶2
+{IN1.} En el .xvij. grado suben buenas nue-uas %2
 medianas. El qui nasciere enel sera ayu-
 dado & de buena fe. & de buena uoluntat.
 {IN1.} Enel .xviij. grado sube omne que trahe golon-
@@ -1497,7 +1497,7 @@ en logar que passen por ella.
 {=DIAG.}}
 {CB2.
 {RUB. Otra ymagen dela luna segund el dicho +}
-{IN2.} La ymagen dela luna se deue ¶2 {RUB. de tycana.}
+{IN2.} La ymagen dela luna se deue %2 {RUB. de tycana.}
 fazer en[ ]dia lunes seyendo la luna enel
 comienço de cançer & es buena pora muchas
 cosas que diremos adelantre. Et si non se aca-
@@ -2055,7 +2055,7 @@ sieruos & tus sieruas. & seran guardados de to-do}
 {CB2.
 mal. Et el nombre del sennor dela prime-
 ra mansion es roya. El sahumerio es lauda-mo
-{IN2.} La segunda mansion es dicha al-butaym ¶2
+{IN2.} La segunda mansion es dicha al-butaym %2
 & es calient & humida & fortu-
 na. & uiene della a este mundo espirito de hu-
 midad & de atempramiento que endreça el da<n>-
@@ -2681,7 +2681,7 @@ se deue obrar por ellas segund la opi<ni>on. de ot<r><<o>>
 sabio que dizen p(^y)[^li]nio. {RUB. Estas son las ymag-
 enes delas veynt & ocho mansiones dela lun-
 a segund plinio. La primera es pora destru-ir +}
-{IN3.} La primera mansion ¶2 {RUB. hermar.}
+{IN3.} La primera mansion %2 {RUB. hermar.}
 es aluath. Quando la luna fuere en
 ella faz figura de omne negro embu-
 elto en un ciliçio de cabellos. & el çinto leua<n>tado}
@@ -2696,7 +2696,7 @@ io de fulana .N<ombre>. & destruyel & sera loque quieres.
 Et sepas que geriç es el nombre [^2#del sen<n>or] desta mansion.
 Et esta figura esta sennalada enla rueda que fa-
 llaras adelante. {RUB. La segunda es pora toller sa<n>-na +}
-{IN2.} La segunda mansion es albotayn. & ¶2 {RUB.}
+{IN2.} La segunda mansion es albotayn. & %2 {RUB.}
 quando la luna fuere en ella toma cera
 blanca & almastic. & buelue [^los] en uno sobrel fue-
 go. fata quese faga un cuerpo. & de pues toma
@@ -2723,7 +2723,7 @@ plir sea loque demandes. Et sepas que annun-
 cia es el nombre del sennor desta mansion. Et
 esta figura esta pintada enla rueda que falla-
 res adelante. {RUB. La quarta mansion es pora ene-miztad +}
-{IN2.} La quarta mansion es adebara<n> ¶2 {RUB.}
+{IN2.} La quarta mansion es adebara<n> %2 {RUB.}
 Quando la luna fuere en esta mansion
 toma cera bermeia & faz della figura de omne
 cauallero sobre cauallo teniendo una culuebra
@@ -2737,7 +2737,7 @@ querencias. & sera loque quieres. Et sepas que
 mansion. Et esta figura esta pintada enla ru-
 eda que fallaras adelante. {RUB. La quinta mansi-
 on es pora seer recebido delos reyes & delos alcal-des +}
-{IN2.} La quinta mansion es almiçen. Qua<n>-do ¶2 {RUB.}
+{IN2.} La quinta mansion es almiçen. Qua<n>-do %2 {RUB.}
 la luna fuere en ella faz en sieello de pl-
 ata figura de cabeça de omne sin cuerpo & escriue
 sobre la cabeça de nombre del sen<n>or desta mansi-
@@ -2858,7 +2858,7 @@ as que abdyçu es el nombre del sennor desta
 mansion. Et la figura esta pintada enla rue-
 da que fallaras adelante. {RUB. La .xiii<<a>>. mansion
 es por soluer el uaron ligado & por que ame +}
-{IN2.} La .xiij. mansion es ala ¶2 {RUB. ala mugier.}
+{IN2.} La .xiij. mansion es ala %2 {RUB. ala mugier.}
 hue. Quando la luna fuere en ella tom<<a>>
 cera bermeia & faz dela figura de omne arrech<<o>>
 en semeiante de donneador de mugier. & faz de
@@ -2876,7 +2876,7 @@ soluer sea & podra iazer con mugier. Et azerut
 es el nombre del sennor desta mansion. Et la
 figura esta pintada enla rueda que fallaras a-
 delante. {RUB. La .xiiii<<a>>. es por partir uaron de mu-gier. +}
-{IN2.} La .xiiii<<a>>. mansion es açimech. ¶2 {RUB.}
+{IN2.} La .xiiii<<a>>. mansion es açimech. %2 {RUB.}
 Quando la luna fuere en ella faz de ar-
 ambre bermeio figura de perro que traue con
 su boca desu cola. & sufuma la con cabellos de
@@ -2904,7 +2904,7 @@ deues saber que acalit es el nombre del sen-
 nor desta mansion. Et esta figura esta pint-
 ada enla rueda que fallaras adelante. {RUB. La (^di)
 xvi<<a>>. es pora merchandias & por comprar et +}
-{IN2.} La .xvi. mansion es az-obene. ¶2 {RUB. por uender.}
+{IN2.} La .xvi. mansion es az-obene. %2 {RUB. por uender.}
 Quando la luna fuere enella
 toma una tabla de plata & faz en<e>lla figura de
 omne assentado sobre siella teniendo ensu ma-
@@ -2920,7 +2920,7 @@ que auemos dicho. Et azeruch es el nombre
 del sennor desta mansion. Ela figura esta pin-
 tada enla rueda que fallaras adelante. {RUB. La .xvij.
 mansion es que non entre enla casa ladron +}
-{IN2.} La .xvij. mansion es a-liclil. ¶2 {RUB. por fazer mal.}
+{IN2.} La .xvij. mansion es a-liclil. %2 {RUB. por fazer mal.}
 Quando la luna fuere en esta ma<n>-
 sion faz un seello de fierro & faz enell figura de
 simio & con cabellos de mur que sea fembra. & em-
@@ -2933,7 +2933,7 @@ fazer mal. Et sepas que adrieb es nombre del
 sennor desta mansion. Ela figura esta pintada
 enla rueda que fallaras adelante. {RUB. La .xviij<<a>>.
 mansion es pora sanar la fiebre & el dolor del +}
-{IN2.} La .xviij<<a>>. mansion es alcab. Q<u><<a>>n-do ¶2 {RUB. uientre}
+{IN2.} La .xviij<<a>>. mansion es alcab. Q<u><<a>>n-do %2 {RUB. uientre}
 la luna fuere en ella faz figura de cul-
 uebra de arambre su cola puesta sobre su cabe-
 ça. & sahumala con cuerno de cieruo. & di assi.
@@ -2946,7 +2946,7 @@ el uientre sanara luego. Et sepas que egribel
 es el nombre desta mansion. Et esta figura e-
 sta pintada enla rueda que fallaras adelante.
 {RUB. La .xix. es pora fazer correr sangre delas na-rizes +}
-{IN2.} La .xix<<a>>. mansion es axaula. Q<u><<a>>-ndo ¶2 {RUB.}
+{IN2.} La .xix<<a>>. mansion es axaula. Q<u><<a>>-ndo %2 {RUB.}
 la luna [^fu<er>e en ela] toma delienc que es una
 manera de arambre. & faz dello seello & faz en
 ello figura de mugier sus manos puestas so-
@@ -3233,7 +3233,7 @@ omne que quisieres fazer mal. & por meter ua-
 raia & enemiztad entre los companneros. & po-
 ra defender se el omne de otro omne que al-
 gol demanda. {RUB. La. dezena mansion es alge-bha +}
-{IN2.} La dezena mansion es algebha ¶2 {RUB.}
+{IN2.} La dezena mansion es algebha %2 {RUB.}
 & es de .xxv. grados. & xlij. menudos. &
 l<<a>>i. segundo de cancer fata .viij. grados. & .xxx-
 iiij. menudos. & xviij. segundos de leon. En
@@ -3266,7 +3266,7 @@ quien quisieres & pora dannar las naues et
 pora meydrar los companneros & las maestrias
 (^& los maestrias) & los catiuos & los sieruos & que se-
 an estables & que ayan bien. {RUB. La .xiij<<a>>. mansio<n> +}
-{IN2.} La .xiij<<a>>. mansion es ala-hue. ¶2 {RUB. es alahue.}
+{IN2.} La .xiij<<a>>. mansion es ala-hue. %2 {RUB. es alahue.}
 & es de quatro grados. & .xvij. menu-
 dos. & .vj. segundos de uirgo. (^& .xvij.) fata .xvij.
 grados. & .viij. menudos. & .xxxvi. segundos del.
@@ -3373,7 +3373,7 @@ sion faras ymagenes por affirmar los edificios.
 & aueres quelos ayan firmes & que finque enel-
 los. & por saluar los que andan en carreras. & pora
 mugier quese parte desu marido. {RUB. La .xxij. ma<n>-sion +}
-{IN2.} La .xxij. mansion es çaad ¶2 {RUB. es çaad [aldeba].}
+{IN2.} La .xxij. mansion es çaad %2 {RUB. es çaad [aldeba].}
 aldeba & es del primero grado de capricor-
 nio fata .xij. grados & .Li. menudo. & .xxvi. segun-
 dos dell. En esta mansion faras ymagenes pora
@@ -3392,7 +3392,7 @@ as las ymagenes pora sanar las emferme-
 dades & por ayuntar los aueres & por partir ell
 omne desu mugier. & por escapar los presos & sal-
 lir dela preson. {RUB. La .xxiiij. mansion es çaad a-çohot +}
-{IN2.} La .xxiiij. mansion es çaad açohot ¶2 {RUB.}
+{IN2.} La .xxiiij. mansion es çaad açohot %2 {RUB.}
 & es de .xxv. grados & .xlij. menudos. & lij. se-
 gundos de capricornio fasta .vij. grados et .xxx.
 & quatro menudo[s]. & xxviij. segundos de aquario

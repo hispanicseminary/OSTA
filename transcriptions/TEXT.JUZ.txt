@@ -168,7 +168,7 @@ su mal.
 {IN1.} El .xxi. Capitulo fabla en saber
 alguna cosa si sera o no<n> sera.
 {IN1.} El .xxij. Capitulo fabla enla fiuza
-{IN1.} El .xxiij<<o>>. cap<itu>lo fabla ¶2 & enel temor.
+{IN1.} El .xxiij<<o>>. cap<itu>lo fabla %2 & enel temor.
 enel desfazimie<n>to delas cosas. Esto
 es del asce<n>dente. {RUB. Estos so<n> los cap<itu>los
 dela t<er>cera p<ar>te deste prim<er>o libro}}
@@ -220,13 +220,13 @@ delas plantas. & delas sem-
 brad<ur>as si seran buenas.
 {IN1.} El .xxxviij. Capitulo fabla en
 las aguas & enlas cequias por
-{IN1.} El xxxix. cap<itu>lo fabla enlos ¶2 regar.
+{IN1.} El xxxix. cap<itu>lo fabla enlos %2 regar.
 thesoros. & enlas cosas sot<er>radas
 {RUB. Estos son los Capitulos dela
 sexta parte deste primero libro}
 {IN1.} El .xl. Capitulo fabla enla casa
 qui<n>ta & enlas q<ue>stiones q<ue> so<n> en
-{IN1.} El .xli. Capitulo fabla ¶2 ella.
+{IN1.} El .xli. Capitulo fabla %2 ella.
 enla demanda porel fijo si au<er>a
 fijo onon.
 {IN1.} El .xlij. Capitulo fabla enla de-
@@ -7864,7 +7864,7 @@ o non.
 si escapara o no<n>. & q<ue> sera del.
 {IN1.} El .xi<<o>>. Capitulo fabla en saber al
 qui an fecho fechizos si sanara o
-{IN1.} El .xij<<o>>. Capitulo fabla en ¶2 non.
+{IN1.} El .xij<<o>>. Capitulo fabla en %2 non.
 saber el qui fizo los fechizos si es
 maslo o fembra. & en co<n>nocer lo.
 {RUB. Estos son los capitulos dela
@@ -30621,7 +30621,7 @@ sus capitulos.}
 {CB2.
 {RUB. Estos son los capitulos dela
 primera parte deste qui<n>to. lib-ro +}
-{IN2.} El capitulo prim<er>o fab-la ¶2 {RUB.}
+{IN2.} El capitulo prim<er>o fab-la %2 {RUB.}
 enla .vi<<a>>. casa & en sus sig-
 nificat<i>ones
 {IN1.} El segundo Capitulo fabla en-
@@ -30638,7 +30638,7 @@ segu<n>da p<ar>te deste qui<n>to libro.}
 .vij<<a>>. casa & en sus significat<i>ones
 {IN1.} El .vi<<o>>. Capitulo fabla enlos tie<m>-
 pos delos casamientos del naci-do
-{RUB. Estos son los capitulos +} ¶2
+{RUB. Estos son los capitulos +} %2
 {RUB. dela t<er>cera p<ar>te deste qui<n>to libro.}
 {IN1.} El .vij<<o>>. Capitulo fabla enla .viij<<a>>.
 casa & sus significationes.
@@ -31816,7 +31816,7 @@ enlos mie<m>bros que son de su pa-
 rticion del cuerpo daquel nacido.
 {RUB. Aqui conpieça la segu<n>da p<ar>te
 del qui<n>to libro & a en ella dos capi-t<u>los
-El qui<n>to cap<itu>lo fabla enla ¶2
+El qui<n>to cap<itu>lo fabla enla %2
 .vij<<a>>. casa & en s<us> significationes}
 {IN7.} Qvando fuere el
 se<n>nor dela tripli-
@@ -34655,7 +34655,7 @@ as en decretos. & en aiudar al dere-
 cho en pleytos de matrimonio. &
 de mug<ie>res {RUB. {IN1.} Aqui <con>pieça la .v<<a>>. p<ar>-
 te del qui<n>to libro. & a enella tres
-{IN1.} El .x<<o>>. cap<itu>lo fabla enla. ¶2 cap<itu>los
+{IN1.} El .x<<o>>. cap<itu>lo fabla enla. %2 cap<itu>los
 .x<<a>>. casa & en s<us> significationes}
 {IN6.} Qvando quisieres
 sab<er> las cosas que

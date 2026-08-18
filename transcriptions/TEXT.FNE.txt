@@ -282,7 +282,7 @@ tabla en estos .xl. dias o eill q<u><<i>>sie-(e)re.}
 {CB2.
 {RUB. Quoales cosas deue iurar el rey
 alos de nauarra. ante que los nauar-ros +}
-{IN2.} Estas son las iuras ¶2 {RUB. iuren al rey.}
+{IN2.} Estas son las iuras %2 {RUB. iuren al rey.}
 que el rey de nauarra deue iurar
 el dia que lo leuanta<n> por Rey atodo el
 pueblo de nauarra. ¶ Primerament
@@ -421,7 +421,7 @@ dicho que li fue.}
 {CB2.
 {RUB. ¶ Q<ue> cosas son tenidos los nauar-
 ros de fazer por su rey. & eill q<ue> lis deue +}
-{IN2.} Dizir uos hemos la memo-ria ¶2 {RUB. dar.}
+{IN2.} Dizir uos hemos la memo-ria %2 {RUB. dar.}
 delos fueros que ha el rey de
 nauarra co<n> los nauarros. & los na-
 uarros co<n> su rey. ¶ Es a[ ]ssaber que
@@ -659,7 +659,7 @@ hom<n>e aqui estos embargos sobre-
 sc<r><<i>>ptos auenga/ a[ ]franco/ o a[ ]uilla<n>o
 realenco/ o de orde<n> no ha calonia.
 {RUB. De no<n> peynndrar mie<n>tre q<ue> el rey es +}
-{IN2.} Mientre q<ue> el rey es ¶2 {RUB. en huest.}
+{IN2.} Mientre q<ue> el rey es %2 {RUB. en huest.}
 en huest/ nuyll bayle del rey
 ni otro/ no<n> deue peynndrar a[ ]ni<n>gu<n>
 hom<n>e q<ue> sea en la huest. por deuda
@@ -668,7 +668,7 @@ su casa; & q<ue> .x. dias passen. & si peyn-
 drare ha .lx. sueldos de calonia.
 {RUB. Por quoal razo<n> deue fidalgo sayllir
 en apeyllido co<n> cauayllo & armas +}
-{IN2.} Si cauero. o ¶2 {RUB. con sus uezinos.}
+{IN2.} Si cauero. o %2 {RUB. con sus uezinos.}
 escudero q<ue> tiene [^2#cauaillo &] armas deue
 sayllir en apeyllido co<n> cauayllo &
 armas/ quoa<n>do los uezinos sayll-
@@ -766,7 +766,7 @@ q<ue>rran/ de algu<n>o delos uillanos de
 la uilla. {RUB. El om<n>e q<ue> empriesta algo
 pora miesses. & el richom<n>e & el mesn<<a>>-
 dero en q<ue> tie<m>po co<m>pieça espleytar la +}
-{IN2.} Cosa costumbrada & por ¶2 {RUB. honor.}
+{IN2.} Cosa costumbrada & por %2 {RUB. honor.}
 fuero establida. ¶ Qve todo
 om<n>e qui empriesta su auer pora
 mieses. depues q<ue> passa la fiesta de
@@ -795,7 +795,7 @@ passe la fiesta de <santa> maria de agos-
 to/ si no es co<n> uolu<n>tat de su seyn-
 nor/ no aya plazo de su peyta. {RUB. Por
 q<u><<o>>ales cosas deue s<er> suelta honor a[ ]ric-om<n>e. +}
-{IN2.} El rey pare mie<n>tes a[ ]q<u><<o>>al ¶2 {RUB.}
+{IN2.} El rey pare mie<n>tes a[ ]q<u><<o>>al %2 {RUB.}
 ricom<n>e dara honor. & el ric-
 hom<n>e [^2#depues q<ue> tomare la honor] deue parar mie<n>tes los drey-
 tos del rey. ¶ Emp<er>o el richom<n>e si
@@ -812,7 +812,7 @@ la honor/ no es tenjdo de dar emjenda
 a[ ]nj<n>gun q<ue>reillant.]
 {RUB. Como el rey no<n> deue toyller honor
 a richom<n>e. & sil tueylle como sel +}
-{IN2.} Establimos enca-ra ¶2 {RUB. deue re<n>curar.}
+{IN2.} Establimos enca-ra %2 {RUB. deue re<n>curar.}
 por fuero/ q<ue> ningu<n> rey des-
 paynna no aya poder de retener ho-
 nor de richom<n>e por regateria nin-
@@ -908,7 +908,7 @@ mo dicho es de suso. & si con ma<n>-
 damie<n>to del rey [^2#el seynor dela villa] fiziere./ faga quo-
 anto meior pueda/ & mas fuert.
 {RUB. Como deue ser fecho palo<m>bar de nue-uo. +}
-{IN2.} Ningu<n> hom<n>e [^2#si] faz palom-bar ¶2 {RUB.}
+{IN2.} Ningu<n> hom<n>e [^2#si] faz palom-bar %2 {RUB.}
 de nueuo/ no<n> faga las
 paredes quoales eyll q<ue>rra [^2#mas] ata an
 .v<<o>>. cobdos sobre tierra puede fazer
@@ -919,7 +919,7 @@ queras [^de] piedra ni muros de suso/
 et sea en alto ata .xxx. cobdos.
 {RUB. {IN1.} Titulo .iij<<o>>. de castieyllos aqui de-
 uen come<n>dar el richom<n>e el castieil-lo +}
-{IN2.} Si el rey ¶2 {RUB. que tiene del rey.}
+{IN2.} Si el rey %2 {RUB. que tiene del rey.}
 diere castieyllo ha ricom<n>e. &
 el ricom<n>e nol da a[ ]fidalgo natural
 de nauarra. & si el castieyllo p<er>diere}
@@ -942,7 +942,7 @@ touiere el castieyllo deuelo render
 al rey. & el rey deue ser pagado de
 su seynnor. {RUB. Que deue fazer el al-
 cayt quoa<n>do el seynnor no<n> le q<u><<i>>ere +}
-{IN2.} Si el fidal-go ¶2 {RUB. tomar el castieillo.}
+{IN2.} Si el fidal-go %2 {RUB. tomar el castieillo.}
 touiere castieyllo de rey
 o de richom<n>e. & ouiere co<m>plido el
 aynno d<e>l quoal el co<n>duyto auia
@@ -957,7 +957,7 @@ sado el castieyllo/ & no<n> li puede<n> di-
 zir mal. {RUB. En q<ue> manera el fidalgo
 q<ue> tiene castieyllo deue render. si el
 seynnor gelo ma<n>da & q<ue> deue recebir +}
-{IN2.} Si el rey ¶2 {RUB. en defenssion de si.}
+{IN2.} Si el rey %2 {RUB. en defenssion de si.}
 o ricom<n>e diere castieyllo ad
 algun fidalgo; quoa<n>do quiere q<ue>l}
 [fol. 8v]
@@ -1089,7 +1089,7 @@ ro/ si por cosime<n>t no<n> li quiere ren-
 der. {RUB. Q<u>e es de fer uassayllo q<ue> pre<n>de
 soldada de rey o de richom<n>e si en-
 fermare. aq<ue> son tenidos los seyno-res +}
-{IN2.} Nuill fidalgo q<ue> p<r><<i>>siere ¶2 {RUB.}
+{IN2.} Nuill fidalgo q<ue> p<r><<i>>siere %2 {RUB.}
 soldada de rey/ o de otro seyn-
 nor/. & no<n> li sierue. (^q<ue>l) torne la sol-
 dada al rey./ o al otro seynnor. ¶
@@ -1124,7 +1124,7 @@ quoa<n>to ganare el uassayllo/ el se-
 ynnor. & no[ ]a torna co<n> su sei<n>nor
 entroa .x. dias sean passados/ que
 sea p<ar>tido desu seynnor. {RUB. De uas-sayllo +}
-{IN2.} Uassaillo ¶2 {RUB. soldadado.}
+{IN2.} Uassaillo %2 {RUB. soldadado.}
 qui esta con seynnor a sol-
 dada; quoa<n>to co<n> el seynnor ga-
 nare todo deue ser del seynnor.
@@ -1132,7 +1132,7 @@ esso mismo no ha torna el vno
 al otro. ata( )q<ue> sean passados .x.
 dias/ q<ue> sean partidos luno del ot<r><<o>>.
 {RUB. En como deue<n> dar a[ ]comer a[ ]ma<n>-cebo +}
-{IN2.} Si algu<n> seyn-nor ¶2 {RUB. soldadado.}
+{IN2.} Si algu<n> seyn-nor %2 {RUB. soldadado.}
 se auiene co<n> ma<n>cebo sol-
 dadado. el seynnor no es tenido
 de dar carne. sacando .iij. dias
@@ -1218,7 +1218,7 @@ en q<ue> tracta. ¶ De iuyzios.
 ¶ De tenie<n>ças ¶ De testigos ¶ De car-
 tas. ¶ De iuras. ¶ De alças. ¶ Q<u><<o>>a-
 les p<er>sonas deue<n> ser en todos iuyzi-os +}
-{IN6.} Es fuero de i<n>fa<n>-çones ¶2 {RUB. de rey.}
+{IN6.} Es fuero de i<n>fa<n>-çones %2 {RUB. de rey.}
 fillos dalgo; que
 ningu<n> rey de espaynn<<a>>
 no<n> deue dar iuyzio fu-
@@ -1236,7 +1236,7 @@ regnos. & su alcalde deue auer/ por-
 tero/ & mayordomo dela tierra o
 fuere. & assi deue ordenar s<us> tier-
 ras./ & sus pleytos. {RUB. De iuyzios de rey +}
-{IN2.} Un hom<n>e ¶2 {RUB. sobre auenienças.}
+{IN2.} Un hom<n>e %2 {RUB. sobre auenienças.}
 q<ue> auia ui<n>nas. se aueno con
 vn otro q<ue> auia oueias. q<ue>l diesse
 tanta lech. por tanto de mosto pu-
@@ -1259,7 +1259,7 @@ et fezo el q<ue>so. & q<ue>l pagasse delas pre-
 miduras; assi como eyll fizo pa-
 ga del siero/ & fuesse por pagado.
 {RUB. De no<n> fazer iusticia sin ma<n>damie<n>-to +}
-{IN2.} Todo infanço<n>. o otro ¶2 {RUB. de rey.}
+{IN2.} Todo infanço<n>. o otro %2 {RUB. de rey.}
 om<n>e q<ue> no<n> tienga honor o
 baylia por el rey; & faze iusticia/ o
 estem<<a>> dalgu<n> om<n>e del rey; porq<ue> fizo
@@ -1301,7 +1301,7 @@ fuere dado que iure/ o q<ue> lieue fi-
 erro calie<n>t./ o q<ue> faga bataylla; a-
 ta q<ue> de fiador de drecho. {RUB. De iuyzio
 de alcalde sobre paramie<n>tos & co<n>ui-nie<n>ças. +}
-{IN2.} Un hom<n>e bono auia ¶2 {RUB.}
+{IN2.} Un hom<n>e bono auia %2 {RUB.}
 vn palombar q<ue> se tenia ala
 casa de vn su uezino./ & este palo<m>-
 bar yua a[ ]cayer. & disso el seynnor
@@ -1367,7 +1367,7 @@ quoa<n>do eyllos q<ue>rran. {RUB. Como nin-guno +}}
 {CB2.
 {RUB. no<n> deue responder al sei<n>nor.
 et eyll como deue iudgar alos re<n>cu-ra<n>tes. +}
-{IN2.} Si el sei<n>nor dela uilla dis-siere ¶2 {RUB.}
+{IN2.} Si el sei<n>nor dela uilla dis-siere %2 {RUB.}
 ad alguno. tu fizist aq<ue>-
 yll mal; no<n> li deue responder. quar
 sei<n>nor es./ & dizir puede lo q<ue> querra.
@@ -1379,7 +1379,7 @@ por (^mano de) si mesmo se deue cla-
 mar. & el seynnor deue los iudg<<a>>r
 por lur fuero. {RUB. Como deue ser da-
 da sentencia alas razones delas p<ar>-tidas. +}
-{IN2.} De dos om<ne>s q<ue> uienen a ¶2 {RUB.}
+{IN2.} De dos om<ne>s q<ue> uienen a %2 {RUB.}
 iuyzio/ diga<n> se quoales ra-
 zones quisieren el vno al otro an<te>
 el alcalde./ o en cort. mas de q<ue> fue-
@@ -1425,7 +1425,7 @@ len lis el ferme los uezinos dela
 otra uilla/ q<ue> assi es el fuero. {RUB. Q<u><<o>>-
 ando co<n>tienda ay entre dos uillas
 q<u><<o>>ales se deue<n> saluar. & como deue<n> +}
-{IN2.} Si co<n>tienda ¶2 {RUB. ser iurgados.}
+{IN2.} Si co<n>tienda %2 {RUB. ser iurgados.}
 ouiere entre dos uillas sobr<e>
 algunas co<n>uenie<n>ças/ de agoa/ o de
 yerbas/ o de otras cosas. de q<ue> no<n> co<n>-
@@ -1439,7 +1439,7 @@ si/ quoales deillos iurara<n>/ por si &
 por sus uezinos./ & assi finq<ue> el ple-
 yto. {RUB. Sobre pleyto de nauarro et
 fra<n>co q<u><<o>>ales alcaldes deue<n> dar iuy-zio. +}
-{IN2.} Con todo fra<n>co/ auemos ¶2 {RUB.}
+{IN2.} Con todo fra<n>co/ auemos %2 {RUB.}
 nos por fuero./ por h<er>edamie<n>-to.}
 {CB2.
 o por mueble/ q<ue> se costreynnga
@@ -1521,7 +1521,7 @@ nol faga p<er>der los peynnos.
 q<ue> tie<m>po deue uenir el fidalgo q<uoa>n<d>o +}}
 {CB2.
 {RUB. el rey imbia por eyll. & si no<n> uiene q<ue> +}
-{IN3.} Si el rey enuia-re ¶2 {RUB. pena ha.}
+{IN3.} Si el rey enuia-re %2 {RUB. pena ha.}
 por algu<n> fidalgo q<ue> aya
 q<ue>reylla deyll. & no<n> uiene
 (ne)/ estando en la tierra entroa .x.
@@ -1536,7 +1536,7 @@ tal razon./ o tal defensio<n>/ a[ ]conosci-
 ença dela cort por q<ue> no<n> pudo ue<n>ir;
 sea como sobresc<r><<i>>pto es de suso
 {RUB. Qve pierde q<u><<i>> faillece los martes +}
-{IN2.} Si ningu<n>o ¶2 {RUB. et que por falta.}
+{IN2.} Si ningu<n>o %2 {RUB. et que por falta.}
 fayllece .iij. martes; peynos
 en corral deue leuar el pleyto/ si ay
 fiador quoa<n>to ma<n>de el alcalde. & si
@@ -1641,7 +1641,7 @@ hereda./ assi ma<n>damos por fuero.
 nar a vna creatura mas q<ue> aotra. et
 quoal es auolorio. & como de q<ue> en-
 çerran en vno el desti<n> el vno no<n> pu[e]-de +}
-{IN2.} Mandamos por fu<er>o ¶2 {RUB. desfer.}
+{IN2.} Mandamos por fu<er>o %2 {RUB. desfer.}
 que todo ricom<n>e. o cauaill<er>o.
 o infanço<n>. & toda dueynna de lina-
 ge o infançona. si ouiere creaturas
@@ -1706,7 +1706,7 @@ el padre lo hereda. esto es delos
 de gana<n>cia. que otra guisa es d<e>lo<<s>>
 de pareylla. {RUB. Como de creatura no<n>
 deue tornar al padre. mas al mas +}
-{IN2.} Si ningu<n> hom<n>e o ni<n>-guna ¶2 {RUB. p<ro>sma<n>o.}
+{IN2.} Si ningu<n> hom<n>e o ni<n>-guna %2 {RUB. p<ro>sma<n>o.}
 muyller han creat<u><<r>>as
 et las creaturas ouiere<n> heredades}
 [fol. 13v]
@@ -1730,7 +1730,7 @@ muger bie<n> li puede uedar q<ue>
 no<n> de./ delo deylla por fuero.
 {RUB. Como deue heredar creatura de
 infanço<n> q<ue> no<n> la ouo a[ ]fu<er>o de tier-ra. +}
-{IN2.} Todo fidalgo que faz ¶2 {RUB.}
+{IN2.} Todo fidalgo que faz %2 {RUB.}
 creatura de infançona. si
 no<n> la ouiere a fuero de tierra. &
 si muere el padre o la madre
@@ -1805,7 +1805,7 @@ de enseynnar li razo<n>; de li su part
 entegrame<n>t. {RUB. Como deue<n> p<ar>tir her-
 manos. sobrinos. & p<r><<i>>mos. empues
 la muert delos padres. & q<u><<o>>al deue h<er>e-[d]ar. +}
-{IN2.} Marido & mull<e>r i<n>fa<n>cone[^2#s] casa-dos ¶2 {RUB.}
+{IN2.} Marido & mull<e>r i<n>fa<n>cone[^2#s] casa-dos %2 {RUB.}
 en( )semble. si fiziere<n> crea-
 turas dobladas./ fillos o fillas; bi-
 uiendo eillos/. si moriere alguna
@@ -1902,7 +1902,7 @@ part del muerto. {RUB. Qvoa<n>do herm<<a>>-
 nos parte<n> de dos en dos & muere +}}
 {CB2.
 {RUB. alguno. quoal deue au<er> la p<ar>t daq<ue>ill +}
-{IN2.} Si herma<n>dat de fidalgo ¶2 {RUB. muerto.}
+{IN2.} Si herma<n>dat de fidalgo %2 {RUB. muerto.}
 parte<n> las h<er>edades. de dos en
 dos. o de tres en tres o mas. de que
 las h<er>edades sean partidas & fir-
@@ -1998,7 +1998,7 @@ ca iamas. ¶ Et si carta faze<n>/ de
 tanto uale mas. {RUB. Ata quoal grado
 puede dema<n>dar heredat por pare<n>-
 tesco. & quoales deue<n> ser el ferme +}
-{IN2.} Es a[ ]ssaber ¶2 {RUB. et los testigos.}
+{IN2.} Es a[ ]ssaber %2 {RUB. et los testigos.}
 que ningu<n>o por razo<n> de pa-
 rentesco no<n> puede dema<n>dar h<er>e-
 damie<n>to ningu<n>o si no<n> de auuelo
@@ -2032,7 +2032,7 @@ uiene<n> por natura. {RUB. El seynnor so-
 larigo. & la seynnal como deue<n>
 p<ar>tir los coyllaços. & la herma<n>dat
 si an coyllaços encara como los p<ar>-ten. +}
-{IN2.} La seynnal et el sei<n>nor so-larigo ¶2 {RUB.}
+{IN2.} La seynnal et el sei<n>nor so-larigo %2 {RUB.}
 an palauras en( )sem-
 ble. assi diziendo el seynnor so-
 larigo. muerto es el uillano so-
@@ -2078,7 +2078,7 @@ et delos cuerpos delos uillanos/
 q<ue> no<n> dema<n>den iamas por peticio<n>.
 {RUB. Qvoa<n>do los uillanos parte<n> de dos
 en dos/ cuya deue s<er> la p<ar>t d<e>l muer-to. +}
-{IN2.} Si uillanos parte<n> como ¶2 {RUB.}
+{IN2.} Si uillanos parte<n> como %2 {RUB.}
 dito es de suso & muere al-
 guno dela herma<n>dat/ aq<ue>ill o [a]q<ue>il-
 los q<ue> p<r><<i>>siero<n> part co<n> el muerto. de-
@@ -2114,7 +2114,7 @@ mas si no<n> quiere<n>. {RUB. Las creaturas de
 los uillanos morie<n>do padre o m<<a>>dre
 puede<n> toyller p<ar>t al biuo. & co<n> quien
 et como deue<n> ser criados si no<n> so<n> de +}
-{IN2.} Marido et muyller uil-lanos ¶2 {RUB. hedat.}
+{IN2.} Marido et muyller uil-lanos %2 {RUB. hedat.}
 casados en( )semble oui-
 endo creaturas si muere luno deil-
 los. las creaturas puede<n> toyll<er> p<ar>t
@@ -2163,7 +2163,7 @@ las heredades del muerto deue<n> tor-
 nar assu natura. {RUB. Como uillanos
 casados ouie<n>do fijos de gana<n>cia. et
 uno muere. & el otro p<ar>ta<n> co<n> eillos. & +}
-{IN2.} Si por ¶2 {RUB. los de pareylla como.}
+{IN2.} Si por %2 {RUB. los de pareylla como.}
 auentura uillano o uillana}
 [fol. 16v]
 {HD1. T<itul><<o>> .iiij<<o>>. De tenie<n>ças de h<er>edades.}
@@ -2203,7 +2203,7 @@ dema<n>dar las prim<er>as creaturas
 part/ en las h<er>edades dela segu<n>da
 muyller/ por co<n>quista. {RUB. {IN1.} Titulo
 [^.iiij<<o>>.] de tenie<n>ças de h<er>edades de .xl. ai<n>nos +}
-{IN2.} Todo om<n>e ¶2 {RUB. sen mala uoz.}
+{IN2.} Todo om<n>e %2 {RUB. sen mala uoz.}
 q<ue> tiene .xl. aynnos heredat}
 {CB2.
 sen mala uoz. & el dema<n>dador en-
@@ -2352,7 +2352,7 @@ guno. {RUB. En q<ue> man<er>a et quoales de-
 ue<n> fazer pesquisa sobre tenie<n>ça
 quoa<n>do dos dize<n> q<ue> son en tenien-
 ça duna h<er>edat. & q<ue> deue fazer el alcal-de. +}
-{IN2.} Si pleyto de h<er>edat se le-ua<n>tare. ¶2 {RUB.}
+{IN2.} Si pleyto de h<er>edat se le-ua<n>tare. %2 {RUB.}
 & dize cadauno de
 los que han pleyto q<ue> es tenedor
 dela heredat sobre q<ue> es el pleyto.
@@ -2387,7 +2387,7 @@ q<u><<i>> faillare<n> por tenedor dela here-
 dat. {RUB. En q<u><<o>>al man<er>a deue ser fecho
 el apeamie<n>to sobre pleyto de here-
 dat. o de casas quoal es iudgado +}
-{IN2.} Si algu<n>o dema<n>-da ¶2 {RUB. por l[ ]alcalde.}
+{IN2.} Si algu<n>o dema<n>-da %2 {RUB. por l[ ]alcalde.}
 casas o otras heredades
 si fuere iudgado q<ue> li apee lo que
 dema<n>da/ por fuero deue apear p<r><<i>>-
@@ -2607,7 +2607,7 @@ et el amirat/ q<ue> uezino es. & casa te-
 nie<n>t aynno et dia. {RUB. Dont deue<n>
 ser los testigos entre fra<n>co et na-
 uarro. & quoal fra<n>co es pora testi-mo<n>ia. +}
-{IN2.} En todo pleyto q<ue> sea ¶2 {RUB.}
+{IN2.} En todo pleyto q<ue> sea %2 {RUB.}
 en pomplona. de franco et
 de nauarro/ deue ser el testimo<n>io
 de entra<m>bas las p<ar>tidas dela postre-
@@ -2628,7 +2628,7 @@ zino es. & casa tenie<n>t ai<n>no et dia.}
 {CB2.
 {RUB. Qve deue fazer el testimo<n>io. & q<u><<o>>a<n>to
 deue ser rico. & como se deue saluar +}
-{IN2.} Si alguno fa-ze ¶2 {RUB. si no<n> se acuerda.}
+{IN2.} Si alguno fa-ze %2 {RUB. si no<n> se acuerda.}
 testimo<n>io aotro. & el otro
 otorga. no<n> li puede fayllecer. m<<a>>s
 si el otro oyere et ueyere lo q<ue> eill
@@ -2645,7 +2645,7 @@ dat. & de muebles. & de ganados bi-
 uos/ quoa<n>to es aq<ue>illo/ de q<ue> aq<ue>illos so<n>
 testigos. {RUB. Dela<n>t quie<n> deue<n> ser rece-
 bidos los testigos. & q<ue> pena ha la p<ar>t +}
-{IN2.} Si algu<n>o faze de-manda ¶2 {RUB. que se esco<n>de.}
+{IN2.} Si algu<n>o faze de-manda %2 {RUB. que se esco<n>de.}
 de heredat o de mue-
 ble. o de co<n>uenie<n>ças. o de otras co-
 sas/ es iudgado q<ue> prueue con bonos
@@ -2658,7 +2658,7 @@ por sup<er>bia/ que no<n> quiere uenir
 a[ ]iudgamie<n>to; por fuero bie<n> puede<n>
 ser recebidos los testigos co<n>t<r><<a>> eill.
 {RUB. Q<u>e pena ha<n> los testigos q<ue> saille<n> por +}
-{IN2.} De testimonios q<ue> sail-len ¶2 {RUB. asnos.}
+{IN2.} De testimonios q<ue> sail-len %2 {RUB. asnos.}
 por asno/ o q<ue> p<er>taynezca
 ad asno. si por aue<n>tura iura<n> nu<n>ca
 mas deue<n> ser testimo<n>ios ¶ Si por}
@@ -2668,7 +2668,7 @@ por asno saillidor/ q<ue> atorna a[ ]bata-
 ylla. {RUB. Qvoales testigos fazen fe
 en pleyto de xp<<i>><sti>ano et iudio. &
 moro. & como el uno co<n>tra al ot<r><<o>> +}
-{IN2.} Entre xp<<i>><sti>a-no. ¶2 {RUB. se deue saluar}
+{IN2.} Entre xp<<i>><sti>a-no. %2 {RUB. se deue saluar}
 iudio. o moro no ay
 torna a[ ]bataylla. mas cada uno
 se deue defender por el todo fecho
@@ -2710,7 +2710,7 @@ por fuero/ q<ue> la testimo<n>ia<n>ça de un
 om<n>e/ maguer q<ue> sea de gra<n>t p<ar>entes-
 co. et co<n>uenible p<er>sona/ que no aya
 ualor. {RUB. Q<ue> pena deue<n> auer los falssos +}
-{IN2.} De falssos testigos ¶2 {RUB. testimo<n>ios.}
+{IN2.} De falssos testigos %2 {RUB. testimo<n>ios.}
 si algu<n>os testigos fuere<n> dados
 sobre alguna cosa. & fuere<n> p<ro>uados
 q<ue> son falssos. segu<n>t el fuero deue<n>
@@ -2725,7 +2725,7 @@ casos uale la testimo<n>iança dela mu-
 yller. & si ha alguno q<ue> li diga daq<ue>-
 yll por cuyo es tenido. & lo q<u><<i>>ere des-
 heredar. como & co<n> q<u><<o>>ales deue pro-uar. +}
-{IN2.} La testimonia<n>ça delas mu-ylleres ¶2 {RUB.}
+{IN2.} La testimonia<n>ça delas mu-ylleres %2 {RUB.}
 recebida deue ser/ en
 testimo<n>iança/ de mat<r><<i>>monio. o en
 symonia. & en co<n>padrage por fu<er>o.
@@ -2785,7 +2785,7 @@ dor del fecho/ en aq<ue>ill pleyto.
 {RUB. {IN1.} Titulo .vj<<o>>. de escriuanos. ¶ Q<u><<o>>al
 escriuano deue ser en co<n>uenien-
 cas que se fazen entre xp<<i>><sti>ano +}
-{IN2.} Si algun ¶2 {RUB. iudio. o moro.}
+{IN2.} Si algun %2 {RUB. iudio. o moro.}
 xp<<i>><sti>ano faze co<n>uenie<n>ças
 algu<n>as de heredat. co<n> iu-
 dio. o co<n> moro de ue<n>dida. o de
@@ -2813,7 +2813,7 @@ mismo & la fia<n>ça de como se a-
 uenieren. {RUB. En quoal manera de-
 ue ser dema<n>dado deudo co<n> carta
 et el otro en q<uo><<a>>l man<er>a se deue de-fender.}
-{IN2.} Si algu<n> om<n>e dema<n>da ¶2 {RUB.}
+{IN2.} Si algu<n> om<n>e dema<n>da %2 {RUB.}
 a otro hom<n>e alguna deuda.}
 {CB2.
 o ceuera. o algu<n>as co<n>uenienças.
@@ -2832,7 +2832,7 @@ dar fiança q<ue> nu<n>ca iamas nol de-
 ma<n>de por carta aq<ue>illa dema<n>da
 q<ue>l faze. & assi podra fenecer el
 pleyto. {RUB. En q<u><<o>>al man<er>a se conos-ce +}
-{IN2.} De carta ¶2 {RUB. falsa carta.}
+{IN2.} De carta %2 {RUB. falsa carta.}
 q<ue> es escripta et es rayda o
 emendada. o faylleçe el p<ro>p<r><<i>>o no<m>p-
 ne. o en el co<n>to. o en la hera. si en
@@ -2880,7 +2880,7 @@ ualer la carta. {RUB. {IN1.} Titulo .vij<<o>>.
 de iurar. ata q<ue> tiempo no<n> deue
 iurar muyller preynnada. & si
 muere ante q<ue> iure q<ue> la deue sal-uar. +}
-{IN2.} Establiemos por ¶2 {RUB.}
+{IN2.} Establiemos por %2 {RUB.}
 fuero q<ue> ningu<n>a mu-
 yller preynnada no<n> iure por ni<n>-
 gun iuyzio q<ue> sea iudgado de al-
@@ -3198,7 +3198,7 @@ tes. & as iurado falso ame<n>. R<e>spond<<a>> an-
 tes que fin es amen. {RUB. De alça de +}}
 {CB2.
 {RUB. alcalde menor et mayor. & q<ue> plazo +}
-{IN2.} Si ningu<n>o dema<n>da ¶2 {RUB. deue dar.}
+{IN2.} Si ningu<n>o dema<n>da %2 {RUB. deue dar.}
 alça de alcalde menor a[ ]may-
 or en el mercado. deue dar plazo
 de .viij. dias. & si dema<n>da pora la
@@ -3218,7 +3218,7 @@ una o se deue<n> alçar.}
 uillano. si del iudizio del al-
 calde algu<n>o deyllos no<n> se pagare.
 deue se alçar si quiere/ aylla o el
-pleyto deue ser finado. ¶3 {RUB. moros}
+pleyto deue ser finado. %3 {RUB. moros}
 {RUB. En q<u><<o>>al man<er>a deue<n> jurar los +}
 {IN2.} Yo tal moro juro por {ARB. beille.
 hylle. leille. huha. huhame.
@@ -3254,7 +3254,7 @@ nes. {IN1.} Titulo de eglesias. ¶ Q<u><<i>>
 deue ser abbat en uilla realenca
 o de orde<n> en faze[n]deria de uilla qui
 deue pagar et quoal uezino pue-de +}
-{IN6.} En uilla rea-lenca ¶2 {RUB. p<re>sentar.}
+{IN6.} En uilla rea-lenca %2 {RUB. p<re>sentar.}
 o de orde<n> o en-
 cartada deue ser abbat
 el cl<er>igo missa( )canta-
@@ -3288,7 +3288,7 @@ es q<ue> el abbat enfermo. {RUB. Como de-
 ue<n> fazer tocar las campanas a[ ]mis-
 sa los lauradores en uilla reale<n>ca
 et q<uoa>n<d>o el p<re>stamero o el ricom<n>e es +}
-{IN2.} En las uillas reale<n>-cas ¶2 {RUB. enla uilla.}
+{IN2.} En las uillas reale<n>-cas %2 {RUB. enla uilla.}
 en los dias q<ue> fiesta no ha<n>
 de tener/ deue<n> tocar las ca<m>panas
 tres uezes a[ ]missa/ fazie<n>do folga<n>-
@@ -3385,7 +3385,7 @@ de peynndrar al obispo si quiere
 porq<ue> ordeno al fillo de su uilla<n>o
 sines su ma<n>damie<n>to. {RUB. Q<ue> priuile-
 gio ha la eglesia quoa<n>do algu<n> mal-feytor +}
-{IN2.} Si al-gu<n> ¶2 {RUB. en eylla entra.}
+{IN2.} Si al-gu<n> %2 {RUB. en eylla entra.}
 mal( )feytor entrare en gle-sia.}
 [fol. 24v]
 {HD1. T<itul><<o>> .ij. De decimas.}
@@ -3474,7 +3474,7 @@ que por labor deue<n> p<ar>tir por meyo
 la diezma et la primicia deue dar
 ala eglesia o la heredat es. {RUB. Qui
 deue dar la diezma del fructo uen-dido. +}
-{IN2.} De fructo ue<n>dido en ui<n>-na ¶2 {RUB.}
+{IN2.} De fructo ue<n>dido en ui<n>-na %2 {RUB.}
 o en lignar. o otra legumi-
 na en campo. ¶ Si dissiere el co<m>pra-
 dor al ue<n>dedor uos pagaredes la
@@ -3548,7 +3548,7 @@ no<n> deue<n> dar diezm<<a>> ni<n> p<r><<i>>micia.}
 uillanos. ¶ Con quie<n> et dela<n>t q<u><<i>>en
 deue el fidalgo p<ro>uar su infa<n>ço<n>ia.
 et si falso iurare<n> los testigos q<ue> pen<<a>> +}
-{IN3.} Dicho es et establido q<ue> ¶2 {RUB. han.}
+{IN3.} Dicho es et establido q<ue> %2 {RUB. han.}
 si algun hom<n>e dize que es
 fidalgo. & no<n> sera creydo. et
 promete iuradores./ no<n> deue dar [^2#salua] al
@@ -3648,7 +3648,7 @@ se por q<ue> fue co<n>tradicha de muchos
 quoa<n>do sopiero<n> q<ue> era co<n>tra fuero.
 {RUB. De infanço<n> q<ue> es accusado por otro
 infanço<n> q<ue> es su uillano como obra +}
-{IN2.} Si cauero ¶2 {RUB. su infançonia.}
+{IN2.} Si cauero %2 {RUB. su infançonia.}
 o infanço<n> ningu<n>o dissiere
 aotro infanço<n> q<ue> es su uillano. el
 deue seruir en razo<n> de uillano. &
@@ -3687,7 +3687,7 @@ como era de primero. {RUB. {IN1.} Titulo
 .iiij<<o>>. de pechas & de solarigos. ¶ Qvo-
 anta deue ser la cena del rey et de
 los uillanos solarigos q<u><<i>> q<u><<o>>anto deue +}
-{IN3.} Agora uos contare-mos ¶2 {RUB. pagar.}
+{IN3.} Agora uos contare-mos %2 {RUB. pagar.}
 dela cena del rey. es as-
 saber q<ue> logares ay q<ue> peyta<n>
 por la cena del rey trigo et ceuada.
@@ -3712,7 +3712,7 @@ ue<n> ser iudgados. {RUB. Qvoa<n>ta deue ser
 la cena de saluedat quoa<n>do el ric-om<n>e
 ua asu honor. & en quoal ma-
 nera los uillanos deue<n> ayudar a es-ta +}
-{IN2.} Agora uos co<n>taremos ¶2 {RUB. cena.}
+{IN2.} Agora uos co<n>taremos %2 {RUB. cena.}
 quoal es la cena de saluedat.
 antes dela nauidat si el richom<n>e
 entridiere en la honor. & si ouie-
@@ -3952,7 +3952,7 @@ pecha et como deue<n> ser puestos
 los peynnos. & como deue<n> labrar
 et q<ue> les deue<n> dar a[ ]comer aeillos
 et asus bestias. & como deue<n> au<er> +}
-{IN2.} Agora uos co<n>taremos d<e>l ¶2 {RUB. sayon.}
+{IN2.} Agora uos co<n>taremos d<e>l %2 {RUB. sayon.}
 fuero que ha el rey con los
 solarigos. & los solarigos co<n> el rey.
 sobre los uillanos q<ue> los han en( )se<m>-
@@ -4250,7 +4250,7 @@ heredat puede auer infançon<<a>>.
 cobra<n> la heredat delos uillanos q<ue>
 drecho han entre uezindat et que
 deue<n> dar alos sei<n>nores q<uoa>n<d>o apea<n> h<er>e-dades. +}
-{IN2.} Si el seynnor solarigo ¶2 {RUB.}
+{IN2.} Si el seynnor solarigo %2 {RUB.}
 cobrare la heredat del uilla-
 no. en roturas et en pazturas. &
 en toda uezindat deue auer el
@@ -4357,7 +4357,7 @@ pora si la h<er>edat. & no en otra guisa.
 los monasterios. ¶ Quoa<n>ta deue
 auer infanço<n> q<ue> faz uilla<n>o de su h<er>e-
 dat. & quoanta el seynnor delos co-yllaços. +}
-{IN2.} Si infanço<n> q<ue> heredat ¶2 {RUB.}
+{IN2.} Si infanço<n> q<ue> heredat %2 {RUB.}
 limpia aya. co<n> su heredat li<m>-
 pia coyllaço o coyllaços fiziere.
 el seynnor delos coyllaços deue a-
@@ -4466,7 +4466,7 @@ li deua<n>. el seynnor delos coyllaços
 deue auer quoa<n>to alos coyllaços
 p<er>taynnece. {RUB. Como no<n> deue rece-
 bir la orde<n> al uillano q<ue> de peyta al +}
-{IN2.} Uillano q<ue> da peyta ¶2 {RUB. seynnor.}
+{IN2.} Uillano q<ue> da peyta %2 {RUB. seynnor.}
 a seynnor. ningu<n>a orde<n> non
 lo deue recebir al uilla<n>o ni<n> mue-
 ble suyo. si no<n> fuere co<n> amor del
@@ -4483,7 +4483,7 @@ ha uezindat/ diziendo q<ue> es uezi<n>o
 deyllos. {RUB. Como en toda uilla en q<ue>
 el rey ha entrada de coyllaços pue-
 de dema<n>dar peyta al uillano q<ue> esta +}
-{IN2.} En uilla de caua-ylleros ¶2 {RUB. por fidalgo.}
+{IN2.} En uilla de caua-ylleros %2 {RUB. por fidalgo.}
 por q<ue> la mayor p<ar>tida
 sea de cauaylleros. si el rey ouiere
 entrada de coyllaços puede el rey
@@ -4514,7 +4514,7 @@ lieua<n> al sayon al mercado
 por pleyto den le a[ ]comer q<ue> assi
 es fuero. {RUB. Como et entroa q<u><<o>>al
 logar deue<n> leuar la pecha los uil-lanos +}
-{IN2.} Quoa<n>do los uil-lanos ¶2 {RUB. del rey.}
+{IN2.} Quoa<n>do los uil-lanos %2 {RUB. del rey.}
 del rey an a[ ]leuar la
 pecha de pan o de uino los bayle<<s>>
 del rey deue<n> dar los sacos. & los
@@ -4565,7 +4565,7 @@ tiene dos heredades como deue pey-
 tar. & si el seynnor diz q<ue> no<n> la dado
 toda la peyta. & eyll diz q<ue> si. q<ue> sal-
 ua deue fazer. & si cayere q<ue> calo<n>ia +}
-{IN2.} Uillano realenco o de or-den ¶2 {RUB. ha.}
+{IN2.} Uillano realenco o de or-den %2 {RUB. ha.}
 q<ue> tiene dos peytas here-
 dades/. al seynnor suele peytar es-
 tas dos peytas. ¶ Et si el uilla<n>o
@@ -4616,7 +4616,7 @@ ylla al uillano deue peytar los}
 ayllas. {RUB. Villano reale<n>co o de orden
 o solarigo en q<ue> man<er>a et quoales
 pechas puede<n> ayuntar por casami-ento. +}
-{IN2.} Uillano reale<n>co o de or-den. ¶2 {RUB.}
+{IN2.} Uillano reale<n>co o de or-den. %2 {RUB.}
 o solarigo q<ue> deue fossa-
 dera et labor et torta. & arinçada
 de uino. ¶ Otrosi la muyller uil-
@@ -4633,7 +4633,7 @@ et dela muyller no<n> los pueden
 aplegar/ sines amor del seynnor.
 {RUB. La heredat del pechero del rey o de
 los monasterios p<er>dido aq<u><<i>> deue +}
-{IN2.} Si al rey o alos mo-nasterios ¶2 {RUB. ser dada.}
+{IN2.} Si al rey o alos mo-nasterios %2 {RUB. ser dada.}
 selis p<er>diere pecha
 de coyllaço/ ningu<n>o por uida o por
 muert/ aq<ue>ill heredamie<n>to no<n> de-
@@ -4656,7 +4656,7 @@ da el fuero. {RUB. Qvoando deue<n> los uil-
 lanos al seynnor pecha de recog-
 noscie<n>ça que pecha deue<n> dar al se-
 ynnor quoa<n>do coyllaços parte<n> las +}
-{IN2.} Qvoando muere al-gu<n> ¶2 {RUB. heredades.}
+{IN2.} Qvoando muere al-gu<n> %2 {RUB. heredades.}
 uillano. las creaturas de-
 yll deue<n> dar al seynnor pecha de
 recognoscie<n>ça/ por tal q<ue> los conoz-
@@ -4727,7 +4727,7 @@ bo como dicho es de suso. & con}
 {CB2.
 tanto sean pagados de co<n>didura
 por fuero. {RUB. los uilla<n>os q<ue> deue<n> la se-mana +}
-{IN2.} Los uilla<n>os que ¶2 {RUB. un dia peo<n>.}
+{IN2.} Los uilla<n>os que %2 {RUB. un dia peo<n>.}
 deue<n> peon la semana un dia.
 quoa<n>do uan a[ ]labrar deue<n> yr en
 la carrera a[ ]passo del sayon. & el
@@ -4754,7 +4754,7 @@ del seynnor que assi es fuero de
 nauarra. {RUB. Villano heredero en dos
 uillas del seynnor quoal pecha de-
 ue dar. si en algu<n>a daq<ue>illas no ha +}
-{IN2.} Ningu<n> uilla<n>o ¶2 {RUB. pecha pleyteada.}
+{IN2.} Ningu<n> uilla<n>o %2 {RUB. pecha pleyteada.}
 que es heredero en dos uil-
 las o en tres. & las uillas son de
 un seynnor. no<n> deue dar dos pe-
@@ -4775,7 +4775,7 @@ no no<n> mora en ningu<n>a delas h<er>e-
 dades. pague la mayor pecha al
 seynnor. {RUB. De que tiempo adelant
 uilla<n>o no<n> puede ser costreynido +}
-{IN2.} Ningun uilla<n>o ¶2 {RUB. a[ ]dar pecha.}
+{IN2.} Ningun uilla<n>o %2 {RUB. a[ ]dar pecha.}
 no<n> deue dar pecha al sei<n>nor
 de que passa la <santa> cruz de m<<a>>yo
 si los seynnores o lures bayles
@@ -4784,7 +4784,7 @@ los uillanos deue<n> pagar las pe-
 ytas quoa<n>do lis dema<n>daren.
 {RUB. De pecha de piertega en q<ue> man<er>a
 et como deue<n> de nueuo pierte-gar. +}
-{IN2.} Logares ay en nauar-ra ¶2 {RUB.}
+{IN2.} Logares ay en nauar-ra %2 {RUB.}
 que pechan los uilla<n>os
 por piertega/ et assi como husa<n>
 deuen dar las pechas. & si ni<n>gu<n>os
@@ -4819,7 +4819,7 @@ de uino. & si el rey ouiere de yr
 a huest deue yr co<n> su conduyto
 empues el rey. et no<n> co<n> otro ni<n>-
 guno. {RUB. Q<ue> pecha deue infanço<n> +}
-{IN2.} Todo infançon ¶2 {RUB. de auarca.}
+{IN2.} Todo infançon %2 {RUB. de auarca.}
 de auarca deue .iij. mesu-
 ras. una de ordio. otra de trigo
 otra de uino. & no<n> deue al si no<n>
@@ -4855,7 +4855,7 @@ han costumbrado de dar/ en aq<ue>il-
 las comarcas/ o dan esta pecha en
 aq<ue>ill tiempo como han husado.
 {RUB. Quoa<n>ta es la pecha q<ue> es clam<<a>>da +}
-{IN2.} Ay otra pecha que es ¶2 {RUB. basto.}
+{IN2.} Ay otra pecha que es %2 {RUB. basto.}
 clamada basto q<ue> pecha<n> por
 eylla en logares un sueldo. en lo-
 gares .viij. dineros./ en algunos
@@ -4901,7 +4901,7 @@ ros atales tiene<n> se por infa<n>çones
 et son uillanos. {RUB. Q<ue> cosas ha el se-
 ynnor por el uillano en( )cartado
 et como puede ser uezino en aq<ue>-yll +}
-{IN2.} Todo infanço<n> q<ue> ha ¶2 {RUB. logar.}
+{IN2.} Todo infanço<n> q<ue> ha %2 {RUB. logar.}
 uillano en( )cartado en aq<ue>il-
 la uilla o el uillano es puede s<er>
 ferme et fiança et testimonio.
@@ -5004,7 +5004,7 @@ uezindades daq<ue>ill seynnor. deue<n>
 peytar et ser coyllaços deyll. {RUB. Cre-
 aturas de infanço<n>. & de uillana q<ue>
 diero<n> pecha. como puede<n> ser escu-sados +}
-{IN2.} Si infançon ¶2 {RUB. de pecha.}
+{IN2.} Si infançon %2 {RUB. de pecha.}
 faz creaturas en uillana q<ue>
 no aya peytado peyta. no<n> pre<n>die<n>-
 do algo de partes dela madre (^deil-
@@ -5023,7 +5023,7 @@ que est seynnor aya que ueer/ se-
 ran uillanos estas creaturas. {RUB. En
 quoales logares son quitos de pecho.
 et como creatura de infanço<n> et de +}
-{IN2.} Si infanço<n> fiziere ¶2 {RUB. uillana.}
+{IN2.} Si infanço<n> fiziere %2 {RUB. uillana.}
 creaturas en uillana reale<n>-
 ca o de orde<n>. o de ningu<n>a uillan<<a>>
 que peyta aya dada al seynnor.
@@ -5127,7 +5127,7 @@ por iamas la heredat por fer ato-
 da su propria uolu<n>tat. {RUB. Como no<n>
 puede ser ayllenada heredat ce-
 sal et por quoal razo<n> la pierde el +}
-{IN2.} Qvoalquiere q<ue> ¶2 {RUB. qui la tiene.}
+{IN2.} Qvoalquiere q<ue> %2 {RUB. qui la tiene.}
 sea xp<<i>><sti>ano infanço<n>. o iudi-
 o. o moro/ que terra heredat ce-
 sal/ eyllos ni otros por eyllos no<n>
@@ -5164,7 +5164,7 @@ p<er>dido. o por el mie<m>bro ha por ca-
 lonia .v. sueldos. {RUB. Q<ue> emienda de-
 ue fazer qui bestia alogada o em-
 prestada pierde et q<ue> salua deue fa-zer. +}
-{IN2.} Nuyll om<n>e qui emp<r><<i>>esta ¶2 {RUB.}
+{IN2.} Nuyll om<n>e qui emp<r><<i>>esta %2 {RUB.}
 su bestia a otro hom<n>e et la
 pierde. eme<n>dar la co<n> iura ad a-
 queyll qui la[ ]y presto quoanto
@@ -5175,7 +5175,7 @@ si hi son. & en hiermo co<n> su iura
 mas no<n> deue. {RUB. Qve deue pechar el
 q<u><<i>> toma a emp<r><<i>>estamo bestia de otri
 o otro auer. & si negare el otro como +}
-{IN2.} Si un om<n>e a otro ¶2 {RUB. deue p<ro>uar.}
+{IN2.} Si un om<n>e a otro %2 {RUB. deue p<ro>uar.}
 prestare auer. o bestia. o
 moble alguno/ deue peytar o re-
 tener su amor. p<er>o si negare que
@@ -5239,7 +5239,7 @@ uolu<n>tat desu seynnor/ no aya pla-
 zo de su peyta {RUB. {IN1.} Titulo .xi<<o>>. de co-
 ma<n>das. Como no<n> deue ser em-
 bargada por ningu<n>a cosa coma<n>-da +}
-{IN3.} Un ombre co-mando ¶2 {RUB. en fealdat.}
+{IN3.} Un ombre co-mando %2 {RUB. en fealdat.}
 en fealdat aun ot<r><<o>>
 .L<<a>>. morauidis. & aq<ue>ill qui
 tenia en coma<n>da los morauidis.
@@ -5268,7 +5268,7 @@ por si/ o por seynnor. o por baylle de
 aq<ue>ill logar. o esto co<n>teztra/ [^&] puedel
 costreynner/ q<ue> pague segu<n>t el fu-
 ero del logar. {RUB. De no<n> peynndrar co-mie<n>da. +}
-{IN2.} Ningun om<n>e no<n> deue ¶2 {RUB.}
+{IN2.} Ningun om<n>e no<n> deue %2 {RUB.}
 peynndrar comie<n>da por otra
 deuda quel deua. ¶ Mas deue dar
 la comie<n>da adaq<ue>ill quil come<n>do.
@@ -5389,7 +5389,7 @@ peynnos no<n> deue ualer teniença
 de aynno et dia/ si [^a] passadas no<n> to-
 ma ferme sin co<n>dit<i>on ninguna.
 {RUB. A q<ue> es tenido iudio q<ue> co<m>pra ropa +}
-{IN2.} Si el iudio co<m>prare ¶2 {RUB. furtada.}
+{IN2.} Si el iudio co<m>prare %2 {RUB. furtada.}
 algunos uestidos o otra ro-
 pa. & otro om<n>e dize que aeyll fur-
 taron aq<ue>illa cosa. si el iudio no<n>
@@ -5406,7 +5406,7 @@ furtado aq<ue>illas cosas. como o-
 tro om<n>e es tenido de co<m>plir dre-
 yto el iudio. {RUB. Qve octores deue
 auer et ho el qui co<m>pra bestia +}
-{IN2.} Si infanço<n> o uilla-no ¶2 {RUB. furtada.}
+{IN2.} Si infanço<n> o uilla-no %2 {RUB. furtada.}
 co<m>prare bestia quoalq<u><<i>>e-
 re de quoatro pies en nauarra
 co<m>pre co<n> fermes. & si algu<n>o em-
@@ -5456,7 +5456,7 @@ no han calonia. {RUB. Q<ue> calonia ha +}}
 {HD. III}
 {CB2.
 {RUB. q<u><<i>> deyssa la co<m>pra de q<ue> da la palm<<a>>-da. +}
-{IN2.} Si algu<n> om<n>e quiere de ot<r><<o>> ¶2 {RUB.}
+{IN2.} Si algu<n> om<n>e quiere de ot<r><<o>> %2 {RUB.}
 om<n>e co<m>prar heredat o bestia
 o otras cosas. & fecho la uenimie<n>-
 to del precio a uolu<n>tat delas par-
@@ -5470,7 +5470,7 @@ por la palmada. & si priso seynnal
 deue doblar la seynnal. {RUB. Aq<ue>ill q<u><<i>> se
 repie<n>te dela merca pues q<ue> fuere
 dada la palmada que calonia +}
-{IN2.} Qvoando algu<n>o ¶2 {RUB. deue pagar.}
+{IN2.} Qvoando algu<n>o %2 {RUB. deue pagar.}
 quisiere co<m>prar heredat o
 bestias. o algu<n>a cosa. & faze sus
 co<n>uinienças co<n> aq<ue>ill q<ue> ue<n>de a uo-
@@ -5493,7 +5493,7 @@ que co<m>pra la cosa por tal de ga-
 nar por ue<n>der. {RUB. Como no<n> pue-de +}}
 {CB2.
 {RUB. passar la agoa co<m>prada por +}
-{IN2.} De agoa co<m>pra-da ¶2 {RUB. azut aieno.}
+{IN2.} De agoa co<m>pra-da %2 {RUB. azut aieno.}
 o [^2#a]capdada q<ue> compra o a-
 capda una uilla dotra/ si aotra uil-
 la en medio [^o] aya azut no<n> passa-
@@ -5524,7 +5524,7 @@ qui co<m>pro no<n> deue nada. el ue<n>ci-
 do de un rouo de trigo/ pora al rey
 et saq<ue> los peynnos. {RUB. Por quoal co-
 sa no<n> puede cobrar el p<re>cio q<u><<i>> ue<n>de +}
-{IN2.} Si alguno uende buy ¶2 {RUB. buy.}
+{IN2.} Si alguno uende buy %2 {RUB. buy.}
 et depues/ si se p<er>diere el pa<n>
 en aq<ue>illa comarca por seca/ o por
 piedra. el qui co<m>pra el buy tor-na<n>do}
@@ -5536,7 +5536,7 @@ cho laurar deuelo pre<n>der el buy
 el quelo uendio si no ha co<n>q<ue> pagar
 el qui co<m>pro. {RUB. Como la orde<n> no<n>
 puede ue<n>der coyllaços sin man-damie<n>to +}
-{IN2.} Nuylla orden ¶2 {RUB. del rey.}
+{IN2.} Nuylla orden %2 {RUB. del rey.}
 no<n> puede<n> uender coyllaços
 ningunos a[ ]menos de cartas del
 rey. ¶ Emp<er>o heredat plana pue-
@@ -5574,7 +5574,7 @@ ni<n> fianceria sino quoa<n>to un ro-
 uo de saluado. {RUB. Aquoales deue re-
 querir fidalgo que quiere ue<n>der
 su heredat et q<u><<o>>ales la puede<n> sa-car. +}
-{IN2.} Qvoa<n>do los hermanos & ¶2 {RUB.}
+{IN2.} Qvoa<n>do los hermanos & %2 {RUB.}
 las hermanas han entre[ ]si
 partidas las heredades q<ue> lis per-
 taynnesce de auolorio et de pa-
@@ -5616,7 +5616,7 @@ embargo se puede fer. {RUB. Como
 puede ue<n>der o empeynnar la
 part q<ue> han en castieyllos moli<n>os
 fornos. & en heras maguer q<ue> no<n> se +}
-{IN2.} Muchas uezes auie-ne ¶2 {RUB. parta.}
+{IN2.} Muchas uezes auie-ne %2 {RUB. parta.}
 que los om<ne>s han part
 en castieyllos en moli<n>os. en bai<n>-
 nos. o en fornos. o en heras. & co<n>te-
@@ -5707,7 +5707,7 @@ su marido/ los parie<n>tes podria<n> la
 heredat perder q<ue> [^2#a] eyllos deuria tor-
 nar. {RUB. Como yerno no<n> puede ue<n>-
 der heredamie<n>to q<ue>l sea dado en +}
-{IN2.} De hom<n>e q<u><<i>> ¶2 {RUB. casamiento.}
+{IN2.} De hom<n>e q<u><<i>> %2 {RUB. casamiento.}
 da heredat asu filla q<u><<o>>ando
 prende marido. & aq<ue>illa heredat
 sera de padre et de madre. aq<ue>illa
@@ -5729,7 +5729,7 @@ gura deue tornar alos parie<n>tes
 mas cercanos. {RUB. {IN1.} Titulo .xiij<<o>>. de
 hostalage. ¶ Qve hostalage deue<n>
 dar quoa<n>do bestias o otras cosas +}
-{IN3.} Cauayllo. o rocin. o ¶2 {RUB. ue<n>den.}
+{IN3.} Cauayllo. o rocin. o %2 {RUB. ue<n>den.}
 mulo. asno. iegoa. deue un
 dinero. de ostalage al hues-
 pet/ quoa<n>do sera ue<n>dido la sieylla
@@ -5769,7 +5769,7 @@ la dozena una meaylla {RUB. {IN1.} Titulo
 ue<n> eme<n>dar los qui aloga<n> bestias
 si les muere<n> o les lieua<n> por fuerça
 et q<ue> prueuas deue<n> ser dadas sobre +}
-{IN3.} Si un om<n>e aotro alogare ¶2 {RUB. esto.}
+{IN3.} Si un om<n>e aotro alogare %2 {RUB. esto.}
 bestia. & moriere. o [^2#gela] leuare<n> por
 fuerça o p<r><<i>>siere otro daynno
 aq<ue>ill qui la alogada no<n> gela deue
@@ -5803,7 +5803,7 @@ dar quila alogo. & si no<n> da la muer-
 ta deue dar la biua. {RUB. {IN1.} Titulo .xv<<o>>.
 de peynnoras. de no<n> peynndrar en-
 tregoas de rey(ey)es al om<n>e de fuera de +}
-{IN3.} En ningu<n>as tregoas ¶2 {RUB. tierra.}
+{IN3.} En ningu<n>as tregoas %2 {RUB. tierra.}
 que el rey po<n>ga co<n> otro rey.
 si uiniere om<n>e de otro regno
 no<n> deue ser peynndrado si no<n> fuere
@@ -5880,7 +5880,7 @@ calde ma<n>dare no<n> deue auer calo-
 nia que fiador sobre fiador non
 ma<n>da recebir el fuero. {RUB. Como et
 de q<ue> no<n> deue ser cauayll<er>o peynn-drado. +}
-{IN2.} Si cauayllero deue al-go ¶2 {RUB.}
+{IN2.} Si cauayllero deue al-go %2 {RUB.}
 al franco/ o aotro hom<n>e
 de rua por aq<ue>illa deuda ni<n> por o-
 tra cosa del mu<n>do no<n> traue ala
@@ -6002,7 +6002,7 @@ podiere p<ro>uar/ la fiança/ o el deudor
 parta<n> se daq<ue>illos bailes. {RUB. Como
 deue ser peynndrado seynnor por
 uassayllo de su pa<n> et q<ue> deue fazer +}
-{IN2.} Qui peynndra a[ ]sein-nor ¶2 {RUB. el sei<n>nor.}
+{IN2.} Qui peynndra a[ ]sein-nor %2 {RUB. el sei<n>nor.}
 por uassayllo/ que sea en
 su pan. el seynnor saq<ue> a[ ]dr[e]cho asu
 uassaillo. & sino desemp<ar>elo. & si nol
@@ -6012,7 +6012,7 @@ el deudor li reuela los peynnos. et
 nol quiere dar fiador de dreyto.
 en quoal man<er>a deue peynndrar
 bestia de dos parçoneros por deuda +}
-{IN2.} Si ningu<n>o uiene pen-drar ¶2 {RUB. del uno.}
+{IN2.} Si ningu<n>o uiene pen-drar %2 {RUB. del uno.}
 aotro de quie<n> ha q<ue>reilla
 et sil reuellare los peynnos et nol
 quisiere dar fiança de dreyto. q<u><<o>>-
@@ -6099,7 +6099,7 @@ dar dreyto ata t<er>cero [^2#dia]. & si nol die-
 ren dreyto/ deue peynndrar o po-
 diere et no ha calonia. {RUB. Q<ue> calo<n>ia
 ha qui peynndra ha om<n>e uinie<n>do +}
-{IN2.} Nuyll om<n>e q<ue> peyn-dra ¶2 {RUB. al m<er>cado.}
+{IN2.} Nuyll om<n>e q<ue> peyn-dra %2 {RUB. al m<er>cado.}
 en las comarcas. o en las
 tierras assi que no<n> faga clamo}
 {CB2.
@@ -6119,7 +6119,7 @@ manera la deue render. & en que
 manera le deue acuyllir de como
 porra la bestia. & si moriere la bes-
 tia peynndrada como la deue re<n>-der. +}
-{IN2.} Si algu<n> om<n>e a su deudor ¶2 {RUB.}
+{IN2.} Si algu<n> om<n>e a su deudor %2 {RUB.}
 o a su fiador/ peynndrare al-
 guna bestia. & si la quiere render
 sobre fiador de rendida. dela [^2#bestia] con
@@ -6205,7 +6205,7 @@ lis ligar como se pueda<n> echar
 et leua<n>tar. {RUB. Qve deue ser fecho q<u><<o>>-
 ando el fiador no<n> quiere dar pein-
 nos. diziendo que el deudor es enfer-mo +}
-{IN2.} Si algu<n> om<n>e enfermare ¶2 {RUB.}
+{IN2.} Si algu<n> om<n>e enfermare %2 {RUB.}
 et deue algo. & sua fiança fu-
 ere pendrado que no<n> quiere fer
 plazo el peynndrador entroa q<ue>
@@ -6355,7 +6355,7 @@ el qui lo puso fia<n>ça se[ ]ua. et en q<ue>
 plazos & en como deue auer. & en
 como deue pechar aq<ue>illo porq<ue> es
 fiador eyll como se deue enteg<r><<a>>r +}
-{IN2.} Si nuyll om<n>e ¶2 {RUB. del deudor.}
+{IN2.} Si nuyll om<n>e %2 {RUB. del deudor.}
 entra fiança a su uezino
 et sen ua dela uilla/ el qui lo pu-
 so fiador. deue dizir al qui lo pu-
@@ -6468,7 +6468,7 @@ den otras fia<n>ças [^2#de] aylli o so<n> entra-
 dos fia<n>ças algunas que non lis
 uenga mal/ por aqueilla fia<n>ceria.
 {RUB. Como puede ser om<n>e fia<n>ça de dre-yto. +}
-{IN2.} Todo om<n>e qui ha .xij. ¶2 {RUB.}
+{IN2.} Todo om<n>e qui ha .xij. %2 {RUB.}
 oueyllas. o un asno. o .v.
 puercos trasaynnados es fiança
 de dreyto/ en toda cosa entre o<mne>s
@@ -6585,7 +6585,7 @@ puerta/ que la una iura abo<n>da.
 {RUB. Q<ue> cosas puede peynndrar el
 fiador q<ue> ha a[ ]peytar por muerto
 en q<ue> q<u><<a>>so puede trauar del muer-to +}
-{IN2.} Fiança q<ue> ha a peytar por ¶2 {RUB.}
+{IN2.} Fiança q<ue> ha a peytar por %2 {RUB.}
 om<n>e muerto/ deue emp<ar>ar
 lo del muerto/ por la dobla/ si pa-
 gado ha. ¶ Et si no<n> lo ha/ puede
@@ -6663,7 +6663,7 @@ dar el qui niega fiança de suel-
 ta/ que ala fiança no<n> faga ape-
 ar heredat. {RUB. Q<ue> deue ser fecho de
 fidalgo q<ue> no<n> puede auer fia<n>ça +}
-{IN2.} Si el rey ouiere re<n>-cura ¶2 {RUB. co<n>tra al rey.}
+{IN2.} Si el rey ouiere re<n>-cura %2 {RUB. co<n>tra al rey.}
 de ningu<n> fidalgo q<ue>
 fiador li dema<n>de. & el fidalgo no<n>
 li pueda dar fiador. iura<n>do sobr<e>
@@ -6764,7 +6764,7 @@ om<ne>s de casa. los ganados de aq<ue>il-
 los logares/ bie<n> puede<n> pascer en
 aq<ue>illa uilla reale<n>ca. {RUB. Q<ue> deue fa-
 zer fiador q<ue> peyta aq<ue>illo porq<ue> es +}
-{IN2.} Ningu<n>a fia<n>ça q<ue> peytar ¶2 {RUB. fiador.}
+{IN2.} Ningu<n>a fia<n>ça q<ue> peytar %2 {RUB. fiador.}
 quisiere aq<ue>illo porq<ue> es fia-
 dor peyte. & el otro qui p<r><<i>>so el au<er>
 deli fiador de abonimie<n>to. & est fia-
@@ -6847,7 +6847,7 @@ orden algu<n>a cosa co<n> co<n>dit<i>on. qui
 deue fazer tener aq<ue>illa co<n>dicion.
 et si la orde<n> ue<n>diere el donadio. ni<n>-
 guno por p<ar>entesco no<n> puede sac-car. +}
-{IN2.} Si algun om<n>e diere por ¶2 {RUB.}
+{IN2.} Si algun om<n>e diere por %2 {RUB.}
 su alma ala orde<n> heredat
 o coyllaço[^s]. co<n> co<n>dicio<n> que no<n> los
 uenda<n> ni<n> los aliene<n>. ni<n> los de<n>/ et [^2#despues algun] ti-
@@ -6880,7 +6880,7 @@ manos. mas deue<n> li re<n>der gracia<<s>>.
 et co<n> esto deue ser pagado/ por fue-
 ro de tierra. {RUB. Qvoa<n>do et quie<n> li de-
 ue dar al fidalgo el algo q<ue>l p<ro>me-te. +}
-{IN2.} Si algu<n>o p<ro>mete aotro ¶2 {RUB.}
+{IN2.} Si algu<n>o p<ro>mete aotro %2 {RUB.}
 alguna cosa. & si es infanço<n>
 el qui p<ro>metio/ si no<n> quisiere no<n>
 dara. ¶ Mas si uilla<n>o es et pro-
@@ -6890,7 +6890,7 @@ por seruicio/ que ouiero<n> mester.
 sil prometiero<n>/ deue<n> li dar. {RUB. En
 quoal manera deue dar fuego
 un uezino aotro. & si no<n> faz q<ue> ca-lo<n>ia +}
-{IN2.} En el reysmo del rey ¶2 {RUB. ha.}
+{IN2.} En el reysmo del rey %2 {RUB. ha.}
 de nauarra/ logares ha que
 no han leynna. & en logares po-
 cos mo<n>tes/ et pocca leynna.
@@ -6930,7 +6930,7 @@ re dar. bie<n> puede tayllar su q<u><<i>>n-
 no<n> quoa<n>to auia ad auer en aq<ue>il-
 la uiga o cabrio. & mas no<n> deue
 tayllar. {RUB. De no alienar cosa de co<n>-tienda. +}
-{IN2.} La cosa de co<n>tienda ¶2 {RUB.}
+{IN2.} La cosa de co<n>tienda %2 {RUB.}
 no<n> sea dada. ni<n> uendida. ni
 alienada/ ata( )que sea prouada/
 de quie<n> deue ser por dreyto. {RUB. Co-
@@ -6947,7 +6947,7 @@ tulo .xx<<o>>. por quoales cosas puede +}}
 {CB2.
 {RUB. el rey echar pidido asus coyllaços
 et alos solarigos et eillos son te<n>i-dos +}
-{IN3.} El rey bie<n> puede ¶2 {RUB. de dar.}
+{IN3.} El rey bie<n> puede %2 {RUB. de dar.}
 echar pidido asus coyllaaço<<s>>
 et si echa alos suyos/ assi a
 los solarigos/ mostrando razo<n>/ as-
@@ -7051,7 +7051,7 @@ ros se deue<n> otorgar por cabeçalero<<s>>
 et como por eillos deue ser p<ro>uado
 el destin. & que deue ser quoando
 por no<n> castigar eyllos li uiene em-bargo. +}
-{IN6.} INfanço<n> si fuere enfermo ¶2 {RUB.}
+{IN6.} INfanço<n> si fuere enfermo %2 {RUB.}
 et destina om<ne>s estando muytos
 en aq<ue>ill logar. ¶ Maguera que
 oyen el destin suyo. no<n> son cabe-
@@ -7072,7 +7072,7 @@ p<er>dida que ha preso/ por mengoa q<ue>
 aeyll no<n> podio auer. {RUB. Como deue<n>
 testigoar et p<ro>uar el destin los cabe-
 caleros. & deue ser esc<r><<i>>pta la testigo-ança. +}
-{IN2.} Quoando algu<n>o e[^s] enfer-mo. ¶2 {RUB.}
+{IN2.} Quoando algu<n>o e[^s] enfer-mo. %2 {RUB.}
 et faze su destin. & fara
 cabeçaleros/ en algu<n>os tiempos que
 aq<ue>ill destin por aq<ue>illos cabeçaleros
@@ -7111,7 +7111,7 @@ timo<n>iança deue ser esc<r><<i>>pta con
 testimonios. {RUB. Que testigoança et
 salua deue<n> fazer los cabeçaleros q<ue>
 son por carta quoa<n>do algu<n>o em-barga +}
-{IN2.} Quoa<n>do algu<n>o ¶2 {RUB. al destin.}
+{IN2.} Quoa<n>do algu<n>o %2 {RUB. al destin.}
 es enfermo. o sano. & faze es-
 criuir el su destin/ porque quiere
 el su p<ro>ponimie<n>to aotro enseynnar.
@@ -7160,7 +7160,7 @@ dios et lures animas./ q<ue> cabeçaleros
 no han sagramie<n>to. mas los testi-
 gos deue<n> iurar. {RUB. Qve fue fecho de
 un hom<n>e q<ue> estino a[ ]creatura q<ue> no +}
-{IN2.} Un hombre bono ¶2 {RUB. era nascida.}
+{IN2.} Un hombre bono %2 {RUB. era nascida.}
 yua a[ ]fin de muert/ et la su
 muyller seya en cinta. & clamo
 alos cabeçaleros/ q<ue> si su muyller
@@ -7205,7 +7205,7 @@ ger estina. el uno morie<n>do el otro
 no<n> puede desfazer. Como deue<n>
 partir las creaturas de pareia. & de
 barragana del infanço<n> q<ue> muere +}
-{IN2.} Si algu<n> fidal-go ¶2 {RUB. sines destin.}
+{IN2.} Si algu<n> fidal-go %2 {RUB. sines destin.}
 moriere sines destin. &
 deyssare creaturas de pareia. & de
 barragana. las creaturas de pa-reylla/}
@@ -7244,7 +7244,7 @@ muert. & que deue<n> fazer los cabeça-
 leros quoa<n>do algu<n>o lis demanda
 del destin. & que deue ser fecho quo-
 ando algu<n>o estina en otra uilla +}
-{IN2.} Establiemos ¶2 {RUB. et ha estranio.}
+{IN2.} Establiemos %2 {RUB. et ha estranio.}
 por fuero. & mandamos q<ue> padre
 o madre que destina heredat por
 aniuersario/ o por almario/ et la}
@@ -7496,7 +7496,7 @@ et delas cosas q<ue> p<er>taynnece aeillos.
 bradores. q<ue> arras deue<n> ser dadas
 et q<ue> fiadores. & quoa<n>tos. & si embra-
 uiere la muyller q<ue> deue<n> fazer los +}
-{IN6.} Este es el fue-ro ¶2 {RUB. fiadores.}
+{IN6.} Este es el fue-ro %2 {RUB. fiadores.}
 que han infa<n>çones
 (^et labradores) de nauar-
 ra por casar en( )semble
@@ -7680,7 +7680,7 @@ mano./ creaturas de ganancia si}
 {CB2.
 fizieren putage deue<n> ser deshere-
 dadas. {RUB. Como deue yazer om<n>e +}
-{IN2.} Todo om<n>e ca-sado ¶2 {RUB. co<n> su muger.}
+{IN2.} Todo om<n>e ca-sado %2 {RUB. co<n> su muger.}
 que ha su muger [^2#tiene] en el
 termino dela uilla. no<n> deue ya-
 zer sino es co<n> eylla. & deue iazer
@@ -7707,7 +7707,7 @@ de trigo por mano. & uino cada
 et la otra meatad mosto. & con
 atanto se deue tener apagada.
 {RUB. Quoa<n>to puede maylleuar mu-yll<er> +}
-{IN2.} Nuylla muyll<er> ¶2 {RUB. casada.}
+{IN2.} Nuylla muyll<er> %2 {RUB. casada.}
 casada/ no<n> deue maylle-
 uar sines sabiduria et otorga-
 mie<n>to desu marido. ¶ Empero
@@ -7772,7 +7772,7 @@ lur fuero {RUB. {IN1.} Titulo .ij<<o>>. de arras et
 fealdat. ¶ En q<ue> manera da infanço<n>
 arras quoa<n>do tres uezes casa. et co-
 mo deue<n> partir los fijos delas tres +}
-{IN2.} Si ningu<n> infa<n>ço<n> ¶2 {RUB. mugeres.}
+{IN2.} Si ningu<n> infa<n>ço<n> %2 {RUB. mugeres.}
 prende muyller infançona
 segu<n>t el fuero deue dar [^2#a] eilla
 tres heredades por sus arras si las
@@ -7817,7 +7817,7 @@ finca<n> parta<n> estas heredades como
 el fuero ma<n>da. aylli do es esc<r><<i>>pto
 delas particiones. {RUB. Qvoales pari-
 entes deue<n> ser. & quoa<n>tos al q<u><<i>>tamie<n>to +}
-{IN2.} Quitamie<n>to ¶2 {RUB. delas arras.}
+{IN2.} Quitamie<n>to %2 {RUB. delas arras.}
 de arras. que ningu<n>a muil-
 ler infançona faga asu marido
 ni aotro om<n>e ningu<n>o co<n> fiado-
@@ -7954,7 +7954,7 @@ ere destas cosas et passare ayn-
 no et dia. sin eme<n>dar deue p<er>der
 las cosas que tiene en fealdat.
 {RUB. Como uillano no<n> puede tener fe-aldat. +}
-{IN2.} Nuyll uillano sis casa-re ¶2 {RUB.}
+{IN2.} Nuyll uillano sis casa-re %2 {RUB.}
 co<n> otra uillana. o uilla-
 na co<n> uillano. & sis muere sin
 creaturas el uno deyllos. no<n> sea
@@ -7991,7 +7991,7 @@ et si hermano no ouiere. el mas
 cercano parie<n>t deue auer lo suyo
 et desheredar la. {RUB. Qvoa<n>do infa<n>ço<n>
 pre<n>de dueynna rabida como la de-ue +}
-{IN7.} Infanço<n> po(^l)bre enemiz-tado ¶2 {RUB. traer.}
+{IN7.} Infanço<n> po(^l)bre enemiz-tado %2 {RUB. traer.}
 de muytas partes/ prende
 una dueynna rabida. & uasse des-
 terrar co<n> eylla. este infançon an-
@@ -8035,7 +8035,7 @@ ha/ busq<ue>n co<n>seyllo ho puedan bi-
 uir/ en otra part. {RUB. Qve pena ha el
 infanço<n> q<ue> força infançona. & en q<ue>
 caso deue casar. & qui puede poner +}
-{IN2.} Si nuyll om<n>e a mu-yller ¶2 {RUB. la q<ue>reilla.}
+{IN2.} Si nuyll om<n>e a mu-yller %2 {RUB. la q<ue>reilla.}
 no<n> casada forçare que
 sea infançona. & menos ualiere eil-
 la que aq<ue>ill qui la forçare/ deue
@@ -8084,7 +8084,7 @@ marca/ o la fuerça es feyta. ¶ Em-
 pero si eylla fuere sola/ no<n> deue ca-
 lonia. ni<n> salua. {RUB. Biuda que faze
 putage por quie<n> et como deue s<er> +}
-{IN2.} Muger infa<n>çona ¶2 {RUB. desheredada.}
+{IN2.} Muger infa<n>çona %2 {RUB. desheredada.}
 biuda/ no ouie<n>do creaturas
 si fiziere putage. & se empreynna;
 el ermano maor de pareylla sil dis-
@@ -8229,7 +8229,7 @@ uillanos trobados en adulterio.}
 preso en adulterio. deue por
 calonia/ meyo homizidio. {RUB. Qve
 puede auer el q<ue> es nascido en a-dulterio. +}
-{IN2.} Sobre esto dize el ¶2 {RUB.}
+{IN2.} Sobre esto dize el %2 {RUB.}
 fuero. que desque sabudo
 es/ que en adulterio es nascido
 q<ue> ningu<n>a cosa no<n> deue auer de
@@ -8325,7 +8325,7 @@ tos. ¶ De log[^r]o./ de falsarios.
 penas/ de escomulgados. {IN1.} Tit<u>lo
 p<r><<i>>m[er]o. de feridas/ por quoales
 palauras pelean los om<ne>s & han +}
-{IN6.} Estas son las ¶2 {RUB. calonia.}
+{IN6.} Estas son las %2 {RUB. calonia.}
 palauras por q<ue> los om<ne>s
 pelean en( )semble/ quo-
 andol dize ladro<n> p<ro>ua-
@@ -8399,7 +8399,7 @@ do. ¶ Et otrosi/ si asu madre cla-
 mare puta prouada/ ante bonos o<mne>s
 deue ser desheredado. {RUB. Qve pena ha
 qui fiere asu seynnor o toma arm<<a>>s +}
-{IN2.} De uassayllo q<ue> alça ¶2 {RUB. co<n>tra eyll.}
+{IN2.} De uassayllo q<ue> alça %2 {RUB. co<n>tra eyll.}
 mano por ferir asu seynnor.
 o prende armas por ferir asu sei<n>-
 nor. co<n> testimo<n>ios que aya el se-
@@ -8408,7 +8408,7 @@ ha testimo<n>ios. iure el uassayllo so-
 bre laltar o iura<n> por homizidio
 et sea quito. {RUB. Como no han pena
 fidalgos por feridas yendo en apelli-do. +}
-{IN2.} Si en ningu<n>a comarca se ¶2 {RUB.}
+{IN2.} Si en ningu<n>a comarca se %2 {RUB.}
 leua<n>ta apeyllido/ sobre la pre-
 sa/ o sobre otras cosas. si se fieren
 algu<n>os fidalgos unos aotros mi-
@@ -8433,7 +8433,7 @@ que parezca por siempre. o p<er>der
 miembro/ en la cara o en otro lo-
 gar. deue por calo<n>ia/ meyo homi-
 zidio. {RUB. De no<n> ferir a[ ]ma<n>cebo sol-dadado. +}
-{IN2.} Si algu<n> om<n>e prende ¶2 {RUB.}
+{IN2.} Si algu<n> om<n>e prende %2 {RUB.}
 en su casa ma<n>cebo/ o ma<n>ceba
 entroa un plazo sabido q<ue> sierua.
 el ma<n>cebo no<n> sierue al seynnor
@@ -8462,7 +8462,7 @@ lana no<n> casada/ por saynna como
 dicho es de suso/ si no<n> se saluare
 ha .v. sueldos de calonia. {RUB. Que
 calonia ha qui fiere a[ ]iudio o a +}
-{IN2.} Si algu<n>o fiere a iudio ¶2 {RUB. moro.}
+{IN2.} Si algu<n>o fiere a iudio %2 {RUB. moro.}
 o a moro assi q<ue> la sangre sa-
 yllga. & esto puede ser prouado}
 [fol. 58r]
@@ -8473,7 +8473,7 @@ por xp<<i>><sti>ano/ et por iudio .D. sueldos
 deue por calo<n>ia/ tanto quoa<n>to si lo
 ouiesse muerto. {RUB. La ferida de mo-
 ro. o de bestia como deue ser p<ro>ua-da. +}
-{IN2.} Si moro o bestia de algu-no ¶2 {RUB.}
+{IN2.} Si moro o bestia de algu-no %2 {RUB.}
 fiere al hom<n>e et lo niega;
 con dos leyales testigos cristianos
 li deue prouar. & si prouar no<n> li
@@ -8484,7 +8484,7 @@ rar no<n> quisiere/ renda el moro/ o
 la bestia. {RUB. Qve emienda deue ser
 fecha q<ue> una bestia fiere. plaga. o
 mata aotra. & co<n> q<u><<i>>en deue ser pro-uada. +}
-{IN2.} De buy/ o de bestia otra ¶2 {RUB.}
+{IN2.} De buy/ o de bestia otra %2 {RUB.}
 que fiere aotro buy. o aotra
 bestia/ si fiere et la mata. ha a[ ]dar
 el seynnor dela bestia biua el ho<m>i-
@@ -8501,7 +8501,7 @@ ler co<n> testimo<n>ios de .vij. aynnos
 en asuso. o de ganaderos. o del (^??)a-
 dulero que sea uezinal. {RUB. a q<ue> es
 tenido qui tiene can q<ue> muerde +}
-{IN3.} Si algu<n> om<n>e ha en ¶2 {RUB. a escuso.}
+{IN3.} Si algu<n> om<n>e ha en %2 {RUB. a escuso.}
 casa can que muerde a[ ]es-
 cuso. su seynor li deue dar al pes-
 cueço una ca<m>paneta/ o un ce<n>cerro}
@@ -8515,7 +8515,7 @@ el can. q<ue> faga loq<ue> eyll quisiere d<e>l
 can. {RUB. {IN1.} Titulo .ij<<o>>. de muertes. ¶ De
 no<n> matar rey. & a[ ]qui es tenido el
 fidalgo de dar su cauayllo silo ue +}
-{IN2.} Ningu<n> infançon ¶2 {RUB. en cuyta.}
+{IN2.} Ningu<n> infançon %2 {RUB. en cuyta.}
 no<n> deue ser en co<n>seyllo ni en
 feyto/ por que rey aya de ser
 muerto o preso. ¶ Et si el rey o-
@@ -8653,7 +8653,7 @@ endo de su gent pelea co<n> algu<n>o
 et se fazen daynnos de muer-
 tes de om<ne>s et de bestias por q<u><<o>>a-
 les de sus om<ne>s es tenido de dar +}
-{IN2.} Si om<n>e o infanço<n> ¶2 {RUB. fiança.}
+{IN2.} Si om<n>e o infanço<n> %2 {RUB. fiança.}
 o cauayllero poderoso. o-
 uiendo creaturas fillos et fil-
 las. caueros. uassayllos/ et es-cuderos/}
@@ -8811,7 +8811,7 @@ uelo/ no<n> deue<n> entrar en bataylla.
 yllas. ¶ Qvoa<n>do algu<n> fidalgo +}}
 {CB2.
 {RUB. es reptado aquoal es tenido de res-ponder. +}
-{IN3.} Si fidalgo ninguno ¶2 {RUB.}
+{IN3.} Si fidalgo ninguno %2 {RUB.}
 fuere reptado en cort. & a
 iuyzio et a[ ]bie<n> uista dela
 cort/ fuere una uegada saluo. o
@@ -8873,7 +8873,7 @@ al quiere destas quoatro cosas fa-
 ziendo. el reptado es quito del mal
 dicho que li fue. {RUB. De co<m>batimie<n>to
 de fidalgos et en q<ue> manera se sal-ua +}
-{IN2.} Si fidalgo nin-guno ¶2 {RUB. el reptado.}
+{IN2.} Si fidalgo nin-guno %2 {RUB. el reptado.}
 ouiere a[ ]combater/ sobr<e>
 reptamie<n>to de su cuerpo. & el caua-
 yllo saylliere fuera delas corseras
@@ -8940,7 +8940,7 @@ cerca el cuerpo. en las garras sobr<e>
 los tortuelos; no<n> dema<n>de p<ar>entesco
 ni<n> riqueza. {RUB. De como om<n>e muerto
 no ha tornas a[ ]bataylla sino por tray-cion. +}
-{IN2.} Hom<n>e muerto/ no ha ¶2 {RUB.}
+{IN2.} Hom<n>e muerto/ no ha %2 {RUB.}
 tornas a bataylla/ por ni<n>gu<n>
 feyto. ni<n> sus fillos. ni<n> sus p<ar>ientes
 por eyll/ no<n> puede<n> tornar a[ ]batail-
@@ -8949,7 +8949,7 @@ on lo mato. {RUB. Como deue ser fecha
 bataylla de escudo et baston. & do<n>t
 deue ser el co<n>semble. & como et en
 quoales miembros deue<n> ser midi-dos. +}
-{IN2.} Bataylla de escudo et bas-ton/ ¶2 {RUB.}
+{IN2.} Bataylla de escudo et bas-ton/ %2 {RUB.}
 si ha fazer laurador del
 rey. Los de artayssona son tenidos
 de[ ]dar el batayllero. et trobando el
@@ -8994,7 +8994,7 @@ surar como dito es. & q<u><<i>> meior ygo-
 ale co<n> eyll/ dalto/ et en ancho ba-
 taylle co<n> eyll/ como dicho es. {RUB. Por
 quoal cosa no<n> deue ni<n>gu<n>o ser rep-tado. +}
-{IN2.} Nuyll om<n>e/ no<n> deue s<er> ¶2 {RUB.}
+{IN2.} Nuyll om<n>e/ no<n> deue s<er> %2 {RUB.}
 reptado por traydor/ porq<ue>
 matare a[ ]om<n>e/ por qui aya de pey-tar}
 [fol. 61v]
@@ -9323,7 +9323,7 @@ tro ganado/ el homizidio dando/
 no ayan q<ue>reylla del seynnor. {RUB. Por
 muerte de quoales es fidalgo ho<m>i-
 ziero. como sila bestia matare es ho-miziero. +}
-{IN2.} Si un fidalgo mata-re ¶2 {RUB.}
+{IN2.} Si un fidalgo mata-re %2 {RUB.}
 a otro/ no<n> deue auer homi-
 zidio el rey. mas si matare aotro
 fra<n>co. o uillano. o iudio. o moro.
@@ -9336,7 +9336,7 @@ es homiziera/ et deue el homizi-
 dio. {RUB. Por muerte de quoales p<ar>tes
 deue fidalgo homizidio. & como
 parie<n>tes puede<n> emparar al ho<m>i-ziero.}
-{IN2.} Si fidalgo ninguno ¶2 {RUB.}
+{IN2.} Si fidalgo ninguno %2 {RUB.}
 matare franco. o uillano
 del rey. o moro. o iudio. deue a-
 uer el rey homizidio daqueyll q<u><<i>>
@@ -9354,7 +9354,7 @@ peytando un homizidio deuen s<er>
 quitos de todos embargos. la calo-
 nia es .D. sueldos. {RUB. Como a[ ]fidal-
 go no<n> puede dema<n>dar sen q<ue>reil-la<n>t +}
-{IN2.} Si fidalgo ni<n>-gu<n>o ¶2 {RUB. ho<m>izidio.}
+{IN2.} Si fidalgo ni<n>-gu<n>o %2 {RUB. ho<m>izidio.}
 matare a[ ]uillano del
 rey/ o de orde<n>. o en( )cartado. & si
 por aue<n>tura homizidio li q<u><<i>>eren
@@ -9375,7 +9375,7 @@ dema<n>dar/ a uilla en( )cartada ho<m>i-
 zidio. sino ala p<er>sona q<ue> mato.
 {RUB. Como no<n> deue homizidio maes-
 tro q<ue> mata a escolar cont<r><<a>> su uo-lu<n>tat. +}
-{IN2.} El maestro q<ue> tiene ¶2 {RUB.}
+{IN2.} El maestro q<ue> tiene %2 {RUB.}
 escolares. & fiere al escolar
 en manera que muere. no oui-endo}
 [fol. 64r]
@@ -9460,7 +9460,7 @@ no<n> deue dar mesuras/ de pa<n>/ ni<n>}
 de uino/ en todo el regno de nauar-
 ra. {RUB. Como & ho por fuero antigo
 uillano de sant saluador no<n> de-ue +}
-{IN2.} Fuero antigo ¶2 {RUB. homizidio.}
+{IN2.} Fuero antigo %2 {RUB. homizidio.}
 es/ que ningu<n> uillano de sa<n>t
 saluador de leyre/ no<n> deue pagar
 homizidio; de sant marti<n> de aspa
@@ -9468,7 +9468,7 @@ en adelant/ en la cue<n>q<u><<a>> de Pomplo-
 na. ni en las mo<n>taynnas. {RUB. Ho de-
 ue<n> ser rendidos los homizidios. &
 como hi ningu<n>o no<n> deue auer es-cusados. +}
-{IN2.} En la sied del rey o ¶2 {RUB.}
+{IN2.} En la sied del rey o %2 {RUB.}
 anda su iuueria/ por homi-
 zidios. & por muytas cosas/ rien-
 den hi los captiuos. & por esso/ nu-
@@ -9477,7 +9477,7 @@ escusados./ que deue<n> fer la labor
 del rey/ et catar los captiuos. {RUB. Q<ue>
 homizidio ha qui mata o fiere iu-
 dio. o moro. & como et co<n> q<u><<i>>e<n> deue +}
-{IN2.} Nuyll om<n>e q<u><<i>> matare ¶2 {RUB. p<ro>uar.}
+{IN2.} Nuyll om<n>e q<u><<i>> matare %2 {RUB. p<ro>uar.}
 iudio. o moro. en mercado
 o en otro logar. ha calo<n>ia .D. su-
 eldos. por ferir al iudio ha calo-
@@ -9490,7 +9490,7 @@ rir. & no<n> saylliendo sangre./ p<ro>ua<n>-
 do como sobrescripto es/ ha por
 calonia .lx. sueldos. {RUB. Qve homi-
 zidio han los q<ue> matan alcaldes +}
-{IN2.} Nuyll hom<n>e q<u><<i>> ¶2 {RUB. o merinos.}
+{IN2.} Nuyll hom<n>e q<u><<i>> %2 {RUB. o merinos.}
 matare alcalde del rey/ que
 sea por el rey. es la calonia .D. s<ueldo>s.}
 {CB2.
@@ -9514,7 +9514,7 @@ por que el hom<n>e cayere co<n> eilla.
 o sin eylla/. & moriere; la bestia
 no es homiziera/ q<ue> assi es el fu<er>o.
 {RUB. De dos bestias q<ue>s mata<n>. q<u><<o>>al es ho<m>i-ziera. +}
-{IN2.} De dos bestias ligada<<s>> ¶2 {RUB.}
+{IN2.} De dos bestias ligada<<s>> %2 {RUB.}
 si son dos cauayllos ligados.
 o otras dos bestias. & desliga[^s] la
 una/ et mata ala ligada. co<n> testi-
@@ -9552,7 +9552,7 @@ tanta es la calonia sobre aq<ue>ill
 que es mal merie<n>t/ sacado en fazi-
 enda. {RUB. En que manera no ha calo-
 nia qui mata can. & como deue fa-zer +}
-{IN2.} Si ningun ¶2 {RUB. suyo el can.}
+{IN2.} Si ningun %2 {RUB. suyo el can.}
 can muerde a hom<n>e a escu-
 so souiendo a[ ]ribera/ ol suzia pai<n>-
 nos. por que mate al can como q<u><<i>>-
@@ -9774,7 +9774,7 @@ los hombres que la fiziero<n> adu-
 gan los al rey. & sean en la iusti-
 cia del rey. {RUB. Qve pena ha qui roba
 a su enemigo. & como deue ser p<ro>ua-da +}
-{IN2.} Si fidalgo ha ¶2 {RUB. la perdida.}
+{IN2.} Si fidalgo ha %2 {RUB. la perdida.}
 enemiztat co<n> otro fidalgo
 no<n> deue<n> robar uno aotro. & si ro-
 bare deue yr al rey el robado/ et
@@ -9952,7 +9952,7 @@ la batailla/ deue se render por la-
 dron paladiname<n>t. si mueble ha.
 et dela heredat deue iurar q<ue> no
 ha mas. {RUB. Como labrador se deue +}
-{IN2.} Si el labra-dor ¶2 {RUB. saluar sobr<e> furto.}
+{IN2.} Si el labra-dor %2 {RUB. saluar sobr<e> furto.}
 furtare alguna cosa al}
 {CB2.
 fidalgo. & el fidalgo li dema<n>dare
@@ -10005,7 +10005,7 @@ q<ue> es de furto si comiere/ tan bie<n>
 pueden dema<n>dar aeyll/ como a
 los ladrones. {RUB. Q<ue> carne puede co-
 mer furtada en cabaynna de puer-cos. +}
-{IN2.} Si nuyll om<n>e fuere ala/ ¶2 {RUB.}
+{IN2.} Si nuyll om<n>e fuere ala/ %2 {RUB.}
 cabaynna de puercos. & si en
 la primera nuyt li diere<n> carne
 de puerco a[ ]comer porq<ue> fuere de
@@ -10039,7 +10039,7 @@ deue<n> auer calonia et pagar los
 daynnos como fuero manda. {RUB. Q<ue>
 calo<n>ia ha qui furtare cencerro a[ ]ua-
 ca. o furtare uaca. & si tomare buy +}
-{IN2.} Qui furtare ¶2 {RUB. en cabaynna.}
+{IN2.} Qui furtare %2 {RUB. en cabaynna.}
 cencerro a[ ]uaca ha por calo<n>ia
 .x. kafizes de trigo/ o el homizidio
 pagan en pan. & ho paga<n> por ho<m>i-
@@ -10065,7 +10065,7 @@ por calonia .lx. sueldos por el cre-
 bantamie<n>to que fizo en la caba-
 ynna. & emie<n>de el daynno ente-
 grame<n>t. {RUB. Q<ue> calo<n>ia ha q<u><<i>> furta pu-erco. +}
-{IN2.} Todo om<n>e qui furtare/ ¶2 {RUB.}
+{IN2.} Todo om<n>e qui furtare/ %2 {RUB.}
 puerco aylleno si fuere}
 [fol. 68v]
 {HD. L<IBRO>}
@@ -10111,7 +10111,7 @@ como fuero es. & por calo-
 nia .CCC. sueldos. qui matare. o
 robare. peyte la calo<n>ia sobredicha.
 {RUB. Como se deue om<n>e saluar por bes-tia +}
-{IN2.} Si ningun ho<mn>e ¶2 {RUB. furtada.}
+{IN2.} Si ningun ho<mn>e %2 {RUB. furtada.}
 robare bestia de q<u><<o>>atro pies
 furtada aotro/ deue trauar deilla.
 et si se clamare al auctor de co<m>pra.
@@ -10125,7 +10125,7 @@ mo es su nascida/ et so criada./ o como
 la ha. & si no/ salga por ladron/ et
 deue peytar las nouenas. {RUB. Qve
 pena ha qui furta carnero q<ue> traye +}
-{IN2.} Si algu<n>o en las oue-yllas ¶2 {RUB. cencerro.}
+{IN2.} Si algu<n>o en las oue-yllas %2 {RUB. cencerro.}
 furtare el carnero q<ue>
 traye al pescueço la campaneta/
 por amor que furte las oueillas.
@@ -10171,7 +10171,7 @@ su ue<n>tura del furto. q<ue> ganados ay
 que han gra<n>t calonia. & los ladro-
 nes iusticia. {RUB. Q<ue> calonia ha qui fur-
 ta canes de casa. maustinos./ o otros +}
-{IN2.} Qui furtare galgo ¶2 {RUB. canes.}
+{IN2.} Qui furtare galgo %2 {RUB. canes.}
 que caça/ q<ue> traye correya al
 pescueço con la sortilla. deue por ca-
 lonia .C. sueldos. ¶ Q<u><<i>> alan fur-
@@ -10197,7 +10197,7 @@ tare pague .lx. sueldos por calo<n>ia.
 ¶ Qvi furtare alano q<ue> cace. o
 matare. pague .lx. sueldos por ca-
 lonia. {RUB. Q<ue> emie<n>da deue fer q<u><<i>> fur-ta +}
-{IN2.} De gato furtado. si ¶2 {RUB. gato.}
+{IN2.} De gato furtado. si %2 {RUB. gato.}
 algu<n> om<n>e ay/ que aya furta-
 do gato. & troban el ladron/ atal es
 su calonia/ que el seynnor del ga-
@@ -10234,7 +10234,7 @@ dientes. esto fecho sea quito el
 ladro<n>. & si esto co<n>tece en logar q<ue>
 no aya mijo. ha por calonia .xxi.
 kafiz[es] de trigo. [^2#si echan amigadura .iij. k<afizes> t<r><<i>>go] {RUB. Q<ue> calo<n>ia ha q<u><<i>> +}
-{IN2.} Todo om<n>e q<u><<i>> ¶2 {RUB. furta aztor.}
+{IN2.} Todo om<n>e q<u><<i>> %2 {RUB. furta aztor.}
 furtare aztor desata<n>do de
 percha/ o sacando de casa. deue
 peytar .C. sueldos./ & si fuere mu-
@@ -10246,7 +10246,7 @@ do fuere. por cada muda .C. s<ueldo>s.
 calonia .xx. sueldos. & si mu-
 dado fuere. por cada muda .xx. s<ueldo>s.
 {RUB. Q<ue> calo<n>ia ha q<u><<i>> furta aue de gayo-la. +}
-{IN2.} Todo om<n>e qui furta a-ue ¶2 {RUB.}
+{IN2.} Todo om<n>e qui furta a-ue %2 {RUB.}
 de gayola. si fabla deue
 peytar .lx. sueldos. & quoa<n>tos ai<n>-
 nos ouiere fablado. por cada a-
@@ -10285,7 +10285,7 @@ al rey. o ordio. o el ordio dan
 por calonia. delas uinnas [^2#vjno d[an]] dan
 el uino al rey. q<ue> assi es fuero.
 {RUB. Q<ue> calo<n>ia ha qui furta agoa de +}
-{IN2.} Si algu<n>o rega ¶2 {RUB. dia o de noch.}
+{IN2.} Si algu<n>o rega %2 {RUB. dia o de noch.}
 su heredat. o de dia o de noch
 quoa<n>do se acaeciere la agoa por
 su part. si otro om<n>e quisquisie-
@@ -10308,7 +10308,7 @@ et sil furtan de noch .lx. sueldos.
 {RUB. Qve pena deue auer qui recibe la-
 dron et furto. & como no<n> deue ser
 dema<n>dada la muert del ladro<n> et +}
-{IN2.} Qui sabidament ¶2 {RUB. como no.}
+{IN2.} Qui sabidament %2 {RUB. como no.}
 recibe furto. deue auer la pe-
 na que deuia auer el ladron./ si de
 dia se quiere defender el ladron
@@ -10342,13 +10342,13 @@ et ua dela<n>t l[ ]alcalde/ proua<n>do los
 otros. deue por calonia .lx. suel-
 dos. & eme<n>dar el daynno como
 dicho es de suso. {RUB. Ata q<u><<o>>anto pue-de +}
-{IN2.} Toda deuda ¶2 {RUB. subir logro.}
+{IN2.} Toda deuda %2 {RUB. subir logro.}
 que a[ ]logro sea presa de que
 sea tanto et meyo no<n> deue subir
 mas el logro. ata( )q<ue> sea pagado no<n>
 deue lograr {RUB. {IN1.} Titulo .ix<<o>>. de falsa-
 rios del qui se mete falso nompne +}
-{IN3.} Qui falso no<m>pne ¶2 {RUB. et es falso.}
+{IN3.} Qui falso no<m>pne %2 {RUB. et es falso.}
 se meta assi mismo/ o se
 faz fillo/ daq<ue>ill de qui no
 es fillo/ por falso sera tenido. {RUB. Q<ue>
@@ -10370,7 +10370,7 @@ et tienga mayor o menor/ en fal-
 sedat es trobado. {RUB. {IN1.} Titulo .x<<o>>. de
 caças. ¶ En caça de puerco. o de
 corço. o de cierbo. q<ue> deue au<er> qui +}
-{IN3.} Venado q<ue> mata ¶2 {RUB. p<r><<i>>mero fiere.}
+{IN3.} Venado q<ue> mata %2 {RUB. p<r><<i>>mero fiere.}
 en mo<n>t/ el qui fiere prim<er>o
 el puerco mo<n>tes. aqueyll
 deue auer la cabeça co<n> el pescueço}
@@ -10385,7 +10385,7 @@ otrosi q<u><<i>> primero lo feriere/ deue a-
 uer el cuero co<n> las ancas/ et la me-
 atat dela carne. {RUB. Q<ue> deue auer q<u><<i>>
 mata caça en yermo. & q<ue> en poblado +}
-{IN2.} Si ningu<n> om<n>e ua em-pues ¶2 {RUB. mata<n>do.}
+{IN2.} Si ningu<n> om<n>e ua em-pues %2 {RUB. mata<n>do.}
 caça co<n> sus canes. & ma-
 ta la caça en yermo. todo deue ser su-
 yo. & si uiniere a[ ]poblado/ et sayllen
@@ -10443,7 +10443,7 @@ dela calonia deue ser del peyndra-
 dor. & la otra meatat del rey. {RUB. Qvo-
 anta es la calonia del q<u><<i>> para re-
 des a p<er>dizes/ o coçuelo. o losa. o la-zo. +}
-{IN2.} Ningun hombre no<n> de-ue/ ¶2 {RUB.}
+{IN2.} Ningun hombre no<n> de-ue/ %2 {RUB.}
 parar redes a[ ]p<er>dizes. &
 si para ha por calo<n>ia .lx. sueldos.
 qui para coçuelo .x. sueldos. q<u><<i>>
@@ -10471,7 +10471,7 @@ canes. & q<ue> part et ata quoa<n>do deue<n>
 alçar al qui mouio la caça. & como
 no<n> deue<n> toyller la caça al qui la
 mouio. maguer otros la mate<n> si la +}
-{IN2.} Ningu<n> uillano no<n>/ ¶2 {RUB. seguecen.}
+{IN2.} Ningu<n> uillano no<n>/ %2 {RUB. seguecen.}
 deue caçar ningu<n>a caça sa-
 cando co<n> tocho/ saluo delas fieras
 como puerco mo<n>tes. onso. o ci-
@@ -10560,7 +10560,7 @@ uado/ no<n> li deyssara en( )trar en su
 casa. del seynnor dela casa/ fuera<<s>>
 et prenga dreyto deyll si podie-
 re. {RUB. Q<ue> calo<n>ia ha q<u><<i>> creba<n>ta casa de +}
-{IN2.} Nuyll om<n>e q<u><<i>> crebanta ¶2 {RUB. rey.}
+{IN2.} Nuyll om<n>e q<u><<i>> crebanta %2 {RUB. rey.}
 casa de rey. o de infançon
 en l[ ]alcaldia de pomplona. o de
 esteylla. es la calo<n>ia .xxv. suel-
@@ -10589,7 +10589,7 @@ si fuere dotro regno el q<ue> crebanta
 el coto. deue<n> li toyller lo q<ue> lieua
 del regno./ & lo[ ]al no. que assi es
 el fuero. {RUB. Q<ue> calo<n>ia ha q<u><<i>> creba<n>ta +}
-{IN2.} Qve calo<n>ia ha ¶2 {RUB. cabaynna.}
+{IN2.} Qve calo<n>ia ha %2 {RUB. cabaynna.}
 qui creba<n>ta cabaynna de ua-
 cas. o de oueyllas. o de puercos. o
 de iegoas brauas. es la calonia .lx.
@@ -10609,7 +10609,7 @@ ynna no<n> deue calonia. ¶ Et}
 si prisiere/ o leuare aotro logar.
 deue la calonia q<ue> de suso es esc<r><<i>>p-
 ta. {RUB. Qve calo<n>ia ha qui creba<n>ta hu-erto. +}
-{IN2.} Todo om<n>e qui creba<n>ta ¶2 {RUB.}
+{IN2.} Todo om<n>e qui creba<n>ta %2 {RUB.}
 huerto co<n> puertas. o parral
 o uinna. deue peytar por el creba<n>-
 to .v. sueldos. & peytar el daynno.
@@ -10640,7 +10640,7 @@ fierros et las puertas del moli<n>o
 et no<n> deura por esso calonia.
 {RUB. Como ni<n>gu<n>o no<n> deue q<ue>mar casa<<s>>
 ni<n> fayssinas. si no<n> so<n> de<n>tro los ene-migos. +}
-{IN2.} Ningu<n> om<n>e no<n> de-ue ¶2 {RUB.}
+{IN2.} Ningu<n> om<n>e no<n> de-ue %2 {RUB.}
 quemar casas. ni<n> fays-sinas.}
 {CB2.
 ni<n> descepar uinnas. ni es-
@@ -10676,7 +10676,7 @@ si la camisa li esnuare peyte la ca-
 lonia .C. & .xx. sueldos. si puede
 ser prouado. {RUB. Como el padre no
 es tenido de pechar el mal fecho d<e>l +}
-{IN2.} Por mal fecho que faga ¶2 {RUB. fijo.}
+{IN2.} Por mal fecho que faga %2 {RUB. fijo.}
 creatura de fidalgo al rey
 o al infanço<n>. o al laurador non}
 [fol. 72v]
@@ -10716,7 +10716,7 @@ rayz. deue tres rouos de trigo. &
 tres de ordio por fuero. {RUB. Q<u><<i>> deue
 eme<n>dar daynno q<ue> faz el destieillo
 de casa et como deue s<er> limpiado el +}
-{IN2.} Si el desti-eyllo ¶2 {RUB. albuyllo<n> de comu<n>.}
+{IN2.} Si el desti-eyllo %2 {RUB. albuyllo<n> de comu<n>.}
 dela una casa caye en}
 {CB2.
 la otra casa del uezino. el seynor
@@ -10732,7 +10732,7 @@ bargado en dreyto de su casa faga
 lo adobar co<n> sus dineros assi q<ue> la
 agoa passe bien. {RUB. Q<u><<i>> deue pechar
 el daynno q<ue> faze can q<ue> entra en +}
-{IN2.} Si algun can entra ¶2 {RUB. terrado.}
+{IN2.} Si algun can entra %2 {RUB. terrado.}
 por terrado dalgu<n> om<n>e. et
 faz daynno ad algunos uezi<n>os
 alderredor. el seynnor del terra-
@@ -10750,7 +10750,7 @@ mendar la calonia segu<n>t q<ue> es
 el mal feyto. ¶ Mas si dize ay-
 ech no aya calonia. {RUB. Q<ue> drecho
 deue<n> dar los ganaderos de gana-do +}
-{IN2.} A porquero./ o a ¶2 {RUB. perdido.}
+{IN2.} A porquero./ o a %2 {RUB. perdido.}
 cabrarizo./ o a[ ]pastor. sil tu-
 eylle en el mo<n>t. puerco. o cabra.
 o oueia. lobo o otra fiera ni<n>gu-
@@ -10784,7 +10784,7 @@ sueldos. ¶ Maguera la ca-
 lonia delos palombares deue ser
 delos seynnores cuyos son los
 palombares. {RUB. Q<ue> calonia ha q<u><<i>> ra<n>-ca +}
-{IN2.} Si ningu<n> hom<n>e ¶2 {RUB. moiones.}
+{IN2.} Si ningu<n> hom<n>e %2 {RUB. moiones.}
 rancare moiones q<ue> paren
 los uezinos ha por calonia .lx.
 sueldos. qui saca moion que esta
@@ -10935,7 +10935,7 @@ et los moros/ rienda<n> al rey. o ad a-
 queyll merino/ en cuyo sei<n>norio
 este feyto auiniere. {RUB. Qve emien-
 da deue fazer q<u><<i>> suelta alos moros +}
-{IN2.} Si algu<n>o fayllare ¶2 {RUB. captiuos.}
+{IN2.} Si algu<n>o fayllare %2 {RUB. captiuos.}
 moros captiuos que sea<n> dotro
 et se fueren. si aq<ue>ill q<ue> los soltare
 delos fierros./ o los guiare por que
@@ -10945,7 +10945,7 @@ deue peytar otros tantos de capti-
 uos/ et tan buenos. {RUB. {IN1.} Titulo .xiij<<o>>.
 de escomulgamie<n>to. ¶ Q<u><<i>> deue
 sacar dela eglesia al om<n>e escomul-gado. +}
-{IN3.} Si el om<n>e escomulgado ¶2 {RUB.}
+{IN3.} Si el om<n>e escomulgado %2 {RUB.}
 fuere ala glesia quoando
 tocare la campana. & no<n> q<u><<i>>sie-re}
 {CB2.
@@ -10958,7 +10958,7 @@ tar por q<ue> no<n> dissieren horas/ mie<n>-
 tre eyll estidiere en la glesia de<n>tro.
 {RUB. En quoa<n>tas casas puede deman-
 dar et en q<u><<o>>ales no om<n>e asu capti-uo. +}
-{IN2.} Si algu<n>o ha moro/ o mora ¶2 {RUB.}
+{IN2.} Si algu<n>o ha moro/ o mora %2 {RUB.}
 et por ue<n>tura se fuye de dia
 o de nuyt el moro o la mora. & su
 seynnor cuyda que sea escondido
@@ -10982,7 +10982,7 @@ de molinos. de laura<n>ças. de faza<n>ias.
 et quoa<n>do deue ser el uedado nu-
 euo de cauaillos. & quoales bestias
 deue<n> pascer et q<u><<i>> deue catar en el +}
-{IN6.} Los infançones ¶2 {RUB. prado.}
+{IN6.} Los infançones %2 {RUB. prado.}
 si quieren fer uedado
 de cauaillos luego.
 deue<n> yr ala sied del rei
@@ -11053,7 +11053,7 @@ las calonias destos uedados los}
 costieros. & eyllos eme<n>dar el dai<n>no
 como ma<n>da el fuero. {RUB. Qvoal buy
 et quoa<n>do deue pascer en el ueda-do +}
-{IN2.} Todo buy ¶2 {RUB. delos buyes.}
+{IN2.} Todo buy %2 {RUB. delos buyes.}
 domado de infançon/ deue
 pascer en el uedado de buyes. sa-
 ylliendo dela uilla/ et uenie<n>do
@@ -11080,7 +11080,7 @@ destos uedados/ es de dia un rouo
 de trigo/ et de nuytes un kafiz
 de trigo. {RUB. Qvoal & quoa<n>to deue
 ser el uedado delos buyes. & ata +}
-{IN2.} Si todos los uezi<n>os ¶2 {RUB. quoando.}
+{IN2.} Si todos los uezi<n>os %2 {RUB. quoando.}
 infançones et lauradores
 et uillanos quisiere<n> romper el
 uedado delos buyes. [^2#& vno] solo delos
@@ -11137,7 +11137,7 @@ ont tiene. {RUB. Como et en quoales lo-
 gares puede<n> pascer los ganados de
 las uillas fazeras. & en quoal man<er>a
 deue<n> dar logar o albergue<n> alos gan<<a>>-dos +}
-{IN2.} Las uillas faze-ras ¶2 {RUB. ayllenos.}
+{IN2.} Las uillas faze-ras %2 {RUB. ayllenos.}
 que han los terminos cog-
 noscidos/ puede<n> pascer de part los
 restoyllares/ ata las heras/ de sol a[ ]sol
@@ -11223,7 +11223,7 @@ sa es/ que del dia de sant miguel ata
 no ha occasion de ganado matar.
 {RUB. Q<ue> emienda deue ser fecha por
 daynno q<ue> faze<n>/ oueyllas en bar-beytos. +}
-{IN2.} Si entridiere<n> [^2#en Setie<m>bre] greyes de ¶2 {RUB.}
+{IN2.} Si entridiere<n> [^2#en Setie<m>bre] greyes de %2 {RUB.}
 oueyllas./ o una o dos greyes
 o mas. depues q<ue> entridiere<n> seyendo
 la tierra muyllada de pluuia/ en los
@@ -11326,7 +11326,7 @@ uino. esso mismo los puercos si fu-
 ere<n> mas de cinq<u><<o>>. {RUB. Q<ue> calo<n>ia han los
 ganados que entran en huerto cer-
 rado. & q<ue> et q<u><<o>>ando om<n>e entra por fur-tar. +}
-{IN2.} En todo huerto q<ue> ha postal ¶2 {RUB.}
+{IN2.} En todo huerto q<ue> ha postal %2 {RUB.}
 et gatos por la entrada ha .v<<o>>.
 sueldos de calo<n>ia. & quoa<n>tas cabeças
 de colles taiaren tantos .v. sueldos. &
@@ -11338,7 +11338,7 @@ pague la calonia co<n> el daynno.
 {RUB. Como deue<n> dar los uezinos logar
 / o pazca el ganado en( )fermo. & ata
 quoa<n>do no<n> deue se boluer co<n> el ot<r><<o>> +}
-{IN2.} Si ganados enferma-ren. ¶2 {RUB. ganado.}
+{IN2.} Si ganados enferma-ren. %2 {RUB. ganado.}
 ad aq<ue>ill qui los uezinos
 accusare<n> q<ue> su ganado es en( )fermo/
 deue<n> li dar paztura apartada/ ho
@@ -11385,7 +11385,7 @@ erto. & ata quoa<n>do ha hom<n>e calo<n>ia
 si parare geynno en el puerto. et
 si ganado moriere. & q<u><<i>> deue peytar
 el homizidio del om<n>e ferido en el +}
-{IN2.} Agora uos contare-mos ¶2 {RUB. puerto.}
+{IN2.} Agora uos contare-mos %2 {RUB. puerto.}
 delos fueros delos puer-
 tos et delas tierras. ¶ Daquent
 puertos et dayllent puertos p<ar>ti-
@@ -11486,7 +11486,7 @@ podiere<n> en aq<ue>illa uezindat. & si des-
 ta guisa no<n> fiziere<n>/ puede el rey de-
 ma<n>dar quinta. {RUB. Creaturas q<ue> no ha<n>
 uezindat como puede<n> engoardar +}
-{IN2.} Si fidalgo oui-ere ¶2 {RUB. sus puercos.}
+{IN2.} Si fidalgo oui-ere %2 {RUB. sus puercos.}
 creaturas q<ue> no ayan ue-
 zindat conoscida en otro logar/ et
 los touiere en su casa. si puercos o-
@@ -11538,7 +11538,7 @@ to al rey/ por aqueylla quinta.
 {RUB. {IN1.} Titulo .ij<<o>>. de tayllazones. de mo<n>-
 tes et roturas. a[ ]querer de quie<n> de-
 ue<n> ser fechas. & como deue<n> ser par-tidas. +}
-{IN3.} En las uillas del rey ¶2 {RUB.}
+{IN3.} En las uillas del rey %2 {RUB.}
 / o embargo no ha/ et ho q<u><<i>>n-
 ta no ha. infançones h<er>ederos
 quoando quisiere<n> en el termino fer
@@ -11627,13 +11627,13 @@ una coqua de uino. & un carne-
 ro. quoal el fuero manda. & esta
 calonia es clamada {BAS. gauca a[ ]ari.}
 {RUB. Q<ue> calo<n>ia ha q<u><<i>> corta arbor en bus-taliza. +}
-{IN2.} Ningun om<n>e q<u><<i>> en ¶2 {RUB.}
+{IN2.} Ningun om<n>e q<u><<i>> en %2 {RUB.}
 bustaliza de montaynna ar-
 bor conoscido cortare de busta-
 liza .i. buy nouieyllo deue por
 calonia/ que assi es el fuero. {RUB. Q<u><<o>>-
 al arbor puede<n> los uezinos cor-tar +}
-{IN2.} Maguera si ni<n>-gun ¶2 {RUB. sin calo<n>ia.}
+{IN2.} Maguera si ni<n>-gun %2 {RUB. sin calo<n>ia.}
 arbor souiere en yssi-
 da dela uilla/ en logar atal que
 quoa<n>do los uezinos siega<n>/ o ue<n>-
@@ -11968,7 +11968,7 @@ no<n> goardan. & q<ue> calo<n>ia deue<n> pre<n>-der +}}
 quoales fruytos es tenido de goar-
 dar. & ata quoa<n>do et de quoal tiem-
 po adelant no<n> se deue pagar el da-ynno. +}
-{IN2.} Ninguna uilla reale<n>-ca ¶2 {RUB.}
+{IN2.} Ninguna uilla reale<n>-ca %2 {RUB.}
 o aya infançones et uil-
 lanos de rey o de orden. o de encar-
 tados. por la sant miguel deue<n> di-
@@ -12081,7 +12081,7 @@ nadal. des[ ]i adela<n>t no es tenido de
 pagar/ el qui deue la calo<n>ia. {RUB. Qvo-
 ando es escusado infanço<n> de coste-
 rias. & quoa<n>do uilla<n>o de costeria et +}
-{IN2.} Ningu<n> om<n>e maguer/ ¶2 {RUB. de pecha.}
+{IN2.} Ningu<n> om<n>e maguer/ %2 {RUB. de pecha.}
 que sea uezino/ si no<n> se<m>pnare
 en su heredat por q<ue> no aya fruyto
 no<n> deue costeria. ¶ Emp<er>o en su
@@ -12212,7 +12212,7 @@ to por bien touiere<n> {RUB. {IN1.} Titulo .v<<o>>.
 de agoas. ¶ En quoal man<er>a pue-
 den tomar logar por fazer fue<n>tes
 quoa<n>do han mengoa de agoas los +}
-{IN3.} Uillas ay en nauar-ra ¶2 {RUB. uezinos.}
+{IN3.} Uillas ay en nauar-ra %2 {RUB. uezinos.}
 que ay pocas agoas. en lo-
 gares flacas fue<n>tes. en estos
 logares atales si algu<n>o delos uezi<n>os
@@ -12233,7 +12233,7 @@ prenga<n> por el mas cercano logar}
 {CB2.
 et mas guisado. {RUB. Qvoa<n>do da o tu-
 eylle dela heredat/ a om<n>e agoa +}
-{IN2.} De agoa cabdal qui ¶2 {RUB. cabdal.}
+{IN2.} De agoa cabdal qui %2 {RUB. cabdal.}
 da et tueylle que es como
 segunt de rey. ¶ Es a[ ]ssaber que
 toda agoa cabdal q<ue>s redrada de
@@ -12262,7 +12262,7 @@ tornar la al braço q<ue> es madre. por
 q<ue> no<n> pierda su heredat. {RUB. Por toyl-
 ler agoa que no es cabdal no<n> de-
 ue p<er>der de su heredat si moiones +}
-{IN2.} Si algu<n>a agoa ay q<ue> no<n> ¶2 {RUB. ay.}
+{IN2.} Si algu<n>a agoa ay q<ue> no<n> %2 {RUB. ay.}
 sea cabdal et tueylle aun
 termino et da aotro./ o tueylle
 aun uezino et da aotro. si mo-
@@ -12328,7 +12328,7 @@ el molino que se faz de nueuo. &
 como la presa nueua non deue
 embargar ala uieia. & ata q<ue> tie<m>po
 deue auer sus dreytos la rueda a-un q<ue> +}
-{IN2.} Si algu<n>o fiziere ¶2 {RUB. yaga.}
+{IN2.} Si algu<n>o fiziere %2 {RUB. yaga.}
 ru[e]da o molino nueuo si hu-
 uiare a[ ]dar li agoa como se pueda
 la muela aderredor .iij. uezes tor-
@@ -12392,7 +12392,7 @@ del rodero. mas por auer paz el
 rodero lieue el pan mesurado et
 torne lo mesurado. {RUB. Q<ue> emienda
 deue ser fecha por molino q<ue> fre-sa. +}
-{IN2.} De molino que fresa la ce-uera ¶2 {RUB.}
+{IN2.} De molino que fresa la ce-uera %2 {RUB.}
 deue render la farina
 fresada co<n> dos q<u><<o>>artales de ceuera
 et deue moler el saluado q<ue> saldra
@@ -12401,7 +12401,7 @@ quoartal<e>s de ceuera todo en un<<a>>
 por q<ue> el molinero deue dar bona
 farina. {RUB. De quoal daynno/ o menos-
 cabo que se faz en la rueda es te-nido +}
-{IN2.} De molino q<ue> ¶2 {RUB. el rodero.}
+{IN2.} De molino q<ue> %2 {RUB. el rodero.}
 cola de dia no<n> deue eme<n>dar
 el daynno. mas si cola de nuyt.
 aq<ue>ill menoscabo deue emendar
@@ -12450,7 +12450,7 @@ hom<n>e a[ ]laurar sua heredat. & como
 deue cada aynno renouar al lau-
 rador et q<ue> semie<n>t deue sempnar.
 et q<ue> p<ar>t deue auer el sei<n>nor del fru-yto. +}
-{IN2.} Todo hombre qui da al ¶2 {RUB.}
+{IN2.} Todo hombre qui da al %2 {RUB.}
 laurador su heredat por la-
 urança. deue la dar de ienero a[ ]ie-
 nero faziendo la laurar cada ain-
@@ -12525,7 +12525,7 @@ dor la primera agoa. & (e)lo al p<ar>ta<n>
 en( )semble q<ue> assi ma<n>da el fuero.
 {RUB. Q<u><<i>> laura entre pieça et uinna
 et faz daynno en la ui<n>na q<ue> calo-nia +}
-{IN2.} Si algu<n>o ouiere ui<n>-na. ¶2 {RUB. ha.}
+{IN2.} Si algu<n>o ouiere ui<n>-na. %2 {RUB. ha.}
 & el otro ouiere pieça te-
 niendo se ala ui<n>na. & el seynnor
 dela uinna si lo prende al seyn-
@@ -12556,7 +12556,7 @@ co<n> su tierra. {RUB. {IN1.} Titulo .viij<<o>>. de he-
 ras. ¶ De heras uieias et nueua<<s>>
 et que no<n> deue embargar uiento
 co<n> ningunas cosas aeyllas et ata +}
-{IN2.} Ningun hombre no<n> ¶2 {RUB. quoa<n>to.}
+{IN2.} Ningun hombre no<n> %2 {RUB. quoa<n>to.}
 deue embargar uie<n>to a he-
 ra ni<n> carrera que aya acostu<m>bra-
 da que la hera sin uie<n>to no<n> ual-
@@ -12637,7 +12637,7 @@ que alas malas costumbres se si-
 egue<n> muchos males et no<n> ni<n>gu-
 nos bienes. {RUB. Fazanias. Como un
 xp<<i>><sti>ano se defendio de engaynno +}
-{IN3.} Fazania un iudio ¶2 {RUB. de iudio.}
+{IN3.} Fazania un iudio %2 {RUB. de iudio.}
 empeynno aun xp<<i>><sti>ano un
 uaso destaynno por .C. sueldos a
 logro en guisa que mo<n>tase al ca-
@@ -12744,7 +12744,7 @@ en amor marido et muyller. & di-
 os ayudol ala bona muyller diade-
 lant. {RUB. Fazania de como un alcalde
 ue<n>dio iuyzio en pleyto de merca-dero +}
-{IN2.} Uiniero<n> dos ¶2 {RUB. et uillano.}
+{IN2.} Uiniero<n> dos %2 {RUB. et uillano.}
 hombres a[ ]iuyzio. mercadero
 et uillano delant l[ ]alcalde et dio
 este uillano al alcalde .x. carneros
@@ -12979,7 +12979,7 @@ todos tiempos sean durables. et
 ualederas todas las cosas de par-
 te de iuso co<n>tenidas. {RUB. De hedat
 de qui estinar puede et ser en iu-yzio. +}
-{IN2.} Como segu<n>t fuero an-tigo ¶2 {RUB.}
+{IN2.} Como segu<n>t fuero an-tigo %2 {RUB.}
 los fidalgos ouie<n>do siet
 aynnos podiessen fazer testam<en>t}
 {CB2.
@@ -13169,7 +13169,7 @@ ningu<n> del regno que sea iuge no<n>
 de alça de .L. sueldos ayuso. mas
 que conozca simpleme<n>t et de pla-
 no del pleyto. {RUB. Q<ue> plazo ha carta de +}
-{IN2.} Manda-mos ¶2 {RUB. deuda ser dema<n>dada.}
+{IN2.} Manda-mos %2 {RUB. deuda ser dema<n>dada.}
 por refrenar las malicias}
 [fol. 89r]
 {HD1. T<itul><<o>> .iij<<o>>. de logreros.}
@@ -13188,7 +13188,7 @@ que se goarde en la manera sobr<e>-
 dicha fasta tanto que fuere paga-
 do dela deuda sobredita. {RUB. A quoa<n>to
 se obliga hom<n>e atanto es tenido de +}
-{IN2.} Razon es et fuero an-tigo ¶2 {RUB. pagar.}
+{IN2.} Razon es et fuero an-tigo %2 {RUB. pagar.}
 que por aueniença toda
 obligança recibe ualor. ¶ Et por
 ende establescemos por fuero que
@@ -13302,7 +13302,7 @@ pierda el paynno. & sean las tres
 partes del rey. & la quoarta del ac-
 cusador. {RUB. De uender heredat a
 iudio o a[ ]moro. et de co<m>prar la +}
-{IN3.} Plazenos et tenemos ¶2 {RUB. deyll.}
+{IN3.} Plazenos et tenemos %2 {RUB. deyll.}
 por bie<n> por que los iudios.
 et los moros puedan cobrar sus
 deudas et pagar sus peytas. q<ue> los
@@ -13357,7 +13357,7 @@ na. & aq<ue>illos que hi comiere<n> cada
 .x. sueldos. ¶ Et esto no<n> se entie<n>-
 de alos clerigos [^2#&] religiosos. {RUB. De no<n>
 fazer co<n>uiuios en ent<er>rorio de uil-lanos. +}
-{IN2.} Esto mesmo establesce-mos ¶2 {RUB.}
+{IN2.} Esto mesmo establesce-mos %2 {RUB.}
 que si labrador ni<n>gu<n>o
 diere a[ ]comer a enterrorio ni<n>gu<n>o}
 {CB2.
@@ -13420,7 +13420,7 @@ freyre pedro et asus co<m>paynnero<<s>>
 porque sean deliurados. & aq<ue>illos
 que no han traydo poder que lo
 trayan luego. {RUB. De conseyllar ley-alme<n>t. +}
-{IN2.} Esto es ordenado por el ¶2 {RUB.}
+{IN2.} Esto es ordenado por el %2 {RUB.}
 seynnor rey que toda sazon
 que el dito don freyre pedro et sus
 compaynneros querran se fagan
@@ -13494,7 +13494,7 @@ teyen las pechas. el uino a[ ]dineros
 o a[ ]trigo. segu<n>t entendiere<n> que
 sea mas prouecho del rey. {RUB. De
 pleytos de porteros. et de sus co-missarios. +}
-{IN2.} Del pleyto delos ¶2 {RUB.}
+{IN2.} Del pleyto delos %2 {RUB.}
 porteros es ordenado por el
 seynnor rey que los comissarios
 que empeçaron oyr lures pleytos
@@ -13581,7 +13581,7 @@ sion/ & pague las messiones/
 no ente<n>demos/ de robador ni
 de otro/ q<ue> no<n> muestre titulo
 suficient. {RUB. Como deue fidalgo +}
-{IN2.} Ordenamos por ¶2 {RUB. desafiar.}
+{IN2.} Ordenamos por %2 {RUB. desafiar.}
 fu<er>o/ q<ue> si algun fidalgo}
 {CB2.
 q<u><<i>>siere desafiar aotro o aotros
@@ -13673,7 +13673,7 @@ sobred<i>c<t>as alguno fu<er>e rebel/ sea
 punido segunt razon sera. {RUB. Q<ue>
 pena ha coillaço de Rey o de
 orde<n>/ o de Ruano/ si fu<er>e en comie<n>da +}
-{IN2.} Mandamos que ¶2 {RUB. de fidalgo.}
+{IN2.} Mandamos que %2 {RUB. de fidalgo.}
 ni<n>gun coillaco/ de Rey/ de
 orden/ ni de Ruano/ non se ponga
 en comie<n>da de fidalgo ni<n>guno. et

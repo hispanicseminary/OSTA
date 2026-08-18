@@ -889,7 +889,7 @@ alcalde<<s>> d<e> la tierra en q<ue> lo
 fizo. e si iusticia fiziere a-
 ya la pena q<ue> aurie otro o<mn>e
 qual q<u><<i>>er q<ue> atal fecho fizi-esse
-{IN2.} Si alguno ¶2
+{IN2.} Si alguno %2
 se q<ue>rellare dotro al alc-
 alde. & el alcalde no<n> q<u><<i>>sie-
 re luego lla<m>mar a aq<ue>l de
@@ -1130,7 +1130,7 @@ otra razo<n> non pudiere fa-
 zer la carta q<ue>l mandare<n>.
 uayan a alguno delos ot<r><<o>>s
 esc<r><<i>>uanos publicos q<ue> la:
-{IN2.} Todo omne q<ue> ¶2 faga
+{IN2.} Todo omne q<ue> %2 faga
 a otro demandare el de-
 mandado aya t<er>cer dia po-
 ra au<er> conseio sobre la dem-
@@ -1183,7 +1183,7 @@ seio o aiuda p<or> su pleyto & aq<ue>l
 a q<u><<i>>e<n> lo dema<n>dare nol diere
 <con>seio o nol p<ro>metiere aiuda(^r)
 pueda <con>seiar o razo<n>ar p<or> la ot<r><<a>>
-{IN2.} (m)Ma<n>dam<os> q<ue> ni<n>gu<n> ¶2 p<ar>te si q<u><<i>>sier.
+{IN2.} (m)Ma<n>dam<os> q<ue> ni<n>gu<n> %2 p<ar>te si q<u><<i>>sier.
 h<er>eie ni<n> iudio. ni<n> moro n<on>
 sea uozero por xp<ist>iano. <contr><<a>>
 xp<ist>iano. ni<n> sieruo. ni<n> cie-
@@ -1314,7 +1314,7 @@ eda faz<er> ni<n> quitar la dema<n>-da}
 si non io ma<n>dare el:
 due<n>no dela uoz se<n>nalada
 mient p<or> aq<ue>lla p<er>son<er>ia o p<or>
-{IN2.} Ninguno non ¶2 otra.
+{IN2.} Ninguno non %2 otra.
 pueda dar p<er>son<er>o por
 si e<n> ni<n>gu<n> pleyto en dem-
 andar. o en defend<er> q<ue> sea
@@ -1435,7 +1435,7 @@ los q<ue> son nombrados en
 la otra ley. ca en pod<er> es del
 demandador de faz<er> su de-
 manda. quando uier agu-isado.
-{IN2.} Si muchos han ¶2
+{IN2.} Si muchos han %2
 un pleyto desouno qui-
 er en demandar quier
 en respond<er>. den todos .i.
@@ -1608,7 +1608,7 @@ q<ue> sea de su da<n>no. Mas pley-
 to q<ue> sea de su pro no<n> sea desfe-
 cho. por aq<ue>sta razon. q<ue> q<uie>n lo
 fizo. no<n> era de edat compli-da
-{IN2.} Si padre o madre ¶2
+{IN2.} Si padre o madre %2
 touiere fiio o fiios en su
 pod<er>. & les fiziere<n> faz<er> pleyto
 de debda o de conoscencia o
@@ -1731,7 +1731,7 @@ como se deue<n> dar.
 o complir.
 [^xiiij] Titulo delos pleytos aca-
 bados q<ue> no<n> sean mas dema<n>-dados. [^2#lx[??]]
-[^xv] Tit<u>lo d<e>los alçadas [¶2]
+[^xv] Tit<u>lo d<e>los alçadas [%2]
 {RUB. aqui as .xv. titulos d<e>l
 segu<n>do libro.}
 {IN3.} Todo om<n>e q<ue> morare
@@ -2215,7 +2215,7 @@ razo<n> como es sobredicha
 & uinie<n>do en tal guisa. n<on>
 sea iusticiado mas sea re-
 cabdado como es sobredi-cho.
-{IN2.} Omne doliente [¶2]
+{IN2.} Omne doliente [%2]
 q<ue> fuere aplazado o q<ue> a-
 doleciere q<ue> no<n> pudiere ir
 al plazo. enuiese escusar
@@ -2772,7 +2772,7 @@ de fiador. dela demanda.
 o pe<n>nos q<ue> lo uala & si fia-
 dor o pe<n>nos no<n> diere faga
 derecho como manda la
-{IN2.} Toda mugier ¶2 ley.
+{IN2.} Toda mugier %2 ley.
 uezina o fiia de uezi-
 no pueda testiguar en co-
 sas q<ue> fuere<n> fechas o dic-
@@ -3083,7 +3083,7 @@ cu<m>pliessen a lo q<ue> el q<u><<i>>siesse;
 podrie apercebir otras tes-
 timo<n>ias q<ue> dixiesse<n> lo que
 las otras (^otras) mingua-ran.
-{IN2.} Maguera q<ue> ma<n>-da ¶2
+{IN2.} Maguera q<ue> ma<n>-da %2
 la ley q<ue> ninguno
 no<n> pueda adozir testimo-
 nias ningunas; despues
@@ -3152,7 +3152,7 @@ e el alcalde del plazo p<or>a
 otro dia a q<ue> uenga dezir
 lo q<ue> q<u><<i>>siere contra la car-
 ta & co<n>tra lo q<ue> dize en el-la
-{IN1.} Los esc<r><<i>>uanos pu-blicos ¶2
+{IN1.} Los esc<r><<i>>uanos pu-blicos %2
 pongan enlas:
 cartas q<ue> fiziere<n> el a<n>no
 & el dia en q<ue> las fiziere<n>.
@@ -3548,7 +3548,7 @@ tierra si despues daq<ue>l
 tiempo uiniere dema<n>-
 dar el tenedor pueda:
 se defend<er> por aq<ue>l tiem-po
-{IN2.} Mandamos q<ue> ¶2
+{IN2.} Mandamos q<ue> %2
 ni<n>guno no<n> pueda
 a otro por tiempo toll<er>
 sus cosas si el no las to-uo.}
@@ -3788,7 +3788,7 @@ delos esc<r><<i>>uanos o seel-ladas}
 co<n> su seello. & te<n>-
 ga el esc<r><<i>>uano o el alc-
 alde otra por testimon-io
-{IN1.} Si dos alcaldes ¶2
+{IN1.} Si dos alcaldes %2
 ouiere<n> de iudgar un
 pleyto de so uno & no<n>
 se abiniere<n> en un iuy-
@@ -3989,7 +3989,7 @@ ere demandado. man-
 damos q<ue> aya ende pen-
 a qual touiere por bie<n>
 el q<ue> a de iudgar el alça-da
-{IN2.} (p)Pues q<ue> el alcalde ¶2
+{IN2.} (p)Pues q<ue> el alcalde %2
 pusiere plazo alas}
 {CB2.
 p<ar>tes q<ue> aparezca<n> antel
@@ -4401,7 +4401,7 @@ dellos lo q<ue> q<u><<i>>siere de mu-
 erte en fuera ¶ e esto mi-
 smo sea delas mugieres
 q<ue> casare<n> co<n> maridos age-no<<s>>
-{IN1.} Si algu<n> om<n>e casa-re ¶2}
+{IN1.} Si algu<n> om<n>e casa-re %2}
 {CB2.
 co<n> mugier agena o
 sil fiziere pleyto q<ue> casa-
@@ -4423,7 +4423,7 @@ el marido muerto. & si
 los no<n> ouiere ayan lo
 los parie<n>tes mas p<ro>pi<n>-
 quos del marido muer-to.
-{IN1.} Ninguno no<n> ¶2}
+{IN1.} Ninguno no<n> %2}
 [fol. 47v]
 {HD. L<ibro> +}
 {CB2.
@@ -4440,7 +4440,7 @@ dre o ala madre si los o-
 uiere. (^si no<n> ouiere). si no<n>
 a q<u><<i>>en la tiene en pod<er> &
 sea enemigo delos pari-e<n>tes.
-{IN2.} Todo om<n>e q<ue> ca-sare ¶2
+{IN2.} Todo om<n>e q<ue> ca-sare %2
 no<n> {RUB. [^T<itul><<o>> ij] titulo delas arra<<s>>}
 pueda dar mas arras
 a su mugier del diezmo
@@ -4497,7 +4497,7 @@ metio. q<ue> gelas de de g-uisa}
 {CB2.
 q<ue> no<n> le de mas del
 diezmo de qua<n>to q<ue> oui-ere.
-¶2
+%2
 {IN2.} Qua<n>do el q<ue> casare die-
 re arras ala mançe-
 ba co<n> qui casare si ella
@@ -4675,7 +4675,7 @@ aya la tierra & lo q<ue> ene-
 lla fizo este q<ue> la recibio
 & aq<ue>l q<ue> la enageno pe-
 che la tierra a su due<n>no
-{IN2.} Si algunos ¶2 doblada
+{IN2.} Si algunos %2 doblada
 h<er>ederos o compan<er>os
 ouiere<n> alguna cosa de}
 {CB2.
@@ -4943,7 +4943,7 @@ nar assi como ante que}
 {HD. T<itul><<o>> III iij \ 53}
 {CB2.
 fuessen cubiertas del a-gua.
-{IN2.} Quando algu-nos ¶2
+{IN2.} Quando algu-nos %2
 arbores estan en
 tierra dalgun omne. &
 cuelga<n> las ramas sobre
@@ -5200,7 +5200,7 @@ xiere<n> & los cabeçales pa-gare<n>}
 o uendiere<n>. no<n> sea<n>
 tenidos de respo<n>der por
 ello. assi como sobredich<o>
-{IN2.} Si algu<n> om<n>e ouie-re [¶2] es.
+{IN2.} Si algu<n> om<n>e ouie-re [%2] es.
 part en algu<n>a ma<n>da
 & la contrallare en iuyz-
 io pora desfazerla. [^2#& porfiar en desfa-
@@ -5229,7 +5229,7 @@ sea guardador de so fiio
 o ma<n>da la ley. & el no<n> lo
 q<u><<i>>so seer pierda q<u><<a>>nto le
 ma<n>do el muerto en su m-anda
-{IN2.} Todo om<n>e q<ue> fuer ¶2
+{IN2.} Todo om<n>e q<ue> fuer %2
 cabeçal dalguna ma<n>-
 da muestre la antel alc[a]-
 lde fata .i. mes & el alcal-
@@ -5758,7 +5758,7 @@ ere fueras si el alcalde p<or>
 alguna razo<n> guisada
 ma<n>dare q<ue> lo tenga la:
 madre a cuesta del pad-re.
-{IN2.} Esto ma[<n>]damos [¶2]
+{IN2.} Esto ma[<n>]damos [%2]
 delos fijos delos x<rist><<i>>a-
 nos. Ca si fuere (^??) [^2#fijo] de
 x<rist><<i>>ano & de mora o de iu-
@@ -6293,7 +6293,7 @@ as. el uendedor deue a-
 uer el da<n>no & no<n> el com-
 prador. P<er>o si algu<n> pro y
 uiniere sea del compra-dor
-{IN2.} Los camios {RUB. delos +} [¶2]
+{IN2.} Los camios {RUB. delos +} [%2]
 son ta<n> allega-dos {RUB. camios}
 alas uendidas. q<ue>
 adur se entiende en:
@@ -6319,7 +6319,7 @@ una p<ar>te h<er>edat o por o-
 tra cosa [^q<u><<a>>l q<u><<i>>er por cauallo o por
 h<er>edat.] e por din<er>os.:
 mandamos q<ue> s(^a)[^e]a ca-mio
-{IN2.} Si alguno q<u><<i>>si-er [¶2]
+{IN2.} Si alguno q<u><<i>>si-er [%2]
 camia[^r] con otro ca-
 uallo o otra cosa q<u><<a>>l q<u><<i>>er
 & fuere<n> abenidos enel
@@ -6530,7 +6530,7 @@ e si p<or> auentura mas di-
 ere. la donatio<n> no<n> ua-
 la en aq<ue>llo q<ue> es demas
 & uala en aq<ue>llo q<ue> (^2#puede) [^2#pudo dar].
-{IN2.} Las cosas q<ue> di-ere [¶2] (^2#dar)
+{IN2.} Las cosas q<ue> di-ere [%2] (^2#dar)
 el rey a alguno
 no<n> gelas pueda toller
 ni<n> otro ni<n>guno sin cul-
@@ -6973,7 +6973,7 @@ tenia en comienda o p<ar>te
 dellas & p<er>dio todo lo so
 o p<ar>te dello. q<ue> el da<n>no se
 p<ar>ta (^el) como sobredicho
-{IN2.} Qui algu<n>a cosa [¶2] es.
+{IN2.} Qui algu<n>a cosa [%2] es.
 dotri recibiere en co-
 mienda esa misma cosa
 sea tenido de ent<re>gar a a-q<ue>l}
@@ -7699,7 +7699,7 @@ maguer q<ue> el debd-
 or q<ue>l metio enla fiadu-
 ra le defienda q<ue> no<n> pare
 ni<n>guna deffe[<n>]ssio<n> ante
-{IN2.} Todo om<n>e q<ue> fu-ere [¶2] si.
+{IN2.} Todo om<n>e q<ue> fu-ere [%2] si.
 fiador de riedra
 a otro. de h<er>edat o dotra
 cosa. aya plazo el fiad-
@@ -7802,7 +7802,7 @@ q<u><<a>>nto da<n>no den le uini-
 ere. o por la osadia. pech<e>
 ot<r><<o>> ta<n>to q<u><<a>>nto pe<n>d<r><<o>>. la mea-
 tat al rey & la metat al q<u><<i>> pe<n>-dro
-{IN2.} Assi como la buena ¶2
+{IN2.} Assi como la buena %2
 q<ue> ha obispo o otro p<re>-
 lado de <santa> egl<es>ia es en-
 pe<n>nada ala egl<es>ia dont
@@ -7840,7 +7840,7 @@ as si alguna cosa em-
 pe<n>nare nombrada mi-
 ente. aq<ue>lla solamie<n>t
 sea enpe<n>nada & non:
-{IN2.} Toda cosa q<ue> ¶2 mays
+{IN2.} Toda cosa q<ue> %2 mays
 es defendida por ley
 q<ue> no<n> se pueda uender.
 defendemos q<ue> no<n> se:
@@ -8353,7 +8353,7 @@ den. o los faze<n> foyr.
 [^xxjj] [^Titulo delos fisicos & de
 los maestros delas llagas]
 [^xvi] Titulo delos omicidi-os [^2#l.ix.]
-[^xvjj] Titulo delos q<ue> de-sotierra<n> [¶2]
+[^xvjj] Titulo delos q<ue> de-sotierra<n> [%2]
 los muertos. [^l.x.]
 [^xviij] Titulos delos q<ue> ua<n> ala [^2#lx.]
 huest & se torna<n> della
@@ -8904,7 +8904,7 @@ los otros q<ue> fuere<n> con el
 en aq<ue>lla roba.) et si los
 non q<u><<i>>sier manifestar
 aya toda la pena dela ro-ba
-{IN2.} Ningu<n> om<n>e no<n> ¶2
+{IN2.} Ningu<n> om<n>e no<n> %2
 sea osado de robar ni<n>
 de forçar a omne uian-
 dant ni<n> a otro om<n>e q<ue>
@@ -9005,7 +9005,7 @@ to ouiere & sea del rey.
 & no<n> se pueda escusar
 por q<ue> diga q<ue>lo fizo:
 por mandado de so se<n>-nor.
-{IN1.} Si alguno fiziere ¶2}
+{IN1.} Si alguno fiziere %2}
 [fol. 97r]
 {HD. iij IIII \ 97}
 {CB2.
@@ -9025,7 +9025,7 @@ n<on> sea<n> ca<m>i<n>os sin<on> lo fizo sab<er>
 alos o<mne>s d<e>la t<ier>ra. ca si g<e>lo
 fizo sab<er> & n<on> se q<u><<i>>sier g<u><<a>>rdar
 [^n<on>] sea te<n>ido pechar el da<n>-no
-{IN2.} Todo {RUB. [^2#Titulo d<e>las] +} [¶2]
+{IN2.} Todo {RUB. [^2#Titulo d<e>las] +} [%2]
 om<n>e q<ue> algu-na {RUB. [^2#penas].}
 cosa fiziere por q<ue> de-
 ua auer pena en su cu-
@@ -9287,7 +9287,7 @@ bestia. peche otra tal}
 {HD. v IIII \ 100}
 {CB2.
 co<n> so fijo al se<n>nor cuia
-{IN2.} Quando alguno. ¶2 era.
+{IN2.} Quando alguno. %2 era.
 q<ue>brantare molino
 dotro. sea tenido delo en-
 dereçar. fata xxx. dias
@@ -9366,7 +9366,7 @@ las enlo suyo. et si alg-
 uno contra esto fiziere;
 por la osadia. peche .xxx.
 sueldos al rey & desfaga
-{IN2.} Los uiandantes [¶2] lo.
+{IN2.} Los uiandantes [%2] lo.
 puedan sus bestias
 & los otros ganados m-
 eter a p(^l)açer enlos loga-
@@ -9398,7 +9398,7 @@ po. peche por cada cabes-
 ça .i. sueldo. & la meetat
 al rey. & la otra meetat
 a aq<ue>l de q<u><<i>> fuere el gana-do.
-{IN1.} Ningu<n> om<n>e no<n> ¶2}
+{IN1.} Ningu<n> om<n>e no<n> %2}
 {CB2.
 sea osado de ençerrar
 los rios mayores q<ue> en-
@@ -10381,7 +10381,7 @@ aq<ue>llo q<ue>l apusiero<n>. no<n>
 de carcellage. ni<n>gu<n>o.
 mas aq<ue>l qui lo fiziere
 p<re>nder a tuerto peche
-{IN2.} (t)Todo om<n>e q<ue> su [¶2] lo.
+{IN2.} (t)Todo om<n>e q<ue> su [%2] lo.
 cosa empe<n>nare a o-
 tro & gela despues (^ge
 la) furtare. pechela a-
@@ -10492,7 +10492,7 @@ traspusiere pechelo con
 otro tan bueno a so d-
 ue<n>no. et si lo no<n> pudie-
 re au<er>. pech<e> dos ta<n> buen-os
-{IN2.} Si alguno conse-iare [¶2]
+{IN2.} Si alguno conse-iare [%2]
 a sieruo ageno
 q<ue> fuya. o q<u><<a>>ndo sopo q<ue>rie
 foyr. sil dio talegas ol
@@ -10521,7 +10521,7 @@ eruo era & gelo pudiere p<ro>-
 uar. pechegelo como ma<n>da
 la ley. E si n<on> saluese p<or> su
 cabesça q<ue> no<n> lo sabie & n<on>
-{IN2.} El sieruo q<ue> a<n>da ¶2 aya pe<n>a.
+{IN2.} El sieruo q<ue> a<n>da %2 aya pe<n>a.
 fuydo si algu<n>a cosa ganare
 p<or> si q<u><<i>>er te<n>ga la el o deua ge
 la todo [^s]e(^r)a d<e>l se<n>nor q<u><<a>>n<d>o q<u><<i>>-
@@ -12403,7 +12403,7 @@ cho q<ue> fizo no<n> fue tal}
 {HD. L<ibro> T<itul><<o>> xx +}
 {CB2.
 por q<ue> deua morir q<u><<i>>en
-{IN2.} Si en el p<r><<i>>-mer ¶2 q<u><<i>>er q<ue> lo faga.
+{IN2.} Si en el p<r><<i>>-mer %2 q<u><<i>>er q<ue> lo faga.
 dia el reptado o el
 reptador no<n> fuere ue<n>cido
 ala noche o ante. si amos
@@ -12789,7 +12789,7 @@ sea delas cosas q<ue> fuere<n>
 echadas de nauio por a-
 liuiarlo. & cayere<n> o se
 p<er>diere<n> del p<or> algu<n>a gui-sa
-{IN2.} Si los q<ue> andal [¶2]
+{IN2.} Si los q<ue> andal [%2]
 enel nauio ouieren
 p<er>iglo. o p<or> miedo de p<er>ig-
 ro se acordare<n> de echar

@@ -1999,7 +1999,7 @@ la madre. {AD. [^Lxxxiiij.]} {RUB. Otrossi de la particion.}
 pagadas las debdas. & las helemosi-
 nas. & los pa<n>nos assi como dicho es;
 los fijos o los herederos partan todos s<us> bie-nes.
-{IN3.} Otrossi q<u><<a>>l q<u><<i>>er ¶2 {AD. [^Lxxxv.]} {RUB. Otrossi de la particio<n>.}
+{IN3.} Otrossi q<u><<a>>l q<u><<i>>er %2 {AD. [^Lxxxv.]} {RUB. Otrossi de la particio<n>.}
 q<ue> sin fijos muriere; los mas p<ro>pinquos
 parientes q<ue> el ouiere; hereden s<us> bie-
 nes tan bien en mueble. como en Rayz. Otr<<o>>s-
@@ -6954,7 +6954,7 @@ da; doble la al q<ue>relloso. & peche .i. m<o>r<auedi> al iu-
 ez & a los alcaldes. Et si por culpa del esc<r><<i>>ua-
 no aq<ue>sto uiniere; peche el escriuano la dema<n>-
 da doblada. & el m<o>r<auedi> del coro assi como dicho
-{IN3.} Et los .ix. dias ¶2 es. {AD. [^Liij.]} {RUB. Q<ue> el q<ue>relloso ot<r><<o>> +}
+{IN3.} Et los .ix. dias %2 es. {AD. [^Liij.]} {RUB. Q<ue> el q<ue>relloso ot<r><<o>> +}
 passados; el q<ue>rel-loso {RUB. debdor no reciba. +}
 no reciba otro debdor. mas los}
 [fol. 140v]
@@ -8935,7 +8935,7 @@ alguno ollas uendiere; ue<n>da
 las segund la cuenta sobredicha de
 los dineros. Otrossi aq<ue>l q<ue> a este coto
 non quisiere; peche .i. m<o>r<auedi> al almotaçan; & al q<ue>-relloso.
-{IN4.} Si el carnicero {AD. [^xlviij.]} {RUB. Del fuero +} [¶2]
+{IN4.} Si el carnicero {AD. [^xlviij.]} {RUB. Del fuero +} [%2]
 la carne mortezina. o {RUB. de los carniceros.}
 ganado enfermo. o de puerco. o carne
 mezclada uendiere. assi q<ue> mezcle la carne}

@@ -269,7 +269,7 @@ Su<m>ma destas estrellas; son .xxviij. Et a y dellas en la tercera grandez; iiij
 {CB2.
 {RUB. Dela figura del signo de Aquario. & de las estre-
 llas que son de dientro en la forma. & delas de +}
-{IN6.} Aquarius llaman ¶2 {RUB. fuera della.}
+{IN6.} Aquarius llaman %2 {RUB. fuera della.}
 en latin a esta otra figura q<ue>
 es la onzena delos signos. Et
 en castellano le dizen aqua-
@@ -1517,7 +1517,7 @@ q<u><<i>>nta; v. Et en la sesta; v. Et a y una cardena.}}
 {HD. L<IBRO> III<<O>> DE LAS ESTRELLAS +}
 {CB2.
 {RUB. Dela figura del Rio. & delas estrellas q<ue> son en +}
-{LAT. {IN5.} Fluuius} dizen en latin a esta ¶2 {RUB. ella.}
+{LAT. {IN5.} Fluuius} dizen en latin a esta %2 {RUB. ella.}
 otra figura. & en castellano rio. & en
 arabigo; {ARB. el nahre.} Et a en ella .xxx.
 & .iiij. estrellas. & son todas de dentro
@@ -4084,7 +4084,7 @@ Su<m>ma destas estrellas; son .xiij. Et a y dellas en la q<u><<a>>rta gra<n>dez;
 {HD. L<IBRO> III<<O>> DE LAS ESTRELLAS +}
 {CB2.
 {RUB. Dela figura del pez meridional. & delas estrellas +}
-{IN5.} Esta es la catorze-na ¶2 {RUB. q<ue> son en ella.}
+{IN5.} Esta es la catorze-na %2 {RUB. q<ue> son en ella.}
 figura delas que son de par-
 te de medio dia. & es la postreme-
 ra dellas. Et dizen le en latin;
@@ -4539,7 +4539,7 @@ figura dela corona septentrional; so<n> .viij.
 & non a y dellas niguna nombrada; si no<n> una.
 & es la primera. & dizen le; {ARB. munir elfeca.} que
 quier dezir la luziente de elfeca; corona. {RUB. Del +}
-{IN2.} Las estrellas dela figura del ge-nuflexu; ¶2 {RUB. genuflexu.}
+{IN2.} Las estrellas dela figura del ge-nuflexu; %2 {RUB. genuflexu.}
 son .xxviij. & una fuera dela for-
 ma. Et las nombradas dellas; son .xvj. ¶ Et
 llaman ala primera; {ARB. q<ue>lb array.} que quier dezir
@@ -4565,7 +4565,7 @@ del bueytre cayente. ¶ Et llaman ala onzena q<ue>
 es en la cinta en el su costado diestro con la ueynt
 & tresena. & la ueynt & ochena que son en su coxa;
 a todas {ARB. aziua.} que quier dezir; lobos. {RUB. Del Gala-pago. +}
-{IN2.} Las estrellas dela figura del Galapago; ¶2 {RUB.}
+{IN2.} Las estrellas dela figura del Galapago; %2 {RUB.}
 son dies. & las nombradas dellas; son .vj.
 ¶ Et nombran ala primera luziente; el bueytre
 cayente por q<ue>lo assemeiaron a bueytre que tiene
@@ -4577,7 +4577,7 @@ que fazen con ella un triangulo. & e(s)[l] pueblo las
 nombra; {ARB. aletefi.} que quier dezir; trebdes. ¶ Et
 dizen alas tres estrellas peq<ue>nnas que esta<n> cer-
 ca desta; {ARB. adfar.} que quier dezir; vnnas. {RUB. Dela +}
-{IN2.} Las estrellas dela figura dela Galli-na; ¶2 {RUB. Gallina.}
+{IN2.} Las estrellas dela figura dela Galli-na; %2 {RUB. Gallina.}
 son .xvij. & dos fuera dela figura. & las
 nombradas dellas; son .vj. ¶ Et dizen alas
 quatro que son en una az. las que fazen una
@@ -4592,7 +4592,7 @@ que trae la troxa. por que sigue a estos quatro.
 zir; cola de gallina. ¶ Et dizen ala primera
 que esta en el pico; {ARB. nuncara digeia} que quier
 dezir; el pico dela gallina. {RUB. Dela mugier que +}
-{IN2.} Las estrellas dela mu-gier ¶2 {RUB. si asse<n>tada en la cadera.}
+{IN2.} Las estrellas dela mu-gier %2 {RUB. si asse<n>tada en la cadera.}
 assentada en la cadera; son .xiij. et
 las nombradas dellas; son quatro. ¶ Et nom-
 bran alas quatro luzientes desta constellacio<n>;
@@ -4696,7 +4696,7 @@ la cruz. {RUB. Del pedaço del Cauallo.}
 {IN2.} Las estrellas del pedaço del cauallo; so<n> qua-
 tro. & non a y ninguna dellas nombrada.
 {IN2.} En la figura del cauallo ma-yor {RUB. Del cauallo ma-yor +}
-a. ueynt estrellas. & las nombra-das ¶2 {RUB.}
+a. ueynt estrellas. & las nombra-das %2 {RUB.}
 dellas; son. treze. ¶ Et dizen ala primera;
 {ARB. Çorrat alfaraz.} que quier dezir; la uerija del}
 {CB2.
@@ -4752,7 +4752,7 @@ la mugier. Et esta misma; es la uerija del cauallo.}
 {CB2.
 ¶ Et dizen ala quinzena; {ARB. Rexl almuçelçela.} q<ue>
 quier dezir; el pie dela encadenada. {RUB. Del trian-gulo. +}
-{IN2.} Las estrellas dela figura del triangulo; ¶2 {RUB.}
+{IN2.} Las estrellas dela figura del triangulo; %2 {RUB.}
 son quatro. & las nombradas dellas; son dos.
 ¶ Et dizen ala primera {ARB. Raz Almutellet.} que
 quier dezir; cabeça del triangulo. & nombran
@@ -4771,7 +4771,7 @@ que quier dezir; uientre peq<ue>nno. & es la segu<n>-
 da mansion dela luna. Et dizenle uientre pe-
 q<ue>nno; por que aya departimiento entrel & ell
 otro a que dizen uientre del pez. {RUB. Del signo de Ta-uro. +}
-{IN2.} Las estrellas dela figura del signo de Ta-uro; ¶2 {RUB.}
+{IN2.} Las estrellas dela figura del signo de Ta-uro; %2 {RUB.}
 son .xxxij. & fuera dela forma; onze.
 Et las nombradas dellas; son dizessiete. ¶ Et
 llaman ala ueynt & nouena. & ala treyntena.
@@ -4808,7 +4808,7 @@ ynt & dos; {ARB. el q<ue>bbayn.} que quier dezir; los dos
 canes. ¶ Et llaman ala primera. & ala segun-
 da. & ala tercera. & ala quarta; {ARB. cathat ataor.}
 que quier dezir; la taiadura de tauro. {RUB. Del sig<n><<o>> +}
-{IN2.} En la figura de Gemini; a .xxviij. ¶2 {RUB. de Gemini.}
+{IN2.} En la figura de Gemini; a .xxviij. %2 {RUB. de Gemini.}
 estrellas. & siete fuera dela forma. & las no<m>-
 bradas dellas; son cinco. ¶ Et dizen al[a] prime-
 ra & ala segunda; {ARB. Raçay a teu amayn.} que qui-
@@ -5034,7 +5034,7 @@ la boca del pez meridional. & dizen le otrossi; {ARB. a-
 difdah elmocaden.} que quier dezir; el lagarto
 delantrero. & dizen le otrossi {ARB. adalim.} que qui-
 er dezir otrossi; el fijo del estrucio. {RUB. Del signo de pis-cis. +}
-{IN2.} En la figura del signo de piscis; a .xxxiiij. ¶2 {RUB.}
+{IN2.} En la figura del signo de piscis; a .xxxiiij. %2 {RUB.}
 estrellas. & quatro fuera dela figura. & las no<m>-
 bradas dellas; son dos. & otras menudas mu-
 chas. ¶ Et dizen alas estrellas menudas que
@@ -5581,14 +5581,14 @@ uen fazer la espera. {RUB. Del tercero capitolo.}
 figurada la espera. {RUB. Del quarto capitolo.}
 ¶ El quarto cap<ito>lo de que & como deue seer fecha
 la siella sobre que la deuen poner & assentar. {RUB. Del +}
-¶ El quinto cap<ito>lo en saber las cosas ¶2 {RUB. .v<<o>>. cap<ito>lo.}
+¶ El quinto cap<ito>lo en saber las cosas %2 {RUB. .v<<o>>. cap<ito>lo.}
 que conuienen all Espera. & sus nombres.
 ¶ El .vj<<o>>. cap<ito>lo; en como pare<n> ell alcora[.] {RUB. Del .vj<<o>>. c<a>p<ito>lo.}
 ¶ El .vij<<o>>. cap<ito>lo; en saber la forma {RUB. Del .vij<<o>>. cap<ito>lo.}
 del cielo. & so estado. & sus mouimie<n>tos. {RUB. Del .viij<<o>>. +}
-¶ El .viij<<o>>. cap<ito>lo; en saber la diuersidat del ¶2 {RUB. cap<ito>lo.}
+¶ El .viij<<o>>. cap<ito>lo; en saber la diuersidat del %2 {RUB. cap<ito>lo.}
 mouimiento del cielo en cadauna uilla. {RUB. Del .ix<<o>>. +}
-¶ El .ix<<o>>. cap<ito>lo; en saber por q<ue> razon es el dia ¶2 {RUB. cap<ito>lo.}
+¶ El .ix<<o>>. cap<ito>lo; en saber por q<ue> razon es el dia %2 {RUB. cap<ito>lo.}
 & la noche siempre egual en la linna equinoctial.
 ¶ El .x<<o>>. cap<ito>lo fabla; en saber la di-uersidat {RUB. Del .x<<o>>. cap<ito>lo.}
 dela noche & del dia en cadauna uilla.
@@ -5596,9 +5596,9 @@ dela noche & del dia en cadauna uilla.
 que se faze la noche & el dia egual quando el sol
 entra en el compeçamie<n>to de aries. & en el com-
 peçamiento de libra en todos los logares. {RUB. Del .xij<<o>>. +}
-¶ El .xij<<o>>. cap<ito>lo; en connosçer el mas lue<n>-go ¶2 {RUB. cap<ito>lo.}
+¶ El .xij<<o>>. cap<ito>lo; en connosçer el mas lue<n>-go %2 {RUB. cap<ito>lo.}
 dia. & el mas corto dia en cada un logar. {RUB. Del +}
-¶ El .xiij<<o>>. cap<ito>lo; en saber la diuersidat ¶2 {RUB. .xiij<<o>>. c<a>p<ito>lo.}
+¶ El .xiij<<o>>. cap<ito>lo; en saber la diuersidat %2 {RUB. .xiij<<o>>. c<a>p<ito>lo.}
 que a entre quales dos dias quisieres en qual
 uilla quisieres. {RUB. Del catorzeno capitolo.}
 ¶ El .xiiij<<o>>. cap<ito>lo; en saber quantas oras a en qual}
@@ -5606,10 +5606,10 @@ uilla quisieres. {RUB. Del catorzeno capitolo.}
 {HD. LIBRO DE LA +}
 {CB2.
 dia quisieres. & en qual uilla quisieres. {RUB. Del .xv<<o>>. +}
-¶ El quinzeno cap<ito>lo; en saber la diuer-sidat ¶2 {RUB. cap<ito>lo.}
+¶ El quinzeno cap<ito>lo; en saber la diuer-sidat %2 {RUB. cap<ito>lo.}
 que se faze en un dia sennalado en dos ui-
 llas sennaladas que sean de diuersas ladezas.
-¶ El .xvj<<o>>. cap<ito>lo; en saber los tiem-pos ¶2 {RUB. Del .xvj<<o>>. c<a>p<ito>lo.}
+¶ El .xvj<<o>>. cap<ito>lo; en saber los tiem-pos %2 {RUB. Del .xvj<<o>>. c<a>p<ito>lo.}
 delas horas non eguales en qual uilla q<u><<i>>si-
 eres. & en qual dia quisieres. {RUB. Del .xvij<<o>>. cap<ito>lo.}
 ¶ El .xvij<<o>>. cap<ito>lo; en saber quanto a passado del
@@ -5629,7 +5629,7 @@ dio cielo quando fuere el ascendente sabudo.
 ¶ El .xxij<<o>>. cap<ito>lo[;] en saber el gra-do {RUB. Del .xxij<<o>>. c<a>p<ito>lo.}
 del anglo dela tierra quando fuere el asce<n>-
 dente o el grado del medio cielo sabudo. {RUB. Del .xxiij<<o>>. +}
-¶ El .xxiij<<o>>. cap<ito>lo; en saber el arco ¶2 {RUB. cap<ito>lo.}
+¶ El .xxiij<<o>>. cap<ito>lo; en saber el arco %2 {RUB. cap<ito>lo.}
 del dia de qual quier estrella tu quisieres.
 ¶ El .xxiiij<<o>>. cap<ito>lo; en saber {RUB. Del .xxiiij<<o>>. cap<ito>lo[.]}
 en qual grado delos grados delos signos es q<u><<a>>l
@@ -5646,7 +5646,7 @@ cabeças en qual uilla q<u><<i>>sieres. {RUB. Del .xxviij<<o>>. c<apitol><<o>>.}
 ¶ El .xxviij<<o>>. cap<ito>lo; en saber quanto es la alte-
 za mayor que pueda auer qual estrella quisi-
 eres delas fixas en qual uilla quisieres. {RUB. Del +}
-¶ El .xxix<<o>>. cap<ito>lo; en saber qua<n>-to ¶2 {RUB. .xxix<<o>>. cap<ito>lo.}
+¶ El .xxix<<o>>. cap<ito>lo; en saber qua<n>-to %2 {RUB. .xxix<<o>>. cap<ito>lo.}
 es el ancho del orient de qual estrella qui-
 sieres. & en qual uilla quisieres. {RUB. Del .xxx<<o>>. c<a>p<ito>lo.}
 ¶ El .xxx<<o>>. cap<ito>lo fabla; en saber quanto es el
@@ -5715,7 +5715,7 @@ la quisieres. {RUB. Del .xlviij<<o>>. capitolo.}
 ¶ El .xlviij<<o>>. cap<ito>lo[;] en saber quanto es la diffe-
 rencia dela mayor alteza del sol en un dia sen-
 nalado. & en dos uillas de diuersas ladezas. {RUB. Del +}
-¶ El .xlix<<o>>. cap<ito>lo; en saber quales ¶2 {RUB. .xlviiij[<<o>>]. cap<ito>lo.}
+¶ El .xlix<<o>>. cap<ito>lo; en saber quales %2 {RUB. .xlviiij[<<o>>]. cap<ito>lo.}
 son los logares en que se faze todo el anno un dia
 natural. Esto es los .vj. meses dia. & los otros
 vj. noche. {RUB. Del .L<<o>>. capitolo.}
@@ -5741,12 +5741,12 @@ logar en que se fazen a ambas partes. & en q<ue>
 tiempo se faze aq<ue>llo. & qual es el logar do se faze<n>
 las sombras meridionales. & qual es el logar do
 se fazen las sombras septe<n>trionales. {RUB. Del .Lvj<<o>>. +}
-¶ El .Lvj<<o>>. cap<ito>lo; en saber quales son loga-res ¶2 {RUB. cap<ito>lo.}
+¶ El .Lvj<<o>>. cap<ito>lo; en saber quales son loga-res %2 {RUB. cap<ito>lo.}
 do passa el sol por el zont delas cabeças una
 uez en el anno. & quales son los logares do passa
 por el zont delas cabeças dos uezes en el anno. &
 en que tiempo & en q<ue> dia se faze aq<ue>llo. {RUB. Del .Lvij<<o>>. +}
-¶ El .Lvij<<o>>. cap<ito>lo; en saber tomar la altura ¶2 {RUB. cap<ito>lo.}
+¶ El .Lvij<<o>>. cap<ito>lo; en saber tomar la altura %2 {RUB. cap<ito>lo.}
 del sol por ell alcora en qual dia & en qual hora q<u><<i>>sie-res.
 ¶ El .Lviij<<o>>. cap<ito>lo; en saber {RUB. Del .Lviij<<o>>. cap<ito>lo.}
 sacar los quatro angulos por ell Alcora. {RUB. Del .Lix<<o>>. c<apitol><<o>>.}}
@@ -5763,7 +5763,7 @@ en qual uilla quisieres & en qual hora quisieres.
 el logar dela luna o el logar de qual planeta qui-
 sieres delas otras cinco en la noche que ouieres
 guisado de tomar la mayor alteza della. {RUB. Del .(x)l[x]iij<<o>>. +}
-¶ El .lxiij<<o>>. cap<ito>lo; en saber sacar la ladeza ¶2 {RUB. cap<ito>lo.}
+¶ El .lxiij<<o>>. cap<ito>lo; en saber sacar la ladeza %2 {RUB. cap<ito>lo.}
 dela luna. & la ladeza de qual otra planeta quisie-
 res delas cinco en la noche que ouieres guisado
 de tomar la su mayor alteza. {RUB. Del .lxiiij<<o>>. cap<ito>lo.}
@@ -5964,7 +5964,7 @@ que a de seer segund la forma del cielo ochauo.
 Et pinta otrossi a semeiança daq<ue>llas estrellas
 & delas figuras que en el estan. {RUB. De como deue
 seer colorada. & sennalada. & pintada. & figura-da +}
-{IN3.} Pintar se puede la Es-pera. ¶2 {RUB. la Espera.}
+{IN3.} Pintar se puede la Es-pera. %2 {RUB. la Espera.}
 & fazer las figuras della de mu-
 chas colores. mas la q<ue> mas le conuie-
 ne; es de color celestre. segund paresce el cielo
@@ -6230,8 +6230,8 @@ trellas fixas son los cercos chiquiellos que so<n>
 fechos dentro en las formas. & de fuera dellas.
 ¶ Et estos cercos son de diu<er>sas grandezas segu<n>d
 las grandezas delas estrellas. {RUB. Cap<ito>lo .vjo. de +}
-{IN3.} Quando tu quisieres ¶2 {RUB. como deue<n> parar ell +}
-parar ell alcora; pon la siella ¶2 {RUB. alcora.}
+{IN3.} Quando tu quisieres %2 {RUB. como deue<n> parar ell +}
+parar ell alcora; pon la siella %2 {RUB. alcora.}
 delante ti. et pon los orientes de estio
 & los orientes de yuierno faz ati. & pon el polo
 septentrion en la taiadura del orizon. o es es-
@@ -6564,7 +6564,7 @@ ber por cuenta de horas; parte aq<ue>lla diff[<er>]encia por
 .xv. & lo que ende saliere seran horas. & lo que sobra-
 re fraction de hora. {RUB. Cap<ito>lo .xiiij<<o>>. De saber qua<n>tas
 horas ha en qual dia q<u><<i>>sieres. & en qual uilla q<u><<i>>sie-res. +}
-{IN3.} Quando esto quisieres saber alça el po-lo ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber alça el po-lo %2 {RUB.}
 septentrional sobre el orizon tanto q<u><<a>>n-
 to la ladeza daq<ue>lla uilla en que esto qui-
 sieres saber. & sepas el logar del sol en aq<ue>l dia en
@@ -6589,7 +6589,7 @@ horas & tantas partes de hora ha en aquel
 dia en aq<ue>lla uilla. {RUB. Cap<ito>lo .xv<<o>>. De saber la di-
 uersidat que se faze en un dia sennalado en dos
 uillas sennaladas que sean de diuersas lade-zas. +}
-{IN3.} Quando esto quisieres saber en la ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber en la %2 {RUB.}
 alcora sabe el logar del sol en aquel
 dia sennalado. en qual grado delos
 signos es. Et faze en el zodiago en aq<ue>l gra-
@@ -6640,7 +6640,7 @@ grados hy a. & aq<ue>llo que fuere partelo por .xij.
 empos de una hora de aq<ue>l dia en aq<ue>lla uilla.
 {RUB. Cap<ito>lo .xvij<<o>>. De saber quanto a passado del dia
 delas horas eguales quando ouieres el asce<n>de<n>-te +}
-{IN3.} Quando esto quisieres saber ¶2 {RUB. sabudo.}
+{IN3.} Quando esto quisieres saber %2 {RUB. sabudo.}
 en ell alchora; pon en el grado del asce<n>-
 dente en el zodiago sennal. & en el gra-
 do o fuere el sol pon otrossi otra sennal en el zo-
@@ -6662,7 +6662,7 @@ hora. & di que tantas horas eguales & tantas
 partes de hora passaron de aquel dia. {RUB. Capit<o>lo
 .xviij<<o>>. De saber quanto a passado del dia delas
 horas non eguales quando fuer el ascendente +}
-{IN3.} Quando esto quisieres saber en ¶2 {RUB. sabudo.}
+{IN3.} Quando esto quisieres saber en %2 {RUB. sabudo.}
 ell alchora sepas los dela hora no<n> egual
 en aq<ue>l dia segund lo auemos dicho en
 el capitolo duodecimo. Et depues pon en el zo-
@@ -6704,7 +6704,7 @@ dos delos signos del zodiago fuer en el orizon ori-
 ental. & di que aq<ue>l grado es ascendente en aq<ue>lla ho-
 ra. {RUB. Cap<ito>lo .xx<<o>>. De saber sacar el ascende<n>te qua<n>do
 fuer lo que passo del dia delas horas no<n> eguales +}
-{IN3.} Quando esto quisieres saber en ¶2 {RUB. sabudo.}
+{IN3.} Quando esto quisieres saber en %2 {RUB. sabudo.}
 ell alcora sepas los grados de una hora
 non egual segund es dicho en el cap<ito>lo
 .xvj<<o>>. & desi multiplica las horas non eguales q<ue>
@@ -6757,7 +6757,7 @@ dio dia en el fondon dela alcora catando la de par-
 tes de yuso. & aq<ue>l grado sera el anglo dela tie-
 rra en aq<ue>lla ora. & en aq<ue>lla uilla. {RUB. Cap<ito>lo .xxiij<<o>>.
 De saber el archo del dia de q<u><<a>>l quier estrella tu +}
-{IN3.} Quando esto quisieres saber ¶2 {RUB. quisieres.}
+{IN3.} Quando esto quisieres saber %2 {RUB. quisieres.}
 en ell alchora alça el polo septe<n>trional
 sobrel orizon quanto la ladeza dela
 uilla en que obrares. & depues mueue la al-
@@ -6817,7 +6817,7 @@ mas. & en todas las ladezas que no<n> se camia
 ni se diuersifica por diu<er>sidat dela ladeza que
 sea entre un logar & otro. {RUB. Cap<ito>lo .xxv<<o>>. De saber
 quanto es la ladeza de q<u><<a>>l estrella tu q<u><<i>>sieres delas +}
-{IN3.} Quando esto quisieres saber en la ¶2 {RUB. fixas.}
+{IN3.} Quando esto quisieres saber en la %2 {RUB. fixas.}
 alcora; mueue la alcora hata que pon-
 gas aq<ue>lla (^estrella) estrella que tu qui-
 sieres saber su ladeza en la oriella dela faz dela
@@ -6940,7 +6940,7 @@ camia. & mengua. & crece segund la diuersidat de-
 las ladezas delas climas & delas uillas.
 {RUB. Cap<ito>lo .xxx<<o>>. De saber quanto es el alo<n>gamie<n>to q<ue>
 acaeçe entre q<u><<a>>les dos estrellas q<u><<i>>sieres de las fi-xas. +}
-{IN3.} Quando esto quisieres saber en ell al-chora; ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber en ell al-chora; %2 {RUB.}
 mueue la alchora hata q<ue> pares
 en la oriella dela faz dela armiella
 del medio dia dela una delas dos estrellas que
@@ -7248,7 +7248,7 @@ non parecen; mayor que el tiempo en
 que parescen. {RUB. Capitolo. xxxviiij<<o>>. De
 saber quales son las estrellas fixas q<ue>
 nunqua suuen ni parecen en qual uilla +}
-{IN3.} Quando esto quisieres ¶2 {RUB. quisieres.}
+{IN3.} Quando esto quisieres %2 {RUB. quisieres.}
 saber en ell Alchora; pornas el po-
 lo meridional en ell orizon. & cu-
 enta del en la armiella de medio dia qua<n>-
@@ -7283,7 +7283,7 @@ son las estrellas fixas que parecen dos
 uezes de prima noche despues que se
 pon el sol en occidente. & escuantra la
 mannana ante que suua el sol en ori-ente. +}
-{IN3.} Sepas que esta cosa acaece ¶2 {RUB.}
+{IN3.} Sepas que esta cosa acaece %2 {RUB.}
 en las estrellas que son a cerca del
 polo septentrional el sol seyendo
 en los signos meridionales. ¶ Pues q<u><<a>>n-
@@ -7314,7 +7314,7 @@ dente; & ala mannana en oriente. {RUB. Capi-
 tolo .xli<<o>>. De saber quales son las estre-
 llas fixas que pareçen toda la noche so-
 brela tierra. en noche sennalada & en vi-lla +}
-{IN3.} Quando esto quisieres ¶2 {RUB. sennalada.}
+{IN3.} Quando esto quisieres %2 {RUB. sennalada.}
 saber en ell alchora; alça el polo
 septentrional sobrel orizon qua<n>-
 to la ladeza dela villa en que esto quisie-
@@ -7378,7 +7378,7 @@ aquella estrella en aquella uilla. {RUB. Capi-
 tolo .xliij<<o>>. De saber en que hora se po-
 ne qual estrella quisieres delas fixas
 en qual noche quisieres & en qual uilla +}
-{IN3.} Quando esto quisie-res ¶2 {RUB. quisieres.}
+{IN3.} Quando esto quisie-res %2 {RUB. quisieres.}
 saber en ell Alchora; alça el
 polo septentrional sobrel orizon
 quanto la ladeza de aquella uilla en que
@@ -7543,7 +7543,7 @@ cida aquella planeta en aquella noche
 & en aquella uilla. {RUB. Capitolo .xlvj<<o>>. De
 saber quanto es la ladeza del medio dia
 en qual dia quisieres & en qual uilla +}
-{IN3.} Quando esto quisie-res ¶2 {RUB. quisieres.}
+{IN3.} Quando esto quisie-res %2 {RUB. quisieres.}
 saber en ell alchora; alça el
 polo septentrional sobrel orizo<n>
 quanto la ladeza de aquella uilla en que
@@ -8133,7 +8133,7 @@ de la longura dessa estrella; & faz y una sennal enel
 zodiaco. & essa sennal sera el logar dessa estrella en
 la longura. {RUB. Cap<ito>lo .lxvij[<<o>>]. de saber sacar la ladeza de
 qual estrella quisieres de las q<ue> no<n> son puestas en +}
-{IN3.} QVando lo quisieres saber; se-pas ¶2 {RUB. ell alchora.}
+{IN3.} QVando lo quisieres saber; se-pas %2 {RUB. ell alchora.}
 la ladeza de la estrella q<ue> quisieres. & en q<u><<a>>l
 parte en la su ladeza; si es a septe<n>trion o a medi<<o>>
 dia. & saca la se<n>nal de la longura dessa estrella assi}
@@ -8152,7 +8152,7 @@ acaba el cuento de la ladeza; es el logar o esta
 el cuerpo dessa estrella en la alchora. {RUB. Cap<ito>lo .Lxviij<<o>>.
 de saber la longura del cerco dell eguador de q<u><<a>>l
 estrella quier de las estrellas q<ue> no so<n> puestas en-la +}
-{IN3.} Quando esto quisieres sa-ber ¶2 {RUB. alchora.}
+{IN3.} Quando esto quisieres sa-ber %2 {RUB. alchora.}
 saca el logar de la estrella q<ue> quisieres
 en la alchora de su longura & de su lade-
 za assi cuemo te mostramos. & pon la estrella
@@ -8197,7 +8197,7 @@ mos a don Mosse nuestro alfaquim q<ue> lo fizi-
 esse. {RUB. Capit<u>lo. De saber co<m>mo se fazen las armi-
 llas dell ataçyr en la espera; et egualar las ca-
 sas segund la oppinion de hermes. & co<m>mo obre<n> +}
-{IN5.} QVando esto quisiere-mos ¶2 {RUB. con ellas.}
+{IN5.} QVando esto quisiere-mos %2 {RUB. con ellas.}
 fazer tomaremos un quar-
 to de çerco; q<ue> sean sus planos qua-
 drados lo mas çierto que pueden
@@ -8421,7 +8421,7 @@ dondo con q<ue> se puedan sen<n>alar los c<er>cos en ell Ast<r><<o>>labio.
 se pueda fazer la espera dell Astrolabio ligera mi-
 entre quila quisier fazer de metal.
 {IN1.} Cap<itol><<o>> .iiij<<o>>. De como se deue<n> ayu<n>tar los dos medios dell
-{IN1.} Capitolo .v<<o>>. De como se deue fazer ¶2 espera.
+{IN1.} Capitolo .v<<o>>. De como se deue fazer %2 espera.
 la espera de madero.
 {IN1.} Cap<ito>lo .vj<<o>>. De como se deuen ayuntar ambos
 sus medios & se deuen blanquear.
@@ -8429,7 +8429,7 @@ sus medios & se deuen blanquear.
 polos dell espera.
 {IN1.} Cap<ito>lo .viij<<o>>. De como puede ombre fazer la espera
 bien redonda & bien cierta q<u><<i>>er sea de madero q<u><<i>>er de me-tal.
-{IN1.} Cap<ito>lo .ix<<o>>. De como se deue sen<n>alar la espera ¶2
+{IN1.} Cap<ito>lo .ix<<o>>. De como se deue sen<n>alar la espera %2
 & el cerco dell orizon. & el cerco de medio dia. & el cerco
 que passa por los dos puntos de oriente & de occide<n>-
 te. & por el zonte dela cabeça.
@@ -8441,27 +8441,27 @@ c<er>cos empo<n>tizos. a q<ue> dizen en Arabigo; Almoca<n>tarat.}
 las temporales horas a un orizon sennalado.
 {IN1.} Cap<ito>lo .xiij<<o>>. De como deuen sen<n>alar los cercos dell
 ataçir. & de ygualar las .xij. casas aun orizo<n> sen<n>ala-do[.]
-{IN1.} Cap<ito>lo .xiiij<<o>>. De como deuen fazer la red. ¶2
+{IN1.} Cap<ito>lo .xiiij<<o>>. De como deuen fazer la red. %2
 {IN1.} Cap<ito>lo .xv<<o>>. De como deuen fazer ell alhidada.
 {IN1.} Cap<ito>lo .xvj<<o>>. De como deue<n> sen<n>alar los sig<n><<o>>s en la red.
 {IN1.} Cap<ito>lo .xvij<<o>>. De como deuen sennalar el cerco
 dela yguacion del sol en la red.
 {IN1.} Cap<itol><<o>> .xviij<<o>>. De como deue<n> sen<n>alar los meses romanos
-{IN1.} Cap<ito>lo .xix<<o>>. De como deuen sen<n>alar ¶2 en la red.
+{IN1.} Cap<ito>lo .xix<<o>>. De como deuen sen<n>alar %2 en la red.
 el cerco dela altura en la red.
 {IN1.} Cap<itol><<o>> .xx<<o>>. De como deue<n> sen<n>alar los dedos dela so<m>bra en
-{IN1.} Cap<itol><<o>> .xxi<<o>>. De como deue<n> sen<n>alar el c<er>co del yg<u><<a>>-dor ¶2 la red.
-{IN1.} Cap<ito>lo .xxij<<o>>. De como deuen ¶2 del dia en la red.
+{IN1.} Cap<itol><<o>> .xxi<<o>>. De como deue<n> sen<n>alar el c<er>co del yg<u><<a>>-dor %2 la red.
+{IN1.} Cap<ito>lo .xxij<<o>>. De como deuen %2 del dia en la red.
 sennalar las estrellas fixas en la red.
 {IN1.} Capitolo .xxiij<<o>>. De como se deue abrir la
-{IN1.} Cap<ito>lo .xxiiij<<o>>. De como se deue ¶2 red.
+{IN1.} Cap<ito>lo .xxiiij<<o>>. De como se deue %2 red.
 poner la sortija del colgadero en la red.
 {IN1.} Cap<itol><<o>> .xxv<<o>>. De como deue<n> foradar los forados delas lade-zas
-{IN1.} Cap<ito>lo .xxvj<<o>>. De como deue<n> fazer el ¶2 en la red.
+{IN1.} Cap<ito>lo .xxvj<<o>>. De como deue<n> fazer el %2 en la red.
 clauo & el cauallo pora ayuntar la red con la Espe-
 ra. & de como se deuen ayuntar.
 {RUB. Cap<ito>lo .j<<o>>. De no<m>brar las cosas de q<ue> se puede fazer +}
-{IN6.} Las cosas de q<ue> se ¶2 {RUB. este Astrolabio.}
+{IN6.} Las cosas de q<ue> se %2 {RUB. este Astrolabio.}
 puede fazer ell Espera; son todos
 los metales. assi como oro. pla-
 ta arambre. fierro. estanno. o plo-
@@ -8568,7 +8568,7 @@ La forma del fierro & la media espera
 & el muelde dela piedra todo en uno}}
 {CB2.
 {RUB. Cap<ito>lo .iiij<<o>>. De como se deuen ayuntar los dos me-dios +}
-{IN3.} Quando esto quisieres ¶2 {RUB. dell Espera.}
+{IN3.} Quando esto quisieres %2 {RUB. dell Espera.}
 fazer; faras un cercello de arambre uer-
 meio o amariello. & sea de foia delgada. &
 aya en su altura tanto como dos dedos. & sea fecho
@@ -8797,7 +8797,7 @@ assi como lo ponen enlos escudos. {RUB. Et esta es su fig<ur>a.}}
 {CB2.
 {=DIAG. Los dos medios dela espera ayuntados en uno}
 {RUB. Cap<ito>lo .vij<<o>>. De como puede ombre fallar los dos +}
-{IN3.} Mostrado te en los cap<ito>los ¶2 {RUB. polos dell Espera.}
+{IN3.} Mostrado te en los cap<ito>los %2 {RUB. polos dell Espera.}
 que passaron como puedas fallar los dos
 polos dell espera por carrera de maestria.
 Et agora quiero telo mostrar por la Geometria.
@@ -8848,7 +8848,7 @@ polo meridional |
 polo septe<n>trional |}
 {RUB. Cap<ito>lo .viij<<o>>. De como puede ombre fazer la espera
 bien redo<n>da & bien cierta q<u><<i>>er sea de madero q<u><<i>>er de +}
-{IN3.} Quando esto quisieres fazer; faz ¶2 {RUB. metal.}
+{IN3.} Quando esto quisieres fazer; faz %2 {RUB. metal.}
 un cerciello de fierro o de arambre o de
 laton. & sen<n>ala y un cerco. & sea su diamet<r><<o>>}
 {CB2.
@@ -8877,7 +8877,7 @@ trayda asu derecho. {RUB. Et esta es su figura.}
 {RUB. Cap<itol><<o>> .ix<<o>>. De como se deue sen<n>alar la esp<er>a & el c<er>co dell
 orizon & el cerco de medio dia. & el c<er>co q<ue> passa por los
 dos pu<n>tos de oriente & de occidente & por el zonte +}
-{IN3.} Si esto quisieres fazer; parte el ¶2 {RUB. dela cabeça.}
+{IN3.} Si esto quisieres fazer; parte el %2 {RUB. dela cabeça.}
 cerco sobredicho del cap<ito>lo q<ue> es ante deste por}
 [fol. 43v]
 {HD. LIBRO (P)PRIMERO +}
@@ -9211,7 +9211,7 @@ Agosto |
 Setembre}}
 {CB2.
 {RUB. Cap<ito>lo .xviij<<o>>. De como deuen sennalar los meses ro-manos +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. enla red.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. enla red.}
 pon el cabo dell alhidada sobre .xix. grados
 de piscis. & faz con la cuesta dell alhidada}
 {CB2.
@@ -9271,7 +9271,7 @@ Setembre}}
 {HD. DEL ASTROLABIO REDONDO}
 {CB2.
 {RUB. Cap<ito>lo .xix<<o>>. De como deue<n> sen<n>alar el cerco dela altura +}
-{IN3.} Si esto quisieres fazer; faz un ¶2 {RUB. en la red.}
+{IN3.} Si esto quisieres fazer; faz un %2 {RUB. en la red.}
 quarto de cerco en ell espacio q<ue> ma<n>de lexar
 pora los grados dela altura. & sea el comie<n>ço
 deste quarto del zonte q<ue> passa por el comie<n>ço de Lib<r><<a>>
@@ -9379,7 +9379,7 @@ La altura | grados | Menudos}}
 {HD. LIBRO SEGVNDO +}
 {CB2.
 {RUB. Cap<ito>lo .xxi<<o>>. De como deuen sennalar el c<er>co del ygua-dor +}
-{IN3.} Si esto quisieres fazer; ¶2 {RUB. del dia en la red.}
+{IN3.} Si esto quisieres fazer; %2 {RUB. del dia en la red.}
 faz sennal en el zonte dela cabeça de Can-
 cer. & sea luenne del zonte dela cabeça; tan-
 to como la declinacion q<ue> es en tu tie<m>po. & faz la po-
@@ -9492,7 +9492,7 @@ La parte | Septentrion}}
 {HD. DEL ASTROLABIO REDONDO}
 {CB2.
 {RUB. Capitolo .xxiij[<<o>>]. De como se deue abrir +}
-{IN3.} Si esto quisieres fazer ¶2 {RUB. la red.}
+{IN3.} Si esto quisieres fazer %2 {RUB. la red.}
 faz de yuso de cada estrella; figura de flor
 & sea la rayz daq<ue>lla flor allegada al cerco
 delos signos o al cerco dela yguacion del sol. o al c<er>co
@@ -9553,7 +9553,7 @@ Bueytre cayent |
 {HD. LIBRO PRIMERO +}
 {CB2.
 {RUB. Cap<itol><<o>> .xxiiij<<o>>. De como se deue poner la sortija del colga-dero +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. en la red.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. en la red.}
 faz un forado en la cabeça del signo de Ca-
 pricornio. & mete en el un priego reblado
 dela parte de dentro. & ell otro cabo que es de fuera;
@@ -9607,7 +9607,7 @@ Bueytre cayent |
 {HD. DEL ASTROLABIO REDONDO}
 {CB2.
 {RUB. Cap<ito>lo .xxv<<o>>. De como deue<n> foradar los forados de-las +}
-{IN3.} Si esto quisieres fazer; ¶2 {RUB. ladezas en la esp<er>a.}
+{IN3.} Si esto quisieres fazer; %2 {RUB. ladezas en la esp<er>a.}
 pon el punto dela pierna del compas sobrel
 punto del polo septentrional. & la otra pier-
 na sobrel cerco de medio dia sobrel empontizo el q<ue>
@@ -9717,8 +9717,8 @@ las & las otras cosas que son en el.
 te. & de saber en qual grado delos signos es en qual
 dia quier dell anno.
 {IN1.} Cap<ito>lo .iij<<o>>. De saber quanto es alta ell altura del
-{IN1.} Cap<ito>lo .iiij<<o>>. De sab<er> q<u><<a>>nta es ell altura de q<u><<a>>l es-trella ¶2 sol.
-{IN1.} Cap<itol><<o>> .v<<o>>. De sab<er> ell asce<n>de<n>te en q<u><<a>>l hora q<u><<i>>er. ¶2 q<u><<i>>er.
+{IN1.} Cap<ito>lo .iiij<<o>>. De sab<er> q<u><<a>>nta es ell altura de q<u><<a>>l es-trella %2 sol.
+{IN1.} Cap<itol><<o>> .v<<o>>. De sab<er> ell asce<n>de<n>te en q<u><<a>>l hora q<u><<i>>er. %2 q<u><<i>>er.
 {IN1.} Cap<ito>lo .vj<<o>>. De saber poner el grado del sol en su
 altura cierta quando cayer entre dos empontizos.
 {IN1.} Cap<ito>lo .vij<<o>>. De saber ell altura del sol del grado en
@@ -9760,7 +9760,7 @@ sol & delas horas passadas.
 {IN1.} Cap<ito>lo .xxij<<o>>. De saber el grado del sol dell ascende<n>t
 & delas horas passadas quier de dia quier denoche.
 {IN1.} Cap<itol><<o>> .xxiij<<o>>. De sab<er> ell altura del asce<n>de<n>te & delas horas
-{IN1.} Cap<ito>lo .xxiiij<<o>>. De saber el grado del ¶2 passadas.
+{IN1.} Cap<ito>lo .xxiiij<<o>>. De saber el grado del %2 passadas.
 sol dela altura & del ascendente.
 {IN1.} Cap<ito>lo .xxv<<o>>. De saber las horas passadas dela al-
 tura del ascendente.
@@ -9854,7 +9854,7 @@ gnos en qual ladeza quier.}
 {CB2.
 {IN1.} Cap<ito>lo .Lxiiij<<o>>. De saber q<u><<a>>ntos grados de qual signo
 quier suben con ascensiones sabudas dell yg<u><<a>>dor
-{IN1.} Cap<ito>lo .Lxv<<o>>. De saber las ascensiones ¶2 del dia.
+{IN1.} Cap<ito>lo .Lxv<<o>>. De saber las ascensiones %2 del dia.
 delos signos en el cielo derecho.
 {IN1.} Cap<ito>lo .Lxvj<<o>>. De saber los grados delos signos de-
 los grados delas ascensiones.
@@ -9874,10 +9874,10 @@ la sombra del grado del sol & dela altura.
 {IN1.} Cap<ito>lo .Lxxiij<<o>>. De saber el zont del grado del sol
 & del ascendent.
 {IN1.} Cap<ito>lo .Lxxiiij<<o>>. De saber el grado del sol & delas
-{IN1.} Cap<ito>lo .Lxxv<<o>>. De saber la altura & ell as-cendent ¶2 horas.
+{IN1.} Cap<ito>lo .Lxxv<<o>>. De saber la altura & ell as-cendent %2 horas.
 & las horas del zont & del g<r><<a>>do del sol.
 {IN1.} Cap<itol><<o>> .Lxxvj<<o>>. De saber el grado del sol del zont &
-{IN1.} Cap<ito>lo .Lxxvij<<o>>. De saber el grado ¶2 dela altura.
+{IN1.} Cap<ito>lo .Lxxvij<<o>>. De saber el grado %2 dela altura.
 del sol del zont & del ascendent.
 {IN1.} Capitolo .Lxxviij<<o>>. De saber el grado del sol del
 zont & delas horas.
@@ -9906,7 +9906,7 @@ cendent si fuer la estrella de suso dell orizon.
 del dia del zont de alguna estrella & del g<r><<a>>do del sol.
 {IN1.} Cap<ito>lo .Lxxxix<<o>>. De saber las q<u><<a>>tro partes denoche
 dela altura de alguna estrella delas q<ue> so<n> sen<n>aladas
-{IN1.} Cap<ito>lo .xc<<o>>. De saber la anchura orie<n>-tal ¶2 en la red.
+{IN1.} Cap<ito>lo .xc<<o>>. De saber la anchura orie<n>-tal %2 en la red.
 de qual estrella q<u><<i>>er delas q<ue> son puestas en la red.
 {IN1.} Cap<ito>lo .xci<<o>>. De saber q<u><<a>>nto es la longura entre los
 dos puntos orientales. & de q<u><<a>>l quier de dos estrellas.
@@ -9935,7 +9935,7 @@ boluio del cielo.
 las horas & dela altura de q<u><<a>>l estrella q<u><<i>>er delas dela red.
 {IN1.} Cap<ito>lo .c<<o>>. De saber las horas passadas delo q<ue> se re-
 boluio del cielo & dela altura de q<u><<a>>l estrella q<u><<i>>er delas
-{IN1.} Cap<ito>lo .ci<<o>>. De saber la altura dela estre-lla ¶2 dela red.
+{IN1.} Cap<ito>lo .ci<<o>>. De saber la altura dela estre-lla %2 dela red.
 delas horas passadas & delo q<ue> se reboluio del cielo.
 {IN1.} Cap<ito>lo .cij<<o>>. De saber quanta es la longura dela es-
 trella dela linna equinoctial.
@@ -9952,14 +9952,14 @@ o del dia suue qual estrella q<u><<i>>er delas dela red o qual}
 {CB2.
 grado quier delos signos del grado del sol.
 {IN1.} Cap<ito>lo .cviij<<o>>. De sab<er> en q<u><<a>>l grado es el sol por el rectifi-car.
-{IN1.} Cap<ito>lo .cix<<o>>. De saber qual grado delos signos ¶2
+{IN1.} Cap<ito>lo .cix<<o>>. De saber qual grado delos signos %2
 se acomedia en medio del cielo con la luna o con qual
 planeta quier delas otras. o con q<u><<a>>l estrella fixa q<u><<i>>er
 delas que non son en la red del rectificar.
 {IN1.} Cap<ito>lo .cx<<o>>. De saber la longura dela luna o de qual
 quier planeta. o de qual estrella fixa q<u><<i>>er delas q<ue>
 non son en la red dela lin<n>a eq<u><<i>>noctial dela su mayor al-tura.
-{IN1.} Cap<ito>lo .cxi<<o>>. De saber qual grado suue co<n> la ¶2
+{IN1.} Cap<ito>lo .cxi<<o>>. De saber qual grado suue co<n> la %2
 luna o con qual planeta q<u><<i>>er del su logar de los signos.
 {IN1.} Cap<ito>lo .cxij<<o>>. De saber q<u><<a>>l g<r><<a>>do d<e> los signos sube con la
 luna o con qual planeta quier o con qual quier es-
@@ -9974,7 +9974,7 @@ na o de qual estrella fixa quier delas q<ue> no<n> so<n> en la red.
 neta o su endereçamiento.
 {IN1.} Cap<itol><<o>> cxvj<<o>>. De sab<er> faz<er> las reuoluciones delos annos.
 {IN1.} Cap<ito>lo .cxvij<<o>>. De sab<er> la so<m>bra espandida & la co<n>uersa
-{IN1.} Cap<ito>lo .cxviij<<o>>. De saber la altura de ¶2 dela altura.
+{IN1.} Cap<ito>lo .cxviij<<o>>. De saber la altura de %2 dela altura.
 qual sombra quier delas dos.
 {IN1.} Cap<ito>lo .cxix<<o>>. De saber qual quier sombra delas dos
 delas horas passadas & del grado del sol.
@@ -10006,7 +10006,7 @@ logares si fuer la tierra q<ue> es entrellos llana.
 entre dos logares que sean ambos en logar q<ue> non
 ayas poder de allegar a ellos. assi como en rio. o en
 mar. o en laguna. o en valle. o en otro logar q<ue> semeie
-{IN1.} Cap<ito>lo .cxxx<<o>>. De saber q<u><<a>>nto es ell altura ¶2 a estos.
+{IN1.} Cap<ito>lo .cxxx<<o>>. De saber q<u><<a>>nto es ell altura %2 a estos.
 de una sierra. o q<ue> es lo que annade la altura dun
 logar luenne sobre otro mas da cerca.
 {IN1.} Cap<ito>lo .cxxxj<<o>>. De saber q<u><<a>>nto annade la altura
@@ -10169,7 +10169,7 @@ mientes ala altura. & si uieres q<ue> ua poiando; sabe
 q<ue> es ante de medio dia. & si estudier q<ue>do; sabe q<ue> es
 medio dia. & si se abaxare; sabe q<ue> es [^mas de] medio dia.
 {RUB. Cap<ito>lo .iiij<<o>>. De sab<er> quanta es ell altura de q<u><<a>>l estre-lla +}
-{IN3.} Quando esto quisieres saber; cuel-ga ¶2 {RUB. quier.}
+{IN3.} Quando esto quisieres saber; cuel-ga %2 {RUB. quier.}
 ell astrolabio dela tu mano siniestra. &
 mueue ell alhidada con la tu mano diestra
 fasta q<ue> entre la uista del tu oio por el forado dela axa-
@@ -10181,7 +10181,7 @@ altura daq<ue>lla estrella en aq<ue>lla hora. Et si fuer la
 estrella a cerca del medio cielo & quisieres saber silo
 a passado o no<n>; faz assi como te mostre en el cap<ito>lo
 que es ante deste. {RUB. Cap<ito>lo .v<<o>>. De sab<er> ell ascende<n>te +}
-{IN3.} Si esto quisieres saber; sabe en ¶2 {RUB. en q<u><<a>>l hora q<u><<i>>er.}
+{IN3.} Si esto quisieres saber; sabe en %2 {RUB. en q<u><<a>>l hora q<u><<i>>er.}
 qual grado delos signos es el sol assi como es
 sobredicho. & faz sen<n>al en la red en los signos
 en aq<ue>l grado. & cuenta q<ue> aq<ue>lla sennal es el sol. & re-
@@ -10303,7 +10303,7 @@ rigua lo que passo dela hora assi como telo e mostra-
 do. & auras horas temporales passadas dela noche
 & sos menudos. {RUB. Cap<ito>lo .xij<<o>>. De saber connoscer en el
 cielo las estrellas q<ue> non connosces; por las otras +}
-{IN3.} Quando esto quisieres saber; toma ¶2 {RUB. q<ue> con<n>osces.}
+{IN3.} Quando esto quisieres saber; toma %2 {RUB. q<ue> con<n>osces.}
 la altura de qual estrella quier delas que
 son puestas en la red. & pon la sobre so empon-
 tizo. & desi cata enla red qual estrella quieres connos-
@@ -10412,14 +10412,14 @@ as sobrel empontizo dela altura. & cata qual grado
 delos signos cae sobrel cerco dell orizon. & aq<ue>l sera
 ell ascendente en aq<ue>lla hora. {RUB. Capitulo .xxij<<o>>. De
 saber el grado del Sol dell ascendente. & de las hora<<s>> +}
-{IN3.} Quando esto quisieres ¶2 {RUB. passadas q<u><<i>>er de dia q<u><<i>>er de +}
-saber; pon el grado dell ascendente sobrel orizo<n> ¶2 {RUB. no-che. +}
-oriental. & cata qual grado delos signos cae so-bre ¶2 {RUB.}
+{IN3.} Quando esto quisieres %2 {RUB. passadas q<u><<i>>er de dia q<u><<i>>er de +}
+saber; pon el grado dell ascendente sobrel orizo<n> %2 {RUB. no-che. +}
+oriental. & cata qual grado delos signos cae so-bre %2 {RUB.}
 aq<ue>llas horas & aq<ue>llos menudos que as guardado.
 & toma el su opposito. & aq<ue>l sera el grado del sol a[ ]aq<ue>lla
 hora. {RUB. Capitulo .xxiij[<<o>>]. De saber ell altura dell asce<n>-dente. +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. & de las horas passa-da<<s>>. +}
-saca el grado del sol assi como es dicho en el ca-pitolo ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; %2 {RUB. & de las horas passa-da<<s>>. +}
+saca el grado del sol assi como es dicho en el ca-pitolo %2 {RUB.}
 que es ante deste. & cata sobre qual en-
 pontizo cae el grado del sol. & aq<ue>lla sera su altura a-
 aq<ue>lla hora en aq<ue>lla parte do la fallares de oriente o
@@ -10444,7 +10444,7 @@ horas passadas. & sabe que todos estos fechos non se
 aciertan bien si non quando es ell astrolabio bien
 cierto & bien complido. {RUB. Cap<ito>lo .xxvj<<o>>. De saber q<u><<a>>n-
 to se reboluio del cielo del grado del Sol. & de la altu-ra +}
-{IN3.} Quando esto quisieres ¶2 {RUB. orie<n>tal o occidental.}
+{IN3.} Quando esto quisieres %2 {RUB. orie<n>tal o occidental.}
 saber; pon el grado del sol en ell empontizo de
 so altura. & faz sennal en el cerco dell ygua-
 dor del dia sobre qual quier delos cercos q<ue> se taian
@@ -10455,8 +10455,8 @@ co sobre que auies ante fecha la sennal. & lo q<ue> fuer;
 esso es lo que se reboluio del cielo desde q<ue> nascio el
 sol fata aq<ue>lla hora que q<ue>siste saber. {RUB. Cap<ito>lo .xxvij<<o>>.
 de saber el grado del Sol de lo q<ue> se reboluio del cielo & +}
-{IN3.} Si esto quisieres saber; sabe en qual ¶2 {RUB. de la altu-ra. +}
-quarto delos signos; es el sol assi como fue ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; sabe en qual %2 {RUB. de la altu-ra. +}
+quarto delos signos; es el sol assi como fue %2 {RUB.}
 dicho en el veynteno capitolo con lo q<ue> se rebol-
 uio del cielo. & con la altura en el logar en q<ue> obraste
 en aq<ue>l veynteno capitolo con la altura del sol & con
@@ -10473,7 +10473,7 @@ cata al grado del sol sobre qual empontizo es caydo.
 & essa sera so altura a[ ]aq<ue>lla hora. {RUB. Cap<ito>lo .xxix[<<o>>]. De
 saber las alturas de las estrellas del grado del sol
 & de lo q<ue> se reboluio del cielo de la hora del ponimie<n>to del +}
-{IN3.} Si esto quisieres saber; pon el grado del sobrel ¶2 {RUB. sol.}
+{IN3.} Si esto quisieres saber; pon el grado del sobrel %2 {RUB. sol.}
 orizon occidental. & faz sennal en el cerco dell
 yguador del dia sobre qual quier delos cercos
 que se destaian sobrel zonte dela cabeça & mueue
@@ -10506,7 +10506,7 @@ red faz all orizon oriental tanto cuemo se rebol-
 uio del cielo desde q<ue> nascio el sol; fata aq<ue>lla ho-
 ra. & cata qual grado de los signos cae sobrell ori-
 zon oriental. & esso sera el grado del sol aq<ue>lla
-{RUB. Cap<ito>lo .xxxij<<o>>. De saber ell ascende<n>te del grado +} ¶2 hora[.]
+{RUB. Cap<ito>lo .xxxij<<o>>. De saber ell ascende<n>te del grado +} %2 hora[.]
 {RUB. del Sol & de lo q<ue> se reboluio del cielo de dia o de noche.}
 {IN3.} Quando esto quisieres saber; pon el grado
 del sol sobrell orizon oriental si fuere
@@ -10534,9 +10534,9 @@ noche. & cata quanto se alongo la se<n>nal del cer-
 co sobre q<ue> era se<n>nalada. & esso es lo q<ue> se reboluio
 del cielo fata aq<ue>lla hora. {RUB. Cap<ito>lo .xxxiiij<<o>>. de saber
 el grado del Sol de lo q<ue> se reboluio del cielo & delas +}
-{IN3.} Si esto quisieres saber. ¶2 {RUB. horas passadas de dia +}
-sabe en qual quarto de los signos es el ¶2 {RUB. o de +}
-sol. assi cuemo la sobiste enel c<apitol><<o>> .xx<<o>>. & ¶2 {RUB. noch<e>.}}
+{IN3.} Si esto quisieres saber. %2 {RUB. horas passadas de dia +}
+sabe en qual quarto de los signos es el %2 {RUB. o de +}
+sol. assi cuemo la sobiste enel c<apitol><<o>> .xx<<o>>. & %2 {RUB. noch<e>.}}
 {CB2.
 obra aqui en este capitulo con lo q<ue> se reboluio
 del cielo enel logar en q<ue> obraste en aq<ue>l capitu-
@@ -10570,8 +10570,8 @@ dell yguador del dia. del cerco sobre q<ue> fue se<n>na-
 lada; & esso sera lo q<ue> se reboluio del cielo fata aq<ue>l-
 la hora. {RUB. Cap<ito>lo .xxxvij<<o>>. de saber las horas passa-
 das de lo q<ue> se reboluio del cielo & dell asce<n>de<n>t de dia o de +}
-{IN3.} Quando esto quisieres saber; pon el grado dell ¶2 {RUB. no-che. +}
-ascendente sobrell orizon oriental. & rebuel-ue ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; pon el grado dell %2 {RUB. no-che. +}
+ascendente sobrell orizon oriental. & rebuel-ue %2 {RUB.}
 la red ala parte de oriente de parte de
 suso de la tierra; tanto quanto se reboluio del cie-
 lo. & cata qual grado de los signos cae sobrell orizo<n>
@@ -10583,9 +10583,9 @@ cuemo fue ante. & cata sobre quantas horas cayo
 la se<n>nal q<ue> feziste en los otros signos. & essas sera<n>
 las horas passadas. {RUB. Cap<ito>lo .xxxviij<<o>>. de saber ell asce<n>-
 dent d<e> lo q<ue> se reboluio del cielo & de las horas passadas q<u><<i>>er +}
-{IN3.} Si esto quisieres saber. saca el grado del sol ¶2 {RUB. de dia +}
-de la q<ue> se reboluio del cielo. & de las hora<<s>> ¶2 {RUB. q<u><<i>>er d<e> +}
-¶2 noche.}}
+{IN3.} Si esto quisieres saber. saca el grado del sol %2 {RUB. de dia +}
+de la q<ue> se reboluio del cielo. & de las hora<<s>> %2 {RUB. q<u><<i>>er d<e> +}
+%2 noche.}}
 [fol. 57v]
 {HD. LIBRO SEGVNDO +}
 {CB2.
@@ -10602,7 +10602,7 @@ la tierra tanto cuemo se reboluio del cielo. & aq<ue>l
 grado de los signos q<ue> cayere sobrell orizon orie<n>-
 tal sera ell ascendente. {RUB. Cap<ito>lo .xxxix<<o>>. De saber
 lo que se reboluio del cielo del ascendente & de +}
-{IN3.} Quando esto quisieres ¶2 {RUB. la altura.}
+{IN3.} Quando esto quisieres %2 {RUB. la altura.}
 saber. pon el grado del ascendente sobrell
 orizon oriental. & cata qual grado de los sig-
 nos cae sobrell enpontizo dell altura. & aq<ue>ll sera
@@ -10656,13 +10656,13 @@ p<ito>lo .xxix[<<o>>]. & podras saber la altura de lo q<ue> se rebol-
 uio del cielo. & del grado del Sol assi cuemo es di-
 cho enel cap<ito>lo .xxix[<<o>>]. {RUB. Cap<itol><<o>> .xlv<<o>>. De sab<er> las horas
 yguales passadas delo q<ue> se reboluio del cielo q<u><<i>>er +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. de dia q<u><<i>>er denoche.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. de dia q<u><<i>>er denoche.}
 parte lo q<ue> se reboluio del cielo; por .xv. p-
 (p)artes eguales. & lo q<ue> salier. son horas y-
 guales passadas del dia si fuere de dia; o de no-
 che si fuere de noche. {RUB. Cap<ito>lo .xlvj<<o>>. De saber los tie<m>-
 pos de una hora nocturna o diurna del grado +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. del sol & de su archo.}
+{IN3.} Si esto quisieres saber; %2 {RUB. del sol & de su archo.}
 saca el grado del Sol assi cuemo es dicho
 enel cap<ito>lo .iij[<<o>>]. & saca ell archo del dia & de
 la noche assi cuemo te mostrare agora. pon el
@@ -10702,7 +10702,7 @@ sabe q<ue> es su p<ro>porcion de .xv. & seran menudos de
 hora de mas de las horas complidas q<ue> ouiste.
 {RUB. Cap<ito>lo .xlviij<<o>>. De saber tornar las horas tempo-
 rales yguales; & las yguales te<m>porales q<u><<i>>er sea +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. de dia q<u><<i>>er denoche.}
+{IN3.} Si esto quisieres saber; %2 {RUB. de dia q<u><<i>>er denoche.}
 saca ell archo del dia assi cuemo te mostre
 en lo q<ue> es sobredicho. & parte lo sobre .xv. &
 lo q<ue> salier; tantas horas yguales aura en aq<ue>l
@@ -10740,7 +10740,7 @@ temporal daq<ue>l dia o daq<ue>lla noche. & seran horas
 temporales passadas daq<ue>l dia o daq<ue>lla noche[.]
 {RUB. Cap<ito>lo .L<<o>>. De saber lo q<ue> passo delas horas tempo-
 rales & delo de horas yguales & del grado del +}
-{IN3.} Si quisieres ¶2 {RUB. sol tan bie<n> de dia como denoche[.]}
+{IN3.} Si quisieres %2 {RUB. sol tan bie<n> de dia como denoche[.]}
 saber lo que passo de las horas non yguale<<s>>
 de las yguales. multiplica las horas ygua-
 les en .xv. & lo q<ue> se ayuntar; guardalo & pon el
@@ -10765,7 +10765,7 @@ se<n>nal del cerco sobre q<ue> fue se<n>nalada. & parte lo so-
 bre .xv. & lo q<ue> salier seran horas yguales. {RUB. Cap<ito>lo .Li<<o>>.
 De sab<er> el g<r><<a>>do del sol & la alt<ur>a de lo q<ue> passo de las horas
 te<m>p<or>ales & d<e> las horas yguales q<u><<i>>er sea de dia q<u><<i>>er de no-che. +}
-{IN3.} Quando esto quisieres saber; multiplica las ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; multiplica las %2 {RUB.}
 horas yg(l)[u]ales en .xv. & lo q<ue> se ayuntar aq<ue>llo
 sera lo q<ue> se reboluio del cielo. & si fuer lo que
 sopieres horas non yguales. saca el grado del sol
@@ -10774,7 +10774,7 @@ mo es dicho enel cap<ito>lo .xxxv[<<o>>]. & ell enpontizo
 do cayer el grado del Sol; aq<ue>lla sera la altura. {RUB. Cap<itol><<o>>.
 Lij<<o>>. De sab<er> q<u><<a>>ntas horas yguales a enel mayor dia del an-
 no. & enel menor. o en la mayor noch<e> del a<n>no o en la me-nor. +}
-{IN3.} Si esto quisieres saber. pon la cabeça de can-cer ¶2 {RUB.}
+{IN3.} Si esto quisieres saber. pon la cabeça de can-cer %2 {RUB.}
 sobrell orizon oriental; & faz se<n>nal en el
 cerco del yguador del dia. & mueue la red fa-
 ta q<ue> caya la cabeça de cancer sobrell orizon occi-
@@ -10824,7 +10824,7 @@ fazer; ca aun non sal y el fecho. & cumple el
 fecho assi cuemo es sobredicho. {RUB. Cap<ito>lo .Lv<<o>>. de
 saber q<u><<a>>ntas horas yguales a en qual dia quier
 o en q<u><<a>>l noche q<u><<i>>er en todel a<n>no en q<u><<a>>l cipdat tu q<u><<i>>si-eres. +}
-{IN3.} Quando esto quisieres saber pon la pierte-ga ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber pon la pierte-ga %2 {RUB.}
 sobre la ladeza daq<ue>lla cipdat o quie-
 res obrar. & saca ell archo del dia assi cue-
 mo sobredicho es. & parte lo sobre .xv. & lo que
@@ -10872,7 +10872,7 @@ ell opposito del Sol assi cuemo obreste con el sol de
 dia. & con el grado del Sol; assi cuemo obreste con
 su opposito de dia. {RUB. Cap<ito>lo .Lvij[<<o>>]. de saber cuemo
 podras obrar con este astrolabio en qual la-deza +}
-{IN3.} Quando esto quisieres ¶2 {RUB. quisieres.}
+{IN3.} Quando esto quisieres %2 {RUB. quisieres.}
 saber; sabe q<ue> ell astrolabio redondo no<n> se
 pueden foradar enell forados pora cada la-
 deza. & a menos de los forados non pueden obrar
@@ -10925,7 +10925,7 @@ sobrel cerco de la segunda hora; esso sera el come<n>-
 do de cada casa destas; es el primer grado de la su
 casa (a)[o]pposita. {RUB. Cap<ito>lo .Lx[<<o>>]. de saber ygualar las do-
 ze casas segund la oppinion de ptholomeo. & de +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. Veles.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. Veles.}
 pon el grado dell ascendente sobrell orizo<n>
 oriental. & el grado q<ue> cayer sobrell orizon
 occidental aq<ue>l sera el seteno. & quantas estrellas
@@ -10963,7 +10963,7 @@ Et si fuer la altura del sol mayor q<ue>la altura de-
 la cabeça de Aries; sera la declination septentrio-
 nal. & si fuer menor; sera meridional. {RUB. Cap<ito>lo .Lxij<<o>>.
 De saber quales grados delos signos an una decli-nacion +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. misma.}
+{IN3.} Si esto quisieres saber; %2 {RUB. misma.}
 cata ala declinacion. & si fuer meridional;
 menguala dela altura dela cabeça de Ari-
 es en aq<ue>lla cipdat. & lo q<ue> fincar; demanda tanto
@@ -11001,7 +11001,7 @@ dat. Et esto mismo faras quando quisieres saber
 los souimientos demas de un signo o de menos.
 {RUB. Cap<ito>lo .lxiiij<<o>>. De saber quantos grados de qual
 signo quier suuen co<n> asce<n>siones sabudas dell yg<u><<a>>-dor +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. del dia.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. del dia.}
 pongamos q<ue> as .viij. grados de ascensio-
 nes & quieres saber quantos grados de
 Aries suuran con ellos en to cipdat; pon la cabe-
@@ -11234,7 +11234,7 @@ do delos signos se taia en aq<ue>l zonte. & aq<ue>l es el gra-
 do del sol aaq<ue>l dia. & sabe del la altura & las horas
 passadas daq<ue>l dia assi como sobredicho es. {RUB. Cap<ito>lo.
 Lxxviij<<o>>. De saber el grado del sol del zo<n>te & delas +}
-{IN3.} Quando esto quisieres saber; sabe ¶2 {RUB. horas.}
+{IN3.} Quando esto quisieres saber; sabe %2 {RUB. horas.}
 en qual quarto del anno eres. & pon el pri-
 mero grado daq<ue>l quarto sobrel cerco del zo<n>-
 te del sol en el quarto do es. & mueue la red un gra-
@@ -11324,7 +11324,7 @@ De saber en qual quarto cae la li<n>na de qual cip-
 dat quier; & quanto es su declinacion de qual +}}
 {CB2.
 {RUB. parte fuere de las quatro en longura o en la-deza. +}
-{IN3.} Si esto quisieres saber; sabe ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; sabe %2 {RUB.}
 la altura de la cabeça de aries enel lo-
 gar do fueres. & a<n>nade sobrella la la-
 deza daq<ue>l logar q<ue> quieres saber. & lo q<ue> fuer; dema<n>-
@@ -11351,7 +11351,7 @@ por el punto del comediamiento de los orien-
 tes si fuer oriental; o de los occidentes si fuer
 occidental. {RUB. Cap<ito>lo .lxxxij<<o>>. De saber cuemo saq<ue>n
 la linna de qual logar quier enel suelo del ori-zon. +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; %2 {RUB.}
 saca las quatro partes assi cuemo sobre-
 dicho es. & sabe el desuiamiento del zon-
 te del logar q<ue> quieres saber. assi cuemo dixie-
@@ -11384,7 +11384,7 @@ uiamiento; q<ue> sea lue<n>ne del punto q<ue> auies fal-
 lado. si de oriente. de oriente. si de occidente. de
 occidente. {RUB. Cap<ito>lo .lxxxiij[<<o>>]. De saber cuemo mu-
 dan la linna de qual logar quier a qual qui-er +}
-{IN3.} Quando esto quisieres ¶2 {RUB. otro logar.}
+{IN3.} Quando esto quisieres %2 {RUB. otro logar.}
 saber. pon el cabo de la estrella en su al-
 tura. & cata qual zonte es el que passa por
 ella. & en qual quarto es. & esso sera su zonte en
@@ -11413,7 +11413,7 @@ dente. & si quisieres saber el grado del sol delas horas
 estrella sobre aq<ue>l zonte. & cata qual grado delos si-
 gnos cae sobre aq<ue>llas horas que tu as. & esso sera
 el grado del sol. {RUB. Cap<ito>lo .Lxxxvij<<o>>. De sab<er> ell asce<n>de<n>t del +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. zo<n>t dela estrella.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. zo<n>t dela estrella.}
 pon el cabo dela estrella sobre so zonte. &
 cata sobre quantas horas cae el grado del
 sol. & aq<ue>llas seran las horas q<ue> dema<n>daste. {RUB. Cap<ito>lo .Lx-
@@ -11460,7 +11460,7 @@ ra. & saca una linna dela una sennal ala otra. & es-
 ta linna ua en derecho fata aq<ue>lla cipdat que q<ue>siste
 saber. {RUB. Cap<ito>lo .Lxxxix<<o>>. De saber las q<u><<a>>tro partes de-
 noche de la altura de alguna estrella delas q<ue> son +}
-{IN3.} Quando esto quisieres ¶2 {RUB. sen<n>aladas en la red.}
+{IN3.} Quando esto quisieres %2 {RUB. sen<n>aladas en la red.}
 saber; saca las quatro partes en el logar do
 tu quieres saber esto. & faz en la tierra una
 linna en derecho daq<ue>l logar assi como es dicho en
@@ -11498,7 +11498,7 @@ polo septentrional; es en los orientes veranales
 septentrionales. {RUB. Cap<ito>lo .xci<<o>>. De saber q<u><<a>>nto es la lo<n>-
 gura entre los dos puntos orientales. & de qual q<u><<i>>er
 de dos estrellas. & la longura que a entrellas en +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. medio del cielo.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. medio del cielo.}
 rebuelue la red fata q<ue> caya la una delas
 dos estrellas de q<ue> tu quieres saber la lo<n>gu-
 [r]a q<ue> es entrellas sobrela linna de medio dia. & faz
@@ -11554,7 +11554,7 @@ che. & si fuer de dia; obra con ell opposito del sol as-
 si cuemo obraste con el sol mismo denoche. {RUB. Cap<ito>lo
 xcvjo. De sab<er> delo q<ue> se reboluio del cielo del grado
 del sol. & dela altura de q<u><<a>>l estrella q<u><<i>>er delas dela +}
-{IN3.} Si esto quisieres saber; pon la estrella ¶2 {RUB. red.}
+{IN3.} Si esto quisieres saber; pon la estrella %2 {RUB. red.}
 sobre so altura. & faz sennal enel cerco del
 yguador del dia sobre qual cerco quier de-
 los que se taian con ella. & torna el grado del sol
@@ -11579,7 +11579,7 @@ do que cayer sobrel orizon occidental del cerco de-
 los signos; aq<ue>l es el grado del sol aq<ue>l dia. {RUB. Cap<ito>lo
 xcviij<<o>>. De saber la altura de qual estrella q<u><<i>>er de-
 las dela red del grado del sol & delo q<ue> se reboluio del +}
-{IN3.} Si esto quisieres saber; pon el grado ¶2 {RUB. cielo.}
+{IN3.} Si esto quisieres saber; pon el grado %2 {RUB. cielo.}
 del sol sobrel orizon occidental. & faz sen<n>al
 sobrel cerco dell yguador del dia en qual q<u><<i>>er
 linna delas q<ue> se taian con el. & mueue la red faz
@@ -11721,8 +11721,8 @@ tentrional. & mengua della la altura de la cabe-
 ça de aries; & fincara la longura de la linna e-
 quinoccial. {RUB. Cap<ito>lo .cxi[<<o>>]. De saber qual grado sube
 con la luna o con qual planeta quier de su lo-gar +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. de los sig-no<<s>>. +}
-cata la luna o la estrella qual dellas ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. de los sig-no<<s>>. +}
+cata la luna o la estrella qual dellas %2 {RUB.}
 quisieres quando fuere en la mayor
 altura en aquel dia. & faz se<n>nal enel cerco de
 medio dia sobre aq<ue>lla altura misma. & cata ala
@@ -11743,7 +11743,7 @@ ere ladeza. {RUB. Cap<ito>lo .cxij[<<o>>]. De saber q<u><<a>>l g<r><<a>>do d<e> 
 sube con la luna o con qual planeta quier o con
 qual quier estrella fixa de las q<ue> no<n> son puestas
 en la red quier ayan grand ladeza quier poca del +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. rectificar.}
+{IN3.} Si esto quisieres saber; %2 {RUB. rectificar.}
 cata la luna o qual estrella quier qua<n>-
 do fuer en mediol cielo; & cata otrossi
 quanto es la su mayor altura. & toma luego
@@ -11808,7 +11808,7 @@ cidente. Et cata qual zonte passa por aq<ue>lla se<n>-
 nal; & en qual quarto es. & aq<ue>ll sera su zonte
 en aq<ue>lla parte do lo falleste. {RUB. Cap<ito>lo .cxv[<<o>>]. de sa-
 ber el retornamie<n>to de la planeta; o su endere-çamie<n>to. +}
-{IN2.} Quando esto quisieres saber; ¶2 {RUB.}
+{IN2.} Quando esto quisieres saber; %2 {RUB.}
 toma la altura daq<ue>lla estrella quando}
 {CB2.
 fuer enel medio cielo. & sabe qual grado de los
@@ -11821,7 +11821,7 @@ noche en menos grados de lo q<ue> lo falleste en la
 primera; sabras q<ue>la estrella es retrograda. & si
 fuere essa misma; sabras q<ue> es en su estacion.
 {RUB. Cap<ito>lo .cxvj[<<o>>]. De saber fazer las reuoluciones de +}
-{IN3.} Si esto quisieres saber. sabe ¶2 {RUB. los a<n>nos[.]}
+{IN3.} Si esto quisieres saber. sabe %2 {RUB. los a<n>nos[.]}
 la reuolucion del a<n>no passado. & el su as-
 cendente. & pon el grado del ascendente
 de la reuolucion adelantrada sobrell orizon ori-
@@ -11868,7 +11868,7 @@ q<ue> mientre fuere la altura menos de .xlv. q<ue> la
 sombra es mayor de la cosa leuantada. Et si fu-
 er mas de .xlv. es la sombra menor.
 {RUB. Cap<ito>lo .cxviij[<<o>>]. De saber la altura de qual so<m>bra +}
-{IN3.} Si esto quisieres ¶2 {RUB. quier de los dedos.}
+{IN3.} Si esto quisieres %2 {RUB. quier de los dedos.}
 saber; sabe la sombra; & sabe si es es-
 pandida o retornada. & pon ell alhida-
 da sobre aq<ue>llos dedos mismos; & cata qual gra-
@@ -11894,7 +11894,7 @@ altura sabras la sombra assi cuemo sobredicho
 es. {RUB. Cap<ito>lo .cxxi[<<o>>]. De saber las horas passadas. & el
 zonte. & ell ascendente por qual sombra quier
 de las dos ante del medio dia. o despues. & del +}
-{IN3.} Qvando esto quisieres saber. ¶2 {RUB. grado del sol.}
+{IN3.} Qvando esto quisieres saber. %2 {RUB. grado del sol.}
 saca la altura de la sombra assi cuemo
 sobredicho es. & sabe de la altura & del
 grado del Sol si es oriental o occidental. por sab<er>
@@ -11948,7 +11948,7 @@ mas baxo; & lo q<ue> fuer despues dell a<n>nadimie<n>-
 to o del menguamie<n>to; esso sera la longura da-
 q<ue>lla cosa q<ue> q<ue>siste saber. {RUB. Cap<ito>lo. cxxv[<<o>>]. de saber ell
 altura de la cosa; maguer q<ue> te non tuelgas de +}
-{IN3.} Qvando esto quisieres sa-ber; ¶2 {RUB. tu logar.}
+{IN3.} Qvando esto quisieres sa-ber; %2 {RUB. tu logar.}
 toma la altura de la cosa q<ue> quieres
 saber a menos de te toller de tu logar.
 et cata do cae ell alhidada; & sobre qual som-
@@ -12121,7 +12121,7 @@ que a entre aq<ue>llos dos logares en el teiado.
 tendida sobrela faz dela tierra una uiga o u-
 na palma seyendo su longura sabuda. & acor-
 uando su cabeça faz ala tierra; cosa sabuda +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. cada dia.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. cada dia.}
 sabe la medida daq<ue>lla uega o daquel ar-
 uol. & doblala. & lo que fuer; multipli-
 calo en tres partes & un septimo de una parte.
@@ -12131,7 +12131,7 @@ dias sera assentada sobrela tierra. {RUB. Cap<ito>lo .cxxx-
 iiij[<<o>>]. De saber cuemo obran con ell astrolabio re-
 dondo en qual logar quier de toda la tierra ma-
 guer non aya aq<ue>lla ladeza forados en aq<ue>lla es-pera. +}
-{IN3.} Si esto quisieres saber; cata ala ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; cata ala %2 {RUB.}
 ladeza en que estas. & si fuer a cerca de
 alguna ladeza delas que son puestas
 en la espera dell astrolabio con un grado o con po-
@@ -12226,7 +12226,7 @@ llano.}}
 {CB2.
 {RUB. Este es el prologo del primero libro del +}
 {IN9.} Por que ell {RUB. astrolabio +}
-arte de astro-logia ¶2 {RUB. llano.}
+arte de astro-logia %2 {RUB. llano.}
 non se puede
 tanto entender. & sa-
 ber por otra cosa cu-
@@ -12887,8 +12887,8 @@ auemos dicho. {RUB. Et esta es la figura della.}
 {CB2.
 {RUB. Cap<ito>lo .xiiij<<o>>. De como deuen seer fechas las sen<n>ales
 q<ue> son en las espaldas del astrolabio. & primeramie<n>te +}
-{IN5.} Pues q<ue> auemos fablado ¶2 {RUB. el q<u><<a>>rto dela al-tura. +}
-& mostrado de como se fazen ¶2 {RUB.}
+{IN5.} Pues q<ue> auemos fablado %2 {RUB. el q<u><<a>>rto dela al-tura. +}
+& mostrado de como se fazen %2 {RUB.}
 las sennales & las otras cosas que
 son enla faz del astrolabio; Quere-
 mos agora dezir de como se deuen
@@ -12965,7 +12965,7 @@ Leo |
 Virgo}}
 {CB2.
 {RUB. Cap<ito>lo .xvj<<o>>. De como deue seer fecho el cerco delos +}
-{IN3.} El cerco delos meses faras en esta ¶2 {RUB. meses.}
+{IN3.} El cerco delos meses faras en esta %2 {RUB. meses.}
 guisa. faz otro cerco q<ue> sea a cerca del defera<n>t
 del sol q<ue> te mostramos fazer en la fin des-
 te otro cap<ito>lo. Et partelos amos el defera<n>t & este
@@ -13129,7 +13129,7 @@ mo agudos. {RUB. Et esta es la figura del alhidada.}}
 {=DIAG.}
 {RUB. Cap<ito>lo .xix<<o>>. De como deuen seer fechas las dos
 axatabas. & de como deuen ser puestas en el alhi-dada +}
-{IN3.} Las dos axatabas q<ue> son las dos ta-bletas ¶2 {RUB.}
+{IN3.} Las dos axatabas q<ue> son las dos ta-bletas %2 {RUB.}
 peq<ue>nnas foradadas q<ue> estan fin-
 cadas en alhidada; faz las tan anchas
 como era la tabla del alhidada ante q<ue>la limasses.
@@ -13259,7 +13259,7 @@ ra. & del clauo que deue entrar en ella & en la siella
 del astrolabio.}
 {=DIAG.}
 {RUB. Cap<ito>lo .xxiiij[<<o>>]. De como deue seer fecha la segu<n>da arme-lla +}
-{IN3.} La segunda armella del colgadero ¶2 {RUB. del colgad<er>o.}
+{IN3.} La segunda armella del colgadero %2 {RUB. del colgad<er>o.}
 deue seer fecha assi. Faras una armella
 daq<ue>lla cosa misma de que feziste esta
 otra de que auemos fablado. Et la su rueda sea bi-
@@ -13613,7 +13613,7 @@ acaeçio el alhidada & sabras q<ue> en aq<ue>l grado daq<ue>l
 signo q<ue> esta escripto y; es el sol en esse dia del mes
 xp<ist>ianiego. {RUB. Cap<ito>lo .ix<<o>>. De saber en qual signo es el
 sol. & quantos grados es en aq<ue>l signo por la tabla +}
-{IN3.} En la fin deste libro ¶2 {RUB. q<ue> esta en la fin deste libro.}
+{IN3.} En la fin deste libro %2 {RUB. q<ue> esta en la fin deste libro.}
 mandamos poner una tabla de q<ue> podras
 saber otrossi; en qual signo es el sol. & qua<n>-
 tos grados daq<ue>l signo en esta guisa. q<ue> sepas qual
@@ -13622,7 +13622,7 @@ del. & entra con el cuento del en essa tabla. & lo q<ue>
 fallares en derecho dellos so el no<m>bre del mes sobre-
 dicho es el grado del sol daq<ue>l signo q<ue> esta escripto so-
 brel. {RUB. Cap<ito>lo .x<<o>>. De saber q<u><<a>>l es el grado del sol en la red +}
-{IN3.} El grado del sol sacaras ¶2 {RUB. & q<u><<a>>l es el opposito del.}
+{IN3.} El grado del sol sacaras %2 {RUB. & q<u><<a>>l es el opposito del.}
 en la Red assi. Desq<ue> sopieres en qual sig<n><<o>>
 es. & en qual grado desse signo; cata en la
 red qual es aq<ue>l grado. & faz una sennal y con ti<n>ta
@@ -13642,7 +13642,7 @@ otra sennal en el logar del elmuri. Et cuenta q<u><<a>>n-
 tos grados son entrela una sennal & la otra. & tan-
 tas son las partes delas horas temporales daq<ue>l
 dia. {RUB. Cap<ito>lo .xijo. De saber qua<n>tas so<n> las p<ar>tes delas ho-ras +}
-{IN3.} Si esto quisieres saber pon el ¶2 {RUB. t<em>p<or>ales dela noch.}
+{IN3.} Si esto quisieres saber pon el %2 {RUB. t<em>p<or>ales dela noch.}
 grado del sol sobrel grado deponent. & faz
 una sennal en alhogra. enel logar en q<ue> esta
 ell elmuri. Et desende mueue la red hata que sea
@@ -13665,7 +13665,7 @@ q<u><<a>>ntos grados es delos q<ue> so<n> escriptos en el q<u><<a>>rto dela altu
 ra. & ta<n>to sera la altura del sol en aq<ue>lla hora de q<u><<a>>l cabo fu-
 er el ta<n> bie<n> en la parte de Orie<n>t; como de Occide<n>t. {RUB. Cap<ito>lo
 .xiiij<<o>>. De saber tomar la altura delas estrellas +}
-{IN3.} Si esto quisieres saber ¶2 {RUB. & del sol otrossi.}
+{IN3.} Si esto quisieres saber %2 {RUB. & del sol otrossi.}
 cuelga ell astrolabio dela tu mano diest<r><<a>>.
 & endereça la cara contra la estrella que
 quisieres tomar su altura. & mueue el alhidada
@@ -13683,7 +13683,7 @@ blado. & q<ue> paresçiere el cuerpo del sol & non pareçen}
 sus rayos. {RUB. Cap<ito>lo .xv<<o>>. De saber de dia qual es el g<r><<a>>-
 do del ascende<n>t & el deponent. & el de medio cielo. &
 el dela casa q<u><<a>>rta. & q<u><<a>>ntas horas te<m>porales so<n> passa-da +}
-{IN3.} Quando esto quisieres saber to-mala ¶2 {RUB. del dia.}
+{IN3.} Quando esto quisieres saber to-mala %2 {RUB. del dia.}
 altura del sol assi como te mostra-
 mos. Et pon el grado del sol en almuca<n>ta-
 rat sobre ta<n>tos grados q<u><<a>><n>tos fuer su alt<ur>a. & si fuer su alt<ur>a
@@ -13714,7 +13714,7 @@ seran las horas passadas del dia; & la su diminucio<n>
 cierta. {RUB. Cap<ito>lo .xvj<<o>>. De saber denoch el grado del asce<n>-
 dent. & del Deponent. & del medio cielo. & dela ca-
 sa quarta. & quantas horas temporales son pas-[sa]das +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. dela noche.}
+{IN3.} Si esto quisieres saber; %2 {RUB. dela noche.}
 toma la altura de qual estrella fixa qui-
 sieres delas q<ue> son puestas en el astrolabio
 assi como te mostramos. Et desende pon el cabo
@@ -13742,7 +13742,7 @@ noche. & enade essa porcion sobre las horas acabadas
 q<ue> fallaste. assi como feziste en este otro capitolo. & se-
 ran las horas te<m>porales passadas dela noche. & la su
 diminucion cierta. {RUB. Cap<ito>lo .xvij<<o>>. De sab<er> p<ar>tir el g<r><<a>>do del sol +}
-{IN3.} Quando non fallares el grado del sol ¶2 {RUB. en el zodiaco.}
+{IN3.} Quando non fallares el grado del sol %2 {RUB. en el zodiaco.}
 conuenie<n>te ala particion del zodiaco & qui-
 sieres saber el su logar cierto en el. & co-
 mo se deue partir; Pon el grado (aqui ua el sol) dela
@@ -14171,7 +14171,7 @@ sobre tierra. Et otrossi de saber ell archo dela noch +}}
 {HD. ASTROLABIO}
 {CB2.
 {RUB. dela estrella. & es la quantia q<ue> dura de yuso de-la +}
-{IN3.} Si esto quisieres saber; pon el ¶2 {RUB. tierra.}
+{IN3.} Si esto quisieres saber; pon el %2 {RUB. tierra.}
 cabo agudo dela estrella que quisieres
 sobrela linna del orizon oriental en la
 tabla dela ladeza que quisieres. & faz una sen<n>al
@@ -14529,7 +14529,7 @@ aq<ue>lla oriella misma en q<ue> te pareste non moui-
 endo ell alhidada. & mide quanto a de ti a ella;
 et tanto sera la anchez del ryo. {RUB. Cap<ito>lo .Lij<<o>>. De
 saber la anchez de qual ryo quisieres dotra ma-nera. +}
-{IN3.} SJ esto quisieres saber; para te ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; para te %2 {RUB.}
 en la una oriella del ryo. & toma la altura
 de la otra oriella dallent dell; q<ue> esta en de-
 recho de ty. & sabe ende los dedos de la sombra te<n>-
@@ -15184,7 +15184,7 @@ guisa sera acabado este estrumente.
 {RUB. ¶ Aqui se acaba este libro de co<m>mo se deue fazer es-
 ta lamina uniuerssal. Et agora començamos el
 libro de co<m>mo deuen obrar con ella; et este es so +}
-{IN5.} DJxo aly el fijo de Halaf. ¶2 {RUB. prologo.}
+{IN5.} DJxo aly el fijo de Halaf. %2 {RUB. prologo.}
 Loor sea dado a dios q<ue> dio grand enten-
 dimiento all ombre. et lo aparto de to-
 das las animalias en saber las scien-
@@ -15250,7 +15250,7 @@ son puestas en la red. & q<ue> sepa otrossi los nombre<<s>>
 de las cinco planetas. q<ue> son; Saturno. Jupit<er>. Ma-
 rs. Ven<us>. & Mercurio. & q<ue> las connozca enel çielo.
 {RUB. Cap<ito>lo .ij<<o>>. De saber los nombres q<ue> son eneste estru-mente. +}
-{IN3.} Los nombres deste estrumente ¶2 {RUB.}
+{IN3.} Los nombres deste estrumente %2 {RUB.}
 son estos. La madre. et la red. & ell alhida-
 da. & la llaue. & el cauallo. & la madre es la
 lamina q<ue> es sennalada de ambas las partes. & la
@@ -15620,7 +15620,7 @@ la lamina. & en la red; es tal co<m>mo el priego dell
 astrolabio. Et el cauallo q<ue> tiene la lamina con la
 red; es tal co<m>mo el dell astrolabio. {RUB. Cap<ito>lo .iij<<o>>. De lo
 q<ue> a mester en q<ue> sea usado el q<ue> quier obrar con es-te +}
-{IN3.} SEpas q<ue> non pue-de ¶2 {RUB. estrumente.}
+{IN3.} SEpas q<ue> non pue-de %2 {RUB. estrumente.}
 caer toda uia la altura del Sol o so zo<n>-
 te. o el grado en q<ue> es; del zodiacho. o su
 declinacion dell yguador del dia sobrel çerco mis-
@@ -15654,7 +15654,7 @@ eneste logar por q<ue> uienen aqui los çercos muy es-
 trechos mas q<ue> en los otros logares. & por esto a me<<s>>-
 ter q<ue> pares y bien mientes. {RUB. Cap<ito>lo .v<<o>>. de saber la la-
 deza de qual çerco quier de los de la longura del zo-diacho. +}
-{IN3.} Qvando esto quisieres saber; pon ¶2 {RUB.}
+{IN3.} Qvando esto quisieres saber; pon %2 {RUB.}
 ell un demostrador de la red sobre la lin-
 na del comedio de oriente. o sobre la li<n>na
 del comedio de occidente sobre qual quier dellas[.]}
@@ -15741,7 +15741,7 @@ del mudamiento inuernal. & q<ue> es la cabeça de cap<r><<i>>-
 cornio. {RUB. Cap<ito>lo .ix<<o>>. De saber la longura del circulario
 q<ue> ua por qual sennal quier q<ue> caya en la madre en-
 tre dos pieças de circularios; q<ue> tanta es dell ygua-dor +}
-{IN3.} Qvando esto quisieres ¶2 {RUB. del dia.}
+{IN3.} Qvando esto quisieres %2 {RUB. del dia.}
 saber; faz dos se<n>nales en las dos pieças de
 los dos andamios los entre q<ue> cayo la se<n>nal
 de guisa q<ue> si fizieres una linna q<ue> passe por las tres
@@ -15811,7 +15811,7 @@ acaba la primera parte deste libro. Et se comiença
 la segunda parte; et a enella {BLNK.} cap<ito>los.
 {RUB. Cap<ito>lo .j<<o>>. De co<m>mo deuen poner sennal en qual gra-
 do quier del zodiacho; el q<ue> es en la linna parte del +}
-{IN3.} QVando esto quisieres saber; sabe ¶2 {RUB. cabeçon[.]}
+{IN3.} QVando esto quisieres saber; sabe %2 {RUB. cabeçon[.]}
 de qual signo es aq<ue>l grado. & depues dema<n>-
 da aq<ue>l signo en la parte del cabeçon. & q<u><<a>>ndo
 lo fallares; demanda enell aquel grado q<ue> tu quie-
@@ -15843,7 +15843,7 @@ medyo. Cata aq<ue>l circulario q<ue> passa por aq<ue>l grado
 q<ue> tanta es su longura dell yguador del dia; et essa
 sera su declinacion daq<ue>l grado. {RUB. Cap<ito>lo .iij<<o>>. De saber
 el grado del signo por la declinacion. & por el par do +}
-{IN3.} QVando esto quisieres saber; pon ell ¶2 {RUB. es[.]}
+{IN3.} QVando esto quisieres saber; pon ell %2 {RUB. es[.]}
 un demostrador de los dos demostradores de
 la red. enel quarto q<ue> es oriental septentrio-
 nal. sobre la declinacion mayor. Et depues cata si
@@ -15932,7 +15932,7 @@ et este grado sobredicho. & lo q<ue> fuer; essos seran los
 grados yguales daq<ue>llas ascenssiones. {RUB. Cap<ito>lo .viij[<<o>>].
 De saber lo q<ue> sube en qual cipdat quier de los grados
 yguales q<ue> comiençan del punto de la ygualdat de +}
-{IN3.} SJ esto quisieres saber; cata el grado ¶2 {RUB. ver.}
+{IN3.} SJ esto quisieres saber; cata el grado %2 {RUB. ver.}
 q<ue> es en la fin daq<ue>llos grados en qual signo
 cae. & pon sennal enel signo dezeno del en tal
 grado co<m>mo ell otro sobredicho. & pon ell uno dellos
@@ -15989,7 +15989,7 @@ mostrador; do posiste el primero. & fallar lo as. & com-
 pliras la huebra assi co<m>mo dicho es. {RUB. Cap<ito>lo .xj<<o>>. De sab<er>
 los grados yguales los q<ue> non comiençan del punto
 de la ygualdat de ver por las sus ascenssiones en +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. qual cipdat quier.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. qual cipdat quier.}
 saca las ascenssiones de los grados q<ue> comien-
 çan del punto de la ygualdad de ver. et es so
 postremero el primero destos otros grados. & sabe que
@@ -16004,7 +16004,7 @@ los grados de grados yguales. & essos seran los gra-
 dos yguales daq<ue>llas ascenssiones. {RUB. Cap<ito>lo. xij<<o>>. De sa-ber +}}
 {CB2.
 {RUB. la mayor altura dell yguador del dia en qual +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. cipdat quier.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. cipdat quier.}
 mengua la ladeza de la villa de .xc<<a>>. & lo que
 fincar; essa sera la mayor altura dell ygua-
 dor del dia en aq<ue>lla cipdat. {RUB. Cap<ito>lo .xi[i]j[<<o>>]. de nombrar las
@@ -16014,13 +16014,13 @@ et allend mar.}}
 {HD. LIBRO DE LA +}
 {CB2.
 {RUB. Cap<ito>lo .xiiij<<o>>. De saber sacar las ladezas de las cipda-des +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. por la tabla.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. por la tabla.}
 Demanda en la tabla de las ladezas. la cipdat
 de q<ue> quieres saber su ladeza. & cata lo q<ue> es es-
 cripto en so derecho de grados. & de menudos. & essa
 sera la ladeza daq<ue>lla cipdat. {RUB. Cap<ito>lo .xv[<<o>>]. De saber ell
 archo del dia de qual grado quier del zodiacho en qual +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. quier cipdat.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. quier cipdat.}
 pon ell un demostrador de los de la red enel
 quarto oriental septentrional sobre la ma-
 yor altura dell yguador del dia en aq<ue>lla cipdat. Et
@@ -16036,7 +16036,7 @@ el fecho assi co<m>mo es dicho. Et si menguares ell ar-
 cho del dia de qual grado quier de .ccc. & .lx; fincar
 ta ell archo de su noche. {RUB. Cap<ito>lo .xvj<<o>>. De saber el grado
 por el par do es. & por ell archo de so dia en qual cip-dat +}
-{IN3.} QVando esto quisieres saber; pon ¶2 {RUB. quier[.]}
+{IN3.} QVando esto quisieres saber; pon %2 {RUB. quier[.]}
 ell un demostrador de los de la red enel q<u><<a>>r-
 to oriental septentrional sobre la mayor
 altura dell yguador del dia en aq<ue>lla cipdat. & ca-
@@ -16053,7 +16053,7 @@ al assi co<m>mo dicho es; pon ell otro demostrador
 do posiste el primero. & fallar lo as. & cumple la hu-
 ebra assi co<m>mo dicho es. {RUB. Cap<ito>lo .xvij<<o>>. De saber ell ar-
 cho de la noche de qual grado quier del zodiacho en +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. qual quier cipdat[.]}
+{IN3.} SJ esto quisieres saber; %2 {RUB. qual quier cipdat[.]}
 Saca ell archo del dia dell opposito daq<ue>ll gra-
 do en aq<ue>lla cipdat. assi co<m>mo sobredicho es. &
 lo q<ue> fuer; esso sera ell archo de la noche del grado p<r><<i>>-
@@ -16064,7 +16064,7 @@ q<ue> fincar; esso sera ell archo de su noche. Et si tu me<n>-guares}
 ell archo de la noche de qual grado quier
 de .ccc. & .lx. fincara ell archo de so dia. {RUB. Cap<ito>lo .xviij[<<o>>].
 De saber el grado por el par do es. & por ell archo desu +}
-{IN3.} QVando esto quisieres saber; toma ¶2 {RUB. noche.}
+{IN3.} QVando esto quisieres saber; toma %2 {RUB. noche.}
 el medio archo. & mingua lo de .c. & .lxxx. et
 lo q<ue> fincar; esso sera el medio archo del dia
 daq<ue>l grado. pues saca con el. & con el par do es; el
@@ -16127,7 +16127,7 @@ non yguales en partes de vna hora non ygual. et
 partiras lo q<ue> [^se] ayuntar sobre .xv; salran horas yg<u><<a>>-
 les. & sus replectiones. {RUB. Cap<ito>lo .xxiij<<o>>. De saber si a lo<n>-
 gura el grado del medio çielo del zonte de tu cabeça; +}
-{IN3.} SJ esto quisieres saber; cata si ¶2 {RUB. o si non.}
+{IN3.} SJ esto quisieres saber; cata si %2 {RUB. o si non.}
 fuer la ladeza de la villa. & la declinacion
 daq<ue>l grado en dos partes diuerssas; pues a-
 q<ue>l grado a longura del zonte de la cabeça. & si fuer
@@ -16145,7 +16145,7 @@ do en la parte q<ue> es contraria de la parte do es la la-
 deza. & la declinacion. & si fuer menos; sera con ello<<s>>
 en una parte. {RUB. Cap<ito>lo .xxv[<<o>>]. De saber el grado del me-
 dyo çielo dell ascendente por el grado del medyo çi-elo[.] +}
-{IN3.} SJ esto quisieres saber; faz sennal ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; faz sennal %2 {RUB.}
 enel zodiacho sobrel grado del medyo çielo.
 et desi pon ell uno de los demostradores de
 la red enel quarto oriental septentrional sobre la
@@ -16161,7 +16161,7 @@ lo dell ascendente. Et si non cayer la sennal so aq<ue>l}
 {CB2.
 medyo; pon ell otro demostrador do posiste el pri-
 mero. & caera so el. & cumple la obra assi co<m>mo te ma<n>-de.
-{RUB. Cap<ito>lo .xxvj[<<o>>]. De saber el grado del medyo çie-lo +} ¶2
+{RUB. Cap<ito>lo .xxvj[<<o>>]. De saber el grado del medyo çie-lo +} %2
 {RUB. por el grado del medyo çielo dell ascendente.}
 {IN2.} QVando esto quisieres saber; faz sennal so-
 brel grado del medyo çielo dell ascendente
@@ -16215,7 +16215,7 @@ elo assi co<m>mo es dicho. & saca por el grado
 del medio çielo dell ascendent; el grado del me-
 dio çielo assi co<m>mo es dicho. {RUB. Cap<ito>lo .xxxj<<o>>. De saber
 la altura del grado del medio çielo por su declina-cion. +}
-{IN3.} SJ esto quisieres ¶2 {RUB. & por su parte.}
+{IN3.} SJ esto quisieres %2 {RUB. & por su parte.}
 saber; pon el demostrador del medio de
 las piertegas enel quarto oriental septe<n>-
 trional sobre la mayor altura dell yguador del
@@ -16245,12 +16245,12 @@ el segundo demostrador do posiste el primero. & ta-
 iar lo a. & compliras la huebra assi co<m>mo te dicho.
 {RUB. Cap<ito>lo .xxxiij<<o>>. De saber si a el grado del medio çielo
 dell ascendent longura del zonte de la cabeça o si +}
-{IN3.} SJ esto quisieres saber; sabe la parte ¶2 {RUB. non.}
+{IN3.} SJ esto quisieres saber; sabe la parte %2 {RUB. non.}
 del grado del medio çielo qual es del zonte
 de tu cabeça assi co<m>mo es dicho. & essa sera
 la parte del grado del medio çielo otrossi. {RUB. Cap<ito>lo.
 xxxiiij<<o>>. De saber la altura de qual grado quier +}
-{IN3.} QVando esto quisieres ¶2 {RUB. del zodiacho.}
+{IN3.} QVando esto quisieres %2 {RUB. del zodiacho.}
 saber; cata si fuer aq<ue>l grado de q<ue> quieres
 saber la altura entrel grado de mediol çie-
 lo dell asçendente. & entrell ascendent; et sabe q<u><<a>>n-
@@ -16273,7 +16273,7 @@ lo dell ascendent por ell ordenamiento de los signo<<s>>.
 et guarda lo. & faz assi co<m>mo te e mandado eneste ca-
 pitulo. {RUB. Cap<ito>lo .xxxv[<<o>>]. De saber el grado por la su al-
 tura. & por la altura del grado del medyo çielo dell +}
-{IN3.} QVando esto quisieres saber; pon ¶2 {RUB. ascendent[.]}
+{IN3.} QVando esto quisieres saber; pon %2 {RUB. ascendent[.]}
 el demostrador del medio de las piertegas
 enel quarto oriental septentrional; sobre
 la altura del grado del medio cielo dell ascendent. &
@@ -16331,7 +16331,7 @@ dicho tanto co<m>mo el medio archo; pon el segundo
 demostrador do posiste el primero. & fallar lo as. & co<m>-
 pliras la obra assi co<m>mo dicho es. {RUB. Cap<ito>lo .xxxviiij<<o>>. De
 saber la altura del grado del medio cielo por ell ar-cho +}
-{IN3.} QVando esto quisieres ¶2 {RUB. de su medio dia.}
+{IN3.} QVando esto quisieres %2 {RUB. de su medio dia.}
 saber; pon ell un demostrador de la red en-
 el quarto oriental septentrional sobre la
 mayor altura dell yguador del dia en tu cipdat si
@@ -16596,7 +16596,7 @@ et do se allegar la cuenta; aq<ue>ll es el grado de q<u><<i>>e<n>
 es aq<ue>l zonte sobredicho. {RUB. Cap<ito>lo .Lij[<<o>>]. De saber la lon-
 gura del zonte de qual grado quier en qual cipdat
 quier del comedio de su zonte oriente o de su occide<n>-te. +}
-{IN3.} SJ esto quisieres saber. ¶2 {RUB. o de so septentrio<n>.}
+{IN3.} SJ esto quisieres saber. %2 {RUB. o de so septentrio<n>.}
 sabe la longura del zonte del grado del come-dio}
 [fol. 91v]
 {HD. LIBRO DE LA +}
@@ -16620,7 +16620,7 @@ dio de Septentrion en la parte do fuer el zonte
 de oriente. o de occidente. {RUB. Cap<ito>lo .Liij<<o>>. De saber si a
 el grado anchura de orientamiento o de ponimie<n>-
 to. & de saber su parte de Septentrion o de medio +}
-{IN3.} QVando esto quisieres saber; sabe si ¶2 {RUB. dia.}
+{IN3.} QVando esto quisieres saber; sabe si %2 {RUB. dia.}
 ouier aq<ue>l grado declinacion; aura anch-
 ura de orientamiento o de ponimiento
 en la parte de su declinacion. & si non la ouier;
@@ -16645,7 +16645,7 @@ et lo q<ue> fincar; esso sera ell anchura dell orienta-
 miento daq<ue>l grado de so ponimiento. {RUB. Cap<ito>lo .Lv<<o>>.
 De saber el grado por la anchura de so orientamien-
 to. o de so ponimiento. por la parte do es. & por el par +}
-{IN3.} Sj esto quisieres saber; ¶2 {RUB. do es otrossi.}
+{IN3.} Sj esto quisieres saber; %2 {RUB. do es otrossi.}
 cata ala anchura de so orientamiento. o
 de so ponimiento assi co<m>mo es dicho. & si fu-ere}
 {CB2.
@@ -16666,7 +16666,7 @@ dor del dia. Et desi saca el grado por la declinacion.
 et por su parte. & por el par do es; assi co<m>mo es sobre-
 dicho. {RUB. Cap<ito>lo .LVJ<<o>>. De saber ell archo del dia de qual
 grado quier por la anchura de su orientamiento. o +}
-{IN3.} QVando esto qui-sieres ¶2 {RUB. de su ponimiento.}
+{IN3.} QVando esto qui-sieres %2 {RUB. de su ponimiento.}
 saber; cata la anchura dell orienta-
 miento o del ponimiento de qual grado q<u><<i>>-
 er. & si fuer meridional; mengua lo de .xc. & si fuer
@@ -16692,7 +16692,7 @@ bredicho es. & despues saca su altura enel çerco de
 medyo dia por la declinacion; & por su parte assi
 co<m>mo es dicho. {RUB. Cap<ito>lo .Lviij<<o>>. De saber la ladeza de
 la uilla por la anchura dell orientamiento q<ue> a q<u><<a>>l +}
-{IN3.} QVando esto quisie-res ¶2 {RUB. grado quier enella.}
+{IN3.} QVando esto quisie-res %2 {RUB. grado quier enella.}
 saber; saca la declinacion daq<ue>l grado.
 et su parte. & ell archo de su dia por la anchu-
 ra de su orientamiento assi co<m>mo es dicho. & de si sa-ca}
@@ -16702,7 +16702,7 @@ ra de su orientamiento assi co<m>mo es dicho. & de si sa-ca}
 la ladeza de la villa por estas cosas sobredicha<<s>>.
 {RUB. Cap<ito>lo .lix[<<o>>]. de saber la declinacion mayor del çerco
 de la altura el q<ue> passa por qual grado quier sobrel +}
-{IN3.} SJ esto quisieres saber; saca la ¶2 {RUB. zodiacho.}
+{IN3.} SJ esto quisieres saber; saca la %2 {RUB. zodiacho.}
 altura del grado del medio cielo dell ascen-
 dent. & mengualo de .xc<<a>>. & lo q<ue> fincar; guar-
 da lo. & desi cata si es aq<ue>l grado en la parte de ori-
@@ -16729,7 +16729,7 @@ passa por el grado sobredicho sobrel zodiacho.
 el çerco q<ue> passa por el comedio de Septentrion de
 qual cipdat quier. & por su medio dia por la su de-
 clinacion mayor q<ue> a del çerco de medio dia daq<ue>lla +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. cipdat.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. cipdat.}
 mengua la ladeza de la villa de .xc<<a>>. & lo que
 fincar; demanda ell andamio el q<ue> es su lon-
 gura del mudamiento yuernal tanto co<m>mo el. & tu
@@ -16753,7 +16753,7 @@ ento de la .x<<a>>. casa. & es el quarto angulo. & so opposi-
 to es el començamiento de la quarta casa. & es el se-
 gundo angulo. {RUB. Cap<ito>lo .Lxij[<<o>>]. De saber ygualar las ca-
 sas q<ue> caen entre los angulos segu<n>d la opinion de +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. ptholomeo.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. ptholomeo.}
 saca ell archo del dia del grado dell ascende-
 nt. & ell archo de su noche assi co<m>mo dicho es.
 et desi annade sobre los sobimientos del grado dell
@@ -16857,7 +16857,7 @@ co de los meses. Et desi cata sobre qual grado del
 çerco de los signos cayo su cuesta. & esse sera el gra-
 do do esta el Sol aq<ue>l dia daq<ue>l signo. {RUB. Cap<ito>lo .ij<<o>>. De saber
 el mes romano en q<ue> eres. & q<ue> tantos dias passaron del +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. por el grado del sol.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. por el grado del sol.}
 pon la cuesta dell alhidada sobrel grado
 del Sol enel signo do es. & desi cata en qual
 mes cayo su cuesta. & en quantos dias del. & esse
@@ -16870,8 +16870,8 @@ cho. & faz sobrell sennal co<m>mo es dicho otrossi. & cu-
 enta q<ue> aq<ue>lla sennal; es el Sol. & assi faras con so
 opposito en lo q<ue> la ouieres mester en las huebra<<s>>.
 {IN3.} SJ esto quisieres saber; {RUB. Cap<itol><<o>> .iiij<<o>>. D<e> sab<er> la decl<inaci>on +}
-pon la sennal enel zodiacho assi ¶2 {RUB. del sol. & su p<ar>-te. +}
-co<m>mo es dicho. Et desi saca la declinacion ¶2 {RUB.}
+pon la sennal enel zodiacho assi %2 {RUB. del sol. & su p<ar>-te. +}
+co<m>mo es dicho. Et desi saca la declinacion %2 {RUB.}
 daq<ue>lla sennal. & su parte assi co<m>mo es sobredicho
 en la segunda parte. & lo q<ue> fuer; essa sera la decli-
 nacion del Sol. {RUB. Cap<ito>lo .v<<o>>. De saber el grado del sol por
@@ -16883,7 +16883,7 @@ cion. & con su parte. & con el par do es el grado en
 la segunda parte. & salir ta el grado del Sol del sig-
 no do es. {RUB. Cap<ito>lo .vj<<o>>. De saber la longura del sol de la y-
 gualdat de ver por los subimie<n>tos de q<u><<a>>l cipdat q<u><<i>>-er +}
-{IN3.} SJ esto quisieres saber; pon su sennal ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; pon su sennal %2 {RUB.}
 enel zodiacho. & desi sabe su longura dela
 ygualdat de ver con los subimientos de
 la cipdat q<ue> tu quieres assi co<m>mo es dicho. & lo que
@@ -16920,8 +16920,8 @@ deza ninguna; obra enestos dos cap<ito>los con los
 subimientos del çielo derecho. ca essos son los su-
 bimientos de las villas q<ue> non an ladeza.
 {IN3.} SJ esto quisieres saber; {RUB. Cap<ito>lo .viij<<o>>. De saber +}
-saca el grado del Sol assi ¶2 {RUB. ell archo del dia & +}
-co<m>mo es dicho. Et depues ¶2 {RUB. de su noche.}
+saca el grado del Sol assi %2 {RUB. ell archo del dia & +}
+co<m>mo es dicho. Et depues %2 {RUB. de su noche.}
 saca otrossi ell archo del dia daq<ue>l grado assi co<m>mo
 es dicho. & lo q<ue> fuer; esso sera ell archo del dia. et
 mengua lo de .ccc. & .lx. & fincara ell archo de la
@@ -16934,8 +16934,8 @@ che; tanto co<m>mo ell archo de la noche. seyendo to-
 da uia aq<ue>l grado enel par do es el Sol. & qual gra-
 do fuer tal; esse sera el grado del Sol. {RUB. Cap<ito>lo .x<<o>>.
 De saber las partes de una hora no<n> ygual d<e> horas +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. d<e> q<u><<a>>l dia q<u><<i>>er o d<e> q<u><<a>>l noch<e> +}
-parte ell archo del dia o de la noche qual ¶2 {RUB. q<u><<i>>er.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. d<e> q<u><<a>>l dia q<u><<i>>er o d<e> q<u><<a>>l noch<e> +}
+parte ell archo del dia o de la noche qual %2 {RUB. q<u><<i>>er.}
 dellos quisieres saber; sobre .xij. & lo q<ue> sali-
 er de la particion; essas seran partes de una ho-
 ra non ygual daq<ue>l grado. & si menguares partes
@@ -16945,7 +16945,7 @@ de una hora non ygual de las horas del dia o dela}
 {CB2.
 noche las q<ue> tu non menguaste dellas. {RUB. Cap<ito>lo .xj<<o>>.
 De saber el cuento d<e> las horas yguales d<e> q<u><<a>>l dia o de +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. q<u><<a>>l noche quier.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. q<u><<a>>l noche quier.}
 parte ell archo del dia o de la noche sobre
 xv. & lo q<ue> salier de la particion; esso sera
 el cuento de las horas yguales daq<ue>l dia o daq<ue>lla
@@ -16960,8 +16960,8 @@ parte de la su declinacion otrossi. Et desi saca por
 este grado el mes romano. & los dias passados
 dell assi co<m>mo es sobredicho. & lo q<ue> fuer; esse sera
 el dia q<ue> demandeste. {RUB. Cap<ito>lo .xiij[<<o>>]. De saber la altura +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. d<e>l sol por el recti-ficar. +}
-cuelga la lamina en la tu diestra mano. ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. d<e>l sol por el recti-ficar. +}
+cuelga la lamina en la tu diestra mano. %2 {RUB.}
 et non sea soffrida. & pon el demostrador
 dell alhidada enel quarto de la altura. Et depue<<s>>
 mueue ell alhidada fata q<ue> entre el rayo del Sol
@@ -16981,7 +16981,7 @@ pas q<ue> fue en la parte de occidente del çerco del me-
 dio dia. & esto es sinon fuer ell altura primera;
 la mayor altura q<ue> puede auer en aq<ue>l dia. {RUB. Cap<ito>lo
 xv[<<o>>]. de saber quando fuer el Sol enel çerco de medi-o +}
-{IN3.} SJ esto quisieres saber; comi-ença ¶2 {RUB. dia.}
+{IN3.} SJ esto quisieres saber; comi-ença %2 {RUB. dia.}
 de rectificar la altura del Sol; ella se-
 yendo de la parte de oriente del çerco de
 medio dia. & guarda lo. & desi attiende un poco.
@@ -17012,7 +17012,7 @@ fazal polo septentrional; la su sombra es decli-
 nada ala parte del polo meridional. {RUB. Cap<ito>lo .xviij<<o>>.
 de saber si a ladeza aq<ue>lla cipdat en q<ue> tu estas. o
 si non por el rectificar del Sol enel medio dia enel-la. +}
-{IN3.} QVando esto quisieres saber; recti-fica ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; recti-fica %2 {RUB.}
 la altura del Sol quando fuer enel
 çerco de medio dia daq<ue>lla cipdat. & si fu-
 er .xc<<a>>. & non ouier el Sol declinacion; aq<ue>lla cip-
@@ -17111,7 +17111,7 @@ et si fuer la sombra declinada al contrario o de la
 parte de la ladeza de la uilla; la declinacion del
 Sol sera en la parte de su ladeza. {RUB. Cap<ito>lo .xxiij[<<o>>]. De
 saber la declinacion del Sol por su altura enel +}
-{IN3.} SJ esto quisieres saber; to-ma ¶2 {RUB. medio dia[.]}
+{IN3.} SJ esto quisieres saber; to-ma %2 {RUB. medio dia[.]}
 la altura del Sol enel medio dia. & si
 fuere .xc<<a>>; la su declinacion sera tanto co<m>mo
 la ladeza de la villa. & si fuer menos. & non ouier
@@ -17164,7 +17164,7 @@ pues aq<ue>l dia sera el menor dia enella. Et esto es
 si ouiere ladeza aquella uilla. Mas si no<n> la ouie-
 re; todos los dias seran enella eguales. {RUB. Cap<ito>lo.
 xxvj[<<o>>]. De saber en qual quarto es el Sol por el rec-tificar. +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; %2 {RUB.}
 rectifica el Sol en medio dia. & sabe si a
 declinacion; o si non. & si non la ouiere.
 pues su grado es aq<ue>l dia en uno de las dos egu-
@@ -17193,7 +17193,7 @@ ridional de autu<n>pno. & si lo fallares mengua-[do]}
 ua menguando; pues el Sol es enel quar-
 to meridional de uer. {RUB. Cap<ito>lo .xxvij[<<o>>]. De saber
 el grado del Sol por el quarto do es. & por su rec-tificar. +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; %2 {RUB.}
 rectifica su altura en mediol dia. & sabe
 su declinacion por ell altura. & por su par-
 te assi co<m>mo dicho es. & depues saca por la decli-
@@ -17238,7 +17238,7 @@ alhogera. cayo su demostrador. & essa sera la al-
 tura del Sol enel medio dia daq<ue>lla uilla. {RUB. Cap<ito>lo.
 xxx[<<o>>]. De saber ell archo del dia por la altura del sol +}}
 {CB2.
-{IN3.} SJ esto quisieres sa-ber; ¶2 {RUB. enel medio dia.}
+{IN3.} SJ esto quisieres sa-ber; %2 {RUB. enel medio dia.}
 saca el grado del Sol assi co<m>mo dicho
 es. & sabe q<ue> su altura es en medio de su di-
 a tanto co<m>mo la altura del Sol en mediol dia q<u><<a>>n-
@@ -17246,8 +17246,8 @@ do fuere enel. & lo q<ue> salier de la altura del grado
 en medio so dia; toma ell archo de su dia. & lo q<ue>
 salier; esso sera ell archo daq<ue>l dia. {RUB. Cap<ito>lo .xxxj[<<o>>].
 De saber la declinacion del Sol. & su parte por +}
-{IN3.} QVando esto quisieres ¶2 {RUB. la su altura enel +}
-saber; pon el demostra-dor ¶2 {RUB. medio dia.}
+{IN3.} QVando esto quisieres %2 {RUB. la su altura enel +}
+saber; pon el demostra-dor %2 {RUB. medio dia.}
 del medio de las piertegas enel qua-
 rto oriental septentrional sobre la mayor al-
 tura dell yguador del dia en tu uilla si fuer su
@@ -17260,7 +17260,7 @@ al grado del cabeçon de la red caera su cuesta; et
 ella sera la declinacion del Sol dell yguador del
 dia en la parte do cayo. {RUB. Cap<ito>lo .xxxij[<<o>>]. De saber la
 ladeza dela uilla por la altura del Sol enel me-dio +}
-{IN3.} SJ esto quisieres saber; pon ¶2 {RUB. dia.}
+{IN3.} SJ esto quisieres saber; pon %2 {RUB. dia.}
 el demostrador dell alhidada sobre la al-
 tura del Sol enel medio dia enel quarto
 q<ue> es en la parte del Sol del zonte de la cabeça. Et
@@ -17278,7 +17278,7 @@ alhogera. cae el demostrador de la red. & lo q<ue> fuer;
 mengua lo de .xc<<a>>. & lo q<ue> fincar; esso sera la lade-
 za de la uilla. {RUB. Cap<ito>lo .xxxiij[<<o>>]. De saber la altura
 del Sol. & su parte por lo q<ue> passo del dia de horas +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. non yguales[.]}
+{IN3.} QVando esto quisieres saber; %2 {RUB. non yguales[.]}
 cata si fueren las horas passadas .vj; sa-
 be la altura del Sol enel medio dia assi co<m>-
 mo sobredicho es. & lo q<ue> fuer; esso sera lo dema<n>-
@@ -17306,7 +17306,7 @@ en la parte de oriente si fueren las horas menos
 de .vj; en la parte de occidente si fueren mays de
 .vj. {RUB. Cap<ito>lo .xxxiiij[<<o>>]. De saber el grado dell ascendent
 por lo q<ue> passo del dia o de la noche de horas no<n> ygua-les. +}
-{IN3.} SJ esto quisieres saber; multiplica ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; multiplica %2 {RUB.}
 las horas passadas. & sus reflectiones si las
 hy ouier. en tiempos de una hora diurna
 non ygual si fuer de dia. o en partes de una hora
@@ -17360,7 +17360,7 @@ eren las horas depues de media noche; ell oppo-
 sito daq<ue>llo guardado es el grado del medio cielo.
 {RUB. Cap<ito>lo .xxxvij[<<o>>]. De saber lo que passo del dia o de
 la noche de horas non yguales por el grado del +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. medio cielo.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. medio cielo.}
 sabe q<ue> tanto a entrel mudamiento yuer-
 nal. & el grado del medio cielo con los subi-
 mientos del cielo derecho. & sabe otrossi lo q<ue> a en-
@@ -17405,7 +17405,7 @@ dos yguales con los subimientos del cielo derec-
 ordenamiento de los signos. & do se allegar la cue<n>-
 ta; esso sera el grado del medio cielo. {RUB. Cap<ito>lo .xxx.
 ix<<o>>. De saber la altura del Sol por el grado del me-dio +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. cielo.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. cielo.}
 saca el grado del medio cielo dell ascen-
 dente. & su altura por el grado del medio
 cielo. & depues saca por el grado del medio cielo
@@ -17439,7 +17439,7 @@ siones del cielo derecho assi co<m>mo es dicho. & lo q<ue> fuer;
 esso es lo q<ue> a entrel Sol. & el çerco de medio dia de la<<s>>
 ascenssiones del cielo derecho. {RUB. Cap<ito>lo .xliij<<o>>. De saber
 el zonte del subimiento del Sol. o de so ponimie<n>-to. +}
-{IN3.} QVando esto quisieres saber; saca el ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; saca el %2 {RUB.}
 grado del Sol. & faz cuenta q<ue> el es el grado
 dell ascendente o el grado del poniente. Et
 depues saca el zonte daq<ue>l grado assi co<m>mo es dich<o>.
@@ -17461,7 +17461,7 @@ su declinacion por el zonte del grado. & por su altu-
 ra. assi co<m>mo dicho es. & lo q<ue> fuer; essa es la declina-
 cion del Sol. {RUB. Cap<ito>lo .xlvj<<o>>. De saber el grado del Sol
 por su zonte. & por el grado del medio cielo dell as-cende<n>te.}
-{IN3.} SJ esto quisieres saber; faz cuenta ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; faz cuenta %2 {RUB.}
 enel zonte del Sol; q<ue> es el zonte del so gra-
 do. & depues saca la altura del grado del me-
 dio cielo dell ascendente. & so zonte otrossi. Et desi sa-
@@ -17541,7 +17541,7 @@ co<m>mo dicho es. & lo q<ue> fuer; esso sera ell archo del dia
 o de la noche del grado del Sol q<ue> quesiste saber.
 {RUB. Cap<ito>lo .Lij<<o>>. De saber la ladeza de la villa por la an-
 chura dell orientamiento del Sol. & de so ponimi-ento. +}
-{IN3.} SJ esto quisieres saber; pon q<ue> la an-chura ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; pon q<ue> la an-chura %2 {RUB.}
 dell orientamiento del Sol. & de su po-
 nimiento; q<ue> essa es la de su grado mismo.
 et desi saca la ladeza de la uilla por la anchura
@@ -17553,7 +17553,7 @@ da por la retornada.}
 dedos de qual sombra quier dellas .c. & .xliiij.
 et lo q<ue> salier; essa sera la otra sombra.
 {RUB. Cap<ito>lo .Liiij<<o>>. De saber la sombra espandida por la +}
-{IN3.} SJ esto quisieres saber; pon el de-mostrador ¶2 {RUB. altura[.]}
+{IN3.} SJ esto quisieres saber; pon el de-mostrador %2 {RUB. altura[.]}
 dell alhidada sobre la altura
 enel quarto de la altura en q<ue> es en la par-
 te de la yguacion del Sol. & si cayer su cuesta sobre
@@ -17564,7 +17564,7 @@ na de la sombra retornada; cata sobre quantos
 dedos cayo della. & torna la espandida. & lo q<ue> fuer;
 essa sera la sombra espandida daq<ue>lla altura.
 {RUB. Cap<ito>lo .Lv<<o>>. De saber la altura por la sombra espa<n>-dida[.] +}
-{IN3.} QVando esto quisieres saber; ca-ta ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; ca-ta %2 {RUB.}
 la sombra espandida. & si non fuer ma<<s>>
 de .xij. dedos; pon ell alhidada sobrella en
 la linna de la sombra espandida. & cata do cayo
@@ -17576,8 +17576,8 @@ en la linna de la sombra retornada. & cata sobre
 quantos grados cae enel quarto de la altura.
 et lo q<ue> fuer; essa sera la altura daq<ue>lla sombra
 espandida. {RUB. Cap<ito>lo .Lvj<<o>>. De saber la altura por la +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. sombra retorna-da. +}
-cata si non fuer la sombra retorna-da ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. sombra retorna-da. +}
+cata si non fuer la sombra retorna-da %2 {RUB.}
 mas de .xij. dedos; pon ell alhidada so-brello}
 [fol. 96v]
 {HD. LIBRO DE LA +}
@@ -17592,7 +17592,7 @@ de la sombra espandida. & cata sobre quantos
 grados cae enel quarto de la altura. & lo q<ue> fuer;
 essa sera la altura daq<ue>lla sombra retornada.
 {RUB. Cap<ito>lo .Lvij[<<o>>]. De saber la sombra retornada por la +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. altura.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. altura.}
 pon el demostrador dell alhidada sobre la
 altura. & desi cata si cayer su cuesta sobre
 la linna de la sombra retornada; sobre quantos
@@ -17736,7 +17736,7 @@ quando la ouieres; estonçe sera la estrella enel
 an subimiento. & ponimiento en aq<ue>l logar.
 {RUB. Cap<ito>lo .v[<<o>>]. De saber la parte de la estrella q<ue> sube et
 se pone en tu uilla del zonte de la cabeça daq<ue>l lo-gar. +}
-{IN3.} SJ esto quisieres saber; saca su al-tura ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; saca su al-tura %2 {RUB.}
 enel çerco de medio dia. & si fuer .xc<<a>>;
 la estrella es sobrel zonte de tu cabeça. & no<n>
 es declinada a ninguna parte. & si fuer menos
@@ -17828,7 +17828,7 @@ enel contrario de la parte de su ladeza. {RUB. Cap<ito>lo .x<<o>>. +}}
 {CB2.
 {RUB. De saber la longura de qual estrella quier de las
 q<ue> suben. & se ponen en tu uilla q<ue> tanta es dell ygua-dor +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. del dia.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. del dia.}
 cata la altura daq<ue>lla estrella enel çerco de
 medio dia. & si fuer .xc<<a>>. su longura es tanto
 co<m>mo la ladeza de la uilla. & si fuer menos; cata la
@@ -17846,7 +17846,7 @@ dello la ladeza de la uilla. & lo q<ue> fincar; esso sera la
 longura de la estrella. {RUB. Cap<ito>lo .xj<<o>>. De saber co<m>mo de-
 uen poner sennal en la madre sobrel logar de q<u><<a>>l
 estrella quier de las q<ue> suben et se ponen en tu uil-la. +}
-{IN3.} SJ esto quisieres saber; pon ell un de-mostrador ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; pon ell un de-mostrador %2 {RUB.}
 de los de la red enel quarto orie<n>-
 tal septentrional sobre la mayor declinaci-
 on. & desi cata si passar algun andamio sobrel gra-
@@ -17872,7 +17872,7 @@ trella en la parte del çerco de la longura. {RUB. Cap<ito>lo .xiij<<o>>.
 De saber quales estrellas son las que suben & se pone<n>
 en tu uilla. & quales son las que parescen y toda uia
 et non se ponen. & quales son las q<ue> nunqua y pares-cen. +}
-{IN2.} Sj esto quisieres saber; mengua la ¶2 {RUB.}}
+{IN2.} Sj esto quisieres saber; mengua la %2 {RUB.}}
 [fol. 98r]
 {HD. LAMINA}
 {CB2.
@@ -17908,7 +17908,7 @@ la mas baxa altura q<ue> ella a. & essa sera la su altu-
 ra segunda q<ue> a enel çerco de medio dia. {RUB. Cap<ito>lo .x-
 v<<o>>. De saber la ladeza de la villa en q<ue> tu eres por la
 altura de alguna de las estrellas q<ue> paresçen y to-da +}
-{IN3.} SJ esto quisieres saber; a mester ¶2 {RUB. uia.}
+{IN3.} SJ esto quisieres saber; a mester %2 {RUB. uia.}
 q<ue> cates alguna noche q<ue> sea mayor de su di-
 a de mucho. & q<ue> sea su rectificamiento lue-
 go de prima noche. & q<ue> sea aq<ue>lla estrella en la par-
@@ -18002,7 +18002,7 @@ ell ordenamiento de los signos otrossi. Et do se alle-
 gar la cuenta; esso sera el grado con q<ue> se acomedia
 el cielo. {RUB. Cap<ito>lo .xx[<<o>>]. De saber con qual grado se acom-
 (m)edia en mediol cielo qual estrella quier por la +}
-{IN3.} QVando esto quisieres ¶2 {RUB. su altura.}
+{IN3.} QVando esto quisieres %2 {RUB. su altura.}
 saber; cata si parescier cor de Leo en aq<ue>l-
 la estrella en uno; saca el grado con que
 se acomedia el cielo assi co<m>mo es dicho. & si non
@@ -18066,9 +18066,9 @@ fincar; esso es lo q<ue> a entrela estrella. & el çerco de
 medio dia de las ascenssiones del cielo derecho.
 {RUB. Cap<ito>lo .xxiiij<<o>>. De saber la longura de qual estrella q<u><<i>>-
 er del mudamiento yuernal q<ue> tanto a enella de +}
-{IN3.} QVando esto quisieres ¶2 {RUB. las ascensiones +}
-saber; sabe la longu-ra ¶2 {RUB. del cielo derecho por +}
-del grado del medio ¶2 {RUB. la su altura.}}
+{IN3.} QVando esto quisieres %2 {RUB. las ascensiones +}
+saber; sabe la longu-ra %2 {RUB. del cielo derecho por +}
+del grado del medio %2 {RUB. la su altura.}}
 [fol. 99r]
 {HD. LAMINA}
 {CB2.
@@ -18111,7 +18111,7 @@ damio. & aq<ue>l sera el grado del comediamiento da-
 q<ue>lla estrella. {RUB. Cap<ito>lo .xxvij<<o>>. De saber ell archo del dia
 de qual estrella quier. & de su noche. de las q<ue> an so-
 bimiento et ponimiento en aq<ue>lla uilla do lo q<u><<i>>e-res +}
-{IN3.} SJ esto quisieres saber; pon ell ¶2 {RUB. saber.}
+{IN3.} SJ esto quisieres saber; pon ell %2 {RUB. saber.}
 un demostrador de los de la red enel quarto
 oriental en la parte de la ladeza de la villa
 sobre la mayor altura dell yguador del dia enella.
@@ -18192,7 +18192,7 @@ horas yguales desde so mouimiento fata su poni-
 miento. {RUB. Cap<ito>lo .xxxiij[<<o>>]. De saber quantas horas
 non yguales a en qual dia quier desdel sobimi-
 ento de qual estrella quier; fata so ponimien-to. +}
-{IN3.} SJ esto quisieres saber; parte ell archo ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; parte ell archo %2 {RUB.}
 del dia daq<ue>lla estrella sobre partes de una
 hora non ygual de las horas daq<ue>l dia en tu
 uilla. & lo q<ue> salier de la particion; son horas diur-
@@ -18276,7 +18276,7 @@ cielo desde q<ue> subio aq<ue>lla estrella fata la hora q<ue> tu so-
 piste en ella q<ue> tanto auia entrela estrella. & entrel
 çerco de medio dia. {RUB. Cap<ito>lo .xxxvj[<<o>>]. De saber lo q<ue> pas-
 so de la noche de hora non ygual por la altura de +}
-{IN3.} QVando esto quisie-res ¶2 {RUB. qual estrella quier.}
+{IN3.} QVando esto quisie-res %2 {RUB. qual estrella quier.}
 saber; toma la altura de qual estrella
 quier. & depues pon ell un demostrador de los
 de la red enel quarto oriental q<ue> es en la parte de
@@ -18320,7 +18320,7 @@ daq<ue>lla noche. & lo q<ue> salier; seran horas no<n> yg<u><<a>>-
 les passadas daq<ue>lla noche. {RUB. Cap<ito>lo .xxxvij<<o>>. De saber
 la altura de qual estrella quier quando fuer de
 suso dell orizon por las horas passadas del dia o de +}
-{IN3.} SJ esto quisieres saber; sabe lo ¶2 {RUB. la noche.}
+{IN3.} SJ esto quisieres saber; sabe lo %2 {RUB. la noche.}
 q<ue> a entre la estrella. & entrel çerco de medio
 dia assi co<m>mo es dicho. & guarda lo. Et depu-
 es pon ell un demostrador de los de la red enel q<u><<a>>r-
@@ -18336,7 +18336,7 @@ es su altura dell orizon. & essa sera la altura dela es-
 trella. Et desi saca la parte de su altura; assi co<m>mo
 es dicho eneste libro. {RUB. Cap<ito>lo .xxxviij<<o>>. De saber la
 altura de qual estrella quier enel medio cielo +}
-{IN3.} QVando esto quisieres sa-ber; ¶2 {RUB. por su circulario.}
+{IN3.} QVando esto quisieres sa-ber; %2 {RUB. por su circulario.}
 pon ell un demostrador de los de la red
 enel quarto oriental en la parte de la lade-
 za de la villa sobre la mayor altura dell yguador
@@ -18347,7 +18347,7 @@ do dell alhogera. cayo su demostrador. & lo q<ue> fuer; es-
 so sera la altura de la estrella en mediol cielo.
 {RUB. Cap<ito>lo .xxxix[<<o>>]. De saber la longura de qual estrel-
 la quier dell yguador del dia por la su altura en +}
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. mediol cielo.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. mediol cielo.}
 pon el demostrador del medio de las pier-
 tegas enel quarto oriental el q<ue> es en la par-
 te de la ladeza de la villa sobre la mayor altura dell
@@ -18380,7 +18380,7 @@ sa sera la longura de su zonte del comedio de so sep-
 tentrion [^en] la parte do es de oriente o de occidente.
 {RUB. Cap<ito>lo .xlj<<o>>. De saber el zonte de qual estrella qui-
 er por su altura. & por su longura dell yguador +}
-{IN3.} Sj esto quisieres saber; pon ell ¶2 {RUB. del dia.}
+{IN3.} Sj esto quisieres saber; pon ell %2 {RUB. del dia.}
 un demostrador de los de la red enel quarto
 oriental el q<ue> es en la ladeza de la villa sobre
 la mayor altura dell yguador del dia enella. Et de-
@@ -18397,7 +18397,7 @@ longura de so zonte del comedio de so septentrion
 en la parte do es del çerco de medio dia. {RUB. Cap<ito>lo .xlij<<o>>.
 De saber el zonte de qual estrella quier por lo q<ue> a
 entrella. & entrel cerco de medio dia de so circula-rio. +}
-{IN3.} QVando esto quisieres saber; pon ell ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; pon ell %2 {RUB.}
 un demostrador de los de la red enel quarto
 oriental el q<ue> es en la parte de la ladeza de
 la uilla sobre la mayor altura dell yguador del
@@ -18518,7 +18518,7 @@ occidente con las ascensiones daq<ue>lla uilla. & do se al-
 legar la cuenta; esso sera el grado del ponimiento
 daq<ue>lla estrella. {RUB. Cap<ito>lo .xlviij<<o>>. De saber lo q<ue> a entre
 quales dos estrellas quier del çerco mayor q<ue> passa +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. sobrellas.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. sobrellas.}
 cata si non ouier ninguna dellas ladeza;
 toma los grados q<ue> son entrellas los q<ue> son
 menos de .c. & .lxxx. & lo q<ue> fuer; esso sera lo q<ue> a en-
@@ -18666,7 +18666,7 @@ dia noche. & en la otra depues de media noche; aq-
 tra. & la segunda; occidental de la primera. {RUB. Cap<ito>lo.
 Lij<<o>>. De saber la longura de qual cipdat quier por
 la longura de otra cipdat. & por la differencia que +}
-{IN3.} Sj esto quisieres saber; an-nade ¶2 {RUB. a entrellas.}
+{IN3.} Sj esto quisieres saber; an-nade %2 {RUB. a entrellas.}
 la differencia de la longura q<ue> es en-
 tre la cipdat de q<ue> tu quieres saber su lon-
 gura. & entre la cipdat de q<ue> es sabuda su longu-
@@ -18734,7 +18734,7 @@ so sera la longura del zonte de la cipdat del come-
 dio de Septentrion de la otra cipdat en la parte do
 es el zonte de oriente. o de occidente. {RUB. Cap<ito>lo .Lv<<o>>. De
 saber quantas longuras a entre quales dos cip-dades +}
-{IN3.} Qvando esto quisieres ¶2 {RUB. quier.}
+{IN3.} Qvando esto quisieres %2 {RUB. quier.}
 saber; cata si non ouier entrellas differen-
 cia en la longura; sabe ambas las ladezas.
 et mengua la menor de la mayor. & lo q<ue> fincar;
@@ -18776,7 +18776,7 @@ des. {RUB. Cap<ito>lo .Lvj<<o>>. De saber co<m>mo se deue poner este
 estrumente en tierra de guisa q<ue> se pueda<n> auer
 por el las quatro partes del mundo. & el zonte de
 qual estrella quier de la noche en qual cipdat qui-er. +}
-{IN3.} SJ esto quisieres saber; sabe la lon-gura ¶2 {RUB.}
+{IN3.} SJ esto quisieres saber; sabe la lon-gura %2 {RUB.}
 del zonte de la estrella del comedio de
 oriente si fuer la estrella en la parte de
 oriente del medio cielo. o del medio de occidente;
@@ -18828,7 +18828,7 @@ entonçe caera la cuesta dell alhidada q<ue> passa por
 so çenptro sobrel zonte de la villa o de la estrel-
 la sobre qual posiste el demostrador dell alhida-
 da en la parte del demostrador q<ue> posiste sobrel zo<n>-te[.]
-{RUB. Cap<ito>lo .Lviij<<o>>. De saber el ponimiento del +} ¶2
+{RUB. Cap<ito>lo .Lviij<<o>>. De saber el ponimiento del +} %2
 {RUB. crepuscol. & el sobimiento dell aluor.}
 {IN3.} SJ esto quisieres saber; pon ell un demostra-
 dor de los de la red enel quarto oriental
@@ -18862,8 +18862,8 @@ aq<ue>lla parte. & entonçe se porna el crepuscol o so-
 bira ell aluor. qual quier de los q<ue> a q<ue> saqueste a-
 quellas horas. {RUB. Cap<ito>lo .Lix[<<o>>]. De saber co<n>noçer qual
 estrella quier del cielo por otra estrella q<ue> co<n>nozca<<s>> +}
-{IN3.} QVando esto quisieres saber; ¶2 {RUB. de las sabu-das. +}
-saca la altura de la estrella q<ue> quie-res ¶2 {RUB.}
+{IN3.} QVando esto quisieres saber; %2 {RUB. de las sabu-das. +}
+saca la altura de la estrella q<ue> quie-res %2 {RUB.}
 co<n>noçer. & su zonte por el grado de su
 comediamiento. & por su longura dell yguador
 del dia assi co<m>mo es dicho. Et depues po(^r)[^<n>] su zon-
@@ -18899,7 +18899,7 @@ mas; es endereçada. {RUB. Cap<ito>lo .Lxj<<o>>. De saber lo que
 a entrel Sol. & entrel çerco de medio dia de qual
 cipdat quier en so circulario por lo q<ue> a entrell. &
 entrel çerco de medio dia de tu uilla en so circula-rio +}
-{IN3.} QVando esto quisieres sa-ber; ¶2 {RUB. otrossi[.]}
+{IN3.} QVando esto quisieres sa-ber; %2 {RUB. otrossi[.]}
 toma la differencia q<ue> a entre la lon-
 gura de tu uilla. & entre la longura de la o-
 tra cipdat. & nombra lo primero. & sabe lo q<ue> a en-
@@ -18941,7 +18941,7 @@ qual cipdat quier por saber la hora en q<ue> tu estas +}}
 [fol. 103v]
 {HD. LIBRO DE LA +}
 {CB2.
-{IN3.} SJ esto quisieres saber; ¶2 {RUB. en tu cipdat.}
+{IN3.} SJ esto quisieres saber; %2 {RUB. en tu cipdat.}
 sabe por la hora en q<ue> estas en tu cipdat que
 tanto a entrel Sol. & entrel çerco de medio
 dia de la otra cipdat en so circulario. assi co<m>mo es
@@ -18976,7 +18976,7 @@ guer q<ue> non seas en aq<ue>lla cipdat. {RUB. Cap<ito>lo .(^xl)[lx]iij<<o>>. De
 saber la reuolucion de los a<n>nos del mundo o de las
 nascencias en qual cipdat quier por saber ell as-
 cendente de qual anno quier de los sobredichos en +}
-{IN3.} QVando esto quisieres ¶2 {RUB. qual cipdat quier.}
+{IN3.} QVando esto quisieres %2 {RUB. qual cipdat quier.}
 saber; saca las ascensiones del grado dell
 ascendente q<ue> es sabudo en aq<ue>lla cipdat co<n>
 sus ascenssiones orizentales. & annade sobrellos
@@ -19244,7 +19244,7 @@ c[']amiento del dia .xxvj<<o>>. del Mes arabigo. & el come<n>-
 çamiento del dia .xxvij<<o>>. otrossi. {RUB. Cap<ito>lo .iiij<<o>>. De saber
 que tanto a entre la luna. & entrel cabo del dragon o
 su cola a qual dellos fuer mas acerca si fuer la luna +}
-{IN3.} SJ esto quisieres saber; sabe su ¶2 {RUB. parescida[.]}
+{IN3.} SJ esto quisieres saber; sabe su %2 {RUB. parescida[.]}
 ladeza. & su parte por el rectificar assi co<m>mo es
 dicho. & pon el demostrador del medio de las
 piertegas enel quarto oriental septentrional so-
@@ -19270,7 +19270,7 @@ nos. & por este cap<ito>lo sabras el logar de la cabeça o de
 la cola do es del zodiacho. {RUB. Cap<ito>lo .v<<o>>. De saber q<ue> tanto a
 entre la luna. & la cabeça o la cola de qual dellos fuer
 mas açerca. & la parte de su ladeza en qual hora quier +}
-{IN3.} Qvando esto quisieres ¶2 {RUB. quier sea parescida o no<n>.}
+{IN3.} Qvando esto quisieres %2 {RUB. quier sea parescida o no<n>.}
 saber; sabe en qual hora quier adelantrada a
 la hora q<ue> tu quieres saber enella q<ue> tanto a en-
 tre la luna. & la cabeça o la cola de qual fuer mas açer-
@@ -19382,7 +19382,7 @@ tas co<m>mo lo segundo guardado. & si fuer mas del;
 poner sa despues del medio dia con horas ygua-
 les tantas co<m>mo lo guardado segundo. {RUB. Cap<ito>lo .ix<<o>>.
 De saber el grado del sobimiento de la Luna. & so po-nimiento. +}
-{IN2.} Qvando esto quisieres saber; ¶2 {RUB.}
+{IN2.} Qvando esto quisieres saber; %2 {RUB.}
 sabe la hora de so subimiento. & de so po-nimiento.}
 {CB2.
 & saca la hora de so subimiento
@@ -19488,7 +19488,7 @@ et essa sera la hora demandada.}
 {HD. LIBRO DELA +}
 {CB2.
 {RMK: HSMS-0053-0007: Libro de la azafea.} {RUB. Este es el libro dela açafeha que es llamada +}
-{IN8.} Dicho auemos ¶2 {RUB. Lamina.}
+{IN8.} Dicho auemos %2 {RUB. Lamina.}
 fata aqui dell alcora
 como es fecho. & como
 deuen obrar por ella.
@@ -19527,10 +19527,10 @@ mera parte del es partida en .iiij<<o>>. cap<ito>los en es-
 ta guisa.
 Capitolo .j<<o>>. De q<u><<a>>les cosas deue seer fecha la Lami<n>a[.]
 Cap<ito>lo .ij<<o>>. De como deue seer sen<n>alada la faz dela La-mina.
-Capitolo tercero. De como deue seer se-nnalado ¶2
+Capitolo tercero. De como deue seer se-nnalado %2
 el auiesso dela Lamina.
 Cap<ito>lo .iiij<<o>>. De como deue<n> seer fechas la<<s>> reglas dela
-¶ Et la segunda parte deste libro ¶2 Lamina.
+¶ Et la segunda parte deste libro %2 Lamina.
 es partida en cien capitolos assi como muestra
 adelant. o fabla de como deuen obrar por la La-
 mina.}
@@ -20018,8 +20018,8 @@ dela Lamina.}}
 {CB2.
 {RUB. Este es el prologo dela segunda parte deste libro
 q<ue> fabla de como deuen obrar por la Lamina q<ue> fizo +}
-{IN6.} Azarq<ue>l el sobre-dicho ¶2 {RUB. el sabio abuyz-hac +}
-sabio dixo. ¶2 {RUB. azarq<ue>l.}
+{IN6.} Azarq<ue>l el sobre-dicho %2 {RUB. el sabio abuyz-hac +}
+sabio dixo. %2 {RUB. azarq<ue>l.}
 Por que yo falle q<ue> los omnes
 antigua mie<n>te & nouamient
 auien apareiado estrumentes
@@ -20125,7 +20125,7 @@ por la alteza delas estrellas de noche.
 gamiento delas estrellas del eguador del dia. por
 rectificar su altura en su medio dia.
 {IN1.} Cap<ito>lo .v<<o>>. De saber el g<r><<a>>do del sol en su signo por la en-clinacion.
-{IN1.} Cap<ito>lo .vj<<o>>. De saber el mes ladino q<ue> non ¶2
+{IN1.} Cap<ito>lo .vj<<o>>. De saber el mes ladino q<ue> non %2
 es sabudo por el g<r><<a>>do del sol. & por el e<n>clinamie<n>to de su g<r><<a>>do.
 {IN1.} Cap<ito>lo .vij<<o>>. De saber el grado del sol en su signo por
 los dias que son passados del mes ladino.
@@ -20137,7 +20137,7 @@ miento del sol.
 delas horas por el enclinamiento.
 {IN1.} Cap<itol><<o>> .xi<<o>>. De saber el enclinamie<n>to por ell archo del dia.
 {IN1.} Cap<itol><<o>> .xij<<o>>. De saber la ladeza dela uilla por ell archo del
-{IN1.} Cap<ito>lo .xiij<<o>>. De saber los subimientos ¶2 dia.
+{IN1.} Cap<ito>lo .xiij<<o>>. De saber los subimientos %2 dia.
 delos signos enel cerco derecho.}
 [fol. 111v]
 {HD. LIBRO DE LA +}
@@ -20160,14 +20160,14 @@ por el grado con que se para en medio cielo.
 {IN1.} Cap<ito>lo .xviij<<o>>. De saber la ladeza dela estrella por
 su alongamiento dela cabeça de Capricornio co<n> los
 grados delos subimientos. & por su lo<n>gueza en su si-gno
-{IN1.} Cap<ito>lo .xix<<o>>. De saber el alongami-ento ¶2 en q<ue> es.
+{IN1.} Cap<ito>lo .xix<<o>>. De saber el alongami-ento %2 en q<ue> es.
 dela estrella del eguador del dia. & su ladeza
 del zodiago delos signos. por sus sobimientos
 del comienço de Capricornio. & por su longueza.
 {IN1.} Cap<ito>lo .xx<<o>>. De saber la longueza dela estrella en
 su signo. & el grado con q<ue> se acomedia en el cielo por
 su alongamiento del eguador del dia & por su lade-za.
-{IN1.} Cap<ito>lo .xxi<<o>>. De saber quales estrellas sube<n> ¶2
+{IN1.} Cap<ito>lo .xxi<<o>>. De saber quales estrellas sube<n> %2
 en tu uilla. & quales se ponen. & qual paresçe si-
 empre; o qual se asconde siempre.
 {IN1.} Cap<ito>lo .xxij<<o>>. De saber ell archo del dia de qual es-
@@ -20187,7 +20187,7 @@ o por la anchura de su orient. o de su occident. &
 saber la ladeza dela uilla por su linna circular.
 {IN1.} Cap<ito>lo .xxv<<o>>. De saber q<u><<a>>ntas horas so<n> passadas del
 dia por la alteza. & la alteza; por las horas q<ue> so<n> pas-sadas.
-{IN1.} Cap<ito>lo .xxvj<<o>>. De saber la parte de q<u><<a>>l ¶2
+{IN1.} Cap<ito>lo .xxvj<<o>>. De saber la parte de q<u><<a>>l %2
 estrella quier del orizon. & si paresçe o si es tras-puesta}
 {CB2.
 en orient o en occidente.
@@ -20211,7 +20211,7 @@ el ascendente.
 {IN1.} Cap<ito>lo .xxxiij<<o>>. De saber ell alteza de qual grado
 quier del zodiago por ell ascendent & por el medio
 cielo. & saber el grado por su alteza en el logar en q<ue>
-{IN1.} Cap<ito>lo .xxxiiij<<o>>. De saber los subimie<n>tos de ¶2 es.
+{IN1.} Cap<ito>lo .xxxiiij<<o>>. De saber los subimie<n>tos de %2 es.
 q<u><<a>>l signo q<u><<i>>ere. & de q<u><<a>>l grado q<u><<i>>er en q<u><<a>>l ladeza q<u><<i>>sieres.
 {IN1.} Cap<ito>lo .xxxv<<o>>. De saber el ascendent por los sobi-
 mientos delos signos en la uilla. & por las horas
@@ -20306,7 +20306,7 @@ sa que acuerde con la oppinion de hermes.
 {IN1.} Cap<ito>lo .Lxiiij<<o>>. De saber los echamientos delos ra-
 yos segund la oppinion de hermes.
 {IN1.} Cap<ito>lo .lxv<<o>>. De saber ell atacir segu<n>d la oppinio<n> de
-{IN1.} Cap<ito>lo .Lxvj<<o>>. De saber las estrellas q<u><<a>>ndo ¶2 hermes.
+{IN1.} Cap<ito>lo .Lxvj<<o>>. De saber las estrellas q<u><<a>>ndo %2 hermes.
 son orientales & q<u><<a>>ndo son occidentales. & saber q<u><<a>>n-
 do comiençan de parecer o de asconder.
 {IN1.} Cap<ito>lo .Lxvij<<o>>. De saber los dias en q<ue> la estrella es
@@ -20361,7 +20361,7 @@ por ell alongamiento que fuer entre ti & entrel
 pie dela cosa derecha[.]
 {IN1.} Cap<ito>lo .lxxxvij<<o>>. De saber ell alongamiento que
 fuer entre ti & entrela cosa q<ue> es enel sobrefaz del ori-zo<n>[.]
-{IN1.} Cap<ito>lo .lxxxviij<<o>>. De saber ell alongamiento ¶2
+{IN1.} Cap<ito>lo .lxxxviij<<o>>. De saber ell alongamiento %2
 que fuer entre ti & entrela rayz dela cosa erecha
 quanto es.
 {IN1.} Cap<ito>lo .lxxxix<<o>>. De saber la alteza dela cosa dere-
@@ -20377,7 +20377,7 @@ non tornando a tras ni adelante escontra ella assi
 como fue ante dicho en el cap<ito>lo .lxxxvij<<o>>. mas co<n>-
 tra manera de obra. que alas uezes se guisa que
 non se puede omne alo<n>gar ni acercar ala cosa del cay-miento.
-{IN1.} Cap<ito>lo .xciiij<<o>>. De saber la cosa erecha q<ue> es ¶2
+{IN1.} Cap<ito>lo .xciiij<<o>>. De saber la cosa erecha q<ue> es %2
 mas baxa que tu logar con tales posturas como
 las antedichas en el capitolo .Lxxxxiij<<o>>.
 {IN1.} Cap<ito>lo .xcv<<o>>. De saber ell alteza del cuerpo quier
@@ -20400,7 +20400,7 @@ si es cierto.
 q<ue> se meta a obrar por este estrumente.
 {RUB. Cap<ito>lo p<r><<i>>mero. De nombrar las sennales que
 son puestas enla faz dela lamina co<m>mu<n> & en su +}
-{IN6.} La primera sennal da-q<ue>llas ¶2 {RUB. auiesso.}
+{IN6.} La primera sennal da-q<ue>llas %2 {RUB. auiesso.}
 sennales que son en la faz
 dela lamina; es el cerco sobre
 q<ue> estan las partidas delos gra-
@@ -20559,8 +20559,8 @@ ras la regla fasta q<ue> ueas el cuerpo dela estrella
 por amos los forados en semble. & sobre qua<n>tos
 grados delos grados dell alteza cayere el cabo ma<<s>>
 alto de la estrella. {RUB. Cap<ito>lo .iij<<o>>. De saber la ladeza +}
-{IN3.} Toma ell alteza ¶2 {RUB. dela uilla por la alteza de-la +}
-de alguna estrella delas ¶2 {RUB. estrella denoche.}
+{IN3.} Toma ell alteza %2 {RUB. dela uilla por la alteza de-la +}
+de alguna estrella delas %2 {RUB. estrella denoche.}
 estrellas q<ue> se non asconden en tu uilla
 lo mas alto que pueda seer. & guardala. & saber
 lo as esto; sabiendo su alteza al comienço dela
@@ -20588,7 +20588,7 @@ delo q<ue> ficare sobrela menor. & lo q<ue> se ayuntar;
 es la ladeza de aq<ue>lla uilla. {RUB. Cap<ito>lo .iiij<<o>>. De saber
 ell enclinamiento del sol o ell alongamiento
 dela estrella del eguador del dia por rectificar +}
-{IN3.} Toma ell alteza ¶2 {RUB. su altura en so medio dia.}
+{IN3.} Toma ell alteza %2 {RUB. su altura en so medio dia.}
 del sol. o dela estrella. qual dellas quie-
 ras; lo mas que pueda seer en medio
 dia. & guardalo. Desi mengua la ladeza dela ui-
@@ -20613,7 +20613,7 @@ del cenit delas cabeças; mengua ell alteza de
 uilla. & lo que se ayuntare; es ell enclinamie<n>to
 o ell alongamiento. qual quier dellos a<m>mos.
 {RUB. Cap<ito>lo .v<<o>>. De saber el grado del sol de su signo por +}
-{IN3.} Entra con la declinacion ¶2 {RUB. ell enclinamie<n>to.}
+{IN3.} Entra con la declinacion %2 {RUB. ell enclinamie<n>to.}
 en las linnas circulares septentriona-
 les en la parte en q<ue> es la linna dela lo<n>-
 gueza. Si ell enclinamiento fuer septentrional.
@@ -20834,7 +20834,7 @@ las partes & las fractiones que salieren; son los
 tiempos de una hora del dia; mengualas
 de .xxx<<a>>. & lo q<ue> fincar; son tiempos de una hora de-
 la noche. {RUB. Cap<ito>lo .xi<<o>>. De saber ell enclinamie<n>-to +}
-{IN3.} Pon el cabo del orizo<n> ¶2 {RUB. del archo del dia.}
+{IN3.} Pon el cabo del orizo<n> %2 {RUB. del archo del dia.}
 enclinado en el quarteron de suso de par-
 te delas linnas circulares meridionales
 sobrela altura dela cabeça de aries en tu uilla. &
@@ -20855,7 +20855,7 @@ dimientos. & entrelas linnas circulares. assi
 como ante es dicho. segund aq<ue>lla carrera en todo
 lo que es por uenir. {RUB. Cap<ito>lo .xij<<o>>. De saber la lade-
 za dela uilla por ell archo del dia & por la decli-nacio<n> +}
-{IN3.} Entra enlas linnas circulares ¶2 {RUB. del sol.}
+{IN3.} Entra enlas linnas circulares %2 {RUB. del sol.}
 que son en la faz con ell enclinamie<n>to
 del sol enla parte en que es ell encli-
 namiento si fuer septentrional. enlas lin<n>as
@@ -20877,7 +20877,7 @@ con los andamientos. & entra entre las dos lin<n>a<<s>>.
 & entre los dos andamientos segund las dos}
 {CB2.
 annadenças. {RUB. Cap<ito>lo .xiij<<o>>. De sab<er> los sobimie<n>tos +}
-{IN3.} Sennala una ¶2 {RUB. delos signos en el c<er>co d<er>echo.}
+{IN3.} Sennala una %2 {RUB. delos signos en el c<er>co d<er>echo.}
 sennal sobrel grado cuyos sobimientos
 quieres saber desdel comienço de Capri-
 cornio en la linna dela longura sobrel grado del
@@ -21145,7 +21145,7 @@ q<ue> es. {RUB. Cap<ito>lo .xix<<o>>. De saber ell alo<n>gamie<n>to dela
 estrella del eguador del dia. & su ladeza del cie-
 lo delos signos por s<us> sobimie<n>tos desdel comie<n>ço +}
 {IN3.} Si fuer delas estrellas {RUB. de Cap[<r><<i>>]cornio & por su lo<n>g<u><<e>>-za.}
-dela lamina; cataras ell alongamiento ¶2 {RUB.}
+dela lamina; cataras ell alongamiento %2 {RUB.}
 dela linna circular q<ue> passa por su cemptro.
 & quanto fuer; tanto es su alongamie<n>to del eg<u><<a>>-
 dor del dia enla parte en q<ue> es aq<ue>lla linna circular.
@@ -21249,7 +21249,7 @@ dos polos delos grados. & qua<n>to fuer. tanto es la
 ladeza dela uilla. {RUB. Cap<itol><<o>> .xxv<<o>>. De sab<er> quantas ho-
 ras so<n> passadas del dia por ell alteza. & sa-
 ber ell alteza por las horas que son pas-sadas. +}
-{IN3.} Quando esto quisieres ¶2 {RUB.}
+{IN3.} Quando esto quisieres %2 {RUB.}
 saber; pon el cabo dela regla q<ue> es mas cer-
 cano dela regla trauessador sobrel andami-
 ento mediano en las partes delas linnas circu-
@@ -21386,7 +21386,7 @@ gua ende .ccc. & lx. & faz en este alongamiento;
 lo que feziste enel alongamie<n>to segu<n>do desdel
 comienço del capitolo. {RUB. Cap<itol><<o>> .xxvij<<o>>. De sab<er> tornar
 las horas eg<u><<a>>les alas te<m>p<o>rales. & tornar las te<m>pora-les +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. alas eguales.}
+{IN3.} Si esto quisieres saber; %2 {RUB. alas eguales.}
 Las horas te<m>porales son aq<ue>llas q<ue> a en el
 dia o en la noche .xij. horas siempre. & las
 eguales son aq<ue>llas q<ue> entrel dia & la noche ayun-
@@ -21469,8 +21469,8 @@ andamiento q<ue> cayer aq<ue>l canto circular mayor;
 aq<ue>l es el andamiento con q<ue> entreste. {RUB. Capitolo
 .xxix<<o>>. De sab<er> el g<r><<a>>do del medio cielo por lo q<ue> es pas-
 sado del dia o dela noche. o delas horas te<m>p<or>ales o eg<u><<a>>les +}
-{IN3.} Si esto quisieres ¶2 {RUB. por el catamie<n>to del sol o delas +}
-saber; torna las horas que menguan ¶2 {RUB. estrellas.}
+{IN3.} Si esto quisieres %2 {RUB. por el catamie<n>to del sol o delas +}
+saber; torna las horas que menguan %2 {RUB. estrellas.}
 del medio dia. o dela noche. o las q<ue> son
 demas; en grados. & guarda lo q<ue> se ayuntar.
 & silas horas fueren ante del medio dia; men-
@@ -21801,7 +21801,7 @@ la cuenta enlos signos. & enlos grados; aq<ue>l es
 el grado del ascendent aq<ue>lla hora. {RUB. Cap<ito>lo .xxxv<<o>>.
 De saber el ascendente por los sobimie<n>tos delos
 signos en la uilla & por las horas q<ue> so<n> passadas +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. del dia o dela noche.}
+{IN3.} Si esto quisieres saber; %2 {RUB. del dia o dela noche.}
 tornalo que es passado del dia en grados.
 Desi comiença del grado del sol. & da a ca-
 daun signo segund la q<u><<a>>ntidat de s<us> sobimie<n>tos}
@@ -21947,7 +21947,7 @@ nal; escontra la parte de septentrion. & sila ladeza
 dela uilla fuer mas; sera diuerso desto. quiero de-
 zir que sera tan alongado de medio delos orie<n>tes.
 {RUB. Cap<ito>lo .xl<<o>>. De sab<er> en q<u><<a>>l guisa sen<n>alaras el cenit en +}
-{IN3.} Quando esto quisieres saber & fuer ¶2 {RUB. tierra.}
+{IN3.} Quando esto quisieres saber & fuer %2 {RUB. tierra.}
 de dia; sabe el cenit del sol la hora que q<u><<i>>-
 sieres. assi como es ante dicho. Desi pon
 el cabo dela regla del auiesso sobre tanto qua<n>to
@@ -22654,7 +22654,7 @@ dezena. & lieua se al grado del ponient. & los gra-
 dos del leuar aqui; son los grados dela differen-
 cia endereçada del alhyleth. {RUB. Cap<ito>lo .lix<<o>>. Delos e-
 chamientos delos rayos segu<n>d la opinio<n> de alba-teni. +}
-{IN3.} Esta es la opinion de todos los que ¶2 {RUB.}
+{IN3.} Esta es la opinion de todos los que %2 {RUB.}
 eran sabios dela arte delos iuyzios. & so-
 brella obraron en el catamie<n>to delas es-
 trellas las unas alas otras en el mundo sin lo
@@ -22802,7 +22802,7 @@ na cosa desta obra. {RUB. Cap<ito>lo .lxij<<o>>. De saber el grado
 delos signos con el qual uien la estrella faz a q<u><<a>>l
 cerco quier delos q<ue> son semeia<n>tes al cerco del ori-
 zon seyendo sabudo su enclinamie<n>to del cerco de +}
-{IN3.} Si esto quisieres saber; faz as-si ¶2 {RUB. medio dia.}
+{IN3.} Si esto quisieres saber; faz as-si %2 {RUB. medio dia.}
 como es ante dicho en el cap<ito>lo .lx<<o>>. &
 guarda el alongamie<n>to dela linna circu-
 lar. dela lin<n>a circular dela eguacion. & saca el g<r><<a>>-
@@ -22929,7 +22929,7 @@ ante dicho. tanto quanto es lo q<ue> annadeste co<n> los
 sobimie<n>tos delos signos sobre aq<ue>l cerco. & quanto
 fuer; aq<ue>l es el logar del rayo diestro. {RUB. Cap<ito>lo .lxv<<o>>.
 De saber leuar las estrellas segu<n>d la opinion +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. de Hermes.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. de Hermes.}
 mengua los sobimientos del grado q<ue> fuer
 leuado delos sobimientos del grado aq<ue>
 es leuado. con los sobimie<n>tos delos signos sobrel
@@ -23526,7 +23526,7 @@ q<ue> es enel orizon. es el cenit del g<r><<a>>do del asce<n>de<n>t.}
 {CB2.
 {RUB. Cap<ito>lo .lxxvj<<o>>. De saber la parte del orizo<n> haza
 do catan los dos cabos luzientes dela luna q<u><<a>>ndo +}
-{IN3.} Si esto quisieres saber; saca la ¶2 {RUB. es nueua.}
+{IN3.} Si esto quisieres saber; saca la %2 {RUB. es nueua.}
 sen<n>al dela luna. & la p<r><<i>>mera sen<n>al. & la se-
 gunda. & la parte del punto assi como
 es ante dicho en el cap<ito>lo q<ue> es ante q<ue> este. Desi
@@ -23586,7 +23586,7 @@ tra la parte do son sus cabos q<u><<a>>ndo se pon el sol. &
 enfeuzamos nos por end enno q<ue> es ante dicho
 pora esto. & escusamos nos de tornar a ello de ca-
 bo. {RUB. Cap<ito>lo .lxxvij<<o>>. De sab<er> el sig<n><<o>> egual. & el co<n>u<er>so +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. por ell archo.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. por ell archo.}
 faz una sennal en el q<u><<a>>rteron delas lin-
 nas dela ordenation. sobre tanto qua<n>to
 es ell archo q<ue> tu as. & en qual acertar la sennal
@@ -23658,7 +23658,7 @@ la conuersa; faz assi como es ante dicho dela lla-
 na. & lo q<ue> salier del archo; me<n>gualo de .xc<<a>>. & lo q<ue> fi-
 car; es ell alteza que q<ue>siste saber. {RUB. Cap<itol><<o>> .lxxxij<<o>>.
 De sab<er> sacar la so<m>bra en el sobrefaz del eguador +}
-{IN3.} Si esto quisieres saber; saca ell en-(en)clinamie<n>to ¶2 {RUB. del dia.}
+{IN3.} Si esto quisieres saber; saca ell en-(en)clinamie<n>to %2 {RUB. del dia.}
 del sol daq<ue>l dia. & toma su so<m>-
 bra llana. & q<u><<a>>nto fuer; aq<ue>lla es la sombra
 de todo aq<ue>l dia. Et si ell enclinamie<n>to fuer septe<n>-
@@ -23730,7 +23730,7 @@ fuer; aq<ue>lla es la sombra en aq<ue>l sobrefaz. {RUB. Cap<ito>lo
 lxxxv[<<o>>]. De saber sacar la sombra en qual sobre-
 faz quier delos sobrefazes enclinados seyen-
 do su enclination sabuda. & la parte dela encli-nacio<n>. +}
-{IN3.} Si esto quisieres saber; saca por ell ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; saca por ell %2 {RUB.}
 enclinamie<n>to del sobrefaz. & por la par-
 te dela declinacio<n>. la enclinacion del cenit
 dela cabeça en aq<ue>lla uilla en q<ue> fuer este sobrefaz
@@ -23813,7 +23813,7 @@ sobrela cabeça del cuerpo erecho dela alteza del
 tu logar dela rayz daq<ue>l cuerpo. & lo q<ue> fica; aq<ue>lla
 es la alteza de tu logar sobrela cabeça daq<ue>l cuer-
 po. {RUB. Cap<itol><<o>> .xc<<o>>. De sab<er> delos logares q<u><<a>>l es mas alto +}
-{IN3.} Quando esto quisieres saber; to-ma ¶2 {RUB. q<ue> ell otro.}
+{IN3.} Quando esto quisieres saber; to-ma %2 {RUB. q<ue> ell otro.}
 ell alteza de cada un dellos q<u><<a>>nto es
 mas q<ue> tu logar. assi como es passado en
 tomar ell alteza del cuerpo erecho. & el q<ue> ouier}
@@ -24074,10 +24074,10 @@ ento. & el logar dela otra p<er>sona el logar del segu<n>-
 do catamie<n>to. & lo q<ue> salier por esta obra; esso es
 ell alteza daq<ue>l cuerpo. {RUB. Cap<ito>lo .xcvij<<o>>. De saber la
 sombra del cuerpo q<ue> es enclinado sobrel sobrefaz +}
-{IN3.} Si esto quisieres sa-ber; ¶2 {RUB. del orizon por el alo<n>-gamie<n>to +}
-pon la regla sobrel ¶2 {RUB. que fu-er +}
-diametro q<ue> toma desdela ¶2 {RUB. entre ti. & +}
-sortija fasta fondon dela lamina; Desi ¶2 {RUB. su rayz.}
+{IN3.} Si esto quisieres sa-ber; %2 {RUB. del orizon por el alo<n>-gamie<n>to +}
+pon la regla sobrel %2 {RUB. que fu-er +}
+diametro q<ue> toma desdela %2 {RUB. entre ti. & +}
+sortija fasta fondon dela lamina; Desi %2 {RUB. su rayz.}
 ue adelantre. & ue atras fasta q<ue> ueas el cabo
 daq<ue>l cuerpo cuya longueza quisieres saber; & faz
 en tierra una sen<n>al so el logar de tus pies. Esta
@@ -24309,13 +24309,13 @@ dos armellas del rectificar.
 del yguador del dia.}
 {CB2.
 {IN1.} Cap<ito>lo .viij<<o>>. De sab<er> como se faz la armella del
-{IN1.} Cap<ito>lo .ix<<o>>. De saber como se faz la ar-mella ¶2 orizo<n>.
+{IN1.} Cap<ito>lo .ix<<o>>. De saber como se faz la ar-mella %2 orizo<n>.
 que lieua el medio cerco dela altura.
 {IN1.} Capitolo dezeno. De saber como se faz el cer-
 co & medio dela altura.
 {IN1.} Cap<ito>lo onzeno. De saber armar este estrumente.
 {RUB. Cap<ito>lo .i<<o>>. De saber qual es la pro deste estru-mente. +}
-{IN6.} Dixo el sabio Abuçah ¶2 {RUB.}
+{IN6.} Dixo el sabio Abuçah %2 {RUB.}
 azarquiel. Quiero fablar
 en fecho del estrume<n>te a que
 dizen las armellas. por que
@@ -24416,7 +24416,7 @@ lliendo el laton; fata q<ue> fiq<ue> la faz bien llana &
 bie<n> eg<u><<a>>l. & assi faras en todas las armellas. Et desta
 g<u><<i>>sa falla q<ue> se faz meior & mas ligera mie<n>tre. {RUB. Ca-
 pitolo .iiij<<o>>. De sab<er> como se faz la armella delos po-los +}
-{IN3.} Si esto quisieres sab<er>; faras ¶2 {RUB. & la del zodiaco.}
+{IN3.} Si esto quisieres sab<er>; faras %2 {RUB. & la del zodiaco.}
 dos armellas q<u><<a>>dradas. & eg<u><<a>>les en gordura.
 & muy bien raydas en el torno. & pornas
 la armella sobre faz yg<u><<a>>l. & saca so ce<n>tro en la faz.
@@ -24563,7 +24563,7 @@ del yguador del dia. {RUB. Et esta es la figura delas
 dos armellas sobredichas.}
 {=DIAG.}
 {RUB. Cap<itol><<o>> .v<<o>>. De sab<er> como se faze<n> las dos armellas del +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. rectificar.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. rectificar.}
 faras dos armellas. & sea la gordura de
 cadauna dellas; ta<n>to como la gordura}
 {CB2.
@@ -25058,7 +25058,7 @@ polo delos signos}}
 auemos dicha.}
 {=DIAG.}
 {RUB. Capitolo .viij<<o>>. De sab<er> como se faz la armella +}
-{IN3.} Si esto quisieres saber; faz ¶2 {RUB. del yguador[.]}
+{IN3.} Si esto quisieres saber; faz %2 {RUB. del yguador[.]}
 una armella. & pon le nombre; orizon.
 & sea ygual con la armella de medio dia.
 en semeiante della. Et despues partir lo as
@@ -25198,7 +25198,7 @@ de suso.}}
 {=DIAG.}
 {=DIAG.}
 {RUB. Cap<ito>lo .xj<<o>>. De saber como se deue armar este es-trume<n>te.}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; %2 {RUB.}
 faz un suelo de piedra o delo q<ue> se te aui-
 nier meior. & sea bien llano & bien dere-
 cho. & sea en derecho del orizon. & mete agua en
@@ -25334,7 +25334,7 @@ este estrumente delas armellas & a en ella
 .Lxx. capitolos. & estas son las robricas dellos
 assi como uan cadauno por orden.}
 {IN1.} Cap<ito>lo .i<<o>>. De saber los no<m>bres q<ue> a en este estrum<en>-te.
-{IN1.} Cap<ito>lo .ij<<o>>. De saber en qual signo es el sol ¶2
+{IN1.} Cap<ito>lo .ij<<o>>. De saber en qual signo es el sol %2
 & en qual grado daq<ue>l signo en qual dia quisieres
 del anno. & en qual punto daquel dia.
 {IN1.} Cap<ito>lo .iij<<o>>. De saber en qual signo es la luna. & en
@@ -25342,7 +25342,7 @@ qual grado daq<ue>l signo en lo<n>gueza & en ladeza mi-
 entre fueren la luna & el sol sobrela tierra.
 {IN1.} Cap<ito>lo .iiij<<o>>. De saber el grado de q<u><<a>>l estrella fixa
 o mouible q<u><<i>>sieres en lo<n>gueza & en ladeza por la lu-na.
-{IN1.} Cap<ito>lo .v<<o>>. De saber el grado de qual estrella ¶2
+{IN1.} Cap<ito>lo .v<<o>>. De saber el grado de qual estrella %2
 quier fixa o mouible en longueza & en ladeza por
 el logar dotra estrella fixa q<u><<a>>ndo es sabuda en su
 longueza & en su ladeza.
@@ -25351,23 +25351,23 @@ estrella tu quisieres.
 {IN1.} Cap<ito>lo .vij<<o>>. De saber el zonte por la altura.
 {IN1.} Cap<ito>lo .viij<<o>>. De saber la altura de qual estrella
 quier por su zonte & por su logar en lo<n>gueza &
-{IN1.} Cap<ito>lo .ix<<o>>. De saber la mayor al-tura ¶2 en ladeza[.]
+{IN1.} Cap<ito>lo .ix<<o>>. De saber la mayor al-tura %2 en ladeza[.]
 del sol o de q<u><<a>>l estrella quier en so medio dia
 por el so logar en longueza & en ladeza sila ouier.
 {IN1.} Cap<ito>lo .x<<o>>. De saber con qual grado delos signos
 o del yguador del dia se comedia el cielo con qual
 estrella quier por so logar en lo<n>gueza & en ladeza
-{IN1.} Cap<ito>lo .xj<<o>>. De saber qual grado de-los ¶2 sila ouier.
+{IN1.} Cap<ito>lo .xj<<o>>. De saber qual grado de-los %2 sila ouier.
 signos o del yguador del dia sube o se pone
 en el logar do fuer armado est estrume<n>te co<n> q<u><<a>>l
 estrella quier por su lo<n>gueza & por su ladeza sila
-{IN1.} Cap<ito>lo .xij<<o>>. De saber la declinacio<n> del ¶2 ouier.
+{IN1.} Cap<ito>lo .xij<<o>>. De saber la declinacio<n> del %2 ouier.
 sol o la longura de q<u><<a>>l estrella quier del yguador
 del dia por su longueza & su ladeza sila ouier.
 {IN1.} Cap<ito>lo .xiij<<o>>. De saber la longura de qual estre-
 lla quier del yguador del dia por la su mayor al-
 tura. & la su mayor altura; por la lo<n>gura del yg<u><<a>>-dor
-{IN1.} Cap<ito>lo .xiiij<<o>>. De saber trastornar ¶2 del dia.
+{IN1.} Cap<ito>lo .xiiij<<o>>. De saber trastornar %2 del dia.
 los grados yguales del zodiaco; alos grados
 yguales del yguador. & los grados del yguador;
 alos del zodiaco en qual logar quier de mediol
@@ -25382,7 +25382,7 @@ o dela noche.
 de qual dia o de qual noche quisieres.
 {IN1.} Cap<ito>lo .xviij<<o>>. De saber lo que se reboluio del cie-
 lo por la altura del sol de dia & de estrella sabuda
-{IN1.} Cap<ito>lo .xix<<o>>. De saber lo q<ue> passo de-las ¶2 denoche.
+{IN1.} Cap<ito>lo .xix<<o>>. De saber lo q<ue> passo de-las %2 denoche.
 horas yguales del dia o dela noche por la al-
 tura del sol de dia; o[ ]la estrella sabuda denoche.
 {IN1.} Cap<ito>lo .xx<<o>>. De saber lo q<ue> passo de horas t<em>p<or>ales
@@ -25482,7 +25482,7 @@ gura del cerco semeiante al cerco del orizon so-
 bre que es la estrella del cerco de medio dia.
 {IN1.} Capitolo .xlviiij<<o>>. De saber qual grado de
 los signos cae con la estrella sobrel cerco del
-{IN1.} Capitolo .L<<o>>. De saber como se faz ¶2 orizon.
+{IN1.} Capitolo .L<<o>>. De saber como se faz %2 orizon.
 ell atacir segund la opinion de ptholomeo.
 {IN1.} Capitolo .Li<<o>>. De saber como se faz ell ata-
 cir segund la opinion de Hermes.
@@ -25501,7 +25501,7 @@ lo que passo delas horas yguales en tu cipdat.
 cima en aq<ue>lla otra cipdat por lo que passo en
 ella delas horas yguales del dia[.]
 {IN1.} Cap<ito>lo .lvj<<o>>. De saber rectificar la declinacio<n> del
-{IN1.} Capitolo .Lvij<<o>>. De saber la ladeza de-la ¶2 sol.
+{IN1.} Capitolo .Lvij<<o>>. De saber la ladeza de-la %2 sol.
 uilla por la altura del sol en medio dia.
 {IN1.} Capitolo .Lviij<<o>>. De saber la ladeza dela uilla
 por la altura de qual estrella fixa quier delas
@@ -25849,7 +25849,7 @@ dela altura; con el medio cerco dela altura.
 ra la altura dela estrella en aq<ue>lla hora que tu
 quieres.
 {RUB. Capitolo seteno. De saber el zonte por +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. la altura.}
+{IN3.} Si esto quisieres saber; %2 {RUB. la altura.}
 toma la altura del sol de dia. & la dela
 estrella denoche. & cata al logar do se ta-
 ia el medio cerco dela altura; con la armella
@@ -25890,7 +25890,7 @@ tos q<ue> son en el medio cerco dela altura. & essa
 sera la altura que quieres saber. {RUB. Cap<itol><<o>> .ix<<o>>. De
 saber la mayor altura del sol o de q<u><<a>>l estrella
 q<u><<i>>er en so medio dia por el so logar en lo<n>gueza & +}
-{IN3.} Si esto quisieres saber; pon ¶2 {RUB. en ladeza si la ouier.}
+{IN3.} Si esto quisieres saber; pon %2 {RUB. en ladeza si la ouier.}
 la armella menor del rectificar en el g<r><<a>>-
 do del sol. o dela estrella. & pon la axata-
 ba de suso sobre su ladeza sila ouier. & en aq<ue>lla
@@ -25980,7 +25980,7 @@ gura dela estrella del yguador del dia. {RUB. Cap<ito>lo
 .xiij<<o>>. De saber la longura de q<u><<a>>l estrella quier
 del yguador del dia por la su mayor altura;
 & la su mayor altura; por la longura del ygua-dor +}
-{IN3.} Si esto quisieres saber; faz ¶2 {RUB. del dia.}
+{IN3.} Si esto quisieres saber; faz %2 {RUB. del dia.}
 una sen<n>al en medio del cerco dela altu-
 ra. enla parte do es la mayor altura
 daq<ue>lla estrella. Et despues mueue este me-
@@ -26062,7 +26062,7 @@ ba; assi como obraste con el sol. & cumple to-
 do esto; assi como sobredicho es.}
 {CB2.
 {RUB. Cap<itol><<o>> .xvj<<o>>. De sab<er> las horas yguales del dia o dela +}
-{IN3.} Quando esto quisieres saber; saca ¶2 {RUB. noche.}
+{IN3.} Quando esto quisieres saber; saca %2 {RUB. noche.}
 ell archo del dia. o dela noche qual dellos
 quisieres. assi como te mostre en el ca-
 pitolo que es ante deste. & partelo por .xv. par-
@@ -26093,7 +26093,7 @@ delas horas del dia. ¶ Et segundo esto si tu so-
 pieres ell un archo; podras escusar ell otro.
 {RUB. Cap<ito>lo .xviij<<o>>. De saber lo q<ue> se reboluio del cie-
 lo por la altura del sol de dia; & de estrella sa-buda +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. denoche.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. denoche.}
 sabe qual grado dell yguador del dia su-
 ue con el grado del sol de dia. o con la es-
 trella sabuda denoche. assi como te mostre en
@@ -26137,7 +26137,7 @@ una hora. & auras horas te<m>porales co<m>plidas.
 noche. {RUB. Cap<ito>lo .xxi<<o>>. De saber la altura del sol
 de dia. o de estrella sabuda denoche. por lo q<ue>
 passo del dia o dela noche de horas t<em>p<o>rales o +}
-{IN3.} Si esto quisieres saber; sabe lo ¶2 {RUB. yguales.}
+{IN3.} Si esto quisieres saber; sabe lo %2 {RUB. yguales.}
 que passo del dia o dela noche de horas
 temporales o yguales. Pues si fuere<n>
 las horas que tu sabes yguales; multiplica-
@@ -26202,7 +26202,7 @@ gar de qual estrella quier en longueza & en
 ladeza por el grado del zodiaco que se come-
 dia con ella el cielo. o dell eguador del dia.
 & por su longueza dell eguador; o por la su +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. mayor altura.}
+{IN3.} Si esto quisieres saber; %2 {RUB. mayor altura.}
 pon el grado q<ue> se comedia en mediol cie-
 lo con la estrella; so la armella de me-
 dio dia. Et despues sabe la longura daq<ue>lla}
@@ -26231,7 +26231,7 @@ nor del rectificar. Et esso sera la ladeza daq<ue>lla
 estrella en la parte do cayo la axata[ba]. {RUB. Cap<ito>lo .xx-
 iiij<<o>>. De saber el grado dela longura de q<u><<a>>l estrella
 quier por su ladeza. & sus subimientos de me-diol +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. cielo.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. cielo.}
 cata el grado delas ascensiones eguales
 dela estrella. & faz una sen<n>al sobrel en
 la armella del eguador del dia. Et desi mueue-
@@ -26392,7 +26392,7 @@ De saber qual grado delos signos o dell e-
 guador del dia; suue sobrell orizon por el
 grado del zodiaco o dell eguador del dia
 que es en medio del cielo. et so conuer-so +}
-{IN3.} Si esto quisieres saber; pon ¶2 {RUB. otrossi.}
+{IN3.} Si esto quisieres saber; pon %2 {RUB. otrossi.}
 el grado que es en mediol cielo. quier sea
 el grado delos signos o del eguador del dia;
 sola armella de medio dia. Et cata q<u><<a>>l grado
@@ -26420,7 +26420,7 @@ do quier del zodiaco. o de qual estrella quier
 que sea sabuda su longueza & su ladeza por
 el grado del zodiaco o dell eguador del dia.
 que es en ell ascendente o en medio del +}
-{IN3.} Quando esto q<u><<i>>sieres saber; ¶2 {RUB. cielo.}
+{IN3.} Quando esto q<u><<i>>sieres saber; %2 {RUB. cielo.}
 pon sobrell orizon oriental qual grado
 quier destos sobredichos que son el gra-
 do dell ascendente delos signos; o dell yguador
@@ -26583,7 +26583,7 @@ lla dell orizon se taio el medio cerco dela altura
 con la armella dell orizon. & aq<ue>l sera el zonte de-
 la uilla que tu auies demandada. {RUB. Cap<ito>lo .xxxviij<<o>>.
 De sab<er> sacar la lin<n>a del zo<n>te de q<u><<a>>l logar q<u><<i>>sieres +}
-{IN3.} Quando esto quisieres saber; poder ¶2 {RUB. en t<ier>ra.}
+{IN3.} Quando esto quisieres saber; poder %2 {RUB. en t<ier>ra.}
 lo as fazer en dos maneras. la una es
 en el logar do esta ell estrumente arma-
 do; la otra en qual logar quisieres. ¶ Et la pri-
@@ -26647,7 +26647,7 @@ mo. Et despues saca una linna en aq<ue>l suelo q<ue>
 quieres saber. & si aq<ue>lla linna sacaren en dere-
 cho; passara por medio daq<ue>lla cipdat. {RUB. Cap<ito>lo .xx-
 xix<<o>>. De sab<er> las lo<n>guras delos logares por los eclip-sis +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB. lunares.}
+{IN3.} Quando esto quisieres saber; %2 {RUB. lunares.}
 egua ell eclipsi lunar por q<ue> tu q<u><<i>>sieres saber}
 {CB2.
 la longura daq<ue>lla cipdat. & faz aq<ue>lla eguacion
@@ -26689,7 +26689,7 @@ gura dela cipdat sabuda despues dell annadimi-
 ento; esso sera la longura daq<ue>lla cipdat do fue el
 rectificamie<n>to que q<u><<i>>siste saber. {RUB. Cap<ito>lo .xl<<o>>. De sa-
 ber la diu<er>sidat del catamie<n>to dela luna en lo<n>gue-za +}
-{IN3.} Si esto quisieres saber; sabe ¶2 {RUB. & en ladeza.}
+{IN3.} Si esto quisieres saber; sabe %2 {RUB. & en ladeza.}
 la diuersidat del catamie<n>to dela luna
 en el cerco dela altura por las tablas q<u><<a>>l
 yo te dire agora. Sabe el logar dela luna ala
@@ -27274,7 +27274,7 @@ so ella. & esso seran las ascensiones dela estrella
 sobre aq<ue>l cerco. en aq<ue>l logar & en aq<ue>l quarto do el-
 la esta ala hora. {RUB. Cap<ito>lo .xlviij<<o>>. De saber q<u><<a>>nta es la
 lo<n>g<ur>a del c<er>co semeia<n>te al c<er>co dell orizo<n> sobre q<ue> es la estre-lla +}
-{IN3.} Si esto quisieres saber; ¶2 {RUB. del c<er>co de medio dia.}
+{IN3.} Si esto quisieres saber; %2 {RUB. del c<er>co de medio dia.}
 saca ell ascendente ala hora. & pon lo sobre-
 la armella dell orizon. & faz sen<n>al en la
 armella dell eguador del dia sobrelas ascensio<n>es
@@ -27364,7 +27364,7 @@ siones a q<ue> allegas ell atacir; ccc. & lx. grados. & lo
 q<ue> se ayuntar; mengua dello las ascensiones del
 significador. & lo q<ue> fincar; essos seran los grados dell
 atacir. {RUB. C<apitol><<o>> .Lij<<o>>. De sab<er> faz<er> ell atacir segu<n>d la oppi-nion +}
-{IN3.} Este ombre a q<ue> ¶2 {RUB. de Aben mohat.}
+{IN3.} Este ombre a q<ue> %2 {RUB. de Aben mohat.}
 dizen Abemoat; fue grand sabio en Geome-
 tria & en astrologia. & fizo un libret en que
 fabla dell echamiento delos rayos & dell atacir. &
@@ -27492,7 +27492,7 @@ dia en aq<ue>lla otra cipdat. & faras denoche con ell op-
 posito del grado del sol; assi como feziste con el g<r><<a>>do
 del sol de dia. {RUB. Cap<ito>lo .Lv<<o>>. De sab<er> ell ascende<n>te & la de-
 zena casa en aq<ue>lla otra cipdat por lo que passo en +}
-{IN3.} Si esto q<u><<i>>sieres ¶2 {RUB. ella delas horas eg<u><<a>>les del dia.}
+{IN3.} Si esto q<u><<i>>sieres %2 {RUB. ella delas horas eg<u><<a>>les del dia.}
 saber; sabe lo q<ue> passo delas horas eguales
 del dia en aq<ue>lla otra cipdat. assi como es di-
 cho; en el cap[<ito>]lo q<ue> es ante deste. & affirma la armella
@@ -27540,7 +27540,7 @@ altura dela cabeça de aries en to cipdat. & me<n>gua-
 la de .xc<<a>>; & fincara [la] ladeza de tu uilla. {RUB. Cap<ito>lo .lviij<<o>>.
 De saber la ladeza dela uilla por la altura de
 qual estrella fixa quier delas estrellas que +}
-{IN3.} Quando esto quisieres ¶2 {RUB. parescen toda uia.}
+{IN3.} Quando esto quisieres %2 {RUB. parescen toda uia.}
 saber; rectifica la mayor altura de qual es-
 trella fixa quier delas estrellas q<ue> se no<n> as-
 conden de yuso sola tierra. & guardala. & toma so al-
@@ -27552,7 +27552,7 @@ en que entra el sol en la cabeça de Aries o de libra.
 o en qual grado quier delos signos. saluo ende en
 la cabeça de cancro o de Cap<r><<i>>cornio. & co<n> estos faze<n>
 las reuoluciones delos a<n>nos del mu<n>do. & delas nas-ce<n>cias. +}
-{IN3.} Si esto quisieres saber; saca la declina-cion ¶2 {RUB.}
+{IN3.} Si esto quisieres saber; saca la declina-cion %2 {RUB.}
 daq<ue>l grado sila ouier. & cata si fuer aq<ue>l
 grado en los signos septe<n>trionales. & a<n>nade
 la declinacion sobrela altura dela cabeça de Aries.
@@ -27615,7 +27615,7 @@ cho del dia daq<ue>l grado o daq<ue>lla estrella. & men-
 gua ell archo del dia de .ccc. & lx. & fincara ell ar-
 cho dela noche. {RUB. Cap<ito>lo .Lxj<<o>>. De saber la ladeza
 dela uilla por la a<n>chura de orie<n>te de q<u><<a>>l g<r><<a>>do quier +}
-{IN3.} Si esto quisieres saber; faz se-nnal ¶2 {RUB. delos signos.}
+{IN3.} Si esto quisieres saber; faz se-nnal %2 {RUB. delos signos.}
 en la armella dell orizon sobrela
 anchura oriental daq<ue>l grado. & sabe otro-
 ssi su declinacio<n>. & muda la sennal dell orizon
@@ -27652,7 +27652,7 @@ logar dela estrella delos signos en lo<n>gura. & cata
 otrossi do cayer la axataba; & esso sera so ladeza
 en aq<ue>lla parte do cayo. {RUB. Cap<ito>lo .Lxiij<<o>>. De saber a
 q<u><<a>>ntas horas suura o se porna q<u><<a>>l estrella q<u><<i>>er de-las +}
-{IN3.} Si esto quisieres saber; pon ¶2 {RUB. sabudas.}
+{IN3.} Si esto quisieres saber; pon %2 {RUB. sabudas.}
 la armella menor del rectificar sobrel gra-
 do dela estrella en la longura. & el forado de-
 la axataba; sobre su ladeza. & saca ell ascendente
@@ -28227,8 +28227,8 @@ alaux |
 el cerco del leuador}}
 {CB2.
 {RUB. Cap<itol><<o>> .vij<<o>>. De como se deue sen<n>alar el c<er>co de Mercurio +}
-{IN3.} Quando esto q<u><<i>>sieres fazer; ¶2 {RUB. & de como se deue +}
-saca la Lamina de Mercurio. & po<n> la ¶2 {RUB. p<ar>tir.}
+{IN3.} Quando esto q<u><<i>>sieres fazer; %2 {RUB. & de como se deue +}
+saca la Lamina de Mercurio. & po<n> la %2 {RUB. p<ar>tir.}
 de suso assi como feziste enlas otras. & faz}
 {CB2.
 sen<n>al en .xxiiij<<o>>. g<r><<a>>dos de libra. & pon la regla sobrel
@@ -28461,8 +28461,8 @@ espandidos. & a meses. & a dias. & a horas. assi co-
 mo lo ueras figurado en este cap<ito>lo .xij<<o>>.}
 {CB2.
 {RUB. Cap<itol><<o>> .xij<<o>>. De como deue<n> sen<n>alar los c<er>cos q<ue> caen en +}
-{IN3.} Qua<n>do q<u><<i>>sieres faz<er> ¶2 {RUB. cadauna destas .vij. lami-nas. +}
-la tabla delos mouimie<n>tos del ce<n>tro ¶2 {RUB.}
+{IN3.} Qua<n>do q<u><<i>>sieres faz<er> %2 {RUB. cadauna destas .vij. lami-nas. +}
+la tabla delos mouimie<n>tos del ce<n>tro %2 {RUB.}
 & dell argume<n>to; faz e<n>trel c<er>co del leuador
 & e<n>trel c<er>co q<ue> es en so derecho; q<u><<a>>tro c<er>cos q<ue> p<ar>ta<n> la so-
 brefaz q<ue> es e<n>tre dos c<er>cos sobredichos; por ci<n>co p<ar>tes
@@ -28480,8 +28480,8 @@ collectos | Annos espandidos | Los meses | Los dias | Las horas}}
 {RUB. Cap<itol><<o>> .xiij<<o>>. De como se deue<n> poner los auxes. & las
 cabeças. & las colas. & en las moradas q<ue> faz cada
 planeta. & deue<n> los escreuir en cadauna delas Lami-nas +}
-{IN3.} Sabe q<ue> los auxes q<ue> son pues-tos ¶2 {RUB. ap<ar>tadamie<n>-tre. +}
-en este cap<ito>lo; son puestos al anno d<e> ¶2 {RUB.}
+{IN3.} Sabe q<ue> los auxes q<ue> son pues-tos %2 {RUB. ap<ar>tadamie<n>-tre. +}
+en este cap<ito>lo; son puestos al anno d<e> %2 {RUB.}
 .cccc. & .xvj. dela era delos alaraues. & a mes-
 ter de annader sobre cadauno dellos; un grado a ca-
 da .lxviij. a<n>nos lunares passados desta era sobredi-
@@ -28513,8 +28513,8 @@ rada de ven<us>; v. signos. & xiiij. g<r><<a>>dos. Et la segu<n>da; vj.
 signos. & xvj. g<r><<a>>dos. ¶ La p<r><<i>>m<er>a morada de Mercurio; iiij.
 signos. & xvj. grados. Et la segu<n>da; vij. signos. & xiiij.
 grados. {RUB. Cap<itol><<o>> .xiiij<<o>>. De mostrar por q<ue> fiziero<n> estos fe-chos +}
-{IN3.} Sabe q<ue> esto q<ue> auemos dicho ¶2 {RUB. assi como es di-cho. +}
-q<ue> despues q<ue> ouiemos fecho el cerco leuador ¶2 {RUB.}
+{IN3.} Sabe q<ue> esto q<ue> auemos dicho %2 {RUB. assi como es di-cho. +}
+q<ue> despues q<ue> ouiemos fecho el cerco leuador %2 {RUB.}
 de cada planeta; q<ue> no<n> era mester de fazer el
 cerco q<ue> es en so derecho. mas fiziemos lo por q<ue>lo auiemos
 mester en dos cosas. ¶ La p<r><<i>>mera es; por q<ue> auia de fi<n>-
@@ -28809,7 +28809,7 @@ uir los nombres delos signos; dela linna que
 passo por el colgadero. & auras el cerco delos si-
 gnos presto; pora lo q<ue>lo ouieres mester adela<n>-
 tre. {RUB. Cap<itol><<o>> .ij<<o>>. Delos logares de los auxes delas +}
-{IN3.} Quando esto quisieres fazer; po<n> ¶2 {RUB. planetas.}
+{IN3.} Quando esto quisieres fazer; po<n> %2 {RUB. planetas.}
 la regla sobrel centro dela lamina. & so-
 bre .xx. partes de Gemini; & l. menudos
 do es ell alaux de ven<us> en este n<uest>ro tie<m>po assi co-
@@ -29264,7 +29264,7 @@ Taurus |
 Gemini}}
 {CB2.
 {RUB. Cap<ito>lo .x<<o>>. De como deue<n> sen<n>alar los cercos delos +}
-{IN3.} Quando esto quisieres fazer; faz ¶2 {RUB. peciclos.}
+{IN3.} Quando esto quisieres fazer; faz %2 {RUB. peciclos.}
 una lamina delgada. & aya en so medio
 diametro; xxxiij. partes & .x. menudos. &
 es la q<u><<a>>ntidat del medio diametro del peciclo de Mars.
@@ -29694,7 +29694,7 @@ Scorpius |
 [*Sagita<rius>]}}
 {CB2.
 {RUB. C<apitol><<o>> .iiij<<o>>. De como se deue<n> sen<n>alar los meses romanos en +}
-{IN3.} Qua<n>do esto q<u><<i>>sieres fazer; cata alas ¶2 {RUB. la corredera.}
+{IN3.} Qua<n>do esto q<u><<i>>sieres fazer; cata alas %2 {RUB. la corredera.}
 p<ar>ticiones delos signos q<ue> fuero<n> p<ar>tidos por la decli-
 nacio<n> a .xix. p<ar>tes de piscis. & faz en el sen<n>al enla
 corredera. & desi po<n> la regla sobre aq<ue>lla sen<n>al & sobrel ce<n>-tro.}
@@ -29769,7 +29769,7 @@ Deziembre}}
 {HD. DEL QVADRANTE}
 {CB2.
 {RUB. C<apitol><<o>> .v<<o>>. De como se deue poner el filo a q<ue> dize<n> ell alhi-dada +}
-{IN3.} Si esto q<u><<i>>sieres fazer; forada ¶2 {RUB. en el q<u><<a>>dra<n>te.}
+{IN3.} Si esto q<u><<i>>sieres fazer; forada %2 {RUB. en el q<u><<a>>dra<n>te.}
 enel pu<n>to de .a. el q<ue> es el ce<n>tro del q<u><<a>>dra<n>te; un
 forado menudo. & po<n> en el un filo. & sea su lo<n>gu-
 ra mas de una delas dos lin<n>as q<ue> a cerca<n> ell a<n>gulo de
@@ -29810,7 +29810,7 @@ Nouembre |
 Dezembre}}
 {CB2.
 {RUB. Cap<ito>lo .vj<<o>>. De como deue<n> sen<n>alar en el q<u><<a>>dra<n>te las ho-ras +}
-{IN3.} Quando esto quisieres fazer; saca ¶2 {RUB. te<m>porales.}
+{IN3.} Quando esto quisieres fazer; saca %2 {RUB. te<m>porales.}
 el filo sobre .xv. grados delos del quadra<n>te. & ca-
 ta do se taia con la faz de suso del cerco q<ue> es de
 dentro dela faz de yuso dela corredera. & faz y sen<n>al.
@@ -30007,7 +30007,7 @@ la sombra co<n>uersa |
 la sombra espandida}}
 {CB2.
 {RUB. Cap<ito>lo .viij<<o>>. De como se deue poner el demostrador +}
-{IN3.} Quando esto quisieres faz<er>; ¶2 {RUB. en ell alhidada.}
+{IN3.} Quando esto quisieres faz<er>; %2 {RUB. en ell alhidada.}
 mete enel filo un grano foradado muy peq<ue>-
 no. de vidro o de laton o delo q<ue> te semeiare. de
 guisa que ayas poder de leuarlo sobrel filo de cabo
@@ -30045,7 +30045,7 @@ los signos
 de yuso}}
 {CB2.
 {RUB. Cap<ito>lo .iiij<<o>>. De sab<er> la altura del sol por las horas pas-sadas +}
-{IN3.} Quando esto quisieres saber; m<u>l-tiplica ¶2 {RUB. del dia.}
+{IN3.} Quando esto quisieres saber; m<u>l-tiplica %2 {RUB. del dia.}
 las horas te<m>porales q<ue> passaron en los
 tiempos de una hora te<m>poral daq<ue>l dia. & lo q<ue>
 se ayuntar. guardalo. & nombralo la longura suel-
@@ -30065,7 +30065,7 @@ esso sera la altura del sol a[ ]aq<ue>lla hora q<ue> q<ue>siste saber.
 Et en el cap<ito>lo .vj<<o>>. fallaras tabla delas cuerdas & de
 los archos con q<ue> puedes sacar los signos & las saeta<<s>>
 sobredichas en este cap<ito>lo. {RUB. Cap<itol><<o>> .v<<o>>. De sab<er> la so<m>bra espa<n>-dida +}
-{IN3.} Si esto quisieres saber; en-tra ¶2 {RUB. por la altura.}
+{IN3.} Si esto quisieres saber; en-tra %2 {RUB. por la altura.}
 con la altura del sol en las reglas delas tablas}
 [fol. 172v]
 {HD. PRIMERO LIBRO +}
@@ -30143,7 +30143,7 @@ el sino | grados | Menudos}}
 {RUB. Cap<ito>lo .vij<<o>>. De saber como se deue fazer la piedra
 & de como deuen sacar en ella los dos puntos de
 oriente & de occidente. & los dos pu<n>tos de Septe<n>tri-on +}
-{IN3.} Si esto quisieres saber; to-ma ¶2 {RUB. & de medio dia.}
+{IN3.} Si esto quisieres saber; to-ma %2 {RUB. & de medio dia.}
 una piedra que aya su faz bien ygual.
 & sea tan ancha como los dos tercios de su
 longura. & parte su longura por medio. & saca den-
@@ -30654,7 +30654,7 @@ se deue co<m>partir por las horas del dia en este relogio.
 {IN1.} Capitolo segundo. De saber quamanna deue se-
 er la tinaia donde corre ell agua.
 {IN1.} Cap<ito>lo .iij<<o>>. De como se deue<n> faz<er> los canutos en esta ti-naia.
-{IN1.} Cap<ito>lo .iiij<<o>>. De como deuen fazer fuera ¶2
+{IN1.} Cap<ito>lo .iiij<<o>>. De como deuen fazer fuera %2
 dela tinaia un logar en que q<ue>pa agua poca. & q<ue> sea
 toda uia lleno de agua. & q<ue> maguer tomen della q<u><<a>>n-
 ta q<u><<i>>er; no<n> me<n>guara por ello. & dize<n> le la fuente.
@@ -30694,7 +30694,7 @@ el demostrador en este relogio.}
 {CB2.
 {IN1.} Cap<itol><<o>> .xxi<<o>>. De saber unas cosas q<ue> son de q<u><<a>>druuio. &
 de naturas. por q<ue>las a muy mester el q<ue> q<u><<i>>sier faz<er> el
-{IN1.} Cap<ito>lo .xxij<<o>>. De como se deue guardar ¶2 relogio.
+{IN1.} Cap<ito>lo .xxij<<o>>. De como se deue guardar %2 relogio.
 ell agua que an de poner en este relogio.
 {RUB. Cap<ito>lo .j<<o>>. De saber como pesan ell agua & de como
 se deue co<m>partir por las horas del dia en este relogio.}
@@ -30728,7 +30728,7 @@ seas bie<n> sotil en este fecho. {RUB. Et esta es su figura.}
 {HD. DEL RELOGIO DEL AGVA}
 {CB2.
 {RUB. Cap<ito>lo .ij<<o>>. De sab<er> q<u><<a>>manna deue a seer la tinaia do<n>de +}
-{IN3.} Si esto quisieres fazer; toma ¶2 {RUB. corre ell agua.}
+{IN3.} Si esto quisieres fazer; toma %2 {RUB. corre ell agua.}
 una caldera de arambre o de plomo o de esta-
 nno. o de qual metal quisieres. & sea fondido
 o bien batido con el martiello o de guisa q<ue> non pueda
@@ -30742,7 +30742,7 @@ fembra. por tal q<ue> se auenga bien la soldadura en
 el. {RUB. Et esta es la su figura.}
 {=DIAG.}
 {RUB. Cap<ito>lo .iij<<o>>. De como se deue<n> faz<er> los canutos en es-ta +}
-{IN3.} Quando esto quisieres fazer; faz ¶2 {RUB. tinaia.}
+{IN3.} Quando esto quisieres fazer; faz %2 {RUB. tinaia.}
 un canuto cerrado todo en derredor & abier-
 to en ambos los cabos. & sea tan luengo; co-
 mo del cobertero fatal fondon dela tinaia menos
@@ -31042,7 +31042,7 @@ de salir ninguna dellas dela cauadura. fora ende
 por el logar do entra q<ue> es de cuesta. {RUB. Et esta es la fig<ur>a.}
 {=DIAG.}
 {RUB. Cap<ito>lo .ix<<o>>. De saber como se deue poner el leuador +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. en el recebidor.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. en el recebidor.}
 pon sobre ambas las fazes dela tabla la
 primera & la segunda paper blanco & cla-
 ro pegado con engrud. & non entre dello ninguna
@@ -31427,7 +31427,7 @@ sa. si no<n> la tabla qua<n>do suuier. no<n> mas. & desta ma-
 nera pareçra el relogio mas fremoso q<u><<a>>ndo fueren
 ascondidos todos sus engennos. {RUB. Cap<ito>lo .xxij<<o>>. De
 como se deue guardar ell agua q<ue> an de poner en +}
-{IN3.} Sabe q<ue> ell agua del relogio; a ¶2 {RUB. este relogio.}
+{IN3.} Sabe q<ue> ell agua del relogio; a %2 {RUB. este relogio.}
 mester q<ue> sea muy clara. por tal q<ue> se non
 cierre el forado peq<ue>nno q<ue> es en el fondon de-
 la pila dela tinaia por do sale ell agua. & por esso
@@ -31497,7 +31497,7 @@ en qual hora quier de dia o denoche.
 {IN1.} Cap<ito>lo .xv<<o>>. De sab<er> como puede ell o<m>bre rectificar
 co<n> este relogio maguer q<ue> no<n> sea suelto pora mouer se.
 {RUB. Cap<ito>lo .j<<o>>. De como deuen no<m>brar los no<m>bres q<ue> an en +}
-{IN6.} Los nombres q<ue> a ¶2 {RUB. este estrume<n>te[.]}
+{IN6.} Los nombres q<ue> a %2 {RUB. este estrume<n>te[.]}
 en este relogio; son estos q<ue> te yo
 agora dire. el p<r><<i>>mero dellos; es la
 tinaia do ponen ell agua q<ue> corre
@@ -31608,7 +31608,7 @@ aq<ue>l dia. Et si posieres ell alhidada sobrel grado del
 sol en los signos assi como te ma<n>de en el cap<ito>lo q<ue> es an-
 te deste; auras el g<r><<a>>do dela declinacio<n>. {RUB. Cap<ito>lo .iiij<<o>>. De sab<er>
 la declinacio<n> del sol por saber el dia del mes romano & +}
-{IN2.} Quando esto q<u><<i>>sieres saber; pon ell alhida-da ¶2 {RUB. so co<n>uerso.}
+{IN2.} Quando esto q<u><<i>>sieres saber; pon ell alhida-da %2 {RUB. so co<n>uerso.}
 sobrel dia daq<ue>l mes romano assi como te ma<n>de}
 {CB2.
 en el cap<ito>lo .ij<<o>>. Et cata q<u><<a>>l grado dela tabla dela declina-
@@ -31618,7 +31618,7 @@ da sobrela declinacio<n> del sol en la tabla de suso & en la
 de yuso; cata lo q<ue> cayer so ella del dia delos meses roma-
 nos. & aq<ue>llo sera lo que q<ue>siste saber. {RUB. Cap<itol><<o>> .v<<o>>. De sab<er> co-
 mo deue<n> poner en la tabla semeia<n>te en q<u><<a>>l g<r><<a>>do delos si-gnos +}
-{IN3.} Si esto q<u><<i>>sieres sab<er>; saca en q<u><<a>>l grado ¶2 {RUB. es el sol.}
+{IN3.} Si esto q<u><<i>>sieres sab<er>; saca en q<u><<a>>l grado %2 {RUB. es el sol.}
 delos signos es el sol aq<ue>l dia con qual carrera
 quier destas sobredichas. & desi cata en los sig<n><<o>>s
 q<ue> son en la cauadura do es ell ascendente. & faz sennal
@@ -31645,7 +31645,7 @@ sado delas horas yguales daq<ue>l dia. & si ouier algo de-
 mas de horas co<m>plidas; sabelo en los grados dell ygua-
 dor del dia. & auras horas yguales & sos partes. {RUB. Cap<itol><<o>>.
 vij<<o>>. De sab<er> q<u><<a>>ntas horas te<m>porales passaro<n> del dia o dela +}
-{IN3.} Si esto quisieres saber; pon ell alhidada so-brel ¶2 {RUB. noche.}
+{IN3.} Si esto quisieres saber; pon ell alhidada so-brel %2 {RUB. noche.}
 grado del sol assi como te ma<n>de en el p<r><<i>>mero
 cap<ito>lo desta parte. & faz sen<n>al en la faz do son
 las horas en el logar do se ayuntan ell alhidada con el
@@ -31672,7 +31672,7 @@ dar destos otros grados segu<n>dos. & toma essa p<ro>porcion
 de .lx. & seran horas demas delas horas complidas
 q<ue> ante ouiste. & auras lo q<ue> passo daq<ue>l dia de horas
 te<m>porales & sos menudos. {RUB. Cap<itol><<o>> .viij<<o>> De sab<er> ell archo +}
-{IN3.} Quando esto q<u><<i>>sieres saber; ¶2 {RUB. del dia & dela noche.}
+{IN3.} Quando esto q<u><<i>>sieres saber; %2 {RUB. del dia & dela noche.}
 pon ell alhidada sobrel dia en q<ue> estas. assi co-
 mo te mostre en el cap<ito>lo segu<n>do. Et despues
 pon la fin dela hora dozena te<m>poral daq<ue>l dia sobrel
@@ -31716,7 +31716,7 @@ q<ue> ell opposito daq<ue>l signo o daq<ue>llos g<r><<a>>dos a pon en si toda
 uia co<n> tantos g<r><<a>>dos como estos souimie<n>tos q<ue> te saliero<n> en
 ell ascende<n>te. {RUB. Cap<itol><<o>> .xij<<o>>. D<e> sab<er> co<n> q<u><<a>><n>tos g<r><<a>>dos dell yg<u><<a>>dor
 del dia passa q<u><<a>>l signo q<u><<i>>er o q<u><<a>>les p<ar>tes q<u><<i>>er por mediol +}
-{IN3.} Si esto q<u><<i>>sieres saber; faz aq<u><<i>> assi como fe-ziste ¶2 {RUB. cielo.}
+{IN3.} Si esto q<u><<i>>sieres saber; faz aq<u><<i>> assi como fe-ziste %2 {RUB. cielo.}
 enel cap<ito>lo q<ue> es ante deste en los souimie<n>-
 tos dell ascende<n>te. & no<n> desuies de<n>de en ni<n>guna
 cosa. ca este fecho de a<m>bos estos cap<ito>los; es uno. & lo q<ue> te
@@ -31739,7 +31739,7 @@ lla q<ue> suue aaq<ue>lla hora. & cata otrossi la q<ue> es en la .x<<a>>. ca-
 sa; & essa es en mediol cielo. & la q<ue> fuer en la setena; essa
 es la q<ue> se pone en aq<ue>lla [^ho<r><<a>>]. {RUB. C<apitol><<o>> .xv<<o>>. De sab<er> como puede ell om-
 bre rectificar co<n> este relogio maguer q<ue> no<n> sea suelto po-ra +}
-{IN3.} Qua<n>do esto q<u><<i>>sieres sab<er> & te acaecier al-guna ¶2 {RUB. mouer se.}
+{IN3.} Qua<n>do esto q<u><<i>>sieres sab<er> & te acaecier al-guna %2 {RUB. mouer se.}
 nasce<n>cia o alguna dema<n>da & fizier nuulado
 aq<ue>lla hora. & el relogio no<n> for suelto pora mouer se a<n>te
 desto. & q<u><<i>>sieres sab<er> q<ue> es ell asce<n>de<n>te aaq<ue>lla hora; faz sen<n>al so-
@@ -31755,7 +31755,7 @@ en la tabla semeia<n>te en el g<r><<a>>do q<ue> es co<n> el c<er>co dell orizo<n
 g<r><<a>>dos dell yg<u><<a>>dor del dia. & me<n>guala p<r><<i>>ma sen<n>al dela segu<n>da.
 & lo q<ue> fi<n>car; me<n>g<u><<a>>lo delas asce<n>siones q<ue> te ma<n>de g<u><<a>>rdar. & fi<n>-
 car ta<n> las asce<n>siones dela ho<r><<a>> dela nasce<n>cia o dela dema<n>da &
-sabras por ellas ell asce<n>de<n>te & las .xij. casas. {RUB. Aq<u><<i>> se acaba este ¶2 libro.}}
+sabras por ellas ell asce<n>de<n>te & las .xij. casas. {RUB. Aq<u><<i>> se acaba este %2 libro.}}
 [fol. 185r]
 {HD. L<IBRO> DEL RELOGIO DEL ARGENT VIVO}
 {CB2.
@@ -31799,7 +31799,7 @@ emo deuen fazer de nueuo este estrumente. Et
 enel seseno de cuemo deuen obrar con el. Et es-
 tas son las rubricas de cadauno de los cap<ito>los.
 {IN1.} Cap<ito>lo .j<<o>>. de cuemo se deue faz<er> el cerco dell arge<n>t
-{IN1.} Cap<ito>lo .ij<<o>>. de cuemo se deue partir esta ¶2 uiuo.
+{IN1.} Cap<ito>lo .ij<<o>>. de cuemo se deue partir esta %2 uiuo.
 canal. & en quantas partes.
 {IN1.} Cap<ito>lo .iij<<o>>. de cuemo se deue componer el cerco
 de la madre enel cerco mouedor.
@@ -31809,11 +31809,11 @@ za quier. una buelta en un dia. & una noche.}
 {CB2.
 {IN1.} Cap<ito>lo .v<<o>>. de cuemo se deue fazer la rueda con
 q<ue> an de tanner las campaniellas ala hora q<ue>
-{IN1.} Cap<ito>lo .vj<<o>>. de cuemo ¶2 el huembre quisier.
+{IN1.} Cap<ito>lo .vj<<o>>. de cuemo %2 el huembre quisier.
 deuen armar este relogio. & de cuemo deuen obr-
 (br)ar con el. {RUB. Cap<ito>lo .j<<o>>. de cuemo se deue fazer el
-¶2 cerco dell argent ui-uo. +}
-{IN8.} Sj esto quisieres fa-zer. ¶2 {RUB.}
+%2 cerco dell argent ui-uo. +}
+{IN8.} Sj esto quisieres fa-zer. %2 {RUB.}
 toma una tabla fu-
 erte. assi cuemo de nogal.
 o de açofeyfe. & faz della
@@ -32118,7 +32118,7 @@ uer la red. {RUB. Aqui se acaba el libro del relogio dell
 argent uiuo.}}
 {CB2.
 {RMK: HSMS-0053-0014: Libro del reloj de la candela.} {RUB. Este es el prologo del libro del relogio de la can-dela. +}
-{IN7.} OTra manera fallamos ¶2 {RUB.}
+{IN7.} OTra manera fallamos %2 {RUB.}
 de relogio q<ue> es muy buena. et
 muy conuenible pora poner
 eneste libro. & dizen a este es-
@@ -32134,19 +32134,19 @@ Mandamos a samuel el leui de Toledo n<uest>ro iudj-
 o q<ue> fiziesse este libro en q<ue> fabla de cuemo se deue
 fazer este relogio. & de cuemo deuen obrar con el.
 Et a enel .xiiij. cap<ito>los. Et estas son las rubrica<<s>>
-{IN1.} Cap<ito>lo primero. De cuemo se deue ¶2 dellos.
+{IN1.} Cap<ito>lo primero. De cuemo se deue %2 dellos.
 fazer la forma en q<ue> deue seer la candela.
 {IN1.} Cap<ito>lo .ij<<o>>. de cuemo se deue fazer la cabeça de-sta
-{IN1.} Cap<ito>lo .iij<<o>>. de cuemo se deue faz<er> ¶2 forma.
+{IN1.} Cap<ito>lo .iij<<o>>. de cuemo se deue faz<er> %2 forma.
 la casa quadrada en q<ue> a de entrar la tabla de los
-{IN1.} Cap<ito>lo .iiij<<o>>. De cuemo se deue fazer el ¶2 signos.
+{IN1.} Cap<ito>lo .iiij<<o>>. De cuemo se deue fazer el %2 signos.
 fondon sobre q<ue>s assienta la forma. & la casa qua-
 drada de los signos. & de cuemo se deue fazer o-
 tra tabla q<ue> lo tenga todo en la parte de suso.
 {IN1.} Cap<ito>lo .v<<o>>. de cuemo se deuen fazer las sortijas
 con q<ue> se redondee bien cierto la candela.
 {IN1.} Cap<ito>lo .vj<<o>>. De cuemo se deue fazer la candela de
-{IN1.} Cap<ito>lo .vij[<<o>>]. De cuemo se deue fazer ¶2 la cera.
+{IN1.} Cap<ito>lo .vij[<<o>>]. De cuemo se deue fazer %2 la cera.
 el (^el) fondon de laton en q<ue>s assiente la candela.
 {IN1.} Cap<ito>lo .viij[<<o>>]. De cuemo se deuen fazer los pesos q<ue>
 deuen seer en esta forma.
@@ -32155,9 +32155,9 @@ con el fondon de laton q<ue> lieua la candela.
 {IN1.} Cap<ito>lo .x<<o>>. De cuemo se deuen fazer los dos clauos
 q<ue> deuen tener la candela en un estado.
 {IN1.} Cap<ito>lo .xj<<o>>. De cuemo se deue fazer la tabla de los
-{IN1.} Cap<ito>lo .xij[<<o>>]. De cuemo deuen armar la ca<n>-dela ¶2 signos.
+{IN1.} Cap<ito>lo .xij[<<o>>]. De cuemo deuen armar la ca<n>-dela %2 signos.
 pora quemar. & cuemo deuen poner la tabla
-{IN1.} Cap<ito>lo .xiij[<<o>>]. De cuemo deuen par-tir ¶2 de los signos.
+{IN1.} Cap<ito>lo .xiij[<<o>>]. De cuemo deuen par-tir %2 de los signos.
 la tabla de los signos. & figurar la.
 {IN1.} Cap<ito>lo .xiiij<<o>>. De saber las horas yguales q<ue> son
 passadas de la noche. & ell ascendente. & el medio
@@ -32190,7 +32190,7 @@ guna. & otrossi faras de las otras tres reglas q<ue>
 fincaron; otra casa quadrada enell otro lado de
 la forma en derecho de la otra casa q<ue> auies fech<a>
 enell otro lado. {RUB. Et esta es su figura desto q<ue> auemo<<s>> +}
-¶2 {RUB. dicho.}
+%2 {RUB. dicho.}
 {=DIAG.}}
 {CB2.
 {=DIAG.}}
@@ -32344,7 +32344,7 @@ te. ta<n>manna cuemo la dell azero.
 {RUB. Et esta es la figura desto q<ue> auemos dicho.}
 {=DIAG.}
 {RUB. Cap<ito>lo .vj<<o>>. De cuemo se deue faz<er> la candela dela +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. cera.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. cera.}
 faz una candela de cera limpia tan
 gorda como quisieres. & sea poco mas
 corta q<ue> la forma. & el pauil sea comunal degui-
@@ -32438,7 +32438,7 @@ la. & sean las cabeças destos clauos redondas.
 {RUB. Et esta es la figura desto q<ue> auemos dicho.}
 {=DIAG.}
 {RUB. Capitulo .xj<<o>>. De cuemo se deue fazer la tabla de +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. los signo<<s>>.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. los signo<<s>>.}
 faras una tabla delgada deguisa q<ue> pue-
 da andar en las cauaduras que feziste
 en las dos tablas de la casa quadrada. & que cor-
@@ -32508,7 +32508,7 @@ tabla quando fuere passada.
 {CB2.
 {RUB. Cap<ito>lo .xiij<<o>>. De cuemo deuen partir la tabla
 de los signos. & figurar la en la tabla de los +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. signos.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. signos.}
 parte lo q<ue> a entre la linna del comença-
 mie<n>to. & la linna del complimiento. por
 ccc. & .lx. partes yguales o por menos; si rec-
@@ -32542,7 +32542,7 @@ fecho; auras co<m>plido el relogio de la candela.
 {CB2.
 {RUB. Cap<ito>lo .xiiij<<o>>. De saber las horas yguales q<ue> son
 passadas de la noche. & ell ascendente & el me-dio +}
-{IN3.} Quando esto quisieres ¶2 {RUB. cielo.}
+{IN3.} Quando esto quisieres %2 {RUB. cielo.}
 saber; si de dia accendieres la candela
 pon el logar del Sol en derecho de la pri-
 mera hora en aquel signo en q<ue> esta(. el)(^l opposi-
@@ -32560,7 +32560,7 @@ guales. & lo q<ue> fuer; esso sera lo q<ue> es passado de<<s>>-
 sa hora q<ue> falleste.
 {RMK: HSMS-0053-0015: Libro del reloj del palacio de las horas.} {RUB. Este es el prologo del libro primero en q<ue> fa-
 bla de cuemo deuen fazer el palacio de las ho-ras. +}
-{IN7.} Dicho auemos ya de ¶2 {RUB.}
+{IN7.} Dicho auemos ya de %2 {RUB.}
 co<m>mo se fazen los relogios
 et de co<m>mo deuen obrar con
 ellos. Agora q<ue>remos most<r><<a>>r
@@ -32583,14 +32583,14 @@ son las sus rubricas.
 zontes enel suelo del palacio.
 {IN1.} Cap<ito>lo .ij<<o>>. De co<m>mo se deuen sacar los zontes
 de las horas de la cabeça de cancer. & de la cabe-ça
-{IN1.} Cap<ito>lo .iij<<o>>. De cuemo se deue ¶2 de capricorn<i><<o>>.
+{IN1.} Cap<ito>lo .iij<<o>>. De cuemo se deue %2 de capricorn<i><<o>>.
 fazer un quarto de cerco con q<ue> saquen las altu-
 ras de las horas eneste estrumente.}
 {CB2.
 {IN1.} Cap<ito>lo .iiij<<o>>. De co<m>mo se deuen fazer los demostra-
 dores de las horas. & sus linnas.
 {IN1.} Cap<ito>lo .v<<o>>. De co<m>mo se deue complir. & acabar el pa-lacio.
-{IN1.} Cap<ito>lo .vj<<o>>. De co<m>mo se deue<n> poner las ta-blas ¶2
+{IN1.} Cap<ito>lo .vj<<o>>. De co<m>mo se deue<n> poner las ta-blas %2
 de las horas.
 {IN1.} Cap<ito>lo .vij<<o>>. De co<m>mo se deuen fazer las cerradu-
 ras de las horas. & de co<m>mo se deuen abrir las .xij.
@@ -32621,7 +32621,7 @@ los zontes en los quatro puntos. Et esta es su fig<ur>a.
 {CB2.
 {RUB. Cap<ito>lo .ij<<o>>. De cuemo se deuen sacar los zontes de
 las horas de la cabeça de cancer. & de la cabeça de ca-pricornio[.] +}
-{IN3.} Quando esto quisieres saber; ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; %2 {RUB.}
 sabe el zonte de la primera hora de la cabe-
 ça de capricornio. & faz se<n>nal enel cerco de
 los zontes en aq<ue>l zonte mismo. Et esso mismo
@@ -32642,7 +32642,7 @@ Septentrion |
 occide<n>te}
 {RUB. Cap<ito>lo .iij<<o>>. De co<m>mo se deue fazer un quarto de
 cerco con q<ue> saquen las alturas de las horas eneste +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. estrume<n>te.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. estrume<n>te.}
 faz un quarto de cerco q<ue> sea ta<n>manno
 co<m>mo el quarto del cerco de los zontes. &
 parte lo por .xc. partes assi cuemo es partido
@@ -32736,7 +32736,7 @@ orie<n>te |
 Septentrion |
 occide<n>te}
 {RUB. Cap<ito>lo .v<<o>>. de cuemo se deue complir. & acabar el +}
-{IN3.} Si esto quisieres fazer; faz uno<<s>> ¶2 {RUB. palacio.}
+{IN3.} Si esto quisieres fazer; faz uno<<s>> %2 {RUB. palacio.}
 pedaços de madero q<ue> entren en la forma del
 cerco de los zontes. & pon los entrell un de-
 mostrador. & ell otro fata q<ue> se cumpla el palacio
@@ -32771,7 +32771,7 @@ de figura de cerco. Et esto mismo faras con los
 {DIAG.}}
 {CB2.
 {RUB. Cap<ito>lo .vj[<<o>>]. De cuemo se deuen poner las tablas de +}
-{IN3.} Quando esto quisieres ¶2 {RUB. las horas[.]}
+{IN3.} Quando esto quisieres %2 {RUB. las horas[.]}
 fazer; faz tablas llanas de qual gor-
 dura quisieres. & sean todas tan gor-
 da la una co<m>mo la otra. & depues assierra a cer-
@@ -32839,10 +32839,10 @@ estras en el teiado del palacio.
 {IN1.} Cap<ito>lo .ij<<o>>. De co<m>mo deuen fazer los cercos de las
 horas. & de co<m>mo los deuen armar.
 {IN1.} Cap<ito>lo .iij<<o>>. De co<m>mo se deuen poner las linnas de las
-{IN1.} Cap<ito>lo .iiij<<o>>. De co<m>mo se deuen poner las ¶2 horas.
+{IN1.} Cap<ito>lo .iiij<<o>>. De co<m>mo se deuen poner las %2 horas.
 tablas de las horas.
 {IN1.} Cap<ito>lo .v[<<o>>]. De cuemo se deue armar el palacio de
-{RUB. Cap<ito>lo .j<<o>>. De co<m>mo deuen seer fechas las +} [¶2] las horas.
+{RUB. Cap<ito>lo .j<<o>>. De co<m>mo deuen seer fechas las +} [%2] las horas.
 {RUB. .xij. siniestras enel teiado del palacio.}
 {IN7.} Quando esto quisieres fazer; faz
 un palacio quadrado bien cier-
@@ -32911,7 +32911,7 @@ mostradores de la cabeça de capricornio. & de la cabe-
 ça de cancer. {RUB. Et esta es su figura.}
 {=DIAG.}
 {RUB. Cap<ito>lo .iij<<o>>. De co<m>mo se deuen poner las linnas de +}
-{IN3.} Quando esto quisieres fazer; ¶2 {RUB. las horas.}
+{IN3.} Quando esto quisieres fazer; %2 {RUB. las horas.}
 sabe las alturas de los començamientos
 de las horas de la cabeça de capricornio et
 de cancer. & guarda las. Et desi pon el quarto del
@@ -32944,7 +32944,7 @@ cabeça de capricornio. {RUB. Et esta es su figura desto q<ue>
 dixiemos eneste cap<ito>lo.}
 {=DIAG.}
 {RUB. Cap<ito>lo .iiij<<o>>. De co<m>mo deue<n> poner las tablas de +}
-{IN3.} Si esto quisieres fazer; faz ¶2 {RUB. las horas.}
+{IN3.} Si esto quisieres fazer; faz %2 {RUB. las horas.}
 unas cauaduras a cerca de las linnas de
 las horas assi co<m>mo las feziste en los de-
 mostradores do entren las tablas de las horas.
@@ -33195,7 +33195,7 @@ uno dell un cabo. & ell otro dell otro.
 {RUB. Et esta es su figura de lo q<ue> dixiemos eneste cap<itol><<o>>.}
 {=DIAG.}
 {RUB. Cap<ito>lo .ix[<<o>>]. De saber las cosas con q<ue> se cu<m>ple este es-trume<n>te[.]}
-{IN3.} Si tu quieres q<ue> este estrumen-te ¶2 {RUB.}
+{IN3.} Si tu quieres q<ue> este estrumen-te %2 {RUB.}
 sea complido; faras en la segunda faz
 de la lamina; la faz dell astrolabio de ptho-
 lomeo la q<ue> es fecha sobre aq<ue>lla ladeza misma q<ue> fe-
@@ -33224,7 +33224,7 @@ te mostre; auras acabado estrumente.
 {IN1.} Aqui se compieça la segunda parte deste libro
 en q<ue> fabla de co<m>mo deuen obrar con este estrumen-
 te. Et a enella .ix. cap<ito>los. Et estas son sus robri-cas.
-{IN1.} Cap<ito>lo .j<<o>>. De saber co<m>mo se puede mudar la ¶2
+{IN1.} Cap<ito>lo .j<<o>>. De saber co<m>mo se puede mudar la %2
 estrella de la lamina uniu<er>sal all alhidada; quier
 sea de las fixas quier de las planetas.
 {IN1.} Cap<ito>lo .ij<<o>>. De co<m>mo deuen poner qual quier estrel-
@@ -33232,7 +33232,7 @@ la. o de las planetas. o de las fixas; en el cerco de lo<<s>>
 signos con el grado con q<ue> se acomedia el cielo.
 {IN1.} Cap<ito>lo .iij<<o>>. De saber qual grado de los signos sube
 enell orizon con qual estrella quier; et qual se po-ne
-{IN1.} Cap<ito>lo .iiij<<o>>. De saber quama<n>na ¶2 con ella.
+{IN1.} Cap<ito>lo .iiij<<o>>. De saber quama<n>na %2 con ella.
 es la longura del cerco temporal do es la estrella
 dalguno de los quatro angulos. & qual grado de lo<<s>>
 signos es el q<ue> se para con ella sobre aq<ue>l cerco. & los
@@ -33246,9 +33246,9 @@ nas. & a sos rayos.
 {IN1.} Cap<ito>lo .vij<<o>>. De saber co<m>mo fazen los echamientos
 de los rayos; segund la opinion de hermes.
 {IN1.} Cap<ito>lo .viij<<o>>. De co<m>mo se deue fazer ell athaçir retor-nado.
-{IN1.} Cap<ito>lo .ix<<o>>. De co<m>mo se deuen fazer en este es-trumente ¶2
+{IN1.} Cap<ito>lo .ix<<o>>. De co<m>mo se deuen fazer en este es-trumente %2
 las .xij. casas segund la opinio<n> de aben-mohat.
-{RUB. Cap<ito>lo .j<<o>>. De saber co<m>mo se deue mudar ¶2
+{RUB. Cap<ito>lo .j<<o>>. De saber co<m>mo se deue mudar %2
 la estrella de la lamina uniuerssal all alhadida.
 quier sea de las fixas quier de las planetas.}
 {IN6.} Quando esto quisieres fazer; pon la
@@ -33266,14 +33266,14 @@ ue el demostrador fata q<ue>lo pongas sobrel centro}
 daquella estrella. {RUB. Cap<ito>lo .ij<<o>>. De co<m>mo deuen poner
 qual quier estrella o de las planetas. o delas fi-
 xas; enel cerco de los signos con el grado con q<ue> se +}
-{IN3.} Si esto quisieres fazer; ¶2 {RUB. acomedia el cielo.}
+{IN3.} Si esto quisieres fazer; %2 {RUB. acomedia el cielo.}
 muda la estrella all alhadida. & cata qual
 grado de los signos cae so ell alhadida. en
 aq<ue>lla hora. & aq<ue>l sera el grado de los signos con q<ue> se
 acomedia aq<ue>lla estrella en mediol cielo. {RUB. Cap<ito>lo.
 iij<<o>>. De saber qual grado de los signos sube enell
 orizon con qual estrella quier. & qual se pone con +}
-{IN3.} Quando esto quisieres fazer; pon el ¶2 {RUB. ella.}
+{IN3.} Quando esto quisieres fazer; pon el %2 {RUB. ella.}
 demostrador en la ladeza daq<ue>lla estrella so-
 bre la alhidada. Et pon ell alhidada sobrel
 cerco de los signos sobrel grado con q<ue> se acomedia
@@ -33306,7 +33306,7 @@ ta qual grado dell yguador del dia cae sobre aq<ue>l cer-
 co; et aquel sera el sobimiento daq<ue>lla estrella sobre
 aquel cerco. {RUB. Cap<ito>lo .v<<o>>. De saber do es allegado ell a-
 tazir derecho en qual estrella quier. o de qual g<r><<a>>-do +}
-{IN3.} Quando esto quisieres saber; sa-be ¶2 {RUB. quier.}
+{IN3.} Quando esto quisieres saber; sa-be %2 {RUB. quier.}
 los sobimientos daq<ue>lla estrella. o daq<ue>l g<r><<a>>-
 do sobrel so cerco temporal. & guarda los. et
 sabe otrossi quantos annos passaron de la uida}
@@ -33338,7 +33338,7 @@ tia de los annos en q<ue> se allegara la estrella a q<ue> fa-
 zes ell ataçir ala otra estrella a q<ue> tu quieres leuar
 ell ataçir. {RUB. Cap<ito>lo .vij<<o>>. De saber co<m>mo fazen los echa-
 mientos de los rayos segund la opinion de her-mes[.]}
-{IN3.} Quando esto quisieres saber; sabe ¶2 {RUB.}
+{IN3.} Quando esto quisieres saber; sabe %2 {RUB.}
 el grado dell ascendent. & pon aq<ue>l grado so-
 brell orizon oriental. & sabe qual de los cer-
 cos temporales passa por la estrella q<ue> tu quieres

@@ -6012,7 +6012,7 @@ entre contaremos dunas cosas estra<n>nas que
 acaeciero<n> en sos tiempos. {RUB. Del fuego del mo<n>t
 ethna. & del fecho de la ysla Lipare en el con-
 sulado de los consules Marco emilio & lucio +}
-{IN5.} Andados de la puebla de ¶2 {RUB. orest.}
+{IN5.} Andados de la puebla de %2 {RUB. orest.}
 Roma seyscientos. & xxv. annos
 en el tiempo en q<ue> eran consules
 Marco emilio & lucio orest. estre-
@@ -7308,7 +7308,7 @@ est; mato el ende los .treinta e ocho mil. los
 otros fuxieron. e torno el la t<ier>ra al se<n>norio de
 los romanos e fuesse luego pora Roma.
 {RUB. De las conquistas q<ue> fizo Julio cesar e de es-pa<n>na +}
-{IN7.} TAnto tenie Julio ¶2 {RUB.}
+{IN7.} TAnto tenie Julio %2 {RUB.}
 cesar en coraçon de yr
 contra ponpeyo. q<ue> non
 cuydaua ueer ell ora que
@@ -10197,7 +10197,7 @@ en el sennorio unos empos otros.}
 {IN1.} Gayo sempronio tutidano.
 {IN1.} Marco atilio capiton.
 {IN1.} Scipion affricano la s<egund>a uez el q<ue> destruxo
-{IN1.} Marco emilio. ¶2 Çamora.
+{IN1.} Marco emilio. %2 Çamora.
 {IN1.} Lucio orest.
 {IN1.} Marcio plaucio.
 {IN1.} Marco fuluio flaco
@@ -18079,7 +18079,7 @@ emperador seuero.}
 {MIN: Space left for a miniature.}
 {RUB. Dell Jmperio de Seuero ell Emperador
 et luego delo del primero anno del su}
-¶2 {RUB. Regnado.}
+%2 {RUB. Regnado.}
 {IN6.} LVego q<ue> seuero ouo mu-
 erto a Juliano; finco ell
 apoderado de todo el sen-
@@ -19995,7 +19995,7 @@ aqui la estoria de fablar de Probo & cu-
 enta dell emp<er>ador Caro & de sos fijos q<ue>
 regnaron depues dell. {RUB. (Dell emperio de
 Caro. & de numeriano & de karino sus)}
-[¶2] {RUB. (fijos.)}
+[%2] {RUB. (fijos.)}
 {MIN: Space left for a miniature.}}
 {CB2.
 {RUB. Dell emperio de Caro & de Numeriano &

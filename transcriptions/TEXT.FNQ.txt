@@ -226,7 +226,7 @@ o. ¶ Otro si tal fu<er>o es de cas-
 tieyllo de Ricombre q<u><<o>>ando
 los padres no han sino .i. so-
 lo castieyllo. {RUB. De jurgar pre-sos}
-{IN4.} Establimos por fu<er>o que en [¶3]
+{IN4.} Establimos por fu<er>o que en [%3]
 ningu<n>a ecc<lesi>a p<r><<i>>ncipal de siet
 o de villa capdal en las .iij.
 pascoas de Nadal. & pascoa de
@@ -11640,7 +11640,7 @@ co<n> los nauarros & nauarros co<n>
 ¶ De la piticio<n> de la çeuada q<uo><<a>>nt<<a>> es
 ¶ De cena de salu<e>dat q<uo><<a>><n>t<<a>> deu<e> ser
 ¶ De los ifa<n>co<n>es q<ue> p<re>nde<n> uilla<n>os escu-(d)[s]ados.
-¶ De uilla<n>o q<ue> muere si<n> c<r><<i>>at<ur>a. ¶3
+¶ De uilla<n>o q<ue> muere si<n> c<r><<i>>at<ur>a. %3
 ¶ Del fu<er>o q<ue> ha el Rey co<n> los solarigos
 et los solarigos con el Rey.}
 {CB2.
@@ -11685,7 +11685,7 @@ el Rey. & Ric omne.
 ¶ De q<u><<i>> faz Ruedas.
 ¶ De fidalgo q<ue> mat<<a>> a ot<r><<o>> fidalgo
 ¶ De emie<n>da d<e> cau<<a>>yllo & d<e> Roci<n> & d<e>
-¶ De cau<<a>>yll<er>o filo d<e> villano. ¶3 lorig<<a>>
+¶ De cau<<a>>yll<er>o filo d<e> villano. %3 lorig<<a>>
 ¶ Del abbat q<ue> faz co<n>pras.
 ¶ De los q<ue> deue<n> ser deseredados.
 ¶ Titulos del segundo libro.
@@ -11702,16 +11702,16 @@ algu<n>os fuera del Regno.
 ¶ De biuda ifa<n>çon<<a>> q<ue> faz putage.
 ¶ De casamie<n>to de escossa
 ¶ De c<r><<i>>at<ur>a d<e> ifa<n>ço<n> feyta e<n> villan<<a>> q<ue> dio
-¶ De c<r><<i>>at<ur>as de ifa<n>ço<n>/ & de vil-lana ¶3 peyta
+¶ De c<r><<i>>at<ur>as de ifa<n>ço<n>/ & de vil-lana %3 peyta
 que no<n> dio peyta.
 ¶ De villano biudo
 ¶ De villana biuda
 ¶ De m<u>ll<e>r casada forçada d<e> o<mn>e solt<er>o
 ¶ De m<u>ll<e>r casada si fu<er>e co<n> plaze<n>t<er>ia
-¶ De villa<n>o q<ue> forç<<a>> a ifa<n>ço<n><<a>> ¶3 co<n> algu<n>o
+¶ De villa<n>o q<ue> forç<<a>> a ifa<n>ço<n><<a>> %3 co<n> algu<n>o
 ¶ De ifa<n>ço<n> q<ue> força a villana.
 ¶ De ifa<n>ço<n> q<ue> faz c<r><<i>>at<ur>as e<n> villan<<a>> casa-da
-¶ De fidalgo solt<er>o q<ue> faz c<r><<i>>at<ur>as ¶3
+¶ De fidalgo solt<er>o q<ue> faz c<r><<i>>at<ur>as %3
 en ifançona soltera.
 ¶ De q<u><<i>> força ifancona soltera.
 (¶ De q<u><<i>> forca ifançona soltera.)
@@ -11719,7 +11719,7 @@ en ifançona soltera.
 {CB2.
 ¶ De m<u>ll<e>r casada & om<n>e casado.
 ¶ De ifa<n>çon<<a>> blasmada q<ue> es casad<<a>> co<n>
-¶ De costeria. ¶3 villa<n>o
+¶ De costeria. %3 villa<n>o
 ¶ De fuerça de clerigo.
 ¶ De maleut<<a>> d<e> m<u>ll<e>r casada
 ¶ De m<u>ll<e>r q<ue> faz salu<<a>> por creatura.
@@ -11736,7 +11736,7 @@ en ifançona soltera.
 ¶ De om<n>e pendrado
 ¶ De arbor q<ue> e<n>barga issida d<e> villa
 ¶ De pare<n>tesco de auuelo & d<e> p<r><<i>>mo cor-mano
-¶ De co<n>ue<n>ie<n>ça d<e> .xl. aynnos. ¶3
+¶ De co<n>ue<n>ie<n>ça d<e> .xl. aynnos. %3
 ¶ De pesq<u><<i>>sa de tenie<n>ça.
 ¶ De apear casas/ & h<er>edades.
 ¶ De iudio muerto
@@ -11744,7 +11744,7 @@ en ifançona soltera.
 ¶ De pe<n>dra d<e> om<n>e d<e> comarca
 ¶ De clamos q<ue> ha el Rey del fidalgo
 ¶ De fidalgo q<ue> a cla<m>os d<e>l Rey por coyl-laços
-¶ De itados de tierra. ¶3
+¶ De itados de tierra. %3
 ¶ De buy furtado o pe<n>drado.
 ¶ De calo<n>ia de huerto çerrado
 ¶ De alcalde muerto
@@ -11823,7 +11823,7 @@ nos como deue<n> pagar.
 ¶ De <con>tie<n>da e<n>tre dos villas.
 ¶ Titulos del .iiij<<o>>. libro.
 {IN1.} DE fidalgo q<ue> dize a ot<r><<o>> q<ue> es fillo d<e> villa-no
-¶ De villa<n>o q<ue> a pad<r><<e>> o m<<a>>d<r><<e>> peyt<er>os ¶3
+¶ De villa<n>o q<ue> a pad<r><<e>> o m<<a>>d<r><<e>> peyt<er>os %3
 ¶ De costiero q<ue> p<re>nde ad alguno.}
 [fol. 86v]
 {CB2.
@@ -11832,7 +11832,7 @@ nos como deue<n> pagar.
 ¶ De acusar uno a otro.
 ¶ De calo<n>ia de villana casada
 ¶ De q<u><<i>> fiere a villa<n>o/ & le faz ma<n>ziey-lla
-¶ De uilla<n>o o uillana p<re>so en ¶3
+¶ De uilla<n>o o uillana p<re>so en %3
 adulterio
 ¶ De p<re>nder ganado a ma<n>ifiesto
 ¶ De q<u><<i>> p<re>nde cauayllo de otro.
@@ -11911,8 +11911,8 @@ ceba soldada
 ¶ De acaguerrico
 ¶ De basto
 ¶ De affonsadera [^2#fu<er>o d<e> uillanos]
-¶ De fu<er>o de molinos ¶2 [^2#& Ruedas]
-¶ De paredes de ¶2 [^2#torr leua<n>tar]
+¶ De fu<er>o de molinos %2 [^2#& Ruedas]
+¶ De paredes de %2 [^2#torr leua<n>tar]
 ¶ De caça de puerco mo<n>tes
 ¶ De caça de canes
 ¶ De toda caça [^2#de cepo]
@@ -11929,7 +11929,7 @@ ceba soldada
 ¶ De cauayllero
 ¶ De conoscer q<ue>madura de fierro
 ¶ De escudo/ & basto<n> bataylla
-¶ De dezmas ¶2 de p<e>ndrar a seynnor
+¶ De dezmas %2 de p<e>ndrar a seynnor
 ¶ De molino q<ue> fressa
 ¶ De aiudar a padre & madre
 ¶ De ferir a padre o a madre
@@ -12129,13 +12129,13 @@ ue seruir
 ¶ De iudicio d<e> Ruano q<ue> es uezi<n>o
 en villa.
 ¶ De las villas fazeras como d<e>ue
-¶ De fidalgo reptado e<n> cort. ¶2 pasc<er>.
+¶ De fidalgo reptado e<n> cort. %2 pasc<er>.
 [¶] De fidalgo q<ue> pelea co<n> su seynor.
 ¶ De como el Rey pued<e> dar s<us> yerm-os
-¶ De las villas reale<n>cas como ¶2
+¶ De las villas reale<n>cas como %2
 deue tocar a missa.
 ¶ Del abbat como d<e>u<e> s<er> nat<ur>al d<e>la vil-la
-¶ De e<n>trar oueyllas e<n> barueytos. ¶2
+¶ De e<n>trar oueyllas e<n> barueytos. %2
 ¶ De calcatrepas
 ¶ Del q<u><<i>> tiene falsas mesuras
 ¶ De como es p<er>iglo a e<n>trar fia<n>ça
@@ -12151,7 +12151,7 @@ deue tocar a missa.
 ¶ Del fiador como n<on> d<e>u<e> s<er> vozero.
 ¶ De villa<n>o e<n>cartardo q<ue> q<u><<i>>ere s<er> cl<er>igo
 ¶ De n<on> torn<<a>>r re<n> a su enemigo q<u><<o>>a<n>do la
-¶ De testi<m>o<n>ios q<u><<o>>ales so<n> de recebir ¶2 m<<a>>ta
+¶ De testi<m>o<n>ios q<u><<o>>ales so<n> de recebir %2 m<<a>>ta
 ¶ De la cosa de co<n>tie<n>da
 ¶ De dema<n>dar p<ar>t de heredat
 ¶ De pla<n>tar vynna.

@@ -96,7 +96,7 @@ con yola<n>t su fija.
 [x]L[ix] {IN1.} Delo q<ue> deanira fizo por los gra<n>des çelos q<ue> auie de erc<u>les.
 xL<<a>>.ix. {IN1.} Delas p<ar>aulas q<ue> dixo deanira e<n>su epistola.
 L.i<<o>>. {IN1.} Como tomo erc<u>les la camisa & los ot<r><<o>>s donos q<ue>le e<n>uio deanira.
-L.ij. {IN1.} Como erc<u>les murio & d<e>lo q<ue> faulo <con><tr><<a>> iuno. ¶2 su muger.
+L.ij. {IN1.} Como erc<u>les murio & d<e>lo q<ue> faulo <con><tr><<a>> iuno. %2 su muger.
 L.iij. {IN1.} Delas p<ar>aulas q<ue> dixo erc<u>les pues q<ue> uido q<ue> la muert lo soptaua.
 L.iij. {IN1.} El pla<n>to o planymie<n>to q<ue> fizo deanira por erc<u>les q<u><<a>>ndo supo q<ue>
 era muerto.
@@ -269,7 +269,7 @@ ces a roma.
 cc.v<<o>>. {IN1.} Como los legados de carthage<n> fuero<n> a ro<m>a por dema<n>dar paç.
 cc.vij. {IN1.} Como los de carthage<n> rompiero<n> las treguas.
 cc.ix. {IN1.} Como sçipio<n> & anibal faularo<n> e<n>semble & la oraçio<n> de anibal fue aq<ue>s-ta.
-cc.xi. {IN1.} Como scipio<n> respo<n>dio a anibal. ¶2
+cc.xi. {IN1.} Como scipio<n> respo<n>dio a anibal. %2
 cc.xi. {IN1.} Como sçipio<n> & anibal amo<n>estaro<n> & orde<n>aro<n> lures ge<n>tes & batalla<<s>>.
 cc.xiij. {IN1.} Como sçipio<n> ui<n>çio a anibal.
 cc.xv. {IN1.} Como dio t<r><<e>>guas alos carthagi<n>eses. & ellos i<m>pet<r><<a>>ro<n> paç co<n> sçipio<n>.
@@ -847,7 +847,7 @@ cccc.xL<<a>>.vj. {IN1.} Dela batalla e<n>tre clodoueo. & los alamanes fecha & co
 fecho xp<ist>ia<n>o.
 cccc.xL<<a>>.viij<<o>>. {IN1.} De almerich fijo de alarico rey d<e>los uidegodos. & como anasta-
 sio enuio la coro<n>a imp<er>ial a clodoueo. & d<e>la batalla fecha <con><tr><<a>> nada-quario.
-cccc.xL<<a>>viij<<o>>. {IN1.} Dela muert d<e>l emp<er>ador anastasio. ¶2
+cccc.xL<<a>>viij<<o>>. {IN1.} Dela muert d<e>l emp<er>ador anastasio. %2
 cccc.xL<<a>>ix. {IN1.} Del emp<er>ador iustino.
 cccc.xL<<a>>ix. {IN1.} Como teodorico rey d<e>los godos seyendo arria<n>o come<n>ço a tira<n>ni-
 zar & p<er>seguir los catholicos & ma<n>do al e<m>p<er>ador iustino q<ue> tornase
@@ -1125,7 +1125,7 @@ carles magno el q<u><<a>>l se <com>batio <con><tr><<a>> desid<er>io. & lo p<r><<
 xiiij<<o>>. & ultimo lib<r><<o>> d<e>la prim<er>a p<ar>tida d<e>la Cronica de espanya. delas
 gestas & memorables fechos d<e>l gl<or>ioso rey bamba delos uide-
 godos. en<e>l qual libro se <con>tiene<n> .xl.iij. capitoles. segunt se si-guen +}
-dLxxx<<a>>iiij<<o>>. {IN2.} Prim<er>am<en>t d<e>la el<e>ctio<n> d<e>l rey bam-ba. ¶2 {RUB. por orden.}
+dLxxx<<a>>iiij<<o>>. {IN2.} Prim<er>am<en>t d<e>la el<e>ctio<n> d<e>l rey bam-ba. %2 {RUB. por orden.}
 & d<e>l miraglo q<ue> <con>teçio ap<re>s q<ue> el fue huntado e<n> rey.
 dLxxx<<a>>v<<o>>. {IN1.} Como los reyes d<e>los eua<n>dalos regnaro<n> e<n> gallizia & hedificaro<n> la
 çiudat de lugo & dotaro<n> la egl<es>ia & d<e>la suçcessio<n> de aq<ue>llos
@@ -8487,7 +8487,7 @@ guages .M.D.xx.vj. a-
 nyos segu<n>t los ebreos.
 Seg<un>t los .lxx<<a>>. int<er>pret<e>s .M.
 iij<<C>>.lxx.vj. anyos.]. Et del Rey
-nino .viij<<C>>.l[^x].ix. anyos [^¶2] & de ab<r><<a>>-
+nino .viij<<C>>.l[^x].ix. anyos [^%2] & de ab<r><<a>>-
 am .viij<<C>>.xx.vj. anyos segunt
 q<ue> Recue<n>ta eusebio. Et de qua<n>do
 nasçio moyses .D. anyos. Et

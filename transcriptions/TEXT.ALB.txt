@@ -233,7 +233,7 @@ netas en la parte do es.
 las .v. planetas. & quando se asconden.
 {IN1.} Cap<itu>lo .xlix. De saber las nueue figuras q<ue> a<n>
 (an) las estrellas fixas. & las planetas co<n> el
-{IN1.} Cap<itu>lo .l. De saber q<ue> tanta es la lon-gura ¶2 Sol.
+{IN1.} Cap<itu>lo .l. De saber q<ue> tanta es la lon-gura %2 Sol.
 de las estrellas de la tierra. & q<ue> taman-
 nos son los diametros. & la grandeza de sos
 cuerpos. & la anchura de sos çielos.
@@ -1698,7 +1698,7 @@ fuere ell annadimiento del dia mayor; tam-
 (m)anna como aquella q<ue> tu feziste con ella.
 {RUB. Cap<itu>lo .ix. De saber ell annadimiento del
 dia mayor por la altura del polo si fuere +}
-{IN3.} QVando quisieres saber ¶2 {RUB. sabuda.}
+{IN3.} QVando quisieres saber %2 {RUB. sabuda.}
 q<ue> tamanno es ell annadimiento
 del dia mayor sobrel dia egual. o el
 menguamiento del dia menor. otrossi del
@@ -2578,7 +2578,7 @@ mas de .xc. mengua la de .c. & .lxxx<<a>>. et lo q<ue> finca-
 re; essa sera la altura sobrell orizon septentrio-
 nal. {RUB. Cap<itu>lo .xvj. De saber las horas passadas del
 dia. & el q<ue> es ascendente; por el rectificamie<n>to +}
-{IN3.} Qvando quisieres saber ¶2 {RUB. del Sol.}
+{IN3.} Qvando quisieres saber %2 {RUB. del Sol.}
 las horas passadas del dia por el rectifica-
 miento del Sol; sabe la altura del Sol q<ue> ta<n>-
 ta es en la hora daquel medio dia. Et desi sabe
@@ -2803,7 +2803,7 @@ esso sera el grado de los signos; el q<ue> se come-
 dia el cielo con la estrella. {RUB. Cap<itu>lo .xix. de saber
 ell arco del dia de qual estrella quier. & de su
 noche. & los tiempos de las horas de cada uno +}
-{IN3.} QVando quisieres saber ell ¶2 {RUB. dellos.}
+{IN3.} QVando quisieres saber ell %2 {RUB. dellos.}
 arco del dia de qual estrella quier. & es
 su mora q<ue> es desusso de la tierra desde
 q<ue> nasce fata q<ue> se pone. Et es otrossi los gra-
@@ -3103,7 +3103,7 @@ pone con ella. Et sabras la altura uisible de
 la luna por el so arredramiento q<ue> a dell eg-
 (g)uador del dia. {RUB. Cap<itu>lo. xxiij. De saber el zonte
 de qual estrella quier. por la su altura sobre +}
-{IN3.} QVando quisieres sa-ber ¶2 {RUB. ell orizon.}
+{IN3.} QVando quisieres sa-ber %2 {RUB. ell orizon.}
 el zonte de qual estrella quier.
 enel cerco dell orizon; sabe la altura
 de la estrella en aq<ue>lla hora q<ue> tu quieres. & so
@@ -5488,7 +5488,7 @@ xandre .200. & un grado. & .29. menudos. & .13. segundos.}}}}
 [fol. 84v]
 {CB1.
 {ILL. {DIAG. {RUB. Nombres de las estrellas fixas. & la p<r><<i>>mera dellas es la fig<ur>a de la ossa}}}
-¶2 {RUB. menor.}}
+%2 {RUB. menor.}}
 [fol. 85r]
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las estrellas fixas.}}}}

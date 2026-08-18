@@ -8,7 +8,7 @@
 {CB2.
 {RMK: HSMS-0271-0001: Leyes del estilo.} Ley p<ri>m<e><<r>>a delas razon<e>s q<ue> non
 son de recebir desq<ue> el pl<e>ito es co<n>-testado
-Ley .ij<<a>>. com<m>o reciben [??] ¶2
+Ley .ij<<a>>. com<m>o reciben [??] %2
 alos tutor<e>s a acusar.
 Ley iij<<a>>. com<m>o es tenudo el a q<u><<i>>
 fallan los bien<e>s del debdor
@@ -83,7 +83,7 @@ en casa del rey
 Ley .xxvi<<a>>. dela pena en q<ue>
 caen los aplazados conçeio
 o otros algu<n>os algu<n>os por carta del
-Ley .xxvij<<a>>. en q<ue> pena. ¶2 rey.
+Ley .xxvij<<a>>. en q<ue> pena. %2 rey.
 cae el q<ue> gana carta del rey.
 de enplazamje<n>to silo no<n> sigue.
 Ley .xxviij<<a>>. dela pena en q<ue>
@@ -96,7 +96,7 @@ diga la carta q<ue> uenga<n> p<er>sonal
 mjent<e>. & en q<ue> pl<e>ito.
 Ley .xxxi<<a>>. sobr<e> q<ue> cosa enpla-
 za p<ar>a ant<e>ll rey a q<ue>rella de s<us>
-Ley .xxxij<<a>>. com<m>o. ¶2 oficial<e>s
+Ley .xxxij<<a>>. com<m>o. %2 oficial<e>s
 no<n> enplazara<n> p<ar>a ant<e>ll rey.
 a q<ue>rella delos om<ne>s delo<<s>> oficial<e>s
 Ley xxxiij<<a>>. q<u><<i>>en deue ser apla-
@@ -159,7 +159,7 @@ Ley .L<<a>> do a pesq<u><<i>>sa q<u><<a>>ndo q<ue>ma
 o omezillo acaesciesse.
 Ley .li<<a>>. com<m>o el rey sobr<e> sus
 oficiales o cont<r><<a>> sen<n>orio fara
-Ley .lij<<a>>. en q<ue> cosas a. ¶2 pesq<u><<i>>sa
+Ley .lij<<a>>. en q<ue> cosas a. %2 pesq<u><<i>>sa
 pesq<u><<i>>sa aun q<ue> q<ue>relle de p<er>sona cierta.
 Ley .liij<<a>>. desq<ue> la pesq<u><<i>>sa es a-
 bierta si pide por ella com<m>o
@@ -268,7 +268,7 @@ do algu<n>o acusa a otro. & ay ot<r><<o>>}
 {CB2.
 parient<e> mas p<ro>pi<n>co q<ue> no<n> es en
 la t<ier>ra & q<u><<a>>nto t<ien>po deue s<e>r ate<n>-dido.
-Ley .lxxx<<a>>. com<m>o se li-bra [¶2]
+Ley .lxxx<<a>>. com<m>o se li-bra [%2]
 & en q<ue> pena cae el q<ue> co<n>p<r><<a>>
 el om<n>e libre & el q<ue> lo uende
 silo sabe o no<n>.
@@ -299,9 +299,9 @@ uall<er>o s<e>ra recebido a riepto.
 Ley .lxxxvij<<a>>. q<u><<i>>en librara.}
 {CB2.
 pl<e>ito c<ri>mjnal q<ue> sea entre judio
-Ley .lxxxviij<<a>>. q<u><<i>>en lib<r><<a>>-ra [¶2] & judio
+Ley .lxxxviij<<a>>. q<u><<i>>en lib<r><<a>>-ra [%2] & judio
 pl<e>ito çeujl. q<ue> sea entre judio
-Ley .lxxxjx<<a>> q<uie>n a de li-brar ¶2 & judio.
+Ley .lxxxjx<<a>> q<uie>n a de li-brar %2 & judio.
 pl<e>itos ceuil<e>s o c<ri>mjnal<e>s
 o cartas. & testigos de judios.
 Ley .xc. com<m>o el rey. puede
@@ -348,7 +348,7 @@ Ley .ciiij<<a>>. q<u><<a>>ndo lego mata cl<er>igo.
 Ley .cv<<a>>. com<m>o delas calon<n>as
 el rey. deue s<e>r p<<r>><i>m<e><<r>>o entregado
 q<ue> el q<ue>relloso delos bien<e>s. o del cuer-po.
-Ley .cvi<<a>>. com<m>o los peche-ros ¶2
+Ley .cvi<<a>>. com<m>o los peche-ros %2
 ualen en testi<m>o<n>io delo q<ue> pe-
 charo<n> al cogedor. & a el dema<n>-
 da cont<r><<a>> ellos.
@@ -369,7 +369,7 @@ Ley .cxij<<a>>. del mayordomo q<ue> des-
 piende o recabda.
 Ley .cxiij<<a>>. del p<<r>><e>so a cuya costa
 lo deue lleuar el alg<u><<a>>zil ant<e>ll.
-Ley .cxiiij<<a>>. q<ue> dize dela. ¶2 rey.
+Ley .cxiiij<<a>>. q<ue> dize dela. %2 rey.
 pena delos m<a>r<auedi>s de oro.
 Ley .cxv<<a>>. delos testigos q<ue>
 reciben algo & dize<n> me<n>tira. &
@@ -411,7 +411,7 @@ Ley .cxxix<<a>>. delo q<ue> puede<n> libr<ar> lo<<s>>
 alcall<e>s q<ue> son dados por otros.
 Ley cxxx<<a>>. q<u><<a>>ndo el rey enbia car-
 ta as<us> alcall<e>s sobr<e> pesq<u><<i>>sa de muert<e>
-Ley cxxxi<<a>>. delo<<s>> denues-t[*os] [¶2] de om<n>e
+Ley cxxxi<<a>>. delo<<s>> denues-t[*os] [%2] de om<n>e
 q<ue> se faze<n> q<ue> pena an
 Ley cxxxij<<a>>. q<u><<a>>ndo el alg<u><<a>>zil ua
 d[*izi]e<n>do matalde & mata<n> algu<n>o
@@ -420,7 +420,7 @@ Ley cxxxiij<<a>>. del con<n>oscimje<n>to ant<e>ll
 m<er>yno o ant<e>ll alcall<e> q<u><<a>>l uale
 Ley cxxxiiij<<a>>. com<m>o el fiador no<n>
 deue ser p<re>so saluo si se obliga
-Ley .cxxxv<<a>>. q<u><<a>>ndo se q<ue>re-lla [¶2] a ello
+Ley .cxxxv<<a>>. q<u><<a>>ndo se q<ue>re-lla [%2] a ello
 al rey de alc<alde> de su uilla q<ue>
 carta deuen dar.
 Ley .cxxxvi<<a>>. com<m>o no<n> puede<n>
@@ -467,7 +467,7 @@ uoca por alc[']ada do fi<n>ca el pl<e>ito
 & q<u><<a>>l & com<m>o.
 Ley .cL<<a>>. del q<ue> se agrauio & no<n>
 se alço. & q<u><<i>>e<n> deue au<e><<r>> el alc[']ada & q<u><<a>>l
-Ley clj<<a>>. del q<ue> toma el alc[']ada [¶2] no<n>.
+Ley clj<<a>>. del q<ue> toma el alc[']ada [%2] no<n>.
 como la deue seg<u><<i>>r.
 Ley .clij<<a>>. cont<r><<a>> q<u><<i>>en da<n> el juyzio
 & se alc[']a & sigue & esta y p<er>son<e><<r>>o
@@ -475,7 +475,7 @@ dela ot<r><<a>> p<ar>te & no<n> muestra p<er>son<e><<r>>-
 ya com<m>o se libra.
 Ley .cliij<<a>>. delo<<s>> pl<e>ito<<s>> delo<<s>> judio<<s>>
 en q<u><<a>>le<<s>> a alc[']ada & en q<u><<a>>le<<s>> no<n> & com<m>o se
-Ley .cliiij<<a>>. q<u><<a>>ndo el juyz del al-c[']ada. ¶2 libra
+Ley .cliiij<<a>>. q<u><<a>>ndo el juyz del al-c[']ada. %2 libra
 da el pl<e>ito por nj<n>gu<n>o.
 Ley .clv<<a>>. del q<ue> se q<ue>rella del alc<alde>
 q<ue> nol q<u><<i>>ere dar el alc[']ada.
@@ -501,7 +501,7 @@ en q<ue> ma<n>da co<n>plir el juyzio
 q<ue> dio com<m>o se libra.
 Ley .clxij<<a>>. com<m>o puede el pl<e>i-
 to llegar ant<e>ll rey. de alçada en al-çada.
-Ley .clxiij<<a>>. com<m>o no<n> ay al-çada [¶2]
+Ley .clxiij<<a>>. com<m>o no<n> ay al-çada [%2]
 en pl<e>ito de justicia.
 Ley .clxiiij<<a>>. com<m>o se judgan
 las costas en la corte.
@@ -538,7 +538,7 @@ Ley .clxxv<<a>>. delo<<s>> testigo<<s>> com<m>o
 deue<n> ser no<n>brado<<s>> q<u><<i>>en son.
 Ley .clxxvi<<a>>. com<m>o se recibe & se
 p<ru>eua defensio<n> de descomunjo<n> & com<m>o
-Ley .clxxvij<<a>>. com<m>o no<n> ualen ¶2 non
+Ley .clxxvij<<a>>. com<m>o no<n> ualen %2 non
 los dich<o>s q<ue> dize<n> los testigos
 mjent<r><<a>> q<ue> son descomulgados &
 com<m>o uale<n> & del juez & del des-
@@ -547,7 +547,7 @@ esc<ri>uano publico descomulgado
 com<m>o se libra.
 Ley .clxxviij<<a>>. delo<<s>> plazo<<s>> q<ue> de-
 ue au<e><<r>> la p<ar>te p<ar>a p<ro>uar la exepcio<n> q<ue>
-Ley clxxix<<a>>. q<u><<i>>en a de faz<e><<r>> la ¶2 pone
+Ley clxxix<<a>>. q<u><<i>>en a de faz<e><<r>> la %2 pone
 carta luego de mano delo<<s>> esc<ri>-
 uano<<s>> q<u><<a>>ndo son tomado<<s>>. do<<s>> p<ar>a
 esc<ri>ujr dichos de testigos.
@@ -564,7 +564,7 @@ Ley .clxxxiij<<a>>. en q<ue> man<e><<r>>a se deue
 faz<e><<r>> la p<ru>eua. q<u><<a>>ndo algu<n>o a de
 p<ro>uar q<ue>l otro tomo ol ma<n>do to-
 mar algu<n>a cosa q<u><<i>>er suya q<u><<i>>er acome<n>-dada.
-Ley .clxxxiiij<<a>>. com<m>o de dos an-nos ¶2
+Ley .clxxxiiij<<a>>. com<m>o de dos an-nos %2
 adelant<e> no<n> se deue p<ro>uar
 la defensio<n> delo<<s>> din<e><<r>>os contados
 Ley .clxxxv<<a>>. dela cosa q<ue> un om<n>e
@@ -578,7 +578,7 @@ Ley .clxxxviij<<a>>. delo<<s>> receptores
 q<ue> toma<n> la<<s>> p<ar>tes p<ar>a p<<r>><e>gu<n>tar testigo<<s>>
 Ley .clxxxix<<a>>. delas cartas publi-
 ca<<s>> q<ue> son fechas o no<n> por mano de esc<ri>uano<<s>>
-Ley .cxc<<a>>. dela defension p<er>ento-[*ri]a ¶2 publico<<s>>
+Ley .cxc<<a>>. dela defension p<er>ento-[*ri]a %2 publico<<s>>
 q<ue> e<<s>> puesta despue<<s>> q<ue>la s<e>n<tenc>ja e<<s>> dada
 Ley .cxcj<<a>>. q<ue>las razon<e>s q<ue> a el om<n>e
 contral juez essas misma<<s>> an s<us> [*om<ne>s]
@@ -652,7 +652,7 @@ juezes ordi<n>arios. oen un pl<e>ito
 el uno puede dar la s<e>n<tenc>ja si<n> el ot<r><<o>>.
 Ley .ccxix<<a>>. q<u><<a>>ndo algu<n>o toma
 s<us> bien<e>s por carta del rey. com<m>o se
-Ley .ccxx. com<m>o la uendida. [¶2] libra.
+Ley .ccxx. com<m>o la uendida. [%2] libra.
 q<ue> es fecha en almon<ed><<a>> no<n> se pue-
 de desfaz<e><<r>> si no<n> por casos ciertos
 Ley .ccxxi<<a>>. delos pechos & dere-chos}

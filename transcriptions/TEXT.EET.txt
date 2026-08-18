@@ -1893,7 +1893,7 @@ eron la. & destruyero<n> otrossi a emj-
 lia. & corrieron a toscana. {RUB. Del
 destruymiento dela cibdat de
 Roma. & dela muerte del Rey Ala-rigo +}
-{IN3.} Aq<ue>l an<n>o mismo q<ue> esto ¶2 {RUB. }
+{IN3.} Aq<ue>l an<n>o mismo q<ue> esto %2 {RUB. }
 fue guiso el Rey alarigo s<us>
 huestes & co<n> gra<n>t pesar q<ue>
 ouo por aq<ue>lla deslealtad q<ue> scilico<n>
@@ -8378,7 +8378,7 @@ de n<uest>ro sen<n>or dios. Desi pues
 desto. murio asi com<m>o uos dixi-
 emos. {RUB. Capitulo d<e>l ij<<o>>. co<n>çilio q<ue> fi-
 zo el Rey çintilla en Tol<e>do & d<e>la +}
-{IN2.} Andados iiij<<o>> ¶2 {RUB. su muerte.}
+{IN2.} Andados iiij<<o>> %2 {RUB. su muerte.}
 an<n>os del reynado del Rey}
 [fol. 55v]
 {CB2.
@@ -8417,7 +8417,7 @@ to ensu logar marti<n> el primero.
 ssi esse an<n>o co<n>q<u><<i>>riero<n> los moros
 t<ie>rra de africa. {RUB. Capit<ul>o. del Rey
 tulgas & delas sus buenas cos-tu<n>bres +}
-{IN2.} Pues q<ue> fue muerto ¶2 {RUB. }
+{IN2.} Pues q<ue> fue muerto %2 {RUB. }
 el Rey çi<n>tilla alçaro<n> los}
 {CB2.
 godos por Rey asu fijo Tulgas. &
@@ -8454,8 +8454,8 @@ ala su secta. ¶ Ot<r><<o>>ssi çibdades mu<n>-
 chas de t<ie>rra de p<er>ssia q<ue> no<n> pudo.
 omar co<n>q<ue>rir ganolas este e fizo
 las sus pecheras. {RUB. Capit<ul>o de com<m>o +}
-{IN3.} Andados ¶2 {RUB. murio el Rey tul-gas +}
-dos an<n>os del Rey ¶2 {RUB. }
+{IN3.} Andados %2 {RUB. murio el Rey tul-gas +}
+dos an<n>os del Rey %2 {RUB. }
 nado del Rey Tulgas.}
 [fol. 56r]
 {CB2.
@@ -8478,7 +8478,7 @@ o pedir vn p<re>uillegio al apostoli-
 go sobre Razo<n> del p<r><<i>>mado de es-
 pan<n>a & de com<m>o fue echado el ar-
 çob<is>po Theodisco del arçob<is>pado de +}
-{IN3.} Luego q<ue> fue. ¶2 {RUB. Seuilla:.}
+{IN3.} Luego q<ue> fue. %2 {RUB. Seuilla:.}
 muerto el Rey Tulga<<s>>
 tomo çi<n>dasiu<n>do el Rey-
 no por fuerça. & fizosse Rey de
@@ -8570,8 +8570,8 @@ a cosa q<ue> de co<n>tar sea q<ue> ala esto-
 ria p<er>tenezca & en estas cosas
 passaro<n>. {RUB. Capit<ul>o de com<m>o el Rey
 çi<n>dasiundo enbio pedir al p<a>p<<a>> el. +}
-{IN3.} Anda-do ¶2 {RUB. libro q<ue> dize<n> {LAT. mora-lia} +}
-aq<ue>l q<u><<i>>nto. ¶2 {RUB. {LAT. iob:}}
+{IN3.} Anda-do %2 {RUB. libro q<ue> dize<n> {LAT. mora-lia} +}
+aq<ue>l q<u><<i>>nto. %2 {RUB. {LAT. iob:}}
 an<n>o del Reynado del}
 {CB2.
 Rey çi<n>dasiundo q<ue> fue ¶ En la
@@ -8737,7 +8737,7 @@ esto fecho ouo co<n> los moros mu<n>-
 chas lides & muchas batallas
 & durol aq<ue>lla batalla bie<n> .v. an<n>o<<s>>
 {RUB. Capit<ul>o de com<m>o murio el Rey çi<n>da-siundo +}
-{IN3.} Andados .x. an<n>os ¶2 {RUB. }
+{IN3.} Andados .x. an<n>os %2 {RUB. }
 del Reynado del Rey
 çi<n>dasiu<n>do q<ue> fue. ¶ En la
 era de .dc. & lxxxx.iiij. ¶ Qua<n>do
@@ -8759,7 +8759,7 @@ desto esta<n>do el en toledo diol.
 vna enfermedat & murio. {RUB. Ca-
 pit<u>lo del co<n>çilio q<ue> fizo el Rey Re-
 çesiu<n>do en el p<r><<i>>mero an<n>o del su. +}
-{IN3.} Despues que. ¶2 {RUB. Reynado.}
+{IN3.} Despues que. %2 {RUB. Reynado.}
 çindasiundo fue mu-
 erto finco su fijo Re-
 cesiundo en su logar por Rey
@@ -8837,7 +8837,7 @@ el su h<er>mano Theoderigo co<n> ayu-
 da de ebrouio el mayordomo. vn
 an<n>o. {RUB. Capit<ul>o de com<m>o el Rey Reçe-
 siu<n>do fizo la segu<n>da uez co<n>çilio en +}
-{IN3.} Andados .vij. an<n>o<<s>> ¶2 {RUB. toledo.}
+{IN3.} Andados .vij. an<n>o<<s>> %2 {RUB. toledo.}
 del Reynado del Rey.
 Reçesiundo q<ue> fue. ¶
 Enla era de .dcc. & vn an<n>o ¶ Q<u><<a>>n-
@@ -9164,7 +9164,7 @@ o despues muy bie<n> todel fecho co-
 m<m>o andido fasta q<ue>los alaraues e<n>-
 traro<n> en espan<n>a & la destruyero<n>.
 {RUB. Capit<ul>o de com<m>o murio el Rey +}
-{IN3.} Andados ¶2 {RUB. Reçesuindo.}
+{IN3.} Andados %2 {RUB. Reçesuindo.}
 xix. an<n>os del Reynado
 del Rey Reçesiundo q<ue>
 fue. ¶ En la era de .dcc. & xiij. an<n>o<<s>>.
@@ -9446,7 +9446,7 @@ co<n>tra ellos & echolos dela t<ie>rra
 desonrrada me<n>te & co<n> honta.
 {RUB. Capit<ul>o de com<m>o el Rey banba lo-
 aua los godos & los esforçaua. +}
-{IN3.} El Rey banba ¶2 {RUB. co<n>tra paulo:.}
+{IN3.} El Rey banba %2 {RUB. co<n>tra paulo:.}
 andando por tierra de can-
 tabria llegol mandado muy
 apresurado de Gallia gothica com<m>o
@@ -10077,7 +10077,7 @@ en desespera<n>ça ca muy gra<n>t lan-
 dad de nems & dela desabene<n>çia
 q<ue> ent<r><<o>> entre la co<n>pan<n>a de pau-
 lo & de com<m>o se mataua<n> vnos a +}
-{IN3.} Dos dela hueste. ¶2 {RUB. otros.}
+{IN3.} Dos dela hueste. %2 {RUB. otros.}
 del Rey touiero<n> q<ue> se
 tardarie & se alo<n>garie
 mucho el pleyto si el ue<n>çimie<n>-
@@ -10678,7 +10678,7 @@ ge ca se no<n> afiere<n> tan bie<n> las
 palabras. & los u<er>sos son estos:.
 {RUB. {LAT. Nos d<omi>ni s<an>c<t>i q<u><<o>><rum> hic p<re>sentia frul-
 get ha<n>c urbe<m> & plebe<m> solito saluete fa-uore<m>} +}
-[¶] Et q<u><<i>>ere<n> dez<<i>><r> en el lenguaje de ¶2 {RUB. }
+[¶] Et q<u><<i>>ere<n> dez<<i>><r> en el lenguaje de %2 {RUB. }
 castiella desta guissa. ¶ El no-
 ble Rey banba alço & meioro la
 Cibdat de toledo con ayuda de
@@ -10813,7 +10813,7 @@ Cusanca Barbantes amo<n> asona
 Camba auiancos. esto todo de-
 ue seer dela egl<es>ia de lugo. {RUB. Cap<itu>l<<o>>
 del apartamiento del Ob<is>pado. de +}
-{IN3.} El ob<is>pado de leo<n> ¶2 {RUB. Leon}
+{IN3.} El ob<is>pado de leo<n> %2 {RUB. Leon}
 q<ue> en ot<r><<o>> tie<n>po fue llama-
 do flor q<ue> por fra<n>q<ue>za d<e>l
 ap<osto>ligo es libre por sie<n>p<re> de toda
@@ -11303,8 +11303,8 @@ Castiellos a q<ue> son los no<n>bres}}
 [fol. 74v]
 {CB2.
 {RUB. ca<n>biados. de com<m>o era<n> llamados en +}
-¶ Yspalis es .Seuilla. ¶2 {RUB. ot<r><<o>> tie<n>po +}
-¶ Asidon<n>a es .Çidona. ¶2 {RUB. antiguo.}
+¶ Yspalis es .Seuilla. %2 {RUB. ot<r><<o>> tie<n>po +}
+¶ Asidon<n>a es .Çidona. %2 {RUB. antiguo.}
 ¶ Alberri es .Granada.
 ¶ Astigi es .Belsa.
 ¶ Agabro es Cabra.
@@ -11321,7 +11321,7 @@ Castiellos a q<ue> son los no<n>bres}}
 ¶ Setabis es xatiua.
 ¶ Conpluto es Guadalfaiara.
 ¶ En ot<r><<o>> t<ien>po llamaua<n> a alcala co<n>-pluto
-¶ Eluora es Calat<r><<a>>ua ¶2
+¶ Eluora es Calat<r><<a>>ua %2
 ¶ En portogal ot<r><<o>>si ay vna çib-
 dat a q<ue> dize<n> Enora.
 ¶ Vrsaria es .Madrit.
@@ -11691,7 +11691,7 @@ man<er>a q<ue> diessen los moros ca-
 da dia alos Romanos mill do-
 blas doro & vn sieruo & vn caua-
 llo. {RUB. {BLNK.} +}
-{IN3.} Andados .vij. ¶2 {RUB. {BLNK.}}
+{IN3.} Andados .vij. %2 {RUB. {BLNK.}}
 an<n>os del Reynado del
 Rey e[r]u(r)igio q<ue> fue. en
 la era de .dcc. & xxix. ¶ Murio
@@ -11986,8 +11986,8 @@ muerte en la çibdad de tol<e>do
 entre.
 {RUB. capit<ul>o delos bienes q<ue>
 el Rey vitiza come<n>ço a faz<er> +}
-{IN2.} Pues q<ue> ¶2 {RUB. luego en comj-e<n>ço +}
-fue. ¶2 {RUB. dessu Reyno}}
+{IN2.} Pues q<ue> %2 {RUB. luego en comj-e<n>ço +}
+fue. %2 {RUB. dessu Reyno}}
 [fol. 79r]
 {CB2.
 muerto el Rey egica alçaro<n>
@@ -12102,7 +12102,7 @@ muy casto & de gra<n>t castidad
 u<er>tudes & muchos miraglos.
 {RUB. Cap<itu>lo de Com<m>o el Rey vitiza ma[<n>]-
 daua alos cl<er>igos q<ue> touiesse<n> mu-geres. +}
-{IN2.} Anda-dos. ¶2 {RUB. q<u><<a>>ntas q<u><<i>>siesse<n>}
+{IN2.} Anda-dos. %2 {RUB. q<u><<a>>ntas q<u><<i>>siesse<n>}
 q<u><<a>>tro.}
 {CB2.
 an<n>os del Reynado del Rey.
@@ -12652,7 +12652,7 @@ do & despechador delas ye<n>tes.
 los Romanos a Theodosio q<ue>l
 tomasse el ynp<er>io. {RUB. Dela p<r><<i>>mera
 entrada q<ue>los moros fiziero<n> en +}
-{IN3.} Andados .v. an<n>os. ¶2 {RUB. espan<n>a.}
+{IN3.} Andados .v. an<n>os. %2 {RUB. espan<n>a.}
 del Reynado del Rey
 Rodrigo q<ue> fue. ¶ Enla
 era de .dcc. & L<<a>>iij. ¶ Qua<n>do an-
@@ -12999,7 +12999,7 @@ raço<n> daq<ue>l q<ue>l eme<n>tar podrezça
 & fieda por iamas q<u><<i>>q<u><<i>>er q<ue> del.
 fablar. {RUB. Cap<itu>l<<o>>. del loor de Espa-
 nna. de com<m>o es co<n>plida de todo<<s>> +}
-{IN3.} Pues q<ue> el. ¶2 {RUB. los bienes.}
+{IN3.} Pues q<ue> el. %2 {RUB. los bienes.}
 Rey Rod<r><<i>>go & los x<rist><<i>>ano<<s>>
 fuero<n> ve<n>çudos & muer-
 tos la muy noble ye<n>te delos.
@@ -14019,7 +14019,7 @@ iiij<<o>>. dos an<n>os. {RUB. De com<m>o demando
 muça cuenta A tarif. & de com<m>o
 p<r><<i>>sieron Amos la çibdat de Carago-
 ça. & t<ie>rra de carpentanja. & de Ce-luberia +}
-{IN3.} Andados. ¶2 {RUB. }
+{IN3.} Andados. %2 {RUB. }
 tres an<n>os del. sen<n>ori-
 o de don pelayo q<ue> fue.
 ¶ Enla era de .dcc. & Lvij. ¶ Q<u><<a>>n-

@@ -21,7 +21,7 @@ XI Capit<o>lo. De como deuen caçar co<n> ellas.
 XII Capitolo. [D]e como las muda<n> e como las g<u><<a>>rdan.
 XIII Capit<o>lo. De co<n>nocer de fuera q<ue> mal an de dentro.
 XIIII Capit<o>lo. De q<u><<a>>les fermedades no<n> puede<n> guarecer.
-{RUB. Est es el ij tractado [???]} [¶2]
+{RUB. Est es el ij tractado [???]} [%2]
 I Capitolo. Delas enfermedades de [??]o e de sos mele-zinamientos.
 II Capitolo. [D]e la fermedad de [???] parte de sangre.
 III Capitolo. Del melezinar dela flema.
@@ -51,7 +51,7 @@ XXIIII Cap<ito>lo. Del mal del yesso.
 XXV Cap<ito>lo. Dela cançre q<ue> an en los q<ue>xares.
 XXVI Cap<ito>lo. Del sonar delas narizes q<ue> es de umidad.
 XXVII Cap<ito>lo. Del sonar delas narizes de seq<ue>dad.
-XXVIII Cap<ito>lo. Del renner delos pechos. ¶2 los papos.
+XXVIII Cap<ito>lo. Del renner delos pechos. %2 los papos.
 XXIX Cap<ito>lo. Delos gusanos q<ue> sube<n> delas moliellas a
 XXX Cap<ito>lo. Dela fermedad delos figados.
 XXXI Cap<ito>lo. Dela tisica.}}
@@ -80,7 +80,7 @@ e de las .vii. p<ro>positiones. II
 {IN2.} El .ij. capitolo cuenta
 de las animalias q<ue>
 caçan e q<ue> alos om<ne>s tiene<n>
-III {IN2.} E[*l t<er>ce]ro capi-tolo [¶2] p<ro>.
+III {IN2.} E[*l t<er>ce]ro capi-tolo [%2] p<ro>.
 fabla de los ti-
 empos en q<ue> se engendran}
 {CB2.
@@ -92,7 +92,7 @@ por q<ue> las pueda omne co<n>-
 nocer; si son buenas o si
 no. segund iudgaron los
 mestros q<ue> algo y entendie-ron.
-V {IN2.} El .v<<o>>. capitolo ¶2
+V {IN2.} El .v<<o>>. capitolo %2
 fabla de la nat<u><<r>>a q<ue>l
 faz auer tal fayçon en pa-
 recencia e en figura e en
@@ -4209,7 +4209,7 @@ sta q<ue> sean mansas. e des-
 pues tornarlas an a un
 ceuo. e g<u><<a>>rden las dela car-
 ne de carn<er>o si n<on> fuere fre<<s>>-ca
-{IN2.} Mas los sagres ¶2
+{IN2.} Mas los sagres %2
 e los falcones. lue-go}
 {CB2.
 q<ue> los p<r><<i>>sieren conuiene
@@ -4378,7 +4378,7 @@ as de[ ]rrezio. e pueden y
 p<re>nder alguna crebanta-
 dura en los cuerpos. o q<ue> se
 les marrotaran las penno-las.
-{IN2.} E dezimos [¶2]
+{IN2.} E dezimos [%2]
 q<ue> ay aues a q<ue> deue<n>
 poner panno cosido en
 derredor delas piernas de(-)
@@ -4577,7 +4577,7 @@ tras cosas. e dexallas fol-
 gar de dia depues q<ue> las
 ouieren ceuadas. e usan-
 doles esto amansaran
-{IN2.} E agora ¶2 bien.
+{IN2.} E agora %2 bien.
 q<ue>remos dezir de
 como las an de leuar. e
 dezimos q<ue> los q<ue> moran
@@ -4764,7 +4764,7 @@ lo echaran fuera. e si no<n>
 lo echaren puede seer cre-
 badura dela tela del uie<n>-
 tre e no<n> pueden end gua-recer
-{IN2.} E agora ¶2
+{IN2.} E agora %2
 q<ue>remos dezir delas}
 [fol. 48r]
 {HD. XI I}
@@ -7266,7 +7266,7 @@ das o se puedan ascond<er>. ca el çe-
 lo les faze esfurtarse e fuir. e silas
 colas e las alas touieren atadas
 mient<r><<a>> no<n> caçaren n<on> auran pod<er> de
-{IN2.} E q<u><<a>>ndo rodearen ¶2 rodear.
+{IN2.} E q<u><<a>>ndo rodearen %2 rodear.
 en el tiempo q<ue> no<n> fuer de
 so çelo. conuiene q<ue> tomen unos
 gusanos u<er>meios q<ue> se fazen en lo<<s>>
@@ -7758,7 +7758,7 @@ xv. dias. fasta q<ue> comiençen a na-
 gordezcanlas. E si nolas messa-
 ren engordezcanlas ca esso les
 fara echar mas ayna las pe<n>no-las.
-{IN2.} E agora q<ue>remos ¶2
+{IN2.} E agora q<ue>remos %2
 dezir las carnes delas
 aues q<ue> mas ayna faz echar las
 pe<n>nolas a[ ]las aues caçadores m-
@@ -8479,7 +8479,7 @@ mur e nol den a[ ]com<er> fasta q<ue>
 enmagresca. e despues machu-
 q<ue>nle e dengele a[ ]comer. ca esto
 les fara enmagrec<er>. e aq<u><<i>> se aca-
-ba el capitolo dozeno. ¶2 ([^2#xiij<<o>>])
+ba el capitolo dozeno. %2 ([^2#xiij<<o>>])
 {IN2.} E [a]gora q<ue>remos com<en>çar
 el capitolo treçeno q<ue> fa-
 bla de como podran co<n>noçer
@@ -8749,7 +8749,7 @@ g<r><<a>>ndes. en los paladares. e a[ ]la<<s>>
 uezes fazesseles en los q<ue>xares
 e[ ]so[ ]las lenguas. e[ ]estornudan
 mucho. & ynchan seles los pa-ladares.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 sennales de la canc[']re
 que seles faze en las foetas.
 e[ ]es que seles apegan las pen-
@@ -8764,7 +8764,7 @@ guas mucho a menudo por la<<s>>
 bocas. e fregan los picos con la<<s>>
 u<n>nas. E abren las bocas a[ ]las ue-
 zes un ora pos otra e[ ]estornuda<n>
-{IN2.} Estas son las sen-nales [¶2] mucho.
+{IN2.} Estas son las sen-nales [%2] mucho.
 del mal del yesso. e[ ]es
 queseles tornan los oyos en bla<n>-
 co et lag<r><<i>>mean les mucho. E en-
@@ -8959,7 +8959,7 @@ dela sangre sobeiana
 q<ue> seles retiene en los cuerpos.
 q<ue> les faze mal. e es q<ue> seles a-
 floxan los sobacos e estan t<r><<i>>-stes.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 se<n>nales de la enferme-
 dad q<ue>l dizen paralisia. e es
 q<ue> triemen e laten e latenles
@@ -8969,7 +8969,7 @@ ense. e tornan las cabeças co<n>-tra}
 atras. e muchas uezes les
 acaeçe q<ue> dessecan. e atomeçe<n>
 se fasta q<ue> cuedan q<ue> son mu-ertas.
-{IN2.} Estas son ¶2
+{IN2.} Estas son %2
 las sennales dela ca-
 lent<u><<r>>a. e es q<ue> se lagan las len-
 guas. e inchanles las uenas
@@ -9132,7 +9132,7 @@ ca mientre. e q<u><<a>>ndo no<n> torna<n>
 las cabeças atras q<u><<a>>ndo se sa-
 cuden. es por malabtia q<ue> an
 en las cabeças e en los pescue-ços.
-{IN2.} Estas son las sen-nales ¶2
+{IN2.} Estas son las sen-nales %2
 dela mucha u-
 midad q<ue> seles faze por com<er>
 las cosas q<ue> son much umidas.
@@ -9165,7 +9165,7 @@ de las lagas q<ue> seles fa-
 zen en los mienbros de den-
 tro en los cuerpos. e es q<ue> refu-
 elgan mucho e bocesan mu-cho.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 sennales de q<u><<a>>ndo se
 duelen delas cuestas o delas
 rayzes delas alas. e es q<ue> nos
@@ -9191,7 +9191,7 @@ e ensangrientan seles los pi-
 cos e no<n> tuellen si no<n> much
 adur. e suena<n>les los funda-
 mientos e no<n> tuellen bien so
-{IN2.} Estas son las ¶2 ceuo.
+{IN2.} Estas son las %2 ceuo.
 se<n>nales delas enfer-
 medades q<ue> seles fazen en la[^s ra]-
 badiellas e en las rayzes de
@@ -9220,7 +9220,7 @@ star q<ue>das.
 delas enfermedades
 q<ue> seles faze del frio. e es q<ue> en-
 magreçen mucho. e enflaq<ue>-çen.
-{IN2.} Estas son las sen-nales ¶2
+{IN2.} Estas son las sen-nales %2
 de q<u><<a>>ndo seles
 dannan sus complexio<n>es.
 e es q<ue> les duelen las cabeças.
@@ -9279,7 +9279,7 @@ ueno lo q<ue> tuellen. es q<ue> sea
 lo blanco delo q<ue> tuellen}
 {CB2.
 bien blanco. e lo negro q<ue> sea
-{IN2.} Estas son las ¶2 blando.
+{IN2.} Estas son las %2 blando.
 sennales dela malab-
 tia q<ue> dizen acuzant. e es q<ue>
 sea lo q<ue> tuellen mucho e u<er>de.
@@ -9315,12 +9315,12 @@ erpos en cima e en fondon.
 E otro tal demuestra q<u><<a>>ndo
 es lo que tuelle<n> redondo q<ue>
 no es tendido & lo echa<n> açer-ca
-{IN2.} Estas son las ¶2 de si.
+{IN2.} Estas son las %2 de si.
 sen<n>ales dela malab-
 tia q<ue> seles faze enlos figa-
 dos [*&] es que seles demuda
 [*lo] q<ue> tuelle<n> & uale mas. & es
-{IN2.} Estas son las ¶2 mas u<er>de
+{IN2.} Estas son las %2 mas u<er>de
 sen<n>ales dela calentu-
 ra que seles faze enlos figa-
 dos e es q<ue>[ ]lo que tuelle<n> es
@@ -9336,7 +9336,7 @@ la calentura les aya co<m>pre-
 sos los figados. & queles an-
 da por las uenas. & q<ue>se es
 apoderada la calentura e<n>
-{IN2.} Estas son las se-n<n>ales ¶2 ellos.
+{IN2.} Estas son las se-n<n>ales %2 ellos.
 dela tisica. &
 es queseles cambia lo q<ue> tue[lle]<n>
 de uerde. en amariello. & co<n>-
@@ -9348,7 +9348,7 @@ uenas uermeias. E ssi fue-
 re amariello puro q<ue> no y
 aya otra cosa desfiuze<n> se
 dellas ca non podra<n> gua-reçer.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 sen<n>ales del ofego. &
 es queseles cambia<n> lo que
 tuelle<n> de amariello en uer-
@@ -9398,7 +9398,7 @@ dela postema del costa-
 do. e es assi q<ue> lo q<ue> tuellen es
 uerde. elo negro dello no es a
 tal lo p<r><<i>>mero como lo postre-mero.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 se<n>nales delos gusanos
 q<ue>seles faze dentro en los cuer-
 pos. e es lo q<ue> tuellen negro e
@@ -9418,7 +9418,7 @@ se desfectionan de sos cu-
 erpos. e q<ue> son da<n>nadas de
 sus sustancias. e su color de
 las aues tornas en color de
-{IN2.} Estas son las ¶2 fezes.
+{IN2.} Estas son las %2 fezes.
 sennales dela creba<n>-
 tadura. e es q<ue> lo q<ue> tuellen
 es amariello e taiado.
@@ -9426,7 +9426,7 @@ es amariello e taiado.
 dela piedra. e es q<ue>
 lo q<ue> tuellen es u<er>de e delga-
 do. e a[ ]las uezes tuelle<n> san-gre.
-{IN2.} Estas son las ¶2
+{IN2.} Estas son las %2
 sennales dela ma-
 chucadura o dela ferida. e
 es q<ue> lo q<ue> tuellen es uerde. e
@@ -9481,7 +9481,7 @@ seles lo blanco del un oio
 no<n> seyendo en la muda.
 ca siles acaeçe q<u><<a>>ndo estan
 en la muda no es mala
-{IN1.} La t<er>cera ¶2 sennal.
+{IN1.} La t<er>cera %2 sennal.
 man<er>a es q<ue> tornan las ca-
 beças cont<r><<a>> las paredes. e
 allegan se a[ ]ellas de ma-
@@ -9600,7 +9600,7 @@ sto dan luego uozes.
 cierran las manos diestras
 (^e baten.) e no<n> se pueden sofrir
 sobrellas si n<on> poco. e baten las
-{IN1.} La .xviiij<<a>>. ma-nera ¶2 alas.
+{IN1.} La .xviiij<<a>>. ma-nera %2 alas.
 es q<ue> seles fazen unas en-
 fermedades en los figados
 e en los polmones. e esto les
@@ -9674,20 +9674,20 @@ beças. XII
 {IN1.} El .xij. cap<ito>lo fabla de co-
 mo las deuen melezinar
 del dolor q<ue> an en las cabe-ças
-XIII {IN1.} El .xiii. cap<ito>lo fa-bla ¶2
+XIII {IN1.} El .xiii. cap<ito>lo fa-bla %2
 de como las deue<n> me-lezinar}
 [fol. 91r]
 {HD. I II}
 {CB2.
 del dolor q<ue> seles fa-ze
-XIIII {IN1.} El .xiiij. cap<ito>lo ¶2 del frio.
+XIIII {IN1.} El .xiiij. cap<ito>lo %2 del frio.
 fabla de como las deuen me-
 lezinar dela uentosidad q<ue>
 seles faze en las cabeças XV
 {IN1.} El .xv. cap<ito>lo fabla de como
 las deuen melezinar dela
 flema q<ue> seles faze en las ca-beças.
-XVI {IN1.} El .xvi. cap<ito>lo fa-bla ¶2
+XVI {IN1.} El .xvi. cap<ito>lo fa-bla %2
 de como las deue<n> me-
 lezinar delas guermezes
 q<ue> seles faze en los oios XVII
@@ -9706,10 +9706,10 @@ dela sordedad. XX
 las deuen melezinar delas}
 {CB2.
 lagas q<ue> seles faze<n> en las goli-ellas.
-XXI {IN1.} El .xxi. cap<ito>lo fabla ¶2
+XXI {IN1.} El .xxi. cap<ito>lo fabla %2
 de como las deuen melezinar
 dela flema q<ue> seles faze en las
-XXII {IN1.} EL xxij. cap<ito>lo fa-bla ¶2 gullielas
+XXII {IN1.} EL xxij. cap<ito>lo fa-bla %2 gullielas
 de cumo[ ]les deue<n> me-
 lezinar delas postiellas q<ue>
 seles faze<n> enlas bocas. XXIII
@@ -9727,7 +9727,7 @@ XXVI {IN1.} EL .xxvj. cap<ito>lo fabla de
 cumo las deue<n> melezinar de
 la enfermedat que les faze
 sonar las narizes que es de XXVII
-{IN1.} EL xxvij. cap<ito>lo fa-bla ¶2 vmidat.
+{IN1.} EL xxvij. cap<ito>lo fa-bla %2 vmidat.
 de cumo[ ]les deue<n> me-
 lezinar dela enfermedat.}
 [fol. 91v]
@@ -9738,7 +9738,7 @@ q<ue> es de seq<ue>dad. XXVIII
 {IN1.} El .xxviij. cap<ito>lo fabla de co-
 mo las deuen melezinar del
 renner q<ue> seles faze en los pe-chos.
-XXIX {IN1.} EL .xxix. cap<ito>lo fa-bla ¶2
+XXIX {IN1.} EL .xxix. cap<ito>lo fa-bla %2
 de como las deuen me-
 lezinar delos gusanos q<ue>
 les suben delas moliellas
@@ -9761,7 +9761,7 @@ ar del ofego. XXXIIII
 {CB2.
 como las deuen melezinar
 del ensangostamie<n>to del
-XXXV {IN1.} El .xxxv. cap<ito>lo fa-bla ¶2 fuelgo.
+XXXV {IN1.} El .xxxv. cap<ito>lo fa-bla %2 fuelgo.
 de como las deuen me-
 lezinar delos limos q<ue> seles
 fazen en las moliellas. XXXVI
@@ -9821,7 +9821,7 @@ mo las deuen melezinar
 de la set. XLVIII
 {IN1.} El xL(<<o>>)viij<<o>>. cap<ito>lo fabla de co-
 mo las deuen melezinar del
-XLIX {IN1.} El xlviiij<<o>> cap<ito>lo [¶2] fastio.
+XLIX {IN1.} El xlviiij<<o>> cap<ito>lo [%2] fastio.
 fabla de como[ ]las deuen me-
 lezinar de q<u><<a>>ndo les dan mu-
 cho ceuo eles faze mal. L
@@ -9832,7 +9832,7 @@ las pennolas delas alas. LI
 {IN1.} El L.i<<o>>. cap<ito>lo fabla de como las
 deuen melezinar de ferida o
 de apertamiento que les fizo
-LII {IN1.} El .Lij<<o>>. cap<ito>lo fabla [¶2] mal.
+LII {IN1.} El .Lij<<o>>. cap<ito>lo fabla [%2] mal.
 de como las deuen melezi-
 nar dela mucha umidad q<ue> se
 les faze por comer las cosas
@@ -9861,7 +9861,7 @@ ydo q<ue> seles faze en los ui-
 entres. q<ue> semeia ronq<u><<i>>do. LVIII
 El .Lviij<<o>>. cap<ito>lo fabla de como
 las deuen melezinar] dela pie-dra
-LVII[II] {IN1.} El .Lviiij<<o>>. cap<ito>lo fabla ¶2
+LVII[II] {IN1.} El .Lviiij<<o>>. cap<ito>lo fabla %2
 de como las deuen melezinar
 delas enfermedades q<ue> se les fa-
 zen enlas rabadiellas e en las
@@ -9974,7 +9974,7 @@ dades paradas q<ue> no<n> crece<n> ni
 mi<n>guan no es atal como la
 q<ue>les an de faz<er>. q<u><<a>>ndo les co-
 miençan de mi<n>guar las en-fermedades.
-{IN2.} E por estas ¶2
+{IN2.} E por estas %2
 man<er>as destos mele-
 zinamie<n>tos q<ue>s desuarian
 los unos delos otros. e por}
@@ -10138,7 +10138,7 @@ can. e esto es por tal q<ue> no<n> la
 uuelan. ca silas oliesen ech-
 arlas yen q<ue> no<n> las q<ue>rrie<n> to-
 mar. E aq<u><<i>> se acaba el cap<ito>lo p<r><<i>>-mero.
-II {IN2.} Est es el segu<n>do ¶2
+II {IN2.} Est es el segu<n>do %2
 cap<ito>lo el q<ue> fabla de co-mo}
 {CB2.
 las deuen melezinar
@@ -10458,7 +10458,7 @@ complido. tanto q<u><<a>>nto en-
 tendieren q<ue> podran bien
 moler. ca esto les fara p<ro> co<n>
 dios. e aq<u><<i>> se acaba el .iiii(<<a>>)[<<o>>]. ca-p<ito>lo.
-V {IN2.} Est es el ¶2
+V {IN2.} Est es el %2
 .v. cap<ito>lo el q<ue> fabla}
 {CB2.
 de como las deuen mele-
@@ -11121,7 +11121,7 @@ fasta q<ue> se espesse el agua.
 e despues echenles dello
 por las narizes e faz<er> les a
 p<ro>. E aq<u><<i>> se acaba el .viii[<<o>>]. ca-p<ito>lo.
-IX {IN2.} Est es el no-ueno [¶2]
+IX {IN2.} Est es el no-ueno [%2]
 cap<ito>lo el q<ue> fa-bla}
 {CB2.
 de como las deuen
@@ -11798,7 +11798,7 @@ ceuo untado con miel.
 e con manteca. E si meio-
 raren con esto e si no e-
 chenles en las narizes
-¶2 que non sea mu-cho}
+%2 que non sea mu-cho}
 {CB2.
 salgado. e despues po<n>-
 ganlas en sus uaras. e des-
@@ -12335,7 +12335,7 @@ algodon moiado en agua
 fria. o en agua rosada. e las
 q<ue>mas sean en sos logares
 co<n>nocidos. e no<n> leguen las
-q<ue>mas alos picos. ni alos o-ios. ¶2}
+q<ue>mas alos picos. ni alos o-ios. %2}
 [fol. 116v]
 {HD. TIT<V>L<V>S L<IBER> +}
 {CB2.
@@ -13825,7 +13825,7 @@ ellas. E si uiere<n> gusanos en
 lo q<ue> tolliere<n>; denles carne
 de bestias tres dias un pos
 otro. E aq<u><<i>>s acaba el .xxix. ca-p<ito>lo.
-XXX {IN2.} E[*s]t es el ¶2
+XXX {IN2.} E[*s]t es el %2
 xxx. cap<ito>lo el q<ue> fa-
 bla de como las deuen me-
 lezinar dela enfermedad
@@ -15246,7 +15246,7 @@ de carne picada. & de<n>gelos.
 E q<u><<a>>ndolo ouiere<n> tollido de<n>-
 les lo q<ue> fincar de so çeuo. e[ ]a-
 qui se acaba el xxxvij. capitu-lo
-XXXVIII {IN2.} Est es el ¶2
+XXXVIII {IN2.} Est es el %2
 xxxviii. cap<ito>lo el q<ue>
 fabla de como las deuen
 melezinar de la fermedad
@@ -16160,7 +16160,7 @@ mester. e es les buena la car-
 ne de los erizos. e delas ha-
 bubiellas pora esta enferm-
 edad. E aqui se acaba el .xLij.
-XLIII {IN2.} Est es [¶2] capit<o>lo.
+XLIII {IN2.} Est es [%2] capit<o>lo.
 el .xLiij. cap<ito>lo el q<ue> fa-
 bla de como las deuen me-
 lezinar dela seq<ue>dad q<ue> seles
@@ -16422,7 +16422,7 @@ uado. e q<u><<a>>ndo lo ouieren m-
 olido. denles despues la car-
 ne remoiada en el uinag-
 re. E aq<u><<i>> se acaba el .xLiiij<<o>>. ca-p<ito>lo.
-XLV {IN2.} Est es el [¶2]
+XLV {IN2.} Est es el [%2]
 xLv<<o>>. cap<ito>lo. el q<ue> fab-
 la de como las deuen mele-
 zinar dela postema q<ue> seles
@@ -16688,7 +16688,7 @@ gua. e decenderles a lue-
 go ay[u]so aq<ue>llo q<ue> les endu-
 recio en los papos. E aq<u><<i>>[ ]se
 acaba el .xLvij<<o>>. cap<ito>lo. XL-VIII
-{IN2.} Est es el .xLviij<<o>>. [¶2]
+{IN2.} Est es el .xLviij<<o>>. [%2]
 cap<ito>lo. el q<ue> fabla de
 como las deuen melezi-
 nar del fastio. E dezimos
@@ -17616,7 +17616,7 @@ lanla. e lauenles las lagas
 co<n> uino anneio. e echen de-
 stos poluos q<ue> dixiemos en
 ellas. E aq<u><<i>> se acaba el .Lv<<o>>. ca-p<ito>lo.
-¶2}
+%2}
 [fol. 168r]
 {HD. TITVL<VS> LVI II +}
 {CB2.
@@ -17779,7 +17779,7 @@ ne de galap[ag]os. tanta q<u><<a>>nta
 entendiere<n> q<ue> auran mester.
 o tome<n> dela carne e enbu-
 eluanla en aluuras de ue-uos
-¶2}
+%2}
 [fol. 169v]
 {HD. TITVL<VS> L<IBER> +}
 {CB2.
@@ -18371,7 +18371,7 @@ en los oios. III
 {IN1.} El .iii. cap<ito>lo es de melezi-
 nar el agua espessa q<ue> les (^sa)[des]-
 cende en las niniellas delos
-IIII {IN1.} El .iiii. ca-p<ito>lo ¶2 oios.
+IIII {IN1.} El .iiii. ca-p<ito>lo %2 oios.
 es de melezinar la lag<r><<i>>-
 ma q<ue> les corre delos oios. V
 {IN1.} El .v. cap<ito>lo es de como las}
@@ -18383,7 +18383,7 @@ apegan las cuencas delos oios.
 VI {IN1.} El .vi. c<a>p<ito>lo es de melezin-
 ar la enfermedad de q<ue> no<n> ue-
 e(e)n desde ora de uiesp<er>as ade-lant.
-VII {IN1.} El .vii. cap<ito>lo es de ¶2
+VII {IN1.} El .vii. cap<ito>lo es de %2
 como las deuen melezinar de
 q<u><<a>>ndo las ynchan las cue<n>cas
 delos oios o q<ue>les engordece<n>. VIII
@@ -18398,7 +18398,7 @@ las deuen melezinar q<u><<a>>ndo se-
 les marrotan las pe<n>nolas. X
 {IN1.} El .x. cap<ito>lo es de melezinar
 la cançre q<ue> seles faze en las a(-)las
-XI {IN1.} El .xi. cap<ito>lo es de como ¶2
+XI {IN1.} El .xi. cap<ito>lo es de como %2
 las deuen melezinar de q<u><<a>>ndo
 se mesan ellas sus pennolas
 e las comen. XII
@@ -18412,7 +18412,7 @@ sos miembros. XIIII
 {IN1.} El .xiiii. cap<ito>lo es de como
 las deuen melezinar de q<u><<a>>n-
 do seles crebanta algun mi-embro.
-XV {IN1.} El .xv. cap<ito>lo es de ¶2
+XV {IN1.} El .xv. cap<ito>lo es de %2
 como las deuen melezinar
 delas morroydas q<ue> seles fa-
 zen en las palmas. XVI
@@ -18440,7 +18440,7 @@ nat<u><<r>>as dela fistola. XX
 deuen melezinar delos nu-
 dos q<ue> seles fazen en las pal-
 mas q<ue> semeia<n> cabeças de cla-uos
-XXI {IN1.} El .xxi. cap<ito>lo es de ¶2
+XXI {IN1.} El .xxi. cap<ito>lo es de %2
 como las deuen melezinar
 del uenino q<ue> seles faze en
 las palmas. XXII
@@ -18665,7 +18665,7 @@ e freguenles los oios con
 ellas. e remogenlas en ag<u><<a>>.
 e echenles en los oios daq<ue>l
 agua. E aq<u><<i>> se acaba el .ii<<o>>. ca-p<ito>lo.
-III {IN2.} El t<er>cero ca-pitolo ¶2
+III {IN2.} El t<er>cero ca-pitolo %2
 es de melezinar
 el agua espesa q<ue> les desce<n>de
 en las niniellas delos oios.
@@ -19191,7 +19191,7 @@ pennolas q<ue> se messaro<n>. e
 poluorengelos con los pol-
 uos desta melezina q<ue> dixi-
 emos. E aq<u><<i>> se acaba el .x. ca-pit<o>lo.
-XI {IN2.} El .xi. ¶2
+XI {IN2.} El .xi. %2
 cap<ito>lo es de como las
 deuen melezinar q<u><<a>>ndo se m-
 esan ellas sus pennolas e
@@ -19305,7 +19305,7 @@ gadas. e atengelo bien de a-
 mas partes. e con esto seles
 ap<er>taran las pe<n>nolas. e g<u><<a>>re-
 çran. E aq<u><<i>> se acaba el .xii. ca-pit<o>lo.
-XIII {IN2.} El .xiii. ¶2
+XIII {IN2.} El .xiii. %2
 cap<ito>lo es de como las
 deuen melezinar q<u><<a>>ndo seles
 descoyuntan alguno desos
@@ -20154,7 +20154,7 @@ fasta q<ue> mengue la meetad}
 della. e dexenlo atibiar. e des-
 pues untenlas co<n> ello. E aq<u><<i>>
 se acaba el .xxiii. cap<ito>lo. XX-IIII
-{IN2.} El .xxiiij. capit<o>lo [¶2]
+{IN2.} El .xxiiij. capit<o>lo [%2]
 es de como las deue<n>
 melezinar delas ladiellas.
 E dezimos assi q<ue> q<u><<a>>ndo les a-
@@ -21385,7 +21385,7 @@ na de dentro e de fuera. e a
 en este t<r><<a>>ctado .viiij. cap<ito>los.
 {IN1.} El .i. cap<ito>lo es de melezinar
 los delas enfermedades delos
-{IN1.} El .ii. cap<ito>lo es de m-elezinarlos ¶2 oios.
+{IN1.} El .ii. cap<ito>lo es de m-elezinarlos %2 oios.
 delas enferme-
 dades delas oreias.
 {IN1.} El .iii. cap<ito>lo es de melezi-
@@ -22136,7 +22136,7 @@ sobrel fuego. e dexe<n>lo fasta q<ue>
 se destie<m>p<re>. e despues unte<n>les
 los logares enfermos co<n> ello.
 una uez. E aq<u><<i>> se acaba el .viii.
-IX {IN2.} El .ix. ¶2 cap<ito>lo.
+IX {IN2.} El .ix. %2 cap<ito>lo.
 cap<ito>lo es de melezin-
 arlas delas rabadiellas. E de-
 zimos assi q<ue> q<u><<a>>ndo les acae-

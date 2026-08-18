@@ -168,7 +168,7 @@ fortuna.}
 ¶ Fortuna q<u><<a>>n criminosa
 te denotan tus hazañas
 muestras cara muy gracio-sa
-y tras ella la llorosa [¶2]}
+y tras ella la llorosa [%2]}
 {CB2.
 de suerte que nos engañas
 muestras bienes naturales
@@ -1233,7 +1233,7 @@ de figuras mas enteras
 feas & de mill maneras
 jnfinitos los tropeles
 ¶ Luego vieras por porte-ro
-d<e> pluto<n> y radama<n>ta [¶2]
+d<e> pluto<n> y radama<n>ta [%2]
 el atroce can ceruero
 libre nos dios verdadero
 de su trifauce garganta

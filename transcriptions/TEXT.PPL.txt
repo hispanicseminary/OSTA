@@ -292,7 +292,7 @@ o<m>e todas s<us> uolu<n>tades viene o<m>e
 en nat<ur>a de bestial. q<ue> es cobditia
 de si<n> razo<n>. & gozase el cuerpo q<ue>s
 pierde el seso. q<ue> no<n> ha de auer
-{RUB. El tractado s<egund>o es del +} ¶2 fin.
+{RUB. El tractado s<egund>o es del +} %2 fin.
 {RUB. Rey como deue ser en[ ]si}
 {IN2.} E conuiene q<ue> el Rey aya
 un no<m>bre sennallado q<ue> no<n> <con>ue<n>-
@@ -824,7 +824,7 @@ da. & q<ue> uos obedesca toda uia.
 <con> cuerpo. & <con> auer. & <con> q<u><<a>>ntol
 demandardes. Et <con>uiene q<ue>
 aya en el esta<<s>> man<er>as q<ue> yo di-go
-{IN1.} La p<r><<i>>mera ¶2
+{IN1.} La p<r><<i>>mera %2
 q<ue> sea <con>plido des<us> mie<n>bros. &
 q<ue> los aya escorrechos en toda
 ondra q<ue> deue fazer ¶ La .ij<<a>>.
@@ -913,7 +913,7 @@ sce<n>. & uienen a[ ]demandar su <con>-
 seio. & su aiuda. & q<ue> los conosce.
 & q<ue>les de algo delo suyo. & q<ue> sea
 creyente en dios. et en u<uest>ra cree<n>-cia.
-{IN2.} Sepades ¶2
+{IN2.} Sepades %2
 Alexandre q<ue> el om<n>e es de
 mas alta nat<ur>a q<ue> todas las ot<r><<a>>s
 cosas biuas deste mundo. & q<ue> no<n>
@@ -991,7 +991,7 @@ u<uest>ro. & si pudierdes q<ue> u<uest>ro esc<r><<i>>ua-
 no sea u<uest>ro alguazil. sera mu-
 y meior u<uest>ra fazienda. & mas
 en poridad. {RUB. Capitulo delos coge-dores +}
-{IN2.} Alexandre ¶2 {RUB. delas re<n>das }
+{IN2.} Alexandre %2 {RUB. delas re<n>das }
 sabedes q<ue> u<uest>ro pueblo es
 u<uest>ro thesoro. el q<ue> no<n> se pierde.
 & el q<ue> no<n> se pierde ayna cobra.
@@ -1455,7 +1455,7 @@ iiij. Q<u><<a>>t<r>o y .vj. los .iiij. ue<n>çe<n> a
 los .vj. Q<u><<a>>t<r>o y .v. los .v. ue<n>çe<n>
 alos .iiij. Q<u><<a>>t<r>o y .iiij. el q<ue> dema<n>-
 da uençe el dema<n>dador {RUB. Ca<pitulo> +}
-{IN2.} Cinco ¶2 {RUB. de .v.}
+{IN2.} Cinco %2 {RUB. de .v.}
 y. ix. los .v. uençe<n> alos
 .ix. v. y .viij. los .viij. ue<n>ce<n> alo<<s>>
 v. .v. & .vij. lo .v. uençe<n> alos
@@ -1620,7 +1620,7 @@ q<ue> ha los dientes <con>tra
 fuera et mucho tirados. es
 engan<n>oso & manso. & no<n>
 es om<n>e seg<ur>o del. {RUB. Ca<pitulo> dela +}
-{IN2.} El ¶2 {RUB. figura de la cara }
+{IN2.} El %2 {RUB. figura de la cara }
 q<ue> ha la cara gru<e>ssa. & en-
 chida. es torpe e de gruessa na-
 tura. ¶ Et el q<ue> ha la cara
@@ -1628,10 +1628,10 @@ magra et amariella es en-
 gan<n>oso. & artero & sanudo.
 ¶ El q<ue> ha la cara lue<n>ga es
 desu<er>guençado. {RUB. Ca<pitulo> de la +}
-{IN2.} El ¶2 {RUB. sienes}
+{IN2.} El %2 {RUB. sienes}
 q<ue> ha las sienes enchida
 de uenas es sanudo. {RUB. Ca<pitulo> +}
-{IN2.} El q<ue> ha ¶2 {RUB. delas oreias}
+{IN2.} El q<ue> ha %2 {RUB. delas oreias}
 las oreias grandes es tor-
 pe. mas es retenedor de lo
 q<ue> oye. ¶ El q<ue> ha las oreias
@@ -1667,7 +1667,7 @@ es torpe. & loco. & couarde.
 {IN2.} El q<ue> ha el uie<n>tre delgado
 & los pechos angostos es de bue<n>
 seso & de bue<n> <con>seio. {RUB. Ca<pitulo> del espina-ço +}
-{IN2.} El q<ue> ha ¶2 {RUB. & delos ho<n>bros}
+{IN2.} El q<ue> ha %2 {RUB. & delos ho<n>bros}
 el espinazo & los omb<r>os
 anchos es esforçado. & de poco
 seso. ¶ El q<u><<i>> ha el pescuezo
@@ -1690,7 +1690,7 @@ apuestos. ¶ El q<u><<i>> la a blan-
 da y apuesta es sabio & de
 buen ente<n>dimie<n>to. & el q<ue> la
 ha corta es loco. {RUB. Ca<pitulo> del +}
-{IN2.} El q<ue> ha ¶2 {RUB. pie}
+{IN2.} El q<ue> ha %2 {RUB. pie}
 el pie gruesso e peq<ue>-
 no muestra q<ue> es de poco en-
 tendimiento. ¶ El q<ue> ha
@@ -1709,11 +1709,11 @@ y loco. y torcado. ¶ Et el
 q<ue> nasçio castrado no<n> aura
 iamas barbas. & es peor
 por ello q<ue> el otro. {RUB. Ca<pitulo> del +}
-{IN2.} El q<ue> es ¶2 {RUB. fermoso}
+{IN2.} El q<ue> es %2 {RUB. fermoso}
 fermoso es de mal ta-
 lante y enuidioso y mal
 uent<ur>ado. {RUB. Ca<pitulo> delos passos +}
-{IN2.} El ¶2 {RUB. anchos}
+{IN2.} El %2 {RUB. anchos}
 q<ue> ha los passo hanchos
 & uagarosos es auent<ur>ador
 en todos s<us> fechos. & piensa to-
@@ -2172,7 +2172,7 @@ q<ue> la trahe el pescueço colgada.
 o en sortiia. o en el dedo. tuelle
 el demonio. si la touiere an<te>
 q<ue> ue<n>ga. {RUB. Ca<pitulo> dela piedra da-lahat +}
-{IN2.} Esta piedra es ¶2 {RUB. }
+{IN2.} Esta piedra es %2 {RUB. }
 tierna et luzia. & ha
 color de[ ]culuebra. y es de fria
 natura. q<ue> no<n> la q<ue>ma fuego.
@@ -2187,7 +2187,7 @@ una piedra q<ue> paresca. p<re>cian
 le los om<n>es. [¶] Et sil
 touiere o<m>e q<ue> q<ui>era lidiar. nol
 cometra ni<n>gu<n> o<m>e. {RUB. Ca<pitulo> dela +}
-{IN2.} Esta piedra ¶2 {RUB. piedra t<ur>q<ue>sa}
+{IN2.} Esta piedra %2 {RUB. piedra t<ur>q<ue>sa}
 p<re>cian la mucho toda
 hora los reyes. & los gra<n>des o<me>s
 auien muchas dellas. & la su

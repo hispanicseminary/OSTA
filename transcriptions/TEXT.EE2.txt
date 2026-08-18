@@ -835,7 +835,7 @@ es Antioles.
 {CB2.
 ¶ La nouena; es Mesopotamia. & su Arçobispa-
 do es Aran q<ue> otra guisa fue llamada Car-ras.
-¶ La dezena; es Siria la de suso. & su Ar-çobispado ¶2
+¶ La dezena; es Siria la de suso. & su Ar-çobispado %2
 es Damasco.
 ¶ La onzena; es Celessiria q<ue> otra guisa es lla-
 mada Phenicia. & su Arçobispado. es Thiro.
@@ -32015,7 +32015,7 @@ sogas por el muro & cogiero<n> alos
 almorauides dentro {RUB. ¶ Cap<itu>lo .lij.
 de co<m>mo yahy el Rey de ualencia
 salio del alcaçar por los almoraui-des +}
-{IN2.} ENtonçe el Rey uistiose ¶2 {RUB.}
+{IN2.} ENtonçe el Rey uistiose %2 {RUB.}
 uestiduras de mug<e>r & sallio
 del alcaçar en co<m>pa<n>na de sus mu-
 geres & metiosse en vna casa peq<ue>n-
@@ -32443,7 +32443,7 @@ no el arraual q<ue> dize<n> el alcudia & +}}
 [fol. 203v]
 {CB2.
 {RUB. co<m>mo saliero<n> los almorauides de +}
-{IN2.} EN esta sazo<n> lego vn ¶2 {RUB. valencia}
+{IN2.} EN esta sazo<n> lego vn %2 {RUB. valencia}
 alguazil del Rey de çaragoça
 ala hueste del çid co<n> Lx. cauall<er>os
 ¶ Et dixo al çid q<ue> enbiaua el Rey de
