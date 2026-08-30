@@ -16905,7 +16905,7 @@ ua ca no<n> fue dada a <Cristo> viuje<n>do mas
 despu<e>s de su mue<r>te segun pone<n> todos
 los eua<n>gelistas. Pu<e>s paresçe de lo
 suso dicho segujr q<ue> <Cristo> verdaderame<n>te
-no<n> moriesse. {AD. {RUB. [^ 241. Cap<itulo> 241. De la man<er>a & causa de la
+no<n> moriesse. {AD. {RUB. [^241. Cap<itulo> 241. De la man<er>a & causa de la
 mue<r>te de <Cristo> & de colligaçio<n> & ayu<n>tamj<ento> de las pote<n>çias
 rrazonables
 en nos & como
@@ -17885,7 +17885,7 @@ de Dios no<n> se puede tirar ca luego no<n> seria
 el del todo bie<n>aue<n>turado pu<e>s siguesse q<ue>
 Dios no<n> puede morir. Otras muchas rra-
 zones hay p<ar>a esto p<ro>uar de las q<u><<a>>les al p<re>-
-sente no<n> curo por (nj<n>) [no<n>] dilatar. {AD. {RUB. [^ Cap<itulo> 256.
+sente no<n> curo por (nj<n>) [no<n>] dilatar. {AD. {RUB. [^Cap<itulo> 256.
 De <Cristo> en q<u><<a>>nto onbre p<ro>p<ri>ame<n>te se dize q<ue> morio et no<n>
 se puede dezir q<ue> no<n> morio & en q<u><<a>>nto Dios se dize q<ue>
 no<n> morio &
@@ -33339,7 +33339,7 @@ obrar et porq<ue> podiesse<n> seer libres del
 peccado original daua q<ue> por q<u><<a>>lqujer
 acto bueno q<ue> el onbre fiziesse dirigi-
 endolo en Dios fuesse libre de la culpa
-original. {AD. {RUB. [^ 465. Cap<itulo> 465. La segu<n>da et
+original. {AD. {RUB. [^465. Cap<itulo> 465. La segu<n>da et
 t<er>çera rrazo<n> por q<ue> fue co<n>uenje<n>te jnstituir el baptismo despu<e>s
 de la passio<n> de <Cristo> et
 como te<n>ga exçelle<n>çia

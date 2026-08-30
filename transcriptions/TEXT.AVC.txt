@@ -1337,7 +1337,7 @@ por parte del gouernador Fran<çis><<co>> Bazq<ue>z
 de Coronado σobre lo contenido en σuσ deσ-
 cargoσ σe pregunten por laσ preg<unt><<a>>σ d<e>σte
 ynterrogatorio
-{GL. [^ j]}
+{GL. [^j]}
 primeramente σean preguntadoσ si conoσçen
 al d<ic>ho Fran<çis><<co>> Bazquez de Coronado gover-
 nador y capitan general por σu

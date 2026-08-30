@@ -36408,12 +36408,12 @@ ra auer; ante que fuesse corro<m>-
 pida et esto segunt fuero. [^¶ {LAT. Jstos duos foros
 non dictamin<us>.}
 Estos dos fueros non dictamos]
-{LAT. [^ [?]apine pena<lis>
+{LAT. [^[??]apine pena<lis>
 [p]eccu<n>iariam
-[?]decuplum
-[?]<con>stat refenj
+[??]decuplum
+[??]<con>stat refenj
 [r]apta inipso
-[?]cuplo <con>tinet<u><<r>>]} {RUB. {LAT. De +}}
+[??]cuplo <con>tinet<u><<r>>]} {RUB. {LAT. De +}}
 {RUB. {LAT. bonis raptorum.} ES assaber
 delos bienes delos robadores.}
 {IN7. {MIN=.}} Qui quiere
@@ -37368,7 +37368,7 @@ fuere puesto de <con>poner con
 la partida. o de parescer ante
 lalcalde o no<n> diere fiador de
 dreito. pagara .v. s<ueldo>s por pena.
-{IN9. {MIN=.}} {LAT. [^ Istud forum
+{IN9. {MIN=.}} {LAT. [^Istud forum
 non ditamin<us>.]}
 {RUB. {LAT. De penis}
 De las penas}
@@ -37507,7 +37507,7 @@ daq<ue>ill que tiene el su logar.
 quar el dema<n>dador ante q<ue>
 diesse tal fiador; sin lice<n>tia
 de ninguno se puede q<u><<i>>tar
-daqueilla demanda. {LAT. [^ Relicta fueru<n>t
+daqueilla demanda. {LAT. [^Relicta fueru<n>t
 ad deliberandu<m>]} {RUB. {LAT. De i<n>iurij<<s>>} +}
 {IN9. {MIN=.}} {RUB. es assaber
 de las in-

@@ -14716,7 +14716,7 @@ resçe limosna que amor njn bien q<ue>re<n>-
 çia. çierto Σospechosa cosa es ca por
 tal lo faƽen por que rresçiban mas q<ue>
 non es Σu Σerujçio o ayuda q<ue> ento<n>-
-çe faƽen {GL. [^ nesçessid[??]]} ¶ Por quelos om<bre>s q<ue> son
+çe faƽen {GL. [^nesçessid[??]]} ¶ Por quelos om<bre>s q<ue> son
 puestos en aduerssidat o pobreƼa
 mas deΣean los benefiçios delos amj-
 gos por rraƽon o de σolaƽ q<ue> aq<ue>llos
@@ -31358,7 +31358,7 @@ brantada & destroyda la fieridat & te-
 rribilidat delos cartaginesos com<m>o co-
 meçaron a sser delicados & llenos de de-
 leytes assy com<m>o era<n> las huestes delos
-camanos {GL. [^ ¶ n<ot><<a>> de caualleros
+camanos {GL. [^¶ n<ot><<a>> de caualleros
 & delicados]} {RUB. Valerio} ¶ que cosa es}
 [fol. 206r]
 {HD. Noueno +}

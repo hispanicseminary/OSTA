@@ -15845,7 +15845,7 @@ lloran segun condiçio<n> de muger co<n> los
 estantes en angustia & ama<n> a los amj-
 gos que se duele<n> con ellos enp<er>o en
 todas las cosas cumple rremedar a los
-mejores. {RUB. [^ 126 Ca<pitulo> .126. Q<ue> los amjgos deue<n> llamar
+mejores. {RUB. [^126 Ca<pitulo> .126. Q<ue> los amjgos deue<n> llamar
 a los otros
 sus amjgos
 muy ayna p<ar>a
@@ -16220,7 +16220,7 @@ sobrepuja<n> pu<e>s como los amjgos
 p<ro>uechosos busque<n> mas a los prodigos
 que a los liberales manjffiesto es q<ue>
 ellos no<n> busca<n> algun desseo o obra de
-bondad mas solame<n>te el prouecho. {RUB. [^ 130 Cap<itulo> .130. Q<ue> alg<uno>s so<n> amj-
+bondad mas solame<n>te el prouecho. {RUB. [^130 Cap<itulo> .130. Q<ue> alg<uno>s so<n> amj-
 gos de los onbr<e>s mas non
 de los mjsmos onbres ansi
 como los p<ro>uechosos & los
@@ -16849,7 +16849,7 @@ esta clarame<n>te en el Ecclesiastico en el c<apitulo>
 {BLNK.} ten mjll paçifficos et amjgo vno
 de mjll. Enp<er>o la p<ri>mera de estas dos pos-
 tremeras sente<n>çias mas conujene al pla-
-tonjco dicho. {RUB. [^ 134.
+tonjco dicho. {RUB. [^134.
 ¶ Cap<itulo> .134. Ex-
 posiçio<n> de la se-
 gunda p<ar>te del

@@ -281,7 +281,7 @@ T<itull><<o>> de fidadores.}
 {CB1.
 ¶ En q<ue> man<er>a deue om<n>e p<ro>uar su fiador xlvij
 Como puede uedar las fianças
-¶ Q<u><<i>>en puede s<er> fiança de dreyto.[^ A q<ue> son tenidas las c<r><<e>>at<ur>as dela fia<n>ça.]
+¶ Q<u><<i>>en puede s<er> fiança de dreyto.[^A q<ue> son tenidas las c<r><<e>>at<ur>as dela fia<n>ça.]
 A q<ue> (^son) [^es] tenido(^s) el fiador al credor
 ¶ Q<ue> cosas puede peynd<r><<a>>r el fiador
 Como no<n> deue s<er> desh<e>r<e>dado ni<n>guno
@@ -1958,7 +1958,7 @@ nos por fuero. por here-
 damiento. o por mueble que
 se constreynga por seynal del
 amirat et deuemos leuar fu<er>o
-ante el alcalde forano [^ et el alcalde ruano. et] El al-
+ante el alcalde forano [^et el alcalde ruano. et] El al-
 calde ruano deue ser de parte
 de dentro del portal. & el alcalde
 forano fuera del portal. & am-
@@ -2113,7 +2113,7 @@ oales deue casar el Rey.}
 por que podiesse durar
 el Regno. que todo Rey que
 ouiere fijos de leyal coniugio
-dos o tres. o mas [^ fijos] o fijas pues
+dos o tres. o mas [^fijos] o fijas pues
 que el padre moriere el fijo
 maior herede el regno. & la otra
 h<er>mandat que partan el mue-
@@ -3549,7 +3549,7 @@ ro. ouiere conuenienças con
 xp<<i>><sti>ano. en todas las sobredic-
 has cosas lun testigo deue ser
 dela una ley. & lotro testigo deue
-ser (^ dela una ley. & el otro testigo)
+ser (^dela una ley. & el otro testigo)
 dela otra ley. quoales fueren las
 personas que fazen las conue-
 nienças deuen ser scriptos los
