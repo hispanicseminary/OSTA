@@ -713,7 +713,7 @@ general; & tomada grossa ment.
 & yo quiero la departir. & esplanar.
 & mostrar de que manera se deuen
 tomar estas significationes con
-la aiuda de dyos. {RUB. {IN1.} El capitulo se-gundo +}}
+la aiuda de dyos. {RUB. {IN1.} El capitulo se-gundo ⇒}}
 {CB2.
 {RUB. fabla en la differe<n>cia de las
 yentes segund las diu<er>sitades de sus
@@ -1256,7 +1256,7 @@ destas costellationes sobredichas
 {RUB. {IN1.} Capitulo sexto fabla en las t<er>m[in]at<i>o<n>es
 de los tyempos quando accaeceran
 las significat<i>ones de los accidentes
-sobredichos. & es partido en dos ma-neras. +}}
+sobredichos. & es partido en dos ma-neras. ⇒}}
 {CB2.
 {RUB. & la p<r><<i>>mera manera es p<ar>tida
 en tres p<ar>tes. & las costellationes de
@@ -1602,7 +1602,7 @@ son iupit<er> & mars en la .viij<<a>>. casa.
 & el sol en la .v<<a>>. ¶ Et en la .iiij<<a>>. fi-
 gura son iupit<er> & mars. en la .viij<<a>>.
 casa. & sol en la .xi<<a>>. %3 {RUB. en esta manera.}
-{RUB. {IN1.} Et depues camiaron las figuras +}}
+{RUB. {IN1.} Et depues camiaron las figuras ⇒}}
 {CB1.
 {=DIAG=. | prima. Jupit<er>. Mars. Sol. |
 s<ecund>a. Sol[.] Jupit<er> Mars. |
@@ -1727,7 +1727,7 @@ casa. & saturno et iupit<er> en la .xi<<a>>.}
 la .viij<<a>>. casa. saturnus et iupit<er> en
 la .v<<a>>. ¶ Et en la quarta figura es
 mars en la .viij<<a>>. casa. & saturn<us> et
-iupiter en la undecima. {RUB. {IN1.} Esta es +}}
+iupiter en la undecima. {RUB. {IN1.} Esta es ⇒}}
 {CB1.
 {RUB. la segonda orden destas Mismas constellationes en q<ue> son las dos planetas
 ayuntadas. & la una de las otras dos q<ue> fican en su quadradura destas Mismas
@@ -2180,7 +2180,7 @@ en la .vi<<a>>. ¶ En la quarta figura
 es mars en la nouena casa. Sat-
 urnus et iupit<er> son en la .xij<<a>>.
 {RUB. {IN1.} Esta es la tercera orden de las
-significationes de los terminos +}}
+significationes de los terminos ⇒}}
 {CB1.
 {RUB. sobredichos segund el ayuntamento de las dos planetas. & la quadradura
 de la otra. q<ue> uan por el acendent. & la quarta casa. & la .vij<<a>>. & la decima.}}
@@ -2856,7 +2856,7 @@ iupiter son en la quarta casa.
 ¶ En la quarta figura es mars
 en la .vij<<a>>. casa. saturn<us> & iupit<er>
 son en la .x<<a>>. casa.
-{RUB. {IN1.} El affinamento del Judizio +}}
+{RUB. {IN1.} El affinamento del Judizio ⇒}}
 {CB1.
 {RUB. destas treynta & seyes figuras sobredichas.}}
 {CB2.
@@ -3754,7 +3754,7 @@ figura es el sol en la t<er>cera casa.
 mars en la .vi<<a>>. iupit<er> en la .ix<<a>>.
 ¶ En la qua[^r]ta figura es el sol en
 la t<er>cera casa. Jupit<er> en la .ix<<a>>. mars
-en la .xij<<a>>. {RUB. {IN1.} Et depues camyaron +}}
+en la .xij<<a>>. {RUB. {IN1.} Et depues camyaron ⇒}}
 {CB2.
 {RUB. las figuras en esta otra manera.}}
 {CB1.
@@ -4333,7 +4333,7 @@ en la quarta casa. saturn<us> en la
 vij<<a>>. ¶ En la quarta figura es
 mars en el ascende<n>t. Saturn<us>
 en la .vj<<a>>. casa. Jupit<er> en la .x<<a>>.
-{RUB. {IN1.} Et depues camyaron las fig<ur>as +}}
+{RUB. {IN1.} Et depues camyaron las fig<ur>as ⇒}}
 {CB1.
 {RUB. en esta otra manera.}
 {=DIAG=. | p<r><<i>>ma. Jupit<er>[.] Sol. M<<a>>rs. |
@@ -4620,7 +4620,7 @@ figuras oppositas. segond los
 iudizios antedichos. q<ue> son
 dichos en las figuras ayun-
 tadas. {RUB. {IN1.} El capitulo septimo
-fabla en las faziendas de los +}}
+fabla en las faziendas de los ⇒}}
 {CB1.
 {RUB. Reyes. & de sus aduersarios. & de sus enemigos. & enpleyto de matanças
 & de uencementos los unos a los otros. & en las costellationes q<ue> significa<n>
@@ -4743,7 +4743,7 @@ gura es Jupit<er> en el ascende<n>t. el
 Sol & Ma[r]s son en la .vij<<a>>. casa. & la
 cabeça del dragon es en la .x<<a>>.}
 {CB2.
-{RUB. {IN1.} El quarto capitulo de los Reyes[.] +}}
+{RUB. {IN1.} El quarto capitulo de los Reyes[.] ⇒}}
 {CB2.
 {RUB. & de sus enemigos en la costella-
 tion sobredicha. segund el mu-
@@ -4818,7 +4818,7 @@ q<u><<a>>rta. Sol. Ma<<r>>s[.] caput. Sat<ur>n<us>. |
 q<u><<i>>nta. Sol. M<<a>>rs. caput[.] Jupit<er>. |
 .vj<<a>>. Jupit<er>. Sol. M<<a>>rs. caput. |
 .vij<<a>>. M<<a>>rs. Sol. caput[.] Jupit<er> |
-.viij<<a>>. Sol. Mars. caput. Jupit<er>. | +}}
+.viij<<a>>. Sol. Mars. caput. Jupit<er>. | ⇒}}
 {CB2.
 {IN1.} En estas figuras primeras es
 el catamiento sextil. ¶ Et en}
@@ -4829,7 +4829,7 @@ trino.}
 {=DIAG=. | .ix<<a>>. Saturn<us>. caput. Sol. M<<a>>rs[.] |
 .x<<a>>. Saturn<us>. caput. Sol. M<<a>>rs. |
 .xi<<a>>. Saturn<us>. Caput. M<<a>>rs. Sol. |
-.xij<<a>>. Sat<ur>n<us>[.] caput. Sol. Mars. | +}}
+.xij<<a>>. Sat<ur>n<us>[.] caput. Sol. Mars. | ⇒}}
 [fol. 38v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -5368,7 +5368,7 @@ quarta. Sol. Saturn<us>. Mars. |
 quinta. Sol. Sat<ur>n<us>. M<<a>>rs. |
 Sexta. M<<a>>rs. Sat<ur>n<us>. Sol. |
 .vij<<a>>. M<<a>>rs. Sol[.] Sat<ur>n<us>. |
-.viij<<a>>. Sat<ur>n<us>. M<<a>>rs. Sol. | +}}
+.viij<<a>>. Sat<ur>n<us>. M<<a>>rs. Sol. | ⇒}}
 [fol. 42v]
 {HD. CAPITULO +}
 {CB1.
@@ -5562,7 +5562,7 @@ son Saturno. & Mars en el ascendent.
 el sol en la .x<<a>>. casa. ¶ En la q<u><<i>>nta fig<ur>a
 son Jupit<er> & Mars en el ascendent. el sol en la quarta casa. ¶ En la .vj<<a>>. figura
 son iupit<er> & Mars en el ascendent. el sol en la decima casa. {RUB. {IN1.} Et
-depues ca-myaron +}}
+depues ca-myaron ⇒}}
 [fol. 44r]
 {HD. IX}
 {CB1.
@@ -5608,7 +5608,7 @@ manera.}
 {=DIAG=. | prima. Sol. Jupit<er>. Sat<ur>n<us>. |
 s<ecund>a. Jupit<er>. Sat<ur>n<us>. Sol. |
 tercia. Sol. M<<a>>rs. Sat<ur>n<us>. |
-quarta. M<<a>>rs. Sat<ur>n<us>. Sol. | +}}
+quarta. M<<a>>rs. Sat<ur>n<us>. Sol. | ⇒}}
 [fol. 44v]
 {HD. CAPITULO +}
 {CB1.
@@ -5735,7 +5735,7 @@ camyaron las fig<ur>as en esta otra manera.}
 {=DIAG=. | prima. Sol. Sat<ur>n<us>. Jupit<er>. |
 s<ecund>a. Sat<ur>n<us>. Jup<iter>. Sol. |
 tercia. Sol. Sat<ur>n<us>. M<<a>>rs. |
-quarta. Sat<ur>n<us>. M<<a>>rs. Sol. | +}}
+quarta. Sat<ur>n<us>. M<<a>>rs. Sol. | ⇒}}
 [fol. 46r]
 {HD. IX}
 {CB1.
@@ -5772,7 +5772,7 @@ figura son iupiter et Mars en la duodecima casa. el Sol en la nouena.
 {RUB. {IN1.} Et depues camyaron las figuras en esta otra manera.}
 {=DIAG=. | prima. Jupit<er>. Sol[.] Saturno. |
 s<ecund>a. sat<ur>no. Sol[.] Jupit<er>. |
-tercia. Sat<ur>n<us>. Sol. Jupit<er>. | +}}
+tercia. Sat<ur>n<us>. Sol. Jupit<er>. | ⇒}}
 [fol. 46v]
 {HD. CAPITULO +}
 {CB1.
@@ -6188,7 +6188,7 @@ cendent. iupit<er> & Mars son en la
 decima casa. ¶ En la octaua fi-
 gura es la luna en la septima casa.
 Jupit<er> & Mars en la decima. {RUB. {IN1.} El
-tercero capitulo en esta razon q<ue> es +}}
+tercero capitulo en esta razon q<ue> es ⇒}}
 [fol. 50v]
 {HD. CAPITULO +}
 {CB2.
@@ -6304,7 +6304,7 @@ en la quarta casa. Jupit<er> en la
 {=DIAG=. | prima. Jupit<er>. Sol. M<<a>>rs. |
 s<ecund>a. M<<a>>rs. Jupit<er>. Sol. |
 tercia. Sol. Jupit<er>. M<<a>>rs. |
-quarta. Jupit<er>. M<<a>>rs. | +}}
+quarta. Jupit<er>. M<<a>>rs. | ⇒}}
 [fol. 51v]
 {HD. CAPITULO +}
 {CB1.
@@ -7643,7 +7643,7 @@ q<u><<a>>rta. sol. Sat<ur>no M<<a>><r>s. |
 quinta. M<<a>>rs. Sol. sat<ur>no |
 Sexta. Sol. sat<ur>no. M<<a>>rs. |
 .vij<<a>>. M<<a>>rs. Sol. sat<ur>no. |
-viij<<a>>. sol. Sat<ur>no. M<<a>>rs. | +}}
+viij<<a>>. sol. Sat<ur>no. M<<a>>rs. | ⇒}}
 [fol. 62r]
 {HD. X}
 {CB1.
@@ -7690,7 +7690,7 @@ quarta. Sol. Jupit<er>. Saturno. |
 quinta. Saturno. Sol. Jupit<er>. |
 Sexta. Saturno. Sol. Jupit<er>. |
 .vij<<a>>. Saturno. Sol. Jupit<er>. |
-viij<<a>>. Sol. Jupit<er>. Saturno. | +}}
+viij<<a>>. Sol. Jupit<er>. Saturno. | ⇒}}
 [fol. 62v]
 {HD. CAPITULO +}
 {CB1.
@@ -8842,7 +8842,7 @@ aq<ue>l grand homne en la t<ier>ra del Rey.}
 {=DIAG=. | prima. Mars. Jupit<er>. sol. Saturno. |
 s<ecund>a. Mars. sol. Jupit<er>. Saturno. |
 tercia. Jupit<er>. Sol. Saturno. Mars. |
-q<u><<a>>rta. Jupit<er>. Saturno. Mars. Sol. | +}}
+q<u><<a>>rta. Jupit<er>. Saturno. Mars. Sol. | ⇒}}
 [fol. 76v]
 {HD. CAPITULO +}
 {CB1.
@@ -8959,7 +8959,7 @@ seran uencidos & mal andantes
 {=DIAG=. | prima. Saturno. Jupit<er>. Mars. |
 s<ecund>a. Sol. Jupiter. Mars. |
 tercia. M<<a>>rs. Jupiter. Sat<ur>no. |
-q<u><<a>>rta. Mars. Jupiter. Sol. | +}}
+q<u><<a>>rta. Mars. Jupiter. Sol. | ⇒}}
 [fol. 77v]
 {HD. CAPITULO +}
 {CB1.
@@ -9291,7 +9291,7 @@ dadas. & fogos. & lo que a estas cosas semeian.
 {=DIAG=. | prima. caput. Sol. Sat<ur>no. Jup<iter>. M<<a>>rs. |
 s<ecund>a. Sat<ur>no. Jup<iter>. M<<a>>rs. Sol. Caput. |
 tercia. Sat<ur>no. Jup<iter>. M<<a>>rs. Caput. Sol. |
-quarta. Sat<ur>no. Jup<iter>. M<<a>>rs. Caput. Sol. | +}}
+quarta. Sat<ur>no. Jup<iter>. M<<a>>rs. Caput. Sol. | ⇒}}
 [fol. 80r]
 {HD. XII}
 {CB1.
@@ -10183,7 +10183,7 @@ Jupiter en la nouena.}
 {=DIAG=. | prima. Saturno. Sol. Jupit<er>. |
 s<ecund>a. Sol. Jupit<er>. Sat<ur>no. |
 tercia. Jupit<er>. Sol. Sat<ur>no. |
-quarta. Sol. Saturno. Jupit<er>. | +}}
+quarta. Sol. Saturno. Jupit<er>. | ⇒}}
 [fol. 87v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -11522,7 +11522,7 @@ para Myentes en estos dichos.
 gunt las Rayzes ante dichas.
 & acertaras con dyos.
 {RUB. {IN1.} Otro capitol desta misma razon.
-q<ue> es del .xix<<o>>. capitol q<ue> significa +}}
+q<ue> es del .xix<<o>>. capitol q<ue> significa ⇒}}
 {CB2.
 {RUB. co[n]q<u><<i>>sta de uillas. & de castiellos}
 {IN2.} Et quando tu fallares Jupit<er>
@@ -11950,7 +11950,7 @@ ra es el Sol en acendent. Saturno en la segonda casa. Mars en la quarta.
 {=DIAG=. | prima. Sol. Sat<ur>no. M<<a>>rs. |
 s<ecund>a. Saturno. Sol. M<<a>>rs. |
 tercia. Sol. M<<a>>rs. Saturno. |
-quarta. Sol. M<<a>>rs. Saturno. | +}}
+quarta. Sol. M<<a>>rs. Saturno. | ⇒}}
 [fol. 102v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -12043,7 +12043,7 @@ ta figura es Jupiter en la tercera casa. Mars en la .vij<<a>>. el Sol en la .x<<
 {=DIAG=. | prima. Sol Saturno. M<<a>>rs. |
 s<ecund>a. Saturno. Sol. M<<a>>rs. |
 tercia. Saturno. Sol. M<<a>>rs. |
-q<u><<a>>rta. Saturno. Sol. M<<a>>rs. | +}}
+q<u><<a>>rta. Saturno. Sol. M<<a>>rs. | ⇒}}
 [fol. 103v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -12109,7 +12109,7 @@ Maneras de cada part.}
 {=DIAG=. | prima. Jupit<er>. Saturno. M<<a>>rs. Sol. |
 s<ecund>a. Jupit<er> Saturno. M<<a>>rs. Sol |
 tercia. M<<a>>rs. Sol. Sat<ur>no. Jupit<er>. |
-quarta. M<<a>>rs. Sol. Jupit<er>. Saturno. | +}}
+quarta. M<<a>>rs. Sol. Jupit<er>. Saturno. | ⇒}}
 [fol. 104r]
 {HD. XXII}
 {CB1.
@@ -12192,7 +12192,7 @@ Mars enla .viij<<a>>. {RUB. {IN1.} Et depues camyaron las figuras en esta manera
 {=DIAG=. | prima. sol. Jupit<er>. Saturno. M<<a>>rs. |
 s<ecund>a. M<<a>>rs. Jupit<er>. Sat<ur>no. Sol. |
 tercia. M<<a>>rs. Jupit<er>. Sat<ur>no. Sol. |
-q<u><<a>>rta. M<<a>>rs. Sat<ur>no. Jupit<er>. Sol | +}}
+q<u><<a>>rta. M<<a>>rs. Sat<ur>no. Jupit<er>. Sol | ⇒}}
 [fol. 105r]
 {HD. XXII}
 {CB1.
@@ -12271,7 +12271,7 @@ la sexta casa. el Sol enla nouena. ¶ En la quinta figura son Sat<ur>no
 {=DIAG=. | prima. Jupit<er>. Sat<ur>no. M<<a>>rs. Sol |
 s<ecund>a. M<<a>>rs. Sol. Jupit<er>. Sat<ur>no. |
 tercia. M<<a>>rs. Sol. Jupit<er>. Sat<ur>no. |
-quarta. Mars. sol. Sat<ur>no. Jupit<er>. | +}}
+quarta. Mars. sol. Sat<ur>no. Jupit<er>. | ⇒}}
 [fol. 106r]
 {HD. XXII}
 {CB1.
@@ -12351,7 +12351,7 @@ sol enla quarta casa. Saturno. & Jupit<er> enla .v<<a>>. Mars enla .vij<<a>>.
 {=DIAG=. | prima. Sol Sat<ur>no. Jupit<er>. M<<a>>rs. |
 s<ecund>a. Sat<ur>no. Jupit<er>. Sol. M<<a>>rs. |
 t<er>cia. Sat<ur>no. Jupit<er>. Sol. M<<a>>rs. |
-q<u><<a>>rta. Sat<ur>no. Jup<iter>. Sol. M<<a>>rs. | +}}
+q<u><<a>>rta. Sat<ur>no. Jup<iter>. Sol. M<<a>>rs. | ⇒}}
 [fol. 107r]
 {HD. XXII}
 {CB1.
@@ -12607,7 +12607,7 @@ casa. Jupiter. & Mars enla nouena. Saturno enla onzena.
 {=DIAG=. | prima. M<<a>>rs. Sol. Sat<ur>no. Jupit<er>. |
 s<ecund>a. Jupit<er>. Sol. Sat<ur>no. M<<a>>rs. |
 tercia. Sol. Jupit<er>. Sat<ur>no. M<<a>>rs. |
-quarta. Sat<ur>no. Sol. Jupit<er>. M<<a>>rs. | +}}
+quarta. Sat<ur>no. Sol. Jupit<er>. M<<a>>rs. | ⇒}}
 [fol. 110r]
 {HD. XXIII}
 {CB1.
@@ -12723,7 +12723,7 @@ son Jupit<er> & Mars enla quarta casa. el sol enla .x<<a>>. Saturno enla .xij<<a
 {=DIAG=. | p<r><<i>>ma. Sat<ur>no. Jup<iter>. M<<a>>rs. Sol. |
 s<ecund>a. Sat<ur>no. M<<a>>rs. Jupit<er>. Sol. |
 tercia. Sat<ur>no. M<<a>>rs. Sol. Jupit<er>. |
-q<u><<a>>rta. Jupit<er>. M<<a>>rs. Sat<ur>no Sol. | +}}
+q<u><<a>>rta. Jupit<er>. M<<a>>rs. Sat<ur>no Sol. | ⇒}}
 [fol. 111v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -12759,7 +12759,7 @@ Mars & el sol ayuntados. & Jupiter accaece en el quinto signo de la coniunction.
 {=DIAG=. | prima. Sol. M<<a>>rs. Saturno. Jupit<er>. |
 s<ecund>a. M<<a>>rs. Sol. Sat<ur>no. Jupit<er>. |
 tercia. Sol. M<<a>>rs. Sat<ur>no. Jupit<er>. |
-q<u><<a>>rta. Jupit<er>. M<<a>>rs. Sol. Sat<ur>no. | +}}
+q<u><<a>>rta. Jupit<er>. M<<a>>rs. Sol. Sat<ur>no. | ⇒}}
 [fol. 112r]
 {HD1. XXIII}
 {HD2. XXIIII}
@@ -12980,7 +12980,7 @@ Sexta. Sol. Jupit<er>. M<<a>>rs. Saturno. |
 .ix<<a>>. M<<a>>rs. sol. Jupit<er>. Saturno. |
 .x<<a>>. Sol. Jupit<er>. Mars. Sat<ur>no. |
 .xi<<a>>. M<<a>>rs. Sol. Jupit<er>. Saturno. |
-.xij<<a>>. Sol. Jupit<er>. M<<a>>rs. Saturno. | +}}
+.xij<<a>>. Sol. Jupit<er>. M<<a>>rs. Saturno. | ⇒}}
 [fol. 114r]
 {HD. XXIIII}
 {CB1.
@@ -13209,7 +13209,7 @@ casa. Sol es en la duodecima.
 {=DIAG=. | prima. M<<a>>rs. caput. Saturno. Jupit<er>. Sol. |
 s<ecund>a. M<<a>>rs. Saturno. Jupit<er>. caput. Sol. |
 tercia. M<<a>>rs. Saturno. Jupit<er>. caput. Sol. |
-quarta. M<<a>>rs. caput. Saturno. Jupit<er>. Sol. | +}}
+quarta. M<<a>>rs. caput. Saturno. Jupit<er>. Sol. | ⇒}}
 [fol. 116v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -13242,7 +13242,7 @@ q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. |
 q<u><<i>>nta. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. |
 Sexta. Jupit<er>. sat<ur>no. caput. Sol. M<<a>>rs. |
 .vij<<a>>. caput. Saturno. Jupit<er>. Sol. M<<a>>rs. |
-.viij<<a>>. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. | +}}
+.viij<<a>>. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. | ⇒}}
 [fol. 117r]
 {HD. XXV}
 {CB1.
@@ -13382,7 +13382,7 @@ caput son en la duodecima casa.
 {=DIAG=. | prima. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. caput. Sol. M<<a>>rs. Saturno. Jupit<er>. |
 t<er>cia. Sol. M<<a>>rs. Sat<ur>no. Jupit<er>. caput. |
-q<u><<a>>rta. M<<a>>rs. caput. Sat<ur>no. Jupit<er>. Sol. | +}}
+q<u><<a>>rta. M<<a>>rs. caput. Sat<ur>no. Jupit<er>. Sol. | ⇒}}
 [fol. 119r]
 {HD. XXV}
 {CB1.
@@ -13415,7 +13415,7 @@ q<u><<a>>rta. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
 q<u><<i>>nta. M<<a>>rs. caput. Jupit<er>. sat<ur>no. sol. |
 Sexta. M<<a>>rs. Jupit<er>. sat<ur>no. caput. Sol. |
 .vij<<a>>. Mars. caput. Jupit<er>. sat<ur>no Sol. |
-.viij<<a>>. Mars. caput. Jupit<er>. sat<ur>no. Sol. | +}}
+.viij<<a>>. Mars. caput. Jupit<er>. sat<ur>no. Sol. | ⇒}}
 [fol. 119v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -13522,7 +13522,7 @@ turno en la quinta casa. Mars es en la .x<<a>>. casa.
 {=DIAG=. | prima. Sol. caput. Jupit<er>. sat<ur>no. M<<a>>rs. |
 s<ecund>a. M<<a>>rs. caput. Sol. Jupit<er>. sat<ur>no. |
 tercia. Sol. Jupit<er>. sat<ur>no. M<<a>>rs. caput. |
-q<u><<a>>rta. caput. Jupit<er> sat<ur>no. M<<a>>rs. Sol. | +}}
+q<u><<a>>rta. caput. Jupit<er> sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 121r]
 {HD. XXV}
 {CB1.
@@ -13555,7 +13555,7 @@ q<u><<a>>rta. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no |
 q<u><<i>>nta. Sol. caput. M<<a>>rs. Jupit<er>. sat<ur>no. |
 Sexta. M<<a>>rs. Jupit<er>. sat<ur>no. caput. Sol. |
 .vij<<a>>. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
-.viij<<a>>. caput. M<<a>>rs. Jupit<er>. sat<ur>no. Sol. | +}}
+.viij<<a>>. caput. M<<a>>rs. Jupit<er>. sat<ur>no. Sol. | ⇒}}
 [fol. 121v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -13661,7 +13661,7 @@ Mars enla .viij<<a>>. {RUB. {IN1.} Et depues camyaron las figuras en esta otra m
 {=DIAG=. | prima. Mars. Sol. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. M<<a>>rs. caput. Sol. Jupit<er>. sat<ur>no. |
 t<er>cia. caput. M<<a>>rs. Sol. Jupit<er>. sat<ur>no. |
-quarta. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. | +}}
+quarta. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. | ⇒}}
 [fol. 123r]
 {HD. XXV}
 {CB1.
@@ -13694,7 +13694,7 @@ quarta. M<<a>>rs. Sol. caput. Jupit<er>. sat<ur>no. |
 q<u><<i>>nta. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. caput. |
 Sexta. Jupit<er>. sat<ur>no. M<<a>>rs. caput. Sol. |
 .vij<<a>>. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. |
-.viij<<a>>. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. | +}}
+.viij<<a>>. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. | ⇒}}
 [fol. 123v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -13835,7 +13835,7 @@ q<u><<a>>rta. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 q<u><<i>>nta. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. caput. |
 Sexta. Jupit<er>. sat<ur>no. caput. Sol. M<<a>>rs. |
 .vij<<a>>. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
-.viij<<a>>. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. | +}}
+.viij<<a>>. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. | ⇒}}
 [fol. 125v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -13942,7 +13942,7 @@ en la septima. Sol enla nouena. Jupiter. & Saturno en la decima.
 {=DIAG=. | prima. sol. caput. Jupit<er>. sat<ur>no. M<<a>>rs. |
 s<ecund>a. caput. sol. Jupit<er>. sat<ur>no. M<<a>>rs. |
 tercia. sol. Jupit<er>. sat<ur>no. M<<a>>rs. caput. |
-q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | +}}
+q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 127r]
 {HD. XXV}
 {CB1.
@@ -13975,7 +13975,7 @@ quarta. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
 q<u><<i>>nta. Sol. caput M<<a>>rs. Jupit<er>. sat<ur>no. |
 Sexta. M<<a>>rs. Jupit<er>. sat<ur>no. caput. Sol. |
 .vij<<a>>. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
-.viij<<a>>. caput. M<<a>>rs. Jupit<er>. sat<ur>no. Sol. | +}}
+.viij<<a>>. caput. M<<a>>rs. Jupit<er>. sat<ur>no. Sol. | ⇒}}
 [fol. 127v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -14117,7 +14117,7 @@ es el Sol enla t<er>cera casa. caput enla .v<<a>>. Mars enla .ix<<a>>. Jupit<er>
 {=DIAG=. | prima. Sol. caput. Jupit<er>. sat<ur>no. M<<a>>rs. |
 s<ecund>a. Sol. Jupit<er>. sat<ur>no. M<<a>>rs. |
 tercia. Sol. Jupit<er>. sat<ur>no. M<<a>>rs. caput. |
-quarta. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | +}}
+quarta. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 129v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -14151,7 +14151,7 @@ quarta. caput Jupit<er>. sat<ur>n<us>. sol. M<<a>>rs. |
 quinta. Jup<iter>. sat<ur>no. sol. M<<a>>rs. caput. |
 Sexta. Jupit<er>. sat<ur>no. sol. caput. M<<a>>rs. |
 .vij<<a>>. caput. Jup<iter>. sat<ur>n<us>. sol. M<<a>>rs. |
-.viij<<a>>. Jup<iter>. sat<ur>no. sol M<<a>>rs. caput. | +}}
+.viij<<a>>. Jup<iter>. sat<ur>no. sol M<<a>>rs. caput. | ⇒}}
 [fol. 130r]
 {HD. XXV}
 {CB1.
@@ -14425,7 +14425,7 @@ Saturno. & el Sol en la quarta casa.
 {=DIAG=. | p<r><<i>>ma. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. caput. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. |
 tercia. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. caput. |
-q<u><<a>>rta. M<<a>>rs. Sol. caput. Jup<iter>. sat<ur>no | +}}
+q<u><<a>>rta. M<<a>>rs. Sol. caput. Jup<iter>. sat<ur>no | ⇒}}
 [fol. 134r]
 {HD. XXV}
 {CB1.
@@ -14458,7 +14458,7 @@ q<u><<a>>rta. M<<a>>rs. caput. Jupit<er>. sat<ur>no. Sol. |
 q<u><<i>>nta. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 Sexta. caput. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. |
 .vij<<a>>. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. |
-.viij<<a>>. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | +}}
+.viij<<a>>. caput. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 134v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -14488,7 +14488,7 @@ q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. sol. M<<a>>rs. |
 q<u><<i>>nta. M<<a>>rs. caput. Jupit<er>. sat<ur>no. sol. |
 Sexta. Jupit<er>. sat<ur>no. sol. caput. M<<a>>rs. |
 .vij<<a>>. caput. Jup<iter>. sat<ur>no. sol. M<<a>>rs. |
-.viij<<a>>. Jupit<er>. sat<ur>no. sol. M<<a>>rs. caput.| +}}
+.viij<<a>>. Jupit<er>. sat<ur>no. sol. M<<a>>rs. caput.| ⇒}}
 [fol. 135r]
 {HD. XXV}
 {CB1.
@@ -14624,7 +14624,7 @@ quarta casa. Jupit<er>. & Saturno en la .vi<<a>>. Sol en la decima.
 {=DIAG=. | prima. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. Sol. caput. M<<a>>rs. Jupit<er>. sat<ur>no. |
 tercia. M<<a>>rs. Jupit<er>. sat<ur>no. caput. Sol. |
-q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. | +}}
+q<u><<a>>rta. caput. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. | ⇒}}
 [fol. 137r]
 {HD. XXV}
 {CB1.
@@ -14657,7 +14657,7 @@ quarta. M<<a>>rs. caput. Jup<iter>. sat<ur>no. sol. |
 q<u><<i>>nta. M<<a>>rs. caput. Jup<iter>. sat<ur>n<us>. sol. |
 Sexta. M<<a>>rs. Jup<iter>. sat<ur>n<us>. sol. caput. |
 .vij<<a>>. caput. Jupit<er>. sat<ur>n<us>. sol. M<<a>>rs. |
-.viij<<a>>. Jup<iter>. sat<ur>no. sol. M<<a>>rs. caput. | +}}
+.viij<<a>>. Jup<iter>. sat<ur>no. sol. M<<a>>rs. caput. | ⇒}}
 [fol. 137v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -14720,7 +14720,7 @@ Jupit<er>. & Saturno enla .vij<<a>>. Sol enla .xi<<a>>. ¶ Enla nouena figura so
 {=DIAG=. | prima. sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. sol. caput. M<<a>>rs. Jupit<er>. sat<ur>no. |
 tercia. sol. M<<a>>rs. Jupit<er>. sat<ur>no. caput. |
-q<u><<a>>rta. sol. M<<a>>rs. caput. Jup<iter>. sat<ur>no. | +}}
+q<u><<a>>rta. sol. M<<a>>rs. caput. Jup<iter>. sat<ur>no. | ⇒}}
 [fol. 138v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -14754,7 +14754,7 @@ q<u><<a>>rta. M<<a>>rs. caput. Jup<iter>. sat<ur>no. sol. |
 q<u><<i>>nta. M<<a>>rs. caput. Jup<iter>. sat<ur>no sol. |
 Sexta. M<<a>>rs. Jup<iter>. sat<ur>no. sol. caput. |
 .vij<<a>>. caput. Jup<iter>. sat<ur>no. sol. M<<a>>rs. |
-.viij<<a>>. caput. Jup<iter>. sat<ur>no. sol. M<<a>>rs. | +}}
+.viij<<a>>. caput. Jup<iter>. sat<ur>no. sol. M<<a>>rs. | ⇒}}
 [fol. 139r]
 {HD. XXV}
 {CB1.
@@ -14893,7 +14893,7 @@ casa. Jupit<er>. & Saturno en la nouena.
 {=DIAG=. | prima. M<<a>>rs. caput. Jupit<er>. sat<ur>no. sol. |
 s<ecund>a. caput. M<<a>>rs. Jupit<er>. Sat<ur>no. Sol. |
 t<er>cia. M<<a>>rs. Jupit<er>. Sat<ur>no. caput. Sol. |
-q<u><<a>>rta. M<<a>>rs. caput. Jupit<er>. Sat<ur>no. Sol. | +}}
+q<u><<a>>rta. M<<a>>rs. caput. Jupit<er>. Sat<ur>no. Sol. | ⇒}}
 [fol. 141r]
 {HD. XXV}
 {CB1.
@@ -14955,7 +14955,7 @@ quarta. M<<a>>rs. Sol. caput. Jupit<er>. sat<ur>no.
 q<u><<i>>nta. M<<a>>rs. caput. Sol. Jupit<er>. sat<ur>no. |
 Sexta. M<<a>>rs. Sol. Jupit<er>. Sat<ur>no. caput. |
 .vij<<a>>. Sol. caput. Jupit<er>. Sat<ur>no. M<<a>>rs. |
-.viij<<a>>. caput. Sol. Jupit<er>. Sat<ur>no. M<<a>>rs. | +}}
+.viij<<a>>. caput. Sol. Jupit<er>. Sat<ur>no. M<<a>>rs. | ⇒}}
 [fol. 142r]
 {HD. XXV}
 {CB1.
@@ -15124,7 +15124,7 @@ casa. Jupiter. Saturno. & el Sol Son en la duodecima casa.
 {=DIAG=. | prima. Sol. M<<a>>rs. caput. Jupit<er>. sat<ur>no. |
 s<ecund>a. caput. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. caput. |
 tercia. Sol. M<<a>>rs. Jupit<er>. sat<ur>no. caput. |
-q<u><<a>>rta. M<<a>>rs. Sol. caput. Jupit<er>. sat<ur>no. | +}}
+q<u><<a>>rta. M<<a>>rs. Sol. caput. Jupit<er>. sat<ur>no. | ⇒}}
 [fol. 144v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -15528,7 +15528,7 @@ fara pobre. & de algun hombre
 quando morra. & de algun hom-
 bre quando uençera sus enemigos.
 & en conocer quales signos son
-amigos. & quales enemigos. +}}
+amigos. & quales enemigos. ⇒}}
 [fol. 147v]
 {HD. CAP<ITU>LO +}
 {CB2.
@@ -16718,7 +16718,7 @@ Saturno en la ochaua. Jupit<er>.
 & Sol enla decima.
 {RUB. {IN1.} El capitulo .xxx<<o>>vi<<o>>. fabla en
 saber de algun prelado. o de al-
-gun ensennorado. o aportellado +}}
+gun ensennorado. o aportellado ⇒}}
 {CB2.
 {RUB. que a de seer despuesto daq<ue>lla
 su dignidat. quando sera aq<ue>l
@@ -16983,7 +16983,7 @@ Jupit<er> & Mars enla tercera casa. Sol enla nouena. Saturno enla .xij<<a>>.
 {=DIAG=. | prima. Sol. Jup<iter>. M<<a>>rs. Sat<ur>no. |
 s<ecund>a. Jupit<er>. M<<a>>rs. Sat<ur>no. Sol. |
 tercia. Jupit<er>. M<<a>>rs. Sat<ur>no. Sol. |
-quarta. Sol. Sat<ur>no. Jup<iter>. M<<a>>rs. | +}}
+quarta. Sol. Sat<ur>no. Jup<iter>. M<<a>>rs. | ⇒}}
 [fol. 159r]
 {HD. XXXVI}
 {CB1.
@@ -17032,7 +17032,7 @@ Mars en la .xi<<a>>. Saturno enla .xij<<a>>.}
 {=DIAG=. | prima. Jup<iter>. M<<a>>rs. Sat<ur>no. Sol. |
 s<ecund>a. Jup<iter>. M<<a>>rs. Sol. Sat<ur>no. |
 tercia. Jupit<er>. M<<a>>rs. Sol. Sat<ur>no. |
-q<u><<a>>rta. Sol. Saturno. Jupit<er>. M<<a>>rs. | +}}
+q<u><<a>>rta. Sol. Saturno. Jupit<er>. M<<a>>rs. | ⇒}}
 [fol. 159v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -17086,7 +17086,7 @@ ras en esta otra manera.}}
 {=DIAG=. | prima. M<<a>>rs. sol. Sat<ur>no. Jupit<er>. |
 s<ecund>a. M<<a>>rs. Sol. Sat<ur>no. Jupit<er>. |
 tercia. M<<a>>rs. Sol. Sat<ur>no. Jupit<er>. |
-quarta. Jupit<er>. Sat<ur>no. M<<a>>rs. Sol. | +}}
+quarta. Jupit<er>. Sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 160r]
 {HD. XXXVI}
 {CB1.
@@ -17139,7 +17139,7 @@ Jupiter en la nouena casa. Mars
 {=DIAG=. | prima. M<<a>>rs. sol. Saturno. Jupit<er>. |
 s<ecund>a. M<<a>>rs. Sol. Jupit<er>. Saturno. |
 tercia. M<<a>>rs. Sol. Jupit<er>. Saturno. |
-q<u><<a>>rta Jupit<er>. Saturno. M<<a>>rs. sol. | +}}
+q<u><<a>>rta Jupit<er>. Saturno. M<<a>>rs. sol. | ⇒}}
 [fol. 160v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -17190,7 +17190,7 @@ vi<<a>>. casa. Jupit<er> en la .ix<<a>>. Mars & el}
 {=DIAG=. | prima. Jupit<er>. Sol. Saturno. M<<a>>rs. |
 s<ecund>a. Jupit<er>. sol. Sat<ur>no. M<<a>>rs. |
 tercia. Jupit<er>. Sol. Sat<ur>no. M<<a>>rs. |
-quarta. M<<a>>rs. Saturno. Jupit<er>. Sol. | +}}
+quarta. M<<a>>rs. Saturno. Jupit<er>. Sol. | ⇒}}
 [fol. 161r]
 {HD. XXXVI}
 {CB1.
@@ -17243,7 +17243,7 @@ en la .xi<<a>>. Saturno en la .xij<<a>>.}
 {=DIAG=. | prima. Jup<iter>. sol. Saturno. M<<a>>rs. |
 s<ecund>a Jupit<er>. sol. M<<a>>rs. Sat<ur>no. |
 tercia. Jupit<er>. sol. M<<a>>rs. Sat<ur>no. |
-q<u><<a>>rta. M<<a>>rs. Sat<ur>no. Jupit<er>. sol. | +}}
+q<u><<a>>rta. M<<a>>rs. Sat<ur>no. Jupit<er>. sol. | ⇒}}
 [fol. 161v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -17751,7 +17751,7 @@ casa. Jupiter. & Mars son en la duodecima casa.
 {=DIAG=. | prima. M<<a>>rs. sol. Jupit<er>. sat<ur>no. |
 s<ecund>a. M<<a>>rs. sol. Jupit<er>. sat<ur>no. |
 tercia. sat<ur>no. Jupit<er>. M<<a>>rs. sol. |
-quarta. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | +}}
+quarta. Jupit<er>. sat<ur>no. M<<a>>rs. Sol. | ⇒}}
 [fol. 167r]
 {HD. XXXVI}
 {CB1.
@@ -17786,7 +17786,7 @@ q<u><<a>>rta. Jupit<er>. M<<a>>rs. Sol. Saturno. |
 quinta Jupit<er>. M<<a>>rs. Sol. saturno. |
 Sexta sat<ur>no. M<<a>>rs. sol. Jupit<er>. |
 .vij<<a>>. M<<a>>rs. sol. Jupit<er>. saturno. |
-.viij<<a>>. M<<a>>rs. sol. saturno. Jupit<er>. | +}}
+.viij<<a>>. M<<a>>rs. sol. saturno. Jupit<er>. | ⇒}}
 [fol. 167v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -17946,7 +17946,7 @@ la .x<<a>>. figura es iupit<er> enla .v<<a>>. casa. sol enla .vi<<a>>. Saturno. 
 {=DIAG=. | p<r><<i>>ma. sat<ur>no. sol M<<a>>rs Jupit<er>. |
 s<ecund>a. sat<ur>no. sol. M<<a>>rs. Jupit<er>. |
 tercia. Jupit<er>. M<<a>>rs. Sat<ur>no. Sol. |
-quarta. M<<a>>rs. Jupit<er>. Sat<ur>no. sol. | +}}
+quarta. M<<a>>rs. Jupit<er>. Sat<ur>no. sol. | ⇒}}
 [fol. 169v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -17981,7 +17981,7 @@ q<u><<a>>rta. Jupit<er>. M<<a>>rs. sat<ur>no. sol. |
 q<u><<i>>nta. Jupit<er>. M<<a>>rs. sat<ur>no. sol. |
 Sexta. Jupit<er>. sat<ur>no. sol. M<<a>>rs. |
 .vij<<a>>. sat<ur>no. sol. M<<a>>rs. Jupit<er>. |
-.viij<<a>>. sat<ur>no. sol. Jupit<er>. M<<a>>rs. | +}}
+.viij<<a>>. sat<ur>no. sol. Jupit<er>. M<<a>>rs. | ⇒}}
 [fol. 170r]
 {HD. XXXVI}
 {CB1.
@@ -18142,7 +18142,7 @@ figura es sol en la tercera casa. Saturno en la .vi<<a>>. Mars en la nouena.
 {=DIAG=. | p<r><<i>>ma. sol. Jupit<er>. saturn<us>. M<<a>>rs. |
 s<ecund>a. sol. Jupit<er>. sat<ur>no. M<<a>>rs. |
 tercia. sol. Jupit<er>. M<<a>>rs. Sat<ur>no. |
-q<u><<a>>rta. Sol. Jupit<er>. M<<a>>rs. Sat<ur>no. | +}}
+q<u><<a>>rta. Sol. Jupit<er>. M<<a>>rs. Sat<ur>no. | ⇒}}
 [fol. 172r]
 {HD. XXXVI}
 {CB1.
@@ -18180,7 +18180,7 @@ la sexta casa. Saturno enla nouena. Mars enla .xi<<a>>. Jupit<er> enla .xij<<a>>
 {=DIAG=. | sat<ur>no. M<<a>>rs. sol. Jupit<er>. |
 s<ecund>a. sat<ur>no. M<<a>>rs. sol. Jupit<er>. |
 tercia. Sat<ur>no. M<<a>>rs. Jupit<er>. Sol. |
-q<u><<a>>rta. sat<ur>no. M<<a>>rs. Jupit<er>. Sol. | +}}
+q<u><<a>>rta. sat<ur>no. M<<a>>rs. Jupit<er>. Sol. | ⇒}}
 [fol. 172v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -18431,7 +18431,7 @@ en la t<er>cera casa. Jupit<er> enla .v<<a>>. Saturno en la .vi<<a>>. Sol en la 
 {=DIAG=. | prima. M<<a>>rs. Jupit<er>. Sat<ur>no Sol. |
 s<ecund>a. Sat<ur>no. M<<a>>rs. Sol. Jupit<er>. |
 tercia. Sat<ur>no. Sol. Jupit<er>. M<<a>>rs. |
-q<u><<a>>rta. Sat<ur>no. Jupit<er>. Sol. M<<a>>rs. | +}}
+q<u><<a>>rta. Sat<ur>no. Jupit<er>. Sol. M<<a>>rs. | ⇒}}
 [fol. 175v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -18637,7 +18637,7 @@ Mars en la quinta casa. sol en la sexta. Saturno en la .ix<<a>>. Jupiter en la .
 {=DIAG=. | p<r><<i>>ma. M<<a>>rs. Jupit<er>. sat<ur>no. Sol. |
 s<ecund>a. Jupit<er>. sat<ur>no. Sol. M<<a>>rs. |
 tercia. Jupit<er>. M<<a>>rs. sat<ur>no. Sol. |
-quarta. M<<a>>rs. Sat<ur>no. Sol. Jupit<er>. | +}}
+quarta. M<<a>>rs. Sat<ur>no. Sol. Jupit<er>. | ⇒}}
 [fol. 178r]
 {HD. XXXVI}
 {CB1.
@@ -18678,7 +18678,7 @@ la .vi<<a>>. figura es mars enla t<er>cera casa. saturno enla .v<<a>>. sol en la
 {=DIAG=. | prima. Jupit<er>. Sat<ur>no. M<<a>>rs. Sol. |
 s<ecund>a. Sat<ur>no. M<<a>>rs. Sol. Jupit<er>. |
 tercia. sat<ur>no. Jupit<er>. M<<a>>rs. Sol. |
-quarta Jupit<er>. M<<a>>rs. Sol. sat<ur>no. | +}}
+quarta Jupit<er>. M<<a>>rs. Sol. sat<ur>no. | ⇒}}
 [fol. 178v]
 {HD. CAP<ITU>LO +}
 {CB1.
@@ -19186,7 +19186,7 @@ la septima. Jupiter en la decima.}
 {CB2.
 {RUB. {IN1.} El capitulo quadragesimo primo
 fabla en las costellationes q<ue> signi-
-fican fuertes matanças contra +}}
+fican fuertes matanças contra ⇒}}
 {CB2.
 {RUB. sus enemigos. & destruymento
 dellos. & en saber el tyempo
@@ -19394,7 +19394,7 @@ en la .xi<<a>>. ¶ En la quarta figura
 Son Saturno. & Mars en la .vij<<a>>.
 casa. Jupit<er> en la .ix<<a>>. Sol en la .x<<a>>.
 caput en la undecima.
-{RUB. {IN1.} El capitulo .xl<<o>>iij<<o>>. fabla en sa-ber +}}
+{RUB. {IN1.} El capitulo .xl<<o>>iij<<o>>. fabla en sa-ber ⇒}}
 {CB2.
 {RUB. quando accaecera alguna
 occasion a algun hombre.}
@@ -19933,7 +19933,7 @@ acendent. Jupit<er> en la .vij<<a>>. casa.
 Saturno. & Mars en la .xi<<a>>.}
 {CB1.
 {RUB. {IN1.} El capitulo .xlvij<<o>>[.] fabla en las costellat<i>ones q<ue>
-significan los malos accae-cementos +}}
+significan los malos accae-cementos ⇒}}
 [fol. 187v]
 {HD. CAP<ITU>LO XXXXVII +}
 {CB2.
@@ -20272,7 +20272,7 @@ contralliadores. & Judga q<ue> aq<ue>lla
 partida uencera en q<ue> el signo del
 Sol ouyere mayor poderio.
 {RUB. {IN1.} El capitulo çinquanteno fabla
-en las costellationes q<ue> significan +}}
+en las costellationes q<ue> significan ⇒}}
 {CB2.
 {RUB. matanças de los enemigos &
 de los contralliadores del Rey.}
@@ -20311,7 +20311,7 @@ la .v<<a>>. Jupit<er> en la .vij<<a>>. Sol en la .x<<a>>.}
 {=DIAG=. | p<r><<i>>ma. ven<us>. Mars. saturn<us>. Sol. Jupit<er>. |
 s<ecund>a. M<<a>>rs. sat<ur>n<us>. ven<us>. Sol. Jupit<er>. |
 tercia. ven<us>. Sol. sat<ur>n<us>. M<<a>>rs. Jupit<er>. |
-q<u><<a>>rta. Sol. sat<ur>n<us> ven<us>. M<<a>>rs. Jupit<er>. | +}}
+q<u><<a>>rta. Sol. sat<ur>n<us> ven<us>. M<<a>>rs. Jupit<er>. | ⇒}}
 [fol. 190v]
 {HD. CAP<ITU>LO L}
 {CB1.
@@ -20489,7 +20489,7 @@ Saturno. & Jupit<er> en la undecima.}
 {=DIAG=. | p<r><<i>>ma. Sol. ven<us>. M<<a>>rs. sat<ur>no. Jupit<er>. |
 s<ecund>a. M<<a>>rs. sat<ur>no. Jupit<er>. ven<us>. Sol. |
 tercia. sat<ur>no. Jupit<er>. M<<a>>rs. ven<us>. Sol. |
-q<u><<a>>rta. Sol. sat<ur>no. Jupit<er>. M<<a>>rs. ven<us>. | +}}
+q<u><<a>>rta. Sol. sat<ur>no. Jupit<er>. M<<a>>rs. ven<us>. | ⇒}}
 [fol. 192r]
 {HD. LI}
 {CB1.
@@ -20614,7 +20614,7 @@ Jupiter. & caput en la septima.}
 {=DIAG=. | p<r><<i>>ma. M<<a>>rs. sat<ur>n<us>. Jup<iter>. caput. Sol. |
 s<ecund>a. sat<ur>n<us>. Jup<iter>. caput. M<<a>>rs. Sol. |
 tercia. sat<ur>n<us>. Jup<iter>. caput. M<<a>>rs. Sol. |
-q<u><<a>>rta. sat<ur>n<us>. Jup<iter>. caput. M<<a>>rs. sol. | +}}
+q<u><<a>>rta. sat<ur>n<us>. Jup<iter>. caput. M<<a>>rs. sol. | ⇒}}
 [fol. 193r]
 {HD1. LII}
 {HD2. LIII}
@@ -21062,7 +21062,7 @@ signo. & apoderado en el. & estonce
 pareçe. & se mostra en la terra aq<ue>lla
 su signification mayormentre. &
 mas apoderada.
-{RUB. {IN1.} El capitulo .Lviij<<o>>. fabla en co-nocer +}}
+{RUB. {IN1.} El capitulo .Lviij<<o>>. fabla en co-nocer ⇒}}
 {CB2.
 {RUB. las significat<i>o<n>es. & las sen-
 nales q<ue> significan morte de homne.}
@@ -21267,7 +21267,7 @@ q<ue> quiere dezir uentre de peç.
 ¶ Et estas quatro ma[<n>]siones
 an poder. & sennorio en cordoua.
 & en sus terminos. {RUB. {IN1.} De la
-diuersidat de las opiniones +}}
+diuersidat de las opiniones ⇒}}
 [fol. 197v]
 {HD. CAP<ITU>LO +}
 {CB2.
@@ -21432,7 +21432,7 @@ mucho rafez. & andaran mucho
 por mar.
 {RUB. {IN1.} El capitulo .Lxi<<o>>. fabla en las sig-
 nificat<i>ones de Saturno. & de Jupit<er>
-quando fueren en diuersas. +}}
+quando fueren en diuersas. ⇒}}
 [fol. 198v]
 {HD. CAP<ITU>LO LXI}
 {CB2.

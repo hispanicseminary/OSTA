@@ -7130,7 +7130,7 @@ cho el so poder segund cuenta<n> las estorias.
 Mas agora dexa aqui de fablar del. & torna
 a contar de cuemo auino a Julio cesar en aq<ue>l-
 las tierras quel otorgaron q<ue> conquiriesse.
-{RUB. De cuemo fizo Julio cesar en aq<ue>llas tierras +}}
+{RUB. De cuemo fizo Julio cesar en aq<ue>llas tierras ⇒}}
 {CB2.
 {RUB. q<ue>l otorgaron que conquiriesse.
 e del Rey orgenton & de Ariobisto. & de crasso. &
@@ -15779,7 +15779,7 @@ los braços. ¶ E fue Martiriado en su tie<m>po
 sant apolinar. ¶ Agora dexa aqui la esto-
 ria de fablar del; & cuenta de Tito so fijo.
 {MIN: Space left for a miniature.}
-{RUB. Dell Jmperio de Tito ell Emperador +}}
+{RUB. Dell Jmperio de Tito ell Emperador ⇒}}
 {CB2.
 {RUB. Et luego de lo q<ue> contescio en el primer
 an<n>o del su regnado.}
@@ -15928,7 +15928,7 @@ de contar de Tito cesar. & cuenta de Do-
 miciano so hermano q<ue> regno luego en-
 pos ell.
 {MIN: Space left for a miniature.}
-{RUB. Dell Jmperio de Domiciano ell Emperador +}}
+{RUB. Dell Jmperio de Domiciano ell Emperador ⇒}}
 [fol. 85v]
 {CB2.
 {RUB. Et luego delo q<ue> contescio en el primer an<n>o}
@@ -16671,7 +16671,7 @@ ygnacio. ¶ Sant foca. ¶ Sant Simplicio.
 agora dexa aqui la estoria de fablar dest
 Emperador traiano. & cuenta de adr<<i>>ano
 {MIN: Space left for a miniature.}
-{RUB. Dell Jmperio de Adrian([^e])o. Et luego de lo +}}
+{RUB. Dell Jmperio de Adrian([^e])o. Et luego de lo ⇒}}
 {CB2.
 {RUB. q<ue> contescio en ell An<n>o primero.}
 {IN6.} Depues de la muerte de
@@ -17525,7 +17525,7 @@ q<ue> regnaron depues q<ue> el fue muerto.
 {MIN: Space left for a miniature.}
 {RUB. Dell jmperio de Marcho Aurelio An-
 tonino uero. Et de Lucio Aureljo como-
-do [¶] Et luego delos fechos q<ue> acaescie-ron +}}
+do [¶] Et luego delos fechos q<ue> acaescie-ron ⇒}}
 [fol. 93v]
 {CB2.
 {RUB. en el primero An<n>o del su regnado}
@@ -18024,7 +18024,7 @@ de contar deste emperador Marcho aurelio
 comodo. ¶ E cuenta de helio pertinax que
 regno depues el.
 {MIN: Space left for a miniature.}
-{RUB. Dell Emperador Helyo pertinax. & de los fe-chos +}}
+{RUB. Dell Emperador Helyo pertinax. & de los fe-chos ⇒}}
 [fol. 96r]
 {CB2.
 {RUB. q<ue> co<n>tesciero<n> en el su j<m>p<er>io.}
@@ -18268,7 +18268,7 @@ da a marauilla. & gano una partida
 de la hysla. & alcabo ganola toda. Et
 Apartola de los barbaros q<ue> era<n> yentes
 brauas & por domar. & q<ue> morauan a
-derredor daq<ue>lla Jsla: {RUB. Delo q<ue> contescio en +}}
+derredor daq<ue>lla Jsla: {RUB. Delo q<ue> contescio en ⇒}}
 {CB2.
 {RUB. el dizeseteno anno.}
 {IN4.} ENel dizeseteno anno que fue
@@ -18309,7 +18309,7 @@ Mas agora dexa aqui la estoria de fablar
 de Seuero & cuenta de bassiano su fijo. q<ue>
 regno depues del.
 {MIN: Space left for a miniature.}
-{RUB. Dell Jmperio de Antonino Caracalla. +}}
+{RUB. Dell Jmperio de Antonino Caracalla. ⇒}}
 [fol. 97v]
 {CB2.
 {RUB. q<ue> fue llamado Basiano & luego delo q<ue>
@@ -20511,7 +20511,7 @@ que depues de la muerte de Teonas ob<is>-
 po de Alexandria; consagraron a sant
 pedro por obispo dende. & fue el dizesete-
 no. & recibio martirio enel noueno a<n>no
-dela p<er>secution. {RUB. Delos fechos dell a<n>no +}}
+dela p<er>secution. {RUB. Delos fechos dell a<n>no ⇒}}
 {CB2.
 {RUB. Dizeochauo.}
 {IN6.} Enel dizeochauo anno que
@@ -22577,7 +22577,7 @@ plo dell oro.
 los ueynt & quatro no falla-
 mos q<ue> conteciesse ningunas
 cosas granadas q<ue> de contaR
-sean. {RUB. De los fechos q<ue> contescieron +}}
+sean. {RUB. De los fechos q<ue> contescieron ⇒}}
 {CB2.
 {RUB. alos ueynt & cinco annos.}
 {IN6.} ALos ueynticinco annos
@@ -27047,7 +27047,7 @@ desuso la estoria que fincaran por si-
 eruos de los Vgnos. & lidiaua qua<n>to
 podie por la franqueza & por los sacar
 de seruidumbre. {RUB. De cuemo los godos
-uisquiero<n> sin Rey enell Jmperio de +}}
+uisquiero<n> sin Rey enell Jmperio de ⇒}}
 {CB2.
 {RUB. theodosio.}
 {IN6.} Depues q<ue> Athanarico fue

@@ -8,7 +8,7 @@
 {CB1.
 {RMK: HSMS-0362-0001: Glosa a las coplas de Jorge Manrique.} {RMK: the first ten lines in the folio belong to a different work.} no es de maravillar que siendo yo en prophesion juris-
 ta. De mucho asiento me pongua ha hacer versos que a-
-tento la malicia destos tiempos se tiene en uso de p<er>so-nas +}
+tento la malicia destos tiempos se tiene en uso de p<er>so-nas ⇒}
 {CB2.
 Ruptilante luçero
 pimpollo Deste Emjsperio
@@ -38,7 +38,7 @@ taçion: ambrosio obispo
 De milan y doctor dela Y-
 glesia compuso los hym-
 nos que se cantan enla
-yglesia y sam prospero obis-po +}
+yglesia y sam prospero obis-po ⇒}
 {CB1.
 de guiana reduxo a metro muchas sententias De sancto
 Agustim que son sus epigramas con otra {LAT. de providentia dei} Job

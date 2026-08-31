@@ -279,7 +279,7 @@ cc.xix {IN1.} Como ap<re>s q<ue> espanya fue metida e<n> s<er>uitut por sçipio<
 sul fuluio fue e<n>uiado e<n> espanya. & d<e>lo q<ue> fizo esta<n>do alla.
 cc.xix. {IN1.} Como los çeltiberienos rebellaro<n> e<n> espanya <con><tr><<a>> los ro<m>anos. {RUB. Sigue
 se el .vij<<o>>. libro d<e>las gestas de iulio publio sçipion segu<n>do afri-
-cano qui depues fue dicho inhuma<n>ti<n>o. en<e>l q<u><<a>>l lib<r><<o>> se <con>tiene<n>. ca-pitoles +}}
+cano qui depues fue dicho inhuma<n>ti<n>o. en<e>l q<u><<a>>l lib<r><<o>> se <con>tiene<n>. ca-pitoles ⇒}}
 [fol. 5r]
 {CB1.
 {RUB. .xxx<<a>>.vj. seg<un>t se sigue<n> por orden.}
@@ -4066,7 +4066,7 @@ na uoluntat se Reculliero<n> e<n>
 las naues. & diero<n> uela. & na-
 uegaro<n> tanto entro que arri-
 baro<n> enel puerto de gigeo. {RUB. De
-como salliero<n> a t<ie>rra las hueste<<s>> +}}
+como salliero<n> a t<ie>rra las hueste<<s>> ⇒}}
 {CB2.
 {RUB. de ercules. Et de como ercules
 mato el rey Laumedon. & la
@@ -9378,7 +9378,7 @@ ment & por muchos tiempos lo<<s>>
 sus sucçessores apre(^l)[^s] del. {RUB. Si-
 guese la ystoria de Bruto del
 qual fue fecha mençion en
-la fin del capitol final delos +}}
+la fin del capitol final delos ⇒}}
 {CB2.
 {RUB. appellinos.}
 {IN2.} Por saber bruto de q<u><<a>>l g<e>n<eraçi>on
@@ -10431,7 +10431,7 @@ nia la gent estra<n>gera quey era
 uenida {RUB. Dela retornada de ago-
 fario. & como bruto co<n>los tro-
 yanos fueron uençidos pri-
-merament. Et apres fuero<n> +}}
+merament. Et apres fuero<n> ⇒}}
 [fol. 87r]
 {HD. .iij<<o>>.}
 {CB2.
@@ -10874,7 +10874,7 @@ yslas frias. la q<u><<a>>l dentro a breu t<iem>po
 q<ue> fue poblada fue en gra<n>t grande-
 za de poblaçion. & fue en aquel t<iem>po
 la mayor çiudat q<ue> fues en espanya
-{RUB. Dela uenida d<e>los frisanos & d<e>lo<<s>> +}}
+{RUB. Dela uenida d<e>los frisanos & d<e>lo<<s>> ⇒}}
 {CB2.
 {RUB. alamanes en espanya. & de q<u><<a>>n-
 to t<iem>po senyorearon. & de lur +}
@@ -13765,7 +13765,7 @@ de Espanya el dicho Asdrubal.
 & el co<n> pocas copias de ge<n>tes sen
 torno a genoua por defender yta-
 lia co<n> aq<ue>lla huest q<ue> estaua so-
-brel pol. {RUB. Como los caualgadore<<s>> +}}
+brel pol. {RUB. Como los caualgadore<<s>> ⇒}}
 [fol. 111v]
 {HD. .li<br><<o>>.}
 {CB2.
@@ -16594,7 +16594,7 @@ nibal cuyda<n>do por aq<ue>llo hauer
 firma paç & companya conel.
 {RUB. Como .C. Sçipion uinçio
 los pennos en Espanya. Et
-como el asitio la Çiudat de +}}
+como el asitio la Çiudat de ⇒}}
 {CB2.
 {RUB. auatagre. La qual le fue Ren-
 dida.}
@@ -19075,7 +19075,7 @@ se fuero<n> cascuno ensu p<ro>ui<n>çia.
 bredicho Sçipion fue esleydo
 Emperador las cosas eran
 como eguales entre los ro-
-manos et los Carthagi<n>ese<<s>>. +}}
+manos et los Carthagi<n>ese<<s>>. ⇒}}
 [fol. 150v]
 {HD. .li<br><<o>>.}
 {CB2.
@@ -24683,7 +24683,7 @@ Marçio & <con>siguio lo alla do es-
 taua ya ç<er>ca d<e>la mar ocçeana.
 {RUB. Como el rey maximissa &
 Sçipio<n> fizieron alianças. &
-como la çiudat de gades se re<n>-dio +}}
+como la çiudat de gades se re<n>-dio ⇒}}
 {CB2.
 {RUB. alos Romanos.}
 {IN2.} Los aferes qui ot<r><<a>> uega-
@@ -25396,7 +25396,7 @@ sobre aq<ue>sti fecho por la man<er>a
 q<ue> se sigue. {RUB. Como qui<n>to fabio
 reprendio a publio sçipion
 por que el queria lexar a Ani-
-bal en ytalia +}}
+bal en ytalia ⇒}}
 [fol. 197r]
 {HD. .vj<<o>>.}
 {CB2.
@@ -30331,7 +30331,7 @@ xo q<ue> (^e)[^a] otra p<ar>t ni en ot<r><<a>> ma-
 n<er>a el no auia sp<er>ança sino so-
 lame<n>t en q<ue> el pudiesse auer
 paç. {RUB. Como sçipion dio tregu-
-as alos carthagineses. Et co-mo +}}
+as alos carthagineses. Et co-mo ⇒}}
 {CB2.
 {RUB. ellos impetraron paç co<n>
 Sçipion.}
@@ -30604,7 +30604,7 @@ enuiados a Roma lelio uectu-
 rio philo / marcho / marçio Ra-
 la & linio. Sçipio<n> h<er>mano del
 Emp<er>ador. {RUB. Como la paç fue
-fecha entre Romanos & +}}
+fecha entre Romanos & ⇒}}
 {CB2.
 {RUB. los Carthagineses.}
 {IN2.} Enclinados ala paç los
@@ -31551,7 +31551,7 @@ ante fue p<re>so & ligado por los
 Romanos / & fue enuiado de-
 lant las puertas de luçena
 segunt q<ue> adelant se <con>tiene.
-{RUB. Como uariate guerreo los ro-manos +}}
+{RUB. Como uariate guerreo los ro-manos ⇒}}
 {CB2.
 {RUB. en Espanya. & los ue<n>-
 çio diuersas uegadas.}
@@ -32264,7 +32264,7 @@ qui h<ab>itaua<n> en çeçilia / & hauie<n>
 sobre ellos de todo en todo la
 senyoria. {RUB. Como el senado
 & el pueblo roma<n>o ordenaro<n>
-de enuiar sçipio<n> en espanya. +}}
+de enuiar sçipio<n> en espanya. ⇒}}
 [fol. 247v]
 {HD. .li<br><<o>>.}
 {CB2.
@@ -32469,7 +32469,7 @@ ua<n>t los espanyoles no fiaron
 de lur fe si ya no les fuesse co-
 sa forçada. {RUB. Como sçipio<n> rep<re>he<n>-
 dio s<us> cauall<er>os & de como los ins-
-truyo. +}}
+truyo. ⇒}}
 [fol. 249r]
 {HD. .vij<<o>>.}
 {CB2.
@@ -36928,7 +36928,7 @@ cabo. ni aq<ue>llo no era ni malues-
 tat ni trayçio<n>. por q<ue> tal era la
 costumbre de aq<ue>lla ge<n>t. {RUB. Delas
 cosas fechas por el consul con-
-tra iugurta. & del consello de +}}
+tra iugurta. & del consello de ⇒}}
 {CB2.
 {RUB. iugurta <con>tra los fechos d<e>l <con>sul.}
 {IN2.} Matello uidie<n>do el coraço<n>
@@ -39035,7 +39035,7 @@ tello tornosende en roma & <con><tr><<a>>
 esp<er>a<n>ça suya fue reçebido muyt
 honorableme<n>t & fue muyt ca-
 ro al pueblo & alos padres ce-
-sso la inuidia. {RUB. Delas cosas q<ue> +}}
+sso la inuidia. {RUB. Delas cosas q<ue> ⇒}}
 {CB2.
 {RUB. fizo maurio <con>sul e<n> numidia.}
 {IN2.} Mas maurio co<n> gra<n>t di-
@@ -48997,7 +48997,7 @@ co<n> octauia<n>o / & <com>batieron se depu-
 es e<n> mar & fue ue<n>çido sexto / &
 depues desto fuyo e<n> asia & alli
 fue muerto. {RUB. Como ap<re>s la mu-
-ert de lepido & ap<re>s q<ue> octauia<n>o +}}
+ert de lepido & ap<re>s q<ue> octauia<n>o ⇒}}
 [fol. 371r]
 {CB2.
 {RUB. et antonio huuieron p<ar>tido e<n>-
@@ -49165,7 +49165,7 @@ mo aq<ue>llos qui fuero<n> ue<n>çidos.
 barato a antonio & dela desle-
 altat q<ue>los de antonio. & los de
 la çiudat de regio fizieron por
-do a<n>tonio con desesperaçion +}}
+do a<n>tonio con desesperaçion ⇒}}
 {CB2.
 {RUB. se<n> mato el mismo}
 {IN2.} Et a<n>tonio & cleopatra arri-
@@ -49265,7 +49265,7 @@ dio muerto daua<n>t cleopatra su
 mull<e>r & fue metido e<n> sepultura.
 {RUB. Como apres la muert de an-
 tonio el rey herodes fue deua<n>t
-octauia<n>o enla ysla de rodas. +}}
+octauia<n>o enla ysla de rodas. ⇒}}
 [fol. 373r]
 {CB2.
 {RUB. & dela uirtuosa magnanimi-
@@ -52016,7 +52016,7 @@ ero<n> de scançia. porq<ue> los ua<n>dalo<<s>>
 ruguines & algunas otras
 diuersas nasçiones sallieron
 de germania. es asab<er> de alama-
-nya. asi dela alta como dela ba-xa. +}}
+nya. asi dela alta como dela ba-xa. ⇒}}
 {CB2.
 {RUB. Et semblantment se sig<u><<i>>-
 ra la ystoria d<e>los guinillos
@@ -52116,7 +52116,7 @@ los ua<n>dalos uezinos d<e>llos s<u>biu-
 garo<n>. & muchos reyes huuo de su
 linatge. {RUB. Como una partida
 d<e>los godos q<ue> era<n> co<n> lur rey fi-
-limer passaro<n> a h<ab>itar sicha. la +}}
+limer passaro<n> a h<ab>itar sicha. la ⇒}}
 [fol. 394v]
 {CB2.
 {RUB. saluatge et fueron clamados +}
@@ -52384,7 +52384,7 @@ chos spartos. & ap<re>s por<e>l rey cedemo-
 nio q<ue> poblo cedemo<n>ia fuero<n> di-
 chos cedemo<n>ios. & d<e> sa<n>t çipio qui
 fue enbiado por a doctrinar los
-Carthagineses en affrica +}}
+Carthagineses en affrica ⇒}}
 [fol. 396v]
 {CB2.
 {RUB. al exercicio delas armas.}
@@ -52686,7 +52686,7 @@ ron el imp<er>io de asia & ellos nin-
 gun t<iem>po no fuero<n> tocados ni ue<n>çi-
 dos por imp<er>io estranyo e<n>tro al ti-
 e<m>po q<ue> roma se regio por e<m>p<er>adore<<s>>.
-{RUB. Qual fue el prim<er>o rey que re-quirio +}}
+{RUB. Qual fue el prim<er>o rey que re-quirio ⇒}}
 {CB2.
 {RUB. & demando tributo a-
 las gentes d<e>los godos. et dela
@@ -54926,7 +54926,7 @@ p<ar>tida d<e>los suyos e<n>tre la gra<n>t m<u>lti-
 (ti)tut d<e>los enemigos cayero<n> mu-
 ertos segu<n>t sc<r><<i>>ue Trogus po<m>peyo.
 {RUB. Como el rey xerses seyendo mal
-fortunado enla batalla d<e>la t<ie>rra +}}
+fortunado enla batalla d<e>la t<ie>rra ⇒}}
 {CB2.
 {RUB. quiso exprouar la fortuna de-
 la mar. & delos otros fechos
@@ -56789,7 +56789,7 @@ d<e>l mu<n>do. & leuo co<n> si e<n>tramos los
 tretecos al triumpho. los q<u><<a>>les des-
 pues t<r><<a>>cto benignam<en>t & los <con>stitu-
 yo e<n>tre los se<n>adores. {RUB. Delos fechos
-d<e>l tiempo d<e>l emp<er>ador taçito +}}
+d<e>l tiempo d<e>l emp<er>ador taçito ⇒}}
 [fol. 429r]
 {CB2.
 {RUB. & de floriano su h<er>mano. & d<e>los
@@ -56957,7 +56957,7 @@ chas batallas crueles los sarmata<<s>>
 los dacos los çitas / & los illiricos
 {RUB. Como ap<re>s la muert de co<n>stan-
 tino fu<er>on <con>stituidos emp<er>adore<<s>>
-constantino fijo suyo & maxe<n>-çio +}}
+constantino fijo suyo & maxe<n>-çio ⇒}}
 {CB2.
 {IN2.} Muerto {RUB. & litinio.}
 el emp<er>ador co<n>sta<n>çio biuie<n>do
@@ -57226,7 +57226,7 @@ ses. & come<n>ço el anyo de n<uest>ro se<n>yor
 .CCC.Lxv. la ystoria d<e>l q<u><<a>>l no<n> fa-
 ze ningu<n>a me<n>çio<n> d<e>los godos por
 q<ue> esti senyoreo poco t<iem>po. {RUB. delos fecho<<s>>
-d<e>los godos q<u><<i>> fuero<n> e<n> t<iem>po d<e>l em-perador +}}
+d<e>los godos q<u><<i>> fuero<n> e<n> t<iem>po d<e>l em-perador ⇒}}
 {CB2.
 {IN2.} Muerto {RUB. uale<n>tiniano.}
 el emp<er>ador iouiniano suc-
@@ -60341,7 +60341,7 @@ uastaro<n> la. & acabo de dos anyos
 muerto fra<n>ca<n> los suyos esleyero<n>
 a frumario. el q<u><<a>>l mouio guerra
 a trasemu<n>do sobre el regno &
-destruyo lo. {RUB. Del aduenimie<n>to de +}}
+destruyo lo. {RUB. Del aduenimie<n>to de ⇒}}
 [fol. 455v]
 {CB2.
 {RUB. genserico rey d<e>los eua<n>dalos en
@@ -60643,7 +60643,7 @@ no d<e>la fe e<n> heregia. {RUB. Del adueni-
 miento(s) d<e>los ciros d<e>los rutilos
 d<e>los erulos & d<e>los turçilingos co<n>
 lur rey odoatar e<n> ytalia. & p<r><<i>>m<er>a-
-ment d<e>los e<m>p<er>adores q<ue> imp<er>aro<n> +}}
+ment d<e>los e<m>p<er>adores q<ue> imp<er>aro<n> ⇒}}
 {CB2.
 {RUB. e<n> ro<m>a e<n> t<iem>po de zeno ante del ad-
 uenimiento de odoatar.}
@@ -60810,7 +60810,7 @@ t<er>io e<n> pa<n>no<n>ia. el cuerpo d<e>l q<u><<a>>l fue
 depues co<n>la honor q<ue> ael p<er>tenesçi<<e>>
 traslatado e<n> napol. {RUB. De como the-
 odorico fijo de theodemir con
-el exercituu d<e>los godos fue +}}
+el exercituu d<e>los godos fue ⇒}}
 [fol. 459r]
 {CB2.
 {RUB. en ytalia. & como el emp<er>a[^dor] zeno
@@ -62889,7 +62889,7 @@ ex<er>çitu no yua <con><tr><<a>> el / corrio sobre
 los roma<n>os / & uasto toda ytalia.
 {RUB. Como narsis patriçio fue en-
 uiado porel emp<er>ador iustinia<n>o
-co<n> ayuda d<e>los longobardo<<s>> echolo<<s>> +}}
+co<n> ayuda d<e>los longobardo<<s>> echolo<<s>> ⇒}}
 [fol. 474v]
 {CB2.
 {IN2.} El e<m>p<er>ador {RUB. godos de ytalia}
@@ -66880,7 +66880,7 @@ ora aua<n>t no se adela<n>taua mas q<ue>
 todos los ot<r><<o>>s. Emp<er>o silla no hu-
 uo mas q<ue> ueyer co<n>los p<ar>tos. ni hu-
 uo guerra co<n> ellos. {RUB. Delo que co<n>te-
-çio e<n>tre los partos & leuçio luc<u>lo +}}
+çio e<n>tre los partos & leuçio luc<u>lo ⇒}}
 {CB2.
 {RUB. <con>sul de ro<m>a. & por q<u><<a>>l ocasio<n> luc<u>lo
 non pudo proçedir contra ello<<s>>}
@@ -68254,7 +68254,7 @@ nos damos una noche a crasso por
 plorar a su fillo / si el no<n> <con>sid<er>a su
 aua<n>tage. q<ue> meior le es q<ue> de si mis-
 mo ue<n>ga al rey arssaqui q<ue> seyer
-aducho por otri. {RUB. del ue<n>çimie<n>to +}}
+aducho por otri. {RUB. del ue<n>çimie<n>to ⇒}}
 [fol. 514v]
 {CB2.
 {RUB. De los romanos & como fuyan
@@ -68993,7 +68993,7 @@ e<n> a<n>tonio el lo manifestaua. & si
 algu<n>a uirtut era e<n> el aq<ue>l la dest<r><<v>>-
 ya. & e<n>( )amorose a<n>to<n>io d<e>lla e<n>tal
 man<er>a. {RUB. Dela manera como uino
-la companya & amista<n>ça de an-tonio +}}
+la companya & amista<n>ça de an-tonio ⇒}}
 [fol. 520r]
 {CB2.
 {RUB. & cleopatra. por la q<u><<a>>l anto-
@@ -71344,7 +71344,7 @@ la gra<n>t despulla d<e>los ene<m>igos fue-
 ro<n> fechos mas audaçes a ç<er>car & a so-
 sten<er> los treballos d<e>las batallas. &
 lib<er>aro<n> de captiuidat la filla d<e>l su
-rey. {RUB. de lethu<n> .iij<<o>>. rey d<e>los lo<n>gobar-dos +}}
+rey. {RUB. de lethu<n> .iij<<o>>. rey d<e>los lo<n>gobar-dos ⇒}}
 [fol. 537v]
 {CB2.
 {RUB. & d<e>la gra<n>t discordia q<ue> nasçio
@@ -71411,7 +71411,7 @@ deo<n> e<n>la p<ro>ui<n>çia de rugila<n>da / q<ue> e<n> la-
 tin es inpetrada / p<at>ria d<e>los rugo<<s>>.
 la q<u><<a>>l h<ab>itaro<n> por algu<n>os a<n>yos. / por
 q<ue> era t<ie>rra muyt fertil & habu<n>do-
-sa. {RUB. de clafo .vj<<o>>. rey d<e>los lo<n>gobardo<<s>>. +}}
+sa. {RUB. de clafo .vj<<o>>. rey d<e>los lo<n>gobardo<<s>>. ⇒}}
 [fol. 538r]
 {CB2.
 {RUB. qui fue fillo de godeon. & ap<re>s de
@@ -72350,7 +72350,7 @@ ex<er>çitu ma<n>do q<ue>las ot<r><<a>>s huestes su-
 yas fuese<n> por <com>bat<er> las ot<r><<a>>s çiuda-
 des q<u><<i>> restaua<n> a <con>q<ue>rir d<e>las uene-
 çias. {RUB. d<e>la desc<r><<i>>pcio<n> d<e>la p<ro>ui<n>çia de y-
-talia & quales p<ro>uincias solie au<er> +}}
+talia & quales p<ro>uincias solie au<er> ⇒}}
 [fol. 545r]
 {CB2.
 {IN2.} Italia {RUB. di<us> si e<n> t<iem>po passado}
@@ -73289,7 +73289,7 @@ se pudo trobar el co<n>to d<e>los muer-
 tos. & ap<re>s los lo<n>gobardos e<n>req<ue>çido<<s>>
 de muchas despullas orde<n>auan
 de retornar se e<n> ytalia. {RUB. d<e>la uicto-
-ria d<e>l rey gu<n>terano <con><tr><<a>> los longo-bardos +}}
+ria d<e>l rey gu<n>terano <con><tr><<a>> los longo-bardos ⇒}}
 [fol. 552r]
 {CB2.
 {RUB. fecha por momulo pat<r><<i>>çio
@@ -73658,7 +73658,7 @@ die<n>do se e<n> gra<n>t estrecho por la p<re>se<n>-
 yendo tornaro<n> e<n> lur t<ie>rra sin nin-
 gu<n>a uictoria. {RUB. Del diluuio q<ue> e<n> a-
 q<ue>l t<iem>po inuadio ytalia. & mayor-
-ment ro<m>a & uerona. & d<e>la grie-ue +}}
+ment ro<m>a & uerona. & d<e>la grie-ue ⇒}}
 {CB2.
 {RUB. pestile<n>çia que ap<re>s se siguio
 d<e>la qual muchos perecieron.}
@@ -73892,7 +73892,7 @@ esto q<ue> nos aue<m>os dicho o esc<r><<i>>pto
 d<e>l ex<er>çitu d<e>los fra<n>cos se leya e<n> lu<<r>>
 ystoria. q<u><<a>>si por aq<ue>stas mismas
 palauras. {RUB. Del dicho rey aucta-
-ri & d<e>los longobardos & delas +}}
+ri & d<e>los longobardos & delas ⇒}}
 [fol. 556v]
 {CB2.
 {IN2.} En aq<ue>l {RUB. gestas de aq<ue>l / c<a>p<itu>l<u>m}
@@ -80094,7 +80094,7 @@ auia<n>tos. asi como los reyes eua<n>-
 dalos dotaro<n> la d<i>c<h>a ygl<es>ia d<e> lugo
 {RUB. Esta es la sucçession delos Reyes
 delos sueuos. Los quales come<n>-
-çaron a regnar apres delos e-uandalos. +}}
+çaron a regnar apres delos e-uandalos. ⇒}}
 {CB2.
 {RUB.}
 {IN2.} Apres los eua<n>dalos los sueuos
@@ -80764,7 +80764,7 @@ neos. & i<n>uadiero<n> ca<n>tabria. & q<u><<a>>ndo
 lo supo el rey bamba fue <con><tr><<a>> ellos &
 echolos d<e> todas aq<ue>llas e<n>co<n>tradas
 seg<un>t sc<r><<i>>ue el arçob<is>po do<n> rodrigo.
-{RUB. d<e>la or<açi>on & amo<n>estamie<n>tos q<ue>l gl<or>ioso +}}
+{RUB. d<e>la or<açi>on & amo<n>estamie<n>tos q<ue>l gl<or>ioso ⇒}}
 {CB2.
 {IN2.} M[??] [???] lo<<s>>
 q<ue> aq<ue>stas [??] fazia<n> e<n> ga-
@@ -81300,7 +81300,7 @@ diziedes / a<n>tes los ueyemos bie<n> a-
 biuados & co<n> gra<n>t <con>sta<n>çia d<e> ue<n>ç<er>.
 & aq<ue>sto muestra<n> la[s] feridas q<ue> a-
 ue<m>os p<re>sas. d<e>las q<u><<a>>les palauras pa-
-ulo era t<r><<i>>sto & dole<n>t. {RUB. Como la ciu-dat +}}
+ulo era t<r><<i>>sto & dole<n>t. {RUB. Como la ciu-dat ⇒}}
 {CB2.
 {RUB. de nemses fue p<re>sa & p[*aulo] co<n> los
 desleales se recullio de<n>tro el castie-llo +}

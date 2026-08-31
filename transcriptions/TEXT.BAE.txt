@@ -633,7 +633,7 @@ Contraryo. De eua {LAT. aue}
 delos çielos /. puerta & llaue
 rruega al tu /. fijo Suaue
 que me oya /. mj rroganc[']a
-{RMK: HSMS-0248-0006: La novela esperanza.} {RUB. Esta cantiga fizo el dicho alfo<n>so al-uarez. [%2] +}}
+{RMK: HSMS-0248-0006: La novela esperanza.} {RUB. Esta cantiga fizo el dicho alfo<n>so al-uarez. [%2] ⇒}}
 {CB2.
 {RUB. En loores del rrey don Juan fijo del
 rrey don e<n>rryq<ue> el viejo quando rrey-
@@ -4226,7 +4226,7 @@ farto seres poeta ffamoSo
 fonso) aluarez de villa sandjno al
 dicho condestable don rruy lopez
 qua<n>do estaua apartado del Rey
-don enrryque en arenas su tierra +}}
+don enrryque en arenas su tierra ⇒}}
 {CB2.
 {RUB. & despues lo enbjo llamar que venj-
 esse a el ala villa de madrid lo q<u><<a>>l
@@ -6057,7 +6057,7 @@ non vos Sea /. denegado
 el dicho alfonso aluarez de vjlla san-
 djno E lo enbio al adelantado pera-
 fan de rrybera por quanto lo avia conbj-
-dado para sus bodas el dicho alfonso +}}
+dado para sus bodas el dicho alfonso ⇒}}
 [fol. 37r]
 {CB2.
 {RUB. aluarez E por quanto el dicho ade-
@@ -8755,7 +8755,7 @@ por derecho /. OrdenaDo
 que padesca /. el nasçiaDo
 {RMK: HSMS-0248-0192: Davihuelo, que me quito.} {RUB. Este dezir fizo & ordeno el dicho alfon<so>
 aluarez de villa sandjno para el di-
-cho señor condestable com<m>o en man<er>a +}}
+cho señor condestable com<m>o en man<er>a ⇒}}
 [fol. 53r]
 {CB2.
 {RUB. de quexo & de querella que le daua del
@@ -9225,7 +9225,7 @@ pues tan bien /. lo meresçistes
 {RMK: HSMS-0248-0203: Señor Alvaro, perdón.} {RUB. Este dezir fizo & ordeno el dicho al-
 fonso aluarez de villa sandino para
 el señor condestable sobre rrazon
-de vystuario que le avia pedido por +}}
+de vystuario que le avia pedido por ⇒}}
 {CB2.
 {RUB. los otros el qual dezir es muy
 bien fecho & por arte de maestria mayor}
@@ -10280,7 +10280,7 @@ mj vegez /. de rras en rras /
 alfonso aluarez de villa san-
 dino para el rrey n<uest>ro señor so-
 plicandole por el & pidiendole por
-merçed q<ue> le mandase dar aguj-lando +}}
+merçed q<ue> le mandase dar aguj-lando ⇒}}
 [fol. 62r]
 {CB2.
 {RUB. el qual dezir va bien fecho
@@ -12205,7 +12205,7 @@ por que mj vida /. ssera Dolorossa
 {RMK: HSMS-0248-0248: El dios de amor, el su alto imperio.} {RUB. Este dezir fizo el dicho mjçer fra[<n>]çisco
 jnperial por amor & loores de vna du-
 eña que llamaron [...] E otros dizen
-que lo fizo ala dicha estrella diana +}}
+que lo fizo ala dicha estrella diana ⇒}}
 [fol. 73v]
 {CB2.
 {RUB. E avn otros djzen que lo fyzo a ysa-
@@ -12248,7 +12248,7 @@ co jnperial por amor & loores dela di-
 cha ysabel gonçales mançeba del co<n>-
 de don johan alfonso por quanto ella
 le avia enbiada rrogar que la fuese
-a ver al monesterio de sant clemey<n>t +}}
+a ver al monesterio de sant clemey<n>t ⇒}}
 {CB2.
 {RUB. el Non Ossaua yr Por Razon
 que era muy arreada & graçiosa muger}
@@ -18061,7 +18061,7 @@ don p<er>o velez de guebara por ma-
 nera de contenplaçion con dios
 por q<u><<a>>nto lo dexaro<n> & desanpararo<n>
 todos los sseñores & amjgos que
-el tenja en la casa del rrey al t<ien>po +}}
+el tenja en la casa del rrey al t<ien>po ⇒}}
 {CB2.
 {RUB. q<ue> lo p<er>segujen & acosaua<n> antel rrey
 algu<n>os sus contrarios & enemjgo<<s>>}
@@ -21796,7 +21796,7 @@ vos sostenga. con firmeça
 {RMK: HSMS-0248-0397: Juan Alfonso de Baena.} {RUB. Este dezjr fyzo & ordeno juan garçia
 de vynuesa ofiçial de jua<n> garçia de so-
 rya despensero del Rey n<uest>ro señor el q<u><<a>>l
-fyzo com<m>o a manera de pregu<n>ta E +}}
+fyzo com<m>o a manera de pregu<n>ta E ⇒}}
 {CB2.
 {RUB. Requesta contra juan alfon<so> de baena
 & tomando la boz de alfon<so> aluarez

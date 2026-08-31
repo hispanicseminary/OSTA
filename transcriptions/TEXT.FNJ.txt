@@ -518,7 +518,7 @@ Estos mis fueros que por to-
 dos los tie<m>pos sean durables
 todas las cosas que de juso
 son escriptas en esta p<re>sent
-carta. {RUB. De o<mn>e de linage q<ue> enu-ya +}}
+carta. {RUB. De o<mn>e de linage q<ue> enu-ya ⇒}}
 {CB2.
 {RUB. ha otro o<mn>e de linage.}
 {IN2.} (DE) [Si] o<mn>e de linage
@@ -4242,7 +4242,7 @@ al quj pierde la bestia. Et
 si el otor fuere fuera del re-
 gno. deue lo sacar a[ ]media-
 nedo. Et deue p<re>nder judiçio
-de medianedo. {RUB. De ganado +}}
+de medianedo. {RUB. De ganado ⇒}}
 {CB2.
 {RUB. enfermo}
 {IN2.} Sj ganado enfermare
@@ -7375,7 +7375,7 @@ monias. Nol deuen respond<er>
 padre nj madre nj h<er>manos
 ¶ Mas deuen la render gra<cia>s. Et
 esto deue seer pagado por fu-
-ero de t<ier>ra. {RUB. De criar fijos de +}}
+ero de t<ier>ra. {RUB. De criar fijos de ⇒}}
 {CB2.
 {RUB. ganancia.}
 {IN2.} Sj ni<n>gu<n>o oujere fijos de
@@ -7768,7 +7768,7 @@ diçiendo de no nj<n> plora<n>do
 nj por fuerça. quar ferme<<s>>
 & fiadores deue<n> seer dados
 plaçe<n>teram<en>t sin co<n>dit<i>on
-nj<n>gu<n>a. {RUB. De o<mn>e que se q<ue>rey-lla +}}
+nj<n>gu<n>a. {RUB. De o<mn>e que se q<ue>rey-lla ⇒}}
 {CB2.
 {RUB. por forçado}
 {IN2.} DE o<mn>e que se quereylla
@@ -10068,7 +10068,7 @@ deue seer reçebido por mano
 del seynor. Mas el renc<ur>ant
 por si mismo se deue q<ue>reyllar
 ¶ Et el seynor deue los judgar
-por fuero. {RUB. Dellos q<ue> p<re>nden +}}
+por fuero. {RUB. Dellos q<ue> p<re>nden ⇒}}
 {CB2.
 {RUB. alosq<ue> gujan moros captjuos.}
 {IN2.} COsa acostu<m>pnada es & man[da]-
@@ -10315,7 +10315,7 @@ uo. & si no<n> trobare en la un<<a>>
 casa daq<ue>yllas tres casas. no<n>
 es fuero q<ue> entre en las otras
 casas. Mas en otro logar ho
-q<ue>rra dema<n>de lo {RUB. De quj nas-çe +}}
+q<ue>rra dema<n>de lo {RUB. De quj nas-çe ⇒}}
 {CB2.
 {RUB. en (^al) adulterio.}
 {IN2.} SObre esto diçe el fu<er>o
@@ -10997,7 +10997,7 @@ q<uoan>do mas lueyn se estiende co<n>
 sol aq<ue>ylla sonbra. Et atanto
 como aq<ue>ylla en derredor. si pa-
 ra laços. caye en calonja co-
-mo fuero manda {RUB. De uillano +}}
+mo fuero manda {RUB. De uillano ⇒}}
 {CB2.
 {RUB. q<ue> p<re>nde au q<ue> caça ho can.}
 {IN2.} Sj nj<n>gu<n> laurador ho ui-
@@ -12075,7 +12075,7 @@ dalgu<n>os q<ue> han los buyes. Et
 deuen p<re>nder las calonjas de
 estos uedados los costieros
 & eyllos q<ue> emjenden el dayno
-como manda el fuero. {RUB. De +}}
+como manda el fuero. {RUB. De ⇒}}
 {CB2.
 {RUB. meter p<ro>c<ur>ador & bozero.}
 {IN2.} Sj nj<n>gu<n>o o<mn>e ha pleyto con
@@ -12565,7 +12565,7 @@ seynor del terrado deue eme<n>-
 dar el dayno. porq<ue> no<n> goar-
 do su terrado en guisa q<ue> day-
 no no<n> podies fer el can a s<us>
-ueçinos {RUB. De no enbargar uj-ento +}}
+ueçinos {RUB. De no enbargar uj-ento ⇒}}
 {CB2.
 {IN2.} Njngu<n> o<mn>e no<n> {RUB. a Era.}
 deue enbargar ujento

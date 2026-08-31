@@ -844,7 +844,7 @@ log<<a>>r. q<ue> no<n> es su fuero. et el se
 llama actor ¶ El actor ali ha de fazer de-
 recho. al pie dela bestia. ant<e> esos alc<a>ll<e>s ant<e>
 q<u><<i>>en. viene. a seer. actor/ et no<n>. puede pedir q<ue>l
-enbien a su fuero {RUB. .ley .vj. com<m>o & por q<ue> +}}
+enbien a su fuero {RUB. .ley .vj. com<m>o & por q<ue> ⇒}}
 {CB2.
 {RUB. cosas puede esta<<r>> en juyzio el q<ue> es
 metido en orden sin liçen<ci><<a>> de su mayor}
@@ -2625,7 +2625,7 @@ p<r><<i>>ujllegios. no<n> se estiende<n> aotras p<er>so-
 nas. si [^non] a[ ]aq<ue>llas. q<ue> enlos p<r>[*<<i>>]ujllegios
 se contiene<n> saluo si. el rrey. q<ue> dio el p<r><<i>>-
 ujllegio en otra. guisa. lo q<u><<i>>sie<<r>><e> decla-
-rar {RUB. .ley .xxij. q<ue> pena meresçe el. +}}
+rar {RUB. .ley .xxij. q<ue> pena meresçe el. ⇒}}
 {CB2.
 {RUB. xp<ist>iano q<ue> mata judio o moro com<m>o no<n>
 deue}
@@ -2928,7 +2928,7 @@ gu<n>o q<ue>. dixie<<r>><e>. q<ue>l oyo a fula(m)[n]. q<ue> auje
 este fecho./ fecho. de q<ue> pesq<u><<i>>rero<n> q<ue> g<e>lo
 auje oydo ael por esto. no<n> lo torme<n>ta-
 ra(m)[n]. maguer el otro njegue q<ue> el
-no<n> g<e>lo. dize {RUB. .ley .xlix. com<m>o el carçele<<r>><o> +}}
+no<n> g<e>lo. dize {RUB. .ley .xlix. com<m>o el carçele<<r>><o> ⇒}}
 {CB2.
 {RUB. deue p<ro>uar la muerte del p<<r>><e>so si no<n> es te-
 nudo. ala muerte}
@@ -3643,7 +3643,7 @@ en pl<e>ito. d<e>las alçadas en ca-
 sa del rrey el p<er>sonero d<e>la alçada ma-
 guer. enla p<er>soneria del [*p]l<e>ito. no<n> le oujese<n>
 dado poder p<ar>a seguir el alçada reçiben po<<r>>
-aq<ue>lla p<er>soneria a seguir el alçada {RUB. xcvj +}}
+aq<ue>lla p<er>soneria a seguir el alçada {RUB. xcvj ⇒}}
 {CB2.
 {RUB. com<m>o & en q<u><<a>>nto. t<ien>po puede judgar. el alc<a>lle
 sobr<e> artic<u>los de q<ue> se la p<ar>te no<n> alço. avn q<ue> se
@@ -4047,7 +4047,7 @@ q<ue>rella. o en otra man<e><<r>>a algu<n>a no<n> faze fe
 p<ar>a. p<ro>uarse el fecho. ca siemp<<r>><e> finca ala p<ar>te
 q<ue> diga cont<r><<a>> ella {RUB. ./ Com<m>o los dichos d<e>los te-
 stigos deue<n> c<on>cordar. co<n>la rrelaçio[n]. del fecho
-en<e>l libello c<on>tenjdo en otra manera no<n> +}}
+en<e>l libello c<on>tenjdo en otra manera no<n> ⇒}}
 {CB2.
 {RUB. p<ru>eua el actor su ente<n>çio<n> +}
 {IN3.} Otrosi Sy algu<n>o dema<n>da aotro q<ue>l {RUB. saluo por sc<r><<i>>pt[*o] +}
@@ -4247,7 +4247,7 @@ es notado enlas decretal<e>s en<e>l tit<u>lo
 d<e>las p<<r>><e>su<n>pçion<e>s. enla decretal {LAT. dili-
 genti./} Et esto asy lo entendio maestre
 ferrando de çamora {RUB. .Cxxviij. com<m>o
-deue s<e>r oydo el. dema<n>dado en casa +}}
+deue s<e>r oydo el. dema<n>dado en casa ⇒}}
 {CB2.
 {RUB. del rrey si el dema<n>[^da]dor no<n> lo q<u>yere de-
 ma<n>dar por otra p<ar>te}
@@ -4293,7 +4293,7 @@ ya boz se fizo. el testamj<ent><<o>>. leuo la-
 s sus. cosas. syn ma<n>dado del testador
 o. del alc<a>lle es tenjdo d<e>las tornar ali
 donde las leuo ¶ & torna<n>do las y es q<u><<i>>to
-dela pena del testamj<ent><<o>> {RUB. /Cxxx d<e>la +}}
+dela pena del testamj<ent><<o>> {RUB. /Cxxx d<e>la ⇒}}
 [fol. 210v]
 {CB2.
 {RUB. testaçion q<ue> se faze en casa del rrey}
@@ -4705,7 +4705,7 @@ menoscabo. q<ue> rreçebio cuyos era<n> los bien<e>s
 q<ue> vendiero<n>. et los bien<e>s fincara<n> en<e>l compra-
 dor pu<e>s los touo año. & dia en faz & en paz
 et si año & dia no<n> era pasado desfazer se ha
-la vendida {RUB. ./Clv. com<m>o el q<ue> pone el +}}
+la vendida {RUB. ./Clv. com<m>o el q<ue> pone el ⇒}}
 [fol. 212v]
 {CB2.
 {RUB. m<e><<r>>jno es obligado. alos daños q<ue> faze el

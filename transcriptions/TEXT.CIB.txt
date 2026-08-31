@@ -993,7 +993,7 @@ conpañado de sus amigos
 {RUB. capitulo septimo como el
 campo llego a Chiametla y
 mataron a el maestre de canpo
-y lo que mas acaeçio hasta +}}
+y lo que mas acaeçio hasta ⇒}}
 {CW. lle}
 [fol. 26r]
 {HD. parte}
@@ -2105,7 +2105,7 @@ daron de paz que nunca mas
 se biçitaron ni se supo ni procu-
 ro buscar otros poblados por
 aquella uia
-{RUB. capitulo doçe como binie-ron +}}
+{RUB. capitulo doçe como binie-ron ⇒}}
 {CW. ron}
 [fol. 51r]
 {HD. parte}
@@ -4524,7 +4524,7 @@ mo estiercol y se juntaban hom-
 bre y muger como animales po-
 niendose la hembra en quatro
 pies publicamente
-{RUB. capitulo segundo de la +}}
+{RUB. capitulo segundo de la ⇒}}
 [fol. 103v]
 {HD. segunda +}
 {CB1.
@@ -4686,7 +4686,7 @@ y se rrompe para pasar a lo
 llano de la tierra
 {RUB. capitulo tercero de lo
 ques Chichilticale y el des-
-poblado de Çibola sus cos-tumbres +}}
+poblado de Çibola sus cos-tumbres ⇒}}
 {CW. tun}
 [fol. 107r]
 {HD. parte}
@@ -5686,7 +5686,7 @@ la jornada y se bolbio a
 la Nueba España}
 {RUB. {LAT. laus Deo}}}
 [fol. 128v]
-{HD. tercera +}
+{HD. tercera +}}
 [fol. 129r]
 {HD. parte}
 {CB1.
@@ -6754,7 +6754,7 @@ y biuiendo en probeça y neçe-
 sidad y en esta ora mas por estar
 la tierra mas probe y alcança-
 da que nunca lo fue
-{RUB. capitulo otauo en que se +}}
+{RUB. capitulo otauo en que se ⇒}}
 {CW. que<n>}
 [fol. 152r]
 {HD. parte}

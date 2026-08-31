@@ -1681,7 +1681,7 @@ diluuio. como q<u><<i>>er q<ue> el por ue<n>tura creyes-
 se q<ue> serie el diluuio o non. ca lo oyen los}
 [fol. 10v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 omnes dezir. & sabien lo muchos mas no<n>
 lo pudien creyer; q<ue> fizo este matusale<m> en<e>l
@@ -2895,7 +2895,7 @@ chus su fijo. sabba. ¶ ⅋ euila. ¶ Sabbata.
 ios de soboi. dodari. ¶ fijos de regma ¶ Ju-das.}
 [fol. 16v]
 {HD. G[E]N(N)E-SIS
-[L<IBRO>] +}
+[L<IBRO>] ⇒}
 {CB2.
 ¶ fijos de mezraym. ¶ Ludin. ¶ Anami<n>.
 Laabin. ¶ Nepturim. ¶ Phetusim. ¶ Chel-
@@ -3101,7 +3101,7 @@ nem. {RUB. De como se fueron de arauia fi-
 jos de Noe.}}
 [fol. 17v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XX {IN4.} ANdados de noe despues dell arca
 & del diluuio dozie<n>tos & cinq<u><<a>>nta
@@ -3151,7 +3151,7 @@ gosto. mas no<n> q<ue>demos aq<u><<i>>. ⅋ tred & uayamo<<s>>
 a buscar tierra ancha o podamos todos ca-
 ber. ⅋ dalli nos yremos esparzie<n>do despues.
 & poblaremos todo lo al. Los ot<r><<o>>s crouiero<n> le.
-Et fiziero<n> su conseio. {RUB. D<e>la uenida d<e>los linage<<s>> +}}
+Et fiziero<n> su conseio. {RUB. D<e>la uenida d<e>los linage<<s>> ⇒}}
 {CB2.
 {RUB. de Noe al campo de Senaar.}
 XXI {IN5.} ANdados dozie<n>tos & cinq<u><<a>>enta an-
@@ -3255,7 +3255,7 @@ come<n>çado a fazer fijos de ada<m>. ⅋ dize maes-
 tre pedro enel cap<itu>lo dela torre de babel. q<ue>
 descendio dios por ueer la torre. fascas por
 tomar cabeça en q<ue> man<er>a los penasse.
-{RUB. D<e>las razones del co<n>fondimie<n>to del le<n>-guage +}}
+{RUB. D<e>las razones del co<n>fondimie<n>to del le<n>-guage ⇒}}
 {CB2.
 {RUB. en Se<n>naar.}
 XXII {IN4.} Desq<ue> cato dios aq<ue>lla obra dixo. E-
@@ -3309,7 +3309,7 @@ zeno cap<itu>lo. q<ue>los partio dios daq<ue>l logar
 por todas las tierras desta g<u><<i>>sa. Que q<u><<a>>ndo}
 [fol. 18v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ell uno dema<n>daua ladriellos. ell ot<r><<o>> le daua
 bitumen. Et q<u><<a>>ndo ell otro pidie bitume<n>. ell
@@ -3518,7 +3518,7 @@ essa tercera parte como dixiemos q<ue>lo fa-
 ze asia. Pero dizen ot<r><<o>>s. q<ue> este nombre}
 [fol. 19v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 affrica q<ue> fue tomado de affrico. q<ue> es por el uie<n>to
 dessa parte. ⅋ affrica a ot<r><<o>>ssi no<m>bre libia. & libia
@@ -3727,7 +3727,7 @@ assi en cabo del q<u><<i>>nto cap<itu>lo del genesis enbu-
 elta mie<n>tre & sin ot<r><<o>> departimie<n>to. Noe q<u><<a>>ndo}
 [fol. 20v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 acabo de seer de q<u><<i>>nientos an<n>os. fizo a sem.
 & a cam. & a iaphet. dubdaron a q<u><<a>>ntos an<n>os
@@ -3936,7 +3936,7 @@ mero dellos poblo en tierra de feniz una
 cibdat. & pusol el su no<m>bre. & llamo la sido<n>.}
 [fol. 21v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ⅋ assi la llamaro<n> & la llaman los g<r><<i>>egos.
 ¶ Los no<m>bres delos otros diez h<er>manos so<n>
@@ -4144,7 +4144,7 @@ de Cam & de s<us> generat<i>ones & s<us> pueblas.
 en non auemos dicho aun q<u><<a>>nto y a.}
 [fol. 22v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {ILL. {RUB. Aqui se comie<n>ça el t<er>ce-
 ro libro d<e>la general et
@@ -4342,7 +4342,7 @@ las adela<n>te o f(l)ab[l]aremos delas pueblas de
 Tubal & q<ue> non entraro<n> y ot<r><<a>>s yentes d<e>las de}
 [fol. 23v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los otros h<er>manos. ¶ Et demas uiniendo
 por asia ala puebla dela suerte q<ue> era Euro-
@@ -4552,7 +4552,7 @@ plinio & ot<r><<o>>s much<o>s dond lo tomo el. ¶ Mas
 sabet q<ue> delos de Sem no<n> fallamos q<ue> en aq<ue>lla<<s>>}
 [fol. 24v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 p<r><<i>>meras pueblas. ni<n>gunos passassen a Eu-
 ropa ni<n> a Asia a poblar. como delos otros a
@@ -4760,7 +4760,7 @@ gua q<ue> dezimos latina. ⅋ ot<r><<o>>s
 q<ue> ouieron otros le<n>guages. ¶ Los g<r><<i>>egos}
 [fol. 25v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 an el suyo apartado. ¶ Los de blanq<u><<i>>a.
 ¶ Los de Bolgria an otro. ¶ Los comanos
@@ -4965,7 +4965,7 @@ el su frutero. & no<n> uiniesse a co<n>tienda ni<n> a
 pelea co<n> su parie<n>te nin con su vezino.}
 [fol. 26v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Et estos [^o] andauan alas lauores & por los mo<n>-
 tes co<n>los ganados. pararo<n> mie<n>tes enlas yer-
@@ -5174,7 +5174,7 @@ llos. q<ue> por esso om<n>es buenos fueron. los q<u><<i>>
 lo fazien. Ca p<er>o [^q<ue>] alongados dela u<er>dadera}
 [fol. 27v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 creencia de dios. por esso toda uia puiauan
 de uno en al. como de grado en grado a cre-
@@ -5383,7 +5383,7 @@ q<ue> morauan. & co<n> puertas ya. ⅋ fallaro<n> las
 man<er>as de fazer siellas & frenos pora caual-gar.}
 [fol. 28v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & armas pora lidiar como espadas &
 lanças. & escudos & ot<r><<a>>s. & todo muy apuesto
@@ -5592,7 +5592,7 @@ s<us> fijos. & fuero<n> los otros alli partidos del. ⅋
 uisco phalech pues q<ue> fizo a ragau. dozie<n>tos}
 [fol. 29v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 an<n>os & fizo fijos & fijas. E fuero<n> sus dias todo<<s>>
 dozie<n>tos & treynta an<n>os. ¶ Reu o Ragau ot<r><<o>>-
@@ -5801,7 +5801,7 @@ como las animalias brauas & mudas que
 andaua<n> alli. & uiuien delas frutas q<ue> falla-uan}
 [fol. 30v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por los montes. & delas rayzes delas yer-
 uas. q<ue> podien comer. Sig<u><<i>>endo mas las
@@ -6010,7 +6010,7 @@ ete cosas deste Rey. El linage donde uino. Q<ue>
 om<n>e fue. Q<ue> no<m>bre ouo. Q<ue> cuerpo. Que quiso.}
 [fol. 31v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Por q<u><<i>>en le demando. Q<ue> acabo ende. E a esta<<s>>
 razones q<u><<i>>eren estos uiessos dezir desta g<u><<i>>sa
@@ -6235,7 +6235,7 @@ lo enla setena parte del pantheon. & dize lo
 Eusebio ensu cronica. & tullio enel comie<n>ço}
 [fol. 32v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dela su p<r><<i>>mera rectorica. Q<ue> en tie<m>po deste Rey ni-
 no. q<ue>las yentes mas uiuien como bestias que
@@ -6445,7 +6445,7 @@ Ca adelante uiene<n> enla estoria o co<n>uiene
 a dezir mas dellos. & desta manera.}
 [fol. 33v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {RUB. D<e>las otras conq<u><<i>>stas del Rey Nino:}
 XVIII {IN4.} ANdados de Noe. ochoçientos. &
@@ -6655,7 +6655,7 @@ amilcar & ot<r><<o>>s Reyes. mas no<n> era aun esto<n>-
 ces Cartago p<r><<i>>ncipal regno del mu<n>do. ⅋ en}
 [fol. 34v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la parte de septentrion. el de Macedonia.
 q<ue> se començo enel g<r><<a>>nd alexandre. & se acabo
@@ -6852,7 +6852,7 @@ taenta trasladadores. mil. & Lxxij. & son es-
 tos an<n>os damas estas edades. segu<n>d los}
 [fol. 35v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 hebreos. dos mil. & ochocientos. & ochenta
 & ocho annos. & segu<n>d los .Lxx<<a>> trasladador<e>s
@@ -7007,7 +7007,7 @@ de thare & de s<us> fijos en caldea. & en mesopo-
 tamia. otras razones q<ue> fallamos delos
 santos padres. & de otros sabios. & de Araui-
 gos q<ue> son dich<o>s sobresto en s<us> esponimie<n>-
-tos. {RUB. D<e>l nascimie<n>to destos tres h<er>mano<<s>> fijos +}}
+tos. {RUB. D<e>l nascimie<n>to destos tres h<er>mano<<s>> fijos ⇒}}
 {CB2.
 IIII {IN4.} Todos los esponedores {RUB. de Thare.}
 q<ue> sobresta razon fablan. acu-
@@ -7061,7 +7061,7 @@ ham el ma<n>dado de dios q<ue> se fuesse pora ti-
 erra de Canaa<n> enla uida de su padre Thare;}
 [fol. 36v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Si despues. & sobresto aduzen augustin. & be-
 da. & Mahestre pedro. & Jeronimo. & otros. sus
@@ -7270,7 +7270,7 @@ los ydolos. si no<n> locura & vanidad. & p<re>diga-
 ua q<ue> uno era el dios q<ue> criara todas las co-sas}
 [fol. 37v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del mu<n>do. & las fiziera & las mantenie & las
 tenie en poder. & no<n> much<o>s como las yentes
@@ -7479,7 +7479,7 @@ ayre su figura. co<n> sennales a aues & a Nuue<<s>>.
 tenesçen. ¶ E otrossi auie su ymage<n> del ele-mento}
 [fol. 38v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del fuego. a q<u><<i>>en aorauan todos en aq<ue>l
 regno de caldea. ¶ En este logar diz el Ob<is>po
@@ -7688,7 +7688,7 @@ caron los ge<n>tiles dios dela ferre-
 ria. como delas otras cosas por mostrar y al}
 [fol. 39v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dios del fuego. comol q<ue>rien bien por el su auc-
 tor. E llamaron le vulcano. & dizen los auc-
@@ -7897,7 +7897,7 @@ las cosas. & lo tiene todo en su poder & lo ma<n>-
 tiene. & lo desfara el todo q<u><<a>>ndo el q<u><<i>>siere. & lo}
 [fol. 40v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fara el decabo q<u><<a>>ndo q<u><<i>>siere. ni<n> los padres donde
 nos uenimos no<n> nos mostraron nu<n>ca fecho
@@ -8107,7 +8107,7 @@ E apartose & conseios co<n> s<us> ricos om<n>es & sus
 Obispos q<ue> tenie y delos ydolos & de su creen-cia.}
 [fol. 41v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & los mas dellos oyendo lo q<ue> abraha<m> auie
 dicho. & dubdaron en co<n>seiar le. Pero uno dell-
@@ -8316,7 +8316,7 @@ daq<ue>lla co<n>tienda. & tenemos q<ue> es g<u><<i>>sado q<ue> cu<m>-
 pla pora esto. lo q<ue> se entiende por lo q<ue> aq<u><<i>> aue-mos}
 [fol. 42v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dicho. ¶ E tomose thare co<n> esta su co<m>-
 panna ordenada como dixiemos. & salio co<n>
@@ -8525,7 +8525,7 @@ enta & dos del su regnado. & treynta y uno
 del Rey Europs. de pelopone. & diez delos}
 [fol. 43v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Thebeos enel regno de Egipto. ¶ E regno la
 reyna Semiramis en Babilon<n>a & en Assiri-
@@ -8734,7 +8734,7 @@ sen. yl obedeciessen por suyos. & cue<n>ta oro-
 sio q<ue> nu<n>ca otro lidiador ni<n> guerrero entro}
 [fol. 44v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a Jndia. fueras ende esta Reyna & el grand
 alexandre. Mas diz q<ue> tan asperas & tan tra-
@@ -8890,7 +8890,7 @@ dela mug<ie>r. & cerco destos la Reyna la cibdad.
 su libro mayor. en estos uiessos de lati<n>.
 {RUB. {LAT. Piram<us> & tisbe juuenu<m> pulcherrim<us> alter.
 Alt<er>a q<u><<a>>s oriens h<ab>uit p<re>lata puellis.
-Co<n>tig<u><<a>>s h<ab>uere domos ubi dicitur altera.} +}}
+Co<n>tig<u><<a>>s h<ab>uere domos ubi dicitur altera.} ⇒}}
 {CB2.
 {RUB. {LAT. Cotilib<us> muri<<s>> cinxisse Semiramis vrbe<m>.}}
 ¶ E q<u><<i>>ere esto dezir assi enel n<uest>ro le<n>guage. ¶ Pi-
@@ -8943,7 +8943,7 @@ regnos poro q<ue>rie. metio mie<n>tes en su fijo
 ell Jnfa<n>te zameys. & enamorosse el della}
 [fol. 45v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & ella del. & como no era bien cuerdo. nj<n> ente<n>-
 diendo q<ue> se fazie ouo co<n> su madre lo q<ue> el Rey
@@ -9152,7 +9152,7 @@ uemos dicho. q<ue>brantaua los ydolos cada
 q<ue> auer los podie. & desuiaua dellos los om<ne>s}
 [fol. 46v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<u><<a>>nto el sabie. & sele guisaua. & cue<n>ta Abul
 vbeyt q<ue>l creyen much<o>s om<ne>s. & q<ue>l tenien por
@@ -9348,7 +9348,7 @@ Egipto. ca oyera dezir q<ue> alli auie g<r><<a>>nd abo<n>do
 de uia<n>das. & leuo co<n>sigo a Sarra su mug<ier> & a}
 [fol. 47v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 loth su sobrino. ¶ E q<u><<a>>ndo fuero<n> a cerca de Egip-
 to. dixo abraham a Sarra ante q<ue> entrassen
@@ -9557,7 +9557,7 @@ bre Meroe. desi corre esco<n>tra septe<n>trion. ⅋ da-
 lli torna a medio dia. ⅋ por la razo<n> del referi-miento}
 [fol. 48v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> faze alli o torna. sale de madre alo<<s>>
 tie<m>pos sennalados del anno. & riega todos los
@@ -9767,7 +9767,7 @@ sar la noche daq<ue>lla g<u><<i>>sa. ¶ Et alabandol de
 luego por enamorar le. & meter le a contar}
 [fol. 49v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 lo q<ue>l dema<n>daua. dixol assi. {RUB. D<e>las razones de
 Julio cesar all ob<is>po acoreo sobrel nilo.}
@@ -9976,7 +9976,7 @@ dond el sale por las tierras & riega las h<er>edade<<s>>.
 q<ue> aq<ue>l cresçer q<ue>l uiene delas nieues de Ethiopia.}
 [fol. 50v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Mas esto no<n> es nada. ca nj<n> es septentrion en
 aq<ue>llos montes de Ethiopia. ni<n> ni<n>guna delas
@@ -10185,7 +10185,7 @@ alegre por seer tu el su nilo. q<ue> por ella sepa el
 su nascimie<n>to. ¶ Mas dire yo los tus rios. &}
 [fol. 51v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 abrire yo la razon del tu nascimie<n>to. & es esto.
 que q<u><<i>>ere dezir el comie<n>ço della como es. & com<o>
@@ -10396,7 +10396,7 @@ del mayor h<er>mano. & llamaro<n> le el ual de
 manbre. & estos tres h<er>manos pusiero<n> sus}
 [fol. 52v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 amiztades co<n> abraam q<u><<a>>ndo llego alli. & desi mo-
 ro el cabo dellos en aq<ue>l ual. cerca un g<r><<a>>nd aruol
@@ -10605,7 +10605,7 @@ se fazie enlas estrellas. q<u><<i>>so el fazer semeia<n>-
 llos q<ue> por el & por el su seso del se guiassen.}
 [fol. 53v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> dalli adelant cada q<ue> se cu<m>pliessen. Çi<n>-
 quaenta an<n>os. q<ue> llamassen al postrime-
@@ -10810,7 +10810,7 @@ dio cada una dellas. fueras ende las a-
 ues q<ue>las non partio. & puso el una mea-tad}
 [fol. 54v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 en derecho del otra. de cada una del-
 las. ca assi gelo mandara fazer nues-
@@ -11019,7 +11019,7 @@ et mucho mal q<ue> me faze. ¶ Et di-
 xol el angel tu Sen<n>ora te fiziera}
 [fol. 55v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 bien & merçed. et tu non gelo gradesci-
 es & eras de mal con<n>oscer et desmesura-
@@ -11225,7 +11225,7 @@ al uno onrro mas q<ue> alos otros. ca a-
 q<ue>l tenie el por sen<n>or & a[ ]tres dio a co-mer.}
 [fol. 56v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mas antel uno siruie por todos.
 Et despues q<ue> ouieron comido dixiero<n> a
@@ -11435,7 +11435,7 @@ tomaron le por la mano. & diz Maestre
 godofre q<ue> estando la casa cerrada le sa-caron}
 [fol. 57v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ellos della & dela uilla por las ma-
 nos a el & assu mugier & assus fijas. et
@@ -11648,7 +11648,7 @@ en cesa. q<ue> q<ue>mo las q<u><<a>>tro daq<ue>llas çib-
 dades con sus pueblos. q<ue> non finco}
 [fol. 58v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ende ninguno uaro<n> nj<n> mugier. nin chico
 nin grande en toda su tierra. ¶ Onde por
@@ -11861,7 +11861,7 @@ mundo se auie a acabar por fin de fuego
 et sospecharon q<ue> por uentura aq<ue>l fuego}
 [fol. 59v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> destruyera aq<ue>llas çibdades fuera aq<ue>lla
 fin; q<ue> assi como enel tiempo de Noe. dios
@@ -12074,7 +12074,7 @@ ran hermanos & ella q<ue>lo fiziera assi.
 estas razones oyo. p<er>dio la yra & el mal}
 [fol. 60v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 talent. q<ue> tenie por esta razon & mando
 dar su mugier a abraam. & diol uacas
@@ -12277,7 +12277,7 @@ el no<m>bre de om<n>e de q<ue> se lee. q<ue> prim<er>a
 mientre fue annu<n>ciado de n<uest>ro sen<n>or}
 [fol. 61v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dios. q<ue> este nombre ysmael fue. & aq<ue>l-
 lo al q<ue> dize moysen q<ue>las manos o el
@@ -12490,7 +12490,7 @@ nin tu nunca melo mostrest ni<n> yo
 nunca lo oy si non agora ati. Ende}
 [fol. 62v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tengo q<ue> por tal razon como esta. q<ue> me
 non deues poner culpa. Mas euas tu po-
@@ -12703,7 +12703,7 @@ cebir la tu alma con or<ati>ones & con sacri-
 ficios. & auerla con sigo. & por q<ue> te yo no-dresci}
 [fol. 63v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 bien. & te ensen<n>e las costumbres
 et las cosas q<ue> sope q<ue> plazie<n> a dios. el
@@ -12916,7 +12916,7 @@ ra fazer de su fijo ysaac. cales daua n<uest>ro
 sen<n>or apareiadas & p<re>stas. todas las co-sas}
 [fol. 64v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> auien mester ¶ Et despues desto poco
 antes q<ue>s acabassen dos an<n>os. tornaron
@@ -13129,7 +13129,7 @@ es q<ue> fue g<u><<i>>sado metios al camino & fu-
 esse pora Mesopotamia. ala cibdad q<ue>}
 [fol. 65v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a nombre Carra. o moraua Nacor her-
 mano de abraham. ca alli era el su li-
@@ -13342,7 +13342,7 @@ dias. & q<ue>re me ya tornar ael. lo mas
 ayna q<ue> pudiesse con recabdo de aq<ue>llo}
 [fol. 66v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por q<ue>m enuio. ante q<ue> al fuesse del. ¶ Es-
 tonces dixieron ellos llamemos la ni-
@@ -13555,7 +13555,7 @@ mas delos seys q<ue> nos auemos dichos
 zaram & los otros. & los q<ue> dellos uiuie-ron.}
 [fol. 67v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 segund Moysen & Josepho & Maestre
 pedro. & segund todos los otros. Griegos.
@@ -13768,7 +13768,7 @@ en aq<ue>l logar tan alto non podie ya so-
 frir el ayre. q<ue> era muy puro. ⅋ uiosse}
 [fol. 68v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 en q<ue>xa. & ouo miedo q<ue> si mas arriba fues-
 se q<ue> morrie. ⅋ ouosse atirar dela uolun-
@@ -13981,7 +13981,7 @@ mos dezir en esta razo<n>. este Jano du-
 na edad fue con ysaac. ⅋ regnaua o-trossi}
 [fol. 69v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 estonces en la ysla de Creta el
 Rey Celio. ⅋ celio fue padre del Rey Sa-
@@ -14194,7 +14194,7 @@ me q<ue> eres tal. q<ue> p<er>tenescies pora seer
 muger de Juppiter. & tengo q<ue> sera de bu-ena}
 [fol. 70v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 uentura el q<ue> te ouiere. ⅋ el sol ua muy
 alto en medio del firmam<en>to. & la cale<n>tu-
@@ -14407,7 +14407,7 @@ en aq<ue>llas sen<n>ales delos pies. & uio como
 las unas fazien sen<n>ales dela letra o. ⅋}
 [fol. 71v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la fendedura de entre las un<n>as fazie es-
 ta otra letra y. E començo el Rey ynaco
@@ -14620,7 +14620,7 @@ q<ue>l ouo ella corrido todo. llego alas ri-
 beras del Rio Nilo en Egipto. q<ue>l no}
 [fol. 72v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fincaua ya de correr tierra nin agua. ma<<s>>
 del Nilo. ¶ Et yo pues q<ue> fue en las riberas
@@ -14833,7 +14833,7 @@ las generationes. ⅋ Juno recebidora
 como muger q<ue> recibe del Jnfusor las}
 [fol. 73v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 generaciones & las enuia ala tierra. ⅋ desta
 guisa son Juppit<er> & Juno. el aer de suso &
@@ -15046,7 +15046,7 @@ q<ue>llas tierras por razon q<ue> dizien q<ue> era
 esta duen<n>a mudada en uaca por las ma-las}
 [fol. 74v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 costumbres en q<ue> andaua. tolliero<n> el no<m>-
 bre a aq<ue>l Rio ynaco de argos. & llamaron a
@@ -15259,7 +15259,7 @@ cia q<ue> troxo & puso siemp<re> en el amor de di-
 os & enel su s<er>uicio. & q<ue> fue toda su uida}
 [fol. 75v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ciento & setaenta & .v. ⅋ q<ue> fueron sus fi-
 ios ysaac & ysmael al so soterramiento.
@@ -15461,7 +15461,7 @@ pitulo ante deste q<ue> se entien-
 da q<ue> por uentura co<n> co<n>sejo de su marido}
 [fol. 76v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> fue Rebeca como en romeria a ello. al
 monte moria (o)[^a]braam fiziera a dios el
@@ -15674,7 +15674,7 @@ desto dexamos el fecho. & aqui dezimo<<s>>
 el tiempo de q<u><<a>>ndo acaescio. ¶ Et regna-ua}
 [fol. 77v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 en Sicionia el Rey Turimaco. ¶ An-
 dados diez an<n>os de Jacob & setaenta de
@@ -15887,7 +15887,7 @@ Josepho q<ue> alimpiaua alli o fuera u-
 nos pozos q<ue> fiziera abraam su padre}
 [fol. 78v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> cerraran los philisteos despues q<ue> el
 moriera. ⅋ llamo les aq<ue>llos mismos no<m>-
@@ -16100,7 +16100,7 @@ fijo como lo podiste tan ayna fallar.
 Respuso Jacob. Padre dios lo q<u><<i>>so q<ue> yo fa-llas}
 [fol. 79v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tan ayna lo q<ue> tu q<ue>ries. Dixol el. fijo.
 llega te aca & tan<n>er te. & uere si eres tu E-
@@ -16313,7 +16313,7 @@ el tu linage tan mucho como el poluo
 dela tierra. ⅋ terna todas las q<u><<a>>tro pa<r>tes}
 [fol. 80v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del mundo. ⅋ en ti & enel sera<n> benditos
 todos los linages dela tierra. & yo te g<u><<a>>rda-
@@ -16527,7 +16527,7 @@ E pues q<ue> Jacob oro con el un mes. dixol
 Laban. Sobrino quieres me seruir q<ue> te}
 [fol. 81v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 de algo. ⅋ auie Laban dos fijas. la mayor
 lia. la menor Rachel q<ue> era aq<ue>lla q<ue> dixie-
@@ -16740,7 +16740,7 @@ atu tierra & atus parientes. ca yo sere con-
 tigo. ¶ Jacob estonces de so busto o andaua}
 [fol. 82v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 con sus ganados enuio por sus mugeres Ra-
 chel & Lia. ⅋ fueron ael o andaua con las
@@ -16953,7 +16953,7 @@ segund cuenta<n> Jh<er>onimo. & Josepho. & Ma-
 estre pedro. Eguo los de guisa q<ue>las mance-bas}
 [fol. 83v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & sus fijos fuessen en la p<r><<i>>mera az antel. La<<s>>
 mugieres & los fijos dellas. en la segunda em-
@@ -17166,7 +17166,7 @@ ra naue de ytalia & d<e>las uelas. & del
 tormento d<e>las mouidas. & d<e>la cibdad Sut<r><<i>>o.}}
 [fol. 84v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XXV {IN4.} Enla sazon dela entrada de Jacob a
 Mesopotamia. regnaua el Rey sa-
@@ -17379,7 +17379,7 @@ n<n>as & con los ganados de guisa q<ue> cumpla<n>
 los fijos con las madres fasta q<ue> sea yo co<n>-tigo}
 [fol. 85v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 en seyr. ¶ Diz Esau pues toma desta
 mi compan<n>a q<ue> uenga contigo. ¶ Respon-
@@ -17592,7 +17592,7 @@ crificio sobrella & echol olio de suso. & llamo
 bethel al logar. ¶ Despues desto salio dalli}
 [fol. 86v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et uino a bethlleem. q<ue> q<u><<i>>ere dezir tanto co-
 mo casa de pan. ¶ ⅋ alli pario Rachel el
@@ -17805,7 +17805,7 @@ la certedumbre del bien en este mu<n>do an-
 dudiesse errado buscandolo. mas q<ue> cierta}
 [fol. 87v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mientre fuesse al logar o era. ¶ Onde por esta<<s>>
 noblezas tan grandes q<ue> auie en aq<ue>lla çibdad.
@@ -18018,7 +18018,7 @@ Et dixiero<n>. Si fue nunca q<u><<i>> son ta<n> dulce
 oyesse en logar del mundo. ⅋ estando ello<<s>>}
 [fol. 88v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fablando desto. cataron & uiero<n> estar un pen-
 nedo aluen dellos. Et asmaro<n> q<ue> serien sere-
@@ -18232,7 +18232,7 @@ sabios. & mas onrradas q<ue> todos los otros
 dessos delos gentiles q<ue> ellos tenien por ma-yores}
 [fol. 89v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 entre si. & uinieran y pora poner el
 nombre ala çibdad. Et ouiero<n> su acuerdo
@@ -18336,7 +18336,7 @@ nj<n> desamparan nunqua alos q<ue> lo saben
 ni<n> les dexan morir muerte durable. ca los
 sabios destos saberes maguer q<ue> muere<n> se-
 gund la carne. pero siempre uiuen por
-memoria. {RUB. D<e>las uidas d<e>los o<mne>s & d<e>los pri-meros +}}
+memoria. {RUB. D<e>las uidas d<e>los o<mne>s & d<e>los pri-meros ⇒}}
 [fol. 90r]
 {HD. VII}
 {CB2.
@@ -18445,7 +18445,7 @@ geno. don uinieron contiendas & peleas
 et lides & feridas. ⅋ esto uinie por las cul-pas}
 [fol. 90v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 delos pueblos & no<n> delos Reyes. Q<u><<a>>ndo
 esto uio Juppiter q<ue> regnaua ala sazon. et
@@ -18658,7 +18658,7 @@ et Madiell. & yran. cabdiellos en la tierra
 del sen<n>orio de Esau. ¶ Jacob assi como dixi-emos}
 [fol. 91v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 finco en tierra de Canaa<n> osu padre
 moro assi como estran<n>o. Et los linages
@@ -18858,7 +18858,7 @@ muert. ¶ dixoles. ¶ Nol matemos. Sino<n>
 q<u><<a>>ndo sopiessen el padre & la madre q<ue> desta}
 [fol. 92v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 guisa moriera. serie<n> ellos luego muertos
 llorando por duelo del. ¶ De mas a este (a
@@ -19070,7 +19070,7 @@ patriarcha Judas de como fizo a Phares
 & a zara<m> en thamar su nuera:}}
 [fol. 93v]
 {HD. [*GENE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 III {IN4.} Cuenta la estoria dela biblia. &
 las otras q<ue> desta razo<n> fablan
@@ -19283,7 +19283,7 @@ cauall<er>ia del Rey. ¶ Et sobresto departe
 Josepho q<ue> Phutiphar era espensero et}
 [fol. 94v]
 {HD. GEN[*E]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mayordomo del Rey. & auie en g<u><<a>>rda toda
 la casa de Pharaon. & q<ue> Josep auie .xvij. an-
@@ -19496,7 +19496,7 @@ fermosas colores. ¶ Et puso en aq<ue>llas
 camaras & en aq<ue>llos sobrados mucha}
 [fol. 95v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ropa p<re>ciada & estrados de pannos labra-
 dos con oro. & otras noblezas muy mara-
@@ -19709,7 +19709,7 @@ maneras & aduzir de muchos uinos.
 ⅋ conuido grand compan<n>a delas duen-nas}
 [fol. 96v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del palacio del Rey. ¶ Et q<u><<a>>ndo las du-
 en<n>as auien auenir. assentos ella en un
@@ -19923,7 +19923,7 @@ aqui un om<n>e hebreo & sieruo q<ue> nos es-
 carnesciesse. yazia me yo en mi camara}
 [fol. 97v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 doliente & flaca como uos dix q<ue>lo era & q<ue>
 por esso no<n> podia [^yr] ala fiesta. ¶ Et los om<ne>s
@@ -20136,7 +20136,7 @@ por ell amor q<ue> auie con el copero. mas
 por la uerdad q<ue> entendio delo q<ue> q<ue>rie de-zir.}
 [fol. 98v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Q<u><<a>>ndo uio el çatiq<ue>ro q<ue> tan bien sol-
 uiera Josep el sueno al copero. contol el.
@@ -20349,7 +20349,7 @@ eno q<ue> sea sabio & entendido & sepa bie<n>
 mesurar las cosas q<ue> an de uenir. & faz}
 [fol. 99v]
 {HD. [*GEN]E-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 le ueedor & poderoso de toda tierra de Egip-
 to. & el ponga otros so si en toda tierra de
@@ -20562,7 +20562,7 @@ de buena uentura. onde uos ruego q<ue>
 no<n> melo retrayades mas. nj<n> melo fa-cirades.}
 [fol. 100v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ca non lo tengo por bie<n> nj<n> por
 ensen<n>amie<n>to. ¶ Respusol essora Josep.
@@ -20775,7 +20775,7 @@ por natura de uenir en la tierra de
 dia. ⅋ en ell agua de noche. ¶ En ell}
 [fol. 101v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 agua. por q<ue> come delos pescados dond
 uiue & se mantiene. ¶ Et en la tierra
@@ -20988,7 +20988,7 @@ et la tiene<n> ya fuera dell agua. da<n> ello<<s>>
 grandes uozes. ⅋ la cocadriz co<n> el gra<n>d}
 [fol. 102v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 espanto q<ue> a dellos. echa uiuo por la bo-
 ca ell om<n>e q<ue> auie tragado. ⅋ despues q<ue>
@@ -21201,7 +21201,7 @@ uenir ot<r><<o>>s muchos pora comp<r><<a>>r dello.
 ¶ Membros estonces Josep delos sue-nnos}
 [fol. 103v]
 {HD. GENE-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> son<n>ara en casa de su padre. & co-
 mo los dixiera Jacob assu madre & ass<us>
@@ -21414,7 +21414,7 @@ fecho como fuera. ⅋ tomaro<n> se cada
 unos a emer & solloçar. & lloraua<n> muy}
 [fol. 104v]
 {HD. GENE-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 grieue mientre. ⅋ dizien. dios es muy de-
 rechero. & con derecho nos faze aq<ue>sto. {RUB. De
@@ -21630,7 +21630,7 @@ fijos fi<n>co. fasta q<ue> uos tornedes uos.
 las razones q<ue> auemos co<n>tadas. Los}
 [fol. 105v]
 {HD. [*G]E[*NE]-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fijos tomaro<n> daq<ue>llos dones q<ue>les el padre
 mando. & su auer. & a[ ]beniamj<n> su h<er>mano
@@ -21843,7 +21843,7 @@ mj<n> q<ue> era el menor. ¶ E ellos q<u><<a>>ndo lo uie-
 ro<n> touiero<n> se por muertos. & come<n>çaron}
 [fol. 106v]
 {HD. GEN[*E]-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a llorar grieue mie<n>tre & romper se todos et
 fazer grand duelo. ¶ Lo uno por be<n>iamj<n>
@@ -22056,7 +22056,7 @@ ua<n> esperando aq<ue>lla poridad q<u><<a>>ndo uieron
 a Judas yazer ante los pies de Josep. fue-ro<n>}
 [fol. 107v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 todos corriendo & fiziero<n> esso mismo.
 ¶ Et dixiero<n> q<ue> todos q<ue>rien seer sus sieruo<<s>>.
@@ -22269,7 +22269,7 @@ ra. & ueer le. et bendezir le e con uusco
 mios fijos:}
 [fol. 108v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {ILL. {RUB. Aqui se comie<n>ça el Noueno
 libro dela general estoria:}}
@@ -22471,7 +22471,7 @@ tos dos logares Jersen & Ramesse. q<ue> en-
 una tierra son. & aun q<ue> aq<ue>lla tierra.}
 [fol. 109v]
 {HD. [*GENE]-[*SI]S
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Pero q<ue> ouo dantes nombre Jersen. q<ue> essa
 es ala q<ue> despues & aun dantes llamaro<n>
@@ -22684,7 +22684,7 @@ q<ue> este tiemplo & este su ydolo(.) [^era] en tierra
 delas arenas. & allil aoraua<n> yl fazien}
 [fol. 110v]
 {HD. GENE-[*S]IS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sacrificio yentes de muchas tierras q<ue> ui-
 nien y ass<us> respuestas de sus dema<n>das
@@ -22897,7 +22897,7 @@ en t<er>mino de Egipto dell un cabo all otro.
 ¶ Et por esta guisa fue el Rey Pharao<n>}
 [fol. 111v]
 {HD. [*GENE]-[*S]IS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 en aq<ue>l tiempo fecho sen<n>or delos om<ne>s
 et de todas las h<er>edades de Egipto. & de-
@@ -23110,7 +23110,7 @@ acaescer. g<u><<a>>rdo ell aluorosçamiento del
 pueblo q<ue> podrie uenir sobre lo q<ue> ell auie}
 [fol. 112v]
 {HD. GENE-[*SI]S
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fecho con los pueblos por el Rey Pharao<n>
 su sen<n>or. & sobre las sus posturas. & fasta q<ue>
@@ -23324,7 +23324,7 @@ nage. & q<ue> nos darie aq<ue>lla tierra. por n<uest>ra.
 et q<ue> seriemos siemp<re> sen<n>ores della. fazi-endo}
 [fol. 113v]
 {HD. GE[*NE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 nos lo q<ue> nos el mandasse. & no<n> fin-
 cando por nos. ¶ ⅋ agora q<u><<i>>ero q<ue> tus fijo<<s>>
@@ -23537,7 +23537,7 @@ nados. assi como oyredes adelant en
 la partida dela tierra como uos lo co<n>-tara.}
 [fol. 114v]
 {HD. [*GENE]-[*SI]S
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la estoria del libro de Josue q<ue> par-
 tio tierra de Canaan a estos linages por
@@ -23750,7 +23750,7 @@ del. Pero sen<n>or. el tu saluador espera-
 re yo. ¶ Esta p<ro>ph<ec>ia departe<n> de mucha<<s>>}
 [fol. 115v]
 {HD. [*GENE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 man<er>as los qui fablan desta razo<n>. ⅋ dize<n>
 assi. q<ue> esto q<ue> dixo Jacob. q<ue> dan. judgarie
@@ -23963,7 +23963,7 @@ fijo acrescient. departe<n> Maestre
 pedro. & los otros esponedores sobresta es-toria.}
 [fol. 116v]
 {HD. [*GENE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> gelo dixo. ¶ La una uez por q<ue> cres-
 cio mucho en u<<i>><r>tud de bondad. & crescie au<n>
@@ -24176,7 +24176,7 @@ estas palabras dell ebraygo. ¶ Benedi-
 to sea el linage de Josep. fasta q<ue> el çie-lo}
 [fol. 117v]
 {HD. [*GENE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & la tierra se ayunten en uno. ¶ ⅋ des-
 to al q<ue> dixo Jacob en cabo de todo. faga<n>
@@ -24389,7 +24389,7 @@ s<us> cuerpos. & los ninnuelos & s<us> madre<<s>>
 et s<us> s<er>uientas & sus ganados. & los q<ue>}
 [fol. 118v]
 {HD. [*G]E[*NE]-[*SI]S
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dexaron por g<u><<a>>rdas dessas sus compan<n>as q<ue>
 fincaua<n> en tierra de Jersen. ¶ ⅋ fuero<n> otro-
@@ -24602,7 +24602,7 @@ Ca entre las otras uiandas. la ciue-
 ra et el pan. es lo q<ue> mas cumple et}
 [fol. 119v]
 {HD. [*GENE]-[*SIS]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mas farta. ¶ ⅋ dalli adelante fuero<n> assa-
 cando las gentes las medidas delas ot<r><<a>>s
@@ -24815,7 +24815,7 @@ q<u><<a>>ntos Pharaones nombramos q<ue> fue-
 ro<n> enel su tiempo de guisa q<ue> nunca lo}
 [fol. 120v]
 {HD. [*G]EN[*E]-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 p<er>dio. tanto se tenie con dios & con bo<n>dad
 et tan bien andant le fizo dios por ello.
@@ -25016,7 +25016,7 @@ hlant & delas sus marauillas. & delos t<er>-
 minos o esta aq<ue>l mont. ¶ De Siro el de}
 [fol. 121v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Siria. ¶ Dela contienda q<ue>los de Ethio-
 pia tomaro<n> contra los de Egipto dond
@@ -25229,7 +25229,7 @@ yogo en s<er>uidumbre algunas ot<r><<a>>s ueze<<s>>
 q<ue> cayo y como oyredes adelante en esta}
 [fol. 122v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 estoria. antes contaro<n> las estorias o fazer
 lo pudiero<n> bie<n> por los an<n>os dela s<er>uidum-
@@ -25442,7 +25442,7 @@ departimientos una dubda sobre la cue<n>-
 ta q<ue> delos an<n>os desta seruidumbre faze<n>}
 [fol. 123v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aqui los sabios estoriadores q<ue> sobresta es-
 toria. & sobrel departimiento destos an-
@@ -25655,7 +25655,7 @@ es q<ue> fuero<n> en la t<ie>rra de p<ro>missio<n>. {RUB. D<e>las razon<e>s
 desta p<r><<i>>mera s<er>uidumbre d<e>los fijos de i<s>r<ahe>l.}}
 [fol. 124v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XIII {IN4.} Esta p<r><<i>>mera s<er>uidumbre de los de
 i<s>r<ahe>l se començo luego all otro
@@ -25868,7 +25868,7 @@ me toda uia. ca muchas uezes los o<mne>s
 desq<ue> en las grandes ondras suben demu-dan}
 [fol. 125v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 se les los coraçones de como era<n> ante<<s>>
 et oluidan las buenas costumbres & las
@@ -26081,7 +26081,7 @@ dunos om<ne>s a q<ue> llaman egipanos las
 gentes dalla. & plinio & los ot<r><<o>>s departi-dores}
 [fol. 126v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 delas tierras & q<ue> cuentan delas yente<<s>>
 estran<n>as. ¶ ⅋ parecen y otrossi compan<n>as
@@ -26294,7 +26294,7 @@ mismo q<ue> oyestes q<ue> dixiera<n> los otros q<ue>
 fablaro<n> del. ¶ Et diz otrossi demas que}
 [fol. 127v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 yuso en fondon del mont en lo mas ba-
 xo poro entrara el & los q<ue> yuan co<n> el. & lo
@@ -26507,7 +26507,7 @@ mo contaremos a delant q<ue> fijos fuero<n>
 de Juppit<er> & de electra fija deste athlas}
 [fol. 128v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Rey de Espanna & de affrica. & de su muger
 Pleyone. ¶ Onde cuenta ouidio enel lib<r><<o>>
@@ -26721,7 +26721,7 @@ aqui. {RUB. D<e>las cosas q<ue> acaesciero<n> enlos .ix.
 an<n>os daq<ue>l Rey ffarao<n> thamoso:}}
 [fol. 129v]
 {HD. GENE-SIS
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XXXV {IN4.} ANdados .xxxviij. annos dela s<er>ui-
 dumbre delos de i<s>r<ahe>l. auiendo es-
@@ -26938,7 +26938,7 @@ q<ue> acresciera el mucho. & la onrrara<n> el Rey
 Juppit<er> & el co<n> los estudios delos saberes.}
 [fol. 130v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et con muchos buenos fueros & franq<ue>zas co-
 mo es ya co<n>tado. q<ue> poblo esse Rey Cicrops ot<r><<a>>
@@ -27143,7 +27143,7 @@ iamin. ¶ Dan. ¶ Neptalim. ¶ Gad. ¶ a-
 ser. ¶ Et diz la biblia & los sabios q<ue> de-parten}
 [fol. 131v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sobrella q<ue> ellos contadas sus com-
 pan<n>as fuero<n> .Lxxv. entre todos segu<n>d lo
@@ -27360,7 +27360,7 @@ breos q<ue> eran Maestros daq<ue>llas
 obras de tierra entrellos. ¶ ⅋ dix<o>}
 [fol. 132v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 les encubierta mientre & en buena man<er>a
 et como por otra razo<n>. ¶ Q<ue>l llegara ma<n>da-
@@ -27577,7 +27577,7 @@ dio fijos. ¶ En tod esto no<n> dexo de crescer
 el pueblo de i<s>r<ahe>l. por todas aq<ue>llas p<re>mias}
 [fol. 133v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et affortaleciesse mucho. ¶ Q<u><<a>>ndo uio otro-
 ssi Pharao<n> q<ue> por ni<n>guna destas arterias
@@ -27794,7 +27794,7 @@ nio & los otros sabios dizen q<ue> aqui
 auemos nombrados delos fechos & dela}
 [fol. 134v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fechura & delas costumbres deste toro de
 Egipto a q<ue> llamaua<n> el buey. ¶ ⅋ lo q<ue>los
@@ -28011,7 +28011,7 @@ ro<n> a Pharao<n>. q<ue> auie anascer del linage de
 i<s>r<ahe>l. & librarie auos desta s<er>uidumbre por cu-ya}
 [fol. 135v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 razon el Rey. & los de Egipto mata<n> los
 u<uest>ros njnnos. tu fijo (tu fijo) a de ser. ¶ Onde
@@ -28228,7 +28228,7 @@ o la fija del Rey estaua. ¶ ⅋ departe<n> aqui
 algunos. q<ue> por esto q<ue> rep<re>so alli en la yun-q<ue>ra}
 [fol. 136v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aq<ue>lla cest<er>ena q<ue> cue<n>ta en la biblia q<ue>l
 pusieron en el can<n>izal. {RUB. De como ouo don-na +}
@@ -28445,7 +28445,7 @@ Ley p<ro>ph<et>aua<n> por sp<irit>u <santo> de n<uest>ro sen<n>or dios.
 encantamie<n>tos. & sus adeuina<n>ças en que}
 [fol. 137v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dizie<n> alas uezes u<er>dad como q<ue> no<n> sabien
 ende lo cierto. ¶ ⅋ q<u><<a>>ndo cato aq<ue>ll obispo con-
@@ -28659,10 +28659,10 @@ aqui la razo<n> de Moysen & la estoria dela
 biblia. & diremos delos Reys ge<n>tiles et
 d<e>las otras cosas q<ue> acaesciero<n> por las ot<r><<a>>s
 tierras en estos .xxx. a<n>nos. {RUB. De unos Reys
-gentiles & de cosas dessos regnados & +}}
+gentiles & de cosas dessos regnados & ⇒}}
 [fol. 138v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {RUB. en los a<n>nos desta seruidumbre:}
 XXX {IN4.} ANdados .Lxvj. a<n>nos desta s<er>uidu<m>-
@@ -28879,7 +28879,7 @@ alexandre q<ue> por q<u><<a>>l ell enemigo uee all
 enemigo q<ue> por tal le entiende luego yl}
 [fol. 139v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 faze. ⅋ esto fallamos & tenemos q<ue> q<u><<i>>e-
 re dezir el dicho daq<ue>lla fazan<n>a d<e>los auc-
@@ -29096,7 +29096,7 @@ pora auer fazienda co<n> los egipciano<<s>>.
 ⅋ ue<n>gar el da<n>no & la<<s>> desondras q<ue>les}
 [fol. 140v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fiziera<n>. ¶ Los egipcianos q<u><<a>>ndo lo sopie-
 ron saliero<n> & lidiaro<n> co<n> ellos & fuero<n> ue<n>-
@@ -29313,7 +29313,7 @@ o alguna cosa empoçon<n>ada q<ue>les nuze. q<ue>
 toma<n> del agua con el pico. & mete<n> se della}
 [fol. 141v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por el postrim<er>o logar poro se faze ell alli<m>-
 piamie<n>to de tod el cuerpo & laua<n> se much<o>
@@ -29530,7 +29530,7 @@ armas & en todas las cosas q<ue> princep
 podie ser en cerca. & p<re>gunto & sopo como}
 [fol. 142v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aq<ue>l era el mayor cabdiello de toda la hu-
 este. & ueye a todos mandar se por el. ma-
@@ -29747,7 +29747,7 @@ mo. ouo deste Rey Cicrops. fasta la p<r><<i>>sio<n>
 de Troya .ccc. & .Lxxv. an<n>os este Rey se-gund}
 [fol. 143v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dize Eusebio & Jh<er>onimo otrossi era
 natural de egipto. ⅋ sin este nombre Ci-
@@ -29968,7 +29968,7 @@ et escriptas en los libros d<e>las estorias
 de grescia. ⅋ d<e>los otros no<n> esc<r><<i>>uiero<n> al}
 [fol. 144v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dellos. si no<n> los nombres & los an<n>os de
 s<us> regnados. Mas p<er>o q<ue> pone<n> aqui los s<us>
@@ -30185,7 +30185,7 @@ fambre ca no<n> touiera q<ue> comer. ¶ ⅋
 auie estonces en aq<ue>lla tierra un sa-cerdot}
 [fol. 145v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & era obispo & aun p<r><<i>>mas segu<n>d
 diz Maestre. P<edr><<o>>. entre s<us> obispos & arço-
@@ -30402,7 +30402,7 @@ fue subiendo co<n> el ganado ante si le-
 uandolo adentro. fasta q<ue> llego co<n> ello a}
 [fol. 146v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aq<ue>l logar q<ue> dixiemos oreb. ¶ Et fizo
 lo otrossi por q<ue> era aq<ue>l logar daq<ue>l mo<n>t
@@ -30607,7 +30607,7 @@ et q<ue> uengan empos mi. & q<ue> yo los saca-
 re daq<ue>lla s<er>uidumbre; ¶ Et aun q<ue> me}
 [fol. 147v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 crean ellos & los pueda yo mouer. como
 et en q<ue> man<er>a dire yo nj<n> mandare a pha-
@@ -30824,7 +30824,7 @@ quien uinie. ¶ Et pues q<ue>l otorgaua
 q<ue> fuesse. dixol assi como uaro<n> bueno}
 [fol. 148v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et sesudo. ¶ Plaz me & ue co<n> salud. & dio<<s>>
 te guie. ¶ Estonces fablo n<uest>ro sen<n>or a Moy-
@@ -31041,7 +31041,7 @@ aq<ue>l fecho & muy alegres. ¶ ⅋ luego q<ue>
 llegaron. allegaro<n> todos los ançianos}
 [fol. 149v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del pueblo de i<s>r<ahe>l. ¶ Et co<n>to les aaro<n> todo
 lo q<ue> Moysen ouiera co<n> dios. assi como Mo-
@@ -31258,7 +31258,7 @@ alli. por q<ue> pestilencia o morta<n>dad de fier-
 ro no<n> uenga sobre nos. ¶ ⅋ cue<n>ta Jo-sepho}
 [fol. 150v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sobreste logar q<ue>s assan<n>o el Rey
 estonces. & dixo contra Moysen. como e-
@@ -31475,7 +31475,7 @@ ren oyr. Pues como me oyra el Rey ffa-
 raon q<ue> es sen<n>or; De mas sen<n>or sabes}
 [fol. 151v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tu q<ue> non fablo yo desembargado nj<n> es-
 correcha mie<n>tre. ¶ Essora mando n<uest>ro
@@ -31692,7 +31692,7 @@ dexar el pueblo. & enduresciol dio<<s>>
 el coraço<n> q<ue>l non dexasse. yr assi q<ue>}
 [fol. 152v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sola mie<n>tre no<n> los quiso oyr. lo q<ue>les
 mandara dios q<ue> dixiessen. ¶ Et salie-
@@ -31909,7 +31909,7 @@ tos luego tod el poluo dela tierra de
 egipto. & fizo se moscas. & fuero<n> ta<n>tas}
 [fol. 153v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> cubriero<n> toda essa tierra. ¶ ⅋ diz Ma-
 estre. P<edr>o. q<ue> estas moscas criadas de nue-
@@ -32126,7 +32126,7 @@ biuas q<ue> fuera fallo. ta<n> bien los om<ne>s
 como lo al. ⅋ astrago las yeruas & q<ue>-branto}
 [fol. 154v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los aruoles. ¶ Et cue<n>ta Josepho
 en este logar q<ue> esto fizo n<uest>ro sen<n>or dios
@@ -32343,7 +32343,7 @@ las mugieres otrossi de s<us> uezinas.
 ca yo fare q<ue> gelo emp<re>sten. ¶ ⅋ cue<n>ta}
 [fol. 155v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la estoria q<ue> era gra<n>d ayuda pora los ebre-
 os de dar les los de egipto assi s<us> emp<re>stes
@@ -32560,7 +32560,7 @@ da comer. tome asu uezino q<ue> mora co<n>
 el pared a pared. de g<u><<i>>sa q<ue> sea<n> tantas}
 [fol. 156v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 almas q<u><<a>>ntas le puedan bien comer. ¶ ⅋
 cataredes q<ue> aya el cordero estas tres cosas. q<ue>
@@ -32777,7 +32777,7 @@ lencias. & aq<ue>l mal tan gra<n>d. ¶ ⅋ el
 Rey cuydando en q<ue> serie assi ma<n>do lla-mar}
 [fol. 157v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a Moysen & aaron de noche. & dixo
 les. Euad q<ue> uos suelto con todo lo u<uest>ro. To-
@@ -32994,7 +32994,7 @@ bre en egipto ell an<n>o en q<ue> murio Josep.
 xLiiij. an<n>os. ⅋ este es el tiempo en q<ue> los}
 [fol. 158v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fijos de i<s>r<ahe>l yoguiero<n> u<er>dadera mie<n>tre en s<er>-
 uidumbre. ca antes no<n> auie<n> p<re>mia nj<n>gu-
@@ -33212,7 +33212,7 @@ del desierto q<ue> ua çercal mar u<er>meio. ⅋
 yuan todos cargados de mucha riq<ue>za}
 [fol. 159v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> sacaua<n> de egipto. mas no<n> leuaua<n> otras
 armas. ¶ ⅋ desq<ue> se ayuntaro<n> de yda & co-
@@ -33429,7 +33429,7 @@ tos. & .L. uezes mill o<mne>s delos nobles los
 .L. mill. a cauallo q<ue> yua<n> en carros. Las do-zie<n>tas}
 [fol. 160v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 uezes mil. a pie como lo auemos
 ya dicho. Mas eran y demas destos aq<ue>llas
@@ -33646,7 +33646,7 @@ mo Moysen assi los .xij. linages acada u-
 nos assi como nasciera<n> s<us> padres. & amo-nesto}
 [fol. 161v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los. & dixo les tod el fecho daq<ue>lla passa-
 da. como auie a seer & q<ue> el entrarie p<r><<i>>mero.
@@ -33850,7 +33850,7 @@ Este el dios de mio padre abraham. & a
 este exaltare yo por mi alaba<n>ça. ¶ Tal fue}
 [fol. 162v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mio se<n>nor. como uaro<n> lidiador. pod<er>oso es el
 su nombr<e> en todas cosas. El derribo en la mar
@@ -34067,7 +34067,7 @@ q<ue>las alcalias era<n> buxetas & capsas llenas
 de especias de muy buenas oluras & las}
 [fol. 163v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 acitaras & las cortinas q<ue> estaua<n> y colgada<<s>>
 et raer las pi<n>turas d<e>las casas. & te<n>nir todas
@@ -34284,7 +34284,7 @@ ysen. ¶ ⅋ deste Pharao<n> departe<n> ellos otros-
 si. q<ue> en su arauigo auie nombr<e> alualdit se-gund}
 [fol. 164v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dixo. oab un sabio. ¶ Ot<r><<o>>s dellos dize<n>
 q<ue> el Pharao<n> de Moysen. q<ue> fue el Pharao<n> de Jo-
@@ -34501,7 +34501,7 @@ mie<n>tre unas empos otras. como sey-
 en estos uiessos de lati<n> q<ue> pone ende}
 [fol. 165v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Maestre. P<edr><<o>>. riga enel libro q<ue> fizo d<e>las esto-
 rias d<e>la biblia a q<ue> puso no<m>bre aurora en q<ue> cu-
@@ -34718,7 +34718,7 @@ gunda de adelant. ¶ La segu<n>da parte desta<<s>>
 xij. destos dos uiessos. es decies. & sirue al se-gundo}
 [fol. 166v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mes dell a<n>no. q<ue> es el mes de febrero. ⅋ la
 p<r><<i>>mera sillaba desta parte. es de. & la p<r><<i>>m<er>a let<r><<a>>
@@ -34935,7 +34935,7 @@ aun q<ue> no<n> les cumplie esto. mas q<ue> se traba-
 iaua<n> de estoruar la su cree<n>çia & la su ondra}
 [fol. 167v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 con ell aoramie<n>to d<e>los ydolos. Onde touo por
 bien q<ue> lazrasse<n> por ello ca lo merescie<n> & de si.
@@ -35152,7 +35152,7 @@ contesciero<n> por los ot<r><<o>>s logares d<e>las ot<r><<a>>s tier-
 ras por el mu<n>do. ¶ Andados de Ada<m> .iij. mil.}
 [fol. 168v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et .cccc. & xlj. a<n>no segu<n>d los ebreos. ¶ ⅋ iij. mil.
 et .dcccc. & .Lix. segu<n>d los .Lxx. trasladadores.
@@ -35369,7 +35369,7 @@ por q<ue> cresciessen. ⅋ era<n> por end muy flacas
 segu<n>d q<ue>lo cue<n>ta Josepho. & ma<n>neras q<ue> no<n>}
 [fol. 169v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 leuaua<n> fruto si no<n> muy poco. ¶ ⅋ esso poco
 q<ue> leuauan diz q<ue> era amargo & ta<n> duro como
@@ -35586,7 +35586,7 @@ q<ue> llego. tomo a aaron & paros en medio del-
 los. & dixo les con el. segu<n>d razona la esto-ria.}
 [fol. 170v]
 {HD. EX[*O]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ El murmurio & ell aluorosc[']amie<n>to q<ue>
 uos mouiestes cont<r><<a>> nos. sopo lo dios & no<n> cuy-
@@ -35804,7 +35804,7 @@ tra Moyse<n> & fizo Moyse<n> su or<ati>on a dios so-
 brello:}}
 [fol. 171v]
 {HD. EX[*O]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XXX {IN4.} N<uest>ro sen<n>or dios dio la ma<n>na alos fi-
 ios de isr<ahe>l enel desierto de sin assi co-
@@ -36021,7 +36021,7 @@ fembras & otras buenas mugieres d<e>las
 tierras q<ue> eran ya tan uieias. q<ue> de ueiez}
 [fol. 172v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 no<n> pudiero<n> uenir a do<n>na munene & ala çib-
 dad de Manip al lla<n>to & al duelo de Pharao<n>
@@ -36235,10 +36235,10 @@ t<er>cera ymage<n> & q<ue>se faze como q<u><<a>>rta auie
 cuerpo de om<n>e & la cabeça de aguila. & de-
 gollo sobre ella una aguila. & unto la co<n>
 la sangre della & soffumola co<n> las pe<n>no-
-las & co<n> el pico della otrossi. {RUB. D<e>l poder que +}}
+las & co<n> el pico della otrossi. {RUB. D<e>l poder que ⇒}}
 [fol. 173v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {RUB. cue<n>ta la estoria de Egipto daq<ue>llas ymagines +}
 XXXIIII {IN4.} Qvando la Reyna {RUB. daq<ue>lla reyna doluca.}
@@ -36457,7 +36457,7 @@ razon<e>s & diremos d<e>las ot<r><<a>>s cosas q<ue> co<n>tesciero<n> en aq<ue>ll
 dias q<ue> auedes oydo. q<ue> pusiero<n> moysen co<n> los ot<r><<o>>s fijos de]}
 [fol. 174v]
 {HD. EXO-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 i<s>r<ahe>l. en yr d<e>la ribera del mar u<er>meio araphadi<n>.
 {ILL. {RUB. Aqui se comie<n>c[']a el xiiij<<o>>. li-
@@ -36664,7 +36664,7 @@ al pues q<ue> por maldad d<e>la tierra son pocos
 los om<n>es. nj<n> se faze y otrossi om<n>e bueno}
 [fol. 175v]
 {HD. E[*XO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 nj<n>guno q<ue> de grand guisa sea. si a ot<r><<a>> t<ie>rra
 lo no<n> ua ganar. nj<n> cresce y el saber del bi-
@@ -36881,7 +36881,7 @@ uencie<n>. ¶ Pues q<ue> Moysen entendio es-
 to. mando a aron & a vr. q<ue>s llegassen &}
 [fol. 176v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue>l ayudassen atener las manos alçadas. ca
 lo no<n> podie soffrir. ¶ Ellos llegaro<n> se esto<n>-
@@ -36934,7 +36934,7 @@ ra en aq<ue>lla batalla. ⅋ dixiero<n> todos a
 Moysen muy grand bie<n> de Josue & q<ue> fue-
 ra ta<n> bueno en la batalla q<ue> meior no<n> pod<r><<i>>e
 ser. ⅋ plogo a Moysen & alabol mucho por
-ello. {RUB. D<e>las palabras de n<uest>ro se<n>nor a Moyse<n>. +}}
+ello. {RUB. D<e>las palabras de n<uest>ro se<n>nor a Moyse<n>. ⇒}}
 {CB2.
 {RUB. & dell altar de Moysen & d<e>la su p<ro>ph<ec>ia:}
 VII {IN4.} Fablo n<uest>ro se<n>nor essora a Moyse<n>.
@@ -37098,7 +37098,7 @@ res. ⅋ q<u><<a>>ndo ala ora del comer asse<n>to las
 compa<n>nas todas cada unas en su ca-bo}
 [fol. 177v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aderredor d<e>la sarça en q<ue> n<uest>ro se<n>nor le pa-
 resciera en semeia<n>ça de fuego q<u><<a>>ndo curia-
@@ -37315,7 +37315,7 @@ cuenta del dia q<ue>los fijos de isr<ahe>l saliero<n> de
 egipto fasta q<ue> llegaron al mont sinay.}}
 [fol. 178v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XII {IN4.} El t<er>cero mes despues q<ue>los fijos de
 isr<ahe>l salieron de tierra de egipto. lle-
@@ -37532,7 +37532,7 @@ q<ue> pudiessen. & dixo les. ¶ Sepades q<ue>
 n<uest>ro se<n>nor dios. bien assi me reçibio}
 [fol. 179v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 muy bien & muy piadosa mientre como
 las ot<r><<a>>s uezes q<ue> sabedes q<ue> fuy a el antes.
@@ -37749,7 +37749,7 @@ de egipto. & d<e>la casa dela s<er>uidumbre.
 mandados. ⅋ fuero<n> estos. q<ue> oyredes}
 [fol. 180v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 agora aqui. & las palab<r><<a>>s dellos dichas
 desta guisa en el lenguage de castiella.
@@ -37910,7 +37910,7 @@ ra. Non adorabis ea. neq<ue> coles. Ego
 su<m> d<omi>n<u>s deus tuus. fortis zelotes. uisita<n>s
 iniquitate<m> patru<m> in filios i<n> terciam &
 q<u><<a>>rtam gen<er>atione<m> eor<um> qui hoderu<n>t me.
-& facie<n>s mi<sericordi>am in milia his q<u><<i>> diligu<n>t +}}}
+& facie<n>s mi<sericordi>am in milia his q<u><<i>> diligu<n>t ⇒}}}
 {CB2.
 {RUB. {LAT. me. & custodiu<n>t p<re>cepta mea. +}} ¶ ⅋ por la pri-
 mera desta q<ue> es. {RUB. {LAT. Non facies tibi sculptile.}}
@@ -37966,7 +37966,7 @@ eor<um> q<ue> su<n>t in aq<u><<i>>s sub terra:}} ¶ Q<ue> q<u><<i>>e-
 re dezir assi en el lenguage de castiella}
 [fol. 181v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Nin faras nj<n>guna semeiança de cosa q<ue> sea
 en el çielo de suso. nj<n> en la tierra de yuso.
@@ -38183,7 +38183,7 @@ s<us> fieles q<ue> en la u<er>dadera & complida cre-
 encia. a estas tres cosas. Creer de coraço<n>}
 [fol. 182v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et manifestar lo por la boca. & most<r><<a>>r lo
 por la buena obra & los aya el castigados
@@ -38401,7 +38401,7 @@ enel son en los seys dias. ⅋ enel seteno
 q<ue>dara & folgara. & q<ue> assi lo fiziesse<n> ellos.}
 [fol. 183v]
 {HD. EX[*O]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Desi por les affirmar mas este fecho
 dixo les adelante esta otra razo<n> q<ue> es
@@ -38618,7 +38618,7 @@ dedes ser q<ue> matastes los om<ne>s a dere-
 cho & sin peccado. ¶ ⅋ aq<ue>llos xp<ist>ia-nos}
 [fol. 184v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<u><<a>>ndo oyeron all obispo fazer aq<ue>l de-
 partimie<n>to tan bueno. & entendiero<n> la
@@ -38835,7 +38835,7 @@ estro era. q<ue>l dixiesse q<ue> farie ell om<n>e
 pora auer la uida q<ue> nunq<u><<a>> fallescrie}
 [fol. 185v]
 {HD. E[*XO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et esta uida es el parayso. ¶ Jh<es>u xp<ist>o respo<n>-
 diol. Amaras a dios & atu uezino como a-
@@ -39052,7 +39052,7 @@ beça o el cuerpo dell om<n>e. ouiesse las
 postrimeras partes o miembros de tod}
 [fol. 186v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 el cuerpo de cauallo o de pez. o pescado. de
 g<u><<i>>sa q<ue>los miembros dell una c<r><<i>>atura non
@@ -39269,7 +39269,7 @@ sen<n>or alli o el estaua en aq<ue>lla oscuridad
 q<ue> uieran los iudios dond se espa<n>taran}
 [fol. 187v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Onde en la estoria d<e>la biblia deste cap<itu>lo
 podedes entender assaz una palabra de Ma-
@@ -39486,7 +39486,7 @@ ellas. Amigas grand duelo auemo<<s>>
 fecho & tenudo por n<uest>ros maridos & por}
 [fol. 188v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 n<uest>ros parie<n>tes q<ue> p<er>dimos. Mas mayor du-
 elo deuemos fazer por n<uest>ro bie<n> & n<uest>ra ale-
@@ -39699,7 +39699,7 @@ dos. assi q<ue> cada uno d<e>los maridos seme-
 iaua com<m>o sieruo de su mugier. ca no<n>}
 [fol. 189v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 osarie fazer nj<n>guna cosa sin conseio della
 nj<n> se atreurie allegar a ella. si ella no<n> q<u><<i>>-
@@ -39903,7 +39903,7 @@ agustin sobresto. Q<ue> ala fija q<ue> con mayor
 priessa & angostura la uende el padre}
 [fol. 190v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> con mayor carestia ha de(^e) s[^e]<er> el su fecho. et
 esto es q<ue> uaya ende co<n> algo. ¶ ⅋ el sen<n>or q<ue>-
@@ -40121,7 +40121,7 @@ por el buey peche çinco bue-
 ys. & por la uaca çinco uacas}
 [fol. 191v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et por la oueia q<u><<a>>tro oueias. ¶ Si el la-
 dron q<ue>brantare casa o la socauare de no-
@@ -40338,7 +40338,7 @@ te de tomar dones & p<re>sentes. ca
 muchas uezes a om<n>e a desuiar}
 [fol. 192v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 de u<er>dad & de derecho por ellos. q<ue> es gra<n>d
 peccado. Por q<ue> esto en los sabios & en los
@@ -40555,7 +40555,7 @@ zer & g<u><<a>>rdar aq<ue>lla fiesta. & q<u><<a>>ntos dias.
 et q<ue> & como deuiessen comer en ella.}
 [fol. 193v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dicho uos lo auemos ya o uos co<n>tamos
 dessa salida como la fizieran & en q<u><<a>>l
@@ -40772,7 +40772,7 @@ uo esta t<ier>ra nombre Canaa<n>. de Canaa<n>
 fijo de Cam. fijo de Noe. por q<ue> aq<ue>l Ca-naa<n>}
 [fol. 194v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & los q<ue> del salieron la poblaron p<r><<i>>-
 mero despues del diluuio. ¶ ⅋ los q<ue> al-
@@ -40989,7 +40989,7 @@ do bien uiene la cosa antes oe om<n>e
 el mandado. & despues le faze. Mas}
 [fol. 195v]
 {HD. EX[*O]-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los judios dixiero<n> el <con>trallo. ¶ Onde ta-
 les dize Maestre .P<edr><<o>>. q<ue> se p<ro>uaro<n> ellos a-
@@ -41206,7 +41206,7 @@ ta como en tie<m>po d<e>la reyna Doluca. a-
 uie en egipto otra due<n>na muy sabia.}
 [fol. 196v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et muy poderosa como una Reyna. & dizi-
 en le Malganiza. & fuera fija duno d<e>los
@@ -41423,7 +41423,7 @@ leuassen ell arca por el camino q<u><<a>>ndo se
 fuessen. ¶ ⅋ q<ue>las uaras fuessen cubi-ertas}
 [fol. 197v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 d[ ]oro. & despues q<ue> en las sortijas las
 metiessen. la p<r><<i>>mera uez q<ue> nu<n>ca las sa-
@@ -41640,7 +41640,7 @@ sançe<n>nos q<ue> estidiessen siemp<re>
 antel desq<ue> en la tienda la assentassen.}
 [fol. 198v]
 {HD. E[*XO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Assi como oyredes q<ue> fue. ⅋ fuesse<n> d<e>la flor
 d<e>la farina. la mas apurada & mas lim-
@@ -42076,7 +42076,7 @@ cobdos en luengo. & cobdo & medio en ancho.
 una dellas ouo q<u><<a>>tro dedos en gordo. & en ca-da}
 [fol. 200v]
 {HD. EXO-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tabla auie dos canalizaduras. en los
 costados poro se ayuntaua<n> unas en otras.
@@ -42293,7 +42293,7 @@ o el <sant>uario del <sant>uario. o las <santas> cosas d<e>las
 ze Josepho q<ue>la llamaua<n> tienda d<e>los sacer-dotes.}
 [fol. 201v]
 {HD. EX[*O]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por q<ue> segund dize Maestre .P<edr><<o>>. era logar
 comunal de todos los sacerdotes pora entrar
@@ -42510,7 +42510,7 @@ mas salen dend mas limpios et mas cla-
 ros q<ue> non entran y. ⅋ el fondon dell altar}
 [fol. 202v]
 {HD. EXO-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> era como mesa & ara del altar. era toda de
 cobre pora fazer sobrella el fuego. ⅋ en el
@@ -42727,7 +42727,7 @@ se<n>nor a Moysen. Este altar nol fagas du<n> ma-
 dero humido & çerrado. mas cauado & uazio}
 [fol. 203v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 de dentro. ⅋ esto tenemos q<ue> fue. por q<ue> serie ma<<s>>
 ligero de leuar. & diz fazer mele as assi como
@@ -42944,7 +42944,7 @@ dellas batiendo las co<n> palo.
 Ca segund dize Maestre .P<edr><<o>>. este es el}
 [fol. 204v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mas puro olio q<ue> y a. pora arder nj<n> aun po-
 ra comer. & muy meior q<ue>los otros q<ue> diz q<ue>
@@ -43159,7 +43159,7 @@ tasse co<n> los coruos q<ue> dixiemos del sup<er>ume-
 ral. de guisa q<ue> se p<r><<i>>siessen bie<n> & touiesse<n> muy}
 [fol. 205v]
 {HD. EXO-D[*O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 egual mie<n>tre & muy bie<n>. las cadenas co<n> los
 coruos q<ue> dixiemos del sup<er>umeral. de g<u><<i>>sa
@@ -43376,7 +43376,7 @@ do d<e>la biblia en<e>l .xxviij<<o>>. cap<itu>lo dell Exodo. lla-
 mal Thiara. ⅋ dize Beda enla glosa sobreste}
 [fol. 206v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 logar. q<ue>l dixiero<n> otrossi estos nombres. Cida-
 ris & Mitra. ⅋ otros le ennade<n> aun este otro
@@ -43594,7 +43594,7 @@ Ca ellos ta<n>to so<n> castos & faze<n> li<m>pia uida.
 q<ue> no<n> los an mester. Mas en logar delos}
 [fol. 207v]
 {HD. EXO-DO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 pa<n>nos menores. q<ue> se calça<n> los sandales q<ue>
 so<n> fechos a man<er>a de çapatos. & de fechura
@@ -43811,7 +43811,7 @@ sacrifficios delas a<n>i<m>alias ma<n>sas q<ue>los fi-
 ios de i<s>r<ahe>l offrescie<n> a dios por paz. ¶ Et desi}
 [fol. 208v]
 {HD. EXO-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dixol n<uest>ro se<n>nor a Moyse<n>. q<ue> aq<ue>l <santo> uestido de
 q<ue> aaro<n> estaua reuestido en su consagration
@@ -44029,7 +44029,7 @@ cosas ensanchadas & mas & mayores. ⅋ q<ue> si<n>
 este altar dell oro q<ue> estido y ell altar dell ençie<n>-sso}
 [fol. 209v]
 {HD. E[*XO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & del thimiama a q<ue> era<n> mester & uos co<n>ta-
 mos q<ue> entrasse el sacerdot dos uezes a dia a
@@ -44246,7 +44246,7 @@ como uos diremos o fablaremos mas
 del su consagramie<n>to. ¶ Et dixiesse el}
 [fol. 210v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 alos fijos de i<s>r<ahe>l. q<ue> este serie a dios el <santo> olio
 d<e>la <santa> untio<n>. pora todos los linages del pu-
@@ -44446,7 +44446,7 @@ blas de piedra en q<ue> seye escripto el testi-
 monio del paramie<n>to q<ue> auie entre n<uest>ro}
 [fol. 211v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 se<n>nor & los ebreos. ¶ Ca no<n> q<u><<i>>so co<n> ellos faz<er>
 nj<n>guna cosa q<ue>la no<n> pusiesse en esc<r><<i>>pto. por
@@ -44663,7 +44663,7 @@ ueyen. ⅋ siemp<re> seles mostraua en figura
 de Toro. ⅋ los de egipto q<ue> g<u><<i>>sado auie<n> & pod<er>}
 [fol. 212v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 pora ello. fazie<n> s<us> ydolos en figura de toro.
 et ponie<n> los en los logares o yuan ass<us> or<ati>o-
@@ -44880,7 +44880,7 @@ os. dize<n> q<ue>s torno Josue despues. dalli ala
 huest. & q<ue> no<n> es de creer q<ue> ell estidiesse ayu-no}
 [fol. 213v]
 {HD. EXO-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 enel mont tantos dias por si & sin todo
 comer. como oyestes q<ue> Moysen estidiera an-
@@ -45097,7 +45097,7 @@ dend los cananeos. & los amorreos & los
 otros pueblos q<ue> e dichos. fasta q<ue> entres}
 [fol. 214v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tu en aq<ue>lla buena tierra q<ue> uos do. q<ue> mana
 leche & miel. ¶ Empos esto dixol assi segu<n>d
@@ -45315,7 +45315,7 @@ q<ue>lo podemos bien entender por el sol. a-
 qui no<n> auemos poder de catar en derecho}
 [fol. 215v]
 {HD. E[*XO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por nj<n>guna g<u><<i>>sa. ⅋ diz q<ue> es la claridat del sol
 muy mas menor q<ue>la de n<uest>ro se<n>nor dios. q<ue> no<n>
@@ -45533,7 +45533,7 @@ rauilla por ueer le. como dizien q<ue> auie la
 faz cornuda. lo q<ue> no<n> solie fazer nj<n> lo oye-ran}
 [fol. 216v]
 {HD. EX[*O]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 nu<n>q<u><<a>> dotro om<n>e. ⅋ recibiero<n> le todos muy
 onrrada mientre. ⅋ despues de su recebimie<n>-
@@ -45750,7 +45750,7 @@ ra entallar en metal o en madera. & assa-
 car de nueuo toda obra q<ue> de gra<n>d maest<r><<i>>a}
 [fol. 217v]
 {HD. EX[*O]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 pudiesse seer. ⅋ diol por compa<n>no a Ooliab fi-
 io de achisamech. del linage de Dan. ⅋ mando
@@ -45967,7 +45967,7 @@ lleios delos carneros tintos de u<er>meio.
 ¶ ⅋ sobresta cortina destos pelleios et}
 [fol. 218v]
 {HD. [*EXO]-[*D]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 desta ti<n>tura & sobre las ot<r><<a>>s dos tendiero<n> aca-
 rona desta t<er>cera. la q<u><<a>>rta q<ue> era otrossi de pelle-
@@ -46183,7 +46183,7 @@ partes. ⅋ descendieron de guisa q<ue> cubriero<n>
 dela tienda todo lo q<ue>las p<r><<i>>meras. & demas el}
 [fol. 219v]
 {HD. EX[*O]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 cobdo. q<ue> fincara descobierto & las p<r><<i>>meras. ⅋
 estas cortinas d<e>las estame<n>nas era<n> .xj. ⅋ a-
@@ -46400,7 +46400,7 @@ engo assi como es dicho. ⅋ segund cuen-
 tan unos mando n<uest>ro se<n>nor a Moyse<n> par-tir}
 [fol. 220v]
 {HD. [*EXO]-[*DO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la en dos partes q<ue> ouiesse enell una .x. cob-
 dos. & enell otra .xx. Josepho cue<n>ta q<ue> fue par-
@@ -46590,7 +46590,7 @@ ua tod esto la muy fermosa apostura d<e>la
 fechura del candelero.}
 [fol. 221v]
 {HD. [*LEUI]-[*TICO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {ILL. {RUB. Aqui se comie<n>ça el xvij<<o>>. li-
 bro d<e>la gen<er>al estoria:}}
@@ -46794,7 +46794,7 @@ tro dios nj<n>guno como los gentiles q<ue> fa-
 zien muchos dioses pora si & los aoraua<n>}
 [fol. 222v]
 {HD. LE[*UI]-[*T]ICO
-[L<IBRO>] +}
+[L<IBRO>] ⇒}
 {CB2.
 ⅋ q<u><<i>>so el auer les m<er>ced & no<n> catar a ellos.
 et dar les conseio pora l(a)[o]s yerros & los pec-
@@ -47010,7 +47010,7 @@ seer aducha ael. & deste no<m>bre uictima q<ue>
 deue seer alli llamado:}}
 [fol. 223v]
 {HD. LEU[*I]-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 VI {IN4.} El q<ue> q<ue>rie fazer sacrifficio de al-
 guna animalia. tomaua la.
@@ -47228,7 +47228,7 @@ da fecha santa o de santidat. Ca assaz
 paresce q<ue> es fecho de santidat. lo quelos}
 [fol. 224v]
 {HD. LEU[*I]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 buenos om<ne>s fazen en el <sant>uario a onrra
 de dios. ¶ Pues q<ue> auemos dicho d<e>los
@@ -47445,7 +47445,7 @@ del & d<e>las pelleias del cordero. & del cabri-
 to. diz q<ue>lo tomaua<n> los sacerdotes pora}
 [fol. 225v]
 {HD. LE[*UI]-[*TIC]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 complimie<n>to de cosas de sus casas. o pora
 dar a quie<n> q<u><<i>>siessen. ¶ Agora pues q<ue> uos
@@ -47662,7 +47662,7 @@ menos tomaua dell encienso du<n> pu<n>no.
 dragma offrescien daq<ue>lla farina. ⅋ lo al}
 [fol. 226v]
 {HD. LEU[*I]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> fincaua dela massa. q<ue> era <santa> cosa d<e>las
 <santas> cosas. ⅋ tomaua<n> lo los sacerdotes por
@@ -47879,7 +47879,7 @@ ella. toda la gordura q<ue> fuesse de dentro
 del cuerpo. assi como dixiemos d<e>los ot<r><<o>>s}
 [fol. 227v]
 {HD. LEU[*I]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ganados. ¶ Mas enel sacrifficio d<e>las oue-
 ias & d<e>los carneros & d<e>los corderos & de
@@ -47985,7 +47985,7 @@ en q<ue> caye contra dios. ¶ Et por q<ue> es bi-
 en q<ue> departamos aqui p<r><<i>>mero en q<ue> ma-
 nera este peccado segund las estorias
 lo departen. q<ue>remos lo fazer. {RUB. D<e>las ra-
-zones q<ue> dep<ar>timie<n>to a entre p<e>cc<ad>o & delicto +}}
+zones q<ue> dep<ar>timie<n>to a entre p<e>cc<ad>o & delicto ⇒}}
 [fol. 228r]
 {HD. XVII}
 {CB2.
@@ -48095,7 +48095,7 @@ dond el era muy pagado. ⅋ seye este al-
 tar dentro en la tienda assi como aue-des}
 [fol. 228v]
 {HD. LE[*UI]-[*TIC]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 oydo q<ue> uos dixiemos o fablamos de
 q<u><<a>>ndo la tienda fue alçada p<r><<i>>mero. ¶ Des-
@@ -48312,7 +48312,7 @@ fficio; i el pan & las otras cosas q<ue> con
 ellas offrescien. q<ue> eran santas. por q<ue>}
 [fol. 229v]
 {HD. LEU[*I]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 era fecho por el peccado. & por q<ue> d<e>la sa<n>gre
 del eran tintos los q<u><<a>>tro cantales dell al-
@@ -48529,7 +48529,7 @@ q<ue>s moriessen por si. & d<e>las q<ue> matasse
 alguna bestia. q<ue> usassen delas gordura<<s>>}
 [fol. 230v]
 {HD. LE[*UI]-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dellas pora alumb<r><<a>>r se. & pora en melezinas
 q<ue> no<n> entrassen dentro d<e>los cuerpos. mas
@@ -48746,7 +48746,7 @@ maran la dezena parte du<n> ephy de flor de
 farina. & freyr lo an co<n> olio en sarte<n>. & offres-cran}
 [fol. 231v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la meetad dello ma<n>nana. & la meetad
 ala uiesp<er>a. ⅋ offresca lo el sacerdot q<ue> ouiere
@@ -48963,7 +48963,7 @@ partidas. & por la consagracion. & por la
 paz. q<u><<a>>les las ense<n>no n<uest>ro se<n>nor a Moyse<n>}
 [fol. 232v]
 {HD. LE[*UI]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 enel mo<n>te de synay. q<ue>las ense<n>nasse el al
 pueblo q<u><<a>>ndo mando q<ue> offresciesse<n> el pue-
@@ -49171,7 +49171,7 @@ mas no<n> dend ayuso. nj<n> dalli a arriba.
 tuario & cu<m>plie diero<n> lo muy de buena}
 [fol. 233v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mie<n>te todos. ⅋ los q<ue> fuero<n> alli estonces
 del pueblo de isr<ahe>l. q<ue> eran de edad pora o-
@@ -49388,7 +49388,7 @@ q<ue>l pecho fue llamado. pecho de alçamie<n>to
 por estas razones. ¶ La una por q<ue> fue}
 [fol. 234v]
 {HD. LE[*U]I-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 puesto sobre la espalda & estaua mas alto
 sobre todo lo al en las manos d<e>los sacer-
@@ -49605,7 +49605,7 @@ moysen nombro aq<u><<i>> de luego
 en estas razones dela biblia. ¶ Ell una}
 [fol. 235v]
 {HD. LE[*U]I-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 el cabron por el peccado del p<r><<i>>ncep. ¶ Ell otra
 el uezerro por el peccado del pueblo. ¶ La
@@ -49822,7 +49822,7 @@ aq<ue>l comienço del sacerdotado. ¶ ⅋ esta
 semeia<n>ça de contralla sueltan los maes-tros.}
 [fol. 236v]
 {HD. LEUI-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & dezimos assi nos con ellos. ⅋ quien
 esto oyere pare mientes en la razo<n>. ca se
@@ -50027,7 +50027,7 @@ leyes de otras muchas limpiedumbres.
 dios. como oyredes en s<us> logares por el}
 [fol. 237v]
 {HD. LE[*UI]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 libro. ¶ ⅋ otrossi d<e>los departimie<n>tos d<e>la
 gaffez & de sus alimpiamie<n>tos. ¶ ⅋ dize
@@ -50244,7 +50244,7 @@ ia ley. ¶ ⅋ la q<ue> pariesse fija. que doblas-
 se todos los dias del fijo uaro<n>. & estudies-se}
 [fol. 238v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los catorze dias appartada del comun
 de su compa<n>na & d<e>los otros om<ne>s como los
@@ -50461,7 +50461,7 @@ cuero; mando q<ue> dalli adelante no<n> fues-
 se mester de catar si sele tornaua el cabel-lo}
 [fol. 239v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 amariello. nj<n> sino<n>. ca malato era con-
 nosçuda mie<n>tre. ¶ Mas otrossi si la ma<n>zi-
@@ -50678,7 +50678,7 @@ catorzeno cap<itu>lo del leuitico. en q<ue> dizen
 assi. ¶ Si aq<ue>l q<ue> fue iudgado por malato}
 [fol. 240v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sanare d<e>la gaffez pues q<ue> fuere echado d<e>l
 pueblo a morare fuera. Mando n<uest>ro se<n>nor
@@ -50895,7 +50895,7 @@ ya dicho. ¶ ⅋ mando dios a Moysen. & a aa-
 ron segu<n>d cuenta el leuitico en<e>l .xv<<o>>. cap<itu>lo}
 [fol. 241v]
 {HD. LE[*UI]-[*T]ICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> siles uiniesse a menudo como uinie alas
 mugieres. esto es cada mes. segu<n>d el correr
@@ -51112,7 +51112,7 @@ suyo a Aaro<n> pora sacrifficar lo el por ellos.
 era bueno poral sacrifficio; mandaua lo}
 [fol. 242v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 alli tener. ⅋ entraua el dentro. & lauaua se
 todo muy bien enel cue<n>co co<n>sagrado q<ue> dixi-
@@ -51329,7 +51329,7 @@ peccados. Et desq<ue> este sacerdot auie fecho
 el fuego; encendie el sacrifficio. ⅋ desq<ue> era}
 [fol. 243v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 el sacrifficio encendudo & ardie todo; dexaua
 lo este en este estado. & lauaua s<us> uestidos
@@ -51546,7 +51546,7 @@ et de color ruuio & muy fermosa. ⅋ que
 nj<n> troxiera yugo. nu<n>ca nj<n> fuera domada}
 [fol. 244v]
 {HD. LEU[*I]-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Mas diz q<ue> no<n> marauillemos. por q<ue>la
 llama<n> algunos alas uezes por no<m>bre de
@@ -51750,7 +51750,7 @@ ley d<e>los casamie<n>tos p<or>a
 entre los ebreos. segund}
 [fol. 245v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la ley del uieio testamie<n>to. ⅋ empos esto fa-
 blol de otras leys segu<n>d oyredes aq<u><<i>>. enq<ue>l en-
@@ -51967,7 +51967,7 @@ por q<u><<i>>en Aaron & Maria s<us> h<er>manos uara-
 iaron co<n> Moysen por q<ue> casara co<n> ella. ¶ ⅋}
 [fol. 246v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 aun despues desto caso Moysen co<n> Sepho-
 ra fija dell ob<is>po Jetro de tierra de madian;
@@ -52185,7 +52185,7 @@ si. Nin co<n> fija de su fijo. o de su fija. no<n> ca-
 se nj<n> llegue a ella por esta razon por q<ue>}
 [fol. 247v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 no<n> descubra el denosto de su mugier ca su
 carne son. ¶ ⅋ atal allegamie<n>to de uaro<n> a
@@ -52401,7 +52401,7 @@ raço<n> mal a su h<er>mano. mas q<ue> publica mi-
 entre le dixiesse lo q<ue>l q<ue>rie dezir. yl repre-hendiesse}
 [fol. 248v]
 {HD. LE[*UI]-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> no<n> ouiesse peccado dend. ¶ Nj<n>
 se q<u><<i>>siesse uengar daq<ue>llo en q<ue> serie pecca-
@@ -52618,7 +52618,7 @@ de Leon. q<ue> no<n> el fijo d<e>la leona & del
 pardo; como fijo de meior padre. Et}
 [fol. 249v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 desta mezcla destas dos nat<ur>as de anima-
 lias departidas uos fablamos en este logar.
@@ -52835,7 +52835,7 @@ gu<n>d razona plinio. ¶ Tu eres el sancto
 que enlos mayores & postrimeros peri-glos}
 [fol. 250v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 d<e>la uida acorres. & pido te m<er>ced q<ue> a-
 corras ami. Estonces segund el cuedaua
@@ -53052,7 +53052,7 @@ dell ochauo libro d<e>la natural estoria. ⅋
 departe q<ue> entre todas las animalias}
 [fol. 251v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 mansas la<<s>> que mas fiel es all om<n>e. q<ue>
 son los canes & los cauallos. ¶ Ca diz q<ue>
@@ -53269,7 +53269,7 @@ contral muesso del Can rauioso. ¶ Co-
 lumela el Philosopho cuenta otrossi.}
 [fol. 252v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> si el .xi<<o>>. dia q<ue> nasce el can le taiare om<n>e
 con la boca la p<r><<i>>mera co<n>iuntura d<e>la cola
@@ -53486,7 +53486,7 @@ huele o uienta. ¶ Et si el potriello
 pierde la madre. reciben le las otras}
 [fol. 253v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 yeguas pora criar le. ¶ El potriello desq<ue>
 nasce fasta tres dias. no<n> puede con la
@@ -53703,7 +53703,7 @@ animalias de sen<n>as naturas. ayunta<n>-
 do se ala otra t<er>cera ya. & q<ue> si acaescio}
 [fol. 254v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> la fiziesse. q<ue> nj<n> deue semeiar all uno
 nj<n> all otro parient. ⅋ q<ue> por ende no<n> pare
@@ -53920,7 +53920,7 @@ tiempo de Cesar Augusto assi como di-
 ze ffenestella q<ue> fue un gra<n>d sabio. ¶ ⅋}
 [fol. 255v]
 {HD. LEUI-TIC(C)[O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Crebre. pape Audrate. so<n> unas man<er>as
 de uestidos aq<ue> llamaua<n> assi. q<ue> fueron fa-
@@ -54137,7 +54137,7 @@ tial por ell eleme<n>to del fuego. ¶ Sobre<<s>>-
 to q<u><<i>>ere<n> estos uiessos dezir en esta g<u><<i>>sa}
 [fol. 256v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por el lenguage de casti<e>lla. ¶ Por q<ue> nj<n>gun
 Reon o Regno o Eleme<n>to non fuesse despo-
@@ -54243,7 +54243,7 @@ om<ne>s de comer del. nil come<n>. si no<n> sil come
 alguno de uoluntad atreuuda & no<n> de
 muy bue<n> sentido. segu<n>d cue<n>ta Plinio. & q<ue>
 co<m>brie q<u><<a>>l quier otra uianda {RUB. D<e>las mezcla<<s>>
-q<ue> se faze entre las aues & las animalias +}}
+q<ue> se faze entre las aues & las animalias ⇒}}
 [fol. 257r]
 {HD. XX}
 {CB2.
@@ -54354,7 +54354,7 @@ ell enel .xix<<o>>. cap<itu>lo del libro leuitico. ¶ ⅋
 con estas mezclas dixol otrossi de mez-clas}
 [fol. 257v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dot<r><<a>>s cosas. como oyredes q<ue> uos di-
 remos d<e>las semie<n>tes q<ue>los om<ne>s sembra<n>
@@ -54571,7 +54571,7 @@ uiessen por su natural & q<ue>l amasse<n> como
 assi mismos. ¶ ⅋ q<ue>les uiniesse emie<n>te}
 [fol. 258v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 como fueran ellos auenedizos en egip-
 to. & q<ue> tal fiziessen a estos q<u><<a>>l q<u><<i>>siera<n> q<ue> les
@@ -54788,7 +54788,7 @@ q<u><<i>>ere dezir en<e>l leng<u><<a>>ge de castiella. tanto
 como corrompimiento de u<<i>><r>gen.}
 [fol. 259v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {RUB. Delas leyes d<e>las sepulturas & d<e>los casa-
 mientos alos sacerdotes mayores:}
@@ -55005,7 +55005,7 @@ p<r><<i>>micias. si no<n> la q<ue> enbibdasse & la re-
 poyada. & aun estas dos q<ue>la bibda et}
 [fol. 260v]
 {HD. LEUI-TIC(C)[O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 repoyada si se tornassen de morada; a ca-
 sa de su padre. ⅋ aun esto otrossi; por gra<n>d
@@ -55222,7 +55222,7 @@ buenos. & su iusticia alos iustos. si su
 maldad no<n> nuziesse alos malos.}
 [fol. 261v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ ⅋ por esta razo<n> los malos fechos de
 los malos om<ne>s fazen alos Reyes seme-
@@ -55437,7 +55437,7 @@ que uos contaremos. {RUB. Delas cosas
 q<ue> mando dios fazer all an<n>o Jubileo:}}
 [fol. 262v]
 {HD. LEUI-TIC(C)[O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XLIX {IN4.} Mando luego q<ue> cantasse<n> todos co<n>
 bozinas. & fiziessen gra<n>des ale-
@@ -55655,7 +55655,7 @@ diesse. q<ue> de guisa lo fiziesse q<ue> no<n> q<u><<i>>siesse
 ueer a su parient lazrar en poder de a-gena}
 [fol. 263v]
 {HD. LEUI-TICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ley njl dexasse y. ¶ Et si por pari-
 entes o por si o por su s<er>uicio fasta alli no<n>
@@ -55872,7 +55872,7 @@ ba. q<ue>l costasse .xv. siclos. ¶ Ala mugi-
 er .x. ¶ Et al q<ue> fuesse pobre & no<n> pudi-esse}
 [fol. 264v]
 {HD. LEUITICO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dar esto por si & segu<n>d este ap<re>cia-
 mie<n>to. ma<n>do q<ue>s parasse antel sacerdot.
@@ -56077,7 +56077,7 @@ mo enel prologo deste libro q<ue> uiene
 et deue uenir q<u><<a>>rto el libro Num<er>o en}
 [fol. 265v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los .v. libros de Moysen. ¶ ⅋ como q<u><<i>>er
 q<ue> destos otros tres libros uos ayamos
@@ -56294,7 +56294,7 @@ ramie<n>to q<ue> auie con ellos o les diera
 aq<ue>llas leys. ¶ Et mandol q<ue> contasse<n>}
 [fol. 266v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ell & aaron su h<er>mano tod el pueblo de
 isr<ahe>l q<u><<a>>ntos auie y pora armas. ⅋ q<ue> nj<n> me-
@@ -56511,7 +56511,7 @@ los sabios en sus estorias. ⅋ p<er>o aun es-
 to q<ue>lo fazen sobre las razones delos}
 [fol. 267v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 gentiles. mas no<n> sobre las d<e>la biblia.
 si no<n> como auemos dicho. Co<n>uiene<n> nos
@@ -56728,7 +56728,7 @@ ende mucho; llegos luego a ella. & come<n>-
 ço la de abraçar como q<ue> gelo fazie por}
 [fol. 268v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 bien q<ue>rencia & por onrra & besar la muy
 de rezio. assi q<ue>los besos no<n> era<n> muy atem-
@@ -56945,7 +56945,7 @@ piter le tornara en lobo al Rey licaon su
 padre della. P<er>o segund aq<ue>llo q<ue> auemo<<s>>}
 [fol. 269v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 departido q<ue> daua a entender este su mu-
 damiento {RUB. De como esta parrasis seyendo
@@ -57162,7 +57162,7 @@ emferma sana. tal es como un c(')<re>ar. ¶ ⅋
 pues q<ue> Occeano & Thetis dioses eran}
 [fol. 270v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 d<e>las aguas. & las alimpia<n> all aer. tales
 eran aq<ue>llos dioses como amos de juno.
@@ -57380,7 +57380,7 @@ gu<n>d era llamado aq<ue>l q<ue>la p<r><<i>>mero figuro.
 enel cielo. ⅋ este fue un sabio a q<ue> dixi-eron}
 [fol. 271v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Melesio tales. q<ue> fue de Philoseo. &
 esto es de Mileo q<ue> era una çibdad de Phe-
@@ -57597,7 +57597,7 @@ d<e>las otras fe<m>bras meior q<ue> otro nj<n> otra.
 llamaro<n> por ende deessa d<e>las parteras}
 [fol. 272v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et d<e>los partos. ¶ ⅋ diz q<ue> uino juno a
 Calixto mas no<n> ante del parto nj<n> aun an-
@@ -57814,7 +57814,7 @@ pa<n>nas. ⅋ estos tengan la çaguera. &
 eran. cient. & ocho. uezes mill. om<ne>s}
 [fol. 273v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 darmas. & çiento demas. ⅋ destos leuo
 el nombre la co<m>panna de Effraym. Abie-
@@ -58031,7 +58031,7 @@ dos aq<ue>llos q<ue> ouiessen de .xx. fasta .L. an-
 nos. ¶ ⅋ q<ue> estos estidiessen guisados}
 [fol. 274v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & ministrasse<n> en la tienda. ⅋ fuesse este
 ell officio & el mest<er> q<ue> uos diremos de
@@ -58248,7 +58248,7 @@ blanca como la leche. ¶ ⅋ aun las
 otras lieuan el su nombre d<e>la su luz.}
 [fol. 275v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Como el sol q<ue> q<u><<i>>ere dezir tanto como
 sobre todas las otras cosas luzie<n>t. Do<n>d
@@ -58465,7 +58465,7 @@ Rey. ¶ ⅋ p<er>o cuenta<n> las estorias q<ue>los
 reys de assiria como era<n> muy ricos &}
 [fol. 276v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 muy poderosos ca auien ala sazo<n> el ma-
 yor jmperio del mundo; siemp<re> andidi-
@@ -58669,7 +58669,7 @@ la biblia. ¶ ⅋ d<e>la uida destos. dio
 n<uest>ro se<n>nor dios esta ley a Moysen et}
 [fol. 277v]
 {HD. NUM-ERO
-L<IBR>O +}
+L<IBR>O ⇒}
 {CB2.
 dixol assi. ¶ Q<ue> todo om<n>e q<u><<i>>er uaro<n> q<u><<i>>er
 mugier. q<ue> p<ro>metiesse de fazer santa uida
@@ -58886,7 +58886,7 @@ pora holocausto & un cabro<n> por el peccado.
 cinco corderos a<n>nales. ¶ ⅋ cada uno}
 [fol. 278v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 d<e>los otros p<r><<i>>ncipes offrescio al tanto. &
 tal. & daq<ue>lla guisa & por essa misma razo<n>.
@@ -59104,7 +59104,7 @@ los s<us> obispos. q<ue> lieua<n> agora los O-
 bispos d<e>la ley de xp<ist>o; el terçio de tod}
 [fol. 279v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 el diezmo q<ue>los pueblos dan alos cl<er>i-
 gos. ¶ ⅋ contescie bien estonces alos
@@ -59321,7 +59321,7 @@ llas q<u><<a>>ndo acaescie d<e>las auer. ¶ ⅋ pora es-
 to no<n> auien aun se<n>nal nj<n>guna por q<ue>s}
 [fol. 280v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ayuntasse<n> a ello. Onde uos q<ue>remos aq<u><<i>>
 dezir el conseio q<ue>les fue dado de dios se-
@@ -59538,7 +59538,7 @@ neras de a<n>nos. ¶ La una es dell a<n>no
 aq<ue> dizen usal de uso por q<ue>l usan assi}
 [fol. 281v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ⅋ comie<n>ça este a<n>no del mes de enero.
 et este anno tiene<n> ellos comunal. & este
@@ -59755,7 +59755,7 @@ ar carnes & seyen llora<n>do por ellas. & mu-
 chos d<e>los fiios de isr<ahe>l co<n> ellos. ⅋ dizie<n>do}
 [fol. 282v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<u><<i>> nos dara agora carne q<ue> comamos. ⅋
 departe maestre pedro. sobre aq<ue>lla dema<n>-
@@ -59972,7 +59972,7 @@ sen. o por q<ue> casara con ella q<ue> era gen-
 til dond aoraua<n> los ydolos o por q<ue>la}
 [fol. 283v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 dexara pues q<ue> con ella auie casado.
 ¶ Otros dizen q<ue> esto fue mas. por Se-
@@ -60190,7 +60190,7 @@ las yo aqui & q<ue> uos me<m>bredes dellas
 & son estas. ¶ El se<n>norio dela bien}
 [fol. 284v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 auenturada t<ier>ra. ¶ ⅋ la franq<ue>za q<ue> nos
 a ya dada. ca uedes q<ue> somos q<u><<i>>tos de ser-
@@ -60407,7 +60407,7 @@ uos. ¶ Mas las yentes daq<ue>lla tierra
 son otrossi tama<n>nas & ta<n> fuertes et}
 [fol. 285v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 las cibdades ta<n> grandes & tan bie<n> cer-
 cadas. q<ue> no<n> podrien seer mas. ala ma-
@@ -60611,7 +60611,7 @@ xxiij<<o>>. libro dela gen<er>al
 estoria:}}}
 [fol. 286v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 {IN8.} Por los esc<r><<i>>ptos q<ue> nos
 fasta aq<u><<i>> leymos. aun
@@ -60829,7 +60829,7 @@ uengan sobre uos. ¶ Desi tornos a
 fablar appartada mientre a Moysen}
 [fol. 287v]
 {HD. N[*U]M-[*ER]O
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & aaro<n> & dixo les q<ue> fasta q<u><<a>>ndo mur-
 muriarie aq<ue>lla mala yent contra el.
@@ -61046,7 +61046,7 @@ de Jaçinto en los q<u><<a>>tro cabos daq<ue>llas fal-
 das. por las çintas del jaçinto q<ue> era<n> del}
 [fol. 288v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 color del cielo. & q<ue> ueyendo las toda
 uia; q<ue>les uernie emiente de dios.
@@ -61262,7 +61262,7 @@ ello. ⅋ no<n> a[ ]aq<ue>l q<ue> era menor q<ue> muchos
 otros auie en la compa<n>na de leui. ⅋}
 [fol. 289v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 demas si el touiesse por bien q<ue> aaro<n>
 ouiesse esta onrra. delant el pueblo ge-
@@ -61479,7 +61479,7 @@ alos sabios & alos buenos q<ue>l
 librasse dios daq<ue>lla contie<n>da}
 [fol. 290v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Ca tenien q<ue> si mala compa<n>na fuesse
 yendo en aq<ue>l desierto q<ue>s p<er>derie ell ensen-
@@ -61696,7 +61696,7 @@ guer cay agora ante este pueblo en ta<n>
 estra<n>nas sospechas de mios fechos assi}
 [fol. 291v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 como si tu no<n> me mandasses dar el sa-
 cerdotado a aaron. & gelo diesse yo de mi
@@ -61800,7 +61800,7 @@ la uoluntad de dios. & uieron q<ue> erra-
 dos andauan aq<ue>llos. ⅋ q<ue> por esso njn
 mostraran ni<n>guna tristeza nj<n> nin-
 gun pesar. {RUB. D<e>lo q<ue> departe aun josepho so-
-bre la co<n>tienda de aaron & de Chore & q<ue> fi-ziero<n> +}}
+bre la co<n>tienda de aaron & de Chore & q<ue> fi-ziero<n> ⇒}}
 [fol. 292r]
 {HD. XXIII}
 {CB2.
@@ -61909,7 +61909,7 @@ com<o> era Moyse<n> mesurado co<n>tral murmurio
 de s<us> ebreos. & tomo las xij. u<er>gas dellos.}}
 [fol. 292v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XVI {IN4.} Avn despues desto murmuriaua
 mucho el pueblo entre si. co<n>-
@@ -62125,7 +62125,7 @@ ello. {RUB. De como departe n<uest>ro se<n>nor alos
 de leui q<ue> coman delos sacrifficios:}}
 [fol. 293v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XX {IN4.} Pves q<ue>les ouo departido & ensen-
 nado nuestro se<n>nor por Moyse<n>
@@ -62338,7 +62338,7 @@ da de todas las sus cosas primeri-
 zas: como de sus fijos. & de s<us> gana-dos}
 [fol. 294v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 & d<e>las otras cosas. ⅋ q<ue>las diessen a
 aaron. & fuessen d<e>las meiores & d<e>las
@@ -62554,7 +62554,7 @@ mucho abondada. {RUB. D<e>la muerte d<e>la
 Reyna Doluca & de su onrra:}}
 [fol. 295v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XXVII {IN4.} Acabo de tres a<n>nos que regno
 Darcon. murio la reyna Do-
@@ -62757,7 +62757,7 @@ q<ue> fiziessen tod ell a<n>no. & alimpiar
 se dellos. ⅋ esto fue con el sacrifficio}
 [fol. 296v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 d<e>la ceniza d<e>la nouiella ruuia. ⅋
 fabla en este libro. Otrossi de como
@@ -62974,7 +62974,7 @@ nor dios; Pedimos te merced q<ue>
 tu de<n>nes oyr las uozes deste tu}
 [fol. 297v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 pueblo. & abre les del tu thesoro & sea
 fuente de agua pere<n>nal q<ue>los abonde
@@ -63191,7 +63191,7 @@ los uarruntes. q<ue> guiso muy bien
 su cauall<er>ia gra<n>d q<ue> auie de su casa}
 [fol. 298v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et d<e>los otros s<us> om<ne>s otrossi. muchas
 compa<n>nas. ⅋ salio a ellos. & lidio con
@@ -63352,7 +63352,7 @@ mo cue<n>tan Moysen & Jh<er>onimo enel
 xxj<<o>>. cap<itu>lo del Numero. como fizo dio<<s>>
 enel mar u<er>meio. assi fizo enlas torri-
 entes de arno<n>. {RUB. D<e>lo q<ue> departe<n> los <santos> pa-
-dres. & los otros sabios de arnon & delos +}}
+dres. & los otros sabios de arnon & delos ⇒}}
 {CB2.
 {RUB. sus collados & d<e>los sus pe<n>nedos:}
 VIII {IN4.} Dos pennedos d<e>las torrie<n>tes
@@ -63408,7 +63408,7 @@ sera alos q<ue> uinieren despues de nos
 & mostrado enel libro d<e>las batallas}
 [fol. 299v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del se<n>nor de q<ue> dizen q<ue> auie a[ ]seer fecha
 esta estoria q<u><<a>>ndo aq<ue>l libro les fuere
@@ -63625,7 +63625,7 @@ se alongaua<n> mataua<n> los de lue<n>n.
 co<n> fo<n>das & co<n> dardos & co<n> saetas. & mu-rien}
 [fol. 300v]
 {HD. N[*UM]-[*E]RO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tan bien como los q<ue> fuyen. ⅋ fue
 fecha muy gra<n>d morta<n>dad en ellos. {RUB. De
@@ -63842,7 +63842,7 @@ migos q<ue> ue<n>cieran. ¶ Desi tomo de
 su huest una parte d<e>las co<m>pa<n>nas q<ue>}
 [fol. 301v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 era<n> pora ello. & enuio las a catar & esco-
 dri<n>nar t<ier>ra d<e>los Madianitas. esto es d<e>los
@@ -64003,7 +64003,7 @@ et echar los & alo<n>gar desta t<ier>ra. ¶ Dixo
 essora n<uest>ro se<n>nor a balaam. No<n> uayas
 co<n> estos om<ne>s nj<n> maldigas al pueblo
 de isr<ahe>l. ca este pueblo de isr<ahe>l bendicho
-es. {RUB. De como ouo aq<ue>l adeuino Balaam +}}
+es. {RUB. De como ouo aq<ue>l adeuino Balaam ⇒}}
 {CB2.
 {RUB. ma<n>dado de dios de como fiziesse en aq<ue>l +}
 XV {IN4.} Balaam leua<n>tos {RUB. fecho:}
@@ -64059,7 +64059,7 @@ otra uez a dios. ⅋ dixo a ellos assi se-
 gu<n>d cuenta Josepho. Ruego uos que}
 [fol. 302v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 finq<ue>des esta noche aqui & sabre yo otra
 uez mas de n<uest>ro se<n>nor & uere q<ue>m dira
@@ -64165,7 +64165,7 @@ blo pora affro<n>tar & meter en uergue<n>ça
 a[ ]balaa<m> & mostrar le dios por y; q<ue>la mu-
 da animalia rep<re>hendie la locura & el des-
 memoriamie<n>to del p<ro>ph<et>a. {RUB. D<e>lo que dep<ar>-
-ten de Balaa<m> los sabios & como fablo ell +}}
+ten de Balaa<m> los sabios & como fablo ell ⇒}}
 {CW. Dize otrossi}
 [fol. 303r]
 {HD. XXIIII}
@@ -64277,7 +64277,7 @@ del pueblo d<e>los ebreos. dixo
 a Balaac assi como cue<n>tan}
 [fol. 303v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 Moysen & Jh<er>onimo enel xxiij<<o>>. cap<itu>lo del
 libro Numero. faz me aq<u><<i>> siete altares.
@@ -64494,7 +64494,7 @@ uar te aun a otro logar por ueer si pla-
 zra a dios por uentura que maldixiesses}
 [fol. 304v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a aq<ue>l pueblo. ¶ ⅋ Balaam suffrio lo aun.
 ¶ Et tomol esto<n>ces Balaac & leuol ala ca-
@@ -64711,7 +64711,7 @@ q<u><<a>>ndo el se<n>nor estas cosas fiziere. ¶ ver-
 nan de ytalia en las Naues a q<ue> dizen}
 [fol. 305v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 enel latin {LAT. trieras.} ⅋ departen unos q<ue> era<n>
 nauios q<ue> auien tres gouernios mas es q<ue>
@@ -64860,7 +64860,7 @@ dellas. ⅋ d<e>la pena del su uezerro de Oreb.
 ¶ Et d<e>la su fiesta d<e>las caba<n>niellas q<ue> es
 la setena d<e>las sus siete fiestas p<r><<i>>ncipa-
 les daq<ue>lla ley. {RUB. De como las mancebas de
-Moab & de Madian fuero<n> ala huest [*de]los +}}
+Moab & de Madian fuero<n> ala huest [*de]los ⇒}}
 {CB2.
 {RUB. ebreos por conseio de Balaam & los ena-
 moraro<n> por s<us> razones & por s<us> fechos.}
@@ -64916,7 +64916,7 @@ sen. ¶ Ellas pues q<ue> connosciero<n> &
 uieron de fecho q<ue> assi los tenien ya}
 [fol. 306v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 p<re>sos & p<re>stos pora las s<us> costumbres & fa-
 zer q<u><<a>>nto ellas q<u><<i>>siessen. come<n>çaro<n> les a dezir
@@ -65133,7 +65133,7 @@ guer q<ue>los iudios assi salie<n> de su ley por
 aq<ue>llas mugieres. p<er>o encubrie<n> se. Mas}
 [fol. 307v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 este zamarias no<n> se q<u><<i>>so encobrir. mas des-
 cubrios afazer le grandes bodas & a seer
@@ -65349,7 +65349,7 @@ el torno la mi sa<n>na d<e>los fijos de isr<ahe>l.
 por q<ue>s mouio co<n>tra ellos co<n> celos del mio}
 [fol. 308v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 amor. por q<ue>los no<n> destroysse yo mismo co<n>
 aq<ue>l mio celo. ⅋ por ende di tu a Phinees
@@ -65566,7 +65566,7 @@ nas. ¶ Et si alguna otra cosa contes-
 ciere por ue<n>tura ma<n>do q<ue> muchos o poco<<s>>}
 [fol. 309v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<u><<a>>ntos q<u><<i>>er q<ue> fueren. q<ue> aq<ue>llos (tenie<n>) [tome<n>] aq<ue>s-
 to. & lo partan. ¶ Los fijos de leui non
@@ -65783,7 +65783,7 @@ con el. ⅋ desi tomaua<n> el uino co<n> esto.
 ⅋ estas eran las cosas q<ue> offrescie<n> en}
 [fol. 310v]
 {HD. NUMERO-(ERO)
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 uno con las carnes. ¶ ⅋ a esta farina
 desq<ue> era assi fecha & al uino co<n> ella & a-
@@ -66001,7 +66001,7 @@ do n<uest>ro se<n>nor fazer s<us> sacrifficios como
 diremos. ¶ Nuestro se<n>nor dios crio &}
 [fol. 311v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fizo el cielo & la t<ier>ra & todas las cosas q<ue>
 en ellos son en seys dias como auemos
@@ -66218,7 +66218,7 @@ en cada uno se<n>nas medidas de farina
 ala medida q<ue> llamaua<n> assario en ebray-go.}
 [fol. 312v]
 {HD. [*NUM]-[*ERO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ ⅋ diz Josepho q<ue> eran estos panes liebdo<<s>>.
 & q<ue> por esso no<n> los ponie<n> sobrell altar. ¶ ⅋ o-
@@ -66435,7 +66435,7 @@ q<ue> y uiene<n>. Como andados. xxvij. a<n>nos d<e>l
 cabdellado de Moyse<n>. regno este Stenelo}
 [fol. 313v]
 {HD. N[*U]M-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ix<<o>>. rey en aq<ue>l regnado de argos. ¶ ⅋ era
 Stenelo bue<n> Rey & ma<n>so & fazedor dalgo.
@@ -66652,7 +66652,7 @@ padre ma<n>dado de como fizi-
 esse<n> segu<n>d auedes oydo. ⅋ ante}
 [fol. 314v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue> dalli se partiesse<n> ellas ouiero<n> todas
 su fabla en uno apartada mie<n>tre & muy
@@ -66869,7 +66869,7 @@ taro<n> q<u><<a>>ntos uarones fallaro<n> todos chicos
 ro<n> toda la t<ier>ra & apoderaro<n> se della. & to-maro<n>}
 [fol. 315v]
 {HD. NUM-ER(R)[O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 muy gra<n>d p<re>a. ¶ ⅋ p<r><<i>>siero<n> las mu-
 gieres & los Ni<n>nos peq<ue>nnuelos. ⅋ todos
@@ -67090,7 +67090,7 @@ tornarie<n> fasta q<ue>los fijos de isr<ahe>l fuessen
 en aq<ue>lla t<ier>ra o auie<n> a yr & la ouiessen ga-nada.}
 [fol. 316v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ ⅋ sobresto aun. q<ue> allend el jor-
 dan no<n> q<ue>rien parte nj<n> gela dema<n>darien.
@@ -67307,7 +67307,7 @@ h<er>edat. q<ue> segudasse<n> ende & esparziesse<n> los
 moradores dessa t<ier>ra. ⅋ q<ue>les q<ue>bra<n>tasse<n> los}
 [fol. 317v]
 {HD. NUM-ERO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 uezerros & las ymagenes d<e>los s<us> ydolos.
 & los desmenuzasse<n> todos & gastasse<n> & destro-
@@ -67524,7 +67524,7 @@ echados de tierra. q<ue> son los q<ue> matan
 om<n>e q<ue>riendo & los foydizos q<ue> son lo<<s>>}
 [fol. 318v]
 {HD. NUM[ERO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 q<ue>lo fazen por occasion. q<ue>los unos nj<n> los
 otros por nj<n>guna guisa. menos q<ue> el sa-
@@ -67717,7 +67717,7 @@ teuco q<ue> son estos .v. libro[^s] de Moysen. q<ue>
 duna ley fablan. & una Ley es q<u><<a>>nto en}
 [fol. 319v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ellos dize. ⅋ aun q<ue> ell apostol & ot<r><<o>>s <santos>
 padres mas uezes la llama<n> atoda esta
@@ -67934,7 +67934,7 @@ en la sazon q<ue> nos el esto ma<n>do. dix uos
 yo assi. Non puedo yo solo dar conseio}
 [fol. 320v]
 {HD. DEU[*TE]R-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 et recabdo auos todos. ca n<uest>ro sen<n>or dios
 uos cresçio loado sea ael. & sodes ya mucho<<s>>
@@ -68095,7 +68095,7 @@ ias suelen yr empos ell a<n>i<m>alia aq<ue> comie<n>ça<n>
 a ferir. ¶ ⅋ firiero<n> en uos essos amorreos et
 mataro<n> de uos de seyr fasta forma. ¶ ⅋ uos
 souiestes sobresto en cades de barne lue<n>go
-tiempo. {RUB. De com<o> cuenta Moyse<n> al pueblo +}}
+tiempo. {RUB. De com<o> cuenta Moyse<n> al pueblo ⇒}}
 {CB2.
 {RUB. las bie<n> anda<n>ças q<ue>les auie dios dadas &
 el comie<n>ço d<e>la co<n>q<u><<i>>sta dela tierra p<ro>me-tuda: +}
@@ -68151,7 +68151,7 @@ ssemos de dia los t<er>minos de Moab & dela
 çibdad de Ar. & llegassemos ala fro<n>tera de}
 [fol. 321v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 los fijos de Amo<n>. Mas q<ue>les no<n> buscassemos
 nj<n>gun mal. Ca alos fijos de loth la diera por
@@ -68368,7 +68368,7 @@ tes uos la boz d<e>las s<us> palabras. mas
 no<n> uistes de tod en todo la su forma. nj<n>}
 [fol. 322v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 la su faz. ¶ ⅋ alli uos mostro el la su pos-
 tura q<ue> mando q<ue> fiziessedes. & los diez ma<n>-
@@ -68585,7 +68585,7 @@ tidiessemos aoyr esto. & si nos q<ue> somos
 flacos oyremos daqui adelant la boz de}
 [fol. 323v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 n<uest>ro se<n>nor la fortaleza della nos matarie.
 ¶ ⅋ aun dixiestes alli. q<ue> cosa es toda car-
@@ -68801,7 +68801,7 @@ ba tierra de p<ro>mission de abondo & de se[gu]-
 ra uida:}}
 [fol. 324v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XI {IN4.} Avn les cuenta Moysen desta
 razon mas. por fazer les la Ley
@@ -69018,7 +69018,7 @@ dias con s<us> noches. q<ue> nj<n> comi pan nj<n>
 beui agua. por tirar le dela sa<n>na en q<ue>l}
 [fol. 325v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 auiedes metido. & uos p<er>donasse. Ca oue
 miedo q<ue> uos destruyrie por ello. como lo
@@ -69235,7 +69235,7 @@ t<ier>ra de p<ro>mission. & d<e>las be<n>diciones. & d<e>las
 maldiciones de dios si ellos cont<r><<a>> el errassen.}}
 [fol. 326v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 XVI {IN4.} Otrossi d<e>los t<er>minos dessa tierra
 uos q<u><<i>>ero dezir. por todo logar
@@ -69453,7 +69453,7 @@ connoscedes. dizie<n>do q<ue> aq<ue>llo q<ue> el dize es
 la uerdad. & uos dixiere despues. sirua-mos}
 [fol. 327v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 a aq<ue>llos dioses. aq<ue>llas palab<r><<a>>s daquel
 p<ro>ph<et>a nj<n> daq<ue>l so<n>nador no<n> las oyades. Ca u<uest>ro
@@ -69670,7 +69670,7 @@ otra cosa en q<ue> te siruio & en que te ben-
 dixo dios. & dar le as q<ue> coma en su cami-no}
 [fol. 328v]
 {HD. [*DEUTER]-[*ONOMIO]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 fasta q<ue> falle guarida. ¶ ⅋ miembra
 te de ti mismo como fuste sieruo en t<ier>ra
@@ -69887,7 +69887,7 @@ soberuia contra los pueblos de su ley.
 nj<n> tuerça desto nj<n>guna cosa si quiere}
 [fol. 329v]
 {HD. DEUTER-[*ONO]MI[*O]
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 regnar luengo tiempo sobre isr<ahe>l.
 ell. & sus fijos. {RUB. D<e>los derechos q<ue>los sacer-
@@ -70104,7 +70104,7 @@ q<ue> medroso es entre uos q<ue> tema de
 morir aqui. tornes & uayas pora su ca-sa.}
 [fol. 330v]
 {HD. DE[*UTER]-[*O]NOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 por q<ue> q<u><<a>>ndo fueremos enell ora q<ue> ma<<s>>
 mester sera de lidiar bien. no<n> fuya es-
@@ -70321,7 +70321,7 @@ d<e>las faldas del manto q<ue> cobrieres
 por reme<n>brança d<e>la ley. ¶ Si algu<n>o}
 [fol. 331v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 tomare mugier & la aborresçiere despues
 & buscare occasiones por q<ue>la dexe. aponi-
@@ -70526,7 +70526,7 @@ des morieres. auras peccado por ello. ⅋
 si quisieres puedes lo pleytear & seras}
 [fol. 332v]
 {HD. DEU[*TER]-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 sin peccado. aguardaras lo q<ue> ouieres di-
 cho & faras q<ue> cumplas lo q<ue> p<ro>metiste a
@@ -70743,7 +70743,7 @@ me ma<n>deste. Se<n>nor aue me m<er>ced
 del tu sanctuario & d<e>la tu mucho al-ta}
 [fol. 333v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 morada d<e>los cielos. & bendi al tu pue-
 blo de i<s>r<ahe>l & ala tierra q<ue> nos dist. Tierra
@@ -70960,7 +70960,7 @@ tuna & perder se a ante de tiempo de
 tener pro. ¶ Auras fijos & fijas & no<n>}
 [fol. 334v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 te s<er>uiran ca yran en catiuo. ¶ Roui-
 ga gastara todos los tus oliuares co<n>
@@ -71179,7 +71179,7 @@ su sa<n>na tan gra<n>d contra ella. ¶ ⅋
 respondra<n> algunos. Esto es. por q<ue>}
 [fol. 335v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 desampararo<n> la postura de su se<n>nor q<ue>
 pleteo con sus padres q<u><<a>>ndo los saco de
@@ -71380,7 +71380,7 @@ ayuntado & oyran las todos. mayores
 dios & auenedizos. q<ue> y fueren por q<ue>}
 [fol. 336v]
 {HD. DEU[*T]ER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ap<re>ndan temer asu se<n>nor dios & cu<m>pla<n>
 la su ley. ¶ ⅋ otrossi sus fijos los q<ue>lo
@@ -71597,7 +71597,7 @@ ouieredes mester. ¶ Ved lo como so
 yo solo. & no<n> a otro dios sino<n> yo. ¶ yo}
 [fol. 337v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 matare. & yo fare ueuir. ferre & yo sa-
 nare. & no<n> es qui de mi mano pueda
@@ -71818,7 +71818,7 @@ aaron & de Maria su h<er>mana
 & de Calef su marido della. &}
 [fol. 338v]
 {HD. DEUTE[*R]-[*ONO]MIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 de Balaam. segu<n>d q<ue>lo cue<n>tan Moyse<n>
 mismo & Jh<er>onimo en la biblia. & Jose-
@@ -72035,7 +72035,7 @@ el sobreste fecho. ¶ ⅋ despues desto co<m>-
 batios moysen co<n> Og assi como es es-cripto.}
 [fol. 339v]
 {HD. DE[*UTER]-[*O]NOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 ¶ Dize otrossi auen abez. q<ue> dixo
 dios a Moysen la muerte de aaro<n>. ⅋ q<ue>
@@ -72251,7 +72251,7 @@ des a mouer tan gra<n>d huest q<u><<a>>l tene-
 des & llegara<n> alla cansados & desbara-tados}
 [fol. 340v]
 {HD. [*D]E[*UTER]-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 del camino. & es g<u><<i>>sado de p<er>der co<n>
 ellos mas q<ue> ganar. & no<n> q<ue>rria q<ue> me-
@@ -72452,7 +72452,7 @@ creer alos om<ne>s q<ue> era del linage del
 Rey Castorin q<ue> fuera Rey de alta sa<n>-gre}
 [fol. 341v]
 {HD. DEUTER-ONOMIO
-L<IBRO> +}
+L<IBRO> ⇒}
 {CB2.
 de comienço. ¶ ⅋ ayunto gra<n>des
 compa<n>nas d<e>los suyos. & muchos otro<<s>>

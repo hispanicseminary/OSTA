@@ -242,7 +242,7 @@ enel qual libro non es diuiso por capitules.}
 .cxj. {RUB. {IN2.} El .vii. es delas gestas et memorables
 fechos darmas del Emperador theo-
 dosio et por qual manera demando baptis-
-mo a sant athoho de vngria et delas cosa<<s>> +}}
+mo a sant athoho de vngria et delas cosa<<s>> ⇒}}
 [fol. 4v]
 {CB1.
 {RUB. que ne acaescieron en el su imperio. enel qual
@@ -2379,7 +2379,7 @@ ua / et sy bondat alguna era
 el la destruye / Et enamoro
 se antonio della en tal ma-
 nera. {RUB. Dela manera como
-(^como) la companya de an-tonio +}}
+(^como) la companya de an-tonio ⇒}}
 [fol. 25r]
 {HD. j \ xj}
 {CB2.
@@ -5783,7 +5783,7 @@ Octauiano qui despues fue
 dicho cesar august et de su li-
 nage et delas sus maneras
 et costumbres et como era
-uirtuoso et quanto tiempo +}}
+uirtuoso et quanto tiempo ⇒}}
 [fol. 48r]
 {HD. ij \ xxxiiij}
 {CB2.
@@ -6662,7 +6662,7 @@ mo las riquas armaduras fa-
 ze<n> los hombres mas ardidos
 et como bruto et casio se <com>ba-
 tiero<n> con octauio cesar et co<n>
-antonio. Et bruto en la pri-mera +}}
+antonio. Et bruto en la pri-mera ⇒}}
 [fol. 54r]
 {HD. ji \ xxxx}
 {CB2.
@@ -9873,7 +9873,7 @@ do finco ala defension de
 ytalia.
 {RUB. Como seyendo Crassio en e-
 gipto la grant hueste de
-bruto passo en asia. Et de +}}
+bruto passo en asia. Et de ⇒}}
 {CB2.
 {RUB. las cosas que se siguiero<n>
 auant.}
@@ -14296,7 +14296,7 @@ ge et comenc[']amiento de co<<s>>-
 tantino Emperador et por
 q<u><<a>>l manera fue nascido et co-
 mo elena filla de Cochel rey
-de bretanya conoscio en ro-ma +}}
+de bretanya conoscio en ro-ma ⇒}}
 {CB2.
 {RUB. costantino Emp<er>ador
 de Roma et como fueron
@@ -18144,7 +18144,7 @@ asi como a otro helias et ya-
 zia deuant el altar dela dicha
 egl<es>ia en dayunos en vigili-
 as et en oraciones todos t<iem>pos
-occupado. {RUB. dela persecucion +}}
+occupado. {RUB. dela persecucion ⇒}}
 {CB2.
 {RUB. de maximo Tiranno.}
 {IN3.} Et enel dicho t<iem>po como
@@ -20807,7 +20807,7 @@ siguira. {RUB. Como Atilla ap<re>s
 que fue muerto el Empera-
 dor valentiniano plego gra<n>t
 huest de muchas nationes
-por yr en ytalia. Et como se +}}
+por yr en ytalia. Et como se ⇒}}
 {CB2.
 {RUB. aplego co<n> el ge<n>serico lo p<re>go q<ue> de-
 uallas en las gallias et se aple-
@@ -20917,7 +20917,7 @@ udades / et apres passo en
 Tuscia et del destruymiento
 q<ue> fizo enlas ciudades de aq<ue>-
 lla / et apres como yua enta
-Roma como sende torno +}}
+Roma como sende torno ⇒}}
 [fol. 150v]
 {HD. li<bro> +}
 {CB2.
@@ -21138,7 +21138,7 @@ el no obedecie en todas co-
 sas al p<<a>>pa. {RUB. como atilla fue
 ue<n>cido por Theodomir Rey
 d<e>los histregodos et d<e>la su
-muert feya et delas cosas +}}
+muert feya et delas cosas ⇒}}
 [fol. 152r]
 {HD. viij. \ Cxxxviij}
 {CB2.
@@ -24208,7 +24208,7 @@ et memorables fechos dar-
 mas de alboyn Rey delos
 longobardos el qual con-
 quirio ytalia et destruyo
-todos los gepidos et mato +}}
+todos los gepidos et mato ⇒}}
 {CB2.
 {RUB. alur Rey Cunimundo en
 batalla.}
@@ -24758,7 +24758,7 @@ otras muchas maneras
 de fruytas por tal que mas
 p<ro>uocas los longobardos
 a entrar en ytalia. {RUB. Como
-el Rey alboin delos longo-bardos +}}
+el Rey alboin delos longo-bardos ⇒}}
 [fol. 176v]
 {HD. li<br><<o>>. +}
 {CB2.
@@ -24941,7 +24941,7 @@ sen por cobrar las otras
 ciudades que restauan
 a co<n>querir delas venecias[.]
 {RUB. dela disc<re>pcion dela proui<n>cia
-de ytalia / Et quales p<ro>ui<n>cia<<s>> +}}
+de ytalia / Et quales p<ro>ui<n>cia<<s>> ⇒}}
 {CB2.
 {RUB. solie auer dius si en t<iem>po passa-
 do.}
@@ -28815,7 +28815,7 @@ do Rey delos longobardos[.]
 les el Rey luiprando delos
 logobardos se leuanto del si-
 tio q<ue> tenie sobre Roma et a-
-pres como karles martell pa-sso +}}
+pres como karles martell pa-sso ⇒}}
 [fol. 204r]
 {HD. xij. \ clxci.}
 {CB2.
@@ -29333,7 +29333,7 @@ karles magno / que q<u><<i>>ere
 dezir el grant / la ystoria del
 qual se sigue. {RUB. Aqui comi-
 ença la ystoria del Emperador
-Karles magno que fue dicho +}}
+Karles magno que fue dicho ⇒}}
 [fol. 207v]
 {HD. li<br><<o>>. +}
 {CB2.
@@ -32659,7 +32659,7 @@ manera / {LAT. Tu patriam repe-
 tis / nos tristem sub orbe Re-
 linq<u><<i>>[a]s. Te tenet aula nite<n>s
 nos lacrimosa dies. Sex q<u><<i>>
-lustra gerens .viij<<o>>. uiuis +}}
+lustra gerens .viij<<o>>. uiuis ⇒}}
 {CW. {LAT. Jn sup<er> a<n>nos.}}
 [fol. 230r]
 {HD. xiij. \ ccxvij.}
@@ -33104,7 +33104,7 @@ metiesse q<ue> farie de su vida pe-
 nite<n>cia dalli aua<n>t fue res<er>ua-
 do a vida. El q<u><<a>>l depue(<n>)s reco<n>-
 to el dicho miraglo a mu-
-chos. {RUB. Aqui comiença el .xiiij. +}}
+chos. {RUB. Aqui comiença el .xiiij. ⇒}}
 [fol. 233r]
 {HD. xiiij. \ ccxx.}
 {CB2.
@@ -33178,7 +33178,7 @@ dichos tira<n>nos vespesiano
 come<n>ço a Regir el jmp<er>io. {RUB. De
 como los iudios de ih<e>r<usa>l<e>m mo-
 rian de fambre et por otras mu-
-chas afflicciones por sus peca-dos +}}
+chas afflicciones por sus peca-dos ⇒}}
 [fol. 233v]
 {HD. li<br><<o>>. +}
 {CB2.
@@ -34566,7 +34566,7 @@ ena paz / et aq<ue>l qui agora es
 senyor ha nombre Barath.
 {RUB. Aqui recuenta como mago-
 tan enuio su hermano halo-
-on a recombrar la t<ie>rra <santa> (^et) +}}
+on a recombrar la t<ie>rra <santa> (^et) ⇒}}
 [fol. 243v]
 {HD. li[<br>]o +}
 {CB2.
@@ -35121,7 +35121,7 @@ el poder del soldan de Egip-
 to asi como sera dicho aqui
 apres. {RUB. Co<m>mo el solda<n> de
 Egipto recobro el regno de
-siria et echo los Tartres de +}}
+siria et echo los Tartres de ⇒}}
 {CB2.
 {RUB. la tierra.}
 {IN3.} En aq<ue>l t<iem>po barcha mo-
@@ -40293,7 +40293,7 @@ la qual auien bien men<e>st<er>
 segu<n>t Recue<n>ta la ystoria a-
 delant. {RUB. Como el rey don fer-
 ra<n>do se mudo a tablada et delo
-q<ue> fizo gomez Ruyz ma<n>çane-do +}}
+q<ue> fizo gomez Ruyz ma<n>çane-do ⇒}}
 {CB2.
 {RUB. <con> los moros enla mu<n>da<n>c[']a +}
 {IN3.} Dela otra part do esta-ua {RUB. del +}
@@ -40885,7 +40885,7 @@ se les pudies defender. {RUB. Co<m>-
 mo axataff co<n> todo el poder
 de seuilla sallieron .j. dia por
 ferir enla huest delos xp<ist>ia-
-nos et fueron vencidos los +}}
+nos et fueron vencidos los ⇒}}
 {CB2.
 {RUB. moros.}
 {IN3.} Un dia el Rey do<n> ferra<n>-
@@ -41291,7 +41291,7 @@ muriero<n> grant partida de
 moros a piet. {RUB. Como don
 Enrrich et el maestre de ca-
 latraua et el prior de sa<n>t Jo<han>
-et don lorenço suar<e>z toma-ron +}}
+et don lorenço suar<e>z toma-ron ⇒}}
 [fol. 289r]
 {HD. xvii \ cc.lxxvii}
 {CB2.
@@ -42659,7 +42659,7 @@ rre qui era electo de Toledo
 Et canto alli la missa deua<n>t
 el Rey don ferrando et todo el
 otro pueblo delos x<r><<i>><sti>anos.
-{RUB. De q<u><<a>>nto tiempo estuuo cerca +}}
+{RUB. De q<u><<a>>nto tiempo estuuo cerca ⇒}}
 {CB2.
 {RUB. da seuilla et delas noblezas
 et habundamie<n>to que eran
@@ -43910,7 +43910,7 @@ lo fizo / por que tantos hom-
 bres a Cauallo o mas auie
 de dentro que de fuera. {RUB. Co<m>mo
 el Rey don Jayme p<r><<i>>so por mu-
-ger donya leonor fija del Rey +}}
+ger donya leonor fija del Rey ⇒}}
 {CB2.
 {RUB. don alfonso de Castiella.}
 {IN3.} Seyendo el Rey don Jay-
@@ -47386,7 +47386,7 @@ fazien mal sus aferes / et si
 vna uegada los moros
 los echauan del Ciudat q<ue>
 depues nu<n>ca la cobrarien[.]
-{RUB. Como la ciudat de mallorca<<s>> +}}
+{RUB. Como la ciudat de mallorca<<s>> ⇒}}
 {CB2.
 {RUB. fue presa ensemble conel rey
 moro.}
@@ -47789,7 +47789,7 @@ et p<ro>fierta del Rey. {RUB. Co<m>mo
 cayo mortalidat en aq<ue>llos
 del linage de moncada et el
 rey enuio por algunos Rico<<s>>
-hombres de Aragon et delas +}}
+hombres de Aragon et delas ⇒}}
 [fol. 333r]
 {HD. xviij. \ cccxx.}
 {CB2.
@@ -49777,7 +49777,7 @@ fizo alos almogauares q<u><<i>>
 lo auian preso en tal ma-
 nera q<ue> ellos fuero<n> co<n>tentos.
 {RUB. Delos tractos et patios que
-fuero<n> entre el rey don sancho +}}
+fuero<n> entre el rey don sancho ⇒}}
 [fol. 346v]
 {HD. li<br><<o>>. +}
 {CB2.
@@ -51035,7 +51035,7 @@ galeras et dela ora auant
 huuo grant bastimiento
 de viandas enla huest. {RUB. Co-
 mo los Ricos hombres (^et) t<r><<a>>c-
-taua<n> et <con>sejaua<n> al rey que se +}}
+taua<n> et <con>sejaua<n> al rey que se ⇒}}
 [fol. 355r]
 {HD. xviij. \ cccxlij.}
 {CB2.
@@ -54662,7 +54662,7 @@ uallo conlos cauallos ar-
 mados enla qual entrada
 muriero<n> vna partida delo<<s>>
 moros. {RUB. Como el Rey fue
-ferido de vn viraton por +}}
+ferido de vn viraton por ⇒}}
 [fol. 379v]
 {HD. li<br><<o>>. +}
 {CB2.
@@ -56178,7 +56178,7 @@ fuesse por t<ie>rra entro valencia.
 {RUB. Delas cosas que conteciero<n>
 despues que el Rey fue torna-
 do en valencia et como huuo
-el Castiello de bayre<n> co<n> toda +}}
+el Castiello de bayre<n> co<n> toda ⇒}}
 {CB2.
 {RUB. la vall.}
 {IN3.} Quando el Rey fue en
@@ -57547,7 +57547,7 @@ ssar et lo colgassen de vn
 arbol. {RUB. Como los de engue-
 rra se rendieron al infant
 don alfonso de castiella et a-
-pres como el dicho infant +}}
+pres como el dicho infant ⇒}}
 [fol. 399r]
 {HD. xviij \ ccclxxxvi.}
 {CB2.
@@ -61286,7 +61286,7 @@ auien fecho algunas caualga-
 das a murcia et aq<ue>sto era ante
 de nadal .iiij<<o>>. dias Et estuuo
 alli el Rey entro al dia de cabo
-danyo. {RUB. Como el Rey don +}}
+danyo. {RUB. Como el Rey don ⇒}}
 {CB2.
 {RUB. Jayme fue assitiar murcia
 et como despues la dicha ci-
@@ -62506,7 +62506,7 @@ de Cathalunia mouiero<n> gue-
 rra al Rey sobrel condado de
 vrgel. Et como et por q<u><<a>>l razo<n>
 el rey fue a toledo et ap<re>s del pa-
-ssage que el Rey priso fazer +}}
+ssage que el Rey priso fazer ⇒}}
 [fol. 432v]
 {HD. li<br><<o>>. +}
 {CB2.

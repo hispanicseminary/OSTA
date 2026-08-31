@@ -94,7 +94,7 @@ yo lo dire sin reproche
 y mientra passa la noche
 pregunta lo que quisieres.}
 {CB2.
-{RUB. Comiença. +}}
+{RUB. Comiença. ⇒}}
 {CB2.
 {RUB. desseo sus pre-
 guntas y dize}}

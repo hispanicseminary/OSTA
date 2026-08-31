@@ -324,7 +324,7 @@ dia. El septimo Accidia.
 {CB1.
 {RMK: 7 lines of text in tagalog.}
 {RMK: 6 lines of text in tagalog alphabet.}
-{RUB. ¶ Las obras de misericordia +}}
+{RUB. ¶ Las obras de misericordia ⇒}}
 [fol. 21r]
 {CB1.
 {RUB. que qualquier christiano deue
@@ -340,7 +340,7 @@ al desnudo, que lo ha menester.
 Dar posada alos peregrinos.
 Enterrar los muertos.
 {RUB. ¶ Las otras siete obras
-misericordia spirituales, son +}}
+misericordia spirituales, son ⇒}}
 [fol. 21v]
 {CB1.
 {RUB. estas.} Enseñar alos sim-

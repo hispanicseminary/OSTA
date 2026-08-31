@@ -3048,7 +3048,7 @@ malua: & tomolo. & de alli fue a cercar
 a malua & tomola luego otrosi.
 {RUB. ¶ Capitulo .xiiij. d<e> co-
 mo el rey don Fernando tomo a co-
-ymbria: por consejo de Rodrigo de +}}
+ymbria: por consejo de Rodrigo de ⇒}}
 {CB2.
 {RUB. biuar: & de como fue armado caualle-
 ro Rodrigo de biuar enla mezquita
@@ -11563,7 +11563,7 @@ stillo muchas armas & vianda la que
 pudo hauer.
 {RUB. ¶ Capitulo .clx. de co-
 mo algunos caualleros que querian
-mal al cid le voluieron conel rey don +}}
+mal al cid le voluieron conel rey don ⇒}}
 [fol. 64r]
 {HD. \ Fo<lio> LI}
 {CB2.
@@ -12061,7 +12061,7 @@ con co<n>dicion que echasse los alarabes
 dela villa & de como abeniaf les come<n>-
 ço de quitar la vianda: & de como el a-
 delantado de los alarabes embio por
-dineros para embiar al Miramamo-lin +}}
+dineros para embiar al Miramamo-lin ⇒}}
 {CB2.
 {RUB. para que viniesse contra el cid.}
 {IN3.} LA estoria cuenta: que quando
@@ -12151,7 +12151,7 @@ guardar.
 {RUB. ¶ Capitulo .clxxj. d<e> co-
 mo el Rey de çaragoça embio al Cid
 grand hauer por los cabtiuos que le
-tenia: & andaua por hauer a Ualen-cia: +}}
+tenia: & andaua por hauer a Ualen-cia: ⇒}}
 {CB2.
 {RUB. & de como el Cid combatio el arra-
 ual que dizen villa nueua & le tomo: &
@@ -13602,7 +13602,7 @@ quier que les acaescia en fecho de ar-
 mas faziendo much bie<n>: & por esto le-
 uauan la honrra del Cid adelante.
 {RUB. ¶ Cap<itu>lo .cxcvj. de co-
-mo el Cid no dexo sentar ala mesa co<n> +}}
+mo el Cid no dexo sentar ala mesa co<n> ⇒}}
 [fol. 75r]
 {HD. \ Fo<lio> LXII}
 {CB2.
@@ -13744,7 +13744,7 @@ Mas agora dexa la hystoria d<e> fablar
 desto & torna ala pleytesia del alfaqui:
 & de abeniaf que mouiero<n> al cid.
 {RUB. ¶ Capitulo .cxcix. d<e> co-
-mo abeniaf & los de valencia traya<n> sus +}}
+mo abeniaf & los de valencia traya<n> sus ⇒}}
 {CB2.
 {RUB. tratos de co<n>cierto con el Cid. E de co-
 mo se co<n>certaro<n> q<ue> diessen la villa al cid
@@ -14263,7 +14263,7 @@ le las manos & tornaro<n>se para la villa.
 mo el Cid tuuo cercada a vale<n>cia nue-
 ue meses. E de como se apodero en la
 villa & q<ue> dia mes & año. E de como fue
-assi mismo apoderado de todos los ca-stillos +}}
+assi mismo apoderado de todos los ca-stillos ⇒}}
 [fol. 78v]
 {HD. Cronica.}
 {CB2.
@@ -14454,7 +14454,7 @@ rabes embio a su yerno el rey de seuilla
 a cercar a vale<n>cia con treynta mill ho-
 mes de armas. & de como el Cid houo
 co<n>ellos batalla & los ve<n>cio & murieron
-quinze mill moros do<n>de los cristianos +}}
+quinze mill moros do<n>de los cristianos ⇒}}
 {SG. i ij}
 [fol. 79v]
 {HD. Cronica.}
@@ -14600,7 +14600,7 @@ caudo para toda su despensa & para to-
 das las cosas que houiessen menester
 muy complidamente.
 {RUB. ¶ Cap<itu>lo .ccxiiij. de co-
-mo do<n> aluar fañez & martin antolinez +}}
+mo do<n> aluar fañez & martin antolinez ⇒}}
 {CB2.
 {RUB. lleuaro<n> al rey do<n> alfo<n>so el p<re>sente d<e>l cid
 & fuero<n> muy[ ]bie<n> recibidos & se espidiero<n>
@@ -14936,7 +14936,7 @@ saluadorez desce<n>dio mucho apriessa: &
 fizo repicar vna ca<m>pana ala qual se ha-
 uian de armar dozie<n>tos caualleros.
 {RUB. ¶ Cap<itulo> .ccxviij. d<e> como
-salio a escaramuçar co<n>los moros aluar +}}
+salio a escaramuçar co<n>los moros aluar ⇒}}
 [fol. 82r]
 {HD. \ Fo<lio> LXIX}
 {CB2.
@@ -15125,7 +15125,7 @@ se para el campo.
 {RUB. Cap<itulo> .ccxx. d<e> como el
 cid & los suyos robaro<n> el ca<m>po & oviero<n>
 muy gra<n> despojo & fallaro<n> e<n>de a aluar
-saluadorez en p<re>siones. & de como el cid +}}
+saluadorez en p<re>siones. & de como el cid ⇒}}
 [fol. 83r]
 {HD. \ Fo<lio> LXX}
 {CB2.
@@ -15173,7 +15173,7 @@ bro de su ley. & de alli a tie<m>po passo aque<n>-
 de el mar co<n> veynte & nueue reys assi co-
 mo lo co<n>tara la estoria adela<n>te e<n>su lugar[.]
 {RUB. & Capi<tulo> .ccxxj. d<e> como el
-cid embio en p<re>sente al rey do<n> alfo<n>so tre-zientos +}}
+cid embio en p<re>sente al rey do<n> alfo<n>so tre-zientos ⇒}}
 {CB2.
 {RUB. cauallos ensillados co<n> sus espa-
 das & la muy rica tie<n>da del rey juñez. E
@@ -15313,7 +15313,7 @@ como don aluar fañez & pero bermudez
 se fueron para valencia & los salio a re-
 cibir el cid con mucha alegria. E de co-
 mo le contaron el mensaje del rey do<n> al-
-fonso & acordo de yr a se ver con el rey a +}}
+fonso & acordo de yr a se ver con el rey a ⇒}}
 [fol. 84r]
 {HD. \ Fo<lio> LXXI}
 {CB2.
@@ -15553,7 +15553,7 @@ alas bodas q<ue> era<n> muy gra<n>des a demas
 & el cid metiose ala cibdad onde fue re-
 cebido con muy gra<n> alegria.
 {RUB. ¶ Capitulo .ccxxvj. de
-como leuo el Cid al alcaçar alos infa<n>-tes +}}
+como leuo el Cid al alcaçar alos infa<n>-tes ⇒}}
 {CB2.
 {RUB. de carrion do<n>de estaua<n> doña xime-
 na gomez & sus fijas muy ricame<n>te ve-
@@ -16122,7 +16122,7 @@ cruelme<n>te q<ue> no<n> hauia vagar ningu<n>o.
 {RUB. ¶ Cap<itu>lo .ccxxxiiij. de
 la couardia que cometio el infante do<n>
 diego gonçales enla batalla E de co-
-mo fue ve<n>cedor el Cid. & muriero<n> diez +}}
+mo fue ve<n>cedor el Cid. & muriero<n> diez ⇒}}
 {CB2.
 {RUB. y siete reyes moros & mucha dela otra
 gente. E de como el rey bucar se esca-
@@ -16357,7 +16357,7 @@ infantes de carrion.
 como doña ximena gomez & otros ca-
 ualleros se rescelauan que las fijas del
 Cid no<n> serian bien tratadas delos in-
-fantes de carrion. E de como los in-fantes +}}
+fantes de carrion. E de como los in-fantes ⇒}}
 {SG. k iiij}
 [fol. 89v]
 {HD. Cronica.}
@@ -17117,7 +17117,7 @@ fezieron no lo meresciendo.
 mo doña ximena gomez se co<n>goxaua
 mucho quando sopo la afruenta que
 los jnfantes de carrion hizieron a sus
-hijas. E de como el Cid embio a pe-ro +}}
+hijas. E de como el Cid embio a pe-ro ⇒}}
 [fol. 93v]
 {HD. Cronica.}
 {CB2.
@@ -18211,7 +18211,7 @@ ualleros del cid. E de como pero ber-
 mudez & martin antolinez & nuño gu-
 stios pidieron merced al Cid que ma<n>-
 dasse que fuessen ellos. E de como el
-rey les dio tres semanas de plazo para +}}
+rey les dio tres semanas de plazo para ⇒}}
 {CB2.
 {RUB. que se adereçassen.}
 {IN3.} CUenta la hystoria que se leua<n>-
@@ -19064,7 +19064,7 @@ mo el mensajero del soldan pregunto
 al almoxarife del Cid quales eran las
 costumbres del cid: & dela respuesta q<ue>
 le dio. E d<e> como el almoxarife del cid
-supo del mensajero del soldan la cau-sa +}}
+supo del mensajero del soldan la cau-sa ⇒}}
 {CB2.
 {RUB. porque el Soldan embiaua al Cid
 este presente.}
@@ -20297,7 +20297,7 @@ dauan que no<n> era muerto.
 {RUB. ¶ Capitulo .cclxxxvj. d<e>
 como el rey don Alonso partio de To-
 ledo para Sant pedro d<e> cardeña qua<n>-
-do supo q<ue> el Cid era finado. E de co-mo +}}
+do supo q<ue> el Cid era finado. E de co-mo ⇒}}
 {CB2.
 {RUB. salieron de sant Pedro de cardeña
 a recebir al rey don alonso el infante d<e>
@@ -20911,7 +20911,7 @@ torna a contar del rey don alfonso.
 mo el rey do<n> alfonso se mando llamar
 rey de españa: & de como corrio tierra
 de moros & les hizo gra<n>des daños & d<e>
-como adolescio del mal de q<ue> ovo d<e> mo-rir +}}
+como adolescio del mal de q<ue> ovo d<e> mo-rir ⇒}}
 [fol. 113v]
 {HD. Cronica.}
 {CB2.

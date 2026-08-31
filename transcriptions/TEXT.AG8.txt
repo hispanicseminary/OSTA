@@ -468,7 +468,7 @@ era<n>: & sie<n>do gra<n> parte dela noche passada el
 emperador despidio al rey Norandel & los
 altos ho<m>bres de su corte: & acojose a su apo-
 sentamie<n>to & la emperatriz assi mesmo.
-{RUB. ¶ Capitulo .iij. De co-mo +}}
+{RUB. ¶ Capitulo .iij. De co-mo ⇒}}
 {CB2.
 {RUB. se supo quien era el cauallero pagano &
 como se llamaua & la causa de su demanda.}
@@ -3775,7 +3775,7 @@ de cerdeña & Florisa<n>do fablaua<n> co<n> su co<m>pa-
 dad era d<e>los bie<n> fablados cauall<er>os del mu<n>-
 do & no auia p<er>sona q<ue> vna vez le oyesse ha-
 blar que no tuuiesse gana de oyr sus gr<aci>as.
-{RUB. ¶ Capitulo .xv. De co-mo +}}
+{RUB. ¶ Capitulo .xv. De co-mo ⇒}}
 {CB2.
 {RUB. vna do<n>zella estraña cubierta de luto vi-
 no ala corte del emp<er>ador demandando so-
@@ -19921,7 +19921,7 @@ quel dia que mucho se fablaua en aquella a-
 uentura. E muchos caualleros se apercebian
 de armas & cauallos para se prouar co<n> el Ce<n>-
 tauro.
-{RUB. ¶ Capitulo. xcv. de co-mo +}}
+{RUB. ¶ Capitulo. xcv. de co-mo ⇒}}
 {CB2.
 {RUB. el temido Centauro llego a la corte: y de
 los caualleros que vencio.}
@@ -28364,7 +28364,7 @@ car fruto de sus amores: & co<n> estos pe<n>samien-
 tos pelea<n>do la noche q<ue> ni de su penar & fatiga
 tenia cuydado por sus pu<n>tos & horas & mo-
 me<n>tos de mucho espacio caminaua p<ar>a el dia.
-{RUB. ¶ Capitu<lo> .cxxx. de como +}}
+{RUB. ¶ Capitu<lo> .cxxx. de como ⇒}}
 {CB2.
 {RUB. los tres co<m>pañeros era<n> muy visitados delos
 tres i<n>fantes d<e>las yslas californias & d<e>la estra-
@@ -28651,7 +28651,7 @@ podia muy bien ver lo que los Caualleros
 fazian enla batalla.
 {RUB. ¶ Capitulo ciento & tre-
 ynta & vno d<e>la braua & cruel batalla que fue
-entre los dos caualleros & los dos gigantes +}}
+entre los dos caualleros & los dos gigantes ⇒}}
 {CB2.
 {RUB. Almadarol & Bucar. Enla qual don Lis-
 pan / & Abies de Sansueña fueron vencedo-
@@ -40539,7 +40539,7 @@ como beata todos los dias de su vida.
 {RUB. ¶ Capitulo .clxxxvij. en
 que se recuenta<n> algunas cosas que despues a( )-
 contecieron: & de como el rey Lisuarte ouo
-tres fijos & vna fija dela noble & fermosa rey-na +}}
+tres fijos & vna fija dela noble & fermosa rey-na ⇒}}
 {CB2.
 {RUB. su muger.}
 {IN4.} POrque no menos seria larga q<ue> p<ro>-

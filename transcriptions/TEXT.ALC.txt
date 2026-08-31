@@ -3470,7 +3470,7 @@ siempre. Mas el t<er>cero salue se con .xij. uezinos.
 & sea saludado. Et si co<m>plir no pudiere; exca
 enemigo por a<n>no. {AD. [^xij.]} {RUB. De q<u><<a>>tro desafiados. q<ue> los .ij. +}
 {IN2.} Si quatro fueren {RUB. fuere<n> manifiestos; +}
-desafiados. & todo<<s>> en {RUB. & los dos no<n>.} +}
+desafiados. & todo<<s>> en {RUB. & los dos no<n>.} ⇒}}
 [fol. 70v]
 {HD. L<ibr><<o>>.}
 {HD. T<itul><<o>> xiiij.}
@@ -6120,7 +6120,7 @@ o oyr. o otra cosa; otra uez sea p<re>guntado. si uido;
 guno por solo oyr. o por solo ueyer. no<n> deue seer re-
 cebido en testimonio. ca si recebido fuesse; por essa
 misma razon el sordo. & el mudo. & el ciego; seri-
-en recebidos en testimonio. {RUB. Q<ue> ni<n>guno non sea +}}
+en recebidos en testimonio. {RUB. Q<ue> ni<n>guno non sea ⇒}}
 [fol. 124r]
 {HD. :VIII<<o>>:.}
 {HD. T<itul><<o>>.}

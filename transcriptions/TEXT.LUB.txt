@@ -41,7 +41,7 @@ mjentra n<uest>ro sen<n>or jogo ençerrado en<e>l vj-
 entre de <santa> <maria>.} {AD. [^2#a xv.]}
 {RUB. T<itol><<o>> xiij<<o>> com<m>o pudo <santa> <maria> fincar u<<i>><r>ge<n>
 depues q<ue> jh<es>u x<pist><<o>> naçio d<e>lla.} {AD. [^2#a xvj.]}
-{RUB. T<itol><<o>> xiiij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or morio enla cruz +}}
+{RUB. T<itol><<o>> xiiij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or morio enla cruz ⇒}}
 {CB2.
 {RUB. sy fue esta mue<r>te enla deujnjdat com<m>o e<n>la
 h<uma>njdat.} {AD. [^2#a xvj fojas.]}
@@ -105,7 +105,7 @@ eua.} {AD. [^2#a xxxjx.]}
 {AD. [^2#a xl.]} {RUB. T<itol><<o>> xxxvij<<o>> sy el angel q<ue> g<u><<a>>rda al om<br>e
 & anda ala ma<no> derecha sy es delos q<ue>
 puso dios en<e>l çielo o fecho de Nueuo.}
-{RUB. T<itol><<o>> xxxviij<<o>> sy la alma q<ue> esta en +}}
+{RUB. T<itol><<o>> xxxviij<<o>> sy la alma q<ue> esta en ⇒}}
 {CB2.
 {RUB. purgatorio & vje<n> el angel a co<n>fortalla sy se
 puede el q<ue>mar asy com<m>o ella o no<n>.}
@@ -205,7 +205,7 @@ aues ala agujla & las a<n>i<m>aljas al leo<n>.}
 lloso el medio cue<r>po.} {AD. [^2#a xcij]}
 {RUB. T<itol><<o>> L<<a>>xxviij<<o>> com<m>o no<n> ha la leona
 crines.} {AD. [^2#a xciij]}
-{RUB. T<itol><<o>> L<<a>>xxviiij<<o>> por q<ue> rrazo<n> cria<n> [???] +}}
+{RUB. T<itol><<o>> L<<a>>xxviiij<<o>> por q<ue> rrazo<n> cria<n> [???] ⇒}}
 [fol. 2v]
 {CB2.
 {RUB. cada mes las duendas de casa & no<n> las
@@ -1862,7 +1862,7 @@ yno çelestial & pone<r> la ala su
 mano diest<r><<a>> do rregna el & ella
 p<ar>a sienp<r><<e>> jamas. {RUB. T<itol><<o>> xj<<o>> de
 la salutaçio<n> q<ue>l angel troxo
-a <santa> <maria> en q<u><<a>>l de las palabras +}}
+a <santa> <maria> en q<u><<a>>l de las palabras ⇒}}
 {CB2.
 {RUB. encarno el esp<iri>tu <santo> en<e>lla.}
 {IN3.} Pr<e>gu<n>to el deçipulo ma<estr><<o>> rrue-

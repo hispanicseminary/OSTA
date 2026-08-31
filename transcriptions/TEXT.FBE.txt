@@ -966,7 +966,7 @@ lo & sea creido por danno de noche con .ij. ue-
 zinos & si non peche .ij. m<orauedis>. {RUB. Q<u><<i>> taiar arbor +}
 {IN2.} Qvi taiar arbor q<ue> no<n> lieue {RUB. mannero.}
 frucho pech<e> .v. m<orauedis> si io pudieren p<ro>uar.
-Si no<n> iure con .i. uezino & sea creido. {RUB. Quj +}}
+Si no<n> iure con .i. uezino & sea creido. {RUB. Quj ⇒}}
 [fol. 26v]
 {CB1.
 {IN2.} Sj alguno taiar {RUB. Qui taiar enzina o robre.}
@@ -1350,7 +1350,7 @@ salues como de furto. {RUB. Q<u><<i>> q<ue>branta p<re>sa a-gena. +}
 {IN1.} Qvi q<ue>brantar p<re>sa agena a tuerto {RUB.}
 pech<e> el dan<n>o duplado & .x. m<orauedis> si no<n> iure
 con dos vezinos & sea creido. {RUB. De los moli-
-nos q<ue> +}}
+nos q<ue> ⇒}}
 [fol. 36v]
 {CB1.
 {IN1.} Todas p<re>sas o molinos {RUB. enpeeçen a los uieios.}
@@ -1483,7 +1483,7 @@ hereden la buena del parient defunto.
 quo dotro iubre uinier h<er>ede la buena
 del defunto mas ante de fiador q<ue> sea po-
 blador de Beiar al menos .x. an<n>os. Si no
-dier fiadores no<n> h<er>ede. {RUB. De om<n>e q<ue> q<u><<i>>sier en-trar +}}
+dier fiadores no<n> h<er>ede. {RUB. De om<n>e q<ue> q<u><<i>>sier en-trar ⇒}}
 [fol. 40r]
 {CB1.
 {RUB. en horden.}
@@ -2073,7 +2073,7 @@ o responda a ssu par. {RUB. Q<u><<i>> firiere co<n> puno.}
 re pech<e> otrossi. Si negare iure co<n> dos de
 .iiij. con<n>onbrados de su collatio<n>. Si iudez
 o alcalde fuere en aq<ue>l bando duple & pie-
-rda el portiello q<ue> touiere. {RUB. Qvi matar om<n>e +}}
+rda el portiello q<ue> touiere. {RUB. Qvi matar om<n>e ⇒}}
 [fol. 55v]
 {CB1.
 {IN1.} Qvi enbidar om<n>e a ssu cassa a {RUB. enbidado.}
@@ -2207,7 +2207,7 @@ dos de su collatio<n>. {RUB. Del q<u><<i>> la empellare.}
 {IN1.} Qvi empellare a fuerça femna peche .v. m<orauedis>.
 Si del virtu de la empeladura cadiere ma-
 guer nol faga liuores peche .x. m<orauedis>. {RUB. Del q<u><<i>> la la-
-gare.} Si la lagare peche .xxx. m<orauedis>. {RUB. Qui le +}}
+gare.} Si la lagare peche .xxx. m<orauedis>. {RUB. Qui le ⇒}}
 [fol. 59r]
 {CB1.
 {IN1.} Qvi arrabare sus {RUB. arrabar sus pan<n>os.}
@@ -2226,7 +2226,7 @@ migo. Si negare salues co<n> .xij. vezinos
 & sea creido. Si no<n> responda a ssu par.
 {IN1.} Mvger q<ue> {RUB. De muger q<ue> echare su fijo.}
 algun iubre echare su fijo fostigala de-
-mas costringala q<u><<i>> lo crie. {RUB. Q<u><<i>> a muger & +}}
+mas costringala q<u><<i>> lo crie. {RUB. Q<u><<i>> a muger & ⇒}}
 [fol. 59v]
 {CB1.
 {IN1.} Qvi ouier muger uelada en {RUB. (&) toma otra.}
@@ -2551,7 +2551,7 @@ plada maguer sea fijo o parie<n>t fueras la mu-
 ger. Ca maguer q<ue> la mu(e)ger uenga en ba<n>do
 de su marido o el marido en bando de su mu-
 ger ninguno delos no pech<e> nada por ende
-ca una sera la callon<n>a dambos. {RUB. Q<u><<i>> emparar +}}
+ca una sera la callon<n>a dambos. {RUB. Q<u><<i>> emparar ⇒}}
 [fol. 68r]
 {CB1.
 {IN1.} Qvi defendier muger {RUB. muger agena.}
@@ -3029,7 +3029,7 @@ de los .v. no<n> uinier al plazo todos en uno
 pechen las calon<n>as & el uno exca enemigo
 por .i. an<n>o & el otro por siemp<re>. Los .iij. ya
 pagadas las calon<n>as coianlos q<u><<a>>no uinie-
-ren & saludenlos. {RUB. Qual dia deue co<n>no<m>brar +}}
+ren & saludenlos. {RUB. Qual dia deue co<n>no<m>brar ⇒}}
 [fol. 80v]
 {CB1.
 {RUB. qual salga enemigo et qual non.}
@@ -3067,7 +3067,7 @@ ziero depues q<ue> fuer uençido a tres .ix.
 dias. En la p<ri>mera nouena pech<e> la t<er>cera
 parte en ropa a la segunda nouena la
 otra t<er>cera en ganado a la t<er>cera nouena
-peche la otra t<er>cia en oro. {RUB. Del q<ue> no<n> pagare +}}
+peche la otra t<er>cia en oro. {RUB. Del q<ue> no<n> pagare ⇒}}
 [fol. 81v]
 {CB1.
 {IN1.} Si fasta tres .ix. dias {RUB. fasta .iij. .ix. dias.}
@@ -3124,7 +3124,7 @@ penenlo. Si no<n> fallare<n> los alcaldes onde
 aian entrega de las calon<n>as los fiadores
 de saluo pechen todas las calon<n>as fasta
 tres .ix. dias. La t<er>cera parte en ropa. La
-t<er>cera en ganado & la t<er>cera en oro. {RUB. Si no<n> +}}
+t<er>cera en ganado & la t<er>cera en oro. {RUB. Si no<n> ⇒}}
 [fol. 83r]
 {CB1.
 {IN1.} Si fasta {RUB. pagaren fasta .ix. dias no<n> coma<n>.}
@@ -3238,7 +3238,7 @@ raiz & mueble por la calon<n>a q<ue> fizo. Ma-
 guer q<ue> la raiz & el mueble sea de la mu-
 gier & no<n> del marido. Ca digna cosa es q<ue>
 como suelen en uno partir el gozo q<ue> par-
-tan la tristicia q<u><<a>>ndo les uiniere. {RUB. De lo q<ue> +}}
+tan la tristicia q<u><<a>>ndo les uiniere. {RUB. De lo q<ue> ⇒}}
 [fol. 86r]
 {CB1.
 {RUB. fincar pagadas las calon<n>as cuyo sea.}
@@ -3410,7 +3410,7 @@ los la coian o fagan ende lo q<ue> les ploguiere.
 {IN1.} Todas {RUB. Como parta<n> callon<n>as iud<e>z & alc<a>l<de>s.}
 las otras callonas parta el iudez co<n> los alcal-
 des & los alcal(cal)des con el iudez fueras las
-q<ue> son ya dichas. {RUB. Q<ue> no<n> iudgue<n> alcalde[s] sinon +}}
+q<ue> son ya dichas. {RUB. Q<ue> no<n> iudgue<n> alcalde[s] sinon ⇒}}
 [fol. 90v]
 {CB1.
 {IN1.} Sabet q<ue> iudez ni alcalde {RUB. q<u><<i>>en uinie a ellos.}
@@ -3467,7 +3467,7 @@ pendre por callona de .x. s<ueldo>s. Si aq<ue>l iudez
 fechizo pudier firmar con .i. uezino. {RUB. Q<u><<i>> +}
 {IN1.} Qvi tollier pen<n>os {RUB. tollier pen<n>os a iudez iura-do. +}
 a iudez del an<n>o peche .v. m<orauedis> & los alc<a>l<de>s {RUB.}
-pendren por las callon<n>as. {RUB. Q<u><<i>> tolier pen<n>os +}}
+pendren por las callon<n>as. {RUB. Q<u><<i>> tolier pen<n>os ⇒}}
 [fol. 92r]
 {CB1.
 {IN1.} Si esso mismo por auentura {RUB. a alcald<e>s.}
@@ -4076,7 +4076,7 @@ char o de aduzir el debdor. {RUB. Q<ue> p<re>ndan al +}
 {IN1.} Sj el sobre-leuador {RUB. sobreleuador por el debdor.}
 no<n> pudiere auer donde peche el
 debdo p<re>ndalo el iudez & metallo en la pri-
-sion del q<ue>relloso. {RUB. Q<ue> diere ante de la p<ri>sio<n> al q<ue> +}}
+sion del q<ue>relloso. {RUB. Q<ue> diere ante de la p<ri>sio<n> al q<ue> ⇒}}
 [fol. 108r]
 {CB1.
 {IN1.} Si el sobreleuador pudiere au<er> {RUB. sob<re>leuo.}
@@ -4210,7 +4210,7 @@ a plazo & fuere fueras t<er>mino ni<n>-
 guno no<n> entre en plazo por el ni mug<er>
 ni fijos mas duplen el au<er> & el m<orauedi> del co-
 to como es dicho muchas vezes. {RUB. Co-
-mo deuen firmar los q<ue>rellosos al deb-dor +}}
+mo deuen firmar los q<ue>rellosos al deb-dor ⇒}}
 [fol. 111v]
 {CB1.
 {IN1.} Si el debdor acotado ne-gare {RUB. q<ue> niega.}
@@ -4362,7 +4362,7 @@ re sobrel lego lidie assi como fuero es.
 Si cadiere sobrel cl<er>igo salues co<n> septi-
 ma mano de cl<er>igos q<ue> aian tal orden o
 mayor. Otrossi si con muerto firmare
-purguesse septima mano. {RUB. Del cl<er>igo q<ue> +}}
+purguesse septima mano. {RUB. Del cl<er>igo q<ue> ⇒}}
 [fol. 115v]
 {CB1.
 {IN1.} Sj cl<er>igo reptare lego salues {RUB. riepta a lego.}
@@ -4573,7 +4573,7 @@ den por uençido & el q<ue> lo matare no<n> pe-
 che por ende callon<n>a ni exca enemigo.
 {IN1.} Por fuero {RUB. De las lanças de los lidiadores.}
 enboten las lanças de los lidiadores en
-las puntas. {RUB. Q<ue> los andadores g<u><<a>>rden las +}}
+las puntas. {RUB. Q<ue> los andadores g<u><<a>>rden las ⇒}}
 [fol. 121r]
 {CB1.
 {IN1.} Depues q<ue> los lidiadores fueren {RUB. armas.}
@@ -4592,7 +4592,7 @@ des & al q<ue>relloso. {RUB. Del debdor q<ue> se ua de la +}
 {IN1.} De cabo mando q<ue> si debdor se fuere {RUB. uilla.}
 de la villa por uent<ur>a ante q<ue> de sobreleua-
 dor pendre el q<ue>relloso en casa de su deb-
-dor como es dicho de suso. {RUB. De la muger +}}
+dor como es dicho de suso. {RUB. De la muger ⇒}}
 [fol. 121v]
 {CB1.
 {RUB. q<ue> dixiere q<ue> su marido no<n> [es] en t<er>mino.}
@@ -4745,7 +4745,7 @@ del debdo fasta tres .ix. dias si q<u><<i>>er sea
 padre o fijo o muger. Tres .ix. dias pas-
 sados duple tod el debdo q<ue> deuiere en
 tal guisa q<ue> si fuere p<re>so por duplo passa-
-do el plazo pague quatro duplo. {RUB. Q<ue> no<n> +}}
+do el plazo pague quatro duplo. {RUB. Q<ue> no<n> ⇒}}
 [fol. 125v]
 {CB1.
 {RUB. uala al q<ue> mostrare armela o otra senal de +}
@@ -4764,7 +4764,7 @@ o ssu sobreleuador fuxiere de la p<ri>sion del cre-
 edor o ladro<n> o traidor o su sobreleuador & se
 encerrare en palacio o en egl<es>ia saq<ue>nlo dent
 sin callon<n>a. Si alguno se ensayare a defen-
-derlo responda en lugar del fuido. {RUB. De los +}}
+derlo responda en lugar del fuido. {RUB. De los ⇒}}
 [fol. 126r]
 {CB1.
 {RUB. debdores de los fijos o de los siruientes ca-tiuos. +}
@@ -4976,7 +4976,7 @@ se alçar. {RUB. Q<u><<i>> no<n> q<u><<i>>er negar o malfestar ante +}
 {IN1.} Otrossi si ouieren iudi-zio {RUB. alcaldes fechizos.}
 ante alcaldes fechizos & el defen-
 dedor no<n> quisier negar o otorgar ni se
-alçar a di viernes sea caido. {RUB. De los q<ue> ni +}}
+alçar a di viernes sea caido. {RUB. De los q<ue> ni ⇒}}
 [fol. 131v]
 {CB1.
 {RUB. reciben nin se alçan ante alcaldes fechi-zos. +}
@@ -5567,7 +5567,7 @@ el iudio con q<u><<i>>en pendro. {RUB. Del q<ue> da pe<n>-nos +}
 q<ue> los pen<n>os touiere & los die-re {RUB.}
 a ssu duen<n>o sin mandado del q<ue>rel-
 loso peche .x. m<orauedis> al iudez o al albedi &
-al q<ue>relloso. {RUB. Del xp<ist>iano q<ue> no<n> q<u><<i>>er hir pendrar +}}
+al q<ue>relloso. {RUB. Del xp<ist>iano q<ue> no<n> q<u><<i>>er hir pendrar ⇒}}
 [fol. 147r]
 {CB1.
 {IN1.} Sj xp<ist>iano vezino no<n> q<u><<i>>sier {RUB. con el iudio.}
@@ -5645,7 +5645,7 @@ pudiere<n> p<ro>uar de los pen<n>os duplados. Si
 pararen maguer entre ssi q<ue>l iudio traia
 los penos puedelos traer sin callona.
 Si lo pudier el iudio p<ro>uar con iudio &
-con xp<ist>iano como fuero es. {RUB. Q<u><<a>>ndo uenda +}}
+con xp<ist>iano como fuero es. {RUB. Q<u><<a>>ndo uenda ⇒}}
 [fol. 149r]
 {CB1.
 {IN1.} Depues q<ue>l auer {RUB. el iudio los pennos.}
@@ -5988,7 +5988,7 @@ poures ayalos q<u><<i>> los pudier auer o ganar.
 nados del robo a toda la hueste a todas
 las collaciones por egual & al sen<n>or de
 Beiar ca qui carne tomare en otra gui-
-sa taienle las oreias. {RUB. Qual gan[an]cia deue<n> +}}
+sa taienle las oreias. {RUB. Qual gan[an]cia deue<n> ⇒}}
 [fol. 158r]
 {CB1.
 {IN1.} Q<u><<a>>no uiniere al dia {RUB. partir & qual non.}
@@ -6255,7 +6255,7 @@ se aiuntaren aq<ue>l mal. {RUB. Q<u><<i>> no<n> dema<n>dare +}
 cosa de los moros en la fazienda & non io
 demandare<n> del dia q<ue> la sen<n>a entrare en
 la villa fasta tres .ix. dias depues no<n> res-
-ponda. {RUB. Q<ue> aya el adalil q<ue> entr<e> castiello o +}}
+ponda. {RUB. Q<ue> aya el adalil q<ue> entr<e> castiello o ⇒}}
 [fol. 165r]
 {CB1.
 {IN1.} Adalil xp<ist>iano q<ue> le-uare {RUB. villa si la p<ri>sieren.}
@@ -6274,7 +6274,7 @@ ssi si las sagudiere<n> allende destos moio-
 nes tom<en> el diezmo de q<u><<a>>lq<u><<i>>er ganado &
 de los moros q<ue> fizieren tornar si q<u><<i>>er de-
 lante si q<u><<i>>er deuant de cada uno .v. m<en>k<a>l<e>s
-de cauallo o de mula otrossj. {RUB. De ganado +}}
+de cauallo o de mula otrossj. {RUB. De ganado ⇒}}
 [fol. 165v]
 {CB1.
 {IN1.} De ganado q<ue> ganare<n> {RUB. pues q<ue> entraren.}

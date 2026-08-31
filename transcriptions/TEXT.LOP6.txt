@@ -559,7 +559,7 @@ aquel que fuesse sordo desde su nascen-
 cia, o por alguna ocasion, si este a tal pu-
 diere fablar, bien puede fazer testa-
 mento.
-{RUB. ¶ Ley .XIIII. En que manera el que fuere ciego +}}
+{RUB. ¶ Ley .XIIII. En que manera el que fuere ciego ⇒}}
 {CB2.
 {RUB. puede fazer testamento.}
 {IN4.} EL ciego non puede fazer
@@ -1068,7 +1068,7 @@ ser prouado: deue aquel que lo fizo pe-
 char al otro a quien deue ser fecha la
 manda, doblado, todo aquello quel fizo
 perder por tal razon como esta.
-{RUB. ¶ Ley XXX. Que pena merescen aquellos que em-bargan +}}
+{RUB. ¶ Ley XXX. Que pena merescen aquellos que em-bargan ⇒}}
 {CB2.
 {RUB. a los pelegrinos e los romero que non
 pueden fazer sus testamentos.}
@@ -3409,7 +3409,7 @@ diximos, e todos los otros bienes deue
 auer el sustituto de mano della, quando
 quier que muera el moço.
 {RUB. ¶ Ley .XIII. De la sustitucion a que dizen en la-
-tin {LAT. breuiloqua,} como se deue fazer e que fuer-ça +}}
+tin {LAT. breuiloqua,} como se deue fazer e que fuer-ça ⇒}}
 {CB2.
 {RUB. ha.}
 {LAT. {IN4.} BReuiloqua sustitutio} en
@@ -3608,7 +3608,7 @@ ziessen que vernia por ende daño, o me-
 noscabo a los herederos, que ouiessen de
 auer la herencia.
 {RUB. ¶ Ley .IIII. Como el heredero que tomo plazo pa-
-ra aconsejarse, deue tornar la herencia a los que +}}
+ra aconsejarse, deue tornar la herencia a los que ⇒}}
 {CB2.
 {RUB. la deuen auer, quando non la quisiesse.}
 {IN4.} QVeriendo auer consejo, si to-
@@ -3784,7 +3784,7 @@ se deuia guardar de fazer pagamie<n>to de
 las mandas, ante q<ue> pagasse las debdas,
 pues que sabia que no<n> abondauan los
 bienes, para pagarlo todo.
-{RUB. ¶ Ley .VIII. Quales espensas non es tenudo el +}}
+{RUB. ¶ Ley .VIII. Quales espensas non es tenudo el ⇒}}
 {CB2.
 {RUB. heredero de poner el inuentario.}
 {IN4.} LAs despensas que el here-
@@ -4308,7 +4308,7 @@ fuesse de menor edad, assi como de suso
 diximos.
 {RUB. ¶ Titulo .VII. De como
 e por que razones puede ome deshere-
-dar en su testamento a aquel que deue +}}
+dar en su testamento a aquel que deue ⇒}}
 {CB2.
 {RUB. heredar sus bienes. E otrosi por que razo-
 nes puede perder aquel que fuesse esta-
@@ -5115,7 +5115,7 @@ mas deue ser dada para sacar catiuos, assi
 como ya diximos.
 {RUB. Titulo .VIII. De co-
 mo puede quebrantar el testamento aq<ue>l
-que es deseredado en el a tuerto, a que di-zen +}}
+que es deseredado en el a tuerto, a que di-zen ⇒}}
 {CB2.
 {RUB. en latin {LAT. querela in officiosi testa-
 menti.}}
@@ -6249,7 +6249,7 @@ nio, mas que por otra cosa: e lo que dixi-
 mos de las casas, ha lugar en todos los o-
 tros edificios, que fuessen assi general-
 mente mandados a otri.
-{RUB. ¶ Ley .XXIIII. En que manera deue ser dado +}}
+{RUB. ¶ Ley .XXIIII. En que manera deue ser dado ⇒}}
 {CB2.
 {RUB. el gouierno aquellos a quien es mandado en el te-
 stamento.}
@@ -7185,7 +7185,7 @@ recabdo dellos, nin son ellos tenudos
 de lo dar, maguer gelo demandassen.
 Ca tales personas como estas, deue ome
 sospechar que lo faran bien.
-{RUB. ¶ Ley .III. Que los testamentarios deuen cum-plir +}}
+{RUB. ¶ Ley .III. Que los testamentarios deuen cum-plir ⇒}}
 {CB2.
 {RUB. la voluntad del finado, e non segund su
 aluedrio.}
@@ -8223,7 +8223,7 @@ non ha demanda ninguna, en los bie-
 nes del finado, en razon desta quarta
 parte.
 {RUB. ¶ Ley .VIII. Quando puede heredar el fijo que no<n>
-es legitimo en los bienes de su padre si muere +}}
+es legitimo en los bienes de su padre si muere ⇒}}
 {CB2.
 {RUB. sin testamento: o el padre en los bienes de tal
 fijo.}
@@ -8744,7 +8744,7 @@ por pagado con su parte, quando la ha,
 e aliña la mejor, e aprouechasse mejor, e
 mas della.
 {RUB. ¶ Ley .II. Quien sin aquellos que pueden deman-
-dar particion: e a quien, e quales cosas pueden +}}
+dar particion: e a quien, e quales cosas pueden ⇒}}
 {CB2.
 {RUB. partir, e quales non, e en que manera.}
 {IN3.} CAda vno de los heredero q<ue>

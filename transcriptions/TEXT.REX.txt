@@ -536,7 +536,7 @@ sea foradada. ca si en la mano tan<n>e
 faze gra<n>t mal. Et q<u><<a>>ndo fu<er>e ban<n>ado
 el falco<n>. & q<u><<i>>sier<e>s yr a caçar rruçial
 co<n> del agua. & ue a caçar.
-{RUB. {BLNK: 2 lineas en blanco.} +}}
+{RUB. {BLNK: 2 lineas en blanco.} ⇒}}
 {CB2.
 {RUB. {BLNK: 2 lineas en blanco.} +}
 {IN2.} (a)Ay vnos fal-cones {RUB. {BLNK.}}

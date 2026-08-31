@@ -436,7 +436,7 @@ buscar su p<ro>. & ma<n>do q<ue> luego q<u>el
 pat<r><<i>>arca de antiocha llegasse;
 q<ue> fuesse recabdado & q<ue> gelo a-
 duxiesse<n> a Secilla. {RUB. El cap<itu>lo
-De co<m>mo prendieron los om-nes +}}
+De co<m>mo prendieron los om-nes ⇒}}
 {CB1.
 {RUB. del Duc. Rogel de pulla al pat<r><<i>>arca de antiocha e<n> ye<n>do a Roma.}
 {MIN: space left for miniature.}}
@@ -669,7 +669,7 @@ gria & leuaron lo fasta la}
 {CB2.
 egl<es>ia & de si fuesse pora sus pa-lacios}
 {CB2.
-{RUB. El cap<itu>lo. De co<m>mo fizo +}}
+{RUB. El cap<itu>lo. De co<m>mo fizo ⇒}}
 {CB1.
 {RUB. el legado en antiocha conçilio general. sobre pleycto del Pa-
 triarca & fizo y uenir todos los prelados del tierra.}
@@ -868,7 +868,7 @@ lego al castiello de faret en-
 fermo & murio al t<er>cero dia}
 {CB2.
 del conçelio. {RUB. El cap<itu>lo. De co<m>-
-mo despuso el legado al pa-triarca +}}
+mo despuso el legado al pa-triarca ⇒}}
 {CB1.
 {RUB. de antiocha el mando meter en fierros.}
 {MIN: space left for miniature.}}
@@ -1447,7 +1447,7 @@ co<m>mo los grandes. {RUB. Cap<itu>lo
 de co<m>mo fizo el emp<er>ador
 ioh<a>n de costantinopla re-
 çebir por emp<er>ador a don
-manuel su fijo ante q<ue> +}}
+manuel su fijo ante q<ue> ⇒}}
 {CB2.
 {RUB. muriesse.}
 {IN3.} EN çima de sus dias.
@@ -3944,11 +3944,11 @@ fijos. & mugieres que no<n>
 que fincassen en poder
 de sus enemigos. {RUB. Cap<itu>lo
 De co<m>mo salio el conde
-con su gente fuera de la +}}
+con su gente fuera de la ⇒}}
 [fol. 29v]
 {CB2.
 {RUB. cipdat a lidiar con los
-Turcos. & del grant dan-no +}}
+Turcos. & del grant dan-no ⇒}}
 {CB2.
 {RUB. que recibio. por q<ue> se
 p<er>dio otra uez la cipdat.}}
@@ -4228,7 +4228,7 @@ chas buenas obras en
 la tierra {RUB. Mas agora de-
 xa aqui la ystoria a fa-
 blar del. por contar co-
-mo fizo el apostoligo +}}
+mo fizo el apostoligo ⇒}}
 {CB2.
 {RUB. predicar la cruzada po-
 ra ultramar. & co<m>mo pa<<s>>-
@@ -4564,7 +4564,7 @@ nor dios con derecho lo
 fizo. {RUB. Cap<itu>lo de como se
 aparto el Emp<er>ador de
 alemanna. del Rey de
-fra<n>çia. & fuesse por su ca-bo +}}
+fra<n>çia. & fuesse por su ca-bo ⇒}}
 [fol. 34r]
 {CB2.
 {RUB. despues que ouo pas-
@@ -10946,7 +10946,7 @@ lla que a nombre Tercia
 t<r><<i>>arca de ih<e>r<usa>l<e>m co<n> s<us> ob<is>pos
 al p<a>p<a> & de la guerra q<ue> auie
 el Emp<er>ador d<e> alema<n>na & el
-Emp<er>ador de Costantinop-la +}}
+Emp<er>ador de Costantinop-la ⇒}}
 {CB1.
 {RUB. con el Rey Guillelme de Sezilla.}
 {MIN: space left for miniature.}}
@@ -12427,7 +12427,7 @@ nera que todos ouieron
 onrra & bien andança {RUB. Ca-
 p[itu]lo de como enbiaron
 los Ricos omnes del Re-
-gno de Suria a Costanti-nopla +}}
+gno de Suria a Costanti-nopla ⇒}}
 [fol. 88v]
 {CB2.
 {RUB. a buscar mugier
@@ -14606,7 +14606,7 @@ zo correr el conde de Tri-
 ple la tierra del Emp<er>a-
 dor de costantinopla
 por la costa & la desonr-
-ra quel fiziera en dese-char +}}
+ra quel fiziera en dese-char ⇒}}
 [fol. 103v]
 {CB2.
 {RUB. su h<er>mana}
@@ -15646,7 +15646,7 @@ emos daq<ue>lla caualgada
 del Te<m>ple q<ue> dizie<n> Gilebert
 de Laci nat<ur>al de Jngla( )t<ier>ra
 o<mn>e onrrado & muy bue<n> ca-
-uall<er>o darmas. {RUB. Cap<itu>lo de +}}
+uall<er>o darmas. {RUB. Cap<itu>lo de ⇒}}
 {CB1.
 {RUB. co<m>mo desbarato Noradi<n> los Ricos o<mn>es xp<ist><<i>>anos & p<r><<i>>so los mas de ellos
 & tomo por fuerça el castiello de Hare<n>que.}
@@ -16700,7 +16700,7 @@ de co<m>mo afirmo el halifa
 de Egipto con su mano
 la postura que puso el Sol-
 dan con el Rey del dar q<u><<a>>-
-trocientas uezes mill be-santes +}}
+trocientas uezes mill be-santes ⇒}}
 [fol. 118r]
 {CB2.
 {RUB. en parias prim<er>a mi-
@@ -18739,7 +18739,7 @@ carnaçion de ih<es>u xp<ist>o de
 mill & ssessenta & siete en
 el quarto anno de su Rey-
 nado. {RUB. Cap<itu>lo de co<m>mo caso
-el Rey Amauric de ih<e>r<usa>l<em> +}}
+el Rey Amauric de ih<e>r<usa>l<em> ⇒}}
 {CB2.
 {RUB. con una sobrina del Em-
 perador de Costa<n>tinopla}
@@ -18851,7 +18851,7 @@ din recebiol & fizol mu-
 chas onrras E dalli fue
 sse pora Perssia. {RUB. Cap<itu>lo
 De co<m>mo fizieron Ob<is>pos
-nueua mie<n>tre enla pi-edra +}}
+nueua mie<n>tre enla pi-edra ⇒}}
 [fol. 132v]
 {CB2.
 {RUB. & en Ebron.}
@@ -19994,7 +19994,7 @@ ra dexa aqui la estoria a
 fablar destos mandaderos
 por contar de la grant flo-
 ta que enbio el Emp<er>a-
-dor de Costantinopla al +}}
+dor de Costantinopla al ⇒}}
 [fol. 140v]
 {CB2.
 {RUB. Rey de ih<e>r<usa>l<e>m segund las
@@ -20707,7 +20707,7 @@ logar los mercaderos. & daua<n>
 sos portadgos de sus merca-
 durias {RUB. Cap<itu>lo. De co<m>mo lle-
 go el Rey con su yente al ca<<s>>-
-tiello del Daron a pesar de +}}
+tiello del Daron a pesar de ⇒}}
 [fol. 145v]
 {CB2.
 {RUB. los moros.}
@@ -21382,7 +21382,7 @@ Rey fueron dentro e<n> las Ga-
 leas entro el en ellas. E o-
 uo buen tie<m>po & fue su car-
 rera & arribo en Acre. {RUB. Cap<itu>lo
-de los omnes onrrados q<ue> +}}
+de los omnes onrrados q<ue> ⇒}}
 [fol. 150r]
 {CB2.
 {RUB. llegaron aSuria}
@@ -21532,7 +21532,7 @@ er aun que fuesse moro.
 E ta<n> bie<n> auie<n> aguardar s<us>
 fortalezas e s<us> castiellos del
 co<m>mo de los enemigos de
-la fe. {RUB. Cap<itu>lo De co<m>mo fue +}}
+la fe. {RUB. Cap<itu>lo De co<m>mo fue ⇒}}
 [fol. 151r]
 {CB2.
 {RUB. el Rey de ih<e>r<usa>l<e>m co<n> su hueste
@@ -23220,7 +23220,7 @@ a coraçon ouiera el conde de
 buscar al Rey mucho mal
 si se le guisara mas no<n> q<u><<i>>so
 dios. {RUB. Cap<itu>lo De como se es-
-cuso el conde de frandes +}}
+cuso el conde de frandes ⇒}}
 {CB2.
 {RUB. que non q<u><<i>>so yr a Egipto
 con los Ricos omnes.}
@@ -23707,7 +23707,7 @@ la çaga E cada una de s<us> azes
 <con>tra qual de los x<rist><<i>>anos yrie.
 {RUB. Cap<itu>lo De co<m>mo lidio el Rey
 Baldouin co<n> la poca yent<e>
-(poca yente) que tenie con +}}
+(poca yente) que tenie con ⇒}}
 [fol. 165v]
 {CB2.
 {RUB. Saladin & uencio el Rey}
@@ -24157,7 +24157,7 @@ aquella paz fue fecha en
 venecia. {RUB. Mas agora [dexa] aq<u><<i>>
 la estoria a fablar desto por
 contar de los prelados de
-Suria que fueron a Rom<a> +}}
+Suria que fueron a Rom<a> ⇒}}
 [fol. 168v]
 {CB2.
 {RUB. al gra<n>t concilio que fizo
@@ -26558,7 +26558,7 @@ po & partieron se dalli & tor-
 naron se a la fuent<e> de Safo-
 ria. {RUB. Cap<itu>lo De co<m>mo çerco
 Saladin la cipdat de Ba-
-ruc despues q<ue>l uencio +}}
+ruc despues q<ue>l uencio ⇒}}
 [fol. 184v]
 {CB2.
 {RUB. el Rey}
@@ -27383,7 +27383,7 @@ por saber aqual cabo yua
 Saladin. & era y el co<n>de
 de Tripre. & tod el poder
 de la tierra. {RUB. Cap<itu>lo De co<m>-
-mo fizo el Rey Baldoui<n> +}}
+mo fizo el Rey Baldoui<n> ⇒}}
 [fol. 190r]
 {CB2.
 {RUB. gouernador del Regno a
@@ -27871,7 +27871,7 @@ de la cipdat que era el me-
 ior logar fizieron un arra-
 ual en que morauan los
 pobladores seguros. {RUB. Cap<itu>lo
-del danno que fizo Sala-din +}}
+del danno que fizo Sala-din ⇒}}
 {CB2.
 {RUB. alos del Craq<ue>.}
 {IN4.} Quando el Pri<n>-
@@ -28396,7 +28396,7 @@ aquel. el omne que no<n>
 auie oios Ellos dixiero<n>
 que si. {RUB. Cap<itu>lo De co<m>mo
 puso treguas el conde
-de Tripre por el Rey de +}}
+de Tripre por el Rey de ⇒}}
 {CB2.
 {RUB. ih<e>r<usa>l<e>m con Saladin por q<u><<a>>-
 tro a<n>nos}
@@ -31246,7 +31246,7 @@ dexarie y. {RUB. Mas agora dexa aq<u><<i>>
 la estoria a fablar del alcayde de
 Sur. & de Saladi<n> por contar. co<m>mo
 lego a Sur. Corrado el marques
-fijo de bonifaz. Marq<ue>s de mont( )-ferrat +}}
+fijo de bonifaz. Marq<ue>s de mont( )-ferrat ⇒}}
 [fol. 216r]
 {CB2.
 {RUB. que estaua en Costanti-
@@ -32428,7 +32428,7 @@ ualleros. & om<ne>s de pie q<ue> les tol-
 lieron lo q<ue> leuauan. Et fizo
 tomar alos burgeses ricos. &
 robar los de lo suyo. & de lo q<ue> les
-diera saladin. {RUB. Cap<itu>lo de como +}}
+diera saladin. {RUB. Cap<itu>lo de como ⇒}}
 [fol. 224r]
 {CB2.
 {RUB. affogo una mug<ie>r so fijo en
@@ -33618,7 +33618,7 @@ ron so tiempo por muchas ma-
 neras de periglos. & de batallas
 fasta que llegaron los altos
 om<n>es. {RUB. El cap<itu>lo. De cueyta
-de la fambre que auien en la +}}
+de la fambre que auien en la ⇒}}
 [fol. 232r]
 {CB2.
 {RUB. hueste de los x<rist><<i>>anos. & el acu-
@@ -33849,7 +33849,7 @@ passar por su tierra en saluo
 & en( )uio mucho de so auer a la
 tierra <santa>. {RUB. Cap<itu>lo de co<m>mo ga-
 no el Emp<er>ador de alema<n>na
-la cipdad del Coyne. & ue<n>çio +}}
+la cipdad del Coyne. & ue<n>çio ⇒}}
 [fol. 233v]
 {CB2.
 {RUB. al Soldan.}
@@ -35414,7 +35414,7 @@ do q<ue>l siruiessen muy nob-
 le mie<n>tre. & despues tornos-
 se el Rey p<or>a sutienda.
 {RUB. Cap<itu>lo de co<m>mo lidio el
-Rey don Richart co<n> el Em-p<er>ador +}}
+Rey don Richart co<n> el Em-p<er>ador ⇒}}
 {CB2.
 {RUB. Quirsac. el desba-
 rat(ad)o el Rey. & caso con la
@@ -38162,7 +38162,7 @@ conde Siffre so h<er>mano de ma-dre}
 {CB2.
 et otros en q<ue> se fiaua. {RUB. El
 capitulo. Como priso el conde
-don Tibalt al Conde Galter. & +}}
+don Tibalt al Conde Galter. & ⇒}}
 {CB2.
 {RUB. por qual Razon se dexo mo-
 rir en la prision.}}
@@ -38280,7 +38280,7 @@ gno. ¶ Et a la muger del
 conde finco un fijo q<ue> fue des-
 pues conde de brena. assi co-
 mo adelant lo contara la
-estoria. {RUB. ¶ Mas agora dexa +}}
+estoria. {RUB. ¶ Mas agora dexa ⇒}}
 [fol. 264v]
 {CB2.
 {RUB. aqui la estoria a fablar de la
@@ -38965,7 +38965,7 @@ truye la tierra de x<rist><<i>>anos no<n> les
 auiendo fecho ningun tuer-
 to. Et si les auie errado en algu-
 na cosa q<ue> gelo querie meiorar
-como ellos quisiessen. {RUB. Cap<itu>lo +}}
+como ellos quisiessen. {RUB. Cap<itu>lo ⇒}}
 {CB2.
 {RUB. De co<m>mo e<n>bio el ap<osto>ligo un
 cardenal q<ue> amonestasse alos
@@ -39019,7 +39019,7 @@ uall<er>os muchos. & passaron a
 Vltramar. Et los otros finca-
 ron & touieron el yuierno en
 Jadres. {RUB. ¶ Mas agora dexa aq<u><<i>>
-la estoria a fablar de los perig<r><<i>>-nos +}}
+la estoria a fablar de los perig<r><<i>>-nos ⇒}}
 {CB1.
 {RUB. q<ue> fincaron en Jadres por contar de don Johan de Niela. & de
 los flamencos q<ue> entraron en Mar al puerto del Dan.}
@@ -39798,7 +39798,7 @@ acaescio. q<ue> todo fue furtado.
 cauall<er>os franceses. no<n> ouiero<n>
 mas de .xx.xx. marcos. & el de
 cauallo. & el cl<er>igo .x. marcos
-& ell omne de pie .v. {RUB. Capitu[lo] +}}
+& ell omne de pie .v. {RUB. Capitu[lo] ⇒}}
 {CB1.
 {RUB. De como los françeses et los de Venecia fizieron Emperador
 de Costantinopla a don Baldouin. conde de frandes.}
@@ -39990,7 +39990,7 @@ grant yente.
 {RUB. Capitulo. Como dauan los
 de Andrenople la çipdad all
 Emperador en tal man<er>a q<ue> no<n>
-ouiessen poder sobre ellos +}}
+ouiessen poder sobre ellos ⇒}}
 {CB2.
 {RUB. los de venecia.}
 {IN4.} QVando ell Empera-
@@ -40069,7 +40069,7 @@ liessen fuera de las barreras
 fasta q<ue> lo el mandasse.
 {RUB. Capitulo. De como mataro<n>
 los Blacos al Conde don Loys
-& se perdio y el Emperador q<ue> +}}
+& se perdio y el Emperador q<ue> ⇒}}
 {CB1.
 {RUB. nunqua sopieron del. & se leuanto la hueste de Andrenople.}
 {MIN: space left for miniature.}}
@@ -40447,7 +40447,7 @@ dezir q<ue> tomasse su mugier.
 & q<ue> se uiniesse pora Costanti-
 nopla quel querien dar el
 Jmperio. & faz[er] le Emperador.
-{RUB. Capitulo. De como corono el +}}
+{RUB. Capitulo. De como corono el ⇒}}
 [fol. 280r]
 {CB1.
 {RUB. Apostoligo. por Emperador de Costantinopla al Conde don P<edr><<o>>
@@ -41120,7 +41120,7 @@ tiello & fuesse dende.
 {RUB. Cap<itu>lo De como lidio
 el Rey de francia con ell Em-
 perador Otas & con el Conde
-de frandes et con otros condes +}}
+de frandes et con otros condes ⇒}}
 {CW. piesça}
 [fol. 285r]
 {CB1.
@@ -42517,7 +42517,7 @@ en el fecho de la tierra & de sos
 fijos & de toda paganismo. Et
 despues destas razones a pocos
 de dias adolescio & murio.
-{RUB. ¶ Mas agora dexa aqui la es-toria +}}
+{RUB. ¶ Mas agora dexa aqui la es-toria ⇒}}
 {CB1.
 {RUB. a fablar de los moros por contar de los xpistianos.}
 {MIN: space left for miniature.}}
@@ -42638,7 +42638,7 @@ ra muy desconortada. si non
 por Guion de Gibelet. quel
 presto cinquaenta mill. be-
 santes moriscos.
-{RUB. ¶ Captiulo. Como quiso el +}}
+{RUB. ¶ Captiulo. Como quiso el ⇒}}
 {CB1.
 {RUB. Soldan lidiar con la hueste de los x<rist><<i>>anos & del da<n>no q<ue> y recibio.}
 {MIN: space left for miniature.}}
@@ -43132,7 +43132,7 @@ lo auien desechado. la prime-ra}
 uez. lo desecharon la segu<n>-
 da. & dixieron a los mandade-
 ros q<ue> se fuesen.
-{RUB. ¶ Mas agora dexa la estoria +}}
+{RUB. ¶ Mas agora dexa la estoria ⇒}}
 {CB1.
 {RUB. a fablar desto. por contar de los x<rist><<i>>anos & de lo q<ue> les acaesçio co<n> el Solda<n>.}
 {MIN: space left for miniature.}}
@@ -43433,7 +43433,7 @@ hueste. Et los de dentro fue-
 ron muy maltrechos asi co-
 mo adelante oyredes.
 {RUB. ¶ Capitulo. De la mingua
-de uianda q<ue> auien en los mo-ros +}}
+de uianda q<ue> auien en los mo-ros ⇒}}
 {CB2.
 {RUB. de la çipdad de Damiata.}
 {IN4.} La çipdad de Dami-
@@ -44044,7 +44044,7 @@ fallaron las galeas de los mo-
 ros. ca ya eran ende partidas
 bien basteçidas de armas. & de
 auer & de yent. & de uiandas.
-{RUB. ¶ Capitulo. De los clerigos +}}
+{RUB. ¶ Capitulo. De los clerigos ⇒}}
 [fol. 306r]
 {CB2.
 {RUB. q<ue> fueron al Soldan por le co<n>-
@@ -44201,7 +44201,7 @@ una çipdat podie cob<ra>r u<n> Regno.
 touo los por locos. & por nescios}
 {CB2.
 por que lo non fizieran.
-{RUB. ¶ Capitulo. Como corono +}}
+{RUB. ¶ Capitulo. Como corono ⇒}}
 {CB1.
 {RUB. el papa a don fredric por Emperador de Roma.}
 {MIN: space left for miniature.}}
@@ -44355,7 +44355,7 @@ fueron se pora la puente del
 fierro.
 {RUB. ¶ Capitulo. De las çient Ga-
 leas q<ue> arribaron a Damiata
-q<ue> enuio ell Emperador don +}}
+q<ue> enuio ell Emperador don ⇒}}
 {CB2.
 {RUB. fredric.}
 {IN4.} Los moros fiziero<n>
@@ -44741,7 +44741,7 @@ d<e> Cezilla tornado asi. Et des-
 pues q<ue> se guisarie qua<n>to me-
 ior pudiese & pasarie a vltra-
 mar. Et el apostoligo fizo lo.
-{RUB. ¶ Capitulo. De como fue +}}
+{RUB. ¶ Capitulo. De como fue ⇒}}
 [fol. 311r]
 {CB2.
 {RUB. ell Emperador don fredric a
@@ -45216,7 +45216,7 @@ zo laurar el castiello de Tolo-
 sa & basteçiol. & metio y su yen-
 te. & tornose.
 {RUB. ¶ Mas agora dexa aqui la es-
-toria. a fablar del Rey de fran-cia +}}
+toria. a fablar del Rey de fran-cia ⇒}}
 {CB1.
 {RUB. por contar dell Emperador don fredric.}
 {MIN: space left for miniature.}}
@@ -46137,7 +46137,7 @@ fender de guisa quel fiziero<n>
 arredrar.
 {RUB. ¶ Capitulo. Del acuerdo q<ue> o-
 uo el Soldan de Babilo<n>na
-por fazer paz. con ell Empe-rador +}}
+por fazer paz. con ell Empe-rador ⇒}}
 [fol. 320v]
 {CB2.
 {RUB. don fredric.}
@@ -46257,7 +46257,7 @@ Et en la manera q<ue> auedes o-
 ydo. gano ell Emperador do<n>
 fredric. la tierra de Jh<e>r<usa>l<e>m.
 {RUB. ¶ Capitulo. Como se corono
-ell Emperador don fredric e<n> +}}
+ell Emperador don fredric e<n> ⇒}}
 {CB1.
 {RUB. Jherusalem en la Eglesia del Sepulcro.}
 {MIN: space left for miniature.}}
@@ -46373,7 +46373,7 @@ eta. & a don Garner ell Alema<n>.
 q<ue> dexara pora guardar el Reg-
 no de Jherusale<m>. Et de si fuese
 pora pulla. & arribo en blan-
-diz. {RUB. ¶ Mas agora dexa aq<u><<i>> +}}
+diz. {RUB. ¶ Mas agora dexa aq<u><<i>> ⇒}}
 {CB2.
 {RUB. la estoria a fablar dell Empe-
 rador. por contar de los cinco
@@ -49622,7 +49622,7 @@ ciendo mucho a n<uest>ro se<n>nor
 el bien & la m<er>ced que les
 fazie. {RUB. Mas agora dexa
 aqui la ystoria a fablar
-de la tierra de Suria por +}}
+de la tierra de Suria por ⇒}}
 [fol. 344v]
 {CB2.
 {RUB. contar del p<a>p<a> Jnnocencio
@@ -49885,7 +49885,7 @@ basteciessen las cipdades
 & las fortalezas. & con el a-
 yuda de n<uest>ro se<n>nor dios. el
 serie con ellos a poco tie<m>po.
-{RUB. Mas agora dexa aqui la +}}
+{RUB. Mas agora dexa aqui la ⇒}}
 {CB2.
 {RUB. estoria a fablar del. por co<n>-
 tar de la tierra de Suria.}
@@ -50683,7 +50683,7 @@ te de Turcomanos en que
 ganaro<n> bestias mayores
 & menores .xvj mill & p<r><<i>>siero[n]
 al cabdiello. {RUB. Cap<itu>lo De co<m>mo
-tomo el Rey de francia a +}}
+tomo el Rey de francia a ⇒}}
 {CB1.
 {RUB. almassora & de los omnes onrrados que y muriero<n>}
 {MIN: space left for miniature.}}
@@ -50761,7 +50761,7 @@ yngla( )tierra tomo la cruz
 de su tierra el passaie. {RUB. Cap<itu>lo
 Co<m>mo fizo do<n> Loys Rey de
 francia. Cesarea & Jaffa &
-de las otras cosas (que a) +}}
+de las otras cosas (que a) ⇒}}
 [fol. 352v]
 {CB2.
 {RUB. que acaescieron en esse A<n>no}
@@ -51076,7 +51076,7 @@ dicadores Ob<is>po de Beellee[m]
 don Jofre de Sergines. &
 este mato muchos malfe-
 chores que auie en la tier-
-ra. {RUB. Cap<itu>lo de las cosas q<ue> a-caescieron +}}
+ra. {RUB. Cap<itu>lo de las cosas q<ue> a-caescieron ⇒}}
 {CB2.
 {RUB. en tierra de su-
 ria en el a<n>no de mill & .cc.
@@ -51759,7 +51759,7 @@ rra & muchos otros condes
 Bocdondar a Jaffa en tre-
 gua[s] & mato q<u><<a>>ntos x<rist><<i>>anos
 y fallo & de los otros fechos
-que acaescieron en el a<n>no +}}
+que acaescieron en el a<n>no ⇒}}
 [fol. 359v]
 {CB2.
 {RUB. de mill & dozientos & ssesse<n>-

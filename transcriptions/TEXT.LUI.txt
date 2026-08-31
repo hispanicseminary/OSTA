@@ -176,7 +176,7 @@ toro}
 {RUB. ¶ capitulo çinquenta y ocho que habla por que por
 todo el mundo no son las noches e los dias tan
 grandes en vna t<ie>rra como en otra.}
-{RUB. ¶ capitulo çinquenta y nueue que habla por que +}}
+{RUB. ¶ capitulo çinquenta y nueue que habla por que ⇒}}
 [fol. 5r]
 {CB1.
 {RUB. la luna quando esta llena alumbra menos
@@ -228,7 +228,7 @@ la cabra e la vaca.}
 mal a todos los arboles del mundo tirar las
 cortezas e no <<al>> alcornoque.}
 {RUB. ¶ capitulo setenta e quatro que habla por que se ha-
-zen los cuernos de las cabras can<n>as veras qua<n>do +}}
+zen los cuernos de las cabras can<n>as veras qua<n>do ⇒}}
 [fol. 6r]
 {CB1.
 {RUB. los ponen so la t<ie>rra.}
@@ -282,7 +282,7 @@ n<n>as asi como los de la cabeça e de las baruas}
 dientes del om<br>e que son mienbros rraigados
 en el cuerpo no naçen luego quando el om<br>e naçe
 e por que los muda despues}
-{RUB. ¶ capitulo nouenta y dos que habla por que la criatu<r><<a>> +}}
+{RUB. ¶ capitulo nouenta y dos que habla por que la criatu<r><<a>> ⇒}}
 [fol. 7r]
 {CB1.
 {RUB. que naçe a los siete meses biue e la que a ocho
@@ -3193,7 +3193,7 @@ en las istorias de los apostoles e de los na-
 zarenos q<ue> aquel dia q<ue> subio a los çielos q<ue> an-
 dauan los angeles en figuras de mançebos
 bestidos de blanco e dezian a grandes boçes
-q<ue> las oyan todos {LAT. viri galiley q<u><<i>> admiramjnj +}}
+q<ue> las oyan todos {LAT. viri galiley q<u><<i>> admiramjnj ⇒}}
 [fol. 65r]
 {CB1.
 {LAT. aspiçientes in çelu<m> hic veniet que<m>admo-
@@ -5602,7 +5602,7 @@ avia de ser el dia de la fin E esto fizo el por
 dos cosas ¶ la primera por q<ue> obiesen los om<br>es
 miedo de quando sera aquel dia e se guardasen
 de fazer mal ¶ e por eso fallamos q<ue> dixo en el
-evangelio {LAT. vigilate et orate quia neçitis die +}}
+evangelio {LAT. vigilate et orate quia neçitis die ⇒}}
 [fol. 115v]
 {CB1.
 {LAT. neq<uem> & c<etera>} q<ue> quiere dezir velat e orat q<ue>
@@ -7984,7 +7984,7 @@ las vnas e las otras ¶ ca las vallenas q<ue>
 han grandes vientres e comen aq<ue>llos pes-
 cados e los om<br>es todos enteros tales valle-
 nas como estas llaman en latin {LAT. çete} ¶ e por
-esto dixo ih<es>u xp<ist>o en el evangelio {LAT. Jonas fuit +}}
+esto dixo ih<es>u xp<ist>o en el evangelio {LAT. Jonas fuit ⇒}}
 [fol. 164v]
 {CB1.
 {LAT. tribus diebus et trib<us> no<ctibus> in ventri çeti
