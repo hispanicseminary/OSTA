@@ -12241,11 +12241,11 @@ Esteylla seyllado con el si-
 eyllo del sobr<e> dicho seynor
 Rey pendient en çera berm-
 eylla
-{LAT. [^2#Anno d<omi>ni .M<<o>>. .CCC<<o>>
+[^2#{LAT. Anno d<omi>ni .M<<o>>. .CCC<<o>>
 tricessimo.} Lunes
 noueno dia de seti-
 embre en pamplo-
 na fuero<n> los fu<er>os nu-
 euos feytos por el
 Rey phelipes con-
-te de Eureus.]}
+te de Eureus.]
