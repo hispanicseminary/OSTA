@@ -12,7 +12,8 @@ version: 1.0.0
 date-released: 2026-03-07
 publisher: GitHub
 repository: https://github.com/hispanicseminary/OSTA
-license: MIT
+license: This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 doi: 
 keywords:
   - "semi-paleographic transcriptions"
