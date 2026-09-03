@@ -2,7 +2,7 @@
 {RMK: Nicolás Bautista Monardes, doctor.}
 {RMK: [MRD] Primera y Segunda y Tercera Partes de la Historia Medicinal: de las cosas que se traen de nuestras Indias Occidentales, que sirven en Medicina.}
 {RMK: Sevilla | Fernando Díaz | 1580.}
-{RMK: Valencia | Facultad de Medicina | E/178.}
+{RMK: Valencia | Facultad de Medicina | BH Z-05/179.}
 {RMK: Andrea María Bau.}
 [fol. 1r]
 {CB1.
