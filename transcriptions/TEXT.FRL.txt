@@ -45,7 +45,7 @@ Leyes del fuero]
 dios ameN.
 Por q<ue> los coraço-nes}
 [fol. 1v]
-{HD. T<itul><<o>> L<ibro> i +}
+{HD. T<itul><<o>> L<ibro> i ⇒}
 {CB2.
 delos omnes (^??)[^s]on de-
 partidos. por ent natural
@@ -145,7 +145,7 @@ ra manifesta por q<ue> nos po-
 diessemos saluar. ¶ este
 n<uest>ro se<n>nor a en si .ij. nat<ur>as.}
 [fol. 2v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 de omne et de dios et ma-
 guer segund la nat<ur>a de
@@ -241,7 +241,7 @@ tierra. ni<n> de parar se co<n> sus
 enemigos. ni<n> darles arm-
 as. ni<n> pod<er>es. ni<n> otra ayuda}
 [fol. 3v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 ninguna p<or> ninguna ma-
 n<er>a. e q<u><<i>> quier q<ue> fiziere estas
@@ -337,7 +337,7 @@ e diz en otro logar. q<ue> todo o<mn>e
 q<ue> delos fechos & delos dicho<<s>>
 del p<r><<i>>nçep algun mal retrae.}
 [fol. 4v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 que es descum<u>lgado & de-
 ue au<er> la pena de aquel que
@@ -433,7 +433,7 @@ deue<n> ten<er> & guardar leal-
 tat al rey. assi son tenidos
 de guardar al fiio o ala fi-ia}
 [fol. 5v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 q<ue> depues del deue reg-
 nar. & deue<n> amar & gua-
@@ -529,7 +529,7 @@ t<er>renales p<or> n<uest>ras almas. &
 guardarlas q<ue> son dadas.
 e por ent mandamos q<ue> to-das}
 [fol. 6v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 las cosas q<ue> fuoron da-
 das enlas eglesias o s<er>an
@@ -625,7 +625,7 @@ lo luego de guisa q<ue> lo no<n>
 pierda la egl<es>ia cuyo es.
 e q<u><<i>> esto no<n> fiziere. aya la}
 [fol. 7v]
-{HD. L<ibro> T<itul><<o>> vi +}
+{HD. L<ibro> T<itul><<o>> vi ⇒}
 {CB2.
 pena q<ue> es puesta <contr><<a>> los que
 encubre<n> los furtos.
@@ -733,7 +733,7 @@ guno aduxiere libro de ot<r><<a>>s
 leyes en iudizio p<or>a razo-
 nar o p<or>a iudgar por el. pe-che.}
 [fol. 8v]
-{HD. T<itul><<o>> vij. L<ibro> +}
+{HD. T<itul><<o>> vij. L<ibro> ⇒}
 {CB2.
 d. sueldos al rey.
 pero si alguno razonare
@@ -829,7 +829,7 @@ ant<e> el alcalde. o la q<ue>rella
 fuer. dada al rey. o a su m<er>i-
 no. las p<ar>tes no<n> puedan fa-zer}
 [fol. 9v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 ninguna auenencia
 ni negun adobo entresi
@@ -925,7 +925,7 @@ ue su pleyto mas enuiel
 a otro alcalde q<ue> non sea so-
 spechoso. ¶ e si p<or> auentu-ra}
 [fol. 10v]
-{HD. L<ibro> T<itul><<o>> viij +}
+{HD. L<ibro> T<itul><<o>> viij ⇒}
 {CB2.
 todos los alcaldes p<ro>ua-
 ren por sospechosos: ante
@@ -1021,7 +1021,7 @@ idas. quier de otro pleyto q<u><<a>>l
 quier. si carta ende fuere fe-
 cha por q<ue> si la carta fuere p<er>di-da.}
 [fol. 11v]
-{HD. T<itul><<o>> L<ibro> viij +}
+{HD. T<itul><<o>> L<ibro> viij ⇒}
 {CB2.
 o uiniere sobrella alg-
 una dubda; q<ue> pueda seer
@@ -1117,7 +1117,7 @@ e si no<n> fuere<n> dela tierra.
 sean los testigos dela
 tierra. & omnes conos-cidos.}
 [fol. 12v]
-{HD. T<itul><<o>> L<ibro> ix +}
+{HD. T<itul><<o>> L<ibro> ix ⇒}
 {CB2.
 ¶ E nengun esc<r><<i>>ua-
 no no<n> meta otro esc<r><<i>>ua<n>o
@@ -1213,7 +1213,7 @@ en pie. E pues q<ue> fuere da-
 do por uozero. razone ap-
 uesta mient su pleyto. &}
 [fol. 13v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 non denueste & non diga
 mal a ninguno. ni<n> a al-
@@ -1309,7 +1309,7 @@ zonare en aq<ue>l pleyto. P<er>o
 (^auencia) auene<n>cia no<n> pu-
 eda faz<er> ni<n> quitar la dema<n>-da}
 [fol. 14v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 si non io ma<n>dare el:
 due<n>no dela uoz se<n>nalada
@@ -1405,7 +1405,7 @@ re en su pleyto. uala assi
 como si no<n> lo ouiesse tollido.
 {IN1.} Ningu<n> p<er>son<er>o q<ue> sea dado}
 [fol. 15v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 en algu<n> pleyto quier p<or>a
 demandar quier pora de-
@@ -1501,7 +1501,7 @@ ayan el gualardon q<ue> el a-
 uie ende a au<er>. segund que
 lo m<er>ecio.}
 [fol. 16v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 {IN2.} Mandamos q<ue> el q<ue> fuere
 aplazado sobre algu<n>a
@@ -1597,7 +1597,7 @@ si en algun tiempo cobra
 su sanidat. & su sentido. el
 pleyto q<ue> fiziere en tal tiem-po.}
 [fol. 17v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 uala. maguer q<ue> despue<<s>>
 torne en la locura ¶ Otrossi
@@ -1693,7 +1693,7 @@ la reçibio.
 tida en iudizio. & aq<ue>l q<ue>
 la touiere la enagenare:}
 [fol. 18v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 ante q<ue> sea librada por iudizio
 o por auenencia. en pod<er> d<e>l
@@ -1788,7 +1788,7 @@ cosa q<ue> sea contra se<n>norio d<e>
 rey. & si sieruo fiziere deb-
 da. o fiadura sin mandado}
 [fol. 19v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 de su se<n>nor ni<n> el ni<n> su se<n>nor
 no<n> sea tenudo de respond<er>
@@ -1884,7 +1884,7 @@ de del iudizio auiltada mi-
 ent. e todos los otros q<ue> no<n>
 q<u><<i>>siere<n> salir del iudizio por}
 [fol. 20v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 mandado del alcalde. pec-
 he cada uno .x. morab<edis>. la
@@ -1980,7 +1980,7 @@ lde gelo mando fer sea
 tenudo de respo<n>der por
 q<ue> lo fizo.}
 [fol. 21v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 {IN2.} Si el alcalde iudga tuerto
 por ruego o por alguna
@@ -2078,7 +2078,7 @@ bir d<er>echo. sobre aq<ue>llo q<ue> fue
 applazado & toda uia q<ue> es-
 te en tregua. e si eneste}
 [fol. 22v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 comedio firiere peche .c.
 morab<edis>. el. t<er>cio al rey & el t<er>-
@@ -2177,7 +2177,7 @@ et si no<n> uiniere pech<e> la pena.] q<ue> es puesta del homici-
 dio & p<re>gone<n> la de cabo fa-
 sta otro mes. & si uiniere}
 [fol. 23v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 sea oydo sobrel fecho si lo fi-
 zo o no<n>. mas no<n> cobre la:
@@ -2273,7 +2273,7 @@ uiare assi como sobredi-
 cho es & despues uiniere
 o enuiare. el tenedor no<n>}
 [fol. 24v]
-{HD. T<itul><<o>> (^I)L<ibro> +}
+{HD. T<itul><<o>> (^I)L<ibro> ⇒}
 {CB2.
 (no<n>) sea desapod<er>ado dela
 peyndra & tenga la por su-
@@ -2369,7 +2369,7 @@ o el enuargo aya aq<ue>lla
 segurança assi como so-
 bredicho es. ¶ e qui q<u><<i>>er}
 [fol. 25v]
-{HD. T<itul><<o>> iiij L<ibro> +}
+{HD. T<itul><<o>> iiij L<ibro> ⇒}
 {CB2.
 q<ue> co<n>tra esta n<uest>ra ley uinie-
 re o la q<ue>brantare en algu<n>a
@@ -2465,7 +2465,7 @@ el debdor fata q<ue> cu<m>pla sob<r><<e>>
 la dema<n>da lo q<ue> fuere de-
 recho ¶ e si el fiador pech-are}
 [fol. 26v]
-{HD. L<ibro> T<itul><<o>> vi +}
+{HD. L<ibro> T<itul><<o>> vi ⇒}
 {CB2.
 la demanda. assi co-
 mo es fuero. el debdor pe-
@@ -2561,7 +2561,7 @@ algum fecho malo & ma-
 nifestare contra otri q<ue>:
 fue conel en aq<ue>l fecho. o}
 [fol. 27v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 en otro. este manifesta-
 miento no<n> enpeesca a o-
@@ -2657,7 +2657,7 @@ ert. estos tres fagan la
 pesq<u><<i>>sa. & los alcaldes iu-
 dguen la assi como dicho}
 [fol. 28v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 es de suso. ¶ e si aq<ue>l q<ue> fu-
 ere demandado sobre m-
@@ -2753,7 +2753,7 @@ q<u><<i>> las firiere.
 mandare auer. & el o-
 tro conosçiere la debda}
 [fol. 29v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 & dixiere q<ue> gela ha pag-
 ada. o q<ue> gela quito. pon-
@@ -2849,7 +2849,7 @@ os plazos q<ue> el alcalde
 pusiere a aq<ue>l q<ue> las ha
 de adozir por mandado}
 [fol. 30v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 del alcalde. sea tenido
 de pechar a aq<ue>l q<ue> p<er>dio
@@ -2945,7 +2945,7 @@ dade<<s>> o q<ue> se yra<n> d<e>la tierra de
 guisa q<ue> lo<<s>> n<on> aura q<u><<a>>n<d>o lo<<s>> oui-
 ere menest<er>. & recibalo<<s>> el alc-alde}
 [fol. 31v]
-{HD. T<itul><<o>> viij L<ibro> +}
+{HD. T<itul><<o>> viij L<ibro> ⇒}
 {CB2.
 & fagalas iurar q<ue> di-
 gan uerdat. & oya las. & es-
@@ -3041,7 +3041,7 @@ plazos pora p<ro>uar assi co-
 mo sobredicho es ¶ e ni<n>-
 guna delas p<ar>tes no<n> pu-eda}
 [fol. 32v]
-{HD. L<ibro> T<itul><<o>> viij +}
+{HD. L<ibro> T<itul><<o>> viij ⇒}
 {CB2.
 adozir mays prueu-
 as sobre esta razon. ¶ e si
@@ -3135,7 +3135,7 @@ esc<r><<i>>uanos publicos q<ue>:
 fuere<n> puestos assi como
 manda la ley fagan se}
 [fol. 33v]
-{HD. [??] T<itul><<o>> L<ibro> +}
+{HD. [??] T<itul><<o>> L<ibro> ⇒}
 {CB2.
 co<n> tres testigos al men-
 os sin el esc<r><<i>>uano & uala<n>.
@@ -3227,7 +3227,7 @@ q<ue> aiudaua a so pleyto
 entre algunos om-
 nes & sea y puesto see-llo}
 [fol. 34v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 de rey o de arçobispo.
 o de abat o de conçeio por
@@ -3323,7 +3323,7 @@ plazo lo demandare no<n>
 sea tenido del respond<er>.
 & el alcalde del otro ta<n>-to}
 [fol. 35v]
-{HD. T<itul><<o>> L<ibro> x +}
+{HD. T<itul><<o>> L<ibro> x ⇒}
 {CB2.
 plazo adelante q<u><<a>>nto<<s>>
 dias demando ante del
@@ -3415,7 +3415,7 @@ q<ue> se pierde<n> o se gana<n> p<or> +}
 q<ue> dema<n>dare
 h<er>edat a otri o otra cosa}
 [fol. 36v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 qual q<u><<i>>er. si el tenedor de
 la h<er>edat. o daq<ue>lla cosa q<ue>l
@@ -3507,7 +3507,7 @@ demandar ni<n> tornar
 a seruidu<m>bre. ¶ e si an-
 didiero<n> foydos por .l.}
 [fol. 37v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 a<n>nos. & andidieren por
 libres. no los pueda nin-
@@ -3599,7 +3599,7 @@ andar alguna cosa.
 & aq<ue>l q<ue> la touiere se q<u><<i>>-
 siere emparar por ti-empo.}
 [fol. 38v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 mandamos q<ue>
 aq<ue>l tiempo q<ue> era echado
@@ -3691,7 +3691,7 @@ ue o q<ue>l fizo. o q<ue>l deue fa-
 zer. si gela p<ro>uar no<n> pu-
 diere saluesse el dema<n>-dado}
 [fol. 39v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 por su iura. & si lo
 no<n> q<u><<i>>siere iurar sea ue<n>-
@@ -3783,7 +3783,7 @@ deles ende se<n>nas car-
 tas fechas por algu<n>o
 delos esc<r><<i>>uanos o seel-ladas}
 [fol. 40v]
-{HD. T<itul><<o>> xjij L<ibro> +}
+{HD. T<itul><<o>> xjij L<ibro> ⇒}
 {CB2.
 co<n> su seello. & te<n>-
 ga el esc<r><<i>>uano o el alc-
@@ -3876,7 +3876,7 @@ p<ar>tes fuere ue<n>cida por
 iuyzio afinado en alg-
 un pleyto q<u><<i>>er sea dem-andador}
 [fol. 41v]
-{HD. T<itul><<o>> xiiij L<ibro> +}
+{HD. T<itul><<o>> xiiij L<ibro> ⇒}
 {CB2.
 q<u><<i>>er defe<n>dedor
 el alcalde iudgue las cu-
@@ -3968,7 +3968,7 @@ cuestas q<ue> ouiere por des-
 fallecimie<n>to del esc<r><<i>>pto.
 q<ue> lo pague el alcalde ¶ O-tro}
 [fol. 42v]
-{HD. T<itul><<o>> xv L<ibro> +}
+{HD. T<itul><<o>> xv L<ibro> ⇒}
 {CB2.
 si mandamos q<ue> el
 alcalde ponga plazo a
@@ -4060,7 +4060,7 @@ q<u><<i>>en q<u><<i>>siere alçese ael de
 todo iuyzio. q<u><<i>>er sea de
 gra<n>d demanda q<u><<i>>er de}
 [fol. 43v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 peq<ue>na.
 {IN2.} El rey o aquel q<ue> a de iud-
@@ -4152,7 +4152,7 @@ na man<er>a aq<ue>llo q<ue> fizie-
 re a so pleyto. ¶ e qui
 en esta razo<n> denostare}
 [fol. 44v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 o abiltare al alcalde. pe-
 chel .x. mor<abed>is. por la osa-
@@ -4241,7 +4241,7 @@ otro q<ue> co<n>uenga(^n) a ella
 o a sus parientes. los
 h<er>manos no<n> la puedan}
 [fol. 45v]
-{HD. L<ibro> T<itul><<o>> i +}
+{HD. L<ibro> T<itul><<o>> i ⇒}
 {CB2.
 deseredar por tal razo<n>.
 fueras si aq<ue>l con qui ca-
@@ -4333,7 +4333,7 @@ egl<es>ia
 {IN2.} Ningu<n> om<n>e pues q<ue> fu-
 ere otorgado derecha}
 [fol. 46v]
-{HD. I T<itul><<o>> +}
+{HD. I T<itul><<o>> ⇒}
 {CB2.
 miente por marido co<n>
 alguna mugier. no<n> sea
@@ -4425,7 +4425,7 @@ los parie<n>tes mas p<ro>pi<n>-
 quos del marido muer-to.
 {IN1.} Ninguno no<n> %2}
 [fol. 47v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 sea osado de casar co<n> ma<n>-
 çeba en cabellos sin pla-
@@ -4517,7 +4517,7 @@ a<n>nos entreguelas.
 e si arras no<n> le dio lu-
 ego & gelas p<ro>metio}
 [fol. 48v]
-{HD. T<itul><<o>> ij L<ibro> +}
+{HD. T<itul><<o>> ij L<ibro> ⇒}
 {CB2.
 de dar. estas p<er>sonas la<<s>>
 puedan demandar & g-
@@ -4609,7 +4609,7 @@ riente o de amigo. o
 en hueste en q<ue> uaya por
 su soldada de rey o de}
 [fol. 49v]
-{HD. L<ibro> T<itul><<o>> iij +}
+{HD. L<ibro> T<itul><<o>> iij ⇒}
 {CB2.
 otri. ayalo todo quanto
 ganare por suyo. e si fu-
@@ -4701,7 +4701,7 @@ en tierra q<ue> sea de qual
 q<u><<i>>er dellos. cuya fuere
 la tierra tome el t<er>rado.}
 [fol. 50v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 segundo como pone las
 otras ui<n>nas en aq<ue>l log-
@@ -4798,7 +4798,7 @@ ni<n>guna man<er>a. maguer
 non aya y esc<r><<i>>pto. si pu-
 dier ser p<ro>uado por testi-monias}
 [fol. 51v]
-{HD. L<ibro> t<itul><<o>> +}
+{HD. L<ibro> t<itul><<o>> ⇒}
 {CB2.
 ¶ e esto deue se-
 er delos q<ue> son de edat co<m>-
@@ -4894,7 +4894,7 @@ q<ue> no<n> deue ualer.
 {IN2.} Despues q<ue> la p<ar>ticio<n> fu-
 era fecha entre los}
 [fol. 52v]
-{HD. L<ibro> T<itul><<o>> iij +}
+{HD. L<ibro> T<itul><<o>> iij ⇒}
 {CB2.
 h<er>ederos si alguno dello<<s>>
 la q<ue>bra<n>tare & la p<ar>te del
@@ -4986,7 +4986,7 @@ re o las ençerrare. ante
 q<ue> el due<n>no del arbor. pu-
 [e]dalas auer. maguer q<ue>}
 [fol. 53v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 en arbor fagan examb-
 re. ¶ P<er>o el se<n>nor del ar-
@@ -5078,7 +5078,7 @@ pliere. me<n>gue a cada
 uno daq<ue>llos q<ue> la an de
 auer segu<n>d la q<u><<a>>ntia q<ue>}
 [fol. 54v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 mando a cada uno.
 {IN2.} Estableçemos q<ue> los q<ue> n<on>
@@ -5173,7 +5173,7 @@ ra dela tiera. & los cabe-
 la ma<n>da assi como la m-
 ando el muerto. & los h<er>e-deros}
 [fol. 55v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 uiniere<n> depues &
 contradixiere<n> la ma<n>da.
@@ -5266,7 +5266,7 @@ ouiere de mugier de be<n>-
 dicio<n>. ni<n> otros fijos q<ue> a-
 ya[<n>] d<er>echo de h<er>edar. pueda}
 [fol. 56v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 fazer de todo lo suyo lo q<ue>
 q<u><<i>>siere. de guisa q<ue> el rey so
@@ -5358,7 +5358,7 @@ era q<ue> la no<n> mate.
 fiios de bendicio<n> & q<u><<i>>-
 siere reçebir a alguno}
 [fol. 57v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 por fijo & (^de) h<er>edarle en
 sos bienes puedalo fa-
@@ -5450,7 +5450,7 @@ los de padre o de mad-
 re. & el auuelo dela p<ar>-
 te del padre h<er>edelo que}
 [fol. 58v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 fue del padre. & el de
 p<ar>te dela madre h<er>ede
@@ -5542,7 +5542,7 @@ tol diero<n> a p<ar>ticio<n> co<n> los
 h<er>manos.
 {IN1.} Quando alguno fiziere}
 [fol. 59v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 ( (^der)ec(^h)[^r]o ) [^2#h<ere>dero] a aq<ue>l a q<u><<i>>en deuie
 alguna cosa o q<ue>l era fiad-
@@ -5634,7 +5634,7 @@ lo q<ue> el fiziere uala fuera
 si lo fiziere co<n> enga<n>no
 o a da<n>no dellos. et si p<or>}
 [fol. 60v]
-{HD. L<ibro> T<itul><<o>> vi +}
+{HD. L<ibro> T<itul><<o>> vi ⇒}
 {CB2.
 nigligencia o por su c<u>l-
 pa algu<n> da<n>no recibiere<n>
@@ -5726,7 +5726,7 @@ re. ni<n> pudier auer fiador.
 si ouiere algu<n> menest<er>
 recabdelo aq<ue>l a q<u><<i>> deue}
 [fol. 61v]
-{HD. T<itul><<o>> L<ibro> vij +}
+{HD. T<itul><<o>> L<ibro> vij ⇒}
 {CB2.
 la debda de guisa q<ue> pue-
 da usar su menest<er>. & de
@@ -5818,7 +5818,7 @@ Otrossi lo pueda desere-
 dar sil yoguiere co<n> la
 mugier. o co<n> la barra-gana.}
 [fol. 62v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 O sil fiziere cosa
 por q<ue> deua morir o p<re>n-
@@ -5911,7 +5911,7 @@ q<ue> sean derechos & egua-
 les a todos ta<n> bien alos
 estra<n>nos cuemo alos de}
 [fol. 63v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 la uilla. e los albergue-
 ros tales medidas ten-
@@ -6003,7 +6003,7 @@ erça no<n> deue ualer.
 {IN2.} Qui q<u><<i>>er q<ue> algu<n>a cosa <com>-
 prare si el uendedor}
 [fol. 64v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 no<n> fuere raygado. reçiba
 buen fiador. & uala la:
@@ -6095,7 +6095,7 @@ zer la uendida. por tal
 razo<n> no<n> pueda ¶ e si el
 despues o otri por el q<u><<i>>-siere}
 [fol. 65v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 tornar el p<re>cio el co<m>-
 prador sea tenido de reçe-
@@ -6187,7 +6187,7 @@ ere comprar tanto por
 tanto ayala ante q<ue> otro
 ni<n>guno. e si dos o mas}
 [fol. 66v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 la q<u><<i>>sieren si son en eg<u><<a>>l
 grado de parentesco. par-
@@ -6282,7 +6282,7 @@ si el uendedor no<n> alon-
 go de dar la cosa uendi-
 da. o si no<n> se p<er>dio por su}
 [fol. 67v]
-{HD. T<itul><<o>> L<ibro> x +}
+{HD. T<itul><<o>> L<ibro> x ⇒}
 {CB2.
 culpa. o si nol fizo pley-
 to q<ue> si se p<er>diesse o si se da<n>-
@@ -6375,7 +6375,7 @@ si no<n> con otra egl<es>ia.
 fuera si uiniere p<or> gr-
 and su p<ro>uecho. P<er>o si}
 [fol. 68v]
-{HD. T<itul><<o>> L<ibro> +}
+{HD. T<itul><<o>> L<ibro> ⇒}
 {CB2.
 el rey alguna h<er>edat o
 otra cosa temporal q<ue> sea
@@ -6467,7 +6467,7 @@ nido de darla.
 arçobispo ni<n> obispo
 ni<n> abbat ni<n> p<re>lado ni<n> ca-bildo}
 [fol. 69v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 ni<n> conue<n>to nigu-
 no no<n> puedan dar delo<<s>>
@@ -6559,7 +6559,7 @@ ziere tornesse al mar<i>do
 q<ue> ge la dio. o a sos h<er>ed-
 eros si fuere muerto.}
 [fol. 70v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 o si no<n> dexare fijos de b-
 endicion ¶ et si por aue<n>-
@@ -6651,7 +6651,7 @@ su d<er>echo q<u><<a>>ndo q<u><<i>>er q<ue>:
 muerra el otro. et si
 el muriere antes del}
 [fol. 71v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 puedalo met<er> en su ma<n>-
 da segund su uolu<n>tat. &
@@ -6744,7 +6744,7 @@ quier en otras armas
 q<u><<i>>er en cauallos; aya lo
 todo por suyo. & q<u><<a>>nto}
 [fol. 72v]
-{HD. T<itul><<o>> L<ibro> xij +}
+{HD. T<itul><<o>> L<ibro> xij ⇒}
 {CB2.
 q<ue> con el gano. e si q<u><<i>>sier
 dexar a aq<ue>l se<n>nor q<ue> gelo
@@ -6837,7 +6837,7 @@ dgar. q<u><<a>>nto espendio p<or>
 razo<n> daq<ue>l pleyto se<n>na-
 lado por q<ue> las ha dauer}
 [fol. 73v]
-{HD. xi L<ibro> +}
+{HD. xi L<ibro> ⇒}
 {CB2.
 & si diere cosa (^2#se<n>nalada) [^2#guisada]
 & mesurada por q<ue> entie<n>-
@@ -6929,7 +6929,7 @@ q<ue> lo p<er>dio por aguaduc-
 ho o p<or> otra ocasio<n> d<er>echa
 & lo iurar como sobre}
 [fol. 74v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 dicho es non aya pena.
 {IN2.} Si algu<n> omne dixiere
@@ -7024,7 +7024,7 @@ ayalas su due<n>no. & si su
 due<n>no no<n> las demanda-
 re. entreguelas a aq<ue>l}
 [fol. 75v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 q<ue> gelas dio. maguer q<ue>
 sepa q<ue> es ladro<n> o robador
@@ -7116,7 +7116,7 @@ guisas. si despues ge
 la fallare<n>. o q<ue> la uendio
 o la enageno pechelas}
 [fol. 76v]
-{HD. T<itul><<o>> L<ibro> xiiij +}
+{HD. T<itul><<o>> L<ibro> xiiij ⇒}
 {CB2.
 nouenas assi como ma<n>-
 da la ley delos furtos. et
@@ -7208,7 +7208,7 @@ otra man<er>a es q<u><<a>>ndo o<mn>e
 recibe emp<re>stado de pa<n>-
 nos fechos. o de bestia<<s>>}
 [fol. 77v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 o de sieruos. o de otra co-
 sa qual quiere & q<u><<i>> en es-
@@ -7300,7 +7300,7 @@ a usarle en su casa o en
 logar nombrado si en
 aq<ue>l s<er>uiçio p<or>a q<ue> fuer p<re>s-tado}
 [fol. 78v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 se p<er>diere sin cu-
 lpa del q<ue> tomo el emp<re>s-
@@ -7392,7 +7392,7 @@ gue se por todos o por:
 aq<ue>llos q<ue> diere el conçe-
 io pora arrendar o p<or>a}
 [fol. 79v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 alogar la cosa q<ue> fuere da-
 rrendar o de logar.
@@ -7484,7 +7484,7 @@ due<n>no dela casa por el
 loguer; mag<uer> q<ue> n<on> sea
 pleyteado. & aya por hy}
 [fol. 80v]
-{HD. L<ibro> T<itul><<o>> xvij +}
+{HD. L<ibro> T<itul><<o>> xvij ⇒}
 {CB2.
 so loguer. {RUB. delos fiad(^ti)[^o]res +}
 {IN2.} Qvi quier q<ue> ouier {RUB. & dela<<s>> +}
@@ -7579,7 +7579,7 @@ ni<n> cl<er>igo seglar no<n> faga
 fiadura por ot<r><<i>> ni<n>gu<n>o
 et si la fiziere la egl<es>ia}
 [fol. 81v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 ni<n> sus bienes no<n> sea<n>
 tenidos por tal fiadura
@@ -7671,7 +7671,7 @@ cho. & las cuestas si algu<n>as
 fizo mas non dobladas.
 {IN1.} Si por auentura el fiad-or}
 [fol. 82v]
-{HD. L<ibro> T<itul><<o>> xviij +}
+{HD. L<ibro> T<itul><<o>> xviij ⇒}
 {CB2.
 muriere ante q<ue> sea q<u><<i>>-
 to dela fiadura. sos h<er>e-
@@ -7764,7 +7764,7 @@ peyndro.
 {IN2.} (^S)[^E]i q<u><<i>> touier pe<n>nos do-
 tro a plazo si el due<n>-no}
 [fol. 83v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 delos pe<n>nos q<u><<i>>siere
 pagar el (^p)[^d]ebdo al plazo
@@ -7856,7 +7856,7 @@ tro por mas. ni<n> en ot<r><<a>>
 guisa si no<n> cuemo la
 el touiere. et qui co<n>-tra}
 [fol. 84v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 esto fiziere peche
 lo q<ue> empe<n>nare a ssu
@@ -7947,7 +7947,7 @@ tiestegela por manda-
 do del alcalde o del me-
 rino. & desi uayan antel}
 [fol. 85v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 alcalde q<u><<a>>ndo ma<n>dare
 el alcalde o al plazo q<ue>
@@ -8039,7 +8039,7 @@ po son sea<n> entregados
 comunal mient cada
 uno segu<n>d q<ue> es el deb-do.}
 [fol. 86v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 et si la buena del
 qui deue no<n> cumpliere
@@ -8131,7 +8131,7 @@ q<u><<i>>siere pagar p<ar>te del
 debdo salua toda la pe-
 na; el reçebidor sea te-nido}
 [fol. 87v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 de reçebir la & pu-
 eda enesta razo<n> dema<n>-
@@ -8223,7 +8223,7 @@ do & mugier fizie-
 re<n> en uno. pague<n>lo
 otro si en uno. et si}
 [fol. 88v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 ante q<ue> fuesse<n> ayunta-
 dos por casamiento al-
@@ -8315,7 +8315,7 @@ to libro.}
 la fe catholica.
 [T]itulo delos iudios. [^2#l.vij.]}
 [fol. 89v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 [^ij] Titulo delos denues-
 (^??)tos [^2#.l.i.] & delas desonr-
@@ -8405,7 +8405,7 @@ lo faga sab<er> al obispo
 dela tierra o alos q<ue>
 ouiere<n> sus uozes. &}
 [fol. 90v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 alas iusticias delos
 logares. et todos sean
@@ -8497,7 +8497,7 @@ por q<u><<a>>tro por todo el
 a<n>no & si mas caro lo:
 diere. no<n> uala. et si de}
 [fol. 91v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 mas tomare tornelo do-
 blado a aq<ue>l de qui lo to-
@@ -8589,7 +8589,7 @@ si negare q<ue> lo no<n> dixo
 ar. salue se como ma<n>-
 da la ley. et si saluar}
 [fol. 92v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 non se quisiere faga
 la emienda. & peche la
@@ -8685,7 +8685,7 @@ dades. peche .x. m<o>r<abedis>. a
 aq<ue>l a qui fizo el tuerto.
 & tome los moiones}
 [fol. 93v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 et tornelos en su lugar
 & q<u><<a>>nto entrare delo a-
@@ -8777,7 +8777,7 @@ das de faz<er> su manda-
 do por razo<n> de se<n>norio.
 pora matar a otro; o po-ra}
 [fol. 94v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 derribar casa o p<or>a fa-
 zer otro da<n>no qual q<u><<i>>-
@@ -8869,7 +8869,7 @@ bredicha.
 {IN2.} Si p<or>a fazer alguna
 roba alguno aiu<n>ta-re}
 [fol. 95v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 otros q<ue> no<n> sean de
 so se<n>norio. & fiziere(n) co<n>
@@ -8961,7 +8961,7 @@ fiziesse. et si p<or> aue<n>tu-
 ra buey o can o otra:
 bestia q<u><<a>>l q<u><<i>>er q<ue> desu:}
 [fol. 96v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 natura deue ser man-
 sa fiziere da<n>no en om<n>e
@@ -9053,7 +9053,7 @@ por culpa q<ue> faga
 fuere iudgada a mu-
 erte. o a pena de su cu-erpo}
 [fol. 97v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 & fuere p<re>nada no<n>
 sea iusticiada ni<n> aya n-
@@ -9146,7 +9146,7 @@ p<r><<i>>sion. peche. xij. m<o>r<abedis>.
 ros o en otra p<r><<i>>son. pe-
 che .ccc. sueldos. et}
 [fol. 98v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 destas calo<n>nas aya la
 meetat el rey. & la me-
@@ -9238,7 +9238,7 @@ ta la pena. ¶ e si fuere
 la demanda de din<er>os.
 puede creçer la pena}
 [fol. 99v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 dos a tanto no<n> conta<n>-
 do y la demanda delos
@@ -9330,7 +9330,7 @@ donadio de rey assi co-
 mo las deue au<er> el rey.
 {RUB. delos q<ue> ençerrare<n> las ca-rreras ⇒}}
 [fol. 100v]
-{HD. L<ibro> T<itul><<o>> vi +}
+{HD. L<ibro> T<itul><<o>> vi ⇒}
 {CB2.
 {RUB. & los exidos.}
 {IN2.} (s)Si alguno encerrare
@@ -9422,7 +9422,7 @@ con su missio<n>. & por la
 osadia peche al rey .xx.
 morabedis. {RUB. d<e>lo<<s>> ad<u>lt<er>ios}}
 [fol. 101v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 {IN2.} Si mugier casada fiz-
 iere adult<er>io amos
@@ -9514,7 +9514,7 @@ xar al otro.
 {IN2.} (s)Si algu<n>a mug<ier> q<ue> n<on> sea
 casada ni<n> desposada fuer}
 [fol. 102v]
-{HD. (^???) L<ibro> T<itul><<o>> +}
+{HD. (^???) L<ibro> T<itul><<o>> ⇒}
 {CB2.
 d<e> su uolu<n>tat a casa d<e> al-
 gu<n> o<mn>e a faz<er> fornit<i>o. aq<ue>l
@@ -9608,7 +9608,7 @@ padre o su h<er>mano a:
 yazido. o si el padre yo-
 guiere co<n> la mugier}
 [fol. 103v]
-{HD. T<itul><<o>> ix L<ibro> +}
+{HD. T<itul><<o>> ix L<ibro> ⇒}
 {CB2.
 del fijo o con su barra-
 gana. el rey pues q<ue> lo
@@ -9700,7 +9700,7 @@ q<ue> p<r><<i>>so la fuerça
 {IN2.} Quando muchos se
 aiu[<n>]tare<n> & leua[^2#ren] al-guna}
 [fol. 104v]
-{HD. [^2#oj] L<ibro> T<itul><<o>> +}
+{HD. [^2#oj] L<ibro> T<itul><<o>> ⇒}
 {CB2.
 mugier por fu-
 erça. si todos yoguiere<n>
@@ -9792,7 +9792,7 @@ sintiere<n> o co<n>seiaren
 robo de su fija q<ue> fue-
 re desposada. pechen}
 [fol. 105v]
-{HD. T<itul><<o>> L<ibro> x +}
+{HD. T<itul><<o>> L<ibro> x ⇒}
 {CB2.
 al esposo q<u><<a>>tro tanto
 daq<ue>llo q<ue>l ouiere<n> a dar
@@ -9884,7 +9884,7 @@ sabie q<ue> era sieruo.
 su se<n>nor tome el si-
 eruo q<u><<a>>ndo q<u><<i>>er q<ue> ue<n>-ga.}
 [fol. 106v]
-{HD. T<itul><<o>> L<ibro> xi +}
+{HD. T<itul><<o>> L<ibro> xi ⇒}
 {CB2.
 & la meetat de q<u><<a>>n-
 to q<ue> ganare conella.
@@ -9977,7 +9977,7 @@ el rey ¶ et si fiziere fa-
 lsa moneda sea desor-
 denado. & el rey faga}
 [fol. 107v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 del depues lo q<ue> q<u><<i>>siere.
 ¶ essa misma pena ma<n>-
@@ -10069,7 +10069,7 @@ q<ue> y fuero<n> o lo consi<n>ti-
 eron fazer.
 {IN1.} Qui q<u><<i>>er q<ue> carta de}
 [fol. 108v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 (de) rey falsare muda<n>-
 do lo q<ue> es en ella esc<r><<i>>p-
@@ -10161,7 +10161,7 @@ furtos & delas cosas en-cubier-tas. +}
 {IN2.} Mandamos {RUB. +}
 q<ue> aq<ue>llos {RUB.}}
 [fol. 109v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 q<ue> fuere<n> conseieros en
 algu<n> furto. o lo tom-
@@ -10254,7 +10254,7 @@ dado del rey ¶ et ni<n>-
 gun alcalde no<n> aya
 enel sieruo ni<n>gun:}
 [fol. 110v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 poder si el se<n>nor no<n> q<u><<i>>-
 siere.
@@ -10346,7 +10346,7 @@ ganado ageno por q<ue>
 es conosçido. et si al-
 guno lo fiziere & el}
 [fol. 111v]
-{HD. T<itul><<o>> L<ibro> xiij +}
+{HD. T<itul><<o>> L<ibro> xiij ⇒}
 {CB2.
 pusiere su se<n>nal por
 fazer lo suyo pechelo
@@ -10438,7 +10438,7 @@ o a dar o a camiar.
 pora met<er> lo en pod<er>
 de sus enemigos;}
 [fol. 112v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 o q<ue> fuere en conseio
 de cada una destas co-
@@ -10530,7 +10530,7 @@ gu<n>a cosa q<ue> furtase d<e> la<<s>> a
 so due<n>n<<o>> assi como ma<n>-
 da la ley.}
 [fol. 113v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 {IN2.} Quando alguno om<n>e
 fallare sieruo agen<<o>>
@@ -10624,7 +10624,7 @@ uando mugier for-
 c[']ada pora yazer co<n>
 ella. o q<ue> aya yazido}
 [fol. 114v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 conella. & si matare
 ladron q<ue>l fallare de:
@@ -10716,7 +10716,7 @@ q<ue> cayere. no<n> aya pena
 ni<n> da<n>no ni<n>guno mas
 aq<ue>l q<ue> lo empuso si lo}
 [fol. 115v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 fizo por sa<n>na o por ma-
 la uolu<n>tat. peche el o-
@@ -10808,7 +10808,7 @@ re. ca no<n> se pueda es-
 cusar de culpa por q<ue>
 fizo ferida q<u><<a>>l no<n> deuie}
 [fol. 116v]
-{HD. L<ibro> T<itul><<o>> xvij +}
+{HD. L<ibro> T<itul><<o>> xvij ⇒}
 {CB2.
 {IN2.} (q)Quie<n> arbol taiare o
 paret derribare. o
@@ -10900,7 +10900,7 @@ ros del muerto & torn-
 elas en su lugar. si fu-
 ere<n> sanas. & si non}
 [fol. 117v]
-{HD. T<itul><<o>> xvij L<ibro> +}
+{HD. T<itul><<o>> xvij L<ibro> ⇒}
 {CB2.
 otras ta<n> buenas
 {IN2.} Defendemos firme
@@ -10993,7 +10993,7 @@ ere<n> se tornare<n> ante
 del plazo sin ma<n>da-
 do. pierda la tierra}
 [fol. 118v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 & los m<o>r<abedis>. & torne q<u><<a>>n-
 to del se<n>nor leuo por
@@ -11087,7 +11087,7 @@ om<n>e sin edat cumpli-
 da. ni<n> alcalde. ni<n> m<er>i[^2#no]
 ni<n> otro ni<n>gu<n>o q<ue> te<n>ga}
 [fol. 119v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 officio de iusticia.
 mientre q<ue> el oficio
@@ -11179,7 +11179,7 @@ edan se dema<n>dar p<or>
 accusationes. ¶ et
 si fuere pleyto de deb-da}
 [fol. 120v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 qual q<u><<i>>er. o de ue<n>-
 dida. o de compra o
@@ -11748,7 +11748,7 @@ q<ue> sea ma<n>ifesto. el alcalde
 de su officio del aq<ue>lla pe-
 na q<ue> m<er>eçe a aq<ue>l q<ue> lo fizo.}
 [fol. 127v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 Maguer q<ue> otra accusan-
 ça ni<n> otra prueua no<n> aya
@@ -11840,7 +11840,7 @@ om<n>es se<n>nalada mie<n>te.
 o sobre fechos se<n>nalados
 q<u><<i>>er la faga de su officio}
 [fol. 128v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 q<u><<i>>er a q<ue>rella dot<r><<i>> aq<ue>l o a-
 q<ue>llos co<n>t<r><<a>> qui fuere el fe-
@@ -11933,7 +11933,7 @@ q<ue> fue dado {RUB. d<e>los r[^2#i]ebtos}
 {IN2.} Antigua mientre los fi-
 ios dalgo co<n> consenti-miento}
 [fol. 129v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 delos reyes pu-
 siero<n> entresi amiztat. &
@@ -12025,7 +12025,7 @@ de dar fidalgo por ale-
 uoso. ni<n> de quitar le
 de riepto. si no<n> fuere}
 [fol. 130v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 p<ro>uado aq<ue>llo de q<ue> fue rep-
 tado. et maguer le se-
@@ -12119,7 +12119,7 @@ po por q<ue> entienda<n> (^b) & se-
 pa<n> bie<n> su campo de q<ue> no<n>
 an de sallir si no<n> q<u><<a>>ndo:}
 [fol. 131v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 les ma[<n>]dare & cuemo los
 ma<n>dare sallir el rey. o los
@@ -12216,7 +12216,7 @@ a h<er>mana o a parie<n>t o
 a parienta por q<ue> deua
 a calo<n>nar. et q<u><<i>> por otro}
 [fol. 132v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 reptare aya la pena de
 la ley. & el reptado sea q<u><<i>>-
@@ -12308,7 +12308,7 @@ finq<ue> q<u><<i>>to ni<n> muerto ni<n>
 biuo.
 {IN1.} Mandamos q<ue> pues q<ue>}
 [fol. 133v]
-{HD. III T<itul><<o>> +}
+{HD. III T<itul><<o>> ⇒}
 {CB2.
 algu<n>o reptare a otro q<ue>
 este<n> en tregua por si &
@@ -12400,7 +12400,7 @@ el rey. & no<n> muerra p<or>
 razo<n> del alef. si el fe-
 cho q<ue> fizo no<n> fue tal}
 [fol. 134v]
-{HD. L<ibro> T<itul><<o>> xx +}
+{HD. L<ibro> T<itul><<o>> xx ⇒}
 {CB2.
 por q<ue> deua morir q<u><<i>>en
 {IN2.} Si en el p<r><<i>>-mer %2 q<u><<i>>er q<ue> lo faga.
@@ -12495,7 +12495,7 @@ guno recibiere por fijo re-
 cibal tal q<ue> por edat le pu-
 diesse au<er> por fijo & q<u><<i>> por}
 [fol. 135v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 [o]tra guisa lo reçibiere. tal
 recebimiento non uala.
@@ -12587,7 +12587,7 @@ pieço daq<ue>l fijo q<ue> assi
 reçibio. & el fijo q<ue> asi
 fue reçebido aya ondra}
 [fol. 136v]
-{HD. T<itul><<o>> xxiij L<ibro> T<itul><<o>> +}
+{HD. T<itul><<o>> xxiij L<ibro> T<itul><<o>> ⇒}
 {CB2.
 de fidalgo si el padre fu-
 ere fidalgo. et esto se en-
@@ -12681,7 +12681,7 @@ bie<n> enlas albergarias
 como fueras dellas pue-
 da<n> comprar las cosas q<ue>}
 [fol. 137v]
-{HD. L<ibro> T<itul><<o>> +}
+{HD. L<ibro> T<itul><<o>> ⇒}
 {CB2.
 ouiere<n> menest<er> & ni<n>gu<n>o
 no<n> sea osado de les mu-

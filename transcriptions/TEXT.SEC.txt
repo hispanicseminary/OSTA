@@ -229,10 +229,10 @@ ad aristotiles.
 {IN1.} (D) qual traslato el libro
 {IN1.} D[e]la epistola enuiada.
 {IN1.} (D) [ad] aristo[ti]les
-{IN1.} Delos Reyes et delas ma-neras
-{IN1.} (D) dellos
-{IN1.} Dela auaricia et dela lar-gueza.
-{IN1.} (D)
+{IN1.} Delos Reyes et delas ma-
+neras {IN1.} (D) dellos
+{IN1.} Dela auaricia et dela lar-
+gueza. {IN1.} (D)
 {IN1.} Dela largueza [^et] dela aua-ricia}
 {CB2.
 et delas otras vir-

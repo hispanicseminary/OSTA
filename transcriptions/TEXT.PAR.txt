@@ -465,7 +465,7 @@ merame<n>te cahe la ca-
 beça inclinada entre los muslos,}
 {CW. co<n>uiene}
 [fol. 9v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 co<n>uiene a saber, puestas las ma-
 nos entre los muslos y cabeça, de
@@ -530,7 +530,7 @@ pocrates. {LAT. Et sanguis a matre descen-
 dens in incrementum cedit et si vti-lis}}
 {CW. lis}
 [fol. 10v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. non sit, in sinis pellicularum secer-
 nitur & vbi sinuatae fuerint & san-
@@ -584,7 +584,7 @@ La tercera y vltima tunica, lla-
 man los Griegos Amnion, y Aui-cena,}
 {CW. cena}
 [fol. 11v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Abgas, y las parteras Man-
 tillo. {AD. [^Auice-
@@ -687,7 +687,7 @@ toria a-
 nima-lium.}]}}
 {CW. en el}
 [fol. 13v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 en el octauo mes segun lo han af-
 firmado algunas personas curio-
@@ -736,7 +736,7 @@ dia menses.} {AD. [^Virgi<lio>
 colicis.}]}}
 {CW. Final}
 [fol. 14v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Finalmente puede ser natural ha-
 sta el decimo, en las robustas y sa<n>
@@ -779,7 +779,7 @@ la criatura se ha desta manera en
 la matriz, antes que se acerque el}
 {CW. tiem}
 [fol. 15v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tiempo del parir. Conuiene sa-
 ber, ella esta assentada, buelto el
@@ -825,7 +825,7 @@ que en la salida no se detenga la
 criatura demasiado, sino que lue-go}
 {CW. go}
 [fol. 16v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 con facilidad, y casi de vn im-
 petu salga.
@@ -888,7 +888,7 @@ grippae,} {AD. [^Solin<o>
 cap<itulo> .4.]} aunque como truximos de}
 {CW. Aui}
 [fol. 17v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Auicena, entre los partos no na-
 turales el de menos peligro es el
@@ -938,7 +938,7 @@ por los pies, porque de otra ma-
 nera no se podria saluar repugna<n>-cia}
 {CW. cia}
 [fol. 18v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 no solo contra si, mas con-
 tra todos los demas. Empero aun-
@@ -985,7 +985,7 @@ dad se ha de disminuir y adelga-
 zar, porque no tiene lugar para}
 {CW. poder}
 [fol. 19v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 poder crecer: por ende se sigue q<ue>
 sera su parto difficil, y quando la
@@ -1038,7 +1038,7 @@ trac<tado> .2.
 cap<itulo> .21.]} por las qua-les}
 {CW. les}
 [fol. 20v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 causas la muger no puede pa-
 rir facilme<n>te, y ansi la matriz
@@ -1088,7 +1088,7 @@ ze el parto difficil, por ser la cria-
 tura tan pequeña y delicada que}
 {CW. no}
 [fol. 21v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 no mueua ni despierte la virtud
 expultriz, para que la arroje fue-
@@ -1143,7 +1143,7 @@ da vno tiene sus pares o segundi-
 na, como cada hiema de hueuo}
 {CW. tiene}
 [fol. 22v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tiene su cascara y pellejuela. Y si
 alguna vez se hallare<n> dos en vnas
@@ -1190,7 +1190,7 @@ puede acaecer, quando la criatu-
 ra en la matriz esta vestida de hu-mores}
 {CW. mores}
 [fol. 23v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 pituitosos y correntios,
 pues como dize Hippocrates. {LAT. Pue-
@@ -1241,7 +1241,7 @@ da malpare, lo qual acaece mu-
 chas vezes en el quarto o quinto}
 {CW. mes}
 [fol. 24v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 mes del preñado, porque en estos
 meses esta la criatura mas fuerte-
@@ -1296,7 +1296,7 @@ uara, q<ue> el preñado no puede pas-
 sar de diez meses, porque dize, q<ue>}
 {CW. el}
 [fol. 25v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 el alimento y augmento q<ue> le vie-
 ne de la madre a la criatura no es
@@ -1346,7 +1346,7 @@ criatura en su tiempo, o como di-
 ze Hippocrates, si al principio sal-to,}
 {CW. to,}
 [fol. 26v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 o truxo gran peso, o comio po-
 co, o se desmayo, o temio mucho
@@ -1398,7 +1398,7 @@ tum siccum & laboriosum.} Tam-
 bien por mucho frio, o por mu-cho}
 {CW. cho}
 [fol. 27v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 calor: {AD. [^Auice-
 na ibi-
@@ -1449,7 +1449,7 @@ los olores atrae<n> la matriz arriba,
 y mientras mas los vsare mayor}
 {CW. atra}
 [fol. 28v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 atraction se hara, y pore<n>de	el par-
 to mas se detendra. {AD. [^Auice<na>
@@ -1502,7 +1502,7 @@ fen .21.
 trac<tado> .2.]} y luego los humores lubri-cos}
 {CW. cos}
 [fol. 29v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 que facilitan el acto, y que la
 preñada sea rezia y varonil, y q<ue>
@@ -1553,7 +1553,7 @@ uen ser socorridos y preuenidos
 co<n> los remedios mas leues y mas
 seguros que pueda<n> hallarse, empe-ro}
 [fol. 30v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 si interuiniere algun peligro, o
 de parte de la matriz, o de parte
@@ -1604,7 +1604,7 @@ do mañana y tarde vnos higos pa-
 sados. Deue guardarse en el inte-rin}
 {CW. rin}
 [fol. 31v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de cosas que estriñen y aprie-
 tan, como son cosas tostadas y fri-
@@ -1653,7 +1653,7 @@ vsar de cosas calie<n>tes y humidas,
 para que humedezcan y ablande<n>}
 {CW. la}
 [fol. 32v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 la matriz, ansi tomandolas por la
 boca como vntando por defuera
@@ -1705,7 +1705,7 @@ assadas, ni fritas, sino cozidas, an-
 si lo quiso Hippocrates. {LAT. Mercuria-lem}}
 {CW. lem}
 [fol. 33v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. edat & allium crudum & coctu<m>
 & polipos & mollia} {AD. {LAT. [^lib<er> de
@@ -1758,7 +1758,7 @@ Empero a la mesma preñada per-
 tenece vntarse la matriz por de}
 {CW. fuera}
 [fol. 34v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 fuera y por de dentro co<n> aquellos
 pringues y vnciones: para lo qual
@@ -1806,7 +1806,7 @@ siado q<ue> se canse y debilite de suer-
 te que no pueda ayudarse el par-to}
 {CW. to,}
 [fol. 35v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 porque el exercicio modera-
 do desta manera, ayuda mucho
@@ -1858,7 +1858,7 @@ cienda, y remouerla ha, empero
 quando la preñada siente ya la}
 {CW. matriz}
 [fol. 36v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 matriz relaxarsele y abrirse, y q<ue>
 la fuente que dizen sale mas co-
@@ -1902,7 +1902,7 @@ to, con paños y ropas blandas, o
 colchas de algodon o lana, y en-tonces}
 {CW. ton}
 [fol. 37v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 la partera deue menear el
 asiento a vna y a otra parte, digo
@@ -1955,7 +1955,7 @@ piernas encoruadas arriba, porq<ue>
 desta manera le sera forçado a la}
 {CW. matriz}
 [fol. 38v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 lançar fuera la criatura, y
 luego vntar la matriz por de den-
@@ -2001,7 +2001,7 @@ en algu<n> caso acesciere que las pa-
 res, que son, como dixe, la tunica}
 {CW. secun}
 [fol. 39v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 secundina, fueren rompidas de la
 partera antes que el tiempo y la
@@ -2050,7 +2050,7 @@ gemellos. Todas estas reglas se de-
 uen entender del parto natural,}
 {CW. co<n>uie}
 [fol. 40v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 couinene a saber quando sale pri-
 mero la cabeça: y ansi successiua-
@@ -2083,7 +2083,7 @@ la criatura por los pies d<e> tal suer-
 te los remouiesse adentro q<ue> los}
 {CW. hiziesse}
 [fol. 41v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 hiziesse subir al ombligo de la
 madre declina<n>do la cabeça al es-
@@ -2125,7 +2125,7 @@ se rete<n>ga adentro doblegado co-
 mo paresce por esta figura.}
 {CW. Lo}
 [fol. 42v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {ILL.}
 Lo qual quando acaesciere sera
@@ -2165,7 +2165,7 @@ las manos los pies. Y qua<n>do algu-
 na vez acaesciere q<ue> la criatura}
 {CW. cay}
 [fol. 43v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 cayga de lado, conuiene q<ue> la par-
 tera co<n> toda solicitud y cuyda-
@@ -2199,7 +2199,7 @@ remouer la criatura poco a poco
 hasta q<ue> ve<n>ga de pies, e ansi conti-nuame<n>te}
 {CW. nua}
 [fol. 44v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {ILL.}
 proceder contra los de-
@@ -2238,7 +2238,7 @@ applicar al lado: y desta manera
 endereçar la cabeça a la salida, pe-ro}
 {CW. ro}
 [fol. 45v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 si despues de metida la mano
 de la criatura ade<n>tro no se pudie-
@@ -2281,7 +2281,7 @@ hasta que salga de pies, y salie<n>do
 desta suerte rescebirla.}
 {CW. Mas}
 [fol. 46v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB2.
 {ILL.}}
 {CB2. Empero si ma-
@@ -2328,7 +2328,7 @@ desta manera buelua la criatura,
 empero si pudiere meter toda la}
 {CW. mano}
 [fol. 47v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 mano, hagalo. Porq<ue> en tal caso d<e>
 tal manera se gouernara y regira
@@ -2383,7 +2383,7 @@ apparesca<n> por las cabeças, co<n>uie-
 ne q<ue> la partera saque al vno y des-pues}
 {CW. pues}
 [fol. 48v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 pues al otro, pero de tal suerte q<ue>
 no dexe de la mano al postrero, y
@@ -2427,7 +2427,7 @@ ro de todo, como lo quiso Hip-
 pocrates quando dixo.
 {ILL.}}
 [fol. 49v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {AD. [^Libro
 {LAT. de na-
@@ -2475,7 +2475,7 @@ peligro, son estas. Primeramen-
 te conuiene que la preñada se as-siente}
 {CW. siente}
 [fol. 50v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 recostada, o que se eche bo-
 ca arriba sobre las espaldas, co-
@@ -2540,7 +2540,7 @@ anima-
 lium.}]} Tome-se}
 {CW. se}
 [fol. 51v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 myrra, galbano, castorio, y ha-
 gase todo poluo, y mezclese con
@@ -2589,7 +2589,7 @@ atraera la criatura biua o muer-
 ta. Item se tome de la Assafetida}
 {CW. qua<n>}
 [fol. 52v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 quantidad de vn garuanço, o de
 vna haua, como dixo Hippocra<tes> {AD. {LAT. [^lib<er> de
@@ -2637,7 +2637,7 @@ se de todas estas cosas molidas
 pildoras, de las quales daran dos}
 {CW. drac}
 [fol. 53v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 dracmas a la preñada, co<n> dos on-
 ças de vino añejo puro. Tienen
@@ -2683,7 +2683,7 @@ de todas qua<n>tas superfluydades
 en ella se detienen, agora sea<n> co-sas}
 {CW. sas}
 [fol. 54v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 biuas, aora sean cosas muer-
 tas. Item, tomense yguales par-
@@ -2732,7 +2732,7 @@ ibide<m>]} Tomese la myrra, el ca-
 storio, el estoraque, de cada cosa}
 {CW. vna}
 [fol. 55v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 vna dracma amassense co<n> miel,
 y haganse pildoras, de las quales
@@ -2780,7 +2780,7 @@ suma todo lo suso dicho aproue-
 chara mas que quanto se puede aplicar.}
 {CW. Cap<itulo>}
 [fol. 56v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {RUB. Cap<itulo> Sexto. Como se ayan de expeler
 las pares, que se llaman en latin {LAT. Secu<n>-
@@ -2832,7 +2832,7 @@ enfermeda en la parida, muy mayor-
 mente ahogamie<n>to, que se dize,}
 {CW. stran}
 [fol. 57v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. strangulatio vteri.} La razon es,
 porque las pares ansi detenidas
@@ -2880,7 +2880,7 @@ nas, faysanes, perdizes, capones,
 tortolas, y otras carnes semejan-tes}
 {CW. tes}
 [fol. 58v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 empero si se detuuieren por
 la estrechura y encogimiento
@@ -2926,7 +2926,7 @@ res se detienen por sequedad, y
 de tal suerte esten ligadas y ape-gadas}
 {CW. gadas}
 [fol. 59v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 para dar qualquiera cosas destas a
 la parida, deue primero remojar-
@@ -2979,7 +2979,7 @@ tura de la parida: empero deue la
 parida estar assentada, y tan cu-bierta}
 {CW. bierta}
 [fol. 60v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de vestiduras y de ropa, q<ue>
 por ninguna parte pued(r)[a] salir el
@@ -3025,7 +3025,7 @@ Empero si todavia con este sahu-
 merio}
 {CW. merio}
 [fol. 61v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 se esten rebeldes las pares
 deuse poner vn emplasto entre
@@ -3071,7 +3071,7 @@ lida}
 vezes sobreuinen a las pre-ñadas}
 {CW. ñadas}
 [fol. 62v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 despues del parto fie-
 bre hinchazon, ventosidad de
@@ -3116,7 +3116,7 @@ sas que mueuan e inciten purga-cion}
 [???]
 [???]}
 [fol. 63v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 potiones medicinales, aora lauato-
 rios d<e> pies, aora sahumerios e o-
@@ -3169,7 +3169,7 @@ cosas de essa misma manera in-
 citan la sangre mestrual, aunque}
 {CW. ningu}
 [fol. 64v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 ninguna de las tales cosas se de-
 uen applicar sin consejo de do-
@@ -3214,7 +3214,7 @@ bie<n> vsar caldo de gallinas, y chu-
 par el çumo de granadas dul-ces}
 {CW. ces}
 [fol. 65v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 porque mueue la purgacion
 y tiempla la calentura. Mouera
@@ -3271,7 +3271,7 @@ se vuiere hinchado despues del
 parto deue beuer agua de cozi-miento}
 {CW. miento}
 [fol. 66v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de cominos, e garua<n>ços.
 o los poluos de estas dos cosas be-
@@ -3321,7 +3321,7 @@ tambien mucho vntar la natura
 con azeyte de alegria, que se di-ze}
 {CW. ze}
 [fol. 67v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 latinamente Sefaminu, y de
 almendras dulces. Empero si la
@@ -3367,7 +3367,7 @@ tamente co<n> esto hahumese la bo-
 ca de la matriz con estoraque y}
 {CW. encien}
 [fol. 68v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 encienso blanco, finalme<n>te qui-
 ta los tuertos el poluo del rega-
@@ -3420,7 +3420,7 @@ mulie-
 rib<us>}]} Empero si como el dize en otra}
 {CW. parte}
 [fol. 69v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 parte, la matriz doliere y vuie-
 re poco calor, y el vientre por d<e>
@@ -3470,7 +3470,7 @@ con tanta vehemencia que cau-se {AD. [^lib<ro> {LAT. de
 super-
 foetatione.}]}}
 [fol. 70v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 grandes dolores y enfermeda-
 des intolerables, primeramente
@@ -3516,7 +3516,7 @@ de la parida es maciço, y espesso en ta<n>-
 ta manera que los poros este<n> tan}
 {CW. apre}
 [fol. 71v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 apretados e atapados que no pue-
 dan por ellos salir sudores ni hu-
@@ -3562,7 +3562,7 @@ cia, braços y piernas, e fixar d<e>ba-
 xo las tetas en medio de ambas}
 {CW. vna}
 [fol. 72v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 vna gran ventosa sin jasa, como
 lo amonesto Hipp<ocrates> en los apho-
@@ -3613,7 +3613,7 @@ dra de restañar sangre, de la san-
 gre de drago quatro dracmas, d<e>l}
 {CW. ambar}
 [fol. 73v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 ambar de los capullos de las ve-
 llotas, de la nuez de acipres, de
@@ -3659,7 +3659,7 @@ mer, de las rayzes de la tormenti-
 lla, q<ue> en romance se dize siete en}
 {CW. rama}
 [fol. 74v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 rama, y en griego Pentaphilon,
 de los capullos de las vellotas, de
@@ -3705,7 +3705,7 @@ gua de llanten, y otros muchos
 remedios locales y patrones ad-stringentes}
 {CW. stringen}
 [fol. 75v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 que ay escriptos y ex-
 perimentados para el desmode-
@@ -3760,7 +3760,7 @@ viento, deue derretir manteca {AD. [^Lib<ro> .1.
 mulie-[bri](rib)}]}}
 {CW. de}
 [fol. 76v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 d<e> vacas en vino, y teñir vna lana
 en ello co<n> la qual se deue embol-
@@ -3811,7 +3811,7 @@ mas partanse lo mas menudo q<ue>
 ser pueda y cueganse en agua llu-uia,}
 {CW. uia}
 [fol. 77v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 o en agua enazerada, en la
 qual se meta la parida hasta el
@@ -3861,7 +3861,7 @@ concluyo Hippo<crates> diziendo. {LAT. Si ve-
 ro uteri freqnenter pro labantur ute-ros}}
 {CW. ros}
 [fol. 78v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. aqua tepida madefacies. &<caetera>} Di-
 ze ansi. Empero si las matrizes se
@@ -3913,7 +3913,7 @@ dieta por siete dias, y beua muy
 poquito: y si de esta manera no}
 {CW. torna}
 [fol. 79v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tornare a entrar la matriz, raspe<n>-
 la con algun lienço crudo, y ca-
@@ -3962,7 +3962,7 @@ cha vntada en este vngue<n>to. To-
 mese vna clara de hueuo, y eche<n>}
 {CW. en}
 [fol. 80v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 en ella tanto poluo de encienso
 blanco que en su espessura pares-
@@ -4008,7 +4008,7 @@ llaga o vlcera, o por lo<n>gitud, em-
 pero por latitud te<n>ga dos dedos}
 {CW. en}
 [fol. 81v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 en ancho, vntense estas dos ven-
 das con algun vngue<n>to glutino-
@@ -4053,7 +4053,7 @@ porque se expelle antes que ten-
 ga vida, que es qua<n>do se dize Em<brion>,}
 {CW. brion}
 [fol. 82v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 o despues que empieça a
 biuir, empero aun no se mueue
@@ -4109,7 +4109,7 @@ te los quales la cria esta ligada a
 la matriz, y por ellos rescibe [n]v(n)-trimento,}
 {CW. trimen}
 [fol. 83v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 esten tan atapados y
 oppilados de humores gruessos,
@@ -4161,7 +4161,7 @@ como dize el Auicena, las preña-
 das que son de tal disposicion {AD. [^ibidem]} to-do}
 {CW. do}
 [fol. 84v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 el alimento que rescibe<n> se va
 en substantia y nutrimento del
@@ -4216,7 +4216,7 @@ mayor, ansi lo affirmo H<i>ppocra-
 tes en los apho<rismos>. {LAT. Si mulier est graui-da} {AD. [^Lib<ro> .5.
 aphor<ismo> .31.]}}
 [fol. 85v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. sanguine misso, abortiet saltem si
 foetus est maior.} De esta autoridad
@@ -4263,7 +4263,7 @@ da se enflaquesce, y por ende co-
 mo a la criatura le falte su alime<n>-
 to, de necessidad se ha de salir an-tes}
 [fol. 86v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de tie<m>po como lo dixo Hipp<ocrates>.
 {LAT. Si vero puer violentam affectionem
@@ -4323,7 +4323,7 @@ tatio-
 ne.}]} Lo
 qual suele acaescer por estar de-licadas}
 [fol. 87v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y enfermas, por lo qual
 no pudiendo suportar el peso de
@@ -4384,7 +4384,7 @@ pueden dañar, primeramente {AD. [^Auice<na>
 ibidem]}}
 {CW. porq<ue>}
 [fol. 88v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 porque con su mucho calor en-
 encie<n>de<n> el anhelito, lo segundo da-
@@ -4442,7 +4442,7 @@ tes, y que moriran muy presto {AD. [^Lib<ro> .3.
 aphor<ismo> .12.]}}
 {CW. y sino}
 [fol. 89v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y sino murieren a lo menos esta-
 ran como conualescientes y fla-
@@ -4498,7 +4498,7 @@ faeta-
 tione.}]}}
 {CW. tes}
 [fol. 90v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 o d<e> rempuxones. Item si son
 tentadas de alguna repentina
@@ -4557,7 +4557,7 @@ bri<bus>]}} Empero si la pre-
 ñada tuuiere en la matriz dos}
 {CW. crias}
 [fol. 91v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 crias que se dizen gemellos, y la
 vna vbre se marchitare y afloxa-
@@ -4613,7 +4613,7 @@ lium.}
 cap<itulo> .1.]}}
 {CW. vitalis}
 [fol. 92v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. vitalis procreetur} O quando aca-
 esciere hincharse la preñada co<n>
@@ -4662,7 +4662,7 @@ uertir con cuydado si la boca o
 orificio interior d<e> la matriz esta}
 {CW. humedo}
 [fol. 93v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 humedo y correntio, y demasia-
 damente ancho y espacioso, por
@@ -4726,7 +4726,7 @@ to y docto medico, porq<ue> como
 los tales humores y fluxiones sea<n>}
 {CW. de}
 [fol. 94v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 diuersas y differentes maneras,
 y las compliciones no sea<n> todas
@@ -4776,7 +4776,7 @@ conuenibles a la tal aguda enfer-
 medad: empero si se temiere el}
 {CW. tal}
 [fol. 95v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tal peligro por ha<m>bre deuese cu-
 rar con moderada comida y be-
@@ -4822,7 +4822,7 @@ mueua con violencia ni sea per-
 turbada con desmoderados mo-uimientos}
 {CW. uimien}
 [fol. 96v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 conuiene a saber, sal-
 tando, baylando, esta<n>do mucho
@@ -4870,7 +4870,7 @@ mulie-
 bribus.}]}}
 {CW. slabitur}
 [fol. 97v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. in vtero puer eo quo mulier se
 uertit velut lapis, aut aliud quiddam.}
@@ -4928,7 +4928,7 @@ albicat, & vrina &<caetera>} Fuera desto
 si los ojos y nariz se enfrian y tor-na<n>}
 {CW. nan}
 [fol. 98v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 hiertos, y los labios tira<n> a car-
 denos e liuidos, ansi lo alega-
@@ -4983,7 +4983,7 @@ sobre el ombligo no se mueue la
 criatura. Destos indicios qua<n>tos}
 {CW. mas}
 [fol. 99v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 mas d<e>llos se ju<n>tare<n>, ta<n>to mas nos
 certificaran de la criat(t)[u]ra muer-
@@ -5029,7 +5029,7 @@ rende su cura se deue encomen-
 dar a Dios. Empero si en la q<ue> esta}
 {CW. de}
 [fol. 100v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de parto muerto no aparesciere<n>
 tales indicios, puedese tener bue-
@@ -5083,7 +5083,7 @@ camaca, el alcreuite biuo por y-
 guales partes, y con hiel de vaca}
 {CW. se}
 [fol. 101v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 se forje<n> pildoras co<n> las q<u><<a>>les se co<n>-
 ficione<n> sahumerios como arriba,
@@ -5129,7 +5129,7 @@ ta, o sino tome la aristologia re-
 donda, la sabina, el mastuerço}
 {CW. por}
 [fol. 102v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 por yguales partes, muelase to-
 do, y mesclese con hiel de vaca,
@@ -5178,7 +5178,7 @@ te de piedra, media onça de la ru-
 bia, de los tintes dos onças y me-dia,}
 {CW. dia}
 [fol. 103v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de mançanilla torongil, al-
 holuas, de cada cosa dos onças,
@@ -5230,7 +5230,7 @@ bus.}]} despues
 tome<n>se las enxu<n>dias de gallina y}
 {CW. de}
 [fol. 104v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de anades, de cada cosa quatro
 dracmas, añadase del azeyte de
@@ -5281,7 +5281,7 @@ quantidad de vna dracma co<n> vino, {AD. [^Diff.
 .139.]}}
 {CW. no}
 [fol. 105v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y expelera la criatura muer-
 ta. Empero si con todas estas co-
@@ -5337,7 +5337,7 @@ y attiente de que manera, y en q<ue>
 sitio esta puesta la criatura en la}
 {CW. matriz}
 [fol. 106v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 matriz para que con mas facili-
 dad y mas commodamente pue-
@@ -5390,7 +5390,7 @@ hasta q<ue> salga el cuerpo muerto:
 empero deuese hazer esta attra-cion}
 {CW. cion}
 [fol. 107v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 poco a poco, y mansamen-
 te, y no por recta via ni por dere-
@@ -5436,7 +5436,7 @@ dos adentro en su sitio. Empero
 hase de aduertir, que ansi como}
 {CW. los}
 [fol. 108v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 los braços deuen ser cortados de
 los ombros, ansi todo el pie deue
@@ -5482,7 +5482,7 @@ con el mismo gatillo co<n> que los
 barberos sacan las muelas: empe-ro}
 {CW. ro}
 [fol. 109v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 si despues de salida la cabeça
 se q<ue>dare lo demas del cuerpo a-
@@ -5531,7 +5531,7 @@ tre y tripas, porque luego saldra<n>
 fuera con el estiercol, pues si algo}
 {CW. de}
 [fol. 110v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 [de]sto se cae sera cosa de otro major
 negocio, y quebra<n>tala las costillas
@@ -5583,7 +5583,7 @@ y aparejar con la seguridad que
 fuere possible para salir, y luego}
 {CW. vn}
 [fol. 111v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 vngirse la matriz, o sahumarse
 con algun sahumerio, o confor-
@@ -5629,7 +5629,7 @@ lado yzquierdo, y no el derecho
 porque el lado derecho no esta}
 {CW. ansi}
 [fol. 112v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 ansi desoccupado por razon del
 higado q<ue> esta ay situado el qual
@@ -5674,7 +5674,7 @@ del ombligo.}
 infante, luego se le deue cor-tar}
 {CW. tar}
 [fol. 113v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 el ombligo dexando del en el
 cuerpo lo<n>gura d<e> tres dedos en an-
@@ -5721,7 +5721,7 @@ a estas reglas añaden que si las ta-
 les arrugas estuuieren entre si po-
 co espacio apartadas, o por mas}
 [fol. 114v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 claro esten espessas, significan q<ue>
 los partos vernan juntos, a lo me-
@@ -5767,7 +5767,7 @@ zer camara. {AD. [^ibidem]} Deuen sobre todo
 guardar la criatura rezien nasci-da}
 {CW. da}
 [fol. 115v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 del excessiuo calor y frio. Em-
 pero despues que la parte del om-
@@ -5814,7 +5814,7 @@ se les deuen alimpiar con vn ce<n>-
 dal muy delgado de ola<n>da, o de}
 {CW. tafetan}
 [fol. 116v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tafetan muy senzillo, y deuen
 desdoblegar y estender los bra-
@@ -5861,7 +5861,7 @@ ibidem]} Despues del va-
 nos paños de lino muy delica-dos,}
 {CW. dos}
 [fol. 117v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y blandos, y calientes, y la q<ue>
 ha de emboluer al niño, aora sea
@@ -5908,7 +5908,7 @@ tial, la razon es apparente, porq<ue>
 mie<n>tras el infante, aora sea varo<n>}
 {CW. aora}
 [fol. 118v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 aora sea he<m>bra, esta en la matriz a-
 costu<m>brado a aq<ue>l ma<n>tenimie<n>to, y
@@ -5955,7 +5955,7 @@ cruda como agua, la qual deno-
 ta imperfecta digestion de la le-che,}
 {CW. che}
 [fol. 119v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 quiero dezir ahito, el qual si
 acaesciere, deue la madre apar-
@@ -5999,7 +5999,7 @@ Qualis nuda solet depingi in montibus Ide,
 Aut raptu cuius Troia tremata fuit.}}
 {CW. Qualis}
 [fol. 120v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. Qualis & admota que mollibus aspide mam<m>is
 Oppetiit moecho commoritura a duci.
@@ -6046,7 +6046,7 @@ diciones d<e> la ama, porque como
 dize Galeno, las costumbres}
 {CW. del}
 [fol. 121v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 del animo siguen las complissio<nes>
 del cuerpo, y tal es la complissio<n>
@@ -6100,7 +6100,7 @@ nalme<n>te aquella leche sera muy
 buena y escogida, la qual puesta}
 {CW. sobre}
 [fol. 122v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 sobre la vña, ni se este tan apega-
 da que aunque el dedo se mueua
@@ -6146,7 +6146,7 @@ las tetas, como lo dixo Hipp<ocrates> ansi
 & quibus lac dest ante tempus quales}}
 {CW. sunt}
 [fol. 123v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {LAT. sunt natura densae, & solidae carnis id
 circo sufficiens humor non per meat a
@@ -6195,7 +6195,7 @@ zeyte porq<ue> no se pegue mucho.
 Item aprouecha refregar las te-tas}
 {CW. tas}
 [fol. 124v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 delicada y mansamente, ha-
 llase por esperiencia que haze ve-
@@ -6242,7 +6242,7 @@ y tarde, y a medio dia. Item to-
 mese de la grana del hinojo, o de}
 {CW. sus}
 [fol. 125v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 sus hojas del marruuio, de cada
 cosa dos manojos, del anis qua-
@@ -6288,7 +6288,7 @@ se electuario, del qual se de a la a-
 ma a sorber por mañana y tarde
 cada vez qua<n>tidad de dos cucha-radas,}
 [fol. 126v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Item tome<n>se dos dracmas
 del cristal molido, y haganse del
@@ -6337,7 +6337,7 @@ uada de tres meses, y saquese el
 se con miel, y dese a beuer a la}
 {CW. ama}
 [fol. 127v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 ama para que le venga la leche, y
 confirma esto en el libro prime-
@@ -6388,7 +6388,7 @@ d<e> medicinas purgatiuas en qual-
 quier destos dos casos, conuerna}
 {CW. dar}
 [fol. 128v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 dar el infante a otra muger que
 le crie mientras que su madre
@@ -6434,7 +6434,7 @@ medicina que he compuesto en
 prosa y verso latino.}
 {CW. Libro}
 [fol. 129v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {RUB. Libro segundo, de los casos y enferme-
 dades de los infantes re-
@@ -6479,7 +6479,7 @@ Hinchazon del ombligo
 En sueños:}
 {CW. çollipos}
 [fol. 130v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 çollipos,
 Vscos gana de vomitar
@@ -6524,7 +6524,7 @@ saber, hinchazon de enzias, a-
 postema de los espondiles de las}
 {CW. quixa}
 [fol. 131v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 quixadas, conuerna refregar y a-
 blandar mansamente las enzias
@@ -6577,7 +6577,7 @@ lugar de la leche se le de vna hie-
 ma d<e> hueuo passada por agua sin}
 {CW. que}
 [fol. 132v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 que se quaje, o vn poco de pan
 candeal cozido en agua, o al-
@@ -6626,7 +6626,7 @@ Auice<na> aunque segun Galeno lo
 affirma en el primero de arte cu-
 ratiua. {LAT. Ad Glaueonem} Toda cosa}
 [fol. 133v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 adstringente applicada sobre el
 vientre hazer mayor fluxo, y lo
@@ -6673,7 +6673,7 @@ les de vna dracma, de opio me-
 dio escrupulo, o vn obolo, que es}
 {CW. el}
 [fol. 134v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 el mismo peso, de açucar vna
 dracma consigase de todo esto
@@ -6719,7 +6719,7 @@ correguela, y pongase en forma
 de emplasto sobre el vientre del}
 {CW. niño}
 [fol. 135v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 niño, y luego se le deterna el flu-
 xo. Tambien aprouecha mucho
@@ -6764,7 +6764,7 @@ sobre el ombligo vna lana empa-
 pada en hiel de vaca. Item sera}
 {CW. vtil}
 [fol. 136v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 vtil para las camaras que la ma-
 dre o ama resciba alguna purga
@@ -6808,7 +6808,7 @@ vna puche, appliquese sobre el
 ombligo o baxo, de manera que}
 {CW. no}
 [fol. 137v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 no allegue al estomago, finalme<n>-
 te conuerna mucho applicar so-
@@ -6853,7 +6853,7 @@ dras dulces {AD. [^Auice<na>
 ibidem,]} mezclado por ygua-les}
 {CW. les}
 [fol. 138v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 partes, aprouechara tambien
 mucho para el mismo effecto si
@@ -6899,7 +6899,7 @@ y d<e>spues se de a beuer al niño ma-
 cha mucho beuer agua d<e> hinojo}
 {CW. me}
 [fol. 139v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 templada co<n> leche: empero si la
 tosse por su vehemencia causa-
@@ -6945,7 +6945,7 @@ ro si la tosse se cause de materia
 fria, tome<n> vn poco de mirra mo-lida,}
 {CW. lida}
 [fol. 140v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y amasese con miel derreti-
 da, y co<n> vn poco de azeyte de al-
@@ -6989,7 +6989,7 @@ de la boca agua caliente, y des-
 pues tomen vn poco de simien-te}
 {CW. te}
 [fol. 141v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 de lino, y hecho poluos se mez-
 cle con vn poco de miel, y confi-
@@ -7041,7 +7041,7 @@ pero dexados los remedios que
 el Galeno pone en aquel lugar,
 po<n>gamos algunos vsuales de ao-ra,}
 [fol. 142v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y experimentados, pues lue-
 go para esta enfermedad majen-
@@ -7087,7 +7087,7 @@ dracmas, de las agallas dos drac-
 mas, de alumbre vna dracma.}
 {CW. Haga<n>se}
 [fol. 143v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Haganse poluos, y ciernanse por
 vn cedaço, y ponganse sobre las
@@ -7131,7 +7131,7 @@ llanten, o en ma<n>teca de vacas re-
 zie<n>te, o en enxundia de gallinas.}
 {CW. Cap}
 [fol. 144v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {RUB. Cap<itulo> nueue, de la apostema de los oydos,
 y del humor que sale dellos.}
@@ -7175,7 +7175,7 @@ flammacion.
 del celebro.}}
 {CW. Empero}
 [fol. 145v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 {IN2.} EMpero si alguna apostema se
 causare en el celebro del ni-
@@ -7219,7 +7219,7 @@ manudas.
 los ojos.}}
 {CW. Muchas}
 [fol. 146v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 MVchas vezes del continuo
 lloro de los niños se causan
@@ -7263,7 +7263,7 @@ siempre biua, hagase vn empla-
 sto, y pongase sobre el pecho del}
 {CW. niño}
 [fol. 147v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 niño. Item pongase sobre la mo-
 llera azeyte rosado, mezclado
@@ -7307,7 +7307,7 @@ re, o alguna parte del, tomen-
 se las cimas, o las extremidades}
 {CW. del}
 [fol. 148v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 del sauco, y de los yezgos, y cuez-
 ganse en vino blanco, y vañese
@@ -7352,7 +7352,7 @@ se sobre la cabeça hojas de verdo-
 lagas, las rasuras de la culabaça te<m>-pladas}
 {CW. pladas}
 [fol. 149v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 con azeyte rosado, y con
 harina de ceuada, y vna huiema
@@ -7396,7 +7396,7 @@ rarse, e si rebe<n>tare la materia: vn-
 tese con vngue<n>to de aluayalde.}
 {CW. Item}
 [fol. 150v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Item lauarlas co<n> agua miel mez-
 clada con poluos de vidrio, mu-
@@ -7441,7 +7441,7 @@ la ruptura, y encima vna espon-
 gia mojada en vinagre aguado,}
 {CW. y en}
 [fol. 151v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y en caye<n>do tornese a renouar
 Puedese tambien poner encima
@@ -7485,7 +7485,7 @@ dormir, y gasta el tie<m>po en
 llorar, tomese los cogollos, y los}
 {CW. vassos}
 [fol. 152v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 vasos, y la simie<n>te de las adormi-
 deras blancas, y hagase todo pol-
@@ -7529,7 +7529,7 @@ estomago. En tal caso couerna
 mucho vntar el estomago con}
 {CW. azeyte}
 [fol. 153v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 azeyte de laurel caliente, o em-
 plasto formado con poluo de la
@@ -7574,7 +7574,7 @@ dos con çumo de yerua buena se
 ponga<n> por emplasto sobre el esto-mago}
 {CW. mago}
 [fol. 154v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 del niño: e si los vomitos
 perseueraren, añadan a lo dicho
@@ -7620,7 +7620,7 @@ la leche que vomita: conuiene a
 saber si huele a vinagre, o esta bla<n>-co}
 {CW. co}
 [fol. 155v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 porque en tal caso conuerna
 tomar ocho granos del encien-
@@ -7666,7 +7666,7 @@ agua rosada. Empero si los tales
 vomitos se causen por ser los ni-ños}
 {CW. ños}
 [fol. 156v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 humedos de estomago, y fla-
 cos de digestion, deue vntarse el
@@ -7709,7 +7709,7 @@ passion que vulgarmente lla-
 man alferezia, difiere poco de la}
 {CW. epilepsia}
 [fol. 157v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 epilepsia llamada gota coral, em-
 pero la alferezia no es tan fuer-
@@ -7754,7 +7754,7 @@ so, y de su cura}
 (ba)jan haziendo camara salir-seles}
 {CW. seles}
 [fol. 158v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 el sieso para lo qual se tome
 de las cortezas de las granadas, de
@@ -7798,7 +7798,7 @@ ca o de la caraña.
 en el vientre, como el inte-stino}
 {CW. stino}
 [fol. 159v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 recto, vnas lo<m>brizes ta<n> gra<n>-
 des como a los d<e> mayor edad, pa-
@@ -7844,7 +7844,7 @@ guills, d<e>l cintorio llamado en la-
 tin ce<n>taurca, del cuerno del cier-uo}
 {CW. uo}
 [fol. 160v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 quemado, muelsae todo y te<m>-
 plese en dos onças de azeyte de
@@ -7890,7 +7890,7 @@ orina, para esto conuiene el pol-
 uo del arraya<n> aplicado encima}
 {CW. Item}
 [fol. 161v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 Ite<m> yguales partes de los poluos
 de alquitura, juncia auellanada,
@@ -7935,7 +7935,7 @@ plicandose remedios exquisitos
 de<n>tro de esta edad, por demas es}
 {CW. quitarse}
 [fol. 162v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 quitarse hasta q<ue> el varo<n> a la mu-
 ger muera<n>, a lo menos sino se qui-
@@ -7981,7 +7981,7 @@ atriaca con agua de peonia, o el
 quajo de la liebre co<n> agua miel,}
 {CW. te}
 [fol. 163v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 tenie<n>do cuenta q<ue> aq<ue>l dia no ma-
 me el niño, mas coma otra cosa,
@@ -8027,7 +8027,7 @@ nes, sobre todo guardarse mu-
 cho de maldezir al niño quando}
 {CW. llora}
 [fol. 164v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 llora, ni encome<n>darlo al demo-
 nio como muchas mugeres crue-
@@ -8073,7 +8073,7 @@ aprietan de noche las gargantas
 de los niños y ansi los ahoga<n>, em-pero}
 {CW. pero}
 [fol. 165v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 segun se saca de Ouidio en
 el libr<o> .6. de sus faustos, dizense
@@ -8119,7 +8119,7 @@ lugares delyetosos, con Diana o
 co<n> Herodias en plaze<n>teros bay-les}
 {CW. les}
 [fol. 166v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 y danças, y en gra<n>des banque-
 tes con mucho apparato de gala-
@@ -8166,7 +8166,7 @@ digo q<ue> segu<n> Iua<n> Vrsino, aproue-
 chara co<n>tra ella las cabeça o len-gua}
 {CW. gua}
 [fol. 167v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 d<e>l drago<n>, o culebro colgada
 a la cabecera del niño, y mucho
@@ -8214,7 +8214,7 @@ ro, del cuerno d<e>l cieruo o corço
 degollado, del axenus, del bitu-men}
 {CW. men}
 [fol. 168v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 judayco llamado asphalto,
 del [???] haganse todas estas
@@ -8262,7 +8262,7 @@ nes y efficaces prueua no auer
 aojo, empero es la comu<n> opinio<n>}
 {CW. tan}
 [fol. 169v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 co<n>traria, y ve<n>se por experie<n>cia
 ta<n>tos effectos q<ue> al parecer se cau-
@@ -8310,7 +8310,7 @@ es passion del anima: empero ser
 passio<n> del cuerpo parecese en la}
 {CW. muger}
 [fol. 170v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 muger que padesce su costu<m>bre,
 pues clarame<n>te offende co<n> el va-
@@ -8358,7 +8358,7 @@ se vañen el niño dos y tres vezes,
 y luego se alimpie co<n> mucho cuy-dado}
 {CW. dado}
 [fol. 171v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 dado, y vnciese luego co<n> esta vn-
 cion: tomese la ma<n>teca de vacas
@@ -8409,7 +8409,7 @@ dracma, muela<n>se todas estas co-
 sas y amasense co<n> miel despuma-da}
 {CW. da}
 [fol. 172v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 e hagase electuario del q<u><<a>>l den
 al niño media dracma por la bo-
@@ -8457,7 +8457,7 @@ da aluahaquilla, despues del la-
 uatorio desele a soruer alguna}
 {CW. cosa}
 [fol. 173v]
-{HD. Libro de los +}
+{HD. Libro de los ⇒}
 {CB1.
 cosa diuretica q<ue> mueua orina, y
 luego quando le lleuen a acostar
@@ -8505,7 +8505,7 @@ sos colores y delicados, especial-
 me<n>te de amarillos y verdes cla-ros}
 {CW. ros}
 [fol. 174v]
-{HD. Libros de los +}
+{HD. Libros de los ⇒}
 {CB1.
 porque co<n> la appariencia de
 tan lindos colores retuerça la vi-

@@ -83,7 +83,7 @@ xo. Creced y multiplicad & hinchid la tierra. Y esto con
 orden determinado y miembros para ello necessarios/
 y ayuntamiento de uno con otro. Y puso en tal ayunta-miento}
 [fol. 2v]
-{HD. ARGUMENTO. +}
+{HD. ARGUMENTO. ⇒}
 {CB1.
 delectacion: porque la humana generacio<n> no se
 perdiesse. Es verdad que despues d<e>la preuaricacion de
@@ -147,7 +147,7 @@ para ser buena. fo<lio> .xj.
 ¶ Cap<itulo> .v. delas cosas necessarias para la generacio<n> por
 parte dela muger. fo<lio> .xiij.}
 [fol. 3v]
-{HD. Rubrica +}
+{HD. Rubrica ⇒}
 {CB1.
 ¶ Cap<itulo> .vj. dela generacion dela criatura. fo<lio> .xiiij.
 ¶ Cap<itulo> .vij. delos señales dela v<er>dadera preñez. fo<lio> .xvij.
@@ -273,7 +273,7 @@ da/ con pre-
 gon muy espantable al hombre: no se
 pudo escusar para la essecucio<n> della}}
 [fol. 5v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 q<ue> Adan y Eua no fuessen echados del parayso/ como
 inobedie<n>tes y desleales a su dios y señor: caydos en cri-
@@ -339,7 +339,7 @@ tiempo de su preñez y parto/ y bien informada de su ar-
 te supiesse a semeja<n>tes cosas socorrer: como se vera ade-
 lante por sus capitulos.}
 [fol. 6v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo segundo dela arte
 y exercicio dela comadre.}
@@ -403,7 +403,7 @@ sistencia: y por esso dize obstetrix. Como se lee enla sagra-
 da escriptura Exodi primo. Que el Rey Faraon dixo
 a las obstetrizes/ o comadres/ que enel parto delas ju-dias}
 [fol. 7v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 matassen los varones y dexassen las hembras. Al
 qual respondieron las judias. {LAT. Obstreticandi habent
@@ -466,7 +466,7 @@ platicando y conuersando con otra experta comadre/
 saldra muy perfecta: tal que a las sobredichas necessi-
 dades/ de conuenibles remedios.}
 [fol. 8v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 ¶ La segu<n>da co<n>dicio<n> q<ue> ha de tener la comadre/ es q<ue> sea
 ingeniosa ≺es assaber≻ q<ue> co<n> buen ingenio y discrecio<n> sepa
@@ -529,7 +529,7 @@ el espiritu enlos meatos que viene<n> a dar enlos dichos
 testiculos. Delos quales passan dos vasos espermati-
 cos con el natural mouimie<n>to hasta el vaso feminil bie<n>}
 [fol. 9v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 dispuesto: y los meatos/ o caminos de dichos testiculos
 tienen nacimie<n>to del Cifac mayor/ y esto y otras cosas
@@ -590,7 +590,7 @@ todas las cosas. El sol empero
 se toma segun los naturales phi-
 losophos por la influycion d<e>los}
 [fol. 10v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 cuerpos superiores: por el hombre se toma el varon y la
 muger: los quales actiue y passiue concurren enla gene-
@@ -656,7 +656,7 @@ qual hauemos hablado≻ el qual embuelue la criatura
 esta que se sigue que entiende natura del primero termi-
 no las venas pulsatiles: delas quales forman el vn pa-niculo}
 [fol. 11v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 del qual la criatura recibe mantenimiento por el
 ombligo y no por la boca: del segundo mouimiento ha-
@@ -722,7 +722,7 @@ vermiculos enge<n>drarse enla matriz: mas esto pocas ve-
 zes. Yo no solo en dicha matriz lo vi: mas me acuerdo
 hauer visto en vn caso de vna señora vieja hauerse en-gendrado}
 [fol. 12v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 enlos riñones vnos gusanos q<ue> le dauan gra<n>-
 dissimo dolor/ y bermejos hechos como sanguisuelas
@@ -785,7 +785,7 @@ la mejor edad dela muger/ es de
 los quinze años hasta los quare<n>-
 ta y cinco: y es menester q<ue> no sea}
 [fol. 13v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 demasiada de gorda ni demasiada de flaca. Mas tiene
 necessidad dela precedencia de sus flores: como dize el
@@ -851,7 +851,7 @@ sea passada por fuego: y dos onzas d<e> agua clara d<e>la llu-
 uia y destie<m>pla lo todo y dalo a beuer ala preñada vna
 hora despues de hauer cenado/ puesta enla cama bien}
 [fol. 14v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 cubierta: y si tuuiere dolores enel vientre: cierto es que
 queda preñada: y si no siente dolores no es preñada.
@@ -913,7 +913,7 @@ con hierro calie<n>te azerada. Guardar se ha de cosas ve<n>-
 tosas que procuran aborto. Despues de comer/ coma
 cosas de medio sabor ≺es assaber≻ entre dulces y agras.}
 [fol. 15v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 El dormir ha de ser con mesura guardandose de dema-
 siado velar. Tambien se ha de guardar de correr y sal-
@@ -973,7 +973,7 @@ mos hazer. Y si fuere mucha abu<n>da<n>cia d<e>l mear vntar le
 han los riñones con azeyte rosado: y dar le han vn tra-
 go de agua de llanten con vn poco de vino tinto.}
 [fol. 16v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo diez delas congo-
 xas o profocacion dela muger preñada.}
@@ -1029,7 +1029,7 @@ este emplasto.
 R<ecipe> {LAT.  foliorum rosse balaustiarum squinanti
 florum mirte an<na> m. .j. cinamomi ligni alcea an<na> <onza> .j. aoal}}
 [fol. 17v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. nisi mente an<na> <onza> .j. s<emi> masticini olei de spica & olei ci-
 coniorum an<na> <dracma> .j. coralli rubei g<ragea> .j. misceantur & cocan-
@@ -1092,7 +1092,7 @@ llo sea muy viejo/ tanto quanto fuere menester. Y esto
 por vna vez tan solamente: porque haziendo se mas ≺co-
 mo tengo dicho seria le antes daño que no prouecho.≻}
 [fol. 18v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Las mujeres empero doctas de esperiencias: dan del
 simiente de la mostaza con vino y hallan lo muy bueno:
@@ -1156,7 +1156,7 @@ tud digestiua/ aun que puede ser por parte del preñado
 por ser hija y no hijo: el remedio es comer buenas vian-
 das: y no beuer mucho: y tomar a las mañanas lectua-rio}
 [fol. 19v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 de diaradon con vn trago de vino tinto: las piernas
 se pueden lauar con agua sallada/ o con agua alumbra-
@@ -1219,7 +1219,7 @@ madre: mas aun se entiende y puede entender tambien
 por la muerte dela criatura que por muchas y muy di-
 uersas vezes es causa de mal parir la dicha preñada}
 [fol. 20v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 El dormir demasiado y el velar son causas tambien d<e>l
 mal parir: porque el mucho dormir es causa de molifi-
@@ -1285,7 +1285,7 @@ vie<n>tre calefactiuas/ o enlos medios meses: las que por
 abundancia de humidades mal parian les mudaua su
 regimiento con cosas secas. Como se vera en su lugar.}
 [fol. 21v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .xv. de algunos se-
 ñales de mal parir.}
@@ -1349,7 +1349,7 @@ euacuacio<n> y ta<m>bie<n> por salir le sangre: es necessario ver.
 Porque dize Ypocrates enla quarta particula de sus
 {LAT. Aphorismos pregnantes. Si connenit purgare a quar-to}}
 [fol. 22v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. mense vsq<ue> ad septimam minus vero has.} Parece
 que diga: que muchas vezes por conseruacion dela cria-
@@ -1415,7 +1415,7 @@ cia y lo dize Auicenna enel lugar allegado/ diziendo.
 la qual razon es menester proueer enello con sus melezi-
 nas desta manera.}
 [fol. 23v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 ¶ Tomaran maluas/ higos/ sal: de cada vno vn puño
 todo sea cozido con saluado: dela qual decucion: toma-
@@ -1481,7 +1481,7 @@ in vtero habe<n>t fleubotomata abortum facit.} Lo dicho
 delos quales Doctores confirma el excellente y bue<n> sa-
 bio experto Rasis enel noueno de sus continentes por}
 [fol. 24v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 conseruacion dela criatura determinan q<ue> conuiene san-
 gria enlas condiciones susodichas: y endemas encomie<n>-
@@ -1545,7 +1545,7 @@ racion delo dicho. Y esto no sin algun temor: como dize
 Ypocrates enla particula de sus afforismos diziendo.
 {LAT. Mulieri in vtero habenti ab aliqua acutarum egritu-dinum}}
 [fol. 25v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. accipi mortale.} Y Galieno enla glosa dize. Mor-
 tale por la essencia dela calentura porque altera y mor-
@@ -1611,7 +1611,7 @@ La muger preñada como tenemos dicho y se dira: q<ue> cor-
 rie<n>do las dichas dos species d<e> cale[n]tura: q<ue> viene<n> d<e> mucho
 sangre/ o malo y putrido/ o apostema en la garga<n>ta q<ue> se}
 [fol. 26v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 dize esquinancia/ como alguna apostemacio<n> enel lado
 como pleuresis y semejante: de necessidad la tiene d<e> san-
@@ -1677,7 +1677,7 @@ calidad del sangre que corresponda a la tenor dela vir-
 tud/ despues con cosas alteratiuas dela mala co<m>plexio<n>
 caliente y seca/ proceder: y esto con julepe violado y co<n>}
 [fol. 27v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 xarabe de accetossitate citri y de agresta & de succo acce-
 tose cum aqua endiuie/ y con agua de lengua de buey &
@@ -1741,7 +1741,7 @@ R<ecipe> {LAT.  decottico<n>is facte cu<m> addic<ione> tamarindo<rum>
 <dracmas> .iij. qua<n>tu<m> suf<ficit> reubar electi poluos <onza> .j. spice grana .vj.
 magne elec<tuari> <dracmas> .j. s<emi> diase <onzas> .ij. sir violati <dracma> .j. mis<ceantur> & f<iat> potio}}
 [fol. 28v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Dela sangria empero es menester guardar se d<e>l cinque-
 no mes adelante: porque trae mucho peligro como fue
@@ -1806,7 +1806,7 @@ los cuerpos celestiales y mas del sol y dela luna. Y mas
 por el fluxo dela luna: como se demuestra enel fluxo y re-
 fluxo del mar y delos vientos: los quales siguen el mo-uimiento}
 [fol. 29v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 dela luna: y mas como saben los expertos ci-
 rurgianos que enel tiempo del lleno d<e>la luna el celebro
@@ -1872,7 +1872,7 @@ enel li<bro> {LAT. de nat<uralis> fet<us>:} mueue se el varon d<e>spues d<e> tre
 y la he<m>bra despues de q<u><<a>>tro. Algu<n>os dize<n> como Arist<otiles> en
 la vigesi<ma> p<ar>ti de sus p<ro>ble<mas> q<ue> muchas y las mas vezes es}
 [fol. 30v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Porque el ho<m>bre solo tiene esta diuersidad: los otros
 animales empero tiene<n> determinado tiempo. Tiene em-
@@ -1937,7 +1937,7 @@ zes a las mugeres acaesce parir con
 mucha difficultad y trabajo: y dezi-
 mos que el parto/ o es natural/ o no}
 [fol. 31v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 es natural ≺digo natural≻ en su tiempo determinado co-
 mo hauemos ya dicho. No natural es por no tener su
@@ -2003,7 +2003,7 @@ siado d<e>la preñada. La q<u><<a>>l d<e> fatiga puede tener inflama-
 dos los sp<irit>us y morir/ o por no tener co<m>plimie<n>to de nu-
 drimie<n>to/ o por causa: dedentro ser la muger collerica}
 [fol. 32v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y mal sufrida inflamando el sangre nutrime<n>tal y corro<m>-
 piendolo y mas fuerte inflamacion delos spiritus: los
@@ -2066,7 +2066,7 @@ enel parto sino p<er>sonas a ella muy curiales y familiares.
 {RUB. ¶ Capitulo .xx. d<e>las cosas que
 hazen el buen parto}}
 [fol. 33v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {IN8. {ILL.}} DIcho tenemos las causas q<ue> haze<n>
 el mal parto es necessario el tra-
@@ -2132,7 +2132,7 @@ fessar mil errores y hechizerias. Confie en Jesu christo
 y enla V<ir>ge<n> Maria su madre: iniuo que la bienaue<n>turada
 santa Margarida: y te<n>ga santas reliq<u><<i>>as sobre el vie<n>tre.}
 [fol. 34v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y las maytinas dela natiuidad de nuestro señor Jesu
 christo le digan porque aparte toda manera de supresti-
@@ -2193,7 +2193,7 @@ len salir: y esto esta enel ingenio dela comadre/ si braço/
 o pierna/ o otra figura tornar lo. Si por ventura la este-
 r/ o lecho por ser tambien fuerte no era quebrado/ la}
 [fol. 35v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 quiebre con la vña que es el propio exercicio: si natura
 no lo haze. Y si por caso el mal parto fuere por ser muer-
@@ -2256,7 +2256,7 @@ sebine tanto quanto fuere menester. Valen los peda-
 çuelos de gunis <onza> .j. con agua de culantro de pozo. Y
 tambien con esto.}
 [fol. 36v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  oppoponacis galba<n> serapi an<na> <onza> .j. affefe-
 tide <onza> s<emi> misce<antur>: & cum succo rute fiant pilule siue trociscos
@@ -2317,7 +2317,7 @@ refrigerio con espacio: aunque este tres ni quatro dias.
 Porque he visto salir criatura muerta de mas de ocho
 dias sin alteracio<n> dela madre. Y por esto digo q<ue> no se ha}
 [fol. 37v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 de dexar de hazer remedios: y todos los que valen en
 sacar la criatura muerta. Y mas pueden tomar de los
@@ -2376,7 +2376,7 @@ liquide <onzas> .ij. specie<rum> die rodonis abbat femin iusquiani
 .an<na>. <onza> s<emi> puluuricentur & de ipso sinapizetur dictu<m> cerotu<m>
 & ponatur super vmblieum sedat mirabiliter passionem.}}
 [fol. 38v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Despues de lo sobredicho es menester tambien dar le
 de comer su caldo de gallina/ sus sopas: y d<e>la carne mo-
@@ -2439,7 +2439,7 @@ tinuas vna onza y media de oxumel squilitico.
 accidentes los quales comunmente suelen venir enel
 parto y despues de el parto dela muger}}
 [fol. 39v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 {IN8. {ILL.}} Siguese cada dia enel dif-
 ficultoso parto/ por la difformi-
@@ -2501,7 +2501,7 @@ llama diamarte. La qual esta compuesta en su libro .v.
 Tiene grandes propiedades enlas cosas delas muge-
 res que comunmente enel tiempo de su preñez caen por}
 [fol. 40v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 su mal regimie<n>to en opilaciones del higado y del vaso.
 Y por alguna frialdad engendran muchas ventosida-
@@ -2564,7 +2564,7 @@ da Auicenna dar le desta confection.
 R<ecipe> {LAT.  piperis longi seminis jusquiani .an<na>. <onzas> .x.
 opitabayci croci .an<na>. <onza> s<emi> pireti castorei .an<na>. <onza> .j. Ameos}}
 [fol. 41v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. baccarum laurici cimini seminu<n>rute calame<n>ti an<na> <onzas> .iiij.
 margaritarum jacintorum an<na> <dracma> .j. musci <escrupulos> .j. mellis quan<n>-
@@ -2625,7 +2625,7 @@ parida como se sigue muchas vezes
 enel mal parto/ o por flaqueza/ o d<e>bi-
 lidad y poca resiste<n>cia dela parida/ o}
 [fol. 42v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 por su natural co<m>plexion o por la difformidad dela cria-
 tura es necessario socorrer la con sus determinados re-
@@ -2685,7 +2685,7 @@ cere modicum fiat vnguentum.} Y vale mucho.
 R<ecipe> {LAT.  san draconis <onzas> .iiij. absuñ gallie <dracma> .j. cere-
 rubee gua<n>te <onzas> .iij. mis<ceantur> & fi<at> vn pista<n>do.} Y es esp<er>ime<n>tado.}
 [fol. 43v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .xxix. dela aposte-
 macion delas tetas.}
@@ -2742,7 +2742,7 @@ de trabajo y fuerte compresion≻
 se sigue la madre salir por el ori-
 ficio de su natura/ o se abaxa muy baxo extra de su natu-ra}
 [fol. 44v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y lugar. Porque los ligamientos con que esta ata-
 da se mollifican y se relaxan: de suerte que es menester
@@ -2800,7 +2800,7 @@ no con vn trago de vino tinto estiptico. Y esto basta pa-
 ra la dicha declaracion y remedios del presente capitu-
 lo.}
 [fol. 45v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .xxxj. dela calentura
 que viene a la parida}
@@ -2859,7 +2859,7 @@ por bien aconsejar.
 {RUB. Capitulo .xxxij. del regimie<n>to
 dela criatura despues de nascida.}}
 [fol. 46v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {IN8. {ILL.}} DEspues q<ue> tienen las mu-
 geres concebido y son preñadas
@@ -2924,7 +2924,7 @@ tura el sangre nutrimental y los spiritus. Por los qua-
 les la criatura se viuifica. Y otra vtilidad es que la cria-
 tura por el ombligo mea enel vientre: la qual cosa cessa}
 [fol. 47v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 despues que nasce: y esto dize el Galeno enel .xx. {LAT. de vtili-
 tate particularum capite .v.} como dize. {LAT. Cum infans nat<us>
@@ -2990,7 +2990,7 @@ an<na> p<uño> .j. salis <dracma> .j. misceantur & buliant cum duabus par-
 tib<us> aque & vna vini & coletur.} Dela qual puede<n> lauar
 la cria: y esto dize el excellente y buen doctor Auicenna.}
 [fol. 48v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. Festinandum est ad corpus saliendum cum salmorrate
 mis quatenus vmbilicus ei<us> induretur & ipsius cutis du-
@@ -3056,7 +3056,7 @@ propriedades y es abstersiuo: y ansi limpia todas las
 vizcosidades retenidas enel ve<n>triculo. Es el miel ape-
 ritiuo delos orificios delas venas: y mas es resolutiuo}
 [fol. 49v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 expelle las humidades del cuerpo prohibe la putrefa-
 ction y ayuda que la leche no se corrompe y congela. E
@@ -3121,7 +3121,7 @@ en aquel tiempo que criare porque seria gran daño a la
 criatura/ ni sea mucho inclinada a las cosas dela luxu-
 ria. La quarta no sea iracu<n>da porq<ue> no inflame la leche.}
 [fol. 50v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 La quinta que tenga buenos peçones que no sean
 gordos porque no le causen vomito ni tampoco no sea<n>
@@ -3184,7 +3184,7 @@ teta al hijo/ es cosa muy natu-
 ral: sino fuere impedimento de
 los quales se hizo mencion antes. Agora torna el Aui-cenna}
 [fol. 51v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y dize. Si alguna cosa impidiere la madre en no
 hauer de dar la teta al hijo: es menester hazer election
@@ -3250,7 +3250,7 @@ ni sea<n> bla<n>dos: los peçones d<e>las tetas/ no sea<n> muy gordos
 q<ue> no le causen fastidio/ ni pequeñas q<ue> no las pueda to-
 mar como he visto de muchos: y en esto deueys mirar.}
 [fol. 52v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 ¶ La quinta condicion es por parte dela leche y es por
 parte dela substa<n>cia que no sea espessa/ gorda/ ni menos
@@ -3314,7 +3314,7 @@ ce y duerma. Si fuere poca la leche/ deuemos mirar la
 causa si por ventura si fuere mala complexion d<e>la ama
 como demasiado calor con sequedad de todo el cuerpo}
 [fol. 53v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 o d<e>las tetas lo q<ue> se puede conocer por la abitud d<e>l cuer-
 po por el tacto de sus manos si colerica o iracunda: di-
@@ -3375,7 +3375,7 @@ digesto. Y mas de deue mirar q<ue> no sea mal parto/ digo q<ue>
 no fuesse en co<m>plidos dias/ o q<ue> la criatura fuesse muer-
 ta enel vientre dela madre.}
 [fol. 54v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 {RUB. ¶ Capitulo .xxxv. delas almor-
 ranas y de su curacion.}
@@ -3435,7 +3435,7 @@ R<ecipe> {LAT.  ansugie galline & anseris .an<na>. <onzas> .iiij. bu-
 tiri recentis <dracma> s<emi> olei crisomolo<rum> quartu<m> .j. croci <escrupulo> .j. opij
 g<ragea> viij. mis<ceantur> & cu<m> mortario fiat vngue<ntum>.} Otro muy famoso.}
 [fol. 55v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  thuris mirre litij croci .an<na>. <onzas> .ij. opij <escrupulos> .j.
 vitelli vini<us> out misceantur & fiat vnguentum.} Unos ay
@@ -3498,7 +3498,7 @@ buen espacio por no causar le al niño alguna indiges-
 tion que fuere causa de calentura y espasmo: y tambien
 otras semejantes dolencias/ y malas enfermedades.}
 [fol. 56v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y si por ventura por la indigestion tuuuiere algun dolor
 enel vientre por ventosidad: tomen vn poco de simiente
@@ -3564,7 +3564,7 @@ die<n>tes y de todas las enfermedades q<ue> comuniter a los
 niños acaescen particularmente se vera por sus capitu-
 los.}
 [fol. 57v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 {RUB. Capitulo .xxxvij. delas enfer-
 medades que acaescen enlos niños}
@@ -3626,7 +3626,7 @@ tum vnum cere modicum fiat vnguentum.} Aunq<ue> ta<m>bie<n>
 puede ser dicha relaxacio<n> por la muger no tener peçones
 en sus tetas y el niño no poder chupallas.}
 [fol. 58v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .xxxviij. Del dolor
 del vientre que muchas vezes suele venir.}
@@ -3685,7 +3685,7 @@ ua en su boca/ y grande sequedad enlos labios/ o cru-
 xir los dientes/ risa/ parlar en sueños/ vomito/ frialdad
 en sus estremidades/ sudor/ ansiedad/ espasmo: y mu-chos}
 [fol. 59v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 otros señales juntos/ o separados. La causa ma-
 terial dellos es flegma: el cual multiplicado y putrido
@@ -3747,7 +3747,7 @@ R<ecipe> {LAT.  salis armuniaci draga<n>ti piper .an<na>. <onza> .j. s<emi>
 me<n>da tri pulegi piretri .an<na>. <onza> .j. sal<is> armuniaci <dracma> s<emi> misc<eantur>
 & buliant un aceto forti & fiat fricatoriu<m> modo dicto vel.}}
 [fol. 60v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  salis armuniaci <dracma> .j. galliarum & vitrioli
 combusti .an<na>. <onza> .j. puluurizentur subtiliter & misceantur
@@ -3810,7 +3810,7 @@ dientes enlos niños camaras de diuersas maneras: co-
 mo dize el Auicenna y Rasis enel libro allegado. Mu-
 chas vezes viene camaras enel salir d<e>los die<n>tes: y viene}
 [fol. 61v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 por frialdad/ o por corrupcion dela leche/ o de alguna
 indigestion/ o por vicio de algun humor colerico/ o fleu-
@@ -3873,7 +3873,7 @@ midad/ y poca resistencia de su
 virtud y color natural: el qual esta subito y profogado
 por la dicha humidad: como dize el Auicenna dizie<n>do}
 [fol. 62v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. Plurimum acciditeis propter corruptionen digestiue
 & ex multa neruorum debilitate & proprie eis: cui corpus
@@ -3935,7 +3935,7 @@ ganle tomar/ mirra/ galas/ encienso/ çumo de liquiricia
 todo puluurizado y mezclado con miel: y desto freguen
 le la boca y mas tome.}
 [fol. 63v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  rob morum sirupi de agresta .an<na>. <dracmas> .ij. vini
 albi crudi <dracma> .j. viridi eris <dracma> .j. auripimenti <escrupulo> .j. aluminis
@@ -3997,7 +3997,7 @@ lambendum.} Y esto hecho veran el gran prouecho y me-
 joria que hallaran con la ayuda de nuestro señor Jesu
 Christo.}
 [fol. 64v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 La causa a nuestro proposito es vna replexio<n> comuna
 de leche: el qual estomago por su poquedad no puede te-
@@ -4058,7 +4058,7 @@ dotario. Y pueden le dar tambien xarabe violado que
 es muy bueno. O (d)ar le han esta confection que le sera
 prouechosa.}
 [fol. 65v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  olibani <escrupulo> .j. cimini seminu<m> rute .an<na>. <escrupulo> .j.
 sirupi de succo rosa<rum> modicum misceantur & da puero}
@@ -4120,7 +4120,7 @@ perie<n>tia & ex plurib<us> expie<n>tijs ge-
 nera<n>t ars.} Y esto sintio Ypo<crates> en el p<ro>he<mio> de sus affor<ismos> como
 dixo {LAT. vita breuis/ ars p<r>o lo<n>ga te<m>p<us> acutu<m> exp<er>ime<n>tu<m> fallat.}}
 [fol. 66v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Vemos nosotros por clara esperiencia en cada qual es-
 pecie de çumo que haze ebulicion: enla qual se separan
@@ -4186,7 +4186,7 @@ que es la materia separada/ y echada a las partes de
 fuera: dela qual se engendran las viruelas y morbiles:
 y el sangre que queda depurado. Vemos por otra parte}
 [fol. 67v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 la calentura rezia y fuerte: la qual dezimos q<ue> viene por
 parte dela putrefaction: porque no podemos dezir que
@@ -4251,7 +4251,7 @@ midos y aun mal acomplexionados como arriba dixe.
 La causa empero agente q<ue> se haze tal ebul[l]icion es el ca-
 lor natural: el qual intento in gradu: haze la ebul[l]icion.}
 [fol. 68v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Porque dezimos que la ebullicion enel mosto haze la
 separacion y dexa lo puro y es vino: la qual accio<n> no se
@@ -4317,7 +4317,7 @@ ction se mas a la parte de dentro: porq<ue> dize el texto. {LAT. Et
 plurimi eo<rum> q<ue> moriu<n>t ex variolis moriu<n>t p<ro>focati & q<uo>dq<ue>
 moriu<n>tur p<or> casum v<ir>tut<is> cu<m> rasura intestino<rum> & fluxu ventri.}}
 [fol. 69v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Vemos nosotros por clara experiencia q<ue> las viruelas
 y morbiles q<ue> se profundan y se torna<n> adentro: las sobre-
@@ -4382,7 +4382,7 @@ Dizel texto sea sangrado y mas si fuere gra<n>de la plecto-
 ria: del braço derecho d<e>la vena d<e>l higado/ o d<e>la de todol
 cuerpo/ p<ri>mo/ segu<n>do/ tercio/ y q<u><<a>>rto dia: y dize lo el texto.}
 [fol. 70v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Es verdad que si fuere la plectoria mayor tiene espacio
 hasta el septimo dia como dize el texto/ en otra manera
@@ -4448,7 +4448,7 @@ xo el texto de Auicenna muchas vezes allegado dizien-
 do. {LAT. Si fleubotometur vena nasi confert & est maximum
 iuuame<n>tum & fluxium sanginis nasium: porque partes}}
 [fol. 71v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. tuentur superiores faciei oculorum narium & gutturis
 a malicia variola<rum> & est facilis super infantes & pueros.}
@@ -4514,7 +4514,7 @@ ber≻ dos/ o tres vezes al dia: dete<n>ga<n>lo co<n> agua d<e>coctio<n>
 hinojo/ simie<n>te d<e> apio/ le<n>tejas scorticadas/ todo cozido
 y colado y porna<n> vn poco d<e> xarabe d<e> çumo d<e> ma<n>çanas}
 [fol. 72v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y assi mismo enla noche poco a poco por suplir al dema-
 siado calor dela calentura. A la ama daran de comer co-
@@ -4579,7 +4579,7 @@ misceantur.} Dela qual decoction le pueden dar dos ve-
 zes al dia: y si quieren qua<n>do natura fuere pigra: le pue-
 den dar desta potion la qual les haze presto salir.}
 [fol. 73v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  ficum alba<rum> paria quinq<ue> lentu<m> scortica-
 taru<m> p<uño> .j. seminum feniculi/ seminum apij .an<na>. <dracmas> .iij. croci
@@ -4642,7 +4642,7 @@ garga<n>ta/ o e<n>la boca sea hecho vn gargarismo como este
 R<ecipe> {LAT.  suc<co> granato<rum> <dracmas> .ij. d<e>co<n>isle<n>tiu<m> scorticata<rum>
 <dracmas> .j. succi pla<n>tagis <dracmas> .iij. zucari <dracma> .j. miscea<n>t<ur>.} O haga<n> este.}
 [fol. 74v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  ordey foliorum plantaginis .an<na>. p<uño> .j. co-
 quantur in. l<i>b<ras> .iij. aque vsq<ue> ad consuntionem dua<rum> par-
@@ -4705,7 +4705,7 @@ co sean cozidas estas cosas con quatro libras de agua/
 hasta que mengue la mitad: y despues sea colado: y pue-
 den le dar a beuer desta agua. Puede<n> le hazer mas fu-mentaciones}
 [fol. 75v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 hechas d<e> maluas y vizmaluas y simiente
 de lino y de fenu( )greco: todo esto cozido: y de esta agua
@@ -4769,7 +4769,7 @@ medios necessarios.
 para quitar las maculas que quedan despues de pas-
 sadas las viruelas}}
 [fol. 76v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {IN8. {ILL.}} REmedios muchos han
 puesto los doctores d<e>los quales
@@ -4827,7 +4827,7 @@ se las mugeres co<n> mucha razo<n>
 por no saber las causas de tal
 enfermedad: ni menos saben q<ue> puede ser. Y aunq<ue> sea en-fermedad}
 [fol. 77v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 comuna para los niños/ ta<m>bien suele venir
 a los adultos: llama se tal enfermedad morbo/ o enferme-
@@ -4893,7 +4893,7 @@ ria dezimos que el niño puede tener tal indisposicion/
 por leche podrido y emponçoñado en su estomago/ lo
 qual seria mucho a nuestro p<ro>posito para dicha materia}
 [fol. 78v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Dexando q<ue> tales causas puede<n> ser por mala aplicacio<n>
 delas cosas no naturales ≺es assaber≻ el comer/ el beuer
@@ -4959,7 +4959,7 @@ que le hizo mala disposicion enel estomago/ del qual as-
 cendian los dichos vapores a la cabeça: ansi que cayo
 y fue curado con sus appropiados remedios.}
 [fol. 79v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .liiij. como d<e>muestra
 la forma que se ha de tener enla curacion de tal indis-
@@ -5022,7 +5022,7 @@ pues tomaran vn poco delos poluos cordiales y todo
 mezclado haga<n> vn taleq<u><<i>>to: y po<n>ga<n>lo enlos pechos enla
 parte d<e>l coraçon. Y esto hasta enel tie<m>po del paroxismo.}
 [fol. 80v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Capitulo .lv. dela forma que
 se ha de tener en curar la dicha enfermedad.}
@@ -5084,7 +5084,7 @@ las mugere(e)[s] por rete<n>cio<n> de sus flores vayan a sus p<ro>pios
 lugares donde se trata de sus remedios. Y si fuere por
 parte d<e>los mie<m>bros principales como del higado/ o del}
 [fol. 81v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 baço hagan p<re>uision en ello. Y por semeja<n>te de algu<n> parti-
 cular mie<m>bro: porq<ue> leemos de aq<ue>l q<ue> tenia vna llaguilla
@@ -5149,7 +5149,7 @@ ferme<n>tos cordiales/ coral/ esmeraldo/ no solo poluori-
 zado: p<er>o la piedra trayda en<e>l dedo. Te<n>go yo opuesta de
 todas estas vna afectio<n>: la q<u><<a>>l esta en mis exp<er>imentos: y es.}
 [fol. 82v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  seminis peonie/ cranei humani cineris
 pullo<rum> iru<n>dinis qurculi vngule asini combusto<rum> .an<na>. <dracmas> .ij.
@@ -5212,7 +5212,7 @@ ri studere ne mores animi corrumpantur vt seruetur ip-
 sius animi sanitatis vt faciat hominem virtuosum & ne-
 de facili in egritudines deueniat corpus.} Demuestra se}
 [fol. 83v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 pues por las sobredichas autoridades que d<e>spues que
 el niño passare a la edad dela puericia: le hauemos de
@@ -5278,7 +5278,7 @@ goloso/ desseoso de mucho comer/ con palabras de repre-
 hension es menester da<n>do la exe<m>plo delos golosos q<ue> son
 de naturaleza de viles animales como perros y lobos.}
 [fol. 84v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 La segunda es que quando se assentare a la mesa con
 otros mayores de condicion/ o de dias/ no coma sino el
@@ -5344,7 +5344,7 @@ ordinandus.} Quiere dezir el Auicenna que lleuen el ni-
 so y con orden/ sin mucha fuerça/ ni peso/ ni con grande
 temor/ ni con açotes/ ni es menester todo el dia estar enel}
 [fol. 85v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 estudio/ sino que algun poco tome algun espacio/ y enel
 cuydado del estudio mezcle vn poco de holgar. Dize el
@@ -5425,7 +5425,7 @@ empreña-
 cion.
 {SYMB: cross.}}}
 [fol. 87v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. ¶ Prohemio.}
 {IN8. {ILL.}} GRandes son los se-
@@ -5482,7 +5482,7 @@ Baptista y de nuestra aduocada la virgen sancta Ma-
 ria y de su bendito hijo.
 {ILL.}}
 [fol. 88v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 ¶ {RUB. Capitulo primero delas cau-
 sas dela difficultad dela impreña-
@@ -5545,7 +5545,7 @@ El poco exercicio tambien proybido y dañoso: porque
 prepara el cuerpo a muchas enfermedades y daña a la
 digestion y es causa de la mollificacion delos miembros.}
 [fol. 89v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 La replexio<n> es muy dañosa porque della viene mucha
 gordura q<ue> es vna delas causas proybitiuas d<e>la preñez
@@ -5609,7 +5609,7 @@ por ser alongado d<e>la matrix y no se yguala con ella por
 poder echar el simiente. Y esto dize el Aui<cenna> enel lugar al-
 legado diziendo {LAT. Eum au<n>t virga facta est sicut si sit breuis.}}
 [fol. 90v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. in creatione sua.} Y mas puede ser por causa del mie<m>bro
 viril ser tuerto: porq<ue> ta<m>bien se obuia y no puede echar
@@ -5672,7 +5672,7 @@ ha de ser con sus propios y ordenarios
 miembros dispuestos para la generacio<n>
 De forma que si por parte del varon ni}
 [fol. 91v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 dela muger no fueren no se vernia a su determinado effe-
 cto. Es pues la primera disposicion en el varon q<ue> tenga
@@ -5738,7 +5738,7 @@ formacion entiende de introduzir la semejança del varon
 sino fuere impedida: mas la virtud dela informacion
 enla muger entiende recebir la semejança de varon.}
 [fol. 92v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Ay otra differencia segun los fisicos: quel dicho humor
 o simiente es caliente y digesto y espesso: mas el de la mu-
@@ -5802,7 +5802,7 @@ pedimento en la generacio<n>. Pues q<ue> diremos delas cau-
 sas ocultas q<ue> son parte delos simie<n>tes: de las quales
 cosas cada vna en su orden se dira.}
 [fol. 93v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {RUB. Capitulo quinto del impedi-
 me<n>to dela generacion por parte d<e>l mucho menstruar.}
@@ -5866,7 +5866,7 @@ la sangre viniere por parte dela debilidad dela matrix/
 y por flaqueza de la virtud retentiua: den le el estomago
 ayuno a comer el que se sigue}
 [fol. 94v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  diacodionis zucaris rosati .an<na> <dracmas> .iiij. mis-
 ceantur & fiat conditum.} Pueden le dar a comer almi-
@@ -5924,7 +5924,7 @@ membrillo con vn trago d<e> vino aguado la mañana que
 viene. Despues de tres dias sangrar le han dela vena
 dela madre como tengo dicho: y dar le ha<n> desta co<n>fectio<n>.}
 [fol. 95v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  andidotum amagogum <onzas> .iiij. cinamomi
 grossi <onzas> .ij. corticum cassie fistule <onzas> .ij. florum cartami <onza> .j.
@@ -5986,7 +5986,7 @@ cessidad expelir las/ o echar las d<e>la co<n>cauidad d<e>las gra<n>-
 des venas a las menores hasta la matrix: q<ue> es mie<m>bro pa<ra>
 recebirlas: y para echarlas fuera por la v<ir>tud expulsiua.}
 [fol. 96v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Y para esto conocer dan los doctores muchos señales.
 El primero delos quales es la continua expulsion de di-
@@ -6050,7 +6050,7 @@ o de dos/ con las aguas apropiadas (es assaber) de hi-
 nojo & matricararia &c<etera>. Y porque se tenga forma y tambien
 porque se que les sera prouechoso se puede hazer desta manera:}
 [fol. 97v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  benedicte <onzas> .ij. yeregalieni simplicis <dracma> .j.
 aque feniculi <dracmas> .ij. misceantur/} o desta manera
@@ -6112,7 +6112,7 @@ dre: pero tambien por su qualidad oculta. Las quales
 por mas prouecho hos las quiero aqui poner para que
 las veays y tambien conozcays. Y son las siguientes.}
 [fol. 98v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Artemisa/ mellissa/ grana mirti/ matricaria/ valleriana-
 fu/ mayorana/ meu/ nepita/ mastix/ rosa/ rasura/ eboris/
@@ -6174,7 +6174,7 @@ fomigio le pornan este pessario.
 R<ecipe> {LAT.  masticis aquori thuris: sandarasse: ypo
 q<ue>stidos: acassie .an<na>. <onzas> .ij. corallor<um> ruberor<um>: spodi an<na> <onza> .j. s<emi>}}
 [fol. 99v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. puluerizentur & misceantur cui addatur amidi pulueri-
 zati cum succo citonioru<m> pistato & facto liquido vna cu<m>
@@ -6237,7 +6237,7 @@ mucha gordura enella co<n>tenida: llama la el Ra<sis> enel .ix.
 d<e> sus C<on>tin<entes> racta. Aui<cenna> clausa/ o vetula: como dize {LAT. Clausa
 est mulier sup<er> cui<us> matric<is> os egredint e<n> nacit aliq<u><<i>>d &c<etera>.}}
 [fol. 100v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Cierra se tambien la boca dela matrix por alguna tuni-
 ca pannicular la qual nasce aun que porosa: por la qual
@@ -6302,7 +6302,7 @@ misceantur & cum aqua feniculi formentur pillule noue<m>:
 Despues se puede entender enel miembro pacie<n>te y es
 la matrix entendiendo en confortacion della/ con cosas}
 [fol. 101v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 aromaticas mezcladas con aperitiuas/ como agora co<n>
 diamusco/ con diacalamento/ y otras cosas: las quales
@@ -6365,7 +6365,7 @@ no solo a las comadres y alos existe<n>tes: p<er>o a los medi-
 cos por no saber en q<ue> capitulo se po<n>gan. Pero dizen q<ue>
 todos estos accide<n>tes vienen por nocume<n>to d<e>la matrix.}
 [fol. 102v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Como dize Auice<n>na in .xxj. fen .iij. tratatu tercio cap<itulo> .xxvj.
 {LAT. Quide hos magnu<m> facit capt<em> & ad ip<su>m opt<em> acurrere}
@@ -6431,7 +6431,7 @@ neno mortal que viene por parte d<e>la retencion y corrup-
 cion dela materia espermatica: y trae por exemplo del re-
 medio aquel philosopho Diogenes que fue muy sabio}
 [fol. 103v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y modesto y nunca dexo la emission dela materia esper-
 matica considerando el daño que por su retencion pue-
@@ -6493,7 +6493,7 @@ se a la parte d[e]recha/ o yzquierda y causar congoxas: las
 quales cosas ponen enel capitulo que dize {LAT. de precipita-
 tione matricis:} a los quales es menester ta<m>bien accorrer.}
 [fol. 104v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 apezimos nosotros que puede ser mas en causa alguna
 ostemacion enla madre/ alguna vlc[e]racion mala y co-
@@ -6556,7 +6556,7 @@ tis super vnum duorum ordinum: & non accudat inter ea
 ambo filius.} Declaran esto las glosas: y dizen que enla
 generacion se hallan dos maneras de obrar. La vna es}
 [fol. 105v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 por co<n>uenie<n>cia y apetit(i)o delos dos simientes del varo<n>
 y dela muger. La q<u><<a>>l p<ro>porcion se haze por la v<ir>tud infor-
@@ -6620,7 +6620,7 @@ lutiua era. Y esto por respo<n>der alos q<ue> desseauan saber el
 principio formal: por el qual la medicina era solutiua.
 Como dixo el Galeno enel tercero {LAT. de simplici medicina.}}
 [fol. 106v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 {LAT. Quare eschamonea curat formicam in pede.} Dixo por
 que trae la materia que haze la formiga enel pie. A lo
@@ -6683,7 +6683,7 @@ lificar. Y mas como vemos el vno d<e>los dos
 ser prolifico: ansi juzgamos se el defecto d<e>l
 vno/ y ende mas como la muger no tiene lo que acostu<m>-bran}
 [fol. 107v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 tener las mugeres para ser prolificas/ como terner
 de sus flores y los hombres ser sin color/ sin barbas: por-
@@ -6749,7 +6749,7 @@ dela preñez. Y esto dize Aui<cenna> {LAT. Et illa cuius matrix est ha-
 bens decliuitatem & couersionem sentit dolorem apud
 cohitum: quoniam virga ledit eam in introhitu eius &c<etera>.}}
 [fol. 108v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Y mas significa la difficultad dela preñez alguna enfer-
 medad enla dicha matrix: la qual se puede conoscer por
@@ -6815,7 +6815,7 @@ su mala qualidad corrompen y alteran los tales olores.
 Mas adelante tienen esperime<n>tado: q<ue> puesto vn grano
 de ajo enla vulua dela muger q<ue> este por buen espacio: si}
 [fol. 109v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 sintiere el olor enla nariz y el sabor enla boca no es por
 su parte la esterilidad. La razon fue dicha suso. Y mas
@@ -6878,7 +6878,7 @@ ra: y despues enla edad p<er>aumastica fueron fecundos: y
 otros enla primera senetud: porque es menester d<e>xar la
 perpetua: que seria en vano trabajar/ y tomar la tem-poral}
 [fol. 110v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 y ayudarle con cosas simples y confortatiuas co<n>
 mucha discrecion: porq<ue> sino aprouechare a lo menos q<ue>
@@ -6944,7 +6944,7 @@ de vino maluatico muy aguado.
 R<ecipe> {LAT.  zucari albi .l<i>b<ra>. .j. s<emi> amili <dracmas> .iiij. aqua rosa<rum>
 amigdalla<rum> dulciu<m> <dracmas> .iij. mis<ceantur> sup<er> dicto zucaro fieto imorcet.}}
 [fol. 111v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 De los quales tomaran cada dia como dixe despues de
 comer. Encomiendan mucho los doctores q<ue> la muger q<ue>
@@ -7008,7 +7008,7 @@ con vn trago de agua de azar. Y despues d<e> quatro dias
 de su comer la sangraran dela vena sophena del pie de-
 recho y sacar le han cinco onzas de sangre: de dicho pie.}
 [fol. 112v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 Es verdad q<ue> si fuere mucha la plenitud quiere el buen
 Bernardo en su lilio que sea sangrada d<e>l braço d<e>recho
@@ -7071,7 +7071,7 @@ delas yerbas. Despues porna<n> dicha agua en lugar que
 de ella se pueda bañar la muger: y te<n>ga vn talequito lle-
 no de artemisa/ cale<n>dula/ assensio: y todo cozido con di-chas}
 [fol. 113v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 aguas este se assentada sobre el dicho baño por
 buen espacio: y esto puede hazer por tres dias co<n>tinuos
@@ -7135,7 +7135,7 @@ tuor & accipiat vnum quolibet mane.} Con vn trago de
 vino maluatico. Y pueden le dar tambie<n> deste electuario
 antes del comer por espacio de vna hora.}
 [fol. 114v]
-{HD. Libro. +}
+{HD. Libro. ⇒}
 {CB1.
 R<ecipe> {LAT.  margaritarum spodij limature eboris
 .an<na>. <onzas> .j. s<emi> specierum vtriusq<ue> margaritois specierum dia

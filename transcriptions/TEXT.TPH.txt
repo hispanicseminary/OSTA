@@ -5,7 +5,7 @@
 {RMK: Madrid | Biblioteca Nacional de España | INC/51.}
 {RMK: María Nieves Sánchez.}
 [fol. 50v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 {RMK: HSMS-0134-0003: Tratado de la fisionomía en breve suma contenida.} {RUB. Siguese el tractado .viij. de
 la phisonomia: en breue summa con-
@@ -173,7 +173,7 @@ riz significa<n> & da<n> noticia de los boto-
 nes en <e>sta manera/ q<ue> las gordas & an-chas:}
 {SG. g iij}
 [fol. 51v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 significan ser los botones gor-
 dos & anchos. & las delgadas/ signifi-
@@ -339,7 +339,7 @@ nientes: significa dominio de colera
 vermeja. El cuerpo gruesso en carne}
 {SG. g iiij}
 [fol. 52v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 & blanco en el cuero/ & razonablemen-
 te colorado/ significa dominio de san-
@@ -505,7 +505,7 @@ stillan los ojos. & quiça q<ue> adolesce de
 sa<n>gre &c<etera>. viue poco. en la nariz le abu<n>-da}
 {SG. g v}
 [fol. 53v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 mucha superfluidad. la voz le re-
 suena algun poco empachada. la ca-
@@ -673,7 +673,7 @@ go se apaga.
 ¶ Si el stomago fuere de fria co<m>ple-
 xion: la digestion es flaca: el apetito}
 [fol. 54v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 pequeño. tarde ha fambre & set. es sa-
 no en los ojos/ y en la cabeça ¶ Si el
@@ -839,7 +839,7 @@ da la persona.
 {RUB. Capi<tulo> .xvij. de los señales de
 mucha sangre.}}
 [fol. 55v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {IN4.} (q)[Q]Uando la sangre abunda
 mucho: acaesce quasi vna
@@ -1005,7 +1005,7 @@ pacho. & assi de las otras cosas.
 {RUB. De los sueños que significa<n>
 dominio de sangre.}}
 [fol. 56v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 ¶ Quando regna la sangre: el hom-
 bre sueña que vee color vermejo: assi
@@ -1164,7 +1164,7 @@ hombre & la tercera a la muger. On-
 de queriendo seruar & tener el orden}
 {SG. h}
 [fol. 57v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 de cada miembro: començaremos de
 la cabeça principalme<n>te. & pornemos
@@ -1326,7 +1326,7 @@ jas son naturalme<n>te plegadas p<ar>a ba-
 xo: & q<ue> son crespas: significa<n> el ho<m>bre}
 {SG. h ij}
 [fol. 58v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 desuergonçado/ perezoso/ sospechoso
 tenaz: inuido: y en muchas cosas de
@@ -1490,7 +1490,7 @@ vanaglorioso/ rifador. ¶ Cuya na-
 riz fuere en medio muy leuantada:}
 {SG. h iij}
 [fol. 59v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 significa ser el ho<m>bre mintroso/ vano/
 inconsta<n>te/ luxurioso: & q<ue> luego cree
@@ -1657,7 +1657,7 @@ decanta a cada parte.
 {RUB. Capitu<lo> .xxxv. del aliento.}}
 {SG. h iiij}
 [fol. 60v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {IN4.} El mucho alie<n>to & resollo
 significa ho<m>bre de mucho
@@ -1825,7 +1825,7 @@ dan abrir los poros de las quixadas.
 chacha/ por respecto de la purgacion/
 q<ue> es en lugar de barba. ¶ Cuya bar-ba}
 [fol. 61v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 es bien ordenada/ o compuesta: &
 spessa de pelos: significa ho<m>bre de bue-
@@ -1990,7 +1990,7 @@ nimiento: doctrinable: & no bien afor-
 [t]unado.
 {RUB. Capitulo .xliij. de la garga<n>ta[.]}}
 [fol. 62v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {IN4.} (l)[L]A garganta blanca: quier
 magra: quier gorda: signi-
@@ -2156,7 +2156,7 @@ dor: tardio: de gran cora-
 mintroso: en p<ar>te leal: & en parte tray-dor.}
 {SG. i}
 [fol. 63v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 ¶ El vientre pequeño/ & esten-
 dido: significa hombre de trabajo: ra-
@@ -2317,7 +2317,7 @@ neas/ & luengas: significan muchos
 empachos de la vida & trabajo/ & po-breza}
 {SG. iij}
 [fol. 64v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 & miseria. E las cortas signifi-
 can peor en qualquier grado. Quan-

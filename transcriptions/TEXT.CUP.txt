@@ -248,7 +248,7 @@ na Christiana.}
 {RUB. Fin dela tabla.}}
 {SG. a v}
 [fol. 5v]
-{HD. Doctrina +}
+{HD. Doctrina ⇒}
 {CB1.
 {RUB. {SYMB: fleuron.} Comiença la {SYMB: fleuron.}
 doctrina Christiana.}
@@ -305,7 +305,7 @@ sas: & a tu proximo, como a ti mismo.
 {RUB. ¶ Los mandamientos de la sancta
 madre yglesia: son cinco.}}
 [fol. 6v]
-{HD. Doctrina +}
+{HD. Doctrina ⇒}
 {CB1.
 ¶ El primero: Oyr missa entera los domingos,
 y fiestas de guardar.
@@ -365,7 +365,7 @@ proposito de mas no peccar, y confessarse a su tie<m>-
 po deuido: este tal ya esta en verdadera penite<n>cia,
 y se reduze a communion dela yglesia, y es ca-paz}
 [fol. 7v]
-{HD. Doctrina +}
+{HD. Doctrina ⇒}
 {CB1.
 paz delos meritos, y suffragios della, y los bie-
 nes que haze le aprouechan para todo.
@@ -484,7 +484,7 @@ pueda, porque estos ahogan la palabra de Dios.
 Que ninguno puede tener gran cuydado y dili-gencia}
 {SG. b}
 [fol. 9v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 en dos cosas: y por esto conuiene quitar
 el anima de la honrra del mundo: y otras seme-
@@ -543,7 +543,7 @@ su diuina mano, no le dando gracias por ello:
 y en tornar a caer por mi negligencia y maldad}
 {SG. b ij}
 [fol. 10v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 en muchos peccados que otras muchas vezes
 he co<n>fessado, y por su misericordia me fuero<n> per-
@@ -603,7 +603,7 @@ riosame<n>te algunos miembros cubiertos de dios
 o de sus sanctos.}
 {SG. b iij}
 [fol. 11v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 {RUB. Quarta: del falso culto del verdadero dios.}
 ¶ Si guardo algun rito Judayco, o si inxirio en
@@ -663,7 +663,7 @@ mejante cosa.
 de Dios en vano.}}
 {SG. b iiij}
 [fol. 12v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 ¶ Cerca deste precepto: occurren tres cosas con-
 forme a tres condiciones que ha de tener el jura-
@@ -723,7 +723,7 @@ mintio: callando a sabiendas algun peccado mor-
 tal, y le dexo de confessar. Porque en este caso la}
 {SG. b v}
 [fol. 13v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 co<n>fession entera se ha de reyterar y tornar de nue-
 uo a confessarse, saluo si se torna a co<n>fessar a quie<n>
@@ -841,7 +841,7 @@ padre, o rey. Si desobedescio en cosas, que so pe-
 na de peccado mortal era obligado a hazer. Si de-
 xo de obedescer con daño de alguno. Si desobe-descio}
 [fol. 15v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 en cosas que son de notable importa<n>cia.
 Si no cu<m>plio los ma<n>damie<n>tos comunes. Y aqui
@@ -960,7 +960,7 @@ famarse. Si tuuo hijo de muger agena, y lo aya el
 marido por suyo. Si al proprio hijo desconoscio.}
 {SG. c}
 [fol. 17v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 Si conoscio virge<n> y no satisfizo a la virginidad.
 {RUB. ¶ El septimo mandamiento es.
@@ -1020,7 +1020,7 @@ te: si dilata los pleytos, si es ygnorante: si haze en-
 gaños en su officio.}
 {SG. c ij}
 [fol. 18v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 {RUB. ¶ El octauo mandamiento es.
 ¶ No leua<n>taras falso testimo-
@@ -1080,7 +1080,7 @@ cuerpo, o del anima, con inte<n>cion de le insultar,
 es peccado mortal: y lo mismo si lo dize de tal ma-nera}
 {SG. c iij}
 [fol. 19v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 que el otro queda muy injuriado: aunq<ue> no lo
 dixesse con tal intencion: y lo mismo, si mando a
@@ -1140,7 +1140,7 @@ No dessearas las cosas agenas.}
 por maneras injustas lo ageno, o si haze algu<n> en-gaño,}
 {SG. c iiij}
 [fol. 20v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 o tra<m>pa contra el proximo para auer sus co-
 sas, o si tiene proposito de andar en tractos q<ue> a el
@@ -1199,7 +1199,7 @@ hurtar en lugar sagrado. Es circu<n>stancia de este
 hurto: y q<ue> trae malicia contra distincto precepto.
 Otro exemplo. Herir a persona ecclesiastica, son}
 [fol. 21v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 dos malicias. La vna del acto ≺que es herir.≻ La
 otra dela circunsta<n>cia dela persona ecclesiastica.
@@ -1259,7 +1259,7 @@ bien lo ha de confessar, por el sacrilegio distincto
 que se comete en el hurto en la yglesia, o lo quiso
 cometer en la yglesia: porque todas estas circun-stancias:}
 [fol. 22v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 y cada vna dellas por si, son co<n>tra distin-
 ctos preceptos de dios. Ay otra manera de circu<n>-
@@ -1319,7 +1319,7 @@ aunq<ue> no bastaria si los pensamientos son distin-
 cto tie<m>po, que entonces por si se han de confessar
 los tales pensamientos. Y esto q<ue> digo del co<n>fessar}
 [fol. 23v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 quantas vezes no se ha de entender tan rigurosa-
 mente como suena, mas de quanto hecha la dili-
@@ -1379,7 +1379,7 @@ otro genero de circu<n>stancias, q<ue> ni muda<n>, ni agra-
 uan la malicia del peccado. Dize q<ue> ha quebrado
 el ayuno, no haze al caso a sea co<n> trucha o baruo.}
 [fol. 24v]
-{HD. Jnstruction +}
+{HD. Jnstruction ⇒}
 {CB1.
 Otro exemplo. Si ha quebrado la fiesta, no haze
 mas al caso, q<ue> sea de sant Lore<n>ço, que de vn apo-

@@ -748,7 +748,7 @@ sienta ningun agrauio notable.
 {GL. [^§ .11.]} ¶ El segundo caso del Scoto es: qua<n>do lo que se rescibe de-
 masiado: es por razon de interesse: delo q<u><<a>>l hablaremos enel}
 [fol. 11v]
-{HD. Notable primero / casos de interesse +}
+{HD. Notable primero / casos de interesse ⇒}
 {CB1.
 {GL. [^qua<n>do ay
 dubda.]} segundo notable. El tercero es / por razon dela dubda q<ue> ay
@@ -984,7 +984,7 @@ si seria mayor agrauio para el q<ue> co<m>pro. Y ta<m>bien el Scoto en
 fin dela dicha quistio<n> .2. no co<n>dena el ponerse dia cierto: sino}
 {SG. b ij}
 [fol. 14v]
-{HD. Notable segundo +}
+{HD. Notable segundo ⇒}
 {CB1.
 el poner q<ue> se pague como mas valiere. Y la silues<tre> {LAT. vsu<ra>} 2. § .2.
 particula .3. y enla rosa aurea. {LAT. casu<is>} .16. delas q<ue>stiones imper-

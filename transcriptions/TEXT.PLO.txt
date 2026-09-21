@@ -112,7 +112,7 @@ luntad historia q<ue> tiene en si tanto p<ro>uecho q<ue> sin ella ninguna p<ar>t
 pues aqui demuestra la perfecion de vuestra naturaleza q<ue> en sola virtud consiste.}
 {SG. a ij}
 [fol. 2v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB1.
 {RUB. ¶ Aqui comiença el libro del famoso cauallero Palmerin
 de Oliua que[ ]por el mundo[ ]gra<n>des fechos en armas fizo: sin saber[ ]cuyo fijo fuesse. Mas la su
@@ -303,7 +303,7 @@ el quedo muy alegre por el grande amor que
 el emperador y su hijo le mostraron.}
 {SG. a iij}
 [fol. 3v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capitulo primero como la
 emperatriz demando al emperador a su fija
@@ -492,7 +492,7 @@ metidos. Todos respo<n>diero<n> que era<n>: co<n>te<n>tos
 de complir su mandado. E tornados a sus na-os}
 {SG. a iiij}
 [fol. 4v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 fizieron las llegar lo mas que pudieron a
 tierra & saltaro<n> en bateles y en barcas co<n> gra<n>
@@ -680,7 +680,7 @@ mo todos sus vassallos. & como el soldan era
 viejo no pudo yr el mesmo a vengar su coraço<n>
 mas p<ro>metio a dios q<ue> q<u><<a>>nto otro fijo q<ue> le que-daua}
 [fol. 5v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 fuesse d<e> edad p<ar>a tomar armas de e<m>biar
 lo con tanta gente sobre Costantinopla que
@@ -867,7 +867,7 @@ parte & le digas como yo estoy muy triste por
 su mal / & si yo algo puedo fazer por el reme-
 dio d<e> su salud que lo fare de grado. E lleua le}
 [fol. 6v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 este mi anillo que es d<e> muy[ ]gran virtud & que
 me embie a dezir q<ue>[ ]tal esta. E mira que no te
@@ -1066,7 +1066,7 @@ por agora conuiene me de fazer este camino.
 Caniano lo ouo tres dias por fuerça que no
 le dexo partir. y el postrero dia llegaro<n> los me<n>-sajeros}
 [fol. 7v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 del rey de Vngria que era el duque d<e>
 Garmay & venia<n> conel muchos preciados ca-
@@ -1265,7 +1265,7 @@ fuesse al palacio a donde fallo ala emperatriz
 faziendo grandes llantos por Tarisio que de-
 lante de si tenia: como el emperador llego vio}
 [fol. 8v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que Tarisio estaua avn biuo ouo plazer dello
 y rogo ala emperatriz q<ue> se fuesse a su camara
@@ -1453,7 +1453,7 @@ muy hermoso.}
 {MIN=.}}
 {SG. b}
 [fol. 9v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {IN4.} EL emperador avn q<ue> griana le em-
 bio aq<ue>lla carta q<ue>[ ]vos deximos no
@@ -1654,7 +1654,7 @@ ber que hiziesse de aquella criatura que d<e> gra-
 do la saluara si pudiera pero era muy conoci-do}
 {SG. b ij}
 [fol. 10v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 en aquella tierra / & como su señora griana
 auia estado presa enla torre por mandado del
@@ -1842,7 +1842,7 @@ passo mucho tiempo d<e>spues q<ue> ella caso q<ue> mu-
 rio el rey de Vngria & reyno luego Tarisio su}
 {SG. b iij}
 [fol. 11v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 marido. Griana d<e>spues que fue reyna hazia
 tantos bienes a todos q<ue> por santa era tenida
@@ -2041,7 +2041,7 @@ su padre & hermanos: no alca<n>çaua a conocer
 las cosas del mu<n>do p<er>o la cruel llaga de amor}
 {SG. b iiij}
 [fol. 12v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 q<ue> la vista de aq<ue>lla donzella le fizo lo abiuo tan-
 to: q<ue> luego quisiera yr a buscalla y dezia en su
@@ -2229,7 +2229,7 @@ torno se geraldo a su casa diziendo. q<ue> si supies-
 se quien le auia fecho yr a palmerin q<ue> le faria
 q<ue> lo co<m>prasse muy carame<n>te. La muger no le}
 [fol. 13v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 oso dezir nada delo q<ue> conel auia passado pero
 dixo le q<ue> ouiesse pacie<n>cia que ella esperaua e<n>
@@ -2405,7 +2405,7 @@ le respo<n>dio q<ue> no tenia remedio sino se lauasse
 con el agua dela fuente dela montaña Artifa-
 ria. y esta fuente esta enlo mas alto d<e>lla e<n>cima}
 [fol. 14v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 devna peña. & alli vienen q<u><<a>>tro vezes enel año
 tres fadas dela ysla de carderia a bañar se &
@@ -2605,7 +2605,7 @@ dixo Palmerin que mucho lo amo. El ena-
 no dixo. mi señor Florendos a Palmerin fizo
 dios ta<n> estremado en bo<n>dad que el tiene escu-sada}
 [fol. 15v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 mi ayuda / mas sabed que este pequeño
 cuerpo tiene tan gran coraçon que osare mo-
@@ -2803,7 +2803,7 @@ tan gra<n> fecho porque tenia<n> por muy cierta su
 muerte. E desque palmerin fue auisado de
 todo / mando alos escuderos & a Vrbanil su}
 [fol. 16v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 enano que queria morir con pesar de ver lo
 yr q<ue> se quedassen alli & no pasassen mas ade-
@@ -3003,7 +3003,7 @@ que mucho le fazia menester. E todos q<u><<a>>ntos
 auia enel lugar assi hombres como mugeres}
 {SG. c}
 [fol. 17v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 lo venia<n> a ver como a cosa por marauilla. Vn
 escudero delos q<ue> auian venido conel mientra
@@ -3191,7 +3191,7 @@ ua: & como gelo embio.}
 {MIN=.}}
 {SG. c ij}
 [fol. 18v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {IN4.} EStando el rey & Florendos su fi-
 jo co<n>el vn dia en su palacio q<ue> auia
@@ -3392,7 +3392,7 @@ stillo & fueron se a donde era la priessa & viero<n>
 como ala vna parte auian ya subido los ene-migos}
 {SG. c iij}
 [fol. 19v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 sobre el muro: y peleaua<n> co<n>ellos fasta
 treynta cauall<er>os q<ue> estaua<n> e<n> vna torre. y era<n> ya
@@ -3778,7 +3778,7 @@ por ello ala señora q<ue> me crio co<n>uiene me d<e> mo-
 rir de pesar pues no acabe lo q<ue> me e<n>come<n>do.
 Dezidme por donde van essos caualleros di-xo}
 [fol. 21v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 palmerin que yo yre tras ellos & fare todo
 mi poder por tomargela p<ar>a os la dar. Mu-
@@ -3966,7 +3966,7 @@ delo mio & tomo me otros dos castillos que
 mi marido me dexo & todas mis heredades &
 fasta oy lo tiene todo: & si mi fija fuesse d<e> edad}
 [fol. 22v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 ya la ouiera casado co<n> su hijo mas no ha sino
 diez años y yo querria ser mas muerta q<ue>l casa-
@@ -4165,7 +4165,7 @@ le tan fuerte golpe encima d<e>la cabeça que las
 enlazaduras del yelmo le corto con parte del
 avn q<ue> era muy fuerte & andando se el jaya<n> re-boluie<n>do}
 [fol. 23v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 por leua<n>tarse que ya se auia librado
 del cauallo cayose le el yelmo & quedo le la ca-
@@ -4364,7 +4364,7 @@ por venir por palmerin. No se que deziros se-
 ñora dad gracias a dios porq<ue> del podistes ser
 ayudada & no os pese dela su yda que el no es}
 [fol. 24v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 cauall<er>o q<ue> puede estar aq<u><<i>> mucho[ ]es menes-
 ter la su ayuda a muchos. Bie<n> lo veo yo dixo
@@ -4553,7 +4553,7 @@ de muy cierto digo & afirmo que fare conos-
 cer en campo por fuerça de armas a q<u><<a>>lq<u><<i>>er ca-uallero}
 {SG. d}
 [fol. 25v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que dixere que no es assi que diardo
 por consejo de su padre y de cardonia aquella
@@ -4753,7 +4753,7 @@ te sirue al rey muy lealmente: & ama sobre to-
 das las cosas aq<ue>l buen cauall<er>o q<ue> te libro: & fa-ze}
 {SG. d ij}
 [fol. 26v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 lo aqui venir q<ue> ya poca es la mi vida. Pal-
 merin vino luego. Adria<n> lo abraço & dixo le fi-
@@ -4942,7 +4942,7 @@ encantamie<n>to me puede nuzir si muriere mo-
 rire por librar ami señora / & sera mi muerte}
 {SG. d iij}
 [fol. 27v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 bie<n> e<m>pleada y creciole el ardimie<n>to co<n> este pe<n>-
 samie<n>to ta<n>to q<ue> ya se q<u><<i>>siera[ ]ver e<n>la batalla & assi
@@ -5131,7 +5131,7 @@ gela vio no podria ho<m>bre dezir lo que su cora-
 mor & dixole. Amigo q<ue> galardo<n> vos podria ho<m>-bre}
 {SG. d iiij}
 [fol. 28v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 dar q<ue> vos mas no meresciessedes: en gran
 cargo vos somos trineo mi hermano & yo que
@@ -5330,7 +5330,7 @@ no vine a esta tierra sino por seruirla y q<ue> soy su
 cauall<er>o p<ar>a fazer lo q<ue> me mandare & digelo ta<n>
 sesudame<n>te q<ue> ella no reciba enojo: q<ue> antes q<u><<i>>e-ro}
 [fol. 29v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 yo morir q<ue> ella lo aya. Ay señor dixo Vrba-
 nil todo es este el galardo<n> q<ue> me days por lo
@@ -5529,7 +5529,7 @@ como Palmeri<n> vio a su enano tan ledo el co-
 raçon se le estremecio & no pudo sofrir se de
 estar alli mucho & fuesse a su aposentamie<n>to}
 [fol. 30v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 el enano fue tras el & assi mesmo tolome ta<n>to
 fue el desseo que touo de saber si vrbanil auia
@@ -5717,7 +5717,7 @@ uall<er>os fueron puestos en punto y el emp<er>ador
 dueñas y donzellas que cada vno rogaua a di-
 os que guardasse aquel que mas amaua.}
 [fol. 31v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capitu<lo> .xxxiiij. como Pal-
 merin justo con Ga($n)[n]aren sobrino del empe-
@@ -5904,7 +5904,7 @@ estoy e<n>gañada el ama a mi. Ento<n>ces le co<n>to
 todo lo que le auia dicho & rogole que buscas-
 se manera como ella le pudiesse hablar: co<n> tal}
 [fol. 32v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que no perdiesse su ho<n>rra: & como Brionela
 amaua a Tolome no[ ]curo de afeargelo: mas
@@ -6104,7 +6104,7 @@ dios tan bien andante que yo vos conociera
 de ante que co<n>el duq<ue> casarades que yo estor-uar}
 {SG. e}
 [fol. 33v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 a casamiento tan desaguisado porq<ue> a vos
 sola quisiera yo mas que ser señor de todo el
@@ -6304,7 +6304,7 @@ quisiessen & lealmente amassen.
 {RUB. ¶ Capitulo .xxxvij. como luy-manes ⇒}}
 {SG. e ij}
 [fol. 34v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. y el duque de sauoya embiaron sus
 mensajeros por todas partes para fazer sa-
@@ -6493,7 +6493,7 @@ los me<n>sajeros començo a adere-
 entre tanto q<ue>l esto fazia no d<e>xaua}
 {SG. e iij}
 [fol. 35v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 todas las vezes quel podia dezir ala duq<ue>sa
 la gra<n> cuyta q<ue> por ella passaua & tanto fue del
@@ -6682,7 +6682,7 @@ cio otros q<u><<a>>tro cauall<er>os: de manera q<ue> quedo
 bien cansado del afan q<ue> auia lleuado / & fizose}
 {SG. e iiij}
 [fol. 36v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 bie<n> curar a buenos maestros q<ue> traya. Todos
 dezia<n> q<ue> era el mejor cauall<er>o q<ue> auia enel mun-
@@ -6869,7 +6869,7 @@ rena que se co<m>batia por la fermosura de poli-
 narda y era la batalla suya co<n> mas derecho q<ue>
 muy mas fermosa era q<ue> lucemana fija del rey}
 [fol. 37v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 de Fra<n>cia & por esto no se podia ve<n>cer. El du-
 que de sauoya ouo verguença como vos dexi-
@@ -7067,7 +7067,7 @@ tras todas a sus pies: saluo la figura q<ue>l duque
 de lorena auia perdido que la puso ygual[ ]dela
 quel auia lleuado: & dixo en su coraçon. ay mi}
 [fol. 38v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 señora perdonad mevos q<ue> ta<n>to tie<m>po tarde en
 no socorreros: q<ue> sin razon vos fizo aq<ue>l que en
@@ -7266,7 +7266,7 @@ maua Netrido: y este netrido quando el rey
 su padre murio era de edad de quinze años / y
 era muy fermoso y de todas buenas mane-ras.}
 [fol. 39v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Todos los caualleros lo amauan mu-
 cho: & como su padre murio quedo en poder d<e>
@@ -7466,7 +7466,7 @@ Netrido y[ ]las lagrimas le vinieron alos ojos
 de duelo del por ver lo tan mal doliente & de
 tan gran coraçon.}
 [fol. 40v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capitulo .xlv. Como frisol
 vie<n>dose aq<ue>xado d<e>su e<n>fermedad y escarnecido
@@ -7654,7 +7654,7 @@ que vistiesse y diole mucho auer & rogole que
 estouiesse alli conel. Frisol se detouo alli algu-nos}
 {SG. f}
 [fol. 41v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 dias / & alli deprendio el con los fijos del
 cauallero muchas buenas costumbres / y de-
@@ -7843,7 +7843,7 @@ ualleros por donde todos se partieron muy
 alegres & contentos del / mas antes hablo el}
 {SG. f ij}
 [fol. 42v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 rey con palmerin & rogole que como de suyo
 el[ ]fablasse en aquel casamie<n>to: y q<ue> si lo fiziesse
@@ -8032,7 +8032,7 @@ cansando sus coraçones que fasta alli de gra<n>-
 des passiones eran atribulados.}
 {SG. f iij}
 [fol. 43v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capitulo .xlviij. Como to-
 lome y brionela se desposaro<n> y co<n>firmaron el
@@ -8220,7 +8220,7 @@ aguila muy grande y tenia enel pico vna coro-
 na & enlas vñas vna aue muy pequeña & pare-cia}
 {SG. f iiij}
 [fol. 44v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que el aguila le ponia la corona enla cabe-
 ça: y en aq<ue>sta aguila mostro palmerin el gran
@@ -8419,7 +8419,7 @@ dia le daua gra<n>des dones. El rey de noruega
 ouo muy gran tormenta enla mar por donde
 p<er>dio muchas naos assi[ ]de alema<n>es como de}
 [fol. 45v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 las suyas d<e> manera q<ue> le fue forçado d<e> boluer
 a su reyno con gra<n>[ ]p<er>dida & yua co<n> voluntad de
@@ -8595,7 +8595,7 @@ tio de su real alçadas las vanderas & llego a
 la vista de sus enemigos. El duque de Tinto-
 il lleuaua la delantera. Trineo & palmerin v-niero<n>se}
 [fol. 46v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 ala haz[ ]del rey & pusieron se muy cer-
 ca del. Y el rey se marauillo quando los vio:
@@ -8793,7 +8793,7 @@ ros q<ue> el seria lo mas p<re>sto q<ue> pudiesse conella.
 fizo mensajero ala reyna d<e> como le auia ydo
 muy bie<n>: y d<e>las gra<n>des alegrias q<ue> ella fizo.}}
 [fol. 47v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {IN4.} EL me<n>sajero se partio luego & q<u><<a>>n-
 do llego donde la reyna estaua: ya
@@ -8992,7 +8992,7 @@ cauall<er>os estouiero<n> aq<ue>lla noche en gra<n> fiesta.
 Agriola se marauillaua mucho dela hermo-
 sura delos cauall<er>os & fablaua con vna donze-lla}
 [fol. 48v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 fija del[ ]duque de Norgales que era su pa-
 rienta que se llamaua Femia y deziale que si
@@ -9192,7 +9192,7 @@ mo jamas lo fue persona q<ue> tal seruicio fizies-
 se: & porq<ue> yo mas cierto sea ruegote que le lle-ues}
 {SG. g}
 [fol. 49v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 este anillo deste diama<n>te q<ue> es el mas pre-
 ciado que ay enel mundo que si yo lo veo en
@@ -9392,7 +9392,7 @@ rida ninguna: dio muchas gracias a nuestro
 señor avn q<ue> quedo muy ca<n>sado & caualgo lue-go}
 {SG. g ij}
 [fol. 50v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 & ala hora llego el rey con cien cauall<er>os q<ue>
 venia muy cuytado. & q<u><<a>>ndo vio el gigante mu-
@@ -9580,7 +9580,7 @@ griola q<ue> mucho a su voluntad en aq<ue>l camino
 fablaron & Agriola amaua ya tanto a trineo q<ue>}
 {SG. g iij}
 [fol. 51v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 hora no tenia de folgança sin verlo. toda la ge<n>-
 te salian mas por ver alos cauall<er>os estrange-
@@ -9769,7 +9769,7 @@ rodillas delante del rey & dixo. agora ha mo-
 strado dios su milagro pidos por merced que}
 {SG. g iiij}
 [fol. 52v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 me fagays entregar mi castillo porque yo se-
 ñor luego me quiero yr conel mi cauall<er>o & yre
@@ -9968,7 +9968,7 @@ cosas que echo de si a Frisol: & fue muy mal
 quebrantado dela cayda. Palmerin se apeo
 muy presto para lo matar.}
 [fol. 53v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capi<tulo> .lxij. como el duq<ue> de
 galez fue a vn castillo fazia do palmeri<n> cami-
@@ -10166,7 +10166,7 @@ erça: & vn dia la lleuaro<n> por engaño & la metie-
 ron enla torre q<ue> vos dixe que mi hermana a-
 uia fecho: y sobre esto fizieron gra<n>des enca<n>ta-mientos}
 [fol. 54v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 q<ue> ningun cauallero alla pudiesse pa-
 ssar porq<ue> se temiero<n> de mis parientes que ge-
@@ -10354,7 +10354,7 @@ pierdas presto esse cuydado. & como esto dixo
 fuesse a armar & caualgo encima d<e> vn cauallo
 muy bueno & mando abrir las puertas del pa-lacio}
 [fol. 55v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 con su lança enla mano. Palmerin que
 lo esperaua que assi lo vio dixole. Cauallero
@@ -10553,7 +10553,7 @@ fuesse co<n> dios q<ue> yo no era tal cauall<er>o q<ue> la mere-
 ciesse q<ue> me ma<n>daua q<ue> no fuesse osado de pare-
 cer delante della q<ue> me fuesse a caçar co<n> la do<n>ze-lla}
 [fol. 56v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que me auia dado el falcon & como esto di-
 xo quitose de vna ve<n>tana q<ue> salia a vna huerta
@@ -10742,7 +10742,7 @@ mo: y enco<n>traro<n>se muy poderosa-
 me<n>te. ermes quebro su la<n>ça: mas}
 {SG. h}
 [fol. 57v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muy ligeramente fue a tierra mal q<ue>bra<n>tado.
 palmerin tomo la la<n>ça sobremano & fue al es-
@@ -10931,7 +10931,7 @@ cauallero dela cueua por do<n>de fue causa q<ue> va-
 lerica lo desamasse: porq<ue> sabia q<ue> esta donzella}
 {SG. h ij}
 [fol. 58v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 desseaua de casarse co<n>el. Palmerin fue muy
 seruido aq<ue>lla noche. La donzella q<u><<i>>siera q<ue> tu-
@@ -11131,7 +11131,7 @@ muy atordido. Palmeri<n> se apeo muy ap<r><<i>>essa
 & dixo e<n> alta boz. Ya no me q<u><<i>>ero llamar palme-rin}
 {SG. h iij}
 [fol. 59v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 si desta vez tu me puedes escapar el escu-
 dero d<e> frisol q<ue> muy triste estaua por ver a su se-
@@ -11320,7 +11320,7 @@ y recibieronlo muy bie<n> y estouo conellas gra<n>
 pieça fablando: q<ue> agriola no le dexo fasta q<ue> le}
 {SG. h iiij}
 [fol. 60v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 conto donde auia estado: el rey lo embio a lla-
 mar p<ar>a cenar q<ue> estouo gran pieça dela noche
@@ -11519,7 +11519,7 @@ dia supieron delos marineros si auia tiempo
 p<ar>a salir del puerto: ellos dixeron que si q<ue> todo
 era endereçado. mucho fueron ledos con aq<ue>-llas}
 [fol. 61v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 nueuas. Trineo les ma<n>do q<ue> estouiessen
 todos aparejados p<ar>a q<u><<a>>lq<u><<i>>era hora q<ue> ouiessen
@@ -11706,7 +11706,7 @@ y enella le fazia saber toda su fazienda & como
 muy cedo seria co<n>ella lleua<n>do consigo la cosa
 d<e>l mu<n>do q<ue>l mas amaua y d<e>spues diole el ena-no}
 [fol. 62v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 la carta de palmerin. ella la abrio & fallo el
 anillo que aueys oydo dentro y metio lo enel
@@ -11905,7 +11905,7 @@ saron de escapar: & todos no pensauan en al
 sino e<n> rogar a dios que les quisiesse auer mer-
 ced d<e>l anima. agriola yua como muerta: mas}
 [fol. 63v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Trineo la lleuaua de contino enlos braços
 ella dezia q<ue> por amor della auia venido aquel
@@ -12093,7 +12093,7 @@ cautiuo & dexarlos hemos fasta su tiempo y
 dezir vos hemos lo que auino a Agriola des-
 pues que trineo fue apartado della.}
 [fol. 64v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. ¶ Capitulo .lxxv. como Oli-
 mael llego delante del turco con agriola: el q<u><<a>>l
@@ -12281,7 +12281,7 @@ el mundo por gran seso que ouiera que no se
 mudara viendo el gra<n> señorio del gran turco}
 {SG. i}
 [fol. 65v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 quanto mas que el era cauallero mancebo &
 muy fermoso: mas dios quiso tener co<n> su ma-
@@ -12481,7 +12481,7 @@ era christiano & assi se podia mejor librar / &
 tomo vna ropa que aq<ue>l moro q<ue> mato traya y}
 {SG. i ij}
 [fol. 66v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 vestiola y dexo la suya & fuesse por otra parte
 & no por el camino que el moro venia & tomo
@@ -12681,7 +12681,7 @@ saña contra el por lo que auia hecho dizien-
 do que no era merecedor de llegar a Alchi-diana.}
 {SG. i iij}
 [fol. 67v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Ella lo conocio & por aquello tomo a
 Palmerin por el braço & dixole que viniesse
@@ -12869,7 +12869,7 @@ muy graue tormento de sofrir.
 {RUB. ¶ Capitulo .lxxx. Como el in-fante ⇒}}
 {SG. i iiij}
 [fol. 68v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {RUB. Manarix embio vn me<n>sajero al solda<n>
 para que le diesse licencia para venir a su cor-
@@ -13046,7 +13046,7 @@ an que la reyna auia fecho bien en vengarse
 assi. Manarix vino luego al palacio del sol-
 da<n> y venia<n> conel cie<n> caualleros muy apuestos}
 [fol. 69v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 E trayan las baruas muy largas por duelo.
 Todos los altos hombres lo recibiero<n> muy
@@ -13245,7 +13245,7 @@ gran verguença q<ue> ouo de alchidiana & d<e>l des-
 pecho q<ue> tomo de palmerin porq<ue> assi la despre-
 cio & no fablaua ni respondia a cosa q<ue> Alchi-diana}
 [fol. 70v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 le dixesse la qual despues q<ue> Palmerin
 fue ydo le començo a dezir palabras muy ay-
@@ -13443,7 +13443,7 @@ mos llego amaran de nigrea vna
 jornada dela corte del soldan a de-
 mandarle seguro p<ar>a acusar aq<u><<i>>en}
 [fol. 71v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 quiera que el quisiesse en su corte. Los caua-
 lleros fueron y despues que besaron las ma-
@@ -13642,7 +13642,7 @@ Mahomad auia fecho aquel milagro. El
 soldan abraço a Palmerin diziendo. Ay ami-
 go que marauilla es esta que vemos de oyros}
 [fol. 72v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 fablar lo que fasta aqui no aueys hecho yo lo
 precio mas que q<u><<i>>en me diera a[ ]ganar vn rey-
@@ -13842,7 +13842,7 @@ ardaua se delos golpes de Palmerin: & Pal-
 merin era de gran coraçon & fuerça & acome-tia}
 {SG. h}
 [fol. 73v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muy sin miedo a Amara<n>. de manera que
 passo mas de vna hora que enellos no pare-
@@ -14031,7 +14031,7 @@ porque lo conocian por muy buen caualle-
 ro & luego mouieron contra el señorio del sol-dan}
 {SG. h ij}
 [fol. 74v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 & començaron de fazerle muy cruel gue-
 rra que no dexauan a vida a quantos fallaua<n>
@@ -14207,7 +14207,7 @@ que no lo osaua enojar: y el le daua a enten-
 der que no desseaua otra cosa sino lo que co<n>}
 {SG. k iij}
 [fol. 75v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 el auia hablado. El Soldan despues que vi-
 do todas sus gentes juntas hablo con Pal-
@@ -14407,7 +14407,7 @@ amor d<e>lla en tal lugar q<ue>llos lo pudiessen muy
 bie<n> ver & despidiose della & assimesmo oloriq<ue> &}
 {SG. k iiij}
 [fol. 76v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 fueron a besar las manos al soldan / el los a-
 braço muy de coraçon: y rogoles que no se
@@ -14594,7 +14594,7 @@ palmerin quando lo supieron vinieron otros
 tantos & mas / & pusieron los vnos dela vna
 parte & los otros dela otra con seguridad que}
 [fol. 77v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 aquel dia no ouiesse mas batalla delos tres
 caualleros. Olorique se quexaua mucho de
@@ -14793,7 +14793,7 @@ no podia ser: & dio grandes dones al mensaje-
 ro y dezia que la buena ventura de Palmeri<n>
 le auia dado aquella vitoria & su grande bon-dad.}
 [fol. 78v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Alchidiana embio por el y hizole contar
 todas las nueuas / y quando ella oyo lo que
@@ -14969,7 +14969,7 @@ cho: y pues que vos sabeys la verdad escusa-
 do es d<e> pescudar nos lo. Vos dezis gran ver-
 dad dixo la reyna que la v<uest>ra lealtad conocida}
 [fol. 79v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 es enel mundo quando quitastes la corona
 aquel falso manarix. Yo vos digo a cada vno
@@ -15168,7 +15168,7 @@ la otra parte: & assi se tornaron para la cibdad
 muger del soldan & alchidiana su fija la mas
 ricamente guarnida que jamas nu<n>ca la vido:}
 [fol. 80v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 quando palmerin le fue a besar las manos.
 Ella lo recibio muy alegremente y tomo lo
@@ -15357,7 +15357,7 @@ erta & dixole. Palmerin yo creo que no vos
 te<n>go d<e> ver mas q<ue> antes q<ue> vos vengays sere yo}
 {SG. l}
 [fol. 81v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muerta segu<n> lo que siento. Esso no q<u><<i>>era dios
 dixo palmeri<n> que yo tornare muy cedo & vos
@@ -15558,7 +15558,7 @@ gra<n> cuyta. Ay santa maria valme dixo palme-
 rin y es cierto que Trineo no es tornado a ca-sa}
 {SG. l ij}
 [fol. 82v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 de su padre: gran daño es en perder tal & ta<n>
 buen cauall<er>o por señor el imp<er>io de alemaña.
@@ -15758,7 +15758,7 @@ ar. Ay amiga mia que no ay seso que baste
 para encobrir tal plazer. E assi estaua<n> ambas}
 {SG. l iij}
 [fol. 83v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 a dos que no sabian lo que[ ]fazian ni dezia<n> ta<n>-
 ta era su alegria. Palmerin despues que des( )-
@@ -15946,7 +15946,7 @@ la ouo alli entrellos vna muy fuerte lid: enla
 qual murio enlos primeros el fijo de Cania-no}
 {SG. l iiij}
 [fol. 84v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 dela qual muerte todos fueron muy tri-
 stes y desmayados / tanto que los moros to-
@@ -16134,7 +16134,7 @@ podra auer. Tolomestra tomo vn letuario pa-
 ra lleuarle / & salio por vna puerta pequeña
 q<ue> estaua alli para lleuar las limosnas alos po-bres.}
 [fol. 85v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Florendos se vino para ella y ella le dio
 el letuario que comiesse: & dixole lo que la rey-
@@ -16332,7 +16332,7 @@ na que merezco porque dueña tan mal anda<n>-
 te como yo no deuria de biuir enel mundo.
 Ay dios y que vos mereci porque me diesse-des}
 [fol. 86v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 tan desonrrado y desastrado quede sin ser
 yo culpada en dicho ni en fecho enla muerte
@@ -16531,7 +16531,7 @@ mo lo es enla obra. Ya vos señor sabeys como
 me hezistes casar con tarisio por fuerça y que
 tanto vos pedi por merced que no melo die-ssedes}
 [fol. 87v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 por marido que harto bastaua el deu-
 do que comigo tenia. Y esto hazialo yo con
@@ -16719,7 +16719,7 @@ tiene tan poca fuerça el amor que yo vos ten-
 go / q<ue> antes no muriesse que fazerlo: especial-
 me<n>te que vos soys mi marido & aueys auido}
 [fol. 88v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 lo mejor de mi: como yria yo a francia auien-
 do vos dado tales dos cosas / quando otro
@@ -16907,7 +16907,7 @@ no que no me[ ]puedo aqui mas detener / rue-
 go a dios que te guarde que por agora no he}
 {SG. m}
 [fol. 89v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 menester tu seruicio el q<u><<a>>l soy yo bien cierta q<ue>
 harias tu de[ ]grado. E como esto dixo cubrio
@@ -17108,7 +17108,7 @@ sa que era muy buena. El cauallero dela ca-
 zella que lo salio a recebir. Mi amiga Leo-narda}
 {SG. m ij}
 [fol. 90v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 aparejaos de fazer mucha honrra & cu-
 rar a dos caualleros que traygo comigo q<ue> de-
@@ -17297,7 +17297,7 @@ cho esta puesto en juyzio d<e> batalla: & si el no la
 pu(e)diere fazer yo porne mis fuerças p<ar>a guar-dar}
 {SG. m iij}
 [fol. 91v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 su derecho. El emperador que vido a pal-
 merin tan fermoso y de tan gran coraçon pa-
@@ -17498,7 +17498,7 @@ quier cauall<er>o q<ue> lo q<u><<i>>siere co<n>tradezir. Palme-
 ri<n> dixo a florendos. Señor florendos vos otor-gays}
 {SG. m iiij}
 [fol. 92v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 me vuestro derecho y que pueda hazer
 la batalla por vos y responder a estos caualle-
@@ -17697,7 +17697,7 @@ pensando aquella noche en muchas cosas y
 acordose delas palabras que la reyna de Tar-
 sis le auia dicho que primero libraria a su}
 [fol. 93v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 padre que lo conociesse y[ ]dezia en su coraçon.
 Ay dios si Florendos[ ]fuesse mi padre & Gria-
@@ -17885,7 +17885,7 @@ oy nunca dema<n>de don a emp<er>ador ni[ ]rey avn
 que me he hallado enlas cortes delos mayo-
 res del mundo. agora queria vos pedir vno}
 [fol. 94v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 pido vos por merced que melo otorgueys pu-
 es siempre[ ]fezistes[ ]grandes mercedes a quie<n>
@@ -18085,7 +18085,7 @@ gran solemnidad por mano de vn arçobispo[ ]&
 luego todos no entendieron en otra cosa sino
 en hazer alegrias y juegos todos los caua-lleros}
 [fol. 95v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 & por aquel dia no pudiero<n> fablarse flo-
 rendos & Griana a su volu<n>tad: mas muy ale-
@@ -18272,7 +18272,7 @@ su hermana: & Florendos & Griana queda-
 ron habla<n>do en muchas cosas que muy gra<n>
 descanso tomauan sus coraçones. E palme-rin}
 [fol. 96v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 estouo con su hermana rogandole que p<er>-
 donasse a Florendos la muerte de su padre q<ue>
@@ -18461,7 +18461,7 @@ cho por seruir ala infanta que mucho le ha-
 uia cautiuado su coraçon. E ala fin ellos a-cordaron}
 {SG. n}
 [fol. 97v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 de ser mantenedores delas justas
 y torneos que alli se hiziessen y con otros ca-
@@ -18649,7 +18649,7 @@ de Lorena y el marques de Licena a Costa<n>-
 tinopla a con( )firmar el casamiento.}}
 {SG. n ij}
 [fol. 98v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {MIN=.}
 {IN4.} EL duque de Micena: y el con-
@@ -18839,7 +18839,7 @@ con otro que aya enel mundo / por lo hauer
 conocido quiera dios de hazerlo tan bien an-dante}
 {SG. n iij}
 [fol. 99v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que halle a Trineo porque seamos to-
 dos alegres que de otra manera ninguna co-
@@ -19028,7 +19028,7 @@ llas. Mucho plazer tomaua Palmerin de
 ver andar al infante ta<n> ardid. Otros muchos}
 {SG. n iiij}
 [fol. 100v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 cauall<er>os ouo alli q<ue> fueron muy buenos. mas
 sobre todos lleuo la[ ]honrra aquel[ ]dia Frisol
@@ -19228,7 +19228,7 @@ do Palmerin cubriendo se con vn rico man-
 to entro el & fue con los braços te<n>didos a abra-
 çarlo y besole muchas vezes enla faz / & dixo-le.}
 [fol. 101v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 O fijo mio Palmerin descanso d<e> mi vejez
 como soy alegre de ver la vuestra alta bondad
@@ -19427,7 +19427,7 @@ a vn cauallero que fuesse a saber quien era el
 cauallero del sagitario: & si los fallasse biuos
 q<ue>[ ]los lleuasse avna posada & los fiziesse curar}
 [fol. 102v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 quel[ ]no queria que ninguno muriesse en aq<ue>-
 llas fiestas si[ ]possible[ ]fuesse. El cauallero fue
@@ -19615,7 +19615,7 @@ ys vos mi fijo Frisol. Si soy dixo el. Netrido
 le echo los braços & touo lo assi muy gran pie-
 ça llorando biuas lagrimas & tanto plazer sen-tian}
 [fol. 103v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 ambos ados que no se podian hablar.
 Palmerin llego alos despartir & dixo. Netri-
@@ -19802,7 +19802,7 @@ a recebir con gra<n>de fiesta: el los hablaua a to-
 dos con tanto amor que el les daua bie<n> a en( )-
 tender que se auia criado entrellos: y llegan-do}
 [fol. 104v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 alas casas de Estebon apeose & la dueña
 salio a el fasta la puerta dela calle / & finco las
@@ -19990,7 +19990,7 @@ raço y como palmeri<n> tomo a laurena y como
 luego fueron a tesalia y prendieron al rey.}}
 {SG. o}
 [fol. 105v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {MIN=.}
 {IN4.} DEspachadas todas las cosas q<ue>
@@ -20180,7 +20180,7 @@ la ventura faze alos ho<m>bres errar. Entonces
 le conto como auian sido presos por aq<ue>llos}
 {SG. o ij}
 [fol. 106v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 turcos y por saluar sus vidas le ayudauan. y
 ella le dixo si era <ver>dad q<ue>lla estaua en poder d<e>
@@ -20368,7 +20368,7 @@ tenia aborrecidos: mas agora mudar se ha mi
 proposito & digo que voy muy co<n>te<n>ta en solo}
 {SG. o iij}
 [fol. 107v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 yr en vuestro poder y ser satisfecha d<e> mis ma-
 los pensamientos vos teniades mucha ra-
@@ -20569,7 +20569,7 @@ co hizo muy grande honrra a Olimael & di-
 xole que el le galardonaria muy complida-mente}
 {SG. o iiij}
 [fol. 108v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 el gran seruic[i]o que le auia hecho &
 por hazerle muy grande honrra ma<n>dole que
@@ -20757,7 +20757,7 @@ neo enla ysla de malfado enca<n>ta-
 do assi como vos auemos co<n>tado
 no sintie<n>do ninguna pena por su}
 [fol. 109v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 señora Agriola vino ala ysla vna infanta mo-
 ra por hablar con la señora dela ysla por auer
@@ -20944,7 +20944,7 @@ pudieron mas fablar. & como Laurena del
 se p<ar>tio dixo a agriola todo aq<ue>l fecho y co<n>sejole
 q<ue> qua<n>do viesse q<ue> ellos fablaua<n> a parte q<ue> ella}
 [fol. 110v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 mostrasse enojo al gra<n> turco: y que le pesaua
 mucho de aquella habla: y que ella concerta-
@@ -21132,7 +21132,7 @@ dueñas & do<n>zellas & dixo les. Amigas en muy
 gran cuyta somos que no fallo a Agriola ni a
 Laurena q<u><<i>>ero yr a ver si esta<n> enla camara del}
 [fol. 111v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 turco mi señor. & quando ella llego ala cama-
 ra fallo a sus donzeles q<ue> no osauan entrar ala
@@ -21331,7 +21331,7 @@ no vos podria ho<m>bre dezir la alegria d<e> estebo<n>:
 & pidio por merced a palmerin que le dixesse
 a donde yua: el gelo conto todo. Estebon le di-xo}
 [fol. 112v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que no se partiria del fasta que tornasse en
 Costantinopla: & luego fue a ver a Agriola &
@@ -21532,7 +21532,7 @@ se aq<ue>llos cossarios: & yo lo fize &[ ]fue tal mi ve<n>-
 tura que los cossarios mataron y pre<n>dieron a}
 {SG. p}
 [fol. 113v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 qua<n>tos comigo yuan & ami conellos: & ando-
 uimos q<u><<a>>tro meses por la mar a vnas partes &
@@ -21721,7 +21721,7 @@ esquiua. La infanta come<n>ço d<e> llamar al ca<n> &
 a falagar lo: mas por mucho q<ue>lla fizo el ca<n> nu<n>-ca}
 {SG. p ij}
 [fol. 114v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 se aparto de Palmerin. Maulerin dixo
 a palmerin. Amigo ruego vos q<ue> no nos ne-
@@ -21910,7 +21910,7 @@ co que todos venian de mala voluntad & les
 pesaua mucho delo q<ue>l rey su hermano hazia}
 {SG. p iij}
 [fol. 115v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 y en[ ]ver el gra<n> coraçon de Palmerin assi mes-
 mo: & la infanta quedo tal que no pudo fablar
@@ -22110,7 +22110,7 @@ yra del rey vuestro hermano: & vos ha fecho
 señor de toda la tierra porque vos lo merecia-des}
 {SG. p iiij}
 [fol. 116v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 ser & vos cauall<er>o embiado de dios el vos
 faga el mas bien andante de todos los hom-
@@ -22298,7 +22298,7 @@ que lo trayan que gelo traxessen y ellos lo hi-
 zieron luego y como tolome se vio antella co-
 nocio que aq<ue>lla era la hija del soldan & hinco}
 [fol. 117v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 las rodillas y estouo quedo esperando lo que
 ella diria. Alchidiana mirolo & pareciole enel
@@ -22486,7 +22486,7 @@ mas no lo era & llamase aquel monstruo en a-
 quella tierra Basilisco & era ta<n> brauo y esq<u><<i>>uo
 q<ue> mas no lo podia ser tenia los die<n>tes y vñas}
 [fol. 118v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muy agudas & assi como llego ala co<m>paña de
 la infanta tomo vn hombre e<n>tre sus vñas & fi-
@@ -22673,7 +22673,7 @@ llegar ala ciudad de Romata a
 media jornada della & la Ynfanta
 se vistio muy rica mente con todas sus don-zellas}
 [fol. 119v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 Palmerin q<u><<i>>so yr armado saluo de yel-
 mo y assi yuan todos los cien cauall<er>os & assi
@@ -22873,7 +22873,7 @@ ron. Por tal me te<n>go yo dixo la infanta en
 traello comigo que de otra manera no hizie-
 ra yo este camino avn que mucho me era me-nester.}
 [fol. 120v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 El rey abraço a Palmerin & hizo le
 mucha honrra. & assi mesmo todos sus altos
@@ -23061,7 +23061,7 @@ caualleros y como fue al castillo & lo que enel
 le acontecio.}}
 {SG. q}
 [fol. 121v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {MIN=.}
 {IN4.} PAlmerin se puso en pu<n>to para co-
@@ -23239,7 +23239,7 @@ tenia la qual ella dio muy ligeramente y des-
 que la touo en su poder acordo de yr al pala-cio}
 {SG. q ij}
 [fol. 122v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 por[ ]ver lo que enel estaua y metio la llaue
 & abrio la puerta luego y como entro vio el pa-
@@ -23440,7 +23440,7 @@ meri<n> & trineo viniero<n> a ellos el señor d<e>l casti-
 llo & su muger & venia<n> las caras amarillas & fla-cas}
 {SG. q iij}
 [fol. 123v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 q<ue> parecian p<er>sonas espantadas y echaro<n>
 se alos pies de palmeri<n> dizie<n>do. Ay buen ca-
@@ -23640,7 +23640,7 @@ muchas mercedes dixo la infanta nu<n>ca dios
 q<u><<i>>era que yo vos dema<n>de cosa que vos no po-days}
 {SG. q iiij}
 [fol. 124v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 hazer avuestra honrra & sabed q<ue>l don q<ue>
 me prometistes es q<ue> no haueys de partir des-
@@ -23829,7 +23829,7 @@ tra el Soldan Ruegovos que lo fagays assi
 dixo Palmerin porque no nos detengamos
 Muça fue a hablar conel rey & dixole todas}
 [fol. 125v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 las cosas que le conuenian fazer p<ar>a sus gue-
 rras & aconsejole que luego de alli se parties-
@@ -24017,7 +24017,7 @@ Soldan allego mucha gente: y embio a vn al-
 mirante a tomar la puente.}
 {MIN=.}}
 [fol. 126v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 {IN4.} EL soldan de persia como vos de-
 ximos era muy buen cauallero y
@@ -24204,7 +24204,7 @@ stro señor que a tanto se obliga /
 tornad ael y dezilde que se apareje que yo se-
 re luego conel con las condiciones que el ha}
 [fol. 127v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 puesto. el escudero se torno & dixo a su señor lo
 que hauia recaudado. El rey fue muy ledo &
@@ -24392,7 +24392,7 @@ dan le dio licencia que bien conoscia que era
 tal q<ue> enmendaria lo q<ue> los otros faltaron & o-
 tro dia luego embio vn escudero al real: el q<u><<a>>l}
 [fol. 128v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 se fue ala tienda de Palmerin & como el lo vi-
 do venir conocio que venia a dema<n>dar bata-
@@ -24581,7 +24581,7 @@ der quel y sus ge<n>tes estaua<n> alli de balde que
 yo no tengo en nada el su gran poder. Señor}
 {SG. r}
 [fol. 129v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 dixo Palmerin cierto es que dios vos ha de
 ayudar porq<ue> el soldan vos quiere fazer fuerça
@@ -24816,7 +24816,7 @@ fuesse a poner en medio dellos diziendo: Ay
 por dios señor no pongays v<uest>ro gra<n>de estado}
 {SG. r ij}
 [fol. 130v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 en tomaros co<n> este lobo hambrie<n>to q<ue> mucha
 sangre ha derramado delos persianos. Pal-
@@ -25005,7 +25005,7 @@ vos cierto dixo el cauall<er>o que a<n>tes sereys ser-
 uido y honrrado a todo su poder. y desde aq<ue>-lla}
 {SG. r iij}
 [fol. 131v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 hora el soldan fue perdiendo alguna parte
 de su enojo & los caualleros q<ue> lo lleuauan en
@@ -25194,7 +25194,7 @@ bueno y q<ue> ellos venian a ver al soldan: y ella di-
 xo que viniessen en tal hora q<ue> fuesse en bie<n> de}
 {SG. r iiij}
 [fol. 132v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 todos. Assi sera dixo el mayordomo: & la rey-
 na mando a[ ]vn cauallero que los lleuasse a do<n>-
@@ -25393,7 +25393,7 @@ ellos venga<n> a hazer lo que yo d<e>sseo: & vos Li-
 çadra que soys la mayor mostrareys grande
 amor a Palmerin que es el mejor: & vos Au-renci[d]a}
 [fol. 133v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 tomaras el otro q<ue> no le falta cosa para
 ser muy buen cauallero. Ellas le dixeron que
@@ -25580,7 +25580,7 @@ palmeri<n> por la rie<n>da & vn rey moro d<e>la otra par-
 te & a Belsima el infante Dormin & otro rey
 d<e>l señorio d<e>l soldan. Trineo tomo a Aure<n>cida}
 [fol. 134v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 q<ue> ella fizo tanto q<ue> no se pudo escusar delo ha-
 zer: & yendo assi todos por la rua dixo Aure<n>ci-
@@ -25779,7 +25779,7 @@ fiesta delas bodas del solda<n> mau-
 cete vino al palacio del solda<n> aco<m>-
 pañado d<e> muchos caualleros. el}
 [fol. 135v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 soldan lo recibio muy bien & maucete le dixo
 a lo[ ]q<ue> venia & lo q<ue> su señor le auia ma<n>dado d<e>zir.
@@ -25967,7 +25967,7 @@ q<ue> ver a Trineo en aq<ue>l peligro el solda<n> & las in-
 fantas se pusiero<n> a do<n>de muy bie<n> podia<n> ver la
 batalla & todos rogauan a dios q<ue> guardasse a}
 [fol. 136v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 trineo de mal. Los juezes les partiero<n> el sol:
 & pusiero<n> a cada vno en<e>l lugar q<ue> se co<n>uenia &
@@ -26156,7 +26156,7 @@ tanto della que no le auia podido dezir cosa.
 al Soldan le peso con aquellas nueuas mas}
 {SG. s}
 [fol. 137v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 mucho mas p<re>cio alos cauall<er>os en su coraço<n>
 qua<n>to mas ellos despreciaua<n> sus promessas
@@ -26345,7 +26345,7 @@ leda pensando que assi haria ella a Palme-
 rin. Trineo como vos deximos fue tan pa-gado}
 {SG. s ij}
 [fol. 138v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 de Aure<n>çida q<ue> no le peso por[ ]lo q<ue> auia fe-
 cho mas antes la amo muy afincadame<n>te y
@@ -26534,7 +26534,7 @@ ron mucho porque no lo auia hecho sesuda-
 mente que auia deshonrrado a su hermana}
 {SG. s iij}
 [fol. 139v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 & q<ue> el auia dado tanta[ ]parte alos caualleros
 q<ue> no era marauilla q<ue> aq<ue>llo fiziessen. El solda<n>
@@ -26723,7 +26723,7 @@ llorando muy amargamente dezia: Ay caua-
 lleros del soldan de aqui adela<n>te no espereys}
 {SG. s iiij}
 [fol. 140v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 ningun bien del que falso es y aleuoso que el
 me fizo caer eneste[ ]yerro por me matar. y de-
@@ -26911,7 +26911,7 @@ otros caualleros & de Palmerin & de trineo
 Gran tiempo passo que persona no vido al
 Soldan alegre hasta que le nascio vn[ ]hijo de}
 [fol. 141v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 zerfira su muger: entonces el hizo muy gran-
 des fiestas. La infa<n>ta Aurencida desque en-
@@ -27099,7 +27099,7 @@ co<n>uieneme d<e> auer en mi poder aq<ue>l libro & aq<ue>l
 cuerno q<ue> sin el no podemos fazer cosa: vio la[ ]vi-
 ga tal q<ue>l temio d<e> entrar por ella q<ue> creya q<ue> co<n>el}
 [fol. 142v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 peso delas armas se q<ue>brasse & diesse co<n>el aba-
 xo y esto le hazia dudar & como puso vn pie en
@@ -27287,7 +27287,7 @@ merin se ygualasse & maldezia<n> a malfado por
 q<ue> assi los auia tenido encantados que no pu-
 diessen[ ]fazer cosa que honrra les fuesse. y era<n>}
 [fol. 143v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muy ledo[s] d<e>la su muerte & mucho les parecia
 bien Trineo & dezia<n> q<ue> era[ ]gra<n> mal estar tal ca-
@@ -27475,7 +27475,7 @@ do al cauallero a sus pies / cortole muy presto
 las enlazaduras del yelmo y queria le cortar
 la cabeça. El cauallero que en su acuerdo esta-va}
 [fol. 144v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 le dixo. Ay señor cauallero no me mateys
 q<ue> yo me otorgo por[ ]vuestro. Palmerin que es-
@@ -27675,7 +27675,7 @@ de alegria de seguir su viaje y[ ]palmerin se me-
 tio en vna camara & alli hinco las rodillas al-çadas}
 {SG. t}
 [fol. 145v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 las manos al[ ]cielo dio muchas graci-
 as a[ ]dios diziendo. O señor padre de toda pie-
@@ -27875,7 +27875,7 @@ dixo le como era ya razo<n> q<ue> fuesse
 a reposar delos gra<n>des afanes q<ue>}
 {SG. t ij}
 [fol. 146v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 auia por el lleuado: y[ ]q<ue> el queria embiar co<n>el
 dos embaxadores el[ ]vno al soldan: y el otro a
@@ -28076,7 +28076,7 @@ partiessen vino vn cauall<er>o d<e>l reyno de arauia
 q<ue> venia por oloriq<ue> p<ar>a recebirlo por rey q<ue> su pa-dre}
 {SG. t iij}
 [fol. 147v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 era muerto. oloriq<ue> ouo mucho pesar y ma<n>-
 do q<ue> recibiessen por señor[ ]a otro su hermano
@@ -28276,7 +28276,7 @@ sa como si fuera aq<ue>l el primero dia q<ue> la ouiera
 visto. E desque Trineo beso las manos ala}
 {SG. t iiij}
 [fol. 148v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 emperatriz Palmerin & agriola fincaron las
 rodillas antella. La emperatriz alço por las
@@ -28474,7 +28474,7 @@ perador muy aco<m>pañado de caua-
 lleros y el muy ricamente guarni-
 do como aquel que ya era duque}
 [fol. 149v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 de saxona y andouieron por sus jornadas tan-
 to q<ue> llego a borgoña: y este camino tomo tolo-
@@ -28673,7 +28673,7 @@ fueron: antes los deues tener por hijos / que
 por enemigos: pues ala[ ]fin vos aueys de ser
 mas ledo con el bie<n> de v<uest>ra fija q<ue> otra p<er>sona d<e>l}
 [fol. 150v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 mu<n>( )do & la su ho<n>rra es v<uest>ra y como esto dixo ca-
 llose. El rey le respo<n>dio. Duq<ue> d<e> micena si yo
@@ -28872,7 +28872,7 @@ fize. Frisol se[ ]fue abraçar con palmeri<n> co<n> gra<n>-
 de alegria. Ay mi señor dixo el p<ar>a q<ue> q<ue>reys q<ue>
 todo el mundo sepa la mi[ ]gra<n>de locura passa-da}
 [fol. 151v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 cierto mas seria q<ue>[ ]loco aunq<ue> se pudiesse fa-
 zer el[ ]q<ue> fuesse co<n>tra vos q<ue> bien creo q<ue> aunq<ue> no
@@ -29070,7 +29070,7 @@ uria mucho pesar: esto les dixo el porque nin-
 guno fuesse osado de hazelles mal y todos q<u><<a>>n-
 tos lo oyeron no osaro<n> fazer co<n>tra ellos cosa}
 [fol. 152v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 desaguisada q<ue> otrame<n>te catiuara<n> los porq<ue> pa-
 recia<n> moros. El marinero busco vna casa de
@@ -29270,7 +29270,7 @@ la v<uest>ra venida: y esto dezia el emp<er>ador llora<n>do
 muy fieramente de piedad de Alchidiana &}
 {SG. v}
 [fol. 153v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 abraço la consigo besando la muchas vezes
 en el rostro y dezia. Ay mi señora q<ue> yo no os
@@ -29470,7 +29470,7 @@ dida y todos los que venian enella afogados
 enla mar assi dueñas y donzellas como caua-lleros}
 {SG. v ij}
 [fol. 154v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 saluo tres cauall<er>os que touiero<n> cora-
 çon de saluarse assi como el infante Oloriq<ue> fi-
@@ -29671,7 +29671,7 @@ dioles qua<n>to auia<n> men<e>ster ta<n> co<m>plidame<n>te co-
 mo lo tenia<n> en casa del solda<n>: & alchidiana de-xo}
 {SG. v iij}
 [fol. 155v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 los sus paños negros & vestida delos ricos
 torno en su hermosura co<n> la gra<n>de alegria de
@@ -29870,7 +29870,7 @@ te q<ue> tu no lo puedes hazer: muy mejor lo hara
 Menaden tu hermano & agora es ta<n> pequeño}
 {SG. v iiij}
 [fol. 156v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 que co<n>uiene q<ue> espere vn año y mas d<e>sq<ue> yo
 viere t<iem>po yo vos lo dire / assi vos lo ruego yo
@@ -30069,7 +30069,7 @@ bia lo q<ue>[ ]fazia. Esso mesmo acaescio a mena-
 den q<ue>l duq<ue> de Pera vino ael tan brauo q<ue> lo to-
 mo en sus braços & dio conel en tierra: y Be-laquin}
 [fol. 157v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 le tomo la espada delas ma<n>os y otro lo
 desarmo & tanto fizieron q<ue> por su mal vino alli
@@ -30268,7 +30268,7 @@ da muy mas fermosa que lo era de antes. el e<m>-
 perador agradecio mucho a muça su venida
 y porque el reposasse muça y la e<m>p<er>atriz se fue-ron}
 [fol. 158v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 a ver al infante oloriq<ue> q<ue> alchidiana se fue
 abraçar co<n> la e<m>p<er>atriz llora<n>do ay mi señora dixo
@@ -30465,7 +30465,7 @@ cebir & fizo le salir en t<ie>rra y fuesse conel ala ciu-
 dad. El rey de Balisarca q<u><<a>>ndo se vido en aq<ue>l
 lugar las lagrimas le vinieron alos ojos & so-spiro}
 [fol. 159v]
-{HD. Libro primero. +}
+{HD. Libro primero. ⇒}
 {CB2.
 muy fierame<n>te. ay ciudad[ ]d<e> costa<n>ti<n>opla
 dixo el qua<n> caro has costado a muchos bue-

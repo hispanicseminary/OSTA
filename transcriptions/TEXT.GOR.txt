@@ -441,7 +441,7 @@ sobacos & sus semeja<n>tes. E si ouiere otras cau-
 sas a estas se puede reduzir. {RUB. ¶ Señales.}}
 {SG. a ij}
 [fol. 4v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 delas señales dela efimera vnas so<n> generales
 E otras speciales. Las generales so<n> estas: la
@@ -666,7 +666,7 @@ los humores: luego cessara<n> d<e>los espiritus. E
 por ende ninguna fiebre dexa despues de si efi-mera.}
 {SG. a iij}
 [fol. 5v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E por el contrario bien se puede fazer q<ue>
 avnq<ue> cesse el spiritu subiectiuame<n>te por esso
@@ -890,7 +890,7 @@ tie<m>pos: veamos agora d<e>los acide<n>tes. E p<ri>me-
 rame<n>te del frenesis: por q<u><<a>>nto el frenesis segu<n>}
 {SG. a iiij}
 [fol. 6v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Gal<ieno> es matadero e<n> todo su genero. Pues en <e>l
 comie<n>ço po<n>ga<n>le stopas de cañamo e<n>la parte
@@ -1115,7 +1115,7 @@ conuiene considerar los tiempos dela enfer-
 medad & la natura delos remedios & la natu-
 ra delos gouiernos. La intencion no es vna}
 [fol. 7v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 saluo muchas: porq<ue> en cura<n>do co<n>uiene co<n>side-
 rar la causa & la materia d<e>la e<n>fermedad & la dis-
@@ -1339,7 +1339,7 @@ sada. E acerca de aquesto deues ente<n>der q<ue> en
 la terciana la sangria bien puede conuenir des-
 pues del tercero o q<u><<a>>rto p<er>oxismo: en otra ma-nera}
 [fol. 8v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 nunca pertenesce que se tornaria la ma-
 teria mas corrible: & se faria de simple doble
@@ -1562,7 +1562,7 @@ es que la sangre se podrezca en ta<n>ta dista<n>cia
 del coraçon que el calor no pueda de co<n>tinuo
 venir al coraço<n>: & assi no sera co<n>tinua. E esso}
 [fol. 9v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mismo no sera tanto apartada del coraço<n> que
 no pueda algu<n>as vezes venir: & assi sera inter-
@@ -1785,7 +1785,7 @@ templada tanto que no sea mucho callente:
 ni este ay tanto que sude: o que le vnten el es-
 pinazo & los estremos con vngue<n>to arrogo<n>}
 [fol. 10v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & marciaton: o tomen mirra poluorizada con
 vino callente: o con triaca con çumo de men-
@@ -2009,7 +2009,7 @@ uilloso p<ar>a desopilar & faganlo apriesa & mu-
 chas vezes & sea toda via calie<n>te. Lo .ij. venga-mos}
 {SG. b}
 [fol. 11v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 a la enfermedad: sea digerida en p<ri>mero la
 materia con ysopo feruido en axarope açeto-
@@ -2233,7 +2233,7 @@ la. La quarta causonides. La quinta emitrite-
 us. Breuemente & en su<m>ma deuedes entender q<ue>}
 {SG. b ij}
 [fol. 12v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 la flema & la melanconia se componen & faze<n>
 aquesta fiebre. E aquesta composicion al-
@@ -2457,7 +2457,7 @@ guento. Toma tutanos de cieruo & de terne-
 ra & manteca de vacas sin sal enxundia de ga-llina}
 {SG. b iij}
 [fol. 13v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 fresca & enxundia de puerco fresco & alq<u><<i>>-
 tira & goma arauiga: sea<n> todas estas cosas fo<n>-
@@ -2676,7 +2676,7 @@ es de sangre. E sy a amarillos: señal es de cole-
 ra. E sy a blancos: señal es de flema. E sy a ne-grura:}
 {SG. b iiij}
 [fol. 14v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 o a liuor: señal es de melanconia. E eso
 mesmo se toma la señal por parte de su olor:
@@ -2894,7 +2894,7 @@ o negras: son malas & mortales. ¶ E sy en
 las viruelas fuere fiebre fuerte: & angustia
 grande: & fuerte sed: & la virtud flaca: E}
 [fol. 15v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 resuello apretado: señal es de muerte cercana
 que por lo mas mueren afogados. E sy apa-
@@ -3115,7 +3115,7 @@ mecimie<n>to. E si fuere calie<n>te se<n>tira<n> ardor & fin-
 chazo<n>. & si vomitare conoçerse ha e<n>la color si o-
 uiere tomado aluayalde pareçera com<m>o bla<n>co}
 [fol. 16v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E sy fuere opio terna olor muy malo: & assy
 delos otros segund la natura delas ponço-
@@ -3337,7 +3337,7 @@ me<n>te segu<n> la diuersidad d<e>las regio<n>es asi com<m>o
 pareçe d<e>los q<ue> mora<n> e<n> jerico & e<n>las climas calie<n>-
 tes porq<ue> ay algu<n>os q<ue> se llama<n> tiros d<e>los q<u><<a>>les se}
 [fol. 17v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 co<m>pone la atriaca. E otros se llama<n> dragones
 & otros aspides: & otros basiliscos. & este gene-
@@ -3559,7 +3559,7 @@ si no las dañare<n>. E por esso q<u><<a>>ndo les faze<n> mal
 & las toma<n>: ayu<n>ta<n>se & faze<n> ayu<n>tamie<n>to & pu<n>ge<n>
 a los q<ue> las toma<n> daña<n>do a ellos & a los cauallos}
 [fol. 18v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 si enlos cauallos esta<n>. En otra manera este a-
 nimal es fructifero: & la ponçoña no la lança
@@ -3781,7 +3781,7 @@ esso fabla<n>do simpleme<n>te dolores no son sino
 vlceras dela solucion de co<n>tinuidad: no traen}
 {SG. c}
 [fol. 19v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 dolor saluo en fin: assi com<m>o dize Gal<ieno> enel li-
 bro de morbo: que si el dolor es enla llaga o
@@ -4005,7 +4005,7 @@ cosas que fazen sueño deuemos entender que
 aprouechan enel dolor muy fuerte. & si se cau-sare}
 {SG. c ij}
 [fol. 20v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 dolor e<n>la cabeça no sera en aq<ue>lla p<ar>te don-
 de era saluo enla otra parte: porq<ue> el espiritu
@@ -4228,7 +4228,7 @@ stion. Sesto quando la materia es fria gruesa
 En estos casos & sus semejantes no conuiene<n>}
 {SG. c iij}
 [fol. 21v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 cosas repercusiuas. En otra manera pongan
 repercusiuos: mas en diuersas maneras: que
@@ -4451,7 +4451,7 @@ Entonçes enel principio quando aparesce la
 verdura dela color & vna insensibilidad: ento<n>-ces}
 {SG. c iiij}
 [fol. 22v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 estos accidentes tales se llaman por nom-
 bre Cancrena. E quando estos accidentes
@@ -4659,7 +4659,7 @@ assy com<m>o lauadura de carne. E sy la fistola
 fuere enel neruio: es d<e> negra color. Pues esta<n>-
 do primeramente el cuerpo alimpiado sea en-sanchada}
 [fol. 23v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 la llaga con ju<n>ciana: o conel tuta-
 no d<e>l sauco. & despues sea ingeniado com<m>o le
@@ -4881,7 +4881,7 @@ poca quantidad. ¶ Toma rayz de aristolo-
 gia redonda. acibar. mirra. & salitre. vitreol.
 Rasuras. azige de ambos a dos. Oropimen-te.}
 [fol. 24v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 agallas. &c<eter><<a>>. Lauase el lugar con decocion
 destas yeruas. Toma borrazas & escabiosa &
@@ -5103,7 +5103,7 @@ des de considerar: que vna grande escrofula:
 o berruga pueden engend[r]ar muchas peque-
 ñas com<m>o fuera de sy ninguna cosa lançen en}
 [fol. 25v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 engendrando. Digo que vna gra<n>de berruga
 atrae mucha sa<n>gre melanconica la q<u><<a>>l trayda
@@ -5326,7 +5326,7 @@ de entender que no conuienen repercusiuos
 enlas escrofulas assi com<m>o enlas otras seme-
 jantes apostemas duras. E la razon es que la}
 [fol. 26v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 materia es assi gruessa & quajada que se pue-
 de tornar atras. Ni co<n>uiene tanpoco jarreta-
@@ -5550,7 +5550,7 @@ cas malas engañosas se multiplican en ellos.
 E enel sueño sueños terribles melanconicos:}
 {SG. d}
 [fol. 27v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & siente<n> enel sueño grande pesadu<m>bre sobre su
 cuerpo. & en algu<n>os pareçen sarna & postillas
@@ -5775,7 +5775,7 @@ com<m>o vna haua: & maxquela entre los die<n>tes
 maneras sobredichas. Despues faganle cau-terios}
 {SG. d ij}
 [fol. 28v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 en ambas a dos piernas debaxo d<e>la ro-
 dilla enla co<n>cauidad q<ue> esta ençima del muscu-
@@ -6000,7 +6000,7 @@ gunajos & delas sup<er>fluidades. De cosa de le-
 che no vse quando el resuello fuere mucho di-ficile.}
 {SG. d iij}
 [fol. 29v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Esto suposito que no se corro<m>pa la le-
 che enel estomago: & que sea contento de co-
@@ -6225,7 +6225,7 @@ ze Gal<ieno> enel tractado .vj. de morbo. la lepra es
 error assimilatiuo enla carne. Pues esta passio<n>}
 {SG. d iiij}
 [fol. 30v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 se dize: o se puede dezir del todo segund Auic<en><<a>>.
 Puedese dezir esso mismo del todo: por qua<n>to
@@ -6449,7 +6449,7 @@ pra la materia es mas p<ro>fu<n>da: & el baño d<e> agua
 dulce no abastaria. Auemos menester mas
 fuertes assy com<m>o estufa con yeruas: & sus}
 [fol. 31v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 semejantes: assi com<m>o dicho es: & d<e>spues q<ue> se
 laue co<n> agua dulce: & por esta manera bie<n> co<n>-
@@ -6673,7 +6673,7 @@ te con fojas de figuera: & despues sea vntado
 el lugar con olio de Tartaro: que es de rasu-
 ras. ¶ E sepas que el olio de Tartaro: o rasu-ras}
 [fol. 32v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 assy se faze. ¶ R<eçepta> las tablas delas rasuras
 & sean calçinadas enel forno dela calçinacion
@@ -6896,7 +6896,7 @@ fuere la sarna de flema & el cuerpo fuere ple-
 torico E la virtud fuerte: fagan sangria: E
 despues vse oximel diuretico & oxizacara com-puesta}
 [fol. 33v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & axarope de fumusterre. & despues
 purguese con mirabolanos q<ue>bulis & yndios
@@ -7120,7 +7120,7 @@ con diasene. & diaborraginato. & gera rufina.
 E en estas dos especies conuienen estufas &
 baños. & que se vnten con estos vnguentos.}
 [fol. 34v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ R<ecepta> Unguento fosco. & vnguento p<ar>a la sar-
 na. ana. l<i>b<ras> .iiij. litargirio. <onças> .iij. tartaro. <dramas> .ij. de
@@ -7344,7 +7344,7 @@ bro es seco & la materia es mucha: cosas mu-
 cho secas conuienen. E si el mie<m>bro es hu<m>ido}
 {SG. e}
 [fol. 35v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & la materia poca: poco secas son d<e> poner. Si
 el mie<m>bro es seco & la materia poca: cosas me-
@@ -7569,7 +7569,7 @@ vn sonido & sea fume<n>tado el lugar co<n> vino po<n>-
 tico & atenlo. E si fuere la dislocacio<n> por gra<n>-de}
 {SG. e ij}
 [fol. 36v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 humidad deleznante las iu<n>turas: ento<n>çe fa-
 ga<n> cauterio & emplasto que po<n>ga<n> e<n>çima que
@@ -7795,7 +7795,7 @@ nuidad poco a poco & se co<n>tinua la acio<n> & la
 passio<n>: por eso es mayor el dolor.}
 {SG. e iij}
 [fol. 37v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Capitulo .xxvij. del fluxo dela
 sangre.}
@@ -8015,7 +8015,7 @@ mela<n>conia: e<n>to<n>çe co<n>uiene alimpiar el cuerpo
 mos a las p<ar>ticularias. De q<u><<a>>lq<u><<i>>er causa q<ue> sean}
 {SG. e iiij}
 [fol. 38v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 faga<n> luego fume<n>taciones co<n> agua calie<n>te mu-
 chas vezes & enxundia de gallina & enxu<n>dia de
@@ -8242,7 +8242,7 @@ miento d<e> batallas: co<n>uiene q<ue> p<ri>mero purgue &
 ali<m>pie el cuerpo co<n> sa<n>gria o purgacio<n> co<n> baños
 & abstine<n>cias & sus semeja<n>tes porq<ue>l exerçiçio lo}
 [fol. 39v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 falle limpio: en otra manera deue temer de fie-
 bre: o de apostema: o de gra<n>de fluxo de ro<m>pi-
@@ -8431,7 +8431,7 @@ agua caliente.
 lio de Bernardo.}
 {RUB. {LAT. Laus deo.}}}
 [fol. 40v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. Aqui comiença la parte
 segunda: o el libro segun-
@@ -8646,7 +8646,7 @@ lauado con agua en que sean cozidas hauas
 & açelgas & sicla. E estas cosas ta<n>tas vezes lo
 tornen a fazer fasta q<ue> se cumpla tu intencio<n>.}
 [fol. 41v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Clarificacion.} Alguno podra dubdar
 de q<ue> co<m>plision sean los cabellos. Digo q<ue> los
@@ -8867,7 +8867,7 @@ na dela cabeça que de otra parte del cuerpo.
 non los ay en todo el cuerpo: com<m>o el sudor
 puede venir en todo el cuerpo. ¶ E la razon}
 [fol. 42v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 desto es q<ue> el sudor es vapor mas sotil. & los
 pelos son de vapor mas gruesso. E avn otra
@@ -9090,7 +9090,7 @@ pele toda. E si fuere mucho espesso añadan v-
 na poca de orina: & despues lauen el lugar co<n>}
 {SG. f}
 [fol. 43v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 agua caliente. E si fuere rico añada<n> ay almizq<ue>
 ¶ Si quisieres que los pelos no crezcan vn-
@@ -9313,7 +9313,7 @@ teza d<e> granadas azeyte rosado vinagre cera a-
 gua. vino: fagase vna co<m>posicio<n> diuersa d<e>stas}
 {SG. f ij}
 [fol. 44v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 cosas segu<n>d la diuersidad delas particularias
 En aq<ue>sta composicio<n> tres cosas deuemos pa-
@@ -9536,7 +9536,7 @@ toda infectio<n> o daño q<ue> por scie<n>cia humana se
 pueda curar: cura & sana: agora sea tiña agora}
 {SG. f iij}
 [fol. 45v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 sarna: o mal muerto: o morphea: o a q<u><<a>>lq<u><<i>>er ge-
 nero de infectio<n> por lo q<u><<a>>l en mucha honrra &
@@ -9759,7 +9759,7 @@ antiguo. E ay otro que es con reuma: & otro
 q<ue> es sin reuma. Agora començemoslos a rela-tar.}
 {SG. f iiij}
 [fol. 46v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 delos dolores vno es por causa extrinse-
 ca: & otro por causa intrinseca que es de parte
@@ -9983,7 +9983,7 @@ conoscen por las cosas que distilan por las
 narizes: o por el paladar: o por los ojos:
 O por la tos: O por sus semejantes cosas.}
 [fol. 47v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Las señales que el dolor viene por causas pri-
 uatas del celebro son que el dolor es co<n>tinuo
@@ -10207,7 +10207,7 @@ ij. E este ay vn dia & vna noche: E despues
 estas sean fregadas & coladas. E la cola-
 dura denla a la alua. ¶ Despues podemos}
 [fol. 48v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 venir a los azeytes calientes sobredichos.
 E pueden fazer fume<n>taciones de agua en que
@@ -10425,7 +10425,7 @@ baxo a arriba.}
 {IN2.} enel comie<n>ço curese el mie<m>bro ma<n>da<n>te pur-
 ga<n>do altera<n>do alimpiando co<n>fortando: &}
 [fol. 49v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 despues el mie<m>bro q<ue> es ma<n>dado. pues si la ma-
 la materia calie<n>te o fria fuere enel estomago:
@@ -10647,7 +10647,7 @@ den dezir que el quebrantamie<n>to & la co<n>tricio<n>
 do & del tacto: en q<u><<a>>nto se daña la co<m>posicion
 el qual dañamiento aprehende el sentido & el}
 [fol. 50v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 tacto. ¶ Quinto deuedes de parar mientes q<ue>
 en cada sentido pueden ser dolores & deleytes
@@ -10871,7 +10871,7 @@ hende enel seso comun & mal iuyzio enla yma-
 ginatiua. E se diuersifica<n>: que enel vertigo to-das}
 {SG. g}
 [fol. 51v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 las cosas se veen mouer en cerco: o en co-
 rro: porque la materia es mas sotil con ve<n>to-
@@ -11095,7 +11095,7 @@ goruio<n>. mostaza. piedra çufre. afrodilos. estier-
 col de palomas. goma de ruda montesina. ore-gano}
 {SG. g ij}
 [fol. 52v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 calamento me<n>stranto ruda laureola pez
 naual & semeja<n>tes. De aquestas cosas se pue-
@@ -11318,7 +11318,7 @@ cabeça & ventosas & letuarios resu<m>ptiuos & se-
 mejantes. Pues sy la causa fuere fria & humi-da:}
 {SG. g iij}
 [fol. 53v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 porque mas vezes viene conuiene mas di-
 ligentemente tractallo que el ayre sea limpio
@@ -11540,7 +11540,7 @@ miento de todo su cuerpo.
 ne de opilacion dela parte po-strera}
 {SG. g iiij}
 [fol. 54v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 del celebro fecha de mala complision
 fria & seca: o de humor melanconico frio & se-
@@ -11763,7 +11763,7 @@ chas enel capitulo luego antes deste.
 viene del grande vaziamiento & con gra<n>de fla-
 q<ue>za d<e>los espiritus es muy malo e<n>tre todos: &}
 [fol. 55v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mas se acerca a la muerte. Dormir sobre el
 espinazo es malo. Dormir al sol es peor. Dor-
@@ -11985,7 +11985,7 @@ da causa es fluxo del vientre. ¶ La tercera es
 fiebre & sus molestaciones. ¶ La quarta cau-
 sa es dolor. ¶ La .v. causa es grande claridad}
 [fol. 56v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 del lugar: & mayormente del que esta arrea-
 do. ¶ La sesta causa es grande vaziamiento &
@@ -12207,7 +12207,7 @@ rrupcion dela voluntad: Que assy com<m>o la
 complision del celebro: que naturalmente
 es fria & humida es segund conuiene: E los}
 [fol. 57v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 espiritus son claros & lumbrosos: entonçe se
 faze buena memoria & buena ymaginacion
@@ -12431,7 +12431,7 @@ medad. E sy malas señales: significa muer-
 te. ¶ E algunas vegadas acontesce que los
 tales escapan dela fiebre & non mueren: pero}
 [fol. 58v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 la materia queda encinerada e<n>la cabeça: & assi
 queda la mania. E si vlceras vinieren al mani-
@@ -12656,7 +12656,7 @@ cosas q<ue> mas daña los sesos es finchimiento
 dela vianda & la humidad. La sequedad q<u><<a>>ndo}
 {SG. h}
 [fol. 59v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 puja daña el celebro: porque torna los espi-
 ritus mucho mouibles: & si mas puja fazelos
@@ -12879,7 +12879,7 @@ coytu: & las mugeres mucho mas se deleytan
 enla esperma del varon & enla suya propria.}
 {SG. h ij}
 [fol. 60v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ Lo postrimero deuedes de entender q<ue> esta
 passion mas fermosamente se puede diffinir
@@ -13098,7 +13098,7 @@ azeyte rosado & vinagre & agua rosada: & sea
 todo enfriado en vn pozo fondo. E sy ouie-remos}
 {SG. h iij}
 [fol. 61v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 de menester cosas mas frias: saque-
 mos el çumo de vna de estas: o de muchas:
@@ -13313,7 +13313,7 @@ que el estornudar: o es enel comienço delas
 enfermedades & con romadizo: o en fin & sin}
 {SG. h iiij}
 [fol. 62v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 romadizo. Sy el estornudar es con romadi-
 zo siempre es malo en qualquier lugar que
@@ -13514,7 +13514,7 @@ ma por lo mas. E despues se faze de melan-
 conia: & despues se faze de sangre: avnque
 pocas vegadas se faga de sangre pura: E}
 [fol. 63v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 despues menos se faze de colera que de o-
 tro ninguno humor. faze esso mesmo de
@@ -13731,7 +13731,7 @@ tenga epilensia de causa priuada del celebro
 ca tal sera curado: porque las edades que se
 syguen son frias: E la enfermedad paresce}
 [fol. 64v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 que esta abituada. E sy dubdares si esta cura-
 do dela epilensia: o non safumalo con cuer-
@@ -13953,7 +13953,7 @@ enla fin. E otras tres vezes enel tiempo del
 otoño: & vna vegada enel estio: & otra vega-
 da enel ynuierno. ¶ E sy viniere del baço:}
 [fol. 65v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 curese com<m>o passion del baço. E assi si vinie-
 re d<e>l estomago o del figado & assi d<e>los otros
@@ -14177,7 +14177,7 @@ curar. E q<u><<a>>nto mas tarde viene & mucho dura
 ta<n>to se cura mas tarde. ¶ Quinto deuedes e<n>te<n>-
 der q<ue> si la materia se contenga enel estomago}
 [fol. 66v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el peroxismo es con nausea & vomito. E si en
 los estentinos vienen las egestiones enel pe-
@@ -14401,7 +14401,7 @@ lleçio. E dize Auicena que la fiebre sin apo-
 stema se termina alguna vez con apoplesia.}
 {SG. i}
 [fol. 67v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & puede terminar a bien: pero esta assy co-
 m<m>o muerto & despues rebiue: & por esso nin-
@@ -14624,7 +14624,7 @@ mansamente. E despues sea digerida la mate-
 ria con pimienta & assa: o con pimienta & a-coro:}
 {SG. i ij}
 [fol. 68v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 o con pimienta & atriaca: o con pimie<n>-
 ta & metridato: o diatrion pipereon. E fre-
@@ -14847,7 +14847,7 @@ septimo de ingenio. ¶ El espasmo que se fa-
 ze del eleboro mortal es. ¶ El espasmo de va-ziamiento}
 {SG. i iij}
 [fol. 69v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mortal es. ¶ El espasmo que vie-
 ne despues de fiebres mortal es. ¶ E si algu[no]
@@ -15065,7 +15065,7 @@ sso mesmo quando alguno esta dela<n>te algu<n>d
 principe cruel: assy com<m>o dize Galieno: o}
 {SG. i iiij}
 [fol. 70v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 com<m>o quando esta ante leon & sus semejan-
 tes. Esto esso mismo faze el gozo & la yra &
@@ -15279,7 +15279,7 @@ to viene subito. E sy es de vaziamiento vie-
 ne poco a poco: & anticiparon cosas que
 vaziaron el cuerpo: Assy com<m>o fyebres &}
 [fol. 71v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 vigilias & vaziamiento & sus semejantes: &
 esta la cara conrrugada.
@@ -15478,7 +15478,7 @@ espiritu visible & el neruio obtico: & despues
 delas enfermedades que vienen enlas palpe-
 bras: & despues d<e>las enfermedades q<ue> vienen}
 [fol. 72v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enlos lacertos que mueuen el ojo. Esto fa-
 remos por la gracia de dios breuemente &
@@ -15696,7 +15696,7 @@ za: & mayorme<n>te enel inuierno & en todo par-
 ticular adonde los poros son cerrados: E
 el cuerpo estando limpio ponga<n> sobre el ojo}
 [fol. 73v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 vna espo<n>ja en agua caliente para euaporar
 puede<n> poner e<n>la agua rosas: & cula<n>tro: & dor-
@@ -15920,7 +15920,7 @@ Esta es la .viij. pasio<n> d<e>la co<n>iu<n>tiua la q<u><<a>>l se cau-
 sa d<e> hu<m>ores agudos salados viscosos. Pues
 sea purgado el cuerpo destos humores: E}
 [fol. 74v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 despues sea bañado en estuphas: & despues
 sean fumentados los ojos con agua caliente
@@ -16143,7 +16143,7 @@ to deuedes entender que enel dar dela agua en
 la obtalmia q<u><<a>>ndo se da por de parte de dentro}
 {SG. k}
 [fol. 75v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & de parte de fuera. Si de dentro & el tienpo es
 frio & la materia fria deuenla de dar calliente
@@ -16361,7 +16361,7 @@ sas & violetas & nenufar & sus semejantes & di-
 stilen muchas vezes leche de muger enel ojo.}
 {SG. k ij}
 [fol. 76v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ La octaua passion es dela nuue
 & dela manzilla & cicatriz enla cor-
@@ -16577,7 +16577,7 @@ ze enlos ojos.}
 ¶ La tercera passion dela vuea son agua o ca-taractas.}
 {SG. k iij}
 [fol. 77v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ Deuedes de entender que los va-
 pores aguosos algunas vezes suben del esto-
@@ -16790,7 +16790,7 @@ po del sol: o la lumbre: o la nieue: o fuego: &
 sus semeja<n>tes. ¶ E esso mismo dañan las tinie-blas}
 {SG. k iiij}
 [fol. 78v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ansy como aquellos que estuuieron mu-
 cho en carcel. ¶ E daña todas las cosas calle<n>-
@@ -16999,7 +16999,7 @@ pupilla se cubre & no puede lançar su lumbre
 O la figura que es el Simulacro fasta el cri-
 stalino: Saluo sy fuesse por esta manera & via}
 [fol. 79v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 de ondacion. E ansy non se puede ayuntar el
 simulacro enla cruz dela significacion del ner-
@@ -17213,7 +17213,7 @@ nascimiento & algunas vezes despues: & esto
 sera por causa de algunas llagas mal curadas
 o por descriamiento dela carne & sus semejan-[tes:]}
 [fol. 80v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 (& sus semejantes:) o se faze por vaziamiento &
 espasmo o arrugamiento. O se faze por moli-
@@ -17417,7 +17417,7 @@ lente & humida simples o compuestas co<n> ma-
 teria o sin materia o enfermedad oficial asi co-
 mo es dureza o aposte<m>a o opilacio<n> del neruio}
 [fol. 81v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 obtico. O por enfermedad comun: assy como
 por solucion de continuidad. E sy fuere enel
@@ -17638,7 +17638,7 @@ como crisis: o finchimiento dela cabeça: o va-
 pores que sube<n> del estomago o de todo el cu-
 erpo. Si la causa es p<ri>uata o sera por agudeza}
 [fol. 82v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 del seso porque el spiritu es seco o por flaque-
 za dela cabeça & del cuerpo. o por vapor grue-
@@ -17860,7 +17860,7 @@ semejantes. ¶ Pero deuedes de entender que
 si el dolor fuere i<n>tolerable & este desesperado q<ue>}
 {SG. l}
 [fol. 83v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 esto<n>ces podedes poner cosas frias: & esso mis-
 mo narcoticas. ¶ Segundo se diuersifica enla
@@ -18081,7 +18081,7 @@ cosas conglutinatiuas & constritiuas: & por
 esso non daña &c<eter><<a>>.}
 {SG. l ij}
 [fol. 84v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Capitulo .xiij. dela cosa que cae
 enla oreia & por opilacion.}
@@ -18304,7 +18304,7 @@ todo co<n>facio<n>ado co<n> agua rosada mucho bue<n>a
 trague dos d<e>llas peq<ue>ñas & dos te<n>ga e<n>la boca}
 {SG. l iij}
 [fol. 85v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & aromatizara<n> el resollo en tal manera q<ue> perso-
 na no lo entie<n>da. E si el phisico tal padeciesse
@@ -18528,7 +18528,7 @@ muchedumbre de materia mas se multiplica
 en verano. E sy se causa de calor dela materia}
 {SG. l iiij}
 [fol. 86v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enel estio & si se causa de raleza & diuersidad de
 la materia mas se causa enel otoño. E si de fri-
@@ -18751,7 +18751,7 @@ gue<n>tos & co<n> beurajes o co<n> cosas q<ue> eche<n> de<n>tro
 Saluo q<ue> enel cauterio seamos sabios. qua<n>do
 quitaren la medicina por quanto las tales fa-zen}
 [fol. 87v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 escara & vlceras & asi mouera<n> mayor fluxo
 {RUB. ¶ Clarificacion.} Deuedes ente<n>der q<ue> enel
@@ -18972,7 +18972,7 @@ lieno enel q<u><<a>>rto delas sinples medicinas & esto
 fue por las nobles obras q<ue> tiene las q<u><<a>>les son
 dos en <e>l gusto & la fabla. la fabla se faze por el}
 [fol. 88v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mouimiento & el gusto por el sentido. E porq<ue>
 mas cosas son necessarias para el mouimie<n>to
@@ -19196,7 +19196,7 @@ lagas: & de cogo<m>bros & de calabaça & de otras
 sus semejantes. ¶ Asy como pueden conue-
 nir enlas apostemas dela vula repercusiuos}
 [fol. 89v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ansi como e<n>la esquina<n>cia & sus semeja<n>tes: & por
 semeja<n>te manera se deue<n> poner en estas. E si al-
@@ -19418,7 +19418,7 @@ celebro & enla rayz dela lengua se engendra la
 humidad saliual que es la saliua.
 {RUB. [¶] Ca<pitulo> .xiiij. delas ma<n>chas dela cara.}}
 [fol. 90v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {IN5.} LEntigines son infectiones d<e>l cue-
 ro dela cara por lo mas & algu<n>as
@@ -19642,7 +19642,7 @@ partes de dentro que mucho dañaria: E por
 esso las tales cosas cauterizantes no<n> se puede<n>}
 {SG. m}
 [fol. 91v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 poner por buena manera enlos dientes delan-
 teros. E finalmente sea arrincado sy podrido
@@ -19865,7 +19865,7 @@ diente & pongan dentro alguna parte d<e> mirra
 & aloe & estorax calamita. O fagan ansy. ¶ R<eçepta>}
 {SG. m ij}
 [fol. 92v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 oropimente & rayz de alcaparras & rayz de co-
 loquintida & destas cosas fagan safumerio: o
@@ -20084,7 +20084,7 @@ alquitira sean estas cosas fechas poluos & sea<n>
 feruidas en vinagre & añadan miel & guarden-lo}
 {SG. m iij}
 [fol. 93v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & las enzias conrroydas se vnten & se lauen
 cada dia. E lauese antes la boca con vino en
@@ -20288,7 +20288,7 @@ cuello estirado. Las señales demostratiuas so<n>
 dificultad del resollo & dolor & la boca abierta}
 {SG. m iiij}
 [fol. 94v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ E deuedes de entender cerca desta materia
 que la esquina<n>cia se d<e>termina por vna de qua-
@@ -20508,7 +20508,7 @@ dra acontecer subito afogamiento. Pues que
 es por ayuda. ¶ Lo vltimo & postrimero
 deuedes de considerar cerca esta materia que}
 [fol. 95v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 (materia que) el mucilagen dela zargatona & de
 las pepitas delos membrillos juntamente:
@@ -20727,7 +20727,7 @@ la anchura & la estrechura dela caña: & segund
 la callentura & la frialdad: & segund la virtud
 fuerte & flaca.}
 [fol. 96v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ Lo postrimero deuedes de notar que sy la
 rayz dela vu(e)[l]a fuere gruessa & la cabeça: Que
@@ -20943,7 +20943,7 @@ mondadas delos granos jujubas sebastianes[.]
 an<<a>>. <drama>. j. sea co<n>facionado co<n> miel a fuego manso
 & sea fecho co<n>dito segu<n> co<n>uiene sea tomado la-miendo}
 [fol. 97v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ La segunda medicina que vale en
 la materia fria & humida reumatica. ¶ R<eçepta> am-
@@ -21163,7 +21163,7 @@ otras señales. ¶ E sy fuere de flema es con a-
 zedumbre humida & con mucha saliua: & an-
 sy delas otras señales dela flema.}
 [fol. 98v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E si es de melanconia es con azedumbre seca
 estiptica & la saliua torna a liuor & a grosseza.
@@ -21387,7 +21387,7 @@ grande necessidad & quasi en desesperacion.
 Pero por quanto ay muchos que quieren}
 {SG. n}
 [fol. 99v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 las receptas fallarlas en cada capitulo: por
 esso la recepta es esta contra la tos antigua
@@ -21612,7 +21612,7 @@ sso se dize natural: assy com<m>o el crisi bueno &
 laudable se llama mouimiento dela natura &}
 {SG. n. ij}
 [fol. 100v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 non dela enfermedad: avnque se faga enel tie<n>-
 po dela enfermedad. E por quanto la tos se
@@ -21834,7 +21834,7 @@ Pues deuedes vos de guardar enla pronosti-
 cacion delos ptisicos: que fablando mueren}
 {SG. n. iij}
 [fol. 101v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & moriendo fablan. {RUB. ¶ Cura.}
 ¶ enel comienço sy la sangre se enseñoreare
@@ -22285,7 +22285,7 @@ a<n>gosta finiestra & cae sobre la cabeça E aco<n>te-
 dos: assi com<m>o so<n> ajos & çebollas & me<n>tastro
 o cibos salados: o azedos. E aco<n>teçe esso mis-mo}
 [fol. 103v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 por cayda: o ferida: o saltar: & por dar bo-
 zes: & por reñir: & por yra: & por malq<ue>rencia
@@ -22508,7 +22508,7 @@ se pone entre sus die<n>tes & la carne. & assy lo q<u><<i>>-
 tan los moços. ¶ Lo tercero deuedes de no-
 tar que la sangre en q<u><<a>>lquier manera q<ue> salga}
 [fol. 104v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 por las partes de arriba es mala cosa: segu<n>d
 lo dize ypocras. E porque no es natural ni
@@ -22729,7 +22729,7 @@ deuemos come<n>çar d<e>las cosas mas ligeras sal-
 uo si no temieremos d<e> amortecimie<n>to & de su-
 bito afogamie<n>to: p<er>o por qua<n>to los co<n>pañe-ros}
 [fol. 105v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mancebos quieren que faga apartamie<n>-
 to entre estas. por esso quiero mas particu-
@@ -22951,7 +22951,7 @@ der eso mismo cerca esta materia q<ue> el pulso &
 el resuello co<n>uiene<n> en esto: q<ue> asi com<m>o en <e>l pul-
 so ay dilatacio<n> d<e>l coraço<n> & d<e>las arterias por}
 [fol. 106v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 que se enfrie el coraçon & las arterias. E esso
 mesmo se constriñe por que las fumosas su-
@@ -23176,7 +23176,7 @@ ueniencia delos particulares. Despues pue-
 de vsar melezina para vomitar: dela qual las}
 {SG. o}
 [fol. 107v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 melezinas simples son estas. sal gema. raua-
 nos. simiente de açafran oriental. sal armoni-
@@ -23400,7 +23400,7 @@ muestran los tiempos dela enfermedad: & o-
 tras ay que muestran salud: & otras que mue-stran}
 {SG. o ij}
 [fol. 108v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 muerte: & otras q<ue> distinguen entre esto
 & aquello. E estas señales pronosticas se co<n>-
@@ -23625,7 +23625,7 @@ geren. Si el cuerpo no esta pletorico cura<n>: &
 si el cuerpo esta lleno el dolor cresce: & asi di-geren:}
 {SG. o iij}
 [fol. 109v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 por quanto la vniuersal purgacio<n> de-
 ue preceder. Si el dolor desciende & la materia
@@ -23848,7 +23848,7 @@ tud fuerte & la tosse poca: & la difficultad del
 resuello no sea gra<n>de: & que se de en poca q<u><<a>>n-tidad:}
 {SG. o iiij}
 [fol. 110v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & con muchedumbre de ptisana. E o-
 tra manera por causa de su fortaleza enlo to-
@@ -24063,7 +24063,7 @@ uios: algunas vezes a empima. & sy se mun-
 dificare en quarenta dias bueno es. & sy la v<ir>-
 tud fuere flaca mucho es sospechosa.}
 [fol. 111v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Causas.}
 ¶ Algu<n>as vezes se causa la periplemonia d<e>l
@@ -24281,7 +24281,7 @@ mayorana. & symiente de albahaca. E fa-
 gan vna mançana de ambra & lignaloe & al-
 mizque. E purguese con gera priga & gera}
 [fol. 112v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 logodion aguzados con pulpa de coloquin-
 tida. E si la materia fuere melanconica digera-
@@ -24502,7 +24502,7 @@ copis es muy mala & mortal. ¶ Pues faga
 ynuestigacion diligentemente delas otras
 partes del cuerpo: E non se te escondera}
 [fol. 113v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 la causa dela passion. que si fuere dureza: o ra-
 leza: o finchimiento: o vaziamiento: o ca-
@@ -24722,7 +24722,7 @@ despierta sy la fregacion es templada.
 {RUB. ¶ Capitulo trezeno: delas passio-
 nes dela teta.}}
 [fol. 114v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {IN6.} LA teta es miembro glandulo-
 so blanco de venas & arterias
@@ -24942,7 +24942,7 @@ jen en ello vna tenta: & metanla enla fistola.
 E es delas cosas secretas para las fistolas:}
 {SG. p}
 [fol. 115v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 com<m>o quier que enel primero libro: de to-
 das estas cosas assaz avemos fablado.
@@ -25134,7 +25134,7 @@ gunas vezes por daños que vienen a los mie<m>-
 bros sus vezinos. Pues si viene por los mie<m>-bros}
 {SG. p ij}
 [fol. 116v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 vezinos sera assi com<m>o por dislocacion
 delos espondiles: o por esquina<n>cia: o por es-
@@ -25355,7 +25355,7 @@ ra por mala complision fria del estomago: o
 por grande calor. E esta causa viene mas ve-zes.}
 {SG. p iij}
 [fol. 117v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E sy quitare: o amenguare el apetito
 por causa de otros miembros esto sera assy
@@ -25567,7 +25567,7 @@ lor & de la flaqueza & la mala co<m>-
 plision.}}
 {SG. p iiij}
 [fol. 118v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {IN7.} DEuedes de entender: que estas
 passiones tienen grande con-
@@ -25770,7 +25770,7 @@ de<n>le dieta sotil: assi com<m>o ordeate. & auenate.
 amido<n>. espinacas. lechugas. leche d<e> alme<n>dras
 agua d<e> ceuada. axarope. iulepe. mançanas co-zidas}
 [fol. 119v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 con açucar. ciruelas maduras: & todas
 las cosas le den callentes en acto. E en nin-
@@ -25983,7 +25983,7 @@ de estas se faga condito: o vse del & vse diaci-
 tonite<n> antes q<ue> coma. E sy la causa fuere calle<n>-
 te sea<n> ame<n>guadas estas cosas mucho & añada<n>}
 [fol. 120v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 rosas & sandalos & simiente de verdolagas &
 camphora & sus semejantes. & de estas cosas
@@ -26199,7 +26199,7 @@ mucha pimienta: o pollos assados. & sy non
 comiere carne faga tal gouierno com<m>o en
 el dia del Uyernes. ¶ E el pan sea bien}
 [fol. 121v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 fermentado & bien cozido: & el vino sea mu-
 cho antiguo sin agua & en poca quantidad.
@@ -26421,7 +26421,7 @@ hela: & sea purgado con diasene diaborragi-
 nato & la piedra l(u)[a]zuli. E denle açucar rosa-
 do enla causa callente: E miel rosada enla}
 [fol. 122v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 fria. E si fuere por flaqueza de la contentiua
 sea considerada la causa. E si la causa fuere ca-
@@ -26642,7 +26642,7 @@ calentamiento delas renes ansy como enla dia-
 betica passion. ¶ E sy fuere por el estomago}
 {SG. q}
 [fol. 123v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 esto sera por mala complesion caliente: o se-
 ca: o por ambas a dos: o por colora que pu-
@@ -26861,7 +26861,7 @@ rompimiento de humores. ¶ Pero los fidion-
 dos & los agudos & fumosos: & pungitiuos:}
 {SG. q ij}
 [fol. 124v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 muestran sobre humores calientes. pero aze-
 do & abominable & esquiuos sobre humores
@@ -27082,7 +27082,7 @@ entre & ansy delas otras. ¶ Sy despues del vo-
 mito el singulto non se quitare: nin se amen-guare}
 {SG. q iij}
 [fol. 125v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mas antes pujare malo es: por quanto
 muestra apostema: o vaziamiento. ¶ enel y-
@@ -27300,7 +27300,7 @@ til engendra enfermedades agudas co<n> muchos
 & vigilias & aquexamiento & semejantes. ¶ E}
 {SG. q iiij}
 [fol. 126v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 sy la calidad del gouierno es fria engendra en-
 fermedades frias con regoldar azedo: & sy es
@@ -27510,7 +27510,7 @@ carece de todo pujamiento enla calidad aquel
 co<n>uiene al cuerpo hu<m>ano asy como dize galie-
 no enlos elementos &c<etera>. ¶ Pues conuiene car-ne}
 [fol. 127v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 de cordero de vn año & carne de cabrito: &
 carnes de ternera de leche & gallinas & capo-
@@ -27732,7 +27732,7 @@ stunbre que non es natural es de tornalla a la
 natural poco a poco. ¶ La sesta condicion
 se toma delos quatro tiempos del año. Pues}
 [fol. 128v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enel inuierno deue<n> dar gouierno gruesso & mu-
 cho en vna vez & que decline a calor. enel ve-
@@ -27951,7 +27951,7 @@ rellenos. ¶ E acontece esso mismo por el esto-
 mago & en aquellos q<ue> se corta<n> sus venas & se
 ronpe<n> se quiebra<n>: o se abren. la qual sangre}
 [fol. 129v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 despues que es allegada enel estomago la na-
 tura lançala por vomito. {RUB. ¶ Señales.}
@@ -28172,7 +28172,7 @@ riba & a las partes de abaxo: estonces conuie-
 nen antes & despues E de parte de fuera & de-
 tras.}
 [fol. 130v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Capitulo onze de la finchazon
 del estomago.}
@@ -28394,7 +28394,7 @@ loe. carpobals[a]mo. o xilobals[a]mo. espicanardi.
 esquinante. anis. finojo. ruda. galanga. zedua-rio}
 {SG. r}
 [fol. 131v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 pimienta. asensios & semejantes. ¶ E sy la
 causa fuere caliente aprouecha ordia-
@@ -28617,7 +28617,7 @@ dalos. çumaque. berberis. membrillos. balau-
 stias. agallas. acacia. ypoquistidos. granos d<e>}
 {SG. r ij}
 [fol. 132v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 arrayhan & rosas secas. sangre de drago psidia[.]
 an<<a>>. <drama> .j. sea todo molido & buelto con çumo d<e>
@@ -28841,7 +28841,7 @@ dad & la enfermedad esta estante & no se amen-
 gua & es co<n> graue sofrimie<n>to mortal es. ¶ O-trosy}
 {SG. r iij}
 [fol. 133v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enla ydropesia fluxo sanguinolento ma-
 lo. ¶ Otrosi todo fluxo con vomito & singul-
@@ -29065,7 +29065,7 @@ sado fecho co<n> rosas secas. an<<a>>. <onças> .iij. sea buelto
 todo.}
 {SG. r iiij}
 [fol. 134v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Del fluxo por cerramiento de
 los poros.}
@@ -29289,7 +29289,7 @@ calor non fuere tanto fieruan los saluados en
 agua & vinagre: & vino blanco por yguales
 partes & aprietenlos & pongalos encima.}
 [fol. 135v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 O fagan sacelacion con saluados & mijo tosta-
 dos: o vntese con azeyte rosado & enxundia de
@@ -29510,7 +29510,7 @@ dize adonde esta el dolor hay esta la enferme-
 dad. ¶ E aquestas son las señales quando son
 sin sangre. E si es d<e> causas p<ri>mitiuas conocese}
 [fol. 136v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 por los vientos: & los tiempos & por las fie-
 bres & por muchas semejantes que son dichas
@@ -29727,7 +29727,7 @@ lo mas. ¶ El fluxo del vientre por llaga delos
 intestinos & mayorme<n>te delos d<e> arriba & espe-
 cialme<n>te del intestino jeiunio es i<n>curable por}
 [fol. 137v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 la muchedumbre delas venas miseraycas.
 {RUB. ¶ De la cura del fluxo del vientre
@@ -29942,7 +29942,7 @@ caldo de garuanços & de coles: & vse finojo: &
 perexil & esparragos rezientes. ¶ Las car-
 nes que sean quanto mas pudieredes de}
 [fol. 138v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 las que buelan afueras de aquellas que anda<n>
 enlas aguas. E puede vsar carnes de cabrito:
@@ -30160,7 +30160,7 @@ cero se diuersifica: que la yliaca mas viene por
 ayre pestilencial. ¶ Lo quarto que la yliaca:}
 {SG. s}
 [fol. 139v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 es mas del onbligo arriba. ¶ Lo quinto que
 la yliaca mas se remedia por las cosas que en-
@@ -30384,7 +30384,7 @@ humor gruesso viscoso. ¶ E bien es razona-
 ble cosa que la colora enel lugar cercano d<e>los}
 {SG. s ij}
 [fol. 140v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 intestinos faga mas ayna al retenimiento de
 las fezes: mas que quando es enla sustancia d<e>
@@ -30609,7 +30609,7 @@ bexiga por la estrechura de sus caños: & por
 quanto las superfluydades corren a aquel lu-gar:}
 {SG. s iij}
 [fol. 141v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & por quanto por razo<n> d<e>la hedad enla be-
 xiga puede ser el calor fuerte: enel pulmon la
@@ -30832,7 +30832,7 @@ despues sy la materia continuare enlos intesti-
 nos de arriba denle los bevrajes por la boca.}
 {SG. s iiij}
 [fol. 142v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E sy enlos de baxo: fagan supositorios & triste-
 les: & sy enlos de medio tomense por ambas
@@ -31054,7 +31054,7 @@ engendra<n> & especialme<n>te si el fluxo es antiguo
 vna co<n>uiene q<ue> q<ue>de abierta: E p<ro>nostiq<ue>mos q<ue>
 todas vniuersalmente son dificiles de curar.}
 [fol. 143v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Por quanto aquella parte es fea & arrugada &
 non se puede tratar la causa asy como conuie-
@@ -31276,7 +31276,7 @@ gora otra cosa & estas cosas sea<n> co<n>tinuadas es-
 ta<n>do el cuerpo li<m>pio fasta q<ue> sea curado p[er]fecta
 me<n>te. E si la tal perlesia fuere por calor asien-tese}
 [fol. 144v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 en agua donde haya rosas & balaustias: &
 arrayhan & vinagre: & despues vntese co<n> azey-
@@ -31481,7 +31481,7 @@ del figado caliente se conosce por aquesta ma-
 nera. ¶ La orina es colorada: & la egestion
 & la color de la cara torna a amarillura: & el a-petito}
 [fol. 145v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enel beuer esta pujado & enel comer es
 amenguado & el pulso es presuroso & dañase d<e>
@@ -31702,7 +31702,7 @@ con salsa de lignaloe & canela: & pimienta: &
 nuez moxcada: & vn poco de culantro & agua
 de limones & vino & lo agro delas cidras.}
 [fol. 146v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ E pueden vsar castañas tostadas & aproue-
 cha pan caliente echado en vino. E dizen que
@@ -31924,7 +31924,7 @@ co. E despues purguese con benedicta: & teo-
 doricon enpericon. E sy mas particularmente}
 {SG. t}
 [fol. 147v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 queremos p<ro>ceder fagase tal axarope. R<eçepta> rayz
 de alcaparras & de finojo & de perexil & yreos
@@ -32146,7 +32146,7 @@ to & indigestion del estomago & flaqueza de la
 virtud digestiua del figado & ayuntamiento de}
 {SG. t ij}
 [fol. 148v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 humores enel figado & malicia del alinpiar de
 la fiel & del baço & las renes: & d<e>los intestinos.
@@ -32370,7 +32370,7 @@ que sean penetratiuos & de ligera digestion. E
 sy la apostema fuere por ferida enla primeria}
 {SG. t iij}
 [fol. 149v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 decocion de rauanos: & de la corteza de medio
 del sauco & azeyte crudo. E sea purgado co<n> tri-
@@ -32594,7 +32594,7 @@ pronosticacion es aqui quanto a la curacion
 que es regla general aqui: & en qualquier}
 {SG. t iiij}
 [fol. 150v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 fluxo & en todo aquello que sale del cuerpo q<ue>
 ningund fluxo de qualquier natura q<ue> sea que
@@ -32818,7 +32818,7 @@ lor. {RUB. ¶ Señales de la yposarca.} ¶ Las
 señales d<e>la yposarcha es fi<n>chazo<n> vniv<er>sal d<e> to-
 do el cuerpo el pulso vnduoso la camara blan-ca}
 [fol. 151v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 sanguinea. E sy compriman la carne conel
 dedo dexa despues de sy foyo: & el vientre non
@@ -33040,7 +33040,7 @@ do segu<n>d es dicho. Despues sea enplastado el
 vie<n>tre co<n> este e<n>plasto. R<eçepta> estiercol d<e> bueyes & es-
 tiercol cabrio chi<m>olea sea todo d<e>secado sobre}
 [fol. 152v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el fuego. Despues toma estiercol de palomas
 & piedra sufre & nitro & limacias con sus con-
@@ -33262,7 +33262,7 @@ tud esta mucho flaca & non puede alançar lo
 superfluo nin lo natural. E porque non lan-
 ça lo superfluo: por esso no ay tumor: E por-que}
 [fol. 153v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 non lança lo natural: por esso es magrez
 enla ypossarcha la virtud es mas fuerte lo q<u><<a>>l
@@ -33486,7 +33486,7 @@ chados por q<u><<a>>nto los ytericos co<n> tu<m>or & fi<n>chazo<n>
 es mala señal & por eso a<n>te q<ue> se finche<n> mucho
 muere<n>. & si a los ytericos viniere fi<n>chazo<n> & no<n> se}
 [fol. 154v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 resoluiere significa muerte. ¶ Segu<n>do muestra
 ypocras pronosticar q<ue> los ytericos & los ne-
@@ -33710,7 +33710,7 @@ purgaras assi. R<eçepta> diasene diaborraginato ge-
 ra rufina. an<<a>>. <dramas> .iij. piedra armenica .ix. vezes}
 {SG. v}
 [fol. 155v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 lauada. <drama> .s<emi>. Sea todo buelto: & tomelo ye<n>do
 a dormir: & despues distile<n> agua de rauanos:
@@ -33935,7 +33935,7 @@ cado al baço. E si estas cosas no aprouecha<n>
 fagan cinco cauterios sobre la region del ba-ço.}
 {SG. v ij}
 [fol. 156v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Los cibos sean sotiles & de ligera digesti-
 on: & por esso conuiene mostaza & sus semeja<n>-
@@ -34160,7 +34160,7 @@ samo & atriaca & co<n> azeyte de escorpio<n>es buel-
 tos todos. o faga<n> saçelacio<n> de ma<n>çanilla & co-rona}
 {SG. v iij}
 [fol. 157v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 de rey & anthos & flor d<e> a<m>bos a dos esti-
 cados. E si el dolor fuere ventoso ma<n>denle q<ue>
@@ -34385,7 +34385,7 @@ ente: en ni<n>gu<n>a manera turbada. & la fue<n>te sea
 descubierta: & q<ue> corra faza orie<n>te. delas car-nes.}
 {SG. v iiij}
 [fol. 158v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Las carnes sea<n> asi com<m>o gallinas p<er>dizes
 faysanes & aues menudas q<ue> a<n>da<n> por el ca<m>po &
@@ -34612,7 +34612,7 @@ gar. E si se rompiere: la señal es que enton-
 confusa: saniosa: sangrienta. ¶ E muchas
 señales communes destas Apostemas es:}
 [fol. 159v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 frialdad delas estremidades. {RUB. [¶] Pronostica<cion>.}
 La señal del escapamie<n>to es q<u><<a>>ndo la fiebre se
@@ -34837,7 +34837,7 @@ escamosos d<e> aguas li<m>pias: & vse piñones p<er>o
 no vse figos segu<n> es dicho. & si la materia fuere
 mucho gruesa añada<n> a los sobredichos trocis-cos.}
 [fol. 160v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ysopo espiq<ue>nardi rayz de lirio & apio &
 semejantes. pues agora vse cosas mu<n>dificati-
@@ -35060,7 +35060,7 @@ vezes viene e<n>la vexiga: porq<ue> la v<ir>tud expulsiua
 ala<n>ça mas alueñe. {RUB. [¶] Prono<sticacion>.} La piedra d<e>los
 riñones & d<e>la vexiga es e<n>fermedad q<ue> se hereda}
 [fol. 161v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 segu<n>d que dize Auicena. {RUB. ¶ Cura.}
 enla p<ri>meria vse dieta co<n>traria al enge<n>dramie<n>-
@@ -35284,7 +35284,7 @@ dra engendrar. ¶ iiij. deuedes de notar que la
 piedra enlos viejos no se engendra assi com<m>o
 enlos moços: que com<m>o quier q<ue> mas pujen}
 [fol. 162v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 en materia flematica el calor desfalleçe. Los
 moços tienen mucho de calor por razon de la
@@ -35506,7 +35506,7 @@ misma cura que enla diabetica. Deuedes e<n>te<n>-
 der q<ue> enla causa calle<n>te deue<n> aplicar por d<e> de<n>-tro}
 {SG. x}
 [fol. 163v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & por de fuera cosas estipticas frias e<n> mu-
 cha quantidad & de estipticas calle<n>tes en po-
@@ -35729,7 +35729,7 @@ ga: en tal manera q<ue> las chinches se apliquen
 enla cabeça d<e>la v<er>ga. Eso mismo deuedes d<e> en-te<n>der}
 {SG. x ij}
 [fol. 164v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 q<ue> e<n>los vicios d<e>los riñones & de la vexi-
 ga humorales d<e> causa fria presupuesto q<ue> no
@@ -35940,7 +35940,7 @@ causa de la humidad. Los colericos muy ap<ri>es-
 sa & muchas vezes de q<u><<a>>lquier pequeña causa}
 {SG. x iij}
 [fol. 165v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 fuertemente cobdician: pero poco pueden.
 Pero los melanconicos no cobdician ni na-
@@ -36165,7 +36165,7 @@ la delectacion. E por esso el coytu por lo mas
 es superfluo: & por esso mucho dañoso: antes}
 {SG. x iiij}
 [fol. 166v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 enel superfluo coytu se lança sangre: por lo
 qual es de estoruar. ¶ Quarto es de notar q<ue>
@@ -36391,7 +36391,7 @@ por los hu<m>ores esto sera: o porq<ue> peca<n> en gra<n>-
 de q<u><<a>>ntidad: o en mala q<u><<a>>lidad: o porq<ue> so<n> mu-
 cho calle<n>tes: o aguosos. {RUB. ¶ Señales.}}
 [fol. 167v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ¶ Si fuere por causas de fuera esto se conos-
 cera por el dicho del enfermo. E si fuere por
@@ -36607,7 +36607,7 @@ sibles & dolorosos: & por esso trahen assy los
 humores. E com<m>o son miembros frios ner-
 uiosos flacos allega<n>se ay las superfluidades}
 [fol. 168v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Cura.} Las curas generales son si co<n>uen-
 gan las particularias: fagan sangria: & d<e>spu<e>s
@@ -36825,7 +36825,7 @@ varrizal. la .vj. zirbal. la postri-
 mera i<n>testinal. pu<e>s q<u><<a>>ndo la bol-
 sa d<e>los testiculos se finche sin aposte<m>a & fiebre &}
 [fol. 169v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 dolor grande: entonçes paresce que es que-
 brado & rompido: & por esso bie<n> se puede lla-
@@ -37046,7 +37046,7 @@ los p<ar>ticulares. Detienese esso mismo natural-
 me<n>te: asi com<m>o e<n>la preñez: com<m>o q<u><<i>>er q<ue> algu<n>as
 vezes corre<n> p<er>o poco & pocas vezes. Corre<n> eso}
 [fol. 170v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mismo las menstruas segund la edad de la lu-
 na. Las moças enla primera quadra de la lu-
@@ -37271,7 +37271,7 @@ pero los machos tiene<n> mayores cuernos & vel-
 locinos: & esto es por la fortaleza de la virtud:}
 {SG. y}
 [fol. 171v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 que alança mas alueñe & mas fuerte. ¶ Lo on-
 zeno nota que arriba enel capitulo delas tetas
@@ -37494,7 +37494,7 @@ por las partes baxas safumese con lignaloe &
 almizque & ambra: & clauos de girofre & alip-ta}
 {SG. y ij}
 [fol. 172v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 muscata. E despues la partera vnte su dedo
 en olio muscelino o de balsamo: o de espica-
@@ -37716,7 +37716,7 @@ vra ay calor & dolor: & pungimiento & mordi-
 cacion & poco reposo. E si la causa es fria to-das}
 {SG. y iii}
 [fol. 173v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 son remissas: E conocese esso mismo por
 la vista: que sy fuere fazia la boca de fuera: de
@@ -37937,7 +37937,7 @@ acostumbrar mucho tiempo el comer delas
 cosas azedas: o de otra mala calidad o porque}
 {SG. y iiij}
 [fol. 174v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 es niño o viejo o porque es gra<n>de comedor o
 borracho: o porque es hombre que acostum-
@@ -38157,7 +38157,7 @@ da & aguosa fagan tal titrafe. ¶ R<eçepta> mirra. aloe.
 ga. zedoario. nuez moxcada. alumbre de plu-
 ma. çumaque. caxquillos de bellotas. an<<a>>. <onça> .j.}
 [fol. 175v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 sea confacionado con oximel esquilitico & fa-
 gan titrafe & enbueluanlo & el cuerpo estan-
@@ -38376,7 +38376,7 @@ los accide<n>tes de la alma asy como yra: o temor
 o que salto detras sy despues del coytu: o por
 que es mucho delgada o porq<ue> no<n> es de años.}
 [fol. 176v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 o porque la simiente del varon non fue buena
 o porque fizo sangria: o porque tomo medi-
@@ -38596,7 +38596,7 @@ o gra<n>de frialdad: o porq<ue> la p<ar>tera no es sciente
 o porq<ue> fue llagada enla boca d<e>la madre de p<ar>te
 de fuera & es fecha hay cicatriz & qua<n>do viene}
 [fol. 177v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el parto non se puede aquel lugar ensanchar:
 o porque el parto es ante de tiempo natural.
@@ -38818,7 +38818,7 @@ no tiene sup<er>fluydades gruessas: & por esso no
 ay ay fezes por lo q<u><<a>>l no fue ay .iij. pa<n>iculo. las
 otras sup<er>fluydades so<n> mucho peq<ue>ñas: E por}
 [fol. 178v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 esso bien se pueden guardar fasta el tienpo d<e>l
 nascimiento. ¶ Lo postrimero deuedes notar
@@ -39041,7 +39041,7 @@ E si el fisico fuere diligente & enla aplicacion
 delas medicinas no aprouechan callentes ni}
 {SG. z}
 [fol. 179v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 frias la materia pareçe que es co<m>puesta. E de
 los escallentamientos templadamente el do-
@@ -39264,7 +39264,7 @@ sea todo esto cozido en agua lo que abastare
 & fagan fumentacio<n>: & faganlo tres vezes en <e>l}
 {SG. z ij}
 [fol. 180v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 dia. Despues lo postrimero po<n>ga<n> ve<n>tosas se-
 daños cauterios & sa<n>guisuelas & sus semeja<n>tes
@@ -39486,7 +39486,7 @@ se entie<n>de que la medicina sea de si fuerte: p<er>o
 dese en pequeña quantidad. ¶ Duodecimo}
 {SG. z iij}
 [fol. 181v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 deuedes parar mientes: si el vino conuenga
 com<m>o sea callente & seco & confortatiuo & co<n>-
@@ -39691,7 +39691,7 @@ echen vna gota enlos ojos estando el cuer-
 po limpio.}
 {SG. z iiij}
 [fol. 182v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Medicina enla obtalmia anti-
 gua con vlceras de difficile con-
@@ -39881,7 +39881,7 @@ tezas de mirabolanos citrinos bie<n> gomosos
 <onça> .j. Sean fregados & colados: & a la coladura
 añadan cañafistola mondada. <onça> vna. E}
 [fol. 183v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 tomela al alua. O purguese enel tiempo del
 ynuierno assy. ¶ R<eçepta> reubarbo aloe. an<<a>>. <drama> .j.
@@ -40073,7 +40073,7 @@ los con decocion de endibia & de sarraceni-
 ca reubarbarata mucho aprouecha en este
 caso.}
 [fol. 184v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Medicina que vale contra las
 ventosidades & dolores del esto-
@@ -40273,7 +40273,7 @@ quitira & goma arabiga. an<<a>>. <onça> .j. sean puestas
 a remojar en agua de flores de fauas: enton-
 çes toma}
 [fol. 185v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E ponganlos a remojar en agua de limones
 fasta que se puedan malaxar: ento<n>çe toma bo-
@@ -40454,7 +40454,7 @@ gestion & confortemos la virtud del enfermo
 con manjares & beueres: & q<ue> seamos mas lar-gos}
 {SG. A}
 [fol. 187v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB2.
 en dando que non en tirando. ¶ El septi-
 mo ingenio es: q<ue> pensemos si es co<n> apostema
@@ -40678,7 +40678,7 @@ puede ser q<ue> se bañe en baños lu<m>brosos & espa-
 ciosos d<<e>> ayre por q<ue> mano a mano se pone el a-yre}
 {SG. A ij}
 [fol. 188v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ansi que aquella onça se podrezca en otro
 colerico: se podrezca vna libra non es dubda:
@@ -40901,7 +40901,7 @@ puri.} huesso de {LAT. corde cerui.} margaritas. jacin-
 to. blanca bisancia. corales & semeja<n>tes. ¶ Lo}
 {SG. A iij}
 [fol. 189v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB2.
 segundo deuemos pensar el celebro porque si
 la ce<n>tena parte que alas vegadas se enseñorea
@@ -41123,7 +41123,7 @@ zon el estomago es de purgar & d<<e>> alinpiar & d<<e>>
 co<n>seruar: & por ta<n>to alas deuegadas semejante-mente}
 {SG. A iiij}
 [fol. 190v]
-{HD. Regimiento +}
+{HD. Regimiento ⇒}
 {CB2.
 la madriz ha vezindad conla diaflama &
 por tanto enel afogamie<n>to dela madriz acaece
@@ -41336,7 +41336,7 @@ regimiento non se deue trasmudar: sy non se-
 gund que el cuerpo es trasmudado de disposi-cion}
 {SG. A v}
 [fol. 191v]
-{HD. Regimiento +}
+{HD. Regimiento ⇒}
 {CB2.
 en disposicion. E las disposiciones d<<e>>l cu-
 erpo humanal son a[ ]saber que son quatro. sa-
@@ -41551,7 +41551,7 @@ flebotomia de esse mismo costado. {BLNK.} ¶ Ca
 el lado esta en lugar de parte baxa: & el baço
 por manera de parte soberana: porque quan-do}
 [fol. 192v]
-{HD. Regimiento +}
+{HD. Regimiento ⇒}
 {CB2.
 se faze la sangria desse mesmo costado guar-
 dase la quantidad: que es segund el alto: & se-
@@ -41774,7 +41774,7 @@ parece que fabla ypocras quando dezia: que
 el paciente deue ser folgado callado: & que no<n>
 faga nada: seguro de fumo: & que las paredes}
 [fol. 193v]
-{HD. Regimiento +}
+{HD. Regimiento ⇒}
 {CB2.
 dela tina no sean mucho altas & que la carrera
 para el lecho sea pequeña: & que el lecho a de
@@ -41998,7 +41998,7 @@ ras crisis venidera. E sy non fuere de temer de
 malos accidentes. ¶ Pues sy alguna cosa de-
 stas sobre dichas no fuere presente: entonces}
 [fol. 194v]
-{HD. regimiento +}
+{HD. regimiento ⇒}
 {CB2.
 es de continuar el ordiate. E la manera de dar
 se diuersifica acerca dela costunbre que antes
@@ -42317,7 +42317,7 @@ sean doblados a cada parte suaue mente. des-
 pues sea alimpiado el forado del sellar co<n> pa-ños}
 {SG. B}
 [fol. 196v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de lino delgados conel dedo menor. Des-
 pues sea desecado co<n> paños de lino delgados
@@ -42538,7 +42538,7 @@ sto. ¶ Enlas enfermedades delos ojos sea vn-
 tada la cara. E avn si queremos esta melezi-na}
 {SG. B ij}
 [fol. 197v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 fazer mas fuerte R<ecipe> {LAT. sucu<m> solari cucumeri
 cucurbite olei} quasi tibio enla cabeça sea
@@ -42745,7 +42745,7 @@ lio que es sobre la rotura.
 {RUB. ¶ Ca<pitulo> .xxiii. del tenasmon delos
 moços por causa fria.}}
 [fol. 198v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN2.} AContesce alos moços tenasmon por cau-
 sa fria: para esto toma anis & cominos &
@@ -43307,7 +43307,7 @@ o el menos que se acordaren las particularias
 & por esto el sabio medico q<ue> conosce este atal}
 {SG. C ij}
 [fol. 201v]
-{HD. Particula primera +}
+{HD. Particula primera ⇒}
 {CB2.
 pronosticar & la obra que ha de fazer enla ter-
 ciana simple interpolada: esse mesmo sabe to-
@@ -43527,7 +43527,7 @@ digo q<ue> el estado sera muy alexos del principio
 miento desta fiebre esperar se ha por todo vn}
 {SG. C iij}
 [fol. 202v]
-{HD. particula primera +}
+{HD. particula primera ⇒}
 {CB2.
 torno del sol: q<ue> es vn año q<u><<a>>ndo los primeros
 p<er>oxismos fuera<n> muchos & començaua<n> todos
@@ -43750,7 +43750,7 @@ dentro delas venas: & algunas vezes de fuera:
 la cura cada vno por cada vno traspassar. E}
 {SG. C iiij}
 [fol. 203v]
-{HD. particula primera +}
+{HD. particula primera ⇒}
 {CB2.
 sepas que ansy como la colera se puede ayun-
 tar conla fleuma en muchas maneras: como
@@ -43970,7 +43970,7 @@ de dentro conoscer se ha por la orina remissa:
 es om<n>e flematico: & es el tie<m>po del inuierno & o-
 tros semejantes. La materia mela<n>conica enlas}
 [fol. 204v]
-{HD. Particula primera +}
+{HD. Particula primera ⇒}
 {CB2.
 partes de fuera conoscerse ha por la su dureza
 & color liuido como cardenido & poco dolor.
@@ -44634,7 +44634,7 @@ tenecen & sanara sy dios quisiere: mas quanto
 yo creo que no<n>.
 {RUB. ¶ Acabase la primera particula.}}
 [fol. 207v]
-{HD. Particula segunda +}
+{HD. Particula segunda ⇒}
 {CB2.
 {RUB. Comiença la segu<n>da par-
 ticula dela pronosticaci-
@@ -44846,7 +44846,7 @@ dios.
 sticacio<n> delas enfermedades del otoño.}}
 {SG. D}
 [fol. 208v]
-{HD. Segunda particula +}
+{HD. Segunda particula ⇒}
 {CB2.
 {IN6.} OToño es todo aq<ue>l tie<m>po q<ue> es
 desdel comienço de libra fasta
@@ -45070,7 +45070,7 @@ tiempo del estio engendrar se han tercianas &
 causon & mania & otros semejantes. E quan-to}
 {SG. D ij}
 [fol. 209v]
-{HD. Segunda particula +}
+{HD. Segunda particula ⇒}
 {CB2.
 es por el tiempo del verano engendrar se
 han las enfermedades sanguineas: assi com<m>o
@@ -45288,7 +45288,7 @@ otras semeja<n>tes: maguera que enla niñez sea
 mas acrescentado el cuerpo natural mente &}
 {SG. D iij}
 [fol. 210v]
-{HD. Segunda particula +}
+{HD. Segunda particula ⇒}
 {CB2.
 parescible mente: por esto non finca que en
 la iuuentud es acrescentado con mayor fuer-
@@ -45506,7 +45506,7 @@ y son son fermosos: mas ligera mente cahe
 enellos fluxo de vientre & humores mordi-catiuos:}
 {SG. D iiij}
 [fol. 211v]
-{HD. Segunda particula +}
+{HD. Segunda particula ⇒}
 {CB2.
 & otros morbos humidos semejan-
 tes. ¶ E otras regiones son altas enlos mo<n>-
@@ -45717,7 +45717,7 @@ niestras de aquella parte: & sean abyertas
 las fyniestras contrarias que son dela par-
 te del medio dia.}
 [fol. 212v]
-{HD. Particula segunda +}
+{HD. Particula segunda ⇒}
 {CB2.
 {RUB. ¶ Capitulo noueno: dela pro-
 nosticacion delas enfermedades
@@ -45896,7 +45896,7 @@ neas. otras so<n> i<n>terpoladas: & so<n> d<e> tres maneras
 & cada vna d<e>llas ha su p<ro>pio tipo: asi com<m>o es
 rigor e<n>la fiebre terciana: & frio enla fiebre co-tidiana}
 [fol. 213v]
-{HD. Particula tercera +}
+{HD. Particula tercera ⇒}
 {CB2.
 & orripilacion enla quartana. ¶ La p<ro>-
 nosticacion sera a tal: quando la segunda exa-
@@ -46107,7 +46107,7 @@ cerca es de sano.
 car segund la natura dela menor
 duracion del peroxismo.}}
 [fol. 214v]
-{HD. Particula tercera +}
+{HD. Particula tercera ⇒}
 {CB2.
 {IN6.} ASi com<m>o la mas luenga aflici-
 on significa augme<n>to dela en-
@@ -46295,7 +46295,7 @@ las virtudes sobre dichas administra<n> la ma-
 teria: assi com<m>o las piedras & los maderos
 son administrados al maestro q<ue> fragua el pa-lacio.}
 [fol. 215v]
-{HD. Particula segunda +}
+{HD. Particula segunda ⇒}
 {CB2.
 E esta virtud es diuina non corregible [.]
 E este entendimiento es bienaue<n>turado el q<u><<a>>l
@@ -46518,7 +46518,7 @@ asy manifiestamente sean enel comienço. ¶ E
 agora de saber es que delos signos q<ue> parecen}
 {SG. E}
 [fol. 216v]
-{HD. particula quarta +}
+{HD. particula quarta ⇒}
 {CB2.
 enla cara & algunos ay que pa(a)[d]ecen enel prin-
 cipio o enel quarto dia o d<e>spues. E estas son
@@ -46742,7 +46742,7 @@ señales dela digestion parecieren significa mu-
 erte. E sy despues delas señales dela digestion}
 {SG. E ij}
 [fol. 217v]
-{HD. particula quarta +}
+{HD. particula quarta ⇒}
 {CB2.
 parecieren significa<n> salud. E no digo esto por
 que non sea de auer miedo del morbo donde es
@@ -46965,7 +46965,7 @@ es de notar q<ue> no solame<n>te el calor i<n>nato atray-
 do delos p<ri>meros parie<n>tes se auienta: mas avn}
 {SG. E iij}
 [fol. 218v]
-{HD. particula quarta +}
+{HD. particula quarta ⇒}
 {CB2.
 el calor fluente engendrado dela sangre conla
 virtud del coraçon saliente del anima se cuen-
@@ -47186,7 +47186,7 @@ paciente: estonces este atal fluxo es malo.
 ¶ El fluxo dela sangre o viene delas partes de}
 {SG. E iiij}
 [fol. 219v]
-{HD. particula quarta +}
+{HD. particula quarta ⇒}
 {CB2.
 dentro delas partes de fuera. Si viniere por
 ocasion delas partes d<e>dentro: esto se faze por
@@ -47397,7 +47397,7 @@ erpo: & es enbiado alos intestinos. ¶ E sy es-
 te atal enbiamiento fuere por manera de mun-
 dificacion sera bien. ¶ E sy fuere por carrera}
 [fol. 220v]
-{HD. particula quarta +}
+{HD. particula quarta ⇒}
 {CB2.
 de accidente sera mal: & asy digo yo enla susta<n>-
 cia: que la sustancia dela egestio<n> sea mediana
@@ -47618,7 +47618,7 @@ condida tan solamente dela parte del color.
 por la orina liuida: o verde: o negra: o por la
 ypostasys: que es negra: o por el contento}
 [fol. 221v]
-{HD. Particula quarta +}
+{HD. Particula quarta ⇒}
 {CB2.
 crinoydal o petoloyda(d)[l] o furfureo: o el color
 liuido & el verde: & el negro significa mortifi-
@@ -47842,7 +47842,7 @@ aguosidad o vntuosidad o lagrimas o otros se-
 meja<n>tes porq<ue> todas estas cosas q<u><<i>>er q<ue> se eche<n>
 o}
 [fol. 222v]
-{HD. Particula quarta +}
+{HD. Particula quarta ⇒}
 {CB2.
 que se retenga<n>: son retenidas o alcançadas por
 dos maneras. ¶ La vna por obra de natura &
@@ -48065,7 +48065,7 @@ tardio donde non es fuerte inflamacion: & por
 esso non finca que son muy malas & muy cor-
 ruptibles ademas. E son otras q<ue> son de fuer-te}
 [fol. 223v]
-{HD. Particula quarta +}
+{HD. Particula quarta ⇒}
 {CB2.
 inflamacion & con fuertes accidentes: enpe-
 ro son muy sanaderas: porque nos conuiene
@@ -48290,7 +48290,7 @@ te enla segunda q<u><<a>>dra sin crisi. E assi com<m>o di-
 go esta regla dela primera & d<e>la segu<n>da q<u><<a>>dra}
 {SG. f}
 [fol. 224v]
-{HD. Quarta particula +}
+{HD. Quarta particula ⇒}
 {CB2.
 assi se entie<n>de de cada vna delas q<u><<a>>dras q<ue> se si-
 gue<n>: saluo q<ue> las q<u><<a>>dras q<ue> se sigue<n> no so<n>
@@ -48499,7 +48499,7 @@ se demuestra el crisi q<ue> se faze p<ar>a bie<n>: porq<ue> la
 buena & la acabada crisi no se faze sino q<u><<a>>ndo}
 {SG. f ij}
 [fol. 225v]
-{HD. Quinta particula +}
+{HD. Quinta particula ⇒}
 {CB2.
 las cosas nuzideras se departe<n> delas ayudade-
 ras: porq<ue> si las cosas ayudaderas fuesse<n> echa-
@@ -48720,7 +48720,7 @@ ente dessa enfermedad: saluo si yerro entre ca-
 yesse y. E assi esta condicion es mucho nece-ssaria}
 {SG. f iij}
 [fol. 226v]
-{HD. Quinta particula +}
+{HD. Quinta particula ⇒}
 {CB2.
 enla buena & enla perfecta crisi que sea
 indicatiua: & q<ue> la señales dela digestion aya<n>
@@ -48940,7 +48940,7 @@ teno se indica & demuestra enel dia quarto. E
 por esto se las señales dela digestion manifie-sta}
 {SG. f iiij}
 [fol. 227v]
-{HD. Quinta particula +}
+{HD. Quinta particula ⇒}
 {CB2.
 parescieren enel dia quarto: el crisi se fara
 para bien enel dia seteno. E si pareçieren en<e>l
@@ -49153,7 +49153,7 @@ mas o menos influye. El sol es e<n> medio d<e>las
 estrellas erraticas assi com<m>o es el rey en<e>l su re-
 yno: & el no ha menester d<e> ni<n>gu<n>o: & todos ha<n>}
 [fol. 228v]
-{HD. Particula quinta +}
+{HD. Particula quinta ⇒}
 {CB2.
 menester del. E esto paresce: porque el sol su-
 biendo no lo puede contrallar ninguna co-
@@ -49375,7 +49375,7 @@ es. ¶ E la quarta planeta es el sol: & es beni-
 uolo de calle<n>te & de seca co<m>plisio<n>: & es influye<n>-
 te & alumbra la vida a todos los biuientes.}
 [fol. 229v]
-{HD. Particula quinta +}
+{HD. Particula quinta ⇒}
 {CB2.
 & el su mouimiento es mediano: & es planeta
 delos fermosos & delos luzios en sus caras &
@@ -49596,7 +49596,7 @@ gir: saluo si fuere vltimado: asi com<m>o el fluxo
 d<e>l vie<n>tre vltimado & asi d<<e>>los otros deuemos
 co<n>-siderar}
 [fol. 230v]
-{HD. Particula quinta +}
+{HD. Particula quinta ⇒}
 {CB2.
 segu<n> la figura d<e>l cuerpo & segu<n> la dis-
 posicio<n>. Si la ytericia vino a<n>tes del dia seteno

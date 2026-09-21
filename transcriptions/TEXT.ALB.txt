@@ -295,7 +295,7 @@ q<ue> puso en su libro q<ue>l dizen almageste. por q<ue>
 es el mas complido libro q<ue> se fizo en esta scie<n>-
 cia. en amostrar las causas con sus prueua<<s>>}
 [fol. 2v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 de Geometria. & de arismetica. las q<ue> no<n> se pu-
 eden fallesçer ni auer dubda en su certedun-
@@ -473,7 +473,7 @@ de menor linage q<ue> lo salido. sera daq<ue>l linage el
 q<ue> es quando fuere multiplicado. en aq<ue>l linage
 sobre q<ue> es la particion. q<ue> salga dello aquel lina-ge}
 [fol. 3v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 partido mismo. tal los segundos quando los
 partieres sobre los menudos. q<ue> lo salido sera me-
@@ -660,7 +660,7 @@ medio. Et por esto fazesse la p<ro>porcion de la cuer-
 da de cada archo dellos a todel diametro tanto
 co<m>mo la p<ro>porcion del medio daq<ue>lla cuerda; la}
 [fol. 4v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 q<ue> so ell archo a medio el diametro. & es la me-
 atat de la cuerda del doblo dell archo; el q<ue> es par-
@@ -856,7 +856,7 @@ xxxvj. menudos bien cierto. & por esto se auerig-
 (g)uo que la quantidat del arco el q<ue> es entre los
 dos mudamientos q<ue> es en cierto .xlvij. grados.}
 [fol. 5v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 et .x. menudos. & q<ue> la declinacion de los signos
 q<ue> a del çerco dell yguador del dia es la meatade
@@ -1052,7 +1052,7 @@ del dia. Et desi los otros cercos q<ue> son
 declinados del de parte de Septentrio<n>.
 Et los logares de la tierra q<ue> son so estos cer-cos.}
 [fol. 6v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 Et dezimos q<ue> la linna q<ue> es en la tierra so
 el cerco dell yguador del dia; es la linna a q<ue>
@@ -1248,7 +1248,7 @@ polo septentrional enel zonte de la cabeça.
 Et sera el cerco dell yguador del dia en un lo-
 gar; paresciente todauia. & en otro sera asco<n>-dido}
 [fol. 7v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 todauia por q<ue> se faze en aquel logar en
 ell orizon mismo. Et rebueluese el cielo en
@@ -1444,7 +1444,7 @@ ccc. & .l. milleros. Et ala otra dizen cecilia. &
 a en so cerco quinientos milleros. Et ala ot-
 (t)ra dizen ecritas. & a en so cerco .ccc. millero<<s>>}
 [fol. 8v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 ¶ Et la mar de Nicas comiença de la daq<u><<i>>a
 faza costantinopla. & en su longura. mill
@@ -1640,7 +1640,7 @@ ponimiento; mengua la ladeza daquel lo-
 gar de .xc. & lo q<ue> fincare; esso sera ell altura
 del començamiento de aries en aquel logar.}
 [fol. 9v]
-{HD. LOS CANONES +}
+{HD. LOS CANONES ⇒}
 {CB2.
 et sabe su cuerda. Et desi toma la declina-
 cion del grado q<ue> tu quieres saber. & sabe su
@@ -1836,7 +1836,7 @@ demas sobre los grados de la altura. o sobre los
 dedos de la sombra; toma les sus derechos de la
 eguacion assi co<m>mo teloe demostrado enel capi-tulo}
 [fol. 10v]
-{HD. L<IBROS> DE LOS CANONES +}
+{HD. L<IBROS> DE LOS CANONES ⇒}
 {CB2.
 de la declinacion. Et esso es en catar
 q<ue> tanta es la p<ro>porcion daq<ue>llos menudos de .lx<<a>>.
@@ -2031,7 +2031,7 @@ gulos derechos. & sabras estonçe la linna del
 medio dia; por esta linna. Et sabras la lin-
 na de oriente. & de occidente. por la linna}
 [fol. 11v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 primera. Et otrossi si fuere este cerco pares-
 cido all orizon quando sube el Sol. & quan-
@@ -2207,7 +2207,7 @@ saber los sobimientos de qual grado quier
 enestos sobimientos sobredichos. o en los so-
 bimientos del cielo derecho. Et de saber los ⇒}}
 [fol. 12v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 {RUB. grados de los signos por estos sobimientos.
 Et de saber q<ue> tanto es ell arco del dia. & de la
@@ -2402,7 +2402,7 @@ o desde la hora q<ue> se pone fata q<ue> nasce; sabe
 el grado do es el sol en aquel dia q<ue> tu quie-
 res. & toma lo q<ue> fuere en so derecho de los ti-empos}
 [fol. 13v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 de los sobimientos en la clima do es
 aquella cibdad q<ue> tu quieres. si fuere la lade-
@@ -2598,7 +2598,7 @@ ticion; mengua lo de la cuerda retornada del me-
 dio arco del dia. & lo q<ue> fincare; sabe so arco retor-
 nado assi co<m>mo es sennalado enell arq<ue>amiento}
 [fol. 14v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 de las cuerdas retornadas. & lo q<ue> fuere aquell
 arco retornado; guarda lo. Et si fuere el rec-
@@ -2794,7 +2794,7 @@ sobrellos. & lo q<ue> fueren los tiempos de los sobi-
 mientos del grado de la estrella enel cielo de-
 recho depues dell annadimiento; o del men-guamiento;}
 [fol. 15v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 toma lo q<ue> fuere en so derecho
 de los grados de los sobimientos signos de los
@@ -2990,7 +2990,7 @@ de una hora de las horas de la noche. & lo q<ue> fuere;
 esso sera lo q<ue> passo de la noche de horas tempora-
 les. Et si partieres lo q<ue> se reboluio del cielo des-del}
 [fol. 16v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 ponimiento del Sol. sobre .xv. sera lo q<ue> te
 saliere horas eguales passadas de la noche. Et
@@ -3186,7 +3186,7 @@ Et si fuere esso sabudo por los subimientos
 de la estrella. o de sos ponimientos enel cerco
 dell orizon. & por el grado el q<ue> se sube. & se pone}
 [fol. 17v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 con el; assi co<m>mo lo auemos demostrado eneste
 libro con q<ue> pueden saber el grado q<ue> sube de los
@@ -3383,7 +3383,7 @@ lo q<ue> es en derecho del grado del Sol de la eg-
 (g)uacion de los dias en los sobimientos del
 cielo derecho. depues q<ue>l sopieres q<ue>l monta}
 [fol. 18v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 de una hora eguada. & lo q<ue> fincare. essas son
 horas eguadas depues de mediel dia. & sabe
@@ -3579,7 +3579,7 @@ sition non cae en cumplimiento. si non q<u><<a>>n-
 do fueren las dos planetas sobrel zodiaco;
 o q<ue> sea la ladeza de cada una dellas. egual co<n>}
 [fol. 19v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 la otra. & q<ue> sean en partes diuerssas. Et si fue-
 re la una de las dos planetas sobrel zodiaco. &
@@ -3775,7 +3775,7 @@ la tierra. Et mengua esso de .xxx. & lo q<ue> finca-
 re; esso sera tiempos de sus horas las q<ue> son de
 yuso de la tierra. assi co<m>mo lo auemos amostra-do}
 [fol. 20v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 enel començamiento deste libro. & obra co<n>
 el grado el q<ue> se acomedia el cielo con ell en
@@ -3971,7 +3971,7 @@ cidental del cielo. lo q<ue> es desdell angulo de
 la tierra. fata mediel cielo de parte de occide<n>-
 te. Et multiplica las horas nocturnas del}
 [fol. 21v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 grado siguiente en las horas dell arredra-
 miento del grado delantrero dell angulo de
@@ -4167,7 +4167,7 @@ na hora. & faz y un cerco. & sennala enell la li<n>-
 na de mediel dia assi co<m>mo es dicho enel come<n>-
 çamiento deste libro. Et desi pon la linna de}
 [fol. 22v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 mediel dia la q<ue> es sennalada en la piedra so-
 bre la linna de mediel dia. q<ue> tu saq<ue>ste enel cerco.
@@ -4319,7 +4319,7 @@ cerco dell eguador del dia. el punto del com-
 (m)ençamiento de cancer. Et ell otro pun-
 to el q<ue> es en so opposito. punto del come<n>çami-ento}
 [fol. 23v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 de capricorno. Et sera el punto el q<ue> (^es) si-
 gue al punto de capricorno. faza oriente. & el
@@ -4515,7 +4515,7 @@ brell orizon septentrional. tanto co<m>mo la la-
 deza del logar do tu quieres obrar. ueras y los
 sobimientos de los signos en aq<ue>l logar. Et la}
 [fol. 24v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 quantia dell arco del dia. & de la noche. & lo
 q<ue> sube. & lo q<ue> se pone. & lo q<ue> se acomedia el ci-
@@ -4639,7 +4639,7 @@ punto de .b. & q<ue> sea cada una bien firme en
 so logar. Et saca la linna de mediel dia assi
 co<m>mo es dicho eneste libro. & es la linna de .e.}
 [fol. 25v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 z. & cuelga la linna del peso del cabo de la
 piertega q<ue> es enel cerco de .a. & q<ue> uaya por
@@ -4691,7 +4691,7 @@ bre la otra; sobre angulos derechos.
 {ILL. {RUB. ESTA ES LA FIGU-
 RA DEL QVADRANTE}}}
 [fol. 26v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 {RUB. De co<m>mo se deue fazer la lidada co<n> q<ue> rectifica<n>.}
 {IN1.} Toma tres reglas de madero q<ue> sean bien
@@ -4801,7 +4801,7 @@ la meatat de la anchura de la regla ca-
 uada enel punto de .l. lo q<ue> es en la me-
 atat de .z.l. por las dos cauaduras q<ue> oui-emos}
 [fol. 27v]
-{HD. L<IBRO> DE LOS CANONES +}
+{HD. L<IBRO> DE LOS CANONES ⇒}
 {CB2.
 fecho. Et sabremos sobre qual cu-
 ento de los cuentos de la regla de .t.m.
@@ -4853,7 +4853,7 @@ LUT POR MUCHO TIEMPO}}
 {CB1.
 {RMK: HSMS-0229-0002: Tablas de Albateni.} {DIAG. {RUB. ¶ Tabla de los archos. & de los sinos.}}}
 [fol. 28v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {DIAG. {RUB. ¶ Tabla de los archos. & de los sinos.}}}
 [fol. 29r]
@@ -4879,7 +4879,7 @@ ij. A<n>nos de la alhigera.
 gos. & sos
 Meses.}}
 [fol. 29v]
-{HD. LAS TABL<<A>>S +}
+{HD. LAS TABL<<A>>S ⇒}
 {CB1.
 {IN1.} QVando quisieres saber sennal dell Anno en q<ue> tu eres de los A<n>nos arabigos; echa los .cc.
 et .xx.cc. & .xx. con el A<n>no en q<ue> tu eres. Et lo q<ue> fincare menos de .cc. & xx; entra co<n> ello en
@@ -4922,7 +4922,7 @@ dia passado daq<ue>l mes Romano; lo q<ue> tu fallaste en la tabla Ante. Et con e
 Romana la q<ue> es sobredicha enel come<n>çamie<n>to deste libro. Et si tu quisieres saber en q<u><<a>>l dia en-
 tra qual Mes Romano quier daq<ue>ll a<n>no en q<ue> tu eres. por el Mes arabigo en q<ue> tu estas. Sabe en q<u><<a>>l}}}
 [fol. 30v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.
 dia entra el Mes arabigo en q<ue> tu eres. Et esso sera q<ue> tu tomes el dia en q<ue> entro moha-
@@ -4958,7 +4958,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 31v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 32r]
@@ -4966,7 +4966,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 32v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 33r]
@@ -4974,7 +4974,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 33v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 34r]
@@ -4982,7 +4982,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 34v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 35r]
@@ -4990,7 +4990,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 35v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 36r]
@@ -4999,7 +4999,7 @@ la Era arabigas con la q<ue> obran enestas tablas.}}}
 {ILL. {DIAG. {RUB. ¶ Tabla de co<m>mo se deue sacar la Era Romana. & la egipciana. & la perssiana. de la Era arabiga en los annos collectos. et
 los espandidos. & los Meses. Et de co<m>mo se deue sacar la Era arabiga por cada una dellas.}}}}
 [fol. 36v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Mouimiento del Sol. & de la luna. & de la cabeça del drago<n>. en los a<n>nos coll<e>ctos arauigos.}}}}
 [fol. 37r]
@@ -5007,7 +5007,7 @@ los espandidos. & los Meses. Et de co<m>mo se deue sacar la Era arabiga por cada
 {CB1.
 {ILL. {DIAG. {RUB. Mouimiento del Sol. & de la luna. & de la cabeça del dragon en los a<n>nos Arauigos espandidos}}}}
 [fol. 37v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Mouimiento del Sol. & de la luna. & de la cabeça del drago<n> en los Meses arabigos.}
 {RUB. Mouimiento del Sol. & de la luna. & de la cabeça del dragon en las horas.}}}}
@@ -5016,7 +5016,7 @@ los espandidos. & los Meses. Et de co<m>mo se deue sacar la Era arabiga por cada
 {CB1.
 {ILL. {DIAG. {RUB. Mouimie<n>to del Sol. & de la luna. & de la cabeça del dragon en los dias.}}}}
 [fol. 38v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Mouimiento de las çinco planetas en los annos collectos.}}}}
 [fol. 39r]
@@ -5024,7 +5024,7 @@ los espandidos. & los Meses. Et de co<m>mo se deue sacar la Era arabiga por cada
 {CB1.
 {ILL. {DIAG. {RUB. Mouimie<n>to de las çinco planetas; en los annos arabigos espandidos.}}}}
 [fol. 39v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Mouimie<n>to de las çinco planetas en los Meses arabigos.}
 {RUB. Mouimiento de las çinco planetas en las horas.}}}}
@@ -5033,7 +5033,7 @@ los espandidos. & los Meses. Et de co<m>mo se deue sacar la Era arabiga por cada
 {CB1.
 {ILL. {DIAG. {RUB. Mouimiento de las çinco planetas en los dias.}}}}
 [fol. 40v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Las coniunctiones del Sol. & de la luna. las no<n> yguadas
 en los a<n>nos egipcia<n>os coll<e>ctos.}}}}
@@ -5042,7 +5042,7 @@ en los a<n>nos egipcia<n>os coll<e>ctos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Oppositiones del Sol. & de la luna. las non yguadas en los a<n>nos egipcianos collectos.}}}}
 [fol. 41v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Terminos de los Eclipses del Sol. & de la luna.}
 {RUB. Terminos dell Eclipsi del Sol q<u><<a>>ndo fuere el mouimiento del medio curso de .159.44. fata
@@ -5055,7 +5055,7 @@ en los a<n>nos egipcia<n>os coll<e>ctos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Las coniu<n>ctiones. & las oppositiones las no<n> yguadas en los A<n>nos Egipcianos espandidos.}}}}
 [fol. 42v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ladezas de las villas. & de sus longuras.}}}}
 [fol. 43r]
@@ -5063,7 +5063,7 @@ en los a<n>nos egipcia<n>os coll<e>ctos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la declinacion del Sol dell yguador del dia enel çerco de mediel dia.}}}}
 [fol. 43v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB2.
 {ILL. {DIAG. {RUB. Co<m>plimie<n>to de las Tablas de la declinacio<n>.}}}}
 {CB2.
@@ -5087,7 +5087,7 @@ cada diez grados.}}
 {ILL. {DIAG. {RUB. Tabla pora saber el medio dell a<n>nadimie<n>to del dia mayor por la altura del polo en cada
 uilla. & como saben la altura del polo por el medio dell a<n>nadimie<n>to del dia mayor.}}}}
 [fol. 44v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla de saber la sombra por la altura
 co<n> aq<ue>l tama<n>no q<ue> es el cathet partido por
@@ -5100,7 +5100,7 @@ sombra misma.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
 [fol. 45v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
 [fol. 46r]
@@ -5108,7 +5108,7 @@ sombra misma.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
 [fol. 46v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos en las climas que se annaden una sobre otra por
 una quarta de hora. & uan se los signos de diez en diez grados.}}}}
@@ -5118,7 +5118,7 @@ una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos en las siete climas las q<ue> se annaden una sobre ot<r><<a>>
 por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 [fol. 47v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos. en mecha. & en baldach. & en herran.}}}}
 [fol. 48r]
@@ -5126,7 +5126,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos en Haca. su ladeza es .36. & sus horas .14.28.}}}}
 [fol. 48v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los Signos en la çipdat de Raca.}}}}
 [fol. 49r]
@@ -5134,7 +5134,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos en la çipdat de Raca.}}}}
 [fol. 49v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos en la çipdat de Raca.}}}}
 [fol. 50r]
@@ -5150,7 +5150,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del mouimie<n>to del Sol. & de la luna. & de la cabeça del dragon en los meses Romanos.}}}}
 [fol. 51v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Mouimie<n>to del Sol. & de la luna. & de la cabeça del dragon en los dias.}}}}
 [fol. 52r]
@@ -5158,7 +5158,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion del Sol. & de la luna.}}}}
 [fol. 52v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion del Sol. & de la luna.}}}}
 [fol. 53r]
@@ -5166,7 +5166,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacio<n> del Sol. & de la luna.}}}}
 [fol. 53v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion del Sol. & de la luna.}}}}
 [fol. 54r]
@@ -5174,7 +5174,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion del Sol. & de la luna.}}}}
 [fol. 54v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Complimie<n>to de la equacion del Sol. & de la luna.}}}}
 [fol. 55r]
@@ -5182,7 +5182,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las coniu<n>ctiones del sol & de la luna las no<n> yguadas en los a<n>nos Romanos collectos.}}}}
 [fol. 55v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las oppositiones del Sol. & de la luna las no<n> yguales en los a<n>nos Romanos coll<e>ctos.}}}}
 [fol. 56r]
@@ -5190,7 +5190,7 @@ por una quarta de hora. & uan se los signos de diez en diez grados.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las coniunctiones et de las oppositiones en los annos Romanos espandidos.}}}}
 [fol. 56v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Terminos dell eclipsi del sol q<u><<a>>ndo fuere el mouimie<n>to mediano de la ladeza de .159.44. fata .190.
 57. o de .0. fata .20.16. & de .348.57. fata co<m>plimie<n>to de .360. puede seer q<ue> sera eclipsi.}
@@ -5218,7 +5218,7 @@ a<n>nadimie<n>to o del me<n>guamie<n>to. esso sera el moui-
 mie<n>to en deçado. Et me<n>gua del el mouimie<n>to del sol
 a una hora. & esso sera ell adela<n>tramie<n>to de la luna.}}}
 [fol. 57v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {RUB. Tabla dell endreçamiento.}
 {ILL. {DIAG.}}}
@@ -5231,7 +5231,7 @@ longura mas luenne.}}}}
 {ILL. {DIAG. {RUB. Tabla dell eclipsi de la Luna
 en su longura mas çerca.}}}}
 [fol. 58v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB2.
 {ILL. {DIAG. {RUB. l<<e>>uantidades dell eclipsi del Sol en la
 longura de la luna mas luenne.}}}}
@@ -5246,7 +5246,7 @@ del zonte de so sobimiento. & de so ponimie<n>to de cada signo enell orizon de c
 ma. Et esto es la q<u><<a>>ntia d<e> so alo<n>gamie<n>to enell. del sobimie<n>to del pu<n>to eq<u><<i>>noctial. & d<e> so poni-
 miento fazal polo Septentrional. o al polo Meridional.}}}}
 [fol. 59v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la diu<er>sidat del catamie<n>to de la lun<<a>> enel c<er>co de la alt<ur>a por los arcos. & los angulos.}}}}
 [fol. 60r]
@@ -5254,7 +5254,7 @@ miento fazal polo Septentrional. o al polo Meridional.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamie<n>to de la Luna en la p<r><<i>>mera clima. su ladeza .16.32 sus horas .13.}}}}
 [fol. 60v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Diu<er>sidat del catamie<n>to de la luna en la segu<n>da clima. su ladeza .24.5 & s<us> horas .13.30.}}}}
 [fol. 61r]
@@ -5262,7 +5262,7 @@ miento fazal polo Septentrional. o al polo Meridional.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamie<n>to de la luna en la tercera clima. su ladeza .30.40. sus horas .14.}}}}
 [fol. 61v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamie<n>to de la luna en la quarta clima. su ladeza .36.22. s<us> horas .14.30.}}}}
 [fol. 62r]
@@ -5270,7 +5270,7 @@ miento fazal polo Septentrional. o al polo Meridional.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamie<n>to de la luna en la quinta clima. su ladeza .41.14. & sus horas .15.}}}}
 [fol. 62v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamie<n>to de la luna en la sexta clima. su ladeza .45.32. s<us> horas .15.30.}}}}
 [fol. 63r]
@@ -5278,7 +5278,7 @@ miento fazal polo Septentrional. o al polo Meridional.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Diuerssidat del catamiento de la luna en la setena clima. su ladeza .48.53. s<us> hora<<s>> .16.}}}}
 [fol. 63v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {RUB. Cap<itu>lo. De saber q<u><<a>>ndo es la planeta end<er>eçada. & q<u><<a>>ndo es estacionaria. & q<u><<a>>ndo es retrog<r><<a>>da.}
 {IN1.} Sabe q<ue> Saturno es endereçado. desdel punto q<ue> es enell aux de so piçiclo. fata q<ue> passen
@@ -5338,7 +5338,7 @@ to de .cc. & .xij. grados. & .xlvij. menudos; es retrogrado. Et fata complime<n>
 to de .cc. & .xxxviij. grados; es estacionario. Et fata <com>plimie<n>to de .ccc<<o>><<s>>. et
 lx<<a>>. es endereçado.}}
 [fol. 64v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tablas de los mouimie<n>tos de las çinco planetas en los annos Romanos collectos.}}}}
 [fol. 65r]
@@ -5346,7 +5346,7 @@ lx<<a>>. es endereçado.}}
 {CB1.
 {ILL. {DIAG. {RUB. Tablas de los mouimie<n>tos de las çinco planetas en los a<n>nos Romanos espandidos.}}}}
 [fol. 65v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tablas del mouimie<n>to de las çinco planetas en los Romanos Meses.}}}}
 [fol. 66r]
@@ -5354,7 +5354,7 @@ lx<<a>>. es endereçado.}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla<<s>> del mouimie<n>to de las çinco planetas en los dias.}}}}
 [fol. 66v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la eguacion de Saturno. & su longura la mas lue<n>ne enel a<n>no de .1090. de la
 Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
@@ -5363,7 +5363,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion de Saturno.}}}}
 [fol. 67v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion de Saturno.}}}}
 [fol. 68r]
@@ -5371,7 +5371,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion de Saturno.}}}}
 [fol. 68v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Equacion de Saturno.}}}}
 [fol. 69r]
@@ -5379,7 +5379,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Complimiento de las tablas de la eguacion de Saturno.}}}}
 [fol. 69v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Jupiter. & su longura la mas luenne enel a<n>no de .1091. &
 1072. grados . & .29. menudos. et 13. Segundos.}}}}
@@ -5388,7 +5388,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la equacion de Jupiter.}}}}
 [fol. 70v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Jupiter.}}}}
 [fol. 71r]
@@ -5396,7 +5396,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Jupiter.}}}}
 [fol. 71v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Jupiter.}}}}
 [fol. 72r]
@@ -5404,7 +5404,7 @@ Era de alexandre .2044. grados .29. menudos. & .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Complimiento de la eguacion de Jupiter.}}}}
 [fol. 72v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la eguacion de mars so alongamiento mas luenne enel anno de .1091. de la
 Era de alexandre; 1027. grados. et .19. menudos .& .13. segundos.}}}}
@@ -5413,7 +5413,7 @@ Era de alexandre; 1027. grados. et .19. menudos .& .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Mars.}}}}
 [fol. 73v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Mars.}}}}
 [fol. 74r]
@@ -5421,7 +5421,7 @@ Era de alexandre; 1027. grados. et .19. menudos .& .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la eguacion de Mars.}}}}
 [fol. 74v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de la yguacion de Mars.}}}}
 [fol. 75r]
@@ -5429,7 +5429,7 @@ Era de alexandre; 1027. grados. et .19. menudos .& .13. segundos.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Complimie<n>to de la<<s>> Tabla<<s>> de la eguacion de Mars.}}}}
 [fol. 75v]
-{HD. LAS TABLAS +}
+{HD. LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la eguacion de Venus. et su longura la mas luenne enel anno de .1091. de
 la Era de alexandre .102. grados. et .19. menudos. et .13. segundos.}}}}

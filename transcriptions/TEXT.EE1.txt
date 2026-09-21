@@ -512,7 +512,7 @@ ta cuenta quatro annos e seys meses. Mas enel
 tiempo q<ue> eran los consules enantes q<ue> Julio Cesar
 regnasse. cient e siete annos. ouo uno dellos q<ue>}
 [fol. 4v]
-{HD. GRIE-GOS +}
+{HD. GRIE-GOS ⇒}
 {CB2.
 llamaron Cipio q<ue> destruyo Affrica y espanna. por
 q<ue> se leuantaron contra roma. E bien cie<n>t an<n>os
@@ -691,7 +691,7 @@ en buen logar. e fue buscar o la assentasse de nu-
 euo. E quando fue a aq<ue>l logar o estauan los pila-
 res sobre q<ue> pusiera hercules la ymagen. cato la}
 [fol. 5v]
-{HD. GRIE-GOS +}
+{HD. GRIE-GOS ⇒}
 {CB2.
 tabla de marmol q<ue> yazie por pieças q<ue>brada. e q<u><<a>>n-
 do uio las letras fizo las ayuntar en uno e leyo
@@ -903,7 +903,7 @@ na q<ue> dizien gouia. e alli fizo muy marauillosa
 obra pora adozir ell agua ala cibdat. assi cuemo
 oy dia parece. e acabo la torre dalfaro q<ue> come<n>çara}
 [fol. 6v]
-{HD. GRIE-GOS +}
+{HD. GRIE-GOS ⇒}
 {CB2.
 hercules q<ue> es cabo la crunna. E com era omne
 muy sabidor fizo fazer por grand sabiduria un
@@ -1200,7 +1200,7 @@ otras tierras. E fizieron por toda la tierra ca<n>ta-
 res de llantos despanna que dizien que dios
 la auie ayrada. E fue assi que el postremer a<n>no}
 [fol. 8r]
-{HD. ALMV-IUCES +}
+{HD. ALMV-IUCES ⇒}
 {CB2.
 de la seca. fizo un uiento tan grande q<ue> todos los
 arboles derribo por que los fallo secos. e ta<n> gra<n>d
@@ -1473,7 +1473,7 @@ los Romanos. e tanto ouo sabor de les fazer
 mal. que non cato la tregua que auie con
 ellos. e quebranto la. e lidio con ellos e ue<n>-cieron}
 [fol. 9v]
-{HD. AFRI-CA +}
+{HD. AFRI-CA ⇒}
 {CB2.
 le e tornos uençudo e maltrecho pora af-
 frica. ¶ Est amilcar ouo quatro fijos. el pri-
@@ -24026,7 +24026,7 @@ los godos destroyda la cibdat de Roma
 Alçaron se cadaunos a todas partes
 con los sennorios q<ue> tenien. ¶ E alçosse}
 [fol. 126v]
-{HD. VANDA-LOS +}
+{HD. VANDA-LOS ⇒}
 {CB2.
 en bretanna un ric omne q<ue> auie nom-
 bre Graciano. ¶ E enfrancia Costanti-
@@ -24203,7 +24203,7 @@ alanos con grand miedo dellos; dexa-
 ron Suauia & fueron se pora los Vuan-
 dalos. & pora aq<ue>llas otras gentes. por}
 [fol. 127v]
-{HD. UANDA-LOS +}
+{HD. UANDA-LOS ⇒}
 {CB2.
 cuidar q<ue> podrien con los godos des que
 fuessen todos enuno. ¶ Mas tanto fue-
@@ -24415,7 +24415,7 @@ fizieron en quanto se<n>norearo<n> Espan-
 na con los Romanos los ouieron. &
 alas uezes a ellos obedeciero<n>. & no se}
 [fol. 128v]
-{HD. VANDA-LOS +}
+{HD. VANDA-LOS ⇒}
 {CB2.
 entendrie bien la estoria contando los
 tiempos de los unos & dexando los de
@@ -24627,7 +24627,7 @@ cio enel tiempo de Alarico segund que
 adelante cuenta la estoria en los fecho<<s>>
 de los Godos. E por esta razon dexo la}
 [fol. 129v]
-{HD. UANDA-LOS +}
+{HD. UANDA-LOS ⇒}
 {CB2.
 passada & quiso foyr alas francias ma<<s>>
 non se le guiso. ¶ E quando uio aquesto
@@ -24822,7 +24822,7 @@ co Rey de los Sueuos
 de quatrocientos & seta-
 enta & dos. ¶ Auino q<ue>}
 [fol. 130v]
-{HD. UANDA-LOS +}
+{HD. UANDA-LOS ⇒}
 {CB2.
 el rey Genserico des q<ue> ouo passada la
 mar con los Vuandalos; destruyo to-
@@ -25015,7 +25015,7 @@ E por poner paz con ellos & sallilles de
 tuerto; torno les la prouincia de Car-
 pentania q<ue> les auie tollida. e<n> q<ue> es}
 [fol. 131v]
-{HD. UANDA-LOS +}
+{HD. UANDA-LOS ⇒}
 {CB2.
 la cibdat de Çaragoça. por tal de fincar
 empaz dalli adelante con las otras
@@ -25207,7 +25207,7 @@ batalla. & muy nombra-
 da q<ue> ouieron en los campos catalano<<s>>
 los Romanos & los godos co<n> Athila}
 [fol. 132v]
-{HD. GO-DOS +}
+{HD. GO-DOS ⇒}
 {CB2.
 rey de los Vgnos en q<ue> murio el Rey the-
 uderedo suegro de Riquilano; segund
@@ -25428,7 +25428,7 @@ muy grand; et uencieron los Godos
 alos Vlmerrugos. & echaron los de
 toda su tierra. Et conquirieron alos}
 [fol. 135v]
-{HD. GO-DOS +}
+{HD. GO-DOS ⇒}
 {CB2.
 Vuandalos que eran fronteros destas.
 et ouieron de so linage Reyes departidos.

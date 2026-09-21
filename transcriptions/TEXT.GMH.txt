@@ -110,7 +110,7 @@ mire que dize la muerte
 vozeando}
 {SG. O 6} {CW. a Re}
 [fol. 161v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RUB. a} Recuerde el alma dormida
 abiue el seso y despierte
@@ -171,7 +171,7 @@ pues al morir esta iunto,
 y aun no viene la mañana}
 {SG. O 7} {CW. quando}
 [fol. 162v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 quando la noche esta a punto.
 Y aquel solo insipiente
@@ -231,7 +231,7 @@ los que viuen por sus manos
 y los ricos.}
 {CW. GLO}
 [fol. 163v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RMK: HSMS-0364-0001: Glosa sobre las coplas de don Jorge Manrique.} {RUB. GLOSA.}
 Vemos que se va la vida,
@@ -292,7 +292,7 @@ sus sabores.
 {RUB. c} A aquel solo mencomiendo}
 {CW. a aquel}
 [fol. 164v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 a aquel solo inuoco yo
 de verdad
@@ -353,7 +353,7 @@ para el otro ques morada
 sin pesar:}
 {CW. b mas}
 [fol. 165v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RUB. b} mas cumple tener buen tino
 para andar esta jornada
@@ -415,7 +415,7 @@ assi que quando morimos,
 descansamos.}
 {CW. a Este}
 [fol. 166v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RMK: HSMS-0364-0002: Coplas por la muerte de su padre.} {RUB. a} {IN2.} ESte mundo bueno fue,
 si bien usassemos del
@@ -476,7 +476,7 @@ Y en esta que hizo Dios
 sagrada puerta del cielo}
 {CW. descen}
 [fol. 167v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 descendio
 {RUB. d} A nascer aca entre nos
@@ -537,7 +537,7 @@ fuerça, ligereza, o maña
 a la fin nos desengaña,}
 {SG. P} {CW. y ve}
 [fol. 168v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 y vemos nuestra locura
 en lo que despues nos daña.
@@ -599,7 +599,7 @@ truxeramos cada hora,
 y quan presta.}
 {SG. P 2} {CW. Mu}
 [fol. 169v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 Muger ternas por sesudo
 al que esta en la guerra di,
@@ -661,7 +661,7 @@ las cosas en sus estados
 te parescen.}
 {SG. P 3} {CW. c Dellas}
 [fol. 170v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RUB. c} dellas deshaze la edad,
 dellas casos desastrados
@@ -722,7 +722,7 @@ que si a no tener viniere,
 aun que en sangre sea subido,}
 {SG. P 4} {CW. baxara}
 [fol. 171v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 baxara quanto subiere.
 Que a mil vimos por tener
@@ -783,7 +783,7 @@ porque son de vna señora
 que se muda.}
 {SG. P 5} {CW. Hombre}
 [fol. 172v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 Hombre ternias por bueno
 a aquel que tan loco fuesse,
@@ -843,7 +843,7 @@ sin embiar cosa delante.
 Aun que los ricos sensañen,}
 {SG. P 6} {CW. el gran}
 [fol. 173v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 el grande con muerte cessa
 y el pequeño,
@@ -904,7 +904,7 @@ Teme infierno y purgatorio,
 y mirate hombre mortal:}
 {SG. P 7} {CW. porque}
 [fol. 174v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 porque quien lo entiende mal,
 tiene a Dios por accessorio,
@@ -965,7 +965,7 @@ oluidadas,
 {RUB. a} Estos reyes poderosos}
 {CW. que}
 [fol. 175v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 que vemos por escripturas
 ya passadas.
@@ -1026,7 +1026,7 @@ quanto basta lo que vemos
 sin lo que auemos leydo.}
 {CW. Pues}
 [fol. 176v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 Pues tenemos en las manos
 lo que en nuestro tiempo oymos
@@ -1087,7 +1087,7 @@ de las eras,
 Cada vno quiere ser mas,}
 {CW. no}
 [fol. 177v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 no ay quien de muerte sespante
 hasta que ven su semblante,
@@ -1148,7 +1148,7 @@ que tañian:
 {RUB. d} que se hizo aquel dançar}
 {CW. aque}
 [fol. 178v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 aquellas ropas chapadas
 que trayan.
@@ -1209,7 +1209,7 @@ los muros y baluartes
 y barreras,}
 {CW. c La}
 [fol. 179v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RUB. c} La caua honda chapada,
 o qualquier otro reparo
@@ -1270,7 +1270,7 @@ con tu flecha.
 tantos Marqueses y Condes}
 {SG. Q} {CW. y Ba}
 [fol. 180v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 y Barones
 {RUB. b} como vimos tan potentes,
@@ -1331,7 +1331,7 @@ y le aplazes
 {RUB. d} Quando tu cruel tensañas,}
 {SG. Q 2} {CW. con tu}
 [fol. 181v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 con tu fuerça los atierras,
 y deshazes.
@@ -1392,7 +1392,7 @@ quel tiempo triumphara della
 como de todo ha triumphado.}
 {SG. Q 3} {CW. Y aun}
 [fol. 182v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 Y aun quel mundo haga honor,
 la gloria es lo principal
@@ -1453,7 +1453,7 @@ y con lloros.
 Gana lo el ques auisado}
 {SG. Q 4} {CW. con}
 [fol. 183v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 con seruir le y humillarse,
 y bien puede assi ganar se,
@@ -1514,7 +1514,7 @@ aun que la hora postrera
 sea tan dura}
 {SG. Q 5} {CW. c Yo}
 [fol. 184v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 {RUB. c} Yo consiento en mi morir
 con voluntad plazentera
@@ -1575,7 +1575,7 @@ y quien vino a redimir me
 y a carne humana vestir}
 {SG. Q 6} {CW. para}
 [fol. 185v]
-{HD. LAS OBRAS DE +}
+{HD. LAS OBRAS DE ⇒}
 {CB1.
 para de gloria vestirme.
 Quien con sus merescimientos

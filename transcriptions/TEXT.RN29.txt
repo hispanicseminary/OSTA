@@ -31,8 +31,8 @@ Jmperial.}}
 libro. Dirigido al serenissimo rey don Herna<n>do
 de Napoles. Compuesto por maestre Ruberto
 su cozinero mayor.}
-{IN5.} MUchas vezes serenissi-mo
-rey & muy poderoso señor fue mandado
+{IN5.} MUchas vezes serenissi-
+mo rey & muy poderoso señor fue mandado
 por vuestra magestad a mi Ruberto vuestro
 muy leal sieruo/ & criado/ y cozinero d<e> vuestra
 casa real que hiziesse vn tratado desta arte de mi officio por-
@@ -748,7 +748,7 @@ estiercol podrido porq<ue> las bestias esten siempre limpias q<ue>
 ningu<n>a cosa les haze nacer & criar sarna enlos pies tanto co-mo}
 {SG. b iij}
 [fol. 11v]
-{HD. Regimiento delas casas(.) +}
+{HD. Regimiento delas casas(.) ⇒}
 {CB1.
 estar sobre estiercol podrido/ porq<ue> les escalienta las ma-
 nos y los pies: y les daña los cascos: & ala noche hazer les
@@ -821,7 +821,7 @@ dela bolsa/ y si por ventura fuesses compelido
 a sentenciar enesta causa: no seas iniquo juez:}
 {SG. b iiij.}
 [fol. 12v]
-{HD. Regimiento delas casas +}
+{HD. Regimiento delas casas ⇒}
 {CB1.
 que sabida la verdad comu<n>mente la justicia es dela bolsa.
 los testigos d<e>la gula son pobres. baxos de raez co<n>dicio<n>: y de-
@@ -893,7 +893,7 @@ endurecida/ el castigo pie<n>so la hara peor.
 ¶ Las vestiduras ricas declara<n> la pobreza del seso. la ropa
 muy p<re>sciada/ es causa d<e> murmuracio<n> y embidia: alos vezi-nos}
 [fol. 13v]
-{HD. Regimiento delas casas +}
+{HD. Regimiento delas casas ⇒}
 {CB1.
 p<ro>cura ser estimado por la bondad/ y no por el vestido:
 la virtud permanesce: el vestido acabase con vejez. Grande

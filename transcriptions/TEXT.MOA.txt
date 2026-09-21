@@ -110,7 +110,7 @@ de la q<u><<a>>ntia q<ue> les an
 a dar a comer de las carnes. IX
 {IN2.} El .viiij<<o>>. capitolo fabla}
 [fol. 2v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 de las electiones de las oras
 en q<ue> las deuen comprar e
@@ -213,7 +213,7 @@ a poder sobre muchas co-
 sas. e por uencer todas las
 cosas q<ue>s le q<u><<i>>eren defend<er>.}
 [fol. 3v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 E qui estas dos cosas pudie-
 re complir; conuiene q<ue>l di-
@@ -317,7 +317,7 @@ os agora q<u><<i>>ero com<en>-
 çar. e digo por q<ue> esta mae-
 stria. e todas las otras ma-estrias}
 [fol. 4v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 deuen auer materia
 e forma. e mouemiento e ti-
@@ -422,7 +422,7 @@ chos q<ue> tornan mas en negro.
 e los picos e las palmas an
 muy rezios. e muy duros.}
 [fol. 5v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 e tornan en uerde. e otro si
 las piernas tornan en uer-
@@ -522,7 +522,7 @@ color. la nat<u><<r>>a (^de) las unas
 delas otras. segundo dire-
 mos adelantre en el q<u><<a>>rto}
 [fol. 6v]
-{HD. L<IBER> TIT<V>L<VS> +}
+{HD. L<IBER> TIT<V>L<VS> ⇒}
 {CB2.
 capitolo deste tractado. ([^2#.xi])
 {IN2.} Mas los sagres parten-
@@ -622,7 +622,7 @@ e dizen les niegas. e en ara-
 uigo dizenles gatarif. e ua-
 cria. e dellas ay q<ue> las p<re>nde<n>}
 [fol. 7v]
-{HD. L<IBER> TIT<V>L<US> +}
+{HD. L<IBER> TIT<V>L<US> ⇒}
 {CB2.
 q<u><<a>>ndo uuelan. e dizen les
 mudantes. e en arauigo
@@ -720,7 +720,7 @@ ba el segundo capitolo. {IN1.} .III.
 capitolo q<ue> fabla de
 las sazones en q<ue> se engen-dran}
 [fol. 8v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 las aues q<ue> caçan e de
 las sazones en q<ue> las p<re>nden.
@@ -819,7 +819,7 @@ da es peor q<ue> la p<r><<i>>mera. e po-
 cas end escapan delas q<ue>
 enferman en la segunda}
 [fol. 9v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 sazon. e aqui se acaba el
 [*t<er>c]ero capitolo.
@@ -919,7 +919,7 @@ fablemos mas de-
 stas fayçones. q<ue> metamo<<s>>
 delantre unas cosas que}
 [fol. 10v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 p<ro>uaron los mestros en
 este tiempo de connocen-
@@ -1015,7 +1015,7 @@ pluma. e q<ue> ayan los so-
 mizos de las alas luen-
 gas. e las coxas luengas.}
 [fol. 11v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 e las yiadas. e las palma<<s>>
 anchas. e q<ue> ayan las pier-
@@ -1111,7 +1111,7 @@ uermeias son coraiosos.
 e los negros son muy bu-
 enos. mas no<n> son atreuido<<s>>}
 [fol. 12v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 pora p<re>nder g<r><<a>>ndes aues. E
 los pardos q<ue> son mezclados
@@ -1207,7 +1207,7 @@ e redondos. e son de mucha<<s>>
 pintas en los ombros. e an
 los ombros alongados uno}
 [fol. 13v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 dotro. e an buenas coxas. e
 an las monnecas perranca-
@@ -1303,7 +1303,7 @@ d[ ]oro. assi como son las co-
 lores de los açores ara<n>nie-
 gos los q<ue> an las espaldas}
 [fol. 14v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 pintas. Mas los uermeios
 puros; son los q<ue> semeian
@@ -1403,7 +1403,7 @@ baxas. e q<ue> an las tetiella<<s>>
 redondas. e las palmas
 anchas. e las unnas gor-das.}
 [fol. 15v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 e las colas espessas.
 e q<ue> las tengan bien para-
@@ -1501,7 +1501,7 @@ sobre agua. e en caçar a-
 ues menores e mayores.
 E los rucios q<ue> tornan en}
 [fol. 16v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 uermeio; si escapan q<ue> no<n>
 sean delexados e p<er>ezosos de-
@@ -1605,7 +1605,7 @@ ga bien e a[ ]luenne. e q<ue> aya
 los picos e las unnas e las
 lenguas bien negras. e que}
 [fol. 17v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 semeie el so tallo al tallo
 de los sagres. o de los cuer-
@@ -1709,7 +1709,7 @@ piernas amariellas elas
 palmas otro si.
 {IN2.} E los de tierra de co-raçen}
 [fol. 18v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 segund auien p<ro>uado
 tenien por buenos açores a
@@ -1813,7 +1813,7 @@ aguilas. e las medianas
 son menores segund la
 g<r><<a>>ndez de las mayores}
 [fol. 19v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 E las menores son taman-
 nas como los sos torc[']uelo<<s>>.
@@ -1917,7 +1917,7 @@ arauigo çarden. e es una
 af q<ue> es mayor q<ue> cabdon.
 {IN2.} Mas las aues q<ue> son di-chas}
 [fol. 20v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 en arauigo çu(mi)[nu]c; so<n>
 los esmerijones. las p<r><<i>>mas
@@ -2021,7 +2021,7 @@ a toda a<ni>malia por q<ue> a me-
 ster aspiration g<r><<a>>nd. e mu-
 cho fuelgo. por tal q<ue> atiem-pre}
 [fol. 21v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 la su g<r><<a>>nd calent<u><<r>>a. ca
 la calent<u><<r>>a siemp<re> ensan-
@@ -2125,7 +2125,7 @@ uiene q<ue> ayan las soberceia<<s>>
 altas. e las cabeças de las
 alas retornadas a ayuso}
 [fol. 22v]
-{HD. L<IBER> TITVLV[S] +}
+{HD. L<IBER> TITVLV[S] ⇒}
 {CB2.
 e los cuchiellos e las pla-
 nas allegadas uno a otro.
@@ -2229,7 +2229,7 @@ mas. temprandolas. segu<n>d
 tempran a[ ]las q<ue> son enfer-
 mas de calent<u><<r>>a. e q<u><<a>>nto mas}
 [fol. 23v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 las p<ro>uaren; meior enten-
 dran q<u><<a>>nto podran beuir.
@@ -2329,7 +2329,7 @@ mer por tres dias. carne de
 cabron o de algazel con le-
 che dasna. e si meioraren}
 [fol. 24v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 por ello; entendran q<ue> es de
 tisica. e conuiene q<ue> ielo si-
@@ -2429,7 +2429,7 @@ alos paladares. ca por a-
 uent<u><<r>>a fallaren y abert<u><<r>>a
 q<ue> se faze cançre. o les pa-reçra}
 [fol. 25v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 en las gargantas bla<n>-
 cura e son pustiellas. e de(-)
@@ -2529,7 +2529,7 @@ aues q<ue> crian en las aguas.
 e q<u><<a>>nto mas menores fueren
 tanto mas meiores son. e}
 [fol. 26v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 las carnes de las aotardas
 otro si son buenas. e la car-
@@ -2633,7 +2633,7 @@ alos estruços e son falla-
 das en tierras de romania
 es les muy buena e p<re>stable}
 [fol. 27v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 por q<ue> se muele ayna.
 {IN2.} E agora q<ue>remos de-
@@ -2737,7 +2737,7 @@ remos del ceuo de las car-
 nes delas q<u><<a>>tropedias.
 {IN2.} Dezimos q<ue> las carnes}
 [fol. 28v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 buenas estas son. carne de
 bezerro. e carne de cabron.
@@ -2841,7 +2841,7 @@ da dia; fazelles a g<r><<a>>nd p<ro>.
 ca alimpiar las a dela co-
 lera. e dela flema. e delas}
 [fol. 29v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 enfermedades q<ue> se fazen
 por el yesso. e del remadiz-
@@ -2945,7 +2945,7 @@ den daq<ue>lla carne. e si fue-
 ren degolladas al ora q<ue> ten-
 gan los uientres frescos; den}
 [fol. 30v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 les a[ ]comer de la carne e no<n>
 de los uientres. e q<ue> las des-
@@ -3045,7 +3045,7 @@ si a[ ]dargelas ouieren q<ue> no
 tengal al. conuiene q<ue> la
 remogen en leche de mu-gieres.}
 [fol. 31v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 ca gelo faze meior
 moler. E la carne de to-
@@ -3147,7 +3147,7 @@ pora las aues mayores. e
 pora las menores. e el seuo
 de las aueziellas peq<ue>nnas}
 [fol. 32v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 es les bueno e p<re>stales al mal
 del yesso. mayor mient a[ ]la<<s>>
@@ -3251,7 +3251,7 @@ e no<n> conuiene q<ue> lo usen m-
 ucho. ca dannales los pa-
 pos. e adelgazar ielos ye.}
 [fol. 33v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 e acaecelles ye el mal del
 yesso. por q<ue> lo echarien ay-
@@ -3355,7 +3355,7 @@ del ceuo q<ue> an a[ ]dar a[ ]las
 aues q<ue> caçan. Queremos
 contar en este capitolo q<u><<a>>n-to}
 [fol. 34v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 conuiene a[ ]dar de cada
 una carne a toda af q<ue> ca-
@@ -3459,7 +3459,7 @@ uen dar q<u><<a>>nto una libra. o
 poco menos. o poco mas se-
 gund conuiene. E a[ ]las ta-formas}
 [fol. 35v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 q<ue> son menores den
 les q<u><<a>>nto dos tercios de li-
@@ -3563,7 +3563,7 @@ ochauo capitolo. {IN1.} VIIII
 {IN2.} Est es el noueno ca-
 pitolo. el q<ue> fabla de}
 [fol. 36v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 escoger las oras q<u><<a>>les son
 buenas pora compra(s)[r] las
@@ -3667,7 +3667,7 @@ como sera del caçador. de-
 uen catar el ascendent. e
 al so sennor. e al sennor de}
 [fol. 37v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 so t<er>mino. e a[ ]la luna. e a[ ]las
 planetas. de q<ue> se partio la
@@ -3771,7 +3771,7 @@ tara la caça a[ ]las aues q<ue> ca-
 gruas a[ ]las uezes. e si fue-
 re mars en la [^2#.7<<a>>.] casa de-muestra}
 [fol. 38v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 q<ue> las aues se apo-
 deraran dela caça. E q<u><<a>>ndo fu-
@@ -3875,7 +3875,7 @@ muestra q<ue> las aues caçara<n>
 bien e alegre mientre. e mu-
 cho. e q<ue> gozaran dellas. e}
 [fol. 39v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 conuiene q<ue> la luna sea
 crecient en lumbre y en
@@ -3977,7 +3977,7 @@ ere en gemini. e recebida
 de mercurio. E si q<u><<i>>sieren
 caçar aues de agua. co<n>uie-ne}
 [fol. 40v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 q<ue> sea la luna en sig-
 no dayre. e q<ue> cate a[ ]la pla-
@@ -4081,7 +4081,7 @@ en esta razon por q<ue> tene-
 mos q<ue> ay abondo. E aq<u><<i>> se
 acaba el dezeno capitolo.}
 [fol. 41v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 XI {IN2.} Est es el on-
 zeno capitolo q<ue> fa-
@@ -4185,7 +4185,7 @@ dias de carne de carn<er>o.
 con azeyt. o con manteca
 de uacas. ca esta es la me-ior}
 [fol. 42v]
-{HD. L<IBER> TIT<V>L<VS> +}
+{HD. L<IBER> TIT<V>L<VS> ⇒}
 {CB2.
 cosa pora librarlas del
 mal q<ue> p<r><<i>>sieron al ora del
@@ -4289,7 +4289,7 @@ gela mogen con agua. por
 tal q<ue> les no<n> fagan mal las
 rompeduras delas aguias}
 [fol. 43v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 E si por auent<u><<r>>a sele fizieren
 las rot<u><<r>>as blancas. e[ ]seles fi-
@@ -4397,7 +4397,7 @@ tirar por q<ue> q<u><<i>>er q<ue> tengan en
 los dedos. e aurien de ro<m>-
 per estos pa<n>nos. e ferirsien}
 [fol. 44v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 en las piernas. e en los de-
 dos. e este panno deue ser
@@ -4505,7 +4505,7 @@ cha; tornenlas unas dos
 uezes a[ ]la mano. por tal q<ue>
 ap<re>ndan meior a[ ]saltar a}
 [fol. 45v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 suso. e no<n> gelo fagan mu-
 chas uezes. e q<u><<a>>ndo fuere<n>
@@ -4609,7 +4609,7 @@ las echa om<n>e mas de[ ]rre-
 zio con la mano d<er>echa. e
 q<ue> p<re>nden meior por ello.}
 [fol. 46v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 e de mas q<ue> puede omne
 caualgar por ello mas lige-
@@ -4713,7 +4713,7 @@ t<er>cer dia. e seran por ello m-
 as sanas. e dexen las fol-
 gar en las siestas assi co-mo}
 [fol. 47v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 ellas an usado q<u><<a>>ndo
 son brauas. e a esta ora de-
@@ -4821,7 +4821,7 @@ en çelo. alguno q<ue> sera m-
 uy bueno. mayor mien-
 tre delos q<ue> traen en ochu-bre.}
 [fol. 48v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 E muchos om<ne>s no<n> se
 pagan delos gauilanes q<ue>
@@ -4929,7 +4929,7 @@ casas frias. ni en logares
 muy calientes. ni en lo-
 gar o les tanga fumo. e}
 [fol. 49v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 no<n> las saq<ue>n delas casas
 fasta q<ue> sean afechas al ay-
@@ -5033,7 +5033,7 @@ eren bien desenbargadas.
 no les den nada a comer.
 {IN2.} E agora q<ue>remos de-zir}
 [fol. 50v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 delas aues ara<n>niegas.
 las q<ue> fueron criadas bra-
@@ -5141,7 +5141,7 @@ las brauas. ca las due<n>das
 sufren mayor fastio q<ue> no<n>
 las brauas. e no<n> adolecen}
 [fol. 51v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 tan ayna. mas q<u><<a>>ndo ado-
 lecen son en mayor peligro.
@@ -5249,7 +5249,7 @@ cas. E dezimos tres pedaçu-
 elos por q<ue> gelo den en tres
 uezes. e q<u><<a>>ndo fuere al me-dio}
 [fol. 52v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 dia. denles todo so ce-
 uo complido. e remoiado
@@ -5353,7 +5353,7 @@ las aues tienen los figa-
 dos sanos e esforçados. pu-
 eden bien mol<er> el ceuo. E por}
 [fol. 53v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 end la q<ue> touiere el figado
 flaco. fazle mayor mal
@@ -5461,7 +5461,7 @@ o si tomaren unto de puer-
 co salado cosa mesurada.
 elo boluieren con otro ta<n>to}
 [fol. 54v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 de miel. e gelo dieren a[ ]co-
 mer con un pedaço de car-
@@ -5573,7 +5573,7 @@ na por ello. e q<u><<a>>ndo fuere al t<er>-
 cer dia. darles an carne de
 palominos gruessos. e des-pues}
 [fol. 55v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 tornarlas an a este fe-
 cho otros tres dias. e despues
@@ -5685,7 +5685,7 @@ una taiada delgada. e esca-
 lientenlo al fuego fasta q<ue> en-
 blanq<ue>zca. e en tal manera q<ue>}
 [fol. 56v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 no<n> salga la humidad della.
 e despues meta<n>lo en las me-
@@ -5797,7 +5797,7 @@ e q<u><<a>>ndo fuere buelto tuel-
 ganlo de sobrel fuego e de-
 xenlo esfriar. e despues po<n>-ganlo}
 [fol. 57v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 en un uaso de uidrio
 o de tierra q<ue> sea uidriado. e
@@ -5909,7 +5909,7 @@ fara cometer ot<r><<a>>s aues ma-
 yores. e despues camienlas
 desto a otras aues mayores.}
 [fol. 58v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 e toda uia echenlas a aq<ue>l-
 las aues q<ue> ellas mas q<u><<i>>sie-
@@ -6021,7 +6021,7 @@ a[ ]mano. ante q<ue> pose en arbor
 ni en tierra al ora del caçar. e
 si las q<u><<i>>sieren usar q<ue> se meta<n>}
 [fol. 59v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 p<r><<i>>uado en los loxares baxos.
 o q<ue> se alçen p<r><<i>>uado cont<r><<a>> riba.
@@ -6133,7 +6133,7 @@ uenle luego en el. e si no<n> se
 atreuiere al cueruo marino.
 echenle una ganga q<ue> aya}
 [fol. 60v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 cercenadas las puntas de
 las a[ ]las. en guisa q<ue> semeie
@@ -6249,7 +6249,7 @@ guellengelos entre las ma-
 nos e denles de la sangre. e
 los coraçones calientes. ca esta}
 [fol. 61v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 es cosa q<ue> los faze mas q<ue>rer
 la caça. e despues tuelga<n>les
@@ -6361,7 +6361,7 @@ en cabo un garauato. e q<u><<a>>ndo ca-
 çaren uayan a ellas ma<n>sa mi-
 entre con la ca<n>na. e metan el ga-rauato}
 [fol. 62v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 en el atadura delas piu(u)-
 elas ca aquesto les uedara q<ue> non
@@ -6477,7 +6477,7 @@ tenente q<u><<a>>ndo ueen la caça. e
 no<n> se les descubre bien q<ue> du-
 dan en ella. E se las ecchare<n>}
 [fol. 63v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 q<u><<a>>ndo fazen el continent q<ue> di-
 zen el connocimiento otrossi se-
@@ -6593,7 +6593,7 @@ q<ue> son de su man<er>a; no<n> les acaece
 segunt dixiemos delas otras ca-
 ças. Mas co<n>uiene q<ue> les echen ta<n>}
 [fol. 64v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 toste como la caça se leua<n>tare.
 E por aue<n>tura acaeçeles a[ ]las a-
@@ -6711,7 +6711,7 @@ a esto q<ue> auemos dicho.
 alcotanes q<u><<a>>ndo engordece<n>
 mucho façen se ayna rodeadores}
 [fol. 65v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 Mas co<n>uiene q<ue> cada q<ue> alguna
 cosa bien fezieren; q<ue> les de<n> a pi-
@@ -6831,7 +6831,7 @@ Ca su natura es atal destas caças
 q<ue> q<u><<a>>ndo no<n> uuyan llegar los ca-
 çadores el ora delas bueltas. por}
 [fol. 66v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 auentura fiere<n> las caças las aue<<s>>
 e traenllas mal por tal desse esca-
@@ -6951,7 +6951,7 @@ son las ador[r]aias elas p<er>diçes
 o si se espa[<n>]taren dellas tome<n>
 una yerua quel diçen la<n>çue-la}
 [fol. 67v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 e es la natura menor dela la<n>-
 ten. e sequen la e muelan la e
@@ -7071,7 +7071,7 @@ cia q<ue> ayan o por mal tale<n>te que
 ayan alos caçadores por q<ue> las fa-
 zen lazrar. Estue<n>ce co<n>uiene q<ue>la<<s>>}
 [fol. 68v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 lamen e las farte<n>. E q<u><<a>>ndo demo-
 straren braueza e se espeluzrare<n>
@@ -7191,7 +7191,7 @@ q<u><<a>>nto peso de dos pipiones e del a-
 c[']ucar blanco molido e cernudo
 q<u><<a>>nto peso de tres dineros de plata}
 [fol. 69v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 e mezclen con ello de sal pedres
 q<ue> dixiemos tanto q<u><<a>>nto uieren
@@ -7310,7 +7310,7 @@ o aruoles paren mientes alos logares
 o foren los cueruos elas picaças elos
 passaros peq<ue>nos. E remiede<n> a aq<ue>llas}
 [fol. 70v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 aues q<ue> uieren de man<er>a q<ue> llamen assi
 como ellas façen. e se pareciere algu-
@@ -7438,7 +7438,7 @@ p<r><<i>>sier calent<u><<r>>a andando a caça;
 q<ue> las no<n> ceuen es dia fasta la
 tarde. e estonçe denles tres bo-cados}
 [fol. 71v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 de carne tierna co<n> peso de
 medio pipion; de los poluos q<ue> a-
@@ -7563,7 +7563,7 @@ seles ternan las pe<n>nolas e no<n>
 seles caera ni<n>guna.
 {IN2.} Agora q<ue>remos dezir lo}
 [fol. 72v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 q<ue>les an de fazer q<u><<a>>ndo las quisiere<n>
 meter en la muda. E dizimos a-
@@ -7683,7 +7683,7 @@ mudas enantes q<ue> las aues caça-
 dores metan en ellas. ni en los
 logares o[ ]las aues ouieren a[ ]estar.}
 [fol. 73v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 ca si por auent<u><<r>>a algun pioio ca-
 yesse y dellas e[ ]se apegasse a[ ]las
@@ -7805,7 +7805,7 @@ ra echar la pennola mas ayna.
 e fazeles g<r><<a>>nd p<ro> e es cosa p<ro>uada.
 {IN2.} E agora q<ue>remos dezir las}
 [fol. 74v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 carnes delas q<u><<a>>tropedias q<ue> les
 fazen mas ayna echar las pen-
@@ -7925,7 +7925,7 @@ mucho usar. ni<n> gelo de<n> en las
 tierras calientes si no<n> fuere en
 las frias. e en las tempradas.}
 [fol. 75v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB1.
 {AD. {LAT. [^Recipe testas que crescu<n>t i<n> vineis que alio no<m>i<n>e vocant<ur> limace siue limaces et p<er>fora i<n> p<ar>te inferiori et collige
 aqua<m> q<ue> exiet ex eis et laua carnes i<n> illa aqua et da aui ad comedendu<m> de mane et de sero et inmediate
@@ -8054,7 +8054,7 @@ peso de dos onças. e delos ber-
 ros e del espic. e del cost ma-
 rino. de cada uno peso [^2#de] q<u><<a>>tro}
 [fol. 76v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 onças. e dela sal pedres .v. on-
 ças. e del açafran .vi. onc[']as. e
@@ -8176,7 +8176,7 @@ dixiemos elas g<u><<a>>rece elas enfor-
 taleçe los mie<m>bros e las unnas
 e las manos. eles faze[ ]las pe<n>no-las}
 [fol. 77v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 naçer mas ayna. O tomen
 carne de cord<er>o q<u><<a>>nto so ceuo co<m>pli-
@@ -8300,7 +8300,7 @@ e delgados como aguia. e n<on> sea<n>
 mas luengos q<ue> grano de ceua-
 da e g<u><<a>>rden q<ue> les n<on> fagan los}
 [fol. 78v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 cabos agudos. por tal que no<n>
 ensangriente<n> los lugares por[ ]o
@@ -8426,7 +8426,7 @@ res. de cada una peso de q<u><<a>>rta do<n>-
 ça. e dela sal pedres peso de me-
 dio din<er>o de plata. e muelanla}
 [fol. 79v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 e mezclenlo todo en uno. e to-
 men de la carne q<u><<a>>nto la mea-
@@ -8550,7 +8550,7 @@ les los picos o[ ]las palmas. e a-
 bren las bocas mucho. e saleles
 por las gargantas assi como}
 [fol. 80v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 fumo. e traen las lenguas por las
 bocas much a[ ]menudo. e tiende<n>
@@ -8670,7 +8670,7 @@ neras. La una man<er>a es q<ue>l dizen
 el remadizmo dela retenencia. e
 es de umor seca q<ue> se q<u><<a>>ia e cierra}
 [fol. 81v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 las carreras. e la segunda ma-
 nera es de seq<ue>dad. e la t<er>cera es
@@ -8783,7 +8783,7 @@ les los lagrimales delos oios
 e acaeçeles a[ ]las uezes q<ue> fre-
 gan amos los oios.}
 [fol. 82v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 {IN2.} Estas son las se<n>nales
 de la cançre q<ue> seles fa-
@@ -8887,7 +8887,7 @@ fazen un ronq<u><<i>>do atal q<ue> se-
 meia al ronq<u><<i>>do del gato. q<u><<a>>n-
 do arrolla. e yerguensele los}
 [fol. 83v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 costados. e salenles una uez
 afuera e otra adentro. q<u><<a>>ndo
@@ -8991,7 +8991,7 @@ e çierra<n>seles las narizes. & rasca<n>
 mucho las cabeças elas oreias
 con las un<n>as.}
 [fol. 84v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 {IN2.} Estas son las se<n>nales q<u><<a>>n-
 doseles da<n>na<n> los uie<n>-
@@ -9093,7 +9093,7 @@ duro. esto ela olor q<ue> seles ca-
 mia delas bocas. son se<n>nales
 del ceuo q<ue> seles podreçe en los}
 [fol. 85v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 papos. e el departimiento q<ue>
 a q<u><<a>>ndo aborrecen el ceuo por
@@ -9199,7 +9199,7 @@ las colas. e es q<ue> n<on> muel(l)en bi-
 en so ceuo. e tienen lo mucho
 en los papos. e debatense poco}
 [fol. 86v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 q<u><<a>>ndo estan en las manos. e
 si se debaten no<n> se pueden
@@ -9303,7 +9303,7 @@ so no ouieren uentosidad.
 lo q<ue> tollieren no<n> sera taiado.
 e q<u><<a>>ndo les acreçe el mal del}
 [fol. 87v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 yesso mucho; tuellen m-
 uch a[ ]menudo. e q<u><<a>>ndo en-
@@ -9409,7 +9409,7 @@ es los gusanos q<ue> seles faze.
 de q<u><<a>>ndo seles danna<n>
 los cuerpos de dentro. e es q<ue>}
 [fol. 88v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 tuellen a[ ]menudo. e este
 tollimiento q<ue> tuellen a
@@ -9517,7 +9517,7 @@ uezes. e a[ ]las uezes la rastra<n>.
 e si alçaren el ala siniestra.
 demuest<r><<a>> q<ue> la enfermedad}
 [fol. 89v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 es de uentosidad. e muchas
 g<u><<a>>recen dello; q<u><<a>>ndo las me-
@@ -9623,7 +9623,7 @@ namientos q<ue> los deuen faz<er>.
 e a en este t<r><<a>>ctado .Lxij. capitolos.
 {IN1.} El p<r><<i>>mer capitolo flabla en}
 [fol. 90v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 las cosas que conuienen que
 adelantre enante que se traba-
@@ -9731,7 +9731,7 @@ sonar las narizes que es de XXVII
 de cumo[ ]les deue<n> me-
 lezinar dela enfermedat.}
 [fol. 91v]
-{HD. L<IBER> [TITVLVS] +}
+{HD. L<IBER> [TITVLVS] ⇒}
 {CB2.
 q<ue> les faze sonar las narizes
 q<ue> es de seq<ue>dad. XXVIII
@@ -9839,7 +9839,7 @@ les faze por comer las cosas
 q<ue> son mucho umidas. LIII
 {IN1.} El Liij<<o>>. cap<ito>lo fabla de como}
 [fol. 92v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 las deuen melezinar dela fla-
 q<ue>za queles acaece por cansacio. LIIII
@@ -9951,7 +9951,7 @@ guisaseles de g<u><<a>>recer con pocas
 melezinas. e en poco tiempo.
 e a[ ]las uezes les p<re>nde q<u><<a>>ndo}
 [fol. 93v]
-{HD. L<IBER> TITULVS +}
+{HD. L<IBER> TITULVS ⇒}
 {CB2.
 son flacas. e las cosas por q<ue>
 les acaeçe son fuertes. e por
@@ -10059,7 +10059,7 @@ e del poluo e del ruçio. e q<u><<a>>nto
 dixiemos en este libro del pe-
 so de las melezinas q<ue> dixie-ron}
 [fol. 94v]
-{HD. L<IBER> TIT[V]LVS +}
+{HD. L<IBER> TIT[V]LVS ⇒}
 {CB2.
 los antigos e q<ue> fallaro<n>
 por p<ro>uado. conuiene q<ue> lo fa-
@@ -10167,7 +10167,7 @@ meio bueno. de cada uno
 peso de .vi. din<er>os de plata.
 e ayunten todas estas me-lezinas}
 [fol. 95v]
-{HD. L<IBER> TITVLUS +}
+{HD. L<IBER> TITVLUS ⇒}
 {CB2.
 e muelanlas e cier-
 nanlas. e metanlas en un ter-
@@ -10273,7 +10273,7 @@ ni otro so ceuo co<m>plido. fa-
 sta q<ue> tuelgan bien. e despu-
 es q<ue> les dieren esta melezi-na}
 [fol. 96v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 si seles fiziere ensango-
 stamie<n>to del fuelgo tome<n>
@@ -10379,7 +10379,7 @@ carne. a[ ]las aues mayo-
 res tanto q<u><<a>>nto entendie-
 ren q<ue> an mester; e a[ ]las}
 [fol. 97v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 menores q<u><<a>>nto peso de me-
 dio din<er>o de plata en un
@@ -10487,7 +10487,7 @@ ca aq<ue>sto faze mal a aq<ue>sta
 malabtia p<ro>p<r><<i>>a mientre. e
 si por aq<ue>sto les incharen}
 [fol. 98v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 las cabeças e los rostros.
 tomen delas fezes del al-
@@ -10595,7 +10595,7 @@ alcoste marino e del folio.
 de cada uno peso de media
 onça. e del fuste del balsa-mo}
 [fol. 99v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 peso de .iiij. onças. e de
 la pimie<n>ta .L. granos. e
@@ -10695,7 +10695,7 @@ cosa delas cabeças so<n> g<u><<a>>-
 ridas. e si no<n> faganles
 como de cabo aq<ue>stas me-lezinas;}
 [fol. 100v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 a[ ]cabo de t<er>cer dia.
 e despues desto denles q<u><<a>>n-
@@ -10795,7 +10795,7 @@ despues untenles las na-
 rizes con miel. e antes q<ue>
 las melezine<n> denles so ceuo}
 [fol. 101v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 mezclado con miel. E si m-
 eioraren con esto. e si no to-
@@ -10895,7 +10895,7 @@ lo fasta que se seque. e des-
 pues alcenlo en u<n> uaso; e q<u><<a>>n-
 dolo ouieren menester laue<n>}
 [fol. 102v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 les los paladares co<n> uino
 anneio. e muelan una tor-
@@ -10995,7 +10995,7 @@ zinas todas las que se pu-
 dieren mol<er>. e amasenlas
 todas con la ma<n>teca. e con}
 [fol. 103v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 el olio del balsamo q<ue> es
 dicho. e alcenlas en un ua-
@@ -11201,7 +11201,7 @@ puedan ba<n>nar. faz<er>les a
 p<ro>. E si meiorare<n> con esto
 si no denles delos aios.}
 [fol. 105v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 en tres pedaçuelos de carne.
 e dexenlas estar fasta q<ue> lo
@@ -11305,7 +11305,7 @@ mogenles en aq<ue>l agua car-
 ne de oueia. e dengela e faz<er>
 les a p<ro>. E si meioraren con}
 [fol. 106v]
-{HD. L<IBER> TITVL[<VS>] +}
+{HD. L<IBER> TITVL[<VS>] ⇒}
 {CB2.
 esto. e si no tomen el coraço<n>
 e el figado dotro açor q<ue> mu-
@@ -11409,7 +11409,7 @@ ganles agua tibia delant.
 despues q<ue> ouiere passado el
 dia q<u><<a>>nto un ora. e despues}
 [fol. 107v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 q<ue> fueren pasadas las .viiij.
 oras del dia ceuenlas de car-
@@ -11513,7 +11513,7 @@ lo todo en uno. e despues
 tomen dello q<u><<a>>nto peso de
 medio din<er>o de plata. e}
 [fol. 108v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 dengelos en pedaçuelos
 de carne. e dexenlas estar
@@ -11617,7 +11617,7 @@ es tomen media libra de pa-
 ia de t<r><<i>>go e metan la a[ ]cozer
 en .x. libras de agua. E q<u><<a>>n-do}
 [fol. 109v]
-{HD. TIT<V>L<V>S XVI L<IBER> TIT<V>L<V>S XVI +}
+{HD. TIT<V>L<V>S XVI L<IBER> TIT<V>L<V>S XVI ⇒}
 {CB2.
 fuere cocha ponga<n>gela
 delant. e no<n> les den a[ ]co-
@@ -11721,7 +11721,7 @@ lech de mugieres e no<n>[ ]gelo
 usen mucho. e aq<u><<i>> se acaba
 el .xvii. cap<ito>lo. XVIII}
 [fol. 110v]
-{HD. TIT<V>L<V>S XVIII L<IBER> TITVL<VS> XIX +}
+{HD. TIT<V>L<V>S XVIII L<IBER> TITVL<VS> XIX ⇒}
 {CB2.
 (XVIII) {IN2.} Est es el .xviii.
 cap<ito>lo el q<ue> fabla de
@@ -11824,7 +11824,7 @@ la flema q<ue> seles faze en las
 goliellas. e dezimos asi q<ue>
 q<u><<a>>ndo les acaecier aq<ue>sto.}
 [fol. 111v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 e si guareciere<n> con esto e si
 no tomen del salmonia-
@@ -11925,7 +11925,7 @@ gas con ello. e faz<er>les a p<ro>. E si
 meioraren co<n> esto si no tome<n>
 delas rosas secas. e del çumac}
 [fol. 112v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 tanto delo uno como de
 lo al. e metan y un poco
@@ -11977,7 +11977,7 @@ tan en logar dello del
 çumo dela regaliza. e
 al tanto como ello del}
 [fol. 113r]
-{HD. XXIII II +}
+{HD. XXIII II ⇒}
 {CB2.
 dragagant. o al tanto
 de ysopo e dela canfora
@@ -12029,7 +12029,7 @@ ac(')aeciere aq<ue>sto. unten aq<ue>-
 los logares dela cançre.
 co<n> manteca e pimienta}
 [fol. 113v]
-{HD. L<IBER> TITVLVS +}
+{HD. L<IBER> TITVLVS ⇒}
 {CB2.
 molida mezclado en uno
 tres dias. E si meiorare<n> co<n>
@@ -12133,7 +12133,7 @@ e enciendan el cabo del en
 el fuego. e q<ue>menles aq<ue>llos
 logares dela cançre e traya<n>}
 [fol. 114v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 aquel fuste muchas ue-
 zes sobre aq<ue>llos logares.
@@ -12237,7 +12237,7 @@ chas lag<r><<i>>mas. ca si no<n> ce-
 garien por ello. Mas conu-
 iene q<ue> tomen del aloen ço-c[ot]ri.}
 [fol. 115v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 e del açafran. e del pe-
 litre. tanto delo uno co-
@@ -12337,7 +12337,7 @@ q<ue>mas sean en sos logares
 co<n>nocidos. e no<n> leguen las
 q<ue>mas alos picos. ni alos o-ios. %2}
 [fol. 116v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 ni gelas ensanchen mu-
 cho. ni gelas afi[<n>]quen m-
@@ -12437,7 +12437,7 @@ t<er>cio dun din<er>o de plata;
 del lectuario sobredicho.
 e den esto a[ ]las aues ma-yores.}
 [fol. 117v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 e a[ ]las menores den-
 les segund su guisa. e dan-
@@ -12541,7 +12541,7 @@ fagan a[ ]las aues mayores.
 e a[ ]las menores segund su
 guisa. E si meioraren con}
 [fol. 118v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 esto. si no tomen un oio
 de trucha sal p<re>sa e meta<n>-
@@ -12645,7 +12645,7 @@ en q<ue> sea remoiado carne
 de t<er>nero ca esto les purga-
 ra. e despues denles de la car-ne(s)}
 [fol. 119v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 q<ue> les conuiene. E si no
 g[<u><<a>>]recieren desta enfermedad
@@ -12747,7 +12747,7 @@ dieren q<ue> pueden moler. e
 guardense en darles mu-
 cho si no<n> faz<er>les ye fastio.}
 [fol. 120v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 E si meioraren con esto si
 no tomen dela lech fresca
@@ -12847,7 +12847,7 @@ q<u><<i>>da. e dela liguia tanto de
 lo uno como de lo al. e dela
 yerua lombriguera q<u><<a>>nto}
 [fol. 121v]
-{HD. T(V)[I]TVL<VS> L<IBER> +}
+{HD. T(V)[I]TVL<VS> L<IBER> ⇒}
 {CB2.
 la meatad destas otras co-
 sas q<ue> son dichas. e muela<n>-
@@ -12947,7 +12947,7 @@ nero. e a[ ]la noch ponga<n>las
 en logar q<ue> no<n> se pueda<n> de-
 bater. e q<ue> no ayan y poluo}
 [fol. 122v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 ni fumo nin rucio assi co-
 mo dicho auemos. E sea este
@@ -13047,7 +13047,7 @@ esta melezina un poco de
 las rayzes del alcapar. e
 les fizieren dello cristel}
 [fol. 123v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 faz<er>les a p<ro>. {IN1.} Estos son los
 q<ue> les fazen p<ro> al mal del
@@ -13147,7 +13147,7 @@ din<er>os de plata. e mezcle<n>-
 lo e faganles con ello cri-
 stel. E si meiorare<n> con esto}
 [fol. 124v]
-{HD. TITVLV<VS> L<IBER> +}
+{HD. TITVLV<VS> L<IBER> ⇒}
 {CB2.
 si no tomen dela mante-
 ca anneia de uacas. e del
@@ -13247,7 +13247,7 @@ pues tomen una fiel doue-
 ia. e uazien la delo q<ue> en
 ella ouier e lauenla con}
 [fol. 125v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 metan en ella estas melezi-
 nas e despues faganles cri-
@@ -13347,7 +13347,7 @@ aq<ue>sta agua e remogenles
 el ceuo en ello. ca con esto
 echaran q<u><<a>>nto yesso touie-ren}
 [fol. 126v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 en los cuerpos. E si me-
 ioraren con esto si no to-
@@ -13447,7 +13447,7 @@ e ciernanlas estas mele-
 zinas e alcenlas en un ua-
 so. e guardenlas del poluo.}
 [fol. 127v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 E q<u><<a>>ndo las q<u><<i>>sieren mele-
 (le)zinar con ellas. denles
@@ -13549,7 +13549,7 @@ dela canfora peso de tres gra-
 nos de t<r><<i>>go. e mezclenlo co<n>
 del agua e fagangelo tra-gar}
 [fol. 128v]
-{HD. L<IBER> TIT<V>L<V>S +}
+{HD. L<IBER> TIT<V>L<V>S ⇒}
 {CB2.
 e ponganlas en sus p<er>-
 chas. e dexenlas estar fasta
@@ -13653,7 +13653,7 @@ remogenles tres pedaçue-
 los de carne picada en a-
 q<ue>l çumo q<ue> dixiemos. e de<n>-gelos.}
 [fol. 129v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 E aq<u><<i>> se acaba el .xxvii.
 cap<ito>lo. XXVIII
@@ -13757,7 +13757,7 @@ en ayunas. e siles no<n> pare-
 cier otra cosa con este re<n>ner
 delos pechos. e ouieren en-sangostamie<n>to}
 [fol. 130v]
-{HD. TITVL<VS> L<IBER> XXIX +}
+{HD. TITVL<VS> L<IBER> XXIX ⇒}
 {CB2.
 de fuelgo
 antiguo e fueren gordas.
@@ -13861,7 +13861,7 @@ daçuelo de carne calient.
 E si meiorare<n> con esto. si no
 tomen delos poluos q<ue> so<n>}
 [fol. 131v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dichos en el cap<ito>lo de la ca-
 lent<u><<r>>a. e metan en ellos de
@@ -13965,7 +13965,7 @@ E si meioraren co<n> esto si no
 usen en darles carne de eno-
 dios. e si no<n> guareciere<n> con}
 [fol. 132v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 aquesto; tomen leche de
 uacas. e mezclen con ella
@@ -14069,7 +14069,7 @@ den manteca crua algu-
 nos dias. por tal q<ue> les abla<n>-
 dezcan los cuerpos de de<n>-tro.}
 [fol. 133v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 E el dia q<ue> les no<n> diere<n>
 la manteca. denles carne
@@ -14173,7 +14173,7 @@ men del alholba peso dun
 t<er>cio e media sesma dun di-
 nero de plata. e del reobaruo}
 [fol. 134v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 peso de medio din<er>o de pla-
 ta. e del çumo de la rega-
@@ -14277,7 +14277,7 @@ calent<u><<r>>a. e refolgaren de[ ]rre-
 zio. e no<n> pudieren dar uo-
 zes. tomen delas gayugas}
 [fol. 135v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 e q<ue>menlas e muelanlas.
 e ciernanlas. e mezcle<n> las
@@ -14381,7 +14381,7 @@ mienta. e dela miel delos
 panares por colar. tanto de
 lo uno como delo al. e mez-clenlo}
 [fol. 136v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 todo en uno e faga<n>-
 les tragar dello peso dun
@@ -14485,7 +14485,7 @@ asenlo con peso de .iiij. di-
 neros de miel. e fagan lo
 granos tama<n>nos como}
 [fol. 137v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 granos de pimienta. e de<n>-
 les dello peso de dos ses-
@@ -14589,7 +14589,7 @@ pedaçuelos de carne pica-
 da. simples sin melezina
 ninguna. e aya en los .vi.}
 [fol. 138v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 pedaçuelos q<u><<a>>nto la t<er>cia
 part de so ceuo. e esto les
@@ -14693,7 +14693,7 @@ conadas. e pora las ue<n>to-
 sidades. e poral roydo q<ue>se-
 les faze en los cuerpos de<n>-tro.}
 [fol. 139v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 e es q<ue> tomen delos gra-
 nos del lorero peso de .viii.
@@ -14797,7 +14797,7 @@ pedaçuelos de carne pica-
 da simple. esto fagan a[ ]las
 aues mayores. e a[ ]las meno-res}
 [fol. 140v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 segund su guisa. e no<n>
 las tuelgan de las manos
@@ -14901,7 +14901,7 @@ despues ceuenlas es dia
 de carne de gallinas p<r><<i>>e-
 tas calient. e untada con}
 [fol. 141v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 olyo de uioletas. E otro d-
 ia denles desta carne dela
@@ -15005,7 +15005,7 @@ cimiento de carne mala. o
 por inchazon. E con estas
 melezinas guareçran de to-do}
 [fol. 142v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 aq<ue>sto q<ue> dixiemos. e ali<m>-
 piarseles an las moliellas
@@ -15109,7 +15109,7 @@ picada. e denles luego des-
 pues desto dos pedaçuelos
 de carne picada. simples.}
 [fol. 143v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 E tenganlas en las manos
 fasta q<ue> seles muela elo tu-
@@ -15213,7 +15213,7 @@ agras. e fagangelo tra-
 gar. o tomen de los gra-
 nos del mirto blanco. e}
 [fol. 144v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dela resina de las alme<n>-
 dras. de cada uno peso du<n>
@@ -15317,7 +15317,7 @@ cosas menudas assi co-
 mo cieno. E q<u><<a>>ndo gelas
 ouieren sacadas. tomen}
 [fol. 145v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 .v. granos de canfora e po<n>-
 gangelos en las bocas. e
@@ -15421,7 +15421,7 @@ acaçia peso de .v. granos de
 t<r><<i>>go. e del açucar blanco pe-
 so de sesma e media dun}
 [fol. 146v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 din<er>o de plata. E muela<n>
 aq<ue>sto e ciernanlo co<n> un
@@ -15525,7 +15525,7 @@ o deles faz<er> tragar del ui-
 no; o deles cozer alguna
 destas melezinas q<ue> dixie-(xie)mos}
 [fol. 147v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 en ello. fagangelo.
 mas no<n> les den mucho del-
@@ -15629,7 +15629,7 @@ de carne de ansarinos un-
 tada con manteca. o con
 azeyt. o denles carne de}
 [fol. 148v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 carn<er>o untada assi como
 dixiemos. e guardense q<ue>
@@ -15733,7 +15733,7 @@ muelan destas melezinas
 las q<ue> se pudieren moler.
 e mezclenlas con las ot<r><<a>>s}
 [fol. 149v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 q<ue> son corrientes. e alce<n>las
 en un uaso. e denles della
@@ -15837,7 +15837,7 @@ e dizenle otro si tierra de
 barca. e semeia arena uer-
 meia. buelta co<n> amarellu-ra.}
 [fol. 150v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 e traenla de tierra de
 coraçen. e a[ ]las uezes las
@@ -15941,7 +15941,7 @@ elanlas. e metanlas en .iij.
 pedaçuelos de carne pica-
 da. e dengelo. esto de<n> a[ ]las}
 [fol. 151v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 aues mayores. e a[ ]las me-
 nores segund su guisa. e
@@ -16045,7 +16045,7 @@ do las q<u><<i>>sieren melezinar
 con ello. denles dello en
 pedaçuelos de carne pica-da;}
 [fol. 152v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 tanto q<u><<a>>nto ente<n>die-
 ren q<ue> auran mester. ca
@@ -16149,7 +16149,7 @@ esto si no tomen del arroz.
 e del t<r><<i>>go. de cada uno .v. gr-
 anos. e q<ue>menlos e mue-lanlos}
 [fol. 153v]
-{HD. TITVL<VS> XLIII L<IBER> TITVL<VS> +}
+{HD. TITVL<VS> XLIII L<IBER> TITVL<VS> ⇒}
 {CB2.
 e amasenlos co<n> zu-
 mo de mielgranas dulces.
@@ -16257,7 +16257,7 @@ estar una noch. e otro dia
 q<u><<a>>ndo fuere muerto fenda<n>-
 le. e denles del. ca esto les ali<m>-piara}
 [fol. 154v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 el uenino. e gelo des-
 fara. e fagan les esto tres
@@ -16357,7 +16357,7 @@ E si meiorare<n> con esto. si no
 tomen del seuo del lobo cer-
 ual. e del unto del puerco.}
 [fol. 155v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 fresco. e del estierco de las pa-
 lomas. e muelanlo e fag-
@@ -16461,7 +16461,7 @@ da e dengelo. e apres desto
 denles so ceuo complido de
 polmones doueia. E si meio-raren}
 [fol. 156v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 con esto. si no denles sa<n>-
 gre de lechones calient todo
@@ -16565,7 +16565,7 @@ de los rauanos tanto q<u><<a>>nto
 la meatad. dela una destas
 otras cosas. e muelan lo e}
 [fol. 157v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 ciernanlo. e amasenlo co<n>
 goma arauiga. e den dello
@@ -16669,7 +16669,7 @@ re la sed. ponganlas en lo-
 gares frios. e si el ayre fu-
 ere calient tomen del bolo}
 [fol. 158v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 armenico peso dun din<er>o
 de plata. e dela canfora pe-
@@ -16769,7 +16769,7 @@ melezinas cada una sob-
 re si. e ciernanlas con un
 pa<n>no de seda. e mezcle<n>las}
 [fol. 159v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 todas en uno. e denles del-
 las q<u><<a>>ndo[ ]les fuer mester pe-
@@ -16869,7 +16869,7 @@ ag<u><<a>>. e despues dexen esfriar
 aquel agua e colenla. e des-
 pues remogenles so ceuo}
 [fol. 160v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 en ella e dengelo. E si ouie-
 ren fastio e camiare<n> el ce-
@@ -16969,7 +16969,7 @@ gua .v. pedaçuelos de carne
 picada. e dengelos a[ ]las au-
 es mayores. e a[ ]las menores}
 [fol. 161v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 segund su guisa. E q<u><<a>>n[do] ouie-
 ren fastio e tolliere<n> bien so
@@ -17069,7 +17069,7 @@ en arauigo çuc. tanto de
 lo uno como de lo al. e un
 pedaçuelo de camfora. e mu-elanlo}
 [fol. 162v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 todo en uno. e cier-
 nanlo. e paladeenlas co<n> ello
@@ -17169,7 +17169,7 @@ denles a comer meollos de
 cieruos. E si meioraren con
 esto. si no tomen una cabe-c[']a}
 [fol. 163v]
-{HD. TITVL<US> L<IBER> +}
+{HD. TITVL<US> L<IBER> ⇒}
 {CB2.
 daios de los q<ue> no<n> faze<n>
 mas dun grano en la ca-
@@ -17269,7 +17269,7 @@ q<ue> tuelgan una uegada. E
 despues tomen del eneldo e
 cueganlo con del agua. e po<n>-gangela}
 [fol. 164v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 delantre (q<ue> beuan)
 por tal q<ue> beuan della. e a ora
@@ -17369,7 +17369,7 @@ gangelos tragar. E si echa-
 ren con lo q<ue> tolliere<n> auie<n>-
 do esta enfermedad. tome<n>}
 [fol. 165v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 del orpiment amariello e
 muelanlo. e denles dello ta<n>-
@@ -17469,7 +17469,7 @@ E ponganles delantre desta a-
 gua q<ue> beuan. E si meiorare<n>
 con esto. si no coianlas en}
 [fol. 166v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 las manos. e lauenles las
 alas con agua tibia. e san-
@@ -17565,7 +17565,7 @@ etros moiados co<n> agua ti-
 bia. e dexenlas estar algu-
 nos dias en casas lobre-gas.}
 [fol. 167v]
-{HD. TITVL<VS> LV L<IBER> +}
+{HD. TITVL<VS> LV L<IBER> ⇒}
 {CB2.
 e engordezcanlas. E aq<u><<i>>
 se acaba el .Liiij[<<o>>]. cap<ito>lo. LV
@@ -17618,7 +17618,7 @@ stos poluos q<ue> dixiemos en
 ellas. E aq<u><<i>> se acaba el .Lv<<o>>. ca-p<ito>lo.
 %2}
 [fol. 168r]
-{HD. TITVL<VS> LVI II +}
+{HD. TITVL<VS> LVI II ⇒}
 {CB2.
 LVI {IN2.} Est es el .Lvi<<o>>.
 cap<ito>lo. el q<ue> fabla de
@@ -17672,7 +17672,7 @@ ponganlo en un pedaçuelo
 de carne picada. e dengelo a(-)
 las aues menores. e a[ ]las ma-yores}
 [fol. 168v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 segund su guisa. e de<n>-
 les esta melezina untada co<n>
@@ -17726,7 +17726,7 @@ ua. e usen en darles algu-
 nos dias so ceuo mezcla-
 do co<n> bolo armenico. E aq<u><<i>>}
 [fol. 169r]
-{HD. LVII II TITVL<VS> LVIII +}
+{HD. LVII II TITVL<VS> LVIII ⇒}
 {CB2.
 se acaba el .Lvi<<o>>. cap<ito>lo. LVII
 {IN2.} Est es el .Lvii<<o>>. cap<ito>lo
@@ -17781,7 +17781,7 @@ o tome<n> dela carne e enbu-
 eluanla en aluuras de ue-uos
 %2}
 [fol. 169v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 e denles della tres dias. e des-
 pues denles carne untada
@@ -17889,7 +17889,7 @@ mal. o en la fin delas mor-
 roydas. tome<n> del seuo dunas
 aues q<ue> les dizen bedengeneth}
 [fol. 170v]
-{HD. TITVL<VS> LIX L<IBER> TITVL<VS> +}
+{HD. TITVL<VS> LIX L<IBER> TITVL<VS> ⇒}
 {CB2.
 e de su carne dellas. e pise<n> la
 e mezclenla co<n> aios bla<n>cos.
@@ -17997,7 +17997,7 @@ yor mient en las bocas. to-
 me<n> delos atramuces secos.
 e cueganlos bie<n> co<n> del agua}
 [fol. 171v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 e rocienlas con daq<ue>l agua.
 e metanles della en las bo-
@@ -18106,7 +18106,7 @@ iaola. e despues pongan las
 aues de[ ]suso. e detenganlas co<n>
 alguna cosa por tal q<ue> se no<n>}
 [fol. 172v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 debatan. e bueluan el agua
 a[ ]las uezes. ca el bafo q<ue> se al-
@@ -18214,7 +18214,7 @@ ello e muelanlo e cierna<n> lo.
 e rocienles los logares delos
 pioios. con delas fezes del ui-no}
 [fol. 173v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 anneio. e echen les los pol-
 uos del tomiello de suso. ([^¶ .xvij<<a>>.]) E si
@@ -18322,7 +18322,7 @@ e dela clasa blanca. e del uino
 anneio. ta<n>to delo uno como
 delo al. e una poca de sal p<r><<i>>eta}
 [fol. 174v]
-{HD. TITVL<VS> LXII L<IBER> +}
+{HD. TITVL<VS> LXII L<IBER> ⇒}
 {CB2.
 e mezclenlo todo en uno. e
 denles dello en un pedaçue-
@@ -18430,7 +18430,7 @@ las deuen melezinar q<u><<a>>ndo
 seles desfuellan las palmas. XIX
 {IN1.} El .xix. cap<ito>lo es de como}
 [fol. 175v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 las deuen melezinar delos
 forados q<ue> seles fazen en las
@@ -18536,7 +18536,7 @@ E si meiorare<n> con esto si no to-
 men el cuero del pescado e q<ue>-
 menle. e del estierco dellas. e}
 [fol. 176v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 de las balaustrias. e dela mi-
 el. tanto delo uno como de
@@ -18644,7 +18644,7 @@ ues en los oios. destellenles
 en los oios uino anneio ca-
 da dia tres destellos. E si me-ioraren}
 [fol. 177v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 con esto. si no<n> tome<n>
 del aliofar menudo q<ue> non
@@ -18698,7 +18698,7 @@ dia. ca esto las guareçra. E q<u><<a>>n-
 do[ ]les acaeçier por umidad
 destellenles en los oios del}
 [fol. 178r]
-{HD. TITVL<VS> III TITVL<VS> VI TITVL<VS> VII +}
+{HD. TITVL<VS> III TITVL<VS> VI TITVL<VS> VII ⇒}
 {CB2.
 çumo delos aios. ca esto
 les secara la umidad. E
@@ -18752,7 +18752,7 @@ q<ue> q<u><<a>>ndo[ ]les acaecier aq<ue>sto. e
 se temiere<n> q<ue> las cegara aq<ue>-
 sta enfermedad. tome<n> de la}
 [fol. 178v]
-{HD. TITVL<VS> VIII L<IBER> +}
+{HD. TITVL<VS> VIII L<IBER> ⇒}
 {CB2.
 ruuia e dela sal pedres tanto
 delo uno como delo al. e mu-
@@ -18860,7 +18860,7 @@ rayzes delas pennolas fal-
 larlas an assi comidas co-
 mo carcoma. e los logares}
 [fol. 179v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dela enfermedad yncha-
 dos e camiados cont<r><<a>> uerm-
@@ -18968,7 +18968,7 @@ elos de carne picada. e eche<n>
 les della en el ag<u><<a>> e po<n>gange-
 la delantre en q<ue> se banne<n>.}
 [fol. 180v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 E si beuieren della faz<er>les a
 p<ro>. e despues denles so ceuo
@@ -19076,7 +19076,7 @@ sangrienten bien. e despues
 freguengelos bien co<n> un pe-
 daço de aloen. o si no<n> poluo-rengelos}
 [fol. 181v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 con sal pedres m-
 olida. E si meiorare<n> co<n> esto
@@ -19184,7 +19184,7 @@ tos. e saq<ue>nlas e muela<n>las.
 e lauenles aq<ue>llos logares
 enfermos con del uinagre}
 [fol. 182v]
-{HD. TITVL<VS> L<IBER> TITVL<VS> +}
+{HD. TITVL<VS> L<IBER> TITVL<VS> ⇒}
 {CB2.
 e abranles los poros delas
 pennolas q<ue> se messaro<n>. e
@@ -19292,7 +19292,7 @@ gelas fara nacer. E siseles
 machucaren algunos loga-
 res delas pennolas. tomen}
 [fol. 183v]
-{HD. TIT<V>L<V>S XIII L<IBER> TITVL<VS> XIIII +}
+{HD. TIT<V>L<V>S XIII L<IBER> TITVL<VS> XIIII ⇒}
 {CB2.
 una yema de ueuo. e mez-
 clenla con del bolo uermeio.
@@ -19396,7 +19396,7 @@ meioren. e si meiorare<n> con
 esto si no tome<n> delas co<n>chas
 del rio e saq<ue>n el limaio de}
 [fol. 184v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dentro. e piquenlo bien con
 un cuchiello. e despues tom-
@@ -19500,7 +19500,7 @@ como las deuen me-
 lezinar dela podagre e delas
 u<n>nas q<ue> seles descoyunta<n>.}
 [fol. 185v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 [o] les crebantan. E dezimos asi
 q<ue> q<u><<a>>ndo les acaecier aq<ue>sto. e
@@ -19604,7 +19604,7 @@ de serraias. e sobre las serra-
 ias algodon. e atengelo co<n>
 trapos. E si meiorare<n> con esto}
 [fol. 186v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 si no iasenles aq<ue>llos logares
 de la enfermedad. e saq<ue>nles d-
@@ -19708,7 +19708,7 @@ enbueluanles las palmas
 en el. e dexen las assi estar
 q<u><<a>>nto un ora. E despues tome<n>}
 [fol. 187v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 un pedaço daçucar. e fregue<n>
 les los logares ynchados co<n>
@@ -19812,7 +19812,7 @@ nnas. ca esto gelas fara des-
 inchar. E q<u><<a>>ndo les cayer alg-
 una unna por aq<ue>lla incha-zon.}
 [fol. 188v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 enbueluanles aq<ue>llos
 logares dond cayeron co<n> al-
@@ -19916,7 +19916,7 @@ mo delo al. e muela<n>lo. e ci-
 ernanlo. e amasenlo con
 olyo rosado. e unte<n> les con}
 [fol. 189v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 ello los logares enfermos. E
 si meiorare<n> con esto. si no to-
@@ -20020,7 +20020,7 @@ sta q<ue> guarezca. E si meiorare<n>
 con esto si no tome<n> un pa<n>no
 delgado e remogen le en el}
 [fol. 190v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 agua. e pongangele so las p-
 almas. E si meiorare<n> co<n> esto.
@@ -20124,7 +20124,7 @@ los logares enfermos con
 ella. E aq<u><<i>> se acaba el .xxi.
 capitolo. XXII}
 [fol. 191v]
-{HD. TIT<V>L<V>S XXII TIT<V>L<V>S XXIII TITVL<VS> XXIIII +}
+{HD. TIT<V>L<V>S XXII TIT<V>L<V>S XXIII TITVL<VS> XXIIII ⇒}
 {CB2.
 {IN2.} El .xxii. capit<o>lo es de
 como las deuen me-
@@ -20232,7 +20232,7 @@ sos dientes. e q<u><<a>>les son las q<ue>
 usan dellas q<ue> tienen p<ro>. E las
 p<ro>p<r><<i>>edades q<ue> an los canes e no<n>}
 [fol. 192v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 las an las otras a<ni>malias.
 E dezimos assi q<ue> los sabios
@@ -20344,7 +20344,7 @@ dios. Pues el tiempo en q<ue> se
 engendran los temp<r><<a>>nos. es
 desdel p<r><<i>>mer dia de enero q<u><<a>>n-do}
 [fol. 193v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 es el sol {BLNK: [e<n> la meatad de cap<r><<i>>cornio].}
 E el tiempo en q<ue> se engendra<n>
@@ -20456,7 +20456,7 @@ los buenos. o los malos. e esto
 es bien de saber por tal q<ue> se no<n>
 trabaien de criar los malos}
 [fol. 194v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dellos. E dezimos assi q<ue> una de
 las p<r><<i>>meras cosas por q<ue> pue-
@@ -20568,7 +20568,7 @@ ro de sobre los uientres gor-
 do e blando. e las manos chi-
 cas. e redondas e eguales. e fu-ertes.}
 [fol. 195v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 e q<ue> sean cortas de espina-
 zo. e luengas delos pies a[ ]las
@@ -20680,7 +20680,7 @@ sos q<ue> son acerca delas rayzes
 delos rabos anchos. e los rabos
 luengos e gordos aprueuan}
 [fol. 196v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 meior. e yerran menos en sus
 caças. e esto es encont<r><<a>> lo [que] dixi-
@@ -20792,7 +20792,7 @@ zenla e muela<n>la e del azeit ta<n>-
 to delo uno cumo delo al[ ]e[ ]mez-
 clenlo con seuo salgado e[ ]de<n>les}
 [fol. 197v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 dello tres dias que nonles de<n> otra
 cosa si[ ]no esto. E q<u><<a>>ndo ouiere<n> fastio
@@ -20900,7 +20900,7 @@ g<u><<a>>rdenlos q<u><<a>>ndo los sacare<n> a[ ]c(')a-
 ça q<ue> se no alleguen a[ ]ellos otros
 canes estra<n>nos. ca si se allegare<n>}
 [fol. 198v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 a[ ]ellos. auran de trebeiar (^con)
 con ellos. e cansaran. e despu-
@@ -21008,7 +21008,7 @@ si no<n> co<n>uiene q<ue> los no<n> saq<ue>n
 a[ ]caça q<u><<a>>ndo camiare<n>. ca los
 enflaq<ue>ce mucho eles faze}
 [fol. 199v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 g<r><<a>>nd mal. E nolos faga<n> mu-
 (u)cho lazrar. ni mucho ca-
@@ -21120,7 +21120,7 @@ echenles en las gargantas de
 la sal molida. e ap<r><<i>>etenles
 las bocas fasta q<ue> la trague<n>. E}
 [fol. 200v]
-{HD. TIT<V>L<V>S L<IBER> +}
+{HD. TIT<V>L<V>S L<IBER> ⇒}
 {CB2.
 despues q<ue> fuere<n> purgadas e
 limpias. denles miel e leche
@@ -21232,7 +21232,7 @@ medades. E siles fiziere<n> colla-
 res dun arbol q<ue>l dize<n> {BLNK.}
 {BLNK.} elos troxiere<n> .iii. dias}
 [fol. 201v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 un pos otro faz<er>les a p<ro>. E si
 meioraren co<n> esto. si non to-
@@ -21344,7 +21344,7 @@ pelos blancos p<r><<i>>etos. E ago-
 ra q<ue>remos dezir como fara<n>
 alos canes q<ue> sean luengos}
 [fol. 202v]
-{HD. TITVL<VS> LIBER +}
+{HD. TITVL<VS> LIBER ⇒}
 {CB2.
 de cuerpo. E q<u><<a>>ndo esto q<u><<i>>siere<n>
 faz<er>. fagan foyos fondos e
@@ -21452,7 +21452,7 @@ nero de plata. e muelanlo e
 mezclenlo co<n> dela miel. e un-
 tenles las nuues co<n> ello. E a-gora}
 [fol. 203v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 q<ue>remos dezir como las
 deuen melezinar de las nuues
@@ -21560,7 +21560,7 @@ ra q<ue>remos dezir como las an
 de melezinar q<u><<a>>ndo seles do-
 blan las oreias. E dezimos assi}
 [fol. 204v]
-{HD. TITVL<VS> III L<IBER> +}
+{HD. TITVL<VS> III L<IBER> ⇒}
 {CB2.
 q<ue> q<u><<a>>ndo les acaeçier aq<ue>sto. q<ue>
 tome<n> del sal nidrio. e q<ue>me<n>lo
@@ -21664,7 +21664,7 @@ tarde. o much ayna. denles a
 comer uessos de uaca cochos
 co<n> uinagre. E siles inchare<n> los}
 [fol. 205v]
-{HD. L<IBER> TITVL<VS> +}
+{HD. L<IBER> TITVL<VS> ⇒}
 {CB2.
 uientres. o si seles fizier ue<n>tosi-
 dad en los cuerpos. denles a[ ]be-
@@ -21768,7 +21768,7 @@ niama<m>. e es un arbol q<ue> a .c.
 rayzes. e cueganla co<n> del a-
 zeyt e de<n>gelo a[ ]com<er>. e siles aca-ecier}
 [fol. 206v]
-{HD. TITVL<VS> [^2#L<IBER>] +}
+{HD. TITVL<VS> [^2#L<IBER>] ⇒}
 {CB2.
 alguna delas enfermeda-
 des q<ue>les faze mear sa[<n>]gre. tome<n>
@@ -21874,7 +21874,7 @@ muela<n> las. e ponganles da-
 q<ue>llos poluos calientes sobre
 los logares ynchados. E q<u><<a>>ndo}
 [fol. 207v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 seles ynchare<n> los cuerpos e
 seles fiziere e<n>contrado. e les
@@ -21982,7 +21982,7 @@ esto si no tome<n> del amido
 e del cula<n>tro seco. e dela pi-
 mie<n>ta. ta<n>to delo uno como}
 [fol. 208v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 delo al. e muela<n> lo e mezcle<n>-
 lo todo en uno. e de<n>gelo co<n> lo
@@ -22090,7 +22090,7 @@ lezinarlas delas en-
 fermedades delos arteios e de
 los dolores delos miembros.}
 [fol. 209v]
-{HD. TITVL<VS> L<IBER> +}
+{HD. TITVL<VS> L<IBER> ⇒}
 {CB2.
 E dezimos assi q<ue> q<u><<a>>ndo les
 acaeçier aq<ue>sto q<ue> tome<n> delas

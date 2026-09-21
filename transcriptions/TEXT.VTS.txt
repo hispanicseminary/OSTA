@@ -447,7 +447,7 @@ no escusare lo que ningu<n>o escusar pu-
 do despues de cristo fasta mi tiempo.}
 {SG. a iiij}
 [fol. 4v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Comie<n>ça el tratado de Ro-
 ma: co<m>puesto por Martin da<m>pies.}
@@ -1175,7 +1175,7 @@ rencio a procas siluio: el qual gouier-
 no .xxiij. años: demostro la forma de
 fazer pesos/ y las medidas: a vnos}
 [fol. 9v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 pueblos vezinos de roma/ q<ue> se llama-
 uan los phidonargos. Quedaron de
@@ -1355,7 +1355,7 @@ se recogiessen/ por qualquier caso aco-
 metido. a cuya causa muchos co<n>uezi-nos}
 {SG. b}
 [fol. 10v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 alla se fuyero<n>/ q<u><<a>>ndo fazia<n> yerros
 algunos. ordeno .c. padres delos an-
@@ -1533,7 +1533,7 @@ de roma tres montes/ quirinal/ vrmi-
 nal/ y esculino. hizo fossados y cauas}
 {SG. b ij}
 [fol. 11v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 muy hondas. penso primero la forma
 del censo siquier tributo que ahun era
@@ -1703,7 +1703,7 @@ tencion de nuestro principio.
 emperador primero de Roma.}}
 {SG. b iij}
 [fol. 12v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN3.} EL año .dc.lxxxxvj. dela funda-
 cion/ Gayo julio cesar fue co<n>-
@@ -1882,7 +1882,7 @@ do ya houo reynado .xxiij. años/ mo-
 rio en campania por vna beuida.}
 {SG. b iiij}
 [fol. 13v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Gayo caligula emperador
 iiij. y el p<r><<i>>mero malo en Roma.}
@@ -2061,7 +2061,7 @@ tonce salio de fuyda fasta q<ue> llego enel
 suburbano suyo de liberto: entre las}
 {SG. b v}
 [fol. 14v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 dos vias de salaria y nume<n>tana: don-
 de se mato con sus proprias manos/
@@ -2234,7 +2234,7 @@ cra con gra<n>de me<n>gua/ q<u><<a>>si desnudo fa-
 sta las escalas/ q<ue> dize<n> gemonias. don-
 de p<r><<i>>mero buelto en lodo/ lleno de co-ces}
 [fol. 15v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 fue hecho pedaços como ensala-
 da/ y todo sembrado por el rio tyber.
@@ -2409,7 +2409,7 @@ enlos dias delas vaca<n>tes/ y no discre-
 pan. segu<n> pareçe por la epistola q<ue> hi-
 zo sant pedro a santiago: este hauia}
 [fol. 16v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 el escogido para sancto padre despues
 del segundo. emp<er>o siendo varon muy
@@ -2584,7 +2584,7 @@ na. vaco la sede .xv. dias.
 mado pastor. fue assumido
 enla sede santa el año de xp<ist>o}
 [fol. 17v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 cxxxj. ocho despues de alexa<n>dro. touo
 las vezes .x. años .iij. meses .xxj. dias
@@ -2758,7 +2758,7 @@ no. vaco la sede .xiiij. dias.
 {RUB. Aniceto papa .xvij.}}
 {SG. c}
 [fol. 18v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN3.} ANiceto .xvij. d<e>spues de pio
 succedio enel pontificado a-
@@ -2934,7 +2934,7 @@ milino vencio y mato.
 {RUB. Seuero .xx. emp<er>ador o .xxj.}}
 {SG. c ij}
 [fol. 19v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN3.} SEuero .xx. emperador delos
 romanos: despues q<ue> mato a
@@ -3108,7 +3108,7 @@ sancto/ y como propheta. cuya yma-
 gen con la de Abraam y de Orpheo}
 {SG. c iij}
 [fol. 20v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 touo en su casa mientra que biuio. Y
 como fuesse magnifico principe lleno
@@ -3280,7 +3280,7 @@ assento vna paloma sobre su cabeça el
 clero p<re>sente/ y le saludo por santo pa-dre.}
 {SG. c iiij}
 [fol. 21v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 lo q<u><<a>>l vie<n>do/ assi fue co<m>plido. Este
 ordeno muchos decretos: ma<n>do co<n>fe-
@@ -3455,7 +3455,7 @@ q<ue> su casa era como yglesia. emp<er>o des-
 pues fue corro<m>pido por vn hereje: y en}
 {SG. c v}
 [fol. 22v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 tal manera q<ue> tomo enojo del nombre
 cristiano/ fasta q<ue> mouio la persecucio<n>
@@ -3631,7 +3631,7 @@ y poner entre los altos y virtuosos
 emp<er>adores/ si la crueldad natural bar-
 barie no le quedara. fue tan ardido y}
 [fol. 23v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 gran cauallero/ q<ue> ve<n>cio los godos al
 rio danubio de alemaña/ en vna bata-
@@ -3806,7 +3806,7 @@ se scriue luego al siguiente.
 je del emp<er>ador diocleciano/
 succedio despues de Euticia-no}
 [fol. 24v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 .xxx. en la sancta sede: año de xp<ist>o
 cc.lxxxxviiij. touo las vezes .xj. años
@@ -3985,7 +3985,7 @@ assi q<ue> ma<n>do en menosprecio delos cri-
 stianos leuar a marcello entre las besti-
 as/ por moço de stablo. donde stouien-do}
 [fol. 25v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 preso .ix. meses: nunca dexando las
 oraciones y sus ayunos: fue dende li-
@@ -4167,7 +4167,7 @@ xp<ist>o/ no dexo de p<er>seguir alos xp<ist>ianos
 como los otros d<e> aq<ue>l t<iem>po: a cuya causa}
 {SG. d}
 [fol. 26v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 el santo padre Siluestre primero se ab-
 sento fuera de roma: y estouo algunos
@@ -4347,7 +4347,7 @@ q<ue> haze<n> los pueblos enlas batallas. ve<n>-
 cer los vicios es co<n>la virtud d<e> buenos}
 {SG. d ij}
 [fol. 27v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 costu<m>bres: enlas otras guerras anda-
 mos mas fuertes q<ue> los enemigos. en
@@ -4529,7 +4529,7 @@ libras: y muchas huertas y heredades
 ¶ La .vj. yglesia de santa Ynes a rue-gos}
 {SG. d iij}
 [fol. 28v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de su fija Consta<n>cia/ do<n>de recibio
 ella babtismo con vna hermana: puso
@@ -4713,7 +4713,7 @@ ro<n> vn thoro brauo/ q<ue> a penas le pudie-
 ro<n> tener .c. ho<m>bres. ento<n>ce el judio dixo}
 {SG. d iiij}
 [fol. 29v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 sus palabras de<n>tro la oreja: en tal ma-
 nera q<ue> dio el dicho thoro en tierra mu-
@@ -4896,7 +4896,7 @@ come<n>çaremos por las yglesias/ como
 al principio se ha proferido. y el escre-uir}
 {SG. d v}
 [fol. 30v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 sera de aq<ue>llas/ q<ue> segu<n> costu<m>bre d<e>las
 estaciones y p<er>dona<n>ças en roma se vsa
@@ -5080,7 +5080,7 @@ tros sanctos y reliquias.
 ¶ Enesta misma yglesia tienen la ve-
 ronica siq<u><<i>>ere vulto dela preciosa faz de}
 [fol. 31v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 jesu xp<ist>o redemtor n<uest>ro/ q<ue> se demuestra
 por muchas vezes la semana s<an>cta/ enel
@@ -5260,7 +5260,7 @@ pueden ahu<n> co<n>tar. Enel ceminterio q<ue>
 hizo calixto hay lleno perdon: y indul-
 gencia de todos pecados.{SYMB: cross.}}
 [fol. 32v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. La .vij. yglesia.}
 ¶ La setena yglesia es a santa cruz en
@@ -5435,7 +5435,7 @@ xo el monte Auentino: delante la qual
 hay vna piedra en forma redonda/ con
 vna cara: y se dezia boca de verdad. en-de}
 [fol. 33v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 los hombres dauan esperiencia de
 su virtud: emp<er>o por vna mujer fue per-
@@ -5612,7 +5612,7 @@ esta el lugar donde san Johan euan-
 gelista heruio en azeyte/ si quier fue}
 {SG. e}
 [fol. 34v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 puesto dentro vn caldero de azeyte
 {SYMB: cross.} feruiente. Hay muchos perdones y
@@ -5783,7 +5783,7 @@ man Cersona: donde recibio el mar-
 tyrio: segun que hablamos ya en su}
 {SG. e ij}
 [fol. 35v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 vida. y ende hay otras muchas reliqui-
 as y perdonanças/ que otorgaron mu-
@@ -5959,7 +5959,7 @@ res de nuestra señora. Hay vn sepul-
 cro de piedra porfirea: donde stan los}
 {SG. e iij}
 [fol. 36v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 cuerpos delas sanctas virgines y mar-
 tires. y el braço de sant Matheo apo-
@@ -6136,7 +6136,7 @@ santo alberto: la fiesta de ambos estos
 varones celebra<n> a .vij. dias de agosto.}
 {SG. e iiij}
 [fol. 37v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. La .xxxxviij. yglesia.}
 ¶ A sancto Uito alos Macellos/ es
@@ -6314,7 +6314,7 @@ te delas fuentes/ donde babtizo el di-
 cho martir los sanctos Jpolito y luci-llo:}
 {SG. e v}
 [fol. 38v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 y enseño la fe cristiana. Esta ygle-
 sia es monasterio que monjas tienen.
@@ -6491,7 +6491,7 @@ an/ alexio/ mario/ marta de interura/
 dialmatia/ lore<n>te/ petronella/ d<e>los apo-
 stoles felipe y santiago menor/ petro-nille:}
 [fol. 39v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 delos cabellos dela madalena: de
 las reliquias de muchos otros marti-
@@ -6667,7 +6667,7 @@ Sabado/ a sant Marcello.
 ¶ Domingo tercero en la quaresma/
 a sant lorente/ fuera el muro.}
 [fol. 40v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 Lunes a sant Marcho
 Martes/ a santa Potenciana.
@@ -6912,7 +6912,7 @@ q<ue> suele: no lo empachassen: y si algu-
 nos delos p<er>egrinos q<u><<i>>sieren llegar a}
 {SG. f}
 [fol. 42v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 ver a Nicosia ciudad de chipre/ sea te-
 nido de los esperar enel puerto d<e>la jn-
@@ -7092,7 +7092,7 @@ monasterio mismo se guarda vn hue-
 sso gra<n>de co<n> reuere<n>cia de san xp<ist>oual.}
 {SG. f ij}
 [fol. 43v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 ¶ En vna yglesia de sancta marina
 tienen todo el cuerpo dela dicha san-
@@ -7268,7 +7268,7 @@ mil años desdel principio del mundo
 passados.}
 {SG. f iij}
 [fol. 44v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 ¶ Esta muy noble dicha ciudad fue
 pues fundada de<n>tro enel seno del mar
@@ -7448,7 +7448,7 @@ phos assi gloriosos delos modernos
 Quien las continuas victorias y to-
 da su magnificencia puede compren-der}
 [fol. 45v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 dentro los limites de oracion assi
 tan estrecha Quie<n> no conoce ser muy
@@ -7628,7 +7628,7 @@ turbaua nuestra partida/ de vn conse-
 jo y deliberacion fuemos assi juntos}
 {SG. g}
 [fol. 46v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 delante del duque/ por le suplicar que
 diesse tiempo al dicho patro<n>/ por que
@@ -7807,7 +7807,7 @@ assentar anchora algu<n>a. este passo lla-
 man los marineros coruero: por don-de}
 {SG. g ij}
 [fol. 48v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 arriban al puerto de san pedro di-
 cho: el qual se aparta dela ciudad arri-
@@ -7993,7 +7993,7 @@ te ser egipcianos: y son muy lexos de
 todo egipto: y enla verdad son de vna}
 {SG. g iij}
 [fol. 50v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 tierra vezina de donde ellos habitan
 hombres traydores que siempre ven-
@@ -8354,7 +8354,7 @@ ert(e)[o]s/ y desbaratados ya de su par-
 te hizieron el trato de hazer estas di-chas}
 {SG. h}
 [fol. 54v]
-{HD. La primera +}
+{HD. La primera ⇒}
 {CB2.
 .xiij. torres co<n> los molinos a sus
 despensas/ para en memoria de su en-
@@ -8714,7 +8714,7 @@ ze fue la octaua ciudad de aq<ue>llas he-
 dificadas despues d<e>l diluuio: endo<n>de}
 {SG. h iij}
 [fol. 57v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ahu<n> parece<n> algu<n>os anillos/ o hierros
 colgar muy gra<n>des de vna riba/ en q<ue>
@@ -8894,7 +8894,7 @@ chos misterios q<ue> fueron ende fechos
 hay .vij. años y .vij. quarentenas. {SYMB: cross.}}
 {SG. h iiij}
 [fol. 58v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ Partimos de Rama a .xj. de julio
 cerca las .ij. horas d<e> media noche/ a ca-
@@ -9023,7 +9023,7 @@ vna piedra sobre vn angulo/ endo<n>de la
 virgen señora n<uest>ra staua qua<n>do san pe-
 dro salio de casa del p<ri>ncipe delos sacer-dotes}
 [fol. 59v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 llora<n>do y gemiendo co<n> tal amar-
 gura/ q<ue> ala madre dicha maria boluer
@@ -9153,7 +9153,7 @@ en forma muy adreçada: y muy ceñida
 de paramentos: los quales dio ende
 por su deuocion el muy illustre duque}
 [fol. 60v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 Phelippo de borgoña co<n> muchas o-
 tras joyas preciosas/ y con mil duca-
@@ -9265,7 +9265,7 @@ y .vij.xl. de indulge<n>cia. Y esto acabado {SYMB: cross.}
 ala noche entramos en el s<an>c<t>o sepulcro.}
 {SG. i}
 [fol. 61v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ La ciudad sancta de jherusalem es
 assentada en alto lugar/ tanto q<ue> della
@@ -9375,7 +9375,7 @@ de el suelo fasta riba donde la cruz fue
 assentada: tiene de alto .xviij. pies.}
 {SG. i ij}
 [fol. 62v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 El agujero do<n>de la cruz staua puesta:
 es de tal anchura/ que puede cojer vna
@@ -9633,7 +9633,7 @@ y salud humana.}
 {=MIN. {RUB. {LAT. INRI}}}
 {RUB. {LAT. SPQ}}}
 [fol. 64v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ Debaxo del dicho monte caluario
 descendiendo a mano yzq<u><<i>>erda/ sta fun-
@@ -9778,7 +9778,7 @@ mos. Despues q<ue> ya fue su altar hecho/
 y puesta encima toda la leña: boluio a
 su hijo co<n> estas palabras. O niño el q<u><<a>>l}
 [fol. 65v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 con muchos votos y suplicaciones de
 dios yo gane: y q<u><<a>>ndo llegaste ya en la
@@ -9928,7 +9928,7 @@ por misterio diuino. ha<n> muchas vezes
 aq<ue>llo atentado: emp<er>o es cierto q<ue> obra
 ninguna estar se consiente/ por arte ni}
 [fol. 66v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 {SYMB: cross.} maña. hay .vij. años co<n> sus .xl.
 ¶ Dende passamos en otro lugar/ q<ue>
@@ -10042,7 +10042,7 @@ plomo: la q<u><<a>>l se llamo portico d<e> salomo<n>
 Emp<er>o despues q<ue> la ciudad de jher<usa>l<e>m}
 {SG. k}
 [fol. 67v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 fue conq<u><<i>>stada por los xp<ist>ianos. era ad-
 uocacio<n> de n<uest>ra señora/ y touo su no<m>bre
@@ -10177,7 +10177,7 @@ piedra/ que hizo sancta helena: donde
 yazia el arbol d<e>l qual fue hecha la cruz}
 {SG. k ij}
 [fol. 68v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 de cristo jesu. dize<n> que stouo el mismo
 arbol ende trauessado como por puen-
@@ -10292,7 +10292,7 @@ menor: por q<ue> el angel ende anuncio a
 los disciplos la resurrecio<n> de xp<ist>o: y q<ue> se}
 {SG. k iij}
 [fol. 69v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 fuessen a galilea do<n>de les hauia de pa-
 reçer: pues q<ue> assi el saluador ante de su
@@ -10405,7 +10405,7 @@ alargo a .ix. ca<pitulos> del eua<n>gelista señor san {SYMB: cross.}
 johan. hay .vij. años co<n> sus quare<ntenas>.}
 {SG. k iiij}
 [fol. 70v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ En este valle siloe ala entrada hay
 vna fue<n>te clara y calie<n>te/ vn poco so tie-
@@ -10537,7 +10537,7 @@ acabada la procession/ reposamos fa-
 sta media noche.}
 {SG. k v}
 [fol. 71v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ Despues los frayles celebraro<n> mis-
 sas en los lugares dichos arriba/ mien-
@@ -10669,7 +10669,7 @@ sta puesta en las espaldas del mo<n>te oli-
 ueto/ a .iiij. leguas de jh<e>r<usa>l<e>m. Y ende en-
 tra<n>do en vna yglesia/ visitamos el mo-nume<n>to}
 [fol. 72v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 del q<u><<a>>triduano lazaro: el q<u><<a>>l je-su
 {SYMB: cross.} xp<ist>o resuscito. hay plenaria indulge<ncia>.
@@ -10782,7 +10782,7 @@ gares entra cerca de jericho enel mar
 muerto/ do<n>de le sobra d<e>l todo y pierde.
 Este mismo rio entre los tie<m>pos q<ue> vie-ne<n>}
 [fol. 73v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 los panes q<ue> ya comiença<n> en palesti-
 na de madurar enel verano: cresce alle<n>-
@@ -10932,7 +10932,7 @@ y nos p<er>mitiero<n> entrar al sepulchro san-
 to dos dias: q<ue> ya con aq<ue>llos era<n> cinco
 vezes las que nos entramos.}
 [fol. 74v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ Ahu<n> assi mismo co<n> algunos pagos
 que dimos/ nos diero<n> entrada en casa
@@ -11081,7 +11081,7 @@ do/ Tripolis/ Baruto/ Sydon/ Tyro
 Accon/ Capharnau<m>/ y otras muchas.}
 {SG. l}
 [fol. 75v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 fue dicha phenice de fenix fijo de age-
 nor hermano de cadino: el q<u><<a>>l fizo no-
@@ -11265,7 +11265,7 @@ jheremias/ y en otros libros dela escri-
 tura. houo vna vena del dicho pozo/}
 {SG. l ij}
 [fol. 76v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 esta la ciudad: la q<u><<a>>l pusieron por arca-
 duzes y cañas muy gra<n>des: cuyas pisa-
@@ -11433,7 +11433,7 @@ o marineros &c<etera>. llama se agora bibleth
 emp<er>o es harto pequeña ¶ De<n>de a .iiij}
 {SG. l iij}
 [fol. 77v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 leguas dela dicha/ esta la ciudad botro
 q<ue> fue muy habu<n>dosa en frutas p<re>ciosas
@@ -11618,7 +11618,7 @@ gua de algarauia/ me toma<n> por agua/
 y puesto dan/ quiere dezir las aguas}
 {SG. l iiij}
 [fol. 78v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 de da<n>. El rio jorda<n> assi llegado segu<n> es
 dicho delante la puerta dela ciudad be-
@@ -11802,7 +11802,7 @@ rach despues dela victoria ordeno su
 hueste sobre asseir: y desbarato al pode-roso}
 {SG. l v}
 [fol. 79v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 rey dicho jabin fasta la muerte: y
 en tal manera q<ue> el rey muerto destru-
@@ -11935,7 +11935,7 @@ campo q<ue> va dende ella fasta el rio jor-
 dan/ que es dos leguas/ es assi llama-
 do capharnaum.}
 [fol. 80v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 {RUB. Martin dampies.}
 ¶ En algunas partes se faze mencio<n>
@@ -12102,7 +12102,7 @@ la tierra de hus. Philippo tetrarcha
 touo esta tierra como la yturea: q<ue> es ca-
 be la regio<n> de jordan co<n>tra la parte de}
 [fol. 81v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 occidente/ fasta los mo<n>tes delos sydo-
 nios/ tyros/ y aconenses. ¶ Otra vez
@@ -12269,7 +12269,7 @@ ssario dezir le aq<u><<i>>/ por no fazer p<ro>lixo ser-
 mo<n>. hallar le podran alos .viij. cap<itulos> de
 job. y lo q<ue> sophar naamathites/ mas}
 [fol. 82v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 adelante capi<tulo> .xj. y en otros muchos
 mas p<ro>siguie<n>do/ va la disputa buelta de
@@ -12422,7 +12422,7 @@ ella san paulo predico la ley de xp<ist>o.
 mascenos/ jnsigne y noble: va<n> a ella en}
 {SG. m}
 [fol. 83v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 t<iem>po de .vj. dias a jh<e>r<usa>l<e>m/ do<n>de san pau-
 lo tomo el baptismo/ y no alexos sta el
@@ -12571,7 +12571,7 @@ de piedra marmol/ ala q<u><<a>>l tomo n<uest>ra se-
 cia plena/ el señor contigo/ bendita se-ñora}
 {SG. m ij}
 [fol. 84v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 entre las mujeres. Hay indulgen-cia
 {SYMB: cross.} plenaria.
@@ -12705,7 +12705,7 @@ bor a mas de vna co<n>tra medio dia es el
 mo<n>te hermo<n> dicho el mayor: en cuyo la-do}
 {SG. m iij}
 [fol. 85v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 para trasmontana es hedificada la
 ciudad naym: a cuya puerta como jesu
@@ -12873,7 +12873,7 @@ q<ue> dormiendo de<n>tro de su seno/ si q<u><<i>>er en
 sus braços/ lo escalie<n>te: assi la buscaro<n>}
 {SG. m iiij}
 [fol. 86v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 en toda la tierra de israel/ y fue halla-
 da en la ciudad ya dicha Suna abisac
@@ -13058,7 +13058,7 @@ y no del que hablamos ¶ En la llanu-
 ra puesta entre estos mo<n>tes ya dichos}
 {SG. m v}
 [fol. 87v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 comie<n>ça el valle q<ue> llama<n> illustre: por su
 habu<n>dancia y fertilidad: y va seguido
@@ -13240,7 +13240,7 @@ Joram/ Jheu/ Joachas/ Joas/ Je-
 roboam/ zaquarias/ Sellum/ Mana-
 hel/ Phaceja/ Phacee Osee}
 [fol. 88v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ La misma ciudad es donde san jo-
 han por herodes fue puesto en presion
@@ -13392,7 +13392,7 @@ cho hermoso. hay vna ciudad en tribu
 juda del mismo no<m>bre: empero esta fue
 p<ro>pia del ot(t)[r]o tribu effraym.}
 [fol. 89v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ A cinco leguas dela dicha lepua co<n>-
 tra medio dia/ esta fundada la ciudad
@@ -13576,7 +13576,7 @@ He yo seguido por la mayor p<ar>te la hy-
 storia segu<n> josepho enel .v. lib<ro>. cap<itulo> .iij.
 halla se scripta en los capitulos .xix.}
 [fol. 90v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 y .xxj. delos juezes. endo<n>de ahun q<ue> ha-
 ya palabras d<e> mas/ o menos/ en lo me-
@@ -13746,7 +13746,7 @@ ros que tiene .vj. dias malos de cami-
 no muy trabajoso y espa<n>table/ como si}
 {SG. n}
 [fol. 91v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 fuesse via del infierno. muchas cosas
 dizen y escriuen muchos del mar ya di-
@@ -13930,7 +13930,7 @@ da: es fecha en forma de horno gra<n>de
 p<ar>ece d<e> marmol: y fue de vn fijo d<e> rube<n>.}
 {SG. n ij}
 [fol. 92v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ De baturim para sol poniente dos
 echos de arco/ en baxo lugar es el casti-
@@ -14099,7 +14099,7 @@ polis.
 monte sylo contra sol ponie<n>te/ esta bo-thoron}
 {SG. n iij}
 [fol. 93v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 menor dela otra q<ue> se halla scri-
 pta enel libro josue/ como enel otro de
@@ -14283,7 +14283,7 @@ Mientra q<ue> cepheo staua co<n>tando en
 medio la gente delos ethiopes/ o del}
 {SG. n iiij}
 [fol. 94v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 mismo suegro los actos passados y de
 la gorgona. todos los palacios y bo-
@@ -14468,7 +14468,7 @@ te delos judios/ viendo la fuerça de su
 armada/ luego huyeron sin mucho co<n>-cierto.}
 {SG. n v}
 [fol. 95v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 En aquel dia salio semejas el fi-
 jo de heli/ no menos fuerte q<ue> los ya di-
@@ -14652,7 +14652,7 @@ da/ delos ydumeos y amonitas.
 ¶ Una legua dende a mano yzquier-
 da contra el desierto de quarentena: es}
 [fol. 96v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 vn castillo herodio llamado: el q<u><<a>>l fun-
 do el gran herodes/ y ende houo la se-
@@ -14819,7 +14819,7 @@ rusale<m> a .iiij. leguas es aq<ue>lla casa de za-
 charias: donde saludo la reyna del cie-
 lo a helizabeth: enla q<u><<a>>l misma nacio el}
 [fol. 97v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 p<ro>pheta y mas q<ue> p<ro>pheta san joan bapti-
 sta ¶ Dela dicha casa q<u><<a>>nto .ij. leguas
@@ -15003,7 +15003,7 @@ se diga por q<ue> se llama en esta manera.
 Segu<n> el isidoro enel .xiiij. libro {LAT. ethimo-
 logiario:} esta ciudad habito la ge<n>te di-cha}
 [fol. 98v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 Enea: cuyo linaye todo mataro<n> y
 destruyeron los de capadocia: poblan-
@@ -15183,7 +15183,7 @@ ni: donde jhesu nuestro redentor entro
 a orar por muchas vezes y le tomaron}
 {SG. o}
 [fol. 99v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 despues los judios. esto parece a .xix.
 capi<tulos> de sant joha<n> baptista. Ende acer-
@@ -15359,7 +15359,7 @@ sus capitulos.
 {RUB. Del mo<n>te Quare<n>tena.}}
 {SG. o ij}
 [fol. 100v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ¶ Mo<n>te quarentena es mucho alto/
 cabo jerico: a media legua por el cami-
@@ -15503,7 +15503,7 @@ stianos se spera.
 cia/ de muy gran altura: del qual mu-chas}
 {SG. o iij}
 [fol. 101v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 vezes por los prophetas se haze
 mencion. Libano segun isidoro/ quie-
@@ -15682,7 +15682,7 @@ ciones del señor adrechas: toma<n>do pri-
 mero sus heregias/ que la verdad pura}
 {SG. o iiij}
 [fol. 102v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 dela fe nuestra/ q<ue> nos abraçamos. O
 generacion/ linaje peruerso/ ge<n>te sin co<n>-
@@ -15866,7 +15866,7 @@ parte dela vera cruz de jesu/ q<ue> fue dexa-
 da por sancta helena. El año siguie<n>te}
 {SG. o v}
 [fol. 103v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 que se conto seys cie<n>tos y seys de nue-
 stra salud/ a .xxiij. dias del mes de abril
@@ -16049,7 +16049,7 @@ de q<u><<a>>lquier daño: me<n>tio como falso: co-
 mo parece por esperiencia. No es ra-
 zonable q<ue> fuesse houido por nuncio de}
 [fol. 104v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 dios y sancto propheta: pues eran sus
 obras matar los ho<m>bres/ tomar lo aje-
@@ -16232,7 +16232,7 @@ perio de oriente q<ue> touo Eraclio. Las
 obras malas del dicho mahoma falso
 p<ro>pheta perseueraua<n>: y n<uest>ro señor le qui-so}
 [fol. 105v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 tocar dela epile<n>cia/ q<ue> al vulgo llama<n>
 el mal de caer: dela qual cayo por mu-
@@ -16415,7 +16415,7 @@ uan ahu<n> la le<n>gua delos arabes: assi es
 ella. Fue tan deshonesta/ fuera de toda
 justa razon/ q<ue> ahu<n> el diablo se auergo<n>-çaria}
 [fol. 106v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 de ordenar ta<n> mala secta: lo qual
 mejor veres adela<n>te. ¶ Enel alkora-
@@ -16597,7 +16597,7 @@ gua/ y fue criado lo mas co<n> ellos de<n>de
 pequeño: por todo esso no me co<n>uiene}
 {SG. p}
 [fol. 107v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 que su ley aguarde. la qual si andamos
 bien discernie<n>do de q<u><<a>>nta razo<n> y funda-
@@ -16777,7 +16777,7 @@ caras ser el camino verdadero y sancto
 de dios. Fuera de nos vaya la tal con-clusion}
 {SG. p ij}
 [fol. 108v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 alexos de cristo: porque al prin-
 cipio creo dios el ho<m>bre todo derecho
@@ -16955,7 +16955,7 @@ sa ley suya maldita/ fuyr no quisiessen.
 por otros tiempos si no en dias de sus}
 {SG. p iij}
 [fol. 109v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ayunos/ es clara la causa. porque vue-
 stra tierra es mucho caliente/ assi que
@@ -17138,7 +17138,7 @@ rasse≻ ala q<ue> hizo jeroboa<m> en su p<ri>ncipio:
 segun se demuestra por el .iij. lib<ro> delos}
 {SG. p iiij}
 [fol. 110v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 reyes cap<itulo> .xij. do<n>de se scriue q<ue> roboam
 el heredero de salomon querie<n>do agra-
@@ -17321,7 +17321,7 @@ cursor de cristo jesu bienaue<n>turado san
 joan babtista: porq<ue> lo houo el babtiza-do}
 {SG. p v}
 [fol. 111v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 hazie<n>do la vida santa y buena. To-
 dos los milagros que son escriptos en
@@ -17505,7 +17505,7 @@ dios y hombre puro y verdadero
 ¶ Si muchas razones pudieran ende
 ser bien traydas: las dichas abaste<n> ya}
 [fol. 112v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 para breuedad: porq<ue> destas mismas q<u><<a>>l-
 quiera puede bien percebir como este
@@ -17689,7 +17689,7 @@ nuo seria la parte de ho<m>bres y mujeres
 en qualquier forma esto se diga/ pues
 q<ue> la muerte no haya lugar/ crescera el}
 [fol. 113v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 pueblo en infinito: y la region del para-
 diso q<ue> terrestre llama/ es corporal/ co-
@@ -17872,7 +17872,7 @@ la verdad q<ue> nu<n>ca entonce plugo a nin-
 guno sabio ni discreto/ si no fue a vnos
 vulgares necios/ q<ue> delas seluas y tie-rras}
 [fol. 114v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 sin ley a el descendiero<n>: los quales
 oyendo estas imp<er>fectas y necias fabli-
@@ -18055,7 +18055,7 @@ nos dixieren que no deuemos inquirir
 la causa porque tanto reyna esta dicha}
 {SG. q}
 [fol. 115v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 secta/ como ella sea por la voluntad de
 nuestro señor/ cuyo inquirir no es de
@@ -18240,7 +18240,7 @@ bre: ta<n>to se p<er>mite mas q<ue> ninguna otra
 especie de ydolatras/ por que solo tie-ne}
 {SG. q ij}
 [fol. 116v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 infidelidad sin ydolatria: y enlas o-
 tras houo entero este pecado con la di-
@@ -18425,7 +18425,7 @@ do. la qual blasphemia se halla escri-
 pta por muchas vezes/ en las leyen-das}
 {SG. q iij}
 [fol. 117v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 delos sanctos martyres/ qua<n>do co-
 ronados fueron del martyrio/ por la ty-
@@ -18608,7 +18608,7 @@ esta forma p<ro>cedere. Si el pecado delos
 judios q<ue> su testame<n>to viejo aguarda<n> ya}
 {SG. q iiij}
 [fol. 118v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 enel tie<m>po de ley de gracia/ sera ygual
 quasi del delicto de ydolatria: y ahu<n> ve-
@@ -18793,7 +18793,7 @@ ssar del todo a su mahometo Pues co<n>-
 sidera tu/ o letor: q<u><<a>>nta differe<n>cia sea en}
 {SG. q v}
 [fol. 119v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 tomar y destruyr ta<n>tos imperios/ rey-
 nos/ y ciudades: y robar las tierras de
@@ -18894,7 +18894,7 @@ jerusale<m> y tierra sancta: es como se demuestra por la figura siguiente.}
 contiene .xxxj. letras: segun enel siguiente alphabeto estan figuradas.}
 {ILL. {=DIAG: contains a table with the Arabic alphabet.}}}
 [fol. 120v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB1.
 {RUB. Delos judios que ahun habitan en jerusalem.}
 {ILL. {MIN=.}}}
@@ -19011,7 +19011,7 @@ guiente alphabeto stan escriptas.}
 {CB1.
 {ILL. {RUB. Alphabeto hebrayco +} {=DIAG: contains a table with the Hebrew alphabet.} {RUB. siquier delos judios}}}
 [fol. 121v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB1.
 {RUB. Comiença dezir de algunos griegos que ahun
 moran en jherusalem: los quales segun su costumbre van en ha-
@@ -19151,7 +19151,7 @@ otra manera: por ser muy fuerte. y ahu<n>
 que no haze mencion de agua el euan-
 gelio/ es necessaria en el sacramento/}
 [fol. 122v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 para que mejor se represiente la passio<n>
 de cristo jesu/ que es su precioso cuer-
@@ -19262,7 +19262,7 @@ paresce a .xij. del libro delos actos de
 los apostoles. En los negocios mun-danos}
 {SG. r}
 [fol. 123v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 habla<n> le<n>gua morisca: en los di-
 uinos y esp<irit>uales vsan la griega. Algu-
@@ -19394,7 +19394,7 @@ como confiessan estas dos naturas:
 assi entie<n>den hauer dos personas: por}
 {SG. r ij}
 [fol. 124v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 ende dizen que no es vn cristo de ver-
 bo y carne subsistente/ si no separado:
@@ -19539,7 +19539,7 @@ ta.}
 {ILL. {=DIAG: contains a table with the Armenian alphabet.}}}
 {SG. r iij}
 [fol. 125v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 {RUB. Delos Georgianos y sus
 costumbres.}
@@ -19681,7 +19681,7 @@ y el caracter/ o quemar del huego era/
 por lo que dixo san joan babtista. Cri-sto}
 {SG. r iiij}
 [fol. 126v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 venira por vos babtizar en spiritu
 sancto y enel huego. despues que fuero<n>
@@ -19827,7 +19827,7 @@ dificio. Dize se q<ue> toma esto principio
 muchedu<m>bre delos da<m>nada y poca hue-
 ste delos q<ue> alcançan la saluacion. De-mandan}
 [fol. 127v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 porq<ue> la misericordia de dios
 escoje tan poca ge<n>te para la salud siq<u><<i>>er
@@ -20011,7 +20011,7 @@ siendo temiente a dios y deuoto/ le fue
 enbiado el apostol pedro: porq<ue> le abrie-
 sse y demostrasse la cierta verdad que}
 [fol. 128v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 desseaua: lo q<u><<a>>l se scriue a .x. d<e>los actos
 delos apostoles. Digo yo ahun q<ue> si al-
@@ -20196,7 +20196,7 @@ guarde<n>/ q<u><<a>>ndo alos otros p<ar>a sie<m>pre ve-
 an entrar en las penas/ llorar y gemir}
 {SG. s}
 [fol. 129v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 las quales ellos co<n> el fauor de dios ve<n>-
 cieron/ y apartaron.
@@ -20380,7 +20380,7 @@ como ha sido de muchos hereges/ pue-
 den proceyr por desordenada d<e>lectacio<n>}
 {SG. s ij}
 [fol. 130v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 como aq<ue>lla delos epicuros q<ue> todo su
 bien pusiero<n> algunos enesta vida y sus
@@ -20564,7 +20564,7 @@ nacio<n>es/ tiene<n> de nosotros mucho eno-
 jo/ y nos abhorrece<n>/ y mal nos q<u><<i>>eren.}
 {SG. s iij}
 [fol. 131v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 {RUB. Siguese vna oracion que ha-
 ze como dolorosa/ por la tierra sancta.}
@@ -20747,7 +20747,7 @@ delos xp<ist>ianos. despues delas dichas
 fue co<n>stantinoble/ la qual nueua roma}
 {SG. s iiij}
 [fol. 132v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 fue por co<n>stantino magno llamada: el
 qual con muchos nobles romanos en
@@ -20930,7 +20930,7 @@ quasi destruyo. Despues de todo esto
 cometido/ ahu<n> queria tentar muchas}
 {SG. s v}
 [fol. 133v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 vezes de poner sus fuerças co<n>tra el ro-
 mano jmperio d<e> cristo/ amenaza<n>do al
@@ -21114,7 +21114,7 @@ piedad. son ya passados entre los de-
 sseos de su corazon. dezir se puede que
 dias y noches haya cercado n<uest>ra ciu-dad}
 [fol. 134v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 mucha malicia. Es el trabajo en
 meatad de nosotros puesto co<n> muy po-
@@ -21298,7 +21298,7 @@ gar de la dignidad/ donde si fallescen
 los bienes ganados por merecimie<n>to
 aquellos abastan que de la silla/ y su lu-gar}
 [fol. 135v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 viene<n>. la cathedra sube a su asiento
 los virtuosos: o haze despues d<e> alla su-
@@ -21481,7 +21481,7 @@ dad dela co<n>scie<n>cia/ en alta silla de la vir-
 tud: cuyas escalas quien ascendiere/ se-
 ra bienauenturado.}
 [fol. 136v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 {RUB. Buelue la fabla del doctor
 Dean co<n> los prelados de la yglesia.}
@@ -21665,7 +21665,7 @@ q<u><<a>>ndo nosotros q<ue> somos lu<m>breras anda-
 mos ta<n> ciegos/ en todo el mu<n>do va la}
 {SG. t}
 [fol. 137v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 tristeza con misero bulto. segun lo can-
 ta vn sabio antiguo siquiere poeta. Ya
@@ -21850,7 +21850,7 @@ tor n<uest>ro/ que han injuriado en muchas
 maneras. esto seria co<n>suelo de buenos}
 {SG. t ij}
 [fol. 138v]
-{HD. La segunda +}
+{HD. La segunda ⇒}
 {CB2.
 gloria grande suya/ paz dela yglesia/
 gran seguridad/ y seruicio de dios: y
@@ -22217,7 +22217,7 @@ sta guerra comiençan. Y con esto fene-
 ce la parte Segunda.}
 {SG. t iiij}
 [fol. 140v]
-{HD. La Tercera +}
+{HD. La Tercera ⇒}
 {CB2.
 {RUB. Comie<n>ça la tercera parte del
 sancto viaje: la qual tratara del romea-
@@ -22401,7 +22401,7 @@ res gran lu<m>bre trae: porq<ue> aquella es de
 alabar/ segu<n> el sabio: y no la vana bel-dad}
 {SG. t v}
 [fol. 141v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 del cuerpo. La muger q<ue> teme a di-
 os/ ha de ser mucho loada: por q<ue> prin-
@@ -22585,7 +22585,7 @@ y al natural co<n>trafechas/ por su i<n>genio
 ¶ Mossen maximino de Rape<n>stein
 señor en Boineck.}
 [fol. 142v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 ¶ Don vernando de Mernarue.
 ¶ Mossen Gaspar de Bulach.
@@ -22769,7 +22769,7 @@ boledas: empero si spanto y sombra de
 muerte/ lleno de barrancos y sequedad
 del huego del Sol. Muchas vezes vi-mos}
 [fol. 143v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 por aquel desierto vna espessura
 como de fumo: la qual parecia salir de
@@ -22953,7 +22953,7 @@ ya se cumplia.
 ¶ Despues de llegados al monesterio
 y por los monjes bien recebidos y con}
 [fol. 144v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 charidad: y ya tomadas nuestras cier-
 tas cellas/ luego descendimos por oyr
@@ -23138,7 +23138,7 @@ tro camino fuerça no faltasse.
 ¶ Despues de hauer holgado vn po-co/}
 {SG. v}
 [fol. 145v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 fuemos descendiendo el monte ayu-
 so/ contra sol poniente: por vn camino
@@ -23323,7 +23323,7 @@ milagro.
 gamos adonde Chore el fijo de Jsaar}
 {SG. v ij}
 [fol. 146v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 los fijos de Chaath/ los fijos de Leui
 y Dathan y Abyron/ y otros muchos
@@ -23508,7 +23508,7 @@ llenos p<ar>a el desierto: ca era en el tie<m>po
 de n<uest>ra partida: Muchos trabajos ha<n>}
 {SG. v iij}
 [fol. 147v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 estos monjes por los Arabes: tanto
 que forçado el Abat mantiene ochen-
@@ -23691,7 +23691,7 @@ ende otra leña ninguna alca[n]çamos.
 go partimos por vn camino muy tra-bajoso}
 {SG. v iiij}
 [fol. 148v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 de vnos ca<m>pos anchos y secos
 donde cosa verde no se demostraua/ ni
@@ -23876,7 +23876,7 @@ ras. lo qual hazie<n>do luego nos entra-
 ro<n>: por esta forma. Nuestro calino en-traua}
 {SG. v v}
 [fol. 149v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 p<ri>mero: y empues del .vj. de nos-
 otros: los quales salidos/ entrauan o-
@@ -24059,7 +24059,7 @@ precio de oro. Estos eunuchos que di-
 ze arriba/ son vnos ho<m>bres p<ar>a la guar-
 da delas mujeres: los quales no pue-den}
 [fol. 150v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 hauer alguna parte con ellas: por
 que son capados como capones. y esto
@@ -24243,7 +24243,7 @@ y muchedumbre/ y tanta priessa/ como
 en roma suele hauer en la yglesia de se-
 ñor san pedro/ el año que ganan el ju-bileo:}
 [fol. 151v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 tantos vendian ende y mercaua<n>
 que de ver era vna marauilla: y a quie<n>
@@ -24425,7 +24425,7 @@ y creo que nu<n>ca houo en roma tantas
 yglesias. assi augme<n>to aquel sathanas
 la synagoga de su da<m>nacion. Los hedi-ficios}
 [fol. 152v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 dela ciudad son pobres de fuera
 hechos de adobes. empero de<n>tro son
@@ -24610,7 +24610,7 @@ ca muy atarde ellos cozinan en sus ca-
 sas/ y todo ende lo mercan. Fue nos}
 {SG. x}
 [fol. 153v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 affirmado que .xij. mil cozineros eran
 o dende arriba: delos quales muchos
@@ -24793,7 +24793,7 @@ de Egipto. Y este cuydado nosotros
 touie<n>do/ que los camellos y animales}
 {SG. x ij}
 [fol. 154v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 del dicho pueblo eran conduzidos por
 otros negocios/ para que por tierra
@@ -24978,7 +24978,7 @@ tantos/ q<ue> la comarcha toda enchian.
 ende tomaron .xiij. xp<ist>ianos co<n> vna fu-sta:}
 {SG. x iij}
 [fol. 155v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 la qual despojada sobieron los pre-
 sos/ para les ve<n>der alto en las plaças.
@@ -25163,7 +25163,7 @@ q<ue> ya he dicho no puede<n> saber q<u><<i>>en son
 las fustas/ ni le<n>gua les diere<n> co<n> las di-chas}
 {SG. x iiij}
 [fol. 156v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 aues lo scriuen muy presto: y lue-
 go arman muchos nauios/ para q<ue> las
@@ -25348,7 +25348,7 @@ brauo mar Malleo. y ahu<n> el camino
 cabe aquestas que yo dire/ nos amone-staua:}
 {SG. x v}
 [fol. 157v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 como Achaya/ Albania/ Dar-
 danien/ Corziro/ Hillirico/ Dalma-
@@ -25532,7 +25532,7 @@ ua muy desenbuelto nuestro viaje por
 entre achaya/ moria/ illirico/ dalmacia
 croacia/ para en istria y dar en ytalia.}
 [fol. 158v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 Es malea monte/ o promontorio dela
 tierra de grecia muy aspero y fuerte/ q<ue>
@@ -25716,7 +25716,7 @@ lla noche puedo bien dezir q<ue> a centena-
 res de vezes fuemos embueltos entre
 las aguas/ cubiertos de vndas. presto}
 [fol. 159v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 se cubre por el mar la fusta: y en vn bol-
 uer de ojo se passa: todo lo que staua
@@ -25900,7 +25900,7 @@ dixo como este animal se puso de<n>tro de
 vna cueua/ entre las ribas: y dende sa-
 liendo encima del monte sobre la ciu-dad}
 [fol. 160v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 mataua todos los moradores co<n>
 su aliento empoçoñado: por cuya pe-
@@ -26085,7 +26085,7 @@ declaran dentro las fustas por sus pro-
 pios juezes.}
 {SG. y}
 [fol. 161v]
-{HD. La tercera +}
+{HD. La tercera ⇒}
 {CB2.
 ¶ El dia segundo del mes de Enero/
 qua<n>do el viento nos aco<n>tento salimos
@@ -26409,7 +26409,7 @@ de todos los bienes: y quasi destruyo.
 Quie<n> ≺q<ue> vse d<e>las palabras d<e>l p<ro>pheta≻}
 {SG. y iij}
 [fol. 163v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 dara agua a mi cabeça: y a mis ojos
 fue<n>te de lagrimas/ para q<ue> pueda llorar
@@ -26593,7 +26593,7 @@ days poner debaxo de v<uest>ros pies a sa-
 thanas con sus co<m>pañeros y sequaces.
 ca puesto q<ue> confie enla multitud y fero-cidad}
 [fol. 164v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 delos suyos: emp<er>o en mayor nu-
 mero son los q<ue> son co<n> nosotros: antes
@@ -26769,7 +26769,7 @@ nigropo<n>te su fin acabado enesta guerra
 llorosa y triste con mucha manzilla.}
 {SG. z}
 [fol. 165v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB1.
 {RUB. Enesta manera caualgan los turcos en tie<m>po
 de paz quando esta<n> en fiestas/ o solemnidades: y enlas gue-
@@ -26900,7 +26900,7 @@ los q<ue> afirmauan poner el setio: traye<n>do
 por cierto q<ue> no hauia adarbes tan fuer-tes}
 {SG. z ij}
 [fol. 166v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 ni rezios/ que los grandes tiros no
 les allane<n>. ya mucho mejor conel pode-
@@ -27085,7 +27085,7 @@ engañaro<n> los gra<n>des golpes de artille-
 ria la opinio<n> delos defensores. porende}
 {SG. z iij}
 [fol. 167v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 houo enesto remedio/ q<ue> si las paredes
 muy rezias echauan con artificio/ las
@@ -27270,7 +27270,7 @@ luego se hizo: y salidos fuera d<e>los adar-
 bes por lugar cubierto entre las cauas}
 {SG. z iiij}
 [fol. 168v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 quando llegaron al baluarte/ puestas
 las escalas alto sobian: los enemigos
@@ -27455,7 +27455,7 @@ cumplido/ q<ue> la barrera y caua tenia<n> ya
 ygualada: y la sobida mas d<e>sembuelta.}
 {SG. z v}
 [fol. 169v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 El noble maestre que su coraçon y pen-
 samiento siempre velauan para la salud
@@ -27639,7 +27639,7 @@ destruycion: empero entonce el buen ca-
 pitan entre sus nobles y caualleros an-
 daua llamando con muy gran esfuerço}
 [fol. 170v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 el fauor diuino/ touiendo sperança en
 christo jesu/ y enla virgen su madre ben-
@@ -27823,7 +27823,7 @@ ron los nauios de sus heridos: y los q<ue>
 de licia ende trayeran/ en muchos dias
 les hiziero<n> passar ala turchia/ fasta su}
 [fol. 171v]
-{HD. La quarta +}
+{HD. La quarta ⇒}
 {CB2.
 partida. hizieron la tala en huertas/ vi-
 ñas/ y arboledas si algunas sanas pri-

@@ -18,7 +18,7 @@ aje dela tierra san[*ta] [???] las p<ro>uincias
 y ciudades delas [???] mo<n>struos q<ue>
 ay por el mu<n>do. [??? ??]es cosas.}}}
 [fol. 1v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {RUB. ¶ Comiença el libro q<ue>
 compuso el noble cauallero Johan de
@@ -167,7 +167,7 @@ el pie dela cruz d<e> laurel porque el çedro
 no se e<m>podreciesse en tierra ni en agua:}
 {SG. A.ij.}
 [fol. 2v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 y ellos querian q<ue> durasse largame<n>te. E
 depues assi mesmo pe<n>saron q<ue> el cuerpo
@@ -358,7 +358,7 @@ po que la dicha ciudad fue destruyda.
 Al derredor d<e> grecia ay muchas yslas}
 {SG. A iij.}
 [fol. 3v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 assi como hiria: higlia: colcas: thes: bu-
 enir: trefalssant: mole carparte. las qua-
@@ -535,7 +535,7 @@ porque los demas de todos nosotros
 comemos carne en los miercoles y hue-uos}
 {SG. A iiij.}
 [fol. 4v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 y q<ue>so y muchas otras cosas en vi-
 ernes. E ellos excomulgan quantos fa-
@@ -698,7 +698,7 @@ plañirse como desauenturada. y torno
 {=MIN.}}
 {SG. A v.}
 [fol. 5v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 se detras. y aq<ue>l cauallero murio luego
 y despues ningun cauallero la a visto q<ue>
@@ -848,7 +848,7 @@ christianos. E bie<n> puede ho<m>bre yr a este
 puerto sin se llegar a chipre: mas van a-
 lla por refrescarse d<e> vituallas & por pro-uecho}
 [fol. 6v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 delas mercadurias. E porq<ue> alla
 enla ribera dela mar falla hombre mu-
@@ -1007,7 +1007,7 @@ empero yo lo deuo bien saber porque
 he estado luengo tiempo siruiendolo y
 en su guerra y en vno con sus gentes co<n>-tra}
 [fol. 7v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 los vaduynos. y aun me ouiera da-
 do por muger vna hija de vn gran prin-
@@ -1169,7 +1169,7 @@ no delante.
 mellucos y del soldan y delo que passa-
 mos conellos yo y mis compañeros.}}
 [fol. 8v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {IN4.} QUando supieron todos los
 mamellucos que estauamos
@@ -1344,7 +1344,7 @@ plo. y los moros la llaman mezquita.
 E de Babilonia la Menor fasta la me-ca}
 {SG. B.}
 [fol. 9v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 contamos que ay .xxxij. jornadas. E
 sabed que la partida d<e> Arabia es muy
@@ -1531,7 +1531,7 @@ no mas la qual viene a quemarse sobre
 el altal de aquel templo a cabo de qui-nientos}
 {SG. B ij.}
 [fol. 10v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {MIN=.}
 años. & quando viene este tie<m>-
@@ -1659,7 +1659,7 @@ muchos y diversos y nobles Señores
 & otras gentes que piensan tener balsa-mo}
 {SG. B iij.}
 [fol. 11v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & no le tienen. Porque los moros
 lo falsifican por engañar alos christia-
@@ -1814,7 +1814,7 @@ nia: o enla ciudad d<e> Dures: o en otras
 partes de aquesta costa. e de<n>de se va pa-ra}
 {SG. B iiij.}
 [fol. 12v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 costantinopla: y despues por agua fa-
 sta rodas y ala ysla d<e> çerron y ala ysla
@@ -1972,7 +1972,7 @@ no es aun consumida. y demuestran en-
 de muchas otras reliq<u><<i>>as que seria lar-go}
 {SG. B v.}
 [fol. 13v]
-{HD. LIbro +}
+{HD. LIbro ⇒}
 {CB2.
 {=MIN.}
 de contar. ¶ Jte<m> quando el prelado
@@ -2126,7 +2126,7 @@ avn ay algunas yglesias donde moro
 gran tiempo abraam el patriarcha. E
 aquella villa de versabe fue dela muger}
 [fol. 14v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {MIN=.}
 de vrias enla qual dauid engendro a sa-
@@ -2253,7 +2253,7 @@ fornicacio<n>. la qual era virgen. y la teni-
 an para q<ue>mar en aquella plaça. do teni-an
 {=MIN=.}}
 [fol. 15v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ya el fuego ençendido. Y la virge<n> fi-
 zo oracio<n> a nuestro señor. que assi como
@@ -2406,7 +2406,7 @@ de sant Quirat el qual fue abad della:
 por el qual fizieron gran llanto y duelo
 los monges en su fin y traspassamien-to.}
 [fol. 16v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 E aun oy en dia esta pintado en que
 manera ellos fizieron el luto que es co-
@@ -2549,7 +2549,7 @@ es el muro donde fueron fallados los
 clauos de nuestro señor en vna pared es-condidos}
 {SG. C.}
 [fol. 17v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 porque el tenia clauo enlos pi-
 es y .ij. enlas manos y del vno delos cla-
@@ -2692,7 +2692,7 @@ to Titus y Uespesiano emperadores d<e>
 roma quando destruyero<n> a jerusalem}
 {SG. C ij.}
 [fol. 18v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & destruyeron los judios por la muerte
 de jesu christo lo quemaro<n> & despues to-
@@ -2879,7 +2879,7 @@ el vaño de nuestro señor. Y en aqueste
 vaño solia entrar el agua d<e>l parayso. &}
 {SG. C iij.}
 [fol. 19v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 avn oy en dia caen gotas. Y despues de
 este esta la cama dela señora santa ma-
@@ -3035,7 +3035,7 @@ te syon: y delas cosas que son al derre-
 dor de Jh(r)[e]rusalem.}}
 {SG. C .iiij.}
 [fol. 20v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {IN4.} EL monte syon es de dentro
 dela ciudad de jherusalem: &
@@ -3193,7 +3193,7 @@ erra: & fue conuertido por vn santo ho<m>-
 bre hermitaño. y salio mucho hombre}
 {SG. C v.}
 [fol. 21v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 bueno de manera q<ue> fizo gra<n>des bienes.
 ¶ Jtem çerca deste lugar ala parte de
@@ -3363,7 +3363,7 @@ de aq<ue>lla agua: y si ende la<n>çays vna bar-
 ra de fierro ella nadara sobre la agua &
 si echays vna pluma se afondara de<n>tro}
 [fol. 22v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 las quales cosas son co<n>tra natura. Assi
 mesmo ay ende mançanas muy fermo-sas
@@ -3519,7 +3519,7 @@ de fablo dios p<r><<i>>merame<n>te a samuel y le
 reuelo el ordenamie<n>to d<e>los saçerdotes:
 y el misterio del sacrame<n>to: segun desto}
 [fol. 23v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 mas largamente fabla la sancta escrip-
 tura. Y despues se va hombre a fizen en
@@ -3676,7 +3676,7 @@ redor va vn arroyo que se llama el arro-
 yo de Syon q<ue> en otra manera se llama
 la tierra radain. Y alli huuiero<n> la pelea}
 [fol. 24v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el fijo de Abimalech co<n> los fijos de bo-
 re propheta con la hueste de roma: don-
@@ -3813,7 +3813,7 @@ alos otros malos y peruersos conde<m>p-
 nara para siempre a penas infernales.}
 {SG. D.}
 [fol. 25v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 entonçes aura cada vno su paga segun
 q<ue> huuiere s<er>uido bie<n>: o mal porq<ue> d<e>uemos
@@ -3972,7 +3972,7 @@ pable d<e> sus defallimie<n>tos & pedirle mi-sericordia
 {MIN=.}}
 {SG. D ij.}
 [fol. 26v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 prometiendole de se eme<n>dar.
 & por ende quando ellos se co<n>fiessan to-
@@ -4117,7 +4117,7 @@ negros: y nouayes q<ue> son vna co<n>dicio<n> d<e>
 mo<n>ges christianos. E ay vna boueda d<e>-baxo}
 {SG. D iij.}
 [fol. 27v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 dela yglesia donde tienen sus vi-
 nos delos quales ay muy buenos. assi
@@ -4282,7 +4282,7 @@ ciudad de Ethiopia y de Nique: y de o-
 tras cosas.}}
 {SG. D iiij.}
 [fol. 28v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {MIN=.}
 {IN4.} AQuesta ciudad de Niq<ue> los
@@ -4458,7 +4458,7 @@ alcoran los vnos llaman mescale: y los
 otros ermen segun sus lenguajes diuer-sos.}
 {SG. D v.}
 [fol. 29v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el qual libro les dio mahomat. Enel
 qual esta escripto segu<n> q<ue> yo lo he leydo
@@ -4646,7 +4646,7 @@ ros que los judios son nacio<n> maluada
 por qua<n>to han corrompido la ley q<ue> dios
 les dio por moysen. Assi mesmo dizen q<ue>}
 [fol. 30v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 los christianos son malos porq<ue> no gu-
 ardan los euangelios q<ue> dios les dio: y
@@ -4833,7 +4833,7 @@ bia ellos serian reprehendidos y casti-
 gados muy fuertemente. E avn que no
 beuen vino. Mas beuen los Moros}
 [fol. 31v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 muy buenos beurages dulçes y frescos
 los q<u><<a>>les llaman foca. y es fecha de caña
@@ -4989,7 +4989,7 @@ dias y tres noches sin dormir. y sin co<m>-
 pañia q<ue> aquella muger verna a el des-
 pues que assi aura velado. y le dara el}
 [fol. 32v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 primer don que le demandara delas co-
 sas terrenales. Y esto se ha muchas ve-
@@ -5133,7 +5133,7 @@ y noble plaziente y fructifica<n>te d<e> trigo
 {=MIN=.}}
 {SG. E.}
 [fol. 33v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 & Uinos: & de todos los otros bienes.
 Aquesta es la ciudad do<n>de los tres re-
@@ -5291,7 +5291,7 @@ esta ta<n> fria que ningu<n> hombre no la po-
 dria beuer: y de noche es ta<n> calie<n>te que}
 {SG. E ij.}
 [fol. 34v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {=MIN.}
 hombre no osa tener la mano. E dende
@@ -5451,7 +5451,7 @@ ge<n>tes piensen q<ue> no se pueden polir y se
 pie<n>sen q<ue> sean d<e>los mejores. mas enesto}
 {SG. E iij.}
 [fol. 35v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 los enseña ho<m>bre. primerame<n>te e<n>los cor-
 tar: y en vna otra en vn saphir y e<n> otras
@@ -5609,7 +5609,7 @@ rio sobre todas las bestias y por ta<n>to fa-
 ze<n> su ydolo desta forma de ho<m>bre y buey}
 {SG. E iiij.}
 [fol. 36v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {=MIN.}
 E las serpientes y las otras cosas q<ue> el-
@@ -5717,7 +5717,7 @@ ta en vna floresta q<ue> a
 nombre combra. y no}
 {SG. E v.}
 [fol. 37v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 cresce en otra tierra alguna por todo el
 mundo q<ue> yo lo sepa sino alli. y aq<ue>sta flo-
@@ -6031,7 +6031,7 @@ aquesta tierra faze ta<m>bien muy grande
 calor. Y es costumbre de andar entre el-
 los ho<m>bres y mugeres desnudos. y qua<n>-do}
 [fol. 39v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 algun estranjero va alla vestido faze<n>
 ellos escarnio del. E esta gente dize<n> que
@@ -6189,7 +6189,7 @@ do tales palabras como fazia<n> ensu tier-
 ra . Delo q<u><<a>>l el se marauillo mucho por
 q<ua>nto el no podia pensar como esto pu-diesse}
 [fol. 40v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 esser: mas yo vos digo que el auia
 ta<n>to ydo: y a<n>dado por tierra y por mar
@@ -6362,7 +6362,7 @@ dulçe y otros arboles q<ue> faze<n> bue<n> vino.
 y ay ende otros arboles q<ue> trae<n> venino
 co<n>tra el qual no ay melezi<n>a sino vna so-la}
 [fol. 41v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 q<ue> es esta q<ue> tome hombre d<e> su mesmo
 estiercol: y lo destie<m>plen co<n> agua y la be-
@@ -6493,7 +6493,7 @@ muere. conel sotierra<n> la muger. porq<ue> di-
 ze<n> q<ue> es razo<n> q<ue> su muger le faga co<m>pañia}
 {SG. F ij.}
 [fol. 42v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 para enel otro mundo assi como el le ha
 fecho compañia eneste mundo &c.
@@ -6602,7 +6602,7 @@ os muy deuotame<n>te ante q<ue> el coma. E
 lieua assi mesmo al deredor de su cuello}
 {SG. F iij.}
 [fol. 43v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 vn rubi de oriente el qual es de muy gra<n>
 valor. q<ue> tiene çerca d<e> vn pie d<e> largo e ci<n>-
@@ -6728,7 +6728,7 @@ aquel cuerpo. E fazen venir todos los}
 {MIN.}
 [...]}
 [fol. 44v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {MIN.}
 [...]}
@@ -6815,7 +6815,7 @@ uas como si fuessen hombres. y no tienen cabe-
 llo enla cabeça.}
 {SG. F v.}
 [fol. 45v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {MIN=.} {IN2.} DE aq<u><<i>> fuy-
 mos a v-
@@ -6976,7 +6976,7 @@ llas bestias e animales d<e>la mo<n>taña tres
 o quatro mil & se ordena<n> como fazen los
 pobres e danles lo q<ue> les a sobrado en bu-enos}
 [fol. 46v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {=MIN=.}
 bacines d<e> plata e d<e> oro. & acabado
@@ -7101,7 +7101,7 @@ aquesta tierra es el mas rico e poderoso
 de todos los q<ue>stan debaxo del gran Ca<n>
 enesta tierra es tal costu<m>bre q<ue> quie<n> quie-re}
 [fol. 47v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 hazer fiesta a sus amigos. el se va a
 los mesones y dize al mesonero q<ue> le apa-
@@ -7266,7 +7266,7 @@ ingenio eçeden a todos los cristianos e
 otras qualesquier naciones. E no veen
 sino con vn ojo. y ellos deuen ser nom-brados}
 [fol. 48v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 e<n> escrituras: y en obraje. yo pa-
 se muy gra<n>de pena en saber esto: mas el
@@ -7455,7 +7455,7 @@ sa que el fizo & mando fue q<ue> creyessen y
 obedeciessen a dios immortal y todo po-deroso}
 {SG. G.}
 [fol. 49v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 el qual los queria sacar de subju-
 gacion & q<ue> cada dia llamasen su ayuda
@@ -7632,7 +7632,7 @@ no fue gra<n> Can de catay que es el mas
 poderoso pri<n>cipe q<ue> esta debaxo del cielo}
 {SG. G ij.}
 [fol. 50v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 y llamase en sus letras Ca<n> fijo de dios
 el mas exçele<n>te de todos los d<e>la tierra
@@ -7821,7 +7821,7 @@ tada. E assi aq<ue>ste gran Can tiene mu-
 chas y diuersas ge<n>tes para su seruicio.}
 {SG. G iij.}
 [fol. 51v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 como de suso vos he dicho. Porque el
 tiene Ministriles que cada dia tañen
@@ -8011,7 +8011,7 @@ es bie<n> labrado y lleno de piedras preci-
 osas: y perlas q<ue> vale<n> ta<n>to como vn rey-no}
 {SG. G iiij.}
 [fol. 52v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 delos n<uest>ros de aca y el se abaxa delan-
 te la cruz & al prelado dize delante d<e>l al-
@@ -8200,7 +8200,7 @@ fazen sus ydolos a ymagen de algun a-
 migo suyo. porque aya<n> memoria del. Y}
 {SG. G v.}
 [fol. 53v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 ellos faze<n> la ymage<n> luziente & le fazen
 d<e>la mesma madera vna vestidura: y por
@@ -8357,7 +8357,7 @@ sas jornadas & d<e>siertos. Y el tercero ca-
 mino va por la gran mar: y va para el
 reynado d<e> abcas. Y sabed q<ue> aqueste rey-no:}
 [fol. 54v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 y todas las tierras suso dichas obe-
 descen al gra<n> Can de catay co<n> muchas
@@ -8528,7 +8528,7 @@ natura. Avn que yo les dixe que yo no
 lo tenia a gran marauilla. porq<ue> ta<m>bien
 auia arboles en nuestra tierra. Es a sa-ber}
 [fol. 55v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 en inglatierra que las flores que ca-
 en enla tierra se tornan paxaros volan-
@@ -8670,7 +8670,7 @@ mar. E ay en a-
 quella Griffos
 mas q<ue> e<n> otra al-guna}
 [fol. 56v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 tierra. Algunos dizen q<ue> los gri-
 fos tienen el cuerpo como aguila dela<n>-
@@ -8827,7 +8827,7 @@ los quales llaman ellos Piscar y ay de
 tales que fablan de su mesma natura y}
 {SG. H.}
 [fol. 57v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 {=MIN=.}
 saludan alas ge<n>tes q<ue> passan porel cami-
@@ -8986,7 +8986,7 @@ como te<n>ia aquel que estaua alli enel ver-
 gel y que como dormiessen con ellas lue-go}
 {SG. H ij.}
 [fol. 58v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 se tornaria<n> virgenes: y q<ue> aun les me-
 teria en vn otro mas li<n>do p<ar>ayso. donde
@@ -9144,7 +9144,7 @@ pieles de bestias saluajes. E no tienen
 casas ni comen pa<n> sino carne. y pescado}
 {SG. H iij.}
 [fol. 59v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 crudo: y comen de mejor grado carne d<e>
 hombres que otra cosa alguna. E ni<n>gu-
@@ -9270,7 +9270,7 @@ los seria<n> capellanes: y las horas dixo el
 q<ue> dende adela<n>te no queria ser rey ni em-perador.}
 {SG. H iiij.}
 [fol. 60v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 Mas q<ue> queria ser preste y assi
 mesmo el q<ue>ria auer el no<m>bre de obispo q<ue>
@@ -9445,7 +9445,7 @@ vereys venir assi grandes hondas q<ue> ni<n>-
 guno no podria nauegar: y assi trae ta<n>}
 {SG. H v.}
 [fol. 61v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 gran ruydo q<ue> no se oyran vnos a otros
 por alto que fablassen: mochos gra<n>des
@@ -9603,7 +9603,7 @@ mugeres de aquesta tierra es tener chi-
 cos pies que no crescen la meytad delo
 q<ue> deurian crescer. E toda via est(o)[a]s don-zellas}
 [fol. 62v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB2.
 y mugeres cantan en quanto co-
 me el rey. y despues de vna via<n>da le tra-

@@ -4279,7 +4279,7 @@ rosissimas, primero blancas, de-
 spues verdes, y al cabo colora-das:}
 {CW. das}
 [fol. 90v]
-{HD. DELOS CLAVOS +}
+{HD. DELOS CLAVOS ⇒}
 {CB1.
 las quales endurecidas son
 los Garyphyllos q<ue> llamamos
@@ -4331,7 +4331,7 @@ el fruto caduco, acabo de ocho
 años remanecen crecidos, y du-ran}
 {CW. ran}
 [fol. 91v]
-{HD. DELOS CLAVOS +}
+{HD. DELOS CLAVOS ⇒}
 {CB1.
 hasta ciento. Coge<n>se los cla-
 uos desde [de] mediado Septiem-
@@ -4812,7 +4812,7 @@ cosas, se hazen colyrios contra
 las inflamaciones delos ojos. Es}
 {CW. muy}
 [fol. 101v]
-{HD. DEL ARBOL +}
+{HD. DEL ARBOL ⇒}
 {CB1.
 muy gustoso acerca de algunos,
 y da<n>le en lugar de xarabe aceto-
@@ -4856,7 +4856,7 @@ que se contaron de las Cara<n>das.
 de vna mata llamada Coru.}}
 {CW. El}
 [fol. 102v]
-{HD. DE VNA MATA +}
+{HD. DE VNA MATA ⇒}
 {CB1.
 {IN2.} EL Coru llamado assi en le<n>gua
 canarica, es vna cierta mata,
@@ -4906,7 +4906,7 @@ onças, con dos de agua rosada, o
 de llante<n>, o cabeçuelas de rosas.}
 {CW. Tam}
 [fol. 103v]
-{HD. DE VNA MATA +}
+{HD. DE VNA MATA ⇒}
 {CB1.
 Tambien echan melezinas della
 con grandissimo aprouechamie<n>-
@@ -4951,7 +4951,7 @@ halla vna rayz, llamada Cace-
 ras, que a manera de Chufas}
 {CW. se}
 [fol. 104v]
-{HD. DE LA RAYZ +}
+{HD. DE LA RAYZ ⇒}
 {CB1.
 se cria en las entrañas de la tier-
 ra: la qual co<n> la sequedad del tie<m>-
@@ -4999,7 +4999,7 @@ tos Venereos, tenie<n>do por cier-
 to que despiertan la virtud geni-tal.}
 {CW. tal}
 [fol. 105v]
-{HD. DE LA RAYZ +}
+{HD. DE LA RAYZ ⇒}
 {CB1.
 Vale tambien esta lecha be-
 bida, contra los ardores de la vri-
@@ -6153,7 +6153,7 @@ pues crece mucho. Sacan lo de
 dentro despues de madura la fru-ta}
 {CW. ta}
 [fol. 129v]
-{HD. DE LA FRUTA +}
+{HD. DE LA FRUTA ⇒}
 {CB1.
 y hazen dello tajadas gran-
 des, y echanlas en conserua pa-
@@ -7204,7 +7204,7 @@ cosas aromaticas. No anda na-
 dando esta hoja sobre el agua,}
 {CW. segun}
 [fol. 152v]
-{HD. DELA HOJA +}
+{HD. DELA HOJA ⇒}
 {CB1.
 segun que Dioscorides y Plinio {AD. [^2#Diosco-
 rides y
@@ -7477,7 +7477,7 @@ ju<n>co redo<n>do, a difere<n>cia d<e>l
 vulgar y de<l> cypero tria<n>gulado. Traese a}
 {CW. la}
 [fol. 158v]
-{HD. DEL IVNCO +}
+{HD. DEL IVNCO ⇒}
 {CB1.
 la india Oriental, para el vso de
 medicina, y carga<n> gran suma de
@@ -7524,7 +7524,7 @@ oloroso no se cultiua.
 del arbol Iangomas.}}
 {CW. Por}
 [fol. 159v]
-{HD. DEL ARBOL +}
+{HD. DEL ARBOL ⇒}
 {CB1.
 {IN2.} POR los campos y huertas de
 Baçayn, Chaul, y Batechala, q<ue>
@@ -8045,7 +8045,7 @@ rios en comprarla y venderla.
 Pues de mas de la costa q<ue> tiene,}
 {CW. puede}
 [fol. 170v]
-{HD. DELA FRVTA +}
+{HD. DELA FRVTA ⇒}
 {CB1.
 puede ofender a la salud, siendo
 mala.
@@ -8091,7 +8091,7 @@ assados y molidos, detienen las
 camaras, y que las pepitas mata<n>}
 {CW. las}
 [fol. 171v]
-{HD. DELAS MACIAS +}
+{HD. DELAS MACIAS ⇒}
 {CB1.
 las lombrizes del vie<n>tre: lo qual
 es conforme a razon, por ser a-
@@ -8137,7 +8137,7 @@ nos que el Erizo de la castaña, y
 se descubre otra corteza roxa,}
 {CW. mas}
 [fol. 172v]
-{HD. DELAS MACIAS +}
+{HD. DELAS MACIAS ⇒}
 {CB1.
 mas sutil a modo de tela, que ci-
 ñe toda la nuez con su cascara, y
@@ -8183,7 +8183,7 @@ jança con vellotas, pareciole
 trasladar myrobalanos, y fuera-le}
 {CW. le}
 [fol. 173v]
-{HD. DELOS +}
+{HD. DELOS ⇒}
 {CB1.
 mejor dezir prunas, pues les
 son tan semejantes. Llamanse a-
@@ -8231,7 +8231,7 @@ y sin alguna cultura. Los medicos
 ge<n>tiles vsan en medicina d<e> solos}
 {CW. los}
 [fol. 174v]
-{HD. DELOS +}
+{HD. DELOS ⇒}
 {CB1.
 los quatro generos de Myroba-
 lanos, porque gastan los Embli-
@@ -8277,7 +8277,7 @@ la India Oriental, vna planta
 que no se sie<m>bra mas de vna vez,}
 {CW. por}
 [fol. 175v]
-{HD. DE VN FRVTO +}
+{HD. DE VN FRVTO ⇒}
 {CB1.
 porque a la primera produze mu-
 chos tallos, que vienen despues
@@ -8325,7 +8325,7 @@ cos Indianos los mandan comer
 a sus pacientes, no solo en las}
 {CW. calentu}
 [fol. 176v]
-{HD. DE VN FRVTO +}
+{HD. DE VN FRVTO ⇒}
 {CB1.
 calenturas, pero tambien en las
 otras enfermedades, ayudando
@@ -8373,7 +8373,7 @@ lo Senes, trata<n>do desta pla<n>ta so-
 bre el capitulo de palma, cree ser}
 {CW. en}
 [fol. 177v]
-{HD. DE VN FRVTO +}
+{HD. DE VN FRVTO ⇒}
 {CB1.
 en Theophrasto, aquel genero
 de palma, que el dize nacer en
@@ -8550,7 +8550,7 @@ neos, o {LAT. Quid
 pro Quo.}}
 {CW. Discurso}
 [fol. 181v]
-{HD. DEL NARDO +}
+{HD. DEL NARDO ⇒}
 {CB1.
 {RUB. DISCVRSO PRIMERO.
 del Nardo Indico.}
@@ -8597,7 +8597,7 @@ con el tiempo.
 Criase el Nardo en las prouin-cias}
 {CW. cias}
 [fol. 182v]
-{HD. DEL NARDO +}
+{HD. DEL NARDO ⇒}
 {CB1.
 del reyno Dely y Decan,
 cerca del rio Ganges, a do se ma<n>-
@@ -8692,7 +8692,7 @@ co<n>tra dolores de neruios: si se vn-
 tan con el estando caliente.}
 {CW. Discurso}
 [fol. 184v]
-{HD. DE VN ARBUSTO +}
+{HD. DE VN ARBUSTO ⇒}
 {CB1.
 {RUB. DISCVRSO TERCERO
 de vn arbusto, llamado
@@ -8915,7 +8915,7 @@ muy delgados, y aguando el vi-
 no con ella. Assi ni mas ni me-nos}
 {CW. nos}
 [fol. 189v]
-{HD. DEL PALO +}
+{HD. DEL PALO ⇒}
 {CB1.
 de la India Oriental nos vie-
 ne cierto palo, contra todo ge-
@@ -8963,7 +8963,7 @@ te a las rayzes pequeñas de n<uest>ras
 vides, nudosa, maciça, e<n> el color}
 {CW. ceni}
 [fol. 190v]
-{HD. DEL PALO +}
+{HD. DEL PALO ⇒}
 {CB1.
 cenizienta, y amarga. Muelesse
 y dase en vino, o en alguna agua
@@ -9154,7 +9154,7 @@ es caliente y seca casi en el quar-
 to grado.}
 {CW. Discurso}
 [fol. 194v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 {RUB. DISCVRSO TERCERO
 de la piedra Bezaar.}
@@ -9200,7 +9200,7 @@ vellota madura, o al de la veren-
 gena, en cuyo estomago se cria,}
 {CW. al}
 [fol. 195v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 al derredor e vna delicadissi-
 ma paja, y se va siempre augmen-
@@ -9248,7 +9248,7 @@ y bramando. Otros afirman que
 los cieruos en la India, viendose}
 {CW. muy}
 [fol. 196v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 muy viejos comen culebras pa-
 ra remoçarse, y que por despe-
@@ -9296,7 +9296,7 @@ la piedra contra todo genero de
 veneno. Otros no solo la vsan en}
 {CW. mor}
 [fol. 197v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 mordeduras de animales ponço-
 ñosos, pero tambien para las en-
@@ -9344,7 +9344,7 @@ molie<n>dola, se exhala la virtud, y
 au<n> se quita lo q<ue> es menester al vso}
 {CW. En lo}
 [fol. 198v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 En lo que toca a la quantidad se
 dan tres, o seys, o doze granos,
@@ -9392,7 +9392,7 @@ veneno como las verdaderas.
 Que estas piedras se hayan te-nido}
 {CW. nido}
 [fol. 199v]
-{HD. DELA PIEDRA +}
+{HD. DELA PIEDRA ⇒}
 {CB1.
 siempre en mucho muestra-
 lo vn autor Arabe Español dizie<n>-

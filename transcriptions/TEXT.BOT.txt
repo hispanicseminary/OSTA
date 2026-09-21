@@ -99,7 +99,7 @@ ordenar la botica con todas las cosas enella necessarias. Y ansi
 dios mediante sera acabado el compendio delos boticarios.}
 {SG. a iij}
 [fol. 3v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 {RUB. ¶ Aqui comiença la primera par-
 te del libro.}
@@ -176,7 +176,7 @@ a qualquier boticario que son dos de simples ansi como el segun-do
 para su santo Seruicio [???]]}
 {SG. a iiij}
 [fol. 4v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 de Auicena y Serapion delos simples/ el tercero es el libro de
 las sinonimas de simon januense/ el quarto es el libro d<e>l seruidor
@@ -250,7 +250,7 @@ donde se pone el agua delas frutas y la manera dela infusion del
 suero/ y pone dellas treze especies.
 ¶ Enla octaua distincion trata delos trociscos/ y comiença ansi/}
 [fol. 5v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 la confecion de galia/ y pone treynta especies de trociscos.
 ¶ Enla nona distincion trata de suffuf. Conuiene a saber delos
@@ -324,7 +324,7 @@ ue obrar con muchas medicinas de donde assi lo entiende/ y lo po-
 co dellas conuiene a saber que las medicinas simples son mejo-
 res que lo mucho dellas/ conuiene(ne) a saber que la muchedum-bre}
 [fol. 6v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 dellas que son las medicinas compuestas/ porque la natura
 se goza con las cosas simples.
@@ -399,7 +399,7 @@ sobre la piedra de marmol limpia y en alguna manera se coaja.
 ¶ Sapa es vino [cocho] hasta que esta espesso/ y haze se de mosto reziente
 enel tiempo delas vendimias.}
 [fol. 7v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 ¶ Que cosa es rob o robub es çumo hecho espesso a manera de a-
 rope o de miel
@@ -473,7 +473,7 @@ segundo se puede hazer el azeyte rosado de azeyte d<e> oliuas madu-
 ras. Y el tal azeyte es mas anodino y mitigatiuo de dolor/ y no es
 tan frio como el primero.}
 [fol. 8v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 {RUB. ¶ Estas coplas o rimos se ponen aqui por
 que mejor se entienda lo sobre escrito que
@@ -548,7 +548,7 @@ ras es considerada segun sus tres tiempos/ porque o es infante
 o nouezilla y muy reziente/ y enesta manera hasta el sexto mes es}
 {SG. B}
 [fol. 9v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 fria y no caliente. La razon delo qual es tal/ porque no obstante q<ue>
 enla triaca entre<n> mas medicinas simples calientes q<ue> frias. Mas
@@ -623,7 +623,7 @@ tres medicinas simples entran en su composicion que son litargi-
 rio/ azeyte/ y vinagre/ y porende triafarmaco se dize.}
 {SG. b ij}
 [fol. 10v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 ¶ Que cosa es diamargariton y de donde se dize. Digo q<ue> es con-
 fecion cordial de dos generos de margaritas foradadas y no fora-
@@ -698,7 +698,7 @@ fran/ el qual a cerca delos griegos se dize crocon que entra enella
 buena qua<n>tidad/ y porque el vocablo es corruto dize se diacurcu-ma/}
 {SG. b iij}
 [fol. 11v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 o en otra manera digo que porende se dize diacurcuma. porq<ue>
 aquella confecion es citrina a semejança de curcuma que es rayz
@@ -772,7 +772,7 @@ canela/ flores/ simientes/ hojas/ ditamo/ tormentila/ aris(c)[t]ologia.
 te complexion y sustancia/ porende no sean todas juntamente de}
 {SG. b iiij}
 [fol. 12v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 poluerizar/ mas cada vna por si. Algunas delas dichas son de ra-
 ra o blanda sustancia assi como macis y cinamomo/ y algunas son
@@ -846,7 +846,7 @@ ces para hazer la opilacion son ligeras.
 migas al pulmon y pecho si poco a poco se lamban y no presto se
 traguen ansi como la miel sapa/ açucar/ datiles/ passas/ higos/}
 [fol. 13v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 junjubas/ caña de miel/ penidias/ dragaganto/ diairis/ y todas
 las especies d<e> lohoc/ porq<ue> las cosas dulces son lenitiuas y molifi-
@@ -920,7 +920,7 @@ miel tabarzet es miel blanca que cae del cielo a manera de rocio/
 mas es mas blanca y en alguna manera mas densa que la miel de
 abejas y quasi va a natura de açucar.}
 [fol. 14v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 ¶ Como se entiende aq<ue>llo que pone el messue enla descricion del
 xaraue del acetosidad d<e>la cidra en fin d<e>la receta/ como dixo: toma
@@ -1063,7 +1063,7 @@ contra asma.
 que es francia fue hallada.
 ¶ Confecio<n>nere/ conuiene a saber de preciosa medicina.}
 [fol. 16v]
-{HD. Primera +}
+{HD. Primera ⇒}
 {CB1.
 ¶ Diamargariton se dize de dia que es confecion y de dos gene-
 ros de margaritas foradadas y no foradadas/ porque en su com-
@@ -1138,7 +1138,7 @@ ra los otros hombres delicados.
 ¶ Lito<n>tripon que quebranta la piedra se interpreta.}
 {SG. c}
 [fol. 17v]
-{HD. Segunda +}
+{HD. Segunda ⇒}
 {CB1.
 ¶ Leticia es dicha porque quitando la tristeza la claridad y gozo
 trae.
@@ -1212,7 +1212,7 @@ el tiempo de Elias propheta.
 ¶ Sirupo se dize de[ ]sir que es co<n>fecion y opo çumo dende sirupo}
 {SG. c ij}
 [fol. 18v]
-{HD. Segunda +}
+{HD. Segunda ⇒}
 {CB1.
 o xaraue que es liquida confecion.
 ¶ Estomaticon conuiene a saber confortatiuo del estomago/ y di-
@@ -1285,7 +1285,7 @@ se hallan/ y en algunos se hallan menos/ basta q<ue> aqui esta<n> las mas
 famosas y prouechosas confeciones.}
 {SG. c iij}
 [fol. 19v]
-{HD. Tercera +}
+{HD. Tercera ⇒}
 {CB1.
 {RUB. La tercera parte delos pesos y medidas
 y delos nombres y diferencias dellos.}
@@ -1356,7 +1356,7 @@ y boticarios p<ar>a fazer los pesos tiene<n> d<e> escoger los medianos y de
 aq<ue>llos hazer los pesos de plomo o estaño o de otro metal.}
 {SG. iiij}
 [fol. 20v]
-{HD. Tercera +}
+{HD. Tercera ⇒}
 {CB1.
 ¶ S[*i se] demandasse que es escropulo y qua<n>tos escropulos hazen
 vna drama. Digo que al proposito boluiendo q<ue> el escrupulo es la
@@ -1430,7 +1430,7 @@ Mas yo no lo creo/ porque en otra manera lo halle.
 ¶ Que es decamech. Es peso de vna drama.
 ¶ Que es darchiminu<m>. Es peso de media drama.}
 [fol. 21v]
-{HD. Tercera +}
+{HD. Tercera ⇒}
 {CB1.
 ¶ Que es bactach. Es peso de nueue granos.
 ¶ Siliqua es peso de quatro granos de çeuada.
@@ -1499,7 +1499,7 @@ el estomago del hombre sano.
 ¶ Nota q<ue> ay algu<n>as co<n>feciones de açucar enlas q<u><<a>>les se [*ponen tres]
 onças despecias ansi como enel dia fenicon y diasatirion.}
 [fol. 22v]
-{HD. Quarta +}
+{HD. Quarta ⇒}
 {CB1.
 ¶ Demandase delos xaraues quanto miel o açucar se pone por la
 libra de agua o decocion. Digo que enla composicion delos xara-
@@ -1573,7 +1573,7 @@ y edad y virtud/ porque algunas vezes ponemos vna onça y algu-
 nas media. & c<etera>. Y esto todo entiende segun mas y menos/ y segun
 la edad y complexion. Porque enlos varones y mugeres de fuer-te}
 [fol. 23v]
-{HD. Quinta +}
+{HD. Quinta ⇒}
 {CB1.
 complexion la dicha qunatidad de decocion sal y azeyte es con-
 ueniente y buena quantidad/ mas enlos mochachos y debiles y
@@ -1645,7 +1645,7 @@ les son obligados a tener noticia y conoscimiento dela astralogia
 en otra manera mal curaran los enfermos. Conuiene que sean
 cogidas en tiempo sereno y claro/ no ventoso/ y conuiene que no}
 [fol. 24v]
-{HD. Quinta +}
+{HD. Quinta ⇒}
 {CB1.
 sean cogidas/ saluo enel fin de su bondad y maturidad y en su tie<m>-
 po/ no qua<n>do son viejas y consumidas por alguna su enfermedad
@@ -1720,7 +1720,7 @@ no y segun arte. Por lo qual nota que en dos maneras se puede
 hazer el azeyte rosado/ primeramente delas rosas no completas/}
 {SG. d}
 [fol. 25v]
-{HD. Quinta +}
+{HD. Quinta ⇒}
 {CB1.
 y del azeyte onfancino/ y el tal azeyte es mas estitico y confortati-
 uo y frio. Lo segundo se puede hazer el azeyte rosado d<e>l azeyte de
@@ -1794,7 +1794,7 @@ te y las rayzes de alcaparras y de ambos los eleboros/ conuiene
 a saber del blanco y del negro. Coge las rayzes del heruatu<n> coge}
 {SG. d ij}
 [fol. 26v]
-{HD. Quinta +}
+{HD. Quinta ⇒}
 {CB1.
 la escolopendria y doradilla/ y del culantro de pozo. Coge ta<m>bien
 las flores y simiente de hinojo y seca las/ porq<ue> entonces esta per-
@@ -1865,7 +1865,7 @@ que la alteran se resuelua/ mayormente si luengo tiempo se tenga/
 porque segun el philosopho el tiempo es causa dela corrucion de}
 {SG. d iij}
 [fol. 27v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 todas las cosas/ porque todas las cosas se enuejecen en tiempo/
 y porque las flores delas yeruas son de mas rara y subtil sustan-
@@ -1938,7 +1938,7 @@ ra daña el estomago y mueue enel vientre torsiones y haze dolor
 de tripas.}
 {SG. d iiij}
 [fol. 28v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 {RUB. ¶ Delos tamarindios.}
 ¶ Digo que los tamarindios son datiles azedos y son delos fru-
@@ -2011,7 +2011,7 @@ pocion de cinco dramas hasta siete/ y su poluo de dos dramas ha-
 sta tres.
 {RUB. ¶ Del esticados o cantueso.}}
 [fol. 29v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 ¶ Digo que el mas prouechoso y mejor es el esticados o cantue-
 so de arauia y mejores son las flores. Caliente es enel primer gra-
@@ -2085,7 +2085,7 @@ ces son quasi templadas entre calor y frialdad/ y mas declinan
 a frialdad y son humidas enel segundo/ mas las muzas son frias
 en principio del segundo. Todas enfrian y dañan al estomago/}
 [fol. 30v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 son de poco mantenimiento. Conseruanse por vn año. La pocion
 del agua conuiene a saber de su decocion es quasi vna libra con
@@ -2158,7 +2158,7 @@ delos solutiuos/ y es solutiuo antonomasice/ co<n>uiene a saber por
 excelencia y mas general sobre todos los solutiuos/ hazese del çu-
 mo d<e>la mesma volubile. Sus hojas son a manera de saeta alada/}
 [fol. 31v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 Nasce en antiocha y en armenia & coracenia/ y enlas partes de a-
 rabia y turquia. Mas la antiochena es mejor que las otras. De
@@ -2229,7 +2229,7 @@ piedades q<ue> lo primero sea gruessa. Lo segundo que se liuiana.
 Lo tercero que sea bien madura. Lo quarto que tenga pulpa ra-
 ra y liuiana. Lo quinto que sea muy blanca. Lo sexto que quan-do}
 [fol. 32v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 su planta tiene vna sola coloquintida echese y en ninguna ma-
 nera se coja/ y es de caliente y seca complexion enel tercero grado
@@ -2304,7 +2304,7 @@ dossi es de vn aureo hasta dos.
 se dize dela qual son dos especies/ delas quales la vna haze la flor}
 {SG. e}
 [fol. 33v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 purp(e)[u]rea que tiene grado de diuersidad enlo purpureo/ ansi co-
 mo lo tiene el arco del mu[n]do/ el qual arco se dize iride/ y ala seme-
@@ -2377,7 +2377,7 @@ es caliente enel principio del tercero/ y seco enel segundo. Y el pe-
 queño no se administra saluo enlos emplastos y enlas fricacio<n>es.}
 {SG. e ij}
 [fol. 34v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 Y el su azeyte enlas vnciones euacua por vomito y por el vientre
 la flema cruda gruessa/ y haze nausea y su( )version/ y assase/ y ansi
@@ -2452,7 +2452,7 @@ rebro y coraço<n> & higado/ y baço/ y miembros delos sentidos y pul-
 mon/ & abre las opilaciones delas entrañas. Y conserua al que lo}
 {SG. e iij}
 [fol. 35v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 vsa enla juuentud & engendra plazer/ porque quita la causa dela
 tristeza/ fortifica el oyr y es buena medicina delas fiebres melan-
@@ -2525,7 +2525,7 @@ del arbol delos lugares desiertos. Y aquel es mejor que es li-
 uiano & frangible que tiene el color de paja claro y que es muy}
 {SG. e iiij}
 [fol. 36v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 agro y de olor muy agudo y que ya passe de vn año/ porq<ue> el rezien-
 te de v(u)[n] año es ansi como veneno y como fuego/ y es d<e>las gomas
@@ -2599,7 +2599,7 @@ diuia/ & de cicoria quitan la inflamacion que queda del enel cuer-
 po. Euacua el agua cetrina mucho co<n> fortaleza. El mezereon jun-
 to con las cosas que euacuan mela<n>colia euacua mela<n>colia. & con}
 [fol. 37v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 las cosas que euacuan flema euacua flema. El su dossi es de me-
 dia drama hasta vna y esto enlas decociones. De su poluo de dos
@@ -2672,7 +2672,7 @@ nas. Euacua flema subtil y la gruessa mundifica/ y conforta las
 renes. Prouoca la vrina/ excita el coyto y aprouecha al pecho y
 pulmon/ y es contra el asma y tos/ por abundancia de humor}
 [fol. 38v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 viscoso y propiamente si sea hecho lohoc de su çumo con miel &
 rob. El su dossis es de tres dramas hasta cinco. Conseruase su
@@ -2746,7 +2746,7 @@ tercero y secan enel segundo/ y parece que la lue<n>ga sea mas calie<n>-
 te avn que sea mas terrestre que la redonda/ y la vna y la otra es a-
 peritiua d<e>las opilaciones y resolutiua atratiua que atrae las espi-nas/}
 [fol. 39v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 y las fraturas d<e>los m(e)[a]deros fixas enla carne. Daña alas en-
 trañas en euacuando y retificase ansi como el luf de decocion y tri-
@@ -2817,7 +2817,7 @@ y mordicacion. Y es su mordicacion que asperea subtilmente/ y
 es de mayor y mas fuerte amargor que no el negro. Mas en
 todas las otras cosas tiene las propriedades del negro.}
 [fol. 40v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 Mas el blanco mas de antiquidad que el negro padesce. El ne-
 gro es calie<n>te y seco enel tercero/ y es sutiliatiuo y astersiuo/ corro-
@@ -2892,7 +2892,7 @@ chas delos simples solutiuos de messue basten.
 dos los çumos.}}
 {SG. f}
 [fol. 41v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 ¶ Digo que todos los çumos q<ue> quisieres conseruar se conseruan
 ponie<n>do vn poco de azeyte de oliuas escogido sobre la extremidad
@@ -2968,7 +2968,7 @@ tra coloquintida/ y en otras turbit/ y en otras escamonea/ y otras
 debaxo de otros nombres. Y comiença delas geras & primera-mente}
 {SG. f ij}
 [fol. 42v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 dela gerapigra y son veynte y quatro solutiuos. De donde
 digo que se conserua<n> del primero año hasta dos. Avn q<ue> todas las
@@ -3043,7 +3043,7 @@ y cerotos/ y comie<n>ça d<e>l ceroto de ysopo/ y pone sesenta y dos espe-
 cies todas contadas. Conseruanse comu<n>mente hasta vn año.}
 {SG. f iij}
 [fol. 43v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 ¶ Enla duodecima distincion trata delos azeytes. Enla qual di-
 stincion pone sesenta y seys especies de azeytes. De donde si se de-
@@ -3118,7 +3118,7 @@ conseruacion delas medicinas compuestas segun la semita de se-
 rapion a donde arriba lo dicho baste.}
 {SG. f iiij}
 [fol. 44v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 {RUB. Siguese otra dotrina segun nicolao.}
 {IN6. {MIN.}} DE aqui adela<n>te entiendo poner
@@ -3190,7 +3190,7 @@ Yeralogodion se conserua por dos años.
 Yera pigra por dos años.
 Yera rufini por vn año.}
 [fol. 45v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB1.
 La yera del abad segun nicolao por dos años.
 ¶ Nota que siempre y tambien encima lo dixe que qualquier sa-
@@ -3252,7 +3252,7 @@ vientos/ y del sol/ y delas aguas defendida. E no sea humida ni
 humosa/ ni poluorosa/ porque todas las cosas dichas corrompen
 ansi los simples como los compuestos.}
 [fol. 46v]
-{HD. Setima +}
+{HD. Setima ⇒}
 {CB2.
 {RUB. ¶ Delas simie<n>tes.}
 {RUB. ¶ Comencemos delas simie<n>-
@@ -3393,7 +3393,7 @@ mestranto.
 serpilum.
 majorana.}
 [fol. 47v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB2.
 saluia.
 romero.
@@ -3536,7 +3536,7 @@ acacia
 azibar.
 laudano.}
 [fol. 48v]
-{HD. Sexta +}
+{HD. Sexta ⇒}
 {CB2.
 Scamonea que segu<n> algunos
 es çumo dela bolubile mayor/
@@ -3681,7 +3681,7 @@ castor.
 [^2#Litargirio [??]]}
 {SG. g}
 [fol. 49v]
-{HD. Setima +}
+{HD. Setima ⇒}
 {CB2.
 oro.
 plata.
@@ -3821,7 +3821,7 @@ secacul condito
 açucar rosado.}
 {SG. g ij}
 [fol. 50v]
-{HD. Setima +}
+{HD. Setima ⇒}
 {CB2.
 açucar vi(a)[o]l(o)[a]do
 açucar de borrajas.
@@ -3962,7 +3962,7 @@ Las pildoras alefanginas.
 pildoras agregatiuas.}
 {SG. g iij}
 [fol. 51v]
-{HD. Setima +}
+{HD. Setima ⇒}
 {CB2.
 [de] inuencion nuestra.
 pildoras de eupatorio
@@ -4105,7 +4105,7 @@ azeyte de pimientas
 azeyte deuforbio.}
 {SG. g iiij}
 [fol. 52v]
-{HD. Setima +}
+{HD. Setima ⇒}
 {CB2.
 azeyte vulpino.
 azeyte descorpiones.

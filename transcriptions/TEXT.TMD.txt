@@ -1360,7 +1360,7 @@ de cevada, hecho gargarismo, cura las Agallas hin-
 chadas. Y sal con miel, y vinagre, y azeyte, y aplica-da,}
 {CW. da}
 [fol. 15v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 hazer gargarismo: o gargarismo de alu<m>bre, y agua,
 aprovecha para apostema, y para agallas, y flemones:
@@ -1425,7 +1425,7 @@ vesa, y vntar la boca del estomago: o lavar el estoma-
 go con orines calientes, en que ayan echado vn poco}
 {CW. leva}
 [fol. 16v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 levadura, y poner sobre el estomago vn paño empa-
 pado en los orines: o poner en el estomago vnto sin
@@ -1489,7 +1489,7 @@ rosada, y polvorearlas con myrra; o vna verengena zo-
 cata, sacado lo de dentro, y llena de xabon de Casti-lla,}
 {CW. lla}
 [fol. 17v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 cerrarla, y ponerla a fuego manso, y se hara vn-
 guento, con que se vnte la parte: o hinchir la verenge-
@@ -1552,7 +1552,7 @@ tercio, y beberlo en todo tiempo: o beber el agua de
 zarza: o cominos comidos, o bebidos con agua, o co<n>}
 {CW. vi}
 [fol. 18v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 vinagre, aprovecha al corrupto aliento. La rayz del
 Lyrio Cardeno, mascada en ayunas, encubre el mal
@@ -1617,7 +1617,7 @@ sos, majada, y mezclada con salmuera. Y la mostaza
 salvaje, su semilla, bebida con agua, o caldo de ave,}
 {CW. me}
 [fol. 19v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 mejor, purga toda la colera adusta, negra, y mala, por
 arriba, y por abaxo, y evacua los humores, co<n> lo qual
@@ -1682,7 +1682,7 @@ do, quita los zumbidos, y abre los poros de los oydos.
 Y tomando vna cucharada con vino blanco, cura la}
 {CW. icteri}
 [fol. 20v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 ictericia, y el catarro, y restaña todo genero de sa<n>gre:
 y aplicado con Salvia, o con miel, o con trementina
@@ -1747,7 +1747,7 @@ nello en el baço, nueve mañanas: o comer, en ayunas,
 azucar rosado, polvoreado con coral preparado: o}
 {CW. be}
 [fol. 21v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 beber agua azerada: o vinagre caliente, y empapar en
 el vna poca de lana azul, y esprimiendole el vinagre,
@@ -1813,7 +1813,7 @@ con agua llanten, y con ello lavarlas, y otro dia darle
 vn papirote, y saltaran. Passas ajadas, quitan los cla-vos:}
 {CW. vos}
 [fol. 22v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 o çumo de verdolagas, con ceniça de cortezas de
 sauce, y vinagre. Estiercol de Ovejas, quita clavos:
@@ -1879,7 +1879,7 @@ la via: Sabila muy majada, con leche, y colada, beber-
 la: o empapar vn pan, como sale del horno, en leche,}
 {CW. y co}
 [fol. 23v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y comer del, de ai a tres horas.
 {RUB. Biboras, mordeduras, o picaduras.}
@@ -1943,7 +1943,7 @@ vaho, y echara el bocado, o veneno.
 Es excelente el Dictamo bebido, en polvos, para con-tra}
 {CW. tra}
 [fol. 24v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 bocado, veneno, o culebra: o beber la contra-
 yerba: o humo a narizes, de suelas de çapatos viejos,
@@ -2008,7 +2008,7 @@ lla, y dado a beber en cucharadas, las sana: o el Cardo
 santo, es excelente, y para la digestion, tambien, y}
 {CW. mas}
 [fol. 25v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 mas sobre noche ayuda. Nota. Aviendo procedido las
 evacuaciones necessarias, son excelentes los remedios que trae
@@ -2071,7 +2071,7 @@ das con miel rosada: o sahumar con açufre ≺si el do-
 lor fuere frio≻ y si fuere de calor, vn huevo fresco,}
 {CW. la}
 [fol. 26v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 la clara batida con agua rosada, y vn poco de açafra<n>,
 y en vna venda, aplicar a frente, y sienes.
@@ -2135,7 +2135,7 @@ tado, con media dozena de granos de mayz, y vn ca-
 cao, todo junto, y deshecho en agua, lo beba: o el}
 {CW. çumo}
 [fol. 27v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 çumo de siempre viva: o purgar con Diacathalicon.
 El çumo de Granadas agras, es excelente para gran-
@@ -2201,7 +2201,7 @@ sidades, y la tiricia, y todas las enfermedades del hi-
 gado, y tiene virtud, y fuerça de ablandar, y resolver,}
 {CW. de}
 [fol. 28v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 de abrir, y relaxar. Y mezclada con azeite, sobre
 qualquier dolor, lo quita: y el polvo de su flor, moli-
@@ -2267,7 +2267,7 @@ vn Morcielago, y tostado muy bien en vn horno, o co-
 mal, y molido tomar vnos polvos con vino.}
 {CW. Otro}
 [fol. 29v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Otro. Tomar las cascaras del coco, que estan mas çer-
 ca del coco, y tostarlas, y darlas a beber con vino, y a
@@ -2333,7 +2333,7 @@ de Drago, de cada cosa, media onza, molido, cerni-
 do, y emcorporado, y hecharlo en la llaga: o polvos}
 {CW. de}
 [fol. 30v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 de Cangrejo, quemado, y otro tanto alumbre que-
 mado, labar primero con vino tibio. Y para inchir, el
@@ -2398,7 +2398,7 @@ echado en el Carbunco, y puesto el Barrugo del pi-
 ziete encima, lo sana, y haze costra, en especial, si es}
 {CW. ver}
 [fol. 31v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 vermejo: o el çumo de Cardo Santo, bebido, y el Ba-
 rrugo puesto encima: o Consuelda mayor, majada
@@ -2462,7 +2462,7 @@ lo sobre la carne superflua, o crecida, y sanara.
 Ojas, o cortezas de sauce, cozidas, y lavarse con ello:}
 {CW. o oli}
 [fol. 32v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 o olivo verde, quemar vn pedazo, y con la espuma
 lavar la cabeça: o cozimiento de ojas, y rayzes de A-
@@ -2528,7 +2528,7 @@ la vista; y cessaran las Cataratas. Adviertase, que no
 se ponga cosas frias sobre los ojos, y guardese mucho}
 {CW. del}
 [fol. 33v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 del frio, y sereno de la noche, y de la mañana, porque
 en esta tierra el frio, y sereno engendran reumas, y
@@ -2592,7 +2592,7 @@ cada cosa, vna dragma, hecho emplasto, ponerlo: o
 vna vizma de Balsamo, y azeite de liquidambar, y de}
 {CW. Abe}
 [fol. 34v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Abeto, y de Tecomahaca, con tercia parte de cera,
 hecha vilma, y ponersela: o dar en la Ceatica vn va-
@@ -2657,7 +2657,7 @@ las sana luego.
 Es passio<n> del intestino Colon, co<n> dificultad de obrar:}
 {CW. ojas}
 [fol. 35v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 ojas de sauce, majadas, y bebido el zumo con vino: o vn
 poco de Pimienta, co<n> azeite, en que aya hervido Ru-
@@ -2724,7 +2724,7 @@ vnico remedio para los compañones apostemados, y
 puesto abaxo: y reprime la purgacion de las mugeres;}
 {CW. y me}
 [fol. 36v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y metido en las narizes, ataja la mucha sangre dellas.
 Y adviertase, que han de ser amassados co<n> vinagre. La
@@ -2791,7 +2791,7 @@ viere necessidad, tome vna onça, y con buen vino, en
 que ayan echado vn poco de azafran, y beberlo.}
 {CW. Co}
 [fol. 37v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Corrupcion de carne.}
 Uerdolagas, aplicadas con polenta ≺que es harina de
@@ -2853,7 +2853,7 @@ dientes, aunque mas se anden, y para quitar la toba
 dellos, y pone la dentadura muy blanca. Y advierta-se,}
 {CW. se}
 [fol. 38v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 que se ha de echar en remojo, y estando muy bien
 remojada, refregar con ella la dentadura: y el polvo
@@ -2919,7 +2919,7 @@ co, bebido con vino: o agua de llanten: o huevos co-
 zidos en vinagre, hasta que se pongan duros, y comer-los:}
 {CW. los}
 [fol. 39v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 cera bebida en vino: o tostar dos dozenas de
 Cacaos, y molerlos, y bebidos en atole: o echarle vna
@@ -2984,7 +2984,7 @@ de veleño, y fajarle: que beba cozimiento de Cardo
 santo, caliente: o cozer en agua, vn pedazo de Copatl}
 {CW. blan}
 [fol. 40v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 blanco, hasta que este blando, y hazer del vna torta,
 y ponerla en el dolor. Ditamo bebido en agua, apro-
@@ -3050,7 +3050,7 @@ nas, y sea quatro, o cinco mañanas, y hara purgar.
 Para ñudos de junturas madurarlas; y abrirlas, lo}
 {CW. haze}
 [fol. 41v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 haze queso añejo, y mordaz, mezclado con caldo de
 Puerco, salado, y rancio, cozido, hasta que se desha-
@@ -3117,7 +3117,7 @@ ta el dolor: y cozidas con las rayzes, y manteca de Va-
 cas, sin sal, y puestas en las almorranas, quita el dolor,}
 {CW. y las}
 [fol. 42v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y las cura: y las ojas majadas entre las piedras, y pues-
 tas en las clavaduras de los cavallos, luego las sana.
@@ -3182,7 +3182,7 @@ mado, las conforta: o sal quemada, y aplicada con po-
 lenta, es para enzias relaxadas: o alumbre, si estan po-dridas:}
 {CW. dridas}
 [fol. 43v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 o media onça de alumbre, u vna de miel de
 Maguey, o rosada, y con ella vntarlas.
@@ -3247,7 +3247,7 @@ y ponerle de su misma sangre, como va salie<n>do o vn-
 tar con manteca de Vacas; fresca: o vngento rosado: o}
 {CW. con}
 [fol. 44v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 con pulpa de cañafistola: o ojas de Dragantea, pues-
 tas, que sean grandes: o agua de sabila, sacada por Al-
@@ -3311,7 +3311,7 @@ vista, y puestas como emplasto, son buenas para qual-
 quier fuego.}
 {CW. Tam}
 [fol. 45v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Tambien son buenas las verdolagas, majadas, y su
 zumo, quita el dolor de estomago: y fregadas entre
@@ -3377,7 +3377,7 @@ o mayz, clavos, y nuez moscada, y almaziga, y yer-
 ba buena.}
 {CW. Frial}
 [fol. 46v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Frialdades de estomago.}
 Anis comido: o canela: o oregano, anis, y cominos,
@@ -3439,7 +3439,7 @@ alquitara, lavar con ella, y no dexar de tomar, por la
 boca, el lamedor, o xarave de agrio de limones.}
 {CW. Las}
 [fol. 47v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Las Azelgas cozidas, y puestas como emplasto, sobre
 qualquiera fuego ≺aunque sea de San Anton≻ lo sa-
@@ -3505,7 +3505,7 @@ elda, y deshaze las Almorranas, y quita inflamaciones.
 Que viene entre sueños. Pepitas de Melon, majadas}
 {CW. con}
 [fol. 48v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 con vn poco de agua exprimido como almendrada,
 y beberlo, tibio, con azucar, antes que se levante: o
@@ -3569,7 +3569,7 @@ ma lana suzia: o sabila assada, y abierta: o sebo de ma-
 cho, amassado con polvos de cominos, y puesto.}
 {CW. Para}
 [fol. 49v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Para resfriado. Cozimiento de Mançanilla, ruda,
 y Eneldo, Estafiate, Hinojo, y arbol de Piru, Aluze-
@@ -3632,7 +3632,7 @@ llanten: o cozimiento de rayzes de la Aristolachia re-
 donda, bebido: o beber el cozimiento de Azahar: o}
 {CW. rece}
 [fol. 50v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 recebir sahumerio de Ambar: o de la piedra, que tie-
 ne el Toro en la hiel, molida, y bebida: o empeines
@@ -3697,7 +3697,7 @@ Las ojas de cohombrillo, cozidas con vinagre, y pues-
 tas en la parte donde aflige la gota; quita al punto el}
 {CW. do}
 [fol. 51v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 dolor. Y destilado el zumo de estas ojas en los oidos,
 que duelen, los sana: y su rayz, majada, y puesta, en
@@ -3763,7 +3763,7 @@ ojas, vnas agallas, como vexigas, y en ellas ay vn licor,
 el qual sacado, tanto como medio huevo, echar la}
 {CW. quar}
 [fol. 52v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 quarta parte de vna cucharada de miel virgen, con vn
 grano pequeño de Alcanfor, deshecho, y puesto al
@@ -3827,7 +3827,7 @@ polvo de la contrayerba: o Romero majado, y pues-
 to, aviendola lauado con vino.}
 {CW. He}
 [fol. 53v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Heridas de todo genero.}
 Para hazer el vnico azeite, que llama Triaforma: hase
@@ -3891,7 +3891,7 @@ de huviere hinchazo<n>: y si esta derramada por el cuer-
 po, comer anis ≺y bebido quita la sed≻ o oregano, co-mido}
 {CW. mido}
 [fol. 54v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 con higos: o cohollos de sauco, tiernos, comi-
 dos, crudos, o cozidos, purgan hidropesia: o cozi-
@@ -3956,7 +3956,7 @@ madas, y faxarle.
 Berbena, puesta como emplasto: o azeite de manza-nilla,}
 {CW. nilla}
 [fol. 55v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 aplicado, con ojas de col, majadas, y puestas: o
 mastuerzo con vinagre, y harina, todo majado, y pues-
@@ -4021,7 +4021,7 @@ mara, y purga por ella, y por la orina, todos los malos
 humores del estomago.}
 {CW. Hu}
 [fol. 56v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Humores que baxan al pecho.}
 Orion, q<ue> le ay en las boticas su semilla, majada, y he-
@@ -4087,7 +4087,7 @@ y tras ella vn poco de vino, tres mañanas: o azufre, es-
 polvoreado en la frente: o bebido vn poco en vn hue-vo:}
 {CW. vo}
 [fol. 57v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 o ceniça de lombrizes, bebida en agua de Tarai,
 o doradilla: o zumo de ojas de rabano, bebido, vna
@@ -4151,7 +4151,7 @@ molida, y los abrira; y despues curallos con zumo de
 Golondrina: o tres granos de alumbre, como garvan-zo,}
 {CW. zo}
 [fol. 58v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y cinco cohollos de yerbamora, y majarlo todo,
 y poner tres dias arreo en los oidos, en la menguante,
@@ -4217,7 +4217,7 @@ chazon. El Azabache, molido, y echado en llagas, o
 puesto, como emplasto, limpia, y resuelve las llagas.}
 {CW. Y su}
 [fol. 59v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Y su sahumerio descubre la gota coral, y haze huir las
 serpientes, y resucita los miembros amortecidos por
@@ -4283,7 +4283,7 @@ y vntando los miembros con su azeite, les da vigor,
 y haze tratables.}
 {CW. Len}
 [fol. 60v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Lengua.}
 La yerba buena, fregandose con ella la lengua, quita
@@ -4347,7 +4347,7 @@ o beber azeite, en que aya herbido Ruda: o simiente
 de culantro, bebida con vinagre: o simiente de col}
 {CW. de}
 [fol. 61v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 de la misma manera: o simiente de Mastuerzo: o be-
 ber zumo de ajenjos: o comer verdolagas, bien cozi-
@@ -4412,7 +4412,7 @@ Madre que ahoga. Es vnico remedio el estiercol
 de cavallo, o yegua, desleido con vna poca de agua.}
 {CW. Y ad}
 [fol. 62v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Y adviertase, que ha de ser fresco, y exprimido, y
 echado en vn poco de vino, y luego vn terron de azu-
@@ -4477,7 +4477,7 @@ nos Indos: o cozimiento de Escorzonera: o su polvo,
 o su licor, por Alquitara. Los compuestos que la pur-gan}
 {CW. gan}
 [fol. 63v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 son: Diacatalicon, se puede tomar desde vna
 dragma, hasta nueve: y infusion de Ameque, desde
@@ -4543,7 +4543,7 @@ bien el Anis bebido, es bueno para el menstruo, y su
 cozimiento, y sahumerio: y tiene virtud el anis, vsado,}
 {CW. como}
 [fol. 64v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 como se ha dicho, de secar, y resolver: y comido a me-
 nudo, y bebido el cozimiento, facilita el resuello, q<ue>
@@ -4607,7 +4607,7 @@ zumo de limon, o Cidra, y fregar con ello la parte:
 Cominos, bebidos en vino, o aplicados: o cozimiento}
 {CW. de}
 [fol. 65v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 de Cardo santo, bebido: o el de mançanilla, bebida,
 o aplicada: o simiente de col, molida, y bebida en vi-
@@ -4671,7 +4671,7 @@ Vntada la persona con ajenjos, deshechos con azei-
 te, no le dañaran mosquitos: y la yerba Pulicaria en}
 {CW. en}
 [fol. 66v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 en sahumerio, los auhienta:: o nuezes de Cypres, o sus
 cohollos: y con el olor de los Mastranços: y dizen, q<ue>
@@ -4736,7 +4736,7 @@ se, y parecer hermosas, es muy excelente; porque co-
 me el paño, y manchas, y adelgaça, y purifica el ros-tro,}
 {CW. tro}
 [fol. 67v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y la tez la aclara, y la haze muy lustrosa: y al cabo
 de tres dias, tomar vn poco de azucar Cande en la bo-
@@ -4802,7 +4802,7 @@ Nota. Si la criatura mama, no se le de el zumo de el
 limon. Salzedo.}
 {CW. Nu}
 [fol. 68v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Nubes.}
 De mas de lo dicho en la letra C. donde se traen re-
@@ -4868,7 +4868,7 @@ con cañuto dentro de las narizes: o en vn quartillo de
 buen vino, echar vn puño de trigo, y puesto a serenar,}
 {CW. de}
 [fol. 69v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 en vaso de vidro, a la mañana, colarlo, y echarle peso
 de tres tomines de Atutia preparado, y vsarlo: o vn
@@ -4934,7 +4934,7 @@ to de sus ojas, o raiz, bebido, resiste a los venenos
 mortiferos: y comido, crudo, provoca a vomito en el}
 {CW. esto}
 [fol. 70v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 estomago empachado, y restriñe el vientre y bebida
 la semilla, haze orinar, y mejor la raiz, la qual tiene
@@ -4998,7 +4998,7 @@ bano, raspada la cascara, en vino, y este vna noche al
 sereno, y a la mañana, colarlo, y beberlo: o ojas de pi-ziete,}
 {CW. zie}
 [fol. 71v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 verde, calentadas, y rociadas con vino, y pues-
 tas en las ingles: o beber cozimiento de Oregano: o
@@ -5064,7 +5064,7 @@ y orinara sin falta. La simie<n>te de qualquiera visnaga,
 bebida, haze orinar, sin dolor, y provoca el menstruo;}
 {CW. y da}
 [fol. 72v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y dada a beber a la muger, la abrevia el parto: y assi
 bebida la dicha semilla con el polvo de los huessos de
@@ -5129,7 +5129,7 @@ Zumo de verdolagas bebido, aprovecha, y ponerlas
 en el empeine: lo mesmo haze la raiz de Alcarchofa,}
 {CW. mo}
 [fol. 73v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 molida, y bebida con vino: o la raiz del hinojo, moli-
 da, y bebida, con vino blanco. Materias por el caño:
@@ -5193,7 +5193,7 @@ todo lo dicho, poner vnos algodones para abrigo.
 Azufre incorporado con Myrra, y vino, y puesto, los}
 {CW. sana}
 [fol. 74v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 sana: o anis majado, y con azeite rosado: o incienso
 blanco, mezclado con leche de muger, y tibio, desti-
@@ -5258,7 +5258,7 @@ y tibio, y ponerle vnguento rosado: o cera de los oi-
 dos: o en sintiendolos poner el dedo metido en vina-gre,}
 {CW. gre}
 [fol. 75v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y caliente, qua<n>to lo sufra, medio quarto de hora.
 {RUB. Papera.}
@@ -5323,7 +5323,7 @@ puesta, como emplasto. Para la natura de las muge-
 res, llagada, es insigne la yerba de San Juan, sin la si-miente,}
 {CW. mien}
 [fol. 76v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 metida en aquella parte; y beba el vino de
 ella, y sanara.
@@ -5387,7 +5387,7 @@ las enzias, las establece, y conforta: majado, y puesto,
 como emplasto, sobre qualquiera inflamacio<n>, la qui-ta:}
 {CW. ta}
 [fol. 77v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 cozido con sal, y puesto sobre el bazo, lo deshaze:
 y con su cozimiento lavar el cuerpo, quita la comezo<n>:
@@ -5452,7 +5452,7 @@ Culantrillo, es para limpiar el pecho: cozimiento de
 malvas, lo ablanda: membrillos, comidos, son contra}
 {CW. mate}
 [fol. 78v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 materias en las concavidades del pecho. Pimienta
 molida y comida, es co<n>tra passiones del pecho, de cau-
@@ -5512,7 +5512,7 @@ no, cortado en ruedas menudas, y por vna noche re-
 mojadas en vinagre, y comido, en ayunas, preserva de}
 {CW. ayres}
 [fol. 79v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 ayres pestilentes: o Rubies: o Jacinto: o Zafiro, trai-
 dos en anillo de oro: o vna cucharada de culantro se-
@@ -5576,7 +5576,7 @@ enjundia de liebre: o lavarlos con lexia. Pies con ar-
 dor, y entumimiento: Pulque del q<ue> beben los Indios,}
 {CW. con}
 [fol. 80v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 con su raiz, lavar con el, caliente, y abrigarlos; vsar-
 lo algunas vezes. Pies hinchados, lavar con cozimie<n>-
@@ -5640,7 +5640,7 @@ na emponzoñada: Mengui, mezclado co<n> cerote, Ce-
 trino: y puesto sobre los lamparones, los resuelve, y}
 {CW. lo}
 [fol. 81v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 lo mismo los lobanillos: y mezclado con azeite, quita
 los cardenales: y la persona que estuviere emponzoña-
@@ -5704,7 +5704,7 @@ zimiento de Cardo santo, bebido sana sus llagas: o le-
 che de muger, o de Borrica, o otra, cozida con guija-rros:}
 {CW. rros}
 [fol. 82v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 o agua miel: o Oregano, bebido con miel, y co-
 mo lamedor: o cozimiento de higos secos, bebido.
@@ -5767,7 +5767,7 @@ Nota. No apruevo purgas inconfuso, para evacuar, ni
 señalar humores; porque son siempre con peligro, sino los que}
 {CW. trae}
 [fol. 83v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 trae el Autor, con especialidad, en orden a tal humor determina-
 do, se pueden vsar. Brizuela.
@@ -5834,7 +5834,7 @@ bre ceniça, beberlo al tiempo dicho: o atar a la gar-
 ganta dos dentes de ajo, o dos cebollas blancas; del}
 {CW. ta}
 [fol. 84v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 tamaño de vn huevo, puestas debaxo de los sobacos,
 media hora antes que venga el frio, o la calentura, y
@@ -5899,7 +5899,7 @@ Son ventosidad humosa de indigestion de estomago.
 Cozimiento de Oregano, bebido: todo genero de re-sina,}
 {CW. sina}
 [fol. 85v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Caraña, tomada por la boca: o Agarico, mas-
 cado, o comido, es contra los azedos: o Betonica, be-
@@ -5963,7 +5963,7 @@ y secarse a la sombre: hazese, siendo verde, conserva,
 como de las demas xicamas, y hechas pildoras, pur-gan}
 {CW. gan}
 [fol. 86v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 flemas; y las vascosidades del estomago: y sus pol-
 vos, tomados, peso de medio real, con agua tibia, ha-
@@ -6027,7 +6027,7 @@ la en las heridas. Otros remedios ay arriba, en la pala-
 bra Fluxo de sangre.}
 {CW. San}
 [fol. 87v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Sangre por la boca.}
 Zumo de yerbabuena, co<n> vino bebido, esta<n>ca la sa<n>gre:
@@ -6093,7 +6093,7 @@ no blanco, y polvorearlo con los polvos de los Dati-
 les, lo reprime, y buelve a su lugar. Tambien la semi-lla}
 {CW. lla}
 [fol. 88v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 del sauce, molida, y bebida en vino, o agua, restri-
 ñe la sangre del pecho: lo mismo haze su corteza, mez-
@@ -6157,7 +6157,7 @@ dose con el dicho zumo.
 Salmuera azeda, bebida, o gargarizada, mata las san-guijuelas,}
 {CW. gui}
 [fol. 89v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 pegadas a la garganta: o chinches, bebidas
 con vino, o vinagre, las expele: o su sahumerio, rece-
@@ -6221,7 +6221,7 @@ lotica de plomo, o vn palo de azabuche, traido en la
 boca: o lechuga, comida. Para gran sed, que procede}
 {CW. de}
 [fol. 90v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 de colera, vino, y azeite, iguales partes; de todo poco
 mas, o menos de vna escudilla, serenado, beberlo, en
@@ -6285,7 +6285,7 @@ comido, y puesto debaxo de la cabecera: y los mismo el
 Toro<n>gil, y la yerba llamada Arexera, comida, o cardo}
 {CW. santo}
 [fol. 91v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 comido: y su cozimie<n>to, bebido, es excelente para
 los q<ue> hablan entre sueños: y assimesmo aprovecha po-
@@ -6350,7 +6350,7 @@ y canela, iguales partes, o en polvo bebido, quando
 quisiere venir el frio, y arropado, sudara: o vntar, al}
 {CW. venir}
 [fol. 92v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 venir el frio, el espinazo con azeite de Eneldo: o dos
 dragmas de Betonica, con otro ta<n>to de poleo en pol-
@@ -6416,7 +6416,7 @@ ge, y las (las) conserva tiesas, apañadas, y recogidas.
 El cuerno del Ciervo, quemado, y dado a beber, qui-ta}
 {CW. ta}
 [fol. 93v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 toda Tiricia, y es muy bueno para la flaqueza de el
 estomago, y para los dolores de las vexigas: y fregan-
@@ -6481,7 +6481,7 @@ los vaguidos de cabeça: y es excelente para qualquier
 enfermedad del pecho.}
 {CW. Tris}
 [fol. 94v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Tristezas.}
 Beleño, comido la cantidad que pudiere, hasta que
@@ -6547,7 +6547,7 @@ excelente para deshazer los humores viscosos: y vsa-
 do en los manjares, es contra los humores melancoli-cos,}
 {CW. cos}
 [fol. 95v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 y flematicos, y los purga por abaxo, deshaziendo
 todas las ventosidades. Y hecho cozimiento de Ore-
@@ -6612,7 +6612,7 @@ maziga molida, todo mezclado, y en vn saquillo de lie<n>-
 ço, ponerlo sobre el estomago, y sanara. La hiel de}
 {CW. To}
 [fol. 96v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 Toro, mezclada con Azibar, y bebida, es excelente
 para el vientre relaxado, y mata las lombrizes.
@@ -6677,7 +6677,7 @@ Ay mas remedios arriba, en la letra B. palabra Bo-
 mitos.}
 {CW. Uoz}
 [fol. 97v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Voz perdida.}
 Coles mascadas, y bebido el zumo, y mejor tragado,
@@ -6740,7 +6740,7 @@ cada cosa onza, y media, azogue tres onzas, incorpo-
 rese todo.}
 {CW. Vn}
 [fol. 98v]
-{HD. Tesoro de Medicinas +}
+{HD. Tesoro de Medicinas ⇒}
 {CB1.
 {RUB. Uncion septima.}
 Vnto sin sal, dos libras. Azogue vna libra, polvos de

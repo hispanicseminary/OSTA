@@ -5,7 +5,7 @@
 {RMK: Madrid | Biblioteca Nacional de España | INC/51.}
 {RMK: María Purificación Zabía.}
 [fol. 41v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB1.
 {RMK: HSMS-0134-0002: Tratado de la peste.} {RUB. {LAT. Oratio deuotissima ad sanctum Sebastianum.
 ad impretandum salute<m> contra pestem.}}
@@ -133,7 +133,7 @@ fra capi<tulo> .viiij. dize que la pestilencia &
 la corrupcio<n> del aire/ comunme<n>te vie-ne}
 {SG. f ij}
 [fol. 42v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 al fin del estio: & en el autu<n>no. On-
 de dize ypocras. En el autu<n>no: con-
@@ -306,7 +306,7 @@ gni. {LAT. commento humide simul &c<etera>.} E
 la opilacion es causa de putrefaction}
 {SG. f iij}
 [fol. 43v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 & por consiguiente de la fiebre .iij. Te-
 gni {LAT. .co<m>mento. ferunt enim si ita con-
@@ -476,7 +476,7 @@ se leuante de mañana. esso mismo q<u><<a>>n-
 do sopla el vie<n>to austral/ o subsolano}
 {SG. f. iiij}
 [fol. 44v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 mas entonce faga<n>se los perfumes q<ue>
 dire mas abaxo. E quando se leua<n>te
@@ -648,7 +648,7 @@ uese fazer en poca qua<n>tidad: porq<ue> si
 cayessen en fiebre/ o pestile<n>cia/ hauria<n>-}
 {SG. f v}
 [fol. 45v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 se ta<n>bien de sangrar. Ca segu<n> lo que
 dire despues mas abaxo/ & segu<n> la do-
@@ -814,7 +814,7 @@ acto en donde se requiere gran resollo
 dades en el cuerpo: las quales conuie-
 ne por el exercicio co<n>sumir & euacuar}
 [fol. 46v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {RUB. Capi<tulo> .vij. de la preseruacion
 de la peste/ por sueño & vigilia.}
@@ -983,7 +983,7 @@ dicha: o con suco de limones/ o de ci-
 dras: porq<ue> son cosas co<n>trarias a la po-
 çoña. ¶ El .v. remedio es de maestre}
 [fol. 47v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 [j]oha<n> jayme: q<ue> el que tomasse vn boca-
 do de açetosa de mañana: & otro a la
@@ -1154,7 +1154,7 @@ esto co<n>serua de putrefactio<n>. & por esso
 co<n>uiene la tal beuida. Desele segu<n>da-
 me<n>te xarabe de ribes: & xarabe aceto-so:}
 [fol. 48v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 & xarabe de rosas/ & xarabe nenu-
 faris. Tercio desele agua de acetosa
@@ -1326,7 +1326,7 @@ culo/ o {LAT. ignis persiaris/} ahun entras
 con mucho dolor/ & poca inflazon: &}
 {SG. g}
 [fol. 49v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 con negror & encendimiento/ si quier
 combustion: {LAT. & cito exemplatur. reci-

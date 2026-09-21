@@ -419,7 +419,7 @@ origen y principio. Bubas sospecho que se
 llamaron de los encordios, que son ramo de-llas,}
 {CW. llas,}
 [fol. 9v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 llamados bubones acerca de los Docto-
 res: mal de Venus, o mal de simiente se dize,
@@ -481,7 +481,7 @@ pit<ulo> .532.]} Y si pregu<n>tare alguno la causa, por
 que siendo tan antigua, se aya tenido por}
 {CW. nueua,}
 [fol. 10v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 nueua, responderia yo, que de dos maneras
 se puede considerar este mal. La primera,
@@ -545,7 +545,7 @@ feccion, o corrompimiento de la san-
 gre, pegada, y adquirida principalme<n>-te}
 {CW. te}
 [fol. 11v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 de los actos deshonestos, y de mamar la le-
 che, y de besarse, y de comunicar mucho tie<m>-
@@ -605,7 +605,7 @@ ser causa desta enfermedad, por corromper-
 se la simiente.}
 {CW. Si}
 [fol. 12v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. Si el higado, o los humores que
 en el se engendran, sea el mine-
@@ -659,7 +659,7 @@ go que han tenido la purgacion ordinaria, o
 pocos dias despues, reynara mucho en ellas.}
 {CW. Aun}
 [fol. 13v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 especialme<n>te si los menstruos ≺como suele
 acontecer en muchas≻ se anticiparen sin
@@ -717,7 +717,7 @@ de q<ue> anda muy cerca. Suelen tambien las lla-
 guillas que se hazen en estas partes, tener el}
 {CW. cuero}
 [fol. 14v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 cuero de alderredor descolorido y con al-
 guna dureza. Vense assi mismo estas llagas
@@ -773,7 +773,7 @@ ue, y enojosa: y assi seran diferentes los reme-
 dios. La primera, y mas liuiana diferencia de}
 {CW. todas}
 [fol. 15v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 todas es aquella en la qual se caen poco a po-
 co los pelos de la cabeça, y de la barba, sin
@@ -829,7 +829,7 @@ sta que se acaba
 la vida.}
 {CW. Como}
 [fol. 16v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. Como se podra defender cada
 vno despues del coito desta en-
@@ -885,7 +885,7 @@ cion del agua, y no dexar en el cuero alguna
 calidad, sino es la natural: y esto ninguna co-sa}
 {CW. sa}
 [fol. 17v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 lo haze mejor que el agua, ni tambien.
 {RUB. Si al principio deste mal, o en la
@@ -937,7 +937,7 @@ descanse naturaleza: porque el vso co<n>tinuo
 destos medicamentos corrosiuos, no solame<n>-te}
 {CW. te}
 [fol. 18v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 quita y estorua con su sequedad la euacua-
 cion de los vapores que suelen salir de la par-
@@ -992,7 +992,7 @@ viril, por causa del dolor se mueue<n> humores,
 que segu<n> orden de naturaleza han de correr}
 {CW. al}
 [fol. 19v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 al lugar del dolor, mayormente en cuerpos
 repletos, o llenos de malos humores. Y como
@@ -1044,7 +1044,7 @@ en la qual se en-
 gañan.}
 {CW. Que}
 [fol. 20v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. Que se ha de hazer, quando esta<n>-
 do descubierta la glande, se hin-
@@ -1100,7 +1100,7 @@ no solamente muy feo, pero muy per-
 judicial, por el impedimento que haze}
 {CW. para}
 [fol. 21v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 para la generacion. La cura es, atar el prepu-
 cio, y apretarle, y despues cortarle, y yrle to-
@@ -1156,7 +1156,7 @@ por do salia la orina. Acontece tambien algu-
 nas vezes, que por el mucho curso que haze}
 {CW. la}
 [fol. 22v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 la orina de salir por las llagas fistulosas, este ta-
 pado el caño, de manera que no salga gota
@@ -1213,7 +1213,7 @@ grandeza y dolor de la parte, ha se de cortar
 a la larga hasta la rayz de la glande, y assi se}
 {CW. descu}
 [fol. 23v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 descubriran, y cessara el dolor, aunq<ue> el prepu-
 cio quedara sin que se pueda consolidar. Ta<m>-
@@ -1271,7 +1271,7 @@ lleno de leche, o agua
 tibia.}
 {CW. De}
 [fol. 24v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. De los encordios. Cap<itulo> .XVIII.}
 {IN3.} AVnque es verdad, que se pueden ha-
@@ -1328,7 +1328,7 @@ tra razon, deue ser la causa, q<ue> el humor que
 andaua segregado por el cuerpo, en alguna}
 {CW. mane-}
 [fol. 25v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 manera diuertia a la naturaleza. La qual exo-
 nerada con las euacuaciones de sangria y
@@ -1387,7 +1387,7 @@ do no es de la enfermedad dicha, solo fal-
 tan de la barba, y cabeça, de tal manera que}
 {CW. vnos}
 [fol. 26v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 vnos se caen, y otros tornan a nacer. Notan
 aqui algunos Doctores, que esta enferme-
@@ -1447,7 +1447,7 @@ dar: porque aunque no parezca estar el da-
 cutaneas ≺como diximos≻ estan sentidas y to-cadas}
 {CW. cadas}
 [fol. 27v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 del mismo mal. Y por esto manda Leo-
 nardo Botalo, que despues de purgado el en-
@@ -1507,7 +1507,7 @@ de vino blanco, y gastase el medio, y echese
 vn poco de miel despumada al fuego: y con}
 {CW. este}
 [fol. 28v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 cozimiento se laue cada mañana y no-
 che.
@@ -1568,7 +1568,7 @@ tes mas necessitadas, y dese la çarçaparrilla.
 Vntese luego con açufre viuo mezclado co<n>}
 {CW. man}
 [fol. 29v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 manteca fresca de vacas, no todo el cuerpo
 juntamente, sino vn dia vna parte, otro otra;
@@ -1628,7 +1628,7 @@ artejos y telas de los huessos. La cura
 es sangrar, y purgar el humor q<ue> peca.}
 {CW. Des}
 [fol. 30v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 Despues se toma alguna apozima, o cozi-
 miento apropiado en cantidad de cinco o
@@ -1684,7 +1684,7 @@ sa. Ay otras gomas blandas, y son de tres ma-
 neras: vnas se llaman atheromas, otras estea-tomas,}
 {CW. tomas,}
 [fol. 31v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 y otras meliceridas, que son las tres di-
 ferencias de abscessos impropios que enseña
@@ -1747,7 +1747,7 @@ cap<itulo> .95.,]} es la Reyna en esto,
 y para los tosos es milagroso remedio, espe-cialmente}
 {CW. cialmen}
 [fol. 32v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 si tomando vn sudor por la maña-
 na, se aplicasse a la noche a la pierna, o braço
@@ -1803,7 +1803,7 @@ y exprimido se añada de xaraue .9. infus. vna
 onça, y de diafenicon dos dramas y media.}
 {CW. Des}
 [fol. 33v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 Despues desta beuida se podran vsar xara-
 ues de çarça magistrales, y lauar la cabeça co<n>
@@ -1862,7 +1862,7 @@ rrio gran ca<n>tidad de vn humor delgado, po-
 drido, a manera de vn agua mezilada, como {AD. [^Historia.]}}
 {CW. hollin}
 [fol. 34v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 hollin de chimenea, y açafran, assi por don-
 de se abrio el huesso, como por los oydos, y
@@ -1919,7 +1919,7 @@ con los ojos, o tocar con la te<n>ta: y sino se pue-
 de ver, puedese sacar por conjeturas y barru<n>-tos, {AD. [^.2. de morb<o>]}}
 {CW. tos,}
 [fol. 35v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 como si han passado muchos dias, y no
 se cierra la llaga, y si salen materias delga-
@@ -1977,7 +1977,7 @@ tomese el agua del
 palo.}
 {CW. De}
 [fol. 36v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. De la cura desta enfermedad con
 las vnciones que lleuan azo-
@@ -2033,7 +2033,7 @@ ciga, de cada cosa tres dramas, de treme<n>tina
 de abeto vna onça, de azogue bien quebran-tado}
 {CW. tado}
 [fol. 37v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 con azeyte de almendras amargas tres
 onças, de cera blanca dos onças, hagase vn-
@@ -2084,7 +2084,7 @@ mirar.}
 cuello hasta la planta del pie con vna sauana}
 {CW. grande,}
 [fol. 38v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 grande, y estese sudando vna hora, poco
 mas, o menos, si las fuerças no dieren mas lu-
@@ -2134,7 +2134,7 @@ damente.
 unciones.}}
 {CW. Los}
 [fol. 39v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 ¶ Los pobres, o mendigos y sieruos, q<ue> ni tie-
 ne<n> lugar para curarse, ni co<n> que, despues de
@@ -2190,7 +2190,7 @@ gar. Co<n>cluye, q<ue> el azogue es el verdadero la-
 xatiuo, y el que cura este mal. No obstante lo}
 {CW. dicho}
 [fol. 40v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 dicho ≺q<ue> no co<n>uence a ningu<n> buen entendi-
 mie<n>to≻ la comun opinio<n> de todos los Docto-
@@ -2244,7 +2244,7 @@ guno pregu<n>tare: Como es possible q<ue> las vncio-
 nes aprouechen a los niños? Responde el Do-ctor}
 {CW. ctor}
 [fol. 41v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 en la Historia no<m>brado, q<ue> vn niño au<n> no
 de dos años, estando inficionado de su ama
@@ -2301,7 +2301,7 @@ muy grandes y notables daños en las par-
 tes solidas del paciente. Quantimas que si}
 {CW. mira}
 [fol. 42v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 miramos lo que escriue Cornelio Celso, en-
 señando que ay dos generos de curas: vnas
@@ -2356,7 +2356,7 @@ gan sudores, porque la fuerça del azogue se
 imprime con mas violencia en el cuerpo: y}
 {CW. porque}
 [fol. 43v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 porque no es possible auer tanto cuydado y
 prouidencia en las cosas dichas, para que se
@@ -2414,7 +2414,7 @@ diziendo, q<ue> diuierten a naturaleza de la obra
 q<ue> ha començado mas: como enseña Botalo,}
 {CW. antes}
 [fol. 44v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 antes ella se aliuia, vsandolos con buen
 metodo, y no haziendolos, corre peligro de
@@ -2469,7 +2469,7 @@ pio, Ambrosio Pareo, el famoso Nicolao, Ber-
 nardo Dessenio Cronemburgio en el lib<ro> .9.}
 {CW. de}
 [fol. 45v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {LAT. de compositione medicamentorum} sobre vn vngue<n>-
 to para matar los piojos, y otros tambien que
@@ -2533,7 +2533,7 @@ bo Gallico.
 cap<itulo> .76.]}}
 {CW. vt}
 [fol. 46v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {LAT. vt ingenue fatear, nescio; quae sit huius medicamenti fa-
 cultas, ignoro.}
@@ -2593,7 +2593,7 @@ hecticos, ni a los que tiene<n> cale<n>turas agudas,
 ni a los muy flacos, ni a los de complexion}
 {CW. calien}
 [fol. 47v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 caliente, ni a los que tienen tos, o alguna desti-
 lacion de la cabeça, o a los que escupen san-
@@ -2651,7 +2651,7 @@ Y si con estas llagas huuiere dolores en ju<n>-
 turas, o partes carnosas, no sera fuera de pro-posito}
 {CW. posito}
 [fol. 48v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 vntarlas blandamente, estando en el
 pauellon con alguno de los vnguentos que
@@ -2707,7 +2707,7 @@ aristoloquia redo<n>da poluorizada media on-
 tas cosas esten en remojo vn dia natural den-tro}
 {CW. tro}
 [fol. 49v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 de quinze libras de agua en vna olla ve-
 driada, y muy bien cubierta. Passadas venti-
@@ -2771,7 +2771,7 @@ echese en tres açumbres de agua, y cuezan a
 fuego manso, hasta quedar en vn açumbre.}
 {CW. Del}
 [fol. 50v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 Del qual se pueden dar mañana y tarde de
 ocho onças hasta doze. El agua simple se ha-
@@ -2828,7 +2828,7 @@ miere en el dicho sudor, es bueno, porque es-tara {AD. [^Manera de
 tomar el a-gua.]}}
 {CW. tara}
 [fol. 51v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 mas quieto, que es lo que importa. En es-
 ta forma ha de estar, si es posible, dos horas,
@@ -2883,7 +2883,7 @@ paciente en leuantandose, quartillo y medio
 calie<n>te, y de alli a tres horas co<n> vna dozena de}
 {CW. almen}
 [fol. 52v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 almendras tostadas, tomara vn quartillo a su
 comida, beuera agua simple, y tres horas des-
@@ -2939,7 +2939,7 @@ que es bezoartico, o por mejor dezir, tiene ca-
 lidad oculta contra esta enfermedad, y assi le}
 {CW. dan}
 [fol. 53v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 dan primer lugar entre los remedios contra
 este mal. Dexo opiniones de muchos, q<ue> vnos
@@ -2996,7 +2996,7 @@ su nombre propio es smilax In-
 dica, o Indiae.}
 {CW. De}
 [fol. 54v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 {RUB. De algunas particularidades acer-
 ca desta cura. Cap<itulo> .XXXIII.}
@@ -3053,7 +3053,7 @@ to encima, y dexar vn paño del vnguento
 sobre ellos. {AD. [^Nota.]}}
 {CW. Otras}
 [fol. 55v]
-{HD. Tratado de +}
+{HD. Tratado de ⇒}
 {CB1.
 Otras vezes se fomenta el tumor con vi-
 nagre squilitico, y limpio se pone el vngue<n>-

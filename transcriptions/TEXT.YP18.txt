@@ -71,7 +71,7 @@ por aquestos rededores,
 por no sentir sus labores}
 {SG. A 2} {CW. los.}
 [fol. 2v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 los oygo que estan cantando,
 Razon es
@@ -123,7 +123,7 @@ los vicios agenos mas
 que los mismos propios n<uest>ros?}
 {SG. A 3} {CW. Res}
 [fol. 3v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Respuesta.}
 Porque para ageno daño
@@ -176,7 +176,7 @@ el temblar es claramente
 por la falta de virtud.}
 {SG. A 4} {CW. Pre}
 [fol. 4v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Pregunta.}
 Porque pelillo a pelillo,
@@ -229,7 +229,7 @@ porque tiene la muger
 la voz tan alta, y delgada?}
 {SG. A 5} {CW. Res}
 [fol. 5v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Respuesta.}
 La respuesta no me espanta
@@ -282,7 +282,7 @@ manda natura de presto
 venir la sangre a la cara.}
 {SG. A 6} {CW. Pre}
 [fol. 6v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Pregunta.}
 Porq<ue> muchos, ved en ello,
@@ -335,7 +335,7 @@ y en el inuierno calientes
 quando mas frios los dias?}
 {CW. Res}
 [fol. 7v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Respuesta.}
 Porq<ue> el sol al frio destierra
@@ -388,7 +388,7 @@ parece que la guarnece,
 mas ella qual es se queda.}
 {CW. Pre}
 [fol. 8v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Pregunta.}
 Porque si alguno bosteza,
@@ -441,7 +441,7 @@ al baxar quando baxamos,
 que al subir de la escalera?}
 {CW. Res}
 [fol. 9v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Respuesta.}
 Porque todo lo passado
@@ -494,7 +494,7 @@ qua<n>do ve<n> q<ue> ella esta en calma
 baxanse de confusion.}
 {CW. Pre}
 [fol. 10v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Pregunta.}
 Si los negros de natura
@@ -547,7 +547,7 @@ por solo aquel embaraço
 parecen muchas siendo vna?}
 {CW. Res}
 [fol. 11v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Respuesta.}
 La tela causa que huya
@@ -600,7 +600,7 @@ el medico que la cura
 no ve el principio ni el fin.}
 {CW. Pre}
 [fol. 12v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Pregunta.}
 Porq<ue> los hombres ayrados
@@ -653,7 +653,7 @@ dezidme, porque las aues,
 como sabeys nunca orinan?}
 {SG. B} {CW. Res}
 [fol. 13v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Respuesta.}
 Porq<ue> como ellas se mue(r)[u]en
@@ -706,7 +706,7 @@ como en la vista conuienen,
 es fuerça mirar derechos.}
 {SG. B 2} {CW. Pre}
 [fol. 14v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Pregunta.}
 Porq<ue> el golpe, o voz crecida
@@ -759,7 +759,7 @@ y despues si al sol los saca
 los vemos todos partidos?}
 {CW. Res}
 [fol. 15v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 {RUB. Respuesta.}
 Dentro alla do los encierra
@@ -811,7 +811,7 @@ ni esperaua de tener.
 Son las turmas de tierra.}
 {SG. B 4} {CW. Pre}
 [fol. 16v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 {RUB. Pregunta.}
 Dos hermanos diligentes
@@ -854,7 +854,7 @@ y sus amos muy sañudos
 de presto los han quitado.
 Es el torno de la seda.
 {RUB. Pregunta.}
-En vn sepulcro vi estar %3 ≺
+En vn sepulcro vi estar %3
 mas de veynte cuerpos muer-tos
 y tan grandes vozes dar
 que me parè a escuchar
@@ -865,7 +865,7 @@ que cierto me enamorauan,
 y eran las vozes que dauan}
 {SG. B 5} {CW. sin}
 [fol. 17v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 sin sentidos muy sentidas.
 Son los organos.
@@ -919,7 +919,7 @@ No come, y tiene dientes
 y a muchos quita el comer:}
 {CW. dezid}
 [fol. 18v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 dezidme que puede ser?
 pues q<ue> anda entre las gentes?
@@ -973,7 +973,7 @@ tiene dientes, y no boca,
 tiene cabeça, y no pies.}
 {CW. Es}
 [fol. 19v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 Es la cabeça de ajos.
 {RUB. Pregunta.}
@@ -1027,7 +1027,7 @@ en vn castillo encerrada,
 y es en si tan estimada,}
 {CW. que}
 [fol. 20v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 que loan quien la ha criado.
 Vestidas de carmesi
@@ -1081,7 +1081,7 @@ estan nuestras vidas puestas.
 Y entre ciento vna destas}
 {CW. halla}
 [fol. 21v]
-{HD. Preguntas +}
+{HD. Preguntas ⇒}
 {CB1.
 hallaràs que sea buena,
 esta a vezes nos da pena
@@ -1135,7 +1135,7 @@ declare esto alguno
 con suma entre nos.}
 {CW. Son}
 [fol. 22v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 Son cinco.
 {RUB. Pregunta.}
@@ -1189,7 +1189,7 @@ Aunque nu<n>ca se concierte
 se que van dos ballesteros}
 {CW. tan}
 [fol. 23v]
-{HD. Preguntas, +}
+{HD. Preguntas, ⇒}
 {CB1.
 tan justos, y tan acertos,
 que a do tiran sie<m>pre aciertan.

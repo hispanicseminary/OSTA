@@ -498,7 +498,7 @@ on de auicen<n>a & del egidio enlos lu-
 gares suso allegados.}
 {SG. a iiij}
 [fol. 4v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 {RUB. Capitulo primero delas vri-
 nas.}
@@ -667,7 +667,7 @@ algun tanto gruessa/ señala las fie-
 bres ethicas.}
 {SG. a v}
 [fol. 5v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 {MIN.} ¶ La vrina clara en <e>l hondo del vri-
 nal hasta la metad della/ y dende arri-
@@ -978,7 +978,7 @@ dial/ co<n>uiene saber la vena que se lla-
 ma mediana se acostu<m>bra de sangrar
 por las passiones/ & dolencias delos}
 [fol. 7v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 spiritus/ & mucho mas complidame<n>-
 te se declara el valer della en la ma-
@@ -1057,7 +1057,7 @@ lerico.
 La sangria dela vena/ que esta en la}
 [fol. 8r]
 [fol. 8v]
-{HD. Tabula segunda +}
+{HD. Tabula segunda ⇒}
 {CB1.
 {DIAG=. | Las dos venas de tras delos
 oydos de cada parte aproue-
@@ -1287,7 +1287,7 @@ llo/ aprouecha contra el dolor/ se es-
 uanecimiento dela cabeça/ & aliena-
 cion del sentido.}
 [fol. 10v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 {RUB. aa}
 La sangria dela vena que esta en la
@@ -1454,7 +1454,7 @@ mero. enel capitulo .xx. en <e>l principio
 dize/ que la fleubotomia es vniuersal}
 {SG. b}
 [fol. 11v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 euacacio<n> de todos los humores que
 prouienen de abundancia de sangre/
@@ -1620,7 +1620,7 @@ hazer sin peligro alguno. E allen-
 de de catar si estuuiere la luna como}
 {SG. b ij}
 [fol. 12v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 dicho es en bue<n> signo p<ar>ala sangria &
 no en lleno d<e>la luna/ o sie<n>do muy nue-
@@ -1831,7 +1831,7 @@ po hu<m>ano/ & esta<n>do la
 luna en este signo/ es mala la sangria}
 {SG. b iiij}
 [fol. 14v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 especialme<n>te del coraço<n> delos nerui-
 os/ lombos/ & esquinazo/ es bueno
@@ -2157,7 +2157,7 @@ el cuerpo. enel quarto se hazen las
 vñas. enel quinto toma la semeja<n>ça
 del padre/ o d<e>la madre. enel sexto la}
 [fol. 16v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 composicio<n> delos neruios. enel sep-
 timo se consolida/ & se reafirma la me-
@@ -2326,7 +2326,7 @@ da al atar/ que le hagas el nudo muy
 floxo/ & no punto apretado/ porq<ue> lue-
 go en <e>l punto q<ue> huuiere parido la mu-jer}
 [fol. 17v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 se pueda desatar sin dificultad/ ca
 en otra manera co<n> la criatura le faria
@@ -2493,7 +2493,7 @@ como escriue Auicena.
 virgen: toma simiente de portulaga:
 & ponla encima del fuego/ de manera}
 [fol. 18v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 que ella reciba en si el fumo/ & si fuere
 corrupta veras marauillas. O pon-
@@ -2660,7 +2660,7 @@ el tal ayuntamiento se haze del ho<m>bre
 & d<e>la mujer por intencio<n> de enge<n>drar}
 {SG. c}
 [fol. 19v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 & augmentar su semejante: que ento<n>-
 ces no es pecado.
@@ -2833,7 +2833,7 @@ p<ro>porcio<n> delos ayu<n>tados. O por otra
 razon mas natural/ porque la simien-te}
 {SG. c ij}
 [fol. 20v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 generatiua de si es caliente/ & en la
 expulsion aq<ue>l calor faze vna titillacio<n>
@@ -3006,7 +3006,7 @@ fria en respecto d<e>los hombres. & por
 ende no pueden conuertir todo su nu-trimento}
 {SG. c iij}
 [fol. 21v]
-{HD. Tratado. +}
+{HD. Tratado. ⇒}
 {CB2.
 en sangre/ por defecto del ca-
 lor/ & queda alguna parte & gran por-
@@ -3179,7 +3179,7 @@ llega el tiempo del mestruar: & mien-
 tre le tienen: sienten dolores muy so-brados}
 {SG. c iiij}
 [fol. 22v]
-{HD. Tr(ca)[ac]tado. +}
+{HD. Tr(ca)[ac]tado. ⇒}
 {CB2.
 enlas spaldas/ y enlos lomos[.]
 ¶ Si pidiere algu<n>o si el mestruo que
@@ -3351,7 +3351,7 @@ la simie<n>te del cauallo sea muy calie<n>te/
 & la dela asna fria/ lo q<ue> se co<n>cibe es co-
 mo vna cosa mo<n>struosa/ q<ue> p<ar>ticipa de}
 [fol. 23v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 dos complexiones/ o qualidades con-
 trarias/ & no quedandole alguna de-
@@ -3523,7 +3523,7 @@ uian. E otrosi tenemos por relacion
 & palabras de alberto: que lo oyo de
 personas dignas de fe/ q<ue> viero<n> vn ho<m>-bre}
 [fol. 24v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 enel q<u><<a>>l estaua<n> dos hombres jun-
 tados por las spaldas/ & el vno d<e>llos
@@ -3692,7 +3692,7 @@ es planeta malicioso/ frio/ & seco: lo
 qual es todo contrario al viuir.}
 {SG. d}
 [fol. 25v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 ¶ Porq<ue> delas criatura q<ue> nasce<n> en <e>l
 seteno mes/ muera<n> las mas. (r)[R]espo<n>de
@@ -4158,7 +4158,7 @@ vn nabo/ o en vna berça destas q<ue> faze<n>
 bretones/ & hinche aq<ue>l agujero de a-quella}
 {SG. d iij}
 [fol. 28v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 sal: y atapale con aquel peda-
 çito que le quitaste: y cauaras en algu-
@@ -4331,7 +4331,7 @@ hecho vnguento/ vntaras con el la lla-
 ga/ & sera luego sana.}
 {SG. d iiij}
 [fol. 29v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {RUB. u}
 ¶ Unguento muy singular para re-
@@ -4501,7 +4501,7 @@ la quarta p<ar>te del seuo/ & vn poco de
 azeyte de oliuas/ & picalo todo muy}
 {SG. d v}
 [fol. 30v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 bien en vn almirez/ o mortero.
 {RUB. Unguento fosco para las llagas
@@ -4671,7 +4671,7 @@ blancet/ echa<n>dojele por encima. y pi-
 calo todo: y guardalo en vn pote/ pa-
 ra la necessidad.}
 [fol. 31v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {RUB. Unguento de dialtea para qua<n>do
 se enduresce/ o seca algun mie<m>bro.}
@@ -4843,7 +4843,7 @@ rar llagas.}
 ¶ Toma pez arabica/ & pez no tem-
 plada/ cera simple/ oppoponac/ flor}
 [fol. 32v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 de iris/ de cada qual .j. quart/ aristolo-
 gia redonda/ jncienso blanco/ de cada
@@ -5014,7 +5014,7 @@ las rodillas: y embueluete en vn pa-
 ñana toma el vngue<n>to populeon/ y el}
 {SG. e}
 [fol. 33v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de dialtea/ & con aq<ue>llos dos mezcla-
 dos vntate los pies/ o manos donde
@@ -5376,7 +5376,7 @@ la colera negra.
 & mudamie<n>tos delos tiempos & luga-res/}
 {SG. iij}
 [fol. 35v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 & segu<n> el aju<n>tar & mezcla d<e>las via<n>-
 das & beuer: & por esso los pulsos ha-
@@ -5550,7 +5550,7 @@ Cura. como adelante hallaras en la
 ydropisia.}
 {SG. e iiij}
 [fol. 36v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 ¶ Arteriaca passion/ es de aspredad
 delas arterias con voz mansueta/ &
@@ -5723,7 +5723,7 @@ oliuetas de laurel/ mostaza/ miel crua
 stro: & po<n>lo encima del lugar do<n>de ter-nas}
 {SG. e v}
 [fol. 37v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 el dolor: & recebiras luego salud.
 ¶ Epilensia es dolencia del cerebro/
@@ -5895,7 +5895,7 @@ mañanas/ & de continuo renueua la
 medecina.
 ¶ Frenesia/ es apostema q<ue> nasce en}
 [fol. 38v]
-{HD. Tractado[.] +}
+{HD. Tractado[.] ⇒}
 {CB2.
 la miringa del cerebro del calor/ o ebu-
 llicion dela sangre/ o delas dos ju<n>tas
@@ -6067,7 +6067,7 @@ diarodon abatis/ o rosada nouella: &
 con esto mezclara su beuer.
 ¶ Lumbricos/ son gusanos q<ue> llama<n>}
 [fol. 39v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 lombrizes/ q<ue> se crian enlos este<n>tinos
 delos ho<m>bres y d<e>los otros animales
@@ -6239,7 +6239,7 @@ mesuradamente.
 ¶ Podagra: que llamamos puagre
 o gota/ es passion de pies/ o manos/}
 [fol. 40v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 co<n> dolor delas ju<n>tas d<e>llos. Cura. fre-
 guese el doliente muy a menudo con

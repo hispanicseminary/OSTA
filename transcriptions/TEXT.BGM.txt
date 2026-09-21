@@ -47,7 +47,7 @@ de peso y medida y acierta
 hora, entran por la boca; no}
 {CW. estoy}
 [fol. 2v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 estoy lexos de su tan singular
 opinion: no porque no se acier-
@@ -89,7 +89,7 @@ cierto, que si el primer hom-
 bre continuara estos medici-nales}
 {CW. na}
 [fol. 3v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 preceptos, no solo biuie-
 ra hoy dia: pero aun nosotros
@@ -131,7 +131,7 @@ gen y causa della dauan mas
 de vna confusa razon; Que}
 {CW. deuia}
 [fol. 4v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 deuia ser, algun maligno hu-
 mor frio que descendia de la
@@ -173,7 +173,7 @@ por falta de la mesma medi-
 cina: sino por no hauer obser-uado}
 {CW. uado}
 [fol. 5v]
-{HD. EPISTOLA. +}
+{HD. EPISTOLA. ⇒}
 {CB1.
 el verdadero orden, y
 regimiento q<ue> en el exercicio
@@ -215,7 +215,7 @@ dito fidelissimo reuelar a V<uestra>
 Magestad esta medicina, co-mo}
 {CW. mo}
 [fol. 6v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 mina de salud mas precio-
 sa que de oro y plata, agora
@@ -257,7 +257,7 @@ se la imbia qua<n>do le vee mas
 necessitado della. Y assi para}
 {CW. que}
 [fol. 7v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 que mas presto llegasse a las
 manos, y pronta salud de V<uestra>
@@ -299,7 +299,7 @@ de los Instrumentos≻ assi
 no hay otras mas prontas, ni}
 {CW. mas}
 [fol. 8v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 mas a mano que ellas, para
 la friction del mesmo. La qual
@@ -341,7 +341,7 @@ dica comiençan a notarle en
 dos cosas. La primera, por-que,}
 {CW. que}
 [fol. 9v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 no hauiendo hecho publi-
 ca professio<n> de la facultad Me-
@@ -383,7 +383,7 @@ cultad, con los hechos de pro-
 pria mano en ella por el glo-riosissimo}
 {CW. rio}
 [fol. 10v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 Rey Don Jayme
 de Aragon, predecessor de V<uestra>
@@ -425,7 +425,7 @@ por ello: porque razon sera vi-
 tuperable en vn Prelado po-ner}
 {CW. ner}
 [fol. 11v]
-{HD. EPISTOLA +}
+{HD. EPISTOLA ⇒}
 {CB1.
 su pluma y escriuir de la
 mas alta parte della, como es
@@ -503,7 +503,7 @@ dimiento que se descu-
 bre, y siente en las junturas del cuer-po}
 {CW. po}
 [fol. 14v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 ≺que no venga por accidente, ni
 causa externa≻ no nasce, ni tiene su
@@ -558,7 +558,7 @@ mismo, el mal de la Fiebre Quar-
 tana, y de las otras Fiebres, en}
 {CW. las}
 [fol. 15v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 las quales se opila el baço, o el higa-
 do. No menos se descubre la fuerça,
@@ -612,7 +612,7 @@ propias ma-
 nos.}
 {CW. QVE}
 [fol. 16v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. QVE COSA SEA
 este humor, y de que se
@@ -665,7 +665,7 @@ turas del craneon afuera; y si fuere ta<n>-
 to q<ue> no le puede expellir por dichas}
 {CW. partes}
 [fol. 17v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 partes, entonces lo sacude por las ve-
 nas, o otras secretas vias, hasta dar
@@ -715,7 +715,7 @@ della, a las quales los Philosophos
 llaman material, eficiente, formal,}
 {CW. y final}
 [fol. 18v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 y final. porque la material consta del
 alimento crasso, y mal digerido que
@@ -767,7 +767,7 @@ parte afecta.
 Cap<itulo> .4.}}
 {CW. SVE}
 [fol. 19v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} SVELE este humor des-
 pertarse, y con mayor ri-
@@ -823,7 +823,7 @@ de grito, diziendo {ITL. que cosa e questa?}
 y le respondiessen, {LAT. Pater Sancte Co-ronas}}
 {CW. ronas}
 [fol. 20v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 para bendezir, dixo el Pon-
 tifice lastimado del toque, {ITL. maledet-
@@ -875,7 +875,7 @@ nuestros Aquilonares. Otrosi, que
 mas suntuosos, ni excessiuos tinelos,}
 {CW. que}
 [fol. 21v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 que los del Rey Sal(a)[o]mon, y de su
 casa? pues no solo a muchos milla-
@@ -931,7 +931,7 @@ que no fueron estos mucho mas go-
 tosos que todos los demas antiguos:}
 {CW. pero}
 [fol. 22v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 pero la causa, y razon esta en la
 mano; porque a la verdad se va-
@@ -980,7 +980,7 @@ declara-
 remos.}
 {CW. POR}
 [fol. 23v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. POR QVE MATA
 este mal quando se as-
@@ -1029,7 +1029,7 @@ en Valencia hizo vn grande y famo-
 so Medico en vn su compadre y ve-zino}
 {CW. zino}
 [fol. 24v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 el qual grauissimamente, y
 de mucho tiempo estaua atormen-
@@ -1080,7 +1080,7 @@ parte y miembro leso, y a do quie-
 re ha de hallar blando el apoya-dero}
 {CW. dero}
 [fol. 25v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 para lo qual ha menester vein-
 te pares de almoadillas con otros
@@ -1133,7 +1133,7 @@ otros males. todo lo qual es par-
 te para alargar la vida. Tambien}
 {CW. en}
 [fol. 26v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 en consequencia desto dizen mu-
 chos que este humor auiua el inge-
@@ -1188,7 +1188,7 @@ Carlos Quinto, en aquella glo-
 riosissima victoria que obtuuo con-tra}
 {CW. tra}
 [fol. 27v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 sus rebeldes de Alemaña: quan-
 do en medio della, y en lo frio del
@@ -1238,7 +1238,7 @@ quedar re-
 ñidos.}
 {CW. PRO}
 [fol. 28v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. PROPONE SIE-
 te questiones des-
@@ -1289,7 +1289,7 @@ dres a hi-
 jos.}
 {CW. RES}
 [fol. 29v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. RESPONDE A
 dichas questiones.
@@ -1343,7 +1343,7 @@ ellos, con la sobra del calor, mas
 bien cozidos al celebro: y assi los}
 {CW. puede}
 [fol. 30v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 puede mejor abraçar, y digerir, que
 no en los viejos. A lo quarto, por-
@@ -1400,7 +1400,7 @@ to, y con la asistencia del sabor y
 gusto, se entregan a saladuras, ollas}
 {CW. podri}
 [fol. 31v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 podridas, ajos, y cebollas, con los
 excessos del vino, y otras co-
@@ -1451,7 +1451,7 @@ que vna, y mil vezes lo expellan
 suele otras tantas reuerdecer, de ma-nera}
 {CW. nera}
 [fol. 32v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 que ni purgas, ni sangrias, ni
 dieta, ni exercicio, ni cataplasma,
@@ -1493,7 +1493,7 @@ cosa.
 mer Libro.}}
 {CW. DEL}
 [fol. 33v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. DEL ENCHIRI-
 dion, o manual instrumen-
@@ -1538,7 +1538,7 @@ extremo de poco comer,
 sino en la abstinencia de}
 {CW. tres}
 [fol. 34v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 tres cosas a este mal muy contrarias.
 La primera de comer muy demasia-
@@ -1594,7 +1594,7 @@ flatuosas, y ≺para abreuiar≻ de todo
 lo demas, q<ue> por regla de medicina se}
 {CW. pro}
 [fol. 35v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 prohibe a los deste mal; excepto
 del vino, del qual se ha de beuer de
@@ -1642,7 +1642,7 @@ mal tan cruelmente que de inuierno
 quando el tiempo es humedo, sen-tira}
 {CW. tira}
 [fol. 36v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 quien va por la calle los dolo-
 rosos canticos que haze vezino con
@@ -1694,7 +1694,7 @@ no solo para defenderle deste, pero
 de muchos otro males que causa}
 {CW. la}
 [fol. 37v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 la estrañeza del ayre, y viandas, jun-
 to con los excessos de la crapula,
@@ -1750,7 +1750,7 @@ dancia de los manjares, como di-
 cho hauemos. De manera, que si}
 {CW. al}
 [fol. 38v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 al vomito no le precediese la mal-
 dita gula, ni le siguiesse la horren-
@@ -1800,7 +1800,7 @@ nero, con buenas sopas claras, y de
 yerua, fuera de ollas podridas, y de}
 {CW. saladu}
 [fol. 39v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 saladuras, como esta dicho; con su
 asado de perdizes y palominos, po-
@@ -1852,7 +1852,7 @@ mal, que comunmente da en ellos,
 entiendan el modo y arte como se}
 {CW. an de}
 [fol. 40v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 an de regir para euitarle ≺por mas que
 el vulgo diga, no ser mal de suyo cu-
@@ -1910,7 +1910,7 @@ muy intento a su obra, se le acude
 co la refregeracio, para q<ue> esta en parte}
 {CW. le mo}
 [fol. 41v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 le modere y temple, y en parte le
 de animo y abiue, no puede seguir-
@@ -1960,7 +1960,7 @@ pretendemos; repetiremos muy en
 breue lo que toca al segundo de la}
 {CW. nieue}
 [fol. 42v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 nieue para probar despues con el
 tercero, como todos son muy apro-
@@ -2017,7 +2017,7 @@ con niene es la principal de todas;
 sera menester, que breuemente}
 {CW. toque}
 [fol. 43v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 toquemos lo del segundo presu-
 puesto que habla della, por ser la
@@ -2073,7 +2073,7 @@ plada con el dicho fresco la massa, y
 Quilo del estomago al higado, don-de}
 {CW. de}
 [fol. 44v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 se conuierte en sangre; de alli se
 distribuya por todas las venas, y
@@ -2126,7 +2126,7 @@ el adusto, y bilioso, que suele
 audir alli quando hay obstruction;}
 {CW. todo}
 [fol. 45v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 todo esto va fuera, y ni hay oca-
 sion para impedir el passo, ni pa-
@@ -2178,7 +2178,7 @@ tome la purga; porque no
 es amarga.}
 {CW. QVE}
 [fol. 46v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. QVE LA VENVS
 es contraria para los
@@ -2232,7 +2232,7 @@ humor frio y malo. De manera que
 para todo estado de ge<n>tes, quando les}
 {CW. aque}
 [fol. 47v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 aquexa el mal, es perniciosa la di-
 cha Venus, y mucho mas quando
@@ -2284,7 +2284,7 @@ manos antiguos; q<ue> comian, aunque
 no mucho, por la mañana, y cenauan}
 {CW. esplen}
 [fol. 48v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 esplendidamente, antes que anoche-
 ciesse. Lo que tambien en alguna
@@ -2334,7 +2334,7 @@ preuencion, que consiste en
 la abstinencia de cosas contrarias,}
 {CW. y re}
 [fol. 49v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 y regimiento en la comida y cena,
 no han de vsar sino los que ya de
@@ -2386,7 +2386,7 @@ fortalezas, o ciudades, quando mas
 impensadas. Por quanto contra}
 {CW. quien}
 [fol. 50v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 quien mas presto se encara la tal
 nueua, y le causa alteraciones al co-
@@ -2442,7 +2442,7 @@ debilite el celebro, y los senti-
 dos se turben, y tambien por}
 {CW. el}
 [fol. 51v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 el recogimiento del calor, los
 estremos se enfrien, da se lugar pa-
@@ -2494,7 +2494,7 @@ mor, mediante su frior, y subtili-
 dad del caliente, se apodere me-jor}
 {CW. jor}
 [fol. 52v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 de los tales miembros, por
 ocasion de la mala nueua, como
@@ -2545,7 +2545,7 @@ netra<n>te y delicada. Y como la mela<n>co-
 lia, humor terrestre, por el contrario,}
 {CW. es}
 [fol. 53v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 es, graue, y profunda, y por esso
 mas fixa, y consistente que las com-
@@ -2598,7 +2598,7 @@ mala nueua.
 Cap<itulo> .15.}}
 {CW. ESTO}
 [fol. 54v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} ESTO se confirma con
 el exemplo de Saul Rey
@@ -2650,7 +2650,7 @@ les llega semejante nueua
 de perdidas de Ciudades, Reynos, o}
 {CW. gran}
 [fol. 55v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 grandes armadas por la mar, o muer-
 te de hijo vnico, tomarla tan fuer-
@@ -2706,7 +2706,7 @@ queza de espiritu, no hallar otro me-
 jor desuio contra el sentimiento de}
 {CW. la}
 [fol. 56v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 la mala nueua, que poner las ma-
 nos ninguno en su propria persona.
@@ -2759,7 +2759,7 @@ por las arterias, que son los mas ne-
 cessarios ministros deste palacio;}
 {CW. median}
 [fol. 57v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 mediante los quales, la vegetatiua
 y sensitiua ≺dos mas principales da-
@@ -2808,7 +2808,7 @@ pues como a estos prouee el cele-
 bro, assi a los espiritus vitales pro-uee}
 {CW. uee}
 [fol. 58v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 por las arterias el coraçon, y a
 los guessos y miembros por las ve-
@@ -2859,7 +2859,7 @@ cozimiento
 dellas.}
 {CW. DEL}
 [fol. 59v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. DEL MOLINO
 y horno deste palacio, y
@@ -2912,7 +2912,7 @@ los vapores del estomgao, y en-
 cuentran con ellos, y se les ape-gan}
 {CW. gan}
 [fol. 60v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 como toua que se entosca y
 refirma de manera en ellos, que
@@ -2965,7 +2965,7 @@ y acertado remedio que
 a dichos dientes, y mue-las}
 {CW. las}
 [fol. 61v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 se puede aplicar, no solo para
 preseruarlos de corruption, mas
@@ -3066,7 +3066,7 @@ o de fuente fria: q<ue> el fuego no sea gra<n>-
 de, sino lento, y proporcionado:}
 {CW. que}
 [fol. 63v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 que la vianda le entre medida a su
 tamaño, y este bien quarteada: Que
@@ -3117,7 +3117,7 @@ dellos. Pues dado que del Quilo
 que passa del estomago al higado,}
 {CW. y de}
 [fol. 64v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 y de alli conuertido en sangre va
 por las venas; se alimentan de los miem-
@@ -3173,7 +3173,7 @@ reciben su vigor, y fuerça de la cabe-
 para todo el cuerpo. Los quales}
 {CW. neruios}
 [fol. 65v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 neruios, segun vemos, son tan sen-
 sitiuos y delicados, que no hay ex-
@@ -3227,7 +3227,7 @@ que estos pagan por
 todos.}
 {CW. DE}
 [fol. 66v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. DE LA NVUEVA
 opinion acerca el alimento
@@ -3280,7 +3280,7 @@ parte de los Anatomistas alega-
 do. Los quales hablando de los}
 {CW. dientes}
 [fol. 67v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 dientes y muelas; affirman ser mas
 que puros guessos, por quanto ca-
@@ -3333,7 +3333,7 @@ para susten-
 tarlos.}
 {CW. DE}
 [fol. 68v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. DE LA GRANDE
 reparticipon del higado se-
@@ -3385,7 +3385,7 @@ les son de carne, y se contienen en los
 miembros, y son los instrumentos pa-ra}
 {CW. ra to}
 [fol. 69v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 toda la diuersidad de mouimien-
 tos, que de por dichos miembros se
@@ -3441,7 +3441,7 @@ mor, como sea su origen, y se crie
 de las mesmas euaporaciones; que}
 {CW. el}
 [fol. 70v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 el celebro, participa en alguna ma-
 nera de la calidad, y affectos del
@@ -3494,7 +3494,7 @@ a todas las partes del cuerpo pa-
 ra la restauracion del calor insito}
 {CW. dellas}
 [fol. 71v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 dellas. Y es su materia, de la
 qual se forman, el vapor de la
@@ -3534,7 +3534,7 @@ rado.
 gundo Libro.}}
 {CW. DEL}
 [fol. 72v]
-{HD. LIBRO III. +}
+{HD. LIBRO III. ⇒}
 {CB1.
 DEL ENCHIRI-
 dion, o manual instrumen-
@@ -3585,7 +3585,7 @@ no solo para lo gota, pero para mu-
 chos otros ≺obseruado el regimie<n>to≻}
 {CW. dellas}
 [fol. 73v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 ≺de vida que mostrado haue-
 mos≻ porque se haze con dicha fric-
@@ -3635,7 +3635,7 @@ remos≻ a todas las partes del cuer-
 po.}
 {CW. DEL}
 [fol. 74v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. DEL PROVERBIO
 antiguo, por el qual comen-
@@ -3687,7 +3687,7 @@ piricos para sanar de la gota: por ser
 este vno de los vltimos y mejores}
 {CW. recursos}
 [fol. 75v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 recursos, y diuertimientos del hu-
 mor, para estas dolorosas passio-
@@ -3738,7 +3738,7 @@ consiguiente, si en la rayz hay vicio,
 tambien se les comunica: assi de}
 {CW. la cabeça}
 [fol. 76v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 la cabeça del hombre, como de la
 rayz, sale en cierta manera el susten-
@@ -3788,7 +3788,7 @@ dia causar no menos daño que pro-
 uecho, sino se tenia tiento en el}
 {CW. modo}
 [fol. 77v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 modo y aplicacion della, porque
 dezian que si era vehemente, endu-
@@ -3841,7 +3841,7 @@ nos, aunque no llego a declarar el
 verdadero vso y exercicio della; to-cara}
 {CW. cara}
 [fol. 78v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 a nosotros sacar a luz su inesti-
 mable fruto de salud, con la descrip-
@@ -3895,7 +3895,7 @@ dos preuenciones con la abstinencia
 y regimie<n>to en el segundo libro co<n>tenidos.}
 {CW. teni}
 [fol. 79v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 Porque si en esto hay preua-
 ricacion y soltura, tambien haura
@@ -3944,7 +3944,7 @@ y aplicacion de las medicinas; pues
 de no hauer con ellas obseruado las}
 {CW. dichas}
 [fol. 80v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 dichas circunstancias, no solo dexan
 de obrar la salud, que por su vir-
@@ -3999,7 +3999,7 @@ que de la ygual, y bien hecha re-
 particion del alimento, vienen a}
 {CW. que}
 [fol. 81v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 quedar las partes principales, con
 todos los miembros, tan contentos,
@@ -4056,7 +4056,7 @@ sobre ellos esta tan santa medici-
 na, to-ma,}
 {CW. na, to}
 [fol. 82v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 todas las otras horas del dia ex-
 cepto las tardes antes de cena, son
@@ -4106,7 +4106,7 @@ baxa almoada≻ y con los dedos y
 vñas la rasque toda con vehemen-cia}
 {CW. cia}
 [fol. 83v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 y presteza, por espacio de vn
 credo bien rezado: a fin de tirar y
@@ -4162,7 +4162,7 @@ puesto de muchos huessos, y he-
 cho como vn aguaducho de mu-chos}
 {CW. chos}
 [fol. 84v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 arcaduzes, por el qual passa
 el meollo y desciende hasta cerca
@@ -4213,7 +4213,7 @@ por estar mas destituydas del calor
 natural, a causa de la distancia gran-de}
 {CW. de que}
 [fol. 85v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 que dellas hay al centro del, que
 es el coraçon; y por tanto ser mas
@@ -4269,7 +4269,7 @@ tirandolos para fuera por ser estos
 los desaguaderos del coraçon.}
 {CW. Otro}
 [fol. 86v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 Otro tanto hara sobre las costillas
 hacia el pecho. De donde bolue-
@@ -4325,7 +4325,7 @@ cijandolas con grande fuerça co-
 mo en los cobdos, por ser jun-turas}
 {CW. turas}
 [fol. 87v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 las pantorrillas abaxo: Fi-
 nalmente touillo con touillo, pie
@@ -4376,7 +4376,7 @@ para viejos, y recogidos: para los
 quales es de todo prouecho seme-jante}
 {CW. jante}
 [fol. 88v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 exercicio, que les valdra
 por vn juego de pelota, o de es-
@@ -4426,7 +4426,7 @@ como trabajan mucho, y son mu-
 chos, y de carne, tambien comen}
 {CW. mucho}
 [fol. 89v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 mucho, porque estan siempre co-
 mo sentados a la mesa esperando su
@@ -4478,7 +4478,7 @@ rado al motu Tonico.
 Cap<itulo> .60.}}
 {CW. EL}
 [fol. 90v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} EL mouimiento, y exerci-
 cio de la friction, so co-
@@ -4534,7 +4534,7 @@ prio peso les tire para baxo, pero
 ni aun el viento es bastante para}
 {CW. boluer}
 [fol. 91v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 boluerlos atras, ni para diuertir-
 los a los lados, puesto que del entre-
@@ -4585,7 +4585,7 @@ mos. Bien es verdad, que por
 la mesma experiencia hallamos}
 {CW. lo}
 [fol. 92v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 ≺lo que conforma con este propo-
 sito≻ que si algun miembro, o jun-
@@ -4635,7 +4635,7 @@ la mañana.
 Cap<itulo> .12.}}
 {CW. TAM}
 [fol. 93v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} TAMBIEN es menes-
 ter aduertir a los deuo-
@@ -4691,7 +4691,7 @@ cho mas en inuierno que en ve-
 rano, y assi mediante la friction}
 {CW. viene}
 [fol. 94v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 viene a ser dicha orina mucho mas
 corregida y defecada. Mas se ha-
@@ -4745,7 +4745,7 @@ venillas tenuissimas y casi impercep-
 tibles que son collaterales a las emul-gentes,}
 {CW. gentes}
 [fol. 95v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 donde se haze el recepta-
 culo, y como arcaduze de la ori-
@@ -4796,7 +4796,7 @@ ra de caspa.
 Cap<itulo> .14.}}
 {CW. QVE}
 [fol. 96v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} QVEDANOS agora
 por declarar en cu<m>plimien-
@@ -4852,7 +4852,7 @@ ral coladero para purgar, y des-
 cargar el celebro.}
 {CW. QVE}
 [fol. 97v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. QVE LA FRIC-
 tion, y estregadura diffie-
@@ -4903,7 +4903,7 @@ lar las carnes, adelgazando con la
 estregadura el alimento que yua}
 {CW. por}
 [fol. 98v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 por las venas, y dellas a los miem-
 bros; y tambien por exhalar los
@@ -4952,7 +4952,7 @@ llos, y mulas.
 Cap<itulo> .16.}}
 {CW. PA}
 [fol. 99v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {IN4. {ILL.}} PARECE que los an-
 tiguos no despidieron
@@ -5006,7 +5006,7 @@ tre todas las demas
 el principado.}
 {CW. CO}
 [fol. 100v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 {RUB. COMO POR SER
 esta medicina facil, y no
@@ -5058,7 +5058,7 @@ ceptado alguna muy grande cosa
 por medicina, assi costosa, como}
 {CW. di}
 [fol. 101v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 dificil de hazer y trabajosa, la hu-
 uiere cumplido: que mucho mejor
@@ -5109,7 +5109,7 @@ pos es tenida por el mejor, no quita
 el dolor de suyo, sino por acidente}
 {CW. lo miti}
 [fol. 102v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 lo mitiga; por quanto con dimi-
 nuir la sangre cessa el corrimiento
@@ -5165,7 +5165,7 @@ son buenas para amansar el dolor,
 pero no para quitarlo del todo: solo}
 {CW. el}
 [fol. 103v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 el agua tibia, hechada de poco en po-
 co sobre la parte del dolor, en tan-
@@ -5215,7 +5215,7 @@ para la gota coral, y para el dolor de
 la Iaqueca, con las demas enfermeda-des}
 {CW. des}
 [fol. 104v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 que se descubren en el cuerpo,
 y miembros causadas por las desti-
@@ -5270,7 +5270,7 @@ uada nuestra proposicion primera:
 Que ni el humor de la Gota, ni qual-quier}
 {CW. quier}
 [fol. 105v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 otro intrinseco que da pas-
 sion y dolor, y se descubre en los
@@ -5319,7 +5319,7 @@ los huessos: por el comer y beuer
 con gusto: y por el dormir sossega-do:}
 {CW. do}
 [fol. 106v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB1.
 y en fin por la ordinaria y coti-
 diana camara solida por la mañana.

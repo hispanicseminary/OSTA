@@ -214,7 +214,7 @@ mas esforçados entroaq<ue> fue-
 ron enestas montaynnas de
 aynsa & de sobrarbe no<n> finco}
 [fol. 3v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 mas de .CCC. a[ ]cauayllo. & no
 auia ningu<n>o que fiziesse uno
@@ -342,7 +342,7 @@ q<ue> no eche moneda ataq<ue> .xij. ay-
 nos aya regnado. & despues de .xij.
 aynnos q<ue> eche moneda q<u><<o>>al eyll}
 [fol. 4v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 q<u><<i>>siere & no mas en todos sus
 dias. Et si los del Regno non
@@ -470,7 +470,7 @@ li entridiere ensu tierra.
 et si pasa la huest daque<n>t ebro.
 ho aragon contra Nauarra. Si}
 [fol. 5v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 el pregon fuere por la tierra.
 deue<n> sayllir Ricosom<ne>s. & Caua-
@@ -598,7 +598,7 @@ deue otro si el fidalgo tornar et
 render el Castieyllo ho la villa
 al Rey. & si fer no<n> lo q<u><<i>>siere fin-que}
 [fol. 6v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 por traydor. ¶ Et si fue-
 re por aue<n>tura desnaturado por
@@ -726,7 +726,7 @@ cauayllo & armas deue sa-
 yllir en apeyllido co<n> cauayllo
 et armas. q<uoa>n<d>o los uezinos sal-dran}
 [fol. 7v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 en apeyllido. Si por aue<n>-
 tura lis tueylle<n> & tiene<n> alos ue-
@@ -854,7 +854,7 @@ maria de medio agosto puede
 espleytar su honor. Otrossi el
 uassayllo del Ricom<n>e puede es-pleytar}
 [fol. 8v]
-{HD. L<ibro> [^2#Tit<ulo>. 2] +}
+{HD. L<ibro> [^2#Tit<ulo>. 2] ⇒}
 {CB2.
 su honor. Otrosi el me<<s>>-
 nadero del Rey de Nauarra si ti-
@@ -982,7 +982,7 @@ ho por algunas conuenienças q<ue>
 fueron entre eyllos o lures an-
 tecessores deue cobrar. & el sey-nor}
 [fol. 9v]
-{HD. [^2#Tit<ulo>. 3] L<ibro> [^2#Tit<ulo>. 4.] +}
+{HD. [^2#Tit<ulo>. 3] L<ibro> [^2#Tit<ulo>. 4.] ⇒}
 {CB2.
 del castieyllo no<n> lo deue em-
 bargar que no<n> faga su obra. A-
@@ -1356,7 +1356,7 @@ nombre ante el alcalde & otros
 hombres bonos souiendo & la
 partida delant.}
 [fol. 12v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 {RUB. {IN2.} AQui comiença el s<e>c<un>do
 libro enque tracta. De
@@ -1479,7 +1479,7 @@ zio de alcalde sobre paramie<n>-tos +}
 {IN2.} Un {RUB. & conuenienças}
 om<n>e bono auia un palom-bar}
 [fol. 13v]
-{HD. [^3#liber] [^2#Tit<ulo> 1] +}
+{HD. [^3#liber] [^2#Tit<ulo> 1] ⇒}
 {CB2.
 que se tenia ala casa dun
 su uezino & este palombar y-
@@ -1608,7 +1608,7 @@ et si non [^2#por prueuas fidedignas o] por fuero de bataylla.
 {RUB. Q<uoa>n<d>o contiende<n> .ij. uillas co-
 mo se dan fermes.}}
 [fol. 14v]
-{HD. [^3#liber] +}
+{HD. [^3#liber] ⇒}
 {CB2.
 {IN2.} Uilla con uilla si pleyto ouie-
 re sobre terminos la una ala
@@ -3644,7 +3644,7 @@ de uendidas. & de logros. & de pe-
 ynos. & de fiadores. & de donat<i>o<n>es
 et De sepulturas. & de ordenes.}}
 [fol. 30v]
-{HD. L<ibro> +}
+{HD. L<ibro> ⇒}
 {CB2.
 Titulo de eglesias. {RUB. Qui deue
 ser abbat en uilla Realenc(')a o de
@@ -8237,7 +8237,7 @@ q<u><<i>>siere el q<u><<i>> ha la q<ue>reylla deyll pue-
 de demandar por fuero seglar.
 {RUB. Como ningu<n>a orden no<n> de-ue ⇒}}
 [fol. 66v]
-{HD. L<ibr><<o>> [^2#T<itulo> I] +}
+{HD. L<ibr><<o>> [^2#T<itulo> I] ⇒}
 {CB2.
 {RUB. recibir al uillano pechero
 ni<n> recibir el mueble suyo. & la

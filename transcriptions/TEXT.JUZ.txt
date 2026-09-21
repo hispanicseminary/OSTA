@@ -89,7 +89,7 @@ pitulos.
 mero fabla dela segunda casa &
 delas s<us> q<ue>stiones. & a enella tres}
 [fol. 1v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 capitulos.
 {IN1.} Enla q<u><<a>>rta parte fabla (^enla) de-
@@ -257,7 +257,7 @@ los ma<n>daderos & delo q<ue>s tien co<n> el.
 uidamie<n>tos p<ar>a comer.
 {IN1.} El .Lij. Cap<itu>lo fabla enlas cartas}
 [fol. 2v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & enlos m<en>sageros.
 {IN1.} El .Liij. Capitulo fabla en sab<er>
@@ -425,7 +425,7 @@ bimie<n>tos. & dellos me<n>gua<n>tes. ⅋ de-
 llos ay orie<n>tales. & dellos occide<n>tal-
 es. & dellos m<er>idionales. & dellos}
 [fol. 3v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 septemt<r><<i>>onales. ¶ Aries. Leo. &
 Sagitari<us>; son los igneos. ¶
@@ -597,7 +597,7 @@ en su t<er>mino. & en su casa; estonce
 se esfuerça su significatio<n>. & estie<n>de
 se su fecho. & el su da<n>no. ¶ E qual}
 [fol. 4v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 quiere planeta q<ue> entre en qual q<u><<i>>-
 ere delos signos q<ue> son da<n>nadores
@@ -766,7 +766,7 @@ abastar. & de sospechar. ¶ La pri-
 m<er>a faz de Aq<u><<a>>rio es de ven<us>. & es
 faz de siempre seer q<ue>xoso por gan-ar}
 [fol. 5v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & numq<u><<a>> folgar. & de laz<er>ia. &
 de mi<n>gua. & de pobreza & de uileza[.]
@@ -934,7 +934,7 @@ acuerdan se q<u><<a>>n<d>o se catan de trino.
 o de Sextil. ¶ E q<u><<a>>n<d>o cata la plane-
 ta al otra planeta dela casa de so}
 [fol. 6v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 decaemie<n>to; enemigal & aborre-
 cel. ¶ E q<u><<a>>n<d>o la cata dela .xij. ca-
@@ -1103,7 +1103,7 @@ sus espadas. & guisa sos cauallos.
 los Reyes sos uezinos. E en tod-
 as las partes de virgo es Rey. q<ue>}
 [fol. 7v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ama ioglerias. & cantares. & es-
 tar se q<ue>do. so uoluntat es en co-
@@ -1271,7 +1271,7 @@ endas malas; & mal puestas &
 de malos uestidos. & malas qua-
 lidades en su cuerpo & en su uicto.}
 [fol. 8v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ¶ ⅋ en todas las partes de Canc-
 er; es de grant alteza. & de alto g<r><<a>>-
@@ -1440,7 +1440,7 @@ chos cuedados. & tristezas. no<n> a
 fuerça ni<n>guna. ni mouimie<n>to
 ninguno. Enla segunda faz de}
 [fol. 9v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 virgo. precia se. & gabas delas
 cosas q<ue> no<n> puede fazer ni<n> con-
@@ -1608,7 +1608,7 @@ de Cancer. es Rey. alto & noble
 & de alto poder. guarnido co<n> sus
 armas. guisado. & presto a ma-tar.}
 [fol. 10v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & lidiar. Enla t<er>cera faz de Can-
 cer. ama caçar. & seguir los bes-
@@ -1776,7 +1776,7 @@ da. menaza con ella alos om<ne>s
 mera faz de Tauro. es desuerg-
 onçado. q<ue> sigue su uolu<n>tat. celo-so.}
 [fol. 11v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ama & busca iazer con mugi-
 eres por fuerça & por uencimie<n>-
@@ -1944,7 +1944,7 @@ fortunio. porq<ue> su natura es na-
 tura delas mug<ie>res. E qui a na-
 tura enfeminada; no<n> a sofrimi-ento.}
 [fol. 12v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & q<ue>xa se. & da se tristeza. & du-
 elo. por poca cosa q<ue>s acaeçra. & el-
@@ -2114,7 +2114,7 @@ beuedor. & ioglar. & ama alegria.
 las partes de Gemini. cobdicia
 lidia[^r]. & aguisa se amatar se. con-uida}
 [fol. 13v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 los om<ne>s alas cosas celad-
 as & cubiertas. ¶ En todas las
@@ -2282,7 +2282,7 @@ mayor miente si fuere en opposi-
 to del ascendente infortuna; q<ue>
 sea enemiga del ascendente. o q<ue>}
 [fol. 14v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sea el se<n>nor dela casa dela dema<n>da
 q<ue>mado. o retrog<r><<a>>do o q<ue> no<n> cate al
@@ -2450,7 +2450,7 @@ phorismos enlas desacorda<n>ças de-los +}
 {IN1.} Desacordaron se {RUB. sabios a<n>tigos.}
 enlos t<er>minos. & son cinco oppini-ones.}
 [fol. 15v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 La prim<er>a es delos Egipcia-
 nos. La segunda es de Tolom<e>o.
@@ -2618,7 +2618,7 @@ cen; es cosa q<ue> contecio en aq<ue>lla
 hora. & el iudga sobre la figura del
 conpeçamie<n>to dela cosa segund iu-dga}
 [fol. 16v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sobre la figura dela nace<n>cia.
 Ca si conpeçamos de labrar una
@@ -2787,7 +2787,7 @@ muchos delos antigos. & muchos
 delos nueuos se acuerda<n>. & obran
 porella. ¶ ⅋ dorothius dize. yo}
 [fol. 17v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ueo departir las cosas en q<u><<a>>tro
 partes. La prim<er>a p<ar>te es loq<ue> fue
@@ -2955,7 +2955,7 @@ fuerte en so logar. & la q<ue> a mas
 dignidades enel ascende<n>te. o en
 el Luminar del tiempo. & iudga}
 [fol. 18v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 segund iudgueste prim<er>o. E en to-
 das guisas te conuiene de parar
@@ -3134,7 +3134,7 @@ es; es la .ij<<a>>. casa. & sigue la enla
 bondat la .viij<<a>>. & la peyor dellas
 es la .vij<<a>>. & sigue la enla maldat}
 [fol. 19v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 la .xij<<a>>. {RUB. [^De co<n>nocer la co-
 lor dela cosa.]} ¶ Sabra<n> la color dela co-
@@ -3307,7 +3307,7 @@ to delos significadores entiende[.]
 mayor catamie<n>to a. alas cinco
 yles. segund su ordenacio<n>. ¶ El}
 [fol. 20v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 mas saluo dellos es; delas occa-
 siones. el qui fuere mas limpi-
@@ -3475,7 +3475,7 @@ neta q<ue> lieue la lumbre del sen-
 nor del ascende<n>te al se<n>nor del .vij.
 o q<ue> ayunte entre la Luna. & otro}
 [fol. 21v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 planeta qual quiere. toma aq<ue>l
 planeta por significador daquel
@@ -3649,7 +3649,7 @@ del Sol; aq<ue>l es almubtez. ⅋ si fu-
 ere<n> eguales en esto; el qui fuere
 dellos en angulo; es almubtez.}
 [fol. 22v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ si fuere<n> eguales en esto; el q<u><<i>>
 ouiere dellos mas dignidades
@@ -3817,7 +3817,7 @@ gar enq<ue> prometio aq<ue>lla cosa. ⅋ q<u><<a>>n-
 do legare al grado del asce<n>de<n>te. o asu
 se<n>nor. o al almubtez desobrel. ¶ La}
 [fol. 23v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 planeta q<u><<a>>n<d>o llega a otra planeta.
 & toma su nat<ur>a daq<ue>lla planeta;
@@ -3985,7 +3985,7 @@ q<ue> llegue ala .xij<<a>>. casa. ¶ E dize<n>
 otros. cata la prim<er>a (^dela) dema<n>da;
 del prim<er>o llegamie<n>to q<ue> ouiere la}
 [fol. 24v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Luna. & la segunda del segundo. &
 assi por esta orde<n>; q<u><<a>>ntas fuere<n> las
@@ -4156,7 +4156,7 @@ q<ue>s pone el Sol troa media noc-
 he. ⅋ si fueren enla parte septem-
 trional; dema<n>de s<us> cosas desde}
 [fol. 25v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 media noche troa q<ue> suba el Sol
 otro dia. ¶ ⅋ dize el conpilad-
@@ -4324,7 +4324,7 @@ te uiene; dexal assentar como qui-
 siere. & despues paramie<n>tes sis as-
 sentare en parte de Jup<ite>r o de ven<us>;}
 [fol. 26v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sepas q<ue> te quiere bien. & q<ue>s loa
 de ti. & q<ue> te es u<er>dadero. & q<ue> te faz
@@ -4492,7 +4492,7 @@ as cosas. esto es del ascendente}
 {IN2.} EN esto para mientes al sig-
 nificador daq<ue>lla cosa. & si a-q<ue>l}
 [fol. 27v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 significador fuere enel logar
 del cont<r><<a>>rio daq<ue>lla cosa. & llega-
@@ -4666,7 +4666,7 @@ nificador & q<ue> sea enlos angulos.
 pues la .iiij<<a>>. & despues los sucede<n>-
 tes. ⅋ el meior dellos es la .xi<<a>>.}
 [fol. 28v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & despues la qui<n>ta. & despues la
 .ij<<a>>. & despues la .viij<<a>>. ⅋ la meior
@@ -4838,7 +4838,7 @@ dres & delos fijos. & delos sieruos.
 & delas mug<ie>res. & del Rey. & delos
 amigos. & delos sayones. & delos}
 [fol. 29v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enemigos. cataras por ellos as-
 si como cateste eneste Capit<u>lo.
@@ -5006,7 +5006,7 @@ la cola. & la catare el se<n>nor de su ca-
 sa. o alguna delas luminarias
 de bue<n> catamie<n>to; iudga q<ue>las nu-euas}
 [fol. 30v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 son u<er>daderas conel plazer
 de dios {RUB. {IN1.} Esta es la .v<<a>>. p<ar>te del prim<er>o
@@ -5174,7 +5174,7 @@ ere retrograda; di q<ue> aq<ue>llos q<ue> y a
 q<ue> los arrancaran. ⅋ si el medio ci-
 elo fuere uazio delas planetas;}
 [fol. 31v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cata al se<n>nor de medio cielo. & si
 catare a su logar; di q<ue> ay arboles.
@@ -5342,7 +5342,7 @@ el se<n>nor dela heredat; dela .vij<<a>>. casa.
 & el loguero de medio cielo. & la fin
 dela cosa; dela q<u><<a>>rta casa; & pues si fa-llares}
 [fol. 32v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enel ascendente fortuna. di
 q<ue> elq<ue> toma la heredat a arre<n>da es
@@ -5514,7 +5514,7 @@ enemiztat. ca deste catamie<n>to & des-
 te recibimie<n>to sabras si aura loq<ue> de-
 ma<n>da o no<n>. ⅋ si aq<ue>l recibimie<n>to fu-ere}
 [fol. 33v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de amor; di q<ue>lo aura lig<er>a mi-
 ente. ⅋ si el recibimie<n>to fuere de
@@ -5682,7 +5682,7 @@ q<ue> es enel techo daq<ue>l q<u><<a>>rto o cayre.
 ⅋ si quisieres saber so logar; p<ar>te
 la casa o el logar en q<u><<a>>tro p<ar>tes. & des-pues}
 [fol. 34v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 mide el q<u><<a>>rto q<ue> ouieres iud-
 gado q<ue> es enel; en t<ier>ra o en paret.
@@ -5852,7 +5852,7 @@ rtear las. & au<er> amor & amiztat con-
 ellas. & significa afeytamie<n>tos. & las
 cosas odoriferas. ⅋ significa amor}
 [fol. 35v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delos amigos. ¶ El se<n>nor de su tri-
 plicidat el prim<er>o; es significador
@@ -6020,7 +6020,7 @@ nes. o signos de muchos fijos. &
 las fortunas catando a ellos. o q<ue>
 sean en ellos. o q<ue> sean los se<n>nores}
 [fol. 36v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 destos signos sobredichos en sign-
 os comunes. o en signos de muc-
@@ -6192,7 +6192,7 @@ a sobtana mie<n>te & folgada. mas
 la creatura lazrara. ⅋ si Jup<ite>r cata-
 re este catamie<n>to q<ue> dixiemos de}
 [fol. 37v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Mars. significa saluacion del na-
 cido. & q<ue> parra lig<er>o. & folgada mi-
@@ -6360,7 +6360,7 @@ de planetas masc<u>linos; es maslo.
 mini<n>as; es fembra. ⅋ las plane-
 tas q<ue> significa<n> maslos; so<n> el Sol. &}
 [fol. 38v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Jup<ite>r. & Mars. ⅋ los q<ue> significa<n> fem-
 bras; so<n> Saturno. & ven<us>. & la Luna.
@@ -6531,7 +6531,7 @@ luna. & si ouiere entrel se<n>nor dela
 luna llegamie<n>to alguno. & fuere
 el ascendente. & la luna. en signos}
 [fol. 39v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 comunes. & fuere<n> los significador-
 es enlos angulos. & mayor mie<n>te
@@ -6701,7 +6701,7 @@ messagero es el se<n>nor dela .v<<a>>.
 casa del ascendente. & la luna su a-
 pparcera en esto. & el significador}
 [fol. 40v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 dela razon dela messageria es la
 planeta aquien llega el se<n>nor de-
@@ -6870,7 +6870,7 @@ se esta cue<n>ta delos grados co<n> la cue<n>-
 ta q<ue> finca ala luna de llegar al g<r><<a>>-
 do del ascendente de cuerpo. o de lle-gar}
 [fol. 41v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 al grado del se<n>nor de su logar.
 ⅋ otro tal del se<n>nor del ascendente.
@@ -7038,7 +7038,7 @@ ra porel Sol en s<os> testimonios. &
 otro tal sera por la Luna. pero q<ue>la
 luna enesto a menos poder q<ue> el}
 [fol. 42v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Sol. ⅋ la cosa deq<ue> fuere su significa-
 dor en su exaltacio<n>; sera noble &
@@ -7215,7 +7215,7 @@ otrossi significa q<ue> el comer sera
 limpio. & en deportoso logar. & ale-
 groso. ⅋ si M<er>curio fuere otrossi en}
 [fol. 43v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 alguno delos angulos. & fuere for-
 tunado de alguna fortuna; otro-
@@ -7387,7 +7387,7 @@ del conuit. ⅋ la .ij<<a>>. casa alqui es-
 ta posado a tu siniestro. ⅋ la .xij<<a>>.
 alqui fuere posado a tu diestro. ⅋}
 [fol. 44v]
-{HD. LIBRO +}
+{HD. LIBRO ⇒}
 {CB2.
 otrossi la .vi<<a>>. casa; al qui fuere a
 diestro del se<n>nor del <con>uit. ⅋ la .viij<<a>>.
@@ -7559,7 +7559,7 @@ nas. o de infortunas; significado-
 res delas cosas q<ue> an fiuza. & delas
 cosas q<ue> acaeçran por aq<ue>lla carta}
 [fol. 45v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & delas uolu<n>tades delos dos del q<u><<i>>la
 e<n>uia. & daq<ue>l aquie<n> ua. & q<ue> uolu<n>-
@@ -7900,7 +7900,7 @@ o non.
 {IN1.} El .xxiiij<<o>>. Capitulo f(^l)abla enla de-
 ma<n>da si barate con mug<ie>r esta}
 [fol. 47v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 noche o no<n>. o si baratare ala noc-
 he o non.
@@ -8068,7 +8068,7 @@ la .x<<a>>. casa. & la pratica q<ue>les menes-
 ter. ⅋ toma<n> dela .vij<<a>>. casa. la fazi-
 enda del fisico q<ue> obra enel enfer-mo.}
 [fol. 48v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ toman dela q<u><<a>>rta casa; la fin
 del enfermo; & dela enfermedat.
@@ -8237,7 +8237,7 @@ siere y la fallara. ⅋ otrossi desmi<n>-
 tiosse el mismo en su dichos
 q<u><<a>>n<d>o en saber la significa-cion}
 [fol. 49v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delos Reyes. & de sus aporte-
 llados. q<ue> una uez la toma del
@@ -8405,7 +8405,7 @@ dizios de astronomia. & mas aca-
 bado q<ue> todos en esta sciencia. fu-
 eras ende sos dichos que non so<n>}
 [fol. 50v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 esplanados. & sos palabras que
 son muy encerradas. & sus ente<n>-
@@ -8574,7 +8574,7 @@ tos daquel signo. ⅋ la cuenta q<ue>
 end saliere echa la del grado del as-
 cendente; dando .xxx. grados a ca-da}
 [fol. 51v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 signo. & enel logar o sse fina
 la cuenta; enaquel miembro
@@ -8742,7 +8742,7 @@ luna antes que llegue ala q<u><<a>>dra-
 dura del Sol enel signo enque
 fue la nacencia. o enel signo en}
 [fol. 52v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 que fue enel conpeçamiento de-
 la enfermedat; esto significa li-
@@ -8910,7 +8910,7 @@ llegare a aquel significador algra-
 do daquel angulo; estonce sera la
 muerte. E el tiempo dela salut}
 [fol. 53v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sera porel mouimiento del alm-
 ubtez; & su llegamie<n>to alas fort-
@@ -9082,7 +9082,7 @@ te cap<itu>lo en sab<er> si es el enf[er]mo med-roso +}
 o es la luna. & cuya es la dig-
 nidat dela duodenaria enq<ue> es la}
 [fol. 54v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Luna. & si aquella duodenaria fu-
 ere de Saturno; significa q<ue> aq<ue>l
@@ -9254,7 +9254,7 @@ cende<n>te da<n>nado. o el se<n>nor dela ca-
 sa dela luna otro tal. ca estos son
 significadores delas fines delas}
 [fol. 55v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cosas. empero si el se<n>nor dela ca-
 sa dela muerte fuere fortuna
@@ -9422,7 +9422,7 @@ ento. & aquel recebidor q<ue>la recibi-
 ere fuere subie<n>te en su ece<n>trico del
 se<n>nor dela casa dela fin testimu<n>-nare}
 [fol. 56v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 escapamiento & salut; no<n>
 dubdes en sanidat daquel enfer-
@@ -9591,7 +9591,7 @@ dio cielo & su se<n>nor. & el Sol; al se<n>-
 nor del sieruo. & pues cata la lu<n>a
 & el se<n>nor del ascendente; qual}
 [fol. 57v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 dellos fuere mas appoderado en
 la question. & sil fallares q<u><<i>>tan-
@@ -9759,7 +9759,7 @@ ascendente & su se<n>nor; al se<n>nor
 del sieruo. & la sexta casa & su sen-
 nor & la luna al sieruo. ⅋ la segu<n>-da}
 [fol. 58v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & su sennor; al conprador q<ue>lo
 conpra del. ⅋ pues cata si falla-
@@ -9931,7 +9931,7 @@ plicidat. o en logar bueno & appo-
 derado pora ella. & es el ascende<n>te
 o el medio cielo. o la casa dela fi-uza.}
 [fol. 59v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o llegando alas fortunas
 & catando a ellas; significa q<ue> sa-
@@ -10099,7 +10099,7 @@ llega la luna significadores da-
 quel por quie<n> demandan. ⅋ si
 el demandador fue varo<n>; ayun-ta}
 [fol. 60v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 el Sol con sos significadores.
 & apparceral enla significacion.
@@ -10267,7 +10267,7 @@ iador fuere se<n>nor dela .viij<<a>>. casa
 o dela .vi<<a>>. o dela quarta. o dela
 .xij<<a>>. o q<ue> sea en signo fixo. o en al-guno}
 [fol. 61v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delos angulos. mas los o-
 tros taiamientos q<ue> no<n> fuere<n>
@@ -10435,7 +10435,7 @@ question. o el medio cielo del co<n>-
 peçamie<n>to del casamie<n>to. & si fal-
 lares enel i<n>fortuna; significa aue-nencia.}
 [fol. 62v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ otrossi cata ala q<u><<a>>rta ca-
 sa. Si fallares en ella infortu<n>a;
@@ -10603,7 +10603,7 @@ aquel casara ante. E q<u><<a>>ndo falla-
 res los dos significadores q<ue> signi-
 ficaron por su llegamie<n>to q<ue> sera}
 [fol. 63v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 el casamie<n>to. & q<ue>s conplira. & fue-
 re aquella signification del seer
@@ -10771,7 +10771,7 @@ dente llegando al se<n>nor dela .vij<<a>>.
 casa. o ala planeta que fuere
 enla .vij<<a>>. casa. o ala planeta a}
 [fol. 64v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 quien llega la luna. ⅋ las infortu-
 nas catando a estas planetas de
@@ -10940,7 +10940,7 @@ g<ie>r uençra al varon. & q<ue>s partira<n>
 h<e>ndra assi mismo. ¶ E assi des-
 ta man<er>a iudgaras de omne que}
 [fol. 65v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ha palabras con mug<ie>r puestas.
 si entrara con ella o non. ⅋ si fal-
@@ -11110,7 +11110,7 @@ re ven<us> enla .vij. casa en casa de
 Saturno. dique aquel omne
 barata con mug<ie>res q<ue> nol perte-[ne]cen}
 [fol. 66v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 assi como son putas manifi-
 estas. E si fuere ven<us> enla .vij.
@@ -11284,7 +11284,7 @@ en signo masculi<n>o. di q<ue> es maslo
 ⅋ si y fallares planeta femini<n>o
 en signo femini<n>o; di q<ue> es fembra}
 [fol. 67v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 E sepas que en este Capitulo la
 significacion delas quartas & de-
@@ -11455,7 +11455,7 @@ cosa; dal por significador el asce<n>-
 dente. ⅋ toma esta signification
 del ascendente. & dela segunda ca-sa.}
 [fol. 68v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 assi como la tomeste dela .vij<<a>>.
 & dela .viij<<a>>. & iudga segund falla-
@@ -11623,7 +11623,7 @@ signo enque es. que si aquel
 signo fuere oriental; es enla par-
 te oriental; del astrologo q<ue> iudga}
 [fol. 69v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ si fuere occidental; es enla p<ar>te
 de occidente. ⅋ si fuere septemt<r><<i>>o-
@@ -11793,7 +11793,7 @@ o enla parte del medio cielo. dos
 destas formas o mas. mezclar-
 as sus significat<i>ones. & diras se-gund}
 [fol. 70v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ello. ⅋ si aquella cosa p<er>dida
 fuer ot<r><<o>> animal no<n> om<n>e. que la
@@ -11961,7 +11961,7 @@ en Escorpio<n>. es co(^mo)[^n] lo q<ue> demue-
 stra Saturno por si; de alta frue<n>-
 te & angosta. muchos cabellos}
 [fol. 71v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enla cabeça. & gordos. quiça q<ue>s;
 fiende<n> sus cabellos. de grandes pi-
@@ -12138,7 +12138,7 @@ parecida sangre. de fermosos oi-
 os. & las ninitas delos oios gran-
 des. mediano de cuerpo. de fermo-so}
 [fol. 72v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 andar. & de temprados fechos. &
 mansos. fazes bien q<ue>rer por sus
@@ -12310,7 +12310,7 @@ si es el ladron uno o mas de vno;
 cata el signo enq<ue> es la planeta q<ue>
 significo el furto. & si fuere signo}
 [fol. 73v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fixo. & mayor miente si fuere de dere-
 chos subimie<n>tos & de pocos fijos.
@@ -12481,7 +12481,7 @@ el cellero. & el logar o tiene<n> el ag-
 ua & el pozo. ¶ E del logar de ve-
 n<us> sabras el logar delos iuegos}
 [fol. 74v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & delas mugieres. ¶ E del lo-
 gar de Mercurio; sabras el log-
@@ -12649,7 +12649,7 @@ mientos de lides. olo q<ue>l semeia.
 es estrume<n>te otrossi pora lidiar.
 ⅋ sil catare Jup<ite>r con Mars; diq<ue> es}
 [fol. 75v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delas armas q<ue> suelen ten<er> los
 om<ne>s grandes. & los ordenados.
@@ -12817,7 +12817,7 @@ del t<er>mino dela luna. & el se<n>nor de
 la casa del Sol. ca estos estados
 todos significan q<ue>s falla aq<ue>lla}
 [fol. 76v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cosa furtada. & mayor mie<n>te si fu-
 ere la planeta significador en a<n>-
@@ -12985,7 +12985,7 @@ ayuda te enesto dela forma del
 signo otrossi. ca si aquel signo fu-
 ere signo de fuego; di que es en}
 [fol. 77v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 logar o suelen acender fuego. ⅋ si
 fuere aqueo; di que es en logar
@@ -13158,7 +13158,7 @@ elo catare aaquel retrogrado del-
 los; significa que el alcalde mal
 traera al se<n>nor de aquella signifi-catio<n>.}
 [fol. 78v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & que aquella uara[ia] & aquel
 pleyto se alongara mucho. ⅋ o-
@@ -13326,7 +13326,7 @@ tuna; significa ligereza & u<er>dat del
 uendedor. & enla uendida. ⅋ si y fal-
 lares infortuna; significa pereza}
 [fol. 79v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & mentira. E si fallares enla .vija.
 casa fortuna; significa ligereza &
@@ -13494,7 +13494,7 @@ aquella cosa q<ue>s uende. a alguna
 tacha. o acaeçra en ella dannam-
 iento. & furtar la a ladron. ⅋ otros-si}
 [fol. 80v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sera q<u><<a>>ndo fuere enla q<u><<a>>rta casa
 infortuna. ⅋ mayor miente si a-
@@ -13666,7 +13666,7 @@ que demuestran loque no<n> creen.
 & Saturno fuere alçado sobrel;
 significa que el Rey sera bueno}
 [fol. 81v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & iusto. & los ques le leuantan
 malos. & de malas uoluntades
@@ -13834,7 +13834,7 @@ su exaltacion; sera om<n>e noble q<ue>
 conuiene a regnar. ⅋ si fuere en
 su t<er>mino. o en su otra dignidat}
 [fol. 82v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sera menos desto. ⅋ si no<n> fuere en
 ni<n>guna de sus dignidades; aquel
@@ -14002,7 +14002,7 @@ por enga<n>nos. ¶ E este iudiz-
 io dixo Messeallah que lo p<ro>uo.
 & c(^u)onto lo. alfad fijo de Cehel.}
 [fol. 83v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 en su libro. ⅋ sigues este iudizio
 enlos conpeçamie<n>tos delas bata-
@@ -14170,7 +14170,7 @@ uaraias. & por pleytesias q<ue> aya<n> +}
 Rey o princep por lid quel
 costa & quel alcança so bien. o}
 [fol. 84v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 (o) so mal; da al demandador el
 ascendente. & su se<n>nor. & a su ene-
@@ -14338,7 +14338,7 @@ tra<n>nas. aq<ue>llas seran signifi-
 cadores dela fin de cada uno de-
 llos. ¶ La segunda casa & la}
 [fol. 85v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 onzena son significadores de
 los ayudadores del se<n>nor del
@@ -14506,7 +14506,7 @@ monias delas fortunas. la
 buena andança sera a aquel
 cuyo significador es. ⅋ si fuere<n>}
 [fol. 86v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 la parte fortune. & su se<n>nor en
 hayz del ascende[<n>]te. & enla par-
@@ -14674,7 +14674,7 @@ caualleros. & anda en ello con en-
 ga<n>nos & con m<en>tiras. ⅋ qual destas
 planetas fuere. el uieres digni-dat}
 [fol. 87v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 mayor enel ascende<n>te. o en
 la .vij<<a>>. casa. iudga q<ue> aquella p<ar>te
@@ -14842,7 +14842,7 @@ logar q<ue>l p<er>tenece segu<n>d esto. & acer-
 taras con dios. ¶ E otrossi si al-
 gun uassallo delos del Rey salliere}
 [fol. 88v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de su obediencia. & dema<n>dare el
 Rey por el q<ue> sera; iudga el desobe-
@@ -15011,7 +15011,7 @@ nas catando a ella de q<u><<a>>dradura o
 de opposicion; significa q<ue>l enfor-
 caran. ⅋ si fuere la luna en medio}
 [fol. 89v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cielo o enla .vij<<a>>. casa. o enla q<u><<a>>rta
 acercada entrel Sol & Saturno;
@@ -15183,7 +15183,7 @@ ven<us> conel. & el Sol conel. & falle
 el se<n>nor dela .vij<<a>>. casa; enla t<er>cera
 casa cayente de angulo. & no<n> recebi-do.}
 [fol. 90v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & el se<n>nor del ascendente recebi-
 do; del se<n>nor dela .vij<<a>>. casa; significo
@@ -15351,7 +15351,7 @@ mie<n>to de traycion. ⅋ q<u><<a>>n<d>o fuere M<er>cu-
 rio da<n>nado o q<ue>mado; iudga la tray-
 cio<n> & el enga<n>no; affincada mie<n>te}
 [fol. 91v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ si fuere Mars con M<er>curio; aq<ue>l-
 la traycio<n> sera manifiesta & desc-
@@ -15519,7 +15519,7 @@ catare<n> de quad(u)rad<ur>a o de opposicio<n>;
 sera la paz despues dela uaraia.
 ⅋ si fuere el uno dellos recebiendo}
 [fol. 92v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 al otro. & fuere el ot<r><<o>> retrogrado o en
 logar q<ue> nol conuiene assi como
@@ -15687,7 +15687,7 @@ la postura ni enla segurança q<ue>les
 faran. ⅋ si fuere M<er>curio conlas
 fortunas; conplir les an los ple-ytos}
 [fol. 93v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & las seguranças que les
 faran. ⅋ si fuere la fortuna enel
@@ -15855,7 +15855,7 @@ at. & fuere<n> las fortunas caydas
 de su catamie<n>to. tomara<n> aq<ue>lla
 uilla. & robaran la su yente. ⅋ si}
 [fol. 94v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere estonce Jup<ite>r enel ascende<n>-
 te q<ue> es su opposito de Saturno; si-
@@ -16024,7 +16024,7 @@ trel & entrel grado del grado q<u><<a>>nto su
 orbe dela planeta; iudga que aq<ue>l
 cuyo so significador fuere entra<n>do}
 [fol. 95v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 al ascendente del otro; aquel gu-
 erreara la t<ier>ra del otro. & entrara
@@ -16192,7 +16192,7 @@ pitulo fabla en demanda por ca-ça. +}
 dela caça del ascendente. & de
 la luna. & del se<n>nor del t<er>mino daq<ue>l}
 [fol. 96v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 grado. & del se<n>nor dela ora. q<ue> el mas
 appoderado que puede seer (^es) el
@@ -16361,7 +16361,7 @@ mars es occasion en esta cosa. &
 malo. si no<n> si fuere Jup<ite>r catando
 al ascendente. & que sea el almub-tez}
 [fol. 97v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 del ascendente; seyendo dere-
 cho. & no<n> q<ue>mado. nin en so decaso
@@ -16527,7 +16527,7 @@ las estrellas.
 {RUB. El prim<er>o capitulo fabla enla
 ochaua casa & en sus q<ue>stiones.}}
 [fol. 98v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {IN10.} Esta casa es
 significador
@@ -16697,7 +16697,7 @@ no<n>. E el t<er>cero significa las scie<n>cias
 & los sue<n>nos. ⅋ si son u<er>daderos o no<n>.
 & las estrellas. & si acertara en sos}
 [fol. 99v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 iudicios o no<n>. ¶ E q<u><<a>>ndo te dem-
 andare<n> por alguna q<ue>stion. & qui-
@@ -16865,7 +16865,7 @@ dixiemos antes de Jup<ite>r. ⅋ si fue-
 re el se<n>nor dela casa Saturno;
 di assi como ante dixiemos de}
 [fol. 100v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Saturno enla razo<n> de Jup<ite>r. & assi
 diras de cada una delas plane-
@@ -17033,7 +17033,7 @@ esto si fuere ven<us> catando al se<n>-
 nor del ascende<n>te de trino. E loq<ue>
 dixiemos q<ue> significa Jup<ite>r se-ra}
 [fol. 101v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 mas firme si fuere catando al
 se<n>nor del ascendente. [^de alguno delos
@@ -17203,7 +17203,7 @@ o tornando se de entrar enla ca-
 sa dela carrera; estas son signifi-
 cationes de encobamie<n>to enla}
 [fol. 102v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 carrera. & detarda<n>ça. & de lue<n>ga
 morança. ¶ La q<ue>mazon es
@@ -17371,7 +17371,7 @@ entes de angulos; significa q<ue> aue-
 ra el en aquella uilla flacos aiu-
 dadores & pocos. & q<ue> aura flaca aiu-da}
 [fol. 103v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & poca pro. daquellos aquie<n>
 se acuesta enla villa. & no<n> aura
@@ -17543,7 +17543,7 @@ conpa<n>na. & acaecer la en yendo se.
 la q<u><<a>>rta casa & la .vij<<a>>; acaecer la a-
 quello; en tornando se. {RUB. El .ix<<o>>. ⇒}}
 [fol. 104v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {RUB. cap<itu>lo fabla enla dema<n>da q<ue>
 faz om<n>e sil es meior la uilla e<n>
@@ -17719,7 +17719,7 @@ logar o fueren las fortunas. & los
 meioramie<n>to. & la fortuna en aq<ue>l-
 la cosa. ⅋ las infortunas & los in-fortunados.}
 [fol. 105v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 significa<n> el mal &
 las occasiones. & las cuetas gra<n>-
@@ -17887,7 +17887,7 @@ netas. & por sus significat<i>o<n>es con-
 plidas; son cosas falladas enlos
 tres logares. quiero dezir en uisi-on.}
 [fol. 106v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & en asmamiento. departie<n>do
 enso asmamie<n>to la cosa q<ue> puede
@@ -18055,7 +18055,7 @@ escontra el agua. ⅋ Gemini alos go-
 u<er>nios dela naue. E cancer al fon-
 don dela naue. Leon al somo dela}
 [fol. 107v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 naue aquello q<ue> esta sobre la a-
 gua. Virgo; al uientre dela na-
@@ -18227,7 +18227,7 @@ sion sera; segu<n>d el poder dela infor-
 tuna. & segund el redramie<n>to del-
 as (^in)fortunas. ⅋ si fuere aq<ue>lla}
 [fol. 108v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 infortuna enla .vij<<a>>. casa. & fuere el
 da<n>nador Saturno; q<ue>brara la p<ar>te
@@ -18395,7 +18395,7 @@ del ascendente. & sis fuere quita<n>do
 del se<n>nor dela quarta casa. o el se<n>-
 nor dela q<u><<a>>rta casa quitandos del; si-gnifica}
 [fol. 109v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 q<ue> salle ayna dela prision.
 E si fuere aquel se<n>nor del ascend-
@@ -18568,7 +18568,7 @@ so matara el Rey. ⅋ esso mismo
 iudga si fuere Mars infortuna<n>-
 do al significador & fuere se<n>nor}
 [fol. 110v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 del medio cielo si no<n> ouiere algu-
 na fortuna quelo arriedre. & tu-
@@ -18736,7 +18736,7 @@ significa escapamie<n>to. si no<n> si fu-
 ere infortuna. o fuere en angulo.
 q<ue> estonces (^sera) significa que du-rara}
 [fol. 111v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enla prisio<n>. troa q<ue> aq<ue>lla i<n>-
 fortuna salga daquel signo
@@ -18910,7 +18910,7 @@ catando la de catamie<n>to de enem-
 iztat; significa q<ue> aquel preso
 morra en aquella prision. ⅋ cada}
 [fol. 112v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 q<ue>la luna fuere enla ora dela pri-
 sion me<n>guada enla lumbre; es
@@ -19079,7 +19079,7 @@ que no<n> aya grados entre medias;
 sera el tiempo del escapamie<n>to q<u><<a>>n-
 do llegare a el de cuerpo. & estonces}
 [fol. 113v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 escapara con dios. E si fuere el as-
 cendente Sagitario o Piscis; & fu-
@@ -19247,7 +19247,7 @@ alcançara. ni<n> podra passar a el.
 E si fuere el se<n>nor del ascende<n>te
 alçado dela .xij. casa & ayuntado}
 [fol. 114v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 con las fortunas; significa q<ue> no<n>
 podran passar al quis teme ni fa-
@@ -19415,7 +19415,7 @@ otrossi. aq<ue>llo es peyor. & mas a
 fincado mal. E la peyor q<ue> puede
 seer la infortuna en esto; es si}
 [fol. 115v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere se<n>nor dela .viij<<a>>. casa. ca es-
 tonces significa muerte & destr-
@@ -19583,7 +19583,7 @@ alteza. & Rey. & Re-
 gno. & se<n>norio. & al-
 caldia. & la nobleza.}
 [fol. 116v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & la nombradia. & buena fama
 a lue<n>ne. & significa maestrias. & o-
@@ -19757,7 +19757,7 @@ grados q<ue> fueren entre la fortu<n>a.
 & el se<n>nor del ascende<n>te. & entre
 la infortuna quel da<n>no. & danno}
 [fol. 117v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 la luna dando a cada grado un
 mes. E la q<u><<a>>ntidat dela pro q<ue>l
@@ -19925,7 +19925,7 @@ mo significa Mars dela prision.
 nor del ascendente llegare a el.
 o el al se<n>nor del ascendente de q<u><<a>>-dradura}
 [fol. 118v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o de opposicion; o de con-
 iu[<n>]ction seyendo en esto Mars se<n>-
@@ -20093,7 +20093,7 @@ al grado dela .x<<a>>. casa o al logar del
 cuerpo dela infortuna o a sus ray-
 os; otrossi arriedra aq<ue>lla infortu-na.}
 [fol. 119v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & aluenga troa q<ue> passa aquel
 logar. E q<u><<a>>ndo fuere el grado dela
@@ -20261,7 +20261,7 @@ E si fuere en signo mouible; diq<ue>
 durara y .x. meses. ⅋ si fuere la lu-
 na recebida. ⅋ el se<n>nor de su casa}
 [fol. 120v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere apoderado en su logar; faz le
 reuolucion de su a<n>no. & cata si fal-
@@ -20437,7 +20437,7 @@ do. E q<u><<a>>ndo fuere<n> enla q<u><<a>>rta casa;
 significan su salud. & que aura
 buena fin. E q<u><<a>>ndo fuere el Sol}
 [fol. 121v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enla .viij<<a>>. casa. o enla .vi<<a>>. & fuere
 el se<n>nor del ascendente fortuna
@@ -20605,7 +20605,7 @@ da casa del ascendente dar alos au-
 eres del pueblo. & dar la .x<<a>>. casa al
 Rey. & la segunda casa dela .x<<a>>. q<ue> es}
 [fol. 122v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 la .xi<<a>>. alos au<er>es del Rey. & a sus
 ricos om<ne>s. & esto es loq<ue> quiso de-
@@ -20779,7 +20779,7 @@ enos fechos. Otrossi si aq<ue>lla fortu-
 na fuere enla q<u><<a>>rta casa; aura bu-
 ena fin. & ira su pleyto a bien. & se-ra}
 [fol. 123v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 saluo. E si fuere en uez de fortu-
 na infortuna. da<n>nas su pleyto &
@@ -20947,7 +20947,7 @@ ra lue<n>ga uida. & buena. & mayor
 mie<n>te si fuere el ascendente signo
 fixo. ca estonces sera la cosa mas}
 [fol. 124v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 firme & mas estable. & mas appo-
 derada. ⅋ q<u><<a>>ndo fallares el se<n>nor del
@@ -21115,7 +21115,7 @@ luna llegare al se<n>nor del ascende<n>-
 te. seyendo la luna creciendo. & fu-
 ere la luna catada de alguna in-fortuna;}
 [fol. 125v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 iudga q<ue> perdera aq<ue>lla
 dignidat. & q<ue>s partira della. E de-
@@ -21283,7 +21283,7 @@ grados subieron del signo & dobla
 los. & sera<n> a<n>nos. & si ouiere y menu-
 dos; m<u>ltiplica los por .xii. & parte}
 [fol. 126v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 toda la su<m>ma por .Lx. & sera<n> mes-
 es. & loq<ue> sobrare m<u>ltiplica lo por
@@ -21452,7 +21452,7 @@ cado daq<ue>lla dignidat. o de aq<ue>l se<n>no-
 rio por algun achaq<ue>. & te dema<n>da-
 ren si cobrara aq<ue>l se<n>norio. o non;}
 [fol. 127v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cata si fallares el se<n>nor del asce<n>-
 dente llegando al se<n>nor de med-
@@ -21620,7 +21620,7 @@ de su auer se p<er>dera. & se esparzera.
 significa q<ue> gelo tomara<n> forçado
 dando lo penas por el. ⅋ sila infor-tunare}
 [fol. 128v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Saturno; espender loa en
 defender su cuerpo. & en arredrar
@@ -21789,7 +21789,7 @@ fuere<n> ellos se<n>nores del asce<n>de<n>te.
 & dela casa dela luna; significan
 ya q<u><<a>>nto de meioramie<n>to enla co-sa.}
 [fol. 129v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 E la q<u><<a>>ntia del tiempo q<ue> pue-
 de durar la cosa; sera segund la
@@ -21957,7 +21957,7 @@ und el poder del catamie<n>to de ve-
 n<us> q<ue> ouiere. & si ouiere en los an-
 gulos planetas assi como ante}
 [fol. 130v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 dixiemos. seer lan buenos con-
 prar catiuos & catiuas. & sera
@@ -22125,7 +22125,7 @@ ure o no<n>; cata el se[<n>]nor del asce<n>de<n>t.
 & la luna. silos fallares llega<n>do
 alas infortunas. & enlos angu-los}
 [fol. 131v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o en succedentes. iudga que
 aura aq<ue>lla cosa. & si no<n>; iudga q<ue>
@@ -22295,7 +22295,7 @@ cador de miedos. & de entrepieços.
 & de da<n>namie<n>to de mie<m>bros. & es
 significador del au<er> delos ladrones.}
 [fol. 132v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & delos mal fechores. & delos boz-
 eros. & delos sieruos. & delos deso-
@@ -22463,7 +22463,7 @@ dela .xij<<a>>. casa & de so se<n>nor. Mas
 si te nombrare om<n>e no<m>brado. ca-
 ta lo dela .vij<<a>>. casa; de so se<n>nor.}
 [fol. 133v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & cata sos llegamie<n>tos. & loq<ue> oui-
 ere entre ellos. segundo te loe di-
@@ -22662,7 +22662,7 @@ tercera & en sus significaciones.
 {RUB. Estos son los cap<itu>los dela q<u><<a>>rta
 parte deste quarto libro.}}
 [fol. 135v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {IN1.} El .xiiij<<o>>. Capitulo fabla enla ca-
 sa q<u><<a>>rta & en sus significat<i>ones
@@ -22840,7 +22840,7 @@ do fuere en su dignidat; puia en
 su bie<n>. & en su fortuna. & no<n> seyen-
 do en su dignidat; me<n>gua en su}
 [fol. 136v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fortuna. & en so bie<n>. ¶ Q<u><<a>>ndo fu-
 ere la luna mi<n>guada de lumbre
@@ -23008,7 +23008,7 @@ enel Ascende<n>t recebido del se<n>nor dela
 q<u><<a>>rta casa. o el Sol recibiendo ala
 luna. o fuere el Sol enel trino del}
 [fol. 137v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ascende<n>te. o fuere el se<n>nor del Ascen-
 dent enel t<r><<i>>no del Sol. o ouiere en-
@@ -23176,7 +23176,7 @@ yles & no<n> ouiere cothcode; busca
 yles del grado del Ascende<n>te si la
 nace[<n>]cia fuere coniu<n>ctional. ⅋ si a-q<ue>l}
 [fol. 138v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere yles & no<n> y ouiere coth-
 code; busca yles de pars fortune.
@@ -23344,7 +23344,7 @@ es directio<n>. ⅋ la quinta es orien-
 talidat. ⅋ cada vna destas a su co<n>-
 trario. q<ue> q<u><<a>>n<d>o el alcothcode fuere}
 [fol. 139v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 en aq<ue>l cont<r><<a>>rio; mi<n>gua el qui<n>to
 de so dado. & los cont<r><<a>>rios son estos
@@ -23512,7 +23512,7 @@ q<ue> por la natura del cielo & por su for-
 ma. se u<er>ifica & acierta. E los mas
 delos sabios desta sc<ienc>ia dize<n> q<ue> alcot-code}
 [fol. 140v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 q<u><<a>>n<d>o fuere enlos angulos; da
 sos a<n>nos mayores. & q<u><<a>>n<d>o fuere en
@@ -23680,7 +23680,7 @@ como enel desp<re>ciamie<n>to. ¶ La re-
 trogradacio<n>. Enlas tres planetas de
 suso del conpeçamie<n>to de su retrog<r><<a>>-dacio<n>}
 [fol. 141v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 troa q<ue>s para<n> en opposito del
 Sol; tuelle<n> la meatat del dado. &
@@ -23850,7 +23850,7 @@ E si el nacido fuere de uilla o de lin-
 nage q<ue> ouiero<n> p<ar>ticio<n> de cielo. & de-
 las planetas de cortas uidas; iudga}
 [fol. 142v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 el cont<r><<a>>rio delo q<ue> dixiemos & acer-
 taras con dios. ¶ Dixo Alfadal
@@ -24022,7 +24022,7 @@ ta de sos a<n>nos menores. & puia en
 el trino & enel sextil otro tal. ⅋ lo
 mas q<ue> tuelle el Sol al alcothcode}
 [fol. 143v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & lo destaia es q<u><<a>>n<d>o es ayuntado
 con Mars. & esto por ayuntamie<n>to
@@ -24190,7 +24190,7 @@ dor enlas fortunas. quiere dezir
 por exiemplo. Si el ascende<n>t fuere
 libra. & pars fortune yles. & ella en}
 [fol. 144v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Leon. & Jup<ite>r alcothcode & el en Sagi-
 tario. & ven<us> enla .vij<<a>>. casa del asce<n>-
@@ -24358,7 +24358,7 @@ yunta co<n> Mars; significa la signi-
 ficacio<n> de ven<us> & faze sos fechos[.]
 E la cola tuelle la fortuna ala for-tu<n>a.}
 [fol. 145v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & puia la i<n>fortu<n>a ala i<n>fortu<n>a. ⅋ la
 cabeça puia la fortu<n>a alas fortu<n>as.
@@ -24526,7 +24526,7 @@ bimie<n>tos daq<ue>l signo enel ascende<n>t.
 o puiar los as a ellos segu<n>d co<n>uie-
 ne alas longuras delos subimien-tos.}
 [fol. 146v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o a s<us> breuezas. & salir ta<n> los su-
 bimie<n>tos daq<ue>l signo enla .xij<<a>>. ca-
@@ -24698,7 +24698,7 @@ signos q<ue> a en long<ur>a .xiiij. grados.
 pues no<n> significara estonz loq<ue> sig-
 nificare el cuerpo dela Luna q<u><<a>>n<d>o}
 [fol. 147v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cae el Atacir enel. ⅋ si la Luna fu-
 esse eneste logar sin latidu<m>bre;
@@ -24866,7 +24866,7 @@ enla .ix<<a>>. casa. & q<u><<a>>n<d>o llego el atac-
 ir del medio cielo ala opposicion
 de Mars enforcaro<n> lo & murio.}
 [fol. 148v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Otra nacencia. fue el su medio ci-
 elo el conpeçamie<n>to de Piscis. &
@@ -25036,7 +25036,7 @@ llegamie<n>to de su uida. ca en esto
 se ayuntan tres infortunas. el
 cuerpo del Sol. & el dela Luna. & la}
 [fol. 149v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cola. & no lo puede meiorar. si no<n>
 si hy firissen rayos de tres (^in)for-
@@ -25204,7 +25204,7 @@ ascendente es significador dela uida.
 mouimie<n>tos. & la durança. & las
 buenas famas. ⅋ el su se<n>nor del}
 [fol. 150v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ascendente aq<ue>l q<ue> es mas pod<er>oso
 sobrel; co<n> testimonio de M<er>curio &
@@ -25373,7 +25373,7 @@ ple. de chicos oios. & de mediano cu-
 erpo. de cabellos q<ue> tiran a blancor.
 & leznes & ralos. & loq<ue> uençra mas}
 [fol. 151v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ensu conplexio<n> sera la seq<ue>dat. de
 cara redonda quiça q<ue> aura y pec-
@@ -25541,7 +25541,7 @@ a su forma. & a s<us> man<er>as & a su
 natura. {RUB. Estas son las formas
 propias delos signos.}}
 [fol. 152v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {IN2.} Aries de muchos cabellos & cres-
 pos & tiran a blancor. de baxo ca-
@@ -25713,7 +25713,7 @@ las planetas q<ue> es dicha enlas
 tardes. & q<u><<a>>n<d>o son enel angulo de-
 la t<ier>ra. & el ponimie<n>to de ven<us> & de}
 [fol. 153v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 M<er>curio q<ue> es dicho enlas uisp<er>as
 si la nacencia fuere diurna; fa-
@@ -25916,7 +25916,7 @@ es & los pri[n]cipes. ama lidiar & ue<n>-
 cer. de p<ro>fundos pensamie<n>tos. d<ur>o
 de gr<aci>a & de seruir & de aconpa<n>nar.}
 [fol. 154v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 afrontador. pesado. fazedor de mal
 alos om<ne>s. malhetrero. temudo. fir-
@@ -26084,7 +26084,7 @@ lo q<ue> dixiemos; faze<n> el nacido am-
 ar folg<ur>as. & auer uida uiciosa. de
 enfeminado espirito. sotador. so-sa<n>na.}
 [fol. 155v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 semeia ala sa<n>na delas m-
 ug<ie>res. despendedor. enamoras
@@ -26252,7 +26252,7 @@ cosas son semblantes de fechos
 de mug<ie>res. no<n> a enel bien ni<n>gu-
 no ni<n> co<n>nocimie<n>to. desp<re>ciado de}
 [fol. 156v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 (de) mala fama. & de baxa nombra-
 dia. mas sera mucho celoso. ¶
@@ -26420,7 +26420,7 @@ q<ue> llega. E el segundo es significa-
 dor de su estado. & de su fortuna & de
 su laz<er>ia. E el tercero es significador}
 [fol. 157v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de sus moranças & de so uito. ¶
 E si el prim<er>o destos fuere fortu<n>a;
@@ -26588,7 +26588,7 @@ asce<n>dente; sera el nacido iusto.
 de muchos gozos. echa de si toda
 tristeza & todo cuedado. & mayor}
 [fol. 158v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 miente si fuere fortunado & lim-
 pio de catamie<n>to delas infortun-
@@ -26757,7 +26757,7 @@ eta; q<ue> llega al se<n>nor del ascende<n>-
 te. o a qui el se<n>nor del ascende<n>te
 llega. Ca si fuere enla .x<<a>>. casa; se-ra}
 [fol. 159v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 del Rey. E si fuere enla .xi<<a>>. ca-
 sa; sera pora los amigos. & desta
@@ -26927,7 +26927,7 @@ enq<ue> fuere<n>. mayor mie<n>te si fuere<n>
 en los angulos. ⅋ toda planeta
 q<ue> fallares sobre la t<ier>ra; significa}
 [fol. 160v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 q<ue>la su significacion sera enel co<n>-
 peçamie<n>to de su uida. E la q<ue> fuere
@@ -27095,7 +27095,7 @@ Cap<r><<i>>corno; el nacido sera pesado. & as-
 sessegado. & sabio. & rezio de mie<m>bros.
 ⅋ si acaeciere en leon. o en aries.}
 [fol. 161v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o en Tauro o en Escorpio<n>; signifi-
 ca q<ue> aq<ue>l nacido sera porfidioso.
@@ -27280,7 +27280,7 @@ luna enlas nace<n>cias; segu<n>do iud-
 gas del ascende<n>te. & de s<us> casas. ¶
 Para mie<n>tes ala luna enlas na-cencias}
 [fol. 162v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 nocturnas. & al Sol en
 las diurnas. & cata qual quier
@@ -27450,7 +27450,7 @@ bradia. ¶ Q<u><<a>>n<d>o quisieres sab<er>
 el estado del nacido por toda su ui-
 da en cada (^vn) dia. vn dia empos}
 [fol. 163v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 otro; para mientes alos se<n>nores
 dela t<r><<i>>plicidat del luminar del ti-
@@ -27618,7 +27618,7 @@ auer poco. & auer loa con laz<er>ia &
 con grant acucia. & acaecer lan
 en buscandol cuetas. & laz<er>ias. &}
 [fol. 164v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 miedos. ¶ Q<u><<a>>ndo el se<n>nor del asce<n>-
 dente fuere quitando se del se<n>nor
@@ -27786,7 +27786,7 @@ do el se<n>nor del ascende<n>te fuere apo-
 derado & fortunado. & en bue<n> esta-
 do. & firme enlos angulos. & fue-re}
 [fol. 165v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 recebido del se<n>nor dela casa del
 auer. & aq<ue>l se<n>nor dela casa del a-
@@ -27953,7 +27953,7 @@ do apoderado en ganar au<er>. & en sa-
 ber ma<n>nas por ganar lo. & may-
 or mie<n>te si fuere en t<er>mino de Ju-pit<er>}
 [fol. 166v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 q<ue> es significador mayor del
 auer. E si ouiere en aq<ue>l logar for-
@@ -28125,7 +28125,7 @@ nador & descreyente a dios. & alon-
 gando de toda sciencia & de todo en-
 se<n>namie<n>to. E si y fuere denoche}
 [fol. 167v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 oriental; significa riq<ue>za. & mer-
 chandias. & bien razonado. & fi-
@@ -28298,7 +28298,7 @@ el Sol & Saturno con el se<n>nor dela
 t<r><<i>>plicidat desta casa el prim<er>o; sig-
 nifica<n> los h<er>manos mayores. E Ju-pit<er>}
 [fol. 168v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & Mars conel se<n>nor dela tripli-
 cidat desta casa el segundo; signi-
@@ -28470,7 +28470,7 @@ plicidat dela t<er>cera casa al asce<n>-
 dente si fuere sobre la t<ier>ra. o del
 ascendente a el; si fuere sola ti-erra.}
 [fol. 169v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 dando a cada signo; vno. E
 si alguno daq<ue>llos signos fuere
@@ -28645,7 +28645,7 @@ do. & en bue<n> logar del cielo. & en bu-
 en estado del Sol; significa noble-
 za & ualia daq<ue>llos cuyo significa-dor}
 [fol. 170v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 es. ¶ Si el se<n>nor dela casa ter-
 cera llegare a alguna planeta q<ue>
@@ -28818,7 +28818,7 @@ delos amigos. ⅋ si y fuere Sat<ur>no
 con M<er>curio; significa q<ue> sera de
 u<er>daderos sue<n>nos. & u<er>dadero en}
 [fol. 171v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 iudgar los. & descobrira p<or>idades
 assi como adeuina<n>ças. E si y fue-
@@ -28992,7 +28992,7 @@ dgueste del se<n>nor dela t<er>cera casa.
 su poder. & su logar. & segund los
 catamie<n>tos delas fortunas & de-las}
 [fol. 172v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 infortunas. E si fuere esta p<ar>te
 en medio cielo. & so se<n>nor otrossi.
@@ -29166,7 +29166,7 @@ nas de Saturno despues del Sol.
 despues del grado dela q<u><<a>>rta casa.
 E conpeçaras ala madre enlas}
 [fol. 173v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 nacencias diurnas de ven<us>. & de-
 spues dela luna. & despues dela
@@ -29334,7 +29334,7 @@ min<er>as malas q<ue> fieden. ¶ Si el
 Sol fuere enlas nacencias diur-
 nas. o Saturno enlas noct<ur>nas.}
 [fol. 174v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & el se<n>nor dela q<u><<a>>rta casa tan bie<n>
 enlas diurnas como enlas noc-
@@ -29505,7 +29505,7 @@ llegare al grado dela infortuna
 q<ue> mata; acaecer la en aq<ue>l a<n>no
 destruction & entrepieço. ¶ Q<u><<a>>n-do}
 [fol. 175v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Jup<ite>r fuere enla q<u><<a>>rta casa sign-
 ifica por su p<ro>priedat bien escon-
@@ -29673,7 +29673,7 @@ mucho au<er> por thesoro q<ue> fallara.
 o por obra escondida q<ue> fara. o au-
 era se<n>norio sobre los camiadores}
 [fol. 176v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 E sil catare Saturno & Mars; aue-
 ra apparcero quil contrallara. &
@@ -29846,7 +29846,7 @@ signo fuere en esto feminino;
 da el iudizio ala madre. ¶ Q<u><<a>>n<d>o
 la pars fortune fuere infortuna-da}
 [fol. 177v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o q<ue>mada en signo masculino;
 iudga q<ue> el padre morra antes q<ue>-
@@ -30016,7 +30016,7 @@ mie<n>to. E tomaras significat<i>ones
 dela luna & de Jup<ite>r & de ven<us>; en a-
 uer los fijos. & seer muchos. ⅋ del}
 [fol. 178v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 Sol & de Mars & de Saturno toma-
 ras significat<i>ones de no<n> au<er> fijos
@@ -30184,7 +30184,7 @@ ficacio<n> delos fijos. & sila fallares
 enla parte oriental; iudga q<ue> au<er>a
 los fijos en su mancebez. E sila fal-lares}
 [fol. 179v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 en medio cielo; aura<n> los
 fijos enla media edat. E sila falla-
@@ -30361,7 +30361,7 @@ en su ueiez & cerca de su fin {RUB. En sab<er> +}
 cuenta delos fijos sabras en esta
 man<er>a. cata los dos se<n>nores dela}
 [fol. 180v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 t<r><<i>>plicidat de Jup<ite>r el prim<er>o & el seg-
 undo. & qual dellos fallares mas
@@ -30660,7 +30660,7 @@ cido. & delo q<ue>s entremete.
 la treuencia & el miedo del naci-
 do. {RUB. Estos son los capitulos de-la ⇒}}
 [fol. 183v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {RUB. la .vi<<a>>. p<ar>te deste qui<n>to libro.}
 {IN1.} El .xiij<<o>>. Capitulo fabla en-
@@ -30830,7 +30830,7 @@ de seso. & dira cosas q<ue> son de uenir
 assi como p<ro>phecia. & sera manifie-
 sta & parecida. & remeter sa alos}
 [fol. 184v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 om<ne>s a ferir. & a denostar. & dezir
 dichos feos & uillanos. ¶ E los
@@ -30998,7 +30998,7 @@ segundo fortunado. & apoderado
 del ascendente. & ouiere en aq<ue>l
 logar q<ue> fuere alguna dignidat;}
 [fol. 185v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 significa q<ue> aquel nacido aura
 sieruos & sieruas & ma<n>cebas. &
@@ -31166,7 +31166,7 @@ eren ayuntadas enel ascende<n>te.
 & M<er>curio catando las de opposicio<n>.
 o fuere M<er>curio ayuntado co<n> Sat<ur>-no.}
 [fol. 186v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & Jup<ite>r en su opposicion. todos
 estos significa<n> q<ue> el nacido sera oc-
@@ -31334,7 +31334,7 @@ el uiso. ¶ Q<u><<a>>ndo la luna fue-
 infortunas o en sus quadrad<ur>-
 as. o en sus oppositos. & fuere}
 [fol. 187v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 en signo seco; significa q<ue> las
 mas delas enfermedades que
@@ -31502,7 +31502,7 @@ significa q<ue> aq<ue>l nacido aura pro
 as. & se gozara dellas. E q<u><<a>>ndo M<er>-
 curio fuere infortunado o caydo}
 [fol. 188v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & las fortunas nol cataren; sig-
 nifica que el nacido aura mal
@@ -31670,7 +31670,7 @@ no<n> son fortunas por su escuridat
 q<u><<a>>ndo el se<n>nor desta casa fuere en
 el ascendente. significa q<ue> aura}
 [fol. 189v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 el nacido enfermedades de nat<ur>a
 daq<ue>lla planeta. & q<ue>s le morra<n>
@@ -31838,7 +31838,7 @@ empre tristeza & ira. & encobami-
 entos por pleyto de mug<ie>res. & se-
 ra mal quisto dellas. & casara con}
 [fol. 190v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 putas o con uieias. & aura poca
 auentura en pleyto de mug<ie>res
@@ -32007,7 +32007,7 @@ nor dela .vij<<a>>. casa fuere llegando
 al se<n>nor del ascende<n>te; significa
 q<ue> las mug<ie>res amaran a aquel}
 [fol. 191v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 nacido. & seguir lan & dema<n>dar
 lan. & llegar san a el. E q<u><<a>>ndo el
@@ -32175,7 +32175,7 @@ ra fornaguero manifiesta mie<n>t
 & desu<er>gonçada. & q<ue> u<er>na a afruen-
 tas por pleyto de mug<ie>res. ¶ Q<u><<a>>n-do}
 [fol. 192v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere ven<us> en casa de Saturno.
 & Saturno en casa de ven<us>; sign-
@@ -32343,7 +32343,7 @@ tura enla fin de su uida. & ganara
 nobleza. & riq<ue>za & sera auent<ur>ado
 enlo q<ue>s entremetiere. & enlo que}
 [fol. 193v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fiziere. Mas en su mancebez se-
 ra lazrado. & despreciado. & decay-
@@ -32511,7 +32511,7 @@ el se<n>nor dela .vij<<a>>. casa fuere enla
 ra. ⅋ si fuere enla .viij<<a>>.; casara con
 mug<ie>r rica. & heredara el lo dela mu-g<ie>r.}
 [fol. 194v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 o aura algo por herencias de
 mug<ie>res. E si fuere enla .ix<<a>>. casa-
@@ -32679,7 +32679,7 @@ caldes. o ante m<er>inos {RUB. {IN1.} Aqui co<n>pie-
 la .viij<<a>>. casa & en sus significati-
 ones.}}
 [fol. 195v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {IN7.} La casa .viij<<a>>. es significador de-
 la muerte. & desta casa saben
@@ -32847,7 +32847,7 @@ nadas por h<er>encias. o por razo<n> de
 muerte. E mayor mie<n>te si fuere
 Jup<ite>r derecho. & subie<n>te en su cielo.}
 [fol. 196v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & puiante en su andar. E sil cata-
 re M<er>curio o Mars; me<n>gua<n> de su
@@ -33015,7 +33015,7 @@ rro; ¶ E si fuere Saturno enla
 .viij<<a>>. casa; significa q<ue>la muerte
 del nacido sera por carcel & por pen-nas.}
 [fol. 197v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ¶ E otrossi q<u><<a>>ndo alguna del-
 as infortunas fueren enel sig-
@@ -33183,7 +33183,7 @@ re<n> los significadores delas matan-
 re los significadores dela muerte
 del nacido; significa q<ue> rastrara<n> su}
 [fol. 198v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 cabeça depues de su muerte. & q<ue>la
 colgaran en alguna torre de Rey.
@@ -33352,7 +33352,7 @@ o da<n>no o laz<er>ia enel. toma<n> de dia
 la coniu<n>ction o dela opposicion.
 q<ue> fuere antes dela nacencia. & echa<n>}
 [fol. 199v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 la del ascendente. E esta parte &
 la parte delas fines delas cosas
@@ -33520,7 +33520,7 @@ de au<er> aq<ue>l nacido cosa marauillosa
 en su muerte. mas porq<ue> la luna
 fue salua delos rayos delas infor-tunas.}
 [fol. 200v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & fue alçada & appoderada
 en su logar q<ue> fue en su exaltacio<n>.
@@ -33688,7 +33688,7 @@ tos sue<n>nos uiere de bie<n> sera<n> mi<n>tro-
 sos. & los sue<n>nos malos q<ue> uiere a-
 certaran. & saldra<n> u<er>daderos conel}
 [fol. 201v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 plaz<er> de dios. ¶ Q<u><<a>>ndo fuere el se<n>-
 nor dela casa dela carrera appode-
@@ -33859,7 +33859,7 @@ do sera de muchas carreras. ¶
 Q<u><<a>>ndo la luna no<n> catare al se<n>nor de
 su casa. significa q<ue> el nacido traba-iara}
 [fol. 202v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 mucho por ganar. & por auer.
 fuera de su casa. ¶ Para mie<n>tes
@@ -34027,7 +34027,7 @@ los rayos del Sol. o sallido de solos
 rayos. ¶ E sepas q<ue> M<er>curio a poder
 & significacio<n> p<ro>pria; en pleyto dela [^ley & dela]}
 [fol. 203v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 lealtat apartada delas otras plan-
 etas. & en qual delas planetas a
@@ -34197,7 +34197,7 @@ om<ne>s. & aborrecedor dellos. & de ma[^la uolu<n>-
 tat. &
 de ma]-las}
 [fol. 204v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 costu<m>bres. ¶ Q<u><<a>>ndo fuere M<a>rs
 en nacencia diurna. o Saturn-
@@ -34366,7 +34366,7 @@ los que las mantiene<n>. & dira ra-
 zones & fablas en esto. ⅋ q<u><<a>>ndo iu-
 ra en m<en>tira creen lo. & entremetes}
 [fol. 205v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de seruir alos diablos [^& muestras ala yen-
 te q<ue>lo a por nat-
@@ -34540,7 +34540,7 @@ del ascende<n>te. Pues si esta parte
 fuere en una q<u><<a>>rta dela figura. &
 su se<n>nor en otra; significa much-as}
 [fol. 206v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 carreras & diu<er>sas. & en diu<er>sas
 partes. E si fuere en alguno delos
@@ -34709,7 +34709,7 @@ nacido sin dubda ni<n>guna sera Rey.
 E otrossi q<u><<a>>ndo fuere la parte fortu-
 ne. sallida de solos rayos. & limpia}
 [fol. 207v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delas infortunas. & salua delas
 planetas q<ue> son enemigas & con-
@@ -34879,7 +34879,7 @@ qui ouiere en su nacencia signi-
 ficationes manifiestas de seer
 el nacido lazrado. & no<n> y fueren}
 [fol. 208v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 las fortunas appoderadas. sera la-
 zrado mientre uisquiere. ¶ El q<u><<i>>
@@ -35047,7 +35047,7 @@ fica q<ue> el nacido se fuira delos om<ne>s.
 bles om<ne>s. & el mismo sera noble.
 ¶ E si fuere el se<n>nor del ascendente}
 [fol. 209v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 delas planetas de iuso. & fuere en
 medio cielo. & el se<n>nor del medio
@@ -35215,7 +35215,7 @@ cada uno dellos fuere en casa del ot<r><<o>>.
 o quiça sera sotador & baylador. o
 trompero o ioglar. & sera en ello}
 [fol. 210v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 sotil & sabidor. E sil catare la luna o
 fuere conel; significa q<ue> sera filos-
@@ -35384,7 +35384,7 @@ q<u><<a>>ndo ouiere mala nace<n>cia & infor-
 tunada q<ue> significa desauentura.
 & laz<er>ia; sera lazrado. & despreciado. &}
 [fol. 211v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 pobre & menguado. & maguer sea<n>
 los de su natura ricos & abonda-
@@ -35551,7 +35551,7 @@ E sila dignidat dela duodenaria
 del Sol. o dela luna fuere en me-
 dio cielo; significa nobleza del pa-dre}
 [fol. 212v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & dela madre del nacido. ¶ E si
 fuere en esta casa la cabeça co<n> la
@@ -35728,7 +35728,7 @@ sa & aquello cunple. ¶ La parte
 de escapamie<n>to. & de uictoria. & de
 defendimie<n>to. toma<n> denoche del}
 [fol. 213v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 grado dela parte dela celada al g<r><<a>>-
 do de Jup<ite>r. & denoche el contrario.
@@ -35896,7 +35896,7 @@ nor del ascende<n>te; es meior que
 si fuere llegando el se<n>nor del asce<n>-
 dente al se<n>nor dela casa delos ami-gos}
 [fol. 214v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 que el se<n>nor dela casa delos
 amigos q<u><<a>>ndo fuere llegando al
@@ -36065,7 +36065,7 @@ norio & bue<n> estado. E qual quie-
 re parte. o se<n>nor dela parte. o
 qual quiere se<n>nor del angulo. o}
 [fol. 215v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 se<n>nor de triplicidat acaeciere
 en esta casa; significa bie<n> en aq<ue>-
@@ -36233,7 +36233,7 @@ dia. E si fuere enla .xij<<a>>.; aura poco
 bie<n> & pocos amigos. & sera de mala
 uida. & aura muchos enemigos.}
 [fol. 216v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ¶ E sepas que las mayores sig-
 nificat<i>ones que puede<n> seer en
@@ -36401,7 +36401,7 @@ ccede<n>te auiendo y alguna digni-
 dat; significa que los enemigos
 seran nobles om<ne>s. & poderosos. & si}
 [fol. 217v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere caydo de angulo. o estra<n>no
 o solos rayos del Sol. o en su deca-
@@ -36569,7 +36569,7 @@ fuere el se<n>nor desta casa Jup<ite>r sey-
 endo directo; los sos enemigos
 sera<n> delos nobles om<ne>s & delos po-derosos.}
 [fol. 218v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 ⅋ si fuere Mars. sera<n> caua-
 lleros. o delos q<ue>s entremete<n> de
@@ -36737,7 +36737,7 @@ ifica pocos fijos. & los q<ue> ouiere
 uiuira<n> poco. E si catare una for-
 tuna aaq<ue>lla casa; no<n> se desfiu-ze}
 [fol. 219v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de fijos ca bien puede au<er> algu-
 nos. E si catare ala casa qui<n>-
@@ -36905,7 +36905,7 @@ guante. & Mars seyendo se<n>nor de
 su misma triplicidat. & la nace<n>cia
 nocturna. significa q<ue> sera tenedor}
 [fol. 220v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 de rentas. & sabidor en ello. & aura
 enello loq<ue> quiera. & si les catare
@@ -37073,7 +37073,7 @@ partes de mug<ie>res. & sera de bue-
 na uida mesurada mie<n>te. & sera
 om<n>e muy firme enla creencia de}
 [fol. 221v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 dios. & muy iusto. Mas si Jup<ite>r
 fuere en quadradura siniestra
@@ -37241,7 +37241,7 @@ trossi fremosa. mas no<n> sera cas-
 ta que aura amigo encubierto
 de su marido. {RUB. De Mercurio.}}
 [fol. 222v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 {IN1.} E quando M<er>curio fuere en quad<r><<a>>-
 dura dela luna seyendo la luna
@@ -37411,7 +37411,7 @@ ias & trabaios por razo<n> de mugi-
 eres. ¶ E si fuere Mars en oppo-
 sito de M<er>curio. aquel nacido sera}
 [fol. 223v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 desu<er>gonçado. & uiuera de m<en>tiras.
 & de nigroma<n>cia. & de faz<er> breues
@@ -37579,7 +37579,7 @@ sera esc<r><<i>>uano de Rey. o de grant
 se<n>nor. ¶ E q<u><<a>>ndo Jup<ite>r fuere conla
 luna; significa crecimie<n>to en au<er>.}
 [fol. 224v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 & en riq<ue>zas & en uent<ur>a. ⅋ si Jup<ite>r
 fuere con esto oriental; el naci-
@@ -37747,7 +37747,7 @@ sera si el fuere enel .x. & la fortu<n>a
 enel ascende<n>te si no<n> q<ue> aura pocos
 h<er>manos. ¶ E q<u><<a>>ndo el Sol fue-re}
 [fol. 225v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 enla casa del casamie<n>to; sig-
 nifica a s<os> h<er>manos & a s<os> pad-
@@ -37915,7 +37915,7 @@ as. & ganara algo de estra<n>nos om<ne>s.
 q<u><<a>>ndo murierie; dexara buena fa-
 ma. & buena nombradia. & sera}
 [fol. 226v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 nombrado despues de su muerte.
 E si el signo de occidente en esto
@@ -38083,7 +38083,7 @@ ven<us> & M<er>curio fuere<n> enel asce<n>de<n>t.
 da<n>namie<n>to & esparzimie<n>to del a-
 uer delos padres del nacido. & que}
 [fol. 227v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 el nacido despendra loq<ue> gana. por
 llegar a nobles om<ne>s. o en busc-
@@ -38251,7 +38251,7 @@ mug<ie>r por su mano. & por qual
 man<er>a quiere uera muerte de
 s<us> mug<ie>res. ¶ E q<u><<a>>ndo Mars}
 [fol. 228v]
-{HD. L<IBRO> +}
+{HD. L<IBRO> ⇒}
 {CB2.
 fuere en casa de M<er>curio. o en su
 t<er>mino. el nacido sera sesudo. &

@@ -5,12 +5,11 @@
 {RMK: París | Bibliothèque Nationale de France | Richelieu: Espagnol 510.}
 {RMK: Fiona Maguire.}
 [fol. 1r]
-{HD. COMIENCA LA CONSOLATORIA \ j}
 {CB1.
-{RMK: HSMS-0238-0001: Carta consolatoria al conde de Alba.} {RUB. de yñjgo lopez de mendoça marq<ue>s de santilla[na] & conde
+{RMK: HSMS-0238-0001: Carta consolatoria al conde de Alba.} {RUB. Comiença la consolatoria
+de yñjgo lopez de mendoça marq<ue>s de santilla[na] & conde
 del Real al conde de alua}
 {IN8.} Fue bjas segunt plaze a valeryo & a laerçio
-{RMK: inital decorated in red and blue.}
 que mas alta & extensa mente escrjujo de
 las vidas & costumbres delos philosofos. A-
 syano dela çibdat de yprimen de noble pro-
@@ -19,9 +18,8 @@ en[ ]todas las liberales artes & enla natural &
 moral filosofia. de vulto fermoso & persona
 honorable graue & de grant avtoridat en
 sus fechos. de claro & subtil jngenjo. asy por mar como por
-la tierra. andouo toda la mayor parte del mundo ¶ q<u><<a>>n-to
-{RMK: all calderones alternate in red or blue ink throughout the MS.}
-tiempo durase en aq<ue>ste loable exerçiçio no<n> se escriue
+la tierra. andouo toda la mayor parte del mundo ¶ q<u><<a>>n-
+to tiempo durase en aq<ue>ste loable exerçiçio no<n> se escriue
 p<er>o basta en tornando enla çibdat de Jprimen. fallo a
 los vezjnos de aquella en grandes guerras. asy Naua-
 les como terrestes con[ ]los megarenses. gentes podero-

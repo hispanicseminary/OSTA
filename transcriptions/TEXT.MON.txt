@@ -5544,7 +5544,7 @@ en sel del arbol
 {IN2.} Ritue<<r>>to & aƽe bu<en>o es bue<n>
 mo<n>te de pue<<r>>co en verano}
 [fol. 66v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 ¶ Et son las boƽ<er>ias la vna desde
 el collado de fuente preuedo fas-
@@ -5629,7 +5629,7 @@ pue<<r>>co en veran<o> ¶ Et son las bo-
 ƽ<er>ias la vna desde la piedra de.
 busmor fasta bustaƽn<er>os & la ot<r><<a>>}
 [fol. 67v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 desde buσtaƽn<er>os fasta entre amos
 castros ¶ Et la otra desdel prado.
@@ -5713,7 +5713,7 @@ son las armadas la vna enla cab<<r>>e-
 riƽa ¶ Et la otra en<e>l llano dela tor-
 ta}
 [fol. 68v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 {IN2.} Ies es bue<n> mo<n>te de pue<<r>>co e<n>
 verano ¶ Et son las boƽ<er>ias
@@ -5792,7 +5792,7 @@ gostina abren[~]al ¶ Et son las
 armadas la vna en merija & la
 otra en pigueços}
 [fol. 69v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {RUB. {IN1.} Los mont<e>s de paƽ son estos}
 {IN3.} Ryo cauado & vereçedie-
@@ -5878,7 +5878,7 @@ co en verano ¶ Et son las boƽ<er>ias
 la vna desde cuete del aƽeuo fas-
 ta sierra lue<n>ga el somo adela<n>te}
 [fol. 70v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 ¶ Et desde sierra luenga fasta en
 los paul<e>s ¶ Et delos paul<e>s fas-
@@ -6044,7 +6044,7 @@ Rebol dehesa q<ue> no<n> passe al monte
 de lastriella . Et es el armada
 en<e>l canpo de Nauas]}}
 [fol. 73v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 {IN2.} El [*h]aedo de castriello es
 bue<n> mo<n>te de osso en ve-
@@ -6184,7 +6184,7 @@ das la vna ala fayuela & la
 otra entre villa mediana & lo-
 mas}
 [fol. 75v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {IN2.} Monte carral<e>s es muy.
 Real monte de osso en
@@ -6320,7 +6320,7 @@ lo
 bu<en>o de oso en verano ¶ Et
 es la boƽ<er>ia por la carrera q<ue> va de}
 [fol. 77v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 piedras negras a val sadornj<n> ¶ Et
 es el armada alos prados de Ra-
@@ -6400,7 +6400,7 @@ es todo vn mo<n>te & es bu<en>o
 de osso en verano ¶ Et son las
 boƽ<er>ias la vna desde el collado}
 [fol. 78v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 tañugo al collado del palme<n>toso
 ¶ Et la otra desde el collado de
@@ -6486,7 +6486,7 @@ no del esgouia
 ƽen laguna es bu<en>o de o-
 sso en verano ¶ Et es la boƽ<er>ia}
 [fol. 79v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 por çima dela loma q<ue> es entre
 el monte de san<c>t saluador &
@@ -7462,7 +7462,7 @@ el armada en helguedo}
 [fol. 94v]
 [fol. 95r]
 [fol. 95v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {RUB. {IN2.} Capit<u>lo [iij<<o>>] delos mont<e>s de ti-
 erra de Bu<<r>>gos & de sa<nc>t
@@ -7543,7 +7543,7 @@ madas la vna a san<c>t m<a><<r>><tin> de vs-
 q<ue>ça & la otra a val tinore & la
 otra al prado de halareça}
 [fol. 96v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} La cabeça de san<c>t Roma<n>
 & los valleios de val de
@@ -7628,7 +7628,7 @@ a tres aguas
 es bue<n> mo<n>te de pue<<r>>co e<n>
 verano & a ueƽe(y)[s] ay osso}
 [fol. 97v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -7721,7 +7721,7 @@ te de pue<<r>>co en veran<o>
 egl<es>ia çerrada fasta castro vieio
 ¶ Et la otra el collado arriba fasta}
 [fol. 98v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 en cima de val de sosoldo ¶ Et es
 el armada en san<c>t pedro de tabla-
@@ -7806,7 +7806,7 @@ desde farro taia çerro arriba fasta
 san<c>t milla<n> & la otra desde çaua-
 lla fasta urdantege ¶ Et son las}
 [fol. 99v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 armadas la vna en naua llana
 & la otra en era grande
@@ -7977,7 +7977,7 @@ alos prados de cañicosa
 {IN2.} Monte caluiello es bue<n> mo<n>-
 te de pue<<r>>co en Yvierno}
 [fol. 101v]
-{HD. Tierra +}
+{HD. Tierra ⇒}
 {CB2.
 & este no<n> a boƽ<er>ia ¶ Et es el arma-
 da al h<e>rmita
@@ -8128,7 +8128,7 @@ de pue<<r>>co en verano
 {BLNK.}
 {BLNK.}}
 [fol. 104v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 {IN2.} El mo<n>te de maçanares
 es bue<n> mo<n>te de pue<<r>>-
@@ -8280,7 +8280,7 @@ muneq<u><<i>>ella
 {IN2.} La garga<n>ta de coualieda
 es bue<n> mo<n>te de osso &}
 [fol. 107v]
-{HD. ti<e>rr[*a] +}
+{HD. ti<e>rr[*a] ⇒}
 {CB2.
 pue<<r>>co en verano ¶ Et son las
 boƽ<er>ias la vna desde la cobertera
@@ -8367,7 +8367,7 @@ te de pue<<r>>co en verano
 {BLNK.}
 {BLNK.}}
 [fol. 108v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {IN2.} La cestierna & la cueua de
 entre amas aguas es to-
@@ -8540,7 +8540,7 @@ pie de mora
 pue<<r>>co en yuierno ¶ Et es.
 la boƽ<er>ia val de cuende arriba fasta}
 [fol. 110v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 el çepo ¶ Et es el armada en maia-
 da vieia
@@ -8808,7 +8808,7 @@ de auiados por çima de val de ylla<n>
 fasta en cu[e]to xalon ¶ Et la otra
 desde cueto xalon fasta la pue<n>te}
 [fol. 113v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 de san<c>t heliƽ ¶ Et son las arma-
 das la vna en Regera de arueial
@@ -8891,7 +8891,7 @@ n<e>s por çima dela loma fasta el
 Rio q<ue> no<n> pase a traspando ¶ Et
 son las armadas la vna en oter}
 [fol. 114v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 de ladron<e>s ¶ Et la otra ala boca de
 val de curueño & otras dos aL
@@ -8972,7 +8972,7 @@ tal de çelada
 {IN2.} Caramedo & Robra es bue<n>.
 mo<n>te de osso & de pue<<r>>co e<n>}
 [fol. 115v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 yuierno & en verano ¶ Et son las
 boƽ<er>ias la vna desde bel mo<n>te fas-
@@ -9055,7 +9055,7 @@ armada a val de ygl<es>ia
 & Rio de osos es todo vn
 mo<n>te & es bu<en>o de osso}
 [fol. 116v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 en yuierno & en verano ¶ Et son
 las boƽ<er>ias la vna desde la peña de
@@ -9141,7 +9141,7 @@ panda Redonda & fasta el vado de
 laso ¶ Et son las armadas por la
 carrera de anƽiles}
 [fol. 117v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN2.} El mo<n>te de Rimoljna es mu-
 y bue<n> mo<n>te de osso & de pu-
@@ -9222,7 +9222,7 @@ verano & a veƽes en yuierno
 ro q<ue> va de priorio p<ar>a camjnago
 por çima dela loma fasta el ca-(ca)mino}
 [fol. 118v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 q<ue> va de priorio p<ar>a siero ¶ Et
 por el camjno adelante fasta la co-
@@ -9305,7 +9305,7 @@ boƽ<er>ias la vna desde el pico de fo<n>-
 tañan & por la portiella sobre
 noƽedo & por los eros fasta la sie-rra}
 [fol. 119v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 dela varƽeniella ¶ Et la otra
 desde el camjno q<ue> vien de san<c>t
@@ -9581,7 +9581,7 @@ tienpo
 {BLNK.}
 {BLNK.}}
 [fol. 123v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN2.} Las medulas es bue<n> mo<n>-
 te de osso & de pue<<r>>co en
@@ -9667,7 +9667,7 @@ tie<n>po
 {BLNK.}
 {BLNK.}}
 [fol. 124v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} La sierra de san<c>t pe-
 dro es bue<n> mo<n>te de
@@ -9908,7 +9908,7 @@ camjno del esculca por sobre la
 Regera de Rio de Regayo fas-
 ta la colladiella de payares ¶ Et}
 [fol. 129v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 desde la colladiella fasta el Rio
 de salas ¶ Et fasta el camjno q<ue>
@@ -13199,7 +13199,7 @@ camjno q<ue> va del galapagar
 ala casa del pardo & q<ue> esten
 aoio dela casa}
 [fol. 174v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 {AD. [^{IN3.} La cabeça mediana &
 el cañal dela ossa &
@@ -13290,7 +13290,7 @@ en<e>l camjno q<ue> va del foyo alas
 casas delas parriellas ¶ Et q<ue>
 esten om<ne>s q<ue> deseñe<n> & can<e>s}
 [fol. 175v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 de Renueuo enla cabeça del
 xjmjo & enla cabeça de andr<e>s
@@ -14224,7 +14224,7 @@ pue<<r>>to de Jnfant<e>s
 {IN2.} Peñas trauadas es bue<n>
 mo<n>te de osso en verano}
 [fol. 188v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 & algu<n>as veƽes en yuierno
 ¶ Et son las boƽerias la vna
@@ -14309,7 +14309,7 @@ madas la vna al passo bu<en>o & la
 otra al collado de san<c>t andres
 ¶ Et la otra ala cabeçuela de p<er>o}
 [fol. 189v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 q<ue>sada ¶ Et la p<r><<i>>m<er>a veƽ q<ue> corrie-
 mos este mo<n>te matamos en<e>l tres
@@ -14455,7 +14455,7 @@ las boƽ<er>ias la vna desde la casa del
 tello fasta el otero ¶ Et la otra
 desde el otero fasta el collado de}
 [fol. 192v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 veguela ¶ Et la otra desdeL
 collado dela veguela fasta el co-
@@ -14768,7 +14768,7 @@ ti<en>po delas vuas & dela vellota
 ¶ Et son las boƽ<er>ias la vna des-
 de la cueua fasta en par del}
 [fol. 197v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 monest<er>io de peniella por a-
 llende del Rio ¶ Et la otra en<e>l
@@ -14891,7 +14891,7 @@ an castigados en tal guisa q<ue>
 si el venado veniere de q<u><<a>>l q<u><<i>>er
 delos otros mont<e>s de fu<er>a de}
 [fol. 200v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 la dehesa q<ue>l dexen entrar ¶ Et
 sy saltare dentro q<ue>l boƽee<n> q<ue> no[<n>]
@@ -14980,7 +14980,7 @@ todo en vno es bue<n> mo<n>te de
 pue<<r>>co en yuierno ¶ Et es la
 boƽeria desde do entra el camj<n>o}
 [fol. 201v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 (el camjno) del villar a val sarço-
 so fasta la cabeça dela fue<n>te
@@ -15204,7 +15204,7 @@ cho Rio ¶ Et a mester dos om<ne>s
 q<ue> caten el escaleruela som<er>a
 ¶ Et Renueuo de om<ne>s en<e>l}
 [fol. 204v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 escaleruela fondon<er>a q<ue>l dexe<n>
 salir & q<ue>l Renueue<n> ¶ Et otro
@@ -15376,7 +15376,7 @@ peraleios de guisa q<ue> nol dexe<n>
 alçar & q<ue>l traya<n> el Rio ayuso
 ¶ Et es el armada la q<ue> desuso}
 [fol. 206v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 dixiemos dela vacariƽa
 {RUB. {IN2.} En Ribera de Taio ay
@@ -16155,7 +16155,7 @@ por el camjno q<ue> ua de sarc[']uela
 a peral<e>s}
 [fol. 217r]
 [fol. 217v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {IN2.} [E]n tierra de montalua<n> ay estos
 mo[<n>]tes
@@ -16946,7 +16946,7 @@ las sierras & la otra al carriƽal
 Et la otra en<e>l enƽjnareio de
 despierna cauallos./}
 [fol. 227v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {IN2.} [L]as engafas es bue<n> mo<n>te
 de osso & de pue<<r>>co en yui-
@@ -17034,7 +17034,7 @@ va de val dela moneda alas na-
 uas de estera & so<n> las armadas e-
 n<e>l Robledo del valle d<e>la vaq<ue>riƽa}
 [fol. 228v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 {IN1.} [E]l monte de val darriaƽ {BLNK.}
 {BLNK.}
@@ -17206,7 +17206,7 @@ da en san<c>t andres
 del castañar. es bue<n> mo<n>te
 de oso & de pue<<r>>co en yuierno &}
 [fol. 231v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 en<e>l comie<n>ço del verano Et son
 las boƽ<er>ias la vna por çima dela
@@ -17374,7 +17374,7 @@ da nueua & dela salƽeda vieia
 es bue<n> mo<n>te de oso & de pue<<r>>co e<n> yui-
 e[<<r>>]no & en<e>l comie<n>ço del verano}
 [fol. 233v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 (L) {AD. [^{IN3.} [L]a veçeda q<ue> es sobre <sant>i
 sp<iritu>s entre malagon & la
@@ -17473,7 +17473,7 @@ douar {BLNK.}
 {BLNK.}
 {BLNK.}}
 [fol. 234v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -20478,7 +20478,7 @@ te de pue<<r>>co en yuie<<r>>no
 {IN2.} La cabeça de auila & el (^2#??) [^2#piça-
 rro]so & el aƽeueda de gua-dames}
 [fol. 275v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 & cabeça fermosa es todo
 vn mo<n>te & es bu<en>o de osso & de pu-
@@ -20567,7 +20567,7 @@ mjno q<ue> vie<n> por entre amos es-
 tos mont<e>s & q<ue> esten can<e>s de Re-
 nueuo & om<ne>s q<ue> deseñe<n> enlas}
 [fol. 276v]
-{HD. tierra dela +}
+{HD. tierra dela ⇒}
 {CB2.
 cabeças delos g<u><<i>>jos ¶ Et son las
 armadas enlas nauas q<ue> son
@@ -20649,7 +20649,7 @@ en tie<n>po delas vuas
 {BLNK.}
 {BLNK.}}
 [fol. 277v]
-{HD. [*tierra dela orden] +}
+{HD. [*tierra dela orden] ⇒}
 {CB2.
 {IN2.} El arroyo de <santa> m<ari><<a>> es bu-
 en mo<n>te de osso & de
@@ -20782,7 +20782,7 @@ en<e>l camjno q<ue> va a villa nueua
 & a uarca Rota ¶ Et can<e>s de
 Renueuo enlos collados d<e>la sierra}
 [fol. 279v]
-{HD. [*ti<e>rra de] +}
+{HD. [*ti<e>rra de] ⇒}
 {CB2.
 {IN3.} El mo<n>te de san<c>t ba<<r>>-
 tolom<e> es bue<n> mo<n>-
@@ -21548,7 +21548,7 @@ todo tie<n>po ¶ Et son
 las boƽ<er>ias la vna en<e>l arroyo
 dela lanchosa dela parte de val}
 [fol. 289v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 fondo ¶ Et la otra en cima delos
 çerros apar del camjno de mo<n>-
@@ -22046,7 +22046,7 @@ rredor de arcos
 {IN2.} La foƽ de santitar es bue<n> mo<n>-
 te de pue<<r>>co en verano}
 [fol. 295v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -22332,7 +22332,7 @@ armadas la vna enla corte de
 pay sardjna ¶ Et la otra enla
 cañada del tomjello}
 [fol. 300v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {IN3.} El mo<n>te de don bue-
 so es bu<en>o de osso
@@ -22460,7 +22460,7 @@ e<<r>>co en verano & no<n> a bo-
 ƽ<er>ia ¶ Et es el armada entre el
 vn cañaueral & el otro}
 [fol. 304v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} La matiella es bue<n> mo<n>-
 te de osso & de pue<<r>>-
@@ -22724,7 +22724,7 @@ uierno ¶ Et sy yoguiere el ve-
 nado enla naua del car[*a]ço o e<n>
 val dela moneda es la boƽ<er>ia des-de}
 [fol. 307v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 el castiello dela sierra dela
 grana por cima dela cu<n>bre fas-
@@ -22816,7 +22816,7 @@ castiel sseras. Et la ot<r><<a>> por çim<<a>> d<e>la
 cu<n>bre d<e>la sierra Et son las arma-
 das en la hue<<r>>ta de Rod<r><<i>>go alffonso]}}
 [fol. 308v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 (L) {AD. [^{IN2.} [L]a ssierra de chillon es bue<n>
 mo<n>te de osso & de puerco e<n>
@@ -22904,7 +22904,7 @@ e[<n>]ço del verano
 {BLNK.}
 {BLNK.}}
 [fol. 309v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {IN3.} Cabeça enƽjnosa q<ue> es
 dehesa dela finoiosa
@@ -22997,7 +22997,7 @@ es bue<n> mo<n>te de osso &
 {BLNK.}
 {BLNK.}}
 [fol. 310v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} El valle de domi<n>go
 mi<n>g<ue>ƽ es bue<n> mo<n>-
@@ -23172,7 +23172,7 @@ en todo tie<n>po
 {BLNK.}
 {BLNK.}}
 [fol. 313v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} El(<<l>>) villareio de domi<n>-
 go m<a><<r>><tin> es bue<n> mo<n>te de
@@ -23307,7 +23307,7 @@ po
 {BLNK.}
 {BLNK.}}
 [fol. 315v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -23406,7 +23406,7 @@ no {BLNK.}
 {BLNK.}
 {BLNK.}}
 [fol. 317v]
-{HD. [???] +}
+{HD. [???] ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -23497,7 +23497,7 @@ pue<<r>>co en yuie<<r>>no
 {BLNK.}
 {BLNK.}}
 [fol. 318v]
-{HD. [*ob<is>pado] +}
+{HD. [*ob<is>pado] ⇒}
 {CB2.
 {IN3.} La sierra de naua lue<n>-
 ga es bue<n> mo<n>te de
@@ -23585,7 +23585,7 @@ no
 {BLNK.}
 {BLNK.}}
 [fol. 319v]
-{HD. [*ob<is>pado] +}
+{HD. [*ob<is>pado] ⇒}
 {CB2.
 {IN3.} Los barra<n>cos de mata
 ossos es bue<n> mo<n>te de
@@ -24563,7 +24563,7 @@ lla es bue<n> mo<n>te de pue<<r>>-
 co en yuierno & en<e>l comie<n>ço del
 verano}
 [fol. 333v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -24649,7 +24649,7 @@ otra al cabeçuelo agudo ¶ Et la
 otra al paso del arroyo ¶ Et la
 otra al sotiello}
 [fol. 334v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {IN3.} El mo<n>te delas atala-
 yas es bue<n> mo<n>te
@@ -24810,7 +24810,7 @@ e<n>po
 {BLNK.}
 {BLNK.}}
 [fol. 337v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {IN3.} El Rio de barcas fasta
 la pue<n>te es bue<n> mo<n>-
@@ -24898,7 +24898,7 @@ tiene el arroyo arriba de
 cayçena es bue<n> mo<n>te de pue<<r>>co e<n>
 todo tie<n>po}
 [fol. 338v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 {BLNK.}
 {BLNK.}
@@ -25071,7 +25071,7 @@ tie<n>po ¶ Et es la boƽ<er>ia por el arro-
 yo de <santa> m<ari><<a>> fasta las saljnas de
 cabra ¶ Et es el armada en somo}
 [fol. 340v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 de prado q<ue>mado
 {IN2.} El mo<n>te dela fuente de
@@ -25566,7 +25566,7 @@ estos mont<e>s
 car es todo vn monte &
 es bu<en>o de pue<<r>>co en todo tie<n>po}
 [fol. 348v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 Et alas veƽes ay osso
 {BLNK.}
@@ -25653,7 +25653,7 @@ otra en<e>l collado
 estos mont<e>s
 {IN1.} La ladera q<ue> es cata<n>te aL./}
 [fol. 349v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 pue<<r>>to del aƽebuche & el arroyo
 de m<a><<r>><tin> gon<çale>s & el aƽebuchar & la
@@ -25738,7 +25738,7 @@ la vna entre la peña del aguila &
 la breña de pablos gil & la otra
 al arroyo de longaniella}
 [fol. 350v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} El colmenar de p<er>o xj-
 men<e>ƽ ado tomaro<n>
@@ -25820,7 +25820,7 @@ lo es bue<n> monte de
 pue<<r>>co en yuierno & es la bo-
 ƽ<er>ia por çima (por çima) desta ca-beça}
 [fol. 351v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 ¶ Et es el armada al Rio de
 guadameçir
@@ -25900,7 +25900,7 @@ en<e>l camjno de tarifa q<ue> ua por
 çima del sarçoso Et la otra en<e>l
 collado q<ue> es sola peñuela}
 [fol. 352v]
-{HD. [*tierra de] +}
+{HD. [*tierra de] ⇒}
 {CB2.
 {IN3.} El arroyo del peral
 & el mo<n>te de al-
@@ -25982,7 +25982,7 @@ beço de guadaserraƽin fasta
 el camjno de tarifa ¶ Et son
 las armadas la vna enlas na-uas}
 [fol. 353v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 de bases ¶ Et la otra allende
 del arroyo enla senda q<ue> va cont<r><<a>>
@@ -26068,7 +26068,7 @@ es deyuso dela deRuñad[*a]
 mo<n>te de pue<<r>>co e<n>
 yuie<<r>>no ¶ Et son}
 [fol. 354v]
-{HD. tierra de +}
+{HD. tierra de ⇒}
 {CB2.
 las boƽ<er>ias la vna enla cunbre
 q<ue> es entre este monte & el
@@ -26145,7 +26145,7 @@ lomo ayuso fasta q<ue> da en<e>l al-
 caria ¶ Et es el armada en
 fondon al Rio de hoxen}
 [fol. 355v]
-{HD. [*tierra] +}
+{HD. [*tierra] ⇒}
 {CB2.
 {IN3.} El palancar es bue<n>
 mo<n>te de oso & de pu-
@@ -26222,7 +26222,7 @@ car ¶ Et la otra por la senda de
 las carretas ¶ Et es el arma-
 da enla senda q<ue> entra ala ga<<r>>-ga<n>ta}
 [fol. 356v]
-{HD. tierra +}
+{HD. tierra ⇒}
 {CB2.
 de xara ¶ Et la otra en<e>l co-
 llado de longanjella

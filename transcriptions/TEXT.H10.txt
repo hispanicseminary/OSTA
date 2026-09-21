@@ -92,7 +92,7 @@ le demandaban, ellos le demandaron sus tres hijas, y deman-
 dò el Rey Cropardo la mas moza, de lo qual el Rey Mercadi-tas}
 {SG. A 2} {CW. tas}
 [fol. 2v]
-{HD. 4 \ Historia de Clamades, +}
+{HD. 4 \ Historia de Clamades, ⇒}
 {CB1.
 fuè muy triste, que èl no pensaba que le queria demandar
 aquella, especialmente del Rey Cropardo, que era feo, pero èl
@@ -168,7 +168,7 @@ por aquellas clavijas se governaba el cavallo de madera, que
 por ellas andaba, y venia; mas èl no sabia en què manera de-bia}
 {SG. A 3} {CW. bia}
 [fol. 3v]
-{HD. 6 \ Historia de Clamades, +}
+{HD. 6 \ Historia de Clamades, ⇒}
 {CB1.
 de bolver à su tierra, que el cavallo en una noche, y en un
 dia lo avia llevado hasta Toscana, de la qual tierra era Señor
@@ -244,7 +244,7 @@ vestidas, ellas vistieron à su señora muy ricamente, assi como à
 ella pertenecia; y despues vino Clarmonda con sus donzellas en}
 {SG. A 4} {CW. el}
 [fol. 4v]
-{HD. 8 \ Historia de Clamades, +}
+{HD. 8 \ Historia de Clamades, ⇒}
 {CB1.
 el vergèl donde estaba Clamades y el dia comenzò para esclare-
 cer muy claro; y quando Clamades viò venir la linda Clarmon-
@@ -320,7 +320,7 @@ lacio, assi como Escuderos, mozos de espuela, lacayos, y otros ser-
 vidores, que estaban en rededor con arcos, dardos, lanzas, y espa-das}
 {SG. A 5} {CW. das}
 [fol. 5v]
-{HD. 10 \ Historia de Clamades, +}
+{HD. 10 \ Historia de Clamades, ⇒}
 {CB1.
 por matar à Clamades; mas quando èl fuè puesto en el ca-
 vallo de madera y se viò cercado de tan grande Armada, èl puso
@@ -396,7 +396,7 @@ do lo viò, mas quando lo conociò, ella estuvo muy alegre; y en-
 tonces le avisò de lo preguntar su nombre, y de què tierra era? Y}
 {SG. A 6} {CW. tam-bien}
 [fol. 6v]
-{HD. 12 \ Historia de Clamades, +}
+{HD. 12 \ Historia de Clamades, ⇒}
 {CB1.
 tambien porque ella lo queria tanto, deseaba saber de su estado,
 y de su linage, y de muy buena gana le hablaba, por el grande
@@ -473,7 +473,7 @@ que eran de la linda Clarmonda: y antes que partiessen, co-
 mieron, y bebieron cada uno un poco. Despues subiò Clama-des}
 {SG. A 7} {CW. des}
 [fol. 7v]
-{HD. 14 \ Historia de Clamades, +}
+{HD. 14 \ Historia de Clamades, ⇒}
 {CB1.
 sobre su cavallo de madera, y Clarmonda subiò con él, y
 quando fueron puestos, y estuvieron bien à su placer, las donze-
@@ -550,7 +550,7 @@ las viandas que traìan; y Clamades dixo à Clarmonda, que si la
 Reyna, sus Damas, y Donzellas supiessen su venida, todas sal-drian}
 {SG. A 8} {CW. drian}
 [fol. 8v]
-{HD. 16 \ Historia de Clamades, +}
+{HD. 16 \ Historia de Clamades, ⇒}
 {CB1.
 de muy buena gana à la recibir y hazerla honra; y Clar-
 monda respondiò, que ella avia mucho su placer en ello; y Cla-
@@ -626,7 +626,7 @@ ra que podia, mas èl no podìa tanto hazer, que no cayesse
 amortecido, y cayò en muy gran dolencia; de la qual estuvo gran}
 {SG. A 9} {CW. tiem-po}
 [fol. 9v]
-{HD. [*18] \ Historia de Clamades, +}
+{HD. [*18] \ Historia de Clamades, ⇒}
 {CB1.
 tiempo en la camara. El Rey Merc(e)[a]ditas, viendo que su hijo Cla-
 mades estaba tan malo por amor de su amiga, la qual assi avia
@@ -702,7 +702,7 @@ Reyna pertenecia, y que no se desconsolasse, que el desconsuelo
 era por demàs. Entonces Clarmonda le respondió, diziendole,}
 {SG. A 10} {CW. que}
 [fol. 10v]
-{HD. [*2]0 \ Historia de Clamades, +}
+{HD. [*2]0 \ Historia de Clamades, ⇒}
 {CB1.
 que èl no era sino traydor, que avia vendido al Rey Mercaditas
 y à su hijo Clamades, que lo avia hecho sacar de prision, mas po-
@@ -778,7 +778,7 @@ y suspirar; y entonces el Rey Meniadus la mirò, y la preguntò, si
 aquel hombre tan feo era su marido? y respondiò que no; y quan-do}
 {CW. do}
 [fol. 11v]
-{HD. Historia de Clamades, +}
+{HD. Historia de Clamades, ⇒}
 {CB1.
 el Rey Cropardo oyo aquello, èl fuè muy triste, que èl temìa
 que no fuesse hallado en mentira; y Meniadus la dixo, que se fues-
@@ -854,7 +854,7 @@ bien guardada, si[*e]mpre lo hacía peor, tanto, que fue preciso atar-
 la, por no poder sufrirla: y de esto el Rey Meniadus fuè triste:}
 {CW. y}
 [fol. 12v]
-{HD. 24 \ Historia de Clamades. +}
+{HD. 24 \ Historia de Clamades. ⇒}
 {CB1.
 y la hizo hazer un muy gentil aposento sobre un vergèl, aparta-
 do de la gente, y la diò à guardar à diez mugeres honradas, y
@@ -930,7 +930,7 @@ sar adonde su señor podia ser ido; y assimismo todos los Cavalle-
 ros, y Escuderos preguntaban con gran instancia al camarero,}
 {CW. què}
 [fol. 13v]
-{HD. 26 \ Historia de Clamades, +}
+{HD. 26 \ Historia de Clamades, ⇒}
 {CB1.
 què era de su señor? Y el camarero le respondiò, que èl no sabia,
 sino que èl avia dicho que luego bolveria; y quando vieron que
@@ -1007,7 +1007,7 @@ ros, que aveys de ser vencido. Porque no vays à pie, yo os quie-
 ro dàr un gentil palafrèn, que yo tengo; y Clamades, como cor-tès,}
 {CW. tès,}
 [fol. 14v]
-{HD. 28 \ Historia de Clamades, +}
+{HD. 28 \ Historia de Clamades, ⇒}
 {CB1.
 y bien mostrado, le diò gracias del bien, y de la honra, que
 ella le ofrecìa, y le demandò licencia de se combatir con ellos,
@@ -1084,7 +1084,7 @@ tris, hijo del Rey Barca, y por el gran enojo, y melancolìa q<ue> avia
 de la perdida de su hija, culparon, y acusaron de traìcion las tres}
 {CW. don-zellas}
 [fol. 15v]
-{HD. 30 \ Historia de Clamades, +}
+{HD. 30 \ Historia de Clamades, ⇒}
 {CB1.
 donzellas que la guardaban, y las cargaban, que eran consintien-
 tes en aquel hecho, por lo qual les convenia sufrir muerte, si algu-
@@ -1161,7 +1161,7 @@ buenos cavallos, y se llamaba el primero Oduardo Nunco-
 rior, el segundo Brunes el Atrevido, y el tercero don Geldos.}
 {CW. Des-pues}
 [fol. 16v]
-{HD. 32 \ Historia de Clamades, +}
+{HD. 32 \ Historia de Clamades, ⇒}
 {CB1.
 Despues vinieron Clamades, y Durbans bien montados, y bien ar-
 mados, y alli se comenzò la batalla muy aspera; y el uno de los
@@ -1238,7 +1238,7 @@ inquiriò con el huesped muchas, y diversas cosas, tanto, que le
 diò nuevas de su linda amiga Clarmonda, que èl tanto deseaba; y}
 {CW. el}
 [fol. 17v]
-{HD. 34 \ Historia de Clamades, +}
+{HD. 34 \ Historia de Clamades, ⇒}
 {CB1.
 el huesped le dixo, como el Rey Meniadus avia cogido una muy
 gentil donzella, que un hombre muy feo, y givoso avia traido en-
@@ -1314,7 +1314,7 @@ Clamades hijo del Rey de Castilla, que avia hallado à Clarmon-
 da su cara amiga, la qual èl avia tanto buscado; y luego lo des-pidiò,}
 {CW. pi-diò}
 [fol. 18v]
-{HD. 36 \ Historia de Clamades, +}
+{HD. 36 \ Historia de Clamades, ⇒}
 {CB1.
 porque no lo podia llevar consigo, porque queria subir
 sobre el cavallo de madera con Clarmonda; y Pichonete fuè muy
@@ -1390,7 +1390,7 @@ madera, y huvo muy gran gozo, y fuè corriendo à dezirlo à la
 Reyna, la qual huvo un gran placer, que apenas podia hablar, y}
 {CW. lue-go}
 [fol. 19v]
-{HD. 38 \ Historia de Clamades, +}
+{HD. 38 \ Historia de Clamades, ⇒}
 {CB1.
 luego ella, sus hijas, y hermanas de Clamades los fueron à reci-
 bir, alli huvo mucha alegria de una parte, y otra; y despues

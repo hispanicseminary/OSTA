@@ -481,7 +481,7 @@ bajoso: o la euacuacio<n> tiñe la vrina
 renes: es cansa de teñir la. Deue p<re>-guntar}
 {SG. a iiij}
 [fol. 4v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 el phisico si ante q<ue> tomase la
 la vrina el dolie<n>te ha vsado con mu-
@@ -641,7 +641,7 @@ todos los otros es sie<m>pre mortal
 {MIN.} ¶ La vrina que trasluze como lau-
 na de cuerno de que se faz[ ]en las len-ternas}
 [fol. 5v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 significa indisposicio<n> del ba-
 ço: y buena disposicio<n> de quartana.
@@ -804,7 +804,7 @@ te yzquierda. Si fuere el circulo: es-
 peso & bla<n>co: señal es que le çufre en
 la postrera parte dela cabeça.}
 [fol. 6v]
-{HD. Tractado. +}
+{HD. Tractado. ⇒}
 {CB2.
 {RUB. Capitulo .iiij. del humor
 crudo enla vrina.}
@@ -1105,7 +1105,7 @@ grar por las passiones: & dolencias
 delos espiritus: & mucho mas com-
 plidamente se declara el valer della}
 [fol. 8v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 enla mano yzquierda.
 {RUB. k}
@@ -1269,7 +1269,7 @@ cabeça: & alienacion del sentido.
 {RUB. aa}
 La sangria dela vena que esta enla}
 [fol. 9v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 co<n>cauidad delos oydos: de qualq<u><<i>>er
 parte / aprouecha contra el te<m>blar de
@@ -1432,7 +1432,7 @@ con ella bota de fuera todos los ma-
 los humores: & administra sanidad}
 {SG. b j}
 [fol. 10v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de luenga vida. Onde auicenna en-
 la quarta del primero. enel capitulo
@@ -1591,7 +1591,7 @@ signo estuuiere la luna. Jtem esta<n>do
 la luna enlos signos de ayre: & de fu-ego:}
 {SG. b ij}
 [fol. 11v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 vale mas obrar las venas: que
 no quando esta enlos signos terre-
@@ -1814,7 +1814,7 @@ pechos / pulmones / & baço. & comen-
 çar de edificar nueua casa.}
 {SG. b iiij}
 [fol. 13v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {MIN.} ¶ Leo es signo del
 mes de julio. E tiene
@@ -1978,7 +1978,7 @@ ba hauemos dicho dela
 sa<n>gria d<e>los doze signos
 d<e>l circ<u>lo zodiaco. se deue<n>}
 [fol. 14v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ente<n>der solamente segun el mouimie<n>-
 to d<e>la luna. & no delos otros plane-
@@ -2334,7 +2334,7 @@ niebras a luz.
 Para excitar la i<m>pote<n>cia en<e>l acto
 d<e>la carne tomara d<e>spues de auer ce-nado}
 [fol. 16v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 q<u><<a>>ndo q<u><<i>>ere yr a dormir d<e> aq<ue>lla
 <con>feccio<n> q<ue> pone el mesue q<ue> llama <con>fec-
@@ -2503,7 +2503,7 @@ geres para que puedan parir presto
 se faze de aquesta manera: toma vna
 cuchareta de miel derritida: & tres}
 [fol. 17v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 tragos de agua tibia: & mezclado de
 se le a beuer ala muger q<ue> quisiere pa-
@@ -2667,7 +2667,7 @@ beça que ella no lo sepa.
 ¶ Si la muger no co<n>cibe por indis-
 posicio<n> de humidad acostu<m>bre de to-mar}
 [fol. 18v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 manjares q<ue> sean secos de natu-
 ra. y deue se co<n>fortar el ojo dela ma-
@@ -2830,7 +2830,7 @@ d<e>la muger por intencio<n> de enge<n>drar
 & augme<n>tar su semejante: que enton-ces}
 {SG. c j}
 [fol. 19v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 no es pecado.
 ¶ Por que el templado ayuntamie<n>-
@@ -2995,7 +2995,7 @@ quel acto: al tiempo dela expulsion
 dela simie<n>te: respo<n>de el aristotil enel}
 {SG. b ij}
 [fol. 20v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 segu<n>do libro delos animales: que el
 deleyte se causa por la comunicacio<n>
@@ -3160,7 +3160,7 @@ xo hazi asi la fuerça & naturaleza de
 la madre aquella simiente: de tal ma-nera}
 {SG. c iij}
 [fol. 21v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 q<ue> co<n>cibio: & salio de<n>de preñada
 ca de toda la materia & forma specifi-
@@ -3324,7 +3324,7 @@ cosas humidas: & haze su curso en
 xxxix. dias & viij. horas: el mestruo co-
 mo humor humido cresce & descrece}
 [fol. 22v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 por mouimie<n>to d<e>lla en cada mes de
 donde toma el no<m>bre de mestruo.
@@ -3488,7 +3488,7 @@ disposicio<n> d<e>lla por q<ue> ento<n>ces no cae
 la simie<n>te en<e>l lugar q<ue> co<n>uiene. Otro
 si si las <con>plexiones d<e>l marido & d<e>la}
 [fol. 23v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 muger so<n> diuersas. co<n>uiene saber. si
 el es male<n>colico & ella flematica por
@@ -3652,7 +3652,7 @@ p<ar>tes. & puede se respo<n>der ala q<ue>stion
 q<ue> se suele pedir. si el hermofrodico d<e>-
 ue ser estimado por ho<m>bre: o por mu-ger.}
 [fol. 24v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 respo<n>de q<ue> se deue considerar la
 q<u><<a>>ntidad d<e>los dos mie<m>bros: & si pre-
@@ -3817,7 +3817,7 @@ y las partes esta<n> diuisas o distintas
 y se descierne<n> manifiestame<n>te el cora-çon}
 {SG. d j}
 [fol. 25v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 cerebro & higado y esta apareja-
 da la massa p<ar>a q<ue> pueda recebir for-
@@ -4322,7 +4322,7 @@ la sal: & se haga vna massilla: y enton-
 ces q<u><<i>>ta la d<e>l fuego: y dexa la refriar}
 {SG. d iij}
 [fol. 28v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 & picala muy bie<n> en vn mortero: des-
 pues haz vn agujero en vn rauano:
@@ -4488,7 +4488,7 @@ do esto picado & fecho emplasto co<n>
 vna clara de hueuo: ponerlo has en-cima}
 {SG. d iiij}
 [fol. 29v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de vna estopada: la qual assen-
 taras encima la llaga.
@@ -4649,7 +4649,7 @@ vnguentos. Primeramente de vn
 vnguento para qua<n>do enel hombre
 se seca algun miembro.}}
 [fol. 30v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN4.} TOma vn gato entero. &
 vn ansaro<n> & assa los jun-
@@ -4810,7 +4810,7 @@ podiere sufrir: y q<u><<a>>ndo se enfriare la
 estopa: renouar le has d<e> co<n>tinuo fas-
 ta q<ue> se sie<n>ta mejor. y si con este no ho-uiere}
 [fol. 31v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 remedio: puede se tomar en lu-
 gar del vino tinto agua ardiente.
@@ -4974,7 +4974,7 @@ de pozo: pica todo esto ju<n>to: & po<n> lo
 a remojar por todo vn dia natural:
 en buen vino bla<n>co. enel segu<n>do dia}
 [fol. 32v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 estilla lo por vn ala<n>bique & lo prime-
 ro q<ue> saldra d<e>la estilladura: sera de es-
@@ -5137,7 +5137,7 @@ uiere algu<n>a vena ro<m>pida: & haze san-
 gre: & dexa lo ende sin tocar lo: fasta
 que la vena este co<n>solada. & si aque-sto}
 [fol. 33v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 no abastare: pica las maluas: &
 ponphiligos que es el fumo que se
@@ -5301,7 +5301,7 @@ do tantas vezes fasta que sane.
 ¶ Sean lauadas las llagas con a-gua}
 {SG. e j}
 [fol. 34v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 caliente. despues toma azabar
 molido & mezclado con xugo de yer-
@@ -5495,7 +5495,7 @@ pies: las manos: los riñones
 la madre la vexiga son los mi-
 embros officiales del cuerpo.}}
 [fol. 35v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN7.} ADam nuestro
 padre primero
@@ -5660,7 +5660,7 @@ muestra paralisis enel punto que su-
 be ala cima dela cabeça.}
 {SG. e iij}
 [fol. 36v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ Empues q<u><<a>>ndo bate al medio del
 dedo muestra p<er>lesia enlas espaldas
@@ -5823,7 +5823,7 @@ los pechos. & causa se e<n> muchas ma-
 neras: algu<n>as vezes por demasiado}
 {SG. e iiij}
 [fol. 37v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 comer otras vezes por calor sup<er>fluo
 Cura si acaeciere por calor sup<er>fluo:
@@ -5987,7 +5987,7 @@ acaesce en muchas mane-
 ras: como paresce por los no<m>bres d<e>-
 lla: enel lado derecho dela precede<n>te}
 [fol. 38v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 figura. las q<u><<a>>les son tres pri<n>cipales.
 ¶ La p<r><<i>>mera se forma enlos espiri-
@@ -6315,7 +6315,7 @@ espacio de vna hora enla boca: & des-
 pues tragarla: y mata los d<e> co<n>tine<n>te
 {RUB. Otro para el mesmo}}
 [fol. 40v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 Toma ruda seca .xv. granos pimie<n>-
 ta .xx. granos diptamo .xxx. granos
@@ -6479,7 +6479,7 @@ zes viene de gra<n> calor: y entonces se
 le seca mucho la le<n>gua: & beue desme-
 suradame<n>te. Cura. toma peso de .x.}
 [fol. 41v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 granos de filonio romano desata-
 do en vn poco de vino.
@@ -6644,7 +6644,7 @@ encima las llagas dela lengua.
 se muy amenudo conello la le<n>gua.}
 {SG. f j}
 [fol. 42v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ {LAT. Fetor oris:} es el pudor d<e>la boca
 el q<u><<a>>l algu<n>as vezes viene d<e> tener los
@@ -6793,7 +6793,7 @@ o las cosas q<ue> estan en razon. Digo
 pues que la peste viene algunas ve-zes}
 {SG. f ij}
 [fol. 43v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 en tiempo caliente / como es enel
 estio / o enel principio del atu<m>no: por
@@ -7119,7 +7119,7 @@ sarampion en personas grandes: &
 viruelas & cosas semejantes.}
 {SG. f iiij}
 [fol. 45v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Capitulo .iij. dela preseruacio<n>
 dela peste por correction del ayre: &
@@ -7283,7 +7283,7 @@ por ta<n>to la segu<n>da ayuda es: & muy
 necessaria purgar las humidad<e>s su-
 perfluas enel estio: & enel principio}
 [fol. 46v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 d<e>l otoño. & enlos ma<n>cebos & coleri-
 cos: purgar la colera co<n> tamari<n>dos
@@ -7446,7 +7446,7 @@ chas: & dexe<n> todas las otras yerbas
 Ca las ortalizas & frutas tiene<n> hu<m>i-
 dad<e>s aguaynosas / & podrecibles: por}
 [fol. 47v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 razo<n> de as quales: el humor que de<n>-
 de se enge<n>dra: es aparejado a putre-
@@ -7607,7 +7607,7 @@ trina d<e>las cosas precedie<n>tes: q<ue> esta
 medicina es muy bue(u)[n]a. Ahun segu<n>
 mi consejo mejor es q<ue> se tome en pil-doras}
 [fol. 48v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 por q<ue> no<n> es ta<n> ascorosa ala bo-
 ca. ca asi como la miel es el extremo
@@ -7771,7 +7771,7 @@ zimie<n>to fasta q<u><<i>>nze o<n>ças en q<ue> se desa-
 te cañafistola limpia & tamarindos
 de cada vno .j. onça elletuario de çu-mo}
 [fol. 49v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de rosas .iij. ochauas azeyte vio-
 lado: onças .ij. sal[ ]comu<n> .iij. ochauas
@@ -7935,7 +7935,7 @@ la materia dellos en substa<n>cia poço-
 & altera su substa<n>cia & color. & añade}
 {SG. g j}
 [fol. 50v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 mala qualidad q<ue> va por las arterias
 al coraço<n>. segu<n> pone Auicenna. en
@@ -8098,7 +8098,7 @@ ster regimie<n>to regeneratiuo de espi-
 ritus. Segu<n>do hauemos menester}
 {SG. g ij}
 [fol. 51v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 enfriar los por expulsio<n>. Tercio ha-
 uemos menester cosas frias por ra-
@@ -8238,7 +8238,7 @@ enlas co<n>plexiones & qualidades. &c<etera>
 {RUB. Prohemio.}}
 {SG. g iij}
 [fol. 52v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN4.} DEla doctrina dela phiso-
 nomia queriendo fablar:
@@ -8403,7 +8403,7 @@ que la supieren: segun diremos cla-
 ramente enlos capitulos siguientes}
 {SG. g iiij}
 [fol. 53v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 pueda entre las gentes alcançar ho<n>-
 rra & fama con prouecho. E cada co-
@@ -8554,7 +8554,7 @@ herizados. lo qual co<n>tece por el mu-
 cho calor del coraçon: como se mues-
 tra enel leon &c<etera>}
 [fol. 54v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Capit<ulo> .iiij. delas señales dela
 conplexion fria.}
@@ -8709,7 +8709,7 @@ xos: & el hombre es de vn andar &
 mouimiento temprado. enla nariz
 no le abunda<n> mucho sup<er>fluidades.}
 [fol. 55v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 la cabeça le duele muchas vezes. es
 hombre de duro ingenio: vano: & de
@@ -8868,7 +8868,7 @@ te: y el esperma sera muy gruesso en
 substa<n>cia: & viscoso: & luego frega(u)[n]-
 do echa: & para aq<ue>llo ante de cu<n>plir}
 [fol. 56v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 la edad: le co<n>tece hauer gran desseo
 de vsar co<n> muger. onde sobre la ver-
@@ -9029,7 +9029,7 @@ engorda: & las cosas que come: le sa-
 ben bien. Onde tiene buen apetito:
 & digere bien & sale bien}
 [fol. 57v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Capitu<lo> .xviij. delas señales de
 mucha colera.}
@@ -9192,7 +9192,7 @@ semejantes vermejas.
 minio de colera vermeja}}
 {SG. h j}
 [fol. 58v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ Qua<n>do reyna la colera vermeja
 el hombre sueña veer fuego ardie<n>te
@@ -9354,7 +9354,7 @@ duria. que no se engaña.
 cabellos.}}
 {SG. h ij}
 [fol. 59v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN4.} CAbellos llanos & luen-
 gos & bla<n>cos o ruuios
@@ -9515,7 +9515,7 @@ mas cruel q<ue> d<e>lectable. ¶ Cuyas pe-
 stañas so<n> lue<n>gas mucho: significan}
 {SG. h iij}
 [fol. 60v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ser el ho<m>bre algu<n> ta<n>to de dura capaci-
 dad mas de subtil intellecto: de gra<n>
@@ -9677,7 +9677,7 @@ bre pacifico. asaz ma<n>so: leal: laborio-
 so. & secreto. & de buen intellecto.}
 {SG. h iiij}
 [fol. 61v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ Cuya nariz fuere enla pu<n>ta algu<n>
 ta<n>to pelosa: & en cada parte gruessa
@@ -9838,7 +9838,7 @@ esso el animal de mucho aliento: es
 de mucha fuerça: & beue mucho.
 {RUB. Capitulo .xxxvi. dela voz.}}
 [fol. 62v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {IN2.} EL ho<m>bre de gorda voz enel
 son: significa ho<m>bre fuerte. o-
@@ -10002,7 +10002,7 @@ stu<m>bre. & por la contra: delos q<ue> la tie-
 ne<n> mal compuesta: como se muestra
 enlos castrados: los q<u><<a>>les despues}
 [fol. 63v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 de hauer p<er>dido ambos los botones
 se muda mucho dela natura de hom-
@@ -10166,7 +10166,7 @@ vano. timido. disoluto d<e>
 rafez mintroso: razonableme<n>te astu-
 to: de gra<n>d saña: & muy desdeñoso.}
 [fol. 64v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ La garga<n>ta magra & delgada q<ue>
 sele parece<n> las venas: significa hom-
@@ -10329,7 +10329,7 @@ cada p<ar>te. & eloque<n>te: de rafez aso<m>bra-
 dizo. tractable por sus amigos: de
 alto coraço<n>: & no bien afortunado.}
 [fol. 65v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 {RUB. Capitulo .li. dela carne.}
 {IN4.} Carne muelle en todas las
@@ -10491,7 +10491,7 @@ cortos: significan ho<m>bre p<re>sto enlo q<ue>
 ha de fazer: & q<ue> piensa p<re>sto. emp<er>o de}
 {SG. i j}
 [fol. 66v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 poca memoria. ¶ Cuyos passos so<n>
 a(u)[n]chos: & no parejos: ni derechos:
@@ -10655,7 +10655,7 @@ tame<n>te se deue<n> buscar los capitulos
 todos: & mezclar se. E allende desto}
 {SG. i ij}
 [fol. 67v]
-{HD. La +}
+{HD. La ⇒}
 {CB2.
 es de creer q<ue> muchos son los accide<n>-
 tes q<ue> v<er>dad(a)[e]r(e)[a]me<n>te afloxa<n>: & relaxa<n>:
@@ -10983,7 +10983,7 @@ la persona. fo<lio>. lxv
 lante & detras. fo<lio>. lxv}
 {SG. i iiij}
 [fol. 69v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 ¶ Capitu<lo>. lxv. dela statura del ho<n>-
 bre. fo<lio>. lxv.
@@ -11131,7 +11131,7 @@ de simie<n>te de los vasos spermaticos
 y co<m>pañones. & muestrase esto ser asi
 porq<ue> ay muchos hombres q<ue> en vna}
 [fol. 70v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 muger besar alança<n> esta simie<n>te: lue-
 go bie<n> se muestra q<ue> no podria venir
@@ -11295,7 +11295,7 @@ que sale d<e> la mesma simie<n>te: o sperma
 por v<ir>tud del cozimie<n>to: q<ue> el calor na-
 tural haze dentro & fuera. E dentro}
 [fol. 71v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 desta tunica/ o tela queda esta semie<n>-
 te/ o esperma a manera de leche espu-
@@ -11459,7 +11459,7 @@ nas vezes se adela<n>ta vn dia o dos. &c<etera>
 Doze dias despues desto la hu<m>idat
 se co<n>uierte en carne: & se ap<ar>ta<n>: & disci-erne<n>}
 [fol. 72v]
-{HD. Tractado +}
+{HD. Tractado ⇒}
 {CB2.
 las p<ar>tes d<e> la carne: & los tres mi-
 embros p<ri>ncipales se muestra<n> mani-

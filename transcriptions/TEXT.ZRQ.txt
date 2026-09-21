@@ -9,7 +9,7 @@
 {CB1.
 {RMK: HSMS-0229-0003: Tablas de Zarquiel.} {ILL. {DIAG. {RUB. Tabla de las sennales de los annos arauigos.}}}}
 [fol. 94v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de saber en qual dia entrara qual mes quier de los meses Romanos por la
 oppinion de quien pone el bissiesto en la fin del Mes de deziembre.}}}}
@@ -19,7 +19,7 @@ oppinion de quien pone el bissiesto en la fin del Mes de deziembre.}}}}
 {ILL. {DIAG. {RUB. Tabla pora saber en qual dia entra qual Mes quier de los Meses egipcianos por la op-
 pinion de quien pone el bissiesto en la fin del Mes de Moçre.}}}}
 [fol. 95v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla pora sacar qual era quier de las tres eras q<ue> son de Alexandre. & de diez deiarch
 el perssiano. & de diocleciano ell egipciano. por qual era quier de las tres sobredichas.}}}}
@@ -28,7 +28,7 @@ el perssiano. & de diocleciano ell egipciano. por qual era quier de las tres sob
 {CB1.
 {ILL. {DIAG. {RUB. Complimiento de la tabla con q<ue> sacan las Eras una por otra.}}}}
 [fol. 96v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla pora saber en qual dia en-
 tra q<u><<a>>l Mes q<u><<i>>er de los Meses perssianos.}}}}
@@ -40,7 +40,7 @@ uan de dizeocho en dizeocho.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Ell anno primero de los annos solares q<ue> se uan de .xxviij. en .xxviij.}}}}
 [fol. 97v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Complimiento dell anno primero de los annos solares.}}}}
 [fol. 98r]
@@ -48,7 +48,7 @@ uan de dizeocho en dizeocho.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell anno segundo de los annos solares.}}}}
 [fol. 98v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Complimiento dell anno segundo de los annos solares.}}}}
 [fol. 99r]
@@ -56,7 +56,7 @@ uan de dizeocho en dizeocho.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell anno tercero de los annos solares.}}}}
 [fol. 99v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento dell anno tercero de los annos solares.}}}}
 [fol. 100r]
@@ -64,7 +64,7 @@ uan de dizeocho en dizeocho.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell anno quarto de los annos solares.}}}}
 [fol. 100v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento dell anno quarto de los annos solares.}}}}
 [fol. 101r]
@@ -72,7 +72,7 @@ uan de dizeocho en dizeocho.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares del medio cursso de la luna en el come<n>çamie<n>to de cada an<n>o de los annos de s<o>s reuolucio<n>es}}}}
 [fol. 101v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del medio cursso de la luna en los Meses Romanos. & en sos dias por un an<n>o no<n> bissiesto.}}}}
 [fol. 102r]
@@ -81,7 +81,7 @@ uan de dizeocho en dizeocho.}}}}
 {ILL. {DIAG. {RUB. Tabla del medio cursso de la Luna en los Meses romanos. & en sos dias
 pora un anno non bissiesto}}}}
 [fol. 102v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento del medio cursso de la luna en los Meses Romanos. & en sos
 dias pora un anno non bissiesto.}}}}
@@ -90,7 +90,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 103v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 104r]
@@ -98,7 +98,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell complimie<n>to dell argumento de la lun<<a>> en los meses romano<<s>>. & sos dia<<s>> pora un an<n>o no<n> bis-siesto.}}}}
 [fol. 104v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell endreçamiento uniuerssal de la luna.}}}}
 [fol. 105r]
@@ -109,7 +109,7 @@ dias pora un anno non bissiesto.}}}}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla de la declinacio<n> del sol.}}}}
 [fol. 105v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares de la cabeça del dragon en el come<n>çamie<n>to de cada an<n>o de los an<n>os de s<o>s reuolucio<n>es.}}}}
 [fol. 106r]
@@ -117,7 +117,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares de la cabeça del dragon en los Meses.}}}}
 [fol. 106v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 107r]
@@ -125,7 +125,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 107v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 108r]
@@ -133,7 +133,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 108v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 109r]
@@ -141,7 +141,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento de los logares endreçados de Saturno.}}}}
 [fol. 109v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 110r]
@@ -149,7 +149,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 110v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 111r]
@@ -157,7 +157,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell argume<n>to de la luna en el come<n>çamie<n>to de cada an<n>o de los an<n>os de s<o>s reuoluciones.}}}}
 [fol. 111v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla dell argumento de la luna en los Meses Romanos. & en sos dias.}}}}
 [fol. 112r]
@@ -165,7 +165,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 112v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Jupiter.}}}}
 [fol. 113r]
@@ -173,7 +173,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento de los logares endereçados de Jupiter.}}}}
 [fol. 113v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 114r]
@@ -181,15 +181,15 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 114v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 115r]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 115v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 116r]
@@ -197,7 +197,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 116v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Saturno.}}}}
 [fol. 117r]
@@ -205,15 +205,15 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endreçados de Mars.}}}}
 [fol. 117v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 118r]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 118v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 119r]
@@ -221,7 +221,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 119v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mars.}}}}
 [fol. 120r]
@@ -236,7 +236,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Ven<u>s.}}}}
 [fol. 121v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 122r]
@@ -244,7 +244,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 122v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 123r]
@@ -252,7 +252,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 123v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 124r]
@@ -260,7 +260,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 124v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de los logares endereçados de Mercurio.}}}}
 [fol. 125r]
@@ -268,12 +268,12 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla del complimiento de los logares endereçados de Mercurio.}}}}
 [fol. 125v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 126r]
 [fol. 126v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 127r]
@@ -281,7 +281,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 127v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 128r]
@@ -289,7 +289,7 @@ dias pora un anno non bissiesto.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. ¶ Tabla de las ascenssiones de los signos enel cielo derecho.}}}}
 [fol. 128v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las ascenssiones de los signos pora cada .10. grados. & es so començamie<n>to
 del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete climas.}}}}
@@ -298,7 +298,7 @@ del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete c
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 129v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 130r]
@@ -306,7 +306,7 @@ del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete c
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 130v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 131r]
@@ -314,7 +314,7 @@ del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete c
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las diff<er>encias de las ascenssiones atal q<ue> sea toda la declinacion .23. grados. & .33. men<u>dos.}}}}
 [fol. 131v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de las diff<er>encias de los arcos de los medios dias en las siete climas.}}}}
 [fol. 132r]
@@ -323,7 +323,7 @@ del quarto de la p<r><<i>>mera clima. & poral medio de cada clima de las siete c
 {ILL. {DIAG. {RUB. Tabla de los tiempos q<ue> son entrel ponimie<n>to del Sol. & el ponimiento de la luna quando
 fuere el Sol en los medios de los signos. o en su fin.}}}}
 [fol. 132v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG. {RUB. Tabla de la diuerssidad del catamiento de la luna enel cerco de la altura.}}}}
 [fol. 133r]
@@ -331,7 +331,7 @@ fuere el Sol en los medios de los signos. o en su fin.}}}}
 {CB1.
 {ILL. {DIAG. {RUB. {BLNK.}}}}}
 [fol. 133v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla dell eclipsi de la lun<<a>> en su lo<n>g<ur>a ma<<s>> lue<n>-
 ne.}}}}
@@ -345,7 +345,7 @@ lue<n>ne.}}}}
 {CB2.
 {ILL. {DIAG. {RUB. Tabla dell eclipsi del sol en su lo<n>gura ma<<s>> c<er>ca.}}}}
 [fol. 134v]
-{HD. L<IBRO> DE LAS TABLAS +}
+{HD. L<IBRO> DE LAS TABLAS ⇒}
 {CB1.
 {ILL. {DIAG.}}}
 [fol. 135r]

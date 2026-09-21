@@ -27,7 +27,7 @@ contemplando.
 quan presto passa el peccado,}
 {SG. Hh 4} {CW. y la}
 [fol. 230v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 y la pena del culpado
 para siempre à de durar,
@@ -83,7 +83,7 @@ y el cuydado,
 {RMK: HSMS-0368-0002: Coplas por la muerte de su padre.} pues que vemos lo presente}
 {SG. Hh 5} {CW. quan}
 [fol. 231v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 quan en vn punto se es ydo,
 y acabado.
@@ -137,7 +137,7 @@ para las almas captiuas
 do se lauan, y son tales,}
 {CW. que}
 [fol. 232v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 que buscan manantiales
 de nuestras aguas lasciuas.
@@ -192,7 +192,7 @@ los que biuen por sus manos,
 y los ricos.}
 {CW. A ti}
 [fol. 233v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 {RMK: HSMS-0368-0001: Glosa a las coplas de Jorge Manrique.} A ti mi Dios, y señor
 esta mi obra se applica,
@@ -247,7 +247,7 @@ en esta vida mortal
 Y aun que assi baxó muriendo}
 {CW. nuestra}
 [fol. 234v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 nuestra culpa nos causo
 tal ceguedad,
@@ -300,7 +300,7 @@ y llegamos.
 como quien parte llorando,}
 {SG. Ii} {CW. y cami}
 [fol. 235v]
-{HD. Libro tercero +}
+{HD. Libro tercero ⇒}
 {CB1.
 y camina suspirando
 sin parar en la carrera,
@@ -355,7 +355,7 @@ se humilló,
 {RMK: HSMS-0368-0002: Coplas por la muerte de su padre.} y aun aquel hijo de Dios}
 {SG. Ii 2} {CW. para}
 [fol. 236v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 para subirnos al cielo
 descendio.
@@ -409,7 +409,7 @@ por lo que estragó, y empeño,
 que cuenta lo dare di?}
 {SG. Ii 3} {CW. de}
 [fol. 237v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 de auer lo tratado assi,
 en desgracia de su dueño.
@@ -464,7 +464,7 @@ el anima gloriosa
 angelical}
 {SG. Ii 4} {CW. Deste}
 [fol. 238v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 {RMK: HSMS-0368-0001: Glosa a las coplas de Jorge Manrique.} Deste mal enferma, y muere
 nuestro appetito ligero,
@@ -519,7 +519,7 @@ quando se viene à perder.
 Añadese otro dolor}
 {SG. Ii 5} {CW. en las}
 [fol. 239v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 en las cosas que buscamos,
 y queremos,
@@ -573,7 +573,7 @@ conoscida.
 por harmas, y por blason,}
 {CW. as de}
 [fol. 240v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 as de tener la passion
 de Christo crucificado:
@@ -629,7 +629,7 @@ y es tan cruda,
 {RMK: HSMS-0368-0002: Coplas por la muerte de su padre.} los plazeres, y riqueza,}
 {CW. que}
 [fol. 241v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 que nos dexen à deshora
 quien lo duda?
@@ -683,7 +683,7 @@ y los rige como loca,
 porque no puedas gozarte.}
 {CW. aun}
 [fol. 242v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 aunque sin todo, ò sin parte
 te venga à pedir de boca.
@@ -738,7 +738,7 @@ que por ellos esperamos,
 eternales.}
 {SG. Kk} {CW. Puede}
 [fol. 243v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 {RMK: HSMS-0368-0001: Glosa a las coplas de Jorge Manrique.} Puede ser mayor dureza
 que quiera el hombre mortal
@@ -793,7 +793,7 @@ y se pierda enel primor.
 De vn año, para otro año,}
 {SG. Kk 2} {CW. libra}
 [fol. 244v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 libramos, y damos suelta,
 al bien obrar,
@@ -847,7 +847,7 @@ y prelados.
 todo quanto toca al ser,}
 {SG. Kk 3} {CW. todo}
 [fol. 245v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 todo à de corresponder
 en vna misma ygualdad,
@@ -903,7 +903,7 @@ de sabello,
 {RMK: HSMS-0368-0002: Coplas por la muerte de su padre.} no curemos de saber}
 {SG. Kk 4} {CW. lo de}
 [fol. 246v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 lo de aquel tiempo passado
 que fue dello?
@@ -957,7 +957,7 @@ mas la culpa nos offende
 que entendiendo, no entendemos}
 {SG. Kk 5} {CW. y qui}
 [fol. 247v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 y quiriendo, no queremos,
 huyr del mal que nos prende.
@@ -1012,7 +1012,7 @@ de los fuegos encendidos
 de amadores?}
 {CW. Que}
 [fol. 248v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 {RMK: HSMS-0368-0001: Glosa a las coplas de Jorge Manrique.} Que es de los dulces alientos,
 de aquellos sanctos varones,
@@ -1067,7 +1067,7 @@ destas harmas se à de harmar.
 En obras sanctas loables}
 {CW. estan}
 [fol. 249v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 estan las fuerças y artes,
 valederas,
@@ -1121,7 +1121,7 @@ y varones?
 hablar ni reprehenderte,}
 {CW. fingien}
 [fol. 250v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 fingiendo te cruda, y fuerte,
 siendo effecto sin sustancia:
@@ -1176,7 +1176,7 @@ por do vays,
 {RMK: HSMS-0368-0002: Coplas por la muerte de su padre.} no se os haga tan amarga}
 {SG. Ll} {CW. esta}
 [fol. 251v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 esta vida trabajosa
 que esperays.
@@ -1230,7 +1230,7 @@ para el punto del partir
 si el alma que à de durar}
 {SG. Ll 2} {CW. se va}
 [fol. 252v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 se va por poco gozar
 eternamente à morir.
@@ -1285,7 +1285,7 @@ con trabajos y affliciones
 contra moros.}
 {SG. Ll 3} {CW. Sim}
 [fol. 253v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 {RMK: HSMS-0368-0001: Glosa a las coplas de Jorge Manrique.} Simple de ti caminante
 despierta que vas soñando
@@ -1340,7 +1340,7 @@ para verse ya con Christo.
 Porque Dios embia el morir}
 {SG. Ll 4} {CW. era}
 [fol. 254v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 era bien que se tuuiera
 por ventura,
@@ -1394,7 +1394,7 @@ en tu persona.
 sino solo el que tu as dado,}
 {SG. Ll 5} {CW. que}
 [fol. 255v]
-{HD. Libro tercero, +}
+{HD. Libro tercero, ⇒}
 {CB1.
 que bien ay justificado
 delante tu acatamiento

@@ -86,7 +86,7 @@ te de astronomia. & dela natura de connosçer las pie-
 dras. Et despues que el murio fico como perdudo este
 libro muy grand tiempo de guisa que los quel auien}
 [fol. 1v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 nol ente<n>dien bien nin sabien obrar del assi com-
 mo conuinie fasta que quiso dios que uiniesse
@@ -370,7 +370,7 @@ lo; muestra esta piedra mas manifiesta miente
 sus obras.
 {=DIAG.}}
 [fol. 3v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque llaman mouedor;}
 {IN10. {MIN=.}} Del sesto grado del sig-
@@ -494,7 +494,7 @@ do esta estrella fuere en medio del cielo; mostrara
 esta piedra mas manifiesta miente sus obras.
 {=DIAG.}}
 [fol. 4v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra que fuye dela leche}
 {IN10. {MIN=.}} Del dezeno grado [*del]
@@ -630,7 +630,7 @@ su uertud. Et q<u><<a>>ndo estas fuere<n> en el asce<n>dente o en med<i>o
 cielo; esto<n>ce mostrara esta piedra mas sus obras.
 {=DIAG.}}
 [fol. 5v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque dizen beruth;}
 {IN8. {MIN=.}} Del trezeno grado del signo de
@@ -751,7 +751,7 @@ recibe su uertud. Et quando ella es enel ascende<n>te mu-
 estra esta piedra mas manifiesta miente s<us> obras.
 {=DIAG.}}
 [fol. 6v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra q<ue> parece en la mar qua<n>do sube mars.}
 {IN8. {MIN=.}} Del dizeseteno grado del sig-
@@ -893,7 +893,7 @@ logar que p<ro>priedat a. o con quales estrellas a su ata-
 miento; onde recibe la uertud. mas primera miente q<ue>-
 remos fablar dela p<ro>priedat que a en si este iaspio de q<u><<a>>l}
 [fol. 7v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 manera q<u><<i>>er q<ue> sea. Et dezimos q<ue> las mas dellas son
 claras de color que passa el uiso. & las otras que son
@@ -1027,7 +1027,7 @@ son en el cuerpo de caytoz a poder sobresta piedra
 fuere en medio del cielo; sera la obra desta piedra
 mas fuerte & de mayor uertud.}
 [fol. 8v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman gaciuz:}
@@ -1149,7 +1149,7 @@ corcor. Et estas piedras son menudas & de color (de
 color) de arena. Liuianas son. & blandas de tiento
 & ligeras de quebrantar. Et quando las quebranta<n>}
 [fol. 9v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 fallan dentro otra piedra bla<n>ca & dura. & de quebra<n>-
 tar muy fuerte. Et qui tomare esta piedra & la mo-
@@ -1281,7 +1281,7 @@ la meten los fisicos enel alcohol que fazen pora oios
 dientes. Et aun a otra uertud. que si con la salmu-
 era della ruciaren la casa; non se allegara y culue-bra}
 [fol. 10v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 ninguna. Et faze mas que si sollaren del pol-
 uo della en la garganta de qual animal quier q<ue>
@@ -1302,7 +1302,7 @@ manifiesta miente sus obras.
 {CB1.
 {=DIAG.}}
 [fol. 11v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Prologo;}
 {IN9. {MIN=.}} Dichas son las treynta ma-
@@ -1447,7 +1447,7 @@ tud. Et qua<n>do es enel ascende<n>te; muestra esta piedra mas
 s<us> obras.
 {=DIAG.}}
 [fol. 12v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque laman camorica;}
 {IN8. {MIN=.}} DEl tercero grado del signo de
@@ -1571,7 +1571,7 @@ ella fuere en medio cielo muestra esta piedra mas
 manifiesta miente sus obras.
 {=DIAG.}}
 [fol. 13v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra que tira los huessos;}
 {IN9. {MIN=.}} DEl seteno grado del
@@ -1711,7 +1711,7 @@ dra & della recibe la fuerça & la uertud. Et quando es-
 ta estrella fuere en el ascendente. muestra esta pie-
 dra manifiesta miente sus obras.}
 [fol. 14v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que [a] nombre coral.}
@@ -1833,7 +1833,7 @@ ren sobre llaga o ferida de que salga sangre; estanca
 la luego. Otrossi quando la muelen & la amassan co<n>
 uinagre. & fazen della bellotas & las ponen(en) sobre la}
 [fol. 15v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 natura dela mugier; estanca la. Et meten la otrossi
 molida los fisicos en los poluos que fazen pora apre-
@@ -1961,7 +1961,7 @@ es fallada en las mineras
 dela greda. Destas pie-
 dras ay dellas grandes & dellas pequennas mas p<er>o}
 [fol. 16v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 siempre son falladas en forma redonda. Su color es
 amariello bien puro. p<er>o ay algunas dellas en que
@@ -2095,7 +2095,7 @@ lomeo nascen en aquella tierra en los arboles unas
 fructas en figuras de mugieres & cuelgan por los
 cabellos. & mientre estan en los arboles uerdes son ui-uas}
 [fol. 17v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 & nunqua al fazen si non dezir uacuac. & desq<ue>
 son maduras caen se & mueren. Et çerca daq<ue>lla
@@ -2240,7 +2240,7 @@ dra & dellas recibe su u<er>tud. Et qua<n>do estas so<n> enel asce<n>de<n>te; mu
 tra esta piedra mas s<us> obras.
 {=DIAG.}}
 [fol. 18v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque dizen fierro.}
 {IN10. {MIN=.}} DElos .xxiiij. grados
@@ -2384,7 +2384,7 @@ chas paresce en ellas en manera de luz assi como en la
 piedra del yesso. Non se faze en todos los om<ne>s de una ma-
 nera. ca alos unos se faz blanca alos otros uermeia &}
 [fol. 19v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 assi delas otras colores que dixiemos. Et aun aq<ue>l-
 los aqui se faze uermeia; alas uegadas se les camia en
@@ -2591,7 +2591,7 @@ ra nin sobre tier[r]a. & non fallan della grandes pedaços
 mas siempre menuda en las arenas dela mar o de
 los ryos. En muchas partes del mundo es fallada}
 [fol. 21v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 mas la meior de todas; es la que fallan en espan-
 na en la parte de occident. De color es amariella. &
@@ -2747,7 +2747,7 @@ sobresta piedra & della recibe la fuerça & la uertud. Et
 por end quando ella es enel ascendente; muestra es-
 ta piedra mas manifiesta miente sus obras.}
 [fol. 22v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman margul en caldeo;}
@@ -2876,7 +2876,7 @@ ribera dela ysla aque
 llaman alytuas. Mu-
 cho es uermeia de color}
 [fol. 23v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 & clara con muy grand resplandecimiento. & passa
 la el uiso. fuert & dura es de quebrantar. assi que se
@@ -3025,7 +3025,7 @@ can mayor a poder sobresta piedra & della recibe la fuer-
 cendente; mostrara esta piedra mas ma<n>[i]fiesta mien-
 te sus obras.}
 [fol. 24v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman bezahar.}
@@ -3153,7 +3153,7 @@ ballac en mineras q<ue>
 ay sabudas della unas
 fallan grandes & otras}
 [fol. 25v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 pequennas. De color es blanca pero ya quanto tur-
 uia. Pesada es & fuert & dura de quebrantar. Et si la
@@ -3282,7 +3282,7 @@ mas. pero todas menudas. De su natura es calient
 esfuerçal todos los miembros del cuerpo. & sus moui-
 mientos. & los sentidos; assi que por trabaio q<ue> tome}
 [fol. 26v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 nin por obra que faga non cansa. Et aun a otra
 uertud. que todas las bestias fuyen del que la trae &
@@ -3412,7 +3412,7 @@ tud. Et q<u><<a>>ndo ella es en el ascende<n>te muestra esta piedra
 mas s<us> obras.
 {=DIAG.}}
 [fol. 27v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque dizen tarmicon.}
 {IN10. {MIN=.}} DEl ueyntiun gra-
@@ -3551,7 +3551,7 @@ be la fuerça & la uertud. Et por end quando ellas son
 en medio cielo; muestra esta piedra mas manifies-
 ta miente sus obras.}
 [fol. 28v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que tira el seuo.}
@@ -3677,7 +3677,7 @@ a muchos leones & otras bestias fieras. [*Et la uertud]
 della es atal q<ue> si la colgare<n> sobrel figado q<ue> [*sea enfermo sana]
 & si beuiere<n> del agua q<ue> della sale; faz otro [*tal & guaresce]}
 [fol. 29v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 Et general miente sana a todo mal del figado
 & abre las carreras del; por colgar la o por beuer la
@@ -3826,7 +3826,7 @@ pro. Et este tossigamiento que a en si recibe en las
 mineras del cobre en que la fallan. ca quando este
 metal se quaia en la minera. alçan se bafos delos}
 [fol. 31v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 luego que los tanne el ayre faze los abaxar & apegar
 unos sobrotros. & endurescen se de manera que se fa-
@@ -4437,7 +4437,7 @@ a poder sobresta piedra & della recibe la fuerça & la uertud
 Ende quando ella fuere en medio cielo; muestra esta
 piedra mas (^mas) manifiesta miente sus obras.}
 [fol. 36v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman baciz.}
@@ -4565,7 +4565,7 @@ como a ellas. Et si despues que fuer q<ue>mada la m(i)[o]liere<n>
 con algun olyo sale della tinta bona & luzient pora pi<n>-
 tar. Et la estrella postrimera delas dos que son enel pie}
 [fol. 37v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 siniestro postrimero dela ossa mayor que es dich<o>
 salto segundo a poder sobresta piedra & della recibe la
@@ -4693,7 +4693,7 @@ enel cabo del mast dela naue a poder en esta piedra
 en medio cielo; muestra esta piedra mas ma[*nifies]-
 ta miente sus obras.}
 [fol. 38v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre onna.}
@@ -4894,7 +4894,7 @@ della recibe la fuerça & la uertud. Et quando ella
 fuere en el ascendente; muestra esta piedra mas co<m>-
 plida miente sus obras.}
 [fol. 41v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra q<ue> a nombre aliaza entreuerada.}
@@ -5000,7 +5000,7 @@ sobresta piedra & della [*recibe la fuerça] & la uertud. Et
 quando ella [*fuere en<e>l medio cielo;] muestra esta piedra
 mas complidamiente sus obras.}
 [fol. 42v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre azech.}
@@ -5126,7 +5126,7 @@ dio cielo; muestra esta piedra mas manifiesta mie<n>te
 sus obras.
 {=DIAG.}}
 [fol. 43v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre (calcant)[calcadiz].}
 {IN10. {MIN=.}} DEl dezeno grado de[l]
@@ -5267,7 +5267,7 @@ no de çerca; pero tira mayores cuerpos que es ella. & des-
 pues que los a tirados. apegan se tan fuert a ella; que
 los non pueden desapegar si non co<n> grand fuerça q<ue>bra<n>-tando}
 [fol. 44v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 los o quemando con fuego; Et si enel cuerpo
 del om<n>e entrare algun fust assi como brizna o asta
@@ -5394,7 +5394,7 @@ fria & seca. & a en ella ya quanto de fuerça de lauar las
 cosas. No es dura ante quiebra ligera miente & mue-
 les ayna. & qua[<n>]do es assi molida & la mezclan con olyo}
 [fol. 45v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 dessuelues toda que no fica della nada; si no un poco
 en fondo como arena. Et quando muelen aquella a-
@@ -5524,7 +5524,7 @@ zes que son en aq<ue>l
 ryo sacan esta piedra fuera en alimpiando los logares do
 yazen. por que a tal uertud. que ningun animal que}
 [fol. 46v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 la tenga cabo si no duerme. Et esta semeia en co-
 lor al diamant; mas pero destas fallan mayores q<ue>
@@ -5652,7 +5652,7 @@ mezclada de color ama-
 riella & uermeia. pero
 ay dellas en que pares-ce}
 [fol. 47v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 la una color mas. & algunas en que la otra. Res-
 plandece en si misma. & semeia en la color al aliaza &
@@ -5766,7 +5766,7 @@ ella es enel ascendente; muestra esta piedra mas com-
 plida miente sus obras.
 {=DIAG.}}
 [fol. 48v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela p<iedra> carabe.}
 {IN10. {MIN=.}} DEl .xxix. grado del sign<o>
@@ -5833,7 +5833,7 @@ esta piedra mas manifiesta miente sus obras.
 {CB1.
 {=DIAG.}}
 [fol. 49v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Prologo}
 Las treinta maneras
@@ -5964,7 +5964,7 @@ dio cielo;. muestra esta piedra mas manifiesta mien-
 te sus obras.
 {ILL.}}
 [fol. 50v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela Piedra que a nombre lauenna.}
@@ -6091,7 +6091,7 @@ de om<n>e; desfaze se & mezclas co<n> ella. & si despues la ponen
 al fuego consuma se la sangre & fica la piedra aparta-
 da della. pero recibe y grand amollentamiento. mas si des-pues}
 [fol. 51v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 la meten en çumo de cidra agra; torna se dura
 como era de primero. Et otra uertud no fallan en es-
@@ -6213,7 +6213,7 @@ an poder en esta piedra & dellas recibe su uertud. Et q<u><<a>>n-
 do son enel ascendente; muestra esta piedra mas com-
 plida miente sus obras.}
 [fol. 52v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre zfedarona.}
@@ -6335,7 +6335,7 @@ pre la fallan en forma de pilar. pero los maestros taia<n>
 della qual forma quieren. Et otrossi qui la mete en
 çumo de canna hueca que es una manera de coles; su-eltas}
 [fol. 53v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 mezc[l]ando se con ello; & fazes agua. & si untan
 con ella al gafo. cayen le todos los cabellos & el cuero; &
@@ -6460,7 +6460,7 @@ uier yazido co<n> la mugier & se partiere della metiere<n> un
 poco desta piedra enla natura; tiral toda la sperma q<ue>
 no fica y ninguna cosa della. & esso fazen las mugieres}
 [fol. 54v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 que an sabor de complir su uoluntad con los om<ne>s; &
 no fiquen prennadas. Et la estrella meridional q<ue> es
@@ -6585,7 +6585,7 @@ pient a poder & sennorio en esta piedra & della recibe la
 uertud & la fuerça. Et por ta<n>to quando es en medio cielo;
 muestra esta piedra mas complida miente sus obras.}
 [fol. 55v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre secutarica.}
@@ -6708,7 +6708,7 @@ li<n>na delant<er>a q<ue> es en la pierna siniestra dela figura de ui<r>go;
 a poder en esta piedra & della recibe su uertud. Et q<u><<a>>ndo es en
 medio cielo; muestra esta piedra mas sus obras.}
 [fol. 56v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre armeniana.}
@@ -6850,7 +6850,7 @@ ynoio ficado a poder en esta piedra; & della recibe su uertud
 Et quando es en el ascendente; muestra esta piedra mas
 complida miente sus obras.}
 [fol. 58v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque dizen Murufez.}
@@ -6978,7 +6978,7 @@ de quebrantar. & fallan la siempre de forma quadrada
 assi como dado. Luzia es ya quanto; mas no que la pas-
 se el uiso. Et es de natura fria & humida. Et su uertud es}
 [fol. 59v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 atal que si la ponen en uaso en que aya agua; tiene
 la siempre en su friura q<ue> la no dexa escalentar. Et si la
@@ -7088,7 +7088,7 @@ en medio cielo; muestra esta piedra mas complida mie<n>te
 sus obras.
 {=DIAG.}}
 [fol. 60v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre belmunicen.}
 {IN10. {MIN=.}} Del .x. grado del signo
@@ -7223,7 +7223,7 @@ la planeta es sobre tierra. qui para mientes ala piedra;
 uee en ella que se danna. & se puede quebrantar ligera
 miente. mas qua<n>do es so tierra; faz el co<n>trario desto. Et}
 [fol. 61v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 aun a otra uertud. que qui la trae consigo enel uera-
 no; no siente calentura. Et si della beuieren un poco
@@ -7352,7 +7352,7 @@ puia en su claridat & en la fremosura. De natura es
 fria & humida. Et a tal p<ro>priedat que si la meten en
 miel oscurece & quiebra por si. & es tossico mortal. ca}
 [fol. 62v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 si dieren della a beuer peso de una dragma al que la
 beue fazel perder toda la fuerça del retenimiento del
@@ -7478,7 +7478,7 @@ en esta piedra & della recibe su uertud. Et quando ella
 es en medio cielo; muestra esta piedra mas sus obras.
 {=DIAG.}}
 [fol. 63v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque llaman martiz.}
 {IN10. {MIN=.}} DEl .xxi. grado del sig-
@@ -7613,7 +7613,7 @@ en medio cielo; muestra esta piedra mas manifiesta
 miente sus obras.
 {=DIAG.}}
 [fol. 64v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre Mazintarican.}
@@ -7742,7 +7742,7 @@ muchas uezes; tornas a su natura primera. Esta
 es piedra muy bla<n>ca de color. & liuiana de peso & li-
 gera de quebrantar. Et fallan la en armenia la}
 [fol. 65v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 mayor cerca de la uilla aque llaman cequid. & las sus
 mineras son en cima dun monte much alto. & en aquel
@@ -7913,7 +7913,7 @@ Et quando estas amas son en el ascendent; mues-
 tra esta piedra mas fuerça & mayor uertud en todas
 sus obras.}
 [fol. 67v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman cobre.}
@@ -8044,7 +8044,7 @@ ta ya quanto. Pesada es de cuerpo & ligera de q<ue>bra<n>tar.
 De natura es calient & seca; & semeia al azmiar en
 muchas cosas. Piedra es que alimpia mucho la car-ne.}
 [fol. 68v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 & faz la sotil. & a punta como de comezon; & por
 end es bona pora las llagas. ca come la carne sobeia
@@ -8170,7 +8170,7 @@ blanco & limpio.
 Lezne es de tiento
 & pesada & fuert &}
 [fol. 69v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 dura de quebrantar. & quando la quebrantan; falla<n>
 la dent[*ro] aspera. Et esta a una muy marauillosa
@@ -8310,7 +8310,7 @@ cal la mezclan; fazes tossico mortal. Et si muele<n> un
 poco della & lo mezclan con leche. quantas [^moscas] se a ello al-
 legan luego mueren. Et es bona poral que es açota-do.}
 [fol. 70v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 o a alguna ferida de rascamiento. ca tuelle la car-
 ne mala della seyendo mezclada co<n> olio o con cera &
@@ -8437,7 +8437,7 @@ dio cielo; muestra esta piedra mas co<m>plida mie<n>-
 te sus obras.
 {=DIAG.}}
 [fol. 71v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque llaman anatron.}
 {IN10. {MIN=.}} DEl .xvij. grado del
@@ -8576,7 +8576,7 @@ uno; fundes tan ayna por ella (^tan ayna) el oro; que
 semeia que la a miedo. Esta piedra presta mucho
 al podrimiento delos dientes & delas enzias. & mata los}
 [fol. 72v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 gusanos que se fazen en ellos. & faz los blancos & fremo-
 sos. Et entra mucho en obra de fisica; & otrossi en la o-
@@ -8702,7 +8702,7 @@ tud. Et qua<n>do so<n> en medio cielo; muestra esta piedra
 mas s<us> obras.
 {=DIAG.}}
 [fol. 73v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre Muruquid.}
 {IN8. {MIN=.}} Del .xxiijj. grado del sig-
@@ -8996,7 +8996,7 @@ della recibe su uertud. Et quando es en medio cie-
 lo; muestra esta piedra mas manifiesta miente
 sus obras.}
 [fol. 76v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra que a nombre espannola.}
@@ -9116,7 +9116,7 @@ no deue. Et la tercera u<er>tud es q<ue> presta alos dientes
 quando la fazen poluos & la traen sobrellos. ca los a-
 limpia. & faz los claros & crece la carne en ellos. & faz}
 [fol. 77v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 otrossi las enzias mui uermeias. Pero la que a uer-
 tud de estancar la sangre; parece mas su obra que
@@ -9241,7 +9241,7 @@ en esta piedra; & dellas recibe la fuerça & la uer-
 tud. Et qua<n>do son en medio cielo; muestra es-
 ta piedra mas complida mie[<n>]te sus obras.}
 [fol. 78v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman talc.}
@@ -9363,7 +9363,7 @@ nio a<n> poder en esta piedra & dellas recibe la fuerça
 estra esta piedra mas manifiesta miente s<us> obras.
 {=DIAG.}}
 [fol. 79v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {RUB. Dela piedra aque llaman çulun.}
 {IN10. {MIN=.}} Del tre[ze]no grado del
@@ -9493,7 +9493,7 @@ lo[s] cabellos que son muy gruessos; adelgazalos &
 faz los muy fremosos. Et la estrella q<ue> es en el om-
 bro siniestro de capricornio a poder en esta piedra}
 [fol. 80v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 & della recibe la fuerça & la uertud. Et quando es
 en el ascendente; muestra esta piedra mas mani-
@@ -9622,7 +9622,7 @@ sare<n> con uino & untare<n> co<n> ella el cuerpo del ydropi-
 co; adelgazal de manera q<ue> guarece muy bien. pero
 si muchol siguen co<n> esto. dessecal mas delo q<ue>l co<n>uie-[ne]}
 [fol. 81v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 assi q<ue>l aduze a muert. Et a tal uertud que el q<ue> la
 trae consigo; numqua sua ni cresce en el mucha hu-
@@ -9751,7 +9751,7 @@ ler la blancura delos oios. co<n> otras melezinas q<ue> so<n>
 pora ellos. mas no en su cabo. Et a otra p<ro>priedat q<ue>
 si pusiere<n> della en cuba o en tinaia o en otra cosa q<ue>}
 [fol. 82v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 tenga uino ala sazon que mas firuiere; faz la
 q<ue>dar assohora. & faz crescer la carne en las llagas.
@@ -9879,7 +9879,7 @@ dela tierra como si fuesse y metida. & lo mas que la
 fallan; es en la tierra q<ue> a nombre beymyni. Dellas
 ya grandes & otras pequennas. Et es de su natura}
 [fol. 83v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 fria & seca. Et su uertud es atal que si mezclan del
 poluo que dentro en ella fallan co<n> el uidrio al hora
@@ -10032,7 +10032,7 @@ tud. Et quando es en medio cielo; muestra esta pie-
 dra mas complida miente sus obras.
 {=DIAG.}}
 [fol. 85v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {IN9. {MIN=.}} DEl tercero. grado del sig-
 no de aquario es la pie-
@@ -10160,7 +10160,7 @@ der en esta piedra; & della recibe la uertud. Et qua<n>do
 es en medio cielo; muestra esta piedra mas compli-
 da miente sus obras.}
 [fol. 86v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman Maziuquez.}
@@ -10284,7 +10284,7 @@ ta. p<er>o ya quanto mas oscura. Et qua[<n>]do la q<ue>man;
 faze se liuiana & porosa. Calient & humida es de
 su natura. Et es bona pora esfregar co<n> ella los cue-ros}
 [fol. 87v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 que quiere<n> fazer pargamino pora escriuir o pora
 pintar. Et si la mezclan co<n> las melezinas q<ue> faze<n>
@@ -10413,7 +10413,7 @@ en aquario. an poder en esta piedra & della recibe la
 fuerça & la uertud. Et qua<n>do son enel ascendente
 muestra esta piedra mas co<m>plida mie<n>te sus obras.}
 [fol. 88v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque llaman eraqui.}
@@ -10535,7 +10535,7 @@ erça & la uertud. Et quando son en el ascendente
 muestra esta piedra mas complida miente sus o-
 bras.}
 [fol. 89v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra aque dizen yctaniz.}
@@ -10658,7 +10658,7 @@ las pesta<n>nas. guarda q<ue> no cayan; & faz las naçer Et
 la estrella septentrional delas tres q<ue> so<n> en el retorna-
 mie<n>to t<er>cero del agua del signo de aquario a poder}
 [fol. 90v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 en esta piedra & della recibe la uertud. Et qua<n>do
 es enel ascendent muestra esta piedra mas s<us> obras.
@@ -10779,7 +10779,7 @@ ta piedra & della recibe la fuerça & la uertud. Et q<u><<a>>n-
 do ella fuere en medio cielo; muestra esta piedra
 mas co<m>plidamiente sus obras}
 [fol. 91v]
-{HD. DEL SIGNO +}
+{HD. DEL SIGNO ⇒}
 {CB2.
 {=DIAG.}
 {RUB. Dela piedra q<ue> se faze en el espinazo del cancro
@@ -11112,7 +11112,7 @@ om<n>e q<ue> semeie camello. & q<ue> aya en los dedos unnas
 q<ue> semeie<n> alas dela uaca.
 {=DIAG.}}
 [fol. 95v]
-{HD. DE LAS +}
+{HD. DE LAS ⇒}
 {CB2.
 {RUB. Dela piedra que a no[<m>]bre zebech.}
 {IN4.} Dela tercera faz del signo de tauro
@@ -11212,7 +11212,7 @@ mano un ramo de torna sol. & ella que este alegre
 & q<ue> tenga la boca en semeianc[']a q<ue> quiere cantar.
 {=DIAG.}}
 [fol. 96v]
-{HD. DE LAS +}
+{HD. DE LAS ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre yacoth.}
 {IN3.} DE la tercera faz del signo de cancro; es la
@@ -11310,7 +11310,7 @@ ta piedra la uertu[d] de figura de un om<n>e uestido de
 loriga.
 {=DIAG.}}
 [fol. 97v]
-{HD. DE LAS +}
+{HD. DE LAS ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre coral.}
 {IN3.} De(s) la piedra aque llaman coral. de q<ue>
@@ -11404,7 +11404,7 @@ cauallo; & que tenga en la mano diestra un ala-
 cran.
 {=DIAG.}}
 [fol. 98v]
-{HD. D[E] L[A]S +}
+{HD. D[E] L[A]S ⇒}
 {CB2.
 {RUB. Dela piedra que a nombre aliaza.}
 {IN3.} DEla tercera faz del signo de es[c]orpion; es
@@ -11502,7 +11502,7 @@ figura de un om<n>e q<ue> tiene ante si un ximio; en se-
 meiante q<ue> trebeia con ell.
 {=DIAG.}}
 [fol. 99v]
-{HD. DE LAS +}
+{HD. DE LAS ⇒}
 {CB2.
 {RUB. Dela piedra aque dizen esmeralda.}
 {IN3.} DEla t[<er>]cera faz del signo de capricornio

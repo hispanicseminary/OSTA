@@ -249,7 +249,7 @@ vida mas larga. Los que son Medicos, pueden
 leer este mi tratado, por estar en el resoluto,}
 {CW. lo}
 [fol. 5v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 lo q<ue> los Autores mas graues escriuiero<n> a la lar-
 ga. No escriuo para ellos: sino para los q<ue> esta<n>
@@ -305,7 +305,7 @@ muy grande y parecera a algunos cosa de risa,
 y es: que los que tienen flaqueza de estomago}
 {CW. cada}
 [fol. 6v]
-{HD. Libro Primero +}
+{HD. Libro Primero ⇒}
 {CB1.
 cada momento beben Vino. Este consejo dan
 los que no saben, que enflaquecen mas con el
@@ -361,7 +361,7 @@ Vrina? porque no procuraremos alcançar y te-
 ner esta virtud tan loable y que tantos bienes}
 {CW. haze}
 [fol. 7v]
-{HD. Libro Primero +}
+{HD. Libro Primero ⇒}
 {CB1.
 haze al Alma y al Cuerpo. Auiso y doy por con-
 sejo a todos que se leuante<n> de la mesa, hauien-
@@ -417,7 +417,7 @@ o buen Vinagre media onça, con media onça
 de çera blanca lo quajen al rescoldo. En tiem-po}
 {CW. po}
 [fol. 8v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de Membrillos cozido vno con Agua y Vi-
 nagre y tibio, tendido en vn paño de Lienço y
@@ -473,7 +473,7 @@ cho el vomito como lo dixe arriba≻ haga<n> este
 Xaraue y tomen lo tres dias o quatro por las}
 {CW. maña}
 [fol. 9v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 mañanas, çeuada mo<n>dada vn puño, Azederas,
 que son los Xoxocoyoles dos manojos: todo
@@ -529,7 +529,7 @@ ga tome a cucharadas el Lamedor de Membri-
 llos y de Rosas. Es muy buen postre de comi-da}
 {CW. da}
 [fol. 10v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y çena de vn Membrillo asado, o crudo si es
 maduro, o en conserua. Mesclados los Me<m>bri-
@@ -585,7 +585,7 @@ costumbre ≺quando se acuestan de noche≻ de
 poner la mano sobre el Estomago, ayuda mu-cho}
 {CW. cho}
 [fol. 11v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 a la digestion, y dormir el primer Sueño
 sobre el lado del Higado, y de mas de ser muy
@@ -641,7 +641,7 @@ zida, de las que dixe arriba, que bebiese entre-
 dia. Hagase vntar algu(u)[n]as noches el Estomago}
 {CW. co<n>}
 [fol. 12v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 con vn poco de Balsamo, y por las mañanas
 cada dos dias tome por la boca seys gotas del,
@@ -695,7 +695,7 @@ misos. Trae este dolor co<n>sigo, estas señales, Ca-
 lentura continua, dolor co<n> Punçadas, y Pellis-cos,}
 {CW. cos,}
 [fol. 13v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 haze la respiracion con dificultad, por estar
 la Membrana ≺que dixe≻ muy tirante, y carga-
@@ -751,7 +751,7 @@ fermedad esta, en escupir bien desde el prin-
 cipio. Quando creciere la dureza del pulso}
 {CW. en}
 [fol. 14v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 en el dolor de Costado, es señal mortal. Y si co-
 menço duro, y va ablandando, es señal de Sa-
@@ -807,7 +807,7 @@ ha de dar, sea blando, y que quiera poca agua.
 Y si es fuerte, es muy dañoso.}
 {CW. Pra}
 [fol. 15v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 Pratica muy vsada es, entre graues Autores,
 hazer fomentaciones, y poner algunos saqui-
@@ -863,7 +863,7 @@ cato. Si al quinto dia de la enfermedad lo
 que escupiere, fuere tomando mejor color}
 {CW. y co}
 [fol. 16v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y como madurando, como dizen. Y hablando
 mas claro, si saliere mas blanco y algo espeso,
@@ -919,7 +919,7 @@ de Agarico, de cada masa dos escrupulos, agu-
 zen las co<n> quatro granos de Diagridio, y doren}
 {CW. sie}
 [fol. 17v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 siete. Si despues de la purga, escupiere el en-
 fermo, y començare a arrancar del pecho, y la
@@ -975,7 +975,7 @@ Si pusieren la bexiga, dexenla alli vn quar-
 to de hora. Si acaso no ay con q<ue> poder hazer}
 {CW. la}
 [fol. 18v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 fomentacion, pongan en su lugar vnos sa-
 quillos, de flor de Mançanilla caliente, o de
@@ -1029,7 +1029,7 @@ gas estan en las Tripas altas, que llaman Graci-
 les o flacas. Y si la Sangre esta sobre la Camara,}
 {CW. las}
 [fol. 19v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 las llagas estan en las tripas baxas. Conoçe-
 mos las tambien por el lugar del dolor, do<n>de
@@ -1085,7 +1085,7 @@ se, no coma otra cosa. Es bueno el Almido<n> he-
 cho co<n> la Leche, y la harina de Ceuada. coma}
 {CW. Man}
 [fol. 20v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 Ma<n>çanas asadas, y Membrillos asados, y Peras.
 Las cosas que comiere de carne, guisadas, lle-
@@ -1421,7 +1421,7 @@ poco. Si d<e> noche no pudiere dormir el e<n>fermo
 po<n>ga<n>le esta calilla alas ocho d<e> la noche Ca<m>pho-ra}
 {CW. ra}
 [fol. 26v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 ≺si la ay verdadera≻ quatro escrupulos, O-
 pio vna drama, Açafran seys hebras, todo lo
@@ -1532,7 +1532,7 @@ d<e> sangre, y no mas por q<ue> no se ahogue, si le saca<n>
 mucha d<e> vna vez. Las d<e>mas sa<n>grias q<ue> le hiziere<n>}
 {CW. se}
 [fol. 28v]
-{HD. Libro Primero +}
+{HD. Libro Primero ⇒}
 {CB1.
 sea<n> de la vena que llaman Humeral y Cephali-
 ca que es la de la cabeça. Y no se escandalizen
@@ -1588,7 +1588,7 @@ cos prouidos, diligentes y animosos, en reme-
 diar al enfermo, y hazer q<ue> no se le muera. Di-go}
 {CW. go}
 [fol. 29v]
-{HD. Libro Primero +}
+{HD. Libro Primero ⇒}
 {CB1.
 esto,. por q<ue> ay algunos tan temerosos, que
 en vna necessidad muy grande no se acaban d<e>
@@ -1644,7 +1644,7 @@ nilla vna onça, Azeyte rosado dos onças, vi-
 nagre rosado media onça. Si con las sangrias}
 {CW. y con}
 [fol. 30v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y con los remedios dichos la inchazon y el do-
 lor no afloxaren, vsen de otro gargarismo, y
@@ -1755,7 +1755,7 @@ camara, y la orina. Los Pronosticos de esta en-
 fermedad, son,. que si la colica viene d<e> humor}
 {CW. mor}
 [fol. 32v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 mordaz y adusto, co<n> inflamacio<n> de la tripa, y
 los açidentes son muy graues, arguien tanto
@@ -1867,7 +1867,7 @@ ple de Galeno y de Agarico de cada massa dos
 escrupulos, aguzen las con cinco granos de}
 {CW. Di}
 [fol. 34v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 Diagridio, y doren siete pildoras. Otra purga
 bebida muy buena, Diapherico<n> vna onça A-
@@ -1923,7 +1923,7 @@ buen remedio el Poleo y el Oregano molido
 y tomado co<n> vino. Vna ve<n>tosa muchas vezes}
 {CW. pu}
 [fol. 35v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 puesta sobre el dolor, y quatro dedos mas aba-
 xo del, aliuia y quita estos dolores como co<n> e<n>-
@@ -1979,7 +1979,7 @@ ta<n>to, q<ue> quite el sueño, de<n>le ≺las vezes que co<n>uenga≻
 a las nueue d<e> la noche drama y media d<e> requies}
 {CW. Mag}
 [fol. 36v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 Magna desatada e<n> agua d<e> Borrajas, o dos onças
 de xaraue de Adormideras, o de Nenuphar. Ya
@@ -2033,7 +2033,7 @@ turalmente en muchas mugeres, que a mi me
 espanta. Por que a vnas les baxa poco, y sin co<n>-cierto}
 {CW. ci}
 [fol. 37v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 a otras les baxa en vn mes dos y tres ve-
 zes a otras no les baxa ni vna gota. De estas a v-
@@ -2089,7 +2089,7 @@ euide<n>tes, haga<n> las sangrias delos touillos. Qua<n>-
 do las venas so<n> tan delgadas, q<ue> no se pueda<n> ro<m>-per}
 {CW. per}
 [fol. 38v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 ni hallar, saje<n> las pa<n>torrillas, y profu<n>de<n> bie<n>
 las sajas, y saquen quatro onças de sangre ca-
@@ -2145,7 +2145,7 @@ y aunque no abaxe, y se entendiere, que con la
 abundancia della ay tambie<n> mucha colera, co-mo}
 {CW. mo}
 [fol. 39v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 se conoscera en el color de la sangre, q<ue> ba-
 xa, en la co<m>plexion, y congoxas y fatigas de la
@@ -2369,7 +2369,7 @@ hagan mas prouecho, las tome cada dos dias.
 Esta cura que he dicho, para baxar bien la Re-gla,}
 {CW. gla}
 [fol. 43v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 toma<n>do ju<n>tame<n>te estas pildoras dichas si la
 muger ≺q<ue> por impedime<n>to d<e> malos humores
@@ -2425,7 +2425,7 @@ do la falta de la Regla viene co<n> todos estos ac-
 çidentes, que tengo dicho, con mucha dificul-tad}
 {CW. tad}
 [fol. 44v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 se remedia, por estar los miembros mas
 principales lesos, asoluados, y opilados. Para
@@ -2481,7 +2481,7 @@ digo, faltare algo, echen doblada la cantidad
 de lo que huuiere. Artemisa y Istafuiatl, o En-sencios}
 {CW. sen}
 [fol. 45v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de castilla, y rayzes de lirio de cada co-
 sa vn manojo, semilla de Anis, de Hinojo, de
@@ -2537,7 +2537,7 @@ ve<n>da en todo el vie<n>tre. Come<n>ça<n>do a sentir me-
 joria e<n> las opilaciones, q<ue> lo conoscera<n> e<n> la bla<n>-dura}
 {CW. dura}
 [fol. 46v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 del vie<n>tre, trayga<n> a la e<n>ferma las piernas ca-
 da dia hazia abaxo, y sea por la mañana y por
@@ -2591,7 +2591,7 @@ ene en edad madura y creçida, con mucha di-
 ficultad sana<n>, por que de vn continuo fluxo de}
 {CW. san}
 [fol. 47v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 sangre ≺aunque sea poco≻ vienen a dar en vna
 hidropesia y de ella al hoyo.
@@ -2647,7 +2647,7 @@ jas, muy lauadas d<e> la tierra y vn poco molidas
 Ceuada tostada y mo<n>dada dos puños, todo cu-eza}
 {CW. eza}
 [fol. 48v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 en poco mas de vn quartillo de agua Azera-
 da o Almaçigada, y de tres heruores. Cuelen-
@@ -2703,7 +2703,7 @@ lor, y haga con ella algunas camaras. Si no hu-
 uiere leche de Vacas, sea de Cabras, ordeña-da}
 {CW. da}
 [fol. 49v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de la misma manera, q<ue> dixe. Y la mejor le-
 che es la de la muger, que aya parido hijo. Por
@@ -2759,7 +2759,7 @@ la cura de las vlçeras penetra<n>tes, e<n> el tratado d<e>
 os de sangre, aunq<ue> ve<n>ga<n> mesclados co<n> humor}
 {CW. cole}
 [fol. 50v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 [co]lerico y melancolico, es remedio admirable,.
 por que han sanado co<n> el muchas mugeres. Y
@@ -2815,7 +2815,7 @@ choacan, y preparenla, como tantas vezes he
 dicho. Quando no hallaren esta purga, tome}
 {CW. tres}
 [fol. 51v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 tres cucharadas de azeyte de la Higuerilla, mes-
 cladas en caldo de aue, que purgan bien el hu-
@@ -2926,7 +2926,7 @@ tenimie<n>to, no perdiera la mayor parte de ella.
 Y alcabo de tantos años se purgara por la ca-mara,}
 {CW. ma}
 [fol. 53v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y vrina, y por otras partes. Otros auto-
 res dizen, que es enfermedad pestilencial: o-
@@ -2982,7 +2982,7 @@ si los açide<n>tes comie<n>ça<n> co<n> furia, y co<n> algunos
 desmayos, haga<n> proueer al e<n>fermo d<e> camara.}
 {CW. y si}
 [fol. 54v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 si no la a hecho, reciba esta melezina, tomen
 cozimiento de Maluas, Saluado y Violetas o-
@@ -3038,7 +3038,7 @@ el principio, q<ue> comie<n>çan a salir las Viruelas co<n>
 este Colirio muchas vezes,. por q<ue> no salgan en}
 {CW. ellos}
 [fol. 55v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 ellos. Tomen agua rosada quatro onças, pepi-
 tas d<e> Membrillos y çumaque de cada cosa vna
@@ -3148,7 +3148,7 @@ Estando ya fuera todas las Viruelas, y llenas
 de materia, abranlas con la punta de vn alfilel}
 {CW. de}
 [fol. 57v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de plata, o de oro. Y aduiertan, que sino las a-
 bren con tiempo, la materia va cauando y co-
@@ -3201,7 +3201,7 @@ posicio<n> d<e>l cuerpo. Algunas vezes la naturaleza
 la echa por las narizes, y co<n> ella de d<e>scarga la ca-beça,}
 {CW. beça}
 [fol. 58v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y otras partes del cuerpo. La sangre que sa-
 le por la boca, es muy sospechosa, yse deue te-
@@ -3257,7 +3257,7 @@ zes, la sangria primera sea del touillo derecho
 y si sale de la ventana ysquierda, haga se como}
 {CW. di}
 [fol. 59v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 dixe arriba del touillo ysquierdo. Con estas
 sangrias y con el agua caliente, con q<ue> se lauan
@@ -3591,7 +3591,7 @@ embros inferiores y baxos, como son: la gar-
 ganta, el pulmon, las espaldas y los braços, y}
 {CW. otras}
 [fol. 65v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 otras vezes al costado, y a las junturas altas de
 los muslos, q<ue> es de do<n>de se haze la Ciatica. Baxa a
@@ -3759,7 +3759,7 @@ ba. Si co<n> los remedios hechos, y co<n> los q<ue> cada
 dia se van haziendo, el dolor de cabeça no se}
 {CW. qui}
 [fol. 68v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 quitare, y fuere muy intenso, quitenle el cabe-
 llo con tiseras, y lauenle la cabeça con este co-
@@ -3815,7 +3815,7 @@ le ventosas secas en las espaldas, en las asenta-
 deras y en las pa<n>torrillas. Si haziendo estos re-medios,}
 {CW. me}
 [fol. 69v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y si toma<n>do los xaraues, la calentura
 creciere, y el dolor de cabeça se aumentare, y
@@ -3869,7 +3869,7 @@ do esto durare el dolor, echenle otras vento-
 sas secas, y ponganle sobre la mollera este sa-quillo,}
 {CW. qui}
 [fol. 70v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y traygalo, hasta que sienta mejoria en
 el dolor. Tomen flor de Mançanilla, Rosas se-
@@ -3924,7 +3924,7 @@ me muy bien. Si el lamedor les paresciere mu-
 cho, hagan la mitad.}
 {CW. Del}
 [fol. 71v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 {RUB. Del Asma, y su cura.}
 {IN4.} EL Asma es mal peligroso, porq<ue> ca-
@@ -3979,7 +3979,7 @@ tres quartillos d<e> agua, y eche<n> alli Maluas y Sal-
 uado, y de quatro heruores y gastese el medio}
 {CW. quar}
 [fol. 72v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 quartillo. Tomen de este cozimiento colado
 vna escudilla, Iera pliega o Benedita vna onça
@@ -4035,7 +4035,7 @@ zinas agudas, como la que dixe arriba. Si en e-
 ste aprieto y fuerça del mal el enfermo tiene se-ñales}
 {CW. ña}
 [fol. 73v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de sangre, como son: ser corpule<n>to, ro-
 busto de complexion, las venas gruesas y lle-
@@ -4147,7 +4147,7 @@ co, y era cosa de cuchara, bebian agua de Oro-
 cuz, y passados quatro dias ≺recibiendo en e-stos≻}
 {CW. stos}
 [fol. 75v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 ≺melezinas, trayendoles las piernas y bra-
 ços y echando les ventosas en las espaldas, en
@@ -4200,7 +4200,7 @@ ausentes sus maridos, que en las donzellas y e<n>
 las co<n>tine<n>tes. Empero es mas graue e<n> las q<ue> tie-nen}
 {CW. nen}
 [fol. 76v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 ausentes los maridos. Por que vienen a
 morir, por la retencion de la semilla, juntame<n>-
@@ -4256,7 +4256,7 @@ si la que tiene mal de madre, aunque este muy
 mala, si estornudare, escapa co<n> la vida. El mal}
 {CW. de}
 [fol. 77v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 de madre que viene por retencion de la semi-
 lla, muchas vezes mata,. haze lo mismo, quan-
@@ -4312,7 +4312,7 @@ haga<n>le dos sangrias de los touillos, que aunq<ue>
 es el remedio postrero, es el mas principal.}
 {CW. Pa}
 [fol. 78v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 Passada la furia de ta<n> graue mal, para librar
 a la pobre enferma de otra ocasion, conuiene
@@ -4368,7 +4368,7 @@ sa dos manojos, lauenlas de la tierra, y vn po-
 co molidas cuezan en dos quartillos de agua,}
 {CW. hasta}
 [fol. 79v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 hasta que se consuma la tercia parte. Cuelen-
 la y echenle vna escudilla de Miel blanca y se-
@@ -4424,7 +4424,7 @@ da cosa dos manojos. Muela<n>lo todo vn poco,
 y e<n> dos quartillos de agua cueza a fuego ma<n>so}
 {CW. hasta}
 [fol. 80v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 hasta que se gaste el vno. Cuelen la y echen le
 media libra de Açucar, y buelua a cozer, hasta
@@ -4480,7 +4480,7 @@ toman este lamedor ocho dias arreo, antes q<ue>
 baxe la regla, baxara mejor, y co<n> menos dolo-res,}
 {CW. res}
 [fol. 81v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 y mas cantidad de la que suele. Tomen vn
 puño de Amapolas, Miel blanca tres onças, A-
@@ -4536,7 +4536,7 @@ ningun do-
 lor.}
 {CW. Cu}
 [fol. 82v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 {RUB. Cura particular de la Erisipela.}
 {RUB. Capitulo .12.}
@@ -4590,7 +4590,7 @@ cion, y hagan esto cada media hora. Y para q<ue>
 enfrie y reprima mas ≺como conuiene≻ eche<n>-le}
 {CW. le}
 [fol. 83v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 vnas pocas de babazas de Zargatona, o de
 Chia<n>, o de pepitas de Membrillos. Ponga<n> tan-
@@ -4646,7 +4646,7 @@ ligrosas. Si la Erisipela viene co<n> muy gra<n>de hin-
 chazon, y si ponie<n>do el dedo sobre ella, y alçan-dolo,}
 {CW. do}
 [fol. 84v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 quedare hoyo hecho, no hagan sangrias
 por que el humor es flematico. Y haziendo en
@@ -4702,7 +4702,7 @@ ma ≺que se conoscera como dixe en la hincha-
 zo<n> y e<n> hundirse los dedos, si los aprieta<n>≻ no ha-gan}
 {CW. gan}
 [fol. 85v]
-{HD. Libro Primero. +}
+{HD. Libro Primero. ⇒}
 {CB1.
 sangrias, sino, echen muchas vezes vento-
 sas secas en las espaldas, trayganle los braços
@@ -4754,7 +4754,7 @@ quando los començaron a curar. Y como e-
 stos affirman con juramento a los pobres en-fermos,}
 {CW. fer}
 [fol. 86v]
-{HD. Libro Segundo. +}
+{HD. Libro Segundo. ⇒}
 {CB1.
 que dentro de quinze dias los daran
 sanos, se entregan a los carniceros. Los igno-
@@ -4810,7 +4810,7 @@ de Bubas viene con postillas, llagas y dolores
 agudos, y el enfermo es ho<m>bre robusto, y con}
 {CW. seña}
 [fol. 87v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 señales de sangre ≺como se conoscera<n>,. en el co-
 lor del rostro y en las venas llenas, y que las lla-
@@ -4838,7 +4838,7 @@ onça, agua de Borrajas tres onças, mesclese.
 La purga sea esta, letuario de çumo de Rosas y}
 {CW. pul}
 [fol. 88r]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 pulpa de Cañafistola de cada vno vna onça, le-
 tuario Indomayor quatro dramas, en agua de
@@ -4866,7 +4866,7 @@ ete pildoras. Los que no tienen botica, haga<n>
 este xaraue, tomen Ceuada mondada y Aze-deras,}
 {CW. de}
 [fol. 88v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 que son los que por otro nombre lla-
 mamos Xoxocoyoles d<e> cada cosa tres puños,
@@ -4922,7 +4922,7 @@ gridio, y doren siete pildoras. El que no tiene
 botica, haga este xaraue, tome tres manojos}
 {CW. de}
 [fol. 89v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de Borrajas con sus rayzes, rayzes de Apio y de
 Perexil de cada vna vn manojo, lauenlas de la
@@ -4978,7 +4978,7 @@ el bla<n>ca y media libra de Açucar, y buelua a co-
 zer, hasta q<ue> espume bie<n>. Acabado de tomar el}
 {CW. xa}
 [fol. 90v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 xaraue la postrera noche, tome estas pil-
 doras a las nueue, hauie<n>do cenado poco, y te<m>-
@@ -5032,7 +5032,7 @@ la çarçaparrilla, y causa mal d<e> madre a las que
 la beben, siendo calie<n>te templada. Lo que res-pondo}
 {CW. pon}
 [fol. 91v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 es, que como con el mucho cozimien-
 to se haze mas caliente, leuanta y mueue en el
@@ -5088,7 +5088,7 @@ ros, po<n>ganle a los pies vn ladrillo algo calie<n>te,
 embuelto en vna ma<n>tilla. Hauie<n>do sudado lo}
 {CW. que}
 [fol. 92v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 que pudiere, quitenle la ropa poco a poco, y
 limpienle el sudor, y vistanle de ropa sahuma-
@@ -5144,7 +5144,7 @@ por que es mas fuerte, que la cozida. Hauien-
 do hecho los remedios, que al principio dixe,}
 {CW. sin}
 [fol. 93v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 sin faltar ninguno, tome los ocho dias prime-
 ros del sudor dos onças de çarçaparrilla muy
@@ -5196,7 +5196,7 @@ la cura, no reparan, que abreuian los dias de
 su vida, por el daño, que el Azogue haze en sus}
 {CW. cu}
 [fol. 94v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 cuerpos. A qui auiso a los que tienen otras en-
 fermedades, que son,. Gota, Asma, Ciatica,
@@ -5252,7 +5252,7 @@ se aya como lo dixe en los sudores de la çar-
 el enfermo ha de beber a comer y cenar, y qua<n>-do}
 {CW. do}
 [fol. 95v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 entre dia tuuiere sed. No ha de beber otra
 agua, ni vino. Por amor de Dios en cargo al
@@ -5308,7 +5308,7 @@ meses≻ se le yra quitando el mal. Es tambien e-
 ste xaraue muy prouechoso para otras enfer-medades}
 {CW. me}
 [fol. 96v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 e indisposiciones, como dixe arriba.
 Puedenlo tomar las preñadas para dolores de
@@ -5364,7 +5364,7 @@ to, si saben vsar del, como
 conuiene.}
 {CW. Co}
 [fol. 97v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Como se han de dar las vnciones.
 Capitulo Quarto.}
@@ -5420,7 +5420,7 @@ Puerco, Azogue tres onças, matenlo en vn la-
 mirez con trementina, o con çumo de limo-nes,.}
 {CW. nes}
 [fol. 98v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 o con la saliua, azeyte frito co<n> Ruda, co<n> E-
 neldo y Ma<n>çanilla quatro onças, çeniza de Ro-
@@ -5476,7 +5476,7 @@ erpo. Y para aiudarle, le pongan vn ladrillo ca-
 liente y embuelto en vna mantilla a los pies.}
 {CW. Quan}
 [fol. 99v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Quando acabe de sudar cada dia, linpienle el
 sudor del rostro, y no mas. Este quieto y abri-
@@ -5532,7 +5532,7 @@ el gargarismo. Quando fuere escupie<n>do, este<n>
 siempre de vn lado, o de otro acostado o sen-tado}
 {CW. ta}
 [fol. 100v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 en la cama, por que escupe mejor, y no tra-
 gue el humor, que viene a la boca. Por que ≺co-
@@ -5586,7 +5586,7 @@ yzio, y despues morirse. Esta cura de los sahu-
 merios es para hombres robustos y groseros}
 {CW. y no}
 [fol. 101v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y no para flacos y de poco animo. Y como los
 que vsan de ellos, no conoscen la complexio<n>
@@ -5642,7 +5642,7 @@ del bien del proximo, cada vno mire, como v-
 sa de remedios tan sospechosos}
 {CW. De}
 [fol. 102v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. De la carnosidad que faze en
 la via de la orina.}
@@ -5696,7 +5696,7 @@ fuego, y saquen el paño, y tapen la olla co<n> vn
 plato y vna fresada, y este assi vn rato.}
 {CW. An}
 [fol. 103v]
-{HD. Libro Segundo. +}
+{HD. Libro Segundo. ⇒}
 {CB1.
 Antes que curen la carnosidad, conuiene
 purgar al e<n>fermo vna vez, por lo menos. Por
@@ -5752,7 +5752,7 @@ que desde el principio de el miembro hasta la
 bexiga no ay mas d<e> vn palmo y quatro dedos.}
 {CW. Otro}
 [fol. 104v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 otro auiso muy necessario, y es: que quando
 la carnosidad es causa de no poder orinar, co-
@@ -5808,7 +5808,7 @@ ra, sangren al enfermo de los braços de la ve-
 na del arca, y saquenle cada vez quatro onças}
 {CW. de}
 [fol. 105v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de sangre, y po<n>gan el defensiuo, q<ue> he dicho, ha-
 sta q<ue> el dolor de la inflamacio<n> se quite. Qua<n>do
@@ -5864,7 +5864,7 @@ vno destos vnguentos. Tome<n> seys onças de a-
 zeyte de comer, tres onças de çumo de Raua-nos,}
 {CW. nos}
 [fol. 106v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 dos onças de Miel, hiel de Toro, o de No-
 uillo y vinagre fuerte d<e> cada cosa vna o<n>ça. To-
@@ -5918,7 +5918,7 @@ randola≻ no se quita, viene a parar e<n> lo que lla-
 man Cirro. Mayormente, quando se haze de}
 {CW. hu}
 [fol. 107v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 humor viscoso y grueso. Estando escriuiendo
 este libro, se me offrecieron dos enfermos, y
@@ -5974,7 +5974,7 @@ de comer, y de noche moderadame<n>te. Por las
 mañanas hauie<n>do se proueydo d<e> camara haga}
 {CW. vn po}
 [fol. 108v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 [vn] poco de exercicio, hasta que se canse. Por que
 si no es ansi, no le hara prouecho. Aqui son bu-
@@ -6030,7 +6030,7 @@ satados en vn almirez con vn poco del xaraue,
 y mesclenlo con lo otro con vn palito. Si no}
 {CW. tu}
 [fol. 109v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 tuuiere<n> el Matlatliztic, ni el Mechoacan eche<n>-
 le otra qualquiera rayz, que purgue. Los que
@@ -6086,7 +6086,7 @@ ys granos de Diagridio, y dore<n> siete pildoras.
 Los q<ue> no tienen botica, tome<n> dos cañutos de}
 {CW. Caña}
 [fol. 110v]
-{HD. Libro Segundo. +}
+{HD. Libro Segundo. ⇒}
 {CB1.
 Cañafistola, y dos tomines de Matlatliztic, o
 de Mechoacan, o de la rayz de Xalapa, e<n> agua
@@ -6140,7 +6140,7 @@ vientre vn no se que al coraçon, que se lo des-
 pedaça. Otros que les aprietan la garganta, y}
 {CW. como}
 [fol. 111v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 como que los ahogan. En algunos es incura-
 ble esta enfermedad por culpa suya, y por no
@@ -6196,7 +6196,7 @@ sacio<n> alegre, con q<ue> se recreen. Ocupe<n> otras ve-
 zes el tie<m>po en cosas, q<ue> los diuierta de sus yma-ginaciones.}
 {CW. gina}
 [fol. 112v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Es muy prouechosa la musica, huya las
 pesadumbres, y alteraciones del anima, y gu-
@@ -6252,7 +6252,7 @@ lancolia este mesclada con ella e<n> las venas. Yo
 digo, que si el que curare esta enfermedad, co-nosciere}
 {CW. no}
 [fol. 113v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 estas señales, que las mande hazer de
 ambos braços, y de la vena que mas pulsare, y
@@ -6308,7 +6308,7 @@ zes al enfermo, y es bien que cada quinze dias
 tome estas dos pildoras a las nueue d<e> la noche}
 {CW. haui}
 [fol. 114v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 hauiendo cenado poco y te<m>prano. Pildoras d<e>
 Ierasimple de Galeno vn escrupulo, aguze<n>las
@@ -6364,7 +6364,7 @@ lo cuajen. Sea auiso, que quando no hallaren
 todas las yeruas, rayzes, y azeytes, para hazer}
 {CW. lo}
 [fol. 115v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 lo que digo, añadan otras ta<n>tas, de las que ay,
 y basta, para hazerse todo muy bie<n>, y muy cu<m>-
@@ -6419,7 +6419,7 @@ mago, Los baños de agua calie<n>te para los me-
 lancolicos despues de purgados, son buenos}
 {CW. hu}
 [fol. 116v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 humedescen el cuerpo, da<n> sueño y gana de co-
 mer. Han se de tomar en aiunas, y no han de su-
@@ -6475,7 +6475,7 @@ lugar de las que ay. Tome este xaraue tres ve-
 zes al dia, y cada vez tres onças, y a la mañana}
 {CW. vna}
 [fol. 117v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 vna hora antes de cenar, y quando fuere a dor-
 mir. El que tiene agua de Borrajas, beba tres
@@ -6529,7 +6529,7 @@ garico y Agregatiuas de cada masa dos escru-
 pulos aguze<n>las co<n> siete granos de Diagridio, y}
 {CW. doren}
 [fol. 118v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 doren siete pildoras. Los que no tienen boti-
 ca, hagan este xaraue, tomen cinco escudillas
@@ -6585,7 +6585,7 @@ erco quatro onças, Dialtea azeyte de Ruda y
 de Eneldo de cada cosa dos onças, Açibar mo-lido}
 {CW. lido}
 [fol. 119v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 quatro dramas, hiel de Toro quatro on-
 ças, çera dos onças, cuajenlo al rescoldo.
@@ -6640,7 +6640,7 @@ de poluos d<e> la (c)[ç]uziedad rala y seca del gato, y
 desatados e<n> vino, y la piedra çufre molida e<n> vn}
 {CW. hue}
 [fol. 120v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 hueuo bebido, y arropando al enfermo, quita
 el dolor de ijada y de la colica, y haze orinar.
@@ -6695,7 +6695,7 @@ colica, y es muy esperime<n>tados. Las yeruas so<n>
 Mançanilla, Ruda, Eneldo, y Encensios o Ista-fuyatl.}
 {CW. fu}
 [fol. 121v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Hinojo, Artemisa, de cada vna seys ma-
 nojos, Maluas co<n> sus rayzes qu(o)[a]tro manojos.
@@ -6750,7 +6750,7 @@ gruesos, haganle otras dos sangrias, y bastara
 que saque<n> cada vez quatro onças, de sangre, y}
 {CW. no}
 [fol. 122v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 no mas. Qua<n>do la sarna viene de colera mes-
 clada co<n> la sangre, bastan dos sangrias, lo mis-
@@ -6806,7 +6806,7 @@ rajas. Si quisiere el enfermo pildoras, denle e-
 stas a las dos de la mañana, y duerma con (a)[e]llas}
 {CW. hasta}
 [fol. 123v]
-{HD. Libro Segundo. +}
+{HD. Libro Segundo. ⇒}
 {CB1.
 hasta que comiençe a obrar. Pildoras de Reu-
 barbo y Cochias de cada masa dos escrupulos
@@ -6862,7 +6862,7 @@ la mitad. Cuelenlo, y echenle vna libra de A-
 çucar bla<n>co, y buelua a cozer, hasta q<ue> espume.}
 {CW. Si}
 [fol. 124v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Si el que tiene la sarna es mochacho, hagan se
 le menos sangrias, y saquenle cada vez tres on-
@@ -6916,7 +6916,7 @@ gua rosada de cada cosa o<n>ça y media, y vna cla-
 ra de Hueuo. Si los Empeynes son antiguos,}
 {CW. vn}
 [fol. 125v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 vntenlos con este vnguento, quatro dias y se-
 ys arreo, aunque duele y escueze muy bien. Y
@@ -6972,7 +6972,7 @@ quinze dias o veynte y vn mes arreo e<n> aiunas.
 Son al gusto buenos y apazibles, tome<n> dos cu-charadas}
 {CW. cha}
 [fol. 126v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de ellos, y si quieren tomar tres tra-
 gos de agua cozida co<n> çarçaparrilla, hara<n> mas
@@ -7026,7 +7026,7 @@ res, y otras exteriores,. y estas postreras so<n> me-
 nos malas, que las primeras. Las señales ≺para≻}
 {CW. co}
 [fol. 127v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 ≺conoscer de que humor viene el dolor de ca-
 beça≻ las yre ponie<n>do al principio de la cura,
@@ -7082,7 +7082,7 @@ Cephalica, y otro dia saquen otra ta<n>ta del bra-
 ço ysquierdo, de la vena que mejor pulsare,}
 {CW. de}
 [fol. 128v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de las dichas. Si co<n> las sangrias se quitare el do-
 lor, no le hagan mas remedios. Si es muger, y
@@ -7194,7 +7194,7 @@ no, Hojas de Maluas, Ceuada, Ma<n>çanilla de ca-
 da cosa dos puños, Rosas, flor de Mançanilla y}
 {CW. Vio}
 [fol. 130v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Violetas de cada cosa vn puño, y dos Lechu-
 gas. Cueza en seys quartillos de agua, y gaste-
@@ -7250,7 +7250,7 @@ hecho camaras antes, que assi conuiene. Reci-
 ba algunas melezinas, como las que dixe arri-ba,}
 {CW. ba}
 [fol. 131v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y por las mañanas y vna hora antes de ce-
 nar, trayganle las piernas y los braços hazia a-
@@ -7306,7 +7306,7 @@ ra gran prouecho. El dia que lo hiziere<n>, coma<n>
 algo mas, que acostu<m>bran, y passada vna hora}
 {CW. des}
 [fol. 132v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 despues de hauer comido, para facilitar mas el vo-
 mito, beban vna poca de agua calie<n>te, mescla-
@@ -7415,7 +7415,7 @@ traen y e<n>cojen, ygualme<n>te,. y esta manera d<e> pas-
 mo es la mas peligrosa, y pocos escapa<n> d<e>l. Ta<m>-bien}
 {CW. bien}
 [fol. 134v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 se puede pasmar vna parte o vn miembro
 del cuerpo, como es: el rostro, el vn lado, o el
@@ -7471,7 +7471,7 @@ uierno, o la tierra fuere muy fria, tengan en el
 aposento dos braseros encendidos, por que}
 {CW. no}
 [fol. 135v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 no ay cosa que mas mal haga a los neruios Pas-
 mados de humor, que el frio. Luego el dia pri-
@@ -7583,7 +7583,7 @@ azeyte d<e> la higuerilla, que es muy bueno, y ca-
 lido. Hagan ta<m>bien luego este remedio, tome<n>}
 {CW. vna}
 [fol. 137v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 vna mecha gruesa de lienço empapada e<n> azey-
 te de comer, y enciendanla toda en vn plato,
@@ -7639,7 +7639,7 @@ poco mas arriba d<e> la mordedura y apriete<n> bie<n>.
 Luego sajen el dedo, y deguelle<n> algunas Galli-nas,}
 {CW. nas}
 [fol. 138v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y otros animales, y meta el dedo por la he-
 rida, y con esto sanara, y co<n> los remedios, que
@@ -7695,7 +7695,7 @@ horas, o por veynte y quatro. Luego labre<n> el
 cuello, y la parte relaxada con vnos cuchillos}
 {CW. cali}
 [fol. 139v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 calientes, y profunden vn poco.
 {RUB. De la Perlesia, y su cura.}
@@ -7748,7 +7748,7 @@ ra purgar los humores flematicos≻ es muy ne-
 cessario, ver si aya algunas señales de cozimi-ento}
 {CW. en}
 [fol. 140v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 en la orina, en esta ocasion, no se agu-
 arde a ella, por que la Perlesia no se arraygue,
@@ -7804,7 +7804,7 @@ cada cosa vn poco, mesclenlo todo. Tomen
 de este caustico, vn poco en medias cascaras d<e>}
 {CW. Aue}
 [fol. 141v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Auellanas, y ponganlas sobre los dos huesos,
 y no hara mas llaga, que donde es menester.
@@ -7858,7 +7858,7 @@ vaguedo la virtud visiua esta lesa, y la ymagina-
 tiua. Y en la primera sola la ymaginatiua vir-tud}
 {CW. tud}
 [fol. 142v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 esta lesa y offendida. Si el vaguedo nasce
 de la misma cabeça, los dolores de ella y la pe-
@@ -7914,7 +7914,7 @@ zio co<n> vnos paños bastos las piernas y los bra-
 ços hazia abaxo. Echenle ventosas en las pan-torrillas,}
 {CW. to}
 [fol. 143v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 en las asentaderas y en las espaldas.
 Ponganle calillas agudas, y eche<n>le melezinas
@@ -7970,7 +7970,7 @@ tro dias este xaraue. Oximiel y xaraue de Bor-
 rajas de cada vno vna onça, agua de Hinojo}
 {CW. tres}
 [fol. 144v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 tres onças mesclese, la purga sea esta. Diaphe-
 nicon y letuario Indo y confecion Hamec de
@@ -8026,7 +8026,7 @@ gar la cabeça muy bien por la boca. Quando
 con todos estos remedios que he dicho los va-guedos}
 {CW. gue}
 [fol. 145v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 no se quitaren, hagan al enfermo dos
 fuentes en los molledos de los braços, y ten-
@@ -8079,7 +8079,7 @@ eza vn poco. A la postre echen media onça
 de Abeto y vn poco d<e> vinagre, y mesclese bie<n>.}
 {CW. En}
 [fol. 146v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 En el vinagre se deshagan ≺antes que lo echen
 con lo d<e> mas≻ tanta leuadura como medio hu-
@@ -8132,7 +8132,7 @@ de lo que mas nos aprouechamos es de la cor-
 teza. Cozida de la manera que dire, quita los}
 {CW. do}
 [fol. 147v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 dolores de estomago, y del vient[r]e. Deshaze
 las ventosidades del cuerpo, y aiuda al estoma-
@@ -8188,7 +8188,7 @@ ziendo todo lo que dixe en el tomar del agua
 de la carçaparrilla≻ quitar le ha los dolores de}
 {CW. las}
 [fol. 148v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 las junturas, y los dolores a<n>tiguos de cabeça.
 Haze baxar la regla, y limpia la madre d<e> todos
@@ -8243,7 +8243,7 @@ noscera en el encendimiento del rostro, y en
 los ojos como encarnicados, sangren al enfer-mo}
 {CW. mo}
 [fol. 149v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 dos vezes y quatro, siendo menester, y sa-
 quenle cada vez cinco onças de sangre. Estas
@@ -8299,7 +8299,7 @@ ba, por que es muy admirable, tomandolo si-
 empre a cucharadas. Tomen semilla de Ador-mideras}
 {CW. mi}
 [fol. 150v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 negras media onça, semilla de Llan-
 ten y de Verdolagas y de Cumaque de cada v-
@@ -8353,7 +8353,7 @@ vezes por el muslo, y no para ha-
 sta el pie. Otras vezes se siente ba-xar}
 {CW. xar}
 [fol. 151v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 por las espaldas y lomos, hasta dar en el hu-
 eso, por que viene de la cabeça. El dolor de la
@@ -8409,7 +8409,7 @@ de Gallina mojadas en azeyte o los dedos ha-
 sta el gallillo. Si con el vomito el dolor no ce-ssare,}
 {CW. ssa}
 [fol. 152v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y el e<n>fermo amanesce las mañanas co<n>
 la boca amarga, echenle vna melezina co<m>mun
@@ -8465,7 +8465,7 @@ de Açucar blanco, y quatro onças de vinagre,
 y buelua a cozer, hasta que espume. Tomelo}
 {CW. cada}
 [fol. 153v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 cada mañana y cada tarde vna hora antes de
 cenar, y cada vez bastan quatro onças. La pur-
@@ -8521,7 +8521,7 @@ lor de la Ciatica, si es de frio, y al principio, to
 me<n> vna escudilla d<e> çumo d<e> Ruda, y otra d<e> vino}
 {CW. blan}
 [fol. 154v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 blanco, cueza todo, hasta que se gaste el vino.
 Luego echen alli vna onça de Armoniaco des-
@@ -8575,7 +8575,7 @@ lla, y po<n>ga los pies en vna tablilla, que este pue-
 sta sobre la payla, y tapenle todo con fresadas}
 {CW. y re}
 [fol. 155v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y reciba aquel calor y vapor del agua vn qu-
 arto de hora. Luego lo acuesten en la cama, y
@@ -8629,7 +8629,7 @@ mos, que es grauissima culpa, y muy gran lasti-
 ma, verlos cada dia morir sin los sacr[a]mentos.}
 {CW. Para}
 [fol. 156v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para el mal color del rostro.}
 VEEMOS a algunos hombres y mugeres,
@@ -8682,7 +8682,7 @@ stro, y traygan puesto en el estomago, y en las
 espaldas frontero del este emplastro. Tomen}
 {CW. dos}
 [fol. 157v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 reuanadas de pan muy tostadas, y muelan-
 las muy bien, luego cuezan vna onça de muy
@@ -8735,7 +8735,7 @@ cada cosa quatro onças. Rezina y Pez rubia
 buena d<e> cada cosa dos onças. Ence<n>sios y mirra}
 {CW. de}
 [fol. 158v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de cada cosa media onça, çumo de apio tres o<n>-
 ças, todo cueza a fuego ma<n>so, hasta que se ga-
@@ -8789,7 +8789,7 @@ sobre el vn pegadillo o bilma de Abeto, o de
 Trementina cozida, o de Miel blanca cozida.}
 {CW. Y para}
 [fol. 159v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Y para que tenga mas fuerça, mesclen con el-
 la vnos pocos de poluos de bilma,. y quien no
@@ -8841,7 +8841,7 @@ tostado. Y con esto se quitara el mal olor, co-
 mo he visto en muchos, y el mal de estomago.}
 {CW. Las}
 [fol. 160v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Las narizes tambien suelen oler tan mal a
 muchos, que verdaderamente no ay quien los
@@ -8895,7 +8895,7 @@ los oydos vntados con Algalia. De noche po<n>-
 ga vnos piñones hechos con Tecomahaca en}
 {CW. los}
 [fol. 161v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 los oydos y quitelos a la mañana, y bueluase
 a poner los algodones. El azeyte de las pepi-
@@ -8949,7 +8949,7 @@ stre le eche<n> seys granos de opio molidos. Este
 vnguento q<ue> dixe es para la Gota de humor ca-liente}
 {CW. lien}
 [fol. 162v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y frio. Si el que tiene la gota cenare dos
 vezes en ocho dias los cogollos tiernos del Sa-
@@ -9003,7 +9003,7 @@ de ruan grueso, y tenga de largo vna tercia d<e>
 a<n>cho vna quarta, y dexe<n> por todas partes dos}
 {CW. de}
 [fol. 163v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 dedos de bordo. Con esto se detiene la sangre
 por que aprieta las caderas, y las conforta, y si
@@ -9056,7 +9056,7 @@ lindo color al rostro y her-
 mosea mucho.}
 {CW. Para}
 [fol. 164v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para que los cabellos caydos nascan.}
 TOMEN vn poco de corcho muy quema-
@@ -9109,7 +9109,7 @@ vezes o quatro, quita el dolor de cabeça, pur-
 gando el humor, que lo causa}
 {CW. Para}
 [fol. 165v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para camaras antiguas de frialda-
 des, aunque tengan sangre.}
@@ -9162,7 +9162,7 @@ en la via y caño de la orina, y las que se hazen
 en las tripas de colera requemada.}
 {CW. Para}
 [fol. 166v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para los restriñidos del vientre, y
 para matar las Lombrizes.}
@@ -9215,7 +9215,7 @@ reza de estas partes y de otras sea muy antigua
 la resuelue marauillosamente este emplastro,}
 {CW. que}
 [fol. 167v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 que ahora acabo de dezir, que es muy bueno.
 {RUB. Para flacos de estomago y cabeça que
@@ -9267,7 +9267,7 @@ beça, y les haze gran mal, para que estos ≺qua<n>-
 do huuiere algun combite y regozijo≻ no se}
 {CW. pier}
 [fol. 168v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 pierdan, coman antes de sentarse a la mesa se-
 ys Almendras amargas, o coman vn migajon
@@ -9321,7 +9321,7 @@ acan, o de Xalapa, o otra qualquiera rayz que
 purgue. El emplastro que dixe arriba, es esto,}
 {CW. esti}
 [fol. 169v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 estiercol d<e> Cabras molido vna libra, estiercol
 molido de Palomas dos onças, enxundia ane-
@@ -9377,7 +9377,7 @@ ere con muy gran dolor y calentura, y con al-
 guna inflamacio<n> en ella, hauiendo recebido el}
 {CW. enfer}
 [fol. 170v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 enfermo vn ceruicio y proueye<n>dose de cama-
 ra, le sangren del braço de la parte que esta la
@@ -9429,7 +9429,7 @@ VEEMOS a muchos hombres, que esta<n>do
 colorados, siendo robustos y al parescer,}
 {CW. muy}
 [fol. 171v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 muy buenos, perder la habla y el pulso. Tiene<n>
 los ojos abiertos, y paresce que miran a todos
@@ -9482,7 +9482,7 @@ Açucar. Tambien lo puede tomar entre el A-
 çucar Rosado, y assi se toma con mucha mas}
 {CW. faci}
 [fol. 172v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 facilidad. Quando lo toman para que baxe la
 regla, desate<n>lo e<n> agua de Artemisa sacada por
@@ -9536,7 +9536,7 @@ que si Dios fuere seruido, que le aproueche la
 cura, haze muy mucho al caso, hauerse abste-nido,}
 {CW. nido}
 [fol. 173v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de lo dicho, por que la madre apetesca
 recebir la semilla. Haze mucho al caso, para
@@ -9588,7 +9588,7 @@ do de cada cosa media drama,. todo lo muela<n>
 mucho y mesclen, y guarden para su vso.}
 {CW. De}
 [fol. 174v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. De los accidentes y males, que vie-
 nen a los ojos.}
@@ -9643,7 +9643,7 @@ cho, y el enfermo robusto, le puede<n> hazer tres
 y quatro sangrias sin temor. Por que la enfer-medad}
 {CW. me}
 [fol. 175v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 lo quiere. Si la inflamacion y dolor es
 en ambos ojos, comience<n> las sangrias del bra-
@@ -9699,7 +9699,7 @@ flamacion. Y aduierto de vna cosa que es muy
 necessaria, que lo que pusieremos no sea muy}
 {CW. frio}
 [fol. 176v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 frio, ni tan poco muy estirico, por que la me<m>-
 brana a donde esta el mal, no lo sufre, por ser
@@ -9755,7 +9755,7 @@ tado a muy muchos los accide<n>tes de los ojos,
 no hauiendo malos humores en el cuerpo.}
 {CW. Si}
 [fol. 177v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Si la inflamacion y accide<n>te de los ojos vie-
 ne de colera mesclada con la sangre, como se
@@ -9809,7 +9809,7 @@ Cardenillo. Todo lo que se puede moler mue-
 lan sutilem<n>te, y mescle<n>lo co<n> el agua y el vino,}
 {CW. y en}
 [fol. 178v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y en vn vaso de plata o de vidro de vn heruor
 sobre el rescoldo, hasta q<ue> se gaste la tercia par-
@@ -9865,7 +9865,7 @@ vn ezcozimie<n>to, que en ellos ay, para los que
 los traen casi siempre enrramados, y para los}
 {CW. de}
 [fol. 179v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de flaca vista, es la Caparrosa cosa admirable,
 de esta manera. Tome<n> tanta Caparrosa como
@@ -9919,7 +9919,7 @@ los humores gruesos y flematicos, y otras ve-
 zes juntamente con estos humores el humor}
 {CW. me}
 [fol. 180v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 melancolico. Hazese tambien la Opoplexia
 de sangre, como el Flemon, hinchiendo de el-
@@ -9975,7 +9975,7 @@ braços con vnas vendas delgadas de lienço, o
 con vnas cintas de trançar el cabello. Dentro}
 {CW. de}
 [fol. 181v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de dos credos las afloxen, y de alli a otros dos
 las bueluan a poner, y aprieten las mas, por q<ue>
@@ -10031,7 +10031,7 @@ es tanto el peligro, y antes se ha de preparar
 el humor, que lo purguen. Echenle de qua<n>do}
 {CW. en}
 [fol. 182v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 en quando en las narizes co<n> vn cañon, los pol-
 uos de la Ceuadilla tostada, por que abre las vi-
@@ -10087,7 +10087,7 @@ gunas vezes melancolico. Todos guarden e-
 ste orden, por que conuiene a la salud.}
 {CW. Para}
 [fol. 183v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para quitar las calenturas a los Indios.}
 COSA es muy esperimentada entre los In-
@@ -10138,7 +10138,7 @@ nadas vna onça. Todo lo dicho cueza en seys
 quartillos d<e> agua Azerada y Almaçigada hasta}
 {CW. que}
 [fol. 184v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 que se gaste la mitad. Cuelenlo, y echenle me-
 dia onça de Almaçiga molida, y vna drama de
@@ -10190,7 +10190,7 @@ arden, de poner remedios calientes en ellos.
 Por que las mas vezes vienen de humores cali-dos}
 {CW. dos}
 [fol. 185v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y tambie<n> con mescla de humor flematico.
 Quando la inflamacion es gra<n>de de humor su-
@@ -10246,7 +10246,7 @@ on y calor se aplaquen, pueden vsar del dicho
 remedio. Hauie<n>dose mitigado la inflamacio<n>,}
 {CW. si}
 [fol. 186v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 si quedare el dolor en su fuerça, hagan este em-
 plastro, y quede liquido. Muelan dos lechugas
@@ -10302,7 +10302,7 @@ uas y de Cominos de cada vno tres onças, cue-
 zan en vino, y en vn poco del asiento del azey-te}
 {CW. te}
 [fol. 187v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de castilla, sebo de Macho, y vnto sin sal de
 [ca]da cosa vna onça rezina media onça, a fuego
@@ -10355,7 +10355,7 @@ higado ≺a las nueue del dia o a las diez≻ quatro
 onças de sangre. Luego tome doze mañanas}
 {CW. arreo}
 [fol. 188v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 arreo vna escudilla d<e> suero, preparado como
 lo mando en este libro, que es cozido y cola-
@@ -10409,7 +10409,7 @@ y Cardenillo partes yguales, Aluayalde otro
 tanto como las dos cosas, muelanlas y mescle<n>-las.}
 {CW. las}
 [fol. 189v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Quando esto no bastare, para que las lla-
 gas sanen, quemenlas con vna gota de agua fu-
@@ -10464,7 +10464,7 @@ y mesclada con agua Rosada. Donde no ay a-
 gua Rosada, echenla de Llanten, o de yerua}
 {CW. mora}
 [fol. 190v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 mora, o los çumos colados de estas yeruas di-
 chas. Otro remedio, tomen quatro onças de
@@ -10516,7 +10516,7 @@ de quiera, tomen el estiercol fresco de las Pa-
 lomas, leuadura y xabon de castilla rallado de}
 {CW. cada}
 [fol. 191v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 cada cosa partes yguales. Muelan estas cosas,
 y con vinagre fuerte ≺trayendolas a vna mano
@@ -10571,7 +10571,7 @@ poco caliente.
 {ILL.}}
 {CW. Mele}
 [fol. 192v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Melezina que mantiene, al que
 no puede comer ni tragar.}
@@ -10623,7 +10623,7 @@ en≻ la reciba, y duerma co<n> ella. Para camaras
 de sangre, recibala cada dia.}
 {CW. Mele}
 [fol. 193v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Melezina que haze purgar bien.}
 HAGAN vn cozimie<n>to de Maluas, de quili-
@@ -10672,7 +10672,7 @@ DESHAGAN en media escudilla de agua
 cozida e<n> Ma<n>çanilla vn Chile de los secos y}
 {CW. moli}
 [fol. 194v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 molido, y eche<n>le tanto piçiete molido o taba-
 co como vna Nuez, y otro tanto de hueso de
@@ -10724,7 +10724,7 @@ pelos de Liebre y Miel blanca cozida, son bue-
 nas para los niños, y p<ar>a los mayores. Las que}
 {CW. se}
 [fol. 195v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 se hazen con Miel bla<n>ca cozida y con Açibar,
 son muy admirables de buenas para algunas
@@ -10828,7 +10828,7 @@ caliente, y quitarse ha el dolor de los dientes
 y muelas, como en mi lo he esperimentado.}
 {CW. Para}
 [fol. 197v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para las pecas del rostro, y para el
 paño que se cria en el.}
@@ -10880,7 +10880,7 @@ dos de dolores de ju<n>turas paresce q<ue> dan aliuio
 como los e<m>borracha. Y luego buelue<n> co<n> furia}
 {CW. y mas}
 [fol. 198v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y mas fuerça. A los que trabaja<n> corporalmen-
 te, paresce que les quita el cansansio, por que
@@ -10932,7 +10932,7 @@ la malicia del humor, no sera bueno, yr de to-
 do punto a detenerla. Si traxeren los vomitos}
 {CW. muy}
 [fol. 199v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 muy gra<n> sed, y lo que vomita el enfermo es hu-
 mor colerico, denle de vna vez vn gran jarro
@@ -10986,7 +10986,7 @@ saquen el primero con vnas pinças, q<ue> ya estara
 deshecho, y meta<n> otro largo, y saldra e<n>tero. Si}
 {CW. algu}
 [fol. 200v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 alguno no saliere entero, pongan en lo q<ue> que-
 do otro trocisco. Los trociscos como son cau-
@@ -11039,7 +11039,7 @@ vino o en agua cozida, y co<n> ellos echara la cri-
 atura muerta, y las pares.}
 {CW. Para}
 [fol. 201v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para algunas indisposiciones y acha-
 ques, que algunos traen co<n>tinuos.}
@@ -11091,7 +11091,7 @@ lo molidos, y con vna yema de hueuo, y azey-
 te Rosado lo mesclen. De esto pongan vn po-co}
 {CW. co}
 [fol. 202v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 en las almorranas, y si estan dentro vnte<n>
 con el vna mecha, y metanla, y tengala media
@@ -11142,7 +11142,7 @@ gunas mugeres y cirujanos, atre-
 uense a abrirlas, y morir e<n> pocos dias de ellas.}
 {CW. La}
 [fol. 203v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 La cura que en estas hinchazones se ha de ha-
 zer, es vsar de vno d<e> estos dos remedios, tome<n>
@@ -11197,7 +11197,7 @@ lo dicho cueza a fuego manso, hasta que se ga-
 ste el vino, cuelenlo y esprimanlo, y cuajenlo}
 {CW. con}
 [fol. 204v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 con dos onças de Cera bla<n>ca. Hara el mismo
 effecto o si lo ponen ≺vn mes o dos arreo≻ e<n> las
@@ -11251,7 +11251,7 @@ elua a cozer, hasta que espume, y tome cada
 vez cantidad de quatro onças. La purga sea e-sta,}
 {CW. sta}
 [fol. 205v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 vn cañuto d<e> Cañafistola, y dos tomines de
 poluos de la rayz del Matlatliztic, o de Mecho-
@@ -11305,7 +11305,7 @@ ene mas communmente. El que curare esta en-
 fermedad, sepa si començo entonces, y si es}
 {CW. el}
 [fol. 206v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 el principio haga sangrar al enfermo vna vez
 del braço derecho de la vena del arca, y saque<n>
@@ -11357,7 +11357,7 @@ EL Toloatzin ≺llamado en castellano leche
 Tresna y e<n> latin {LAT. Titimalum,} y en el Marque-sado≻}
 {CW. sa}
 [fol. 207v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 ≺y en otras partes Tlama≻ puestas sus ho-
 jas sobre qualquiera llaga antigua la enxugua
@@ -11409,7 +11409,7 @@ que todos lo hagan, sepa<n> que ay dos maneras
 de Hortigas. Las vnas se llaman Colotzitzi-castli,}
 {CW. castli}
 [fol. 208v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y crecen mucho. Las otras se llaman
 Citzicastli, y son menores, y nascen junto a las
@@ -11461,7 +11461,7 @@ Ruda, o frito en Ruda,
 que basta.}
 {CW. Reme}
 [fol. 209v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Remedio muy facil para el puxo.}
 QVANDO alguno tiene puxo con cama-
@@ -11511,7 +11511,7 @@ vna planta que llaman Cocolmecatl, y por o-
 tro no<m>bre Olcacatzan. Escriuio della muchas}
 {CW. y muy}
 [fol. 210v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y muy grandes virtudes, y comparola a vna de
 las especies de la Exmilax, a quien todos llama-
@@ -11567,7 +11567,7 @@ vnos ñudos a[ ]trechos y vnos çarçillos como
 los Sarmientos. Y si tienen junto assi algun ar-bol}
 {CW. bol}
 [fol. 211v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 ≺aunque sea muy alto≻ se ase a las ramas, y
 sube hasta arriba. Las hojas son medianas y pu<n>-
@@ -11623,7 +11623,7 @@ de bubas, y algunas llagas, y sobre huesos, es
 mejor el agua del Cocolmecatl, que no la de la}
 {CW. çar}
 [fol. 212v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 çarçaparrilla, por que suda el que la toma con
 mas facilidad. Si la tomare<n>, fiense de mi, y cre-
@@ -11679,7 +11679,7 @@ jar. Y quita los dolores de las muelas, enxagu-
 andose con el.}
 {CW. Para}
 [fol. 213v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Para purgar la cabeça y el estomago
 de las flemas.}
@@ -11730,7 +11730,7 @@ vn grande ahyto.}
 {ILL.}}
 {CW. Es}
 [fol. 214v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Es cosa aueriguada, que ocho granos del Te-
 xocoyoli ≺que es como auellanas≻ y vn ma-
@@ -11781,7 +11781,7 @@ Cuelen el agua y esprimanla, y quedara como
 azul. Luego muelan tres ñudos de la colilla d<e>l}
 {CW. Ta}
 [fol. 215v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 (del) Taquatzin cruda, todo lo deshagan en el
 Xocoatl, y en amanescie<n>do Dios en aiunas lo
@@ -11831,7 +11831,7 @@ de ambos braços y de vna misma vena, y cada
 vez le saque<n> cantidad de cinco o<n>ças de sangre.}
 {CW. Si}
 [fol. 216v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Si el apostema viene con calentura, y con to-
 dos los accidentes, que dixe arriba ≺hauiendo
@@ -11887,7 +11887,7 @@ raditas de azeyte de la higuerilla, y d<e> otro her-
 uor, y eche<n>le sus especias. Beba el caldo, y co-ma}
 {CW. ma}
 [fol. 217v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 el pollo, y hara ocho o diez camaras muy
 bien. Hazen lo mismo doze piñones monda-
@@ -11942,7 +11942,7 @@ te dos dramas. Todo se muela y mescle con
 la leche y el azeyte en vn almirez trayendolo}
 {CW. a vna}
 [fol. 218v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 a vna mano, hasta que quede como vnguento
 blando, y con media onça de Cera blanca lo
@@ -11994,7 +11994,7 @@ no basta, el otro aprouecha, pongo aqui algu-
 nos en partes differentes, para q[ue] vsen de ellos.}
 {CW. Rela}
 [fol. 219v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 relaxase el intestino o saluono, y sale a fuera
 a costa de muy gran dolor del enfermo, como
@@ -12046,7 +12046,7 @@ llo amolado. Luego metan el dedo todo e<n> las
 degolladuras de gallinas, o d<e> pollos, y sanara.}
 {CW. Si}
 [fol. 220v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Si no ay Gallinas, puede quien quiera chupar
 el dedo, y echar sie<m>pre de la boca la saliua. Ha-
@@ -12100,7 +12100,7 @@ dolor de las almorranas
 duras, y con grietas.}}
 {CW. Tomen}
 [fol. 221v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 TOMEN una enxundia de Gallina derreti-
 da, Açucar rosado, vnguento Rosado, y a-
@@ -12152,7 +12152,7 @@ guna ocasio<n>, hara q<ue> les baxe. Tome<n> tanta agua
 de Nuezes verdes molidas, y sacadas por Alca-tara}
 {CW. tara}
 [fol. 222v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 por el mes de Iunio ≺que es quando estan
 para ello≻ como cabe en vn hueuo, y otro tan-
@@ -12204,7 +12204,7 @@ para algunas llaguillas incu-
 rables.}}
 {CW. Cada}
 [fol. 223v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 CADA dia se veen en muchos ho<m>bres y mu-
 geres vnos dolores en vna pierna o braço,
@@ -12258,7 +12258,7 @@ de como vnguento. Vnten con esto dos vezes
 al dia la quemadura,. y en seys dias sanara.}
 {CW. Como}
 [fol. 224v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 {RUB. Como se ha de curar la Gota de los
 pies, y la que llaman Artetica.}
@@ -12312,7 +12312,7 @@ viene<n> de vnos humores, y solo diffieren en los
 lugares y partes de donde dan. Vienen de cor-rimiento}
 {CW. rimi}
 [fol. 225v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 de humores, que communmente lla-
 mamos reumas. Vienen tambien de flaqueza
@@ -12367,7 +12367,7 @@ bien con ellas, tomenlas, que essas les haran
 mucho prouecho.}
 {CW. Para}
 [fol. 226v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Para conoscer quando esta enfermedad vi-
 ene de abundancia de sangre, las partes don-
@@ -12423,7 +12423,7 @@ nos, la demasia causa muchas vezes la Gota(,)[.]
 Los que tienen esta enfermedad, no coma<n> fru-tas}
 {CW. tas}
 [fol. 227v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 verdes, ni cosas de leche, ni cecinas, ni co-
 sas de puerco. Por que estas cosas acrecientan
@@ -12479,7 +12479,7 @@ da vno dos onças, agua de Llante<n> tres onças,
 todo lo dicho mesclen.}
 {CW. Los}
 [fol. 228v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Los remedios que ≺para mitigar los gran-
 des dolores≻ suelen poner, no los pongan lu-
@@ -12535,7 +12535,7 @@ Ceuada, o los de Mechoacan, y echelos a las se-
 ys de la tarde e<n> media escudilla de agua de Ce-uada,}
 {CW. uada}
 [fol. 229v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 y a las quatro de la mañana los menee,
 y tome. Y si quisiere en infusion, tome el
@@ -12647,7 +12647,7 @@ bebala. Si despues de hauer hecho algunas san-
 grias y purgas los dolores de la Gota de los pi-es}
 {CW. es}
 [fol. 231v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 o de las manos fuere<n> tan pertinaces y rebel-
 des, que no cessaren, pongan sobre ellos vnos
@@ -12703,7 +12703,7 @@ na poca de sangre de la parte contraria del do-
 lor, como lo dixe en la cura de la gota de san-gre.}
 {CW. gre}
 [fol. 232v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Saquenle cada vez quatro onças de san-
 gre y no mas. Si no ay señales d<e> sangre mescla-
@@ -12759,7 +12759,7 @@ elua a cozer, hasta que espume, y a la postre le
 echen quatro onças de buen vinagre. La pur-ga}
 {CW. ga}
 [fol. 233v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 sea de rayz de Mechoacan, o de la de Xala-
 pa, o del Matlatliztic, hecha como lo dize ar-
@@ -12815,7 +12815,7 @@ presto, p<ar>a euacuar el humor de la parte q<ue> due-
 le como la sangria. Qua<n>do el dolor boluiere}
 {CW. con}
 [fol. 234v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 con mas furia, que al principio, y conosciere-
 mos por las señales que el enfermo tiene, que
@@ -12868,7 +12868,7 @@ chara para pagar el debito, que deuen de obli-
 gacion. Y assi con el se dexaran de hazer mu-chas}
 {CW. chas}
 [fol. 235v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 ofensas a nuestro señor, y el ≺por quien
 es≻ no permitira se aproueche<n> de este remedio
@@ -12924,7 +12924,7 @@ mago cueza mejor el manjar, y lo conuierta e<n>
 buena sustancia.}
 {CW. Lo}
 [fol. 236v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 Lo segundo que ha de hazer es, purgarse v-
 na vez o dos de los malos humores, que ay en
@@ -12980,7 +12980,7 @@ luenga de cada cosa media onça, Cera amaril-
 la la que bastare, a fuego manso hagan vngue<n>-to}
 {CW. to}
 [fol. 237v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 blando. De las cosas que faltaren, de las q<ue>
 aqui mando, echen la cantidad de las demas.
@@ -13032,7 +13032,7 @@ la olla del fuego, y tapenla con vn plato y en-
 bueluanla en vna fresada por espacio de dos}
 {CW. horas}
 [fol. 238v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 horas. Cuelenla por vn paño ralo, y tome en
 amanesciendo Dios medio quartillo de esta a-
@@ -13084,7 +13084,7 @@ y vsen del las vezes que fuere<n> menester. En vn
 pasmo vnten la nuca y el cerro, y los huesos d<e>l}
 {CW. cue}
 [fol. 239v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 cuello con este vnguento muy caliente. Y pa-
 ra la perlesia vnten todo el miembro que esta
@@ -13133,7 +13133,7 @@ ma ≺despues de algunos dias≻ se fuere azedan-
 do, o criare encima vna como telilla blanca,}
 {CW. den}
 [fol. 240v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 denle vn heruor a fuego manso, y co<n> el queda-
 ra bueno. Aduiertan, que quando pongo mu-
@@ -13189,7 +13189,7 @@ quando no pueda. En esta ocasion que digo,
 pueden sangrar al enfermo ≺si la enfermedad≻}
 {CW. lo}
 [fol. 241v]
-{HD. Libro segundo. +}
+{HD. Libro segundo. ⇒}
 {CB1.
 ≺lo pide≻ vna y dos vezes aquel dia, y amanecer
 purgado el otro. Con esta presteza escapa<n> mu-
@@ -13238,7 +13238,7 @@ Con esto hemos acabado el segundo libro,
 sea nuestro Dios bendito y alabado, amen.}
 {CW. BRE}
 [fol. 242v]
-{HD. Libro tercero. +}
+{HD. Libro tercero. ⇒}
 {CB1.
 {RUB. BREVE TRACTADO DE TODAS
 las Calenturas y de la cura de ellas, hecho por
@@ -13290,7 +13290,7 @@ neras: la vna se llama calentura de sangre no
 podrida y la otra de sangre podrida. La calen-tura}
 {CW. tura}
 [fol. 243v]
-{HD. Libro tercero. +}
+{HD. Libro tercero. ⇒}
 {CB1.
 de sangre no podrida se haze, quando la
 sangre es mucha, y esta demasiadamente cali-
@@ -13345,7 +13345,7 @@ ere. Y si es hombre de papeles y negocios, es
 muy bien que estando en su fuerça y su juyzio}
 {CW. or}
 [fol. 244v]
-{HD. Libro tercero. +}
+{HD. Libro tercero. ⇒}
 {CB1.
 ordene lo que tan necessario es a su alma. Ma-
 yorme<n>te, que con esta calentura se viene a per-
@@ -13401,7 +13401,7 @@ Açucar. Y donde se hallaren Granadas agras,
 tomen tres onças del çumo con Açucar, o chu-pe}
 {CW. pe}
 [fol. 245v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 la Granada. El aposento del enfermo este si-
 empre fresco, y templado con yeruas verdes y
@@ -13457,7 +13457,7 @@ la misma vena, y tome el xaraue que dixe, y re-
 ciba ≺quando no se proueyere bie<n> de camara≻}
 {CW. vna}
 [fol. 246v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 vna melezina. Estas melezinas son muy bue-
 nas en esta calentura, y ganara mucho el enfer-
@@ -13513,7 +13513,7 @@ en, para purgar al enfermo con mas rezia pur-
 ga, que de sola Cañafistola. Sepan los que no}
 {CW. son}
 [fol. 247v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 son medicos, que qua<n>do la sangre se corro<m>pe
 y pudre, lo sutil de ella se conuierte en colera,
@@ -13569,7 +13569,7 @@ cuerpo con gra<n> sed y aspereza de le<n>gua, es bu-
 ena pratica que ≺hauiendo hecho algunas san-grias≻}
 {CW. grias}
 [fol. 248v]
-{HD. Libro +}
+{HD. Libro ⇒}
 {CB1.
 vaya tomando el enfermo xaraues, y re-
 ciba cada dia vna melezina, y començando la
@@ -13625,7 +13625,7 @@ le vna sangria d<e>l braço derecho de la vena Ce-
 phalica, y saquenle quatro onças de sangre. Y}
 {CW. si}
 [fol. 249v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 si fuere necessario otra, haganla del braço ys-
 quierdo, y de la vena Cephalica. Trayga<n>le ca-
@@ -13681,7 +13681,7 @@ agua de Endibia la desaten, y tomela a la hora
 dicha. Los q<ue> no tienen botica, tome<n> esta, des-hagan}
 {CW. hagan}
 [fol. 250v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 hagan dos cañutos de Cañafistola en agua de
 Borrajas si la pueden sacar, o en agua de Ceua-
@@ -13737,7 +13737,7 @@ de ellos, hagan las sangrias despues del seteno
 dia, o despues del catorzeno, si el medico fue}
 {CW. llama}
 [fol. 251v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 llamado tarde, o como la necessidad lo pidie-
 re. Haganlas antes de comer, en los que no e-
@@ -13791,7 +13791,7 @@ ste no<m>bre de Tauardete, por las pi<n>tas que sale<n>.
 Estas mancas son vn Simpthoma o acidente}
 {CW. que}
 [fol. 252v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 que la maliçia del humor causa. Algunos dize<n>
 que la causa del tauardete es el ayre pestilenci-
@@ -13847,7 +13847,7 @@ ren las pintas y manchas, es mas mala señal. Y
 muy mayor señal mortal es, si desde el princi-pio}
 {CW. pio}
 [fol. 253v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 comiença a delirar el enfermo. El sexto y
 vltimo pronostico es, los que purgaren bien
@@ -13903,7 +13903,7 @@ puede tener dieta, hasta q<ue> passe el quarto dia,
 coma lo que mande en la cura de la calentura}
 {CW. de}
 [fol. 254v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de sangre. Y si es flaco de complexion, y teme-
 mos, que la enfermedad pasara del catorzeno
@@ -13959,7 +13959,7 @@ cessarias. Consejo y mandato es de Galeno, y
 no hagan lo que cada dia veo hazer, y es: que}
 {CW. si}
 [fol. 255v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 si han sangrado vna o dos vezes al principio al
 que tiene Viruelas, y le ven co<n> todo lo hecho,
@@ -14015,7 +14015,7 @@ se enjendran, son muy buenas las ventosas se-
 cas en las espaldas, en las asentaderas, y en las}
 {CW. pan}
 [fol. 256v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 pantorrillas. Echense cada dia, por que aiuda<n>
 mucho a la n(u)[a]turaleza. Y si las primeras mue-
@@ -14071,7 +14071,7 @@ gre Rosado vna onça, mesclenlo. De vna co-
 sa aduierto, y es: que assi como en los princi-pios}
 {CW. pios}
 [fol. 257v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de las inflamaciones ≺aunque sean de hu-
 mor flematico≻ hemos d<e> poner sobre ellas co-
@@ -14127,7 +14127,7 @@ vna onça y media, vinagre Rosado vna onça,
 todo lo mesclen. Passadas dos horas del laua-torio}
 {CW. torio}
 [fol. 258v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de leche, laue<n> al enfermo la cabeça otra
 vez con este lauatorio. Rosas secas, Violetas,
@@ -14181,7 +14181,7 @@ gre que nos pareciere conuenir. Y entrada v-
 na vez la purga e<n> el cuerpo, no le podemos de-zir}
 {CW. zir}
 [fol. 259v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 no hagays mas de quatro camaras, o seys.
 Mas: la sangria, no mueue los humores en el
@@ -14237,7 +14237,7 @@ media hora quatro cucharadas de Iulepe Ro-
 sado, q<ue> templa mucho el calor, y hagase desta}
 {CW. manera}
 [fol. 260v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 manera. Tomen agua Rosada medio quartil-
 lo, Açucar blanco media libra, a fuego manso
@@ -14293,7 +14293,7 @@ de escreuir, como lo sabe<n> los que professan el
 arte medica.}
 {CW. De}
 [fol. 261v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 {RUB. De la calentura ardiente.
 Capitulo Tercero.}
@@ -14404,7 +14404,7 @@ onças de azeyte Rosado, vna onça de Açucar
 y vna yema de hueuo con la clara, y yema bati-do}
 {CW. do}
 [fol. 263v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 y recibala, y detenga, lo que pudiere.
 Si la cale<n>tura no se remite en el seteno dia,
@@ -14460,7 +14460,7 @@ gas dichas en el capitulo passado. Do<n>de ay bo-
 tica, denle esta, Diaprunis simple y letuario d<e>}
 {CW. çumo}
 [fol. 264v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 çumo de Rosas de cada vno vna onça, en agua
 de Endiuia la desaten, y tomela a las quatro d<e>
@@ -14514,7 +14514,7 @@ ella. Por que entonces assi co<n>uiene, que se ha-
 ga. Y si su necessidad fuere tanta, que ha mene-ster}
 {CW. ster}
 [fol. 265v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 vn poco de vino, de<n>selo templado. Cada
 dia haga camara, aunque sea con vna melezi-
@@ -14570,7 +14570,7 @@ Si la terciana ≺como dixe al principio≻ pas-
 sare de siete, y la orina saliere gruesa, y encen-dida,}
 {CW. dida}
 [fol. 266v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 es señal clara, que la colera esta mescla-
 da con la sangre, y ya no es terciana Esquisita.
@@ -14626,7 +14626,7 @@ el enfermo no lo pueda sufrir, vntenle con e-
 ste vnguento las espaldas y el cerro, y las juntu-ras}
 {CW. ras}
 [fol. 267v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de los braços. Azeyte de Arrayhan y Rosa-
 do de cada vno dos onças, Rosas secas y flores
@@ -14681,7 +14681,7 @@ na sale gruesa, y el color es como citrino, que
 quiere d(i)[e]zir color de Cidra. Trae consigo esta}
 {CW. ca}
 [fol. 268v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 calentura muy gra<n> dolor de cabeça y de cuer-
 po, y no puede<n> con ella los enfermos alçar los
@@ -14737,7 +14737,7 @@ y Diaphenicon de cada vno vna onça, e<n> agua
 de Hinojo la desaten. Si quiere pildoras, de<n>le}
 {CW. estas}
 [fol. 269v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 [e]stas a las dos de la mañana, y duerma con ellas
 hasta que comiençe a obrar. Pildoras de Reu-
@@ -14793,7 +14793,7 @@ rayzes de cada vno vna onça, agua de Hinojo
 o d<e> Borrajas tres o<n>ças, mesclese, tomelo cada}
 {CW. dia}
 [fol. 270v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 dia, hasta que muestre la orina vna como nie-
 bla en ella. La purga sea esta, letuario de çumo
@@ -14849,7 +14849,7 @@ Pildoras Faetidas, o de Fumaria vna drama, pil-
 doras Agregatiuas dos escrupulos, aguzenlas}
 {CW. con}
 [fol. 271v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 con cinco granos de Diagridio, y doren siete.
 Hagan este xaraue, y tomenlo siempre que se
@@ -14904,7 +14904,7 @@ ta. Quando el frio y la calentura aflijen y du-
 ra<n> mucho, es señal d(a)[e] mucha flema, y que esta}
 {CW. cor}
 [fol. 272v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 corrompida. Y quando el frio es poco, y la ca-
 le<n>tura no aflije, la flema es poca, y no esta cor-
@@ -14960,7 +14960,7 @@ ra, aunque sea co<n> melezina co<m>mun, o de agua
 miel azeyte y sal. Y si no la ay, ponga<n>le vna ca-lilla}
 {CW. lilla}
 [fol. 273v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de xabon vntada con azeyte y sal. Desde
 el dia primero comiençe a tomar xaraues, y es
@@ -15016,7 +15016,7 @@ lo, preparado como he dicho. Quando la ori-
 na sale blanca y con todos los beneficios q<ue> al}
 {CW. en}
 [fol. 274v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 enfermo se le hazen, no mejora, es euide<n>te se-
 ñal, que la flema es mucha, y que la naturaleza
@@ -15072,7 +15072,7 @@ Diagridio, y doren seys pildoras, y tome dos.
 Vnten el estomago con este vnguento las ma-ñanas}
 {CW. ña}
 [fol. 275v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 y las noches. Rayzes vn poco molidas d<e>
 Apio y de Lirio, de cada vna vn manojo, frian-
@@ -15125,7 +15125,7 @@ artana se guarde, como lo dixe en la terciana,
 adonde me remito. Yo he quitado muchas ve-zes}
 {CW. zes}
 [fol. 276v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 las quartanas, hazie<n>do al enfermo, que
 el dia de ella no coma, ni beba, y purgandole
@@ -15181,7 +15181,7 @@ pio y de Perexil de cada vna vn manojo, que-
 brantenlas vn poco, y cueza<n> en quartillo y me-dio}
 {CW. dio}
 [fol. 277v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de agua, y quede en vno. Cuelese y echen-
 le medio quartillo de miel blanca y quatro o<n>-
@@ -15237,7 +15237,7 @@ yo les ruego y les pido por amor de nuestro se-
 ber, por que no ay cosa que les haga mayor da-ño.}
 {CW. ño}
 [fol. 278v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 Quando el frio va acaba<n>dose, denle vn
 poco de vino aguado, y escusaran el agua.
@@ -15293,7 +15293,7 @@ purguense con vna de las purgas, que para el-
 los dixe arriba. Pueden añadir mas cantidad}
 {CW. de}
 [fol. 279v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de Cañafistola y de poluos, si tienen rezio esto-
 mago. Si no tienen donde estan mas que los
@@ -15349,7 +15349,7 @@ le Sendeluna y Epitimo muy molidos de cada
 cosa vna onça, d<e> otro heruor, a la postre tome<n>}
 {CW. vna}
 [fol. 280v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 vna onça de Hermodatillos muy molidos, y e<n>
 vn almirez co<n> vn poco de agua cozida los des-
@@ -15403,7 +15403,7 @@ Dos causas son las mas principales, las q<ue> cau-
 san y hazen la cale<n>tura Hetica. La vna las cale<n>-turas}
 {CW. turas}
 [fol. 281v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 ardientes y grandes, y las calenturas co<n>-
 tinuas. Vna muy gra<n>de inflamacion de los hu-
@@ -15459,7 +15459,7 @@ Otro,. conoscida la calentura Hetica ≺antes d<e>
 co<n>firmarse en la tercera especie, q<ue> dizen≻ si la}
 {CW. curan}
 [fol. 282v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 curan, sanara, como muchas vezes lo he visto.
 Qua<n>do el hetico no pudiere estar e<n> tierra fria
@@ -15515,7 +15515,7 @@ y guardenlo,. de este entresijo tomen ocho on-
 ças, azeyte de Adormideras, de pepitas de ca-labaças}
 {CW. laba}
 [fol. 283v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 de Castilla, de Violetas, de Nimpheas
 y de Almendras dulces fresco de cada vno vna
@@ -15571,7 +15571,7 @@ tres, cuelenlo, y echenle libra y media de Açu-
 car, y cueza hasta que espu[m]e. Lauen a los Heti-cos}
 {CW. cos}
 [fol. 284v]
-{HD. Libro Tercero. +}
+{HD. Libro Tercero. ⇒}
 {CB1.
 vna vez no mas e<n> la semana en aiunas y en
 aposento templado con agua tibia. Enxugue<n>-
@@ -15612,7 +15612,7 @@ gos años, con mucho estudio y trauajo suyo.
 Este nueuo modo de curar las llagas he yo es-perime<n>tado}
 {CW. peri}
 [fol. 285v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 muchas vezes, y no me harto ≺co-
 mo dizen≻ de dar gracias a nuestro buen Dios
@@ -15668,7 +15668,7 @@ le, los q<ue> fueren menester. No estando la llaga
 en juntura, no le dexen mecha,. sino ponga<n> so-bre}
 {CW. bre}
 [fol. 286v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 los pu<n>tos ≺si los dieron≻ o sobre la herida
 vnos pañitos mojados en clara batida de hue-
@@ -15724,7 +15724,7 @@ tome el herido este xaraue desde el dia prime-
 ro hasta el dia setimo. Con el escusaremos la}
 {CW. pur}
 [fol. 287v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 purga, la qual ≺siendo possible≻ se deue escu-
 sar en los heridos,. y mucho mas e<n> los de cabe-
@@ -15780,7 +15780,7 @@ cura particular, a donde me remito y con el
 acabara muy facilmente la herida de soldar y}
 {CW. cerrar}
 [fol. 288v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 cerrar del todo. Si la carne de la herida crecie-
 re mucho, pongan sobre ella tres vezes vnos
@@ -15836,7 +15836,7 @@ sos, siempre causan gran dolor, y otros aciden-
 tes, que aflixen al enfermo, y algunas vezes lo}
 {CW. traen}
 [fol. 289v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 traen a la muerte. Quando ay dolor, hagan al-
 gunas sangrias, que son muy necessarias. Para
@@ -15892,7 +15892,7 @@ yalde, media libra de azeyte Rosado, vnguen-
 to Basilicon Magistral ≺que yo po<n>go en esta ci-rujia≻}
 {CW. rujia}
 [fol. 290v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 vna onça. Todo lo dicho cueza trayen-
 dolo a vna mano, hasta q<ue> quede como la Dia-
@@ -15946,7 +15946,7 @@ rar, conforme al instrumento, co<n>
 que fuero<n> hechas. Por que vnas se}
 {CW. hazen}
 [fol. 291v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 hazen con espada, o con daga, y otras con pa-
 lo, o co<n> piedra, que magulla la carne. Y a estas
@@ -16002,7 +16002,7 @@ bien toda la herida quatro vezes al dia co<n> vna
 pluma de Gallina mojada en el licor caliente,}
 {CW. y so}
 [fol. 292v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 y sobre el pongan este ceroto de Iuanes de Vi-
 go, tendido en vn lienço, que para heridas de
@@ -16058,7 +16058,7 @@ Si las heridas de cabeça hechas con palo, o
 con piedra, o por alguna cayda ≺no hauuiendo≻}
 {CW. hue}
 [fol. 293v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 ≺hueso quebrado≻ se curan de esta manera, sa-
 naran. Lauenlas primero con agua Ardiente,
@@ -16112,7 +16112,7 @@ cortado el cuero ni salir sangre, y
 el casco estar quebrado conuiene}
 {CW. sa}
 [fol. 294v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 saber del herido, si cayo en el suelo, si perdio
 la vista de los ojos, y el sentido, si vomito y le
@@ -16224,7 +16224,7 @@ toston, obramos con el otro trepano q<ue> llama-
 mos he<m>bra, y co<n> el acabamos d<e> sacar el casco.}
 {CW. Aqui}
 [fol. 296v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 es menester obrar poco a poco por q<ue> ≺como
 dixe arriba≻ no rompamos las telas de los se-
@@ -16280,7 +16280,7 @@ desce el casco, y lo aiuda a salir, por el Gumi
 Elemi, que lleua en su compossicion.}
 {CW. Ha}
 [fol. 297v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 Hauiendo sacado los huesos, se puede leua<n>-
 tar el enfermo a las diez del dia, y estar senta-
@@ -16333,7 +16333,7 @@ que con ella se vee todo el daño. Aparten co<n>
 los dedos y con las vñas la carne y pericranio}
 {CW. del}
 [fol. 298v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 [del] casco, y pongan lichinos mojados en clara de
 hueuo batida. Otro dia a la misma hora haga<n>
@@ -16389,7 +16389,7 @@ Ceuada, y con vnos granos d<e> Anis. Si el enfer-
 mo es de flaca co<m>plexion, o muy colerico, de<n>-le}
 {CW. le}
 [fol. 299v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 d<e> vna polla assada o cozida. Desde el dia pri-
 mero hasta que passe el seteno tome cada ma-
@@ -16445,7 +16445,7 @@ Si mamare el niño, guarde la boca el ama que
 lo cria, de todo aquello que le puede hazer da-ñar}
 {CW. ñar}
 [fol. 300v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 la leche. Hagan la cura primera con es-
 to, tomen azeyte Rosado y de Mançanilla de
@@ -16499,7 +16499,7 @@ xen metida vna mecha, por donde salgan las
 materias, que las ha de hauer forçosame<n>te. Si}
 {CW. la}
 [fol. 301v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 la herida de la cara no es honda, cosanla toda
 por que no hara materia, si la saben curar. Si
@@ -16555,7 +16555,7 @@ mentina lauada con tres aguas de Borrajas,
 dos onças, harina de Hauas vna onça, Encen-sio}
 {CW. sio}
 [fol. 302v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 y Açibar d<e> cada cosa dos dramas, Cera bla<n>-
 ca vna onça, Aç(e)[a]fran vn escrupulo. Muela<n> las
@@ -16609,7 +16609,7 @@ hilo doblado, por que no se quede alguna vez
 dentro. Mojela en clara de hueuo batida, y en-cima}
 {CW. cima}
 [fol. 303v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 ponga vnos lienços mojados en la cla-
 ra del hueuo, dos cabeçales y la ve<n>da. Esta sea
@@ -16665,7 +16665,7 @@ do en quando tome el enfermo vn poco, por
 que como queda dicho arriba, ha de ser la co-mida}
 {CW. mida}
 [fol. 304v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 y bebida de quatro dias.
 Cada dia haga camara, aunque sea con vna
@@ -16721,7 +16721,7 @@ Si en estas heridas penetrantes viere el ciru-
 jano al enfermo desde el dia primero, o a los}
 {CW. tres}
 [fol. 305v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 tres dias respirar con dificultad, le puede pro-
 nosticar la muerte. Y si con esta falta de respi-
@@ -16775,7 +16775,7 @@ tolas, conseguira<n> salud. Lo primero q<ue> a de ha-
 zer el cirujano, es: purgar al enfermo, y dele}
 {CW. estos}
 [fol. 306v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 estos xaraues quatro dias arreo. Xaraue de In-
 fusion de Rosas y miel Rosada de cada cosa v-
@@ -16831,7 +16831,7 @@ uor echen alli dos puños de Rosas secas muy
 molidas, y dos onças de Hermodatilos moli-dos}
 {CW. dos}
 [fol. 307v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 y desatados en vn almirez con vna poca d<e>
 la misma agua, y mesclenlos bien con toda la
@@ -16887,7 +16887,7 @@ le de ayre. Quando tomare el agua turbia por
 la tarde, se acueste.}
 {CW. Si}
 [fol. 308v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 Si en la fistola ≺por ser antigua como acon-
 tesce≻ ay hueso corrompido, abranla con na-
@@ -16941,7 +16941,7 @@ como mal tan conoscido. Antes que lo saque<n>
 es necessario purgar dos vezes a quie<n> lo tiene.}
 {CW. Y pri}
 [fol. 309v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 Y primero se confiesse y haga lo demas que a
 a su alma conuiene, y luego tome estos xaraues
@@ -16997,7 +16997,7 @@ dia a la misma hora haga la segu<n>da cura deste
 modo moje con vna pluma de Gallina la llaga}
 {CW. qua}
 [fol. 310v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 quatro vezes con el licor o balsamo caliente,
 tantas vezes dicho, y pongan lichinos moja-
@@ -17053,7 +17053,7 @@ Rosas de cada vno siete dramas, Cañafistola
 dos onças en agua de Borrajas la desaten, y to-mela}
 {CW. me}
 [fol. 311v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 a las quatro de la mañana. La Cañafisto-
 la ≺como otras vezes he dicho≻ purga muy bi-
@@ -17106,7 +17106,7 @@ peligrosas. Las del o<m>bligo, tienen
 peligro por ocho neruios q<ue> viene<n>}
 {CW. a el}
 [fol. 312v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 [a el.] Este mismo peligro corre<n> las heridas de todas
 las espaldas, por los neruios, q<ue> de la nuca desci-
@@ -17162,7 +17162,7 @@ materias, curen la llaga dos vezes al dia. Con
 esto sanara en quinze dias con el fauor de Di-os}
 {CW. os}
 [fol. 313v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 Si fueren menester algunas sangrias los pri-
 meros dias, por sobrevenir algunos acide<n>tes,
@@ -17218,7 +17218,7 @@ lo que quedo del cozimiento. El q<ue> por ser fla-
 co d<e> co<m>plexio<n>, no pudiere passar co<n> la bebida}
 {CW. tome}
 [fol. 314v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 caldos de aue bien hechos, y atole blanco co<n>
 Açucar. La misma cura se haze e<n> las demas he-
@@ -17271,7 +17271,7 @@ lor, y el dolor atrae y llama mucha ca<n>tidad de
 humores. Y estos son los que las hazen incura-bles,}
 {CW. bles}
 [fol. 315v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 y causan algunas vezes la muerte. En co-
 mençando a curar la vlcera, tome el enfermo
@@ -17327,7 +17327,7 @@ do en vn lienço, para q<ue> la te<m>ple. Qua<n>do la car-
 ne este colorada, y casi pareja co<n> las demas, po<n>-gan}
 {CW. gan}
 [fol. 316v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 tendido en vn lienço el ceroto primero,
 que dixe en la cura de las llagas frescas en el ca-
@@ -17383,7 +17383,7 @@ Vacas, hasta que salga la escara, que es lo que-
 mado de la carne. Si la llaga esta en parte ner-uosa,}
 {CW. uosa}
 [fol. 317v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 como en la mano, y en el pie, a la terce-
 ra cura añadan a las yemas d<e> hueuos solas vna
@@ -17439,7 +17439,7 @@ que he dicho es muy buena la ve<n>da que llama<n>
 de dos cabeças. Conosceremos, que la vlcera}
 {CW. ha}
 [fol. 318v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 ha soldado, e<n> la poca materia, o ninguna, que
 haze. Despues d<e> cerrada la vlcera, para que la
@@ -17495,7 +17495,7 @@ res,. y passados los ocho dias, eche<n>le media on-
 ça de Copal molido, para que encarne.}
 {CW. De}
 [fol. 319v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 {RUB. De las hinchazones, de los Apostemas,
 y vlceras de la cabeça, con corruci-
@@ -17549,7 +17549,7 @@ trayga vn poco a vna mano. Qua<n>do lo po<n>gan
 sobre la llaga, templenlo a la vela encendida.}
 {CW. Pro}
 [fol. 320v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 Procure el cirujano sacar luego el casco y hue-
 so corrompido, y para que salga co<n> menos do-
@@ -17605,7 +17605,7 @@ fermo. La cura puse en el libro segundo, cap<itulo>
 primero, segundo, tercero, y quarto.}
 {CW. De}
 [fol. 321v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 {RUB. De los Encordios y llagas de las par-
 tes vergonçosas de los hombres
@@ -17660,7 +17660,7 @@ endo con las sangrias y el emplastro, no ha-
 gan por entonces mas beneficios al enfermo,}
 {CW. de}
 [fol. 322v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 de purgarlo, y hazerle, que tenga regla en co-
 mer, y beber, y que se ponga los emplastros.
@@ -17716,7 +17716,7 @@ naran.
 {ILL.}}
 {CW. De}
 [fol. 323v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 {RUB. De las llagas de las partes vergon-
 çosas de los hombres, y mu-
@@ -17771,7 +17771,7 @@ ces esten con ella, si no es bastante cantidad,
 la que sale sangren a la enferma d<e> los touillos}
 {CW. y sa}
 [fol. 324v]
-{HD. Capitulo Quarto. +}
+{HD. Capitulo Quarto. ⇒}
 {CB1.
 y saquen cada vez quatro onças de sangre. Si
 le suele baxar bien, y entonces esta con la
@@ -17827,7 +17827,7 @@ bro viril esta<n> dentro del prepucio, y el esta tan
 duro y tan cerrado, que no puede verse, y la}
 {CW. ma}
 [fol. 325v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 materia que sale de las llagas huele mal, y tie-
 ne mal color, hagan este remedio. Tome<n> Mal-
@@ -17883,7 +17883,7 @@ hagan este, que es muy admirable de bueno y
 do<n>de quiera hallara<n> recaudo. Tomen Sebo de}
 {CW. macho}
 [fol. 326v]
-{HD. Libro Quarto. +}
+{HD. Libro Quarto. ⇒}
 {CB1.
 o riñonada de carnero tres onças Treme<n>-
 tina y Copal de cada cosa vna onça, Cera me-
@@ -17936,7 +17936,7 @@ diffinicio<n> de la Anothomia es vna ciencia rec-
 ta y derecha, con la qual diuidimos cortando}
 {CW. los}
 [fol. 327v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 los miembros humanos con singularidad de
 las partes, conforme a la etimologia del boca-
@@ -17992,7 +17992,7 @@ tal, que se enjendra en el coraçon, como lo a-
 ffirma Galeno, esta es fria y seca. Carne se diui-de}
 {CW. de}
 [fol. 328v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 en tres especies, en carne gla<n>dulosa, en car-
 ne musculosa, y en carne simple. Carne simple
@@ -18048,7 +18048,7 @@ La carne y la grasa es caliente. Otros mie<m>bros
 ay, q<ue> se co<m>pone<n> de los mie<m>bros simples. Entre}
 {CW. estos}
 [fol. 329v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 estos miembros co<m>puestos, vnos se llama<n> prin-
 cipales, y son forçosos para la vida, como es:
@@ -18102,7 +18102,7 @@ ro q<ue> ocurre a la cabeça es los cabellos, lo segu<n>-
 do el cuero, lo tercero la parte musculosa, lo}
 {CW. quar}
 [fol. 330v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 [qu]arto el paniculo, llamado co<m>munmente peri-
 cranio, en griego {GRK. Periostis,} y en arabigo {ARB. Almo-
@@ -18158,7 +18158,7 @@ Lamda. Llamanse laterales, por que estan en
 los lados de la cabeça. Iuntanse tambien con}
 {CW. el}
 [fol. 331v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 el hueso coronal con vnos como dientes de si-
 erra, y hazen la comisura, q<ue> llama<n> sajital, q<ue> lle-
@@ -18214,7 +18214,7 @@ Lamda sale vna arteria, q<ue> va a juntarse con las
 dos dichas venas, y co<n> algunos neruios, de los}
 {CW. qua}
 [fol. 332v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 quales: se haze el paniculo, que esta debaxo d<e>
 la duramater. Otro paniculo ay fuera, que cu-
@@ -18268,7 +18268,7 @@ De los tres ve<n>triculos que tiene el celebro
 el anterior y mas alto ≺segun la opinion de to-dos≻}
 {CW. dos}
 [fol. 333v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 ≺los Anothomistas≻ esta apartado de los o-
 tros, y todos estan diuididos con vnos panicu-
@@ -18323,7 +18323,7 @@ primer ventriculo del celebro, y son
 como las narizes d<e>l ho<m>bre. So<n> como}
 {CW. apo}
 [fol. 334v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 aposento y descanso, sobre el qual el ventricu-
 lo se estiende a su plazer, quando toma las co-
@@ -18379,7 +18379,7 @@ cubierta de los paniculos d<e>l celebro. Y por el
 agugero del hueso Basilar o Lamda va baxan-do}
 {CW. do}
 [fol. 335v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 por los Espondiles, o espinazo, hasta llegar
 al postrer Espondil. La nuca es medular, y de
@@ -18433,7 +18433,7 @@ Y qua<n>do passa algo aunq<ue> sea vna migaja, hasta
 q<ue> buelue a salir no ay valerse de tose. Y qua<n>do}
 {CW. no sale}
 [fol. 336v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 [no sale] ahogase el q<ue> lo trago. La Trachea Arteria o ca-
 ña del pulmon es compuesta de vnos como a-
@@ -18486,7 +18486,7 @@ cranio, y es el de la cabeça. El cuero de la cara
 produxo la naturaleza despues del segundo,}
 {CW. ter}
 [fol. 337v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 tercero, quarto y quinto par de neruios d<e>l
 celebro, y con algunas venas y arterias. Estos
@@ -18541,7 +18541,7 @@ del coraço<n>, y subiendo arriba entra<n> al celebro
 por las comissuras d<e>l casco. Estas arterias baxa<n>}
 {CW. a las}
 [fol. 338v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 [a las] orejas y trae<n> alguna materia espermatica, ha-
 sta los testiculos. Y por esto algunos tienen
@@ -18595,7 +18595,7 @@ porosos, y vienen del primer par de los nerui-
 os del celebro. Estos dos neruios quando sale<n>}
 {CW. de}
 [fol. 339v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 de su principio, que es la nuca, se aparta<n> vn po-
 co, y luego se juntan a manera desta figura. {=DIAG.}
@@ -18651,7 +18651,7 @@ en a<m>bos angulos o lagrimales de los ojos ju<n>to
 a la nariz, de la qual si saca<n> de a<m>bos ta<n>ta sangre}
 {CW. como}
 [fol. 340v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 como cabe en vna cascara de nuez, es de gran
 prouecho, para los grandes dolores y inflama-
@@ -18705,7 +18705,7 @@ del coraçon, como principal capitan d<e> todos
 los miembros. Y co<n> esto tratamos de todas las}
 {CW. par}
 [fol. 341v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 partes contenidas del. El coraçon llamado de
 los griegos Cardia es casi de figura de piña, es
@@ -18759,7 +18759,7 @@ pues tienen dos tunicas, y las venas v-
 na. Hizo la naturaleza las arterias de dos, por}
 {CW. que}
 [fol. 342v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 que guarde<n> y lleuen mejor la sangre vital, que
 se enjendra y haze en el coraçon. De aqui vie-
@@ -18815,7 +18815,7 @@ este officio tomo el nombre, que tiene. Tiene
 colligancia con el celebro mediante los ner-uios}
 {CW. uios}
 [fol. 343v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 estendiendose, y con su mouimiento ha-
 ze ayre como los fuelles del herrero. Las heri-
@@ -18867,7 +18867,7 @@ partes trataremos de-
 spues.}
 {CW. Ano}
 [fol. 344v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 {RUB. Anothomia del Estomago.}
 El Estomago ≺como dixe arriba≻ tiene su prin-
@@ -18922,7 +18922,7 @@ bracase en si mejor al estomago. La parte cor-
 cobada, que esta hazia el Diapragma, es: la q<ue>}
 {CW. nos}
 [fol. 345v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 nos paresce, que tocamos, quando ponemos
 la mano sobre su sitio y lugar, para tocarle. Ti-
@@ -18977,7 +18977,7 @@ todo Amen.
 {ILL.}}
 {CW. De}
 [fol. 346v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 {RUB. De la Anothomia de las tripas, y de
 otros miembros.}
@@ -19031,7 +19031,7 @@ do con paniculos continuos. Por la vna parte
 se continua con el estomago, y por la otra par-te}
 {CW. te}
 [fol. 347v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 con las costillas, que llaman mendosas o fal-
 sas. Del ba(c)[ç]o van dos vias o caminos a la boca
@@ -19087,7 +19087,7 @@ lo queman y cortan los cirujanos, despues de
 atado con vn hilo.}
 {CW. De}
 [fol. 348v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 {RUB. De la Anothomia del Siphac, de los
 Dindimos, de los Testiculos, y
@@ -19142,7 +19142,7 @@ El miembro viril o genital es muy musculoso
 es compuesto de muchos ligamentos, lleno de}
 {CW. venas}
 [fol. 349v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 venas y arterias, y es carnoso. Quando se hin-
 che de ventosidad ≺enjendrada en las venas q<ue>
@@ -19195,7 +19195,7 @@ y por ellos baxa la semilla a la madre. El cuello
 de la madre se llama Vulua, es estrecho y ru[??]}
 {CW. Ha}
 [fol. 350v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 Hallanse en el cuello de la madre cinco venas,
 y quando corrompen a las donzellas, sale de
@@ -19250,7 +19250,7 @@ thomia d<e>l Thorax. De los huesos de las manos
 y de los pies, y de los de las ancas, que co<m>mun-
 me<n>te llaman caderas, se dira a su tiempo. [??]}
 [fol. 351v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 huesos de las aslillas son corcobados en la par-
 te de fuera como arcos. Sus estremos son con-
@@ -19305,7 +19305,7 @@ junte y tenga e<n> si los otros dedos. Los huesos
 d<e> la nalga, de la pierna y del pie son segu<n> M[un]-
 dino, veynte y ocho. El hueso d<e> la nalga e[s vn]}
 [fol. 352v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 poco coruo en la parte de fuera, y en la parte
 de dentro es ancho. En la parte alta tiene vna
@@ -19359,7 +19359,7 @@ Los que lo encojen, estan e<n> la parte de dentro
 y los q<ue> lo estienden, estan en la de fuera. V[??]
 lo q<ue> digo en la mano, al abrirla o cerrarla.}
 [fol. 353v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 Los mouimientos voluntarios que se halla<n>
 en el cuerpo, son los de los musculos, q<ue> mue-
@@ -19412,7 +19412,7 @@ y baxando dan mouimiento en todas las pier-
 nas ay diez y ocho musculos, y sobre el pie ay
 doze musculos, que mueuen los dedos.}
 [fol. 354v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 {RUB. De la Anothomia de los neruios.}
 {RUB. Capitulo Diez y seys.}
@@ -19465,7 +19465,7 @@ diles del cuello se acaban. Estos neruios q<ue> he
 dicho, se reparten y van a muchas partes, vnos
 van al cuello y a la cabeça. Otros a los mie[??]}
 [fol. 355v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 los del diapragma y del espinazo. Otros van a
 los braços y a las manos, y estos son los del oc-
@@ -19520,7 +19520,7 @@ terior del primer ve<n>triculo del celebro. El [mo]-
 do como van a los ojos ya lo dixe. Tres p[??]-
 chos hazen gra<n>des estos neruios opticos. [El pri]mero}
 [fol. 356v]
-{HD. Libro Quinto. +}
+{HD. Libro Quinto. ⇒}
 {CB1.
 es: yr por ellos el espiritu animal, q<ue> da
 la vista. El segundo, que por ellos las especies

@@ -141,7 +141,7 @@ me encargasse de la inteli-
 gencia de las enfermedades/ que}
 {CW. corren}
 [fol. 5v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 corren en esta villa/ formacion de
 la casa y hospital/ que para retirar
@@ -189,7 +189,7 @@ halla: y esta es la causa/ que en vna
 casa da a vnos, y a otros no, y a los}
 {CW. que}
 [fol. 6v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 que da/ vnos mueren/ y otros sana<n>/
 au<n>que haze mucho al caso acudir
@@ -237,7 +237,7 @@ casa de vn aposento a otro/ y en
 vn mismo aposento de vn cabo a}
 {CW. otro/}
 [fol. 7v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 otro/ mudar la cama es causa de sa-
 lud/ o enfermedad? Pues en las sie-
@@ -285,7 +285,7 @@ rosos/ y ponçoñosos/ que son ra-
 tones/ sapos/ culebras/ lagartijas/}
 {CW. salaman}
 [fol. 8v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 salamanquesas/ muchas suertes de
 arañas/ moscas/ moscones/ rena-
@@ -333,7 +333,7 @@ tes baxas a las altas/ y a las arbole-
 das: otras vezes andarse metie<n>do/}
 {CW. y escon}
 [fol. 9v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 y escondiendo por çarçales/ y bos-
 ques/ y por lugares frescos. Quan-
@@ -381,7 +381,7 @@ rren en hondas fossas los cuerpos
 muertos/ cerra<n>do enterramie<n>tos/}
 {CW. poços}
 [fol. 10v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 poços/ y cueuas donde sale mal o-
 lor: y procurar que por todo el ay-
@@ -428,7 +428,7 @@ en las ingles/ debaxo de los braços/
 y en el cuello/ y carbu<n>cos/ en qual-quier}
 {CW. quier}
 [fol. 11v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 parte del cuerpo: lo qual se
 haze expeliendo naturaleza de lo
@@ -476,7 +476,7 @@ sin que hasta aora se sepa/ que a-
 yan recaydo/ ni pegado a otros/}
 {CW. y se}
 [fol. 12v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 y se vee por todo lo sobre dicho no ser
 fina peste/ y por no proceder de
@@ -521,7 +521,7 @@ grada Escritura nos lo enseña/ a do
 me remito/ qua<n>to a la salud del al-ma.}
 {CW. ma}
 [fol. 13v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 Qua<n>to a la del cuerpo toca Ga-
 leno en los libros de la guarda de la
@@ -567,7 +567,7 @@ seruarlos puros es bueno. Para es-
 to ay cordiales que siruen a la pre-seruacion/}
 {CW. seruacion/}
 [fol. 14v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 y tambien a la curacio<n>/
 y otros a sola perseruacion/ y algu-
@@ -615,7 +615,7 @@ del fuego/ echar poluos de piedra
 vezar será bueno. Y tomar estas}
 {CW. pildoras}
 [fol. 15v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 pildoras vna vez en la semana/ co<n>-
 uiene a saber/ las pildoras/ que v-
@@ -663,7 +663,7 @@ o barracas/ o tiendas adonde
 sean curados/ y residan los que}
 {CW. con}
 [fol. 16v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 con ellos tratan/ y no tornen a en-
 trar en el lugar/ aunq<ue> sanos/ hasta
@@ -711,7 +711,7 @@ Dios gracias con ello me hallo
 bien.}
 {CW. Cura}
 [fol. 17v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 {RUB. Cura particular}
 {IN3.} LVego pues q<ue> se hallare vn
@@ -758,7 +758,7 @@ q<ue> dize Hipocrates/ q<ue> se ha de ayu-
 dar a naturaleza/ y no irle en co<n>tra.}
 {CW. Aqui}
 [fol. 18v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 Aqui se ha de aduertir/ que al-
 gunas vezes el veneno primaria/ y
@@ -806,7 +806,7 @@ dia/ cada vez vna escudilla co<n> que
 te<m>ple su sed: y para beuer ordina-rio}
 {CW. rio}
 [fol. 19v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 te<n>ga agua cozida con rayzes de
 escorçonera/ vn poco de ceuada
@@ -853,7 +853,7 @@ doras/ y darselas a media noche
 q<ue> duerma sobre ellas: y sino fuere}
 {CW. el}
 [fol. 20v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 el dia de la purga/ en todos los de-
 mas: y aun en este a la tarde/ si tu-
@@ -901,7 +901,7 @@ bla<n>co/ de cada cosa peso de dos rea-
 les/ simiente de cardobenedicto/}
 {CW. y de}
 [fol. 21v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 y de azederas/ de cada cosa peso de
 real y medio/ de nuez vomica pe-
@@ -949,7 +949,7 @@ y a estos basta ponelles vn pegadi-
 llo de diaquilon mayor co<n> mucho}
 {CW. armonia-co}
 [fol. 22v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 armoniaco/ y si vienen con costra
 dura/ y seca/ é inflamacion a la re-
@@ -997,7 +997,7 @@ dece/ solemos tornar a cargar de
 los dichos poluos: y sino ay este in-conue-niente/}
 {CW. conue-niente/}
 [fol. 23v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 procedemos derri-
 bando la escara co<n> lo arriba dicho
@@ -1045,7 +1045,7 @@ cardenillo/ y mas d<e> media d<e> alumbre
 todo cozido hasta q<ue> tome cuerpo/}
 {CW. dema}
 [fol. 24v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 demanera que haga correa del car-
 denillo/ y podran añadir/ o quitar
@@ -1093,7 +1093,7 @@ vna lanzeta aquello duro/ que
 señala costra/ y dexar correr alguna}
 {CW. sangre/}
 [fol. 25v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 sangre/ y luego enxugar: y si es gra<n>-
 de lauar con agua sal calie<n>te/ y po-
@@ -1141,7 +1141,7 @@ con mucha violencia/ por no irri-
 tar demasiado.}
 {CW. En}
 [fol. 26v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 En las secas vsamos generalme<n>te/
 despues de auer hecho los reme-
@@ -1189,7 +1189,7 @@ dura en la dicha seca/ abrir luego
 con vna lanzeta/ segun la retitud/}
 {CW. confor}
 [fol. 27v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 conforme lo ha menester lo que
 debaxo está supurado/ y sacar la
@@ -1237,7 +1237,7 @@ teria/ se podra encarnar co<n> poluos
 encarnatiuos/ mezclados en miel}
 {CW. rosada/}
 [fol. 28v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 rosada/ mas/ o menos secos/ segu<n> el
 cuerpo/ y parte lo fuere: porq<ue> a los
@@ -1285,7 +1285,7 @@ silicon/ amarillo/ de media confec-
 cio/ y aureo: y en partes secas/ estos/}
 {CW. echando}
 [fol. 29v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 echando mas resina/ centaurea be-
 tonica/ y algunas vezes el de Atu-
@@ -1333,7 +1333,7 @@ con cosas limpia<n>tes/ encarnantes/
 y cicatrizantes.}
 {CW. Tambien}
 [fol. 30v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 Tambien se vsa en las tales ma-
 linas secas/ luego que parecen/ apli-
@@ -1381,7 +1381,7 @@ Tambien suelen algunos tener
 camaras con gra<n> fastidio/ a estos es}
 {CW. bueno/}
 [fol. 31v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 bueno/ porque se debilita<n> mucho/
 acudir a con<n>fortar el estomago por
@@ -1427,7 +1427,7 @@ ro platico que se traxo al hospital/
 está ya por el enseñado en el cono-cimiento}
 {CW. cimien}
 [fol. 32v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 de las secas/ y carbun-
 cos/ y en los remedios/ assi medi-
@@ -1475,7 +1475,7 @@ cios/ y orinales/ y todo se hecha en
 los corrales/ vno encima de otro/ y}
 {CW. alli}
 [fol. 33v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 alli se pudre<n>/ y se leuanta<n> malos he-
 dores/ y vapores/ de los quales caen
@@ -1523,7 +1523,7 @@ rios/ y atadijos/ se retiren en vna
 casa a parte/ y se tengan limpios/}
 {CW. colgados}
 [fol. 34v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 colgados en cuerdas/ o clauos/ pa-
 ra darselos/ quando salieren sanos/
@@ -1571,7 +1571,7 @@ ayre/ y calentar las medicinas/ que
 importa aplicarlas bien calientes.}
 {CW. Para}
 [fol. 35v]
-{HD. Tratado +}
+{HD. Tratado ⇒}
 {CB1.
 Para esto se prouea de enebro/ car-
 bon/ y leña en abundancia/ y que
