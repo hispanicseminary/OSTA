@@ -1,6 +1,7 @@
 {RMK: HSMS-0537.}
 {RMK: Pedro de Castañeda de Nájera.}
 {RMK: [CIB] Relación de la jornada de Cíbola.}
+{RMK:.}
 {RMK: Nueva York | Public Library | MssCol 2570, no. 63.}
 {RMK: Sonia Kania, Cynthia Kauffeld and Israel Sanz-Sánchez.}
 {RMK: HSMS-0537-0001: Relación de la jornada de Cíbola.}
