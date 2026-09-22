@@ -1,6 +1,7 @@
 {RMK: HSMS-0545.}
 {RMK: Francisco Vázquez y Pedrarias de Almesto.}
 {RMK: [RJO] Relación verdadera de la jornada de Omagua y Dorado.}
+{RMK:.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/3191.}
 {RMK: Francisco Gago Jover.}
 {RMK: HSMS-0545-0001: Relación verdadera de la jornada de Omagua y Dorado.}
