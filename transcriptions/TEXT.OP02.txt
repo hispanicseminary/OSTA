@@ -4,6 +4,7 @@
 {RMK: París | Thielman Kerver | 1502-04-30.}
 {RMK: Madrid | Biblioteca Nacional de España | R/31044.}
 {RMK: José Manuel Fradejas Rueda.}
+{RMK: HSMS-0578-0001: Libro de horas de Nuestra Señora.}
 [fol. 1r]
 {CB1.
 {MIN. THIELMAN KERVER}
