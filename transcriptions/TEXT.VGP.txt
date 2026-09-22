@@ -1,6 +1,7 @@
 {RMK: HSMS-0461.}
 {RMK: Flavio Vegecio Renato.}
 {RMK: [VGP] Epitoma rei militaris | Libro de Vegecio de la caballeria y del arte de las batallas.}
+{RMK:.}
 {RMK: París | Bibliothèque nationale de France | Espagnol 295.}
 {RMK: José Manuel Fradejas Rueda.}
 {RMK: HSMS-0461-0001: Libro de Vegecio de la caballería y del arte de las batallas.}
