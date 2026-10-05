@@ -1,4 +1,4 @@
-{RMK: HSMS-0356.}
+{RMK: HSMS-0536.}
 {RMK: Francisco Vázquez de Coronado.}
 {RMK: [AVC] Apelación de Francisco Vázquez de Coronado.}
 {RMK: Guadalajara, México | 1544.}
