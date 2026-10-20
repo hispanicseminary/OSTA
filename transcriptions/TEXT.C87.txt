@@ -2,7 +2,7 @@
 {RMK: Alonso de Cartagena, obispo de Burgos.}
 {RMK: [C87] Doctrinal de los caballeros.}
 {RMK: Burgos | Fadrique de Basilea | 1487-06-20.}
-{RMK: Madrid | Biblioteca Nacional de España | INC/1910}
+{RMK: Madrid | Biblioteca Nacional de España | INC/2553}
 {RMK: José Manuel Fradejas Rueda.}
 [fol. 1r]
 {CB1.
@@ -212,6 +212,8 @@ veynte & tres rrubriçelas & çien-
 to & dos leys.}
 {CB2.}
 [fol. 4r]
+[fol. 4v]
+[fol. 5r]
 {HD. Prologo}
 {CB1.
 {IN6.} Los famosos caualleros muy noble señor co<n>de
@@ -248,7 +250,7 @@ Razon. E caton muy valiente dizen q<ue> fue. mas non le cuentan en-
 tre los caualleros. Ca la discreçio<n> deue mandar al denuedo & non
 el denuedo a la discreçio<n>. E como sean muchas cosas scriptas asi}
 {SG. A}
-[fol. 4v]
+[fol. 5v]
 {CB1.
 enlos tie<n>pos a<n>tiguos. como enlos mas çercanos años para des-
 pertar los corazones enlos fechos dela caualleria. Pero todas
@@ -284,8 +286,8 @@ tamentos se contiene. Los primeros que leyes estableçieron no<n>-
 bra sancto ysidoro diziendo asi. Foroneo rrey estableçio primera-
 me<n>te a los griegos las leyes & los juyzios. Mercurio trimegistro
 las fizo & dio a los egepçianos. Solon fue el primero que las dio
-a los de athenas. Ligurgo estableçio derechos enla( )çedomonia.}
-[fol. 5r]
+a los de athenas. Ligurgo estableçio derechos en[ ]la( )çedomonia.}
+[fol. 6r]
 {CB1.
 numa po<n>pilio q<ue> suçedio a romulo en el rreyno fue el primero que
 dio leys a los rromanos. E maguer que de estrañas naçiones se fa-
@@ -323,7 +325,7 @@ juzgo. El qual dizen q<ue> fue fecho por sesenta & seys ob<is>pos en el tie<n>-
 po delos godos en el quarto co<n>çilio de to(do)ledo rreyna<n>te el rrey
 sisigna<n>do. E las leys del non ha<n> actoridad de derecho general en}
 {SG. A ij}
-[fol. 5v]
+[fol. 6v]
 {CB1.
 todo el rreyno. Mas vsan de algunas dellas en algunas partes
 del rreyno de leon. E asi como enlas leyes delos griegos & delos
@@ -360,7 +362,7 @@ Pero cu<n>pliendo v<uest>ro ma<n>dado rrecorri las sup<er>fiçialmente & ayu<n>t
 dellas algunas que me paresçian fazer a lo q<ue> vos quereys. E puse-
 las en esta breue copilaçion. La qual pues ma<n>dastes co<n>poner por
 ser enform<a>do por ella delos estableçimie<n>tos & doctrinas dela ca-ualleria.}
-[fol. 6r]
+[fol. 7r]
 {CB1.
 Podeysla llamar si vos plugiere doctrinal delos caua-
 lleros enmenda<n>do & ma<n>dandola e<n>mendar como a vos bien visto
@@ -398,7 +400,7 @@ co<n>tradixesen es de estar al fuero o al ordenamiento. Razon es que
 se situe despues lo q<ue> puede corregir a lo otro. Como los legistas
 fazen que las leyes que se llama<n> aute<n>ticas ponenlas despues d<e> las}
 {SG. A iij}
-[fol. 6v]
+[fol. 7v]
 {CB1.
 otras. No<n> solamente por seer mas nueuas mas por que corrigen
 o declaran o ma<n>dan a las primeras. E en el tenor delas leyes non
@@ -432,7 +434,7 @@ dolo trabajen por seguir sie<n>pre la c(t)a[t]holica via delos a<n>teçessore<<s
 E por e<n>de a<n>te delas otras pornemos aq<u><<i>> las leyes q<ue> della fabla<n>.
 {RUB. El rey don alfonso el deçimo enla pri-
 mera partida. Titulo t<er>çero dize Asi}}
-[fol. 7r]
+[fol. 8r]
 {CB1.
 {IN2.} Sin dubda tenemos que es verdad & creemos firmemente q<ue>
 es vno solo verdadero dios que non ha comienço nin fin
@@ -470,7 +472,7 @@ gloria sin fin. E los malos pena para siempre. Otrosi tenemos &
 creemos firmemente que es vna sancta ygl<es>ia vniuersal en q<ue> se sal.
 uan todos los fieles xp<ist>ianos. Fuera della no<n> se salua ningu<n>o. enla}
 {SG. A iiij}
-[fol. 7v]
+[fol. 8v]
 {CB1.
 qual se faze sacrifiçio d<e>l cuerpo & dela sa<n>gre de n<uest>ro señor ih<e>u xp<ist>o
 en semejança de pan & de vino. E este sacrifiçio non lo puede otro
@@ -506,7 +508,7 @@ rrera mas manifiesta por que nos pudiesemos saluar. E este n<uest>ro
 señor ih<es>u xp<ist>o ha en si dos naturas de om<n>e & de dios. E maguer se-
 gu<n>d la natura de dios non pudiese morir nin sentir ningund mal.
 Segund la natura que tomo de om<n>e quiso morir por nos todos}
-[fol. 8r]
+[fol. 9r]
 {CB1.
 saluar & sofrir fa<n>bre & sed & otros trabajos. E rresçibio muerte e<n>
 la cruz & mientra que la carne fue muerta el anima del desçendio
@@ -540,7 +542,7 @@ tulo primero manda scriuir vna ley del tenor siguiente.
 {RUB. Ley}
 {IN2.} Las virtudes delas leyes son en siete maneras. La primera
 es ma<n>dar. La segu<n>da vedar. La terçera consentir La q<u><<a>>rta}
-[fol. 8v]
+[fol. 9v]
 {CB1.
 dar pena al que lo meresçe. La quinta consejar & mostrar de fazer
 bien & guardarse del contrario. La sexta es creer. La septima or-
@@ -575,7 +577,7 @@ ampara<n>dola delos enemigos. que es cosa que co<n>uiene a todos co-
 munalmente. Pero con todo eso a los que mas pertenesçe son los
 caualleros a quien los antiguos dizen defe<n>sores. Lo vno por que
 son mas honrrados. Lo al por q<ue> señaladame<n>te son establesçidos}
-[fol. 9r]
+[fol. 10r]
 {CB1.
 para defender la tierra & ampararla. Por ende queremos aqui fa-
 blar dellos & mostrar porque asi son llamados & como deuen ser
@@ -609,7 +611,7 @@ bre señalado por si & ha de tornarse por fuerça a ser no<n>brado por
 los otros que deçimos que se ençierra<n> en millar. E por esta rrazo<n>
 escogian antiguamente de mill om<ne>s vno para fazerlo cauallero
 Asi como deximos enla ley ante desta & en escogiendolo catauan}
-[fol. 9v]
+[fol. 10v]
 {CB1.
 que fuesen om<ne>s que ouiesen en si tres cosas. La primera qu[e] fuesen
 lazdradores para sauer sofrir la grand lazeria & los trauajos que
@@ -646,7 +648,7 @@ za. que muestra tanto como nobleza de bondad por que los genti-
 les fueron om<ne>s nobles & buenos & biuieron mas onrradame<n>te q<ue>
 las otras gentes. E esta gentileza auia en tres maneras. La pri-
 mera por linaje. La segunda por saber. La terçera por bondad de}
-[fol. 10r]
+[fol. 11r]
 {CB1.
 costumbres & de maneras. E como quier que estos que lo ganaua<n>
 por su sabiduria & por su bo<n>dad son por derecho llamados noble<<s>>
@@ -681,7 +683,7 @@ alguna cosa le quisiere<n> dezir. Otrosi la madre nunca la seria emen-
 tada que a denuesto non se torrnase del fijo & della. Por que el ma-
 yor denuesto que la cosa onrrada puede auer. Es quando se mez-
 cla tanto con la cosa vil que pierde su nombre & gana el dela vil.}
-[fol. 10v]
+[fol. 11v]
 {CB1.
 {RUB. Como los caualleros deue<n> auer en si q<u><<a>>tro virtudes prinçipales}
 {IN2.} Bondades son llamadas las buenas costu<n>bres que los om<ne>s
@@ -717,7 +719,7 @@ que es virtud q<ue> faze al om<n>e estar firmemente a los peligro<<s>> que le
 auienen. Asi enla maçana es toda la fortaleza que es la virtud de
 la espada. Ca en ella se sufre el mango & el arriaz & el fierro. E bie<n>
 como las armas que el om<n>e çiñe son medianas entre las armadu-ras}
-[fol. 11r]
+[fol. 12r]
 {CB1.
 que viste. E las armas co<n> que fiere & son asi como la virtud de
 la mesura entre las otras cosas que se fazen a demas o de menos
@@ -751,7 +753,7 @@ en deslealtad. Ca fazerles ya amar a los que ouiesen de querer m<a>l
 erço & cobdiçiar lo que non deuiesen auer E oluidar lo que deuen
 cobdiçiar E desta guisa les faria errar en el desentendimiento en
 todas las cosas que ouiesen de fazer.}
-[fol. 11v]
+[fol. 12v]
 {CB1.
 {RUB. Quales caualleros deuen saber obrar de su entendimiento}
 {IN2.} Entendidos seyendo los caualleros. asi como diximos enla
@@ -783,7 +785,7 @@ maneras los fazen ser sabidores de aquello que han de fazer por
 sus manos. Otrosi el arteria les faze buscar carreras para saber
 acabar mejor & mas en saluo lo que quiere<n>. E por ende se acuerda<n>
 muy bien estas dos cosas en vno. Ca las maneras les fazen que se-pan}
-[fol. 12r]
+[fol. 13r]
 {CB1.
 amar bien & apuestamente. E otrosi ayudarse & ferir con to-
 da arma & ser ligeros & buenos caualgantes. E el arteria les mu-
@@ -817,7 +819,7 @@ a los caualleros delas auer buenas cada vna segu<n>d su natu-
 ra. Ca pues co<n> estas ha<n> de fazer los fechos de armas que es su me-
 nester. Conuiene que sea<n> tales de que se pueda<n> bien ayudar. & entre}
 {SG. .B.}
-[fol. 12v]
+[fol. 13v]
 {CB1.
 todas aq<ue>llas cosas de que ellos ha<n> de ser sabidores es esta la mas
 señalada. Ca por ser el cauallo grande & fermoso si fuese de malas
@@ -852,7 +854,7 @@ como las ordenes delos oradores no<n> las puede ninguno dar si no<n>
 el que las ha. Otrosi tal no<n> ha poderio ninguno de fazer caualle-
 ro si non el q<ue> lo es. Pero algunos y ouo que touieron que el rrey o
 su fijo heredero maguer caualleros no<n> fuese<n> q<ue> bie<n> lo podia<n> fazer}
-[fol. 13r]
+[fol. 14r]
 {CB1.
 por rrazo<n> del rreyno por ellos son caueças de caualleria & todo el
 poder se ençierra della en su ma<n>damie<n>to. E por esto lo vsaro<n> & vsa<n>
@@ -889,7 +891,7 @@ uen ser segu<n>d adelante lo muestra enlas leyes deste titulo
 {IN2.} Falleçimie<n>to para no<n> poder fazer bien las cosas en dos ma-
 neras. La vna por fecho. La otra por rrazo<n>. E la de fecho}
 {SG. .Bij.}
-[fol. 13v]
+[fol. 14v]
 {CB1.
 es q<ua>ndo los om<ne>s non ha<n> cumplimie<n>to de lo que ha<n> menester para
 fazerlas & la que viene por rrazo<n> es qua<n>do non ha<n> derecho por q<ue>
@@ -926,7 +928,7 @@ nesçer tan noble cosa como caualleria que fincase escarnido della.
 De manera que nu<n>ca la pudiese auer. Otrosi pusiero<n> que ningu<n>o
 no<n> rresçibiese o<n>rra de caualleria por preçio de auer nin de otra co-
 sa que diese por ella que fuese como manera de co<n>pra. Ca bien asi}
-[fol. 14r]
+[fol. 15r]
 {CB1.
 como el linaje no<n> se puede comprar. Otrosi la onrra que viene por
 la nobleza non la puede la p<er>sona auer si ella no<n> fuese atal que la me-
@@ -963,7 +965,7 @@ manera que pueda defe<n>der su ley & fazer otras cosas segu<n>d le co<n>ui-
 ene & que le sea guardador & defendedor delos peligros & delos en-
 bargos & d<e> lo que le sera contrario a esto. E deuele venir en mie<n>te}
 {SG. B .iij}
-[fol. 14v]
+[fol. 15v]
 {CB1.
 que como quier q<ue> dios es poderoso sobre rodas las cosas del mun-
 do & puede mostrar su poder en ellas como & qua<n>do quisiere que
@@ -999,7 +1001,7 @@ fiziese<n> caualleros seye<n>do armados de todas sus armaduras bien
 asi como si ouiesen de lidiar. Mas las cabeças no<n> touiero<n> por bie<n>
 que las touiesen cubiertas. Por que los que asi la traen no<n> lo faze<n>
 saluo por dos rrazones. La primera por encubrir alguna cosa q<ue>}
-[fol. 15r]
+[fol. 16r]
 {CB1.
 en ellos ouiese que les paresçeria mal. Ca por tal cosa bien las pue-
 den encubrir de alguna cobertura que fuese fermosa & apuesta. la
@@ -1036,7 +1038,7 @@ quier dellas que aya vale & es muy buena. Ca este quel deçine la es-
 pada llamanle padrino. Ca bien asi como los padrinos en el bau-
 tismo ayudan a confirmar & otorgar a su ahijado como sea xp<ist>iano}
 {SG. B .iiij.}
-[fol. 15v]
+[fol. 16v]
 {CB1.
 Otrosi el que es padrino del cauallero noble desçiñendole la es-
 pada confirma & otorga la caualleria que ha rresçebido.
@@ -1070,7 +1072,7 @@ to ser fecho fasta siete años. E por ende los caualleros nobles pu-
 es que tan gra<n>d deudo han con los que les deçiñenlas espadas a
 quien han de rrogar que sean sus padrinos para desçeñir gelas
 {RUB. Que cosas deuen guardar los caualleros quando caualgaren}}
-[fol. 16r]
+[fol. 17r]
 {CB1.
 {IN2.} Mantenerse deuen los caualleros segu<n>d dixeron los antigu-
 os sabios en manera que ellos fagan buena vida & de<n> buen
@@ -1106,7 +1108,7 @@ como quier q<ue> las vestiduras fuesen de tajos de muchas m<a>neras se-
 gu<n>d eran las costu<n>bres departidas & los usos delas tierras. Pero
 el ma<n>to acostumbraro<n> todos traer desta guisa que lo fazian gran-
 de & lue<n>go que les cubriese fasta los pies & sobraua ta<n>to paño dela}
-[fol. 16v]
+[fol. 17v]
 {CB1.
 vna parte & dela otra sobre el ombro siniestro por que podrian &
 fazer vn ñudo & faziendolo d<e> manera que podria<n> meter & sacar la
@@ -1142,7 +1144,7 @@ sen d<e>llas poco & les abo<n>dase mucho & les fiziese las carnes rreçia<<s>>
 de m<a>nera q<ue> les no<n> turbase el ente<n>dimiento nin el seso & qua<n>do fazia
 grandes calenturas dauanles vn poco de vinagre con mucha de
 agua porque les quitase la sed & no<n> dexase ençe<n>der la calentura en}
-[fol. 17r]
+[fol. 18r]
 {CB1.
 ellos porque ouiesen de enfermar & beuiendolo. Otrosi entre dia
 quando auian gra<n>d sabor de beuer agua solamente. E esto les fazi-
@@ -1177,7 +1179,7 @@ sas sobredichas. E esto era por q<ue> leyendolas. Les creçiesen los
 coraçones & esforçauanse faziendo bien q<ue>riendo llegar a lo q<ue> los
 otros fizieran & pasar por ello.
 {RUB. Que cosas son tenudos de guardar los caualleros}}
-[fol. 17v]
+[fol. 18v]
 {CB1.
 {IN2.} Señaladas cosas ordenaron los sabios antiguos que guar-
 dasen los caualleros de manera q<ue> no<n> errasen en ellas. E so<n>
@@ -1214,7 +1216,7 @@ empre consigo q<ue> las non enpeñasen nin las malmetiesen. sin man-
 dado de su<<s>> señores o por gra<n>d cuyta manifiesta que ouiesen a que
 ningu<n>d acorro no<n> pudiesen auer. Otrosi q<ue> los no<n> jugasen en algu-
 na manera. E tenia<n> aunq<ue> deuia<n> ser guardados de fazer ellos por}
-[fol. 18r]
+[fol. 19r]
 {CB1.
 si furto nin engaño nin consejar a otro q<ue> lo fiziese E entre todos
 los otros furtos señaladamente enlas armas & enlos cauallos d<e>
@@ -1250,7 +1252,7 @@ nosçidos por ellas asi q<ue> se aprouechan de cada vna dellas segu<n> aque-
 llo para q<ue> fue fecha. Otrosi deuen ser de buena barata. Ca si lo no<n>
 fuesen todo su aguisamie<n>to non les valdria nada & seria<n> atales los
 q<ue> esto fiziesen segund los sabios antiguos dixeron como el arbol}
-[fol. 18v]
+[fol. 19v]
 {CB1.
 sin corteza q<ue> paresçe mal & secase ayna & aun deue<n> pugnar en qua<n>-
 to pudieren en ser mansos & ligeros asi como dicho auemos. que
@@ -1286,7 +1288,7 @@ tomar los cauallos de sus cuerpos nin desçenderlos de otras bes-
 tias en q<ue> caualgasen nin entrarles enlas casas a pre<n>dar estando y
 ellos o sus mugeres. Pero cosas y señaladas hay sobre q<ue> les pue-
 de<n> poner plazos a q<ue> salga<n> delas casas por q<ue> pueda fazer la e<n>terga}
-[fol. 19r]
+[fol. 20r]
 {CB1.
 en ellas o en lo q<ue> ay fuere & aun los antiguos ta<n>to encaresçiero<n> la
 onrra delos caualleros que no<n> tan solamente dexauan de fazer la
@@ -1322,7 +1324,7 @@ mo rrastra<n>dolo o enforcandolo o despeñandolo. Mas hanle de
 descabeçar por derecho o matarle de fambre qua<n>do quisiese mos-
 trar contra el gra<n>d crueza por algu<n>d gra<n>d mal q<ue> ouiese fecho. E
 aun tanto touiero<n> los antiguos de españa q<ue> fazian mal los caua-lleros}
-[fol. 19v]
+[fol. 20v]
 {CB1.
 de se meter a furtar & a rrobar lo ageno o fazer aleue o tray-
 çion q<ue> son fechos q<ue> fazen los om<ne>s viles de coraçones & de bo<n>dad
@@ -1358,7 +1360,7 @@ tiese el cauallo o las armas o las p<er>diese a los dados o fiziese fur-
 tar a sus co<n>pañeros las suyas o las enpeñase en tauerrna o furta-
 se. O si a sabiendas fiziese cauall<er>o a om<n>e q<ue> no<n> deuiera ser o si vsase
 publicamente el mesmo de mercaduria o obrase de algu<n>d vil me-nester}
-[fol. 20r]
+[fol. 21r]
 {CB1.
 de manos por ganar dineros non seyendo captiuo. E las
 otras rrazones por q<ue> ha<n> de perder onrra de caualleria antes que
@@ -1394,7 +1396,7 @@ asi las declararon E como quier q<ue> la cabeça de todos los caualle-
 ros & señores seglares sean los emperadores & rreys. de cuyo pode-
 rio mucho es en ellas escripto. Nos aqui non tomamos las leyes}
 {SG. .C.}
-[fol. 20v]
+[fol. 21v]
 {CB1.
 que dellos fablaro<n> por q<ue> non fazen a la materia del proposito que
 començamos. Por ende queda q<ue> deuamos oyr como se no<n>bra<n> los
@@ -1429,7 +1431,7 @@ juzgan & señorean en sardeña & viscond<e> tanto quiere dezir como
 offiçial que tiene logar de conde
 {RUB. Que poderio han los señores sobredi-
 chos enlas t<ie>rras donde son señores.}}
-[fol. 21r]
+[fol. 22r]
 {CB1.
 {IN2.} Por heredamiento han señorio los prinçipes & los duques
 & los otros grandes señores de q<ue> fablamos enla ley ante
@@ -1466,7 +1468,7 @@ logar & non en mas & vicarios llaman a aq<ue>llos offiçiales q<ue> finca<n>
 por adelantados en logar delos emperadores & delos rreys & de
 los otros grandes señores enlas prouinçias & enlos condados &}
 {SG. .C. ij}
-[fol. 21v]
+[fol. 22v]
 {CB1.
 enlas grandes villas quando ellos no<n> pueden yr personalme<n>te
 E estos ofiçiales deuen usar de aquel poderio q<ue> los señores han q<ue>
@@ -1500,7 +1502,7 @@ da partida en el titulo nono diziendo asi.
 nes q<ue> de suso son dichas & a los nobles om<ne>s del rreyno pu-
 sieron como por mie<n>bros. Ca bien asi como los miembros. fazen
 al om<n>e fermoso & apuesto & se ayuda dellos. Otrosi los om<ne>s onra-dos.}
-[fol. 22r]
+[fol. 23r]
 {CB1.
 Fazen al rreyno noble & apuesto & ayudan al rrey a defender-
 lo & acreçentarlo. Ca nobles son llamados en dos manera<<s>>: o por
@@ -1538,7 +1540,7 @@ fiziesen. Otrosi verrnia al rreyno gra<n>d daño. E sin los pesares q<ue>
 le farian q<ue> por derecho gelo abria<n> a calupniar & asi perderia<n> ellos
 su buen fecho & su esperança.}
 {SG. C. iij}
-[fol. 22v]
+[fol. 23v]
 {CB1.
 {RUB. Titulo seys delos adalides & delos almoça-
 denes & delos almogauares & delos peones}
@@ -1573,7 +1575,7 @@ que son menester en tiempo de guerra.}
 {RUB. Leyes}
 {IN2.} Quales conuiene q<ue> sean los caualleros & como han de ser fe-
 chos & q<ue> cosas deuen fazer & guardar mostramos en el titu-lo}
-[fol. 23r]
+[fol. 24r]
 {CB1.
 ante deste. Agora q<ue>remos aqui dezir. delos adalides & delos al-
 mogauares & delos peones q<ue> son mucho men<e>ster en fecho de gue-
@@ -1610,7 +1612,7 @@ ren enlas huestes & enlas caualgadas & para qua<n>to<<s>> dias. E que
 las sepan fazer alongar si menester fuere. E por ende los antigu-
 os q<ue> eran muy sabidores de guerra. Tan gra<n>de era el sabor q<ue> auia<n>}
 {SG. .C. .iiij.}
-[fol. 23v]
+[fol. 24v]
 {CB1.
 de fazer mal a sus enemigos q<ue> leuauan via<n>das troxadas en argue-
 nas & talegas qua<n>do yuan enlas caualgadas. E non q<ue>rian leua
@@ -1647,7 +1649,7 @@ en su logar. E q<ue> sepan a benir los om<ne>s qua<n>do estouiesen desabeni-
 dos & partir con ellos lo q<ue> ouiesen & onrrar & seruir los om<ne>s bue-
 nos q<ue> andudiesen enlas huestes o enlas caualgadas q<ue> ellos gui-
 asen. Mas sobre todas estas cosas. Conuiene q<ue> sean leales. De ma-nera}
-[fol. 24r]
+[fol. 25r]
 {CB1.
 q<ue> sepan amar su ley & su señor natural & la co<n>paña q<ue> guian E
 que amor ni malq<ue>rençia nin cobdiçia non les mueua a fazer cosa
@@ -1682,7 +1684,7 @@ ello. deuen morir por ello ta<n>bien el vno como el otro. por q<ue> se atre-
 uieron a lo q<ue> les non co<n>uiene. E si por auentura, non los pudiesen
 fallar han de perder todo lo que ouieren.
 {RUB. Ley.}}
-[fol. 24v]
+[fol. 25v]
 {CB1.
 {RUB. Como se deue fazer el adalid. & que le deue dar el q<ue> lo
 fiziere. & q<ue> poder ha. & q<ue> o<n>rra gana desq<ue> fuere adalid}
@@ -1718,7 +1720,7 @@ castiga<n>do los q<ue> no<n> vayan al logar nin en manera q<ue> rresçiba<n> da�
 me<n>te & q<ue> pena mereçen si no<n> fazen bie<n> lo q<ue> ha<n> de fazer}
 {IN2.} Onrradame<n>te estableçiero<n> los antiguos q<ue> fuesen fechos los
 adalides segund enla ley ante desta deximos & esto fiziero<n>}
-[fol. 25r]
+[fol. 26r]
 {CB1.
 por muchas rrazones. Lo primero por los grandes fechos q<ue> fa-
 zian con ellos. Lo al por los gra<n>des peligros a q<ue> se mete<n>. E otro-
@@ -1754,7 +1756,7 @@ q<ue> co<n> el fueren. La segu<n>da q<ue> sea esforçado para cometer los fecho<
 & esforçar los suyos. La terçera q<ue> sea ligero. Ca esta es cosa q<ue> co<n>ui-
 ene mucho al peon para poder alcançar ayna lo q<ue> tomar ouiese. &
 otrosi para guaresçer qua<n>do menester fuese. La quarta es q<ue> deue}
-[fol. 25v]
+[fol. 26v]
 {CB1.
 ser leal para ser amigo de su señor & delas compañas que acabdi-
 llare. Ca esto conuiene que aya en todas guisas el que fuere cabdi-
@@ -1790,7 +1792,7 @@ fiziere segund aquel daño fuese. E si fuese fecho enla manera que
 dicha es que se deua fazer ninguna culpa non abria y el que lo fizi-
 era almoçaden si algu<n>d yerro fiziese. Ma<<s>> el mesmo deue lazdrar
 por ello segund su fecho. E esto mesmo dizimos si le desmandase<n>}
-[fol. 26r]
+[fol. 27r]
 {CB1.
 sus co<n>pañas q<ue> deuen auer pena segund el daño que viniese por su
 desma<n>damiento. Pero esto se entiende. Si el almoçaden non gelo
@@ -1824,7 +1826,7 @@ los enemigos con pocos & buenos que con muchos & malos.
 {IN2.} Muy bien seria si ser pudiese q<ue> sin ofensa de dios & dela rrepu-
 blica todas las gentes ouiesen paz. llas esto es muy difi-
 çile do<n>de en el eua<n>gelio el saluador dize. No<n> vine poner paz mas}
-[fol. 26v]
+[fol. 27v]
 {CB1.
 guerra. Lo qual declarando los sanctos doctores dizen que los
 vnos pugna<n>do por la fe & los otros contralla<n>dola se leuanta<n> las
@@ -1859,7 +1861,7 @@ por ello a buena paz & folgura. E pues q<ue> el mal q<ue> han en ella adu-
 ze bien. E por aq<ue>lla sospecha se mueuen los om<ne>s a fazerla. Deue<n>
 siempre los q<ue> la quieren començar ser mucho enuisos ante q<ue> la co-
 miençen. Donde pues q<ue> en el titulo ante deste fablamos apartada-mente}
-[fol. 27r]
+[fol. 28r]
 {CB1.
 mente delos caualleros & de lo<<s>> adalides & delas cosas q<ue> son tenu-
 dos aguardar & de fazer queremos aqui mostrar enlas leyes des-
@@ -1895,7 +1897,7 @@ guerra q<ue> se mueue con soberuia & sin derecho. La terçera llaman
 radores de algu<n>d logar de manera de va<n>dos o en el rreyno por des-
 acuerdo q<ue> ha la gente entre si. La quarta llaman {LAT. plusqua<m> çiuilis}
 Que quiere dezir tanto como guerra en que combaten non tan}
-[fol. 27v]
+[fol. 28v]
 {CB1.
 solamente los çibdadanos de algu<n>d logar. Mas aun los parie<n>te<<s>>
 vnos con otros por rrazo<n> de va<n>do. Asi como fue entre çesar & po<n>-
@@ -1931,7 +1933,7 @@ la segunda manera de guerra. De que agora queremos fablar es
 de aq<ue>lla q<ue> deuen fazer contra los enemigos q<ue> son fuera del rreyno
 q<ue> les quieren tomar por fuerça su t<ie>rra. o a<n>pararles la q<ue> con dere-
 cho la deue<n> auer. E desta q<ue>remos mostrar en qual manera la deue<n>}
-[fol. 28r]
+[fol. 29r]
 {CB1.
 fazer. Segu<n>d dixeron los sabios que lo sopieron naturalmente &
 los otros caualleros q<ue> fuero<n> sabidores della por obra & por vso
@@ -1967,7 +1969,7 @@ ra cabdillos & mostrar segu<n>d dixeron los antiguo<<s>> por quales rra-
 zones deuen ser fechos estos. Do<n>de dezimos q<ue> por vna destas tre<<s>>
 cosas deuen los om<ne>s ser tomados por cabdillos. La primera por}
 {SG. .D.}
-[fol. 28v]
+[fol. 29v]
 {CB1.
 linaje q<ue> es cosa q<ue> faze ennoblesçer al om<n>e & ser onrrado E tenido
 en caro porque le pueden tomar por cabdillo. Maguer non te<n>ga
@@ -2003,7 +2005,7 @@ sofrir los trauajos & los peligros q<ue> della vienen. Ma<<s>> aunq<ue> lo se-
 pan mostrar a los otros om<ne>s como lo han de fazer. E en que ma-
 nera se deuen acabdillar & vsarlos a ello ante q<ue> el fecho comiençe<n>
 Por que qua<n>do en el fueren sean aperçebidos & sabidores de como}
-[fol. 29r]
+[fol. 30r]
 {CB1.
 han de fazer. E por ende los antiguos ta<n>to ouieron por bien que
 los om<ne>s fuesen acabdillados q<ue> non tan solamente les semejo que
@@ -2041,7 +2043,7 @@ q<ue> aya en si todas estas cosas sobredichas. E si el emperador o el
 rrey. o otro señor cuyo fuere el fecho ouiere en si todas estas cosas
 sobredichas. Seria mejor. E si non tales om<ne>s d<e>uen escoger para}
 {SG. .Dij.}
-[fol. 29v]
+[fol. 30v]
 {CB1.
 esto q<ue> las ayan. E por q<ue> el mesmo se ma<n>de & todos los otros. Ca el
 fecho de guerra q<ue> es todo lleno de peligros & de desauenturas E
@@ -2077,7 +2079,7 @@ o el peligro q<ue> podia acaesçerlos estoruaria de manera q<ue> non po-
 drian fazer algu<n>d buen fecho. E non sacarian otra pro si non que
 fincarian por mal andantes & ganarian pres de medrosos. E por
 ende en aq<ue>lla sazon non deuen al pensar si no<n> enlas cosas que les}
-[fol. 30r]
+[fol. 31r]
 {CB1.
 daran esfuerço para acabar su fecho. Por que pueda<n> ganar onrra
 E prez.
@@ -2114,7 +2116,7 @@ q<ue> toda via el arte & la sabiduria del vençer en su poderio lo ayan
 non la den a los otros. E deue otrosi madar q<ue> los suyos non fable<n>
 si non qua<n>do gelo mandare. E esto por dos cosas. La vna por q<ue>}
 {SG. D .iij.}
-[fol. 30v]
+[fol. 31v]
 {CB1.
 el rruydo delas muchas palabras faze q<ue> los om<ne>s. Non se entie<n>da<n>
 vnos a otros. E la otra por q<ue> los q<ue> ha<n> mucha verba non puede<n> ta<n>-
@@ -2149,7 +2151,7 @@ uiene en todas guisas q<ue> ayan en si estas dos cosas. E por q<ue> sea<n> ap<er
 vale nada.
 {RUB. Que los grandes om<ne>s & los caualleros deuen traer enlas
 huestes Señales conosçidas E por quales rrazones}}
-[fol. 31r]
+[fol. 32r]
 {CB1.
 {IN2.} Acabdillamiento segu<n>d dixeron los antiguos. Es la prime-
 ra cosa q<ue> los om<ne>s deuen saber en fecho de guerra Ca su es-
@@ -2186,7 +2188,7 @@ como se demuestra enlas leyes que fablan en esta rrazon.
 grandes om<ne>s en sus fechos mayormente enlos de guerra
 Por q<ue> es fecho de gra<n>d peligro en q<ue> conuiene q<ue> ayan los om<ne>s ma-yor}
 {SG. D .iiij.}
-[fol. 31v]
+[fol. 32v]
 {CB1.
 acabdillamiento asi de suso d<e>ximos. Ca non tan solamente se
 han de acabdillar por palabra & por mandamiento delos cabdi-
@@ -2222,7 +2224,7 @@ vno. E pe<n>dones posaderos eran llamados aq<ue>llos q<ue> son anchos
 contra el asta & agudos fazia los cabos & llamaua<n>los asi porque
 por ellos se guiasen enlas huestes los q<ue> van tomar posadas. E sa
 be otrosi toda compaña do ha de posar. E tales pendones como}
-[fol. 32r]
+[fol. 33r]
 {CB1.
 aq<ue>stos pueden traerlos maestres delas ordenes dela caualleria
 E aun los come<n>dadores do ellos non fuere<n>. Otrosi los puede<n> tra-
@@ -2258,7 +2260,7 @@ uemos enlas huestes & enlas guerras. Mas con todo esto
 non la deue traer otro ninguno cotidianamente si no<n> emperador
 o rrey por q<ue> son cabdillos de cada dia. E otrosi por onrra delos
 imperios & delos rreynos q<ue> han de mantener & aun por que sean}
-[fol. 32v]
+[fol. 33v]
 {CB1.
 conosçidos por do fueren. Ca por todas estas rrazones puede<n> tra-
 er consigo seña o pendo<n> cada qua<n>do q<ue> caualgaren tan bien en t<ien>po
@@ -2294,7 +2296,7 @@ por q<ue> paresçen mejor en ellas los cauallero<<s>> & muestranse por ma<<s>>
 delos q<ue> son q<ue> es cosa q<ue> fazen a la mala gente tomar mayor espa<n>to
 E vençerse mas ayna. E aun ay otra rrazon porque lo fizieron
 por que si la vna co<n>paña fuese menos que la otra & quisiesen ferir}
-[fol. 33r]
+[fol. 34r]
 {CB1.
 en medio que los pudiesen çeñir enderredor. Lo q<ue> non podrian
 fazer en otra manera si la haz no<n> fuese tendida. E por ende los an-
@@ -2331,7 +2333,7 @@ E si fuesen vençidos q<ue> fallasen cobro & esfuerço alli do el rrey esto-
 uiese por q<ue> pudiesen ellos despues vençer. E a las açitaras pusie-
 ron por q<ue> si acaesçiese q<ue> las hazes se alo<n>gase<n> mucho vnas d<e> otras
 q<ue> non pudiesen los enemigos e<n>trar de trauieso en ellos. E otrosi}
-[fol. 33v]
+[fol. 34v]
 {CB1.
 que por que qua<n>do se ayuntasen pudiesen venir mas ayna los de
 las a las para ferir los enemigos d<e> trauieso a tomarles las espal-
@@ -2367,7 +2369,7 @@ das segund los antiguos dixeron por q<ue> acaesçe muchas ve-
 zes q<ue> alli do son vençidos & desbaratados delos enemigo<<s>> si se no<n>
 saben guardar & esto auiene en muchas maneras asi como qua<n>do
 los dela hueste se parten por muchos caminos. Otrosi pasan por}
-[fol. 34r]
+[fol. 35r]
 {CB1.
 tales logares q<ue> no<n> puede<n> yr en haz nin en tropeles & por fuerça se
 ha de fazer el rrastro lue<n>go E si q<u><<i>>sieren esperar enbarga<n>se de gui-
@@ -2403,7 +2405,7 @@ das estas cosas deuen sauer los cabdillos & ser mucho aperçebidos
 en ellas p<ar>a guardarse del daño q<ue> les podria venir delos enemigo<<s>>
 {RUB. Como deuen ser los cabdillos aperçebidos en acabdillar la
 hueste qua<n>do los enemigos los salteare<n> en algu<n>a partida}}
-[fol. 34v]
+[fol. 35v]
 {CB1.
 {IN2.} Salteando los enemigos en alguna parte dela hueste deuen
 los cabdillos ser muy aperçebidos para no<n> dexar yr alla to-
@@ -2438,7 +2440,7 @@ adalides. E solia auer en otro tie<n>po guiadores. E estos deuen sie<n>-
 pre yr enla delantera con los q<ue> lleuaren la seña o el pe<n>do<n> del rrey
 o del mayor cabdillo dela hueste en pos q<ue> an deyr los otros dela
 hueste. E desque llegare<n> al logar do ha de posar la hueste. Deue}
-[fol. 35r]
+[fol. 36r]
 {CB1.
 aquel que ha de aposentar catar q<ue> si la gente fuere mucha que los
 non faga posar de guisa que ayan gra<n>d angustia & si poca que no<n>
@@ -2474,7 +2476,7 @@ ere auer segund el logar que fuere
 {RUB. Como deue ser aposentada la hueste}
 {IN2.} Apose<n>tadas deue<n> ser las huestes segund la facçion del logar
 luenga o quadrada o rredo<n>da & poner en medio las tie<n>das}
-[fol. 35v]
+[fol. 36v]
 {CB1.
 del señor & las otras delos ofiçiales que le han d<e> seruir end<e>rredor
 dellas q<ue> esten en manera de alcaçar & todas las puertas delas tie<n>-
@@ -2510,7 +2512,7 @@ sus bestias nin les furten sus cosas. Otrosi deuen dar ta<n>tos caua-
 lleros & peones q<ue> la guarden de noche segund entendieren que es
 el poder delos delos enemigos & co<n>uiene al logar donde estouie-
 ren posados. E tan bien estas guardas como las q<ue> pusiere<n> de dia}
-[fol. 36r]
+[fol. 37r]
 {CB1.
 hanlas de compartir E temprar de guisa q<ue> puedan sofrir el tra-
 bajo. & todas estas cosas sobredichas deue<n> las fazer los cabdillo<<s>>
@@ -2547,7 +2549,81 @@ mostrarles lo q<ue> deuen fazer si a ellos viniere<n>. E si fuere poca co<n>pa-
 en ellas por mostrar q<ue> son muchos. E desi mandar los q<ue> fagan to-
 das las otras cosas q<ue> ente<n>dieren por q<ue> los puedan dar conorte E}
 {SG. E}
-[fol. 36v]
+[fol. 37v]
+{CB1.
+esfuerço para vençer. E como quier q<ue> los cabdillos. Deue<n> esto fa-
+zer en todo logar mucho mas le cae en guardar los q<ue> va<n> por estas
+cosas sobre dichas o son gentes menudas. E de poco esfuerço. E
+por q<ue> atales como estos deue<n> los cabdillos mas esforçar q<ue> aotros
+q<ue> segund dixeron los sabios antiguos q<ue> vsaron fecho de armas.
+Tal es la palabra & el esfuerço del buen cabdillo para la su gente
+qua<n>do ha<n> miedo. Como la del fisico al enfermo qua<n>do cuyda mo-
+rir. E eso mesmo deue fazer alos q<ue> van por leña o por yerua o por
+paja. E aun mas conuiene q<ue> faga q<ue> mientra lo cogiere<n q<ue> este<n> arma-
+dos los cauall<er>os q<ue> los guardare<n> & po<n>ga<n> sus atalayas & descubra<n>
+la t<ie>rra & los puedan ap<er>çebir ante q<ue> los enemigos vengan a ellos
+adesora. E aun sin todo esto deue<n> los ma<n>dar q<ue> los om<ne>s fagan e<n> to-
+das sus hazes en vno & los carguen. Otrosi por q<ue> no<n> ve<n>gan derra-
+mados & se faga el rrastro malo de guardar & q<ue> non rresçiba<n> otro-
+si da(n)[ñ]o en veniendo ala hueste q<ue> le seria mayor vergue<n>ça q<ue> de otra
+guisa por q<ue> semejaria q<ue> lo rresçiberian no<n> cata<n>do ninguna cosa co<n>
+sabor de tornarse alas posadas. E por ende los deue el cabdillo
+mas guardar al torrno q<ue> ala yda. Por q<ue> al yr van mas medrosos
+E ala tornada vienen como mas seguros. Onde los q<ue> non se quie-
+ren acabdillar deuen auer tal pena como en esta otra ley deximos
+E si los cabdillos errasen enlo q<ue>[ ]ellos ouiesen de fazer deuen auer
+tal pena como en esta ley mesma dize.
+{RUB. Como deuen ser o como deuen pasar aposentadas
+las huestes qua<n>do çercaren villa o castillo delos.}
+{IN2.} Cercando la hueste villa o castillo sobre q<ue> quiere<n> estar fasta
+q<ue> la tomen. Deue el señor mayor o el otro cabdillo q<ue> fuere
+por el. Fazer tomar las posadas enderredor de aq<ue>l logar q<ue> quisi-
+eren çercar si tanta co<n>paña tiene<n> por q<ue> lo puede<n> bie<n> fazer en saluo
+E si todos non la pudieren çercar deue<n> posar co<n>pañas a<n>te las pu-
+ertas por q<ue> los tuella<n> la entrada & la salida. E si no<n> todos en vno
+en el logar do ente<n>dieren q<ue> mayor daño podran fazer alos de den-
+tro. La çerca no<n> quiere al dezir. Si non cosa q<ue> çerca todo enderre-
+dor & la q<ue> asi no<n> es fecha non la llaman si no<n> albergada. Pero de-
+uen aposentar la hueste en tal logar q<ue> no<n> sean toda via çerca d<e>los}
+[fol. 38r]
+{CB1.
+enemigos p<ar>a apoderarse dellos & fazer les mal. Que no<n> meter la
+primera me<n>te tan de<n>tro q<ue> la aya despues atirar afuera. Ca desto
+les vernia verguença & daño. E luego que asosegada fuere la hues-
+te. Deuen fazer entresi los de de<n>tro carcaua enderredor por q<ue> los
+dela villa no<n> les puedan dar rrebato nin ellos no<n> puedan yr a[ ]con-
+batir los sin ma<n>damie<n>to desus cabdillos. E si la aluergada fuere
+ala vna parte o amas no<n> seyendo la villa çercada. Deue<n> fazer a<n>te
+aq<ue>llas posadas carcabas. entresi & los dela villa. Pero tan bien es-
+tos como los q<ue> toda enrrededor la çercasen. Deuen fazer otra car-
+caua co<n>tra fuera. E esto fallaro<n> los antiguos por q<ue> muchas vega-
+das han acuerdo los de de<n>tro co<n> otros sus amigos de fuera q<ue> los
+ve<n>gan acorrer. E tan bien los vnos como los otros de guisa po-
+drian ferir en la hueste & aun que fuesen menos q<ue> ellos q<ue> si no<n> fue-
+se bien guardada podrian ser ve<n>çidos & maltrechos. Lo qual se-
+ria cosa q<ue> paresçeria muy mal. si el daño q<ue> y viniese q<ue> aq<ue>llos q<ue> tie-
+nen logares de vençedores fuesen ve<n>çidos por su culpa. E aun en
+estas carcauas. Fallaron otros proes q<ue> los enemigos se tiene<n> por
+mas cuytados por ellas pues q<ue> no<n> puede<n> entrar nin salir nin auer
+las cosas q<ue> les es men<e>ster. & los d<e>la hueste esta<n> ma<<s>> en saluo & pue-
+den guardar mejor sus cosas q<ue> no<n> las pierdan nin gelas furten E
+aun sin todo esto qua<n>do los enemigos les diesen rrebato adesora
+q<ue> se podrian armar desu vagar & auer acuerdo para defender se. &
+aun demas desto. viene les grand pro q<ue> quando carcaueados fue-
+ren asi como sobre dicho es. No<n> abran de tener otras guardas. si
+non atalayas de dia & escuchas de noche. E podran mas segura
+mente dormir & folgar & sofrir mejor el trabajo q<ue> ouieren. Ca se-
+gund los sabios mostraron. Maguer el om<n>e gana prez & onrra e<n>
+ve<n>çer sus enemigos & aduzir los alo q<ue> quisieren. Mucho lo alcan-
+ça mayor qua<n>do lo saben fazer de manera q<ue> el sea guardado de da-
+ño E lo fagan aellos. E por ende no<n> tan sola mente mandaua<n> los
+antiguos q<ue> se carcauase. Mas aun si fuese en logar do ouiesen ma-
+dera q<ue> fiziesen palenq<ue>s & la çercasen toda enderredor & cadahal-
+sos en derecho d<e>las salidas dela hueste q<ue> asi fuesen co<n>tra los de de<n>-
+tro como co<n>tra los de fuera. E aun fazian otra cosa en tal q<ue> los de
+fuera fuesen esforçados. E los de dentro mayor espanto touiesen.}
+{SG. .E .ij.}
+[fol. 38v]
 {CB1.
 Que las heredades delos que estauan çercado<<s>> partian a los dela
 hueste & gelas façian labrar auista delos enemigos. E esto fazian
@@ -2583,7 +2659,7 @@ o para entrarles por fuerça. E estos son de muchas maneras. asi
 como castillos de madera & de gatas & boçones & sarços tras que
 se han de parar los vallesteros para tirar en saluo a los de dentro
 E otrosi cauas & carretas cubiertas que fazen para derribar los}
-[fol. 37r]
+[fol. 39r]
 {CB1.
 muros. E sin esto han de traer otras ferramie<n>tas muchas para fa-
 zerles daño asi como picos & açadones & açadas & pala<n>cas de fie-
@@ -2620,7 +2696,7 @@ ria mucho en auerlas. E el otro seria gra<n>d embargo en fazer las
 leuar. E por ende los antiguos q<ue> vsaro<n> mucho las guerras & era<n>
 bien sabidores delas fazer. Cataron todas aq<ue>llas cosas con que}
 {SG. .E .iij}
-[fol. 37v]
+[fol. 39v]
 {CB1.
 mayor daño pudiesen tener a los con que guerreasen & mas ayna
 podian aduzir a lo q<ue> quisiesen & fuesen guardadas. E fazianlas le-
@@ -2656,7 +2732,7 @@ mas daño derribando los muros & las torres. E aun las casas E
 matando los om<ne>s lo q<ue> no<n> podrian fazer enlas villas gra<n>des. Ca
 estas de lieue nu<n>ca se toman. Si no<n> por fambre o por furto o por
 cauas o por feridas de votones co<n>q<ue> derribasen los muros. o por}
-[fol. 38r]
+[fol. 40r]
 {CB1.
 castillos de madera que llegasen a las torres con que las entrasen
 por fuerça. E por co<n>batir las tan afincadamente q<ue> los subiese<n> por
@@ -2693,7 +2769,7 @@ llos dela vna parte nin dela otra q<ue> traxiesen seña caudal E eso mes-
 mo no<n>bre pusiero<n> qua<n>do se ayu<n>tauan rrebatosame<n>te dela vn par-
 te & dela otra. Cauall<er>os armados q<ue> non paran hazes nin tienden}
 {SG. .E .iiij}
-[fol. 38v]
+[fol. 40v]
 {CB1.
 señas. Fazienda llamaron do ay cabdillos de amas partes en que
 faze cada vno su poder tendiendo su seña & parando mie<n>tes & cab-
@@ -2730,7 +2806,7 @@ leza q<ue> se muestra el q<ue> lo faze por no<n> se atreuer a fazer bien con los
 buenos E por no<n> poder sofrir miedo en q<ue> semeja a los malos. Lo
 al por el daño & el mal que podria venir a los dela hueste por el su
 desmandami[*e<n>t]o. E el otro mal q<ue> ende vernia seria la pena q<ue> ellos}
-[fol. 39r]
+[fol. 41r]
 {CB1.
 deuen rresçebir por el yerro q<ue> fazen o los cabdillos por rrazon de-
 llos si no<n> gelo vedasen. Ca segu<n>d los antiguos dixero<n> mayor mie-
@@ -2766,7 +2842,7 @@ ne a los dela caualgada yr de uagar & deuen mas andar de noche
 q<ue> de dia & han de traer tales om<ne>s q<ue> los sepan guiar por logares e<n>-
 cubiertos por q<ue> no<n> sean vistos delos enemigos. E por esta mesma
 rrazon deuen posar en logares baxos & tan bie<n> en yendo como en}
-[fol. 39v]
+[fol. 41v]
 {CB1.
 pasando deuen auer de dia atalayas & descobridore<<s>> & denoche es-
 cuchas & rrondas por q<ue> non sean ad<e>sora desbaratados & todas es-
@@ -2802,7 +2878,7 @@ echar el algara q<ue> serian y todos desbaratados & si non lo fuesen d<e>
 yda serlo yan de torrnada qua<n>do no<n> sopiesen a do se auian de aco-
 ger La segunda cosa es q<ue> caten do echan el algara & la aguisen q<ue>
 mueua de tal logar q<ue> puedan yr tornar los q<ue> la faze<n> ante q<ue> los ca-uallos}
-[fol. 40r]
+[fol. 42r]
 {CB1.
 les cansen Ca de ot<r><<a>> guisa venirles ya e<n>de dos daños. lo v-
 no que no<n> podrian bien rrobar. lo oto q<ue> podrian por ello ser des
@@ -2838,7 +2914,7 @@ te a la çelada. Mas pasar los allende de guisa q<ue> non la vean. Por q<ue>
 puedan entrar entre los enemigos & el logar do salieren p<ar>a fazer
 mayor daño. E los q<ue> yuguiere<n> enla çelada. Deuen y yazer muy ca-
 llados. E tener todauia sus atalayas en logares encubiertos do}
-[fol. 40v]
+[fol. 42v]
 {CB1.
 non pueda<n> ellos ser vistos & puedan ver a los otros quando vinie-
 ren. Onde tan bien enlas çeladas como enlas algaras como e<n> las
@@ -2874,7 +2950,7 @@ q<ue> cosa verdadera por el cabdillo fiziere enla guerra o su mandado
 non guardare aun q<ue> el fecho venga a bien rresçiba pena capital. &
 dexa<n>do las leys la esperiençia nos muestra q<ue> es muy dañosa enla
 guerra la desobedie<n>çia. Ca todos lo oymos & aun algunos ay q<ue>}
-[fol. 41r]
+[fol. 43r]
 {CB1.
 lo vieron quan vniuersal daño vino en algunas guerras pasada<<s>>
 por particulares porfias. E pues las leys diuinales & vmanas en
@@ -2909,7 +2985,7 @@ fazer. E la terçera q<ue> no<n> se den vagar nin tardança a las cosas q<ue> bi
 asi como la mar no<n> es vagarosa en sus fechos. Mas faze lo ayna.
 Asi los q<ue> anda<n> en ella deuen ser acuçiosos & apresurados en lo que
 ouieren de fazer. Por q<ue> qua<n>do t<ien>po ouieren non lo pierda<n>. Mas q<ue>}
-[fol. 41v]
+[fol. 43v]
 {CB1.
 lo metan en su pro La quarta cosa es q<ue> sean muy acabdillados.
 Ca si los dela t<ie>rra lo deuen ser q<ue> pueden yr por sus pies o en bes-
@@ -2944,7 +3020,7 @@ cosas que deximos. enla ley q<ue> fabla de su ofiçio. E por este pode-
 rio q<ue> ha tan grande de su ofiçio. Deue ser mucho escogido el q<ue> qui-
 sieren fazer almira<n>te. Cata<n>do q<ue> aya en si todas estas cosas. Prime-
 rame<n>te q<ue> sea de bue<n> linaje para auer vergue<n>ça desi & q<ue> sea sabidor}
-[fol. 42r]
+[fol. 44r]
 {CB1.
 de fecho dela mar & dela t<ie>rra. Por que sepa lo que le conuiene d<e>
 fazer en cada vna dellas & q<ue> sea de gra<n>d esfuerço. Ca esta es cosa
@@ -2980,7 +3056,7 @@ qua<n>do el mesmo fuese enla flota o quando la fiziese en tal manera
 q<ue> ese dia tor(r)[n]ase al logar o el fuese. Mas estos comitres non deue<n>
 ser puestos si no<n> por el rrey mesmo o su ma<n>dado. E por ende el al-
 mira<n>te non les puede dar pena enlos cuerpos nin en cosa que sea}
-[fol. 42v]
+[fol. 44v]
 {CB1.
 rrayz si el no<n> gelo mandase. Como quier q<ue> los puede prender & fa-
 zerlos emendar del auer mueble. Las cosas q<ue> ouieren a pechar se-
@@ -3016,7 +3092,7 @@ nauios por la mar. E por q<ue> estos so<n> como adalides enla tie-
 rra. Por ende qua<n>do los quisieren rresçebir p<ar>a aquel ofiçio deuen
 los catar q<ue> sean tales q<ue> ayan en si estas quatro cosas. La primera
 q<ue> sean sabidores de conosçer todo fecho dela mar e<n> quales logar<e><<s>>}
-[fol. 43r]
+[fol. 45r]
 {CB1.
 es q<ue> do & en quales corrie<n>te & conoscan los vientos & el ca<n>biamien-
 to delos t<ien>pos & q<ue> sepan toda la otra manera. Otrosi deuen saber
@@ -3053,7 +3129,7 @@ enemigos. E estos ha<n> de ser esforçados & rrezios & ligeros lo ma<<s>>
 q<ue> ser pudiere E qua<n>to mas vsados fueren de lamar. Tanto mas se-
 ra mejor. E sin todos los que auemos dicho. Ha menester otros}
 {SG. .F.}
-[fol. 43v]
+[fol. 45v]
 {CB1.
 marineros. Para seruir la ve la & fazer las otras cosas q<ue> les ma<n>da-
 ren los naocheles. Asi como echar las ancoras & tirarlas & atar
@@ -3069,7 +3145,7 @@ ende pusiero<n> a cada vno su nombre segu<n>d la façion en q<ue> es
 fecho. Ca los mayores q<ue> van ados vie<n>tos. llama<n> los nao<<s>> o carra
 cas. E destas y ha de dos masteles & de vno. & otros menores son
 desta manera & dizen les no<n>bres por q<ue> sea<n> conosçidos asi como ca-
-rracones & bucos & cardas & taças & leños & haloq<ue>s & barcas. E
+rracones & buços & cardas & taças & leños & haloq<ue>s & barcas. E
 en españa no<n> llaman a estos nauios. Si no<n> a aq<ue>llos q<ue> han ve la<<s>> &
 rremos. Ca estos so<n> fechos señaladame<n>te para guerrear co<n> ellos
 E por eso les pusieron vellas & masteles como a los otros para fa-
@@ -3089,7 +3165,7 @@ dizen galeotas. E carditas & saçientas & sarra<n>tes & otros peq<ue>ño<<s>>
 q<ue> han ayr q<ue> son destas façiones para seruiçios delos mayores E
 de que se ayudan a las vegadas los que quiere<n> guerrear a furto. E
 por q<ue> puedan mas encubiertame<n>te mouerlos & ayna de vn logar}
-[fol. 44r]
+[fol. 46r]
 {CB1.
 a otro E por ende estos nauios quien los quisiese auer para fazer
 con ellos guerra deue catar tres cosas. La primera q<ue> quando lo<<s>>
@@ -3126,7 +3202,7 @@ sueltas en esa mesma manera fuero<n> a sacadas las ancoras para fa-
 zer estar q<ue>do el nauio. Onde todas estas cosas deue<n> auer & los cab-
 dillos delos nauios tener bien aparejadas de guisa q<ue> tenga<n> toda}
 {SG. F.ij.}
-[fol. 44v]
+[fol. 46v]
 {CB1.
 via dellas demas q<ue> d<e>menos. Ca la mengua q<ue> por esto auiene e<n> tal
 logar podria acaesçer que todo el fecho se perderia. Por ende por
@@ -3162,7 +3238,7 @@ vinagre deuen otrosi leuar q<ue> es cosa q<ue> les cu<n>ple mucho en sus co-
 meres & para beuer en el agua qua<n>do ouieren gra<n>d sed. E la sidra
 & el vino como quier q<ue> lo aman mucho los om<ne>s son cosas q<ue> enbar-
 gan el seso. Lo que non co<n>uiene en ninguna manera a los que han}
-[fol. 45r]
+[fol. 47r]
 {CB1.
 de guerrear sobre mar. E por ende los antiguos vedaro<n> q<ue> no<n> tra-
 xiesen estos beueres atales enlas guerras tan bien de mar como
@@ -3195,11 +3271,11 @@ despues q<ue> los nauios se açercan vnos a otros & se traua<n> no<n> se pue-
 den desuiar los q<ue> estan en ellos a ninguna parte. Por q<ue> por fuerça
 ha de ser la lid ama<n>tenie<n>te. Con todas las armas q<ue> traxiere<n>. E por
 ende estan en gra<n>d peligro delos enemigos. Ca no<n> ha entre ellos
-si no<n> las manos & las armas conq<ue> se fieren. Otrosi de parte dela-
+si no<n> las manos & las armas conq<ue> se fieren. Otrosi de parte dela
 mar. No<n> han si non vna tabla entre ellos & el agua & el vie<n>to & la
 tempestad son descubiertos de cada parte. E sin todo aquesto el}
 {SG. F .iij.}
-[fol. 45v]
+[fol. 47v]
 {CB1.
 comer & el beuer hanlo todo por medida & muy poco & no<n> las co-
 sas q<ue> q<ue>rrian. mas aq<ue>llas con q<ue> puedan solamente beuir asi como
@@ -3235,7 +3311,7 @@ hueste estaua enlas tie<n>das Pero en muchos del pueblo & aun a la<<s>>
 vezes en algunos delos fijos dalgo acaesçe ser tan tibio el deseo
 dela virtud q<ue> bien se pararian a esta vergue($n)[n]ça. Si neçesidad non
 los apremiase. Por ende los co<n>ponedores delas leys no<n> quisiero<n>}
-[fol. 46r]
+[fol. 48r]
 {CB1.
 oluidar este articulo. Mas ordenaron q<ue> viniesen los naturales a
 seruir al rrey en su hueste poniendo a los q<ue> no<n> lo fiziesen penas. se-
@@ -3271,7 +3347,7 @@ bien. Fazen a las vegadas muy gra<n>des males & muy grandes da-
 ños a los q<ue> mal quieren. E por ende dixo el sabio q<ue> ninguna pesti-
 lençia non es mas fuerte para empeçer a om<n>e q<ue> el enemigo d<e> casa}
 {SG. .F .iiij.}
-[fol. 46v]
+[fol. 48v]
 {CB1.
 por q<ue> el sabe de todo su fecho & puede estoruar mas de ligero. E
 los otros enemigos de fuera son aq<ue>llos q<ue> han guerra con el rrey
@@ -3307,7 +3383,7 @@ nir o se fuesen della sin mandado por q<ue> semeja q<ue> les non pesa de tal
 fecho deuen auer esa mesma pena. Ca derecho conosçido es q<ue> los
 fazedores del mal & los co<n>sentidores ygualmente sean penados.
 Pero no<n> caerian en ella. Los que non pudiesen venir mostrando}
-[fol. 47r]
+[fol. 49r]
 {CB1.
 escusa derecha. Asi como aq<ue>llos q<ue> fuesen menores de hedad de ca-
 torze años & mayor de sesenta o enfermos o feridos. De manera
@@ -3343,7 +3419,7 @@ esto guardaren. guardara<n> a si mesmos & la t<ie>rra do<n>de son. Mas a la
 primera q<ue> es qua<n>do entra enla t<ie>rra para fazer daño de pasada.
 Por q<ue> es mas rrebatosa q<ue> las otras deue<n> luego acorrer todos los
 q<ue> lo sopieren para defender gela & pugnar de echarlos della. E}
-[fol. 47v]
+[fol. 49v]
 {CB1.
 mayormente aq<ue>llos q<ue> fueren mas çerca. Ca pues el fecho los lla-
 ma non han menester otros mandaderos nin cartas q<ue> los llamen
@@ -3379,7 +3455,7 @@ por bien que todos fuesen tenudos de venir maguer no<n> fuesen lla-
 mados. Tan bien como si llamados fuesen. E esto es por que el fe-
 cho dela naturaleza q<ue> han con la t<ie>rra los llama. Otrosi el señorio
 del rreyno a quien son tenudos de guardar. Ca de otra manera no<n>}
-[fol. 48r]
+[fol. 50r]
 {CB1.
 podria el rrey ser bien guardado. Onde los que atal hueste como
 esta non quisiese<n> venir non auiendo escusa derecha como sobredi-
@@ -3415,7 +3491,7 @@ en como los otros q<ue> fincasen co<n> el. E podria por ende todo venir
 a peligro & a p<er>dimiento. E por q<ue> la perdida seria comun a todos
 como deximos de suso. Por ende non se deue ninguno escusar des-
 ta hueste. Ca el que lo fiziese faria trayçion al rrey E al rreyno &}
-[fol. 48v]
+[fol. 50v]
 {CB1.
 denostaria su linaje para sie<n>pre por q<ue> d<e>ue auer tal pena en el cuer-
 po & en lo q<ue> ouiere. Como aq<ue>l q<ue> dexa a su señor caer en peligro de
@@ -3451,7 +3527,7 @@ gund los fechos acaesçiesen. Mas touieron por bien q<ue> aq<ue>llos q<ue> el
 rrey llamase & pusiese plazo señalado para venir E non viniesen
 podiendolo fazer & non auiendo escusa derecha asi como dize en
 estas leyes q<ue> perdiesen bie<n> fecho d<e>l rrey por q<ue> le no<n> quisiero<n> seruir}
-[fol. 49r]
+[fol. 51r]
 {CB1.
 & fuesen echados dela t<ie>rra por que la no<n> quisieron onrrar & a los
 otros q<ue> con el entrasen & se viniesen d<e> la hueste pusieron mayor pe-
@@ -3486,7 +3562,7 @@ de auer batalla con sus enemigos dentro enla t<ie>rra dellos.}
 {IN2.} Dentro enla t<ie>rra de sus enemigo<<s>> podria el rrey entrar para
 auer batalla con ellos a dia señalado. E atal hueste como
 esta touieron los antiguos q<ue> viniesen todos los q<ue> lo sopiesen tan}
-[fol. 49v]
+[fol. 51v]
 {CB1.
 bien los q<ue> non fuesen seydo llamados como los q<ue> lo fuesen. Bien
 asi como al leuantamie<n>to del rreyno. E a la otra hueste qua<n>do los
@@ -3523,7 +3599,7 @@ le echasen por ende dela t<ie>rra & perdiese la meytad de lo q<ue> ouiese. &
 los q<ue> se fuesen de tal hueste sin mandado del rrey ante q<ue> se fiziese la
 batalla seyendo nobles om<ne>s deuen ser echados dela t<ie>rra por sien-
 pre & perder la meytad de lo q<ue> ouiesen. E si fuesen otros om<ne>s deue<n>}
-[fol. 50r]
+[fol. 52r]
 {CB1.
 morir por ello E por q<ue> podria acaesçer q<ue> por la su yda dellos. no<n>
 yria a la batalla & fincaria en vergue<n>ça & deso<n>rrado & si fuese alla
@@ -3559,7 +3635,7 @@ que en se defender por armas. Asi como si non ouiese a ser suyo lo
 que ganasen pues que fuese vençido. E como si non ouiesen de ser-
 uir señor. E do estan tales om<ne>s como estos deuemos nos mandar
 por castigo pues que se non quieren amparar de su volu<n>tad para}
-[fol. 50v]
+[fol. 52v]
 {CB1.
 fazer su pro. Onde nos mandamos a todos los pueblos que son
 de n<uest>ro rreyno por esta constituçion q<ue> en el dia estableçido o en el
@@ -3596,7 +3672,7 @@ asi lo deuen judgar o si los mandaren fincar en casa o si los ma<n>da-
 ren yr. Asi que aq<ue>l q<ue> fuere enfermo si por ninguna manera no<n> pu-
 diere yr a la hueste. Segu<n>d el poder q<ue> ha. Que embie de sus cosas
 enla hueste con el rrey. O con el rrico om<n>e q<ue> ha de yr. E qual ora}
-[fol. 51r]
+[fol. 53r]
 {CB1.
 se sintiere q<ue> es mejorado. manteniente por si mesmo. & con todo su
 poder vaya a la hueste. Asi como es ma<n>dado enla ley de suso. & va-
@@ -3632,7 +3708,7 @@ la<n>te q<ue> fue fecha dos años a<n>dados q<ue> nos rreynamos. El rrey ba<n>ba
 {RUB. E lo q<ue> d<e>ue ser guardado si guerras ay en españa o en galizia
 o en fra<n>çia. E los q<ue> lo non guardaren que pena deuen auer.}}
 {SG. .G.}
-[fol. 51v]
+[fol. 53v]
 {CB1.
 {IN2.} La intençion q<ue> nos auemos d<e> la salud del pueblo nos costri-
 ñe. q<ue> asi como fazemos para departir los pl<e>itos q<ue> son e<n>tre
@@ -3669,7 +3745,7 @@ pena mandamos q<ue> ayan los ob<is>pos o los saçerdotes o los diaco-
 nos & los otros cl<er>igos q<ue> non han dignidad. sean penados segund
 mandan penar los ob<is>pos. E a los señores q<ue> menguan la justiçia.
 La ley d<e> suso q<ue> comie<n>ça por las leys antiguas auemos mostrado}
-[fol. 52r]
+[fol. 54r]
 {CB1.
 rrequire ley xx del libro nono & delos otros legos estableçemos q<ue>
 si fuere om<n>e de gra<n>d guisa o de vil pierda la dignidad q<ue> ha & sea si-
@@ -3706,7 +3782,7 @@ todos sean ordenados por tener la t<ie>rra en paz & sosiego & por la
 defender. E esta ley fue dada en el dia de kalendas de nobiembre e<n>
 el segundo año que nos rreynamos. E el rrey bamba.}
 {SG. .G .ij.}
-[fol. 52v]
+[fol. 54v]
 {CB1.
 {RUB. Jtem El rrey don alfonso el sesto en el libro quarto
 del fuero delas leys. Puso todas las leys siguientes}
@@ -3741,7 +3817,7 @@ Deuen yr en el plazo que les pusiere el rrey.}
 {IN2.} Quando el rrey fiziere pregonar sin hueste quier contra mo-
 ros quier contra otros quales quier. El co<n>çejo o los otros
 quales quier q<ue> deuen yr sin soldada a ella. Si non fueren al plazo}
-[fol. 53r]
+[fol. 55r]
 {CB1.
 que les fue mandado asi como deuen pechen la fonsaderia como
 el rrey mandare & esta mesma pena ayan los que fueren sin manda-
@@ -3770,7 +3846,7 @@ uiene fazer a los caualleros enlos actos delas guerras asi por ti-
 erra Como por mar. Pero todo lo suso scripto bien co<n>siderado in-
 duze peligro E trabajo que son dos cosas que rrefuye la natura}
 {SG. .G .iij.}
-[fol. 53v]
+[fol. 55v]
 {CB1.
 humana. Ca del peligro veemos q<ue> non solamente los om<ne>s mas
 aun los animales q<ue> guardan su vida & su cuerpo de lo q<ue> les puede
@@ -3807,7 +3883,7 @@ que dello deuen auer los prinçipes. E esto todo atribuyo sant yso-
 doro espeçialmente al derecho militar. De lo qual algo ay q<ue> p<er>te-
 nesçe al peligro & trabajo & algo a rremuneraçion segund cada co-
 sa de si mesma clarame<n>te demuestra E como d<e> lo primero es a sab<e>r}
-[fol. 54r]
+[fol. 56r]
 {CB1.
 de lo peligroso & trabajoso ayamos oydo en el libro suso scripto.
 Consiguiente cosa es q<ue> oyamos de lo segundo. Por q<ue> en otra man<e>-
@@ -3845,7 +3921,7 @@ eron fablar las leys del rreyno q<ue> dela caualleria tractaron. Dizie<n>
 de como deuen ser gualardonados los q<ue> bien sirue<n> enlas gueras
 E non callando de q<ue> guisa deuen ser escarme<n>tados los q<ue> yerran.}
 {SG. .G .iiij.}
-[fol. 54v]
+[fol. 56v]
 {CB1.
 Por ende todo lo oyamos. E primeramente delos gualardones
 E por q<ue> qual quier emienda & gualardon que a los caualleros E
@@ -3882,7 +3958,7 @@ las personas. & sus meresçimie<n>tos & de todas estas cosas oyamos
 por su orden & despus oyremos como deuen ser castigados los q<ue>
 enla hueste yerran. Ca esta es vna orden de doctrina q<ue> primero
 sea om<n>e atraydo a los actos dela v<<i>><r>tud. E al bie<n> obrar co<n> espera<n>ça}
-[fol. 55r]
+[fol. 57r]
 {CB1.
 de gualardon. E quando por esto non quisiere estonçe sea amena-
 zado co<n> pena. E por quanto entre las otras cosas mucho cunple
@@ -3915,7 +3991,7 @@ rreçiben. E mostraremos q<ue> quiere dezir emienda a q<ue> dizen en espa-
 fazer. E como se deue fazer & quales & en q<ue> t<ien>po & en q<ue> manera.
 {RUB. Que quiere dezir emienda & por que rrazones
 la deuen fazer & en quantas maneras.}}
-[fol. 55v]
+[fol. 57v]
 {CB1.
 {IN2.} Herecha llaman en españa a las emiendas q<ue> los om<ne>s han de
 rreçebir por los daños q<ue> rreçiben enlas guerras. E tomo
@@ -3951,7 +4027,7 @@ otro comprar q<ue> diese por si p<ar>a salir de captiuo. E si fuese ferido d<e>
 manera que non perdiese miembro. Si la ferida fuese enla cabeça
 de guisa q<ue> la no<n> p($u)[u]diese encobrir con los cabellos q<ue> le diesen do-
 ze m<a>r<auedi>s. E por ferida de cabeça de q<ue> le sacasen hueso diez m<a>r<auedi>s. E}
-[fol. 56r]
+[fol. 58r]
 {CB1.
 por otra ferida q<ue> le non sacasen hueso çinco m<a>r<auedi>s. E por ferida de
 cuerpo q<ue> pasase de vna parte a otra diez m<a>r<auedi>s. E por otra ferida
@@ -3987,7 +4063,7 @@ rrazones sobredichas. E los q<ue> asi rreçibiesen muerte. Como q<u><<i>>er
 q<ue> los cuerpos mueran non touieron por bien los antiguos q<ue> mu-
 riese el bien q<ue> fizieran. E por derecho a estos atales. Mas los deue<n>
 llamar pasados q<ue> muertos. ca çierta cosa es q<ue> el q<ue> muere e<n> seruiçio}
-[fol. 56v]
+[fol. 58v]
 {CB1.
 de dios & por la fe enq<ue> pasa desta vida va aparayso. Otrosi el que
 muere por defe<n>dimie<n>to de su t<ie>rra & de su señor natural faze bo<n>dad
@@ -4023,7 +4099,7 @@ dança apreçiando & escriuiendo sus cosas asi como dize en
 la ley ante desta. O si la caualgada quisiese salir en poridad o ta<n> a-
 presuradamente que esto. non pudiesen fazer. Touieron por bien
 los antiguos por non estoruar lo<<s>> fechos dela guerra. Despues q<ue>}
-[fol. 57r]
+[fol. 59r]
 {CB1.
 aguisados estouiesen. Que el cauallero que perdiese el cauallo o
 otra bestia de silla despues q<ue> saliesen enla caualgada por qual q<u><<i>>er
@@ -4058,7 +4134,7 @@ que viniere si non ouiere alguna ganada q<ue> le den en q<ue> venga.
 {RUB. Titulo segundo dela parte que los om<ne>s deuen
 auer de lo q<ue> ganaren en tiempo de guerra.}
 {RUB. Jntroduçion}}
-[fol. 57v]
+[fol. 59v]
 {CB1.
 {IN2.} Muy rrazonable cosa es que ayan parte delas ganançias los
 que han parte del peligro. Ca segund doctrina del apostol
@@ -4093,7 +4169,7 @@ partida en el titulo veynte & seys.
 {IN2.} Ganançia es cosa q<ue> naturalmente cobdiçia<n> fazer todos los
 om<ne>s & mucho mas los q<ue> guerrean. Lo vno por la costa q<ue>
 faze<n> lo otro porque se auentura<n> a gra<n>des peligros por ello. Onde}
-[fol. 58r]
+[fol. 60r]
 {CB1.
 pues q<ue> en el titulo ante deste auemos fablado delas emiendas que
 los om<ne>s deuen fazer & auer por los daños q<ue> enla guerra rreçiben
@@ -4129,7 +4205,7 @@ llos fizieron rreçibieron los que fincaron onrra & pro. E por e<n>de
 touieron por bien que los ho<n>rrasen espera<n>do & los q<ue> de otra gui-
 sa rrobasen o tomasen o partiesen alguna cosa quanto quier q<ue> fue-
 se ante q<ue> estos sobredichos q<ue> fueron en el alcançe torrnasen deuen}
-[fol. 58v]
+[fol. 60v]
 {CB1.
 auer tal pena como adelante se muestra. Pero si aq<ue>llos q<ue> deximos
 q<ue> siguiesen los enemigos rreçibiesen algund desbarato por vileza
@@ -4165,7 +4241,7 @@ aun los cuerpos & lo q<ue> han. La terçera por que algunas vegada<<s>>
 aquellos que van siguiendo los enemigos pierden la ganançia q<ue>
 podrian auer por el yerro que los otros faze<n> que se fincan furtan-
 do. E esto era cosa muy sin rrazon que los buenos se p<er>diese<n> por lo<<s>>}
-[fol. 59r]
+[fol. 61r]
 {CB1.
 malos. E de mas que podria acaesçer q<ue> por aq<ue>l rrobo serian ello<<s>>
 ve<n>çidos & pobres. E el rrey o otro señor q<ue> y ouiese<n> seria y muerto
@@ -4202,7 +4278,7 @@ podria ser heredado. E ellos otrosi pierden el bien que podrian
 auer. E por todas estas rrazones. No<n> se deue ninguno parar a ro-
 bar. Fasta q<ue> todos sean bie<n> apoderados de todas las fortalezas}
 {SG. H.}
-[fol. 59v]
+[fol. 61v]
 {CB1.
 Otrosi mandaron q<ue> aq<ue>llos q<ue> entra<n> en el nauio sobre mar q<ue> non se
 parasen a rrobar ninguna cosa. Fasta q<ue> todo el nauio ouiesen ga-
@@ -4238,7 +4314,7 @@ que los om<ne>s diesen al rrey con derecho su parte de lo q<ue> ga-
 nasen enlas guerras. E por ende establesçiero<n> q<ue> le diesen el quinto
 de lo q<ue> ganase<n> por çinco rrazones. La primera por rreconosçimi-
 ento de señorio q<ue> es mayor sobre ellos. E son co<n> el como vna cosa}
-[fol. 60r]
+[fol. 62r]
 {CB1.
 el por cabeça & ellos por cuerpo. La segunda por deudo natural
 q<ue> han con el. La terçera por gradesçimiento del bien fecho q<ue> del
@@ -4275,7 +4351,7 @@ todo preso que sacasen d<e>l almoneda por mill marauedis o de<n>de a
 rria que lo ouiese el rrey dando por el çient m<a>r<auedi>s. E aun otro qual-
 quier maguer non valiese tanto podie<n>do el rrey auer por el villa}
 {SG. .H .ij}
-[fol. 60v]
+[fol. 62v]
 {CB1.
 o castillo o otra fortaleza. O rreçebir tal seruiçio por el que acabe
 su fecho. E esto deue ser dando por el aq<ue>llo q<ue> valiese. E esto sobre
@@ -4311,7 +4387,7 @@ cosas mayores que p<er>tenesçen al rrey por rrazo<n> de onrra. asi como
 ya deximos. Si no<n> gelo leuasen luego q<ue> lo ouiesen tomado o non
 lo diese<n> al om<n>e q<ue> estouiese en su logar para rrecabdar por el aq<ue>sta<<s>>
 cosas. Deue<n> auer tal pena. Como aq<ue>llos q<ue> no<n> conosçe<n> los d<e>recho<<s>>}
-[fol. 61r]
+[fol. 63r]
 {CB1.
 q<ue> deue<n> fazer. Nin entie<n>den las rrazones porque conuiene q<ue> las
 fagan nin saben la manera en que le deuen guardar. E por ende la
@@ -4348,7 +4424,7 @@ rrazo<n> de su conq<u><<i>>sta. o se acogiese a alguno de sus logares E de su
 señorio con la ganançia que fiziese. Ca por qual quier destas rra-
 zones. es tenudo de dar al rrey su quinto. de todas las cosas ma-yores}
 {SG. .H .iij}
-[fol. 61v]
+[fol. 63v]
 {CB1.
 que dichas son que deue auer por onrra. E aun dixero<n> mas
 los antiguos sobre esta rrazon. que si aquel que venç(e)i[e]se o acaua-
@@ -4384,7 +4460,7 @@ tado. Ca en este logar tanto muestra como si el rrey mesmo dixese
 todas las cosas muebles q<ue> cada vno y ganase q<ue> fuesen suyas qui-
 tamente. E esta palabra non la puede otro dezir si no<n> el rrey me<<s>>-
 mo por su boca o por su carta en que lo mandase o si dixiese a otro}
-[fol. 62r]
+[fol. 64r]
 {CB1.
 q<ue> la pudiese d<e>zir por el. E aun sin todas estas cosas q<ue> dichas aue-
 mo<<s>> puede<n> lo<<s>> om<ne>s fazer otra gana<n>çia d<e> q<ue> no<n> deue<n> dar d<e>recho al
@@ -4419,7 +4495,7 @@ fecho.
 {RUB. Como los atalayadores & las escuchas deuen fazer su
 offiçio & auer todo lo que ganaren faziendo su offiçio.}}
 {SG. .Hiiij}
-[fol. 62v]
+[fol. 64v]
 {CB1.
 {IN2.} Atalayadores son llamados aquellos om<ne>s q<ue> son puestos pa-
 ra guardar las huestes de dia viendo los enemigos de lue-
@@ -4455,7 +4531,7 @@ conuiene mucho a los q<ue> son en guerra. E otros ay que van tomar
 lengua. E esto es quando los om<ne>s quieren yr en hueste o en caual-
 gada & non saben fecho delos enemigos çiertamente. E embian
 algunos om<ne>s q<ue> tomen om<n>e o muger. El primero que fallare<n> por}
-[fol. 63r]
+[fol. 65r]
 {CB1.
 que puedan auer sabiduria dellos. E como quier q<ue> tan bie<n> los ba-
 rruntes q<ue> deximos como estos es su offiçio de dar sabiduria a los
@@ -4491,7 +4567,7 @@ nin se quexen por las muchas rrazones. E de muchas guisas q<u><<a>>les
 diran los om<ne>s desmesuradamente. E por esto son llamados q<u><<a>>dri-
 lleros por q<ue> cada vno dellos ha de saber las erechas q<ue> caen enlos
 de su quarto segund aquella parte que han de auer de lo que fuere}
-[fol. 63v]
+[fol. 65v]
 {CB1.
 Por ende han de tomar la jura dellos luego q<ue> los ouieren escogi-
 dos q<ue> estas cosas sobredichas fagan bien & lealmente. E por que
@@ -4526,7 +4602,7 @@ q<ue> non rroben el campo fasta q<ue> torne el alcançe asi como di-
 ze enla ley q<ue> fabla dela batalla que el rrey vençe. E el que de otra
 guisa lo fiziese deue auer tal pena como ay dize. Mas despues q<ue>
 ouieren ve<n>çido los enemigos todo lo q<ue> ganare<n> deue ser ayuntado}
-[fol. 64r]
+[fol. 66r]
 {CB1.
 por las rrazones que en estas leys son dichas. E si el caudillo que
 ouieren fuere señor por naturaleza de linaje o por heredamiento
@@ -4562,7 +4638,7 @@ los enemigos. Deuen auer toda la ganançia q<ue> los otros desanpa-
 raron en el campo. quando fueron ve<n>çidos. E non son tenudos de
 les dar dello parte por rrazon dela primera ganançia q<ue> fizieron.
 E esto es por q<ue> ellos lo ganaron de nueuo & los otros lo auia<n> per-dido}
-[fol. 64v]
+[fol. 66v]
 {CB1.
 fueras ende si aq<ue>llos q<ue> los ve<n>çieron la primera vez torrnase<n>
 en ayuda delos otros que los vençieron. la segunda. Ca entonçe d<e>-
@@ -4598,7 +4674,7 @@ q<ue> auenturan a peligro sus cuerpos de muerte por fazer bo<n>dad ye<n>-
 do solos o con pocos mas q<ue> los otros q<ue> van en esfuerço de gra<n>des
 compañas. E por ende non han adar parte a otro nin quinto al
 rrey nin otro derecho. Fueras ende aq<ue>llas cosas señaladas q<ue> dize}
-[fol. 65r]
+[fol. 67r]
 {CB1.
 enla ley q<ue> fabla en esta rrazon. Eso mesmo seria de lo que fuese ga-
 nado en espolonada si non se acaesçiese q<ue> por ella fuese tomada la
@@ -4634,7 +4710,7 @@ contra esto fiziesen deuen auer tal pena como deximos de suso de
 los q<ue> se paran arrobar el campo. E despues desto la primera co-
 sa q<ue> deuen fazer es dar al rrey aquel logar q<ue> ganaron sise açertare
 y apoderandole de todas las fortalezas. E si no<n> al caudillo que y}
-[fol. 65v]
+[fol. 67v]
 {CB1.
 fuese en su logar. Mas si por ventura non se açertase y & el nin otro
 caudillo por su mandado. Mas si algunos por si se llegasen auen-
@@ -4671,7 +4747,7 @@ ra si para ayuda delas expensas que ouiese fechas. E si ouiesen a sa-
 lir con los cuerpos & dexarles el auer. Deue ser partido lo q<ue> y falla-
 ren e<n> esta guisa. Que aya el rrey la meytad & toda la hueste la otra
 meytad. Mas si pleytesia fuese puesta q<ue> saliesen con los cuerpos &}
-[fol. 66r]
+[fol. 68r]
 {CB1.
 con los aueres esto deue ser guardado firmemente en todas gui-
 sas enla manera q<ue> fuese fecho & qual quier que lo quebra<n>tase si fue-
@@ -4706,7 +4782,7 @@ lada sobre alguna villa o castillo q<u><<i>>er sea vna co<n>paña q<u><<i>>er do
 {IN2.} Estoruo gra<n>de viene a los om<ne>s en lo q<ue> quiere<n> fazer qua<n>do co<n>-
 tienden ellos vnos co<n> otros señaladame<n>te sobre vna cosa
 E como quier q<ue> en todo tie<n>po desto viene mucho daño. Mucho}
-[fol. 66v]
+[fol. 68v]
 {CB1.
 mayor es qua<n>do los om<ne>s son en guerra. E por ende los antiguos
 por que touiero<n> que era vna delas cosas que mas valian enla gue-
@@ -4743,7 +4819,7 @@ las leys de suso. E lo al partirlo entre si. E esto por que no<n> perdie-
 sen su gana<n>çia por rrazo<n> d<e> no<n> poder tornar al log<a>r do<n>de mouiero<n>
 {RUB. Como deuen fazer quando dos compañas
 yoguiese<n> en çelada & sopiere<n> la vna dela otra}}
-[fol. 67r]
+[fol. 69r]
 {CB1.
 {IN2.} Iaziendo dos co<n>pañas enla çelada q<ue> se viesen o ouiesen sabi-
 duria de si & fuese la v($n)[n]a mayor que la otra & les embiasen
@@ -4780,7 +4856,7 @@ xar entrar. E la q<ue> fincare deue yr buscar do fagan de su pro o espe-
 rar fasta q<ue> salga la primera & desi entrar ellos si quisieren. Mas si
 acaesçiere q<ue> ambas aq<ue>llas compañas fuese<n> sabidores de aq<ue>l fecho}
 {SG. J.}
-[fol. 67v]
+[fol. 69v]
 {CB1.
 en vna sazon. Aq<ue>lla q<ue> ante se guisase & mouiese primero. Esa de-
 ue ante entrar. Fueras ende si lo fiziese maliçiosamente por estor-
@@ -4816,7 +4892,7 @@ to<n>çes los q<ue> gelo van toller deuen mostrar q<ue> con derecha rrazo<n> ge-
 lo quieren tomar. Dando fiadores o peones q<ue> estaran afuero o a
 ma<n>damiento del rrey. E si sobre esto non quisiere<n> aun dexarlo am-
 parando gelo por fuerça con armas. Ento<n>çe sy gelo tolleren & les}
-[fol. 68r]
+[fol. 70r]
 {CB1.
 fizieren daño los que van enpos lo suyo. Non caen por ello en pe-
 na nin en caloña ninguna. Pero quanto quier q<ue> les tomasen ma<<s>>
@@ -4853,7 +4929,7 @@ se sopiese<n> guardar de daño delos enemigos. La segunda que esto-
 uiesen guisados & aperçeuidos para poder gelo fazer. Onde si aq<ue>-
 llos q<ue> el apellido sopiesen bie<n> seguir. E alcançasen los enemigos}
 {SG. J ij}
-[fol. 68v]
+[fol. 70v]
 {CB1.
 & les tomasen lo q<ue> lleuasen. Todo lo q<ue> les al tomasen mas d<e> la pre-
 sa que les ouiesen tomado deue ser suyo & partir lo entre si comu-
@@ -4890,7 +4966,7 @@ E esto seria quando los que alcançasen primero & ante que los o-
 tros. Que llegasen cabo dellos fuesen muertos o presos o desba-
 ratados. E los que viniesen apostremas cobrasen todo el fecho
 & desbaratasen los enemigos}
-[fol. 69r]
+[fol. 71r]
 {CB1.
 {RUB. Como deuen fazer los que fueren en apellido de lo que tolle-
 ren a sus enemigos ante que lo metan en su poder o despues}
@@ -4927,7 +5003,7 @@ esto antiguame<n>te por derecho q<ue> los q<ue> siguiese<n> el apellido tollesen
 a los enemigos los om<ne>s q<ue> lleuase<n> presos de otra ley que non fuese<n>
 ante captiuos q<ue> non ganasen algund derecho a ellos mas que los}
 {SG. .J .iij.}
-[fol. 69v]
+[fol. 71v]
 {CB1.
 torrnasen a aq<ue>l logar donde los auian leuado o los dexase<n> yr qui-
 tame<n>te por do quisiese<n>. E si despues que desta guisa los ouiesen de-
@@ -4963,7 +5039,7 @@ ron los a<n>tiguos que eran sauidores de guerra. Por que asi como
 quando algunos saliesen de villa o de ca(~)stillo o de otra fortaleza
 auian de salir por puertas señaladas para yr e<n> hueste o e<n> caualga-
 da por q<ue> los pudiesen contar para saber quie<n> era cada vno o dond<e>}
-[fol. 70r]
+[fol. 72r]
 {CB1.
 o cuyo & que leuaua que asi los podiesen contar pasando so la la<n>(c)[ç]a
 E esto fizieron por çinco rrazones. la primera por saber quantos
@@ -5000,7 +5076,7 @@ leuar mas co<n>plidamente las cosas q<ue> ouiesen menester p<ar>a guerre-
 ar co<n> los enemigos. E por ende por q<ue> semeje mas fecho de guerra
 pusieron & ombre caualleria a la parte que cada vno copiese dela}
 {SG. J .iiij.}
-[fol. 70v]
+[fol. 72v]
 {CB1.
 ganançia que ouiesen fecho. Ordenaro<n> lo desta guisa q<ue> el que toui-
 ese cauallo & espada & lanca q<ue> ouiese vna caualleria. E por loriga
@@ -5036,7 +5112,7 @@ ladron segund adelante dize.
 que ganaren en guerra sobre mar.}
 {IN2.} Flota o arm<a>da fazie<n>do el rrey para guerrear los enemigos
 sobre mar da<n>do los nauios con todos sus aparejos E las}
-[fol. 71r]
+[fol. 73r]
 {CB1.
 armas & pagando la vianda & las soldadas delos om<ne>s Todo lo q<ue>
 ganaren deue ser del rrey. E non han los que fueren en ella parte.
@@ -5073,7 +5149,7 @@ co<n>tra el señor es otrosi manera de aleue. E por ende el que lo fizi-
 ere deue auer gra<n>d pena segu<n>d el fecho tal como este. E los que ne-
 garen sus derechos o gelos encubrieren han de auer otrosi pena
 como dize enlas leys que fablan delas ganançias que se faze<n> enla}
-[fol. 71v]
+[fol. 73v]
 {CB1.
 guerra que es fecha por t<ie>rra.
 {RUB. Como deuen partir entre si lo que gana-
@@ -5109,7 +5185,7 @@ fazer la emienda delos daños q<ue> rreçibiesen & delas armas q<ue> ouie-
 sen perdido si non segu<n>d la postura q<ue> ouiesen puesto entre si o con
 aquellos que los embiasen en ella. Mas si la ganançia que ouiese<n>
 a fazer la otorgase el rrey ante que fuese rreal. E por el fecho dela}
-[fol. 72r]
+[fol. 74r]
 {CB1.
 mar es mas peligroso que el dela t<ie>rra & si parasen a rrobar podri-
 an caer e<n> peligro por q<ue> podria<n> perderse todos. Por ende tenemo<<s>>
@@ -5145,7 +5221,7 @@ uado en su saluo & gelo tollesen despues los otros por fuerça Ca e<n>-
 tonçe deue ser suyo si non fuere<n> asoldadados & partirlo entre si en
 la manera q<ue> deximos. De lo q<ue> ganan los que siguen los apellidos
 por t<ie>rra. Mas si asoldadados estouiesen deue todo ser del señor d<e>}
-[fol. 72v]
+[fol. 74v]
 {CB1.
 quien la soldada tomasen. Otrosi dezimos que desta manera se de-
 ue fazer de lo que les tollesen dema<<s>> dela presa que ouiesen leuado
@@ -5181,7 +5257,7 @@ guos q<ue> fuese fecho desta manera. E esto es lo q<ue> fagan co<n>çejerame<n>-
 te. En logar q<ue> pueden los om<ne>s veer las cosas & llegar a ellas & au<n>
 tañer las si quisieren. E apreçiar a cada vna quanto le semejare E
 pujarlas como se atreuieren. E el rrecabdo q<ue> y deue<n> auer para ser}
-[fol. 73r]
+[fol. 75r]
 {CB1.
 esto bien guardado. Es q<ue> sean y los quadrilleros quando esto fi-
 eren & que tomen fiadores de aq<ue>llos que alguna cosa sacaren d<e>llo
@@ -5218,7 +5294,7 @@ cabdar como a los otros que lo ouiesen de auer. E si alguno de<<s>>d<e>-
 ñosamente se touiese por desonrrado por la pre<n>da que le fiziese<n> q<ue>
 el auia mereçido por su culpa. La pena q<ue> dieron los antiguos ata-
 les como estos es que deuen pechar mas desto que deximos q<ue> no<n>}
-[fol. 73v]
+[fol. 75v]
 {CB1.
 ouiesen parte dela ganançia que fiziesen. E por ende los empera-
 dores E los rreys al t<ien>po antiguo ellos mismos sacauan algunas
@@ -5253,7 +5329,7 @@ por ello.
 {IN2.} Fieldad grande deue<n> auer los scriuanos q<ue> ouieren de scribir
 las cosas del almoneda. E por ende deuen auer en si estas
 dos cosas. La vna que sean leales por guardar comunmente de}
-[fol. 74r]
+[fol. 76r]
 {CB1.
 engaño & de p<er>dida atodos los dela caualgada E otrosi a los con-
 pradores non scriuiendo por miedo nin por amor nin por mal( )que-
@@ -5287,7 +5363,7 @@ de fortaleza. Ca como quier q<ue> la fortaleza verdad<e>ra segu<n>d es vir-
 tud moral non se exerçita por esperança de gualardo<n> mas por co<n>-
 templaçion del verdad<e>ro bien. Pero la fortaleza que se llama po-
 lica que es aq<ue>lla q<ue> faze sus actos por deseo de fama o por temor}
-[fol. 74v]
+[fol. 76v]
 {CB1.
 de desonrra. De la qual oy por la mayor parte vsan los cauallero<<s>>
 q<ue> son auidos por buenos & fuertes mucho se animan quando los
@@ -5321,7 +5397,7 @@ dillo dela hueste a los q<ue> lo meresçen o a sus fijos si sus padres non
 fueren biuos. E deue ser tal el gualardon & dado en el tiempo que
 se pueda aprouechar del aquel aquien lo dieren.
 {RUB. Que pro nasçe del gualardon.}}
-[fol. 75r]
+[fol. 77r]
 {CB1.
 {IN2.} Departieron los sabios q<ue> la natura es virtud q<ue> esta ençerra-
 da enlas cosas E faze a cada vna obrar asi como conuiene
@@ -5359,7 +5435,7 @@ guerras E por ende antiguamente los noble<<s>> om<ne>s de españa que
 sopieron mucho de guerra como biuieron siempre en ella posiero<n>
 señalado<<s>> gualardo<n>es a lo<<s>> q<ue> bie<n> fiziere<n> asi como ad<e>la<n>te se muestra}
 {SG. .K.}
-[fol. 75v]
+[fol. 77v]
 {CB1.
 {RUB. Quantas maneras son de gualardon.}
 {IN2.} Los gualardones que meresçenlos q<ue> son bien acaudillados &
@@ -5394,7 +5470,7 @@ gos en que lo ayudase con sus manos & a uençer & a o<n>rrarse dello<<s>>
 asi como derriba<n>do la seña del caudillo dela otra parte por q<ue> los
 que con el fuesen ouiesen de ser vençedores. Deuele doblar el bien
 que ante le fazia E si esto non fiziese auie<n>do poder de lo fazer deue-lo}
-[fol. 76r]
+[fol. 78r]
 {CB1.
 toller el señor todo el bien fecho q<ue> del ouiere & quitarlo desi de-
 sonrradamente. Por que el mostro que non auia sabor de onrrar
@@ -5431,7 +5507,7 @@ guno le muere el cauallo o otra bestia andando en guerra en serui-
 mas por ocasion o por enfermedad q<ue> le auiniese. Ca tal como este
 segund fuero antiguo de españa. Deue gelo pechar tan bueno o}
 {SG. .Kij}
-[fol. 76v]
+[fol. 78v]
 {CB1.
 mejor. Mas si gelo matasen en fecho de armas ayuda<n>do a ho<n>rrar
 a su señor & vençer sus enemigos. Deuele pechar aquel cuyo vasa-
@@ -5468,7 +5544,7 @@ las cosas q<ue> son seruidas & mereçidas & non son pagadas nin gua-
 lardonadas segund deue ser por mereçimie<n>to. o por postura. E co-
 mo quier q<ue> tales gualardo<n>es deue<n> fazer los señores a sus vasallos
 Pero esto non se entie<n>de si non de aq<ue>llos q<ue> han de q<ue> gelo complir.}
-[fol. 77r]
+[fol. 79r]
 {CB1.
 Mas por eso non fincan los otros escusados de non fazerlo mas
 q<ue> pudiese<n> e<n> gualardonar estos seruiçios sobredichos. Mas la de-
@@ -5505,7 +5581,7 @@ plidame<n>te su amor. E segund esto deximos del q<ue> alçase su seña si
 los enemigos la ouiese<n> abaxado o tomase por fuerça al q<ue> la touie-
 se tollido al alferez de su señor el rrey. Ca atal como este puede lo}
 {SG. .K.iij}
-[fol. 77v]
+[fol. 79v]
 {CB1.
 el por derecho alçar entre los otros de su linaje en bie<n> & onrra por
 este fecho señaladamente. Ca los sabios antiguos q<ue> todas las co-
@@ -5542,7 +5618,7 @@ sen mas delos q<ue> despues fiziesen. Seyendo ellos de tan mala ve<n>tu-
 ra q<ue> fuesen biuos. Ca los derechos q<ue> fablaron los antiguos de es-
 paña en todas las cosas alli do posieron pena a los fijos por rra-
 zo<n> del padre siempre guardaro<n> esto. Que no<n> ouiesen pena los que}
-[fol. 78r]
+[fol. 80r]
 {CB1.
 ante auian q<ue> el fecho malo fiziesen. Fueras ende si fueron con el
 aparçeros en el yerro. Ea los otros q<ue> metieron enla pena fue por
@@ -5577,7 +5653,7 @@ si que ouiesen todo lo q<ue> ellos ouiesen & pudiesen rrobar por si mes-
 mos que no<n> fuesen cosas que señaladame<n>te p<er>tenesçiesen al rrey. pe-
 ro quando alguna destas cosas ganasen deue les el rrey dar algo}
 {SG. .K.iiij.}
-[fol. 78v]
+[fol. 80v]
 {CB1.
 por ellas. no<n> por rrazo<n> d<e> compra. Mas por gualardon d<e>l seruiçio
 que dellos rreçibio. Mas si algunos destos que de suso deximos
@@ -5613,7 +5689,7 @@ Asi como a los otros q<ue> deximos enla ley ante desta q<ue> lo fazen pala-
 diname<n>te & auista de todo<<s>>. Mas por el grand peligro a que se me-
 ten aue<n>turandose a todas estas cosas q<ue> deximos. Posiero<n> q<ue> ouiese<n>
 el gualardon en todo lo al q<ue> los otros que ganan por fuerça las}
-[fol. 79r]
+[fol. 81r]
 {CB1.
 fortalezas segund dize enla ley ante desta.
 {RUB. Que gualardon deuen auer los que entran
@@ -5648,7 +5724,7 @@ tal gualardon como dize enlas otras leys que auemos dicho que
 fablan en estas rrazones.
 {RUB. En que manera deuen gualardonar por alue-
 drio los buenos fechos que los om<ne>s fiziere<n>.}}
-[fol. 79v]
+[fol. 81v]
 {CB1.
 {IN2.} Aluedrio quiere dezir como asmamiento que deuen los om<ne><<s>>
 fazer sobre las cosas que son dubdosas & non çiertas por
@@ -5683,7 +5759,7 @@ E pues esto non fue oluidado por las leys delas partidas oyr se
 deue co<n> diligençia. Lo q<ue> a este proposito ordeno el rrey do<n> alfo<n>so
 el deçimo enla segunda partida en el titulo viçesimo octauo enla<<s>>
 leys siguientes.}
-[fol. 80r]
+[fol. 82r]
 {CB1.
 {RUB. Leys}
 {RUB. Grand escarmie<n>to se deue fazer enlos yerros q<ue> faze<n> e<n> las guerras}
@@ -5718,7 +5794,7 @@ los enemigos delos suyo<<s>>. La segunda si se fuesen p<ar>a ellos. La ter-
 se quisiesen acaudillar. La quinta si metiesen desacuerdo enla gen-
 te. La sesta si mouiesen pelea. La setena si se firiesen o se matasen
 vnos con otros o se desonrrasen por palabra o por fecho. La}
-[fol. 80v]
+[fol. 82v]
 {CB1.
 octaua si furtase o tomase por fuerça o por engaño lo que touiese<n>
 vnos a otros. La nona si non guardasen la vianda ola despendi-
@@ -5754,7 +5830,7 @@ fazer otro tal E esa mesma pena touieron por derecho q<ue> ouiesen
 los que fallasen que venian de parte delos enemigos para tomar
 barrunte. E otrosi los q<ue> fuesen sabidores tan bien delos q<ue> fuesen
 de su parte a dar sabiduria Como delos q<ue> viniese<n> dela otra a tom<a>r}
-[fol. 81r]
+[fol. 83r]
 {CB1.
 la q<ue> luego q<ue> lo sopiesen no<n> aperçibiesen dello al rrey o al caudillo
 que fuese y en su logar & los otros que se fuesen para los enemigo<<s>>
@@ -5791,7 +5867,7 @@ contra quien fueron q<ue> non touo por bie<n> la sancta scriptura nin la
 ygl<es>ia que fuese<n> enterrados en sagrada. Ante mando que si los fa-
 llasen y metidos que los sacasen dende sus huesos. E los esparzie-
 sen por los ca<n>pos o los q<ue>masen. E los sus bienes dellos ma<n>daro<n>}
-[fol. 81v]
+[fol. 83v]
 {CB1.
 que fuesen metidos en rrealengo por siempre. Por que asi como
 ellos quisieron d<e>sfazer el rreyno que asi fuese<n> ellos desfechos E el
@@ -5827,7 +5903,7 @@ el cauallo & ferirle el cuerpo. E si moriere o lision le viniere por en-
 de. No<n> ha el caudillo por q<ue> pechar por ello cosa alguna nin ser ene-
 migo de sus parie<n>tes. Pero si acaesçiese q<ue> alguno por cosa que le fa-
 gan non le podiesen vedar que non derramase aun que otro mal}
-[fol. 82r]
+[fol. 84r]
 {CB1.
 non veniese a los suyos por ello solamente por q<ue> se desmando de-
 ue ser preso del rrey o del caudillo & mie<n>tra aquel fecho durare te-
@@ -5863,7 +5939,7 @@ om<ne>s en fecho de guerra des que les fuese prouado que segund el
 mal que ellos querian fazer que tal pena ouiesen asi como quando
 lo fiçiesen con voluntad que aquel fecho non se acauase. Ca ento<n>-
 çe deuen ser presos. E por el aleue que fazen sacarles los ojos. por}
-[fol. 82v]
+[fol. 84v]
 {CB1.
 que nunca vean con ellos lo que cobdiçian ver E aun que esto le<<s>>
 ayan fecho non los deuen dexar ante los deuen tener presos fasta
@@ -5899,7 +5975,7 @@ para siempre. Pero si amor les quisiesen fazer puede los echar d<e>l
 rreyno para toda su vida. Mas si el rrey se açertase do esto acaesçi-
 ese tan crudamente quier q<ue> lo escarme<n>tase puede lo fazer con de-
 recho. E si non se açertase & touiero<n> por bien q<ue> fuese<n> rrecabdados}
-[fol. 83r]
+[fol. 85r]
 {CB1.
 los que esto fiziese<n> q<ue> les diese el rrey la pena por su aluedrio segu<n>d
 q<ue> los om<ne>s fuesen los fazedores del daño & el q<ue> lo rreçibiese & el lo-
@@ -5936,7 +6012,7 @@ da que lo matasen de fambre. E si fuese delos mayores que pecha-
 se por cada vegada el que lo fiziese dos tanto que por otro furto
 que ouiese fecho en tal logar como este. Mas si lo fiziese la segu<n>da}
 {SG. .L.}
-[fol. 83v]
+[fol. 85v]
 {CB1.
 vegada que lo pechase como sobredicho es. E de mas que fuese
 echado dela t<ie>rra E como quier que los antiguos touieron por bi-
@@ -5972,7 +6048,7 @@ de fue puesto q<ue> el q<ue> rrobase o forçase alguna cosa q<ue> torrnase lo qu
 rrobara a su dueño & demas que pechase dos tanto & si fuese delos
 menores que non ouiese de que lo pechar que lo cortasen la mano
 con que fiziera la fuerça o rrobo. E esto por la primera vez. E por}
-[fol. 84r]
+[fol. 86r]
 {CB1.
 la segunda que lo matasen por ello. Mas si fuese d<e> los mayores q<ue>
 pechase dos tanto que los otros & fuese echado dela tierra por la
@@ -6009,7 +6085,7 @@ la osadia que pechase otro tanto al rrey. E que perdiese su parte d<e>
 aquella ganançia. E si aduzir non lo podiese que pechase el doble
 de todo aquesto. E si non ouiese de que lo pechar que fuese metido}
 {SG. L. ij}
-[fol. 84v]
+[fol. 86v]
 {CB1.
 su cuerpo en poder del rrey para escarmentarlo segu<n>d entendiese
 que era derecho catando todas aquellas cosas que por aluedrio
@@ -6046,7 +6122,7 @@ bredicha. E demas q<ue> nunca touiese onrra de caudillo nin de ada-
 lid nin de quadrillero en ningund logar
 {RUB. Como deuen ser escarmentados los que
 comen sus talegas ante de tiempo}}
-[fol. 85r]
+[fol. 87r]
 {CB1.
 {IN2.} Comie<n>do alguno sus talegas ante d<e> t<ien>po o perdie<n>dolas por
 no las saber guardar. Es cosa de q<ue> viene grand daño. No<n>
@@ -6083,7 +6159,7 @@ q<ue> tiene su logar & ha de complir su mandado. E aun por q<ue> lo han
 ellos de obedeçer. E otrosi al adalid en aq<ue>llas cosas q<ue> pertenesçe<n>
 a su ofiçio. Ca en esto guardan al rrey su señorio & su derecho & faze<n>}
 {SG. L. .iij.}
-[fol. 85v]
+[fol. 87v]
 {CB1.
 en ello pro de si mesmos en ayudar a aquellos que han de escarme<n>-
 tar los males que entre ello<<s>> se fiziesen. E por ende los que no<n> qui-
@@ -6118,7 +6194,7 @@ fuere puesta. E si non ouiese pena deuele ser dada por aluedrio d<e>l
 rrey. Catadas todas las cosas que dichas son.
 {RUB. Jtem en el libro judgo en el titulo delos cometedores. & d<e> los
 forçadores faze aproposito desta materia vna ley q<ue> dize asi.}}
-[fol. 86r]
+[fol. 88r]
 {CB1.
 {IN2.} Todo om<n>e que va en hueste si rroba o fuerca alguna cosa lo q<ue>
 forço enterguelo con quatro doblo. E si non ouiere de que
@@ -6155,7 +6231,7 @@ vida su onrra de su dignidad. Trabajandose co<n> enemiga q<ue> sea otro
 rrey. E q<ue> su señor sea desapoderado del rreyno. E la segunda ma-
 nera es. Si alg<u>no se pone co<n> sus enemigos por guerrear & fazer}
 {SG. L.iij.}
-[fol. 86v]
+[fol. 88v]
 {CB1.
 mal al rrey o al rreyno o los ayudar de fecho o de consejo o les em-
 bia carta o mandado por q<ue> los ap<er>çiba de algunas cosas co<n>tra el
@@ -6192,7 +6268,7 @@ ende si lo ouiesen a fazer auiendo sobre si torrnado o sobre sus co-
 sas. La dezena. Si dan algunos por rrehenes al rrey & alguno lo<<s>>
 mata todos o alguno dellos o los faze foyr. La onzena es qua<n>do
 algu<n>d om<n>e es acusado o rreptado sobre fecho de trayçion E otro}
-[fol. 87r]
+[fol. 89r]
 {CB1.
 alguno lo suelta o guisa por que fuya. La dozena es si el rrey to-
 ma el ofiçio a algund adelantado o otro ofiçial delos mayores &
@@ -6228,7 +6304,7 @@ prendiese ole fiziese desonrra faziendo tuerto con la rreyna su mu-
 ger o con su fija del rrey non seyendo ella casada o se trauajase de le
 fazer perder la onrra de su dignidad q<ue> tiene. E otrosi qual quier q<ue>
 fiziere qual quier destos yerros sobredichos al infante heredero}
-[fol. 87v]
+[fol. 89v]
 {CB1.
 Ca era en este mesmo caso. Fuera ende si el quisiere ferir o matar o
 pre<n>der o desonrrar al rrey su padre. Ca ento<n>çe quien quier q<ue> fizie-
@@ -6265,7 +6341,7 @@ de seruiçio o grand daño o mal a la tierra. Otrosi si alguno pobla-
 re por seruiçio del rrey & non gelo fiziere saber fasta treynta dias
 del dia q<ue> lo poblo para fazer del lo que el rrey mandare. E qual q<u><<i>>-
 er que tal fortaleza tomase aun que el non la touiese poblada nin}
-[fol. 88r]
+[fol. 90r]
 {CB1.
 labrada. Mas otro alguno de quie<n> la el ouo. Sea tenudo de venir
 al plazo del rrey & fazer della lo que el rrey mandare. Asi como de
@@ -6300,7 +6376,7 @@ guardar con diligençia a manera de guerra. E asi como es grand
 loor a los fijos dalgo. Defender bien los castillos & acorrer los al
 t<ien>po del menester. Ca muy loado fue diego perez de vargas q<ue> llam<a>-
 ron machuca por el acorro q<ue> fizo al castillo de martos asi es cosa}
-[fol. 88v]
+[fol. 90v]
 {CB1.
 muy fea quando por maldad o couardia o por nigligençia se pier-
 de alguna cosa fuerte. Ca amuy grand mengua fue contado a don
@@ -6336,7 +6412,7 @@ como se deuen dar & enplazar los castillos & aquie<n>. E sobre todo
 diremos delas fortalezas q<ue> dan los rreys en fieldad entre si & d<e> lo<<s>>
 otros castillos q<ue> cobran o ganan los naturales del rrey en su con-
 quista de como se deuen dar segund fuero antiguo de españa E en}
-[fol. 89r]
+[fol. 91r]
 {CB1.
 cada ley deste titulo diremos la pena q<ue> deuen auer los que de otra
 guisa guardasen & diesen o rretouiesen para si o enagenase<n> los cas-
@@ -6372,7 +6448,7 @@ sas q<ue> les fuere<n> menester de guisa q<ue> por culpa dellos non se pierda<n>
 nin venga dellos daño nin mal al rrey nin al rreyno. E non los de-
 uen enagenar en ninguna manera en vida nin en muerte a om<ne><<s>> de
 fuera de su señorio nin a otros de quien podiese venir guerr(r)a nin}
-[fol. 89v]
+[fol. 91v]
 {CB1.
 daño al rreyno. Ante segund fuero antiguo de españa. Si los qui-
 sieren vender o cambiar deuen lo primerame<n>te fazer saber al rrey
@@ -6408,7 +6484,7 @@ que fagan siempre lo mejor. E por ende los españoles que
 todauia vsaron della mas q<ue> otros om<ne>s. Ueyendo el grand peli-
 gro q<ue> podria acaesçer a su señor & a ellos mesmos si las fortalezas
 del rreyno se perdiesen Posieron quatro cosas por q<ue> fuesen mejor}
-[fol. 90r]
+[fol. 92r]
 {CB1.
 guardadas. La primera como rreçibiesen los castillos & por q<u><<i>>en
 La segunda como los guardasen. La terçera de como los defendi-
@@ -6444,7 +6520,7 @@ uen auer los que no<n> fueren rreçebir los al plazo q<ue> les fuere puesto}
 terga delos castillos fuese fecha por mano de portero & no<n>
 por otro ofiçial. Por q<ue> ellos estan siempre a la puerta del rrey & co-
 nosçen mas los om<ne>s q<ue> entran & salen E los otros del rreyno a q<u><<i>>en}
-[fol. 90v]
+[fol. 92v]
 {CB1.
 van muchas vezes con cartas & con ma<n>dados E son ellos otrosi
 mas conosçidos delas gentes. E por q<ue> ellos son tenudos de yr lo<<s>>
@@ -6480,7 +6556,7 @@ den rreçebir sin portero & por que rrazones.}
 {IN2.} Castillos & fortalezas y ha que se puede<n> rreçebir sin portero
 segund el fuero antiguo de españa. E estas son en quatro
 maneras. La primera quando el rrey fuese en co<n>quista o en hueste}
-[fol. 91r]
+[fol. 93r]
 {CB1.
 E le diesen algund castillo tan asoora que non podiesen auer por-
 tero señalado que diese luego para lo rreçebir Ca entonçe qual q<u><<i>>-
@@ -6518,7 +6594,7 @@ culpa podiendo los guardar. Caeria en pena de trayçio<n>. La quar-
 ta manera de castillos es q<ue> se han de rreçebir por ma<n>dado del rrey
 E es de aq<ue>llos que el rrey a alguno por heredad en que lo han de}
 {SG. .M.}
-[fol. 91v]
+[fol. 93v]
 {CB1.
 acoger & de apoderar en tiempos señalados por rreconosçimie<n>to
 de señorio. segund el fuero antiguo de españa. E tales como estos
@@ -6555,7 +6631,7 @@ ventura viniese a<n>te q<ue> el plazo del rriepto pasase. E pidiese merçed
 al rrey q<ue> diese plazo en que se pudiese a consejar para fazerle emie<n>-
 da deue gelo dar de treynta dias tomando del primerame<n>te bue-
 nos fiadores o omenaje o otro rrecado. El mayor que pudiere q<ue>}
-[fol. 92r]
+[fol. 94r]
 {CB1.
 no<n> basteçera el castillo nin fara otra cosa q<ue> se pare el castillo peor
 Pero si el rrey entendiese que el plazo demandaua engañosame<n>te
@@ -6591,7 +6667,7 @@ pues que enla ley ante desta auemos dicho de como los deue<n> rreçe-
 bir & por quien queremos de oy mas dezir de como los deue<n> guar-
 dar. E en que manera & para esta guarda ser fecha co<n>plidame<n>te}
 {SG. .M.ij}
-[fol. 92v]
+[fol. 94v]
 {CB1.
 Deuen y ser catadas çinco cosas. La primera q<ue> sean los alcaydes
 tales om<ne>s como conuiene para guarda del castillo. La segunda
@@ -6627,7 +6703,7 @@ qua<n>do ba fuera a alguna parte & que es lo que deue fazer el E los
 otros que fincan}
 {IN2.} Escusar non puede el alcayde que no<n> vaya algunas vezes d<e>l
 castillo q<ue> tiene a otra parte por cosas q<ue> acaesçen. Pero esto}
-[fol. 93r]
+[fol. 95r]
 {CB1.
 non deue fazer en t<ien>po q<ue> ente<n>diese q<ue> el castillo se podria perder por
 la su yda. Mas qua($n)[n]do d<e>sta guisa que dicha es ouiese de yr. Deue
@@ -6664,7 +6740,7 @@ tenudos de obedesçer al alcayde en todas cosas. En tal rrazon co-
 mo esta non lo deuen fazer. Pues que por ella caerian en pena de
 trayçion.}
 {SG. .Miij.}
-[fol. 93v]
+[fol. 95v]
 {CB1.
 {RUB. En que manera deuen fazer alcayde quando el
 que tiene el castillo muere sin lengua.}
@@ -6699,7 +6775,7 @@ tas & todas las otras cosas q<ue> conuiene a uallesteria. E los om<ne>s d<e>
 armas que y fueren deue catar q<ue> sean om<ne>s conosçidos & rrezios &
 atreuidos para ayudar bien a defender El castillo quando menes-
 ter fuese. E si sopiere q<ue> entre ellos ay alg<u>no q<ue> ouiese fecho trayçio<n>}
-[fol. 94r]
+[fol. 96r]
 {CB1.
 no<n> lo deue y tener o si viniese de om<ne>s q<ue> la ouies fecho. Otrosi las
 velas E las sobre ve las a q<ue> llaman mo<n>tarazas E las rrondas que
@@ -6736,7 +6812,7 @@ beuer. Mas para otras cosas muchas q<ue> non pueden los om<ne>s escu-
 sar. Pues q<ue> por mengua desta podrian mas ayna venir a muerte q<ue>
 por otra cosa. Por ende la deuen mucho guardar q<ue> les no<n> fallezca}
 {SG. M.iiij}
-[fol. 94v]
+[fol. 96v]
 {CB1.
 Ca maguer el agua es muy baldonada & rrefez entre los om<ne>s. no<n>
 es ninguna cosa. Mas cara q<ue> ella quando la non pueden auer. E
@@ -6772,7 +6848,7 @@ las q<ue> y touiere q<ue> non las furten nin las menguen por ninguna ma-
 nera por q<ue> las ayan quando las ouieren menester. Ante deue fa-
 zer grand escarmiento delos q<ue> lo fiziesen. Ca si grand pena deue
 auer El que furta a otro cosa por cuele faze menguar en lo suyo}
-[fol. 95r]
+[fol. 97r]
 {CB1.
 Quanto mas los que van furtar aquello por que fizo a otro men-
 guar en su lealtad & caer en pena de trayçion. E por e<n>de todas las
@@ -6808,7 +6884,7 @@ bien en velar como en sofrir sed & fambre & frio & todo otro traba-
 jo q<ue> y prisiere<n>. Ca pues q<ue> el castillo non deuen dar si non a su señor
 Menester es q<ue> tome<n> esfuerço en si por q<ue> lo puedan fazer & no<n> caya<n>
 por su culpa en pena de trayçion. E por ende muerte nin trabajo q<ue>}
-[fol. 95v]
+[fol. 97v]
 {CB1.
 es pasadero non deue<n> tanto temer como la mala fama q<ue> es cosa q<ue>
 fincaria para siempre a ellos & a su linaje si non fiziesen lo q<ue> deuie-
@@ -6844,7 +6920,7 @@ Ca maguer el esfuerço & el ardime<n>to son muy nobles cosas
 Pero enlas mas cosas ha menester q<ue> sea<n> ayudados por seso & por
 cordura por q<ue> aquello q<ue> los om<ne>s cobdiçian de ser vençedores no<n>
 les torrne a ser ve<n>çidos. E maguer en todos los fechos de guerra}
-[fol. 96r]
+[fol. 98r]
 {CB1.
 es mucho menester esto. señaladamente conuiene a los q<ue> los han a
 defender los castillos delos enemigos. Por q<ue> mas vegadas gelo<<s>>
@@ -6880,7 +6956,7 @@ la. Por ende si el sopiere fazer engenios & otras cosa<<s>> con q<ue> pueda
 defender el castillo q<ue> touiere. Deue usar de su sabiduria. Non ta<n> so-
 lamente en t<ien>po de guerra. Mas esta<n>do aun en paz por q<ue> se pueda
 acorrer della quando fuere menester. E non se ha de tener en caro}
-[fol. 96v]
+[fol. 98v]
 {CB1.
 nin tomar verguença en fazerlo. Ca mucho le seria mayor si el cas-
 tillo se perdiese q<ue> ninguna obra nin lauor q<ue> por sus manos pudie-
@@ -6916,7 +6992,7 @@ t<ien>po de paz. Mas conuiene q<ue> se fagan en t<ien>po de guera. Pero si el se
 ñor non las fiziese por mengua de seso o por otros grandes e<n>bar-
 gos q<ue> ouiese con todo eso aq<ue>llos q<ue> los castillos touieren deue<n> lue-
 go acorrer a labrarlos en aq<ue>llos logares q<ue> ente<n>diere<n> q<ue> es men<e>ster}
-[fol. 97r]
+[fol. 99r]
 {CB1.
 E desto non se deue ninguno escusar por linaje nin por bondad q<ue>
 aya en si q<ue> non ayude a ello en todas las maneras q<ue> podiere. Ca le-
@@ -6951,7 +7027,7 @@ E dexando y al alcayde & todas las otras cosas sobredichas. pe-
 ro si non le acorriese desta manera. E si el castillo se perdiese por
 mengua del non faziendo esto que deximos. Caeria por ende e<n> pe-
 na de trayçion Como quie<n> pierde castillo de su señor por su culpa}
-[fol. 97v]
+[fol. 99v]
 {CB1.
 {RUB. Como los del pueblo deuen acorrer los castillos quan-
 do los enemigos los çercasen o los combatiesen.}
@@ -6986,7 +7062,7 @@ gund lo pusieron antiguamente en españa. E agora q<ue>remo<<s>> mos-
 trar de como estableçieron q<ue> fuesen dados a sus señores. E esto se
 departe otrosi en dos maneras. La primera quando los señores
 los pidiesen. La segu<n>da q<u><<a>>ndo ellos ouiese<n> a darlos por si maguer}
-[fol. 98r]
+[fol. 100r]
 {CB1.
 non gelos pidiesen. Onde de lo primero dezimos q<ue> qua<n>do el rrey
 quisiese demandar su castillo al que lo touiese q<ue> le deue embiar su
@@ -7023,7 +7099,7 @@ dar con el castillo sacadas las q<ue> ouieren despendido en guarda del
 castillo. Ca aq<ue>llas non gelas deue el rrey demandar ante le deue
 pechar & eme<n>dar aq<ue>llo que el y ouiese metido de lo suyo por falta
 de lo q<ue> el rrey le auia adar. Ca asi como el rrey deue auer q<ue>rella del}
-[fol. 98v]
+[fol. 100v]
 {CB1.
 por el mal o daño que le ouiesen fecho en el castillo & fazer gelo pe-
 char & eme<n>dar. Asi le deue gradesçer el bie<n> q<ue> en el ouiere fecho & pe-
@@ -7059,7 +7135,7 @@ E mostrarles las rrazones por q<ue> lo non da E embiar eso mesmo
 al rrey dezir por su carta. E si el rrey sobre esto le embiare otra vez
 su carta en q<ue> gelo manda dar. Deue complir su ma<n>dado en todas
 guisas. Ca dende e<n> adelante q<ue> quier que acaezca del castillo E no<n>}
-[fol. 99r]
+[fol. 101r]
 {CB1.
 le esta m<a>l en darlo Pues q<ue> ha rreçebido portero. E su señor tiene
 por bien en todas guisas que lo de.
@@ -7096,7 +7172,7 @@ castillo. Deue gelo emplazar otra vez. E mostrar ante alguno de
 aq<ue>llos q<ue> ente<n>diere q<ue> son mas de su poridad. Asi como la primera
 vez fizo. E si por todo esto non le quisiese dar quien lo rreçibiese.}
 {SG. .N.}
-[fol. 99v]
+[fol. 101v]
 {CB1.
 Deue gelo dezir la terçera vez por su corte ante los m<a>s om<ne>s & me-
 jores que y fallar pudiere d<e> quien faga testigos. E pedirle merçed
@@ -7132,7 +7208,7 @@ postrimero de todos E çerrar las puertas del castillo co<n> su mano
 ante los om<ne>s que deximos & dar la llaue al rrey si fuere açerca. E e<n>
 logar que lo pueda fazer e<n> saluo. E esto por señal del castillo que
 le ouiera a dar si gelo quisiera auer tomado. E si esto non pudiere}
-[fol. 100r]
+[fol. 102r]
 {CB1.
 fazer temiendose que algunos le tomarian la llaue en camino por
 que se podria perder el castillo. Deue esta rrazon mostrar a los q<ue> y
@@ -7169,7 +7245,7 @@ en lo rreçibiese nin embiase despues deue aun tener el castillo. De-
 mas desto nueue dias. E despues terçero dia. E complidos todo<<s>>
 estos plazos puede dexar el castillo enla manera q<ue> d<e>ximos d<e>l otro}
 {SG. .N.ij.}
-[fol. 100v]
+[fol. 102v]
 {CB1.
 {RUB. Que es lo que deue ser guardado quando los
 alcaydes emplazan los castillos como no<n> }
@@ -7205,7 +7281,7 @@ castillo de q<ue> el era tenedor. E non tan solamente es traydor por p<er>-
 derse el castillo tenie<n>dolo el asi como sobredicho es. Mas aun lo
 seria perdie<n>dolo otro q<ue> despues lo touiese por aq<ue>lla rrazon q<ue> el e<n>-
 cubriera falsamente.}
-[fol. 101r]
+[fol. 103r]
 {CB1.
 {RUB. Como se deuen e<n>plazar los castillos que son dados en fieldad}
 {IN2.} Trabajarse deuen mucho los que tienen castillos de señor d<e>
@@ -7242,7 +7318,7 @@ lo suyo en saluo por el omenaje q<ue> ha fecho a ambos los rreys.
 {RUB. Por quales rrazones defendieron los anti-
 guos que non rreptase el rrey a su natural}}
 {SG. .N .iij.}
-[fol. 101v]
+[fol. 103v]
 {CB1.
 {IN2.} Uoluntad auiendo el rrey de dezir mal a su natural sino<n> le di-
 ese el castillo q<ue> touiese en fieldad fasta n($u)[u]eue dias. asi como
@@ -7277,7 +7353,7 @@ dar E dezirle otrosi q<ue> por q<ue> le fizo omenaje q<ue> por aquello mete su
 cuerpo en su poder & en su merçed. E faziendolo desta guisa guar-
 dara su derecho tan bien al vn rrey como al otro por que ninguno
 non le pueda dezir mal con rrazon}
-[fol. 102r]
+[fol. 104r]
 {CB1.
 {RUB. Como el que touiere castillo en fieldad non lo deue-
 dar a otro rrey maguer gelo demande su señor.}
@@ -7312,7 +7388,7 @@ que los tienen & no<n> so<n> vasallos de vn rrey nin del otro}
 fuesen vasallos nin naturales del vn rrey nin del otro. mas
 que fuesen tomados por abenençia de ambas las partes cada vno}
 {SG. N iiij}
-[fol. 102v]
+[fol. 104v]
 {CB1.
 destos bien puede dar el castillo a aquel rrey q<ue> rreçibiese tuerto pe-
 ro deue los afrontar a ambos primero si lo pudiere fazer & despu-
@@ -7348,7 +7424,7 @@ deuen auer tal pena como aq<ue>llos q<ue> rreuela<n> los castillos a sus seño-
 res. Deuiendo gelos dar con derecho & por pleyto por que meres-
 çen perder los cuerpos & quanto han. La segunda rrazon es qua<n>-
 do dixesen q<ue> los darian & tomasen plazo para ello E entre tanto}
-[fol. 103r]
+[fol. 105r]
 {CB1.
 basteçiesen los castillos de om<ne>s & de armas & de viandas metie<n>do
 y mas de aquello que deuian meter para guarda del. E de lo q<ue> les
@@ -7384,7 +7460,7 @@ esto por que los auian puestos en manos de fieles. E aquel a quie<n>
 fuese quebrantada. Lo afrontase al otro embia<n>do gelo amostrar
 por su corte treynta dias & nueue dias & aun tres mas. Ca si a nin-
 guno destos plazos non gelo quisiere eme<n>dar. Si d<e>nde en adela<n>te}
-[fol. 103v]
+[fol. 105v]
 {CB1.
 podiese tomar aquellos castillos por qual quier manera. Fincari-
 an por suyos. La segunda quando se leuantase tal guerra entre
@@ -7420,7 +7496,7 @@ estas cosas pusieron de como los rreys deuen ser guardados & ser-
 uidos de sus naturales & de sus vasallos. E sobre esto mostraro<n> de-
 mas destas ayuntadas en vno q<ue> fuerça auia cada vna por si. E co-
 mo quier q<ue> esto mucho catasen de como lo auian de guardar en su}
-[fol. 104r]
+[fol. 106r]
 {CB1.
 vida & en su salud & en su honrra. E en todas las otras cosas q<ue> di-
 cho auemos touieron que deuian esto fazer mucho en aq<ue>llo q<ue> tan-
@@ -7457,7 +7533,7 @@ rrey gelo pidiese que fuese tenido a gelo dar pues que lo ganara se-
 yendo su vasallo & su natural. Pero si ante que el castillo cobrase
 teniendo que lo avria si se despidiese del rrey por auer escusa de no<n>
 gelo dar por rrazo<n> de vasallaje Tal engaño como este no<n> tobiero<n>}
-[fol. 104v]
+[fol. 106v]
 {CB1.
 por bien los antiguos que valiese. E por tollerlo pusieron que qu-
 ando el rrey sopiese que por tal engaño era fecho que cada que ge-
@@ -7493,7 +7569,7 @@ a quien los el diere que los tengan por el.}
 {IN2.} Entergar deue<n> al rrey nueuo delas çibdades & villas & delos
 castillos & delas otras fortalezas tan bien de aquellas que
 ouiese<n> rreçebido por portero como delas otras. E aq<ue>llos a quien}
-[fol. 105r]
+[fol. 107r]
 {CB1.
 el las quisiese dar. Deue<n>le fazer omenaje entonçe q<ue> gelas den yra-
 do o pagado cada que gelas pidiere. E tal omenaje como este de-
@@ -7529,7 +7605,7 @@ quisiere & nu<n>ca gelos dar despues. E esta mesma pena puede<n> auer
 si desaforasen a los moradores de aq<ue>llos logares. Fueras ende si
 les cambiasen alguna cosa delos fueros q<ue> ante auian con plazer &
 otorgamie<n>to del rrey. E esto mesmo dezimos si non quisiere<n> venir}
-[fol. 105v]
+[fol. 107v]
 {CB1.
 a su juyzio negandole el señorio. E quando veniesen & non quisie-
 sen estar por lo que el judgase por esa mesma rrazon. E si non le fi-
@@ -7565,7 +7641,7 @@ fazer. E pues q<ue> gelos ouiesen tomado por alguna destas rrazone<<s>>
 non los deuen ellos jamas cobrar nin otros q<ue> sean de su linaje. pe-
 ro el rrey q<ue> les quisiere fazer merçed. Puede les dar cambio por
 ellos en otro logar q<ue> valga ta<n>to. Mas si en todas guisas los qui-siese}
-[fol. 106r]
+[fol. 108r]
 {CB1.
 tornara aquellos logares mesmos que les auia tomado. Es-
 to non lo puede fazer a menos d<e> pechar primerame<n>te todas las
@@ -7600,7 +7676,7 @@ tes & los castillos & que pena deue auer el que los tomare o furta-
 re o derribare & los que acogieren a estos tales.}
 {IN2.} Por que los fijos dalgo & om<ne>s buenos q<ue> eran connusco en es-
 tas cortes nos pidieron merçed q<ue> por q<ue> delas casas fuerte<<s>>}
-[fol. 106v]
+[fol. 108v]
 {CB1.
 E delos castillos q<ue> ellos han non se podiese fazer daño nin malfe-
 tria q<ue> los tomasemos todos en n<uest>ra encomie<n>da & en n<uest>ro defendimi-
@@ -7637,7 +7713,7 @@ n<uest>ros rreynos que lo matasen por ello & perdiese lo que touiese. te-
 nemos por bien que esto que se entie<n>da tan bien por los fijos dal-
 go como por todos los otros porque ellos ha<n> mas menester los
 cauallos que todos los otros para n<uest>ro seruiçio. E deuense mas}
-[fol. 107r]
+[fol. 109r]
 {CB1.
 guardar de lo fazer que otros ningunos.
 {RUB. Aqui se acaba El segundo libro
@@ -7673,7 +7749,7 @@ disension vinieron en athenas. E lucano con dolor screuia los ma-
 les de rroma que por las batallas çibdadanas venian quanto m<a>s
 nos deuemos doler avn que n<uest>ro dolor non trae pro de lo que a no<<s>>}
 {SG. .O.}
-[fol. 107v]
+[fol. 109v]
 {CB1.
 dela discordia rrecresçe. Ca aquellos en vno co<n> los debates de ca-
 sa mesclauan guerras honrrosas de fuera. E avn que tan bien & ta<n>-
@@ -7710,7 +7786,7 @@ endo de seguro & breue camino. E quien no<n> vee q<ue> esto es mas mu-
 estra & ostentaçion de rriqueza q<ue> de virtud. E non digo yo esto co-
 mo q<ue> non aya om<ne>s q<ue> para tanto fuesen como algunos delos bue-
 nos a<n>tiguos. Antes cuydo q<ue> tan fermosa nin ta<n> guarnida cauall<er>ia}
-[fol. 108r]
+[fol. 110r]
 {CB1.
 nin tantos & tan valientes E tan ardides fijos dalgo non ouo en
 estas partidas gra<n>des tie<n>pos ha. Como agora los veemos graçi-
@@ -7748,7 +7824,7 @@ ner treguas & a las vezes paz añadiremos las leys que d<e>llas fabla<n>
 dela segunda que es juego d<e> armas aun que es materia en q<ue> poco
 fablaron las leys scriuiremos esas q<ue> ay. E por quanto segu<n>d dize<n>}
 {SG. O .ij.}
-[fol. 108v]
+[fol. 110v]
 {CB1.
 los juristas. Lo que postrimeramente se dize mejor se tiene enla
 memoria en fin deste libro terçero porrnemos la<<s>> leys d<e> la amistad
@@ -7782,7 +7858,7 @@ seys que dize asi.
 gentes vnas contra otras para fazer se mal E asi como aq<ue>-
 llas q<ue> son fechas contra los enemigos dela fe o del rrey o del rrey-
 no son a pro & honrra. Otrosi aq<ue>llas q<ue> fazen entre los dela tierra}
-[fol. 109r]
+[fol. 111r]
 {CB1.
 Son a d<e>sonrra & daño. E esto por muchas rrazones primerame<n>-
 te que fazen pesar a dios tollendole aquellos q<ue> serian para su serui-
@@ -7819,7 +7895,7 @@ na que quien lo fiziese que lo torrnase con siete tanto.
 {RUB. Que enlas asonadas ninguno non deue prend<e>r a otro para leuar
 lo a su prision nin matarle despues q<ue> fuere preso nin lastimarle.}}
 {SG. .O .iij.}
-[fol. 109v]
+[fol. 111v]
 {CB1.
 {IN2.} Atreuer non se deue ningu<n>d om<n>e deprender a otro en asona-
 da para leuarlo a su prision. Maguer lo touiese en su po-
@@ -7856,7 +7932,7 @@ zerlo saber al rrey. E si despues que lo sopiere le embiare su ma<n>da-
 do o su carta en que le mande q<ue> le suelte o gelo mandare por su pa-
 labra deue luego ser fecho. E pues que por el rrey lo dexare el lo d<e>-
 ue fazer segurar que le non venga mal de aquel nin de su<<s>> parie<n>tes}
-[fol. 110r]
+[fol. 112r]
 {CB1.
 al q<ue> lo tomo preso nin a los suyos por esta rrazon. E esto es por q<ue>
 fue quito por su mandado mas si aq<ue>l q<ue> lo prisiera quisiera quitar
@@ -7892,7 +7968,7 @@ tan los om<ne>s en vno cresçenles los coraçones & cometen entonçe
 tales soberuias q<ue> las non farian nin las osarian cometer si estoui-
 esen cada vno por si en su casa o en otro logar.}
 {SG. O .iiij.}
-[fol. 110v]
+[fol. 112v]
 {CB1.
 {RUB. Jtem el rrey don alfonso el vndeçimo enlas cortes de valla-
 dolid rrespondio a este proposito a una petiçion que dize asi
@@ -7927,7 +8003,7 @@ dellas q<ue> se partan dela asonada oles mandare & afrontare de par-
 te del rrey que den tregua los vnos a los otros & non lo quisieren
 fazer. E si los adelantados o merinos o alcaldes o el alguazil o q<u><<a>>l
 quier dellos pusieren tregua o seguro entre ellos de parte del rrey}
-[fol. 111r]
+[fol. 113r]
 {CB1.
 E lo non quisieren guardar q<ue> qual quier o quales quier q<ue> lo non
 quisieren complir asi nin guardar & ouieren casas fuertes q<ue> gelas
@@ -7963,7 +8039,7 @@ labradores sobre la cruz & los sanctos euangelios & todo quanto
 juraren sea tenido apagar el que jurare q<ue> lo fizo si bienes ouiere &
 si non el q<ue> los llamo a la asonada como dicho es. E si bienes non
 ouieren el q<ue> fizo el daño nin el que lo llamo a las asonadas para}
-[fol. 111v]
+[fol. 113v]
 {CB1.
 pagar este daño q<ue> salga dela t<ie>rra por dos años. E si antes destos
 dos años touiere d<e> q<ue> pagar q<ue> pagandolo pueda entrar enla t<ie>rra
@@ -7998,7 +8074,7 @@ te desta. Saluo si lo pagase luego o diese peones que lo valiese.
 {RUB. Jntroduçion}
 {IN2.} Entre todos los om<ne>s segund dize el jurisconsulto puso la na-
 tura vna manera de parentesco. E por ende poner asechan-ças}
-[fol. 112r]
+[fol. 114r]
 {CB1.
 vn om<n>e a otro para ofenderle es cosa maliçiosa & contra bue-
 na naturaleza. E aun que esto aya logar entre todos los om<ne>s.
@@ -8034,7 +8110,7 @@ pena segund la qualidad del malefiçio mas non comete aleue. E
 por q<ue> esto mejor lo sepades situaremos aqui las leys q<ue> desta mate-
 ria fablan Las quales puso el rrey don alfonso el deçimo enla se-
 tena partida en el titulo onze deziendo asi.}
-[fol. 112v]
+[fol. 114v]
 {CB1.
 {RUB. Leys}
 {RUB. Que antiguame<n>te fue fallado el desafiar e<n>tre los fijos dalgo}
@@ -8068,7 +8144,7 @@ no vos amistad & desafio vos por tal d<e>sonrra o tuerto o daño que
 fezistes a mi o a fulano mi pariente por q<ue> he derecho d<e> lo acaloñar
 Ca tan bien puede desafiar otro por la desonrra o tuerto q<ue> rreçibi-
 ese su pariente como por el que ouiese rreçebido el mesmo. E non}
-[fol. 113r]
+[fol. 115r]
 {CB1.
 tan solamente puede vn om<n>e desafiar a otro por si mesmo. Mas
 aun lo puede fazer por otro que sea fijo dalgo. E esto puede fazer
@@ -8103,7 +8179,7 @@ go ha rrazon de caloñar a otro(~) por tuerto q<ue> le aya fecho. Deuele
 torrnar amistad & desafiarle. E aq<ue>lla es la amistad & fe q<ue> le torrna
 quando le desafia la q<ue> fue puesta antiguamente. Asi como sobre
 dicho es. E desde aquel dia que le desafiare. Non le ha de fazer}
-[fol. 113v]
+[fol. 115v]
 {CB1.
 mal fasta nueue dias. {RUB. Jtem el rrey do<n> alfonso el seteno lla-
 mado emperador enlas cortes de najera fizo vna ley dela qual si
@@ -8138,7 +8214,7 @@ dicho ordenamie<n>to contenida. E agora en estas cortes q<ue> fazemo<<s>>
 en alcala de henares pidieron nos por merçed q<ue> les quitasemos
 el dicho ordenamiento & les otorgasemos q<ue> se podiesen desafiar
 vn fijo dalgo a otro por ferida o por presion del que desafia o por}
-[fol. 114r]
+[fol. 116r]
 {CB1.
 correr con el. Otrosi por muerte de padre o de madre o de aguelo
 o de aguela o de fijo o de fija o de nieto o de nieta O por muerte d<e>
@@ -8175,7 +8251,7 @@ dalgo yoguiere con alguna parienta q<ue> otro fijo dalgo touiere en
 su casa seye<n>do el fecho sabido la leuare o forçare. Que lo pueda de-
 safiar por ello. E q<ue> por otras cosas algunas non pueda desafiar.
 E quando desafiare o e<n>biare desafiar q<ue> sea tenido dela fazer saber}
-[fol. 114v]
+[fol. 116v]
 {CB1.
 el q<ue> la desafiare la rrazon por q<ue> lo desafia. E q<ue> desde el dia q<ue> lo de-
 safiare fasta q<ue> sean pasados los dichos nueue dias primeros com-
@@ -8211,7 +8287,7 @@ criptura sancta se lee q<ue> dauid la ouiese con el gigante golias. Pe-
 ro aquello fue de voluntad de dios en aquellos tiempos E no<n> es
 de traer a conseque<n>çia. Ca segu<n>d doctrina asi delos theologos co-
 mo delos canonistas non solamente peca el rreptador. Mas aun}
-[fol. 115r]
+[fol. 117r]
 {CB1.
 el rreptado maguer sea apremiado por mandamie<n>to de juez. Si
 voluntariame<n>te el rriepto rreçibe. O el prinçipe o juez que lo ma<n>-
@@ -8249,7 +8325,7 @@ mal fechor & pareçer despues q<ue> non auia culpa en el malifiçio Por
 ende a los rreys es de suplicar q<ue> non den logar a los tales. ca nin si-
 guan las leys que los consienten. Las quales rrazonablemente}
 {SG. .P.}
-[fol. 115v]
+[fol. 117v]
 {CB1.
 podieramos dexar de enxerir en esta copilaçio<n>. Pero por q<ue> el pro-
 posito fue copilar todas las q<ue> de actos de caualleria fablan situa-
@@ -8283,7 +8359,7 @@ ental manera como esta.
 {RUB. Quien puede rreptar & aquales & ante q<u><<i>>en & en que logar.}
 {IN2.} Reptar puede todo om<n>e fijo dalgo por tuerto o desonrra e<n>
 que aya trayçion o aleue q<ue> le aya fecho otro fijo dalgo. E}
-[fol. 116r]
+[fol. 118r]
 {CB1.
 esto puede fazer el por si mesmo mientra fuere biuo & si fuere mu-
 erto el q<ue> rreçibio la desonrra o el tuerto. Puede rreptar el padre
@@ -8320,7 +8396,7 @@ tos yerros. O alguno dellos non son por ende aleuosos Nin pue-
 den por ende ser Reptados. Como quier sea<n> tenidos de fazer emi-
 enda dello por juyçio. Fueras ende si lo fazen entergua o en pl<e>ito}
 {SG. P .ij.}
-[fol. 116v]
+[fol. 118v]
 {CB1.
 q<ue> ouiesen puesto vnos con otros. Ca entonçe bien lo podrian rep-
 tar por Razon dela tregua o d<e>l pl<e>ito q<ue> quebra<n>to q<ue> auia puesto co<n>
@@ -8356,7 +8432,7 @@ lo fizo & digo q<ue> es traydor por ello o aleuoso. E si gelo quisiere p<ro>-
 uar por testigos o por cartas o pesquisas deuelo luego dezir. E si
 gelo quisiere prouar por lid entonçe diga q<ue> le y metera las mano<<s>>
 E gelo fara dezir o lo mata o lo echara del campo por vençido.}
-[fol. 117r]
+[fol. 119r]
 {CB1.
 E el rreptado deue luego rresponder cada que le dixere traydor o
 aleuoso q<ue> mie<n>te. E esta rrespuesta le deuedar. Por q<ue> le dize el pe-
@@ -8393,7 +8469,7 @@ se acaesçiere y padre o fijo o hermano o pariente çercano o señor
 o vasallo del Reptado o alguno q<ue> sea amigo o compadre o co<n>pa-
 ñero con q<u><<i>>en auia seydo en Romeria o en otro camino grande o}
 {SG. .P .iij}
-[fol. 117v]
+[fol. 119v]
 {CB1.
 que ouiese comido o albergado de so vno O tal amigo q<ue> ouiese ca-
 sado a el mesmo o a su fijo o a su fija o le ouiese fecho cauallero o
@@ -8429,7 +8505,7 @@ tado que non Responda o que non lidie.}
 epta & acaesçe a las veze<<s>> q<ue> no<n> es tal. & por e<n>de si el reptado
 ente<n>diere que el fecho q<ue> le Rieptan non es atal que caya e<n> trayçio<n>
 nin aleue maguer que lo aya fecho. Dezimos que d<e>spues q<ue> ouiere}
-[fol. 118r]
+[fol. 120r]
 {CB1.
 desme<n>tido a aquel q<ue> lo Riepta que puede demandar derecho de a-
 quel mal q<ue> le dixo o el rrey entendiendo q<ue> el fecho es atal en que no<n>
@@ -8465,7 +8541,7 @@ del Rey E por corte dizie<n>do q<ue> me<n>tio en el mal q<ue> dixo al Reptado
 E si se d<e>sdixere de<n>de e<n> adelante no<n> pueda Reptar nin ser par d<e> otro
 en lid nin e<n> ho<n>rras. E si d<e>sdezir non se q<u><<i>>siere deuelo el Rey echar}
 {SG. P .iiij.}
-[fol. 118v]
+[fol. 120v]
 {CB1.
 dela t<ie>rra & darlo por enemigo a aquel q<ue> el Repto. E esto por el
 atreuimie<n>to q<ue> fizo e<n> dezir mal del om<n>e q<ue> era su natural ante d<e>l no<n>
@@ -8501,7 +8577,7 @@ sar de tan grand maldad como esta q<ue> oydes de q<ue> lo Reptaron. E
 como quier q<ue> nos pesa d<e> coraçon por auer adar tal sente<n>çia co<n>tra
 om<n>e q<ue> sea natural de n<uest>ra t<ie>rra. Enpero por el lugar q<ue> tenemos pa-
 ra complir la justiçia. E por q<ue> los om<ne>s se Reçele<n> de fazer tan gra<n>d}
-[fol. 119r]
+[fol. 121r]
 {CB1.
 yerro & ta<n> grand maldad como esta. Damos lo por traydor & por
 aleuoso E mandamos q<ue> ado quier q<ue> sea fallado d<e> aqui adelante q<ue>
@@ -8535,7 +8611,7 @@ que costu<n>bran entre si los fijos dalgo quando lidia<n> a cauallo. E la
 otra es la que suelen fazer a pie los om<ne>s delas villas & delas alde-
 as segund fuero antiguo lo solian usar.
 {RUB. Lo q<ue> se ha de fazer qua<n>do el rreptador & el rreptado han d<e> lidiar}}
-[fol. 119v]
+[fol. 121v]
 {CB1.
 {IN2.} Lidiar puede<n> el rreptador & el rreptado quando se abinieren
 enla lid & han de lidiar sobre aquellas rrazones sobre que
@@ -8571,7 +8647,7 @@ om<n>e rreptare ados o amas por algu<n>d fecho q<ue> los rreptados no<n> se-
 an tenudos si non quisiere<n> de rrespo<n>der o Reçebir par mas el rep-
 tador Cate lo que faze. Ca quantos Reptare con tantos avra de
 co<n>batir o a cada vno dellos. Qual mas quisiere si los Reptados}
-[fol. 120r]
+[fol. 122r]
 {CB1.
 quisieren lidiar & non quisieren Reçebir par. E si muchos ouiere<n>
 Razon de reptar a uno sobre algund fecho escojan entre si vno de-
@@ -8606,7 +8682,7 @@ les ygualdad en el comer & en el yazer E en todas las otras cosas
 guisadas. Empero si alguno q<u><<i>>siere mas comer o beuer q<ue> el otro
 dengelo. E el dia q<ue> los ouiere<n> a torrnar en el campo. Torrnen los
 en aq<ue>l mesmo lugar & en aq<ue>lla mesma guisa de cauallos & de arm<a>s}
-[fol. 120v]
+[fol. 122v]
 {CB1.
 E de todas las otras cosas en q<ue> estauan quando los ende sacaro<n>
 E si el Reptado se podiere defe<n>der por tres vezes en el campo que
@@ -8640,7 +8716,7 @@ fue fecho si non tan sosamente entre los fijos dalgo.
 po au<n> q<ue> no<n> lo aya d<e>safiado no<n> es aleuoso si no<n> lo faze e<n>tregua}
 {IN2.} Si fijo dalgo a otro fijo dalgo q<ue>mare o derribare casas o to-
 rre o corrtare viña o arboles o furtare auer o heredad o}
-[fol. 121r]
+[fol. 123r]
 {CB1.
 fiziere otro mal q<ue> non tanga en su cuerpo maguer non le aya a<n>te
 desafiado. Non es por ende aleuoso. Pero si gelo fiziere entregua
@@ -8673,7 +8749,7 @@ lo quiere prouar por testigos o por carta o por pesquisa del rrey
 diga gelo. E el rreptado diga que miente. E si quisiere co<n>batir di-
 ga gelo. E si no<n> q<u><<i>>siere combatir diga q<ue> fara qua<n>to el rrey ma<n>dare
 {RUB. Que se deue desdezir el vençido.}}
-[fol. 121v]
+[fol. 123v]
 {CB1.
 {IN2.} Si el rreptado entendiere q<ue> el fecho de q<ue> le rriepta non es tal
 por q<ue> el sea aleuoso maguer que lo aya fecho despues q<ue> des-
@@ -8707,7 +8783,7 @@ nifiesta(l) segund bien vista d<e> los fieles contra su voluntad & no<n> por
 fuerça del otro combatidor salier d<e>l plazo si luego q<ue> podiere de ca-
 uallo o de pie torrnare al plazo no<n> sea vençido por tal salida.
 {RUB. Que si el Reptado muere en el campo finca quito del Riepto}}
-[fol. 122r]
+[fol. 124r]
 {CB1.
 {IN2.} Si el Reptador fuere muerto en el campo. El Reptado finq<ue>
 quito. Maguer q<ue> el Reptador non se aya desdicho. E si el
@@ -8740,7 +8816,7 @@ pena que manda la ley.
 {IN2.} Todo fijo dalgo puede rreptar a otro por fecho q<ue> caya e<n> ale-
 ue & fizieren a el & a su señor o a su padre o a su madre o a fi-
 jo o fija o a hermano o a hermana o a pariente o a parienta por q<ue>}
-[fol. 122v]
+[fol. 124v]
 {CB1.
 deua acaloñar quien por otro rreptare & aya la pena dela ley & el
 rreptado sea qui<n>to. Mas guardese el rreptador q<ue> non rriepte por
@@ -8775,7 +8851,7 @@ ren lidiar & non quisieren Reçebir par. E si muchos ouieren razo<n>
 de reptar a alguno sobre algund fecho escojan entre si vno dellos
 que lo Riepte & con aquel entre en derecho.
 {RUB. Si muriere el Reptado o el reptador quando finca quito o non.}}
-[fol. 123r]
+[fol. 125r]
 {CB1.
 {IN2.} Si despues q<ue> el pl<e>yto del Riepto es come<n>çado antes que sea
 feneçido si q<u><<i>>siere el Reptador quier el Reptado amos mu-
@@ -8810,7 +8886,7 @@ por q<ue> lo non puede Reptar por rrazon de su persona non pueda e
 char otro pariente propinco q<ue> lo quiera rreptar por aq<ue>lla rrazo<n>.
 {RUB. Como ha de dar el rreptado al rreptador par}}
 {SG. Q.}
-[fol. 123v]
+[fol. 125v]
 {CB1.
 {IN2.} Qua($n)[n]do algund om<n>e poderoso fiziere a otro de menor pod<e>r
 o de menor guisa cosa que caya en a leue pueda gelo dezir &
@@ -8844,7 +8920,7 @@ tador aya la pena q<ue> ma<n>da la ley
 uoso & la prueua otrosi. E maguer que mayor pena aya el
 traydor q<ue> el aleuoso mandamos q<ue> el rreptador por trayçion non
 aya mayor pena si no<n> prouare lo q<ue> dixo q<ue> el rreptador por el aleue}
-[fol. 124r]
+[fol. 126r]
 {CB1.
 traydor es quien quier q<ue> mata a su señor o lo fiere olo pre<n>de o me-
 te en el mano o mal trata o lo manda o aconseja fazer o quien algu-
@@ -8880,7 +8956,7 @@ tar de trayçion o del aleue q<ue> no<n> ta<n>ga al rrey o al rreyno fuere enla
 corte q<ue> avn q<ue> lo aya dicho al rrey. Que non pueda fazer la acusaçi-
 on o el rriepto fasta nueue dias & si non fuere enla corte q<ue> el rrey d<e>}
 {SG. Q ij.}
-[fol. 124v]
+[fol. 126v]
 {CB1.
 su offiçio lo faga saber a aq<ue>l aquien asi quisieren acusar o rreptar
 E q<ue> este aquien asi quisieren acusar o rretar aya plazo de treynta
@@ -8916,7 +8992,7 @@ O del Riepto.
 todo fijo dalgo q<ue> pueda reptar por muerte o desonrra que
 caya en trayçion o en aleue q<ue> le aya fecho otro fijo dalgo. E esto q<ue>
 lo pueda fazer el por si mesmo. O fi fuere muerto el q<ue> Reçibiere la}
-[fol. 125r]
+[fol. 127r]
 {CB1.
 desonrra q<ue> pueda rreptar el padre por el fijo & el fijo por el padre
 E el hermano por el hermano. E si tales parientes y no ouiere.
@@ -8953,7 +9029,7 @@ q<ue> esten ellos & sus parientes en tregua & q<ue> se guarden vnos
 a otros en todas las cosas si non en Riepto o en lo q<ue> a el pertenes-
 çe. E si acaesçiere q<ue> el Reptado muera en plazo. O andando enla}
 {SG. .Q iij}
-[fol. 125v]
+[fol. 127v]
 {CB1.
 corte defe<n>diendo su verdad. Finq<ue> su fama libre & quita dela tray-
 çion o del aleue de q<ue> le rreptaren & non empezca a el nin a su linaje
@@ -8988,7 +9064,7 @@ to. E esto por el atreuimiento q<ue> fizo en dezir mal ante el de om<n>e q<ue>
 era su natural non auiendo fecho por q<ue>. Otrosi dezimos que si el
 Reptado fuere vençido d<e>l pl<e>yto q<ue> le reptaron & dado por aleuoso
 Deue ser echado dela t<ie>rra para sie<n>pre & perder la meytad de todo}
-[fol. 126r]
+[fol. 128r]
 {CB1.
 quanto ouiere & sea del rrey. Mas non deue om<n>e q<ue> sea fijo dalgo
 morir por rrazon de aleue. Fueras ende si el fecho fuere tan malo
@@ -9024,7 +9100,7 @@ fuese<n> todo t<ien>po seguros. segund q<ue> en su lugar mas largame<n>te esta
 scripto. E esta tregua nin se guarda oy nin fazen della me<n>çion las
 leys deste rreyno. La conue<n>çional se dize aq<ue>lla seguridad q<ue> se dan}
 {SG. Q iiij.}
-[fol. 126v]
+[fol. 128v]
 {CB1.
 vnas p<er>sonas a otras por çierto t<ien>po a<n>te que sea acabada la discor-
 dia. Ca tanto quiere dezir tregua como cosa q<ue> detiene la guerra &
@@ -9059,7 +9135,7 @@ dicho nin de fecho nin de consejo en quanto la tregua durare. La
 segunda es que despues q<ue> fuere tomada. puede<n>se abenir por si mes-
 mos faziendose emienda el vno al otro. La terçera es que si ellos
 non se acordaren en fazer la emienda q<ue> la podra auer el vno del}
-[fol. 127r]
+[fol. 129r]
 {CB1.
 otro demanda<n>dole por justiçia. E ansi prende en si la tregua tres
 ygualdades. Lealtad & abenençia & justiçia. E a la segurança dize<n>
@@ -9095,7 +9171,7 @@ prometer amas las partes q<ue> se guardaran. E se non faran mal de
 dicho nin de fecho nin de consejo. E en esta mesma manera deuen
 ser tomados los fiadores de saluo. E tan bien las treguas como
 las segura<n>ças & las fiaduras de saluo deue<n> ser guardadas e<n> aq<ue>lla}
-[fol. 127v]
+[fol. 129v]
 {CB1.
 manera mesma q<ue> fuere dicho & p<ro>metido a la sazon q<ue> fueron toma-
 das & puestas. E como quier q<ue> tregua ha lugar señaladamente en
@@ -9130,7 +9206,7 @@ señal q<ue> quita la enemistad del coraçon Pues dixo q<ue> perdona a aq<ue>l
 q<ue> de ante queria mal E en lugar dela enemistad q<ue> puso y el amor.
 Mas quando la mal quere<n>çia viene delas malas palabras que se
 dixeron E non por rrazon de omezillo si se acordare<n> para auer su}
-[fol. 128r]
+[fol. 130r]
 {CB1.
 amor de so vno abo<n>da que se perdona que el perdonamie<n>to es ver-
 dadero deuense abraçar. E otrosi dezimos que quien quebrantare
@@ -9166,7 +9242,7 @@ fagan mal de dicho nin de fecho nin de consejo. E como quier que
 la tregua ha lugar señaladamente enlos fijos dalgo d<e>spues que se
 desafian & non ante. Pero bien se puede dar entre los otros om<ne>s
 q<ue> non son fijos dalgo E sean tenudos dela guardar. Despues que}
-[fol. 128v]
+[fol. 130v]
 {CB1.
 la otorgaren. Otrosi ordenamos que los quebrantadores d<e> la tre-
 gua o dela segurança si fueren fijos dalgo & la ellos ouiesen otor-
@@ -9202,7 +9278,7 @@ si nin por otro de fecho nin de dicho nin de consejo so pena de mill
 marcos de plata. La qual pagada o non. esta paz & Esta abene<n>çia
 sea siempre firme & valedera. E por q<ue> todas estas cosas sea<n> firmes
 & valederas obligaronse los vnos & los otros asi mesmos E a sus}
-[fol. 129r]
+[fol. 131r]
 {CB1.
 heredades & bienes rrenunçiando & quitandose de toda ley & d<e> to-
 do fuero que en contrario sea.
@@ -9237,7 +9313,7 @@ uamente puestas fueron q<u><<i>>tadas toda via q<ue>do el vedamiento & la
 pena del co<n>çilio de letra<n> en vigor. E maguer q<ue> enlos derechos ro-
 manos segu<n>d dicho es se fable delos torrneos si se pueden fazer.
 Mas no<n> como se deuen fazer. ca esto a los torrneadores p<er>teneçe}
-[fol. 129v]
+[fol. 131v]
 {CB1.
 Pero el rrey don alfonso el ti teniendo en ello mas manera de ca-
 uallero famoso & prouado q<ue> quiere enseñar a los q<ue> menos saben. q<ue>
@@ -9273,7 +9349,7 @@ la lealtad se entie<n>de en muchas maneras. Pero las prinçipales so<n>
 dos. La primera es guardar lealtad a su señor. la segu<n>da es amar
 verdaderamente a quie<n> ouiese d<e> amar espeçialme<n>te aq<ue>l en q<u><<i>>en po-
 siere su entinçion. Otrosi es tenudo om<n>e a amar a si mesmo & pre-çiarse}
-[fol. 130r]
+[fol. 132r]
 {CB1.
 & tenerse por algo. E por esto se fizo esta orden dela vanda
 por q<ue> los caualleros q<ue> q<u><<i>>sieren ser en esta orden & tomar la va<n>da q<ue>
@@ -9307,7 +9383,7 @@ be si. Otrosi q<ue> nunca se alaue de cosa q<ue> faga en caualleria alguna.
 Otrosi todo cauallero dela vanda nunca deue dezir ay. E lo mas
 que po diere escuse de quexarse por ferida que aya.
 {RUB. Que el cauall<er>o d<e> la va<n>da no<n> juegue dado<<s>> q<u><<a>>ndo a<n>douiere e<n> guerra}}
-[fol. 130v]
+[fol. 132v]
 {CB1.
 {IN2.} Mucho es de estrañar q<ue> ningu<n>d cauallero dela vanda no<n> jue-
 gue los dados en quanto andouiere en guerra & en menes-
@@ -9342,7 +9418,7 @@ pes & suzias q<ue> guarden eso mesmo de non las comer tan bie<n> d<e> los
 manjares como delas fructas no<n> las q<ue>simos aqui contar por me-
 nudo por que seria<n> malas de contar. Pero el cauallero dela va<n>da
 que lo quisiere guardar bien & no<n>bra<n>dose dela va<n>da bie<n> ente<n>dera}
-[fol. 131r]
+[fol. 133r]
 {CB1.
 qual es lo que deue escusar de comer destas cosas tales. Otrosi de-
 ue guardarse de non comer ninguna vianda sin manteles saluo si
@@ -9379,7 +9455,7 @@ ayudedes a ninguno dellos & desque esto ouieren jurado finq<ue> las
 rrodillas. E tome el rrey los caualleros dela uanda q<ue> y estouieren
 las sobre s(a)[e]ñales dela vanda con las mano<<s>> E uistan gelas & des-pues}
 {SG. .R.}
-[fol. 131v]
+[fol. 133v]
 {CB1.
 que fuere vestido que abraçe a todos los caualleros dela va<n>-
 da que y estouieren & que los aya por hermanos dende en adela<n>te
@@ -9414,7 +9490,7 @@ la mano sin quebra<n>tarse la mançana o sin quebra<n>tarse la espada o
 si cayere del cauallo sin caer el cauallo con el que sea uençido & que
 non pueda traer uanda asi como aquel que se le cae la espada dela
 mano & cae del cauallo alli do la ha me($n)[n]ester. E si le acaesçiere q<ue> le}
-[fol. 132r]
+[fol. 134r]
 {CB1.
 caya dela mano el espada o cayere del cauallo segund dicho es al-
 guno de aquellos que primero traya la vanda que aya vençido el
@@ -9451,7 +9527,7 @@ complir esto que dicho es queda<n>dole plazo para venir & lo co<n>plir
 asi a la corte del rrey auiendo caua(ua)llo o armas que el cauallero
 de vanda faga luego alla con el la primera prueua quier de justa o}
 {SG. .R .ij.}
-[fol. 132v]
+[fol. 134v]
 {CB1.
 de torneamiento qual el otro mas quisiere. E el cauallero dela va<n>-
 da que lleue su demanda adelante segund que esta ordenado.
@@ -9486,7 +9562,7 @@ do. Que el q<ue> lo muestre al rrey delante los caualleros dela uanda
 q<ue> y fueren pidiendo merçed que le faga emendar E si logar ende o
 uiere q<ue> se pueda emendar. Si non que el rrey q<ue> lo tome para si E
 que le faga merçed.}
-[fol. 133r]
+[fol. 135r]
 {CB1.
 {RUB. Que el cauallero dela vanda que non qui-
 siere fincar con el rrey que pierda la vanda.}
@@ -9520,7 +9596,7 @@ dos los otros en vno segund dicho es.
 ros dela uanda con el rrey aueer como estan guisados. E si
 por ventura el rrey estouiere en tales menesteres q<ue> se non puedan}
 {SG. R .iij.}
-[fol. 133v]
+[fol. 135v]
 {CB1.
 ayuntar q<ue> a lo menos que se ayunten tres vezes en el año. E estas q<ue>
 sean la vna por pascua florida. La otra por sant jua<n>. La otra por
@@ -9554,7 +9630,7 @@ casare como le deuen los otros honrrar}
 sar. Dezimos q<ue> los cauallero<<s>> dela uanda q<ue> se acaesçieren a
 diez leguas dende que sean tenudos ale yr fazer muchas honrras
 E mucho seruiçio seyendo sabidores dello.}
-[fol. 134r]
+[fol. 136r]
 {CB1.
 {RUB. qua<n>do algu<n>d ca<ua>ll<er>o d<e> la va<n>da moriere como le fue<n> los otro<<s>> onrar}
 {IN2.} Dezimos que si acaesçiere que algund cauallero dela vanda
@@ -9589,7 +9665,7 @@ nidos de guardar todas estas cosas que estan en este libro dela va<n>-
 da scriptas. E avn dezimos que si pueden fazer mas de lo que aq<u><<i>>
 esta tambie<n> ser corteses como en prouar cauall<er>ia. Que esto les sea}
 {SG. R iiij}
-[fol. 134v]
+[fol. 136v]
 {CB1.
 gradesçido demas. Mas a lo menos que esto guarden todos segu<n>d
 que en este libro es scripto. E si en alguna cosa lo herraren que el
@@ -9625,7 +9701,7 @@ los fieles & dezir por la verdad que son tenidos de dezir como fie-
 les segund su entendimie<n>to qual cauallero ouo la mejoria del tor-
 neo tan bien delos dela vna parte como delos dela otra Por que
 den prez aun cauallero de vna & a otro dela otra que fallaren que}
-[fol. 135r]
+[fol. 137r]
 {CB1.
 anduuo y mejor. E si fuere el torrneo de treynta cauallero<<s>> ayuso
 Dezimos que aya ay quatro fieles dela vna parte E otros quatro
@@ -9661,7 +9737,7 @@ cauallero en yendo por la carrera ante delos golpes. Que el otro
 cauallero que le alçe la lança & non le de. Ca non seria caualleria
 ferir al que non lleua lança E para judgar todo esto dizimos que
 aya y quatro fieles. Los dos dela vna parte E los otros dos}
-[fol. 135v]
+[fol. 137v]
 {CB1.
 d<e> la otra parte porq<ue> den la mejoria a los cauall<er>os q<ue> justare<n> mejor
 {RUB. Titulo .vj. dela amistad.}
@@ -9696,7 +9772,7 @@ dezimo enla quarta partida en el titulo veynte y siete.
 {IN2.} Amistad es cosa que ayunta las voluntades delos om<ne>s para
 amarse mucho. Ca segund dixeron los sabios antiguos E
 es verdad q<ue> amor pasa a todos los deudos. E pues q<ue> en el titulo}
-[fol. 136r]
+[fol. 138r]
 {CB1.
 ante deste fablamos del deudo que e<n>tre los señores & sus vasallos
 por naturaleza o por bien fecho o por seruiçio o por conueniençia
@@ -9732,7 +9808,7 @@ om<ne>s maguer non ayan entre si amistad nin amor. Mas los q<ue> han
 amistad en vno por fuerça conuiene q<ue> ayan entre si concordia. E
 por ende dixo aristotiles. Que si los om<ne>s ouiesen entre si amistad
 verdadera que non avrian menester justiçia nin alcaldes que los}
-[fol. 136v]
+[fol. 138v]
 {CB1.
 judgasen. Por q<ue> la amistad les faria complir & guardar aquello
 mesmo que quiere & manda la justiçia.
@@ -9767,7 +9843,7 @@ amigo & qual om<n>e deue ser escogido para esto.}
 se aconsejan con sus amigos. E por ende dixo vn sabio que
 ouo nombre tullio. Que ninguna cosa non vale tanto como buen
 amigo a quien podiese dezir seguramente su voluntad. Asi como}
-[fol. 137r]
+[fol. 139r]
 {CB1.
 a si mesmo. E dixo en otro lugar. Delibera con tu amigo todas la<<s>>
 cosas que ouieres a fazer. mas primero sabe q<u><<i>>en es el. Ca mucho<<s>>
@@ -9803,7 +9879,7 @@ tad es m<a>s noble q<ue> la primera por q<ue> puede ser e<n>tre todos los om<ne>
 q<ue> han bondad en si. E por ende es mejor que la otra por q<ue> esta nas-
 çe de bondad tan solamente & la otra de deudo de natura & la que
 es de bondad tan solamente ha en si todos los bienes q<ue> fablamos}
-[fol. 137v]
+[fol. 139v]
 {CB1.
 en vna ley deste titulo. La terçera manera de que fablamos de su-
 so non es verdadera amistad por q<ue> aquel q<ue> ama a otro por su pro
@@ -9839,7 +9915,7 @@ ra son aquellos que rretrahen como en manera de afruento los bi-
 enes & los plazeres que fizieron a los amigos suyos. Ca esto non
 conuiene a ellos mas a los que lo rreçibieron. E otrosi se deue<n> gu-
 ardar que non descubran las poridades Que se dixeron el vno al}
-[fol. 138r]
+[fol. 140r]
 {CB1.
 otro. E por esto dixo salamon que el que descubre la poridad de
 su amigo desata la fe que auia con el. La terçera guarda es que de-
@@ -9875,7 +9951,7 @@ ter le fuere. E con esto acuerda lo que se falla scripto enlas ystori-
 as antiguas de dos amigos q<ue> auian no<n>bre el vno erestes & el otro
 pilades que los tenian presos vn rrey por malefiçios de que eran
 acusados. E seyendo erestes a muerte condenado E el otro dado}
-[fol. 138v]
+[fol. 140v]
 {CB1.
 por quito. embiaron por erestes para fazer justiçia del & lo llama-
 ron que saliese del lugar dolo tenian preso. Respondio pilades sa-
@@ -9909,7 +9985,7 @@ sata qua<n>do el amigo desfalleçe d<e> lo q<ue> q<u><<i>>ere asi como de suso d
 cotidianas yantares delas nobles personas. Despues d<e> la<<s>>
 prinçipales via<n>das traer frutas de diuersas guisas. Ca non entie<n>-
 den q<ue> es la mesa sufiçienteme<n>te seruida si en ella se prouee tan solo}
-[fol. 139r]
+[fol. 141r]
 {CB1.
 delos neçesarios manjares del cuerpo. Si non se satisfaze tan bie<n>
 a algunos deleytes q<ue> pide la gula avn al estomago neçesarios nin
@@ -9947,7 +10023,7 @@ con aq<ue>llas armas q<ue> mas obraren segund la calidad de lo<<s>> aduersa
 rios. E el apostol sant paulo enla epistola tito alego contra los d<e>
 {BLNK.} vn dicho del poeta epimedes. Esto non dixe por que}
 {SG. .S.}
-[fol. 139v]
+[fol. 141v]
 {CB1.
 aq<u><<i>> q<ue>remos enxerir materias de sçiençia estraña. Mas por q<ue> avn q<ue>
 non sea tan neçesario nin tan prinçipal lo q<ue> aqui diremos. Como
@@ -9983,7 +10059,7 @@ dezimos vasallo<<s>> del rrey a los q<ue> del han çierta quantida[d] para lan-
 ças. Ca como quier q<ue> todos los del rreyno por otra manera de fa-
 blar seamos sus vasallos. Pero espeçialmente nombramos asi a
 aq<ue>llos que han dinero del para lanças q<ue> llamamos t<ie>rra. E desta}
-[fol. 140r]
+[fol. 142r]
 {CB1.
 guisa se vsaua a<n>tiguame<n>te llamar en españa vasallo de algu<n>d co<n>-
 de o rrico om<n>e o señor el cauallero o fijo dalgo q<ue> del auia segund
@@ -10019,7 +10095,7 @@ partidos.
 {IN2.} Señor es llamado propiamente aquel que ha mandamie<n>to
 & poderio sobre todos aquellos que viue<n> en su t<ie>rra. E a este}
 {SG. .Sij}
-[fol. 140v]
+[fol. 142v]
 {CB1.
 tal deue<n> llamar todos señor tan bie<n> sus naturales como los otro<<s>>
 que vienen a el a su t<ie>rra. Otrosi es dicho señor todo om<n>e q<ue> ha pod<e>
@@ -10053,7 +10129,7 @@ te de dar o de fazer q<ue> la complira. E este omenaje non solamente
 ha logar en pl<e>yto de vasallaje. Mas en todos los otros pl<e>ytos E
 posturas q<ue> los om<ne>s ponen entre si con entinçion de complir las
 {RUB. En q<ue> sazo<n> es tenudo el vasallo de besar la m<a>no al señor & q<u><<a>>les no<n>}}
-[fol. 141r]
+[fol. 143r]
 {CB1.
 {IN2.} Besar deue la mano el vasallo al señor Quando se faze su va-
 sallo asi como deximos enla ley ante desta. E avn lo deue
@@ -10089,7 +10165,7 @@ en el primero año en q<ue> lo fizo cauall<er>o por pobreza nin por
 trabajo q<ue> sufra por el nin por otra cosa alguna fueras e<n>de silo oui-
 ese a fazer por alguna destas tres rrazones. La primera es si el}
 {SG. .S .iij.}
-[fol. 141v]
+[fol. 143v]
 {CB1.
 señor se trauajase por muerte de su vasallo. La segunda si se traua-
 jar por desonrrar su muger. La terçera si lo deseredase atuerto no<n>-
@@ -10124,7 +10200,7 @@ armas nin con el cauallo q<ue> le dio
 {RUB. Que pena mereçe el vasallo q<ue> rresçiue soldada d<e>l señor & no<n> la }
 {IN2.} Si el uasallo q<ue> se expidiese del señor co<n> q<u><<i>>en solia veuir ouiese
 rreçeuida la soldada & no<n> gela ouiese seruida si el señor le}
-[fol. 142r]
+[fol. 144r]
 {CB1.
 mando por si mesmo & por su carta q<ue> le viniese a seruir & non qui-
 so deue pechar doblado todo lo q<ue> del rreçibio desta guisa por que
@@ -10160,7 +10236,7 @@ dese de vos por mi & ma<n>da vos dezir que de aqui adelante non es
 v<uest>ro vasallo. {RUB. Fasta quanto tiempo non se puede el fijo
 dalgo expedir de aq<ue>l que lo fizo cauallero}}
 {SG. .Siiij.}
-[fol. 142v]
+[fol. 144v]
 {CB1.
 {IN2.} Si alguno se quisiere expedir de aquel q<ue> lo fizo cauallero se-
 yendo su señor non lo pueda fazer fasta vn año conplido d<e>l
@@ -10193,7 +10269,7 @@ tornar las armas & los cauallos q<ue> del ouo. Puede lo el se-
 ñor rreptar por las lorigas. Mas los cauallos & las otras arm<a>s
 puedalas dema<n>dar por fuero. E si a<n>tes q<ue> sea expedido de su señor
 segund mandan las leys q<ue> se deue expedir. Algund daño o alguna}
-[fol. 143r]
+[fol. 145r]
 {CB1.
 guerra le fiziere. maguer q<ue> se torne vasallo de otro pueda lo rrep-
 tar por ello. E mandamos q<ue> el señor de quien algund fijo dalgo se
@@ -10228,7 +10304,7 @@ so puso enla quarta partida en el titulo veynte & çinco.
 {IN2.} Ricos om<ne>s segund costu<n>bre de españa son llamamos aq<ue>llos
 q<ue> enlas otras t<ie>rras son llamados condes & varones. E a es-
 tos atales pueden echar los rreys dela t<ie>rra. Por vna destas tres}
-[fol. 143v]
+[fol. 145v]
 {CB1.
 rrazones. La primera es quando quiere tomar vengança por m<a>l-
 querençia q<ue> aya entre ellos. La .ij. por malfetrias q<ue> ayan fecho en
@@ -10265,7 +10341,7 @@ que le siguen. E otrosi los vasallos maguer ayude<n> a guerrear a su
 señor la parte que a ellos copiere non la deuen despender nin mal-
 meter mas deuenla dar al rrey. E non tan solamente pueden salir
 con el rrico om<n>e por tal echamiento como este sus vasallos & sus}
-[fol. 144r]
+[fol. 146r]
 {CB1.
 naturales. Mas avn los sus criados & los otros om<ne>s de su co<n>pa-
 ña por rrazon del bien fecho que rreçibieron del. Mas estos atale<<s>>
@@ -10300,7 +10376,7 @@ co om<n>e dela t<ie>rra. Non son tenudos sus vasallos de seguir-
 lo. Fueras e<n>de si el Rico om<n>e se quisiere yr a desterrar alguna par-
 te & algunos de sus vasallos quisiere<n> yr con el por Razon dela ver-
 guença & del pesar q<ue> ouiesen del fecho. E avn q<ue> asi q<u><<i>>siesen yr co<n> el}
-[fol. 144v]
+[fol. 146v]
 {CB1.
 por Razon de acompañarle. Deuen lo fazer con intençio<n> de se tor-
 nar a la t<ie>rra quando mas ayna podiese<n>. E si por ventura fincasen
@@ -10335,7 +10411,7 @@ ellos E acresçe<n>tar sus bienes por q<ue> los suyos se acresçie<n>te<n> por e
 & reçebir buena muerte por los señores si men<e>ster fuere por la bue-
 na & honrrada vida q<ue> ouieron con ellos. E a la t<ie>rra han gra<n>d deu-
 do de amarla & acresçentarla & morir por ella si menester fuere. E}
-[fol. 145r]
+[fol. 147r]
 {CB1.
 esta naturaleza q<ue> han los om<ne>s con sus señores. Deue ser siempre
 guardada con lealtad guardando entre si todas las cosas q<ue> por d<e>-
@@ -10370,7 +10446,7 @@ de seruir con çierta gente cada vno segund q<ue> primeramente le fue
 empuesto Pero segund los titulos antiguos & los q<ue> oy se faze<n> no<n>
 pasan en heredero & avn en vida se puede<n> rreuocar a sola volu<n>tad
 del arçob<is>po q<ue> a la sazon es. Por ende. Mas pareçe el tal contracto}
-[fol. 145v]
+[fol. 147v]
 {CB1.
 ser aquel q<ue> los legistas llaman precario q<ue> feudo. Pero aun que al
 presente q<ue> en este rreyno non se vse puede se vsar adelante. E pue<<s>>
@@ -10405,7 +10481,7 @@ como se muestra adelante. E la otra manera es a que dizen feudo
 de camara. E este se faze quando el rrey pone marauedis a algund
 su vasallo cada año de su camara. E este feudo atal puede el Rey
 toller cada que quisiere.}
-[fol. 146r]
+[fol. 148r]
 {CB1.
 {RUB. Que departimiento hay entre t<ie>rra & feudo & honor}
 {IN2.} Tierra llaman en españa a los m<a><rauedi>s q<ue> el rrey pone a los rrico<<s>>
@@ -10440,7 +10516,7 @@ cobrira sus poridades & q<ue> le ayudara co<n>tra todos los om<ne>s del mu<n>-
 do a su poder & q<ue> le allegara su pro quanto podiere & q<ue> le desuiara
 su daño & q<ue> guardara & complira todas las posturas q<ue> puso con el
 por rrazon de aquel feudo. E despues q<ue> el vasallo ouiere jurado &}
-[fol. 146v]
+[fol. 148v]
 {CB1.
 prometido todas estas cosas. Deue el señor enuestirle con vna sor-
 tija o con lua o con otra cosa de aq<ue>llo q<ue> le da en feudo o meterlo e<n>
@@ -10475,7 +10551,7 @@ el vasallo d<e>spues de su muerte dexase fijo o nieto q<ue> fuese mudo o çie-
 go o enfermo o lisiado de manera q<ue> non podiese seruir el feudo. no<n>
 lo mereçeria auer nin lo deue heredar en ninguna manera. E eso
 mesmo dezimos si qual quier dellos fuese monje o otro religioso}
-[fol. 147r]
+[fol. 149r]
 {CB1.
 o tal cl<er>igo q<ue> lo non podiese seruir por rrazon delas ordenes q<ue> tie-
 ne. E lo q<ue> deximos q<ue> el fijo o nieto del vasallo puede heredar el fe-
@@ -10511,7 +10587,7 @@ daño muy grande en alguna manera. si se non trauajare por gelo
 desuiar quanto podiere. O si non lo aperçibe dello pierde el feudo
 Por ende si lo calla engañosamente. Otrosi dezimos q<ue> faziendo}
 {SG. .T.}
-[fol. 147v]
+[fol. 149v]
 {CB1.
 el vasallo pleyto o jura con otros algunos con intençion de bus-
 car mal o fazer algund daño a su señor. O si le saltease en algu<n>d lo-
@@ -10547,7 +10623,7 @@ guna por el. E el fijo del vasallo perderlo despues dela muerte
 de su padre.}
 {IN2.} Uendiendo O enaienando o enpeñando el vasallo el feudo q<ue>
 touiese de su señor todo o parte del sin otorgamiento de su}
-[fol. 148r]
+[fol. 150r]
 {CB1.
 señor puedelo el señor cobrar non dando cosa alguna por el nin
 le empeçer en ningund ti<en>po q<ue> fuese pasado en q<ue> ouiese estado otro
@@ -10584,7 +10660,7 @@ a sus señores si faze<n> yerro co<n>tra ellos q<ue> pena mereçe<n>. Mostramos-
 lo asaz complidame<n>te enla segunda partida deste libro do fabla d<e>
 las huestes & delas guerras.}
 {SG. .T. ij.}
-[fol. 148v]
+[fol. 150v]
 {CB1.
 {RUB. Jte<m> pues d<e> los feudos auemos fablado. Bie<n> es q<ue> sepamos como
 se d<e>ue fazer la carta d<e>l feudo Lo qual nos muestra el rrey don alo<n>-
@@ -10620,7 +10696,7 @@ dar el señor & delas auer siempre por firmes & nunca fazer nin ve-
 nir contra ellas en alguna manera so pena de çient marcos de pla-
 ta. La qual pena quier sea pagada quier non sienpre el otorgami-
 ento de aquel lugar sobredicho q<ue> fue dado e<n> feudo sea firme esta-ble}
-[fol. 149r]
+[fol. 151r]
 {CB1.
 & valedero. E otrosi le prometio de rrefazer todos los daños
 & expensas & menoscabos q<ue> fiziese en juyzio por esta rrazon. E so-
@@ -10657,7 +10733,7 @@ que se acordaren a ponerlas el señor & el vasallo.
 {RUB. Titulo quarto delos vasallos q<ue> llamamos solariegos}
 {RUB. Jntroduçion}}
 {SG. .Tiij.}
-[fol. 149v]
+[fol. 151v]
 {CB1.
 {IN2.} Dos maneras de vasallaje q<ue> de suso deximos acaeçen entre ca-
 ualleros & fijos dalgo de amas las partes Ca non solame<n>-
@@ -10693,7 +10769,7 @@ la qual faze a este proposito & dize asi.
 {IN2.} Deuisas & solariegos & behetrias son tres maneras de seño-
 rio que han los fijos dalgo en algunos lugares. Segund
 fuero de castilla & deuisa tanto q<u><<i>>ere dezir como heredad que vien<e>}
-[fol. 150r]
+[fol. 152r]
 {CB1.
 al om<n>e de parte de su padre o de su madre o de sus aguelos o delos
 q<ue> el deçiende q<ue> es departida entre ellos & saben çiertamente qua<n>-
@@ -10730,7 +10806,7 @@ que el solariego tiene. Otrosi estableçemos que todos aquellos q<ue>
 touieren los solares & fueren solariegos & desampararen los sola-
 res por yr morar al abadengo o al rrealengo o a la behetria. Non}
 {SG. .T.iiij.}
-[fol. 150v]
+[fol. 152v]
 {CB1.
 puede nin deue lleuar alg<u>nos bienes deste solar a algunos destos
 dichos lugares. Saluo a la behetria de aquel señor cuyo es el so-
@@ -10766,7 +10842,7 @@ rreynos. Mas solo aq<ue>nde duero en çiertas proui<n>çias en cada vno
 destos rreynos. E allende de duero ha vna sola. E oy dezir q<ue> en el
 rreyno de portugal entre duero & miño ay otra. & la causa & comi-
 enço q<ue> ouieron non se saue de çierto. Mas bie<n> se puede pensar que}
-[fol. 151r]
+[fol. 153r]
 {CB1.
 fue la muchedumbre delos fijos dalgo puestos en pequeña tierra
 al t<ien>po q<ue> se ouieron de rretraher quando entraro<n> en españa los mo-
@@ -10801,7 +10877,7 @@ fizo çiertas leys q<ue> puso el rrey don alfonso el vndeçimo en el orde-
 namie<n>to de alcala en el titulo veynte y dos.}
 {RUB. Que non tome el merino mas behetrias dela
 que tomo al tiempo que ouo el offiçio.}}
-[fol. 151v]
+[fol. 153v]
 {CB1.
 {IN2.} Ningu<n>d merino de castilla nin los merinos q<ue> por el rrey a<n>do-
 uieren ende. Non tomen mas behetrias de quantas tenian
@@ -10835,7 +10911,7 @@ co om<n>e o de otro qual quier fijo dalgo & tienen cauallo & armas
 para seruiçio de sus señores. E en el verano quando segare<n> en aque-
 llos logares do ellos viuen dela behetria. Pueden tomar sendos
 haçes de mies en esta guisa. Deuense ayuntar los dela behetria E}
-[fol. 152r]
+[fol. 154r]
 {CB1.
 todos los deuiseros & cada vno de aq<ue>llo q<ue> ouiere. Deuen meter se<n>-
 dos haçes de mies en vna hera o en campo & vno delos fijos dal-
@@ -10871,7 +10947,7 @@ lo q<ue> acaesçiere de aq<u><<i>> adela<n>te. Otrosi q<u><<a>>ndo algund fijo d
 sero viniere comer a la behetria donde es natural. Que vaya y co<n>
 las compañas q<ue> suele traer consigo de cada dia & mas non. E to-
 me y el conducho & lo coma segund que es de fuero.}
-[fol. 152v]
+[fol. 154v]
 {CB1.
 {RUB. Que tome el fijo dalgo behetria con fiadores.}
 {IN2.} Ningund fijo dalgo non rreçiba ninguna behetria por fiado-
@@ -10905,7 +10981,7 @@ an aquellos buenos om<ne>s de quantas cosas toman. E que vean lo
 que toman & fallando rropa de escuso enlas casas dela behetria.
 Non deue<n> tomar lo delos lechos nin la rropa delos om<ne>s buenos
 señores delas casas por q<ue> ellos no<n> sea<n> echados nin desapod<e>rado<<s>>}
-[fol. 153r]
+[fol. 155r]
 {CB1.
 de sus casas nin de sus rropas porque si los escuderos & los omes
 d<e> los escuderos & los rrapazes fuesen e<n> su cabo a las casas sin otro<<s>>
@@ -10940,7 +11016,7 @@ ducho enla behetria de quanto es de costu<n>bre & de fuero}
 de de quanto es de fuero & puede prouar q<ue> lo pago o dexo y
 peños. Non aya y pena alguna. Otrosi el fijo dalgo toma mas co<n>-
 ducho de tres vezes asi como son aforados & non quito los peño<<s>>}
-[fol. 153v]
+[fol. 155v]
 {CB1.
 fasta nueue dias el rrey non pierde su coto & deue<n> los q<ue>rellosos ve-
 nir al merino del rrey & el merino del rrey sauer la verdad E fazer
@@ -10975,7 +11051,7 @@ o en preçio del.
 que les fagan seruiçio premiosamente}
 {IN2.} Los q<ue> enla behetria prendaren o en el logar del abadengo o
 del solariego. por q<ue> les faga<n> seruiçio premiosame<n>te como}
-[fol. 154r]
+[fol. 156r]
 {CB1.
 non deuen E la prenda leuaren donde la prendaren & la tomaren
 la tal prenda deuen pecharla doblada a su dueño & el seruiçio que
@@ -11010,7 +11086,7 @@ guardando los derechos d<e>l rrey. E si alguno quisiere tornar a for-
 hetria a aq<ue>llos a quien fue tomada por fuerça E si fuere vasallo d<e>l
 rrey el forçador q<ue> le tome la t<ie>rra q<ue> del touiere. E si su vasallo non
 fuere echelo dela t<ie>rra por dos años & fagale pechar de sus bienes}
-[fol. 154v]
+[fol. 156v]
 {CB1.
 con el doblo todo lo q<ue> tomo por fuerça. E esto q<ue> dicho es se entien-
 da enlos q<ue> lo fizieren de aqui adelante.
@@ -11045,7 +11121,7 @@ a otra villa d<e> behetria q<ue> lo faga el rrey emendar como furto o rro-
 bo & lo escarmie<n>te como el rrey lo touiere por bien. E si algunos
 om<ne>s fueren a tomar conducho & lo tomaren de parte de algund fi-
 jo dalgo o en su no<n>bre diziendo que el los e<n>bia alla E el fijo dalgo}
-[fol. 155r]
+[fol. 157r]
 {CB1.
 lo negare o dixere que no<n> son suyos los om<ne>s nin gelo ma<n>do tom<a>r
 pre<n>dalos el merino & e<n>bie p<re>gu<n>tar al rrey e<n> q<ue> guisa lo escarme<n>tara
@@ -11081,7 +11157,7 @@ por enemistad nin malq<ue>re<n>çia q<ue> los sobredichos & cada vno d<e>llos
 aya<n> vnos co<n>tra otros q<ue> no<n> pre<n>da<n> nin maten nin fiera<n> a los labra-
 dores nin vasallos de sus co<n>trarios nin a los apaniguados delos}
 {SG. .U.}
-[fol. 155v]
+[fol. 157v]
 {CB1.
 dichos sus vasallos E labradores nin los tomen nin q<ue>men ni<n> fa-
 gan otros desaguisados nin a sus casas & heredades. E qual q<u><<i>>er
@@ -11117,7 +11193,7 @@ esta rrazon q<ue> no<n> fuese ninguna cosa por ellas. A esto rrespo<n>demo<<s>>
 q<ue> ma<n>daremos guardar q<ue> se no<n> po<n>ga tal tregua nin segurança e<n> ge-
 renal. Pero si alguno en espeçial quisiere & viniere querellar de su
 señor & dixere que atal rreçelo que no<n> puede estar seguro. E si nos}
-[fol. 156r]
+[fol. 158r]
 {CB1.
 ente<n>dieremos que es tal rrazo<n> porque lo deuamos fazer embiare-
 mos ma<n>dar al señor que lo segure so pena çierta. & las treguas & se-
@@ -11152,7 +11228,7 @@ deue enbiar a pedir seruiçio nin pedido ninguno a los luga-
 res do tiene los derechos & las rre<n>tas del rrey en t<ie>rra nin en lo aba-
 de<n>go por su carta nin por su merino nin por su om<n>e. E si lo fiziere}
 {SG. U ij}
-[fol. 156v]
+[fol. 158v]
 {CB1.
 q<ue> lo peche doblado todo qua<n>to asi tomare asi como el otro condu-
 cho. E mas q<ue> le tome el rrey la t<ie>rra q<ue> del auia. E si fuere vasallo d<e>
@@ -11186,7 +11262,7 @@ la ley siguiente.
 abadengo & q<ue> no<n> las tomen de aqui adelante.}
 {IN2.} El rrey don alfonso q<ue> dios perdone enlas cortes de alcala de
 henares fizo vna ley en q<ue> ordeno q<ue> ningund fijo dalgo nin}
-[fol. 157r]
+[fol. 159r]
 {CB1.
 rrico om<n>e nin otro alguno non podiese auer encomie<n>da en lo aba-
 dengo delos n<uest>ros rreynos. Otrosi nos en el ayuntamiento q<ue> fezi-
@@ -11224,7 +11300,7 @@ nin de sacristanias. E qual quier que lo contrario fiziere. Que la<<s>>
 graçias & merçedes & donaçiones que touieren delos rreys onde
 nos venimos & de nos que les sea<n> e<n>bargados. Enos desde agora}
 {SG. .Uiij.}
-[fol. 157v]
+[fol. 159v]
 {CB1.
 gelos e<n>bargamos q<ue> les no<n> sea<n> librados nin les rrecuda<n> co<n> ellos e<n>
 qua<n>to las dichas encomie<n>das touiere<n>. E demas q<ue>remos & ma<n>da-
@@ -11260,7 +11336,7 @@ lo particular q<u><<i>>se poner vn titulo ge($n)[n]eral. so el q<u><<a>>l situe 
 yes q<ue> en diuersos titulos falle q<ue> pareçia<n> fazer a actos de caualle-
 ros. q<ue> no<n> fuese<n> malefiçios. pero por q<ue> fabla<n> de diuersas cosas & no<n>
 estouiesen so vn titulo desencadenadas siguie<n>do a algunos delos}
-[fol. 158r]
+[fol. 160r]
 {CB1.
 canonistas q<ue> sumas escriuiero<n> ado<n>de senti diuersidad puse rrubri-
 çela q<ue> q<u><<i>>ere dezir titulo peq<ue>ño por q<ue> mas a p<ro>posito esten situadas
@@ -11295,7 +11371,7 @@ costa por rrazo<n> del poderio & dela conoçe<n>çia q<ue> ha<n> con los d<e> la
 seruiçio del rrey o de otro señor ni<n> el q<ue> a<n>douiese e<n> la corte q<ue>
 no<n> podria ser p<er>sonero de otro. Pero tre<<s>> rrazon<e>s so<n> en q<ue> lo podria}
 {SG. U .iiij.}
-[fol. 158v]
+[fol. 160v]
 {CB1.
 ser. La primera por librar a algu<n>d su parie<n>te de seruidu<n>bre q<u><<i>>en d<e>
 mandase a alguno por sieruo en juyzio. La segu<n>da por defe<n>der E
@@ -11331,7 +11407,7 @@ ser p<er>sonero por otro por estas mesmas rrazones q<ue> d<e> suso deximos
 Fueras en el pleyto q<ue> fuese de su rrey o de biuda o de huerfano o d<e>
 otra mezq<u><<i>>na o cuytada p<er>sona q<ue> ouiese rreçebido tuerto & non fa-
 llase quien rrazonase por ella.}
-[fol. 159r]
+[fol. 161r]
 {CB1.
 {RUB. Jtem el rrey don alfonso el sexto en el libro primero del fuero d<e> la<<s>>
 leys en el titulo delos personeros situo la ley siguiente.}
@@ -11367,7 +11443,7 @@ quinta partida quales non pueden ser fiadores.}
 {IN2.} Om<ne>s señalados son q<ue> maguer puede<n> fazer p<ro>missiones por si
 non puede<n> ser fiadores por otr(e)[o]. Asi como los caualleros}
 {SG. .U.v.}
-[fol. 159v]
+[fol. 161v]
 {CB1.
 de mesnada de rrey q<ue> rreçiben soldada & bie<n> fecho del. E a estos a ta-
 les no<n> los deue<n> los om<ne>s rreçebir por fiadores por q<ue> no<n> se e<n>bargue
@@ -11402,7 +11478,7 @@ poder de vender & comprar segund deximos en el titulo de
 las vendidas & delas compras enlas leys q<ue> fablan en esta rrazon
 Pero los caualleros & los offiçiales dela casa del rrey non deuen
 ser arrendadores de campos nin d<e> heredamie<n>tos ajenos por q<ue> por}
-[fol. 160r]
+[fol. 162r]
 {CB1.
 tal rrazon como esta se podria embargar lo que han de fazer en
 seruiçio del rrey.
@@ -11437,7 +11513,7 @@ a los caualleros por priuillegio por les fazer merçed honrra & me-
 joria. mas q<ue> a los otros omes por el grand peligro a que se meten
 por seruir a dios & al rrey & a la t<ie>rra en que viuen.}
 {SG. .U.vj.}
-[fol. 160v]
+[fol. 162v]
 {CB1.
 {RUB. Del titulo sexto dela quinta partida. Como se faze la sostituçi-
 on que llaman en latin {LAT. compendiosa} & que fuerça ha quando la fa-
@@ -11473,7 +11549,7 @@ dizen los juristas. Donde semejante es la rrazo<n> semejante deue ser
 el derecho. Por ende como de suso enlas otras leys fezimos asi e<n>
 este titulo general oyamos las leys delos malefiçios so las rrubri-
 çelas siguientes.}
-[fol. 161r]
+[fol. 163r]
 {CB1.
 {RUB. Rubriçela primera delas acusaçiones del titulo primero dela sete-
 na partida. Que el caudillo d<e> la mesnada que pasa a los enemigos
@@ -11508,7 +11584,7 @@ acusaçion es fecha contra algund cauallero q<ue> fuese puesto por ma<n>-
 dado del rrey por guarda en frontera o en castillo o en algund ca-
 mino o en otro lugar & se tirase de<n>de sin su ma<n>dado desa<n>para<n>dolo}
 {SG. .U. vij}
-[fol. 161v]
+[fol. 163v]
 {CB1.
 {RUB. Rubriçela segunda dela infamia que llaman menos valer del titu-
 lo quinto dela setena partida.}
@@ -11542,7 +11618,7 @@ señor en lid o en el campo o en hueste o se fuese a los enemi-
 gos si algund om<n>e lo quisiese prender enla carrera para leuarlo a
 su señor o a la corte del rrey. Si el cauallo se a<n>parase & no<n> se d<e>xase
 pre<n>der & lo tom<a>se. no<n> cae por e<n>de e<n> pena el q<ue> por tal rrazo<n> lo m<a>tase}
-[fol. 162r]
+[fol. 164r]
 {CB1.
 {RUB. Del titulo noueno dela septima partida. Que no<n> puede dema<n>-
 dar la desonrra el cauallero quando por yerro que faze lo castiga
@@ -11577,7 +11653,7 @@ dos los castillos & castillares viejos que son poblados sin manda-
 do del rrey.
 {IN2.} Otrosi ordenamos q<ue> los castillares viejos E las peñas bra-
 uas & cueuas & otros que so<n> fechos & poblados sin nuestro}
-[fol. 162v]
+[fol. 164v]
 {CB1.
 mandado que sean derribados porque destos lugares ha venido
 & viene mucho mal & daño enla nuestra tierra segu<n>d q<ue> esta ordena-
@@ -11612,7 +11688,7 @@ de seruiçio & daño delos n<uest>ros rreyno<<s>>. Nos por e<n>de desea<n>do paz
 co<n>cordia & bue<n> sosiego entre los n<uest>ros subditos & naturales & p<ro>ue-
 ye<n>do a lo q<ue> por venir es & eme<n>da<n>do lo pasado. Estableçemos & ma<n>-
 damos & defe<n>demos que de aqui adela<n>te no<n> sea<n> osados asi infa<n>tes}
-[fol. 163r]
+[fol. 165r]
 {CB1.
 maestres priores marq<ue>ses duq<ue>s co<n>des rricos om<ne>s come<n>dadores.
 caualleros escuderos & ofiçiales rregidores delas çibdades & vi-
@@ -11649,7 +11725,7 @@ a los q<ue> fiziero<n> los dichos jurame<n>tos. Otrosi rrogamos & manda-
 mos a todos los p<er>lados de n<uest>ros rreynos asi arçob<is>pos como obis-
 pos p<er>lados & cl<er>igos & otras p<er>sonas eclesiasticas q<u><<a>>les q<u><<i>>er q<ue> no<n> fa-
 ga<n> de aq<u><<i>> adelante los tales ayuntamie<n>tos & ligas. Nin vsen delos}
-[fol. 163v]
+[fol. 165v]
 {CB1.
 fechos fasta aq<ue>. Ca si las fizieren o vsaren delos fechos fasta aqui
 aura<n> la nuestra yra E non nos podriamos escusar deponer en ello
@@ -11685,7 +11761,7 @@ fijos dalgo de q<ue>l quier estado o co<n>diçio<n> q<ue> sean. q<ue> de <u><<i>
 fagan tales ligas nin tales jurame<n>tos ni omenajes E qual quier
 q<ue> el co<n>trario fiziere q<ue> pierda la t<ie>rra & merçed q<ue> touiere d<e> mi & si fu-
 ere de çibdad o de villa q<ue> pierda los bienes. E el cuerpo este a la}
-[fol. 164r]
+[fol. 166r]
 {CB1.
 mi merçed Pero por esto no<n> entie<n>do defe<n>der las buenas amistad<e><<s>>
 por q<ue> todos sean amigos & viuan en paz & buena amistad. {RUB. Ru-
@@ -11720,7 +11796,7 @@ enpeñar las armas & no<n> ouedesçer a su caudillo esta<n>do enla hueste
 no<n> fazie<n>do su ma<n>dado o fazie<n>do co<n>tra lo q<ue> ma<n>dase. ca e<n> tales caso<<s>>
 como estos o en otros semeja<n>tes dello<<s>>. no<n> lo puede otro ninguno
 rrecaudar o judgar ni<n> dar pena por lo<<s>> yerro<<s>> q<ue> fiziese<n> si no<n> el rrey}
-[fol. 164v]
+[fol. 166v]
 {CB1.
 o el caudillo dela hueste q<ue> auia d<e> guiar al q<ue> asi errase & a los otro<<s>>
 caualleros. mas si fiziese<n> otros yerros de aq<ue>llos q<ue> so<n> vedado<<s>> a to-
@@ -11755,7 +11831,7 @@ ta m<a>ria. por la primera vez pierda lo q<ue> tiene del señor por
 vn año. E por la segu<n>da pierda lo por dos año<<s>> E la terçera pier-
 dalo por toda via E si no<n> touiere(e) t<ie>rra & touiere cauallo & arma<<s>>
 pierdalo por la primera vez. E si non touiere cauallo ni<n> armas E}
-[fol. 165r]
+[fol. 167r]
 {CB1.
 touiere vna bestia pierdala. E sino<n> touiere bestia & touiere paño<<s>>
 nueuos tuella gelos el señor & partalo de si. E si el señor no<n> lo fizi-
@@ -11790,7 +11866,7 @@ para. E por ende dezimos q<ue> si alguno los acojere & los a<n>parare e<n>
 su t<ie>rra. Despues q<ue> fuere amonestado por sentençia de excomuñon
 q<ue> diese co<n>tra el algu<n>d perlado de sancta ygl<es>ya. si fuere rrebelde E
 no<n> obedeçiere a la sente<n>çia del perlado & estouiere en esta rrebeldia}
-[fol. 165v]
+[fol. 167v]
 {CB1.
 por vn año. q<u><<a>>l quier q<ue> esto faga del año en adela<n>te. ma<n>damos que
 sea enfamado por ello de manera q<ue> nu<n>ca jamas pueda auer ofiçio
@@ -11825,7 +11901,7 @@ armas nin los cauallos por las deudas que deuen los caualleros
 & fijos dalgo.}
 {IN2.} Por q<ue> se vsaua fasta aq<u><<i>> q<ue> por las deudas q<ue> deuia<n> los caualle-
 ros & los fijos dalgo dela n<uest>ra t<ie>rra o por fiaduria<<s>> q<ue> fazian}
-[fol. 166r]
+[fol. 168r]
 {CB1.
 q<ue> los offiçiales & aq<ue>llos q<ue> auia<n> poder de lo fazer. q<ue> los pre<n>dauan
 los cauallos & las armas & q<ue> gelas ve<n>dian asi como otros bienes
@@ -11859,7 +11935,7 @@ an menester las armas & no<n> las podria<n> auer & por esta rrazo<n> acae-
 el dicho rrey don alfonso el vndeçimo.}
 {RUB. Que non sean prendados los palaçios delos caualleros & fijos
 dalgo nin los cauallos nin mula nin armas por deudas q<ue> deuan}}
-[fol. 166v]
+[fol. 168v]
 {CB1.
 {IN2.} Han priuillejos & franq<ue>zas los n<uest>ros fijos dalgo. Las q<u><<a>>les
 nos co<n>firmamos q<ue> por deudas q<ue> deua<n> non sean pre<n>dados
@@ -11894,7 +11970,7 @@ mos q<ue> lo tenemos por bien. saluo si fuere cogedor o arre<n>dador de
 los n<uest>ros pechos. Por que el se pone a lo que no<n> es su menester E
 el se q<ue>bra<n>ta su libertad mesma. {RUB. Rubriçela. &. del priuillejo delos
 tormentos del ordenamiento de alcala de petiçiones.}}
-[fol. 167r]
+[fol. 169r]
 {CB1.
 {RUB. Que el fijo dalgo non sea atormentado.}
 {IN2.} A lo q<ue> nos pidiero<n> por merçed q<ue> e<n> algu<n>d lugar d<e> los n<uest>ros se-
@@ -11928,7 +12004,7 @@ nin en otra cosa alguna.
 do aparta<n>do de sus originales aq<ue>llas q<ue> a la caualleria. O a
 actos de cauall<er>os & fijos dalgo paresçia<n> fazer inxiriendolas so sus
 proprios titulos segu<n>d q<ue> oystes. E aun do<n>de alguna tenia m<a>teria}
-[fol. 167v]
+[fol. 169v]
 {CB1.
 militar mezclada co<n> otras materias. aparte el verso q<ue> a la m<a>teria
 fazia d<e>xa<n>do las materias estrañas. saluo qua<n>do yua<n> las palauras
@@ -11965,7 +12041,7 @@ añadir o mudar o menguar o eme<n>dar cosa alguna de lo q<ue> en ellas
 es escripto. Solo al rrey pertenesçe. E otra persona alguna sin ex-
 preso su mandado non deue vna sola palaura cambiar. E yo non
 fize leys. Mas copile aquellas fechas que a este v<uest>ro proposito me}
-[fol. 168r]
+[fol. 170r]
 {CB1.
 pareçieron fazer. E si en el copilar o ordenar las vnas empos de
 otras o enlos prologos o introduçiones o en dexar algunas que
