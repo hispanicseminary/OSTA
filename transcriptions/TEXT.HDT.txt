@@ -6,9 +6,9 @@
 {RMK: David Arbesú Fernández, Francisco Gago Jover.}
 [fol. 91v]
 {CB2.
-{RMK: 29 lines of text corrresponding to the Bocados de oro.}}
+{RMK: 29 lines of text corresponding to the Bocados de oro.}}
 {CB2.
-{RMK: 18 lines of text corrresponding to the Bocados de oro.} {RMK: HSMS-0462-0002: Historia de la doncella Teodor.} {IN2.} [A]uja en babilonia vn mer-
+{RMK: 18 lines of text corresponding to the Bocados de oro.} {RMK: HSMS-0462-0002: Historia de la doncella Teodor.} {IN2.} [A]uja en babilonia vn mer-
 cador muy rrico & bueno
 & muy limpio & oraçion<er>o enlas
 çinco oraçiones E fazedor de bonda-
@@ -561,6 +561,6 @@ E casose con<e>l & fuero<n> muy
 rricos dende adelante p<ar>a sie<n>-
 pre jamas.
 {BLNK: 9 lines left blank.}
-{RMK: 15 lines of text corrresponding to the xxx.}}
+{RMK: 15 lines of text corresponding to the xxx.}}
 {CB2.
-{RMK: 29 lines of text corrresponding to the xxx.}}
+{RMK: 29 lines of text corresponding to the xxx.}}
